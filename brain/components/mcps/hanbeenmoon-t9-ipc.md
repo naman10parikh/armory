@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T07:59:25Z"
 ---
 ## What it is
 MCP server `T9 IPC`, catalogued on PulseMCP. Inter-session communication between multiple Claude Code sessions via file-based messaging.

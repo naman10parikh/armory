@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T23:42:26Z"
 ---
 ## What it is
 Enables MCP clients to retrieve focused context from a browser-scoped workspace, supporting file uploads, web imports, and prioritized retrieval via SQLite FTS5.

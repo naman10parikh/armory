@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T05:00:10Z"
 ---
 ## What it is
 Manages Proxmox VE clusters through the official PVE API with 22 tools for cluster status, VMs/containers, storage, snapshots, and provisioning. Supports stdio or HTTP/StreamableHTTP transports with optional OAuth for Gemini and multi-server configurations.

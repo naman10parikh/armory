@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-23T10:18:29Z"
 ---
 ## What it is
 A read-only MCP server providing curated Qdrant documentation for LLMs, enabling retrieval of the latest and most accurate documentation.

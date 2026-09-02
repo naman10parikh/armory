@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-20T06:11:09Z"
 ---
 ## What it is
 Enables AI assistants to interact with ReportPortal, covering launches, test items, logs, dashboards, widgets, filters, projects, users, and integrations.

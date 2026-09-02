@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T09:21:26Z"
 ---
 ## What it is
 An MCP proxy server that enriches Longbridge's financial API with UI-enhanced tools. It transforms JSON responses into interactive dashboards such as stock cards, candlestick charts, and portfolio views for any MCP host.

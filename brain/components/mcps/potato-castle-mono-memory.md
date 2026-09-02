@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-05T08:17:33Z"
 ---
 ## What it is
 MCP server `Mono Memory`, catalogued on PulseMCP. Lightweight self-hosted team memory server with SQLite storage for saving, searching, and retrieving contextual information across AI coding sessions.

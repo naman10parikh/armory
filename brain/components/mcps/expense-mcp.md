@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T12:02:55Z"
 ---
 ## What it is
 Personal expense tracker MCP server that enables tracking expenses, income, budgets, and savings goals through natural language.

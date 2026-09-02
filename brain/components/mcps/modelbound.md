@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T23:10:32Z"
 ---
 ## What it is
 MCP server `ModelBound`, catalogued on PulseMCP. Manages AI agent skills for Claude Code, Cursor, Kiro, and Windsurf with optional cloud sync.

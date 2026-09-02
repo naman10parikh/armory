@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-29T09:00:23Z"
 ---
 ## What it is
 Enables querying MITRE's Common Weakness Enumeration database for vulnerability information, supporting CWE lookup, search, taxonomy navigation, and relationship mapping through MCP.

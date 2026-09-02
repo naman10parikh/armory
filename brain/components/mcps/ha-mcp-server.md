@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T15:21:39Z"
 ---
 ## What it is
 An MCP server that exposes Home Assistant's REST and WebSocket APIs as 182 tools, enabling clients like Claude Code to control lights, climate, media, automations, and more. It also provides a status dashboard and supports running as a Home Assistant app or container.

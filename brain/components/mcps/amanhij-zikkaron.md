@@ -8,10 +8,12 @@ source_url: https://github.com/amanhij/zikkaron
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-01T17:06:01Z"
 ---
 ## What it is
 MCP server `Zikkaron`, catalogued on PulseMCP. Biologically-inspired persistent memory engine with 26 cognitive subsystems including Hopfield networks, predictive coding, and hippocampal replay.

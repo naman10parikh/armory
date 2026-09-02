@@ -8,11 +8,13 @@ source_url: https://github.com/Yu-tao-Li/computer-use-win
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T15:54:18Z"
 ---
 ## What it is
 MCP stdio server that lets DSH agents see and operate Windows desktop apps via UI Automation, screenshots, mouse/keyboard, OCR, and window management.

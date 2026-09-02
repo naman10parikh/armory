@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:04:44Z"
 ---
 ## What it is
 Enables AI agents to safely decode and inspect JWT tokens and Base64 payloads in real-time.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T11:45:37Z"
 ---
 ## What it is
 MCP server exposing REINVENT4 generative molecular-design operations as validated, LLM-callable tools for drug discovery, including sampling, transfer learning, reinforcement learning, and molecular analysis.

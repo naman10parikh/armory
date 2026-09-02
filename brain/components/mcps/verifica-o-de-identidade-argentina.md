@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:37:29Z"
 ---
 ## What it is
 Verifies a person's identity in Argentina by cross-checking provided data (DNI, name, birth, and address). Read-only MCP server with one tool, works with any MCP client over HTTP.

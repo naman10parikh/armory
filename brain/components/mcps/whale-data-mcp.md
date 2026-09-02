@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T07:53:25Z"
 ---
 ## What it is
 Exposes Polymarket whale trades and smart-money signals as paid tools, with USDC micropayments handled under the hood via x402.

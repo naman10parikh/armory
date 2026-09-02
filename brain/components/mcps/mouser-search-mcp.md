@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T02:46:22Z"
 ---
 ## What it is
 Provides tools to search the Mouser Electronics parts catalog via keyword, part number, and manufacturer queries using the Mouser Search API.

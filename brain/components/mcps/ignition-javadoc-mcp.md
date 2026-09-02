@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T10:17:47Z"
 ---
 ## What it is
 MCP server for fast searching and documentation retrieval of the Ignition Inductive Automation Java API, with multi-version support.

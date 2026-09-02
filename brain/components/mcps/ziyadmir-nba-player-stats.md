@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-23T01:16:47Z"
 ---
 ## What it is
 MCP server `NBA Player Stats`, catalogued on PulseMCP. Provides detailed NBA player statistics from basketball-reference.com through 23 specialized tools covering career stats, season comparisons, advanced metrics, game logs, awards voting, trend analysis, and all-time rankings for sports analysis and fantasy basketball applications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T17:12:34Z"
 ---
 ## What it is
 Exposes tools to list, run, and inspect GitHub Actions workflows locally via act, enabling debugging and fixing failures through an agent loop.

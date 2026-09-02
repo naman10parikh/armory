@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T05:53:59Z"
 ---
 ## What it is
 A secure web scraping MCP server for AI agents that fetches pages with token budgeting, robots.txt compliance, and injection warnings, providing parsed content like markdown, metadata, and structured data.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-08T00:43:04Z"
 ---
 ## What it is
 MCP server `Atlassian`, catalogued on PulseMCP. Integrates with Atlassian's collaboration ecosystem, enabling developers to search, create, update, and manage Jira, Confluence, and Bitbucket issues through a flexible TypeScript-based implementation.

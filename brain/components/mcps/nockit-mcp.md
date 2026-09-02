@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T15:42:16Z"
 ---
 ## What it is
 A lightweight MCP server that enables AI assistants to execute local development tools and retrieve system status with low latency over stdio or HTTP.

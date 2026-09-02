@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-18T21:22:43Z"
 ---
 ## What it is
 MCP server `Put.io`, catalogued on PulseMCP. Enables AI to manage put.io file transfers by listing, adding, canceling, and retrieving browser links for downloads through a simple authentication-based interface.

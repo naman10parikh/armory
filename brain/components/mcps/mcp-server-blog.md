@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-01T20:31:08Z"
 ---
 ## What it is
 A demo MCP server illustrating production patterns including OAuth 2.0 token validation, workspace context management, Firestore integration, and Zod schema validation using TypeScript.

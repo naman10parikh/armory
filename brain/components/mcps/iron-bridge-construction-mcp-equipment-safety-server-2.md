@@ -8,11 +8,13 @@ source_url: https://github.com/mo7-s3d690/ironbridge-mcp-project
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-02T18:09:32Z"
 ---
 ## What it is
 Provides LLM scoped, safe access to heavy equipment data, gating high-risk actions behind capability checks, supervisor sign-off, and human elicitation.

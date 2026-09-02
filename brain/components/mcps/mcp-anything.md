@@ -8,11 +8,13 @@ source_url: https://github.com/Dror-Bengal/mcp-anything
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T19:57:08Z"
 ---
 ## What it is
 Enables models to discover, inspect, and call tools from thousands of MCP servers on the fly through a single gateway, without pre-configuring each server.

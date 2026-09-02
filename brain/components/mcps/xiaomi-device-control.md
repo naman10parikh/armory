@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-26T03:12:09Z"
 ---
 ## What it is
 MCP server for controlling Xiaomi/Mi Home smart devices via natural language, supporting device listing, property read/write, action calls, and camera snapshots.

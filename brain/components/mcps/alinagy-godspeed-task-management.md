@@ -8,10 +8,12 @@ source_url: https://github.com/alinagy/godspeed-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-28T10:40:26Z"
 ---
 ## What it is
 MCP server `Godspeed Task Management`, catalogued on PulseMCP. Integrates with Godspeed Task Management API to enable listing, creating, updating, and deleting tasks directly from development environments without context switching.

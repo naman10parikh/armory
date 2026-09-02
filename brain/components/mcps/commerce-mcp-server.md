@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T19:04:38Z"
 ---
 ## What it is
 Enables e-commerce operations such as product search, price updates, and order notes via MCP tools, with secure credential handling.

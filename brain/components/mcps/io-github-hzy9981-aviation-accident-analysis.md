@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T01:55:27Z"
 ---
 ## What it is
 MCP server that parses aviation accident reports (PDF/DOCX/TXT) and injects their content into extraction prompt templates for knowledge graph construction.

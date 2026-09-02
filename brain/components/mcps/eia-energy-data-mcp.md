@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T15:46:06Z"
 ---
 ## What it is
 An MCP server that wraps the U.S. Energy Information Administration's Open Data API, enabling assistants to fetch live energy data via natural language. It provides tools for querying series, browsing data routes, filtering facets, and running custom queries.

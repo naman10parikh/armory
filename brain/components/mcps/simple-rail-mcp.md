@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-10T20:09:41Z"
 ---
 ## What it is
 Enables controlling linear rails via natural language commands through Claude AI in Cursor, supporting HTTP, serial, and G-code controllers with configurable positions.

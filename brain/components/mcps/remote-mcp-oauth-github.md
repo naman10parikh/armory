@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-17T03:48:29Z"
 ---
 ## What it is
 Enables Claude to authenticate with GitHub OAuth and access tools for user information, calculations, and GitHub repositories.

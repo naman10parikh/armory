@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-29T00:32:22Z"
 ---
 ## What it is
 MCP server `Nuberea`, catalogued on PulseMCP. AI-powered biblical research tools: lexicons, morphology, manuscripts, and original language analysis.

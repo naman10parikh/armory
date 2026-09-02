@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T18:49:04Z"
 ---
 ## What it is
 MCP server for Fansly account analytics using your own session, storing metrics in local SQLite. Provides tools for profile metrics, post performance, top fans, churn, and more.

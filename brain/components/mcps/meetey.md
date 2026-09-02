@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T21:33:34Z"
 ---
 ## What it is
 Local-first meeting capture and transcription for Claude Code. Records audio from meeting apps, transcribes locally with whisper.cpp, and produces structured notes via Claude.

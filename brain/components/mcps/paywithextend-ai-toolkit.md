@@ -8,10 +8,12 @@ source_url: https://github.com/paywithextend/extend-ai-toolkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-14T23:32:39Z"
 ---
 ## What it is
 MCP server `Extend AI Toolkit`, catalogued on PulseMCP. Enabling agentic spend and expense management workflows using Extend's AIs

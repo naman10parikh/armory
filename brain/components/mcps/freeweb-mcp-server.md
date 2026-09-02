@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T18:11:30Z"
 ---
 ## What it is
 A lightweight MCP server providing web search via DuckDuckGo and page content extraction in multiple formats.

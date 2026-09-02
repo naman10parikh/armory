@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T21:48:36Z"
 ---
 ## What it is
 MCP server for searching NIST's National Vulnerability Database, enabling retrieval of recent CVEs, keyword/CPE/CWE searches, and detailed CVE information.

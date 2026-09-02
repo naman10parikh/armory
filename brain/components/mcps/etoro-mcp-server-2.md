@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T17:09:24Z"
 ---
 ## What it is
 A security-hardened MCP server that wraps the eToro public API, enabling AI assistants to trade, access market data, manage portfolios, and interact with social feeds via 34 tools.

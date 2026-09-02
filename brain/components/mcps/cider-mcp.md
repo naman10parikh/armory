@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T02:15:27Z"
 ---
 ## What it is
 An MCP server that lets agents control Cider 4, the Apple Music client, enabling playback, queue, library management, catalog search, and playlist creation.

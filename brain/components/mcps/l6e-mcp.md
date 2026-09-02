@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T14:12:58Z"
 ---
 ## What it is
 Enables AI coding agents to set budgets per task, check costs before expensive operations, and halt when budget is exhausted, with support for calibration and cloud sync.

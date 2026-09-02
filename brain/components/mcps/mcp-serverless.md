@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-03-10T14:44:08Z"
 ---
 ## What it is
 Provides a serverless implementation of the Model Context Protocol for registering and managing tools, enabling in-memory client-server connections and credential transmission via request context.

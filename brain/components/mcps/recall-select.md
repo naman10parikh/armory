@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T01:41:29Z"
 ---
 ## What it is
 Provides long-term memory for AI agents via MCP tools to store, recall, and delete memories, with per-user scoping and usage limits.

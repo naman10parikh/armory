@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T16:37:03Z"
 ---
 ## What it is
 Enables MCP-compatible agents to perform web searches via the agent-web-search engine, returning ranked results with sources.

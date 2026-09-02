@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T03:09:02Z"
 ---
 ## What it is
 Extract palettes from images, generate harmonies, gradients, random palettes; Check WCAG and APCA contrast; Suggest nearest passing OkLCH lightness; Simulate color-blindness; Convert and sort colors across formats (hex / RGB / HSL / OkLCH / …)

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T02:33:28Z"
 ---
 ## What it is
 Enables AI agents to inspect and edit the live browser-resident canvas of the Boarderless app via a structured spatial ledger.

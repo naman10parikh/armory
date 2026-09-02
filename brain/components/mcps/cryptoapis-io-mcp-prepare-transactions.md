@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:50:06Z"
 ---
 ## What it is
 MCP server for Crypto APIs Prepare Transactions product that builds unsigned EVM transactions for native coin, fungible token (ERC-20), and NFT (ERC-721) transfers.

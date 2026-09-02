@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:46:52Z"
 ---
 ## What it is
 Checks if a Brazilian person is a Politically Exposed Person (PEP) from their CPF for compliance and AML due diligence. It provides a single read-only tool that works with any MCP client over HTTP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T10:57:35Z"
 ---
 ## What it is
 Enables integration with QR Agent Studio via MCP Streamable HTTP and Agent Skills, forwarding authenticated requests to manage QR records.

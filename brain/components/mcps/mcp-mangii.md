@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:57:10Z"
 ---
 ## What it is
 Create manga and anime art with an AI manga generator. Type what you imagine — Mangii turns text into panels in a chosen style. No drawing skills needed.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T09:31:04Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes SQL Server metadata and read-only query execution as a structured HTTP API, with safety validation and allowlist policy enforcement.

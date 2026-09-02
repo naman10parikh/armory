@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T18:17:42Z"
 ---
 ## What it is
 Name intelligence for TON: score any Telegram username (0–100, validated on 111k+ Fragment sales), catch mints, track the market — plus free API for AI agents.

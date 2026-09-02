@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T07:18:20Z"
 ---
 ## What it is
 MCP server `NWS Weather`, catalogued on PulseMCP. Real-time US weather data via the National Weather Service API — forecasts, alerts, and observations.

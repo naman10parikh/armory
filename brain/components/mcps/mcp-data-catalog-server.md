@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T03:41:21Z"
 ---
 ## What it is
 Enables composable search and filtering over an enterprise data catalog, with tools for lineage, sample data, profiling, history, quality rules, and AI-driven classification.

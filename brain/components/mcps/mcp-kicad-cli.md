@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:39:30Z"
 ---
 ## What it is
 Enables KiCad CLI automation via MCP, providing tools for ERC, DRC, BOM export, netlist export, Gerbers, drill files, STEP, IPC-2581, and GLB output.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-30T05:59:24Z"
 ---
 ## What it is
 Enables AI agents to safely and structurally edit Jupyter Notebook (.ipynb) files by providing tools to read, edit, add, and delete cells without corrupting the JSON structure.

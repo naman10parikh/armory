@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T11:58:54Z"
 ---
 ## What it is
 An MCP server that turns any public GitHub repository into a PDF report containing a codebase summary, the most recent commits, and suggested improvements — generated locally by an Ollama model.

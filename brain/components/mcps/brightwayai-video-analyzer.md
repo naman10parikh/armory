@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-10T19:43:47Z"
 ---
 ## What it is
 MCP server `Video Analyzer`, catalogued on PulseMCP. Analyze videos by extracting frames via scene detection, transcribing audio with Whisper, and generating storyboard breakdowns with stylistic fingerprints.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-05T19:36:26Z"
 ---
 ## What it is
 MCP server `Task Manager`, catalogued on PulseMCP. Provides structured task management with dependency tracking, complexity assessment, and automatic subtask decomposition for complex multi-step projects requiring systematic workflow orchestration.

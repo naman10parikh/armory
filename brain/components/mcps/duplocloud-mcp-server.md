@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-23T17:14:58Z"
 ---
 ## What it is
 Exposes DuploCloud infrastructure management as MCP tools by dynamically discovering duploctl commands, enabling AI agents to query state and perform auditable actions.

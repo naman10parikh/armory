@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T12:22:29Z"
 ---
 ## What it is
 Serve your personal work-style manual as an MCP server so AI surfaces load the same single source of truth about your identity and preferences.

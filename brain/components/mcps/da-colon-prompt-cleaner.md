@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-16T02:10:56Z"
 ---
 ## What it is
 MCP server `Prompt Cleaner`, catalogued on PulseMCP. Sanitizes and redacts sensitive information from user prompts using OpenAI-compatible APIs to intelligently clean text while detecting and removing API keys, tokens, emails, and other secrets before processing.

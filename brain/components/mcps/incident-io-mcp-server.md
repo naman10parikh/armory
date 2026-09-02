@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-11T21:06:12Z"
 ---
 ## What it is
 Enables interaction with Incident.io to manage incidents, severities, and health checks via natural language. Provides endpoints for getting and creating incidents.

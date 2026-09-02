@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T00:18:22Z"
 ---
 ## What it is
 Lets a text-only LLM read images and PDFs by delegating to a vision model running on your own GPU.

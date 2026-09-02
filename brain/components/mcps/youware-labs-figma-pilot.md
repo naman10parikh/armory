@@ -8,10 +8,12 @@ source_url: https://github.com/youware-labs/figma-pilot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 101
+stars: 105
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-01-29T14:10:48Z"
 ---
 ## What it is
 MCP server `Figma Pilot`, catalogued on PulseMCP. Bridges Figma designs with natural language commands through a semantic CLI and HTTP polling architecture.

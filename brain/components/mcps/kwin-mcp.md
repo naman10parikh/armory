@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-08-02T17:01:50Z"
 ---
 ## What it is
 Enables AI agents to automate Linux desktop GUI by launching and interacting with Wayland applications in isolated virtual KWin sessions, or connecting to live desktops for collaborative automation.

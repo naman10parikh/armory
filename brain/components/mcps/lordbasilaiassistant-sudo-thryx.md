@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-05T15:16:36Z"
 ---
 ## What it is
 MCP server `Thryx Protocol`, catalogued on PulseMCP. Gasless AI agent launchpad on Coinbase Base with 21 tools wrapping the Thryx API.

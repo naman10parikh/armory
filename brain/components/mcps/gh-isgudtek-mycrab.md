@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-28T00:04:18Z"
 ---
 ## What it is
 MCP server `MyCrab`, catalogued on PulseMCP. Instant public HTTPS URLs via Cloudflare Tunnels for AI agents with optional permanent subdomains.

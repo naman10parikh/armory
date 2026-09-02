@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T15:53:08Z"
 ---
 ## What it is
 Enables AI assistants to access live Wargaming API data for World of Tanks Console, allowing queries about players, clans, vehicles, and tank comparisons.

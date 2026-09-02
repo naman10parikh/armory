@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:56:46Z"
 ---
 ## What it is
 Enables mapping and cross-referencing obligations between DORA and NIS2 regulatory regimes for entities in scope of both.

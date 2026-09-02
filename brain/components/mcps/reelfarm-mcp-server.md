@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:05:24Z"
 ---
 ## What it is
 Enables creating slideshows, managing automations, publishing to TikTok, and searching Pinterest via the ReelFarm API from any MCP-compatible AI client.

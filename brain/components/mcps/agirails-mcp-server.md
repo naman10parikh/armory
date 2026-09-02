@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T15:50:30Z"
 ---
 ## What it is
 Enables AI agents to discover, negotiate, and settle payments on the AGIRAILS network directly from MCP-compatible editors, supporting escrow for complex jobs and instant x402 payments.

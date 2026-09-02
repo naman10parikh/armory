@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-05T05:31:18Z"
 ---
 ## What it is
 MCP server `macOS Calendar`, catalogued on PulseMCP. Integrates with macOS Calendar through AppleScript automation to enable event management, scheduling operations, and calendar data access without requiring third-party APIs or cloud services.

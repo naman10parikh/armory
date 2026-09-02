@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:52:31Z"
 ---
 ## What it is
 Provides MCP servers to interact with Apple's Mail, Notes, Reminders, and Calendar apps on macOS, enabling search, read, and write operations with configurable permissions and a single Full Disk Access grant.

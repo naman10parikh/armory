@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:51:30Z"
 ---
 ## What it is
 Enables time-travel debugging for AI agent sandboxes using Firecracker microVMs, with tools for code execution, file operations, and VM snapshot/restore via MCP.

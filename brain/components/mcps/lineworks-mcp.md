@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T01:42:57Z"
 ---
 ## What it is
 MCP server for LINE WORKS that enables accessing user profiles, calendars, tasks, groups, and notes via OAuth 2.0.

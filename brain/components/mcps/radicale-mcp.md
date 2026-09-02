@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T18:53:13Z"
 ---
 ## What it is
 MCP server for Radicale/CalDAV servers, enabling AI agents to manage calendars and task lists by listing, creating, and deleting events and reminders.

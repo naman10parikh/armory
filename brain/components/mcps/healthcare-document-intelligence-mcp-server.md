@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T17:37:13Z"
 ---
 ## What it is
 Enables document search, grounded question answering, summarization, patient timeline extraction, and PHI redaction for healthcare documents using retrieval-augmented generation.

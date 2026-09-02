@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-01T17:43:36Z"
 ---
 ## What it is
 MCP server `Contentstack BrandKit`, catalogued on PulseMCP. Provides a bridge to Contentstack's BrandKit product for managing knowledge vault content through CRUD operations for adding, updating, deleting, and searching content.

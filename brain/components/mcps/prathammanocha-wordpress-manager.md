@@ -12,6 +12,8 @@ stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-05-14T23:27:51Z"
 ---
 ## What it is
 MCP server `WordPress Manager`, catalogued on PulseMCP. Enables AI to manage WordPress sites by providing tools for creating and updating posts, managing users, and retrieving content through authenticated API interactions

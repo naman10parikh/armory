@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-27T01:19:30Z"
 ---
 ## What it is
 MCP server `Gildara`, catalogued on PulseMCP. AI prompt vault with operating contracts and auto-repair for agent workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:03:52Z"
 ---
 ## What it is
 A bridge for G0DM0D3 that exposes advanced AI capabilities through MCP tools, including multi-model racing, hive-mind synthesis, and secure chat options.

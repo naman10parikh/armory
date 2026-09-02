@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T11:42:39Z"
 ---
 ## What it is
 Citation-first MCP server for official Indonesian financial data from IDX, BPS, and KSEI, providing tools to access company profiles, financial reports, statistical tables, and investor demographics.

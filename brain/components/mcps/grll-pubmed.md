@@ -8,10 +8,12 @@ source_url: https://github.com/grll/pubmedmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 109
+stars: 122
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2025-09-02T10:59:24Z"
 ---
 ## What it is
 MCP server `PubMed`, catalogued on PulseMCP. Integrates PubMed data for searching and fetching biomedical literature, enabling dynamic querying and analysis of scientific information.

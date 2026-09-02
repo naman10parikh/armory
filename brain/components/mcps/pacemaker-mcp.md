@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-13T14:44:58Z"
 ---
 ## What it is
 MCP server that enables safe, SSH-based interaction with a Pacemaker cluster, offering guarded pcs commands for status queries and controlled operations via MCP clients.

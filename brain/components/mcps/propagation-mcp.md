@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T19:32:52Z"
 ---
 ## What it is
 MCP server that exposes NOAA/SWPC HF band-condition and space-weather tools, providing real-time solar indices, band conditions, forecasts, alerts, solar wind, and X-ray flux for ham radio operators.

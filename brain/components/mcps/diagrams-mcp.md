@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:10:18Z"
 ---
 ## What it is
 Enables generating cloud architecture diagrams, flowcharts, sequence diagrams, and more using three rendering engines: mingrammer/diagrams, Mermaid, and PlantUML.

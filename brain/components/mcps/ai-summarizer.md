@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:32:44Z"
 ---
 ## What it is
 AI text and URL summarizer that extracts key points, reduces word count, and estimates reading time, with pay-per-call via x402 micropayments.

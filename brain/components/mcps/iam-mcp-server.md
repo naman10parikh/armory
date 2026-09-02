@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-06T07:37:22Z"
 ---
 ## What it is
 Processes and manages applicant resumes, facilitates job searches, generates job-specific resumes, and creates tailored cover letters.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T18:46:19Z"
 ---
 ## What it is
 MCP server for the AI-agent economy: free Kazakhstan / Central-Asia utilities (Kazpost parcel tracking, IIN/BIN & IBAN validation, GLEIF LEI lookup, KZT/ECB FX rates, weather) callable with no account, plus per-call purchase of KYA-verified API listings governed by Regent Protocol.

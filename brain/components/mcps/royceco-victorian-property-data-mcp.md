@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T23:54:52Z"
 ---
 ## What it is
 Enables live access to free, open Victorian government spatial data for property due diligence, covering site screening, planning controls, parcels, contamination, heritage, and flood checks without API keys.

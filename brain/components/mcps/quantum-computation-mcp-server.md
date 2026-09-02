@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-30T09:02:06Z"
 ---
 ## What it is
 Enables natural language quantum computing by converting English queries to quantum circuits via OpenAI and executing them on IBM Quantum backends or simulators.

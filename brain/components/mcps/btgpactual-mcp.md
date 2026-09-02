@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:15Z"
 ---
 ## What it is
 Conecta sua conta BTGPactual a assistentes de IA via Open Finance Brasil, permitindo consultas de saldos, extratos, faturas de cartão e investimentos em linguagem natural (somente leitura).

@@ -8,10 +8,12 @@ source_url: https://github.com/rishipradeep-think41/gsuite-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-06-02T05:05:29Z"
 ---
 ## What it is
 MCP server `Google Workspace`, catalogued on PulseMCP. Integrates with Google Workspace to enable email management and calendar operations through Gmail and Calendar APIs, requiring OAuth authentication for secure access to user accounts.

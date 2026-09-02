@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T18:01:45Z"
 ---
 ## What it is
 A hierarchical MCP server for managing skill definitions with a browsable tree structure and full-text search. It allows AI agents to efficiently discover and use skills without consuming context tokens.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T22:03:22Z"
 ---
 ## What it is
 A local, offline facial recognition search system that integrates with LM Studio via MCP, allowing users to find photos of people in their library using natural language queries.

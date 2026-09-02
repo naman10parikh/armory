@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T10:12:10Z"
 ---
 ## What it is
 MCP server for managing TP-Link and Mercury Easy Smart switches via their web interface, enabling read-only status checks and VLAN/trunk configuration with dry-run support.

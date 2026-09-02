@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 2
+forks: 0
+pushed_at: "2026-08-03T20:44:07Z"
 ---
 ## What it is
 Real-time business event intelligence for AI agents. Funding rounds, acquisitions, executive hires, AI-scored leads, and market intelligence.

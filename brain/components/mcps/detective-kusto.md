@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T18:36:11Z"
 ---
 ## What it is
 An MCP server that grounds KQL queries on your actual schema and expertise, helping AI assistants generate validated, accurate queries for Kusto databases.

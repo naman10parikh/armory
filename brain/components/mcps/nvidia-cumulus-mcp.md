@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T20:12:32Z"
 ---
 ## What it is
 MCP server that integrates with the Cumulus Linux OS via NVUE API to read network configuration, interfaces, bridges, VRFs, BGP, and other network information.

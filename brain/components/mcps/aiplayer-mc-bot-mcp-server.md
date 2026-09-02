@@ -8,11 +8,13 @@ source_url: https://github.com/MingExzy/aiplayer-mc-bot
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T07:47:37Z"
 ---
 ## What it is
 Enables natural language control of a Minecraft bot, allowing it to execute tasks like mining, exploring, and item management via AI-powered commands.

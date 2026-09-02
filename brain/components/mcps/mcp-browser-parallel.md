@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T06:24:03Z"
 ---
 ## What it is
 Multi-instance parallel browser MCP server that manages multiple isolated browser instances in a single Chrome process with automatic login state cloning, allowing parallel independent operations across instances.

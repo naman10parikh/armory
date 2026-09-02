@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:16Z"
 ---
 ## What it is
 Enables querying official São Paulo city property registration data (Certidão de Dados Cadastrais do Imóvel) via a hosted MCP server, with read-only access and pay-per-use credits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T06:33:34Z"
 ---
 ## What it is
 Wraps a procurement REST API into MCP tools, enabling AI assistants to query purchase orders via natural language.

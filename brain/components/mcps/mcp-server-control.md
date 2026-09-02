@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T21:22:35Z"
 ---
 ## What it is
 A production-grade MCP server that lets AI cloud services control and manage your Linux server securely via HTTP/SSE.

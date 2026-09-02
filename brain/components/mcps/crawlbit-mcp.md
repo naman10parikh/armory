@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T22:25:10Z"
 ---
 ## What it is
 Provides four free tools to assess AI visibility: crawler access, entity recognition, off-page gaps, and shopping agent compatibility, without requiring an API key.

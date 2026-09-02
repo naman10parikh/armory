@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-30T11:04:50Z"
 ---
 ## What it is
 MCP server `Kagi Search`, catalogued on PulseMCP. Integrates Kagi search API to provide web search, news retrieval, and fast GPT-powered question answering for up-to-date information access and content enrichment.

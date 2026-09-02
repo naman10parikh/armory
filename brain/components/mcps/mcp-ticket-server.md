@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T21:42:21Z"
 ---
 ## What it is
 Exposes a ticket classification tool that categorizes support tickets by severity, category, sentiment, and summary via MCP, using the Anthropic API for classification and packaged as a Claude Desktop extension.

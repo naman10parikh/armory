@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T16:57:02Z"
 ---
 ## What it is
 Enables AI assistants to manage a real estate pipeline by adding, listing, getting, and updating leads through KPI DealFlow.

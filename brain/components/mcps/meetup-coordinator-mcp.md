@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T01:53:21Z"
 ---
 ## What it is
 Analyzes KakaoTalk group chat texts to extract availability, rank options, draft polls, final notices, missing people, and split bill messages.

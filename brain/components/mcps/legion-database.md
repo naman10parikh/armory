@@ -8,10 +8,12 @@ source_url: https://github.com/theralabs/legion-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 92
+stars: 94
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2025-05-11T02:46:12Z"
 ---
 ## What it is
 MCP server `Legion Database`, catalogued on PulseMCP. Enables natural language querying and management of multiple database types (PostgreSQL, MySQL, SQL Server, BigQuery) for data analysis, business intelligence, and database exploration.

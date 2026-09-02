@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:22:38Z"
 ---
 ## What it is
 Comprehensive MCP server for the Mautic marketing automation API, providing 203 tools for managing contacts, campaigns, emails, segments, and more.

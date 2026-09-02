@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T09:54:44Z"
 ---
 ## What it is
 Enables users to calculate safe gambling budgets based on financial situation and assess gambling habits with risk levels and recommendations.

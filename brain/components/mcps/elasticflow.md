@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T11:03:16Z"
 ---
 ## What it is
 MCP server `Elasticflow`, catalogued on PulseMCP. Manage tables, documents, files, and live dashboards in Elasticflow workspaces through AI agents with 51 tools and OAuth 2.1.

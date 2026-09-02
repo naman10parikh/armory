@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-13T05:24:23Z"
 ---
 ## What it is
 A modern MCP server that provides interactive graphical user interface, terminal command execution, and AI-powered prompt enhancement for MCP-compatible clients.

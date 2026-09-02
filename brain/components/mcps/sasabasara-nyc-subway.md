@@ -8,10 +8,12 @@ source_url: https://github.com/sasabasara/where_is_my_train_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-13T15:19:31Z"
 ---
 ## What it is
 MCP server `NYC Subway`, catalogued on PulseMCP. Provides real-time NYC subway information through MTA GTFS feeds with automatic data management, intelligent station matching with fuzzy search, live train arrivals with delay predictions, service disruption analysis with alternative routes, and location-based station discovery for transit apps and commuter assistance.

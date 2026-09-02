@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T10:09:20Z"
 ---
 ## What it is
 Provides offline, read-only full-text search over a local Yandex Cloud documentation checkout via MCP, with ranked search, line-numbered excerpts, and index status tools.

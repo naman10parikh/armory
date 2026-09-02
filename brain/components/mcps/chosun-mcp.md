@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T09:31:01Z"
 ---
 ## What it is
 MCP server for querying Chosun University portal, CLC/e-Class, and OJ systems, providing tools to access academic information, timetables, notices, and more.

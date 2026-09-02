@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-05T03:03:56Z"
 ---
 ## What it is
 MCP server `Obsidian via REST`, catalogued on PulseMCP. Connects to Obsidian vaults through the Local REST API with self-healing connections, multiple transport options, and automatic failover.

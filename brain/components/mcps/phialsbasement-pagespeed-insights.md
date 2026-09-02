@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-09-13T23:16:39Z"
 ---
 ## What it is
 MCP server `PageSpeed Insights`, catalogued on PulseMCP. Integrates Google's PageSpeed Insights API to provide detailed web performance metrics and optimization recommendations for websites.

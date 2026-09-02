@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T23:23:34Z"
 ---
 ## What it is
 An AI-powered file management system that integrates with Claude Desktop to provide intelligent file analysis, multimedia processing, and automatic organization.

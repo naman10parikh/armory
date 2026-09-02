@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T13:23:34Z"
 ---
 ## What it is
 MCP server `Locator Intelligence`, catalogued on PulseMCP. Generates, validates, ranks, and heals UI element locators using DOM/XML analysis and visual correlation for Playwright automation.

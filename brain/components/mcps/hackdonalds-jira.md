@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-21T17:54:47Z"
 ---
 ## What it is
 MCP server `JIRA`, catalogued on PulseMCP. Integrates with JIRA through REST API v2 to provide complete issue management including retrieval, JQL searching, creation, updates, status transitions, and commenting for development teams and project managers.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-30T21:00:38Z"
 ---
 ## What it is
 MCP server `Zero Core Verify`, catalogued on PulseMCP. Post-transaction outcome verification for agents using LLM-as-judge scoring.

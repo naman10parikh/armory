@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T06:16:58Z"
 ---
 ## What it is
 An MCP server that connects to TradingView Desktop via Chrome DevTools Protocol, enabling chart control, Pine Script development, and a morning brief workflow with AI-driven analysis.

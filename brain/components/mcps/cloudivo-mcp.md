@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T13:24:42Z"
 ---
 ## What it is
 Model Context Protocol server that acts as an AI gateway for the Cloudivo ecosystem, exposing tools, resources, and prompts while delegating business behavior to downstream services.

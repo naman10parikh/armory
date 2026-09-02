@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T06:50:23Z"
 ---
 ## What it is
 This MCP server provides a local-first Text2SQL assistant for Discord, allowing users to query BIRD Mini-Dev SQL databases through natural language. It exposes tools for dataset search, schema retrieval, and safe read-only SQL execution.

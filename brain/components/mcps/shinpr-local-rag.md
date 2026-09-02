@@ -8,10 +8,12 @@ source_url: https://github.com/shinpr/mcp-local-rag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 279
+stars: 378
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 69
+pushed_at: "2026-08-29T23:41:55Z"
 ---
 ## What it is
 MCP server `Local RAG`, catalogued on PulseMCP. Local RAG for semantic document search without external API calls.

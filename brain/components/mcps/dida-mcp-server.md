@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-09T02:18:02Z"
 ---
 ## What it is
 Enables AI assistants to manage TickTick/Dida365 tasks, projects, and tags through the MCP protocol, with features for GTD-based task organization and OAuth authentication.

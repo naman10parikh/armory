@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T02:09:23Z"
 ---
 ## What it is
 Enables interaction with Discord through natural language, including reading and sending messages, managing servers, and user actions.

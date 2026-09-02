@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T15:41:23Z"
 ---
 ## What it is
 Minimal in-memory Node.js server for the Gatepass gate-control prototype, exposing a REST API and an MCP tool (open_gate) to manage shared gate state.

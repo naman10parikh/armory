@@ -8,10 +8,12 @@ source_url: https://github.com/devvgwardo/brain-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-25T15:14:57Z"
 ---
 ## What it is
 MCP server `Hermes Brain`, catalogued on PulseMCP. Multi-agent orchestration MCP server with 30+ tools across 9 categories and shared SQLite database for agent coordination.

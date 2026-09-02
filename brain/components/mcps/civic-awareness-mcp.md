@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T19:07:36Z"
 ---
 ## What it is
 Provides tools to search and retrieve US federal and state legislative data, including bills, votes, campaign contributions, and legislator information, with provenance tracking.

@@ -8,11 +8,13 @@ source_url: https://github.com/floatingbrij/desktop-pilot-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-03-27T23:00:11Z"
 ---
 ## What it is
 A Model Context Protocol server that gives AI assistants full control over native Windows applications — launch, inspect, click, type, screenshot, and test any WinUI3, WPF, WinForms, UWP, or Win32 app.

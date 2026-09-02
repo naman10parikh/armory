@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T22:51:06Z"
 ---
 ## What it is
 Provides Japanese national holidays, wareki (era) conversion, and date information. Works fully offline with no API keys required.

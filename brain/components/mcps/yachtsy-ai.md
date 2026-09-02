@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-19T20:14:10Z"
 ---
 ## What it is
 MCP server `Yachtsy AI`, catalogued on PulseMCP. Provides AI-powered yacht and boat marketplace intelligence by integrating with the Yachtsy Agent API

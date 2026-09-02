@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T20:10:12Z"
 ---
 ## What it is
 Enables AI-powered UI component generation from natural language descriptions, integrating with IDEs like Cursor and Windsurf.

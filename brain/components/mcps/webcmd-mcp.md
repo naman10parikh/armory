@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T22:12:25Z"
 ---
 ## What it is
 Enables AI agents to drive websites locally through Webcmd, with tools for setup, skill retrieval, and running web commands. Simplifies integration by auto-installing the CLI and providing bundled skills.

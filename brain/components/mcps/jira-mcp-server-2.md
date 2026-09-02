@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T00:25:38Z"
 ---
 ## What it is
 A production-ready MCP server for JIRA integration that enables AI assistants to query JIRA issues and perform searches using natural language through JQL.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:08:06Z"
 ---
 ## What it is
 Enables AI agents to extract structured firmographic data from public LinkedIn company URLs, returning fields like name, industry, size, and headquarters.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T13:29:16Z"
 ---
 ## What it is
 An MCP front-end for AnB. The tool surface is "use-don't-reveal": no tool returns a plaintext secret. Reveal paths require a TTY the server doesn't have, so the no-reveal guarantee is structural, not prompt-based — it holds even against a prompt-injected agent. Runs as a dedicated, narrowly-scoped A

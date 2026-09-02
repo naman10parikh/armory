@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T20:39:21Z"
 ---
 ## What it is
 Enables querying banking regulatory documents via a RAG pipeline with hybrid search and multiple LLM backends.

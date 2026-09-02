@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T10:36:50Z"
 ---
 ## What it is
 Enables safe financial operations on the AutoFYI platform through natural language, including client search, allocation preparation, and invoice management with two-stage confirmation.

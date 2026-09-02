@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-11T08:44:01Z"
 ---
 ## What it is
 MCP server `Keio SFC Syllabus`, catalogued on PulseMCP. Course syllabus search for Keio University's Shonan Fujisawa Campus with tools for searching, filtering, and retrieving course details.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-29T22:02:11Z"
 ---
 ## What it is
 MCP server `Octopus Deploy`, catalogued on PulseMCP. Integrates with Octopus Deploy to manage projects, releases, and deployments through natural language interactions, enabling DevOps teams to query project details, create releases, initiate deployments, and monitor deployment status across multiple spaces without navigating the web interface.

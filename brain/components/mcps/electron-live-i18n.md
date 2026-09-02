@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T19:38:20Z"
 ---
 ## What it is
 MCP server for live-translating Electron apps: inspect and patch app.asar bundles, serve a translation layer, translate text/locale files, and revert changes—all through natural language commands.

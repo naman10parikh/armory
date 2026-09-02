@@ -8,10 +8,12 @@ source_url: https://github.com/appleinmusic/baidu-search-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-23T04:07:47Z"
 ---
 ## What it is
 MCP server `Baidu Search`, catalogued on PulseMCP. Integrates with Baidu Search to enable web searches, result retrieval, and information extraction from China's largest search engine, providing access to Chinese language content and resources behind the Great Firewall.

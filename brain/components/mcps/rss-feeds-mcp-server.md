@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T10:39:43Z"
 ---
 ## What it is
 Enables digital marketers to fetch, search, and filter RSS blog feeds from multiple sources, with tools for managing feeds and searching across categories and date ranges.

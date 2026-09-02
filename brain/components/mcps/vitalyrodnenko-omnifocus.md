@@ -8,10 +8,12 @@ source_url: https://github.com/vitalyrodnenko/omnifocusmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-06T04:39:14Z"
 ---
 ## What it is
 MCP server `OmniFocus`, catalogued on PulseMCP. Gives AI assistants full control over OmniFocus on macOS with 45 tools covering tasks, projects, tags, folders, perspectives, forecast, notifications, and review workflows.

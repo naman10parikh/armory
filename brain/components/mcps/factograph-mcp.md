@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T13:22:17Z"
 ---
 ## What it is
 Enables building and exploring a knowledge graph from files (PDF, DOCX, code) with AI enrichment via Ollama or Claude. Supports pinning documents, linking entities, and traversing the graph.

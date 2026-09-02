@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T18:08:38Z"
 ---
 ## What it is
 MCP server for authoring courses on Stepik. Provides tools for session management, project creation, course synchronization, video upload, and publishing via the Stepik API.

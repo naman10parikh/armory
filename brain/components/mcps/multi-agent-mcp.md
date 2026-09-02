@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-14T15:23:43Z"
 ---
 ## What it is
 Transforms your IDE into an autonomous multi-agent coding assistant that orchestrates complex codebase refactoring using LangGraph and LiteLLM.

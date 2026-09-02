@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-02T14:43:41Z"
 ---
 ## What it is
 Transcribes audio/video files, generates summaries and structured knowledge items, and supports Notion integration and chat-based interaction. Works as a standalone CLI, Notion integration, or MCP server tool for agent ecosystems.

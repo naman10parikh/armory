@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:26:17Z"
 ---
 ## What it is
 MCP server that checks administrative impropriety convictions and ineligibility (CNIA) for a person or company using CPF or CNPJ, via a hosted API with prepaid credits and read-only tools.

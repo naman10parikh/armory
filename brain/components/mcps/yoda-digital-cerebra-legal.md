@@ -8,10 +8,12 @@ source_url: https://github.com/yoda-digital/mcp-cerebra-legal-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-03-24T11:31:52Z"
 ---
 ## What it is
 MCP server `Cerebra Legal`, catalogued on PulseMCP. Provides specialized legal reasoning tools for structured analysis, follow-up questioning, and professional document formatting across multiple legal domains including ANSC contestations, consumer protection, and contract analysis.

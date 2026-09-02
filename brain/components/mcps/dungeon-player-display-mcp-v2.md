@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T23:36:15Z"
 ---
 ## What it is
 Deploys a stateless remote MCP server on Cloudflare Workers without authentication, allowing custom tools to be registered and used from clients like Claude Desktop and the Cloudflare AI Playground.

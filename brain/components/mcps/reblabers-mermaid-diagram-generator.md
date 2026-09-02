@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-02T15:30:10Z"
 ---
 ## What it is
 MCP server `Mermaid Diagram Generator`, catalogued on PulseMCP. Integrates with Mermaid to render diagrams as images, enabling on-the-fly generation of visual representations for data structures, workflows, or system architectures.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-18T18:14:39Z"
 ---
 ## What it is
 MCP server `Données Québec`, catalogued on PulseMCP. Query open datasets from Données Québec, Ville de Montréal, and Quebec geospatial services (IGO) using natural language.

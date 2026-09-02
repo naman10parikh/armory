@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T22:56:06Z"
 ---
 ## What it is
 Scans AWS environments and generates professional architecture diagrams showing VPC networking, compute, storage, and security resources.

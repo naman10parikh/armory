@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:21:41Z"
 ---
 ## What it is
 Governed AI-ops for Ceph, providing root-cause health analysis and guarded destructive operations via a built-in governance harness with risk tiers, audit, and undo recording.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T08:47:16Z"
 ---
 ## What it is
 Enables secure, runtime-authenticated MySQL database querying and mutation through dynamic tools, allowing AI assistants to list databases/tables, describe schemas, and perform CRUD operations.

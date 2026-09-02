@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T07:51:27Z"
 ---
 ## What it is
 Enables AI clients to access Boston's MBTA public transit data, including real-time predictions, schedules, route planning, and service alerts.

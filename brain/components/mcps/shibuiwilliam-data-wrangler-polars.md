@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-30T08:47:12Z"
 ---
 ## What it is
 MCP server `Data Wrangler (Polars)`, catalogued on PulseMCP. Provides data preprocessing, transformation, and analysis capabilities using Polars dataframes for statistical operations on multiple file formats with structured JSON responses.

@@ -8,10 +8,12 @@ source_url: https://github.com/jx888-max/cyber-sentinel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-19T13:40:06Z"
 ---
 ## What it is
 MCP server `Cyber Sentinel`, catalogued on PulseMCP. Aggregates threat intelligence from VirusTotal, AbuseIPDB, URLhaus, Shodan, ThreatFox, and MalwareBazaar to analyze security indicators, scan code and infrastructure for vulnerabilities, and generate visual security reports with intelligent caching and rate limiting.

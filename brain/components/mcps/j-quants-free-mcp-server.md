@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-05T14:25:20Z"
 ---
 ## What it is
 Enables access to Japanese stock market data via the free J-Quants API, providing tools for company search, daily quotes, and financial statements.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T22:37:41Z"
 ---
 ## What it is
 Local-first code retrieval for AI agents — cuts codebase context from thousands of tokens to a few hundred, with zero hallucinated file paths.

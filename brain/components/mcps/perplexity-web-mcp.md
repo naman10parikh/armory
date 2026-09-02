@@ -8,11 +8,13 @@ source_url: https://github.com/jacob-bd/perplexity-web-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 173
+stars: 180
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 30
+pushed_at: "2026-09-01T14:56:01Z"
 ---
 ## What it is
 Enables AI agents and users to query Perplexity AI's premium models (GPT-5.4, Claude 4.6 Opus, Gemini 3.1 Pro, etc.) via MCP tools, CLI, or API, with support for deep research, model council, and multi-turn conversations.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T20:29:50Z"
 ---
 ## What it is
 MCP server `Mixpeek`, catalogued on PulseMCP. Provides AI-powered video and multimodal search capabilities through the Mixpeek platform.

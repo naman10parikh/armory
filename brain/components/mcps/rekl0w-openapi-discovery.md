@@ -8,10 +8,12 @@ source_url: https://github.com/rekl0w/mcp-openapi-discovery
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-05T13:41:47Z"
 ---
 ## What it is
 MCP server `OpenAPI Discovery`, catalogued on PulseMCP. MCP server for discovering, cataloging, and executing against REST APIs via OpenAPI/Swagger specifications.

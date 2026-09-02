@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-21T16:02:41Z"
 ---
 ## What it is
 MCP server for managing Transmission BitTorrent client. Provides tools to add, remove, monitor, and control torrents, as well as configure session settings.

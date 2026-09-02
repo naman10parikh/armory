@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T23:13:20Z"
 ---
 ## What it is
 Universal agent registry, discovery, and cross-protocol messaging for any MCP-compatible AI agent, enabling registration, discovery, and message translation across six protocols.

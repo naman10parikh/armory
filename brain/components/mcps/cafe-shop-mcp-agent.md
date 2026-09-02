@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T11:58:24Z"
 ---
 ## What it is
 Enables natural language interaction with a coffee shop's inventory and order system, allowing users to check menu items, place orders, and track order status via MCP tools.

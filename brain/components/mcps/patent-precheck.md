@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T18:48:35Z"
 ---
 ## What it is
 Patentability pre-check for code — USPTO pillar scores, filing-readiness, and prior-art signals.

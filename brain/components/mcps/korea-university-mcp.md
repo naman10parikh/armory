@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T08:58:14Z"
 ---
 ## What it is
 Integrates Korean university information APIs (대학알리미 and 공공데이터포털) into a single MCP server and CLI, enabling search, description, and execution of university data operations such as student, faculty, and finance statistics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T11:40:29Z"
 ---
 ## What it is
 MCP server that provides weather alerts and forecasts using the National Weather Service API, designed as an educational lab for learning MCP transport and data-layer design.

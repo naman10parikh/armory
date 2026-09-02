@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T14:14:43Z"
 ---
 ## What it is
 A token-optimized MCP server that enables AI agents to manage Flipkart Seller operations including order fulfillment, inventory, returns, ad campaigns, and financial settlements via the Flipkart v3 API.

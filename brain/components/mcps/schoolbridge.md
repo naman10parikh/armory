@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T17:41:02Z"
 ---
 ## What it is
 Connects Canvas LMS (and other school platforms) to AI agents, enabling them to monitor assignments, grades, announcements, and changes, then rank work, brief students, or build study plans via MCP tools.

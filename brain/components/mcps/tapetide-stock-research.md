@@ -8,10 +8,12 @@ source_url: https://github.com/tapetide-hq/tapetide-stock-research-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-07-24T03:40:01Z"
 ---
 ## What it is
 MCP server `Tapetide Stock Research`, catalogued on PulseMCP. Access Indian stock market data including quotes, financials, technicals, screening, and institutional flow tracking.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-30T00:04:41Z"
 ---
 ## What it is
 MCP server `Stern Philosophical Mentor`, catalogued on PulseMCP. Provides a philosophical mentor named Stern who combines rationalist thinking, stoic philosophy, and psychological insights with smart contract-based accountability for personal growth commitments.

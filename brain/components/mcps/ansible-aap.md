@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-07-14T04:39:35Z"
 ---
 ## What it is
 Enables LLMs to discover and launch Ansible job templates on Ansible Automation Platform, monitor job status, and retrieve outputs.

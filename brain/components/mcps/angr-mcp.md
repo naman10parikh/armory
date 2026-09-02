@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-03T15:12:43Z"
 ---
 ## What it is
 Exposes angr binary-analysis capabilities (symbolic execution, taint analysis, CFG recovery) as MCP tools for vulnerability exploration and exploit development.

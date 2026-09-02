@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T08:07:47Z"
 ---
 ## What it is
 A layout-aware local MCP server that analyzes PDF structures (multi-columns, tables, LaTeX equations) to save up to 90% context tokens for LLMs in Cursor and Claude Desktop. Powered by https://golocalpdf.com

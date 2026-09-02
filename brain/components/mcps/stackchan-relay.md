@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T07:42:23Z"
 ---
 ## What it is
 MCP server that enables controlling a StackChan robot via tools like speak, emote, and move head, with a relay service for ESP32 long polling.

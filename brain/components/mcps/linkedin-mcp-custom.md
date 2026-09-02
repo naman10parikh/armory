@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T11:23:45Z"
 ---
 ## What it is
 Analyzes LinkedIn saved jobs with EROI scoring and writes analysis back to a knowledge base for automated reporting.

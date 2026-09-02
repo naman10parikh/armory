@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 8
+forks: 3
+pushed_at: "2025-09-13T12:08:18Z"
 ---
 ## What it is
 Read-only MCP server to help gather metrics from [Swarmia](swarmia.com) for quick reporting.

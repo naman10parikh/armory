@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-07-19T07:39:27Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to search, discover, and install Aceternity UI components programmatically.

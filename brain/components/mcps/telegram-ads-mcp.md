@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-16T23:23:16Z"
 ---
 ## What it is
 An MCP server that lets AI agents read and manage Telegram Ads campaigns, including listing accounts and ads, reading stats and budgets, and creating/updating ads, CPM, status, and budget by driving the real ads.telegram.org web UI through Playwright with a reused cookie-based login session.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T20:29:40Z"
 ---
 ## What it is
 MCP server for Linkavista's Advertiser API, enabling natural language management of backlink purchases: search sites, create orders, check balance, and more, secured via OAuth on Cloudflare Workers.

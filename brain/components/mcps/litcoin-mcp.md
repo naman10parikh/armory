@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T00:17:45Z"
 ---
 ## What it is
 Enables querying the LitCoin knowledge graph for nodes, edges, and relationships, with support for semantic similarity search over nodes and edges via MCP.

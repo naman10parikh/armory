@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T11:44:09Z"
 ---
 ## What it is
 Generates formatted Excel (.xlsx) files from user requests and deposits them into Cleyrop project data.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-31T11:25:48Z"
 ---
 ## What it is
 MCP server `Whale Alert`, catalogued on PulseMCP. Track large on-chain transactions on Ethereum and Base.

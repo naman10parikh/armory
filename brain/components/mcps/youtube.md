@@ -8,11 +8,13 @@ source_url: https://github.com/prajwal-ak-0/youtube-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 14
+forks: 3
+pushed_at: "2025-10-23T07:43:18Z"
 ---
 ## What it is
 MCP server `YouTube`, catalogued on PulseMCP. Integrates with YouTube to enable video content analysis through transcript extraction, search, comment retrieval, and content summarization for research and educational insights

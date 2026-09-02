@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-07-18T17:34:34Z"
 ---
 ## What it is
 Enables natural language search of the MapleStory auction house through Claude, using the browser's login session securely.

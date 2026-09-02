@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T06:25:38Z"
 ---
 ## What it is
 MCP server `Bags.fm`, catalogued on PulseMCP. Connects to the Bags.fm API for Solana token trading, launches, fee management, and portfolio analytics with unsigned transaction security.

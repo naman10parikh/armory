@@ -8,10 +8,12 @@ source_url: https://github.com/st3v3nmw/sourcerer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 114
+stars: 119
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-11-10T17:34:40Z"
 ---
 ## What it is
 MCP server `Sourcerer`, catalogued on PulseMCP. Indexes codebases using Tree-sitter parsing and vector embeddings to enable semantic code search through natural language queries and source code retrieval with real-time file watching and persistent storage.

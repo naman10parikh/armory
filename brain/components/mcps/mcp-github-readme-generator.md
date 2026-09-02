@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-16T20:24:00Z"
 ---
 ## What it is
 An MCP server that analyzes GitHub repositories and automatically generates README.md files. Supports multiple AI providers and offers web, MCP tool, and n8n workflow modes.

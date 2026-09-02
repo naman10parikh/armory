@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-04T03:12:33Z"
 ---
 ## What it is
 MCP server `Continuum`, catalogued on PulseMCP. Local-first developer memory system that captures coding context from git commits with temporal decay and cross-project learning.

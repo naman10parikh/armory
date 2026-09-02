@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-05T20:28:54Z"
 ---
 ## What it is
 MCP server `FinData by sapph1re`, catalogued on PulseMCP. Stock quotes, fundamentals, FRED economic data, SEC filings, and crypto prices via x402 micropayments.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T15:28:39Z"
 ---
 ## What it is
 Extracts structured commitments (who promised what, by when, under conditions) from text transcripts, emails, Slack logs, etc. using Anthropic API.

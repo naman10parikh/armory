@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T18:24:48Z"
 ---
 ## What it is
 Enables searching a knowledge base and asking grounded questions with hybrid retrieval, reranking, and cited answers.

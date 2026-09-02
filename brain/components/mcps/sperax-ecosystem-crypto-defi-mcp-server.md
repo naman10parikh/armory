@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-06T03:08:55Z"
 ---
 ## What it is
 MCP server for Sperax DeFi ecosystem that enables AI agents to interact with USDs stablecoin, SPA governance, staking, and yield farms on Arbitrum and BNB Chain.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T03:35:27Z"
 ---
 ## What it is
 An MCP server that gives LLM agents typed, cached access to civic open-data portals via Socrata (SODA 2.1 + Discovery API), enabling search, query, profiling, sampling, and CSV export of datasets.

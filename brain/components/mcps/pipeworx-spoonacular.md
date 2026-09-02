@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:42:50Z"
 ---
 ## What it is
 MCP server `Spoonacular`, catalogued on PulseMCP. Spoonacular food and recipe API: recipe search, nutrition analysis, ingredient data, and meal planning.

@@ -8,10 +8,12 @@ source_url: https://github.com/jiayao/mcp-chess
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-05-05T06:09:32Z"
 ---
 ## What it is
 MCP server `Chess`, catalogued on PulseMCP. Enables playing chess against language models through a visual interface with tools for board visualization, move execution, game initialization, and position analysis from PGN notation.

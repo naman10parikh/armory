@@ -8,10 +8,12 @@ source_url: https://github.com/saintdoresh/yfinance-trader-mcp-claudedesktop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-08-11T15:27:04Z"
 ---
 ## What it is
 MCP server `YFinance Trader`, catalogued on PulseMCP. Provides real-time stock market data and trading capabilities through yfinance, offering tools for retrieving quotes, company overviews, historical prices, symbol searches, analyst recommendations, and insider transactions.

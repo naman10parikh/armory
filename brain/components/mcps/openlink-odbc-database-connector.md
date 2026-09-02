@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-07-23T23:52:11Z"
 ---
 ## What it is
 MCP server `ODBC Database Connector`, catalogued on PulseMCP. Connects AI systems to relational databases through ODBC, enabling SQL, SPARQL, and hybrid SpaSQLqueries for data exploration, analysis, and knowledge graph operations.

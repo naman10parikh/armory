@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T08:23:50Z"
 ---
 ## What it is
 Enables full local computer control from MCP clients, including terminal commands, file system operations, application management, screen capture, and input device automation across Windows, macOS, and Linux.

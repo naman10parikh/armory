@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:52:56Z"
 ---
 ## What it is
 Fetches Lanhu UI design specs and assets with minimal tokens, enabling coding agents to implement high-fidelity UI by providing precise coordinates, styles, and downloaded resources.

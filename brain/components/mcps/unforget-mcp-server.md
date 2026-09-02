@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T11:03:19Z"
 ---
 ## What it is
 Long-term memory for Claude Code, Cursor, and MCP clients with zero-config embedded PostgreSQL. Stores and retrieves facts, preferences, and decisions using 4-channel semantic, BM25, entity, and temporal search with cross-encoder reranking.

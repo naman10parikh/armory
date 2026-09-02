@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T10:03:03Z"
 ---
 ## What it is
 A secure, vector-based task management server for Claude Desktop using sqlite-vec and sentence-transformers. It provides intelligent task tracking with semantic search capabilities to organize and retrieve development tasks efficiently.

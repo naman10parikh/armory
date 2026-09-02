@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T13:03:03Z"
 ---
 ## What it is
 Enables Claude to discover and understand infrastructure-as-code drift by listing projects with drift, analyzing Terraform plan outputs, and providing remediation information.

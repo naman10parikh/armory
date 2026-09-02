@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-06-20T23:23:42Z"
 ---
 ## What it is
 MCP server `Smart Prompts`, catalogued on PulseMCP. Fetches prompts directly from GitHub repositories with semantic search, composition tools, and usage analytics for intelligent prompt management and discovery without local storage requirements.

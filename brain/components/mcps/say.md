@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T11:56:51Z"
 ---
 ## What it is
 Converts family notices (hospital, government, insurance, delivery) into action cards with confirmed facts and pending verifications, enabling collaborative family confirmation and completion.

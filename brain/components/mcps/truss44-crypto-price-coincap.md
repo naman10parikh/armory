@@ -8,10 +8,12 @@ source_url: https://github.com/truss44/mcp-crypto-price
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-31T17:32:12Z"
 ---
 ## What it is
 MCP server `Crypto Price (CoinCap)`, catalogued on PulseMCP. Integrates with CoinCap's API to provide real-time cryptocurrency data, enabling price tracking, market analysis, and historical trend examination for financial applications.

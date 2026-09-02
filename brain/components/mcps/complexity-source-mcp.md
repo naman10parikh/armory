@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T18:52:17Z"
 ---
 ## What it is
 Read-only MCP server providing AI access to verifiable web, GitHub, and local sources, plus a managed fantasy entity catalog, with strong security and provenance tracking.

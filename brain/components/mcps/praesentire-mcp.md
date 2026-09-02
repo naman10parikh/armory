@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T13:24:01Z"
 ---
 ## What it is
 MCP server for Praesentire — bilingual financial news sentiment as a Claude tool. Provides aggregated sentiment scores, batch queries, and English vs Chinese sentiment comparison for cross-market signals.

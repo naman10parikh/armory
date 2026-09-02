@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T00:16:18Z"
 ---
 ## What it is
 MCP server `Screen Capture`, catalogued on PulseMCP. Linux screen capture with monitor detection, timeline recording, and chunked session-based transfers for reliable large image delivery.

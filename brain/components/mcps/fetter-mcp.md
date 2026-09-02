@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T22:38:43Z"
 ---
 ## What it is
 Provides real-time Python package vulnerability data, enabling AI agents to check CVEs, CVSS scores, and safe versions for informed dependency decisions.

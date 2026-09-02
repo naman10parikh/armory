@@ -8,10 +8,12 @@ source_url: https://github.com/bakyang2/kr-crypto-intelligence
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-04T05:58:57Z"
 ---
 ## What it is
 MCP server `KR Crypto Intelligence`, catalogued on PulseMCP. Korean crypto market data with real-time Kimchi Premium, stablecoin premium, and exchange price analysis.

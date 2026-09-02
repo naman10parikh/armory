@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
-stars: 174
+stars: 175
+forks: 18
+pushed_at: "2026-04-18T06:50:34Z"
 ---
 ## What it is
 MCP server for Typst, a markup-based typesetting system. It provides tools for converting between LaTeX and Typst, validating Typst syntax, and generating images from Typst code.

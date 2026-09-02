@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-09T10:30:41Z"
 ---
 ## What it is
 MCP server `SubspaceDomain`, catalogued on PulseMCP. macOS-native bridge server that enables seamless communication between AI clients, providing Unix socket transport, persistent registration, and robust connection handling for coordinated tool execution across multiple models.

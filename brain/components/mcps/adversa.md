@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:35:25Z"
 ---
 ## What it is
 LLM red-team harness that scans for OWASP LLM Top 10 and MITRE ATLAS vulnerabilities, providing prioritized findings in table, JSON, SARIF, or via an MCP server for AI agents.

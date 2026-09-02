@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T09:57:35Z"
 ---
 ## What it is
 Exposes the MiniMax M3 LLM API to MCP-compatible clients, enabling chat completions, text completions, tool calls, and token counting via stdio or SSE transport.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T20:47:23Z"
 ---
 ## What it is
 An MCP router that connects to multiple PagerDuty sandbox environments for testing integrations like PD+Teams, PD+Jira, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T20:22:08Z"
 ---
 ## What it is
 Enables an MCP client to observe and control a text-mode DOS system via a Python bridge, supporting keyboard input and screen capture.

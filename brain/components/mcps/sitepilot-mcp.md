@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:42:01Z"
 ---
 ## What it is
 Enables MCP clients to connect to WordPress sites running the SitePilot plugin by handling local transport, login, and credential management while letting WordPress enforce policies and expose its live tool list.

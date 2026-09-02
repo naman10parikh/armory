@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-18T04:52:33Z"
 ---
 ## What it is
 MCP server `Signaliz`, catalogued on PulseMCP. B2B email verification, company signal enrichment, and governed GTM data pipeline server for sales and marketing teams.

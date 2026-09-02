@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T10:16:10Z"
 ---
 ## What it is
 Provides AI-powered access to Turkish building regulations, architectural standards, and construction calculation tools via the Model Context Protocol.

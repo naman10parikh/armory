@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T10:21:43Z"
 ---
 ## What it is
 Enables AI agents to read, write, and search security findings, engagement memory, and semantic triage via MCP tools on Cloudflare Workers.

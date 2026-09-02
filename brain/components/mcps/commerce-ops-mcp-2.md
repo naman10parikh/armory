@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T14:48:16Z"
 ---
 ## What it is
 Enables AI assistants to resolve carrier-exception refunds, auto-executing a bounded refund when a strict policy passes or creating a manager-approval escalation otherwise, with idempotent and concurrency-safe operations.

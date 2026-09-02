@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T21:58:10Z"
 ---
 ## What it is
 Automates academic research from multi-source discovery across 18 databases to APA 7-formatted .docx output, with analysis and visualization tools.

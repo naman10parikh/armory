@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-29T19:23:38Z"
 ---
 ## What it is
 MCP server `Kalshi by Quantish`, catalogued on PulseMCP. Self-hosted trading server for Kalshi prediction markets via DFlow on Solana.

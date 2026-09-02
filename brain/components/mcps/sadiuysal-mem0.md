@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-23T15:46:04Z"
 ---
 ## What it is
 MCP server `Mem0`, catalogued on PulseMCP. Integrates with Mem0's memory storage to provide persistent memory streams with semantic search capabilities, enabling recall of user preferences and conversation history across interactions.

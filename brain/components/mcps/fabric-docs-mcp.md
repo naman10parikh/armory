@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T17:04:14Z"
 ---
 ## What it is
 MCP server that provides LLM coding agents with version-pinned Fabric modding documentation, including search, page reading, and a curated built-ins index to encourage idiomatic code.

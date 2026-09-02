@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T18:15:20Z"
 ---
 ## What it is
 Enables remote automation of Solibri Office tasks including model checking, quantity takeoff, and model management through an MCP SSE interface.

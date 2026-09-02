@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-16T14:11:42Z"
 ---
 ## What it is
 Enables AI agents to discover and retrieve options market-structure data (GEX, gamma flip levels, dealer positioning, skew, max pain, expected-move levels, options flow, and ranked trade setups) from Trading Volatility's public API via natural language.

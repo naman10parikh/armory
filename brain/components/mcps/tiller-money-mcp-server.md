@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-04-18T15:52:22Z"
 ---
 ## What it is
 Provides read-only access to Tiller Money financial data in Google Sheets, enabling natural language queries for accounts, transactions, categories, and budgets through Claude Desktop.

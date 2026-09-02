@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T13:34:50Z"
 ---
 ## What it is
 MCP server for envibe that provides controlled access to environment variables for AI assistants, with five access levels (full, read-only, placeholder, schema-only, hidden) and tools for listing, getting, setting, and describing variables.

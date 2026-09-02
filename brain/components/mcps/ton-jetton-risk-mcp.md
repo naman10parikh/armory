@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T09:30:55Z"
 ---
 ## What it is
 MCP server that screens any TON jetton (token) for rug-pull and honeypot risk. Returns a live on-chain 0–100 risk score with flags: mint authority, holder concentration, DEX liquidity, taxable transfer, blacklist, and a honeypot heuristic.

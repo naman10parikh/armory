@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-31T23:11:06Z"
 ---
 ## What it is
 MCP server `TaskNote Bridge`, catalogued on PulseMCP. Integrates with Things 3 and Apple Notes through native macOS APIs and URL schemes to enable task creation, project management, note operations, and productivity workflow automation.

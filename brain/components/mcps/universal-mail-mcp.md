@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-02T19:39:23Z"
 ---
 ## What it is
 A cross-platform MCP server that provides Claude with email access via IMAP, supporting multiple email providers and account management.

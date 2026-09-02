@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T06:29:56Z"
 ---
 ## What it is
 Enables natural language interaction with a bootstrapped SaaS finance system, including recording transactions, running projections, and checking alerts.

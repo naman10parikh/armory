@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-20T21:30:14Z"
 ---
 ## What it is
 MCP server `Local File Organizer`, catalogued on PulseMCP. Automatically organizes files by categorizing them based on extensions while preserving project structures for efficient directory management and backup preparation.

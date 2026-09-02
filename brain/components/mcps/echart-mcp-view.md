@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T06:33:07Z"
 ---
 ## What it is
 An MCP server for rendering common ECharts visualizations from structured tool arguments, exposing per-chart opener tools that map to independent HTML app resources.

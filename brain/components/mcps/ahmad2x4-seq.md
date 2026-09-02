@@ -8,10 +8,12 @@ source_url: https://github.com/ahmad2x4/mcp-server-seq
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-06-28T01:50:53Z"
 ---
 ## What it is
 MCP server `Seq`, catalogued on PulseMCP. Integrates with Seq's API for retrieving signals, events, and alert states, enabling real-time insights into application logs and system performance metrics.

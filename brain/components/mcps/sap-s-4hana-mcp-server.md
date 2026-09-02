@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-16T04:36:46Z"
 ---
 ## What it is
 Enables interaction with SAP S/4HANA systems via OData, allowing service discovery, metadata exploration, field value retrieval, and CRUD operations through natural language.

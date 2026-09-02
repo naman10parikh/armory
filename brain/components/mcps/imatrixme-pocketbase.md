@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-22T02:05:29Z"
 ---
 ## What it is
 MCP server `PocketBase`, catalogued on PulseMCP. Provides direct access to PocketBase databases with tools for collection management, record operations, user authentication, and database administration via TypeScript and the PocketBase SDK.

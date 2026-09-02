@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T02:36:16Z"
 ---
 ## What it is
 Provides a set of low-level tools for reverse engineering GameCube and Wii games via Dolphin's DAP debug server, including memory/register operations, disassembly, breakpoints, and code injection.

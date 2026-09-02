@@ -8,10 +8,12 @@ source_url: https://github.com/leonardosalvatore/llama.cpp.debugger
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-14T15:15:11Z"
 ---
 ## What it is
 MCP server `llama.cpp Debugger`, catalogued on PulseMCP. Debugs Linux systems on embedded Debian VMs using systemd, Linux, compiler, and GDB tools organized in named namespaces.

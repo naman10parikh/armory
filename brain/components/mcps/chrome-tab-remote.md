@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T09:52:29Z"
 ---
 ## What it is
 MCP server that gives AI agents secure, consent-based access to a single browser tab, supporting read-only snapshots, element interaction with per-action approval, and frozen multi-step plans, all audited.

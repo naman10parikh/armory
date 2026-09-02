@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-03T12:36:50Z"
 ---
 ## What it is
 Enables data observability operations with the Sifflet platform. Supports exploring assets, monitors, incidents, generating monitor-as-code YAML from descriptions, and performing impact analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-31T17:34:15Z"
 ---
 ## What it is
 Provides MCP servers for Claude to access fitness data from Strava and intervals.icu, enabling natural language queries for activity analysis, advanced training metrics, and wellness tracking.

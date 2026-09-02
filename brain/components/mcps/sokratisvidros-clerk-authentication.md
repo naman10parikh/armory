@@ -8,10 +8,12 @@ source_url: https://github.com/sokratisvidros/workers-mcp-clerk
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-26T10:57:30Z"
 ---
 ## What it is
 MCP server `Clerk Authentication`, catalogued on PulseMCP. Integrates with Clerk authentication to enable secure interactions with protected API routes and server actions for AI-driven operations.

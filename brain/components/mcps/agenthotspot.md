@@ -8,10 +8,12 @@ source_url: https://github.com/agenthotspot/agenthotspot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-21T14:12:57Z"
 ---
 ## What it is
 MCP server `AgentHotspot`, catalogued on PulseMCP. Search thousands of MCP connectors from the AgentHotspot marketplace.

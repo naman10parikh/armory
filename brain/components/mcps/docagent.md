@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T14:14:12Z"
 ---
 ## What it is
 Enables document retrieval, OCR, web search, and calculator tools via a RAG pipeline and LangGraph agent, all running locally with Ollama.

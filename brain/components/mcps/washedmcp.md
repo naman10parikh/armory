@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-01-23T18:39:36Z"
 ---
 ## What it is
 Token-optimized semantic code search with automatic context expansion for AI coding assistants, enabling efficient discovery of code relationships and reducing token usage.

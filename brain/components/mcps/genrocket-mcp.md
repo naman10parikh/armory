@@ -8,11 +8,13 @@ source_url: https://github.com/lrbg/genRocketMCP_PlugIn
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:48:42Z"
 ---
 ## What it is
 GenRocket MCP server that exposes GenRocket as tools for AI chat (GitHub Copilot), enabling natural-language interaction to test connections, list projects/scenarios/chains/domains/generators, download .grs scenarios, and run the GenRocket Runtime to generate data.

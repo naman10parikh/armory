@@ -8,10 +8,12 @@ source_url: https://github.com/swap-api/swap-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-03T08:34:57Z"
 ---
 ## What it is
 MCP server `Swap API`, catalogued on PulseMCP. Executable token swap calldata in one GET request with no API keys, accounts, or SDK required.

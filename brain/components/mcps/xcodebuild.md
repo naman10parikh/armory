@@ -8,11 +8,13 @@ source_url: https://github.com/getsentry/xcodebuildmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5748
+stars: 6323
 verified_at: 2026-05-26
 related: []
 tags: [mcp]
 eval_score: 1
+forks: 313
+pushed_at: "2026-09-02T03:38:52Z"
 ---
 
 ## What it is

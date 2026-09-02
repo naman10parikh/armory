@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T10:11:35Z"
 ---
 ## What it is
 MCP server `MCPHub`, catalogued on PulseMCP. Windows desktop application hosting multiple protocol servers for database introspection, project memory, and SQL query management within a single process.

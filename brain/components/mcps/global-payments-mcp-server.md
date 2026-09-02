@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T09:05:54Z"
 ---
 ## What it is
 Enables AI agents to create and manage payment links programmatically via the Global Payments API, supporting single-use and multi-use links, retrieval, and API documentation retrieval.

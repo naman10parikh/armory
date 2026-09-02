@@ -8,11 +8,13 @@ source_url: https://github.com/BARMPlus/locklens
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 84
+stars: 83
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-22T09:30:38Z"
 ---
 ## What it is
 Audits package lockfiles for vulnerabilities, supporting npm, yarn, and pnpm. Runs via CLI or as an MCP server over stdio.

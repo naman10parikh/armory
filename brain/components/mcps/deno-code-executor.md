@@ -8,10 +8,12 @@ source_url: https://github.com/alexcong/deno-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-15T12:23:52Z"
 ---
 ## What it is
 MCP server `Deno Code Executor`, catalogued on PulseMCP. Executes TypeScript and JavaScript code in isolated Deno processes with configurable permissions for secure sandboxed code testing, educational programming assistance, and automated script execution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T11:16:49Z"
 ---
 ## What it is
 Visual feedback for AI coding agents on Astro sites, providing live annotations with source file:line, CSS selector, Tailwind classes, and computed styles.

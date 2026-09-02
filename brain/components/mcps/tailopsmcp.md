@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 35
+pushed_at: "2025-12-28T15:10:09Z"
 ---
 ## What it is
 A control plane gateway for managing distributed infrastructure through MCP, enabling centralized SSH, Docker, and HTTP target management with capability-based authorization and policy enforcement.

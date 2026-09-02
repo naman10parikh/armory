@@ -8,10 +8,12 @@ source_url: https://github.com/webvizio/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-12-18T13:39:36Z"
 ---
 ## What it is
 MCP server `Webvizio`, catalogued on PulseMCP. Integrates with Webvizio's project management platform to provide task tracking, project selection, detailed task information retrieval, log analysis, screenshot access, and automated task completion workflows.

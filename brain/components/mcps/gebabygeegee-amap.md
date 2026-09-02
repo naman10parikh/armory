@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-22T10:42:46Z"
 ---
 ## What it is
 MCP server `AMap (Gaode Maps)`, catalogued on PulseMCP. Integrates with AMap (Gaode Maps) API services in China for coordinate conversion, place searching, and transportation route planning between locations.

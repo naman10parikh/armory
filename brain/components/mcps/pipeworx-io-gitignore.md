@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:09:56Z"
 ---
 ## What it is
 MCP server `gitignore Templates`, catalogued on PulseMCP. Retrieve canonical .gitignore file templates for programming languages, frameworks, and development tools from the github/gitignore repository.

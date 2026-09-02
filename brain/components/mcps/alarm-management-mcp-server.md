@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T18:23:34Z"
 ---
 ## What it is
 Enables plant operators to query alarm data, asset information, trends, correlations, and operator recommendations through 14 tools, forming a core part of a multi-MCP enterprise operations copilot.

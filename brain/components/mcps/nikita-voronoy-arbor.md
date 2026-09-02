@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-13T22:13:35Z"
 ---
 ## What it is
 MCP server `Arbor`, catalogued on PulseMCP. Token-efficient codebase navigation via tree-sitter with 9 tools for symbol search, dependency analysis, and architecture overviews across 15+ languages.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T07:09:05Z"
 ---
 ## What it is
 Official MCP server for ZuckPay – create PIX, SPEI, and PayPal charges, and query transactions from your AI assistant.

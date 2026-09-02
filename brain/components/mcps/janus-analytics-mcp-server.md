@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T03:32:49Z"
 ---
 ## What it is
 Connects AI coding agents to Janus analytics, enabling querying of dashboards, events, funnels, and usage via natural language.

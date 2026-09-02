@@ -8,10 +8,12 @@ source_url: https://github.com/mrlesk/agents-council
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2026-02-22T17:25:37Z"
 ---
 ## What it is
 MCP server `Agents Council`, catalogued on PulseMCP. Multi-agent collaboration through shared council sessions with atomic state management

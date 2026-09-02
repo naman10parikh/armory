@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T07:26:59Z"
 ---
 ## What it is
 MCP server providing a searchable security knowledge base for AI coding assistants, enabling retrieval of secure-coding instructions and feature-specific security guidance.

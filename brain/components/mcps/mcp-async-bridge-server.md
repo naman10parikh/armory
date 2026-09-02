@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-30T09:54:34Z"
 ---
 ## What it is
 Adds async processing to any MCP server, with timeout, task management, and subscription to task status via resources.

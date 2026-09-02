@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T08:19:26Z"
 ---
 ## What it is
 Enables agents to read Android SMS verification codes via ADB and use them to complete web-based SMS login flows.

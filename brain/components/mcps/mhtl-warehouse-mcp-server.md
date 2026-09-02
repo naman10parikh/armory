@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T17:29:35Z"
 ---
 ## What it is
 Enables Claude to query a local DuckDB warehouse containing mock motorcycle-loan data, with tools for customer search, insights, and read-only SQL queries.

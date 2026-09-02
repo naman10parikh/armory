@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-28T13:32:19Z"
 ---
 ## What it is
 MCP server `Members 1st`, catalogued on PulseMCP. Provides financial account data and transaction history access with support for both mock data and live Members 1st credit union API integration

@@ -8,10 +8,12 @@ source_url: https://github.com/sdilogin/filesystem-android
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-24T08:19:50Z"
 ---
 ## What it is
 MCP server `Android Source Code Browser`, catalogued on PulseMCP. Enables secure access to Android project files for browsing and analyzing source code, with validation for authentic projects and filtering to prevent access to sensitive directories.

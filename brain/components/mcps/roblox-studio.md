@@ -8,10 +8,12 @@ source_url: https://github.com/roblox/studio-rust-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 467
+stars: 484
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 80
+pushed_at: "2026-04-03T17:36:12Z"
 ---
 ## What it is
 MCP server `Roblox Studio`, catalogued on PulseMCP. Enables Roblox Studio developers to insert marketplace models and execute Luau code through a plugin.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-10T07:29:54Z"
 ---
 ## What it is
 Stores and retrieves project context using OpenAI vector stores, enabling AI editors to remember and recall project knowledge across sessions.

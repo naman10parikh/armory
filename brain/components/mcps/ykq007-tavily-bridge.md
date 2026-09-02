@@ -8,10 +8,12 @@ source_url: https://github.com/ykq007/mcp-nexus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-06-21T06:14:27Z"
 ---
 ## What it is
 MCP server `Tavily Bridge`, catalogued on PulseMCP. Provides managed access to Tavily's search and research APIs with encrypted key storage, automatic rotation, usage tracking, and a React admin interface for organizations controlling access across multiple clients.

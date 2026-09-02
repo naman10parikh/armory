@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-18T09:17:58Z"
 ---
 ## What it is
 An MCP server for detecting Trade-Based Money Laundering (TBML) in Indian trade finance, cross-referencing invoices against commodity benchmarks, customs records, and regulatory timelines to identify over/under-invoicing, phantom shipments, and duplicate financing.

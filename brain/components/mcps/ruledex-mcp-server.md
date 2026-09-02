@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-01T09:10:11Z"
 ---
 ## What it is
 Provides AI-powered, context-aware development guidance with tools for coding rules, development skills, steering instructions, and custom AI-curated advice.

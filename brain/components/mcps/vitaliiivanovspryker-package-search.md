@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-12T14:23:56Z"
 ---
 ## What it is
 MCP server `Spryker Package Search`, catalogued on PulseMCP. Enables search for Spryker packages and code across GitHub repositories, allowing developers to quickly locate packages by name/description or find specific code examples within the Spryker ecosystem.

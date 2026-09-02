@@ -8,11 +8,13 @@ source_url: https://github.com/MAA-AI/MaaMCP
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 378
+stars: 381
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 44
+pushed_at: "2026-07-14T11:58:16Z"
 ---
 ## What it is
 基于 MaaFramework 的 MCP 服务器，为 AI 助手提供 Android 设备和 Windows 桌面自动化能力。

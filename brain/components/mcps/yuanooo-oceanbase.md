@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-26T01:45:18Z"
 ---
 ## What it is
 MCP server `OceanBase`, catalogued on PulseMCP. Provides a secure bridge to OceanBase databases for listing tables, reading data, and executing SQL queries with configurable permission levels for data analysis and administration tasks.

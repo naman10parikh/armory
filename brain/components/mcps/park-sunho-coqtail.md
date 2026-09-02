@@ -8,10 +8,12 @@ source_url: https://github.com/park-sunho/coqtail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-13T10:54:54Z"
 ---
 ## What it is
 MCP server `Coqtail`, catalogued on PulseMCP. MCP server for interactive Rocq/Coq proof sessions with tools to step through proofs, inspect goals, and execute queries.

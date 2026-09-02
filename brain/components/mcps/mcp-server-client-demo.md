@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-05-30T14:22:00Z"
 ---
 ## What it is
 A demo MCP server with streamable HTTP transport and auto tool registry, enabling LLMs to connect with external data sources and tools.

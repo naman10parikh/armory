@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T09:07:05Z"
 ---
 ## What it is
 Enables reading images (diagrams, screenshots) directly via the model's own vision, with no external API key needed, and can extract embedded images from .doc/MHTML documents.

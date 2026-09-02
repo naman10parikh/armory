@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T05:24:41Z"
 ---
 ## What it is
 Model Context Protocol server for discovering transforms, validating augmentation pipelines, rendering deterministic previews, and exporting reproducible pipeline specs.

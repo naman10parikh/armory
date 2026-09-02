@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T18:44:20Z"
 ---
 ## What it is
 Enables multiple AI agents to communicate and coordinate via a shared SQLite-backed message log, supporting directed messages, broadcasts, and session discovery.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-23T16:40:09Z"
 ---
 ## What it is
 MCP server that turns AI coding agents into ML/AI experts by providing best-practice knowledge for fine-tuning, inference optimization, agent building, and more.

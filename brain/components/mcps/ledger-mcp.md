@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T04:23:02Z"
 ---
 ## What it is
 Provides double-entry accounting for AI agents, allowing creation of a chart of accounts, posting balanced journal entries, and pulling trial-balance and general-ledger reports via the Ledger API with x402 micropayments.

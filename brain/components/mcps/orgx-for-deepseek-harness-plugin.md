@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T07:30:21Z"
 ---
 ## What it is
 Adds OrgX MCP tools to a DeepSeek Harness profile and runs a workspace-bound OrgX gateway peer through Harness headless mode.

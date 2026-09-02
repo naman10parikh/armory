@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T13:47:54Z"
 ---
 ## What it is
 Bridges AI agents (Codex, Claude Code) with a real Chrome session via CDP, enabling Google Search and Google AI interactions through the browser.

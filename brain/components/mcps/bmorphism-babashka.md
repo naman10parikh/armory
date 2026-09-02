@@ -8,10 +8,12 @@ source_url: https://github.com/bmorphism/babashka-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-05T11:09:42Z"
 ---
 ## What it is
 MCP server `Babashka`, catalogued on PulseMCP. Integrates with Babashka to enable dynamic Clojure code execution and interaction for scripting, data processing, and system automation tasks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T18:18:28Z"
 ---
 ## What it is
 Preference-aware events discovery MCP server that aggregates events, restaurants, and cultural activities across multiple sources and re-ranks them against your personal taste profile to surface things you'd actually want to do.

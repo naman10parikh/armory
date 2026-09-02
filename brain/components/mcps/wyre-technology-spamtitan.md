@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T13:24:36Z"
 ---
 ## What it is
 MCP server `SpamTitan`, catalogued on PulseMCP. Manages SpamTitan email security quarantine, allowlists, blocklists, and delivery statistics for MSP environments.

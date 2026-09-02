@@ -8,10 +8,12 @@ source_url: https://github.com/robithyusuf/mcp-camoufox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-19T19:06:06Z"
 ---
 ## What it is
 MCP server `Camoufox`, catalogued on PulseMCP. Stealth browser automation using anti-fingerprinting Camoufox (patched Firefox) for navigation, interaction, and bot-detection bypass.

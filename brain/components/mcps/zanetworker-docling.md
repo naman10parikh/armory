@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-04-05T11:57:16Z"
 ---
 ## What it is
 MCP server `Docling`, catalogued on PulseMCP. Integrates with the Docling library to provide document processing capabilities, including conversion to markdown, table extraction, and image handling with OCR support, enabling efficient analysis of structured and unstructured data from various document formats.

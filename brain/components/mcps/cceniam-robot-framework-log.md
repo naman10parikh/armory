@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-24T06:12:41Z"
 ---
 ## What it is
 MCP server `Robot Framework Log`, catalogued on PulseMCP. Analyze Robot Framework test results from output.xml and output.json files with structured views.

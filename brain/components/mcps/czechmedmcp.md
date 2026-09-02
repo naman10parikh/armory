@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-05T23:54:51Z"
 ---
 ## What it is
 An MCP server with 60 tools connecting AI assistants to Czech healthcare databases (SUKL, MKN-10, NRPZS) and global biomedical sources (PubMed, ClinicalTrials.gov, OpenFDA).

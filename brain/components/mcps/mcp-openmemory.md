@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-06-06T17:23:52Z"
 ---
 ## What it is
 Enables Claude to remember conversations and learn over time by storing and recalling messages, memory abstracts, and recent history using a local SQLite database.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-28T21:39:03Z"
 ---
 ## What it is
 Enables AI agents to produce professional promo videos by providing tools for capture, media search, scene writing, rendering, editing, and incremental revision.

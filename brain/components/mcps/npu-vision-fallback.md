@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:19:29Z"
 ---
 ## What it is
 Provides an MCP server for local low-power screen vision, enabling AI agents to perform OCR and UI detection on inaccessible screens (games, remote desktops) using NPU acceleration and system OCR.

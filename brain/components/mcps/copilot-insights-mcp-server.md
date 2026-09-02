@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T18:33:25Z"
 ---
 ## What it is
 Enables AI agents to query Microsoft Copilot Studio telemetry and governance data in plain English, pulling from multiple Azure and M365 APIs into a local SQLite database.

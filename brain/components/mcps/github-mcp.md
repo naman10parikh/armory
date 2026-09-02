@@ -9,11 +9,13 @@ source_url: https://github.com/github/github-mcp-server
 license: MIT
 cli_compat: [claude, codex, cursor, gemini]
 maturity: stable
-stars: 32462
+stars: 32663
 eval_score: 1
 verified_at: 2026-05-26
 related: [slack-mcp, context7-mcp]
 tags: [github, vcs, issues, pull-requests, integration]
+forks: 4883
+pushed_at: "2026-09-01T14:58:05Z"
 ---
 
 ## What it is

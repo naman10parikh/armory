@@ -8,11 +8,13 @@ source_url: https://github.com/prashalruchiranga/arxiv-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 2
+forks: 9
+pushed_at: "2025-08-08T09:27:45Z"
 ---
 ## What it is
 MCP server `arXiv`, catalogued on PulseMCP. Provides direct access to arXiv's scientific paper repository with tools for searching, retrieving metadata, downloading PDFs, and loading full article content into conversation context.

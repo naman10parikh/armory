@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T14:39:57Z"
 ---
 ## What it is
 MCP server `FFVoice`, catalogued on PulseMCP. Offline speech-to-text and speaker diarization using on-device Whisper processing.

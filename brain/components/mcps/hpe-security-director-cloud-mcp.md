@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T14:55:40Z"
 ---
 ## What it is
 An MCP server for HPE Juniper Security Director Cloud that exposes 368 tools to manage firewall policies, NAT policies, security resources, and more via the full OpenAPI surface. Enables LLMs to directly interact with and configure a live Security Director Cloud environment.

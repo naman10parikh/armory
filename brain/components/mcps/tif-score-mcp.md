@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T21:13:57Z"
 ---
 ## What it is
 An MCP server that exposes three tools to analyze call transcripts for business intelligence, score leads 0-100 with hot/warm/cold classification, and diagnose n8n workflow errors with root cause analysis and proposed fixes.

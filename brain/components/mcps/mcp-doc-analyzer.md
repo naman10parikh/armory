@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T11:10:27Z"
 ---
 ## What it is
 An MCP server for document analysis that provides 21 tools for reading, text analysis, summarization, and data statistics, enabling AI clients to process and understand documents efficiently.

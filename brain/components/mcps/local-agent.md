@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T09:01:59Z"
 ---
 ## What it is
 Routes code generation tasks between local models and Claude Cloud, optimizing cost by handling simple tasks locally and reserving cloud thinking for complex tasks.

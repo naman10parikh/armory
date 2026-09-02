@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-08T12:00:42Z"
 ---
 ## What it is
 Enables Claude to access and search climbing book PDF chapters, with tools to list, retrieve, and find relevant chapters based on queries.

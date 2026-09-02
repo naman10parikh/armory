@@ -8,10 +8,12 @@ source_url: https://github.com/synapselayer/synapse-layer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-17T23:04:47Z"
 ---
 ## What it is
 MCP server `Synapse Layer`, catalogued on PulseMCP. Zero-knowledge memory layer for AI agents with differential privacy and AES-256 encryption.

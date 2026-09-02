@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-22T06:16:45Z"
 ---
 ## What it is
 A meta MCP server that scales LLMs to 1000+ servers via automatic routing, without exposing all servers and tools directly.

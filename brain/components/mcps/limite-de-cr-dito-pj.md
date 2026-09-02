@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:23:45Z"
 ---
 ## What it is
 Provides complete credit analysis and suggested credit limits for Brazilian companies from CNPJ. It is a hosted, read-only MCP server that works with any MCP client over HTTP.

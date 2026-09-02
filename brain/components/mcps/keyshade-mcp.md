@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-12-28T06:13:09Z"
 ---
 ## What it is
 MCP server for interacting with Keyshade's secrets management platform, enabling secure retrieval and management of secrets via natural language.

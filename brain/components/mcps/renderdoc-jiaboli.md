@@ -8,10 +8,12 @@ source_url: https://github.com/jiaboli-github/renderdoc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 202
+stars: 329
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 48
+pushed_at: "2026-06-09T09:06:12Z"
 ---
 ## What it is
 MCP server `RenderDoc`, catalogued on PulseMCP. GPU frame capture analysis and graphics pipeline debugging using RenderDoc, supporting D3D11, D3D12, OpenGL, and Vulkan captures on Windows.

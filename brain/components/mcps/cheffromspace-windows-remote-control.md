@@ -8,10 +8,12 @@ source_url: https://github.com/claude-did-this/mcpcontrol
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 319
+stars: 330
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 50
+pushed_at: "2025-12-02T17:19:23Z"
 ---
 ## What it is
 MCP server `Windows Remote Control`, catalogued on PulseMCP. Enables remote automation of Windows systems for controlling mouse, keyboard, and screen capture via nut.js.

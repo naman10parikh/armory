@@ -8,10 +8,12 @@ source_url: https://github.com/sverklo/sverklo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 78
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-12T15:48:37Z"
 ---
 ## What it is
 MCP server `Sverklo`, catalogued on PulseMCP. Local-first code intelligence with hybrid search, impact analysis, diff review, and memory.

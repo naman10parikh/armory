@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-17T12:32:48Z"
 ---
 ## What it is
 MCP server `Solana Vault`, catalogued on PulseMCP. Enables secure Solana blockchain operations including balance checking, SOL transfers, transaction history retrieval, and token queries without exposing private keys to client applications

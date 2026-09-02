@@ -8,10 +8,12 @@ source_url: https://github.com/apollographql/apollo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 283
+stars: 308
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 74
+pushed_at: "2026-09-01T17:44:07Z"
 ---
 ## What it is
 MCP server `Apollo GraphQL`, catalogued on PulseMCP. Enables AI agents to interact with GraphQL APIs by exposing operations as tools, supporting both local schema files and Apollo GraphOS integration with features for introspection and custom scalar mapping.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-04T10:34:40Z"
 ---
 ## What it is
 MCP server `Cloudflare Edge Services`, catalogued on PulseMCP. Provides image generation, URL content extraction, and web search capabilities through Cloudflare Workers deployed globally on edge networks for high performance and scalability.

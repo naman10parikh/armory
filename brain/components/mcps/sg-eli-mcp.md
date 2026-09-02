@@ -8,11 +8,13 @@ source_url: https://github.com/matematicsolutions/sg-eli-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T13:57:58Z"
 ---
 ## What it is
 An MCP server for Singapore Statutes Online (SSO), the official portal for Singapore legislation. It browses, fetches, and cites Acts, with a verifiable citation on every response.

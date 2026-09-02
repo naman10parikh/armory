@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-25T22:21:39Z"
 ---
 ## What it is
 MCP server `Factur-X`, catalogued on PulseMCP. Generates, validates, and manages Factur-X electronic invoices compliant with EN 16931 and French B2B 2026 reform requirements.

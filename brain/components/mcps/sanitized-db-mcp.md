@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-26T20:08:48Z"
 ---
 ## What it is
 Enables SQL query sanitization by rewriting queries at the AST level to prevent PII/PHI exposure, acting as a proxy between AI agents and PostgreSQL databases.

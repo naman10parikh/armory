@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T10:19:45Z"
 ---
 ## What it is
 Analyzes chess positions via Stockfish, returning best moves and evaluations from FEN or PGN input.

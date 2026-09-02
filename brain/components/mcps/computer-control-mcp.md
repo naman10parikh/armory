@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-03T05:20:34Z"
 ---
 ## What it is
 Enables computer control via mouse, keyboard, OCR, and screen/window management, similar to Anthropic's computer-use.

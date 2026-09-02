@@ -8,10 +8,12 @@ source_url: https://github.com/baphometnxg/aloha-fyi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T04:53:12Z"
 ---
 ## What it is
 MCP server `Aloha FYI Hawaii`, catalogued on PulseMCP. Hawaii tours, events, and deals from booking platforms for AI assistants.

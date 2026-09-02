@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-12T18:24:29Z"
 ---
 ## What it is
 Enables real-time code analysis for JavaScript, TypeScript, and Python through Claude Desktop and other MCP clients, detecting bugs, code smells, and security vulnerabilities with automated quick fixes.

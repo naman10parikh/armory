@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:01:19Z"
 ---
 ## What it is
 Wraps the local agy CLI into an MCP server to provide a web_search tool that enables Claude Code to perform real internet searches through Gemini/Google.

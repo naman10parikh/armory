@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-08T21:16:52Z"
 ---
 ## What it is
 MCP server `Cisco Hyperfabric`, catalogued on PulseMCP. Automate Cisco Hyperfabric data center switching fabrics

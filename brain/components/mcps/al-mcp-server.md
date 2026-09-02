@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-03-04T08:56:59Z"
 ---
 ## What it is
 Provides AI assistants with complete visibility into AL dependencies and symbols by exposing compiled .app files through the Model Context Protocol, enabling smart object discovery, deep code analysis, and reference tracking for Business Central development.

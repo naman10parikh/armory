@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 2
+forks: 3
+pushed_at: "2025-08-18T22:36:55Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server providing AI assistants with comprehensive Quip document access and management. Enables document lifecycle management, smart search, comment management, and secure token-based authentication for both Quip.com and enterprise instances.

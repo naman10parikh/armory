@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T14:44:09Z"
 ---
 ## What it is
 Controls local purplemux (tmux + LLM workspace manager) from Claude Code/Codex, enabling cross-LLM orchestration by managing workspaces, tabs, terminals, and Electron browser via 16 tools.

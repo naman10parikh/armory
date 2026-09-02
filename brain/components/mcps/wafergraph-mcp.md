@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T22:28:03Z"
 ---
 ## What it is
 Provides read-only access to wafergraph.com's semiconductor and AI supply-chain dataset, enabling search and retrieval of companies, segments, supply chain relationships, and M&A deals.

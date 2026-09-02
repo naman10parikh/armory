@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T13:06:52Z"
 ---
 ## What it is
 Provides live SEC filing events including resolved activist stakes (13D) and typed 8-K, S-1, and merger filings via the EDGAR Events API.

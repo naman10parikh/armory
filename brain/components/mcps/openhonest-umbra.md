@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T16:29:17Z"
 ---
 ## What it is
 Audits a module against its test suite and reports the cases the tests are structurally unable to see, then proves each gap with a real failing test rather than a warning. Covers Python, TypeScript, JavaScript, Java, Rust and Go.

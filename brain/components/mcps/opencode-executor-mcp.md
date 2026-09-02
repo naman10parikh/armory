@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T05:49:59Z"
 ---
 ## What it is
 Enables Claude Code to delegate prompts to an OpenCode agent session for cheaper executor-role work, supporting different providers and session persistence.

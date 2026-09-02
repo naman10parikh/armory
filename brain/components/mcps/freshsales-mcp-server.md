@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T10:57:14Z"
 ---
 ## What it is
 Connects AI assistants to Freshsales CRM, enabling natural language queries and CRUD operations on contacts, deals, accounts, and more.

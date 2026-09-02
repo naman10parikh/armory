@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:13:59Z"
 ---
 ## What it is
 MCP server for Claude Text Lab, enabling fact-preserving regeneration of Claude-generated text through inspect, sanitize, audit, rewrite, and benchmark operations, with auditable local quality gates and an unverified provenance verdict.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-07T16:03:37Z"
 ---
 ## What it is
 Provides network monitoring capabilities including real-time latency measurement, ping sweeps, and subnet scanning via MCP tools, with a companion web dashboard for live visualization.

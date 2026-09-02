@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T15:51:15Z"
 ---
 ## What it is
 Enables AI agents to perform SEO tasks like keyword research, rank tracking, backlink analysis, site audits, and competitor insights using free data sources, with no subscription or per-call charges.

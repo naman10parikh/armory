@@ -8,10 +8,12 @@ source_url: https://github.com/joshualelon/deep-research-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-22T18:38:25Z"
 ---
 ## What it is
 MCP server `Deep Research`, catalogued on PulseMCP. Integrates multiple AI agents to conduct in-depth research on complex topics with customizable tones, providing detailed progress reporting and error handling.

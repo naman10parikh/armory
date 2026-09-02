@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T12:50:48Z"
 ---
 ## What it is
 Local Streamable HTTP MCP server that replaces the Steward Chrome extension, letting ChatGPT interact with Steward workspace data, manage drafting sessions, and generate documents via MCP tools.

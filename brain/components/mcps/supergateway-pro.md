@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:35:09Z"
 ---
 ## What it is
 Provides a centralized MCP gateway with connection pooling, real-time observability dashboard, and macOS menu bar integration, enabling efficient resource usage for AI coding clients.

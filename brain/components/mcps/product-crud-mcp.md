@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T03:12:45Z"
 ---
 ## What it is
 Exposes CRUD operations for products via MCP tools and a resource, sharing a common business logic layer with a GraphQL API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T11:39:37Z"
 ---
 ## What it is
 Search the AI Tool Directory catalog of 2,000+ AI tools — compare tools, find curated alternatives, and check whether a tool is still active, defunct, or acquired (backed by the AI Graveyard dataset).

@@ -8,10 +8,12 @@ source_url: https://github.com/gomarble-ai/google-analytics-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-08-05T09:45:29Z"
 ---
 ## What it is
 MCP server `Google Analytics 4`, catalogued on PulseMCP. Integrates with Google Analytics 4 to provide property management, page views, user metrics, events, traffic sources, device analytics, and custom reporting with automatic OAuth 2.0 authentication for marketing analytics and website performance monitoring.

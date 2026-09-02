@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T20:13:13Z"
 ---
 ## What it is
 Enables managing a local Minecraft hosting service through MCP, including server creation, start/stop, mod installation, and log retrieval.

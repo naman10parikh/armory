@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T05:20:56Z"
 ---
 ## What it is
 Enables progressive exploration of Swagger/OpenAPI API documentation. Supports loading multiple specs, browsing endpoints and schemas, and searching across documentation.

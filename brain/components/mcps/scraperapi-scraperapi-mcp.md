@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 5
+forks: 0
+pushed_at: "2026-07-17T14:31:47Z"
 ---
 ## What it is
 MCP server for ScraperAPI web scraping with JavaScript rendering, geotargeting, premium proxies, and auto-parsing support.

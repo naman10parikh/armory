@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-26T19:53:01Z"
 ---
 ## What it is
 AI-Powered Red Team MCP Server enabling autonomous penetration testing via Model Context Protocol with 44+ security tools for AI agents.

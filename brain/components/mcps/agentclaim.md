@@ -8,11 +8,13 @@ source_url: https://github.com/volkangunay/agentclaim
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T09:53:05Z"
 ---
 ## What it is
 Enables multiple AI coding agents to safely collaborate in the same git working tree by managing file ownership, merging writes, and preventing snapshot races.

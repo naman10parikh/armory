@@ -8,10 +8,12 @@ source_url: https://github.com/vadimnastoyashchy/json-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-26T10:48:52Z"
 ---
 ## What it is
 MCP server `JSON Splitter and Merger`, catalogued on PulseMCP. Provides tools for splitting large JSON files into manageable chunks and merging multiple JSON files into a consolidated output for efficient data processing workflows.

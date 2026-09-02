@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-09T19:39:56Z"
 ---
 ## What it is
 MCP server `GitLab HTTP API`, catalogued on PulseMCP. GitLab integration covering projects, issues, merge requests, and CI/CD pipelines via HTTP API with npm distribution.

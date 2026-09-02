@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T23:43:10Z"
 ---
 ## What it is
 MCP server `DevFlow`, catalogued on PulseMCP. Jira and GitHub/GitLab workflow automation with 32 tools.

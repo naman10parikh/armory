@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T11:54:52Z"
 ---
 ## What it is
 Enables AI agents to safely ingest, inspect, edit, and export manufacturing documents (Excel, PDF, Word, Markdown) with controlled patch workflows and MES entity extraction.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T08:12:55Z"
 ---
 ## What it is
 A read-only MCP server for reading and analyzing Lanhu (Blue Lake) design projects, providing tools to retrieve design lists, previews, node trees, schemas, and exportable resources.

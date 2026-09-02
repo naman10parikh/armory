@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-21T15:34:36Z"
 ---
 ## What it is
 Translates heraldic blazon descriptions into structured visual parameters for image generation, leveraging 900 years of heraldic compositional rules.

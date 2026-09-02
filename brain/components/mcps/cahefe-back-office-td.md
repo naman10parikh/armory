@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T21:05:46Z"
 ---
 ## What it is
 MCP server `Back Office TD`, catalogued on PulseMCP. Investment back-office operations for querying investor information and account details with LGPD compliance.

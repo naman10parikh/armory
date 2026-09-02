@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-08-31T15:28:03Z"
 ---
 ## What it is
 Enables bioinformatics analysis through natural language conversations with Claude Desktop, automatically generating and executing Python scripts to produce HTML reports and visualizations.

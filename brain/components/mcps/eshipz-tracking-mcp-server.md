@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-04T13:56:29Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides shipment tracking functionality through the eShipz API. This server enables Claude Desktop to track packages across multiple carriers with intelligent, status-aware formatting.

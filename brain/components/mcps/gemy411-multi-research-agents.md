@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 16
+forks: 4
+pushed_at: "2026-03-19T00:46:10Z"
 ---
 ## What it is
 a KTOR server/ MCP server written in Kotlin applying multi-agents schools in a flexible research system to be used with coding or for research any general case.

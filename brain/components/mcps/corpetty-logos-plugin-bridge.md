@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T19:38:52Z"
 ---
 ## What it is
 MCP server `Logos Plugin Bridge`, catalogued on PulseMCP. Exposes Logos modular plugin architecture methods as MCP tools, enabling AI assistants to interact with C++ Logos modules via a generated bridge.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T02:45:58Z"
 ---
 ## What it is
 Search, verify and screen over 1 million African companies across 18 official government registries, along with the public contracts they have won and OFAC/UN sanctions screening. Every result carries its registry source, date and a confidence signal, and the server returns nulls rather than fabrica

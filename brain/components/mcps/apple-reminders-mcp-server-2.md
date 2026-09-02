@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-02T17:07:11Z"
 ---
 ## What it is
 A Model Context Protocol server providing comprehensive integration with Apple Reminders, enabling CRUD operations, natural language date parsing, advanced search, and list management.

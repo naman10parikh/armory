@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T14:39:40Z"
 ---
 ## What it is
 MCP server `Color AI`, catalogued on PulseMCP. AI tools for color analysis, generation, and palette management.

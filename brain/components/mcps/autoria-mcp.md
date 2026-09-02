@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T05:43:17Z"
 ---
 ## What it is
 An MCP server that exposes the AUTO.RIA used-cars REST API to AI agents, providing programmatic access to the Ukrainian used-car market without scraping.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:24:36Z"
 ---
 ## What it is
 Enables querying the Brazilian Rural Environmental Registry (CAR) to retrieve property information from a CAR number. It provides a single read-only tool, hosted with prepaid per-query pricing and no credentials required.

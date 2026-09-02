@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T10:16:02Z"
 ---
 ## What it is
 Enables AI agents to safely operate HubSpot CRM contacts, deals, and pipelines via MCP, with caching, idempotency, audit trails, and robust error handling.

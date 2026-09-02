@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T01:20:03Z"
 ---
 ## What it is
 An append-only coordination memory for multi-agent and human work, backed by SQLite, with a local dashboard and acceptance contracts that enforce integrator review before work is considered accepted.

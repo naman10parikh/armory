@@ -8,10 +8,12 @@ source_url: https://github.com/sweatent/askr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-22T04:39:47Z"
 ---
 ## What it is
 MCP server `Askr`, catalogued on PulseMCP. Provides async Q&A capabilities by routing questions to any OpenAI-compatible API with streaming and parallel query support.

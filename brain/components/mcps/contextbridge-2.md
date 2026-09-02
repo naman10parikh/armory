@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-12T18:09:23Z"
 ---
 ## What it is
 Enables compressing an in-progress AI conversation into a structured context block preserving user goal, decisions, and state, then formats it for another AI to continue seamlessly.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T01:52:08Z"
 ---
 ## What it is
 MCP server that provides bounded, reversible control over Tilda visual editor operations, enabling coding agents to read, edit, publish, and rollback page changes with explicit identity and human approval.

@@ -8,10 +8,12 @@ source_url: https://github.com/archimedescrypto/figma-mcp-chunked
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-18T18:56:36Z"
 ---
 ## What it is
 MCP server `Figma Chunked`, catalogued on PulseMCP. Provides a memory-efficient interface to the Figma API that handles large files by breaking operations into manageable chunks with pagination support, filtering capabilities, and resume functionality for retrieving design data without memory constraints.

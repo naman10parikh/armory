@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-01T18:17:58Z"
 ---
 ## What it is
 Exposes MetaCall FaaS capabilities as MCP tools for deploying, invoking, and managing serverless functions.

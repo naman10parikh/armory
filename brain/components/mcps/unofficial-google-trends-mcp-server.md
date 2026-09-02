@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:29:46Z"
 ---
 ## What it is
 Enables AI assistants to query Google Trends data, including search interest over time, regional breakdowns, trending searches, and keyword ideas.

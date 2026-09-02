@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-11T23:47:17Z"
 ---
 ## What it is
 MCP server `Media Forge`, catalogued on PulseMCP. Generates diagrams, charts, HTML pages, and slide decks from text DSLs for embedding in Markdown documentation.

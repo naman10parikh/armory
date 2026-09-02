@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-31T18:36:48Z"
 ---
 ## What it is
 A remote MCP server template for Cloudflare Workers that enables deploying custom tools without authentication and connecting to MCP clients like Claude Desktop.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-13T02:45:25Z"
 ---
 ## What it is
 Provides shared long-term memory for AI coding agents via MCP, allowing tools like Claude Code and Codex to store and retrieve distilled facts, notes, and conversation history to persist context across sessions.

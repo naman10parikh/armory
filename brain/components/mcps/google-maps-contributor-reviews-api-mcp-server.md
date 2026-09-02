@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:04:28Z"
 ---
 ## What it is
 Enables fetching a Google Maps contributor's review history as structured JSON, including reviewer profile and place details, for reputation research, reviewer vetting, and fraud detection.

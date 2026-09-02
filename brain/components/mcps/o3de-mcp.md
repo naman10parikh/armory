@@ -8,11 +8,13 @@ source_url: https://github.com/nickschuetz/o3de-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-26T23:23:17Z"
 ---
 ## What it is
 Automate Open 3D Engine (O3DE) with AI — an MCP server for editor control, project & build management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T19:09:38Z"
 ---
 ## What it is
 Enables a police agent to autonomously chase a thief in a peer-to-peer grid game using FastMCP for turn-based communication and decentralized orchestration.

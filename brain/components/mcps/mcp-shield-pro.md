@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T05:45:26Z"
 ---
 ## What it is
 Enterprise-grade zero-dependency security shield and runtime governance engine for MCP servers, providing OWASP MCP Top 10 audits, cryptographic tool call signing, AIBOM generation, and inline parameter firewall protection.

@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-22T13:12:21Z"
 ---
 ## What it is
 MCP server `Docker Manager`, catalogued on PulseMCP. Enables natural language-driven Docker container management, including operations, log monitoring, and command execution.

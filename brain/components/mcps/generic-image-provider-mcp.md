@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T11:12:28Z"
 ---
 ## What it is
 Maps a stable image-tool contract to an OpenAI-compatible image provider while enforcing file access within configured Windows directories.

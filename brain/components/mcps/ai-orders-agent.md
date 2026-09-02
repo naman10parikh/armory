@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T03:51:32Z"
 ---
 ## What it is
 Enables querying and filtering a read-only dataset of AI-related court orders with full-text search, facets, and record retrieval via MCP, OpenAPI, or REST endpoints.

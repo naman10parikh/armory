@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T12:27:49Z"
 ---
 ## What it is
 This MCP server connects GitLab projects and merge requests with Jira work tracking, Confluence pages, and Grafana dashboards. It provides read-only access to GitLab, Confluence, and Grafana, while Jira mutations require explicit confirmation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T02:17:59Z"
 ---
 ## What it is
 This MCP server provides the current server time through a basic resource and tool, following the MCP Apps quickstart.

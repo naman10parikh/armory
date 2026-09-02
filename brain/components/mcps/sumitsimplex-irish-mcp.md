@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-21T08:32:23Z"
 ---
 ## What it is
 MCP server `Irish MCP`, catalogued on PulseMCP. Collection of hosted MCP servers providing live access to Irish public data including transport, weather, and government APIs.

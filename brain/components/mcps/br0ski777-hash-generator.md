@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:16Z"
 ---
 ## What it is
 MCP server `Hash Generator`, catalogued on PulseMCP. Generates cryptographic hashes using MD5, SHA-1, SHA-256, SHA-512, and bcrypt algorithms.

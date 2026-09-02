@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T20:32:44Z"
 ---
 ## What it is
 An MCP server that exposes Finviz stock screening, fundamentals, news, and market data as tools for MCP clients like Claude Code and Claude Desktop.

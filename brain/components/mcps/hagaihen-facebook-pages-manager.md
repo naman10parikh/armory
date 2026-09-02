@@ -8,10 +8,12 @@ source_url: https://github.com/hagaihen/facebook-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 159
+stars: 215
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 78
+pushed_at: "2026-04-23T19:08:42Z"
 ---
 ## What it is
 MCP server `Facebook Pages Manager`, catalogued on PulseMCP. Integrates with Facebook Pages to enable direct management of posts, comments, and engagement metrics through the Graph API for streamlined social media management.

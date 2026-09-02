@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-14T12:50:54Z"
 ---
 ## What it is
 MCP server for controlling Behringer X-Air digital mixers via OSC, with symbolic naming and dB-to-float conversion.

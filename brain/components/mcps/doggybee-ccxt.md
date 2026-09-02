@@ -8,10 +8,12 @@ source_url: https://github.com/doggybee/mcp-server-ccxt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 139
+stars: 145
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 34
+pushed_at: "2025-06-03T03:55:44Z"
 ---
 ## What it is
 MCP server `CCXT`, catalogued on PulseMCP. High-performance CCXT MCP server for cryptocurrency exchange integration.

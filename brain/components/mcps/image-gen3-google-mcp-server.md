@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-15T15:25:20Z"
 ---
 ## What it is
 Enables high-quality image generation using Google's Imagen 3.0 model via the Gemini API, with support for multiple images per request and automatic file management and HTML preview generation.

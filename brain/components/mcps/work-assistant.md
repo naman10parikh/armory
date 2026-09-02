@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:02:30Z"
 ---
 ## What it is
 Enables AI agents to search and read a local, provider-independent email archive, reconstruct contacts and interactions, and prepare draft responses without sending anything.

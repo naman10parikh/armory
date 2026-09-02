@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T18:44:44Z"
 ---
 ## What it is
 MCP server for Microsoft Power BI and Fabric, enabling Claude to discover workspaces, semantic models, generate and execute DAX queries, and retrieve report metadata via device-code authentication.

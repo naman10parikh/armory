@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T22:25:32Z"
 ---
 ## What it is
 A lightweight Jira Cloud MCP server for Claude Code that provides high-value tools for reading and writing Jira issues with human-readable responses.

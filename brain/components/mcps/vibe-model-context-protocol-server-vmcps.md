@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-11T23:16:46Z"
 ---
 ## What it is
 A Python-based server for managing and analyzing code context for AI-assisted development. Provides real-time code analysis, project structure analysis, dependency tracking, and secure API endpoints.

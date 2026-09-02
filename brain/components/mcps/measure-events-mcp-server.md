@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-24T21:19:31Z"
 ---
 ## What it is
 Enables AI assistants to query privacy-first web analytics from Measure.events, including pageviews, top pages, referrers, and custom event tracking, all via natural language.

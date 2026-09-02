@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T04:18:32Z"
 ---
 ## What it is
 MCP bridge for using local Claude CLI as a bounded reviewer and analysis delegate for Codex.

@@ -8,10 +8,12 @@ source_url: https://github.com/disler/aider-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 297
+stars: 307
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 60
+pushed_at: "2025-05-21T14:06:27Z"
 ---
 ## What it is
 MCP server `Aider`, catalogued on PulseMCP. Aider MCP Server offloads AI coding tasks to Aider's specialized implementation, reducing costs and enhancing development efficiency through natural language code changes and model selection.

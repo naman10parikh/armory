@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T09:53:09Z"
 ---
 ## What it is
 Enables deterministic, compliant home insurance quoting through Model Context Protocol, with server-owned pricing, validation, consent gating, and audit trails.

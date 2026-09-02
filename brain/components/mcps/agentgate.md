@@ -8,11 +8,13 @@ source_url: https://github.com/agentkitai/agentgate
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 32
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-30T20:13:12Z"
 ---
 ## What it is
 Human-in-the-loop approval gateway for agent tool calls: agents request, policies decide, humans approve via Slack/Discord/web — with an OWASP-LLM-Top-10-tagged audit trail. Self-hostable.

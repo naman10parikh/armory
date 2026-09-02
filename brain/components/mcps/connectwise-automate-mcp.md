@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-31T16:46:26Z"
 ---
 ## What it is
 A Model Context Protocol server for ConnectWise Automate with decision tree architecture, enabling Claude to manage scripts, computers, groups, and automation workflows.

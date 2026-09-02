@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T12:28:09Z"
 ---
 ## What it is
 Provides a local-first code indexing and search engine for coding agents via MCP, enabling precise codebase queries, symbol lookup, and freshness-aware retrieval.

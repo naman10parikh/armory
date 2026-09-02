@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T18:10:09Z"
 ---
 ## What it is
 A read-only MCP server that recommends React components from a measured, curated snapshot by answering component-fit questions with terse verdicts and harness facts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T16:23:45Z"
 ---
 ## What it is
 A Python MCP server for note management with RAG capabilities, enabling adding, searching, asking questions, summarizing, and deleting notes, using PostgreSQL and ChromaDB with Google Gemini for embeddings and generation.

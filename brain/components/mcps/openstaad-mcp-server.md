@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T06:44:22Z"
 ---
 ## What it is
 Enables AI agents to interact with Bentley STAAD.Pro models for tasks like load case definition, data extraction, and property setting, running locally with multi-instance support and no cloud dependency.

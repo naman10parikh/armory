@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-23T02:03:59Z"
 ---
 ## What it is
 Enables fast, targeted queries against an Obsidian vault knowledge graph using tools like search, neighbor traversal, and pathfinding, without needing to load the full graph into LLM context.

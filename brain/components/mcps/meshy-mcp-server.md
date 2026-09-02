@@ -8,11 +8,13 @@ source_url: https://github.com/meshy-dev/meshy-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-22T16:16:57Z"
 ---
 ## What it is
 Enables AI agents to create, manage, and download 3D models, textures, images, rigged characters, and animations through natural conversation.

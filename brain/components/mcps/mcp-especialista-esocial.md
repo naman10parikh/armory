@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T21:58:55Z"
 ---
 ## What it is
 MCP server providing deep knowledge of Brazilian eSocial S-1.3, including validation rules, XSD fields, and official documentation, enabling AI agents to answer questions about eSocial events and compliance.

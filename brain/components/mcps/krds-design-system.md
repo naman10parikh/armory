@@ -8,11 +8,13 @@ source_url: https://github.com/re-rank/UIUX-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2691
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2025-10-28T10:08:35Z"
 ---
 ## What it is
 Build interfaces that follow the Korea Responsive Design System (KRDS) faster. Search and insert official components, retrieve ready-to-use HTML, and explore color, spacing, and typography tokens. Validate your code for KRDS compliance and accessibility and get actionable improvement suggestions.

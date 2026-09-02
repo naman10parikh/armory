@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T02:03:16Z"
 ---
 ## What it is
 Enables AI-powered PDF editing and generation via natural language prompts using Google Gemini, with local storage and OCR for searchable text.

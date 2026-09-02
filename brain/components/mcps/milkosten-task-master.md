@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-07T05:56:12Z"
 ---
 ## What it is
 MCP server `Task Master`, catalogued on PulseMCP. Integrates with an external task API to provide CRUD operations for task management, enabling natural language interactions for task creation, filtering, and progress reporting.

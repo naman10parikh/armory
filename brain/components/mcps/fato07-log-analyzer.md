@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-16T16:39:25Z"
 ---
 ## What it is
 MCP server `Log Analyzer`, catalogued on PulseMCP. Analyzes log files across multiple formats including syslog, Apache/Nginx, JSON Lines, Python, Java, Docker, and Kubernetes with automatic format detection, pattern searching, error extraction and grouping, statistical analysis, and event correlation.

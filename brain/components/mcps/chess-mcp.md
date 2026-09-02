@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T09:13:38Z"
 ---
 ## What it is
 A powerful chess engine and game server built with the Model Context Protocol (MCP). Play chess against AI, analyze positions, and integrate chess functionality into your AI applications.

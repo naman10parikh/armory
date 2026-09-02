@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T19:27:48Z"
 ---
 ## What it is
 MCP server `Pyright (daedalus)`, catalogued on PulseMCP. Exposes Pyright language server functionality for Python type checking, hover info, completions, and code navigation.

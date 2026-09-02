@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T10:48:29Z"
 ---
 ## What it is
 MCP server exposing Shopify commerce backend with ~22 typed tools for orders, inventory, logistics, and fulfillment, including read/write separation and structured errors.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 1
+forks: 0
+pushed_at: "2026-05-16T08:55:11Z"
 ---
 ## What it is
 Query the AgentForge Trust Score (0-100 across five dimensions: security, code health, behavioral audit, community trust, EU compliance) for any MCP server before connecting. Exposes `check_trust`, `evaluate_policy`, `list_trusted`, and `recommend` tools. 3,600+ servers audited, free public API.

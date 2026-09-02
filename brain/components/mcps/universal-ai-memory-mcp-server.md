@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T02:50:33Z"
 ---
 ## What it is
 Provides a local-first secure memory store with encrypted payloads, entity extraction, and vector persistence, exposing read, write, and delete tools with granular capability controls.

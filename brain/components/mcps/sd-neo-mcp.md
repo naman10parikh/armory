@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T12:41:09Z"
 ---
 ## What it is
 MCP server and CLI tool connecting to SD WebUI Forge NEO, enabling image generation, model management, and more via natural language.

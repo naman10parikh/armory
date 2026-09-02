@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
-stars: 85
+stars: 86
+forks: 9
+pushed_at: "2026-08-19T07:02:47Z"
 ---
 ## What it is
 MCP server for AI agent for cybersecurity: automate assessment of documents, questionnaires & reports. Multi-format parsing, RAG knowledge base,Risks, compliance gaps, remediations.

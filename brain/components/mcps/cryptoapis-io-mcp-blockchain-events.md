@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:49:44Z"
 ---
 ## What it is
 Enables creating and managing webhook subscriptions for blockchain events such as new blocks, confirmed transactions, and token transfers across major blockchains (EVM, UTXO, Solana, XRP).

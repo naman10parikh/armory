@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T15:22:15Z"
 ---
 ## What it is
 Provides Vedic astrology tools to AI assistants, enabling birth chart calculation, daily Panchang, and nakshatra profiles via the star-meet.com API.

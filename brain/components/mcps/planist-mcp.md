@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:34:30Z"
 ---
 ## What it is
 Enables AI clients to inspect, read, and propose page edits in Planist workspaces over MCP. Supports listing pages, fetching structured content, and submitting edit proposals for review.

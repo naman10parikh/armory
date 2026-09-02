@@ -8,10 +8,12 @@ source_url: https://github.com/i3t4an/kali_linux_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-09-18T17:31:10Z"
 ---
 ## What it is
 MCP server `Kali Linux`, catalogued on PulseMCP. Provides remote access to Kali Linux penetration testing tools through a Flask REST API, enabling network scanning, vulnerability assessment, password cracking, and exploitation framework operations from non-Kali systems.

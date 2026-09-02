@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-06T18:39:33Z"
 ---
 ## What it is
 Enables management of Facets Control Plane projects, resources, environments, and deployments through Claude, offering secure infrastructure automation workflows.

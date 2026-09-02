@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T10:21:10Z"
 ---
 ## What it is
 MCP server for Portuguese Parliament open data, enabling AI agents to access legislative initiatives, deputies, plenary votes, petitions, and parliamentary committees.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T20:29:50Z"
 ---
 ## What it is
 Automatically loads Mixpeek's OpenAPI spec and exposes its endpoints as MCP tools, enabling natural language interaction with Mixpeek's API via standard MCP clients.

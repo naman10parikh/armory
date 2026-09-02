@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T04:55:17Z"
 ---
 ## What it is
 Enables AI assistants to query local conversation transcripts and relationship data via a local MCP server, allowing retrieval of past conversations and facts about people.

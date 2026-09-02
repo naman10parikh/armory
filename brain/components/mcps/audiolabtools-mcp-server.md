@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T23:30:29Z"
 ---
 ## What it is
 Enables AI to analyze audio files for loudness, voice quality, and more via the AudioLab API, supporting both public URLs and local files.

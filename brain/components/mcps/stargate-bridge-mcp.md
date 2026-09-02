@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-27T12:19:32Z"
 ---
 ## What it is
 An MCP server that enables cross-chain token transfers via the Stargate protocol.

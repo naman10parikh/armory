@@ -8,10 +8,12 @@ source_url: https://github.com/biocross/displaybuddy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-14T09:23:44Z"
 ---
 ## What it is
 MCP server `DisplayBuddy`, catalogued on PulseMCP. Controls Mac external monitors via DisplayBuddy for brightness, contrast, volume, input source, presets, and display sync.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T05:59:26Z"
 ---
 ## What it is
 An MCP server for ROS 2 environments that connects via rosbridge WebSocket, enabling topic/service introspection, publish/subscribe, service calls, robot connectivity checks, and polishing pipeline operations.

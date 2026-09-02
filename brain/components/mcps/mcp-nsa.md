@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T11:15:38Z"
 ---
 ## What it is
 MCP server for Polish administrative case-law (NSA + regional administrative courts, CBOSA) with ECLI and verifiable citations.

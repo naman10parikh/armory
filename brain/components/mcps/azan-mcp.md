@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 106
+pushed_at: "2026-06-02T09:38:24Z"
 ---
 ## What it is
 Azan-MCP is an open-source Model Context Protocol (MCP) server that brings a comprehensive suite of Islamic utilities directly into AI assistants such as Claude Desktop.

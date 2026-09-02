@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T23:02:09Z"
 ---
 ## What it is
 The MCP server behind Constat — FDA & NHTSA regulatory-risk intelligence for AI agents, over the Model Context Protocol. Live public regulatory data — recalls, adverse events, warning letters, 510(k) premarket evidence, postmarket drift signals, reimbursement pathways, and vehicle safety. Decision s

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-30T08:07:55Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that brings your Withings health data into Claude, allowing natural conversation access to sleep patterns, body measurements, workouts, heart data, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T13:31:56Z"
 ---
 ## What it is
 An MCP server that provides tools to list, get, create, and update SAP S/4HANA Cloud Public Edition business objects like purchase orders, sales orders, and production orders through the Model Context Protocol.

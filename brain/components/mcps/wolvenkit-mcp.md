@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T02:25:41Z"
 ---
 ## What it is
 MCP server that gives Claude Code access to WolvenKit for Cyberpunk 2077 modding. Extract archives, convert game files to JSON, inspect meshes and textures, manage mods, and build mod projects — all from your terminal.

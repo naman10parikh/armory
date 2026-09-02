@@ -8,10 +8,12 @@ source_url: https://github.com/xxipv6/ida-pro-mcp-multiple
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-23T16:42:22Z"
 ---
 ## What it is
 MCP server `IDA Pro Multi-Session`, catalogued on PulseMCP. Bridges IDA Pro's reverse engineering capabilities with language models through a multi-session architecture that enables concurrent binary analysis across isolated processes for malware analysis and vulnerability research workflows.

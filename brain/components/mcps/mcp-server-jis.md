@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T04:32:57Z"
 ---
 ## What it is
 MCP server for jis: bilateral intent identity verification. Enables users to verify identities, request mutual consent, and send verified messages within the Intent-Centric Web ecosystem.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-14T14:05:46Z"
 ---
 ## What it is
 MCP server that generates images from text prompts using the Kandinsky AI via official API.

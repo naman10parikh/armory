@@ -8,10 +8,12 @@ source_url: https://github.com/subaru486desuwa/micu-image-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 86
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-23T11:49:09Z"
 ---
 ## What it is
 MCP server `Micu Image`, catalogued on PulseMCP. MCP server wrapping the Micu image generation API for text-to-image, editing, batch processing, and multi-reference fusion.

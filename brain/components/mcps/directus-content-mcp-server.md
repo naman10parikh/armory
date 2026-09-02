@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2026-02-04T20:05:50Z"
 ---
 ## What it is
 Enables Directus users to interact with their data in LLMs, allowing content editors and data analysts to manage content, query collections, and perform data operations using natural language.

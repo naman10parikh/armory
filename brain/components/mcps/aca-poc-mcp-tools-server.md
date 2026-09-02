@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T20:41:34Z"
 ---
 ## What it is
 Provides financial audit reporting and ledger query tools for AI agents, enabling generation of compliance, risk, and transaction reports and querying of transaction data, balances, and summaries from an in-memory SQLite database via MCP.

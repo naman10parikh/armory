@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-03T22:04:23Z"
 ---
 ## What it is
 MCP server `La Forge`, catalogued on PulseMCP. Provides pixel-perfect visual debugging for CSS development by capturing screenshots, comparing against baselines, detecting visual differences, and analyzing CSS rule conflicts through Chrome DevTools Protocol integration.

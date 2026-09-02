@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T06:24:37Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to create interactive visualizations, perform statistical analysis, run auto-EDA, and build dashboards using the HoloViz ecosystem with self-contained HTML output.

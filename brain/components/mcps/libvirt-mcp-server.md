@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-13T10:44:00Z"
 ---
 ## What it is
 Enables AI models to securely query and manage virtual machines and virtualized resources via the libvirt API through the Model Context Protocol.

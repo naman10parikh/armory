@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-11T17:05:20Z"
 ---
 ## What it is
 MCP server `Sigmund (PostgreSQL Banking)`, catalogued on PulseMCP. Integrates with PostgreSQL databases to provide banking transaction analysis, account balance monitoring, spending insights, and cashflow reporting with smart formatting and multi-provider financial data aggregation for personal finance management and business intelligence applications.

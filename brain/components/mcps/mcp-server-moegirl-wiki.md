@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T18:21:49Z"
 ---
 ## What it is
 MCP server for 萌娘百科 (Moegirl Wiki) that allows searching entries and fetching page introductions.

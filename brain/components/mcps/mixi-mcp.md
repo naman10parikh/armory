@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-25T12:59:04Z"
 ---
 ## What it is
 Enables conducting spatial preference interviews for the MIXI lighting brand via Claude.ai, with results saved to Cloudflare KV.

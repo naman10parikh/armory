@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T08:29:25Z"
 ---
 ## What it is
 MCP server for a modular RAG system that enables natural language question answering over enterprise documents with intent-aware routing, adaptive retrieval, and citation-backed responses.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T21:13:15Z"
 ---
 ## What it is
 Read-only MCP server that provides tools to search books, get book details, list authors, and view library statistics from a PostgreSQL database.

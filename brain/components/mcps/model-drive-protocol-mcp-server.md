@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-23T17:34:28Z"
 ---
 ## What it is
 Exposes runtime-local capabilities from browsers, apps, devices, and local processes to AI agents through a unified MCP bridge, enabling path-based discovery and invocation of live context.

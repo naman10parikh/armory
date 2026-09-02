@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, frameworks]
+forks: 4
+pushed_at: "2026-09-01T19:48:02Z"
 ---
 ## What it is
 Mock HTTP/SSE and LLM servers, inspired by wiremock, with response streaming and SSE

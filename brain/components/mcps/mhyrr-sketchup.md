@@ -8,10 +8,12 @@ source_url: https://github.com/mhyrr/sketchup-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 270
+stars: 396
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 68
+pushed_at: "2026-04-25T13:23:11Z"
 ---
 ## What it is
 MCP server `SketchUp`, catalogued on PulseMCP. Integrates with Sketchup to enable AI-assisted 3D modeling through bidirectional communication, allowing creation, modification, and transformation of components directly within the modeling environment.

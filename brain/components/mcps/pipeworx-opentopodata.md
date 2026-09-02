@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:30:04Z"
 ---
 ## What it is
 MCP server `Open Topo Data`, catalogued on PulseMCP. Retrieves global elevation data from multiple DEM datasets via Open Topo Data.

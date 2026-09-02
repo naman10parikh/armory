@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-23T18:08:05Z"
 ---
 ## What it is
 MCP server `ScholarFetch by laibniz`, catalogued on PulseMCP. Multi-engine scholarly search with a hosted Streamable HTTP endpoint.

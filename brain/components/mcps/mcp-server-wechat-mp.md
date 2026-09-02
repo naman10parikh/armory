@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T14:40:36Z"
 ---
 ## What it is
 Enables AI agents to publish articles to WeChat Official Account (微信公众号). Supports image upload, draft creation, and publishing via standardized MCP protocol.

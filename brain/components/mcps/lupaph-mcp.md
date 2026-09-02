@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T12:01:55Z"
 ---
 ## What it is
 Philippine real estate data for AI agents — search verified listings, calculate transfer costs, and get accurate legal information via lupaph.com.

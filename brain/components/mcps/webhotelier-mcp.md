@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T20:09:09Z"
 ---
 ## What it is
 A read-only MCP server that lets AI assistants query the WebHotelier REST API for live hotel data, including property info, room availability, rates, calendars, and offers via natural language tools.

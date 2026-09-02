@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T03:07:29Z"
 ---
 ## What it is
 Enables querying and operating on a Segment workspace through the Segment Public API, with ~40 tools for reading and mutating sources, destinations, functions, tracking plans, and more.

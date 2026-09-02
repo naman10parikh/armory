@@ -8,10 +8,12 @@ source_url: https://github.com/sarveshsea/memi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-09-01T05:48:18Z"
 ---
 ## What it is
 MCP server `Memoire`, catalogued on PulseMCP. Design consistency CI for Tailwind apps with shadcn/ui registry export and component management tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T09:28:54Z"
 ---
 ## What it is
 Enables AI agents to search local Markdown documents using natural language, with automatic indexing and section-level retrieval.

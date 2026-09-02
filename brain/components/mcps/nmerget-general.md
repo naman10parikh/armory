@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T21:40:20Z"
 ---
 ## What it is
 MCP server `General`, catalogued on PulseMCP. Config-driven server that dynamically exposes tools, resources, and prompts from project configuration.

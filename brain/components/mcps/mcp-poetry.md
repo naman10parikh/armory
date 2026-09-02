@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T16:45:12Z"
 ---
 ## What it is
 Enables searching and retrieving poems from the PoetryDB API by title, keyword, or author, and also provides random poems for inspiration.

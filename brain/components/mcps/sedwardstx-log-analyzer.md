@@ -8,10 +8,12 @@ source_url: https://github.com/sedwardstx/demomcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-30T15:57:32Z"
 ---
 ## What it is
 MCP server `Log Analyzer`, catalogued on PulseMCP. Analyzes Windows Event Logs, ETL files, structured logs, and unstructured text through specialized parsers with caching, providing real-time system monitoring, log source registration, filtering, pagination, and automated pattern and anomaly detection across multiple log formats.

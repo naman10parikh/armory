@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T14:51:06Z"
 ---
 ## What it is
 A self-hosted MCP server that gives ChatGPT a secure connection to your local machine, enabling it to read, edit, search, and run code in your projects.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:11Z"
 ---
 ## What it is
 MCP server `Stock Price`, catalogued on PulseMCP. Real-time stock quotes with price, change, volume, and market cap.

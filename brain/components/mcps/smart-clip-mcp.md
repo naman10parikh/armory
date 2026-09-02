@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T09:03:16Z"
 ---
 ## What it is
 AI-powered video clipping server that analyzes subtitles and audio to detect highlight moments, then generates platform-adapted short clips from long videos.

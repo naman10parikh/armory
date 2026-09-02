@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T21:41:18Z"
 ---
 ## What it is
 An MCP server that provides tools for filesystem, database, web, system, and shell operations, along with resources and prompts via SSE transport.

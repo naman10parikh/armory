@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T17:38:15Z"
 ---
 ## What it is
 A custom MCP server that cleans up raw notes into properly formatted, cross-linked notes in an Obsidian vault using Claude Desktop.

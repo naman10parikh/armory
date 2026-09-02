@@ -8,10 +8,12 @@ source_url: https://github.com/feiyun0112/spec-coding-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-01-08T06:30:41Z"
 ---
 ## What it is
 MCP server `Spec Coding`, catalogued on PulseMCP. Enforces a structured five-stage software development workflow from feature definition through task execution, generating standardized requirements documents, design specifications, and actionable task lists to ensure disciplined development practices with proper documentation.

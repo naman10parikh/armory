@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T13:38:52Z"
 ---
 ## What it is
 Automatically discovers vector indexes in a Neo4j database and exposes each as a semantic search tool with metadata pre-filtering, enabling natural language queries with dynamic filter support.

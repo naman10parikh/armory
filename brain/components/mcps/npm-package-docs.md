@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-16T02:49:45Z"
 ---
 ## What it is
 MCP server `NPM Package Documentation`, catalogued on PulseMCP. Fetches npm package documentation by retrieving README files from GitHub repositories or package tarballs with automatic fallback across multiple branch names and file formats.

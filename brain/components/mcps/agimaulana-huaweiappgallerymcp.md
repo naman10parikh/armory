@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 4
+forks: 2
+pushed_at: "2026-04-24T13:54:09Z"
 ---
 ## What it is
 Huawei AppGallery Connect publishing: upload APK/AAB, update metadata and localizations, submit for review, and manage phased rollouts.

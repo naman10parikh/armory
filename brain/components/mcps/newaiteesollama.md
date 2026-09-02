@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-02T23:19:51Z"
 ---
 ## What it is
 MCP server `Ollama`, catalogued on PulseMCP. Bridges AI assistants with locally-hosted Ollama models for complex reasoning tasks, providing tools for task decomposition and result evaluation without relying on cloud services.

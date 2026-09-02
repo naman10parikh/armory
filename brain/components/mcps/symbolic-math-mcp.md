@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T01:49:55Z"
 ---
 ## What it is
 A standalone FastMCP server that validates symbolic math proof files in YAML format using the symbolic-math-verify library.

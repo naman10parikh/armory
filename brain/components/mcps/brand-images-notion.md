@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T11:44:13Z"
 ---
 ## What it is
 Enriches Claude with tools to generate brand-consistent images using OpenAI's gpt-image-2 and upload them directly to Notion pages.

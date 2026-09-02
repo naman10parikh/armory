@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-20T20:13:47Z"
 ---
 ## What it is
 MCP server `Brasil API MCP Server`, catalogued on PulseMCP. Retrieve Brazilian address data via the Brasil API.

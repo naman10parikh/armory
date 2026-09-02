@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T14:25:51Z"
 ---
 ## What it is
 Write your resume in Markdown and export to PDF with AI assistance, using a built-in stylesheet and tools for conversion.

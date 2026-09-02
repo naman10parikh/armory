@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T09:59:17Z"
 ---
 ## What it is
 MCP server that enables natural-language SQL queries across multiple databases (ClickHouse, Teradata, PostgreSQL, MySQL, SQL Server, DB2, Oracle, MongoDB) with dialect-correct SQL generation, PII masking, and security-by-construction controls.

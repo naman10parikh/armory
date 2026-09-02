@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-14T14:06:41Z"
 ---
 ## What it is
 A secure MCP server that enables AI assistants to execute commands on remote servers via SSH, with cross-platform support and features like encrypted config storage, connection management, and security controls.

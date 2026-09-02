@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-25T19:11:23Z"
 ---
 ## What it is
 High-performance TypeScript MCP server for MikroTik RouterOS management, enabling Claude, GPT-4, or any MCP-compatible AI to manage routers through natural language with dynamic API discovery, VPN management, and configuration backup.

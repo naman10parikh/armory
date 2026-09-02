@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:05:17Z"
 ---
 ## What it is
 MCP server that evaluates engineering budget Excel workbooks against PER budgets, QS estimates, and historical unit rates, producing structured reports with approval recommendations and enabling follow-up Q&A via AI.

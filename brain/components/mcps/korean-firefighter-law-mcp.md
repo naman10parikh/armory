@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T06:11:39Z"
 ---
 ## What it is
 MCP server for querying Korean firefighter public data and fire-related laws/precedents. Provides tools to search fire/EMS statistics, fire facility information, and legal texts.

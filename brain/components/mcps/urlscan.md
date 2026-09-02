@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-05T08:04:55Z"
 ---
 ## What it is
 MCP server `URLScan`, catalogued on PulseMCP. Provides a bridge to urlscan.io for analyzing website security and content information through a single tool that accepts URL parameters and returns scan results.

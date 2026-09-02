@@ -8,11 +8,13 @@ source_url: https://github.com/wassermanproductions/unofficial-davinci-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-20T08:12:15Z"
 ---
 ## What it is
 Lets AI agents drive DaVinci Resolve for video editing, including beat-synced cuts, color matching, and loudness normalization, with both live Resolve Studio control and file-based interchange for the free edition.

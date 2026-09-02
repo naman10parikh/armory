@@ -8,10 +8,12 @@ source_url: https://github.com/stephanj/githubmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-11T13:15:50Z"
 ---
 ## What it is
 MCP server `GitHub`, catalogued on PulseMCP. Integrates with GitHub's API to enable repository management, issue tracking, pull request handling, and code manipulation through natural language commands

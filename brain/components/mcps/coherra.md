@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T09:41:17Z"
 ---
 ## What it is
 Enables agents to audit and repair their long-term memory in Sibyl Memory, detecting contradictions, duplicates, and stale facts, and fixing them with a permanent audit trail.

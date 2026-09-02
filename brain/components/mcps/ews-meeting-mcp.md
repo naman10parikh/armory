@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T06:22:22Z"
 ---
 ## What it is
 Safely schedule Outlook meetings on on-prem Exchange EWS with room-aware slot suggestions, local credentials, preview-confirmed writes, and audit-friendly lifecycle records.

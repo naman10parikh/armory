@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T03:44:05Z"
 ---
 ## What it is
 An MCP server that connects an AI assistant to a Minecraft server via a Mineflayer bot, supporting creative and survival modes with distinct toolsets.

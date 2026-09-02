@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-06T12:35:38Z"
 ---
 ## What it is
 An MCP server that integrates with Google Places API to enable AI clients to search for restaurants and get food recommendations based on location and preferences.

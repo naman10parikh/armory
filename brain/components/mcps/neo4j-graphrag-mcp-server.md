@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-17T09:29:30Z"
 ---
 ## What it is
 An MCP server that enables LLMs to perform vector search, fulltext search, combined search and Cypher queries, write operations, and multimodal image retrieval on Neo4j databases for GraphRAG applications.

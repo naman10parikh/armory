@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T01:41:03Z"
 ---
 ## What it is
 Validates 2026 elementary school record narratives against official Korean MOE guidelines, detecting prohibited or review-required expressions, checking input lengths, and providing cited official sources via seven MCP tools.

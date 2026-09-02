@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T06:01:08Z"
 ---
 ## What it is
 A code review tool that generates detailed HTML review documents by comparing branches or commits, with author filtering and intelligent analysis.

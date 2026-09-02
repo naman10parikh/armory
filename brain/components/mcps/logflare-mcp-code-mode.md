@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T18:14:53Z"
 ---
 ## What it is
 Enables agents to interact with the Logflare API by writing JavaScript functions that run in a Vercel Sandbox, using three tools: search, execute_read, and execute_write.

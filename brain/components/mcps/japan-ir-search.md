@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T00:19:10Z"
 ---
 ## What it is
 MCP server enabling full-text search of Japanese corporate IR filings (EDINET) via AI agents, supporting local SQLite FTS5 indexing and hosted beta API.

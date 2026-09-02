@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T16:46:23Z"
 ---
 ## What it is
 Wraps TheSportsDB API to enable AI agents to query sports data through natural language.

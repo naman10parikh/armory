@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T17:14:00Z"
 ---
 ## What it is
 Enables searching news, fetching top headlines, listing sources, and generating tech briefings via NewsAPI, with an optional browser frontend.

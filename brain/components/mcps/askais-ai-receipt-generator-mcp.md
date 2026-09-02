@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T20:45:01Z"
 ---
 ## What it is
 Lets MCP clients create professional receipt PDFs, return structured receipt data, and check prepaid API credit through a remote endpoint.

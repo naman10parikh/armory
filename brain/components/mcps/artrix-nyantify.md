@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-28T18:09:10Z"
 ---
 ## What it is
 MCP server `Nyantify`, catalogued on PulseMCP. Sends intelligent push notifications via Bark iOS app when AI coding tasks complete or require attention, detecting when developers are away from their IDE across macOS, Windows, and Linux.

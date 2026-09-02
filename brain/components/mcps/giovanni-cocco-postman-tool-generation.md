@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-27T16:17:39Z"
 ---
 ## What it is
 MCP server `Postman Tool Generation`, catalogued on PulseMCP. Integrates with Postman Tool Generation API to convert API collections into type-safe code for AI frameworks, enabling rapid development of AI-powered tools from existing API documentation.

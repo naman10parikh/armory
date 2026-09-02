@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T05:35:06Z"
 ---
 ## What it is
 Provides a standardized interface for interacting with Falai's tools and services through the Model Context Protocol, enabling AI assistants to leverage Falai capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T06:36:29Z"
 ---
 ## What it is
 Generates and serves an MCP server from a natural language prompt, without requiring SDK knowledge or boilerplate code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-09-02T03:46:07Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Polarion ALM. Lets AI assistants read documents, work items, and traceability links — and create, update, and reorganize work items — directly from your Polarion instance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T11:38:32Z"
 ---
 ## What it is
 A read-only, schema-aware MCP server that connects to SQL databases and provides tools for refining questions, browsing schema, validating, explaining, and running SELECT statements with safety guards.

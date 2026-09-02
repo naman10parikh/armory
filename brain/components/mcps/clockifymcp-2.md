@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T13:33:58Z"
 ---
 ## What it is
 Enables personal Clockify time tracking through ChatGPT and other MCP clients, allowing users to manage timers, entries, and reports via natural language.

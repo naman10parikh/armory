@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-14T00:46:03Z"
 ---
 ## What it is
 MCP server `Arkime`, catalogued on PulseMCP. Search and analyze network packet captures using the Arkime full packet capture system.

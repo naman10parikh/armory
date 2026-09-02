@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T09:49:13Z"
 ---
 ## What it is
 Electron debugging MCP server for both renderer (via Chrome DevTools Protocol) and main process (via V8 Inspector Protocol), enabling automation, debugging, and network capture.

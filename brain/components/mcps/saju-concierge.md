@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T03:56:05Z"
 ---
 ## What it is
 MCP server that calculates saju (four pillars) from birth date/time and provides entertaining interpretations of daily fortune, yearly luck, compatibility, name analysis, and tarot using MIT-licensed manseryeok-js.

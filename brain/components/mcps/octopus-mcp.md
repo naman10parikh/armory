@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T05:14:19Z"
 ---
 ## What it is
 Lets Claude analyse your Octopus Energy account: usage, costs, tariff comparisons, Saving Sessions, Octoplus rewards.

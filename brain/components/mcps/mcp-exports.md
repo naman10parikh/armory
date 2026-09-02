@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T03:32:04Z"
 ---
 ## What it is
 Enables MCP servers to share large exports as short-lived, single-use capability URLs that customers can download without authentication, avoiding huge inline token responses.

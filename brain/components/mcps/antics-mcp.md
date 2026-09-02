@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T13:39:33Z"
 ---
 ## What it is
 Enables AI agents to deploy multiplayer web games as playable URLs with rooms, live state sync, and leaderboards, all through a single tool call.

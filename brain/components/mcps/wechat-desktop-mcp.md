@@ -8,11 +8,13 @@ source_url: https://github.com/Wirkflow/wechat-desktop-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:16:26Z"
 ---
 ## What it is
 A production-oriented MCP server that exposes task-level WeChat Desktop automation to AI clients, enabling status checks, message fetching/reply, contact addition, and Moment publishing on macOS via accessibility automation.

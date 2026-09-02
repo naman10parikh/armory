@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T05:17:27Z"
 ---
 ## What it is
 MCP server for ADALM2000 (M2k) — AWG, scope, and PSU control via FastMCP 3.4.

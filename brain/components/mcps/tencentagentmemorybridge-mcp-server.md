@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T02:02:09Z"
 ---
 ## What it is
 Provides CodeBuddy, Claude Code, and other MCP-compatible tools with a 4-layer long-term memory system (conversations, atomic facts, scenes, profiles) powered by TencentDB Agent Memory.

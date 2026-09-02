@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T15:00:24Z"
 ---
 ## What it is
 Analyze GitHub repositories with health scores, issue triage, and action items through MCP tools.

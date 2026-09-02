@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-27T21:34:32Z"
 ---
 ## What it is
 MCP server `Alphavantage`, catalogued on PulseMCP. Integrates with Alphavantage API to provide real-time and historical financial data for stock market analysis and trading strategies.

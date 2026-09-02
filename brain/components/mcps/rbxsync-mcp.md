@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-25T19:18:20Z"
 ---
 ## What it is
 Enables AI agents to extract, sync, test, and debug Roblox games bidirectionally between Studio and filesystem via MCP.

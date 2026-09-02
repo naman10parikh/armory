@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-06T18:39:37Z"
 ---
 ## What it is
 Connects AI clients to the Matih data platform, enabling SQL queries, table profiling, analytics, chart creation, and file uploads through MCP tools with OAuth/PKCE authentication.

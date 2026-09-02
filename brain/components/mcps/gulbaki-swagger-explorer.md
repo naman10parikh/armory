@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-16T14:03:42Z"
 ---
 ## What it is
 MCP server `Swagger/OpenAPI Explorer`, catalogued on PulseMCP. Loads and explores Swagger/OpenAPI specifications from URLs or files, providing endpoint discovery, documentation access, and natural language summaries for API integration workflows.

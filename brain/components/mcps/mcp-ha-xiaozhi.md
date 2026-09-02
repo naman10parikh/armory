@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T16:48:32Z"
 ---
 ## What it is
 Proxies Xiaozhi MCP server to Home Assistant MCP server, enabling control of Home Assistant devices through Xiaozhi.

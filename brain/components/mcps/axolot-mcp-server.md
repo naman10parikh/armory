@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T14:33:05Z"
 ---
 ## What it is
 Enables AI assistants to interact with Axolot CMS for content, design tokens, media, and module management with site context awareness.

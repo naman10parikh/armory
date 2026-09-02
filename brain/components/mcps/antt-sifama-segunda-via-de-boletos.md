@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:00Z"
 ---
 ## What it is
 Read-only MCP server to query ANTT SIFAMA second-issue boletos from the official source. Hosted service with prepaid pay-per-use credits, works with any MCP client.

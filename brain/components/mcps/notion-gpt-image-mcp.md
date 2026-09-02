@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-28T01:25:16Z"
 ---
 ## What it is
 A Notion custom MCP server that uses OpenAI's gpt-image-2 to generate images and insert them directly into Notion pages.

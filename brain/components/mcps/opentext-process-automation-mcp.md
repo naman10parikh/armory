@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T17:37:31Z"
 ---
 ## What it is
 A Model Context Protocol server that lets Claude and any other MCP-compatible client work with an OpenText AppWorks Platform tenant in plain English.

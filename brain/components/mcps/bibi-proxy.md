@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T03:20:48Z"
 ---
 ## What it is
 A local MCP proxy for BibiGPT that lets users summarize videos and audio through a single proxy URL, injecting BibiGPT API keys with round-robin rotation, auth-error retry, and hot-reload, exposing 32 MCP tools for summarization, subtitles, chapters, saved videos, notes, collections, channels, feeds

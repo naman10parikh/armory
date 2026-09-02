@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T13:43:01Z"
 ---
 ## What it is
 Allows AI clients to securely interact with Telegram accounts through scoped endpoints, with encrypted session storage and per-tool permission checks.

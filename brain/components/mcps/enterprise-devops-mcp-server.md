@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T10:22:46Z"
 ---
 ## What it is
 Enables AI agents to securely manage Linux, Docker, Kubernetes, and SSH infrastructure through MCP with permission control, audit logging, and dangerous command filtering.

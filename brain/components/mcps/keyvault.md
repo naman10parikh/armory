@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T03:04:41Z"
 ---
 ## What it is
 Enables AI agents to securely manage API keys and secrets via the MCP protocol, with encrypted storage at rest and a simple CLI and Python SDK.

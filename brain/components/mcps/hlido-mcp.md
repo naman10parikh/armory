@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T14:23:41Z"
 ---
 ## What it is
 Independent trust scores, claim audits, and side-by-side comparisons for AI agents, queryable over MCP. Every verdict is backed by hands-on testing and signed evidence from Hlido (hlido.eu). Hosted endpoint available at https://hlido.eu/mcp — no auth required.

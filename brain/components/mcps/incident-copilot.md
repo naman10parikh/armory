@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T23:54:39Z"
 ---
 ## What it is
 MCP server for investigating cloud incidents and managing approvals. Provides read-only tools to list incidents, investigate incidents, and list approvals, keeping remediation behind human approval.

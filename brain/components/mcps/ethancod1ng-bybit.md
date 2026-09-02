@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-07-13T13:51:26Z"
 ---
 ## What it is
 MCP server `Bybit`, catalogued on PulseMCP. Integrates with Bybit cryptocurrency exchange APIs to provide real-time market data, account management, and testnet-only trading operations for cryptocurrency trading and portfolio management applications.

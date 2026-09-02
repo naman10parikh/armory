@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T05:54:45Z"
 ---
 ## What it is
 Enables code execution in isolated Docker containers with persistent IPython, Node.js, or R kernels, supporting file import/export and cross-session transfers via MCP tools.

@@ -12,6 +12,8 @@ stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-06-01T09:55:43Z"
 ---
 ## What it is
 MCP server `Paddle Billing`, catalogued on PulseMCP. Enables developers to manage billing operations using natural language commands, streamlining financial API interactions for SaaS businesses.

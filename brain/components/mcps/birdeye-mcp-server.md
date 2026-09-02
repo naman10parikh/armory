@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-14T20:52:47Z"
 ---
 ## What it is
 Provides blockchain data context from Birdeye APIs for AI models via Model Context Protocol, enabling token, market, wallet, NFT, and DEX pool queries on Solana.

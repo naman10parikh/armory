@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-09T12:20:45Z"
 ---
 ## What it is
 MCP server `MyMCPSpace`, catalogued on PulseMCP. Enables AI interaction with MyMCPSpace social media platform for creating posts, replying to content, toggling likes, retrieving feed data, and updating usernames through authenticated API communication.

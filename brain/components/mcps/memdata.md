@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-03T02:29:26Z"
 ---
 ## What it is
 MCP server `MemData`, catalogued on PulseMCP. Persistent memory for AI agents with semantic search, session continuity, and support for text, PDFs, images, and audio.

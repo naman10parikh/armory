@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-13T23:17:18Z"
 ---
 ## What it is
 MCP server `Precision Desktop`, catalogued on PulseMCP. Fixes DPI coordinate scaling for Windows desktop automation by calibrating and converting between physical and logical coordinate systems.

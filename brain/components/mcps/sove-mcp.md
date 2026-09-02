@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T20:12:59Z"
 ---
 ## What it is
 An MCP server that gives Claude structural understanding of a codebase—dependency graph, entry points, complexity ranking, and import cycles—without reading every file into context.

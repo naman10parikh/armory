@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T20:32:51Z"
 ---
 ## What it is
 An MCP server that complements Epic's official Unreal Engine MCP server with 78 additional tools across 14 subsystems for build/cook/package, cinematics, Niagara, automation testing, source control, profiling, World Partition, and project maintenance, using Unreal's built-in Python and Remote Contro

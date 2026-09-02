@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T16:35:44Z"
 ---
 ## What it is
 A full-featured long-term memory system for Claude Code that persistently stores and retrieves preferences, decisions, and project context across sessions using hybrid search and LLM-powered extraction.

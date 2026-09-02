@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-18T18:47:38Z"
 ---
 ## What it is
 MCP server `Unity Editor`, catalogued on PulseMCP. Integrates with Unity Editor to provide real-time access to scene hierarchies, project structures, and GameObject manipulation for AI-assisted game development workflows.

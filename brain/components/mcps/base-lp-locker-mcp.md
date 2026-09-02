@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T13:51:04Z"
 ---
 ## What it is
 An MCP server for AI agents to lock, manage, and withdraw LP tokens on Base with time-based unlock.

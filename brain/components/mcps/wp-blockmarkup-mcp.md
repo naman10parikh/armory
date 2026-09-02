@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-13T10:34:59Z"
 ---
 ## What it is
 Provides AI assistants with a verified database of WordPress Gutenberg block schemas, attributes, and validated markup examples to prevent hallucinations and broken block markup.

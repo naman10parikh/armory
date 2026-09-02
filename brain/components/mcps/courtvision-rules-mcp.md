@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T19:50:15Z"
 ---
 ## What it is
 Turns official pickleball scoring rules into callable tools for LLMs to track live matches accurately.

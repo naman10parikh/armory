@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T08:34:47Z"
 ---
 ## What it is
 This MCP server enables human-in-the-loop semantic labeling by creating self-contained HTML forms for ambiguous data and securely retrieving labeled results.

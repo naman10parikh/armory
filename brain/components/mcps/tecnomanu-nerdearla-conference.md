@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-09-24T02:20:55Z"
 ---
 ## What it is
 MCP server `Nerdearla Conference`, catalogued on PulseMCP. Scrapes the Nerdearla conference website to provide real-time access to event schedules, speaker information, and session details for conference attendees.

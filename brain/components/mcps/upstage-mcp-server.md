@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-17T03:52:05Z"
 ---
 ## What it is
 Enables AI assistants to extract and structure content from documents (PDFs, images, Office files) using Upstage AI's document digitization and information extraction APIs.

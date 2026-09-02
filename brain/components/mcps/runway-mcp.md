@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T09:38:46Z"
 ---
 ## What it is
 Enables creating and managing Runway video generation tasks (text-to-video, video extension) through a single RunAPI key, including task polling and pricing checks.

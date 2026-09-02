@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:15Z"
 ---
 ## What it is
 Enables querying official SINTEGRA DF tax registration data from any MCP-compatible client. Read-only server with a single tool, paid per query via prepaid credits.

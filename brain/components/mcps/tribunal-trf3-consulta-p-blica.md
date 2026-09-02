@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:54Z"
 ---
 ## What it is
 MCP server for consulting official public data from Brazil's TRF3 (Tribunal Regional Federal da 3ª Região) through a read-only hosted API, compatible with any MCP over HTTP client.

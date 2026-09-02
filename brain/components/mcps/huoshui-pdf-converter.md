@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-09T23:55:49Z"
 ---
 ## What it is
 An MCP server for high-quality bidirectional PDF ↔ Markdown conversion with full Unicode/CJK character support, enabling users to convert files via natural language commands.

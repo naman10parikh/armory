@@ -8,11 +8,13 @@ source_url: https://github.com/kenimo49/opencut-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-13T09:11:53Z"
 ---
 ## What it is
 MCP server that enables LLM agents to control the OpenCut classic video editor's timeline through a Playwright-controlled browser, allowing automated video editing tasks like adding media, inserting clips, splitting, trimming, and exporting.

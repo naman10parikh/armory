@@ -8,11 +8,13 @@ source_url: https://github.com/ZSvirt/zsvirt-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T05:46:35Z"
 ---
 ## What it is
 Enables natural language discovery, inspection, and execution of ZStack's 2000+ cloud management APIs, plus searching and retrieving monitoring metrics, with read-only safety controls and multi-tenant authentication support.

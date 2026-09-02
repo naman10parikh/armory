@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-22T11:58:58Z"
 ---
 ## What it is
 MCP server `Celestial Node`, catalogued on PulseMCP. Provides real-time space data including ISS tracking, rocket launches, crew in space, Mars weather, star catalogs, and near-Earth asteroid monitoring.

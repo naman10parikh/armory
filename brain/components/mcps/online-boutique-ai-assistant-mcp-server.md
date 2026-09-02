@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-22T13:03:21Z"
 ---
 ## What it is
 MCP server for Online Boutique AI Assistant that exposes 18 e-commerce microservice functions via the Model Context Protocol, enabling any MCP client to manage products, carts, checkout, payments, and shipping.

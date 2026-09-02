@@ -8,10 +8,12 @@ source_url: https://github.com/asgard-ai-platform/mcp-shopline
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-05-07T11:10:24Z"
 ---
 ## What it is
 MCP server `Shopline`, catalogued on PulseMCP. Wraps the Shopline Open API into 19 tools for querying orders, products, inventory, customer analytics, and promotions from Shopline e-commerce stores.

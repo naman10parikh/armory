@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T21:02:34Z"
 ---
 ## What it is
 An AI-powered TODO list MCP server with categories, timeboxing, and due dates, enabling natural language task management.

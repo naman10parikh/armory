@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-25T13:16:21Z"
 ---
 ## What it is
 A simple MCP server implementation in Python using FastMCP and FastAPI, providing streamable HTTP transport with optional OAuth authorization for tools like echo and math.

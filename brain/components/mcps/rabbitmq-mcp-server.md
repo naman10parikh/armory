@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-09T02:45:24Z"
 ---
 ## What it is
 Enables management of RabbitMQ clusters, queues, exchanges, bindings, users, and messages through natural language in chat interfaces, using the MCP protocol.

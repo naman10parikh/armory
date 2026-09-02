@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-17T00:45:41Z"
 ---
 ## What it is
 Provides professional cycling data from ProCyclingStats, enabling race discovery, stage results, rider profiles, startlists, and free-text search through MCP tools.

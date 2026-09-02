@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T20:10:45Z"
 ---
 ## What it is
 Enables managing multiple Odoo instances from a single panel and exposes MCP tools for interacting with them via a unified service.

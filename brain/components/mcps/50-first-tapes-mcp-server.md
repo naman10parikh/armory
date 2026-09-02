@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T06:34:15Z"
 ---
 ## What it is
 Enables AI agents to read and write a local-first knowledge base of plain markdown files in git, with governance gates for safe, hash-anchored edits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T19:22:32Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to Five9 cloud contact center, enabling management of campaigns, agents, IVR flows, and reports through natural language.

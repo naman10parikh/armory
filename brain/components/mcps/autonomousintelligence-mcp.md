@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T08:56:23Z"
 ---
 ## What it is
 MCP server for Autonomous Intelligence, enabling AI agents to perform non-custodial, rug-gated multi-chain token swaps including safety checks, quotes, and execution.

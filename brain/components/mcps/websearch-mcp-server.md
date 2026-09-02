@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T13:23:08Z"
 ---
 ## What it is
 Enables web search through Exa or Parallel APIs for MCP-compatible AI clients like Cursor and Claude Code.

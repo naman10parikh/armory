@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-05-28T17:33:15Z"
 ---
 ## What it is
 An MCP server that integrates BugHerd bug tracking with AI assistants, providing 37 tools for complete BugHerd API v2 coverage.

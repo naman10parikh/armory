@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-26T12:20:25Z"
 ---
 ## What it is
 MCP server `Appium Mobile Automation`, catalogued on PulseMCP. Enables mobile app automation through Appium integration, controlling Android and iOS devices with natural language commands for tapping, typing, screenshots, and navigation.

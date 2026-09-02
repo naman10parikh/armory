@@ -8,10 +8,12 @@ source_url: https://github.com/nahmanmate/code-research-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-02-14T00:54:07Z"
 ---
 ## What it is
 MCP server `Code Research`, catalogued on PulseMCP. Integrates with programming resources like Stack Overflow, MDN, GitHub, npm, and PyPI to enable efficient code lookup, documentation retrieval, and package selection.

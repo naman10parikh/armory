@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T16:42:41Z"
 ---
 ## What it is
 Track, analyze, and act on your streaming & SaaS subscriptions from any AI agent.

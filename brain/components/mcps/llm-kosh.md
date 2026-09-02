@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T23:21:21Z"
 ---
 ## What it is
 A local-first memory cartridge for MCP-compatible AI clients, providing durable, inspectable, and auditable memory storage with a read-only-by-default MCP server.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:05:45Z"
 ---
 ## What it is
 An MCP server providing an append-only, hash-chained evidence ledger for agent actions, where every record is a tamper-evident receipt cryptographically bound to all prior records and persisted as human-readable JSONL local state. It exposes tools to append records, verify chain integrity (pinpointi

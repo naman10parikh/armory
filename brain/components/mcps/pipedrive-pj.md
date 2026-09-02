@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T02:44:51Z"
 ---
 ## What it is
 Read-only MCP server that exposes the Poli Júnior Pipedrive CRM to Claude as composable tools.

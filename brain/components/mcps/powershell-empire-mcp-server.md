@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-24T16:28:26Z"
 ---
 ## What it is
 Enables AI assistants to manage Empire listeners, stagers, agents, modules, and credentials via the Empire REST API.

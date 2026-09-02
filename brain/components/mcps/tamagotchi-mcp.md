@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T21:02:35Z"
 ---
 ## What it is
 Enables an LLM to care for a virtual pet with actions like feeding, playing, and sleeping, plus a read-only web UI for real-time state visualization.

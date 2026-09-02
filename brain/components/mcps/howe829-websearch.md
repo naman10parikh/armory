@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-06-06T02:02:57Z"
 ---
 ## What it is
 MCP server `Web Search`, catalogued on PulseMCP. Provides web search capabilities through Bing and WeChat search engines plus URL content extraction, using browser impersonation and markdown conversion for research tasks and content analysis across general web and Chinese social media platforms.

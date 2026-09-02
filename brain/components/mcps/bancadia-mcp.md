@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:47:05Z"
 ---
 ## What it is
 Bancadia MCP lets AI agents query Bancadia's registry of US business deposit account products with structured filters on fees, APY, entity types, integrations, and more. Agents get real account listings and can recommend products for end users' unique business circumstances.

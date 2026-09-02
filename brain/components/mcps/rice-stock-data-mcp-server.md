@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-06T04:51:25Z"
 ---
 ## What it is
 Enables natural language queries for stock market data via the Rice Business Stock Market Data Portal, with Rice University email verification for access control.

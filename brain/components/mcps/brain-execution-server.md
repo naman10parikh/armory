@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-26T19:04:25Z"
 ---
 ## What it is
 A queue-based execution server that monitors a command queue and executes shell commands or Python scripts, moving completed or failed jobs to respective directories.

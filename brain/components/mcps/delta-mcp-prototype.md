@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T09:13:44Z"
 ---
 ## What it is
 MCP server that wraps the UMT media monitoring API, enabling search and retrieval of media mentions with filters such as date range, language, sentiment, and tags.

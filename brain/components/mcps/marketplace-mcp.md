@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T09:57:34Z"
 ---
 ## What it is
 Run a Shopstr / NOSTR marketplace storefront from an AI agent — create and update stalls and products in both the NIP-15 dialect and the Shopstr-modern NIP-99 dialect, including the cache POST that makes Shopstr cards actually render.

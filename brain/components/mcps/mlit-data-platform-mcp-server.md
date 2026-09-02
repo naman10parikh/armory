@@ -8,11 +8,13 @@ source_url: https://github.com/MLIT-DATA-PLATFORM/mlit-dpf-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 169
+stars: 170
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-08-20T22:16:09Z"
 ---
 ## What it is
 MCP server for the MLIT Data Platform that enables natural language search and retrieval of Japanese government infrastructure and transport data.

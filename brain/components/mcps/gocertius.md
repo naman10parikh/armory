@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-23T07:00:44Z"
 ---
 ## What it is
 MCP server `GoCertius`, catalogued on PulseMCP. Provides AI agents with certified evidence management, dossier creation, certified notifications, and certified chat through EAD Trust.

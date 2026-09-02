@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-22T23:16:06Z"
 ---
 ## What it is
 Enables performing Google searches using the Custom Search Engine API with support for various parameters like date restriction, site search, and file type. Returns search results in a conversational format.

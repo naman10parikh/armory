@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-17T06:43:05Z"
 ---
 ## What it is
 MCP server that provides shell script linting via ShellCheck. Allows AI agents to analyze shell scripts for common errors, stylistic issues, and potential bugs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T08:50:25Z"
 ---
 ## What it is
 Enables ticket management through a REST API and support document search via a local vector database, powered by Ollama and LanceDB.

@@ -8,11 +8,13 @@ source_url: https://github.com/gleanwork/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 2
+forks: 23
+pushed_at: "2026-06-30T15:17:11Z"
 ---
 ## What it is
 MCP server `Glean`, catalogued on PulseMCP. Integrates with Glean's enterprise knowledge platform to provide company search, people profile lookup, and AI assistant capabilities directly within your workflow.

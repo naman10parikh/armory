@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T22:22:09Z"
 ---
 ## What it is
 Access Ampersand's documentation through MCP; this repo is deprecated, use the hosted server at https://docs.withampersand.com/mcp.

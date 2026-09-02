@@ -8,10 +8,12 @@ source_url: https://github.com/lizzrozz/voicemessage-for-claude
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T13:08:14Z"
 ---
 ## What it is
 MCP server `Voice Message`, catalogued on PulseMCP. Enables Claude to generate and play voice messages via a speak tool with an embedded audio player in the claude.ai interface.

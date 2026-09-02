@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T21:57:38Z"
 ---
 ## What it is
 Control a Siglent SPD1305X (or SPD1000X series) programmable DC power supply from Claude Code over Ethernet using SCPI commands, with safety limits and monitoring tools.

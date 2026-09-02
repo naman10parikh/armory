@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T04:06:59Z"
 ---
 ## What it is
 Enables interacting with lisct.com sets via MCP tools, including expanding, searching, creating, editing, and deleting sets, with write operations requiring appropriate API key scope.

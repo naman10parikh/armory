@@ -8,11 +8,13 @@ source_url: https://github.com/rjpruitt16/aquifer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-02T00:55:42Z"
 ---
 ## What it is
 A MCP Runtime for dealing with spiky agentic traffic in golang

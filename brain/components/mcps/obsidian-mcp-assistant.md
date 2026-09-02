@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T17:26:41Z"
 ---
 ## What it is
 Enables AI-powered chat and file operations on Obsidian vaults with local indexing, hybrid search, and MCP access.

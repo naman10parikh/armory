@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T11:13:21Z"
 ---
 ## What it is
 A secure MCP server that connects AI assistants to Google Workspace, enabling permission-aware retrieval-augmented generation for grounded answers.

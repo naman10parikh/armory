@@ -8,11 +8,13 @@ source_url: https://github.com/Keesan12/martin-loop
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 45
+stars: 47
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-09-02T01:16:28Z"
 ---
 ## What it is
 Runtime governance and budget guardrails for Claude Code, Cursor, and autonomous AI agents. Enforces per-session spend caps, verifier safety gates, and runaway loop prevention.

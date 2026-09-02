@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T01:16:41Z"
 ---
 ## What it is
 MCP server for managing Google Apps Script projects, deployments, versions, and executions via OAuth 2.0. Provides 16 tools for full API coverage with secure token storage and auto-refresh.

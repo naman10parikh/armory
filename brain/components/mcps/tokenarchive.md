@@ -8,11 +8,13 @@ source_url: https://github.com/ddyy/tokenarchive
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:03:45Z"
 ---
 ## What it is
 Enables agents to query your archived AI coding usage through read-only tools for usage summaries, project breakdowns, daily trends, and archive health.

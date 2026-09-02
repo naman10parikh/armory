@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:58:21Z"
 ---
 ## What it is
 Enables AI assistants to connect to a trading journal, analyze performance metrics, identify psychological biases, and receive continuous trading coaching.

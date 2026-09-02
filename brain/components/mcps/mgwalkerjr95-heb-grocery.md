@@ -8,10 +8,12 @@ source_url: https://github.com/mgwalkerjr95/texas-grocery-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-05-11T17:59:31Z"
 ---
 ## What it is
 MCP server `HEB Grocery`, catalogued on PulseMCP. Search HEB grocery products, manage carts, clip coupons, and access store information.

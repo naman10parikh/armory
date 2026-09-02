@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:43:48Z"
 ---
 ## What it is
 MCP server `Bioregistry`, catalogued on PulseMCP. Look up and resolve biomedical identifier prefixes via the Bioregistry meta-registry of biological databases.

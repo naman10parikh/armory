@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T18:15:00Z"
 ---
 ## What it is
 An MCP server that provides image generation using Google's Nano Banana Gemini models, with additional tools for background removal, upscaling, and format conversion via deterministic post-processing.

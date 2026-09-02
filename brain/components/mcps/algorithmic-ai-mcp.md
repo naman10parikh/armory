@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T13:55:35Z"
 ---
 ## What it is
 An MCP server that exposes 252 algorithms from Knuth's TAOCP to AI agents, with safety guards and structured outputs for tasks like combinatorial generation, SAT solving, number theory, string analysis, graph algorithms, and symbolic math.

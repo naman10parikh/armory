@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T01:27:15Z"
 ---
 ## What it is
 Provides parametric insurance for autonomous agents, covering uptime SLA, treasury slippage, and oracle failures. Supports USDC settlement on Base L2 via MCP protocol.

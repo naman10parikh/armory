@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:58:05Z"
 ---
 ## What it is
 Enables reading, searching, installing, and managing ParetoStudio prompts, agents, and skills from Claude Code, Cursor, or any MCP client, and can install agents/skills as files into Claude Code or Codex projects.

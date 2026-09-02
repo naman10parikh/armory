@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T01:07:10Z"
 ---
 ## What it is
 MCP server that gives AI agents the ability to send, read, and search email via Gmail.

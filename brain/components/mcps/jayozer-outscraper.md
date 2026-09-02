@@ -8,10 +8,12 @@ source_url: https://github.com/jayozer/outscraper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-01T16:45:06Z"
 ---
 ## What it is
 MCP server `Outscraper`, catalogued on PulseMCP. Integrates with Outscraper's data extraction services to provide Google Maps business search, review extraction, photo retrieval, directions planning, web and news search, app store analysis, and domain contact discovery for market research and business intelligence workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T07:36:50Z"
 ---
 ## What it is
 MCP server that detects and guards against tool poisoning and prompt injection attacks in tool descriptions and schemas. It provides risk scoring, pattern detection, safe rewriting, and audit reports with zero external API cost.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-15T20:57:18Z"
 ---
 ## What it is
 MCP server `Vaali`, catalogued on PulseMCP. Demonstrates the full spectrum of MCP capabilities through resources for configuration files, reusable prompt templates for code review and documentation, basic tools for weather and calculations, and advanced elicitation-enabled tools that interactively collect missing parameters from users for workflows like email sending and calendar management.

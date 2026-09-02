@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T08:28:15Z"
 ---
 ## What it is
 Remote MCP server that normalizes OpenTelemetry GenAI spans by mapping fields, provider attributes, and missing attributes, and exports dashboard schemas.

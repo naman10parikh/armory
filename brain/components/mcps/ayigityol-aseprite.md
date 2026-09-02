@@ -8,10 +8,12 @@ source_url: https://github.com/ayigityol/aseprite-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-07T09:18:37Z"
 ---
 ## What it is
 MCP server `Aseprite`, catalogued on PulseMCP. Provides 43 tools for pixel art creation, animation, and sprite sheet export through Aseprite's headless CLI with pixel-perfect drawing algorithms.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T05:53:06Z"
 ---
 ## What it is
 Provides AI-aware failover for Mihomo proxy on macOS by validating real OpenAI paths and switching proxy groups after verified hard failures. It offers a local stdio MCP server for diagnostics, status, and safe management of the AI proxy group.

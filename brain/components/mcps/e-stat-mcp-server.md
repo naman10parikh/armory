@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2025-04-19T15:45:35Z"
 ---
 ## What it is
 MCP server for accessing Japanese government statistics portal 'e-Stat' API, enabling language models to search and retrieve statistical data.

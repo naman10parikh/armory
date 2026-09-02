@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T19:12:31Z"
 ---
 ## What it is
 MCP server `SQL Database Connector`, catalogued on PulseMCP. Provides unified database connectivity across MySQL, Microsoft SQL Server, Oracle, and Sybase through standardized tools for executing queries, describing schemas, and browsing resources.

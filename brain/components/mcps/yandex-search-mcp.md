@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T14:43:17Z"
 ---
 ## What it is
 Enables Yandex search with advanced content extraction, analysis, and LLM-context formatting through a Model Context Protocol server.

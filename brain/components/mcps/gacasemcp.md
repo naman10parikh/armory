@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:15:17Z"
 ---
 ## What it is
 MCP server for the Georgia Department of Education SuitCASE API, enabling AI assistants to search, fetch, and parse Georgia learning standards, course codes, CTAE clusters, and pathways.

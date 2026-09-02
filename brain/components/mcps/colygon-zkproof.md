@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-29T09:31:52Z"
 ---
 ## What it is
 MCP server `ZKProof`, catalogued on PulseMCP. Enables privacy-preserving computations with zero-knowledge proofs for verifying claims like age requirements without revealing sensitive personal data

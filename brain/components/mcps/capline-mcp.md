@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:48:53Z"
 ---
 ## What it is
 Enables AI agents to make payments with strict spending limits enforced by signed mandates, preventing unauthorized fund movement beyond predefined caps and allowlists.

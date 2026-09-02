@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T13:35:28Z"
 ---
 ## What it is
 Enables AI agents to validate e-invoices from Malaysia, Dominican Republic, Nigeria, Bolivia, and Costa Rica against official tax rules before submission, returning structured reports on structure, signatures, and business rule compliance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T07:52:08Z"
 ---
 ## What it is
 Enables querying optimal control values (angle for blowers, control for pumps) to minimize power given a required flow rate, using machine learning models trained on pump/fan operation data.

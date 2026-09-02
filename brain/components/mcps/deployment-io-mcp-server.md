@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T07:25:38Z"
 ---
 ## What it is
 Enables managing and deploying apps to your cloud directly from Cursor through natural language, including environment management, job monitoring, and approval workflows.

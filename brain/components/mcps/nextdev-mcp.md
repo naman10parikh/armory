@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-08-17T14:37:00Z"
 ---
 ## What it is
 Recommends APIs to AI agents based on agent-readiness and use-case keyword overlap, returning structured endpoints and documentation to ground integration code.

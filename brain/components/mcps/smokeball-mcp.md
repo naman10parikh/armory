@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T23:26:27Z"
 ---
 ## What it is
 MCP server providing full Smokeball API coverage for law firm practice management, enabling natural language interactions with matters, contacts, tasks, billing, and more via Claude Desktop.

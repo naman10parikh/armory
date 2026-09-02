@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-30T10:43:07Z"
 ---
 ## What it is
 MCP server `Stock Info (AKShare)`, catalogued on PulseMCP. Provides real-time financial market data from Chinese and global markets through AKShare API integration for traders and financial analysts

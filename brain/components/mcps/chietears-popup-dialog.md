@@ -8,10 +8,12 @@ source_url: https://github.com/chietears/popup-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-12-20T12:51:45Z"
 ---
 ## What it is
 MCP server `Popup Dialog`, catalogued on PulseMCP. Creates native desktop popup dialogs for user interaction with keyboard shortcuts, progress tracking, and multi-language support

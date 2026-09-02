@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T02:26:11Z"
 ---
 ## What it is
 Provides tools for file system operations and text generation using OpenAI-compatible models via the Model Context Protocol, supporting both stdio and HTTP transports.

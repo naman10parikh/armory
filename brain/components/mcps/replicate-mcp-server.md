@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-27T13:22:12Z"
 ---
 ## What it is
 Enables AI image generation and editing using Replicate's official models like Flux, SDXL, and Seedream, with tools to search models and generate images.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:23:28Z"
 ---
 ## What it is
 Enables read-only exploration of a Postgres database using natural language, with multiple safety layers to prevent any modifications.

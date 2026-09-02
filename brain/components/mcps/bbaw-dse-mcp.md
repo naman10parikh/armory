@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T17:00:48Z"
 ---
 ## What it is
 Enables natural-language querying of multiple digital scholarly editions, aggregating Schleiermacher digital, Praktiken der Monarchie, and correspSearch into a single MCP endpoint.

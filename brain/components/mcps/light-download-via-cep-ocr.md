@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:34Z"
 ---
 ## What it is
 MCP server for consulting and downloading Light utility bills using CEP and OCR from official sources. Offers a single read-only tool with pre-paid pricing, hosted on api.mcp.ai.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T18:42:17Z"
 ---
 ## What it is
 Enables AI agents to read and optionally write to PostgreSQL databases through a multi-project setup with schema inspection, query execution, and performance analysis tools.

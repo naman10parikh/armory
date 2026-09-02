@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T20:02:48Z"
 ---
 ## What it is
 MCP server `Gov Data`, catalogued on PulseMCP. Provides access to 114 government data APIs with 562 tools covering federal, state, and international data across economics, health, education, energy, and legislative domains.

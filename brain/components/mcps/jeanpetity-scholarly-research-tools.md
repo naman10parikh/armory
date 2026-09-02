@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T09:29:26Z"
 ---
 ## What it is
 MCP server `Scholarly Research Tools`, catalogued on PulseMCP. Integrates with Crossref, ORCID, and Semantic Scholar to look up publications by DOI, retrieve researcher work titles, and search academic papers.

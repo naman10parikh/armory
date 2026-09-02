@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-18T20:43:45Z"
 ---
 ## What it is
 MCP server `Taiwan Weather (CWA)`, catalogued on PulseMCP. Provides real-time weather data and forecasts for Taiwan through the Central Weather Administration API with Node.js and Docker deployment options.

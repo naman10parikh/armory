@@ -8,10 +8,12 @@ source_url: https://github.com/cryppadotta/scryfall-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-02-12T19:10:38Z"
 ---
 ## What it is
 MCP server `Scryfall`, catalogued on PulseMCP. Integrates with the Scryfall Magic: The Gathering API to enable card searches, retrieval of card details, rulings, and pricing information for deck building and game analysis.

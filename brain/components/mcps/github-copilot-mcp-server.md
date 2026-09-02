@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-23T02:27:54Z"
 ---
 ## What it is
 Integrates GitHub Copilot CLI with MCP clients to offer various coding assistance tools including asking questions, explaining code, suggesting commands, debugging, refactoring, generating tests, and reviewing code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T16:37:24Z"
 ---
 ## What it is
 Build MCP servers inside NestJS applications using ordinary controllers with decorators for tools, resources, and prompts, supporting authentication and authorization.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T02:38:02Z"
 ---
 ## What it is
 Lets your AI assistant control and display text/images on a Tidbyt or Tronbyt LED sign via the MCP protocol.

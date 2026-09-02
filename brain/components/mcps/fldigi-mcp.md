@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T23:44:40Z"
 ---
 ## What it is
 Enables MCP clients like Claude Desktop to control the fldigi amateur radio digital modem application, including modem, rig, log, and transmit functions, with a callsign-based transmit safety gate.

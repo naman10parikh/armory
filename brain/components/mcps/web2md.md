@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T01:34:48Z"
 ---
 ## What it is
 Converts web pages to Markdown with tiered fetching to minimize LLM context usage, enabling efficient extraction of specific sections.

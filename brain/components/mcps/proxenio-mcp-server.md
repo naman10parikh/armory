@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T16:00:37Z"
 ---
 ## What it is
 Enables AI agents to discover and interact with Proxenio's verified intent network for professional matching, including viewing matches and accepting introductions.

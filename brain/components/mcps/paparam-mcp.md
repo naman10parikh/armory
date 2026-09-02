@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T20:37:02Z"
 ---
 ## What it is
 Exposes any paparam CLI as an MCP server, automatically deriving tool definitions, resources, and prompts from the command's own schema, with validation before execution and support for both MCP protocol eras.

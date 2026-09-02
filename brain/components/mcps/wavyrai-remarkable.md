@@ -8,10 +8,12 @@ source_url: https://github.com/wavyrai/rm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-24T16:40:46Z"
 ---
 ## What it is
 MCP server `reMarkable Tablet by wavyrai`, catalogued on PulseMCP. Access reMarkable tablet data including documents, notebooks, handwritten notes via OCR, and page images through the reMarkable Cloud API.

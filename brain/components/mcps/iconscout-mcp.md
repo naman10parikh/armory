@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T05:25:06Z"
 ---
 ## What it is
 Search and download icons, illustrations, 3D assets, and Lottie animations from Iconscout directly through an AI agent.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T18:27:38Z"
 ---
 ## What it is
 Exposes SQL Server and Snowflake schema metadata to AI coding agents, enabling schema search, join path discovery, and stored procedure metadata retrieval without live queries.

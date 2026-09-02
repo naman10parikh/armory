@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T03:32:21Z"
 ---
 ## What it is
 Wraps Teambition Open Platform v3 API as MCP tools for batch task creation, enabling n8n workflows to search projects, manage members, and create tasks.

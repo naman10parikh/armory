@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T19:17:41Z"
 ---
 ## What it is
 Enables users to manage short links via cliqo.link, including creating, listing, viewing, and revoking links, as well as checking credit balances.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-03T20:39:33Z"
 ---
 ## What it is
 MCP server for FlutterFlow that uses a command-palette model to manage projects, inspect UI, and apply safe edits via transactional ChangeSets.

@@ -8,10 +8,12 @@ source_url: https://github.com/daekeun-ml/ppt-translator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 64
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-08-18T07:13:46Z"
 ---
 ## What it is
 MCP server `PowerPoint Translator`, catalogued on PulseMCP. Translates PowerPoint presentations using Amazon Bedrock models while preserving formatting, layouts, and styles, supporting selective slide translation and batch processing for efficient multilingual document conversion.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T05:03:36Z"
 ---
 ## What it is
 An AI agent system that monitors manufacturing equipment health using the Model Context Protocol (MCP). Enables answering natural language questions about equipment status, maintenance, and anomalies through MCP tools.

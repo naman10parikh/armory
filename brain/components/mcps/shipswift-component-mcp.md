@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T15:48:43Z"
 ---
 ## What it is
 Paid remote MCP server for ShipSwift providing tools to search SwiftUI components, generate patches, validate dependency policies, and export component receipts.

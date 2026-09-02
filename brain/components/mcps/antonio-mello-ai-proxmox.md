@@ -8,10 +8,12 @@ source_url: https://github.com/antonio-mello-ai/mcp-proxmox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-17T00:33:15Z"
 ---
 ## What it is
 MCP server `Proxmox VE`, catalogued on PulseMCP. Manage Proxmox VE clusters through AI assistants with VM, container, snapshot, and storage operations.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T04:34:30Z"
 ---
 ## What it is
 MCP server `Da24 Moving Service`, catalogued on PulseMCP. Calculates Korean moving estimates and submits inquiries through the Da24/WeMatch relocation platform.

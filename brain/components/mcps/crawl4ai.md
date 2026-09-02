@@ -8,10 +8,12 @@ source_url: https://github.com/omgwtfwow/mcp-crawl4ai-ts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-09-01T11:09:47Z"
 ---
 ## What it is
 MCP server `Crawl4AI`, catalogued on PulseMCP. Integrates with Crawl4AI to provide web crawling, content extraction, screenshot capture, PDF generation, and batch processing capabilities with intelligent content detection for sitemaps and RSS feeds.

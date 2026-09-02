@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-11T16:06:52Z"
 ---
 ## What it is
 MCP server `Vitra AI Multi-Agent`, catalogued on PulseMCP. Multi-agent customer service system for health and wellness retail that coordinates specialized agents for general customer service, sales transactions, and body care advice through hierarchical architecture with integrated search functionality.

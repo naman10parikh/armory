@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, embedded-system]
 stars: 8
+forks: 3
+pushed_at: "2025-08-05T03:43:06Z"
 ---
 ## What it is
 An MCP server for Matter Controller, enabling AI agents to control and interact with Matter devices.

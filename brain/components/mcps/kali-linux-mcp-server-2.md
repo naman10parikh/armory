@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-08T14:12:55Z"
 ---
 ## What it is
 Provides Claude Desktop with access to Kali Linux penetration testing tools via a privileged Docker container, enabling network scanning (nmap), web vulnerability scanning (nikto), and custom command execution.

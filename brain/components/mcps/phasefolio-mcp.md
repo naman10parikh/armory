@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T12:57:36Z"
 ---
 ## What it is
 Provides AI agents with access to PhaseFolio's biotech rNPV and probability-of-success engine for asset valuation, supporting public queries and authenticated project management.

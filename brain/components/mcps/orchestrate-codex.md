@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T07:46:48Z"
 ---
 ## What it is
 A provider-neutral orchestration plugin for Codex that manages multi-step recipe planning, context policies, and verification hints, while allowing leaf MCPs to be called directly.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T15:38:20Z"
 ---
 ## What it is
 Enables AI coding agents to watch directories for live filesystem changes (create, modify, delete, move) via the Model Context Protocol, providing event-driven access without busy-polling.

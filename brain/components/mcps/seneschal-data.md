@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T16:19:50Z"
 ---
 ## What it is
 Monero/Zcash payment webhooks + DeFi liquidation & Ethereum builder data over MCP. Free tier; x402.

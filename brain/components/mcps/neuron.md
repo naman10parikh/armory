@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T19:09:52Z"
 ---
 ## What it is
 A Discord MCP server that gives AI agents full control of a Discord bot — messages, channels, roles, threads, forums, events, webhooks, reactions, moderation, image generation, and real-time voice.

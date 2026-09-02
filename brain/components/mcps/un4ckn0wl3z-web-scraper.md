@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-08T04:25:55Z"
 ---
 ## What it is
 MCP server `Web Scraper`, catalogued on PulseMCP. Extracts clean text content from web pages using BeautifulSoup and HTTPX with proper error handling for failed requests and connection issues.

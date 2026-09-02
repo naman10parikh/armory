@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-30T09:36:52Z"
 ---
 ## What it is
 A Model Context Protocol server offering over 15 chart types with Zod schema validation, enabling type-safe chart generation for applications like Claude AI.

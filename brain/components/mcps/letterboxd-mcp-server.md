@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-01T00:19:56Z"
 ---
 ## What it is
 Enables AI models to interact with Letterboxd data and perform account actions like rating films, writing reviews, and managing watchlists.

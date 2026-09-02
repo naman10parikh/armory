@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-06T23:13:20Z"
 ---
 ## What it is
 MCP server `ARCXS Protocol`, catalogued on PulseMCP. Universal AI agent registry providing cross-protocol discovery, messaging, and payment routing for autonomous agents.

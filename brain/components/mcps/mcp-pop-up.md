@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T12:33:26Z"
 ---
 ## What it is
 Enables a local LLM to ask the user for guidance via a native desktop pop-up dialog, with configurable options and multiple-choice or free-text input.

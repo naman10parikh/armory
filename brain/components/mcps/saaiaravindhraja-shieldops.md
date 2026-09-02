@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-15T12:33:45Z"
 ---
 ## What it is
 MCP server `ShieldOps`, catalogued on PulseMCP. Autonomous SOC with specialized agents for triage, investigation, and containment using three custom security-focused servers.

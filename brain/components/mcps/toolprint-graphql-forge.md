@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-14T22:38:20Z"
 ---
 ## What it is
 MCP server `GraphQL Forge`, catalogued on PulseMCP. Automatically converts any GraphQL API into individual tools through schema introspection and intelligent caching, enabling seamless integration with GraphQL-based services like GitHub or Shopify APIs without manual tool definition.

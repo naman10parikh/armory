@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T12:50:28Z"
 ---
 ## What it is
 MCP server that exposes Telegraph Protocol's AI inference APIs as tools with automatic x402 micropayments, enabling any MCP-compatible agent to access AI miners like weather forecasting, deepfake detection, and LLM inference without handling cryptocurrency.

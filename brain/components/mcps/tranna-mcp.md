@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T19:03:29Z"
 ---
 ## What it is
 A production-oriented MCP server foundation for connecting Claude Desktop to social-media and marketing platforms, featuring a reusable connector framework and an optional Meta connector using official APIs.

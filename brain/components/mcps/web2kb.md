@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T03:31:46Z"
 ---
 ## What it is
 Enables AI assistants to fetch webpages, convert them to Markdown, index into SQLite FTS5, and query the knowledge base through MCP tools.

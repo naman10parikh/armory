@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-03-27T17:27:06Z"
 ---
 ## What it is
 Connects AI agents to Google Flights data, enabling retrieval of flight information, cheapest options, time-filtered flights, and best recommendations.

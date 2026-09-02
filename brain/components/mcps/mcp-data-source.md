@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T14:21:19Z"
 ---
 ## What it is
 Multi-datasource MCP server that connects AI assistants to 6 database types (MySQL, PostgreSQL, ClickHouse, MongoDB, SQLite, Huawei DWS) with dynamic configuration, encrypted credential storage, and schema discovery.

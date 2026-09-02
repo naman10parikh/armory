@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T15:22:48Z"
 ---
 ## What it is
 MCP server for GitHub Actions CI failure triage. It wraps the gh CLI to fetch PR checks, failed jobs, and tail/grep failed job logs with ANSI/timestamp stripping and root-cause extraction.

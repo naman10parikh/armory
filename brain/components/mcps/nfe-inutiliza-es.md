@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:39:58Z"
 ---
 ## What it is
 MCP server that queries Brazilian electronic invoice (NF-e) numbering invalidations for a company by CNPJ and year. Read-only, hosted, works with any MCP client over HTTP.

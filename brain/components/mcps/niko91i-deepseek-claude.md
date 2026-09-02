@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-25T05:43:52Z"
 ---
 ## What it is
 MCP server `DeepSeek + Claude`, catalogued on PulseMCP. Combines DeepSeek's reasoning capabilities with Claude 3.5 Sonnet's response generation through OpenRouter to leverage both models' strengths in a single conversation flow

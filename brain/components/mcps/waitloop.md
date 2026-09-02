@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T23:25:22Z"
 ---
 ## What it is
 Enables agents to create hosted waitlist pages with referral ranking, email capture, and stats via MCP tools like create_waitlist.

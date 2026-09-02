@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T01:30:20Z"
 ---
 ## What it is
 MCP server that lets Claude, Cursor, or any MCP-compatible client drive Sheepit projects — enabling campaign management, destination configuration, dashboard creation, and insights queries directly from a chat interface.

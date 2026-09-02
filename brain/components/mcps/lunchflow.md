@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-21T19:13:56Z"
 ---
 ## What it is
 MCP server `Lunch Flow`, catalogued on PulseMCP. Integrates with Lunch Flow's banking aggregation platform to provide secure access to personal financial data across multiple providers including GoCardless, Quiltt, and Finverse for listing bank accounts, retrieving transaction history, and checking balances.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-01T18:17:16Z"
 ---
 ## What it is
 MCP server `Memory`, catalogued on PulseMCP. Persistent memory storage for AI agents with key-value and semantic search capabilities.

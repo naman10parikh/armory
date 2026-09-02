@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-27T15:44:28Z"
 ---
 ## What it is
 MCP server `vLLM Benchmark`, catalogued on PulseMCP. Benchmarks vLLM deployments by measuring throughput, latency, and token generation speed through natural language test configuration

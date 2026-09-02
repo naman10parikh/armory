@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T05:33:11Z"
 ---
 ## What it is
 Transcribes meeting recordings with speaker diarization and automatic speaker identification, leveraging project context to generate minutes. Supports various ASR engines and offers privacy-preserving local processing.

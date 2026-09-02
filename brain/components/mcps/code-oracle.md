@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T10:35:01Z"
 ---
 ## What it is
 MCP server for automated architectural mapping, security vulnerability detection, ML asset tracking, and code metrics in local repositories.

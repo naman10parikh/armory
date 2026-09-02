@@ -8,10 +8,12 @@ source_url: https://github.com/amotivv/protonmail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-03-12T23:47:02Z"
 ---
 ## What it is
 MCP server `Protonmail`, catalogued on PulseMCP. Enables sending emails through Protonmail's SMTP service with support for multiple recipients, CC/BCC functionality, and both plain text and HTML content.

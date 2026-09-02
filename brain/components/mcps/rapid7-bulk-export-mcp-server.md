@@ -8,11 +8,13 @@ source_url: https://github.com/rapid7/rapid7-bulk-export-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-09-01T15:40:24Z"
 ---
 ## What it is
 Enables AI-powered analysis of Rapid7 vulnerability and asset data by exporting via the Bulk Export API and making it queryable through natural language or SQL in MCP-compatible tools.

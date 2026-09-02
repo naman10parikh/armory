@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T08:36:12Z"
 ---
 ## What it is
 Multi-source article and tutorial research for agent planning, providing deduplicated ranked briefs from dev.to, Hacker News, and configurable RSS feeds with optional LLM scoring.

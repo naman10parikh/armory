@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T21:25:21Z"
 ---
 ## What it is
 Turn any MCP-aware IDE into an agentic coding system backed by tree-sitter, a local Qwen 18B, OpenRouter, and Podman.

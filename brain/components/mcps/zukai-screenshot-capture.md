@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-17T07:06:11Z"
 ---
 ## What it is
 MCP server `Screenshot Capture`, catalogued on PulseMCP. Enables AI to capture screenshots of computer screens for analyzing visual interfaces, debugging, or assisting with web development tasks without manual image uploads.

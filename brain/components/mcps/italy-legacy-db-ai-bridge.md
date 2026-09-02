@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T15:07:32Z"
 ---
 ## What it is
 Enables AI assistants to securely query Italian legacy ERP databases (AS/400, SQL Server, etc.) with GDPR-compliant PII masking and semantic table mapping.

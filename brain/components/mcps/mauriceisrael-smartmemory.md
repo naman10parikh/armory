@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-27T13:15:55Z"
 ---
 ## What it is
 MCP server `SmartMemory`, catalogued on PulseMCP. Neuro-symbolic memory system combining knowledge graphs with language models

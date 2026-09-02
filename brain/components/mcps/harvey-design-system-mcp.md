@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T19:22:19Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes a versioned brand package (tokens, rules, recipes, media rights, and audit gates) as resources, tools, and prompts for AI agents. It enables agents to plan and audit on-brand UI, image, motion, and video outputs while remaining read-only and credential-fr

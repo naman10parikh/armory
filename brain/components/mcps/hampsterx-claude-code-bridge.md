@@ -8,10 +8,12 @@ source_url: https://github.com/hampsterx/claude-mcp-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-03T02:51:27Z"
 ---
 ## What it is
 MCP server `Claude Code Bridge`, catalogued on PulseMCP. Wraps the Claude Code CLI as an MCP server for query, review, search, and structured output tools.

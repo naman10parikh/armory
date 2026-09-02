@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 22
+pushed_at: "2025-09-11T04:41:40Z"
 ---
 ## What it is
 Provides OpenCV computer vision capabilities for AI assistants, enabling image processing, object detection, face detection, and video analysis through natural language.

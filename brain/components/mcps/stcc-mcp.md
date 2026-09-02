@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T05:07:42Z"
 ---
 ## What it is
 Deterministic rule-based medical triage with citations, using a 0.6B LLM only to check criteria (yes/no/unknown).

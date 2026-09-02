@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T23:02:53Z"
 ---
 ## What it is
 Enables SEO analysis and data retrieval through DataForSEO API, including keyword research, backlinks, competitor analysis, and on-page audits.

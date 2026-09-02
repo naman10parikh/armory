@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T20:13:25Z"
 ---
 ## What it is
 Provides LocalServer and RemoteServer implementations for running MCP servers locally via stdio or remotely via HTTP/SSE, with simple and advanced deployment options.

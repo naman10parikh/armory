@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T18:54:15Z"
 ---
 ## What it is
 Unified MCP server offering 30 tools for Singapore government and public data including weather, transport, education, and property, with many tools working immediately without API keys.

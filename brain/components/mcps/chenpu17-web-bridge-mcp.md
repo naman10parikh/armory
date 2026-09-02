@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-16T02:34:41Z"
 ---
 ## What it is
 An MCP server for web search, web fetching, and Context7 documentation tools with proxy support, designed for internal network environments.

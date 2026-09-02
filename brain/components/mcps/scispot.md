@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-23T13:39:27Z"
 ---
 ## What it is
 MCP server `Scispot`, catalogued on PulseMCP. Lab information management system with Labsheet queries, electronic lab notebooks, storage tracking, and sample management.

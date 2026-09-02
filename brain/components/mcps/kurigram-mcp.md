@@ -8,11 +8,13 @@ source_url: https://github.com/z-mio/kurigram-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T12:04:08Z"
 ---
 ## What it is
 MCP server to debug Telegram bots by controlling your Telegram user session over MTProto. It enables sending messages, reading chats, handling updates, and invoking raw Telegram API methods.

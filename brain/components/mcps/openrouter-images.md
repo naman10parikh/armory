@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:48:25Z"
 ---
 ## What it is
 Enables Claude Code to generate and edit raster images through OpenRouter, including image-to-image editing with up to 16 ordered references, text-to-image generation, and balance/credit checks.

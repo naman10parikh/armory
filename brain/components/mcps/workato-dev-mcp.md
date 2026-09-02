@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T00:40:16Z"
 ---
 ## What it is
 Enables authoring and debugging Workato recipes from Claude by wrapping the Workato Developer REST API for recipe CRUD, start/stop, and job inspection.

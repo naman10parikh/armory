@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-24T14:30:43Z"
 ---
 ## What it is
 Demonstrates a FastMCP server with Bearer token authentication via Nginx and fine-grained authorization via Envoy and OPA.

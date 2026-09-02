@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T18:04:43Z"
 ---
 ## What it is
 An MCP server for debugging iikoTransport API requests, enabling interactive calls to iiko endpoints with your own credentials.

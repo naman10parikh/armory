@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T17:58:24Z"
 ---
 ## What it is
 MCP server that enables AI agents to search the web and extract clean Markdown content, with support for JavaScript rendering, structured data extraction, and screenshots.

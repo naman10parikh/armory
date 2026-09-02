@@ -8,10 +8,12 @@ source_url: https://github.com/twelvedata/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 76
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-07-23T20:41:00Z"
 ---
 ## What it is
 MCP server `Twelve Data`, catalogued on PulseMCP. Integrates with Twelve Data API to provide real-time quotes, historical OHLCV price data, and instrument metadata for stocks, forex pairs, and cryptocurrencies across global markets.

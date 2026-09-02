@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T15:35:48Z"
 ---
 ## What it is
 MCP server `Remote Shell`, catalogued on PulseMCP. Manages remote machines and containers via persistent SSH, SFTP, and Docker sessions that survive AI client restarts.

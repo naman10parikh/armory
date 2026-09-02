@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T18:05:08Z"
 ---
 ## What it is
 Playwright-style MCP server for pywebview apps that lets AI assistants see, control, and debug Python desktop web UIs without modifying source code.

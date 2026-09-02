@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-05T12:18:37Z"
 ---
 ## What it is
 Analyzes sales CSV data to filter records, compute KPIs, and generate AI-powered insights and recommendations using OpenAI.

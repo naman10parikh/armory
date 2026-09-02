@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T19:38:18Z"
 ---
 ## What it is
 Enables safe GitHub automation by queuing write operations for admin approval before execution.

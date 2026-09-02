@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T07:37:37Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve Yad2 real estate listings (for rent or sale) using MCP tools, with data scraped via GitHub Actions and served from a Cloudflare D1 database.

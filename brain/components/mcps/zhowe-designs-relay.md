@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-04T11:04:24Z"
 ---
 ## What it is
 MCP server `Relay`, catalogued on PulseMCP. Self-hosted session relay for sharing threads across Claude Code, Cowork, and Claude.ai.

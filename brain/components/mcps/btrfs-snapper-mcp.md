@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-30T18:19:27Z"
 ---
 ## What it is
 Enables management of BTRFS snapshots via Snapper and monitoring of BTRFS filesystem health through the Model Context Protocol.

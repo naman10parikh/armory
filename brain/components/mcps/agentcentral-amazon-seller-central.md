@@ -8,10 +8,12 @@ source_url: https://github.com/agentcentral-to/agent-central-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-01T02:41:02Z"
 ---
 ## What it is
 MCP server `Agent Central Amazon Seller Central`, catalogued on PulseMCP. Access Amazon Ads, Seller Central, inventory, orders, and finance data through Agent Central's hosted MCP service.

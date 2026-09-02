@@ -8,10 +8,12 @@ source_url: https://github.com/apiiro/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-22T08:20:15Z"
 ---
 ## What it is
 MCP server `Apiiro Guardian`, catalogued on PulseMCP. Application security posture management tools for AI coding assistants.

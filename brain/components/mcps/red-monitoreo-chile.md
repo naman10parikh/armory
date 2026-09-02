@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T14:53:08Z"
 ---
 ## What it is
 A remote MCP server that centralizes the catalog of monitoring stations from three Chilean networks (DGA, DMC, Agromet) with geometry and extraction protocol, enabling agents to locate stations and fetch real data from the original sources.

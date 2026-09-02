@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T07:46:39Z"
 ---
 ## What it is
 Provides conversational, actionable accessibility testing for AI agents, including auditing, prioritization, and code-level fixes.

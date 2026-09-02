@@ -8,10 +8,12 @@ source_url: https://github.com/gerkensm/callcenter.js-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-10-30T17:59:29Z"
 ---
 ## What it is
 MCP server `CallCenter.js VoIP Telephony`, catalogued on PulseMCP. VoIP telephony system that connects OpenAI's real-time voice API with SIP-based phone networks, enabling natural voice conversations over traditional phone lines with support for major PBX systems and high-quality G.722 audio codec.

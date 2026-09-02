@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:25:26Z"
 ---
 ## What it is
 Consultas de leitura ao Cadastro de Expulsões da Administração Federal (CEAF) por CPF, via MCP over HTTP, sem credenciais e com crédito pré-pago.

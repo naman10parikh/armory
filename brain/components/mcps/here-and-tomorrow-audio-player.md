@@ -8,10 +8,12 @@ source_url: https://github.com/here-and-tomorrow-llc/audio-player-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-01-28T18:16:24Z"
 ---
 ## What it is
 MCP server `Audio Player`, catalogued on PulseMCP. Enables audio playback control on your computer through a secure, directory-isolated interface that can play MP3, WAV, and OGG files from a designated folder.

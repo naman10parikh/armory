@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T20:49:12Z"
 ---
 ## What it is
 Enables querying Google Search Console data via natural language, providing tools for site traffic analysis, page changes, and optimization opportunities.

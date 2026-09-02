@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T17:45:49Z"
 ---
 ## What it is
 Enables searching and retrieving course details, schedules, prerequisites, and instructor information from the CMU course catalog via the ScottyLabs API.

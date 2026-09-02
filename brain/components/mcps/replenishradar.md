@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-01T02:42:23Z"
 ---
 ## What it is
 MCP server `ReplenishRadar`, catalogued on PulseMCP. Multi-channel inventory intelligence for Shopify and Amazon with stockout risk analysis, demand forecasts, and purchase order management.

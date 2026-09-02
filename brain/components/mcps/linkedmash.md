@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:42:12Z"
 ---
 ## What it is
 Connects your LinkedIn saved posts to AI agents: search, filter, and label your saved-posts library, and trigger CSV, JSON, or PDF exports. Also drafts, schedules, and analyzes LinkedIn posts from Claude, ChatGPT, Cursor, or Codex.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T20:03:55Z"
 ---
 ## What it is
 Embeds live, interactive Tableau dashboards in ChatGPT, pushing mark selections to the model so questions about specific data points are answered with live queried numbers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T06:52:37Z"
 ---
 ## What it is
 Enables LLMs to understand and work with shipbuilding terminology (Korean/English), including search, translation, and explanation of terms across 14 categories with 364 terms.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:04:31Z"
 ---
 ## What it is
 Remote MCP server providing read-only access to the Transparency Certificate directory, enabling search and retrieval of certified business records via natural language.

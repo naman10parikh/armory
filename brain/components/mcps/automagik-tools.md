@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-12-02T16:47:23Z"
 ---
 ## What it is
 Transforms any API into an intelligent MCP agent in seconds, enabling natural language interaction with APIs through the Model Context Protocol.

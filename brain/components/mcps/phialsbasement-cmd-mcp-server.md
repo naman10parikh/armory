@@ -8,10 +8,12 @@ source_url: https://github.com/phialsbasement/cmd-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-02-14T07:43:44Z"
 ---
 ## What it is
 MCP server `CMD Executor`, catalogued on PulseMCP. Cross-platform MCP server for executing command-line operations and SSH connections on Windows and Linux systems through a standardized interface.

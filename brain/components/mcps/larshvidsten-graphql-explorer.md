@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-24T09:17:10Z"
 ---
 ## What it is
 MCP server `GraphQL Explorer`, catalogued on PulseMCP. Integrates with GraphQL APIs to enable secure data retrieval, query execution, and schema exploration for AI applications

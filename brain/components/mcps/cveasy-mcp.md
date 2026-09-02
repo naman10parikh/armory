@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T16:24:56Z"
 ---
 ## What it is
 Provides MCP clients like Claude with tools to query and manage security scans, CVEs, assets, findings, threat intel, and generate polished reports by acting as a lightweight adapter over the CVEasy backend API.

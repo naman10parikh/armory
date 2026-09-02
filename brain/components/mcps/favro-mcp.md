@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T12:22:18Z"
 ---
 ## What it is
 Read-only MCP server for Favro, providing tools to list organizations, collections, boards, cards, comments, checklists, and search cards via the Favro API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T12:32:38Z"
 ---
 ## What it is
 A CLI and MCP server to preview, build, and integrate AI-generated UI designs from Google Stitch into your local development workflow and coding agents.

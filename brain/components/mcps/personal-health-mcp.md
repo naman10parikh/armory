@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T22:46:29Z"
 ---
 ## What it is
 Self-hosted MCP server that aggregates personal health data from Google Health, Oura, and Withings into a single, provider-attributed interface with configurable source of truth preferences.

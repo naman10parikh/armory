@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-28T13:29:51Z"
 ---
 ## What it is
 A production-grade MCP server that exposes OmniFocus as structured task infrastructure for AI agents, enabling read, write, and filter operations on tasks and projects via natural language.

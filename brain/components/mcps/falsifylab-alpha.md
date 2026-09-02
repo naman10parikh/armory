@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-12T14:33:51Z"
 ---
 ## What it is
 MCP server `FalsifyLab Alpha`, catalogued on PulseMCP. Financial alpha feed for AI agents: DeFi yields, SEC filings, macro data, ETF flows, and Polymarket positions.

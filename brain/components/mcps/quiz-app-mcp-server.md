@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-04T10:10:06Z"
 ---
 ## What it is
 A Python MCP server built with FastMCP that exposes tools for a quiz app, optionally backed by a MySQL database.

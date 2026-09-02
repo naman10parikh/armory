@@ -8,10 +8,12 @@ source_url: https://github.com/stephanj/lsp4j-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-28T05:08:42Z"
 ---
 ## What it is
 MCP server `Eclipse JDT Language Server`, catalogued on PulseMCP. Wraps Eclipse JDT Language Server to provide Java code navigation, symbol search, reference finding, and project structure analysis.

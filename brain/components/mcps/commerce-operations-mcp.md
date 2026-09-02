@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:01:45Z"
 ---
 ## What it is
 Helps a commerce operations analyst investigate stuck synthetic orders, diagnose blockers from stored facts, and create auditable human-review escalations without changing fulfillment state.

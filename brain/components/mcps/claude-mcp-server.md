@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T02:49:22Z"
 ---
 ## What it is
 Exposes Anthropic's Claude as 3 MCP tools (ask_claude, claude_analyze, claude_write) that Manus can call for general prompting, structured analysis, and content generation.

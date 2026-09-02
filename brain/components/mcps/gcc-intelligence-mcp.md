@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T13:40:47Z"
 ---
 ## What it is
 Provides GCC regulatory intelligence including ZATCA e-invoicing, Arabic NLP, UAE Corporate Tax, and compliance tools for AI agents via the Model Context Protocol.

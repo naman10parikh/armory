@@ -8,10 +8,12 @@ source_url: https://github.com/seanfdz/agentbridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-20T13:02:30Z"
 ---
 ## What it is
 MCP server `AgentBridge`, catalogued on PulseMCP. Control Classic Mac OS (System 7–9) from AI agents via shared folder protocol.

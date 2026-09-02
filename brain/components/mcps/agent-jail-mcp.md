@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T19:07:13Z"
 ---
 ## What it is
 Provides MCP tools for managing disposable Docker sandboxes that let AI agents safely execute commands in isolated, ephemeral environments.

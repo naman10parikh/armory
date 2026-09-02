@@ -12,6 +12,8 @@ stars: 106
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-01-01T02:54:47Z"
 ---
 ## What it is
 MCP server `Google Workspace Automation`, catalogued on PulseMCP. Integrates with Google Workspace services through Google Apps Script Web Apps to automate Gmail, Calendar, Drive, Docs, Sheets, Slides, and Forms operations including email management, event scheduling, file handling, document creation, and form building with weather data retrieval and presentation generation capabilities.

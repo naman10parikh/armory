@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-30T10:21:42Z"
 ---
 ## What it is
 MCP server `Vibie`, catalogued on PulseMCP. Deploy HTML folders to vibie.page from Claude or Cursor with OAuth authentication and automatic updates.

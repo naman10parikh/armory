@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-09T20:05:36Z"
 ---
 ## What it is
 Enables automated management of iOS apps, builds, TestFlight beta testing, and user access control through Apple's App Store Connect API.

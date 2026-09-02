@@ -8,11 +8,13 @@ source_url: https://github.com/InnerAura/hyperweave
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-09-01T20:30:13Z"
 ---
 ## What it is
 HyperWeave gives agents a visual output surface: structured data in, branded SVG out. No JavaScript, no runtime. Works anywhere an image can be embedded. Badges, cards, charts, dashboards, diagrams, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T07:39:39Z"
 ---
 ## What it is
 Enables style verification and CSS inspection through Chrome DevTools Protocol, using JSON specs to check computed styles, find elements, and interact with pages.

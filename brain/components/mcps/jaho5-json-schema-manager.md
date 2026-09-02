@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-09T07:28:26Z"
 ---
 ## What it is
 MCP server `JSON Schema Manager`, catalogued on PulseMCP. Manages JSON schemas and generates instances with custom properties, enabling applications to maintain consistent data structures and create template-based JSON documents

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T17:25:38Z"
 ---
 ## What it is
 An MCP server that lets LLMs query USGS NHDPlus HR hydrography data—streams, rivers, lakes, stream gages, and watershed boundaries—via point or GeoJSON geometry intersection queries.

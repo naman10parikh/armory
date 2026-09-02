@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T04:21:10Z"
 ---
 ## What it is
 An MCP server for discovering, retrieving, citing, and evaluating scientific records from the Zenodo repository.

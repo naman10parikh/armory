@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T01:47:18Z"
 ---
 ## What it is
 Korean local tax MCP server providing access to local tax laws, precedents, interpretations, reduction ordinances, and operational rules for legal research and citation verification.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-26T21:04:39Z"
 ---
 ## What it is
 A robust runtime for the official Model Context Protocol (MCP) that adds proxying, session management, JWT auth, persistent user storage with scopes, and progress notifications.

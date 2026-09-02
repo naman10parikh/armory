@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T18:25:04Z"
 ---
 ## What it is
 An MCP server that finds relevant xkcd comics during conversation by semantically matching the context to comic titles, alt text, and transcripts.

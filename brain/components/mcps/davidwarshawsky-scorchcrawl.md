@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-18T20:57:43Z"
 ---
 ## What it is
 MCP server `ScorchCrawl`, catalogued on PulseMCP. Web scraping proxy server with single-page scraping, web search, site mapping, crawling, and structured data extraction through dual local and remote modes.

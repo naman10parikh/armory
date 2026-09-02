@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:46:21Z"
 ---
 ## What it is
 Deployable MCP server on Cloudflare Workers that connects Gmail to AI assistants, enabling search, read, send, reply-all, forward, attachment handling, and label/thread management across multiple Google accounts simultaneously.

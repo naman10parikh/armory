@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T05:29:52Z"
 ---
 ## What it is
 Enables LLMs to profile and analyze tabular data files (CSV, Parquet, Excel, JSON) by extracting schema, statistics, data quality issues, and dtype suggestions, returning structured JSON.

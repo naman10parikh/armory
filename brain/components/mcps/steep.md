@@ -8,10 +8,12 @@ source_url: https://github.com/steephq/steep-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-21T07:13:49Z"
 ---
 ## What it is
 MCP server `Steep`, catalogued on PulseMCP. Analytics platform that connects marketing data sources with AI-powered insights and automated report generation.

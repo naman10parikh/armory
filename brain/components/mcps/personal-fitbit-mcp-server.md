@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T03:01:36Z"
 ---
 ## What it is
 Enables AI assistants to access and analyze Fitbit health data (activity, sleep, heart rate, weight, profile) via natural language through the Fitbit Web API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T13:59:43Z"
 ---
 ## What it is
 An advisory and generative copilot for Terraform that reviews existing scripts and generates compliant infrastructure using organization-specific rules.

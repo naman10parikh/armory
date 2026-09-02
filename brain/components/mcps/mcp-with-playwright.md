@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T13:19:19Z"
 ---
 ## What it is
 An MCP server that enables LLMs to automate browser interactions using Playwright to fetch real-time Israeli weather data.

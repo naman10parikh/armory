@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T02:30:39Z"
 ---
 ## What it is
 MCP server for regulated enterprises, providing per-tool RBAC, redacted audit logging, and structured error handling. Exposes bank tools for customer lookup, statement search, and dispute resolution over stdio and HTTPS transports.

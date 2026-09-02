@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-19T21:26:11Z"
 ---
 ## What it is
 A comprehensive MCP server for Power BI DAX query execution, validation, optimization, and intelligent assistance with tools for schema analysis, template generation, and health monitoring.

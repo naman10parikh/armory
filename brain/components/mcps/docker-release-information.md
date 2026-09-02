@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-24T20:18:09Z"
 ---
 ## What it is
 MCP server `Docker Release Information`, catalogued on PulseMCP. Provides Docker Desktop release notes and security information

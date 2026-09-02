@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-12T16:54:33Z"
 ---
 ## What it is
 Provides LLM access to Workflowy's API, enabling agents to create, read, update, delete, and reorganize nodes in a Workflowy outline.

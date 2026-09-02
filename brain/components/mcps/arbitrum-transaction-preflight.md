@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T16:35:40Z"
 ---
 ## What it is
 Paid Arbitrum transaction simulation, gas estimation, approval detection and risk scoring for wallets, bots and AI agents. Pay per check with USDC through MPP or x402.

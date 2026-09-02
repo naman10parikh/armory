@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T22:05:16Z"
 ---
 ## What it is
 Turns the Schema.org markup already present in a webpage into MCP tools an AI agent can call, extracting JSON-LD, microdata, and RDFa to expose read-only and custom tools. It runs as a stdio or Streamable HTTP MCP server, enabling agents to interact with page entities without additional APIs or back

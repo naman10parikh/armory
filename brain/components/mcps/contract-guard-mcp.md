@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-19T05:09:13Z"
 ---
 ## What it is
 MCP server for a pre-interaction risk check on any EVM contract/token, enabling agents to verify contracts before approving, swapping, or trusting an address.

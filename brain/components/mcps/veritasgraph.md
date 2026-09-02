@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 37
+pushed_at: "2026-08-30T15:40:31Z"
 ---
 ## What it is
 Zero-trust, air-gapped Enterprise GraphRAG MCP server. Build knowledge graphs from local documents and run multi-hop, citation-grounded queries entirely offline with Ollama.

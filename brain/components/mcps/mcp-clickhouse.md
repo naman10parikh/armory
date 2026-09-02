@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-13T13:17:10Z"
 ---
 ## What it is
 An MCP server for ClickHouse with enhanced filtering for database and table discovery, supporting LIKE/NOT LIKE patterns and both ClickHouse and chDB tools.

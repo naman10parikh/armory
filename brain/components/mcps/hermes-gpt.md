@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T10:26:50Z"
 ---
 ## What it is
 Enables MCP-based interaction with a local Hermes Agent installation, providing file read/search, skill management, and optional sandboxed write, terminal, and memory tools.

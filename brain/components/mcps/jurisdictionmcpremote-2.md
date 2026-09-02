@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T19:19:21Z"
 ---
 ## What it is
 Hosted MCP server for jurisdiction data, enabling users to resolve addresses and check cache freshness via Cloudflare Workers with zero local install.

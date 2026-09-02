@@ -8,10 +8,12 @@ source_url: https://github.com/kenosinc/dwf-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-05T01:14:44Z"
 ---
 ## What it is
 MCP server `Digilent WaveForms`, catalogued on PulseMCP. Control Digilent WaveForms instruments including oscilloscope, AWG, and logic analyzer.

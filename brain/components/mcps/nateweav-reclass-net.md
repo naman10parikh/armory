@@ -8,10 +8,12 @@ source_url: https://github.com/nateweav/reclass.net-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-12-31T03:18:07Z"
 ---
 ## What it is
 MCP server `ReClass.NET`, catalogued on PulseMCP. Bridges ReClass.NET memory analysis tool with MCP clients through a dual-component architecture for reverse engineering workflows and game memory structure analysis.

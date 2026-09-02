@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T00:01:15Z"
 ---
 ## What it is
 Enables AI agents to programmatically create and manipulate Qt-based visual programming flows, including device model parsing and port connection, through natural language.

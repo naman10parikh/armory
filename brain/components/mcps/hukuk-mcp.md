@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T21:54:19Z"
 ---
 ## What it is
 MCP server for searching Turkish legal texts using ChromaDB, with PDF indexing and Claude Desktop support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T20:27:48Z"
 ---
 ## What it is
 A production-grade MCP server for local git repositories that provides tools for code search, git history analysis, complexity metrics, test discovery, and dependency management.

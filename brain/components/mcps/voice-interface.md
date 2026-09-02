@@ -8,10 +8,12 @@ source_url: https://github.com/shantur/jarvis-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 83
+stars: 93
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-09-28T14:55:26Z"
 ---
 ## What it is
 MCP server `Voice Interface`, catalogued on PulseMCP. Provides browser-based voice input/output capabilities for conversations, featuring real-time speech-to-text recognition, text-to-speech synthesis, and voice message queuing through a web interface for hands-free interactions and accessibility applications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T01:58:14Z"
 ---
 ## What it is
 Provides Korean stock market data, including DART electronic disclosures and KRX trading information, enabling users to query company profiles, financial statements, and stock trade details via MCP clients.

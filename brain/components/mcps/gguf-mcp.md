@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T23:17:42Z"
 ---
 ## What it is
 Provides tools to inspect local GGUF and safetensors model files, returning metadata, tensor info, and VRAM estimates without reading tensor data. Enables asking natural-language questions about model architecture, quantization, size, and compatibility.

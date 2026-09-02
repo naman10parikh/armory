@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T15:16:22Z"
 ---
 ## What it is
 MCP server `Beget Hosting`, catalogued on PulseMCP. MCP server providing 72 tools for complete management of Beget hosting services via the Beget REST API.

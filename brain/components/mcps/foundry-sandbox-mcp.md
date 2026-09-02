@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-31T09:22:13Z"
 ---
 ## What it is
 A Docker-based MCP server that enables AI to securely run Foundry test commands in isolated containers, with automatic dependency management and cleanup.

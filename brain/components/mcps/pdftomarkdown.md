@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T22:40:33Z"
 ---
 ## What it is
 Convert PDFs, Word documents, Excel/CSV files, and YouTube videos into clean, structured Markdown for AI agents, LLMs, and knowledge tools.

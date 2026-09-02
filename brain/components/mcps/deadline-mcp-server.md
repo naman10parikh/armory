@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T02:34:25Z"
 ---
 ## What it is
 Provides AI access to a Thinkbox Deadline 10 render farm via its Web Service REST API, exposing 18 tools for farm status, job management, and monitoring through MCP.

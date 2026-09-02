@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T23:15:55Z"
 ---
 ## What it is
 MCP server for bare-metal lab operations, enabling inventory, commissioning, deployment, fabric audit, and job scheduling via Hermes agent skills and a tool server.

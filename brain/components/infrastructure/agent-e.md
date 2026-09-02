@@ -8,11 +8,13 @@ source_url: https://github.com/EmergenceAI/Agent-E
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1248
+stars: 1249
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, emergence]
+forks: 190
+pushed_at: "2026-05-04T07:51:00Z"
 ---
 ## What it is
 Emergence AI agent-E browser agent — hierarchical LLM-based web automation that uses DOM distillation and action abstraction layers to achieve significantly higher benchmark accuracy than prior browser agents.

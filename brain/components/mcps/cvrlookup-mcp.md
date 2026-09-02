@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:49:07Z"
 ---
 ## What it is
 Remote MCP server for the Danish company register (CVR): company lookup, name search, and parsed annual-report financials as structured JSON for 860,000+ active Danish companies.

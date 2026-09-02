@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T18:58:45Z"
 ---
 ## What it is
 A standalone motion tracking MCP server that runs MMPose whole-body inference to produce normalized landmarks and trajectories, with tools for tracking, validation, inspection, comparison, and artifact export.

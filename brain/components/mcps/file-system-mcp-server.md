@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T11:19:05Z"
 ---
 ## What it is
 An MCP server that exposes filesystem operations — listing directories, reading, writing, and searching files — as tools an LLM can discover and invoke at runtime.

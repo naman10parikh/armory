@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T03:58:55Z"
 ---
 ## What it is
 Validates MLCommons Croissant dataset metadata (JSON-LD) for schema compliance, as a stateless MCP server.

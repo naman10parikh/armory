@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:33:14Z"
 ---
 ## What it is
 Enables AI coding agents to query a repository's committed understanding layer—its structure, dependencies, and blast radius—without any setup. Provides tools like sb_blast, sb_impact, and sb_map for exploring impact and key files.

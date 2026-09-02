@@ -8,10 +8,12 @@ source_url: https://github.com/gongrzhe/redis-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-03-12T05:33:45Z"
 ---
 ## What it is
 MCP server `Redis`, catalogued on PulseMCP. Integrates with Redis databases to enable fast, in-memory key-value operations for caching, session management, and real-time data processing.

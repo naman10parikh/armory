@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-16T01:03:12Z"
 ---
 ## What it is
 Provides access to aviation weather data from aviationweather.gov, enabling LLMs to fetch and analyze METAR, TAF, PIREPs, AIRMETs, and other aviation weather information.

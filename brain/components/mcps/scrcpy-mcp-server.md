@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T15:17:34Z"
 ---
 ## What it is
 Exposes Android device control via adb and scrcpy as 22 tools for MCP clients like Claude Code and Codex CLI.

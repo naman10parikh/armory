@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T05:09:18Z"
 ---
 ## What it is
 MCP server for batch-dispatching coding tasks to Google Jules in parallel, with YAML task definitions, plan approval, and optional LLM-based task planning. Integrates with Claude Code and OpenAI Codex CLI as a tool.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-06T02:35:08Z"
 ---
 ## What it is
 MCP server `Ontology RL E-commerce`, catalogued on PulseMCP. Combines semantic knowledge representation with reinforcement learning to provide intelligent shopping assistance, product recommendations, and automated learning from user interactions through ontology-driven e-commerce capabilities.

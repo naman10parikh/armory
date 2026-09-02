@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-16T14:14:53Z"
 ---
 ## What it is
 Enables natural language shopping through Walmart's backend API, supporting product discovery, cart management, coupon handling, and order history.

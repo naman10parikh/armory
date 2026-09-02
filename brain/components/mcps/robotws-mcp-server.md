@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T06:36:45Z"
 ---
 ## What it is
 Indexes Robot Framework and Python files from robotws, stores metadata in SQLite, and provides generation context to help Cursor's LLM draft testcases in team style.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T17:38:46Z"
 ---
 ## What it is
 MCP server `macOS Computer Use`, catalogued on PulseMCP. Enables AI agents to control a macOS desktop via screenshots, mouse, and keyboard automation.

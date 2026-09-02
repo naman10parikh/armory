@@ -8,10 +8,12 @@ source_url: https://github.com/ccabanillas/notion-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 112
+stars: 111
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2025-06-24T16:52:54Z"
 ---
 ## What it is
 MCP server `Notion`, catalogued on PulseMCP. Integrates Notion's API, enabling workflows to interact with Notion databases and pages for dynamic content management and retrieval.

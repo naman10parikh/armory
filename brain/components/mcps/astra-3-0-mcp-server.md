@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T22:57:34Z"
 ---
 ## What it is
 Enables closed-loop bridge between Cortical Labs' CL1 and Unreal Engine for real-time 3D navigation via neural spike decoding.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T14:35:07Z"
 ---
 ## What it is
 A MCP server for Walmart Marketplace and Affiliate APIs, enabling sellers to manage items, inventory, prices, and orders, and consumers to search, lookup products, reviews, and store locations.

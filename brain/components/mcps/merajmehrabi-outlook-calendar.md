@@ -8,10 +8,12 @@ source_url: https://github.com/merajmehrabi/outlook_calendar_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-09-20T22:48:04Z"
 ---
 ## What it is
 MCP server `Outlook Calendar`, catalogued on PulseMCP. Integrates with Microsoft Outlook Calendar to enable event management, scheduling, and attendee status updates for enhanced productivity workflows.

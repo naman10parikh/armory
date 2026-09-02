@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T20:31:52Z"
 ---
 ## What it is
 Connects Claude to GitHub, enabling listing repositories, browsing open pull requests, and inspecting PR diffs for code review.

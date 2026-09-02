@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T01:08:13Z"
 ---
 ## What it is
 Exposes the full Chatwoot API as 129 tools for AI assistants, enabling account, contact, conversation, message, inbox, team, report, help center, automation, and custom attribute management, plus exclusive Kanban and scheduled message features.

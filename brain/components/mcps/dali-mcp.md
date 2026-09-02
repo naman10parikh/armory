@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T17:32:40Z"
 ---
 ## What it is
 An MCP server that scores, enhances, and analyzes prompts for AI video and image generation models to prevent token waste on poor prompts.

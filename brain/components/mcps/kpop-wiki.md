@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T09:56:48Z"
 ---
 ## What it is
 Enables searching, retrieving, creating, and updating K-POP wiki pages (artists, albums, terms) via MCP tools.

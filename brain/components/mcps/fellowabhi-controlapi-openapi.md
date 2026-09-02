@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-08T14:33:35Z"
 ---
 ## What it is
 MCP server `ControlAPI OpenAPI`, catalogued on PulseMCP. Converts OpenAPI specifications into executable MCP tools with dynamic server switching

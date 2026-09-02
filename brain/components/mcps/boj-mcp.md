@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-29T13:33:19Z"
 ---
 ## What it is
 Unofficial MCP server for searching and recommending Baekjoon (BOJ) problems using the solved.ac API.

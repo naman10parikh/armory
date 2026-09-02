@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T20:39:20Z"
 ---
 ## What it is
 Enables local semantic search over documents and code for Claude Code and Claude Desktop, running entirely offline with local embeddings and vector storage.

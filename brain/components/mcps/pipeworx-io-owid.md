@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:31:01Z"
 ---
 ## What it is
 MCP server `Our World in Data`, catalogued on PulseMCP. Our World in Data charts and global indicators for querying development and health statistics via Pipeworx.

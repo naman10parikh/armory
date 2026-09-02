@@ -8,11 +8,13 @@ source_url: https://github.com/DottedSign-Official/dottedsign-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 143
+stars: 142
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2026-06-10T03:58:36Z"
 ---
 ## What it is
 Enables AI assistants to manage eSignature workflows, including creating signing tasks, tracking document status, and managing templates via natural language.

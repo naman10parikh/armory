@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T11:38:13Z"
 ---
 ## What it is
 Enables cat food product search and ingredient analysis using natural language queries.

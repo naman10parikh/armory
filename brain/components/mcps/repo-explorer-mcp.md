@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:34:50Z"
 ---
 ## What it is
 Enables LLM-driven repository exploration by exposing an explore_repository tool over stdio, using codebase memory and ripgrep/rtk search to navigate and analyze codebases.

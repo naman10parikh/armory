@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:18:30Z"
 ---
 ## What it is
 A zero-config, discovery-only Model Context Protocol server that exposes Scigantic's catalog of 5,000+ curated public scientific data archives with LLM-ready schema cards, enabling natural-language search, dataset inspection, file listing, and data-access code snippets across all scientific domains.

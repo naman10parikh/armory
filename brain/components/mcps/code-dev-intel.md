@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T10:24:30Z"
 ---
 ## What it is
 A self-hosted MCP and HTTP server for TypeScript code intelligence, providing AI agents with fast semantic code navigation tools like finding definitions, references, implementations, file outlines, dependency graphs, and search.

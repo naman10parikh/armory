@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T00:47:29Z"
 ---
 ## What it is
 Enables AI assistants to search and compare live prices from Finnish marketplaces (Hinta.fi, Tori.fi, Huuto.net) for new and used products like electronics, furniture, and more.

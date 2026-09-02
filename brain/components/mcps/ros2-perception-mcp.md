@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T08:18:40Z"
 ---
 ## What it is
 A read-only MCP server for bounded semantic inspection of ROS 2 perception systems, enabling discovery and metadata extraction from sensors such as cameras, depth sensors, and LiDARs without device configuration or actuation.

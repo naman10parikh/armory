@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T14:23:28Z"
 ---
 ## What it is
 Local MCP server aggregating Métropole de Lyon open data services (transit, bike-sharing, parking, traffic, facilities, waste) behind 10 read-only tools for use with any stdio MCP client.

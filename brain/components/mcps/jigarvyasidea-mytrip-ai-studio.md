@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-21T17:25:40Z"
 ---
 ## What it is
 MCP server `MyTrip AI Studio (SerpAPI Travel)`, catalogued on PulseMCP. Integrates with SerpAPI and other travel services to provide flight search, hotel booking, event discovery, weather forecasting, currency conversion, and geocoding with local result storage for detailed comparison and filtering across all travel planning needs.

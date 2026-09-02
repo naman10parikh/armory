@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T13:58:33Z"
 ---
 ## What it is
 Enables managing Ploi.io servers, sites, databases, and Docker containers through the Ploi API, supporting both local stdio and remote Cloudflare Worker deployments with multi-tenant authentication.

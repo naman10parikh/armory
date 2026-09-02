@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-26T17:32:17Z"
 ---
 ## What it is
 Enables building a stateless MCP endpoint on top of Convex, allowing AI agents like Claude to discover and interact with Convex backend functions as tools, prompts, and resources.

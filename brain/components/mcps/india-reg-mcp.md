@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-13T08:47:23Z"
 ---
 ## What it is
 An MCP server that gives Claude searchable, cited access to RBI and SEBI regulatory documents — circulars, master directions, notifications, and regulations.

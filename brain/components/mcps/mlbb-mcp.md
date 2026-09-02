@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T22:54:36Z"
 ---
 ## What it is
 Enables querying Mobile Legends: Bang Bang hero data including win rates, counters, synergies, and builds via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T13:51:14Z"
 ---
 ## What it is
 Predict the cost of an LLM call before you make it, and pick the cheapest model that still does the job, offline, from your editor.

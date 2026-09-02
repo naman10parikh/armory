@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-13T05:22:55Z"
 ---
 ## What it is
 Enables analysis of FitNotes workout data through an LLM, providing insights on progress, muscle groups, and personalized recommendations.

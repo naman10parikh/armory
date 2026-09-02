@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T15:02:01Z"
 ---
 ## What it is
 Context-aware secret scanner that lets an AI agent scan code, verify which leaked keys are actually live by calling the provider, and rewrite them to env-var lookups before committing. Exposes scan/verify/rewrite tools plus secret-type and verifier resources over MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T05:25:19Z"
 ---
 ## What it is
 MCP server for GPU-accelerated image background removal using rembg, running locally without API keys.

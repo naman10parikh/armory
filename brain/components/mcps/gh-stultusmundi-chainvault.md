@@ -8,10 +8,12 @@ source_url: https://github.com/stultusmundi/chainvault-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-22T15:05:15Z"
 ---
 ## What it is
 MCP server `ChainVault (stultusmundi)`, catalogued on PulseMCP. Secure gateway between AI agents and EVM blockchains with vault-based key management and rule-enforced access control.

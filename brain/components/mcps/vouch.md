@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T20:12:20Z"
 ---
 ## What it is
 A per-call payment trust and reputation API for AI agents, allowing agents to check if a counterparty is safe to pay before making a payment.

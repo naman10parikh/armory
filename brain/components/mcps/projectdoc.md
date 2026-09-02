@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T00:52:47Z"
 ---
 ## What it is
 Enables AI editors to collaboratively manage project documentation, including todos, decisions, pitfalls, and interfaces, through MCP protocol tools.

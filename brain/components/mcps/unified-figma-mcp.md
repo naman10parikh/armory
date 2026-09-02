@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T03:55:45Z"
 ---
 ## What it is
 Coordinates Plumb and Custom Figma MCP backends under one unified interface, exposing backend health and switch prompts because only one active plugin bridge is supported at a time. Currently includes investigation docs, diagnostic probes, and a Stage 2 coordinator runtime.

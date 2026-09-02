@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T23:34:55Z"
 ---
 ## What it is
 MCP server `Productive`, catalogued on PulseMCP. Integrates with Productive.io project management platform to access projects, tasks, pages, and teams

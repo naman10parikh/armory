@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T01:51:20Z"
 ---
 ## What it is
 Enables managing Pterodactyl Game Panel servers via Client and Application APIs, including power actions, files, databases, backups, schedules, and administrative operations.

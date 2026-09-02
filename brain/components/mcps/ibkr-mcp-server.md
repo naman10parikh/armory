@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-03-19T10:04:15Z"
 ---
 ## What it is
 This MCP server interacts with the Interactive Brokers API to fetch portfolio details, enabling portfolio management through natural language.

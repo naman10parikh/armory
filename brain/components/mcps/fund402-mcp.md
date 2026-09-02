@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T10:01:39Z"
 ---
 ## What it is
 MCP server that exposes Fund402 protocol tools to Casper testnet, allowing LLMs to execute real on-chain actions like wallet creation, token management, and borrowing via natural language.

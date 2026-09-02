@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:53Z"
 ---
 ## What it is
 Read-only MCP server for consulting official TRF2 (Brazilian Federal Regional Court 2) case/process information via the eproc system, using prepaid credits and hosted without credentials.

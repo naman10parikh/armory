@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-15T16:37:14Z"
 ---
 ## What it is
 MCP server `SpecLeft`, catalogued on PulseMCP. Python intent tracing that maps specs to pytest tests and monitors implementation progress.

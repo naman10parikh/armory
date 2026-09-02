@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T15:58:46Z"
 ---
 ## What it is
 Enables MCP-compatible coding agents to debug applications using runtime log data, by providing tools to start a local log-ingestion server, track debugging sessions and hypotheses, and correlate logs to specific executions.

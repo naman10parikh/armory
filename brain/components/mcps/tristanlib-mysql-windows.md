@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-02-28T09:02:18Z"
 ---
 ## What it is
 MCP server `MySQL Database`, catalogued on PulseMCP. Integrates with MySQL databases on Windows systems, providing an API for executing SQL queries and retrieving results with user authentication and error handling support.

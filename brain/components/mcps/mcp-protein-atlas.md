@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:34:48Z"
 ---
 ## What it is
 Enables querying the Human Protein Atlas data using natural language or direct MCP tools, with keyless access via the Pipeworx gateway.

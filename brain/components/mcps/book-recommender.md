@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-10T21:10:19Z"
 ---
 ## What it is
 MCP server that provides book recommendation tools, allowing an AI agent to search and filter books by genre, page count, and ratings using the Goodreads dataset.

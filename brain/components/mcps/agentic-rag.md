@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, data-science-machine-learning]
+forks: 0
+pushed_at: "2025-04-24T06:06:26Z"
 ---
 ## What it is
 AGENTIC RAG with OpenAI Agent SDK, Qdrant DB, and Chainlit

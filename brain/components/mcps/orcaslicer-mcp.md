@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-02T01:43:37Z"
 ---
 ## What it is
 Enables headless slicing with OrcaSlicer, preset management, G-code analysis, and printer control over LAN for Klipper, OctoPrint, Prusa, Duet, Elegoo, and Bambu printers.

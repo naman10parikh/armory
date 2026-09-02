@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T17:00:06Z"
 ---
 ## What it is
 An MCP server that provides student-focused tools such as attendance lookup, marks calculation, notes search, college rules access, and a math calculator, with a natural-language CLI client powered by Groq's Llama 3.3 70B.

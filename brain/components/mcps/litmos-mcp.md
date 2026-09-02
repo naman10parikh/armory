@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T07:56:20Z"
 ---
 ## What it is
 Enables Claude Desktop to interact with the Litmos REST API for managing courses, users, training progress, and enrollments.

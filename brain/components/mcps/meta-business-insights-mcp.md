@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:52:42Z"
 ---
 ## What it is
 MCP server for reading Meta Business (Facebook Pages and Instagram) data via Graph API, with cross-account portfolio aggregation to answer questions about follower growth, page insights, and metrics. It runs as a stdio or HTTP server for Claude Desktop.

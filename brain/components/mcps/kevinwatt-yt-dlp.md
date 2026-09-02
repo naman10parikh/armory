@@ -8,10 +8,12 @@ source_url: https://github.com/kevinwatt/yt-dlp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 242
+stars: 277
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 58
+pushed_at: "2026-08-11T10:39:40Z"
 ---
 ## What it is
 MCP server `YouTube Downloader`, catalogued on PulseMCP. Integrates with YouTube using yt-dlp to enable downloading of videos and subtitles for content analysis and processing tasks.

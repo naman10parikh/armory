@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T11:26:31Z"
 ---
 ## What it is
 Provides LLMs with real-time access to Indian agricultural commodity prices across 3,000+ markets via the government's Agmarknet database.

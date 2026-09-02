@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T21:15:31Z"
 ---
 ## What it is
 A precision code-retrieval MCP server for coding agents working in large, legacy, and air-gapped codebases. It returns exact file and line range citations from natural-language queries without requiring the agent to perform blind searches.

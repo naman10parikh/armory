@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T22:35:26Z"
 ---
 ## What it is
 An MCP server that exposes the Leela Chess Zero neural-network chess engine to MCP clients, enabling position analysis, best move calculation, and board manipulation.

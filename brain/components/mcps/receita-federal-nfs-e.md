@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:33Z"
 ---
 ## What it is
 Allows consultation of NFS-e (electronic service invoices) from the Brazilian Federal Revenue official source, with a single read-only tool.

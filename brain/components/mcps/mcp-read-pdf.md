@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-23T02:26:45Z"
 ---
 ## What it is
 MCP server to read protected (or unprotected) PDF files, extracting text to a temp file, and handling large PDFs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-22T19:57:09Z"
 ---
 ## What it is
 Enables AI assistants to extract YouTube video metadata, subtitles, and top comments without downloading videos.

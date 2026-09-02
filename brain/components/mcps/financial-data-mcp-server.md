@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-05T14:29:17Z"
 ---
 ## What it is
 This is an MCP server that provides access to the Alpha Vantage API, allowing stock data retrieval to be used as context to LLMs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T01:22:09Z"
 ---
 ## What it is
 Deterministic music-theory MCP server and API for AI agents — analyze chords, run Roman-numeral analysis, generate voicings, and reharmonize progressions. Computed from music theory, not hallucinated.

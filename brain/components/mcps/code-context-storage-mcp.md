@@ -8,11 +8,13 @@ source_url: https://github.com/Jrains-ux/code-context-storage-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T10:57:12Z"
 ---
 ## What it is
 Provides a local SQLite-backed code context knowledge base with MCP tools for storing and querying code facts, call graphs, semantic info, evidence, and business mappings, plus versioned snapshot publishing and incremental sync.

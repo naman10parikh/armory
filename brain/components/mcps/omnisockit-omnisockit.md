@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-22T05:20:52Z"
 ---
 ## What it is
 MCP server `OmniSocKit`, catalogued on PulseMCP. Injects social marketing platform development knowledge into AI tools, covering WeCom APIs, authentication, messaging, and CRM operations.

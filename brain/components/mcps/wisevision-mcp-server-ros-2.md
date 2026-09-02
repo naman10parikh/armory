@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 86
+forks: 14
+pushed_at: "2026-08-19T20:05:45Z"
 ---
 ## What it is
 🤖 - MCP server for ROS2 enabling AI-driven robotics applications and services.

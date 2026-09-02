@@ -8,10 +8,12 @@ source_url: https://github.com/kunihiros/google-patents-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-08-25T15:23:32Z"
 ---
 ## What it is
 MCP server `Google Patents (SerpAPI)`, catalogued on PulseMCP. Search Google Patents using the SerpAPI.

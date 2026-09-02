@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T22:02:20Z"
 ---
 ## What it is
 Unified memory and agent bridge for Claude Code, enabling cross-tab messaging, shared context, session checkpoints, and semantic memory across sessions.

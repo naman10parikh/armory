@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T15:11:33Z"
 ---
 ## What it is
 Lets you send push notifications to your phone via ntfy, enabling alerts from scheduled tasks or direct messages.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T18:30:01Z"
 ---
 ## What it is
 Generates images from text prompts using OpenAI's API, saves them locally, and serves them via an integrated HTTP static file server.

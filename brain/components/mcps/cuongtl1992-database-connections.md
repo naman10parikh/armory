@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-17T06:37:41Z"
 ---
 ## What it is
 MCP server `Database Connections`, catalogued on PulseMCP. Provides a unified TypeScript-based database server for seamlessly connecting to SQLite, PostgreSQL, SQL Server, and MongoDB, enabling flexible database interactions through server-sent events and standard I/O communication modes.

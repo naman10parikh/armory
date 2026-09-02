@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-07T00:15:42Z"
 ---
 ## What it is
 MCP server `Resemble`, catalogued on PulseMCP. Provides a bridge to the Resemble AI text-to-speech API, enabling dynamic voice generation for multimedia content through flexible server transport methods and voice model selection.

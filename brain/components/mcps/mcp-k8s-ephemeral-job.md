@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T09:37:53Z"
 ---
 ## What it is
 Enables running ephemeral Kubernetes Jobs/pods with caller-chosen images and commands, returning results and artifacts while automating cleanup. Supports synchronous and background execution, repository cloning, and strict security controls.

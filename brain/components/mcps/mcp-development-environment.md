@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-05T03:29:02Z"
 ---
 ## What it is
 Provides a Docker-based development environment with Python and Node.js MCP servers, enabling file operations, SQL queries, Redis caching, and debugging for building and testing MCP servers.

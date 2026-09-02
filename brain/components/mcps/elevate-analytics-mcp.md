@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T09:36:10Z"
 ---
 ## What it is
 Production-ready MCP server integrating Google Search Console, GA4, and PageSpeed Insights for SEO and analytics intelligence, enabling natural-language queries to Google analytics data.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T21:51:04Z"
 ---
 ## What it is
 MCP server `x64dbg`, catalogued on PulseMCP. AI control of x64dbg debugger via 92 tools for disassembly, memory, breakpoints, and symbol analysis.

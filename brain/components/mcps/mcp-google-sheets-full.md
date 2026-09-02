@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-23T01:02:28Z"
 ---
 ## What it is
 A comprehensive Google Sheets MCP server offering 26 tools for read/write, structural updates, Drive search, and an escape hatch for executing arbitrary Node.js code with pre-authenticated Sheets and Drive clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T00:21:36Z"
 ---
 ## What it is
 MCP server for SpeechWeave transcription, enabling AI assistants to transcribe local files and URLs via wait-first or async tools.

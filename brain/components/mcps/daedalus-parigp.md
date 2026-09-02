@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-21T19:27:26Z"
 ---
 ## What it is
 MCP server `PARI/GP`, catalogued on PulseMCP. Exposes the cypari2 number theory library for integer factorization, primality testing, polynomial operations, and elliptic curves.

@@ -8,10 +8,12 @@ source_url: https://github.com/sigaihealth/realvestmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-04T08:53:17Z"
 ---
 ## What it is
 MCP server `RealVest`, catalogued on PulseMCP. Provides 30+ real estate investment calculators including affordability analysis, BRRRR deals, house hacking, syndication analysis, IRR/NPV calculations, and Monte Carlo simulations with current market data, mortgage rates, and state-specific down payment assistance programs for comprehensive investment analysis.

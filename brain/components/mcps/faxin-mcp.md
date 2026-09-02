@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:34:01Z"
 ---
 ## What it is
 Enables AI clients to directly search Chinese legal resources — laws, regulations, case rules, outline concepts, and similar cases — from the Faxin platform, using a user's own Faxin account for authentication.

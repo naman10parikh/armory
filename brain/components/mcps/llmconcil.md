@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T02:24:36Z"
 ---
 ## What it is
 Enables Claude Code to send a prompt to multiple LLMs simultaneously and get a judge model's structured comparison of their responses. This surfaces consensus, contradictions, and blind spots, letting Claude write a more informed final answer.

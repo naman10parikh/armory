@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T02:54:40Z"
 ---
 ## What it is
 Enables AI assistants to interact with SQL Server databases through tools for connectivity, schema exploration, SQL queries, and OEE metrics analysis.

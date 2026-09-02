@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T19:41:07Z"
 ---
 ## What it is
 Provides a per-project memory layer with plain notes, semantic vector recall, and a knowledge graph, all hosted on Cloudflare's free tier. It includes a web dashboard for browsing projects and deleting them.

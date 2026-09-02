@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T14:09:32Z"
 ---
 ## What it is
 An MCP server that lets Claude manage long-running development processes across frameworks like Flutter, Next.js, Spring Boot, and Vite, with lifecycle control, log streaming, and hot reload support.

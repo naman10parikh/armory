@@ -8,11 +8,13 @@ source_url: https://github.com/product-on-purpose/pm-skills-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-04T18:21:20Z"
 ---
 ## What it is
 MCP server exposing 40 best-practice product management skills plus workflows and lifecycle tools, instantly accessible to any AI via Model Context Protocol.

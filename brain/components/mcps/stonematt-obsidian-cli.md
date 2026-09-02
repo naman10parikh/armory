@@ -8,10 +8,12 @@ source_url: https://github.com/stonematt/mcp-obsidian-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-10T06:30:44Z"
 ---
 ## What it is
 MCP server `Obsidian CLI`, catalogued on PulseMCP. Wraps the official Obsidian CLI plugin for IPC-based access to Obsidian's native API, exposing search, daily notes, tasks, and backlinks without API keys or REST plugins.

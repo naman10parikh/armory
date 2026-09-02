@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-04T20:50:21Z"
 ---
 ## What it is
 This MCP server connects ChatGPT to ERPNext, enabling AI-powered business analytics, report generation, and document management.

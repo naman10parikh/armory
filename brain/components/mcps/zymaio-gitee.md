@@ -8,10 +8,12 @@ source_url: https://github.com/zymaio/gitee-rs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-29T02:32:30Z"
 ---
 ## What it is
 MCP server `Gitee`, catalogued on PulseMCP. Integrates with Gitee's API to provide repository management, issue tracking, pull request workflows, and user management with robust error handling.

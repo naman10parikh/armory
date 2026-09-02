@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:53:08Z"
 ---
 ## What it is
 Enables AI assistants to query internal business data for insights into customers, revenue, subscriptions, sales, and churn through controlled, read-only MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T06:54:06Z"
 ---
 ## What it is
 A modular suite of MCP servers for Audiokinetic Wwise, enabling AI agents to browse, edit, audition, profile, and build Wwise projects through the Wwise Authoring API.

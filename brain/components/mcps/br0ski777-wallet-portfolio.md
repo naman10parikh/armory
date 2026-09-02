@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-31T11:25:47Z"
 ---
 ## What it is
 MCP server `Wallet Portfolio`, catalogued on PulseMCP. Fetch crypto wallet balances, ERC-20 token holdings, and USD values on Base and Ethereum.

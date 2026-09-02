@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-24T18:07:20Z"
 ---
 ## What it is
 MCP orchestrator that loads modular bricks on demand, reducing AI agent context usage by ~65%.

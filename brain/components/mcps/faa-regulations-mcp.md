@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:05:44Z"
 ---
 ## What it is
 Provides access to US Federal Aviation Regulations (14 CFR) via Pipeworx gateway, enabling natural language queries for FAA regulations data.

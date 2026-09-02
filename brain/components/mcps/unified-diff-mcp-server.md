@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-06-02T05:45:03Z"
 ---
 ## What it is
 Transforms code diffs into beautiful visual comparisons with support for GitHub Gist sharing and local file output (HTML/PNG).

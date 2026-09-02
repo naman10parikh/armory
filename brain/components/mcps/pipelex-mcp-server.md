@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T13:53:11Z"
 ---
 ## What it is
 Enables AI agents to build and execute Pipelex pipelines on-the-fly from natural language descriptions.

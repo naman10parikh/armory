@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T16:59:10Z"
 ---
 ## What it is
 Secure MCP server for RSS/Atom feed reading with SQLite backend. Enables feed management, entry search, and OPML import/export.

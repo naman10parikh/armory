@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:32:15Z"
 ---
 ## What it is
 Enables UK haulage compliance checks including operator licence verification, tachograph auditing, drivers' hours calculations, and DVSA roadside inspection support.

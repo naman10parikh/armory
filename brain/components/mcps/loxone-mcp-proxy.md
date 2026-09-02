@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-11T20:51:00Z"
 ---
 ## What it is
 A zero-dependency local proxy that provides a stable, headless connection to a Loxone Miniserver's MCP Server, enabling control and monitoring of Loxone smart home via natural language.

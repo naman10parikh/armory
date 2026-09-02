@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T19:59:05Z"
 ---
 ## What it is
 Enables AI agents to push and read metrics from EzStat, track counters/gauges, and ask natural-language questions about telemetry.

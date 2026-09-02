@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T04:56:20Z"
 ---
 ## What it is
 MCP server `Food Near Me`, catalogued on PulseMCP. AI-native restaurant discovery with search, menus, reviews, and quality scores via verified Menu Protocol data.

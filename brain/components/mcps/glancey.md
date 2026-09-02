@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T21:03:30Z"
 ---
 ## What it is
 Adds semantic code search to AI coding agents, enabling natural language queries across entire codebases to retrieve relevant code chunks, saving tokens and providing deep context.

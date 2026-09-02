@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T17:01:28Z"
 ---
 ## What it is
 Enables Claude to read HiveOS rig stats and, when enabled, apply overclocks and flight sheets.

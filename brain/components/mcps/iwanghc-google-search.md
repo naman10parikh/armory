@@ -8,10 +8,12 @@ source_url: https://github.com/iwanghc/mcp_web_search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-13T10:04:11Z"
 ---
 ## What it is
 MCP server `Google Search`, catalogued on PulseMCP. Provides web search capabilities through Google Search integration using browser automation with advanced fingerprinting techniques to avoid detection and deliver clean, structured search results.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-02-12T02:17:26Z"
 ---
 ## What it is
 Enables AI agents to perform passive reconnaissance, vulnerability intelligence, DNS analysis, and device search using Shodan's database of internet-connected devices, all from within your IDE.

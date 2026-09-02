@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-17T16:22:55Z"
 ---
 ## What it is
 MCP server `Dependency Doctor`, catalogued on PulseMCP. Diagnoses and fixes Node.js dependency conflicts across npm, pnpm, and yarn with automated resolution suggestions and direct package file modifications for monorepo environments.

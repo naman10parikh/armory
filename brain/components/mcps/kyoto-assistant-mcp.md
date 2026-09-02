@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T07:46:14Z"
 ---
 ## What it is
 A Kyoto travel planning assistant that uses Wikivoyage API and LangChain/LangGraph to provide real-time attraction info, operating hours, and dynamic itinerary adjustments through MCP tools.

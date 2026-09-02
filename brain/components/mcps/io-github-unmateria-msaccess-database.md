@@ -8,11 +8,13 @@ source_url: https://github.com/unmateria/MCP-Access
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 49
+stars: 50
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-08-30T18:05:28Z"
 ---
 ## What it is
 Gives AI assistants full control over Microsoft Access databases, enabling creation and management of forms, VBA, tables, queries, and more through natural language.

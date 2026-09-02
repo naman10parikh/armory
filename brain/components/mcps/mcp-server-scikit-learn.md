@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-03-20T02:17:35Z"
 ---
 ## What it is
 Provides a standardized interface for interacting with Scikit-learn models and datasets, enabling training, evaluation, and model management through natural language.

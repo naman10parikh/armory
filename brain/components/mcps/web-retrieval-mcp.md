@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-22T09:05:40Z"
 ---
 ## What it is
 A Model Context Protocol server that analyzes webpage design structures, providing detailed layout, navigation, content, form, image, and link information from a given URL.

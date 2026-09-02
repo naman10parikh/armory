@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T18:12:04Z"
 ---
 ## What it is
 Enables logging food into MyFitnessPal diary via natural language, supporting search, log, quick add, and diary retrieval.

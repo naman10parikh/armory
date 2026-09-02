@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T05:28:33Z"
 ---
 ## What it is
 Enables sending emails, drafting emails, and appending text to Google Docs via MCP tools.

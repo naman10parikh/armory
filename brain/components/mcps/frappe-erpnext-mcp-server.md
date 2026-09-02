@@ -8,11 +8,13 @@ source_url: https://github.com/SajmustafaKe/frappe-dev-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-11T14:43:38Z"
 ---
 ## What it is
 Provides AI assistance for Frappe/ERPNext development with tools for creating DocTypes, running bench commands, and managing apps.

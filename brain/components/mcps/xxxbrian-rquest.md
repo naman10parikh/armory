@@ -8,10 +8,12 @@ source_url: https://github.com/xxxbrian/mcp-rquest
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-03-22T17:36:06Z"
 ---
 ## What it is
 MCP server `HTTP Request`, catalogued on PulseMCP. Enables LLMs to make advanced HTTP requests with realistic browser emulation, bypassing anti-bot measures while supporting all HTTP methods, authentication, and automatic response handling for web scraping and API interactions.

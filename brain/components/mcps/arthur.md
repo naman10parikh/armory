@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:24:02Z"
 ---
 ## What it is
 Enables AI agents to control a headless Chromium browser through a persistent Python REPL, providing navigation, interaction, snapshotting, and media control via the Model Context Protocol.

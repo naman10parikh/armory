@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-11-29T11:43:08Z"
 ---
 ## What it is
 MCP server `HTML Page Preview`, catalogued on PulseMCP. Provides HTML file preview and analysis capabilities by leveraging Puppeteer for screenshot capture and content parsing, enabling web testing and content visualization tasks.

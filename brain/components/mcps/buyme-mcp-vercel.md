@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T20:16:40Z"
 ---
 ## What it is
 Remote MCP server for searching Israeli businesses that accept BuyMe gift cards, with tools for filtering businesses by category, region, and price.

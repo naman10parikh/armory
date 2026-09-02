@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-27T11:45:51Z"
 ---
 ## What it is
 MCP server `Turbo Docs`, catalogued on PulseMCP. Provides AI access to Hotwire Turbo documentation, exposing individual files as tools for targeted retrieval of specific features like Drive, Frames, Streams, and page refreshes.

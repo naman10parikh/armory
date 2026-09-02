@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T16:04:08Z"
 ---
 ## What it is
 MCP server enabling LLMs to interact with a Cardano node by wrapping cardano-cli/torsten-cli, supporting queries, transactions, staking, and governance operations.

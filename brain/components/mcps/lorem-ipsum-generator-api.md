@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:38Z"
 ---
 ## What it is
 Generates Lorem Ipsum placeholder text with exact count control. Uses x402 micropayments for pay-per-call, no API key required.

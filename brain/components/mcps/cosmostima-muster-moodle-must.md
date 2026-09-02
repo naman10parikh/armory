@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-13T14:18:56Z"
 ---
 ## What it is
 MCP server `MUSTer (Moodle & MUST University)`, catalogued on PulseMCP. Automates access to Moodle learning management systems and MUST university class schedules through web scraping, enabling retrieval of course listings, assignments, calendar events, and resource downloads with session persistence and headless operation.

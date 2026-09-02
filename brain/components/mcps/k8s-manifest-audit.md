@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T08:15:12Z"
 ---
 ## What it is
 Static audit of Kubernetes manifests via MCP, powered by kube-linter. Returns structured reports with severity, check ID, category, message, and remediation hints.

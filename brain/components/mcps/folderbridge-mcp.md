@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:42:06Z"
 ---
 ## What it is
 Enables AI clients to inspect and carefully edit a bounded local workspace via stdio, with a read-only default, conflict-safe updates, and no network listener or telemetry.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T05:30:25Z"
 ---
 ## What it is
 MCP server that enables AI agents to control remote machines via RustDesk, supporting device management, remote shell commands, file operations, power controls, and screen interaction.

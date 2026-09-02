@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-29T09:02:53Z"
 ---
 ## What it is
 MCP server `arXiv`, catalogued on PulseMCP. Provides 3 tools for searching and downloading arXiv papers in PDF or LaTeX formats.

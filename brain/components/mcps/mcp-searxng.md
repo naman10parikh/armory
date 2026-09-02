@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T13:17:39Z"
 ---
 ## What it is
 An MCP server that integrates the SearXNG API for web search and URL content extraction with advanced features like pagination, caching, and proxy support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T13:34:58Z"
 ---
 ## What it is
 Provides live infrastructure monitoring for AI agents, including domain health checks, MCP server security posture, email blacklists, broken-link scans, and cloud vendor status. No signup or API key needed for public tools.

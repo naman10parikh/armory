@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:32:03Z"
 ---
 ## What it is
 MCP server `Unpaywall`, catalogued on PulseMCP. Open-access scholarly paper lookups from the Unpaywall database via the Pipeworx gateway.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T15:23:08Z"
 ---
 ## What it is
 A text-first headless browser MCP server that extracts DOM and OCR text from web pages, offering a cheaper alternative to screenshot-based browsing by defaulting to zero image tokens.

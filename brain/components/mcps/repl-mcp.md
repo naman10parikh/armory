@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T04:40:23Z"
 ---
 ## What it is
 Enables creation and management of persistent REPL sessions for various languages and shells, with web-based monitoring and session recovery capabilities.

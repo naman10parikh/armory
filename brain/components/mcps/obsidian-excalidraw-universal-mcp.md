@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T11:12:20Z"
 ---
 ## What it is
 MCP server enabling AI assistants to read and write Obsidian notes, create and edit Excalidraw drawings, and run Excalidraw scripts via natural language commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:36:15Z"
 ---
 ## What it is
 Enables querying Swedish cybersecurity regulations, decisions, and requirements from CERT-SE directly from MCP-compatible clients like Claude and Cursor.

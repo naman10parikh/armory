@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-28T13:38:45Z"
 ---
 ## What it is
 MCP server `CCPhoto`, catalogued on PulseMCP. Bridges phone cameras to Claude Code over a local network for capturing photos, receiving images, and streaming video.

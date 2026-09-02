@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:24:14Z"
 ---
 ## What it is
 MCP server for Next2D application development that generates code following MVVM + Clean Architecture + Atomic Design patterns, validates architecture, and provides API references.

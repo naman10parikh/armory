@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T10:50:29Z"
 ---
 ## What it is
 A zero-trust security gateway for AI-agent tool execution, enforcing authentication, authorization, risk classification, and human confirmation before MCP tools run.

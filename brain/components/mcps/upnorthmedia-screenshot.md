@@ -8,10 +8,12 @@ source_url: https://github.com/upnorthmedia/screenshotmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-03T18:57:02Z"
 ---
 ## What it is
 MCP server `Screenshot`, catalogued on PulseMCP. Captures website screenshots using Puppeteer browser automation with full-page and element-specific targeting, device presets, and intelligent wait conditions for web development testing and UI documentation workflows.

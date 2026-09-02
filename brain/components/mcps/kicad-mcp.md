@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-18T06:04:16Z"
 ---
 ## What it is
 Enables natural language interaction with KiCad projects, schematics, and PCBs, supporting project management, design rule checking, netlist extraction, and datasheet RAG search.

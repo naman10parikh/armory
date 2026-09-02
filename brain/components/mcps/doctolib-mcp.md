@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T20:32:44Z"
 ---
 ## What it is
 MCP server for Doctolib that enables searching practitioners, checking availability, and booking or canceling appointments across Doctolib Germany, France, and Italy.

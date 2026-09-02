@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-18T17:06:17Z"
 ---
 ## What it is
 MCP server `OpenSearch`, catalogued on PulseMCP. Integrates with OpenSearch to enable powerful full-text search, data aggregation, and real-time analytics capabilities for applications requiring advanced search and log analysis.

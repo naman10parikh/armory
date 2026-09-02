@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T06:11:45Z"
 ---
 ## What it is
 Gaia MCP enables AI agents to discover, evaluate, and install trusted skills from the Gaia Skill Tree, providing evidence-backed recommendations and safe workspace integration.

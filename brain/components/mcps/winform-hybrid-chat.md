@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-19T05:56:25Z"
 ---
 ## What it is
 MCP server `WinForm Hybrid Chat`, catalogued on PulseMCP. Provides a hybrid desktop-web chat interface that combines Windows Forms GUI with embedded ASP.NET Core web server, offering echo operations, session management, LLM sampling, and GUI automation through desktop form event triggering for building AI-assisted desktop applications with conversational interfaces.

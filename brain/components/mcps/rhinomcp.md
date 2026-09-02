@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-04-05T22:57:25Z"
 ---
 ## What it is
 Connects Rhino and Grasshopper to Claude AI via the Model Context Protocol, enabling prompt-assisted 3D modeling, scene manipulation, and control through tools like object creation, layer management, and code execution.

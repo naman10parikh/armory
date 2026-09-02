@@ -8,10 +8,12 @@ source_url: https://github.com/paralov/roblox-studio-opencode-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-06T00:59:11Z"
 ---
 ## What it is
 MCP server `Roblox Studio`, catalogued on PulseMCP. Bridges Roblox Studio with external tools through HTTP polling architecture, enabling automated workspace manipulation, instance creation, script editing, and property management for game development workflows.

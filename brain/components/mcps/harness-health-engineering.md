@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T20:58:37Z"
 ---
 ## What it is
 Enables querying a local health knowledge base with hybrid RAG (vector + FTS5) and exploring backlinks between notes.

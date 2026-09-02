@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T14:54:39Z"
 ---
 ## What it is
 An MCP server that exposes marketplace seller operations (Shopee first) as tools Claude can call, enabling automation of product, pricing, inventory, customer service, and other seller tasks.

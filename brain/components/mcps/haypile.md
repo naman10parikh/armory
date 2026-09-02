@@ -8,11 +8,13 @@ source_url: https://github.com/BenyD/haypile
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T11:49:06Z"
 ---
 ## What it is
 Hybrid search over your local documents, with file and page citations. One binary, fully local.

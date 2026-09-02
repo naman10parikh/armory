@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-06T15:51:24Z"
 ---
 ## What it is
 Enables AI agents to manage Kommo CRM (formerly AmoCRM) entities including leads, contacts, companies, tasks, notes, pipelines, and products through natural language commands via the Model Context Protocol.

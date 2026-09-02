@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-17T11:00:46Z"
 ---
 ## What it is
 Enables building RudderStack Profiles projects using natural language through AI assistants, supporting data discovery, identity resolution, feature engineering, and propensity modeling.

@@ -8,10 +8,12 @@ source_url: https://github.com/joeseesun/seedream_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-18T09:56:42Z"
 ---
 ## What it is
 MCP server `Seedream (Volcengine)`, catalogued on PulseMCP. Integrates with Volcengine's Seedream 4.0 API for text-to-image generation, image-to-image transformation, multi-image fusion, and sequential generation workflows with automatic local storage, cloud backup options, and configurable prompt templates.

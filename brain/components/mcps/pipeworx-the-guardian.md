@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:28:44Z"
 ---
 ## What it is
 MCP server `The Guardian`, catalogued on PulseMCP. Guardian Open Platform: content search, article retrieval, sections, and tags with a free developer key.

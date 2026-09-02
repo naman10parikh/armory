@@ -8,11 +8,13 @@ source_url: https://github.com/Yero-413/wechat-clawbot-push-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T09:02:34Z"
 ---
 ## What it is
 MCP server for pushing scheduled or triggered messages to personal WeChat via ClawBot, using WorkBuddy connector and WeChat iLink API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T01:30:06Z"
 ---
 ## What it is
 MCP server for reading Claude Code session history from the local filesystem, exposing project and session data to MCP-compatible clients.

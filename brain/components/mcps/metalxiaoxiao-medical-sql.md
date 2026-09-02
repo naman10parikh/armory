@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-07T13:07:22Z"
 ---
 ## What it is
 MCP server `Medical SQL (MySQL Hospital Database)`, catalogued on PulseMCP. Integrates with MySQL hospital databases to enable natural language querying in Chinese, converting questions into SQL queries through intelligent schema mapping and organizing tables into semantic categories for medical data analysis and healthcare information system integration.

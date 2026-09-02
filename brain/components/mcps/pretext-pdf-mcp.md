@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T08:34:59Z"
 ---
 ## What it is
 MCP server for generating professional PDFs from structured JSON in AI agents like Claude or Cursor, using pure Node.js with embedded fonts and precision text layout.

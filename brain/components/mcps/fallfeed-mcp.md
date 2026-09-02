@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:08:00Z"
 ---
 ## What it is
 A sovereign, MIT-licensed MCP server wrapping the fallfeed SDK for professional service workflows, featuring Ed25519 cryptographic signing, offline capability, and discoverability on FallMarket.

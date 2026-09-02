@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T16:48:18Z"
 ---
 ## What it is
 Provides local, dependency-free security scanning tools for LLM configurations, prompts, RAG sources, and more, enabling AI coding agents to detect prompt injections and other vulnerabilities without external network access.

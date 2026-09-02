@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-12-25T08:13:23Z"
 ---
 ## What it is
 MCP server `Luma AI Video Generation`, catalogued on PulseMCP. Integrates with Luma AI's API to enable AI-driven video generation based on textual descriptions or parameters.

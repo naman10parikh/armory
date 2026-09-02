@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T08:07:28Z"
 ---
 ## What it is
 Connects RAG knowledge bases to Claude Desktop and Claude Code, allowing retrieval-augmented generation from ingested documents.

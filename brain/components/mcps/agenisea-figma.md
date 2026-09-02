@@ -8,10 +8,12 @@ source_url: https://github.com/agenisea/cc-fig-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-22T03:19:13Z"
 ---
 ## What it is
 MCP server `Figma`, catalogued on PulseMCP. Bidirectional WebSocket bridge enabling real-time design manipulation with node creation, text replacement, component management, and automated exports with intelligent chunking for large-scale operations.

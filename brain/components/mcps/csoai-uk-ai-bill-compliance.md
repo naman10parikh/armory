@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:47:09Z"
 ---
 ## What it is
 MCP server `UK AI Bill Compliance`, catalogued on PulseMCP. Automates compliance audits against the UK AI White Paper's five principles for AI developers and deployers operating in the UK market.

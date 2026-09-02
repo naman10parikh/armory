@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-24T05:57:28Z"
 ---
 ## What it is
 A production-ready MCP server that enables Claude and other LLMs to generate images and videos using Google's Gemini AI models (Gemini 2.0 Flash and Veo 2.0).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:57:37Z"
 ---
 ## What it is
 Provides remote read-only access to a Data Warehouse SQL Server, enabling users to query manufacturing OEE data, SBU lists, and run ad-hoc SELECT queries.

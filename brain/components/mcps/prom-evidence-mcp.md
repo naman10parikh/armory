@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T06:38:15Z"
 ---
 ## What it is
 An evidence-first Prometheus MCP server that lets AI agents query production telemetry with detailed receipts including exact PromQL, timing, series count, and explicit warnings for empty, high-cardinality, or unreliable data.

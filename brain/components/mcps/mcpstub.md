@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T10:27:57Z"
 ---
 ## What it is
 Serves deterministic MCP protocol fixtures generated from tool contracts, enabling testing of MCP clients, gateways, and agent harnesses without live credentials or external services.

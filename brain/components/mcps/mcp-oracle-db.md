@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T13:53:47Z"
 ---
 ## What it is
 MCP server for Oracle Database enabling AI assistants to explore schemas, run queries, write data, and monitor sessions via natural language. Features read-only mode by default and uses Oracle Thin mode for zero-install connectivity.

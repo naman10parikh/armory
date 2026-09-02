@@ -8,10 +8,12 @@ source_url: https://github.com/ian-cowley/mcpsqlserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-06-09T14:52:36Z"
 ---
 ## What it is
 MCP server `SQL Server`, catalogued on PulseMCP. Integrates with SQL Server to enable database schema exploration, query execution, and stored procedure management via JSON-RPC communication for relational data analysis and natural language querying.

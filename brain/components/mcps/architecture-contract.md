@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T03:05:59Z"
 ---
 ## What it is
 An agnostic MCP server that reads arc.yaml from the workspace, exposing tools to map layers, trace slices, generate scaffolding, and validate architectural rules.

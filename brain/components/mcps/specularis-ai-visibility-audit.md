@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T19:42:10Z"
 ---
 ## What it is
 Runs AI visibility (GEO/AEO) audits on websites, checking AI crawler access, schema markup, llms.txt, and content signals, with optional full PDF report.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-13T13:51:56Z"
 ---
 ## What it is
 The Universal MCP Server exposes tools for automated posting and draft saving to note.com. It reads Markdown files containing titles, body text, and tags, then publishes them to your note.com account using Playwright automation.

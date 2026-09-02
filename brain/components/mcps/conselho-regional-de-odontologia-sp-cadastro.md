@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:58Z"
 ---
 ## What it is
 Allows users to query the dental registry of the Regional Council of Dentistry of São Paulo from official sources.

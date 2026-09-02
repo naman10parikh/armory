@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-21T14:34:09Z"
 ---
 ## What it is
 Bridges AI models with the ARC enterprise framework, enabling documentation search, API integration, code generation, and deployment assistance for cloud-native application development.

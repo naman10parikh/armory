@@ -8,10 +8,12 @@ source_url: https://github.com/rjhalvorson/skylight-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-04-20T00:53:34Z"
 ---
 ## What it is
 MCP server `Skylight`, catalogued on PulseMCP. Connects AI assistants to Skylight family calendars for managing events, chores, grocery lists, and rewards.

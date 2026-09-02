@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-20T15:57:49Z"
 ---
 ## What it is
 Connects AI agents to Siemens industrial PLCs for automatic monitoring and control of industrial equipment.

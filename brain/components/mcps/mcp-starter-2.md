@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T07:20:56Z"
 ---
 ## What it is
 A local MCP server providing general utility tools, persistent note storage, and keyword-searchable knowledge base via Streamable HTTP, enabling multiple agents to share the same data.

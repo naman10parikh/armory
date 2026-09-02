@@ -8,11 +8,13 @@ source_url: https://github.com/n2ns/n2n-memory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-18T09:07:45Z"
 ---
 ## What it is
 Persists AI's cognitive fragments as a knowledge graph within each project directory, enabling project-level memory isolation and sharing via Git.

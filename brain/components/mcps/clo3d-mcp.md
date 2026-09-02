@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T22:04:45Z"
 ---
 ## What it is
 Enables AI-assisted garment design by letting Claude (or any MCP host) drive CLO3D — import projects, dress avatars, assign fabrics, simulate cloth, render, and export, all from a chat.

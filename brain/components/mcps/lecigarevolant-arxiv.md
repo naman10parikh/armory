@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-27T20:02:03Z"
 ---
 ## What it is
 MCP server `arXiv`, catalogued on PulseMCP. Integrates with arXiv's academic paper database to search publications by title, author, or keywords, retrieve metadata and PDF URLs, download papers locally, and extract full text content with page range selection for research workflows.

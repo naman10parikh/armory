@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T17:56:37Z"
 ---
 ## What it is
 Enables AI assistants to generate sourced RaportAgent reports and retrieve their audit trails through any MCP client.

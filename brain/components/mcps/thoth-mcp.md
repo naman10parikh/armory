@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T18:46:44Z"
 ---
 ## What it is
 A security-first, read-only MCP server for AI assistants to safely query MySQL, PostgreSQL, and Redis with layered safety checks.

@@ -8,10 +8,12 @@ source_url: https://github.com/juspay/nix-chrome-devtools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T17:10:17Z"
 ---
 ## What it is
 MCP server `Nix Chrome DevTools`, catalogued on PulseMCP. Nix-based launcher that auto-wires the Chrome DevTools MCP server into Claude Code, Codex, and other AI coding environments.

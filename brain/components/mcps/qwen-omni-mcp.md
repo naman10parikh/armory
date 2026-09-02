@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T02:17:03Z"
 ---
 ## What it is
 Enables Claude Code and other AI agents to understand videos and images via Qwen3.7-Plus, supporting native video analysis, image understanding, and convenience tools like summarization and OCR.

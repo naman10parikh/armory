@@ -8,10 +8,12 @@ source_url: https://github.com/killop/codedb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 97
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-07-24T12:21:32Z"
 ---
 ## What it is
 MCP server `CodeDB`, catalogued on PulseMCP. Indexes and searches codebases using tree-sitter with 4 tools for semantic code search, outlines, symbols, and dependency analysis.

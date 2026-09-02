@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-04T09:36:42Z"
 ---
 ## What it is
 Enables PDF manipulation including text, images, annotations, form fields, page operations, and metadata through natural language.

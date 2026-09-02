@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-07-17T09:34:19Z"
 ---
 ## What it is
 Enables creating diagrams or generating code from diagrams in StarUML via prompts.

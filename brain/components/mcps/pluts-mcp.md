@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T01:15:24Z"
 ---
 ## What it is
 An OAuth-protected MCP server for Pluts on Cloudflare Workers that provides secure access to ledger data using short keys and Cloudflare Access authentication.

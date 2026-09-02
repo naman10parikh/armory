@@ -8,11 +8,13 @@ source_url: https://github.com/syleedlabs/deal-locator-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-31T04:14:06Z"
 ---
 ## What it is
 상업용 부동산 실거래가와 건축물대장을 역매칭하여 정확한 건물 정보를 조회하고, 시세·이력·데이터카드를 제공하는 MCP 서버입니다.

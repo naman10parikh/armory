@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T22:46:58Z"
 ---
 ## What it is
 An MCP server that exposes core Azure services as read-mostly tools any MCP client can call, including Blob Storage, Key Vault, Service Bus, and Resource Manager.

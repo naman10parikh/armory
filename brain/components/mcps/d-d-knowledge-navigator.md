@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2025-03-15T11:59:48Z"
 ---
 ## What it is
 Connects AI assistants to Dungeons & Dragons 5e game information via the Model Context Protocol, enabling queries for spells, monsters, equipment, and more.

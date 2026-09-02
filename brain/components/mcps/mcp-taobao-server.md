@@ -8,11 +8,13 @@ source_url: https://github.com/ganyu123456/mcp-taobao-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-13T12:07:17Z"
 ---
 ## What it is
 为大模型提供淘宝购物能力，支持搜索商品、加入购物车和生成待支付订单，人工完成付款。

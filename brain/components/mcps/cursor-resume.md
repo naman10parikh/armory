@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:16:10Z"
 ---
 ## What it is
 Local-only MCP server that indexes Cursor agent transcripts, identifies unfinished or on-hold chats, and provides tools to search, view, and resume them.

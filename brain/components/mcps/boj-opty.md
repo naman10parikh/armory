@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-07T01:19:39Z"
 ---
 ## What it is
 MCP server `Opty`, catalogued on PulseMCP. Semantic code search using hyperdimensional computing to index and query functions, types, and imports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T22:55:17Z"
 ---
 ## What it is
 Enables interacting with Telegram chats through a browser-bound MCP bridge, providing tools to list chats, read messages, and send messages with optional AI assistance.

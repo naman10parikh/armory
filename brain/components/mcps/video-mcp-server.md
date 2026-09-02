@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T11:09:17Z"
 ---
 ## What it is
 Bridges Claude and video content by extracting keyframes and transcribing audio, enabling Claude to analyze video files.

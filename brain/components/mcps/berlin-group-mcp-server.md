@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T03:08:01Z"
 ---
 ## What it is
 Provides AI assistants with contextual access to Berlin Group Open Finance API specifications, enabling specification-compliant guidance through semantic search, graph database queries, and document retrieval.

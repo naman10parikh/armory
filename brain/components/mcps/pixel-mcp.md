@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T04:51:12Z"
 ---
 ## What it is
 Enables LLMs to create and edit pixel art reliably with support for layers, frames, symmetry, and various drawing tools.

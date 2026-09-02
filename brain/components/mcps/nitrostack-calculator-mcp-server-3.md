@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-01T08:11:53Z"
 ---
 ## What it is
 A minimal MCP server template for learning NitroStack, providing calculator-focused tools, resources, and prompts with TypeScript and Zod validation.

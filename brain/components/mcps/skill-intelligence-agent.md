@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T18:51:54Z"
 ---
 ## What it is
 Enables external clients to query a vector knowledge base about skills and roles through an MCP retrieval tool, supporting RAG-based question answering with tool-calling.

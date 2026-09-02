@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T11:40:07Z"
 ---
 ## What it is
 Enables managing documents on the filesystem through natural language, with tools for read, create, edit, delete, and commands for summarize, format, rewrite, and convert.

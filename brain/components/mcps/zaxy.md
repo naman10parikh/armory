@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-10T19:42:19Z"
 ---
 ## What it is
 Zaxy turns agent work into durable, auditable memory: a hash-chained Eventloom log as the source of truth, an embedded temporal knowledge graph for reasoning (local-first, no sidecar; Neo4j/Postgres optional), cited Memory Checkout for compact context, and MCP tools for model-facing retrieval, captu

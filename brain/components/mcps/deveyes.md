@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-15T19:12:53Z"
 ---
 ## What it is
 DevEyes is a Model Context Protocol (MCP) server that captures screenshots from your local development environment and automatically optimizes them for LLM consumption.

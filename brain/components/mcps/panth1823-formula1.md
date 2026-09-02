@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-09T16:01:11Z"
 ---
 ## What it is
 MCP server `Formula 1`, catalogued on PulseMCP. Integrates with Formula 1 APIs to provide real-time racing data, historical results, driver information, team radio messages, weather conditions, and telemetry for building F1 statistics applications.

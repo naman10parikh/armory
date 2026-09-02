@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T09:04:58Z"
 ---
 ## What it is
 Connects Claude Desktop to crypto and brokerage portfolio data via Coinbase and SnapTrade, providing read-only tools to inspect accounts, holdings, prices, and provider health.

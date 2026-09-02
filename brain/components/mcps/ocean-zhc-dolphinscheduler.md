@@ -8,10 +8,12 @@ source_url: https://github.com/ocean-zhc/dolphinscheduler-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-05-14T08:44:26Z"
 ---
 ## What it is
 MCP server `DolphinScheduler`, catalogued on PulseMCP. Bridges Apache DolphinScheduler's workflow management platform with AI systems, enabling automated project management, workflow execution, task monitoring, and resource orchestration through REST API tools.

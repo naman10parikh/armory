@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-29T20:38:50Z"
 ---
 ## What it is
 Queries multiple AI models simultaneously (GPT 5.2, Claude Opus 4.5, Gemini 3, Grok 4.1) via a single API call to provide diverse expert perspectives and consensus recommendations.

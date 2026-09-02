@@ -8,10 +8,12 @@ source_url: https://github.com/sleepingbag945/ipsearch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-28T09:08:38Z"
 ---
 ## What it is
 MCP server `IPSearch`, catalogued on PulseMCP. Provides IP address lookups and geolocation queries through local SQLite database storage for cybersecurity workflows, network analysis, and threat intelligence gathering without external API dependencies.

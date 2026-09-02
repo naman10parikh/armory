@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-02T05:55:54Z"
 ---
 ## What it is
 Enables semantic code search across codebases using AI embeddings and vector similarity, integrated with Claude Desktop and Cursor.

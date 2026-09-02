@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T16:53:14Z"
 ---
 ## What it is
 Enables interaction with Wecandeo VideoPack v4 API for video upload, encoding, publishing, and media library management via natural language.

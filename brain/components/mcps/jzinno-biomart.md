@@ -8,10 +8,12 @@ source_url: https://github.com/jzinno/biomart-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-05-21T20:53:23Z"
 ---
 ## What it is
 MCP server `Biomart`, catalogued on PulseMCP. Integrates with Biomart to enable advanced biological data queries, including gene information retrieval, ID translation, and dataset exploration using the pybiomart package.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T11:42:35Z"
 ---
 ## What it is
 MCP server that queries multiple Chinese AI platforms in parallel and synthesizes consensus answers.

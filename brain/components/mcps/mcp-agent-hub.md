@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T19:48:29Z"
 ---
 ## What it is
 A local message broker for AI CLI agents, enabling multiple agent sessions to communicate, send tasks, and share results through a single HTTP endpoint.

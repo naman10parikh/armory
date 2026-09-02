@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-04T18:35:00Z"
 ---
 ## What it is
 MCP server `Play Sound`, catalogued on PulseMCP. Provides audio notification capabilities for coding tasks, enabling sound alerts when work is completed with cross-platform audio backend support, volume control, and device switching for developers who want audible feedback without constant screen monitoring.

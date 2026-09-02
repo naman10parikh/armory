@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T03:28:57Z"
 ---
 ## What it is
 MCP server for managing iCloud Drive files via the local sync folder. Provides tools for listing, reading, writing, deleting, moving, searching, and getting metadata for files.

@@ -8,10 +8,12 @@ source_url: https://github.com/djm81/chroma_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, memory, reasoning, search]
+forks: 8
+pushed_at: "2025-05-29T23:00:59Z"
 ---
 
 ## What it is

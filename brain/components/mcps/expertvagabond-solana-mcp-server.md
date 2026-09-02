@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 1
+pushed_at: "2026-08-31T02:09:50Z"
 ---
 ## What it is
 25 tools for Solana blockchain — wallet management, SOL/SPL token transfers, SPL token creation and minting, account operations, and network switching (mainnet/devnet/testnet).

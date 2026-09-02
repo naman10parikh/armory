@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-20T18:09:11Z"
 ---
 ## What it is
 Standalone MCP server and CLI for generating images via ChatGPT backend, with reliable exact file paths and multi-account login support.

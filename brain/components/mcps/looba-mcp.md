@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T12:18:36Z"
 ---
 ## What it is
 An MCP server that provides AI assistants read-only access to Looba, a community platform for UI snippets and design inspiration, enabling snippet discovery and integration into frontend projects.

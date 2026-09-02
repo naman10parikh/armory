@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T16:39:49Z"
 ---
 ## What it is
 A security-focused Model Context Protocol server for task management over stdio, backed by SQLite. It exposes tools to create, list, complete, delete, and search tasks with strict validation, parameterized SQL, confirmation for deletes, and full audit logging.

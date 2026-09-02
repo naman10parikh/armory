@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-15T04:23:07Z"
 ---
 ## What it is
 Maven MCP Server enables AI assistants to manage Maven dependencies through natural language, including version checking, security scanning, and dependency analysis.

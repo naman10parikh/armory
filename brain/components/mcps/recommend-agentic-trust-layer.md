@@ -8,11 +8,13 @@ source_url: https://github.com/recommend-dev/recommend-agentic-trust-layer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-31T13:01:48Z"
 ---
 ## What it is
 Enables agents to verify claims with evidence-based truth scores and confidence levels by running a deterministic pipeline of evidence lanes and adversarial checks.

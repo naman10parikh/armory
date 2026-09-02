@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-23T12:47:41Z"
 ---
 ## What it is
 MCP server `Huntflow`, catalogued on PulseMCP. Vacancies, candidates, and applicant management via the HuntFlow ATS API for recruiting workflows.

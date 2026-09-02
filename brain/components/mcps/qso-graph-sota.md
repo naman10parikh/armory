@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T00:45:02Z"
 ---
 ## What it is
 MCP server `Summits on the Air`, catalogued on PulseMCP. Live spots, activation alerts, summit info, and nearby summits for SOTA operations.

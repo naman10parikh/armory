@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T06:15:36Z"
 ---
 ## What it is
 Enables searching and retrieving product information, reviews, and details from the Decathlon Netherlands website, including suggestions, pricing, stock, and customer ratings.

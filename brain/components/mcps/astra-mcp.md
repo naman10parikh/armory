@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T23:23:50Z"
 ---
 ## What it is
 MCP server for Astra's Companion API v2 that lets Claude and other MCP clients view and control a running Astra desktop music player, including playback, search, queue, favorites, and playlists.

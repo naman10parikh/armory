@@ -8,11 +8,13 @@ source_url: https://github.com/angiejones/mcp-selenium
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 425
+stars: 427
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, selenium]
+forks: 121
+pushed_at: "2026-02-23T03:24:23Z"
 ---
 ## What it is
 MCP server built on Selenium WebDriver — exposes click, type, navigate, find-element, and screenshot tools via the MCP protocol for browser automation in environments where Playwright is unavailable.

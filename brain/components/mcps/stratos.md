@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T16:28:20Z"
 ---
 ## What it is
 Enterprise-grade Azure security assessment toolkit with multi-location scanning, IMDS exploitation, attack path analysis, and compliance reporting. Enables authorized penetration testing and compliance audits across all Azure regions.

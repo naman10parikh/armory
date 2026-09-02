@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T12:46:25Z"
 ---
 ## What it is
 Enables submitting, checking, and canceling asynchronous video generation jobs using HunyuanVideo-1.5 720P-I2V on RunPod Serverless, with image upload via MCP.

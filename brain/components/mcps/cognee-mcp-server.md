@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-01-19T06:20:32Z"
 ---
 ## What it is
 Enables Claude to interact with cognee for cognitive augmentation, supporting local or Smithery installation.

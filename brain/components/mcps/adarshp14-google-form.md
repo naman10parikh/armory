@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-08T12:23:51Z"
 ---
 ## What it is
 MCP server `Google Forms`, catalogued on PulseMCP. Enables creation and management of Google Forms through natural language requests, converting conversational inputs into structured form elements for surveys, feedback forms, and event registrations

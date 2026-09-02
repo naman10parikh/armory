@@ -8,10 +8,12 @@ source_url: https://github.com/qingquanyao/vitis_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-05T15:46:09Z"
 ---
 ## What it is
 MCP server `Vitis FPGA`, catalogued on PulseMCP. Controls AMD Vitis Unified IDE for FPGA and embedded software development through 28 tools covering platform creation, hardware debugging, and application deployment.

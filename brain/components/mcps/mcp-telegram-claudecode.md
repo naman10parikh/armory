@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-12T16:28:33Z"
 ---
 ## What it is
 Enables Claude Code to send and receive messages via Telegram for remote interaction and approval of sensitive operations.

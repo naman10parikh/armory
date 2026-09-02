@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T17:22:13Z"
 ---
 ## What it is
 Enables document conversion and processing through an MCP server interface for AI assistants.

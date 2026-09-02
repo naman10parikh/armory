@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T21:45:41Z"
 ---
 ## What it is
 An MCP server that gives AI agents safe, non-interactive Git history editing — squashing, rewording, and reflog rescue — without ever hanging on a Vim buffer.

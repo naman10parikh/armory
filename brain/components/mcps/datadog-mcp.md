@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T02:17:49Z"
 ---
 ## What it is
 Enables AI assistants to query and manage Datadog observability data including metrics, logs, traces, and monitors through natural language. Supports read-only operations by default for security.

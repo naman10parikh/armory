@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T21:17:19Z"
 ---
 ## What it is
 Exposes the WoWAudit API as structured tools for guild management, including roster, raid planning, attendance, wishlists, loot history, and applications, with read-only mode by default and optional write support.

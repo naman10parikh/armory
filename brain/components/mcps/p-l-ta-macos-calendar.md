@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-23T21:44:00Z"
 ---
 ## What it is
 MCP server `macOS Calendar`, catalogued on PulseMCP. List, search, and manage calendar events via macOS Calendar.app across all configured accounts.

@@ -8,10 +8,12 @@ source_url: https://github.com/d4n-sec/jdb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-01-30T10:39:01Z"
 ---
 ## What it is
 MCP server `JDI Debugger`, catalogued on PulseMCP. Connects to running Java applications via JDWP for real-time debugging with breakpoint management, variable inspection, step execution control, and stack trace analysis.

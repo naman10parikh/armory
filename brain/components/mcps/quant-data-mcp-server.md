@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T13:09:56Z"
 ---
 ## What it is
 MCP server for Quant Data, providing measured market statistics for index futures and equities, including day-type probabilities, Weis volume-price waves, options max pain, and dealer gamma exposure. Includes free keyless access and emphasizes honest reporting of model limitations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T14:36:42Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for SQL Server / Azure SQL that enables querying, monitoring, and analyzing databases directly from Claude.

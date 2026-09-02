@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-27T13:33:29Z"
 ---
 ## What it is
 MCP server `Mercury Spec Ops`, catalogued on PulseMCP. Modular prompt engineering for software development analysis

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T08:16:55Z"
 ---
 ## What it is
 A remote MCP server for expense tracking, providing tools to add, list, update, delete expenses, and generate summaries, budget status, and monthly trends.

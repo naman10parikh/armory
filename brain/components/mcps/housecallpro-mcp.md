@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T03:40:16Z"
 ---
 ## What it is
 MCP server for Housecall Pro, providing 5 tools for AI agents to register customers, schedule jobs, create estimates, log leads, and generate invoices (env-gated).

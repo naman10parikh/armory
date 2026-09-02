@@ -8,10 +8,12 @@ source_url: https://github.com/rakeshgangwar/erpnext-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 93
+stars: 118
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 42
+pushed_at: "2026-04-25T06:23:30Z"
 ---
 ## What it is
 MCP server `ERPNext`, catalogued on PulseMCP. Integrates with ERPNext/Frappe API to enable document operations, report generation, and metadata discovery for enterprise resource planning data access without direct database interaction.

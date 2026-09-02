@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T00:32:54Z"
 ---
 ## What it is
 Provides MCP tools to count, list, and read local documents in formats like PDF, DOCX, Excel, HTML, and TXT, enabling natural language-driven document statistics and content inspection via qwen_agent.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T09:41:43Z"
 ---
 ## What it is
 Connects AI assistants to SEO data from Yandex Webmaster, Google Search Console, Yandex Metrica, and Topvisor, enabling natural language analysis of search performance, indexation, positions, and audits.

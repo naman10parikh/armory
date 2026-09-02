@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T10:28:16Z"
 ---
 ## What it is
 MCP server `CZ CELLxGENE Census`, catalogued on PulseMCP. Query the Chan Zuckerberg CELLxGENE Discover Census single-cell atlas with ontology-aware filters.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T14:35:34Z"
 ---
 ## What it is
 A Windows-first local MCP server that lets Codex inspect and control Krita through a small, authenticated bridge.

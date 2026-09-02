@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-13T06:59:27Z"
 ---
 ## What it is
 MCP server `SSH Tools`, catalogued on PulseMCP. Provides a secure SSH interface for connecting to remote servers, executing commands, and maintaining persistent sessions throughout conversations for system administration and server management tasks.

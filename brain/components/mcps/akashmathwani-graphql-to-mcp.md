@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-05T07:16:20Z"
 ---
 ## What it is
 MCP server `GraphQL to MCP`, catalogued on PulseMCP. Auto-generates MCP tools from GraphQL operations, with built-in support for authenticated and public tool separation.

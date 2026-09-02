@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T21:26:28Z"
 ---
 ## What it is
 A GitHub MCP server enabling repository, issue, and pull request management through natural language, built on octokit.js and the MCP TypeScript SDK.

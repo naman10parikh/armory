@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-22T12:55:49Z"
 ---
 ## What it is
 Drop-in memory layer for AI coding agents, upgrading them from chat history to a governed Memory OS with hybrid search, contradiction detection, and safe governance.

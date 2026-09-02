@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T14:46:34Z"
 ---
 ## What it is
 Enables algorithmic trading on the Shoonya platform through natural language commands, with military-grade encryption for credential security.

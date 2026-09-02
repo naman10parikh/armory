@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-14T04:40:06Z"
 ---
 ## What it is
 Enables AI-powered code review and improvement, including analysis, refactoring suggestions, and automatic test generation, with an optional agentic loop for iterative refinement.

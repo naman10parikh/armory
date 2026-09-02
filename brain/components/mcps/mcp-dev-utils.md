@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T10:43:30Z"
 ---
 ## What it is
 A lightweight MCP server providing everyday developer utilities such as JSON formatting, UUID generation, Base64 conversion, HTTP status lookup, and Unix timestamp conversion as tools and resources.

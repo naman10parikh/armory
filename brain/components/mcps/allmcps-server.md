@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T05:41:51Z"
 ---
 ## What it is
 Official local MCP server for AllMCPs.com, enabling users to submit MCP servers to the directory directly from MCP-compatible agents.

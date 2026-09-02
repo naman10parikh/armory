@@ -8,11 +8,13 @@ source_url: https://github.com/vsaez/mcp-spotify-player
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-09-18T05:59:37Z"
 ---
 ## What it is
 Control Spotify directly from your AI assistant using the Model Context Protocol.

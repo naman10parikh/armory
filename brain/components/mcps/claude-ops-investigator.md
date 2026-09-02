@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T13:28:54Z"
 ---
 ## What it is
 Enables read-only Kubernetes incident investigation through MCP tools for listing pods, describing resources, fetching logs, and searching runbooks.

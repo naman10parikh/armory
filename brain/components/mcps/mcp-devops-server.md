@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T01:55:17Z"
 ---
 ## What it is
 Enables AI assistants to perform DevOps tasks including Kubernetes management, cloud provider operations, CI/CD, security scanning, and infrastructure monitoring through natural language.

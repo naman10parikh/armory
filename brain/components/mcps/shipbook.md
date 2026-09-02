@@ -8,10 +8,12 @@ source_url: https://github.com/shipbook/shipbook-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T17:47:22Z"
 ---
 ## What it is
 MCP server `Shipbook`, catalogued on PulseMCP. Mobile application log analysis platform with error classification, log search, and debugging tools for iOS, Android, React Native, and Flutter.

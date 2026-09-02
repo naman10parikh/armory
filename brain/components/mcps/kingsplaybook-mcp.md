@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:13:48Z"
 ---
 ## What it is
 Provides AI agents with direct access to KingsPlaybook's sports data including confirmed lineups, player projections, game lines, and pick history via native MCP tools.

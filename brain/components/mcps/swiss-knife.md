@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T18:23:25Z"
 ---
 ## What it is
 Provides MCP tools for common developer operations like file outlining, git commit context, test summary, process management, and waiting for conditions, returning structured JSON to reduce token usage.

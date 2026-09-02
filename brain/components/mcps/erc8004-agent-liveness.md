@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:27:11Z"
 ---
 ## What it is
 Enables users to verify whether an ERC-8004-registered agent is currently reachable by resolving its on-chain registration and performing a live MCP handshake, returning verdicts such as REGISTERED_UNREACHABLE or AGENT_NOT_FOUND.

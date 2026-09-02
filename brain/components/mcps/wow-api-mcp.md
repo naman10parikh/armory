@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-06T05:48:01Z"
 ---
 ## What it is
 MCP server that exposes structured World of Warcraft API data (functions, deprecated replacements, enums, events, widget methods) to AI agents, enabling querying and exploration of WoW API without wiki parsing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T08:26:25Z"
 ---
 ## What it is
 A clean MCP server and ACT extension for controlling ANSYS Workbench and ANSYS Mechanical from any MCP client, enabling launching Workbench journals, executing Mechanical Python scripts, and interacting with a running Mechanical session via file queue or socket timer bridge.

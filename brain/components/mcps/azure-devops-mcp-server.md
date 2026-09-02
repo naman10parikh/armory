@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T05:56:01Z"
 ---
 ## What it is
 An MCP server that exposes 41 Azure DevOps tools to AI assistants, enabling management of pipelines, repositories, pull requests, releases, work items, test management, and wikis through natural language.

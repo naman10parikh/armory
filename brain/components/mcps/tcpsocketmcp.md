@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-17T09:56:52Z"
 ---
 ## What it is
 Enables AI models to interact directly with network services via raw TCP sockets, supporting multiple concurrent connections, buffering, and automated responses.

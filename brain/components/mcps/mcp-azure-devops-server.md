@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-23T22:24:51Z"
 ---
 ## What it is
 MCP server for Azure DevOps Git operations integration with AWS Q, enabling repository search, repository info retrieval, and access to pipeline variables and variable groups.

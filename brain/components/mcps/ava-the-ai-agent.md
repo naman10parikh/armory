@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, general-purpose-implementations]
+forks: 0
+pushed_at: "2026-06-29T18:00:55Z"
 ---
 ## What it is
 AI agent implementation with A2A support

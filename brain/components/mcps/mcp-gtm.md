@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T17:53:02Z"
 ---
 ## What it is
 Enables LLMs to manage Google Tag Manager containers through exported JSON files, with full CRUD operations on tags, triggers, variables, and folders, plus validation and analysis tools.

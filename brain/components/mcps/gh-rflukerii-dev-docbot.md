@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-15T23:53:21Z"
 ---
 ## What it is
 MCP server `Docbot`, catalogued on PulseMCP. Bidirectional CSV, JSON, and Markdown format conversion with HTTP and stdio transport support.

@@ -8,10 +8,12 @@ source_url: https://github.com/hyperb1iss/droidmind
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 400
+stars: 430
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 56
+pushed_at: "2026-01-07T06:37:48Z"
 ---
 ## What it is
 MCP server `DroidMind`, catalogued on PulseMCP. Enables control and interaction with Android devices through secure tools for device management, app installation, UI automation, file operations, and system diagnostics.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-02T11:16:44Z"
 ---
 ## What it is
 MCP server `ClinicalTrials.gov`, catalogued on PulseMCP. Integrates with ClinicalTrials.gov API v2 to search and retrieve detailed clinical trial information by keywords, disease conditions, and geographic locations with intelligent defaults focusing on recruiting trials from recent months.

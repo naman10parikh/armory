@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T04:48:26Z"
 ---
 ## What it is
 MCP server for controlling Apple TV, HomePod, and AirPlay devices via pyatv, offering 32 tools for playback, navigation, volume, apps, and more.

@@ -8,11 +8,13 @@ source_url: https://github.com/TAY0123/dockerMCP-ChatGPT
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T03:50:32Z"
 ---
 ## What it is
 Docker MCP ChatGPT Sandbox is a self-hosted remote MCP server for ChatGPT that runs shell commands and edits code inside a hardened Ubuntu container, with OAuth via Keycloak and optional Cloudflare Tunnel.

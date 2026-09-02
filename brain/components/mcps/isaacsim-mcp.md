@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T11:50:55Z"
 ---
 ## What it is
 Enables AI assistants to control NVIDIA Isaac Sim by building scenes, loading assets, operating robots and humans, reading sensors, managing simulation, and creating Action Graphs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:58Z"
 ---
 ## What it is
 Enables consulting and issuing IPVA guides for Bahia state (Brazil) directly from the official SEFAZ BA source, with a read-only tool.

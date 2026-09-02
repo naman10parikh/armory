@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T08:55:10Z"
 ---
 ## What it is
 MCP server that lets AI assistants interact with ChatGPT Web via browser automation, enabling chat, web search, file/image attachments, and model selection.

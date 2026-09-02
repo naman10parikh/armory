@@ -12,6 +12,8 @@ stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-02-19T04:12:28Z"
 ---
 ## What it is
 MCP server `Ansible`, catalogued on PulseMCP. Integrates with Ansible to enable infrastructure automation through direct execution of playbooks, ad-hoc commands, inventory management, and AWS resource operations for DevOps workflows

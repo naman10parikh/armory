@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T01:39:56Z"
 ---
 ## What it is
 A local-first MCP server for tracking indoor horticulture metrics, enabling cold-stratification timelines, ericaceous soil pH validation, and transplant-shock recovery through a LangGraph agent with a local LLM.

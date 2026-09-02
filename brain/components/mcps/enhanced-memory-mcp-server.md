@@ -8,11 +8,13 @@ source_url: https://github.com/marc-shade/enhanced-memory-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T11:57:31Z"
 ---
 ## What it is
 A high-performance memory management system for AI agents with 200+ tools including 4-tier memory architecture, advanced RAG pipeline, and Git-like versioning.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-16T21:28:03Z"
 ---
 ## What it is
 Provides comprehensive programmatic control over Google Workspace applications including Sheets, Docs, Drive, Gmail, Calendar, and Slides with 141 tools for automation and management.

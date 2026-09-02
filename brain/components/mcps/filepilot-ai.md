@@ -8,11 +8,13 @@ source_url: https://github.com/cuiheng511/filepilot-ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-27T01:07:59Z"
 ---
 ## What it is
 Local-first MCP server for safely searching, reading, summarizing, tagging, deduplicating, and organizing local files with scoped access, read-only defaults, and dry-run plans.

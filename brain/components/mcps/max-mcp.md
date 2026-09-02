@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T02:39:59Z"
 ---
 ## What it is
 An MCP server for the MAX Exchange (MaiCoin) V3 REST API, enabling market data queries, account history reads, and optional trading operations through MCP tools.

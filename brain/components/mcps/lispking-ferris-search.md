@@ -8,10 +8,12 @@ source_url: https://github.com/lispking/ferris-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-04-06T22:51:05Z"
 ---
 ## What it is
 MCP server `Ferris Search`, catalogued on PulseMCP. Multi-engine web search with concurrent requests across 14 search engines and domain-specific content extractors for Chinese tech platforms.

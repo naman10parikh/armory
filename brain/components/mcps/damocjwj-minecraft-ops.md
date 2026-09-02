@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T16:40:16Z"
 ---
 ## What it is
 MCP server `Minecraft Ops`, catalogued on PulseMCP. Minecraft server administration with tools for lifecycle management, files, players, and modpack testing.

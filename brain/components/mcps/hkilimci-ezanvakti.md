@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-07T12:10:14Z"
 ---
 ## What it is
 MCP server `EzanVakti`, catalogued on PulseMCP. Integrates with Turkey's official EzanVakti API to provide accurate Islamic prayer times across multiple countries with hierarchical location browsing and support for both Hijri and Gregorian date formats.

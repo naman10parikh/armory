@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T21:43:59Z"
 ---
 ## What it is
 Provides SDLC compliance verification as tools that AI agents can invoke, continuously monitoring and evaluating development processes.

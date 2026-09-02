@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-28T12:19:45Z"
 ---
 ## What it is
 Develop Electra One MK2/Mini widgets and presets from Claude Code.

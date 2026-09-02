@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T11:32:33Z"
 ---
 ## What it is
 One MCP server providing access to 160+ live web data APIs (search, social media, e-commerce, real estate, jobs, travel, news, finance, and more) using dynamic discovery via 4 generic tools to avoid the agent's tool limit.

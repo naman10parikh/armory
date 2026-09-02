@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-18T13:14:30Z"
 ---
 ## What it is
 Official Model Context Protocol server for 100Hires — the applicant tracking system for recruiting teams. Exposes the full 100Hires API v2 as 130 MCP tools, enabling AI assistants to manage candidates, jobs, applications, interviews, messages, and more.

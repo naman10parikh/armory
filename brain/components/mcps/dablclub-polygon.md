@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-04-04T08:22:34Z"
 ---
 ## What it is
 MCP server `Polygon Blockchain`, catalogued on PulseMCP. Integrates with the Polygon blockchain to enable cryptocurrency management, smart contract interaction, and transaction signing through a secure wallet connection using the user's seed phrase.

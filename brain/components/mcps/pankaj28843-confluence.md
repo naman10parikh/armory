@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-24T14:10:46Z"
 ---
 ## What it is
 MCP server `Confluence`, catalogued on PulseMCP. Provides intelligent Confluence search with fuzzy multi-word query splitting, content hydration to markdown, and configurable caching.

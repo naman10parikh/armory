@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T23:01:40Z"
 ---
 ## What it is
 MCP server for se-cli that exposes 50+ Selenium browser automation tools for AI agents, enabling browser control through a thin wrapper around se-cli.

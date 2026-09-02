@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T14:22:48Z"
 ---
 ## What it is
 An MCP server that helps engineers investigate service incidents using semantic log search, error aggregation, RAG-based diagnosis, and runbook recommendations.

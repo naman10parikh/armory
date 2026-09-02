@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T13:30:38Z"
 ---
 ## What it is
 Enables decoration of images and videos with backgrounds, gradients, containers, text, arrows, and more through MCP tools like render_decor and list_templates. Supports both CLI and MCP server modes with configurable options.

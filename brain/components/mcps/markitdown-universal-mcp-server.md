@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-30T10:44:22Z"
 ---
 ## What it is
 Provides a standardized interface for interacting with Markitdown's tools and services through a unified API, compatible with MCP-compliant services.

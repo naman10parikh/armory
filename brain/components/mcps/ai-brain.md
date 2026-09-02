@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T15:31:27Z"
 ---
 ## What it is
 Enables AI assistants like Claude and Codex to read, write, search, and traverse Markdown notes stored in a self-hosted knowledge base.

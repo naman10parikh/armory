@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-18T01:01:07Z"
 ---
 ## What it is
 Brings Google Stitch design tools into AI assistants, enabling browsing projects, viewing screen designs, extracting design tokens, and generating new screens via natural language.

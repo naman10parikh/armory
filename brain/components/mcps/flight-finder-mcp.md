@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-31T20:53:05Z"
 ---
 ## What it is
 Enables Claude to search and compare flights across multiple providers (Skyscanner, Google Flights, Kiwi.com) with smart caching, parallel queries, and flexible filtering.

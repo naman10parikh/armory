@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-10T10:45:24Z"
 ---
 ## What it is
 Enables MCP clients to interact with Microsoft Dynamics 365 Business Central entities, providing tools to get schemas, list, create, update, and delete records.

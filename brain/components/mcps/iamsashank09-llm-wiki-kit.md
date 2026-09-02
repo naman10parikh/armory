@@ -8,10 +8,12 @@ source_url: https://github.com/iamsashank09/llm-wiki-kit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-04-08T20:31:04Z"
 ---
 ## What it is
 MCP server `LLM Wiki Kit`, catalogued on PulseMCP. Creates persistent AI-maintained wikis that ingest PDFs, URLs, and YouTube videos with cross-referencing.

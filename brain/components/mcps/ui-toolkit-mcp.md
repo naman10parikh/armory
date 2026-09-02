@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T08:26:10Z"
 ---
 ## What it is
 Local, free MCP server for brand logo search and shadcn/ui component search & source lookup, requiring no API keys or login.

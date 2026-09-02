@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T10:36:14Z"
 ---
 ## What it is
 Agent-native hosting: your agent deploys any folder to a live URL in one command — no account, no dashboard, no CAPTCHA — and hands the human a link plus a plain-language summary. Full deploy lifecycle as MCP tools (deploy, verify, logs, inspect, rollback), production approval human-only; static sit

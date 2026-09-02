@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-20T01:51:19Z"
 ---
 ## What it is
 Enables flight search between airports using the Duffel API, returning flight offers and detailed debug logs.

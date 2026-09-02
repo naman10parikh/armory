@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T12:08:39Z"
 ---
 ## What it is
 Stdio MCP server for managing recommended.by lists from agents like OpenClaw, Codex, Claude Desktop, etc. It exposes tools to create, read, update, delete lists and items via the recommended.by REST API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T05:29:12Z"
 ---
 ## What it is
 Exposes MAID Runner validation tools (validate, snapshot, test) as MCP tools, resources, and prompts for AI agents like Claude Code and Aider, enabling seamless integration with AI development workflows.

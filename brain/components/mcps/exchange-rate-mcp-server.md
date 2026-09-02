@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-12T15:40:46Z"
 ---
 ## What it is
 Provides current exchange rates for various currencies via the Model Context Protocol, allowing AI models to fetch real-time currency data.

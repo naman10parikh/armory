@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T07:52:23Z"
 ---
 ## What it is
 Bridges MiniMax's native web search server tool to Kimi Code, enabling the agent to perform real-time web searches through an MCP tool.

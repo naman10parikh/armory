@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-21T00:23:43Z"
 ---
 ## What it is
 Enables AI assistants to interact with MAAS (Metal as a Service) infrastructure for machine management, network configuration, and storage management through a standardized JSON-RPC 2.0 interface.

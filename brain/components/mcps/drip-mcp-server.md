@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-09T19:51:26Z"
 ---
 ## What it is
 Enables AI assistants to manage Drip email marketing automation, including subscriber management, campaigns, workflows, tags, event tracking, and e-commerce integration.

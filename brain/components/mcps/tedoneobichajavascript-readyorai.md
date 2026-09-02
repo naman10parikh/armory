@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T21:22:37Z"
 ---
 ## What it is
 MCP server `ReadyOrAI`, catalogued on PulseMCP. Zero-cost local code inspection MCP server analyzing complexity, security vulnerabilities, naming conventions, and documentation quality.

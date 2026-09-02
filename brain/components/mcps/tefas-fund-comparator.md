@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T09:51:13Z"
 ---
 ## What it is
 MCP server for listing, comparing, and analyzing Turkish TEFAS mutual funds, including performance metrics and portfolio breakdowns.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T00:44:15Z"
 ---
 ## What it is
 A proxy server that intercepts and filters content-heavy responses from chrome-devtools-mcp, reducing token consumption by 40-60% for browser automation tools like Claude Code.

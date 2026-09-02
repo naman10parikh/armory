@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T17:05:06Z"
 ---
 ## What it is
 Agent-driven animated diagram renderer that turns API/flow descriptions into animated MP4s or Instagram-style carousels, designed to be driven by an AI agent over MCP.

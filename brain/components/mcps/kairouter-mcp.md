@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:18:14Z"
 ---
 ## What it is
 Enables MCP-compatible agents to access KaiRouter's video generation API, providing tools to list available video models, generate videos (text-to-video or image-to-video) asynchronously, check job status, and list recent jobs.

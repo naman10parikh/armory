@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T10:12:07Z"
 ---
 ## What it is
 Enables AI assistants to query a project's unified graph (code, documents, decisions) with token-budgeted, ranked context, including focus, impact, and find operations.

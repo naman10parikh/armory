@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:07:28Z"
 ---
 ## What it is
 Deterministic bank-statement parsing for AI agents: messy CSV/OFX exports to clean, categorized ledger rows. In-memory only, no storage, no external calls, no LLM in the loop.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T12:34:52Z"
 ---
 ## What it is
 Enables searching and asking questions over your PDF documents using a Pinecone vector index with local embeddings and language model, no external LLM API key required.

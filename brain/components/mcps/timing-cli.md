@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T06:07:24Z"
 ---
 ## What it is
 Provides MCP tools to read local Timing.app activity data, generate aggregated time entries, and push them to the Timing Web API.

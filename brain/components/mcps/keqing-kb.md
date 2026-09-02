@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:24:32Z"
 ---
 ## What it is
 MCP server for querying the Keqing customer service knowledge base, enabling AI agents to search structured knowledge entries and retrieve authoritative, citable answers.

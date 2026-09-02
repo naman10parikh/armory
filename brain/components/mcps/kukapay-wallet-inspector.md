@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/wallet-inspector-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-06-01T09:39:07Z"
 ---
 ## What it is
 MCP server `Wallet Inspector (Dune Analytics)`, catalogued on PulseMCP. Integrates with Dune Analytics' SIM API to analyze blockchain wallet balances, transaction history, and activity across EVM chains and Solana, automatically detecting wallet address formats and returning formatted data with token amounts, USD values, and transaction details for multi-chain wallet investigation and portfolio tracking.

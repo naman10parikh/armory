@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-10T12:19:52Z"
 ---
 ## What it is
 MCP server `CDEK`, catalogued on PulseMCP. Integrates the CDEK delivery API for creating orders, tracking shipments, and finding pickup points.

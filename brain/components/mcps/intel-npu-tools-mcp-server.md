@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T01:14:36Z"
 ---
 ## What it is
 Enables MCP clients to leverage the Intel Arrow Lake NPU for local speech transcription, screenshot OCR, private semantic search, and hardware diagnostics, all processed locally.

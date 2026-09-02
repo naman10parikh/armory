@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-18T15:58:55Z"
 ---
 ## What it is
 MCP server to interact with the QMetry for Jira API, enabling management of test cases, test cycles, test plans, and more through well-defined tools.

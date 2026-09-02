@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-28T14:17:20Z"
 ---
 ## What it is
 MCP server `Simulatte`, catalogued on PulseMCP. Run synthetic research studies — concept testing, pricing, messaging, and more — directly from AI tools.

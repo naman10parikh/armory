@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:00:07Z"
 ---
 ## What it is
 Enables MCP hosts to list, look up, and describe a static catalog of OpenAPI operations, and to inspect a governing contract and explicit deny-list that define what the server refuses to do.

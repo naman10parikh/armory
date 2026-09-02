@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:19Z"
 ---
 ## What it is
 Enables AI agents to analyze Hyperliquid accounts by retrieving positions, PnL, fills, open orders, and funding through an x402 micropayment MCP server, with no API key or signup required.

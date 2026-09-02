@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T05:46:05Z"
 ---
 ## What it is
 Read-only MCP server that connects Google Ads to Claude via Cloudflare Workers, supporting account/campaign/ad reports, keywords, search terms, and GAQL queries with OAuth 2.1 authentication.

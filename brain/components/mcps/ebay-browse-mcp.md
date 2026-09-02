@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-14T17:51:42Z"
 ---
 ## What it is
 Minimal MCP server for searching eBay listings via the Browse API, enabling keyword search with filters, sorting, pagination, and retrieving full item details.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T12:25:32Z"
 ---
 ## What it is
 MCP server that enables AI assistants to operate Rakuten Market RMS through official APIs, covering order management, sales aggregation, products, inventory, coupons, and inquiries. Supports Cursor and Claude Desktop via stdio connection.

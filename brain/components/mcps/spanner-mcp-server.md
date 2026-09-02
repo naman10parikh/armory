@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T02:36:34Z"
 ---
 ## What it is
 Enables read-only SQL queries and schema introspection for Google Cloud Spanner, supporting both GoogleSQL and PostgreSQL dialects.

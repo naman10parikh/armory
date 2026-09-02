@@ -8,11 +8,13 @@ source_url: https://github.com/TitanSneaker/paper-search-mcp-openai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4965
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2025-11-01T15:04:06Z"
 ---
 ## What it is
 Find and download academic papers from leading sources like arXiv, PubMed, bioRxiv, medRxiv, Google Scholar, Semantic Scholar, CrossRef, and IACR. Get standardized results and fetch full-text PDFs when available. Accelerate literature reviews with deep search and effortless retrieval.

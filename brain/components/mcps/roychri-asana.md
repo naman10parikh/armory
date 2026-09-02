@@ -8,10 +8,12 @@ source_url: https://github.com/roychri/mcp-server-asana
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 139
+stars: 147
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 70
+pushed_at: "2026-05-10T14:47:21Z"
 ---
 ## What it is
 MCP server `Asana`, catalogued on PulseMCP. Integrates with Asana to enable task automation, project tracking, and team collaboration through the Asana API.

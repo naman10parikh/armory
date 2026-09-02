@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T23:32:57Z"
 ---
 ## What it is
 Enables multiple AI models to collaborate under a shared goal, architecture, plan, loops, sandbox, and acceptance criteria via a local-first MCP server.

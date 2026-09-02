@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T19:59:34Z"
 ---
 ## What it is
 MCP server `Chain Memory`, catalogued on PulseMCP. Provides blockchain-based persistent memory storage for AI agents on the AICHAIN network.

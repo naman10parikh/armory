@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T20:11:43Z"
 ---
 ## What it is
 Terminal\[X]MCP is a Model Context Provider (MCP) server that enables intelligent terminal automation through a multi-agent system with distributed specialized roles for command execution, security validation, and real-time monitoring.

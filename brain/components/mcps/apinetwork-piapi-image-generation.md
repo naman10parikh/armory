@@ -8,10 +8,12 @@ source_url: https://github.com/apinetwork/piapi-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 74
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-08-10T18:04:30Z"
 ---
 ## What it is
 MCP server `PiAPI Image Generation`, catalogued on PulseMCP. Integrates with PiAPI to enable AI-driven image generation from text prompts for content creation and visual design tasks.

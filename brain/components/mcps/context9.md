@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-30T02:55:55Z"
 ---
 ## What it is
 Context9 is an MCP server that feeds AI agents with up-to-date documentation, reducing hallucinations by real-time knowledge synchronization.

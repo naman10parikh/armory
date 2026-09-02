@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-26T23:25:59Z"
 ---
 ## What it is
 MCP server for interacting with RuneScape and Old School RuneScape data, including item prices, player hiscores, and more.

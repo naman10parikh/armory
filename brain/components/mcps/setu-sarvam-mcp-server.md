@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T12:02:19Z"
 ---
 ## What it is
 Exposes Sarvam AI's speech, translation, chat, and document APIs as typed MCP tools for any MCP-capable agent.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T07:41:43Z"
 ---
 ## What it is
 Enables users to record Windows desktop and browser workflows once and generate replayable Cursor Skills, using Playwright MCP and Windows Computer MCP for semantic, non-coordinate replay.

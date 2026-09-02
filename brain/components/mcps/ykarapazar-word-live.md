@@ -8,10 +8,12 @@ source_url: https://github.com/ykarapazar/word-mcp-live
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 101
+stars: 201
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 38
+pushed_at: "2026-05-29T08:11:14Z"
 ---
 ## What it is
 MCP server `Word Live`, catalogued on PulseMCP. Live Microsoft Word document editing with tracked changes, undo, comments, and 40+ formatting tools.

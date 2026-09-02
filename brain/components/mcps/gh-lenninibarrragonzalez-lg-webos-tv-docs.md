@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T21:05:08Z"
 ---
 ## What it is
 MCP server `LG webOS TV Docs`, catalogued on PulseMCP. Search and retrieve LG webOS TV developer documentation.

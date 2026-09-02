@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:48Z"
 ---
 ## What it is
 Gives AI assistants live, grounded access to official Quickshell documentation, examples, and real-world configs, resolving versions dynamically and citing sources.

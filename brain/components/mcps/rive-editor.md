@@ -8,10 +8,12 @@ source_url: https://github.com/rive-app/rive-docs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 54
+pushed_at: "2026-09-02T02:49:40Z"
 ---
 ## What it is
 MCP server `Rive Editor`, catalogued on PulseMCP. Connects the Rive Editor to enable automated creation of complex View Models, State Machines, Layouts, and Shapes through natural language prompts, requiring the Early Access app to be running and 'End Prompt' commands to execute changes.

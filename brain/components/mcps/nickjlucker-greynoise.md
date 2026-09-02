@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-26T06:48:56Z"
 ---
 ## What it is
 MCP server `GreyNoise`, catalogued on PulseMCP. Query the GreyNoise API to check if IPs are internet background noise or targeted attacks.

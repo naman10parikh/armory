@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-20T01:42:30Z"
 ---
 ## What it is
 MCP server `CloudStack`, catalogued on PulseMCP. Enables natural language management of Apache CloudStack infrastructure, translating requests into API calls for VM deployment, resource management, and infrastructure operations without requiring direct API knowledge.

@@ -8,10 +8,12 @@ source_url: https://github.com/mikkoparkkola/trvl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-09-01T06:49:57Z"
 ---
 ## What it is
 MCP server `trvl`, catalogued on PulseMCP. AI travel agent MCP server for searching flights, hotels, and ground transport across Europe and beyond.

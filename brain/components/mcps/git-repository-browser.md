@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-02T11:30:10Z"
 ---
 ## What it is
 MCP server `Git Repository Browser`, catalogued on PulseMCP. Enables Git repository exploration and analysis through a Node.js server that executes commands for cloning repositories, browsing directories, reading files, comparing branches, and searching code patterns with structured JSON responses.

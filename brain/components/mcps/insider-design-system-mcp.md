@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-03T14:48:41Z"
 ---
 ## What it is
 Automated MCP server for the Insider Design System. Enables AI assistants to discover, understand, and generate code for over 60 Design System components with automated extraction from source code.

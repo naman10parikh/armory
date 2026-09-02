@@ -12,6 +12,8 @@ stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-05-19T15:40:59Z"
 ---
 ## What it is
 MCP server `TON Blockchain Analyzer`, catalogued on PulseMCP. Integrates with the TON blockchain to analyze wallet addresses, track transactions, detect trading patterns, and identify market trends for cryptocurrency traders and analysts.

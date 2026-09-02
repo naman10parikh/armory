@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T14:15:03Z"
 ---
 ## What it is
 TikTok creator toolkit for AI assistants. Four tools: download watermark-free videos by URL, look up curated 15-hashtag sets for 15 niches with strategy tips, retrieve best posting times for 12 countries, and generate viral hook formulas across 8 categories. Stdio transport, runs via npx -y tiktapdo

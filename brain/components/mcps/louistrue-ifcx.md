@@ -8,10 +8,12 @@ source_url: https://github.com/louistrue/ifcx-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-12T07:21:44Z"
 ---
 ## What it is
 MCP server `IFCX Building Information Modeling`, catalogued on PulseMCP. MCP server for creating and editing IFC5/IFCX building information models through natural language.

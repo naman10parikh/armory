@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T19:04:35Z"
 ---
 ## What it is
 Enables offline local LLM analysis of text data via MCP, taking raw text and an instruction to return analysis results without cloud calls.

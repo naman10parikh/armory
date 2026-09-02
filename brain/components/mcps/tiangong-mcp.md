@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T06:46:36Z"
 ---
 ## What it is
 An MCP server for the TianGong platform, enabling users to forge, share, and cultivate AI Agents as artifacts, with commands for cultivation start, achievement cards, and skill management.

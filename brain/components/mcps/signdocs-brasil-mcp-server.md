@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T10:53:48Z"
 ---
 ## What it is
 Enables AI clients to create and manage e-signature sessions, envelopes, documents, and webhooks through the SignDocs Brasil API.

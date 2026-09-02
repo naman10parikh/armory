@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-29T09:27:26Z"
 ---
 ## What it is
 MCP server for the Viber Bot REST API — drive a Viber bot from Claude Desktop, Claude Code, or any MCP client

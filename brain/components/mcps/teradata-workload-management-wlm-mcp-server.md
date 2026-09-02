@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T19:00:54Z"
 ---
 ## What it is
 An MCP server that provides comprehensive monitoring and management capabilities for Teradata Workload Management (WLM), enabling tasks like performance troubleshooting, emergency throttling, and scheduled maintenance through 41 tools and 39 resources.

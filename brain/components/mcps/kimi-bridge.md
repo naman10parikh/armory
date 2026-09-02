@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T17:33:50Z"
 ---
 ## What it is
 An MCP server that enables WorkBuddy to invoke the kimi-code CLI locally via MCP protocol, allowing remote task execution through QQ messages.

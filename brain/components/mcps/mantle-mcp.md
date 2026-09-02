@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T23:41:05Z"
 ---
 ## What it is
 Enables querying native and ERC-20 balances, checking allowances, retrieving DEX swap quotes, estimating gas costs, and managing Real World Assets and ERC-8004 agent identities on the Mantle Network.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T08:09:20Z"
 ---
 ## What it is
 A self-hosted web search and page extraction service adapter that bridges your Searcharvester instance to LLM clients like Claude, enabling native web search and content extraction with failover and automatic pagination.

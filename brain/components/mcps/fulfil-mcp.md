@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T17:37:53Z"
 ---
 ## What it is
 MCP server for Fulfil.io ERP with 29 tools for inventory, orders, shipments, customers, purchasing, returns, warehouse operations, and analytics. Integrates with Claude Desktop and other MCP clients via Fulfil.io REST API v2.

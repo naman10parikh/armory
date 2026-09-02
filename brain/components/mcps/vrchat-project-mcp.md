@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-22T04:44:46Z"
 ---
 ## What it is
 A Unity editor MCP plugin that exposes 49 tools over HTTP for managing Unity projects and editing VRChat avatars, including expressions, parameters, and performance stats.

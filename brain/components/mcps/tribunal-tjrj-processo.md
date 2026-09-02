@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:41Z"
 ---
 ## What it is
 Consulta de processos do Tribunal TJRJ em fonte oficial, somente leitura, via MCP over HTTP.

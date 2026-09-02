@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T12:51:18Z"
 ---
 ## What it is
 MCP server that lets an AI agent manage Proxmox VE in natural language, with policy-driven security, read-only mode, two-step confirmations, and audit logging.

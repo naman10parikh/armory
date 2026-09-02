@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T08:54:59Z"
 ---
 ## What it is
 Enables natural language interaction with enterprise tools including file, database, GitHub, Slack, browser, calendar, email, vector search, and Python calculation through OpenAI and MCP Client.

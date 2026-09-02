@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-11T06:28:53Z"
 ---
 ## What it is
 Dynamic AI persona management for Claude with file-based storage. Switch between different AI personas mid-conversation or start conversations with pre-configured personas.

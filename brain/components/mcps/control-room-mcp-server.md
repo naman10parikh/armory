@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T05:13:42Z"
 ---
 ## What it is
 A standalone MCP server that securely exposes Google Analytics data and Firebase Cloud Messaging capabilities to Spark/Gemini via SSE.

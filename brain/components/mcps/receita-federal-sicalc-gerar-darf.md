@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:39Z"
 ---
 ## What it is
 Read-only MCP server that enables AI agents to consult Receita Federal SICALC and generate DARF tax payments from official sources using prepaid credits.

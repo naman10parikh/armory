@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-15T05:15:00Z"
 ---
 ## What it is
 Enables AI models to interact with web pages through structured accessibility snapshots using Playwright. Deployable on Heroku for easy cloud hosting.

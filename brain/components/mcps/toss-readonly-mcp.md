@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T22:17:25Z"
 ---
 ## What it is
 A read-only MCP server exposing Toss Securities Open API tools for Korean and US stock quotes, symbol search, order books, candles, exchange rates, market calendars, rankings, and market indicators. It does not implement account access or order placement, ensuring no side effects.

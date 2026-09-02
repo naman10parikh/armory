@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T14:28:47Z"
 ---
 ## What it is
 Provides MCP tools to read SJTU Canvas data, download course files, and access video/subtitle resources without authentication simulation.

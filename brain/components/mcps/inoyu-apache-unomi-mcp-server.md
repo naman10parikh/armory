@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-09-12T12:17:05Z"
 ---
 ## What it is
 Enables Claude to manage user profiles, consents, and context via Apache Unomi for personalized interactions.

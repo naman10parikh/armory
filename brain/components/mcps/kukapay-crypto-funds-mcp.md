@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 3
+forks: 4
+pushed_at: "2025-09-25T03:18:43Z"
 ---
 ## What it is
 Providing AI agents with structured, real-time data on cryptocurrency investment funds.

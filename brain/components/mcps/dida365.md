@@ -8,10 +8,12 @@ source_url: https://github.com/zh1754629545/dida365-mcp-servers
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-08-01T06:21:56Z"
 ---
 ## What it is
 MCP server `Dida365`, catalogued on PulseMCP. Integrates with Dida365 task management platform to enable creating, updating, and organizing tasks and projects through conversational interfaces.

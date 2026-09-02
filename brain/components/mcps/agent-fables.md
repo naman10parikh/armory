@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T21:10:13Z"
 ---
 ## What it is
 Provides offline, evidence-based preflight risk assessment for agent actions, returning revision-pinned incident patterns and unresolved verification gates to help prevent past failures from recurring.

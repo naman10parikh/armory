@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T12:10:19Z"
 ---
 ## What it is
 Enables querying the RentCast property API for rent and sale value estimates, market statistics, property records, and active listings through six read-only tools.

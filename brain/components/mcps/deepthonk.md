@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T19:17:07Z"
 ---
 ## What it is
 DeepThonk is an MCP server that provides a budget-friendly, provider-neutral deep-thinking engine based on the OpenDeepThink algorithm, enabling agents to plan, run, and inspect multi-round candidate answer generation and ranking tasks with configurable budgets and model providers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T15:31:42Z"
 ---
 ## What it is
 Enables natural language queries about UK postcodes and vehicles, including flood risk, crime rate, broadband coverage, property prices, MOT history, and ULEZ compliance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T01:32:59Z"
 ---
 ## What it is
 MCP server that wraps Hive Gamification's 8 BOGO doors behind a 4-level hierarchical budget with atomic reservation, upstream POST, and settlement/release, implementing OpenClaw's 3-layer payment governance.

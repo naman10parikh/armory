@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T14:14:53Z"
 ---
 ## What it is
 Project memory and scoping engine for AI coding agents. It gives any agent persistent project state, bounded work packages, and cross-session continuity.

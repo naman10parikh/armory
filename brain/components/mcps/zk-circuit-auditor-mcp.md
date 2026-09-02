@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T09:28:56Z"
 ---
 ## What it is
 An MCP server that audits zero-knowledge circuits (Circom, Noir, Halo2) for soundness and constraint bugs, powered by the Cysic Minimax model.

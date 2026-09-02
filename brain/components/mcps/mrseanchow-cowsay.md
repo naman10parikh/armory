@@ -8,10 +8,12 @@ source_url: https://github.com/mrseanchow/cowsay-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-19T14:40:23Z"
 ---
 ## What it is
 MCP server `Cowsay`, catalogued on PulseMCP. Generates ASCII art speech and thought bubbles using the cowsay library with 9 character variants including tux, dragon, elephant, and skeleton for adding whimsical text formatting to conversations.

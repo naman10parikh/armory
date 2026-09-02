@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T05:57:37Z"
 ---
 ## What it is
 MCP server `Parsley`, catalogued on PulseMCP. Provides buyer intent signals, MEDDIC qualification scores, and lead analytics from Parsley.

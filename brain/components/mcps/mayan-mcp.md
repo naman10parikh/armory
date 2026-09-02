@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T10:13:06Z"
 ---
 ## What it is
 Enables cross-chain swap queries and unsigned transaction building for Mayan Finance, supporting Solana and seven EVM chains via MCP tools, without holding private keys or signing transactions.

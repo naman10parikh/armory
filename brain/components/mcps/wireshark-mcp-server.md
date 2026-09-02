@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-26T20:40:10Z"
 ---
 ## What it is
 Provides AI assistants with direct access to Wireshark network analysis capabilities, enabling live packet capture, PCAP file analysis, protocol statistics, and network monitoring through a secure MCP interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T06:12:29Z"
 ---
 ## What it is
 Enables AI agents to create, monitor, and download video transcodes through the FFmpeg Micro REST API.

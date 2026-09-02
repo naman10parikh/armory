@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:48:54Z"
 ---
 ## What it is
 A Model Context Protocol server for YNAB (You Need A Budget). Enables users to query budgets, accounts, categories, transactions, and more, as well as create, update, and delete transactions and manage scheduled transactions from any MCP client.

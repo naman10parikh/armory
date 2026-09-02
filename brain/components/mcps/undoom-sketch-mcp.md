@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-07T16:13:38Z"
 ---
 ## What it is
 MCP server for converting images into sketch styles (classic, detailed, soft) with batch processing and customizable parameters.

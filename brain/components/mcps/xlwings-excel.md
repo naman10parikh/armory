@@ -8,10 +8,12 @@ source_url: https://github.com/hyunjae-labs/xlwings-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-21T04:23:40Z"
 ---
 ## What it is
 MCP server `xlwings Excel`, catalogued on PulseMCP. Enables Excel file manipulation without Microsoft Excel installation through xlwings library, providing 30+ tools for workbook creation, data operations, formatting, formulas, charts, pivot tables, and worksheet management across Windows and cross-platform environments.

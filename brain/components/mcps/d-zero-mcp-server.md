@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-08T18:13:38Z"
 ---
 ## What it is
 Enables AI assistants to retrieve Figma data and access D-ZERO frontend coding guidelines through CLINE integration.

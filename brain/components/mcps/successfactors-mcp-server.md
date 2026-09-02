@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-10T13:50:18Z"
 ---
 ## What it is
 An MCP server for interacting with SAP SuccessFactors OData API to retrieve and update employee/user data.

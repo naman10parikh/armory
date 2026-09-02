@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-01T15:44:46Z"
 ---
 ## What it is
 MCP server `Obsidian Dictionary`, catalogued on PulseMCP. Manages technical glossaries in Obsidian vaults with tools for creating, reading, updating, and searching markdown-formatted definitions.

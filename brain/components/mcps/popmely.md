@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T06:37:33Z"
 ---
 ## What it is
 popmely is a production-grade MCP server bridging MetaTrader 5 with LLMs. It enables AI-driven trading through real-time market data, SMC analysis, backtesting, autonomous order execution, and risk management.

@@ -8,11 +8,13 @@ source_url: https://github.com/joenorton/comfyui-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 401
+stars: 404
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 78
+pushed_at: "2026-02-17T15:42:46Z"
 ---
 ## What it is
 Generate and refine AI images/audio/video through natural conversation.

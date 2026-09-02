@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T18:36:59Z"
 ---
 ## What it is
 MCP server that aggregates AI news, academic papers from ArXiv, and trending GitHub repositories from multiple sources, enabling users to fetch, search, and filter recent AI content via natural language.

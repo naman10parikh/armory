@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T14:38:59Z"
 ---
 ## What it is
 Enables AI agents to operate a 3D print farm via O.D.I.N. backend, including job queuing, printer control, inventory management, and standalone cost calculators.

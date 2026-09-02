@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T12:29:02Z"
 ---
 ## What it is
 Task planning and execution MCP server with durable SQLite storage and a browser UI for reviewing plans and following progress.

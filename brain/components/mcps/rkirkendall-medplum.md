@@ -8,10 +8,12 @@ source_url: https://github.com/rkirkendall/medplum-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-06-10T02:34:56Z"
 ---
 ## What it is
 MCP server `Medplum`, catalogued on PulseMCP. Integrates with Medplum's FHIR healthcare platform to enable creating, reading, updating, and searching healthcare resources including patients, practitioners, organizations, encounters, observations, medications, conditions, and episodes of care for electronic health records and clinical data management.

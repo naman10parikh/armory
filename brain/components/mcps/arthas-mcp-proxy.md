@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T17:36:37Z"
 ---
 ## What it is
 Aggregates multiple Arthas agents into a single MCP server, allowing Claude to diagnose any number of Java processes with just one MCP configuration.

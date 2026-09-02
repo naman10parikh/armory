@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T12:32:04Z"
 ---
 ## What it is
 Enables AI assistants to manage business operations including invoicing, WooCommerce syncing, expense tracking, POS, inventory, and team management through natural language.

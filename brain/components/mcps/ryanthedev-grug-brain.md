@@ -8,10 +8,12 @@ source_url: https://github.com/ryanthedev/grug-brain.mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-05T20:31:33Z"
 ---
 ## What it is
 MCP server `Grug Brain`, catalogued on PulseMCP. Persistent memory system that indexes markdown files into a searchable database with git synchronization across machines.

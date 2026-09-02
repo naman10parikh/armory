@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-26T10:02:06Z"
 ---
 ## What it is
 MCP server `EdgeOne Geo`, catalogued on PulseMCP. Provides lightweight geolocation retrieval by exposing an HTTP endpoint that fetches precise user location data for contextual awareness with minimal configuration overhead.

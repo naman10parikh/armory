@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 10
+forks: 6
+pushed_at: "2025-10-12T02:16:16Z"
 ---
 ## What it is
 AI image generation using Google Gemini's nano banana model.

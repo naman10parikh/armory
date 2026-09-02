@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-25T23:07:27Z"
 ---
 ## What it is
 User-owned AI memory layer exposing persistent memory, task graph, and semantic search via MCP server, with data stored on DWN under user control.

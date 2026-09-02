@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:45:26Z"
 ---
 ## What it is
 MCP server `Breweries`, catalogued on PulseMCP. Brewery search and data from the Open Brewery DB.

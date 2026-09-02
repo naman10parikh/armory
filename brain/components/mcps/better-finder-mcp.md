@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-05-23T19:50:07Z"
 ---
 ## What it is
 Enables intelligent file search with Git-like staging and indexing, offering semantic and hybrid search for documents, and integrates with Claude Desktop via MCP.

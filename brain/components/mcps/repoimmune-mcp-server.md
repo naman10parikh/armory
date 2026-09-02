@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T13:53:57Z"
 ---
 ## What it is
 Enables querying a repository's resolved bug history through six read-only tools, allowing agents to check patches against past failures, retrieve regression tests, and replay behavior cases to prevent regressions.

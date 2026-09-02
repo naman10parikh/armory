@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-04T16:36:59Z"
 ---
 ## What it is
 MCP server `SBOM Generator (Trivy)`, catalogued on PulseMCP. Generates Software Bill of Materials (SBOM) for container images using Trivy scanner, providing detailed component information including package metadata, licenses, and vulnerability data for security compliance and dependency analysis.

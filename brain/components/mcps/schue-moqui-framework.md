@@ -8,10 +8,12 @@ source_url: https://github.com/schue/moqui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-26T20:54:24Z"
 ---
 ## What it is
 MCP server `Moqui Framework`, catalogued on PulseMCP. Integrates with Moqui Framework business applications to provide entity operations, service execution, and search capabilities with session-based authentication, rate limiting, and audit logging for enterprise system automation and data analysis workflows.

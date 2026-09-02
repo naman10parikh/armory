@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T01:18:48Z"
 ---
 ## What it is
 Read-only MCP server for inspecting a neuro auto-posting service's publication pipeline. Allows operators to query channels, publications, errors, and configuration via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T18:37:00Z"
 ---
 ## What it is
 MCP server providing 100% coverage of the CISO Assistant GRC REST API through action-routed tools for compliance, risk management, and other security domains.

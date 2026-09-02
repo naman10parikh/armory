@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:57:49Z"
 ---
 ## What it is
 MCP server that lets AI assistants query your Halaxy practice-management data—appointments, invoices, referrals, and practitioners—via natural language, exposing read-only tools for daily schedules, billing status, and session limits.

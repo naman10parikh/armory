@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:13:52Z"
 ---
 ## What it is
 MCP server for the foldkit SDK, exposing 7-prime spine, κ-bands, and fold operations as tools and resources in MCP clients like Claude and Cursor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T12:23:41Z"
 ---
 ## What it is
 Enables fetching latest earthquake data from Kandilli Observatory, searching earthquakes by region, and obtaining regional statistics through MCP tools.

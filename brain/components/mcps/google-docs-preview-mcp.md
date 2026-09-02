@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:45:25Z"
 ---
 ## What it is
 Enables creating anchored comments, replies, and real suggested edits in Google Docs from Claude.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T20:21:29Z"
 ---
 ## What it is
 Clinical decision-support MCP server that lets AI agents reason over live FHIR patient data for medication review, appointment scheduling, and care gap identification.

@@ -8,10 +8,12 @@ source_url: https://github.com/es617/dbgprobe-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-14T03:59:33Z"
 ---
 ## What it is
 MCP server `Debug Probe`, catalogued on PulseMCP. On-chip debug probe interaction with J-Link, OpenOCD, and pyOCD for microcontroller development.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T00:55:31Z"
 ---
 ## What it is
 MCP server for managing chemical inventory with SQLite. Enables search, detail view, stock deduction, usage history, and communication testing.

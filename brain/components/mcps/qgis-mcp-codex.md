@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T14:51:00Z"
 ---
 ## What it is
 Connects OpenAI Codex Desktop to QGIS Desktop for natural language GIS operations, including project management, layer manipulation, and algorithm execution.

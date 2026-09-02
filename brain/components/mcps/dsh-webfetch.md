@@ -8,11 +8,13 @@ source_url: https://github.com/withlovehub/dsh-webfetch
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:11:50Z"
 ---
 ## What it is
 A zero-dependency MCP server that fetches any HTTP(S) URL and returns clean content as text, Markdown, raw HTML, or formatted JSON, with robots.txt compliance and SSRF protection.

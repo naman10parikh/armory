@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T10:17:17Z"
 ---
 ## What it is
 Provides bidirectional local voice for Claude Code on Apple Silicon, enabling hands-free conversation and spoken replies using local Whisper STT and Kokoro TTS, with optional ElevenLabs backend and a Stop hook for automatic speech.

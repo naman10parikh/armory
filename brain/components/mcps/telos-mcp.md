@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T22:01:02Z"
 ---
 ## What it is
 Exposes TELOS governance primitives—action scoring, receipt verification, Purpose Anchor inspection, audit-chain queries, and CCRS counterfactual replay—as MCP tools, resources, and prompts for any MCP-compatible client.

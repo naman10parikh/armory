@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T10:37:01Z"
 ---
 ## What it is
 Enables MCP clients to synthesize text into speech locally and play it through the machine's audio, with selectable voices and playback speed.

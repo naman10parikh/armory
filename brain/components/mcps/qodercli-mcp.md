@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T10:47:35Z"
 ---
 ## What it is
 Wraps the local Qoder CLI into an MCP server, enabling any MCP client to delegate coding tasks to a local Qoder agent with session management, sandboxed permissions, and model selection.

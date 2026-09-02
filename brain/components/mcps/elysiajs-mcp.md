@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T01:49:58Z"
 ---
 ## What it is
 An MCP server plugin for the Elysia web framework, enabling AI clients to connect via Streamable HTTP transport with stateful or stateless sessions and authentication.

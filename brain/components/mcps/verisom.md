@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T18:21:55Z"
 ---
 ## What it is
 Scores contract safety for Somnia Agents using on-chain analysis, RAG, and a VeriSom contract, returning a pre-interaction safety score.

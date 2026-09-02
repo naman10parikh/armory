@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-08T09:05:16Z"
 ---
 ## What it is
 A multi-provider MCP server that enables AI agents to generate and edit images across OpenAI, Google Gemini, Azure, Vertex, and OpenRouter with a unified API.

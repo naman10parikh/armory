@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T21:32:15Z"
 ---
 ## What it is
 Enables fully local, cross-lingual retrieval over documents and source code by indexing files and providing search and ingest tools, with all data staying on the machine.

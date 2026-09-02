@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T09:39:43Z"
 ---
 ## What it is
 Enables image generation and editing using OpenAI's GPT Image API (gpt-image-1, 1.5, 2) with support for multi-image generation, history management, and batch processing.

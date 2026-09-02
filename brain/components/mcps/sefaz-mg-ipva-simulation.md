@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:20Z"
 ---
 ## What it is
 Enables to simulate IPVA (vehicle property tax) installment payments from SEFAZ MG (Minas Gerais state) via MCP.

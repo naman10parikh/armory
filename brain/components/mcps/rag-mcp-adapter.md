@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T13:57:13Z"
 ---
 ## What it is
 Exposes an existing RAG API as MCP tools, enabling health checks and document-based question answering with source evidence.

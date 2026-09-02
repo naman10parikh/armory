@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-24T20:54:16Z"
 ---
 ## What it is
 MCP server `Phalcon`, catalogued on PulseMCP. Integrates with Phalcon PHP framework to enable project management, code scaffolding, and Cursor IDE data analysis through FastMCP and SQLite database capabilities

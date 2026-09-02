@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-02-27T22:21:20Z"
 ---
 ## What it is
 Enables interaction with Vercel API to manage deployments, domains, projects, and environment variables.

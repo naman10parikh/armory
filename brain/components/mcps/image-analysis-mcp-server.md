@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-17T20:17:44Z"
 ---
 ## What it is
 Enables AI assistants to locally process images with tools for cropping, zooming, enhancement, edge detection, segmentation, and text region extraction, all without external API keys. It uses PIL, OpenCV, and scikit-image for robust image analysis.

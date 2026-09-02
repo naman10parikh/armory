@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T21:25:45Z"
 ---
 ## What it is
 Enables interaction with Adobe Commerce Catalog Services to retrieve product variants, price overrides, category permissions, and environment details via MCP.

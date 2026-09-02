@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-26T06:20:28Z"
 ---
 ## What it is
 An MCP server that composes XcodeBuildMCP and ios-simulator-mcp, adding React Native inspection tools to read the component tree, resolved styles, and perform layout audits on iOS simulators.

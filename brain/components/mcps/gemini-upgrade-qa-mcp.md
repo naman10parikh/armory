@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T08:29:24Z"
 ---
 ## What it is
 Catch Gemini model upgrade regressions before they reach customers by running evals, comparing outputs, detecting regressions, and exporting audit receipts.

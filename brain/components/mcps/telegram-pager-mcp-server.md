@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T05:11:26Z"
 ---
 ## What it is
 A specialized MCP server that allows AI coding assistants to send direct messages via your personal Telegram account.

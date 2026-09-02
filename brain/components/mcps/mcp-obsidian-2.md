@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T06:59:04Z"
 ---
 ## What it is
 MCP server for interacting with Obsidian via the Local REST API, enabling file operations, search, and content editing in your vault.

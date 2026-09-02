@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T05:33:56Z"
 ---
 ## What it is
 A local MCP server for managing Eufy smart-lock access codes across rental properties, with safety features like dry-run planning and explicit confirmation for write operations.

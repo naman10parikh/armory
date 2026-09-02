@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-31T01:07:25Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for integrating ArgoCD GitOps continuous delivery tool with GenAI applications, enabling intelligent Kubernetes deployment management.

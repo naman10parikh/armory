@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-21T15:35:32Z"
 ---
 ## What it is
 Enables sharing coding progress on Twitter by analyzing sessions and generating tweet suggestions, with tools for posting tweets, threads, and OAuth authentication.

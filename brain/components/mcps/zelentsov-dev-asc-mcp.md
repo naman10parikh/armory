@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 61
+stars: 66
+forks: 11
+pushed_at: "2026-08-22T17:50:50Z"
 ---
 ## What it is
 App Store Connect API server with 208 tools for managing apps, builds, TestFlight, subscriptions, reviews, and more — directly from any MCP client.

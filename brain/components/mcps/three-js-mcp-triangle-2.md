@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T09:15:24Z"
 ---
 ## What it is
 MCP server that lets you control a Three.js triangle in the browser via natural language, including setting colors, vertex colors, and transformations (position, rotation, scale), with live updates via WebSocket.

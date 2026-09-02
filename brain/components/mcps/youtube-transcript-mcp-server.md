@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-10T17:14:22Z"
 ---
 ## What it is
 Enables AI assistants to retrieve transcripts from YouTube videos via a serverless API deployed on Cloudflare Workers.

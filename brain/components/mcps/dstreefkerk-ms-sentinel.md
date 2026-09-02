@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-06-19T22:05:11Z"
 ---
 ## What it is
 MCP server `Microsoft Sentinel`, catalogued on PulseMCP. Integrates with Microsoft Sentinel to enable security analysts to execute KQL queries, manage analytics rules, investigate incidents, and perform threat intelligence lookups directly from their AI environment.

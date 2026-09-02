@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T00:27:44Z"
 ---
 ## What it is
 Enables governed agent access to Cortex XSIAM security operations APIs, including XQL log search, issues, cases, endpoints, and assets, with dataset authorization and optional identity-based access control.

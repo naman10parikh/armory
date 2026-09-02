@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T12:36:36Z"
 ---
 ## What it is
 A local MCP server that wraps common forensic command-line tools for CTF/forensics competitions into MCP tools, enabling automated analysis of disk images, memory dumps, network captures, SQLite databases, archives, and steganography.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T16:23:41Z"
 ---
 ## What it is
 Hosted MCP server providing corporate ownership intelligence, enabling AI agents to look up parent companies, PE backing, corporate families, and portfolio siblings via natural language queries.

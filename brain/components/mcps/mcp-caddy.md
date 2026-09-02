@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T05:50:52Z"
 ---
 ## What it is
 Enables management of Caddy web server via admin API, allowing inspection of routes, upstream health, certificates, and configuration reloading.

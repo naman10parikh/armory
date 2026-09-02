@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-21T08:48:39Z"
 ---
 ## What it is
 An MCP server for spawning and managing bash commands asynchronously. Run multiple shell commands in parallel and check their progress independently.

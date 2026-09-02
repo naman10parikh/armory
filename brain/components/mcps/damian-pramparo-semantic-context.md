@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-17T20:10:13Z"
 ---
 ## What it is
 MCP server `Semantic Context`, catalogued on PulseMCP. Provides semantic code search across large codebases using ChromaDB vector storage and configurable embeddings, enabling indexing of local project directories with 50+ file type support and retrieval of code snippets with metadata tracking for development teams building knowledge bases and code navigation systems.

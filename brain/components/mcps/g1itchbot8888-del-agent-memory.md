@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 7
+forks: 2
+pushed_at: "2026-02-27T07:57:20Z"
 ---
 ## What it is
 Three-layer memory system for agents (identity/active/archive) with semantic search, graph relationships, conflict detection, and LearningMachine. Built by an agent, for agents. No API keys required.

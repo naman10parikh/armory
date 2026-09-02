@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T03:25:48Z"
 ---
 ## What it is
 MCP server for controlling Deepin desktop system settings and applications, including WiFi, Bluetooth, brightness, theme, volume, app launching, file operations, and shutdown.

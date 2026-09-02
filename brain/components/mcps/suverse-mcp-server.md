@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T03:14:08Z"
 ---
 ## What it is
 Enables Claude to call US government and freight APIs via SuVerse's pay-per-call gateway, automatically paying in USDC on Base from a funded wallet.

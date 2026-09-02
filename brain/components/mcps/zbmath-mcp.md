@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T06:37:50Z"
 ---
 ## What it is
 MCP server to search and retrieve mathematical publications, author profiles, and software entries from zbMath Open.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-26T18:01:55Z"
 ---
 ## What it is
 MCP server `Discord Bot`, catalogued on PulseMCP. Discord bot that provides intelligent assistance through slash commands and direct messages, creating threaded conversations and managing message chunking for comprehensive support in Discord communities

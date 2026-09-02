@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-04T07:58:52Z"
 ---
 ## What it is
 MCP server `Tebra`, catalogued on PulseMCP. Connects AI agents to Tebra practice management with SOAP and FHIR APIs.

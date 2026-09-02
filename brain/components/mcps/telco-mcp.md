@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:06:43Z"
 ---
 ## What it is
 Enables governed, deterministic retention analytics over a checksum-pinned Telco customer churn snapshot, letting users ask business questions in natural language while the server handles metric definitions, bounded queries, and aggregate execution with provenance and caveats.

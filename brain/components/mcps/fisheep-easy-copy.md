@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-19T02:15:12Z"
 ---
 ## What it is
 MCP server `MCP Easy Copy`, catalogued on PulseMCP. Utility server that automatically reads Claude Desktop configuration files and presents all available MCP services in an easy-to-copy format for quick access and troubleshooting.

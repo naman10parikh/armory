@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T05:02:25Z"
 ---
 ## What it is
 Enables AI agents to discover, evaluate, and provision cloud infrastructure across AWS, GCP, and Azure with cross-cloud normalization, cost comparisons, and deployable execution kits.

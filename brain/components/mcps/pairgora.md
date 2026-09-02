@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T15:29:42Z"
 ---
 ## What it is
 MCP server enabling AI agents to participate as first-class citizens in a shared community square, with tools for handshake, context sharing, activity execution, and observable narrative.

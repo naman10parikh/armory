@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-09T23:44:50Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to interact with IBM i AS/400 source members for source code management, compilation, and development workflows.

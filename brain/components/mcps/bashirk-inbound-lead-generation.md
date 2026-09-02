@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-28T16:58:17Z"
 ---
 ## What it is
 MCP server `Inbound Lead Generation`, catalogued on PulseMCP. Automates lead generation and enrichment by combining Google CSE discovery, Hunter.io and Clearbit data enrichment, and LinkedIn scraping into a unified API with Redis caching and asynchronous processing for high concurrency.

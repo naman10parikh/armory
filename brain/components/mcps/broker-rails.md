@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T09:41:58Z"
 ---
 ## What it is
 An MCP trading server over a paper broker with a deterministic risk layer that enforces limits before orders reach the handler, ensuring safe AI agent trading.

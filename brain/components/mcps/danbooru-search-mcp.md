@@ -8,11 +8,13 @@ source_url: https://github.com/echo-xianyu/danbooru-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T12:54:06Z"
 ---
 ## What it is
 Searches Danbooru for anime/game characters and their associated tags, providing tools to retrieve character profiles, co-occurring tags, wiki descriptions, and tag implications.

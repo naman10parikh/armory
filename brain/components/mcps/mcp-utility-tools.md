@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T09:58:10Z"
 ---
 ## What it is
 A lightweight MCP server providing common utility tools such as unit conversion, password generation, date calculation, hashing, Base64 encoding/decoding, UUID generation, text case conversion, and text statistics, with no external dependencies.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-05T04:27:22Z"
 ---
 ## What it is
 MCP server `Git File Forensics`, catalogued on PulseMCP. Provides deep git file-level forensics capabilities for tracking versions, analyzing diffs, examining commit contexts, and evaluating semantic changes in individual files.

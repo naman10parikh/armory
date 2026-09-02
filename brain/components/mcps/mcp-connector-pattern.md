@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:34:56Z"
 ---
 ## What it is
 A reference MCP server for a fictional bike shop that enables managing customers, inventory, orders, and outbound messages, demonstrating best practices for building MCP servers.

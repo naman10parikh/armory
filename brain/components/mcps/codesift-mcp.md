@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T13:19:58Z"
 ---
 ## What it is
 MCP server for local-first lexical code search, providing tools for searching code, finding symbols, and reading chunks from indexed repositories.

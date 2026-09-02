@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T21:06:07Z"
 ---
 ## What it is
 MCP server for Signal via signal-cli that enables sending and receiving messages, managing contacts and groups, and reacting over stdio.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-05T18:50:03Z"
 ---
 ## What it is
 MCP server `Origin SEC Registry`, catalogued on PulseMCP. AI-readable registry of 8,000+ US public companies with verified SEC EDGAR filing data and cryptographic provenance.

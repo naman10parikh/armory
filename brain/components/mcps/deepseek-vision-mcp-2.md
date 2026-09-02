@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T01:47:10Z"
 ---
 ## What it is
 MCP server that gives DeepSeek and other clients vision capabilities by routing images to open-source multimodal models, returning structured specifications or answers. Supports CLI and MCP tools for design analysis and general image Q&A.

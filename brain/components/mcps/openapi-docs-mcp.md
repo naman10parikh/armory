@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T08:48:57Z"
 ---
 ## What it is
 A vendor-neutral MCP server that lets coding agents search and understand OpenAPI/Swagger documents via stdio tools, without calling real backend APIs.

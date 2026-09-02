@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T02:00:23Z"
 ---
 ## What it is
 Give Claude direct access to your AWS account, SSH into your servers, run shell commands on your laptop, query your databases, and manage PM2 processes — all from a Claude chat. No Claude Code subscription needed. Your keys never leave your machine.

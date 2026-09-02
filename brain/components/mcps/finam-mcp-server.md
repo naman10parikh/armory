@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-03-10T12:53:04Z"
 ---
 ## What it is
 Enables trading operations on the Finam platform via natural language, allowing users to manage accounts, place orders, and retrieve market data through AI assistants.

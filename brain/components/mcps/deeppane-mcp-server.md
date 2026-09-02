@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T03:10:23Z"
 ---
 ## What it is
 The official stdio MCP server for creating DeepPane focus spaces and reading user-authorized focus history summaries.

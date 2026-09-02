@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T16:29:34Z"
 ---
 ## What it is
 Freight marketplace MCP server for European road logistics. Search and manage freight loads, post truck capacity, create auctions, manage deliveries and drivers through the Cargoffer Bolsa de Carga API. Connect your AI agent to the freight marketplace.

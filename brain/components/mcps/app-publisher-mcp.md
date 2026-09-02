@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-07T21:28:27Z"
 ---
 ## What it is
 An MCP server for vibe coders to generate app icons with AI, auto-resize for iOS/Android, and publish to app stores, all from an AI coding assistant.

@@ -12,6 +12,8 @@ stars: 90
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2025-03-13T00:03:33Z"
 ---
 ## What it is
 MCP server `JSON Manipulation`, catalogued on PulseMCP. Provides a JSON manipulation interface using JSONPath syntax for querying, transforming, and analyzing structured data across diverse datasets.

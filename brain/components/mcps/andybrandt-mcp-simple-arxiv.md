@@ -8,10 +8,12 @@ source_url: https://github.com/andybrandt/mcp-simple-arxiv
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 195
+stars: 199
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-02-19T10:18:35Z"
 ---
 ## What it is
 MCP server `arXiv Research`, catalogued on PulseMCP. Search and analyze scientific papers from arXiv.

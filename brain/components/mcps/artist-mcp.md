@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:49:55Z"
 ---
 ## What it is
 An MCP server that reads a user's OneNote notes by connecting their Microsoft account, complete with a multi-tenant web app and install CLI.

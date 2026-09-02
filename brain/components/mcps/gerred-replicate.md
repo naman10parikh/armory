@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-02-28T17:47:21Z"
 ---
 ## What it is
 MCP server `Replicate`, catalogued on PulseMCP. Integrates with Replicate API to provide seamless access to diverse machine learning models for inference and result retrieval across various domains.

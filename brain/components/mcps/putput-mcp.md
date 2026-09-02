@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T20:34:59Z"
 ---
 ## What it is
 File uploads for AI agents. Upload, list, and manage files from AI coding assistants like Claude, Cursor, Windsurf, and VS Code Copilot with no signup required.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T22:36:56Z"
 ---
 ## What it is
 Enables AI clients and users to deploy static sites, Node.js services, and Python web applications without Docker, with tools for project management, deployment, rollback, and domain configuration.

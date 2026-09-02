@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T22:59:57Z"
 ---
 ## What it is
 An integrated advisory system that transforms Claude into a personal career coach, life strategist, and business consultant with persistent memory, accountability tracking, and multi-lens analysis.

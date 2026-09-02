@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T07:45:03Z"
 ---
 ## What it is
 MCP server `MetaComp VisionX`, catalogued on PulseMCP. Analyzes Web3 wallet and transaction security using MetaComp's VisionX platform for risk assessment.

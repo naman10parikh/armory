@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-24T19:04:40Z"
 ---
 ## What it is
 MCP server `Confluence`, catalogued on PulseMCP. Integrates Atlassian Confluence content for retrieving page and blog post data, enabling knowledge base querying and content analysis.

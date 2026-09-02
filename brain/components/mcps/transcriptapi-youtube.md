@@ -8,10 +8,12 @@ source_url: https://github.com/zeropointrepo/youtube-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-25T06:02:57Z"
 ---
 ## What it is
 MCP server `YouTube Transcript & Search`, catalogued on PulseMCP. Fast YouTube transcript extraction and search for AI agents. 49ms median response, 100 free credits, $5/month thereafter.

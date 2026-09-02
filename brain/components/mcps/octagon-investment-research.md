@@ -8,10 +8,12 @@ source_url: https://github.com/octagonai/octagon-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 128
+stars: 147
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2026-07-09T19:52:51Z"
 ---
 ## What it is
 MCP server `Octagon Investment Research`, catalogued on PulseMCP. Provides specialized investment research tools for analyzing SEC filings, earnings calls, financial data, stock market information, private company details, funding rounds, M&A transactions, and web scraping capabilities.

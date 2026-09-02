@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T07:34:41Z"
 ---
 ## What it is
 Simplified MCP server for managing Solana ICOs with multiple bonding curves, token pricing, and buy/sell functionality.

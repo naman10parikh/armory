@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2025-07-27T04:40:12Z"
 ---
 ## What it is
 Aggregates multiple backend MCP servers into a single unified interface with optional web management UI for tool control and configuration.

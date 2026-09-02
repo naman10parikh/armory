@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T07:52:51Z"
 ---
 ## What it is
 Provides tools for AI clients to scan, match, and scrape TMDB metadata for local media files, with safe sidecar writing or full Jellyfin-style reorganization including file renaming and NFO generation.

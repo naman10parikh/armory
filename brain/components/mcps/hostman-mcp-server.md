@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T20:14:09Z"
 ---
 ## What it is
 Enables deploying applications to Hostman, creating VPCs, databases, and floating IPs, and managing VCS providers through natural language prompts.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 21
+forks: 14
+pushed_at: "2026-03-30T18:56:31Z"
 ---
 ## What it is
 Collection of Google-native tools (Gmail, Calendar, Drive, Tasks) for MCP with OAuth management, automated token refresh, and auto re-authentication capabilities.

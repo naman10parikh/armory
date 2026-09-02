@@ -8,10 +8,12 @@ source_url: https://github.com/cicatriiz/healthcare-mcp-public
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 115
+stars: 127
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 36
+pushed_at: "2025-08-16T18:14:06Z"
 ---
 ## What it is
 MCP server `Healthcare Data Hub`, catalogued on PulseMCP. Provides healthcare professionals and researchers with access to medical information through specialized tools for FDA drug lookups, PubMed searches, Health.gov topics, clinical trials, and ICD-10 codes.

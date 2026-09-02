@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-24T08:36:53Z"
 ---
 ## What it is
 MCP server `PayPal`, catalogued on PulseMCP. Integrates with PayPal's APIs for payment processing, order management, invoicing, and subscription handling through TypeScript/Node.js implementation with OAuth 2.0 authentication and comprehensive validation.

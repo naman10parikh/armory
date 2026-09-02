@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T15:43:12Z"
 ---
 ## What it is
 Enables MCP clients to look up Urban Dictionary definitions for words or phrases, fetch random definitions, and retrieve definitions by ID, all without external dependencies or API keys.

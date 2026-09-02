@@ -8,10 +8,12 @@ source_url: https://github.com/hannesrudolph/mcp-ragdocs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 264
+stars: 265
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2025-07-18T06:59:53Z"
 ---
 ## What it is
 MCP server `Qdrant Docs Rag`, catalogued on PulseMCP. Real-time documentation context through vector-based search and retrieval via Qdrant.

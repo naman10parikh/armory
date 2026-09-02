@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T19:30:10Z"
 ---
 ## What it is
 Enables AI assistants to control and monitor Tesla vehicles via natural language through the Tessie API, supporting battery, climate, security, charging, and more.

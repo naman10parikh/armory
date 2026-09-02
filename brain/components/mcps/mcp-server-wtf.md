@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T08:49:10Z"
 ---
 ## What it is
 A flight recorder for Claude Code that captures tool calls and observations into a SQLite database, then classifies them into a distilled timeline for incident troubleshooting.

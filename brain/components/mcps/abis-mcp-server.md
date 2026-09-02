@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T01:52:11Z"
 ---
 ## What it is
 Enables real-time AI behavioral drift monitoring and detection for Claude Code, tracking shifts in model behavior across 11 major models with tools for scorecards, version changes, and compliance reports.

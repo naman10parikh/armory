@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T05:34:16Z"
 ---
 ## What it is
 Drive VMD from any LLM — render GROMACS/LAMMPS trajectories and analyze clathrate-hydrate cages through the Model Context Protocol.

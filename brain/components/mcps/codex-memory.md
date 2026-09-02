@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T12:50:30Z"
 ---
 ## What it is
 Local Markdown-backed memory tools for Codex and other MCP-capable agents. Exposes durable agent knowledge via CLI and MCP server.

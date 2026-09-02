@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T09:02:33Z"
 ---
 ## What it is
 A Rust MCP stdio server for durable project-local AI notes, enabling agents to store, search, and manage verified facts, decisions, and conventions.

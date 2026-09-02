@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T22:17:56Z"
 ---
 ## What it is
 MCP server for Claude Code to interact with OpenClaw AI agents (Daemon, Soren, Ash, etc.) via the gateway API, providing tools to ask agents, list them, and check their status.

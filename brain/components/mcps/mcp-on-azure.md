@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-12T15:10:55Z"
 ---
 ## What it is
 Enables listing image blobs from Azure Blob Storage and generating descriptions using Azure OpenAI's gpt-4o vision model.

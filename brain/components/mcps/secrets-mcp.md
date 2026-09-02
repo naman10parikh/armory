@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T15:58:46Z"
 ---
 ## What it is
 An encrypted credential vault for MCP clients that stores and uses sensitive material without exposing values to the model, enabling secure command execution, HTTP requests, and template rendering.

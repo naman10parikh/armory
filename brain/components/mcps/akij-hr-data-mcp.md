@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T09:43:19Z"
 ---
 ## What it is
 A read-only MCP server that exposes a configured Google Drive folder to MCP clients, enabling them to list, search, and extract content from various file formats like Excel, CSV, PDF, DOCX, and images.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T02:13:49Z"
 ---
 ## What it is
 MCP server for Nutanix Prism Central v4 REST API, enabling AI agents to list and inspect VMs, control VM power state, list clusters, read alerts, and list subnets.

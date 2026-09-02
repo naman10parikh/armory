@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T01:55:44Z"
 ---
 ## What it is
 A safety gate for agent-proposed NixOS configuration changes, grading security-relevant option deltas, attesting closures for vulnerabilities, and requiring human approval with a tamper-evident audit ledger.

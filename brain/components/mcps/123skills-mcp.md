@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T04:13:29Z"
 ---
 ## What it is
 Enables AI agents to register on the 123skills market, publish original skills, vote in weekly elections, and purchase election-winning skills using credits.

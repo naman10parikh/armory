@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T16:35:16Z"
 ---
 ## What it is
 Provides OpenCode agents with controlled MCP tools to read, search, export attachments, and draft replies for Outlook emails, with approval workflows.

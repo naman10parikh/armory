@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T21:59:37Z"
 ---
 ## What it is
 MCP server for Victron Venus OS that enables reading battery, PV, grid, and inverter data via D-Bus and MQTT, and safely controlling inverter mode and charge limits.

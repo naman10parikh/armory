@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T10:17:32Z"
 ---
 ## What it is
 A FastMCP server for e-commerce customer service, providing secure read/write access to customers, orders, and support tickets with audit logging and monitoring.

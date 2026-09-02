@@ -8,10 +8,12 @@ source_url: https://github.com/manushi4/screenhand
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-02T16:40:13Z"
 ---
 ## What it is
 MCP server `ScreenHand`, catalogued on PulseMCP. Native desktop control for MCP agents.

@@ -8,10 +8,12 @@ source_url: https://github.com/sandsower/kronan-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-19T23:15:12Z"
 ---
 ## What it is
 MCP server `Krónan Grocery`, catalogued on PulseMCP. MCP server for the Krónan grocery store API in Iceland with 25 tools across 6 categories.

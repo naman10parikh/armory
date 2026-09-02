@@ -8,10 +8,12 @@ source_url: https://github.com/jameswlepage/trac-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-09-01T13:13:17Z"
 ---
 ## What it is
 MCP server `WordPress Trac`, catalogued on PulseMCP. Provides access to WordPress.org Trac development data through public CSV and RSS endpoints, enabling searches across 60,000+ tickets, detailed ticket retrieval with metadata and comments, changeset information with diff content, and recent development activity monitoring for WordPress core contributors and plugin developers.

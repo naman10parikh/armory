@@ -13,7 +13,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-esp, claude-tmux]
 tags: [client, cli]
-stars: 4046
+stars: 4047
+forks: 616
+pushed_at: "2026-04-11T03:03:40Z"
 ---
 ## What it is
 A community CLI tool by Ethan Park, catalogued in awesome-claude-code. Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly.

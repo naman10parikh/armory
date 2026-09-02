@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T10:21:45Z"
 ---
 ## What it is
 An MCP server that lets AI assistants look up Disney Lorcana TCG events, stores, and tournament data via the Ravensburger Play API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T18:30:47Z"
 ---
 ## What it is
 MCP server that exposes HPE Aruba EdgeConnect Orchestrator SD-WAN infrastructure as LLM-callable tools for listing appliances, reading interface/tunnel/bandwidth state, and changing HPE SSE tunnel state.

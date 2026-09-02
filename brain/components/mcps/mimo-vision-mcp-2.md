@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T03:32:09Z"
 ---
 ## What it is
 An MCP server that uses Xiaomi MiMo v2.5 multimodal model to provide image recognition capabilities (description, multi-image analysis, OCR, and image info validation) for text-only main models like deepseek-v4-flash, accepting local paths, URLs, file://, and base64 data inputs.

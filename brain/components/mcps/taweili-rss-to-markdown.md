@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-20T18:28:42Z"
 ---
 ## What it is
 MCP server `RSS to Markdown`, catalogued on PulseMCP. Converts RSS feeds into structured Markdown documents with feed titles, descriptions, and clickable item links for content aggregation and news summarization workflows.

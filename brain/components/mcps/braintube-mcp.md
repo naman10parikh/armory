@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T22:05:10Z"
 ---
 ## What it is
 Persistent knowledge-base MCP server. Semantic search with source citations over saved YouTube videos, podcasts, articles and PDFs — one endpoint for every MCP-capable AI client.

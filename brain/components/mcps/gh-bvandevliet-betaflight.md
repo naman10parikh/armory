@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-23T08:03:28Z"
 ---
 ## What it is
 MCP server `Betaflight`, catalogued on PulseMCP. Connects to Betaflight flight controllers over USB serial for real-time sensor reads, CLI configuration, and expert PID tuning.

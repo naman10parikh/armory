@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T15:36:19Z"
 ---
 ## What it is
 Static worst-case token-budget analysis for LLM-agent workflows using AST analysis to identify certifiable, default-dependent, non-certifiable, and runaway units, with optional signed budget certificates.

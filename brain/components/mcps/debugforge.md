@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T02:13:05Z"
 ---
 ## What it is
 MCP server bridging Lauterbach TRACE32 debuggers to AI agents for autonomous debugging, providing 47 tools for execution control, breakpoints, memory, registers, variables, and symbol inspection.

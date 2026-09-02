@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T06:11:18Z"
 ---
 ## What it is
 Provides a blueprint for building and deploying Python MCP servers on Oracle Cloud Infrastructure, with sample tools for database schema and data retrieval.

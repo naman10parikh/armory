@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T15:21:11Z"
 ---
 ## What it is
 An interactive workshop MCP server that enables real-time control of a Cloudflare Workers dashboard through 8 tools like toggling features, updating stats, and simulating traffic.

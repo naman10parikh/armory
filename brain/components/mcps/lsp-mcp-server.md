@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T19:25:17Z"
 ---
 ## What it is
 Exposes type-aware code navigation and fast file search to AI agents via language servers, enabling definitions, references, symbols, and file lookup without reading entire codebases.

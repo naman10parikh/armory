@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T18:15:47Z"
 ---
 ## What it is
 A MCP server framework with zero-config auto-discovery, type-safe decorators, and HTTP transport, enabling easy creation and deployment of tools, prompts, and resources to LeanMCP Cloud.

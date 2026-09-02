@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-31T13:27:08Z"
 ---
 ## What it is
 MCP server `Google Search Console by pijusz`, catalogued on PulseMCP. Query search analytics, inspect URLs, manage sitemaps, and run SEO reports via Google Search Console with OAuth and service account authentication.

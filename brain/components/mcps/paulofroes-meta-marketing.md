@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T13:36:31Z"
 ---
 ## What it is
 MCP server `Meta Marketing API`, catalogued on PulseMCP. Wraps Meta's Marketing API v25.0 for Facebook and Instagram advertising operations including insights, campaign management, and creative creation.

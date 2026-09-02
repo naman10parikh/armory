@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-07T18:01:52Z"
 ---
 ## What it is
 Enables AI tools to play the game DEFCON by providing tools to communicate with the game, analyze game state, and issue commands such as placing structures, moving fleets, and launching nukes.

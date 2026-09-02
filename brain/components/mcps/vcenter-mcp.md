@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T20:35:31Z"
 ---
 ## What it is
 Enables plain English queries about VMware vCenter environments including clusters, VMs, datastores, and more, directly from VS Code via GitHub Copilot.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T09:32:37Z"
 ---
 ## What it is
 MCP server `Copyright01`, catalogued on PulseMCP. Copyright deposit API for protecting code, text, and websites with Berne Convention proof.

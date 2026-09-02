@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-03-24T13:09:53Z"
 ---
 ## What it is
 MCP server `DevHub CMS`, catalogued on PulseMCP. Manage and utilize content within DevHub CMS (blog posts, hours of operation and other content).

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-08T05:02:41Z"
 ---
 ## What it is
 MCP server `A-Share Value`, catalogued on PulseMCP. Chinese A-share stock market analysis with BaoStock and AKShare APIs for long-term investing and low-frequency trading strategies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T15:57:31Z"
 ---
 ## What it is
 Turns CST Studio Suite into an AI-controllable electromagnetic design lab, enabling conversational THz metamaterial absorber design, unit-cell automation, Floquet port control, batch solve with checkpoint-resume, and surrogate-model predictions.

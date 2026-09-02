@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-02T13:44:33Z"
 ---
 ## What it is
 MCP server `SciWeave`, catalogued on PulseMCP. AI research grounded in 300M scientific works — every citation a verifiable DOI.

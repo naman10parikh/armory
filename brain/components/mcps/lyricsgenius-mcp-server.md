@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-09T23:58:21Z"
 ---
 ## What it is
 An MCP server that enables searching Genius.com for artists, songs, and albums, retrieving song lyrics, and exploring artist discographies through natural language.

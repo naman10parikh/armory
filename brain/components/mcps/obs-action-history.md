@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T15:13:35Z"
 ---
 ## What it is
 An MCP server for OBS Studio that subscribes to events and maintains a history, enabling queries about audio levels, source states, and past actions rather than only one-shot requests.

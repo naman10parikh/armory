@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:01:25Z"
 ---
 ## What it is
 A local, transparent MCP proxy with an admin console that connects MCP clients to downstream MCP servers, forwards requests unchanged, and exposes live operational events over a localhost dashboard.

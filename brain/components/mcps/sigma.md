@@ -8,10 +8,12 @@ source_url: https://github.com/sigmahq/sigma-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-23T22:19:36Z"
 ---
 ## What it is
 MCP server `Sigma`, catalogued on PulseMCP. pySigma-powered Sigma security detection rule validation.

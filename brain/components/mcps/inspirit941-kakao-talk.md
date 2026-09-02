@@ -8,10 +8,12 @@ source_url: https://github.com/inspirit941/kakao-bot-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-06-26T04:02:26Z"
 ---
 ## What it is
 MCP server `Kakao Talk`, catalogued on PulseMCP. Enables sending rich, interactive message templates to Kakao Talk users with OAuth2 authentication for notification workflows, content sharing, and social engagement.

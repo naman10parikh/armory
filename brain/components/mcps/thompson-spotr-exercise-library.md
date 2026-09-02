@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-03T12:52:54Z"
 ---
 ## What it is
 MCP server `Spotr Exercise Library`, catalogued on PulseMCP. Provides access to a fitness movement library with exercise videos categorized by muscle groups for creating personalized workout programs.

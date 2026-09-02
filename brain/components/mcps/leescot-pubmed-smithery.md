@@ -8,10 +8,12 @@ source_url: https://github.com/leescot/pubmed-mcp-smithery
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-22T07:26:04Z"
 ---
 ## What it is
 MCP server `PubMed Smithery`, catalogued on PulseMCP. Provides powerful tools for searching and analyzing academic medical literature through PubMed, offering specialized functions for keyword searches, MeSH term lookups, publication statistics, and structured PICO-based evidence retrieval with automatic retry mechanisms.

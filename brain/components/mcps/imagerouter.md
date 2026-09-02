@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T09:41:28Z"
 ---
 ## What it is
 Local MCP server that routes image-generation requests to xAI/Grok, Antigravity, and OpenAI Codex with ordered fallback, a local Playground, and an OpenAI-compatible image endpoint.

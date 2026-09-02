@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-05T10:54:08Z"
 ---
 ## What it is
 Enables querying and analyzing over 90,000 public datasets from the Spanish Government Open Data Portal (datos.gob.es) using natural language, with tools for search, filtering, metadata access, and SPARQL queries.

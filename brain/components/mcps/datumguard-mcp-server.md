@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:06:46Z"
 ---
 ## What it is
 Enables engineering design assurance for architecture, piping, and plate designs by drafting, validating, and verifying design contracts and DXF drawings through independent verification.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-21T07:53:52Z"
 ---
 ## What it is
 An MCP server that lets Claude Code manage GitHub issues, branches, and pull requests through natural language, automating the full development workflow from planning to closing.

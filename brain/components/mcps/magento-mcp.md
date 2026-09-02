@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:44:16Z"
 ---
 ## What it is
 MCP server for Magento 2, exposing store data and operations via REST Admin API, GraphQL, and read-only SQL, with safety confirmations for destructive actions.

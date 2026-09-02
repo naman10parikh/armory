@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T15:24:22Z"
 ---
 ## What it is
 Enables AI agents to read and manage Microsoft 365/Outlook email and calendar, with destructive actions (send email, create event) requiring human approval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:08Z"
 ---
 ## What it is
 Enables agents to resolve ENS names to Ethereum addresses and reverse-resolve addresses to ENS names, including avatar URLs, through a pay-per-call x402 micropayment API.

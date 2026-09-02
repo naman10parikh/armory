@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T09:20:19Z"
 ---
 ## What it is
 Exposes a curated subset of the Officegest API v2 (22 CRUD tools) for managing clients, sales, and stock to AI clients like Claude Code and Claude Desktop.

@@ -8,11 +8,13 @@ source_url: https://github.com/MiiKiyoshi/html-mcp-web
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:35:40Z"
 ---
 ## What it is
 Review AI-generated HTML slides or reports in the browser, anchor comments to specific passages, and have the agent fix them via MCP, with tools for inspection, commenting, layout checking, and export to PDF/PPTX.

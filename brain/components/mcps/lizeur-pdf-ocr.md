@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-23T04:40:30Z"
 ---
 ## What it is
 MCP server `Lizeur (PDF OCR)`, catalogued on PulseMCP. Extracts and converts PDF content to clean markdown text using Mistral AI's OCR service with intelligent caching to avoid re-processing documents.

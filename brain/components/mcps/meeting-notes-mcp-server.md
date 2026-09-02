@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T06:51:26Z"
 ---
 ## What it is
 A self-hosted MCP server for storing, searching, and querying meeting notes with semantic search and RAG capabilities using SQLite + OpenRouter.

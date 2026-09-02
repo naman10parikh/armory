@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-06T01:15:07Z"
 ---
 ## What it is
 MCP server `Party Time`, catalogued on PulseMCP. Provides a fun, lighthearted time-telling service that always responds with 'It's Party Time' when queried.

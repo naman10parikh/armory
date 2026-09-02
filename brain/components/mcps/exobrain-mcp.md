@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T21:48:57Z"
 ---
 ## What it is
 Personal AI cognitive exobrain server providing long-term, emotionally-tagged memory and task management for LLMs via MCP.

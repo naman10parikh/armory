@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T20:43:43Z"
 ---
 ## What it is
 Enables reading and analysis of vector spatial data through Claude Desktop, supporting formats like FileGDB, Shapefile, GeoJSON, and GeoPackage with tools for layer listing, schema inspection, field statistics, feature extraction, and interactive map rendering.

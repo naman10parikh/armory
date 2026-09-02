@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T10:07:47Z"
 ---
 ## What it is
 An MCP server that preserves and recalls work context, enabling users to log sessions, decisions, blockers, and ideas, and automatically generate resumes and standups.

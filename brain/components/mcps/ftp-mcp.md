@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T23:17:05Z"
 ---
 ## What it is
 An enterprise-grade MCP server for FTP and SFTP operations optimized for AI coding assistants, featuring smart synchronization, connection pooling, and unified diff patching.

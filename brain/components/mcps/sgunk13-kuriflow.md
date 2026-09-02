@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T07:19:50Z"
 ---
 ## What it is
 MCP server `Kuriflow`, catalogued on PulseMCP. Community MCP for Kuriflow, enabling AI agents to save tasks as repeatable automated workflows triggered by email, schedule, or file upload.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T10:04:40Z"
 ---
 ## What it is
 Provides AI coding agents with deterministic security requirements, approved patterns, and anti-patterns based on a project's threat model defined in security-context.yaml, enabling secure code generation without relying on LLMs for security advice.

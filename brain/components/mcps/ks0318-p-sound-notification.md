@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-15T05:12:42Z"
 ---
 ## What it is
 MCP server `Sound Notification`, catalogued on PulseMCP. Plays customizable audio notifications for key interaction points in development environments, alerting users when AI assistance requires attention or completes tasks.

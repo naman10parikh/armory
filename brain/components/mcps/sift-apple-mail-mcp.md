@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T09:58:10Z"
 ---
 ## What it is
 Sift enables AI assistants to search all of Apple Mail locally at high speed, including bodies and PDFs, returning collapsed threads with quoted replies removed, without sending data anywhere.

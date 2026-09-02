@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T03:18:06Z"
 ---
 ## What it is
 Enables AI assistants to perform Active Directory reconnaissance by enumerating users, groups, computers, trusts, and password policies using ldapdomaindump on a remote Kali host via SSH.

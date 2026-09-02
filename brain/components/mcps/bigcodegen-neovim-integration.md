@@ -8,10 +8,12 @@ source_url: https://github.com/bigcodegen/mcp-neovim-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 313
+stars: 318
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2025-10-11T22:10:01Z"
 ---
 ## What it is
 MCP server `Neovim Integration`, catalogued on PulseMCP. Integrates Claude Desktop with Neovim, enabling AI-enhanced coding assistance within the familiar Vim environment through direct interaction with buffers and commands.

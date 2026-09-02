@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-19T10:44:26Z"
 ---
 ## What it is
 MCP server for safe LinkedIn automation: official-API posting, comments, and likes plus guest-endpoint job search and a local application tracker.

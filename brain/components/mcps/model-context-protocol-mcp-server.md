@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-31T21:47:19Z"
 ---
 ## What it is
 A basic Python implementation of a Model Context Protocol server for educational purposes, using FastAPI and WebSockets.

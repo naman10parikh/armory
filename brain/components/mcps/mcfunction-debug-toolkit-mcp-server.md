@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T03:53:03Z"
 ---
 ## What it is
 Enables AI clients to validate and run Minecraft commands, read chat and tellraw messages, control player movement and GUI, and capture screenshots from within the game, aiding datapack debugging.

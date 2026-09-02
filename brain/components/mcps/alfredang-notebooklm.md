@@ -8,10 +8,12 @@ source_url: https://github.com/alfredang/notebooklm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2026-01-26T17:22:29Z"
 ---
 ## What it is
 MCP server `NotebookLM`, catalogued on PulseMCP. Automates Google NotebookLM workflows for creating notebooks, adding content sources, and generating podcasts, videos, slide decks, mind maps, quizzes, and reports.

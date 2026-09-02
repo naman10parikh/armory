@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:32:12Z"
 ---
 ## What it is
 Enables AI agents to control a persistent Chromium browser or attach to an existing Chrome with sandboxed JavaScript and structured tools for web interaction and automation.

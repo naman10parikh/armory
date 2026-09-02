@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T09:06:48Z"
 ---
 ## What it is
 This MCP server provides governed read access to the Analytos Brain knowledge graph, enabling content and GTM agents to retrieve approved entities and relationships with access control and citations.

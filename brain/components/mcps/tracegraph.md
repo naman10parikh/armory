@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T01:38:11Z"
 ---
 ## What it is
 An MCP server that induces agent behavior from traces into a spec, then gates MCP calls against that spec to block invalid actions.

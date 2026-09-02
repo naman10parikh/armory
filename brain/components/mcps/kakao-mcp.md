@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T05:34:15Z"
 ---
 ## What it is
 Enables AI agents to use Kakao's Local, Search, and Vision APIs for address conversion, place search, web/blog/search, and OCR, requiring only a REST API key.

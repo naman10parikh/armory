@@ -8,10 +8,12 @@ source_url: https://github.com/ronamosa/protonmail-pro-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T20:02:54Z"
 ---
 ## What it is
 MCP server `ProtonMail Pro`, catalogued on PulseMCP. Manage ProtonMail through Proton Bridge SMTP with 12 tools for sending, reading, searching, and organizing encrypted email.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T17:24:14Z"
 ---
 ## What it is
 Supercharges AI coding agents with semantic code intelligence, providing pre-built knowledge graphs for surgical context, faster answers, and fewer tool calls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:18:48Z"
 ---
 ## What it is
 A thin stdio gateway to Nodus's Streamable HTTP MCP server, exposing a curated allowlist of tools for the Research Workbench. It enables secure, bearer-authenticated interactions with Nodus without graph logic or caching.

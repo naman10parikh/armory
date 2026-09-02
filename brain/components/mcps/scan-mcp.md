@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-03T18:11:24Z"
 ---
 ## What it is
 Enables scanner capture via SANE on Linux, providing tools for device discovery, scan jobs with ADF/duplex support, document batching, and multipage assembly through a local MCP server.

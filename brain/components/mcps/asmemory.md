@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T03:50:31Z"
 ---
 ## What it is
 Action-State Memory Engine that records typed events (state values and actions) and provides trend, anomaly, causal, and summary analyses via MCP tools. Enables agent self-tracking and operational monitoring with time-series math.

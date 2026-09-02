@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-24T16:16:04Z"
 ---
 ## What it is
 Centralized gateway for multiple AWS Bedrock models through the Model Context Protocol (MCP), enabling AI agents to interact with 15+ Bedrock models like Nova, Claude, Llama, and Mistral.

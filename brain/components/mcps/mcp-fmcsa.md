@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:07:26Z"
 ---
 ## What it is
 Provides keyless access to US FMCSA motor-carrier registry data, enabling lookup of DOT/MC numbers, names, operating authority, and safety information.

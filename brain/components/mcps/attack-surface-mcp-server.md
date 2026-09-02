@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T22:05:30Z"
 ---
 ## What it is
 Passive external attack-surface mapping server that discovers subdomains, DNS records, TLS posture, HTTP headers, and registration data via public sources like CT logs, Shodan, and RDAP/WHOIS, enabling security reconnaissance without active scanning.

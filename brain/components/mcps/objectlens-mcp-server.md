@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T11:20:12Z"
 ---
 ## What it is
 Connects LLMs to the ObjectLens REST API, enabling browsing S3-compatible buckets, searching indexed object metadata, and previewing object contents.

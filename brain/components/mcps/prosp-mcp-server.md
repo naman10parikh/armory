@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T19:29:19Z"
 ---
 ## What it is
 MCP server for Prosp.ai LinkedIn outreach automation. Manage leads, campaigns, messaging, and analytics programmatically.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T04:09:08Z"
 ---
 ## What it is
 Enables AI agents to generate and edit images and videos using the Agnes API (Chinese version). Supports standard and high-resolution image generation, image editing, video submission, and status polling.

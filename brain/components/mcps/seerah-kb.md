@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T13:34:44Z"
 ---
 ## What it is
 Enables users to ask questions about the life of Prophet Muhammad ﷺ and get answers grounded in four scholarly books, fully offline and free.

@@ -8,10 +8,12 @@ source_url: https://github.com/trackly-app/trackly-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T22:39:38Z"
 ---
 ## What it is
 MCP server `Trackly`, catalogued on PulseMCP. Job tracking CLI and integrated server for searching, filtering, and managing job applications across AI agents.

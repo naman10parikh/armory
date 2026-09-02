@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-07T03:55:43Z"
 ---
 ## What it is
 Query 3,241 UK statutes directly from Claude, Cursor, or any MCP-compatible client.

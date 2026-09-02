@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
 stars: 4
+forks: 2
+pushed_at: "2025-10-28T09:43:36Z"
 ---
 ## What it is
 /🏠 - MCP Server for Kubernetes integrated with Open-WebUI, bridging the gap between DevOps and non-technical teams. Supports `kubectl` and `helm` operations through natural-language commands.

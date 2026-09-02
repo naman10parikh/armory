@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T17:19:12Z"
 ---
 ## What it is
 A secure MCP server that exposes local repository context to ChatGPT/Codex with read-only access, path validation, and no generic shell.

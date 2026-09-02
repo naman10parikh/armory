@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-10T02:30:51Z"
 ---
 ## What it is
 MCP server `Dice Roller`, catalogued on PulseMCP. Roll dice using standard notation, D&D stats, coin flips, and more

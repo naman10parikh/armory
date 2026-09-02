@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T18:39:59Z"
 ---
 ## What it is
 Turns long-form videos into short-form clips (TikTok/Reels) by reasoning over word-timestamped transcripts, with silence-aware rendering, STT-based validation, and optional reframing/captions.

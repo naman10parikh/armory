@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:10:14Z"
 ---
 ## What it is
 Provides a sovereign, MIT-licensed MCP server for professional-service workflows, running entirely on your infrastructure with Ed25519 cryptographic signing for every action.

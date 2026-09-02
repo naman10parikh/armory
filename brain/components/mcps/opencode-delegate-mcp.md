@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T08:49:16Z"
 ---
 ## What it is
 Lets your primary coding agent delegate grunt work to a cheaper model via OpenCode, enabling cost-effective task distribution.

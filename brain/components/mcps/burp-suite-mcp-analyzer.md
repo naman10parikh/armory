@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T08:37:32Z"
 ---
 ## What it is
 An MCP server that lets AI assistants analyze Burp Suite XML exports offline, without running Burp. Provides 19 tools for mapping endpoints, finding secrets, detecting vulnerabilities, analyzing headers, exporting curl commands, and generating pentest reports.

@@ -8,11 +8,13 @@ source_url: https://github.com/SebastianGilPinzon/colab-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-06-19T21:42:26Z"
 ---
 ## What it is
 Enhanced fork of Google's Colab MCP, pre-registers all 7 notebook tools at startup (get_cells, add/run/update/delete/move_cell, add_text_cell), adds programmatic GPU control (T4/L4/A100) via OAuth, and fixes the "Disconnected from local server" issue with IPv4-only bind, PNA CORS headers, and stale-

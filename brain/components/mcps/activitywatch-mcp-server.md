@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-13T19:06:48Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that connects to ActivityWatch, allowing LLMs like Claude to interact with your time tracking data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T06:38:36Z"
 ---
 ## What it is
 MCP server for Mailprotector — email security management for MSPs, enabling management of customers, domains, users, quarantine, allow/block rules, logs, configuration, and the full long-tail API via a router.

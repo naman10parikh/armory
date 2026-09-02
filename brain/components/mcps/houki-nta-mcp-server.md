@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T19:47:52Z"
 ---
 ## What it is
 Enables retrieval and full-text search of Japanese National Tax Agency documents, including circulars, administrative guidelines, tax answers, and Q\&A examples, with live fallback and local caching.

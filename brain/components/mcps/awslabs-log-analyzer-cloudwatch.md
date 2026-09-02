@@ -8,10 +8,12 @@ source_url: https://github.com/awslabs/log-analyzer-with-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 162
+stars: 167
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2026-08-05T08:27:38Z"
 ---
 ## What it is
 MCP server `Log Analyzer with CloudWatch Logs`, catalogued on PulseMCP. Provides structured access to CloudWatch Logs data for searching, analyzing, and correlating logs across AWS services to help with troubleshooting and pattern identification.

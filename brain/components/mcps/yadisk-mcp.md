@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T15:16:47Z"
 ---
 ## What it is
 MCP server for Yandex Disk that enables file and folder management, search, upload/download, publishing, and trash operations through natural language.

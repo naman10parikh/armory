@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-05T05:58:55Z"
 ---
 ## What it is
 Enables multi-user remote MCP interactions with Gmail, OpenAI, and Salesforce via a FastMCP server.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T23:47:44Z"
 ---
 ## What it is
 Local MCP server for Android emulator control, exposing tools to get emulator status, inspect UI tree, capture screenshots, and open App settings via Appium and ADB.

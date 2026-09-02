@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T04:43:01Z"
 ---
 ## What it is
 A production-ready MCP server that connects AI assistants to any PostgreSQL database with 25 tools and role-based access control.

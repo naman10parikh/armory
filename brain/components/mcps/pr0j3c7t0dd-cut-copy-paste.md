@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-12T21:00:52Z"
 ---
 ## What it is
 MCP server `Cut Copy Paste`, catalogued on PulseMCP. Provides secure clipboard operations with cut, copy, paste, and undo functionality using encrypted SQLite storage and path-based access controls for managing code blocks across multiple files.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-20T11:21:38Z"
 ---
 ## What it is
 MCP server `Azure DevOps Project Creator`, catalogued on PulseMCP. Integrates with Azure DevOps to automate project creation and infrastructure setup through FastAPI, eliminating the need for manual portal interaction.

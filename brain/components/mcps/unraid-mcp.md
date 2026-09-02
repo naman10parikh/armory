@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T08:16:49Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI clients to inspect and manage an Unraid server via its GraphQL API, with read-only defaults and optional enabled mutations.

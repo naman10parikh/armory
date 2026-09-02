@@ -8,10 +8,12 @@ source_url: https://github.com/deslicer/mcp-for-splunk
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-31T13:06:16Z"
 ---
 ## What it is
 MCP server `Splunk`, catalogued on PulseMCP. Integrates with Splunk Enterprise through the Splunk SDK to provide search execution, health monitoring, user management, and alert analysis with automated troubleshooting workflows and OpenAI-powered analysis for DevOps teams and security analysts.

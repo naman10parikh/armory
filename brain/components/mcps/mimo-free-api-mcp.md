@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-04-26T05:27:02Z"
 ---
 ## What it is
 Provides an OpenAI-compatible gateway to the MiMo (Xiaomi) model series, with native MCP server tools for web search and visual analysis.

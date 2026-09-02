@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T08:02:47Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that enables AI assistants to interact with the SafeSight Eye Care Management System.

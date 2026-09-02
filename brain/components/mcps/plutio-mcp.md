@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-01T05:06:47Z"
 ---
 ## What it is
 Enables Claude and other MCP clients to interact with Plutio's business platform resources including CRM, projects, invoicing, and more through structured tools.

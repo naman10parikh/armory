@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/thegraph-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-07-31T09:46:42Z"
 ---
 ## What it is
 MCP server `The Graph`, catalogued on PulseMCP. Enables access to indexed blockchain data through The Graph's decentralized network for analyzing token trading volumes, monitoring liquidity pools, and identifying unusual transaction patterns

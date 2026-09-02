@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-05T19:02:06Z"
 ---
 ## What it is
 Enables management of Pi-hole DNS servers through natural language commands, including enabling/disabling blocking, viewing statistics, and configuration.

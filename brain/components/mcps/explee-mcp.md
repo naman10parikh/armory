@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T12:21:29Z"
 ---
 ## What it is
 MCP server wrapping the Explee B2B data API, enabling AI agents to search companies and people, enrich contact data, run AI agents, and manage deduplication lists.

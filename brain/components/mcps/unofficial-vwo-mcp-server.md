@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T23:10:55Z"
 ---
 ## What it is
 An unofficial MCP server that exposes VWO platform operations as tools an AI agent can call, enabling management of campaigns, goals, variations, and more through VWO REST API v2.

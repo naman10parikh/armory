@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T15:52:37Z"
 ---
 ## What it is
 A local MCP server that enables Claude to generate images using the OpenAI API.

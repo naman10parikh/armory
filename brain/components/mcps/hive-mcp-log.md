@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T04:59:56Z"
 ---
 ## What it is
 Metered log ingestion server for autonomous agents, allowing NDJSON log posting with USDC payment per line on Base L2. Agents can freely tail and search their own logs with configurable retention tiers.

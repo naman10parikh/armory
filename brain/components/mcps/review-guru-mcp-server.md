@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T16:06:51Z"
 ---
 ## What it is
 Enables searching and retrieving Sri Lankan business reviews and doctor profiles from Review Guru, with tools for listings, reviews, search, and categories.

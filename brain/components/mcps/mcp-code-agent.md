@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-07T13:17:03Z"
 ---
 ## What it is
 An AI-powered code review agent that leverages Model Context Protocol (MCP) and Claude to provide intelligent, context-aware code reviews.

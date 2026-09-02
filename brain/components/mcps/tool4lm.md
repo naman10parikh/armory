@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-15T00:58:01Z"
 ---
 ## What it is
 MCP server `Tool4LM`, catalogued on PulseMCP. Provides local research toolkit with web search, document processing, academic databases, and mathematical computation without requiring external API keys

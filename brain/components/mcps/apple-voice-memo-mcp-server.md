@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-01-12T01:13:00Z"
 ---
 ## What it is
 Provides programmatic access to Apple Voice Memos on macOS, enabling AI assistants to list, retrieve details, get audio, and transcribe recordings.

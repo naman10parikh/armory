@@ -8,10 +8,12 @@ source_url: https://github.com/kzino/vorim-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-13T13:37:17Z"
 ---
 ## What it is
 MCP server `Vorim`, catalogued on PulseMCP. Identity and trust layer for autonomous AI agents — cryptographic identity, permission management, audit trails, and behavioral trust scoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T13:10:57Z"
 ---
 ## What it is
 MCP server that provides AI assistants with access to Akın Coşkun's portfolio data including projects, skills, and contact information.

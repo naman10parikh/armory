@@ -8,11 +8,13 @@ source_url: https://github.com/heyjishh/cloudpanel-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-19T18:01:50Z"
 ---
 ## What it is
 Provides 50 tools to manage a CloudPanel VPS through AI assistants, covering sites, databases, Docker, server software, firewall, DNS, and one-shot deployments.

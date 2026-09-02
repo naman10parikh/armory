@@ -8,10 +8,12 @@ source_url: https://github.com/tianyuio/worldbank-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-01T06:19:43Z"
 ---
 ## What it is
 MCP server `World Bank Data`, catalogued on PulseMCP. Queries World Bank Open Data API for global economic, social, education, and health indicators by country.

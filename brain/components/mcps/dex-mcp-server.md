@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-27T20:53:23Z"
 ---
 ## What it is
 Provides AI agents with comprehensive contact relationship management (CRM) capabilities through the Dex API, enabling management of contacts, notes, and reminders.

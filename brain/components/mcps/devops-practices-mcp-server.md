@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-22T03:22:10Z"
 ---
 ## What it is
 Provides structured DevOps practices and templates (tracking, documentation, runbooks) to streamline AI-assisted PoC development, reducing CLAUDE.md bloat and ensuring consistency across projects.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-14T18:07:20Z"
 ---
 ## What it is
 MCP server `OpenAPI Dynamic`, catalogued on PulseMCP. Load OpenAPI specs and expose tools to discover, authenticate, and call multiple APIs through a single interface.

@@ -8,10 +8,12 @@ source_url: https://github.com/srprasanna/mcp-skill-hub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-29T01:10:01Z"
 ---
 ## What it is
 MCP server `Skill Hub`, catalogued on PulseMCP. Manages Claude skills from structured directories with hot-reload functionality, validation, and search capabilities across metadata including categories, tags, and complexity levels for organizations managing large skill collections.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T20:55:15Z"
 ---
 ## What it is
 An MCP server that scans web projects for Russian Federal Law 152-FZ compliance, identifying risks like missing consent checkboxes, cookie banners without opt-out, and unauthorized trackers, with legal references and fix suggestions.

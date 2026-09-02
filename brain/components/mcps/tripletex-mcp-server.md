@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-04-27T12:56:40Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Tripletex accounting system via 56 tools and 18 skills for orders, invoices, bookkeeping, reports, projects, and travel expenses.

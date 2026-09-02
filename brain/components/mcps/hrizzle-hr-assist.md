@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T11:21:55Z"
 ---
 ## What it is
 MCP-based HR automation tool that streamlines employee onboarding, leave management, and equipment requests via natural language conversations.

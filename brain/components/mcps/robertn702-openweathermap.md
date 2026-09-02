@@ -8,10 +8,12 @@ source_url: https://github.com/robertn702/mcp-openweathermap
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-06-20T15:03:03Z"
 ---
 ## What it is
 MCP server `OpenWeatherMap`, catalogued on PulseMCP. Integrates with OpenWeatherMap API to provide current conditions, forecasts, air quality monitoring, weather alerts, and location services through 11 specialized tools for weather-dependent applications and travel planning.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-18T08:19:49Z"
 ---
 ## What it is
 MCP server `ParseFlow`, catalogued on PulseMCP. Document parsing library supporting PDF, Word, Excel, PowerPoint, and image OCR

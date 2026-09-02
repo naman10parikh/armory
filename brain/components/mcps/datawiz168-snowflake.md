@@ -8,10 +8,12 @@ source_url: https://github.com/datawiz168/mcp-snowflake-service
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2025-04-21T20:29:27Z"
 ---
 ## What it is
 MCP server `Snowflake`, catalogued on PulseMCP. Integration with Snowflake databases, enabling execution of SQL queries and analysis of enterprise data.

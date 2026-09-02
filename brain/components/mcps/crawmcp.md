@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T18:29:03Z"
 ---
 ## What it is
 Self-hosted MCP server for web crawling that bypasses anti-bot walls and JS challenges, using RabbitMQ, MinIO, and Redis for asynchronous content handling with automatic cleanup.

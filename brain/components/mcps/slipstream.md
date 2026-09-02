@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T12:52:11Z"
 ---
 ## What it is
 A shared distillation cache for AI agents — clean-crawl a URL once, distill it to token-optimal markdown, and serve it content-addressed across every agent (~73–89% fewer tokens). Includes a collective-notes layer and cutoff-aware change detection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-19T17:40:44Z"
 ---
 ## What it is
 A lightweight MCP server that provides analytics on SpaceX launches, including launch counts per year, success vs failure totals, and most-used launch site.

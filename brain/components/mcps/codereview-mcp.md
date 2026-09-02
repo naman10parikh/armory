@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T12:34:14Z"
 ---
 ## What it is
 An MCP server that lets AI agents review code using language models, supporting git diffs, files, and snippets with severity levels. Works with Ollama (local) and hosted providers like OpenAI, Anthropic, and OpenRouter.

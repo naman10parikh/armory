@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T15:32:06Z"
 ---
 ## What it is
 Enables AI assistants to interact with a HubSpot CRM account via natural language, starting with read-only lookups and optionally enabling write operations like creating contacts, deals, and notes.

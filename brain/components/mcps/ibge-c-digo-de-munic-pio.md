@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:19Z"
 ---
 ## What it is
 Provides read-only access to Brazilian municipality codes from IBGE, an official government source, via MCP. Works with any MCP-compatible client to query municipality data using natural language.

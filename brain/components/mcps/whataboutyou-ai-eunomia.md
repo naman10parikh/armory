@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-12T11:28:37Z"
 ---
 ## What it is
 MCP server `Eunomia`, catalogued on PulseMCP. Integrates with the Eunomia framework for a simple way to orchestrate data governance policies like PII detection or user access control

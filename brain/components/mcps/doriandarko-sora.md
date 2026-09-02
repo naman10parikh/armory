@@ -8,10 +8,12 @@ source_url: https://github.com/doriandarko/sora-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 211
+stars: 208
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2025-10-08T20:41:55Z"
 ---
 ## What it is
 MCP server `Sora`, catalogued on PulseMCP. Integrates with OpenAI's Sora 2 video generation API to create, remix, monitor, and manage videos with customizable parameters, automatic downloading, and complete lifecycle management from generation to cleanup.

@@ -8,11 +8,13 @@ source_url: https://github.com/Suriya-Ravichandran/amazon-india-seller-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T18:33:54Z"
 ---
 ## What it is
 Enables beginner Amazon India sellers to research product opportunities, estimate demand, analyze competition, calculate profitability, find suppliers, mine reviews, research keywords, and generate listings through Claude Desktop.

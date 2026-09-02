@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T17:05:35Z"
 ---
 ## What it is
 Paid access to Solana DeFi risk intelligence — rug/honeypot scans, liquidity-pool analysis, and wash-trade-filtered pool rankings. Automatically settles micropayments in USDC via x402.

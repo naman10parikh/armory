@@ -8,11 +8,13 @@ source_url: https://github.com/Aloneswork/deepseek-harness-codex-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:57:36Z"
 ---
 ## What it is
 This MCP server enables Codex to delegate bounded subtasks to DeepSeek Harness through MCP, with persistent JSON mailbox messaging and proactive task initiation via Codex app-server. It provides tools for delegation, message exchange, and task status tracking.

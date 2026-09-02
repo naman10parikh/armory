@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T16:38:36Z"
 ---
 ## What it is
 Provides full access to a local Windows computer via MCP, enabling arbitrary command execution, file operations, and process management through a secure stdio or HTTP tunnel.

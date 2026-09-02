@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T20:22:07Z"
 ---
 ## What it is
 Self-service creative engine: a living market-signal feed, narratives your experts judge, and a Brand Lens that gets you to a winning ad faster. Sold as time-to-winner, not video volume.

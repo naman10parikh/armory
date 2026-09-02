@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T14:45:06Z"
 ---
 ## What it is
 MCP server `Clinical Trial Design`, catalogued on PulseMCP. Provides AI-assisted statistical design for Phase 2 and Phase 3 clinical trials via R-backed MCP tools.

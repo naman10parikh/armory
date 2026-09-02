@@ -8,10 +8,12 @@ source_url: https://github.com/shopanaio/carrier-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-18T07:25:00Z"
 ---
 ## What it is
 MCP server `Nova Poshta`, catalogued on PulseMCP. Integrates with Ukrainian shipping carrier Nova Poshta for package tracking, waybill management, and address operations

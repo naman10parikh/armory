@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-10T09:35:46Z"
 ---
 ## What it is
 Captures screenshots of web URLs or local HTML files using Playwright Chromium and exposes them as resources.

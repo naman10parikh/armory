@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T11:44:17Z"
 ---
 ## What it is
 MCP server `VoiceOS Calendar Free Slots`, catalogued on PulseMCP. Calculates available calendar time slots, factoring in travel time between meetings and location data.

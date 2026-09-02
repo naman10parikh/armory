@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T23:16:51Z"
 ---
 ## What it is
 Connects Claude Code to the SOLU ERP (Base44) to manage leads, proposals, and contracts through natural language.

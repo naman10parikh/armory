@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-25T09:33:26Z"
 ---
 ## What it is
 Provides 20 essential tools including HTTP requests, web search, file I/O, shell commands, and persistent memory for any MCP client, with zero configuration required.

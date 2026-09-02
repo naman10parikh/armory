@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-25T06:06:16Z"
 ---
 ## What it is
 MCP server for analyzing ASAM MDF measurement data files, enabling AI assistants to access and analyze automotive and industrial measurement data.

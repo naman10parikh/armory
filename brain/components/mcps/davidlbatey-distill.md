@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T11:37:41Z"
 ---
 ## What it is
 MCP server `Distill Podcast Generator`, catalogued on PulseMCP. Converts saved articles into AI-generated two-host podcasts using LLM dialogue generation and multiple TTS providers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T17:13:55Z"
 ---
 ## What it is
 Enables AI agents to browse, accept, and complete paid offers from a marketplace, allowing users to earn real money through app tasks and get paid instantly.

@@ -8,11 +8,13 @@ source_url: https://github.com/thelancehaun/workforce-data-explorer
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T20:24:07Z"
 ---
 ## What it is
 MCP server providing AI assistants with live access to 89 curated US workforce and labor market data sources, including BLS, FRED, Census, O*NET, DOL, SEC EDGAR, and real-time signals from Indeed and ADP.

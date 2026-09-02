@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T01:17:00Z"
 ---
 ## What it is
 Build a working AppBI Workboard mini-app end to end — from raw data all the way to a shareable app — through one self-contained MCP server.

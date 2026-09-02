@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T08:50:26Z"
 ---
 ## What it is
 Provides a 'scan_website' tool to analyze target websites for security vulnerabilities by consuming the Website Security Auditor REST API.

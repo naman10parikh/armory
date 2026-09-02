@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:22:35Z"
 ---
 ## What it is
 A production-quality multi-agent research system with an arXiv MCP server and LangGraph-based research agents, providing search, details, and cached summaries via SQLite.

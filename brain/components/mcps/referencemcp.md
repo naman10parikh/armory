@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T23:39:46Z"
 ---
 ## What it is
 An academic reference manager MCP server that enables searching papers across multiple sources, managing references locally, and formatting citations in 10,000+ styles.

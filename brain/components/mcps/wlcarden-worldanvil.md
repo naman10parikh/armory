@@ -8,10 +8,12 @@ source_url: https://github.com/wlcarden/worldanvil-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-06-01T21:16:45Z"
 ---
 ## What it is
 MCP server `WorldAnvil`, catalogued on PulseMCP. Integrates with WorldAnvil's API to automate worldbuilding workflows across articles, maps, timelines, campaigns, and content management with automatic Markdown-to-BBCode conversion.

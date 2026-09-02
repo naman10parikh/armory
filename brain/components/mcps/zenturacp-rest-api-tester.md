@@ -8,10 +8,12 @@ source_url: https://github.com/dkmaker/mcp-rest-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 96
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-04-06T22:25:43Z"
 ---
 ## What it is
 MCP server `REST API Tester`, catalogued on PulseMCP. Integrates with REST API's via Axios to provide a command-line tool for testing and debugging REST APIs with customizable requests and response analysis.

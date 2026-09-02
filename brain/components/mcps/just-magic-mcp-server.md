@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:48:33Z"
 ---
 ## What it is
 Enables SEO automation through the Just-Magic.org API, including semantic clustering, LSI analysis, Wordstat frequency collection, text analysis, and task management.

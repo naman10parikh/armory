@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T11:28:11Z"
 ---
 ## What it is
 Enables red-team and blue-team security workflows on BlackArch Linux by wrapping local tools like nmap, gobuster, nikto, and hydra as MCP tools, with scope-gating that prevents unauthorized scanning against any target not explicitly listed in a local scope.yaml file.

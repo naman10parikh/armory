@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T18:37:13Z"
 ---
 ## What it is
 Enables running code against tests in an isolated sandbox to obtain PASS/FAIL verdicts with signed, offline-checkable certificates, and generating verified code with attached certificates after execution against derived tests.

@@ -8,10 +8,12 @@ source_url: https://github.com/switchscience/mcp-micropython-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-15T04:27:04Z"
 ---
 ## What it is
 MCP server `Switch Science MicroPython`, catalogued on PulseMCP. Control MicroPython devices (ESP32, RP2040) from AI agents via USB serial or WebREPL, with code execution and file management tools.

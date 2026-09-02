@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T12:09:51Z"
 ---
 ## What it is
 Stores todos in a Google Sheet and exposes CRUD tools for listing, getting, creating, updating, and deleting todo items.

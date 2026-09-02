@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T03:01:22Z"
 ---
 ## What it is
 Multi-source music search and playback MCP server supporting QQ Music, NetEase Cloud, and local files with playlist management.

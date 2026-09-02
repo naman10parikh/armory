@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-05-01T05:29:42Z"
 ---
 ## What it is
 Enables PowerPoint automation on Windows, including template-based creation, real-time editing, LaTeX equations, animations, and multimodal slide analysis, all via natural language.

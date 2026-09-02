@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-18T06:53:58Z"
 ---
 ## What it is
 MCP server `Windows Driver Input`, catalogued on PulseMCP. Driver-level keyboard and mouse automation bypassing standard Windows APIs for games and protected applications

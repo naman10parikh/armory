@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-12T19:31:28Z"
 ---
 ## What it is
 MCP server `Azure Assistant`, catalogued on PulseMCP. Converts natural language questions into Azure Resource Graph KQL queries to discover and analyze Azure resources across multiple tenants with automatic subscription detection and management group scoping for cloud infrastructure inventory and compliance checking.

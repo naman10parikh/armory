@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:17:29Z"
 ---
 ## What it is
 Enables MCP clients to read and edit a Gramps family tree hosted on Gramps Web, with guarded write operations that tag new records as unconfirmed for review.

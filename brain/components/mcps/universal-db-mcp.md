@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T09:07:37Z"
 ---
 ## What it is
 Enables AI assistants to query and analyze databases using natural language through MCP and HTTP API, supporting 17+ databases and integration with 50+ platforms.

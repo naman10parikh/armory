@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T08:37:39Z"
 ---
 ## What it is
 MCP server for Bible study, providing multi-version verse lookup, keyword/semantic search, cross-references, and word studies with original language and lexicon details.

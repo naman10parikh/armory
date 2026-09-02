@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-07-28T20:54:12Z"
 ---
 ## What it is
 Provides access to NASA's public APIs including Astronomy Picture of the Day, Mars Rover Images, and Near Earth Objects data, enabling users to query and retrieve space-related information through natural language.

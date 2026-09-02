@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, embedded-system]
-stars: 26
+stars: 25
+forks: 10
+pushed_at: "2025-05-12T07:11:37Z"
 ---
 ## What it is
 An MCP server that standardizes and contextualizes industrial Modbus data.

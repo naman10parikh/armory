@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T13:54:35Z"
 ---
 ## What it is
 Enables AI coding assistants like Claude Code to perform real-time code linting and get violation summaries from tools such as ESLint, Stylelint, P3C, and Checkstyle via a local server.

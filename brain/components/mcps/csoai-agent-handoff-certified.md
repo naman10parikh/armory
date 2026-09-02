@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:25:20Z"
 ---
 ## What it is
 MCP server `Agent Handoff Certified`, catalogued on PulseMCP. Verifiable agent-to-agent task handoff with cryptographically signed provenance chains for multi-agent workflows.

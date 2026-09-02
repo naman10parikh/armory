@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:45:28Z"
 ---
 ## What it is
 Enables bounded agent authority over a macOS workstation via 63 MCP tools with policy, approval, and audit.

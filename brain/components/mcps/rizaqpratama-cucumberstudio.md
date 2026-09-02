@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-23T23:51:06Z"
 ---
 ## What it is
 MCP server `CucumberStudio`, catalogued on PulseMCP. Bridges CucumberStudio API with natural language interaction, enabling conversational management of BDD test scenarios including creation, updating, and deletion without leaving your chat interface.

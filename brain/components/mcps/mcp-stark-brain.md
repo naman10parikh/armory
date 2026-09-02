@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T16:47:17Z"
 ---
 ## What it is
 A local MCP server that helps the Payments team by querying microservice specs, payment flows, triaging CS tickets with GCP analysis, and calling Stark Bank APIs in development/sandbox environments.

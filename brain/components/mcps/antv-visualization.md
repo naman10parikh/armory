@@ -12,6 +12,8 @@ stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-27T03:39:42Z"
 ---
 ## What it is
 MCP server `AntV Visualization Libraries`, catalogued on PulseMCP. Integrates with AntV's visualization ecosystem to provide intelligent documentation retrieval, code examples, and best practices for g2, g6, l7, x6, f2, and s2 libraries through query preprocessing and context-aware assistance.

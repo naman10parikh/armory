@@ -8,10 +8,12 @@ source_url: https://github.com/taricatarica/flux-image-generator-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-08T19:02:01Z"
 ---
 ## What it is
 MCP server `FLUX Image Generator`, catalogued on PulseMCP. Generates images from text prompts using the FLUX.1-schnell model via HuggingFace, with support for multiple aspect ratios and local file saving.

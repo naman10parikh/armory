@@ -8,10 +8,12 @@ source_url: https://github.com/astro2024/pokeapi-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T18:41:22Z"
 ---
 ## What it is
 MCP server `PokéAPI`, catalogued on PulseMCP. Query Pokémon data including species, moves, abilities, items, types, locations, and evolution chains via the PokéAPI.

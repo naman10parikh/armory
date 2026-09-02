@@ -8,11 +8,13 @@ source_url: https://github.com/beiming183-cloud/AutoCAD-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-19T01:41:32Z"
 ---
 ## What it is
 MCP server for full AutoCAD automation, AutoCAD LT automation, and headless DXF generation. It provides 8 consolidated tools for drawing, entity, layer, block, annotation, P&ID, view, and system operations via MCP stdio transport.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:03:27Z"
 ---
 ## What it is
 A universal mathematics MCP server that gives LLM clients full access to SageMath for symbolic calculus, number theory, linear algebra, and more, with persistent state across tool calls.

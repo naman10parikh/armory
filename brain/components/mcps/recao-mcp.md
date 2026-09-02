@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T08:51:06Z"
 ---
 ## What it is
 Enables querying competitor App Store ads from Apple's EU DSA repository, including creative copy, placements, and ad longevity, through tools like search_app_advertiser and get_competitor_ads.

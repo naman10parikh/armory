@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-03T16:19:48Z"
 ---
 ## What it is
 MCP server `SMCP Proxy (OIDC)`, catalogued on PulseMCP. Secure reverse proxy for MCP servers that adds OIDC authentication and authorization, supporting multiple backend configurations with path-based routing and metrics collection.

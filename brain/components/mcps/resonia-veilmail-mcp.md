@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T14:26:20Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that exposes Veil Mail API operations as tools for AI agents, enabling email sending, template management, audience management, and analytics retrieval through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T08:11:47Z"
 ---
 ## What it is
 An MCP server that implements memory with decay mechanics, allowing AI agents to store and retrieve memories that fade over time unless accessed, with a permanent journal for verification.

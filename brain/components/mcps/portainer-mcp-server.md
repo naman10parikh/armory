@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-18T04:42:05Z"
 ---
 ## What it is
 Enables AI assistants to manage Docker containers, images, networks, and services through the Portainer API.

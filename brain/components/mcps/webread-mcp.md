@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T21:11:52Z"
 ---
 ## What it is
 Enables AI assistants to read webpages and perform web searches using DuckDuckGo.

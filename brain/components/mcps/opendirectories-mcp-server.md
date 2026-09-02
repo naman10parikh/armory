@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T12:19:40Z"
 ---
 ## What it is
 Enables searching 12M+ verified businesses across 10 countries and 19 directories, with tools for lead generation, competitive analysis, and market research.

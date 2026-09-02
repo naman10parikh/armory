@@ -8,10 +8,12 @@ source_url: https://github.com/jerelvelarde/chessmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-19T16:26:20Z"
 ---
 ## What it is
 MCP server `Chess`, catalogued on PulseMCP. Provides interactive chess gameplay with OAuth authentication, featuring per-user game state management, Stockfish engine analysis, tactical puzzles, and a visual chess board widget for chess instruction and training.

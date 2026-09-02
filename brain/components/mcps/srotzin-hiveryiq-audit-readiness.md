@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T01:26:40Z"
 ---
 ## What it is
 MCP server `HiveryIQ Audit Readiness`, catalogued on PulseMCP. Multi-jurisdictional AI compliance readiness scoring with regulatory penalty calculations.

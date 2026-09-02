@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-07-26T10:30:43Z"
 ---
 ## What it is
 Enables monitoring and management of SD-WAN devices through REST API endpoints, with tools for device health, statistics, BFD sessions, and network analytics. Integrates with Cursor IDE for natural language queries.

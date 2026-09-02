@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-08T23:59:36Z"
 ---
 ## What it is
 MCP server `Korean Stock Market Data`, catalogued on PulseMCP. Korean stock market data including prices, dividends, short selling, and financial disclosures via data.go.kr APIs.

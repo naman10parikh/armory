@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-09-02T00:31:27Z"
 ---
 ## What it is
 Enables AI agents to create, enhance, and manage SAP Mobile Development Kit projects using best practices, templates, and CLI tools.

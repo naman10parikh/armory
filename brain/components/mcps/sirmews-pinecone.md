@@ -8,10 +8,12 @@ source_url: https://github.com/sirmews/mcp-pinecone
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 148
+stars: 150
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 33
+pushed_at: "2025-01-31T08:20:22Z"
 ---
 ## What it is
 MCP server `Pinecone Vector DB`, catalogued on PulseMCP. Leverage Pinecone vector databases for semantic search and RAG.

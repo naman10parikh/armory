@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:36:27Z"
 ---
 ## What it is
 Enables interactive breeding program simulation and comparison via MCP, returning statistical distributions (mean, sd, CI) instead of single stochastic runs.

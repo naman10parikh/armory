@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T21:17:12Z"
 ---
 ## What it is
 Enables local, read-only code analysis through the OpenCode CLI, exposing fixed tools that call Cloudflare, MiMo, and Nemotron models in fallback order.

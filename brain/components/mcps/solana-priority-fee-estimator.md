@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:06Z"
 ---
 ## What it is
 Provides Solana priority fee estimates at 6 levels for transactions, with pay-per-call micropayments via x402.

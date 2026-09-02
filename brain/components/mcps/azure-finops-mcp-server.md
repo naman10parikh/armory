@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-13T22:30:14Z"
 ---
 ## What it is
 Analyzes Azure cloud costs, audits for waste, and provides budget insights via natural language through a secure local MCP server.

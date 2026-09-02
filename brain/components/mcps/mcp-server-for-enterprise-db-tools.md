@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T15:46:55Z"
 ---
 ## What it is
 Enables Claude Desktop to securely query a SQLite HR database, providing tools to check leave balances and list pending approvals through natural language.

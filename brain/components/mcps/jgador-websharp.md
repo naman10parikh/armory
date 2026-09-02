@@ -8,10 +8,12 @@ source_url: https://github.com/jgador/websharp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-23T17:20:56Z"
 ---
 ## What it is
 MCP server `WebSharp`, catalogued on PulseMCP. Web search and article extraction using SearXNG

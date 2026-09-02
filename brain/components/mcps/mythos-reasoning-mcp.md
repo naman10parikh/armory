@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T16:43:23Z"
 ---
 ## What it is
 A deterministic verification gate for MCP clients that independently checks model outputs against evidence, contradictions, calibration, and provenance without relying on LLM self-assessment.

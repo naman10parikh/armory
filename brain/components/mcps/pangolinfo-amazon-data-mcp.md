@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:06:04Z"
 ---
 ## What it is
 Remote MCP server with 19 e-commerce and IP-compliance data tools — Amazon product/review/search/niche/bestseller data, AI SERP & keyword trends, local Maps POI, WIPO trademark search, and PACER patent litigation. No scraping code or proxies needed; one API key unlocks all tools.

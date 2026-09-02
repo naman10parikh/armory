@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T20:17:07Z"
 ---
 ## What it is
 MCP server that enables LLMs to operate Acunetix/Invicti web vulnerability scanners through 15 tools, covering authentication, target management, scanning, vulnerability retrieval, and reporting via GraphQL and REST APIs.

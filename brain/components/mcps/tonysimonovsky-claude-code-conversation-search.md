@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-28T01:09:35Z"
 ---
 ## What it is
 MCP server `Claude Code Conversation Search`, catalogued on PulseMCP. Search conversation history across all projects with natural language queries

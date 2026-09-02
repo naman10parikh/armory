@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T13:01:03Z"
 ---
 ## What it is
 MCP server for local-first project memory, enabling AI agents to log, search, and retrieve structured project history, summaries, and per-file dossiers with client-specific configuration and diagnostics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T03:00:34Z"
 ---
 ## What it is
 Enables AI coding agents to visually interact with frontend apps by taking screenshots, clicking elements, reading console logs, and performing visual diffs.

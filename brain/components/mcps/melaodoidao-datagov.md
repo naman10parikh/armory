@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-09T20:45:43Z"
 ---
 ## What it is
 MCP server `Data.gov`, catalogued on PulseMCP. Integrates with Data.gov to enable searching, retrieving, and accessing U.S. government datasets for data-driven analysis and research projects.

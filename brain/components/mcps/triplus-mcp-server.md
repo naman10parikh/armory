@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-23T11:58:06Z"
 ---
 ## What it is
 Comprehensive MCP server for travel information, offering real-time exchange rates, flight search, airport congestion, timezone data, embassy details, and travel alerts.

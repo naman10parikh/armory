@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T10:28:35Z"
 ---
 ## What it is
 An MCP server that provides 118+ Formula 1 analytics tools, enabling race analysis, driver comparisons, telemetry exploration, and strategy simulation through natural language.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-25T14:00:57Z"
 ---
 ## What it is
 MCP server `SiteGuardian`, catalogued on PulseMCP. Website security monitoring with anonymous domain scanning and authenticated compliance tracking.

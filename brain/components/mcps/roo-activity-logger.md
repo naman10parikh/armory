@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-08T02:35:05Z"
 ---
 ## What it is
 MCP server that automatically logs AI coding assistant activities such as command executions and code generation, saving them as JSON files for later search and analysis.

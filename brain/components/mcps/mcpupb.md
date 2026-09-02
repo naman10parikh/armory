@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T14:35:32Z"
 ---
 ## What it is
 MCP server that turns UPB Virtual (Moodle) into a structured knowledge source, enabling AI assistants to query courses, assignments, deadlines, announcements, and sync materials via REST API.

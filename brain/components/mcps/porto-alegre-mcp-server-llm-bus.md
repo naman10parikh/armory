@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-15T17:08:25Z"
 ---
 ## What it is
 Enables natural language queries for Porto Alegre's public transport system, including route planning, stop search, and route information via Claude Desktop or any MCP-compatible client.

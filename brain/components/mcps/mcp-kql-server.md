@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-05-04T11:09:52Z"
 ---
 ## What it is
 MCP server for executing Kusto Query Language (KQL) queries against Azure Data Explorer clusters, integrating with Claude Desktop and VS Code via Azure CLI authentication.

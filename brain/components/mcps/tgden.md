@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T06:07:32Z"
 ---
 ## What it is
 Public Telegram catalog MCP server: search 1.4M+ channels, groups, bots, and posts, and browse marketplace listings, with no auth or API key.

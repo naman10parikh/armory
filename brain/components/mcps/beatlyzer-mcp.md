@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T09:10:23Z"
 ---
 ## What it is
 Enables AI agents to analyze audio files, extracting tempo, key, beat drops, volume surges, high tones, loudness, brightness, and structure, and returning structured JSON and visualizations.

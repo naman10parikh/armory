@@ -8,11 +8,13 @@ source_url: https://github.com/russeell/jobfindsme
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-23T23:49:46Z"
 ---
 ## What it is
 Enables AI agents to discover, filter, and track job openings based on the user's local resume, without uploading data to the cloud.

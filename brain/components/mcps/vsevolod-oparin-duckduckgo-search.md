@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-24T11:16:53Z"
 ---
 ## What it is
 MCP server `DuckDuckGo Search`, catalogued on PulseMCP. Performs web searches, fetches page content, and extracts clean text from HTML with modular pipeline architecture, configurable filtering, and caching.

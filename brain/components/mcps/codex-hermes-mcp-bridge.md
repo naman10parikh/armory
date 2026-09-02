@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:34:06Z"
 ---
 ## What it is
 Provides an isolated MCP bridge giving Codex Hermes-style long-term memory, checkpoints, and optional tools, while keeping Hermes and Codex data read-only and requiring human approval for skill proposals.

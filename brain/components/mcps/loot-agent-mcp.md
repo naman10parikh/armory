@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:52:57Z"
 ---
 ## What it is
 This MCP server enables agents to trade LOOT tokens, play the full loot game loop, and launch their own tokens on Robinhood Chain, all at the same prices and rules as human wallets.

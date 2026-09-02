@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:38:00Z"
 ---
 ## What it is
 Enables querying Portuguese legislation, including statutes, provisions, and EU law implementations, with tools for search, citation validation, and currency checks.

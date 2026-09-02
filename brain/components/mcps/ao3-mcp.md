@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T18:02:57Z"
 ---
 ## What it is
 Model Context Protocol server for Archive of Our Own: search fanfiction and have an AI read and rank fics for you.

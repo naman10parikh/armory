@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T15:23:47Z"
 ---
 ## What it is
 MCP server for managing a personal markdown wiki. Provides search, navigation, read, write, delete, and move tools with automatic index.md management.

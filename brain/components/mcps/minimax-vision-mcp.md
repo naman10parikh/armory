@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T00:31:08Z"
 ---
 ## What it is
 Provides image understanding capabilities by analyzing single or multiple images (local files, URLs, or base64) via MiniMax VL API, complementing text-only models.

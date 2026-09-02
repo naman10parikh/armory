@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-05T11:51:33Z"
 ---
 ## What it is
 MCP server `GitLab`, catalogued on PulseMCP. Integrates with GitLab to enable repository management, file operations, issue tracking, and merge request handling using a TypeScript implementation configured with a personal access token.

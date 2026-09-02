@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T16:35:00Z"
 ---
 ## What it is
 MCP server that gives AI agents xAI Grok video generation — submit a prompt, poll the render, download the clip. Works with OpenCode, Claude Desktop, Cursor, VS Code, and any MCP client.

@@ -8,11 +8,13 @@ source_url: https://github.com/grooverLab/fable
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-10T12:31:43Z"
 ---
 ## What it is
 Enables Claude to search, recall, and remember its own past conversations by indexing them into a local SQLite vault, providing direct access to the full context of previous sessions.

@@ -8,10 +8,12 @@ source_url: https://github.com/greatscottymac/context-portal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 764
+stars: 765
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 78
+pushed_at: "2026-01-27T00:06:16Z"
 ---
 ## What it is
 MCP server `Context Portal`, catalogued on PulseMCP. Database-backed project memory management system that stores decisions, progress tracking, and system patterns in a queryable knowledge graph with vector embeddings for semantic search and comprehensive import/export functionality.

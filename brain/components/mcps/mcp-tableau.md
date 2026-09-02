@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T18:48:23Z"
 ---
 ## What it is
 MCP server that automates the publishing and validation of Tableau workbooks and data sources on Tableau Server or Tableau Cloud, enabling an AI agent to discover, build, validate, and publish content without human intervention.

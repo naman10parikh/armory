@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-02-11T17:23:28Z"
 ---
 ## What it is
 Provides conversational access to Keepa's product and sales data for product research, sales velocity analysis, inventory optimization, and competitive intelligence.

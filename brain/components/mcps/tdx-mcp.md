@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-04-12T13:00:08Z"
 ---
 ## What it is
 基于通达信行情服务器的 MCP Server，为 AI 助手提供实时 A 股、期货、港股等行情数据及技术指标。

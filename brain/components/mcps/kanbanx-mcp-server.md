@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T14:31:24Z"
 ---
 ## What it is
 Enables users to manage a personal Kanban board with tasks, subtasks, notes, and code clips using natural language via the Model Context Protocol.

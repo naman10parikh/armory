@@ -12,6 +12,8 @@ stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-03-07T02:53:22Z"
 ---
 ## What it is
 MCP server `Screenshot Capture`, catalogued on PulseMCP. Lightweight cross-platform screenshot capture server enabling visual context retrieval through automatic JPEG compression and flexible stdio/SSE transport modes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T13:11:45Z"
 ---
 ## What it is
 An MCP server that provides a permission-aware context layer over team tools, enabling AI agents to recall, search, and write to a shared memory graph with ACL-bound retrieval.

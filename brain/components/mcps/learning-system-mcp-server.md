@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T13:47:41Z"
 ---
 ## What it is
 This MCP server provides an AI-driven learning and knowledge management platform that automatically summarizes conversations, manages knowledge graphs, tracks project progress, explores new technologies, and generates study plans through specialized agents.

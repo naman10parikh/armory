@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-04-01T15:19:48Z"
 ---
 ## What it is
 Exposes TP-Link Omada controller APIs to AI copilots, enabling listing of sites, devices, and clients, and executing arbitrary Omada API calls via natural language.

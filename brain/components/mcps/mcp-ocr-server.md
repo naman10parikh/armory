@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-09T02:21:56Z"
 ---
 ## What it is
 High-performance OCR server using native Tesseract (C++) for text extraction from images, integrable with ChatGPT Desktop and other MCP clients.

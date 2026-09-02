@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:59:52Z"
 ---
 ## What it is
 Reference MCP servers that integrate with Autodesk Platform Services, demonstrating various authentication combinations and exposing tools to list projects and folder contents via the Data Management API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T02:35:41Z"
 ---
 ## What it is
 Enables AI assistants to read and write HR Partner company data via the HR Partner API, including employees, leave, expenses, recruitment, and more.

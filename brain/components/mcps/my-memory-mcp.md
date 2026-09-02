@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-07T08:03:45Z"
 ---
 ## What it is
 A MCP server that provides persistent memory for AI assistants, storing personal information, relationships, and observations to enable personalized and contextual conversations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T03:44:21Z"
 ---
 ## What it is
 Captures Genesys Cloud Architect flows and their dependent resources, then generates grounded business and technical documentation as Markdown, PDF, and diagrams from immutable capture bundles.

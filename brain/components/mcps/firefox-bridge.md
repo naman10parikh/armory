@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T09:27:59Z"
 ---
 ## What it is
 Enables MCP-capable CLIs to operate real, already-logged-in Firefox tabs via a WebExtension and native messaging, without simulated input. Supports navigation, clicking, typing, reading, screenshots, and console/network capture with policy gating and frame awareness.

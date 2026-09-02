@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T01:50:33Z"
 ---
 ## What it is
 Enables AI assistants to query cross-organizational best practices, learnings, publishers, and patterns from the OTP network.

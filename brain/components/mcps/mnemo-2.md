@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T19:49:02Z"
 ---
 ## What it is
 A local-first memory server for AI tools that provides cross-tool, consent-gated, and auditable memory management via MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:59:51Z"
 ---
 ## What it is
 A secure local STDIO MCP server that lets OpenAI Codex automate Abaqus FEM workflows: create model scripts, submit jobs, monitor solver logs, and extract ODB results.

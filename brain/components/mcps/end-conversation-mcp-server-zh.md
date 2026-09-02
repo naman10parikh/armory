@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 22
+pushed_at: "2026-04-21T08:42:40Z"
 ---
 ## What it is
 A stateless MCP server that provides an end_conversation tool for AI to leave a timestamped visible record when it wants to signal a desire to end the conversation, under user control.

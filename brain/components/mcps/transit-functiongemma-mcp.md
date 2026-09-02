@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T04:36:49Z"
 ---
 ## What it is
 Generates transit route information by routing user queries to MCP tools using a fine-tuned FunctionGemma model, relying on a fixed API for actual transit data and avoiding natural language generation beyond tool calls.

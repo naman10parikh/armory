@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-09-01T17:33:47Z"
 ---
 ## What it is
 A Home Assistant Custom Component that provides an MCP server using HTTP transport, allowing AI assistants like Claude to interact with your Home Assistant instance.

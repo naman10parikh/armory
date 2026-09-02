@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T08:29:24Z"
 ---
 ## What it is
 MCP server `Gemini Upgrade QA`, catalogued on PulseMCP. Gemini model upgrade evaluation with prompt regression testing, output diffs, and eval receipts.

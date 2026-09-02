@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-11T21:32:55Z"
 ---
 ## What it is
 MCP server `Polarsteps`, catalogued on PulseMCP. Integrates with Polarsteps travel platform to provide user profile data, social connections, travel statistics, detailed trip information, and fuzzy search capabilities for travel analysis and trip planning workflows.

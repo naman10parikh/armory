@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T20:35:38Z"
 ---
 ## What it is
 Mounts MCP servers into Python web apps (ASGI/Workers) with Streamable HTTP transport, session management, and optional OAuth2 authorization.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T16:04:52Z"
 ---
 ## What it is
 Converts OpenAPI specs into curated MCP servers with drastically fewer, clearer tools and an eval harness to measure tool selection accuracy.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T00:14:19Z"
 ---
 ## What it is
 A durable MCP-native job relay that enables agents to dispatch work to each other and wakes a running Claude session via a channel when a job completes, eliminating fragile tmux-based approaches.

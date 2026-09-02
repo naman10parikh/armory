@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T15:23:25Z"
 ---
 ## What it is
 Exposes NCBI PubMed as MCP tools for searching literature, fetching abstracts, exploring citation graphs, and finding author publications without requiring an API key.

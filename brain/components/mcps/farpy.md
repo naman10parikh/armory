@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T06:25:50Z"
 ---
 ## What it is
 Verified GPU compute for Blender rendering with signed receipts and proof.

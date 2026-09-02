@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T22:10:38Z"
 ---
 ## What it is
 MCP server `SEOforGPT`, catalogued on PulseMCP. MCP server for SEOforGPT brand visibility analysis across AI model responses.

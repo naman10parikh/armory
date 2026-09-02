@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:11:10Z"
 ---
 ## What it is
 Enables Claude to interact with local workspace files through MCP, including listing files, summarizing CSV datasets, generating plots, executing Python scripts, and running allowlisted shell commands from a chat interface.

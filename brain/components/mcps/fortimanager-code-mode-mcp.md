@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-05-27T15:03:33Z"
 ---
 ## What it is
 Enables AI agents to interact with Fortinet FortiManager through a minimal MCP interface using sandboxed JavaScript for querying the API spec and executing JSON-RPC calls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T04:50:11Z"
 ---
 ## What it is
 Turns AI assistants into active Technical Project Managers by providing a persistent project brain and workflow tools for onboarding, session management, and code verification.

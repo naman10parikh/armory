@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T09:57:32Z"
 ---
 ## What it is
 A MCP server that provides NOSTR protocol tools for LLM agents, enabling signing, publishing, querying, and encrypted DMs with a defense-in-depth safety stack.

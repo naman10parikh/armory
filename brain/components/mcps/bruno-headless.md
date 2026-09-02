@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T09:15:15Z"
 ---
 ## What it is
 A headless MCP server for Bruno workspaces, enabling CRUD operations on collections, folders, requests, environments, and dotenv files, plus request execution with scripting, tests, and assertions over HTTP, GraphQL, gRPC, and WebSocket.

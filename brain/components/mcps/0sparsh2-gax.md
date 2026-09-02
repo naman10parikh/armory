@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T16:22:42Z"
 ---
 ## What it is
 MCP server `GAX`, catalogued on PulseMCP. Provides a CLI ergonomics framework for AI agents with an MCP bridge adapter and lazy tool discovery.

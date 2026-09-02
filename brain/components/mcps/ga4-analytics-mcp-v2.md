@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T07:22:07Z"
 ---
 ## What it is
 Multi-operator Google Analytics 4 connector for Claude.ai Custom Connectors, hosted on Google Cloud Run, enabling authenticated GA4 reporting, property selection, and metadata queries via MCP tools.

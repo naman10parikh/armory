@@ -12,6 +12,8 @@ stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-01T21:29:10Z"
 ---
 ## What it is
 MCP server `pure.md`, catalogued on PulseMCP. Enables AI access to web content in clean markdown format through unblock-url extraction and search-web capabilities, bypassing anti-bot measures for reliable information retrieval.

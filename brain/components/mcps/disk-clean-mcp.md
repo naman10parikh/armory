@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-07T16:59:42Z"
 ---
 ## What it is
 Enables read-only analysis of local disk usage to identify cleanup targets by size, type, recency, and duplicates.

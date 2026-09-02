@@ -8,10 +8,12 @@ source_url: https://github.com/nodeblue-ai/bridge-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-13T20:13:23Z"
 ---
 ## What it is
 MCP server `Ignition-Studio 5000 Bridge`, catalogued on PulseMCP. Correlates Ignition SCADA OPC tags with Studio 5000 PLC ladder logic to trace signals end-to-end across industrial automation systems.

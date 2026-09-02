@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-16T11:01:17Z"
 ---
 ## What it is
 MCP server `Text Saver`, catalogued on PulseMCP. Securely saves text content to local files with user-specified or timestamp-generated filenames through a simple interface with robust validation and error handling.

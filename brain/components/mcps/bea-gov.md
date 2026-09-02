@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:43:37Z"
 ---
 ## What it is
 MCP server `BEA.gov by Pipeworx`, catalogued on PulseMCP. Access U.S. Bureau of Economic Analysis economic data and statistics via MCP.

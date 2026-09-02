@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T09:33:56Z"
 ---
 ## What it is
 Enables AI agents to manage files on Synology NAS via the File Station API, supporting operations like browsing, searching, uploading/downloading, creating, renaming, copying, moving, deleting, compressing, and extracting.

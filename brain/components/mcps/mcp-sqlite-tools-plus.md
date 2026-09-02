@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T02:40:26Z"
 ---
 ## What it is
 Enables AI agents to interact with local SQLite databases with full CRUD, schema introspection, foreign key relations, generated columns, and multi-format import/export (CSV, JSON, XLSX) through natural language.

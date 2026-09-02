@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-10T01:56:36Z"
 ---
 ## What it is
 MCP server `Korea Tourism API`, catalogued on PulseMCP. Provides access to Korean tourism information through the TOUR API, enabling area code lookup, regional searches, and detailed content about attractions, festivals, and accommodations for travel planning and exploration.

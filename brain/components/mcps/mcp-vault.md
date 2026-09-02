@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T20:53:19Z"
 ---
 ## What it is
 A tiny personal MCP server that stores notes and bookmarks in a single SQLite file and exposes them to Claude through tools for adding, searching, listing, and deleting entries.

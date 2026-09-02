@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T06:08:12Z"
 ---
 ## What it is
 An MCP server that enables Claude to search live job postings, rank them against a user's skills profile, and track application statuses locally.

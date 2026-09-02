@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T13:36:43Z"
 ---
 ## What it is
 An MCP server exposing a registry of paper-backed quantitative trading methods plus a deterministic, no-LLM decision helper for reproducible trading research.

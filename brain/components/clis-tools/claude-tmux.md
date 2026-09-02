@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-esp, omnara]
 tags: [claude-code, alternative-clients]
-stars: 202
+stars: 204
+forks: 27
+pushed_at: "2026-04-17T20:14:31Z"
 ---
 ## What it is
 Manage Claude Code within tmux. A tmux popup of all your Claude Code instances, enabling quick switching, status monitoring, session lifecycle management, with git worktree and pull request support.

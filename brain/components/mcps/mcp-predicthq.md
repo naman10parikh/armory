@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:34:11Z"
 ---
 ## What it is
 Wraps PredictHQ Events API to enable AI agents to query global event data through natural language, part of Pipeworx gateway.

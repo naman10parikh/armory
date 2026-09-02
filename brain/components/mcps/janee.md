@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-03-17T13:00:52Z"
 ---
 ## What it is
 Secrets management MCP server that injects credentials into API requests for AI agents, enforcing policies and logging all activity without exposing raw keys.

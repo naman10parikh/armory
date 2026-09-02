@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T13:40:06Z"
 ---
 ## What it is
 MCP server `PubRecords`, catalogued on PulseMCP. MCP server aggregating US public records from OpenCorporates, SEC EDGAR, federal courts, and government databases for AI agent due diligence workflows.

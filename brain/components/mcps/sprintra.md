@@ -8,10 +8,12 @@ source_url: https://github.com/sprintra-io/sprintra-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T22:54:24Z"
 ---
 ## What it is
 MCP server `Sprintra`, catalogued on PulseMCP. AI-native project management providing persistent memory for coding agents across sessions with 17 MCP tools.

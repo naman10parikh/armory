@@ -8,10 +8,12 @@ source_url: https://github.com/jordyzomer/codeql-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 146
+stars: 150
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2025-03-30T20:35:17Z"
 ---
 ## What it is
 MCP server `CodeQL`, catalogued on PulseMCP. Bridges to the CodeQL static analysis engine for identifying security vulnerabilities and quality issues in codebases through structured query evaluation and result interpretation.

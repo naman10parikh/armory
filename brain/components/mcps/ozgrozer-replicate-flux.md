@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-08T20:20:08Z"
 ---
 ## What it is
 MCP server `Replicate FLUX`, catalogued on PulseMCP. Integrates with Replicate's image generation API to enable fast creation of images from text prompts using the flux-schnell model, with customizable parameters for quality and format.

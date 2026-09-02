@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T12:18:08Z"
 ---
 ## What it is
 Enhanced MCP server for interacting with Salesforce orgs, featuring concurrency safety, error recovery guidance, structured output, smart schema caching, and MCP Resources for AI agents.

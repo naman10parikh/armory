@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T16:04:19Z"
 ---
 ## What it is
 MCP server for the BuyWhere product catalog. Lets Claude Desktop, Cursor, Windsurf, and other MCP-compatible agents search and retrieve products without writing any HTTP code.

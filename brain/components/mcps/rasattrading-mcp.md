@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T13:01:57Z"
 ---
 ## What it is
 A Binance price-action and liquidity-focused MCP server for AI agents, offering 39 tools for market data, analysis, screening, alerts, and order execution with paper-first safety and optional real trading.

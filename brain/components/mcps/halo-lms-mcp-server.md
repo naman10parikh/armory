@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T10:09:09Z"
 ---
 ## What it is
 MCP server that provides access to Grand Canyon University's Halo LMS, enabling AI agents to manage classes, assignments, grades, discussions, announcements, inbox messages, notifications, and user profiles.

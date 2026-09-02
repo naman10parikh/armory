@@ -8,10 +8,12 @@ source_url: https://github.com/funplayai/funplay-unity-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 232
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-08-31T03:19:28Z"
 ---
 ## What it is
 MCP server `FunseaAI Unity`, catalogued on PulseMCP. Bridges the Unity Editor for AI-driven scene inspection and project management.

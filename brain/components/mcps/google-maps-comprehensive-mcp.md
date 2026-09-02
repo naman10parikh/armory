@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-27T07:12:16Z"
 ---
 ## What it is
 Comprehensive MCP server for Google Maps APIs, enabling geocoding, place search and details, distance matrix, elevation, and directions through natural language.

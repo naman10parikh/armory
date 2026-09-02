@@ -8,10 +8,12 @@ source_url: https://github.com/haymon-ai/dbmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-09-01T12:38:44Z"
 ---
 ## What it is
 MCP server `Haymon Database`, catalogued on PulseMCP. Database MCP server supporting MySQL, MariaDB, PostgreSQL, and SQLite.

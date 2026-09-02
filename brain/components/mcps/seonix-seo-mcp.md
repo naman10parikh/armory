@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T21:41:15Z"
 ---
 ## What it is
 Lets any AI agent audit any website for SEO, GEO/AEO, and speed problems, reporting issues and recommendations without modifying the site.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T02:25:06Z"
 ---
 ## What it is
 An automated testing MCP server that converts test cases into a fixed JSON format, runs them case-by-case, and provides a visual report with review support for cases that cannot be automatically judged.

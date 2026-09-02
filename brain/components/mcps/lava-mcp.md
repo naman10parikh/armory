@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:39:53Z"
 ---
 ## What it is
 An MCP server that exposes a LAVA instance to agents, enabling querying the board farm, submitting and managing test jobs, and opening interactive board sessions.

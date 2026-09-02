@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T13:24:27Z"
 ---
 ## What it is
 Enables querying and managing Google Ads campaigns, keywords, assets, and more via natural language, with support for multiple MCP clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:56:59Z"
 ---
 ## What it is
 Provides a unified MCP interface for smart home automation, enabling device discovery, state management, energy optimization, and policy-aware plan validation across multiple home automation protocols.

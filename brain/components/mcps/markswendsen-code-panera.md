@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-17T13:41:16Z"
 ---
 ## What it is
 MCP server `Panera Bread`, catalogued on PulseMCP. Automates Panera Bread ordering through browser automation for menu browsing, order customization, and pickup checkout.

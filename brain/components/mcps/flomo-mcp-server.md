@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T05:40:35Z"
 ---
 ## What it is
 MCP server for flomo that enables AI tools to quickly add notes to your flomo account via the API.

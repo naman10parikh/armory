@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-26T18:14:41Z"
 ---
 ## What it is
 MCP server `Bookmark`, catalogued on PulseMCP. Bookmark management with AI-powered semantic search

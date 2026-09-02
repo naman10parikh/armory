@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T22:25:42Z"
 ---
 ## What it is
 MCP server `ToDoApp`, catalogued on PulseMCP. Manages todo tasks stored in PostgreSQL via a .NET 9 MCP server with Clean Architecture and soft-delete support.

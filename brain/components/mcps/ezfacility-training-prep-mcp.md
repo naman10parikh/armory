@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T20:33:52Z"
 ---
 ## What it is
 Automatically gathers Salesforce deal facts and Gong call transcripts for a given account, compiles them into a training prep checklist, and flags any discrepancies between the data sources.

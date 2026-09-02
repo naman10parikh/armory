@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T12:44:12Z"
 ---
 ## What it is
 Enables retrieval-augmented generation by embedding queries with a chosen provider (e.g., OpenAI) and searching supported vector stores (Pinecone, pgvector) to return relevant content.

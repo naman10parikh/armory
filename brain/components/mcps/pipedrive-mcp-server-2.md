@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-04-06T06:47:11Z"
 ---
 ## What it is
 A comprehensive MCP server for the Pipedrive CRM API, enabling AI assistants to read, write, and analyze CRM data conversationally through 100 tools including performance reporting and loss analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T20:13:40Z"
 ---
 ## What it is
 Enables AI agents to create and manage trackable QR codes (URLs, Wi-Fi, WhatsApp, etc.) via the QR Forge API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T11:20:25Z"
 ---
 ## What it is
 Provides persistent, local-first memory for coding agents with Markdown as the source of truth, exposed via CLI, loopback API, MCP, and Codex hooks for context retrieval and durable writes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-05T18:23:58Z"
 ---
 ## What it is
 Enables AI tools to access and manage MeetGeek meetings, including transcripts, highlights, summaries, and recording uploads.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T15:35:42Z"
 ---
 ## What it is
 An MCP server that lets an LLM answer a pharmacist's question about drug shortages by normalizing drug names, finding pharmacologic alternatives, and checking their shortage status using public FDA and NLM data.

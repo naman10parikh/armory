@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T22:33:55Z"
 ---
 ## What it is
 An MCP server that gives an agent product data, feedback, metrics, sandbox analysis, and gated Jira tickets — so it can investigate drops, write PRDs, and file work with evidence.

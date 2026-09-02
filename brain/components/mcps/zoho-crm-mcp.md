@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T18:58:12Z"
 ---
 ## What it is
 Provides live Zoho CRM data access via MCP tools, enabling queries on modules, records, fields, and related lists without syncing data.

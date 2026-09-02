@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-28T05:57:43Z"
 ---
 ## What it is
 MCP server `Temporal Terraform Orchestrator`, catalogued on PulseMCP. Orchestrates multi-workspace Terraform deployments with Temporal workflows

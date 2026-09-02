@@ -8,10 +8,12 @@ source_url: https://github.com/peakmojo/applescript-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 458
+stars: 462
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 58
+pushed_at: "2026-02-22T03:24:35Z"
 ---
 ## What it is
 MCP server `AppleScript`, catalogued on PulseMCP. Enables AI to execute AppleScript code on macOS systems, providing access to applications and system features like Notes, Calendar, Contacts, Messages, and Finder through a lightweight server implementation.

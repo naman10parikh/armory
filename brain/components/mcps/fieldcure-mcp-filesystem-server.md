@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-25T09:09:19Z"
 ---
 ## What it is
 A secure MCP server that exposes local filesystem operations to AI clients with sandboxed access and runtime directory changes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T04:17:59Z"
 ---
 ## What it is
 Exposes canonical knowledge about DeepSeek FR (models, pricing, FAQ, official links) to MCP-compatible AI clients, enabling querying of site information without API keys.

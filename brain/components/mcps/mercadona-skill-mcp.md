@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-29T11:02:22Z"
 ---
 ## What it is
 Enables personalized Mercadona grocery orders via natural language, with Nutri-Score prioritization and supervised cart execution (no payment). Supports user intake, product search, and integration with external menu systems.

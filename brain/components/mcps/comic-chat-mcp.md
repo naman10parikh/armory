@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T22:11:33Z"
 ---
 ## What it is
 An MCP server that recreates Microsoft Comic Chat (1996) to generate comic strips from conversation summaries, using original character art and deterministic layout, with no LLM calls.

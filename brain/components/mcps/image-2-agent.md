@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T09:44:07Z"
 ---
 ## What it is
 This MCP server enables image generation via Codex CLI and an OpenAI-compatible relay API, with job queue, status polling, and preview/download endpoints. It is a single-user local demo without authentication or persistence.

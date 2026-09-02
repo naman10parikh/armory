@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T12:41:19Z"
 ---
 ## What it is
 A read-only MCP server that lets AI assistants inspect local workspace files, search context, view git diffs, and fetch a fixed GitHub profile, all within a sandboxed stdio transport.

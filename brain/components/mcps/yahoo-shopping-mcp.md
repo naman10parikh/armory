@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T02:11:21Z"
 ---
 ## What it is
 Read-only MCP server for searching Yahoo! Shopping products through the Yahoo! Shopping Item Search API v3. It supports keyword and JAN-code search with price, stock, condition, shipping, sorting, category, brand, seller, image-size, and pagination filters.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T11:25:23Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Peliqan platform, providing access to hundreds of data connectors for reading and writing data in business applications.

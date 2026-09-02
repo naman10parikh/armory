@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-04-06T18:04:30Z"
 ---
 ## What it is
 Enables Claude to analyze local CSV or Parquet files, handling larger datasets without uploading full files.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T07:54:33Z"
 ---
 ## What it is
 Enables assistants to access up-to-date LLM pricing, context windows, and model identifiers, with tools to estimate costs, find cheapest models, and check scheduled price changes.

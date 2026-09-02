@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T06:42:00Z"
 ---
 ## What it is
 MCP server `CLI Anything Hub`, catalogued on PulseMCP. Exposes CLI tools to AI assistants with tool listing, command execution, schema validation, and result receipts.

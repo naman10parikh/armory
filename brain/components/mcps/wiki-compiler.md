@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T06:19:51Z"
 ---
 ## What it is
 Compiles web sources into structured, backlinked wiki pages in an Obsidian-compatible vault and enables querying the knowledge base via MCP.

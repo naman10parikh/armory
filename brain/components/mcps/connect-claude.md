@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T22:39:52Z"
 ---
 ## What it is
 MCP server scaffold that exposes stubbed tools for listing, searching, and summarizing sources, with built-in OAuth 2.1 authorization flow for Claude integration.

@@ -8,10 +8,12 @@ source_url: https://github.com/refinist/lanhu-context-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-07-13T17:00:27Z"
 ---
 ## What it is
 MCP server `Lanhu Context`, catalogued on PulseMCP. Converts Lanhu design files into HTML/CSS with Tailwind classes and design token specifications.

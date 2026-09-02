@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T07:47:01Z"
 ---
 ## What it is
 Enables AI agents to control a Cecotec Conga robot vacuum via 26 tools for state, cleaning modes, settings, timers, and system info.

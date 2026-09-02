@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T06:35:30Z"
 ---
 ## What it is
 A Codex-style MCP server providing 126 tools to operate a Kali Linux machine from ChatGPT or any compatible MCP client, including shell execution, filesystem operations, Git, Docker, browser automation, and security tool wrappers.

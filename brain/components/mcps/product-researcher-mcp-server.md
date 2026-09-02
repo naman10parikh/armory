@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T05:34:02Z"
 ---
 ## What it is
 Enables product research and web search directly from the terminal, with tools for product briefs, comparisons, pricing lookups, alternative discovery, and general web search.

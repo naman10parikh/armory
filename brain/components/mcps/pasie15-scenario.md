@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-23T00:45:42Z"
 ---
 ## What it is
 MCP server `Scenario AI`, catalogued on PulseMCP. Provides a bridge to the Scenario.com API for generating images from text prompts and removing backgrounds from existing images through authenticated access with environment variables.

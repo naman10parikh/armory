@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-30T09:50:11Z"
 ---
 ## What it is
 SEED provides a unified interface to compound AI systems, coordinating between various tools and frameworks to present a single coherent voice.

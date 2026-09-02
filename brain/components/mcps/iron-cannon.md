@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T16:53:53Z"
 ---
 ## What it is
 An MCP-powered compliance copilot for SaaS stacks, enabling structured audit workflows including stack detection, module wiremapping, implementation directives, code verification, and security/infrastructure/legal readiness gates.

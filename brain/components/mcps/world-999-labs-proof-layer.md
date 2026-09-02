@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T23:16:46Z"
 ---
 ## What it is
 MCP server `Proof Layer`, catalogued on PulseMCP. Creates signed, hash-chained provenance receipts for AI agent actions.

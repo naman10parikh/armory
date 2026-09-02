@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-03T07:06:13Z"
 ---
 ## What it is
 An HTTP MCP server providing AI agents with real-time access to all VS Code diagnostics (TypeScript, ESLint, Prettier, etc.) via 5 powerful tools including workspace health scoring.

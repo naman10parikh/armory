@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T11:26:55Z"
 ---
 ## What it is
 MCP plugin that exposes Apple Reminders to a Claude Code agent, enabling creation, listing, completion, and deletion of reminders via tools.

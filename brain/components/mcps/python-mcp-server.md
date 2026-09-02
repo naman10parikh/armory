@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-06T08:52:59Z"
 ---
 ## What it is
 A modular server for managing and registering tools, enabling extensible functionality through tool registration and configuration.

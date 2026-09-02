@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T01:00:55Z"
 ---
 ## What it is
 Turn Claude into an ISO 27001 compliance assistant — controls, risk register, policies, evidence tracking, SoA generation, and full audit workflows in one local encrypted MCP server.

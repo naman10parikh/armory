@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T15:11:52Z"
 ---
 ## What it is
 A remote MCP server that exposes machine resources like filesystem, terminal, camera, and input to AI agents over HTTP, enabling access from anywhere on the network.

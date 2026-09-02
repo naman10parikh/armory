@@ -8,10 +8,12 @@ source_url: https://github.com/rm-rf-prod/groundtruth-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-05T20:20:41Z"
 ---
 ## What it is
 MCP server `GroundTruth`, catalogued on PulseMCP. Live documentation fetcher and code auditor covering 363+ libraries with 100+ security and best-practice audit patterns.

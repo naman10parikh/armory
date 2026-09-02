@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-05T13:53:09Z"
 ---
 ## What it is
 Enables AI agents to search, retrieve, and summarize content from workplace tools including Google Drive, Notion, Slack, and Confluence through secure Model Context Protocol.

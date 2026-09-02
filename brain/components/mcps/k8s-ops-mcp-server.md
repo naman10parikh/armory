@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T18:47:48Z"
 ---
 ## What it is
 Connects Claude Desktop to any Kubernetes cluster, enabling natural language queries for diagnostics and operations such as listing pods, viewing logs, scaling deployments, and more.

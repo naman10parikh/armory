@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-13T02:29:11Z"
 ---
 ## What it is
 MCP server `MySQL Database`, catalogued on PulseMCP. Provides secure MySQL database access through role-based permissions tied to GitHub usernames, enabling standard database operations with SQL injection protection, query validation, and comprehensive audit logging.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-22T05:12:31Z"
 ---
 ## What it is
 Enables AI agents to deploy Power BI reports to Microsoft Fabric by automating data loading from CSV, creating semantic models, and generating report visuals.

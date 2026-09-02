@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T22:57:49Z"
 ---
 ## What it is
 Agent-to-agent reasoning-as-a-service providing structured reasoning, data analysis, decision support, and code/document review via REST API and MCP protocol.

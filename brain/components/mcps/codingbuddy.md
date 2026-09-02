@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-15T13:00:30Z"
 ---
 ## What it is
 A multi-AI MCP server that orchestrates 37 specialist agents across 9 AI tools to measure and improve code quality with session impact reports and quality gates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-15T01:05:53Z"
 ---
 ## What it is
 Enables AI agents to directly manipulate Jupyter Notebook cells and structure through a secure, well-defined API, overcoming Cursor's AI agent mode limitations.

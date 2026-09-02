@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T20:41:11Z"
 ---
 ## What it is
 A read-only breach-intelligence MCP server that checks domain breaches, provides recent breach news, and assesses threat text from public feeds.

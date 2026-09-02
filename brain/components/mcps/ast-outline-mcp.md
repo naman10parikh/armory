@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T19:54:31Z"
 ---
 ## What it is
 Enables AI coding agents to efficiently explore codebases by providing structural outlines, module digests, symbol bodies, and AST-aware grep via MCP.

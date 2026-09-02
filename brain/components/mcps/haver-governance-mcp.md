@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T03:24:29Z"
 ---
 ## What it is
 Provides identity, permission, audit, and recall for healthcare AI agents, with tools for registering agents, checking permissions, recording actions, and verifying audit integrity.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T05:47:45Z"
 ---
 ## What it is
 Enables Claude to send questions via Telegram and receive answers from your phone, bypassing terminal popups.

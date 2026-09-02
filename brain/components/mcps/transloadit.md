@@ -8,10 +8,12 @@ source_url: https://github.com/transloadit/node-sdk
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2026-09-01T10:18:54Z"
 ---
 ## What it is
 MCP server `Transloadit`, catalogued on PulseMCP. Cloud media processing with 86+ robots for video, audio, images, and documents.

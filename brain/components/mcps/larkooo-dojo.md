@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-07T07:45:23Z"
 ---
 ## What it is
 MCP server `Dojo`, catalogued on PulseMCP. Integrates with the Dojo framework to provide customizable tools and prompts for real-time, interactive development environments using Server-Sent Events.

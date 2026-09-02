@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-03T07:13:27Z"
 ---
 ## What it is
 A fully offline MCP server for generating 15 types of SVG charts, including line, bar, pie, and more, without any network dependency.

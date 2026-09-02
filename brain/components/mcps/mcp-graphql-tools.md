@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-03-30T11:45:16Z"
 ---
 ## What it is
 Enables AI assistants to execute GraphQL queries and retrieve schema information from any GraphQL endpoint.

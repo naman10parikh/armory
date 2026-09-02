@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-13T03:11:41Z"
 ---
 ## What it is
 Real-time AI-assisted music production, advanced composition, mixing, and VST coordination for FL Studio via bidirectional MIDI & WebSockets, exposing over 100 tools for comprehensive DAW control.

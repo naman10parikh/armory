@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-09T07:13:18Z"
 ---
 ## What it is
 AI-powered regulatory intelligence for financial services, enabling conversational access to live FCA Register data through natural language queries.

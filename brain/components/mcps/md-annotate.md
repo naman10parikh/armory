@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T12:52:50Z"
 ---
 ## What it is
 A local-first markdown review tool with MCP integration, enabling AI and humans to collaboratively annotate documents inline and generate revision prompts.

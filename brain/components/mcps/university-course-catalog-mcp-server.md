@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T03:14:18Z"
 ---
 ## What it is
 MCP server that exposes a university course catalog to LLMs, enabling course search, prerequisite lookup, instructor details, and department directory through natural language.

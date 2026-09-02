@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T05:51:21Z"
 ---
 ## What it is
 Local-first MCP server for indexing and searching research materials (papers, notes, logs, READMEs) using SQLite FTS, with tools for memory management and evidence retrieval.

@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-15T21:48:58Z"
 ---
 ## What it is
 MCP server `FedRAMP Docs`, catalogued on PulseMCP. Provides access to FedRAMP documentation and compliance data, enabling search through security requirements, control mappings, and guidance documents with specialized functions for tracking Key Security Indicators, Methods and Assessment Standards, and NIST control references.

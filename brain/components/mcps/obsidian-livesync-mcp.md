@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-16T23:01:47Z"
 ---
 ## What it is
 Provides AI agents and LLM tools with direct read/write access to Obsidian LiveSync vaults via CouchDB, including full end-to-end encryption support.

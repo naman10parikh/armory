@@ -8,10 +8,12 @@ source_url: https://github.com/jayarrowz/mcp-osrs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-06-08T11:35:11Z"
 ---
 ## What it is
 MCP server `OSRS Wiki`, catalogued on PulseMCP. Provides tools for accessing Old School RuneScape game data through wiki searches and structured file queries with pagination support

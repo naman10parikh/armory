@@ -8,10 +8,12 @@ source_url: https://github.com/sciscale-studio/agentforge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-28T05:27:57Z"
 ---
 ## What it is
 MCP server `AgentForge`, catalogued on PulseMCP. Transforms rough coding requests into rigorously structured prompts for AI coding agents.

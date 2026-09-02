@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-02T00:40:57Z"
 ---
 ## What it is
 Provides live and historical foreign-exchange rates from the European Central Bank via Frankfurter API, enabling currency conversion, rate lookup, and trend analysis without API keys.

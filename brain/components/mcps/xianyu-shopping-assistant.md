@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T23:56:04Z"
 ---
 ## What it is
 A Codex plugin that enables users to search, compare, and get purchase recommendations for second-hand items on Xianyu through natural language, with features like caching, risk management, and detailed analysis.

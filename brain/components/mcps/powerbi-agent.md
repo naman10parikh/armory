@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:19:38Z"
 ---
 ## What it is
 MCP server enabling AI agents to directly query and manage Power BI datasets, reports, and workspaces via DAX, with built-in data security policies and support for both Power BI Desktop and Service.

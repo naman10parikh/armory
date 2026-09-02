@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-27T22:01:26Z"
 ---
 ## What it is
 MCP server `Deepseek`, catalogued on PulseMCP. Integrates with Deepseek models via a simple API bridge.

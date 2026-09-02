@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-12T22:40:08Z"
 ---
 ## What it is
 MCP server `Databricks`, catalogued on PulseMCP. Provides a bridge between AI and Databricks workspaces, enabling interaction with data catalogs, schemas, tables, and SQL warehouses for direct querying and analysis of Databricks data.

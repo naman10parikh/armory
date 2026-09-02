@@ -8,10 +8,12 @@ source_url: https://github.com/irahulpandey/promptlab
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-04-11T21:20:16Z"
 ---
 ## What it is
 MCP server `PromptLab`, catalogued on PulseMCP. Transforms basic user queries into optimized prompts for AI systems by automatically detecting content type and applying tailored templates from a YAML-based system.

@@ -8,10 +8,12 @@ source_url: https://github.com/openfacet/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-30T02:17:32Z"
 ---
 ## What it is
 MCP server `OpenFacet`, catalogued on PulseMCP. Integrates with OpenFacet.net's diamond market API to provide real-time pricing quotes, market trend analysis through the Diamond Composite Index, and inventory depth data for round and cushion diamonds across various color and clarity combinations.

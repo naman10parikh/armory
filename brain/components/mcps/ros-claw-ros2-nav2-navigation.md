@@ -8,10 +8,12 @@ source_url: https://github.com/ros-claw/rosclaw-nav2-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T23:24:20Z"
 ---
 ## What it is
 MCP server `ROS2 Nav2 Navigation`, catalogued on PulseMCP. Enables LLMs to control autonomous robot navigation via ROS 2 Nav2 with MuJoCo safety validation, semantic waypoints, and multi-robot support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-21T07:09:40Z"
 ---
 ## What it is
 A community-maintained MCP server for interacting with PagerDuty accounts, enabling management of incidents, services, schedules, and event orchestrations through MCP-enabled clients.

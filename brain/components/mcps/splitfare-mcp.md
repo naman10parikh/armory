@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T14:11:41Z"
 ---
 ## What it is
 An MCP server that enables AI agents to find cheap flights through split-ticket routing, trip-shape search, and local event calendars for any destination.

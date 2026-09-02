@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T04:56:14Z"
 ---
 ## What it is
 Enables coordinating specialist agents through an event-driven backend, allowing submission of goals, retrieval of job status and results, and listing of jobs via MCP tools.

@@ -12,6 +12,8 @@ stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-07-03T17:00:06Z"
 ---
 ## What it is
 MCP server `Osmosis Apply`, catalogued on PulseMCP. Provides intelligent code merging capabilities through the Osmosis-Apply-1.7B model via Ollama, enabling targeted edits to existing code while preserving exact formatting and structure using '// ... existing code ...' markers with optional direct file modification.

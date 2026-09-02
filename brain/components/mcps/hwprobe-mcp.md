@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T03:20:29Z"
 ---
 ## What it is
 Hardware probe MCP server that provides deep hardware inventory and live sensor telemetry for AI agents, including CPU, memory, disk, GPU, and sensor data across platforms.

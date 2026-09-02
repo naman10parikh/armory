@@ -8,10 +8,12 @@ source_url: https://github.com/tinyfish-io/agentql-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 171
+stars: 178
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 45
+pushed_at: "2026-08-24T09:06:18Z"
 ---
 ## What it is
 MCP server `AgentQL`, catalogued on PulseMCP. Extracts structured data from web pages based on natural language descriptions, converting website content into JSON format without custom scraping code.

@@ -8,10 +8,12 @@ source_url: https://github.com/hive-academy/anubis-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 123
+stars: 124
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-10-08T13:16:15Z"
 ---
 ## What it is
 MCP server `Anubis`, catalogued on PulseMCP. Orchestrates AI coding workflows through role-based agents that transition between specialized responsibilities (orchestrator, architect, developer, reviewer, integration engineer) with comprehensive task management, dependency tracking, and execution state persistence.

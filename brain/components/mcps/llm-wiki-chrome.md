@@ -8,11 +8,13 @@ source_url: https://github.com/nvk/llm-wiki-chrome
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T16:53:36Z"
 ---
 ## What it is
 MCP server for the LLM Wiki Chrome extension that exposes bounded browser automation tools (shared tabs, accessibility snapshots, screenshots, clicks, typing, etc.) with explicit user consent and strict typing, enabling local agents to interact with specific web pages via a native messaging relay.

@@ -8,10 +8,12 @@ source_url: https://github.com/samuelmoraesf/mcp-organizze
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-18T04:50:14Z"
 ---
 ## What it is
 MCP server `Organizze`, catalogued on PulseMCP. Integration with the Organizze financial management platform for managing bank accounts, transactions, credit cards, categories, and budgets.

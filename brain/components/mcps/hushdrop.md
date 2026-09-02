@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T13:41:39Z"
 ---
 ## What it is
 Enables sharing artifacts (HTML, files, sites) with password protection and custom branding on your own domain, directly from any AI agent.

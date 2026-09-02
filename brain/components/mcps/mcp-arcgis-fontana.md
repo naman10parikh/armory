@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:37:07Z"
 ---
 ## What it is
 Enables searching and querying City of Fontana, California open geospatial data (parcels, zoning, public works) via ArcGIS Feature Services.

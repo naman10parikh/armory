@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T18:53:42Z"
 ---
 ## What it is
 A pixel-accurate visual toolbox MCP server for agents, enabling screen capture, pixel measurement, OCR, template matching, and visual regression with deterministic-first approaches.

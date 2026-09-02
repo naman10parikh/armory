@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T05:14:18Z"
 ---
 ## What it is
 AI-powered route optimization MCP server for heavy vehicles and logistics. Calculate truck-optimized routes, predict traffic congestion with LSTM neural networks, compute toll costs, fuel costs and CO2 emissions, find truck stops and check weather along any European route.

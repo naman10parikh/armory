@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T06:17:46Z"
 ---
 ## What it is
 Analyzes public Instagram post URLs, returning captions and photos as image content for multimodal models like Claude, without requiring paid vision APIs.

@@ -8,10 +8,12 @@ source_url: https://github.com/rgarcia/ynab-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 92
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-07-16T15:33:03Z"
 ---
 ## What it is
 MCP server `YNAB`, catalogued on PulseMCP. Read-only access to YNAB budgets, accounts, categories, payees, and transactions.

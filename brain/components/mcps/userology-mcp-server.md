@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T19:15:15Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Userology UX research platform for creating and managing studies, interview guides, analytics, and more.

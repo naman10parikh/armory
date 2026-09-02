@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T20:55:53Z"
 ---
 ## What it is
 A local MCP server that runs Llama models entirely on your machine. No API keys, no cloud costs, 100% private and offline-capable.

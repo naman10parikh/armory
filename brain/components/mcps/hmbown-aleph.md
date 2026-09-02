@@ -8,10 +8,12 @@ source_url: https://github.com/hmbown/aleph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 203
+stars: 213
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2026-04-11T23:57:39Z"
 ---
 ## What it is
 MCP server `Aleph`, catalogued on PulseMCP. Enables models to process unlimited document sizes by providing recursive self-querying capabilities through sandboxed Python execution with tools for search, chunking, and iterative exploration that overcome traditional context window limitations.

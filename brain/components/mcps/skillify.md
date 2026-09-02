@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 3
+forks: 0
+pushed_at: "2026-07-14T21:45:50Z"
 ---
 ## What it is
 Turns public websites into portable SKILL.md files via MCP using Firecrawl.

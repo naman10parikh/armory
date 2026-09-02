@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T13:28:30Z"
 ---
 ## What it is
 OpenAPI-to-MCP example server generated with MCPForge. Demonstrates how REST APIs can be converted into production-ready MCP servers for Claude, Cursor, Windsurf, and other MCP clients.

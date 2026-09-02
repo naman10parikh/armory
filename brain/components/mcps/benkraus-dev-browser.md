@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-09T21:02:19Z"
 ---
 ## What it is
 MCP server `Dev Browser`, catalogued on PulseMCP. Browser automation through Chrome DevTools Protocol with AI-friendly DOM snapshots, element targeting, and multi-tab management for web testing and automation workflows.

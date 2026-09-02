@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:30Z"
 ---
 ## What it is
 Provides a single MCP tool to query SEFAZ PA DEC Caixa Postal (official Brazilian tax mailbox notifications) with pre-paid credits via HTTP.

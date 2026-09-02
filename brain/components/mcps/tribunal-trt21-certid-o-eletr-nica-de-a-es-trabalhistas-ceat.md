@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:12Z"
 ---
 ## What it is
 Consulta de Certidão Eletrônica de Ações Trabalhistas (CEAT) em fonte oficial do Tribunal TRT21, com ferramenta de leitura que permite verificar dados diretamente.

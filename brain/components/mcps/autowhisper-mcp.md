@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T01:30:42Z"
 ---
 ## What it is
 Drives an AI CMO to add products, generate on-brand content (UGC video, posts, images), approve, and publish across 30+ platforms via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T18:07:13Z"
 ---
 ## What it is
 MCP server for Xray Cloud test management that enables importing automation results and managing tests, test executions, and test sets in Jira.

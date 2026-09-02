@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T00:10:27Z"
 ---
 ## What it is
 MCP server that exposes the Moloni ON GraphQL API to AI clients, providing a curated set of operations as typed and documented tools.

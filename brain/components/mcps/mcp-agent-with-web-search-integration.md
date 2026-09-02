@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-14T03:27:00Z"
 ---
 ## What it is
 Enables interaction with an AI assistant powered by GPT-4o that can answer queries and fetch real-time web search data via Serper API.

@@ -8,10 +8,12 @@ source_url: https://github.com/marsmanleo/marsnme
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-15T00:16:02Z"
 ---
 ## What it is
 MCP server `MarsNMe`, catalogued on PulseMCP. Agent-agnostic memory MCP server that preserves conversation context across sessions for humans and AI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T21:10:05Z"
 ---
 ## What it is
 Enables MCP clients like Claude Desktop to query DEXUN AdWhiz for ad account lists, AI recommendations, savings summaries, recent activity, and API quota, all read-only.

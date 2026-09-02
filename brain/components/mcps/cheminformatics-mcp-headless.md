@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T22:12:53Z"
 ---
 ## What it is
 A self-driving cheminformatics MCP server that dynamically exposes a growing library of RDKit-based molecular analysis tools (fingerprints, descriptors, substructure matching, drug-likeness filters, and more) as MCP tools, with each skill autonomously implemented and tested by an agent loop without 

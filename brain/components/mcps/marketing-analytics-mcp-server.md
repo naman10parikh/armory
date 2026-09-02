@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T01:04:01Z"
 ---
 ## What it is
 Enables natural language querying of marketing analytics across Google Search Console, GA4, Google Ads, HubSpot, and Bing. Provides tools for search queries, traffic, campaign performance, and composite cross-platform rollups.

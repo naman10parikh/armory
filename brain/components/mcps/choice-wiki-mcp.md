@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T16:57:41Z"
 ---
 ## What it is
 Provides Claude with a knowledge base about the Choice restaurant platform, enabling natural language queries about products, pricing, integrations, and features.

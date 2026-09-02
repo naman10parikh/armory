@@ -8,10 +8,12 @@ source_url: https://github.com/temporal-community/durable-async-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-30T22:47:33Z"
 ---
 ## What it is
 MCP server `Temporal Durable MCP`, catalogued on PulseMCP. Demo MCP server showing durable async workflow patterns for invoice processing using Temporal and the MCP Tasks protocol.

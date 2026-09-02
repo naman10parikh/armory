@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-21T11:39:37Z"
 ---
 ## What it is
 Provides real-time weather information for any location using the Open-Meteo API, enabling AI models to query current weather data through the Model Context Protocol.

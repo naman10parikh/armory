@@ -8,10 +8,12 @@ source_url: https://github.com/small-lab-io/usehooks.io
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-23T10:55:31Z"
 ---
 ## What it is
 MCP server `useHooks.io`, catalogued on PulseMCP. Provides access to React hooks from the usehooks.io repository with tools for browsing, searching, and retrieving detailed hook implementations including TypeScript code and usage examples.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T23:49:02Z"
 ---
 ## What it is
 Sends Telegram alerts for Claude Code status updates, including notifications for task completion, user requests, and custom status updates with normal or urgent priority.

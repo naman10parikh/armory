@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:34:23Z"
 ---
 ## What it is
 Enables querying Romanian financial regulation data, including regulations, enforcement actions, and currency checks, directly from AI assistants.

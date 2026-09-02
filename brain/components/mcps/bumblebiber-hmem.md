@@ -8,10 +8,12 @@ source_url: https://github.com/bumblebiber/its-over-9k
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T14:11:46Z"
 ---
 ## What it is
 MCP server `hmem`, catalogued on PulseMCP. Hierarchical persistent memory for AI agents with automatic summarization and context retrieval.

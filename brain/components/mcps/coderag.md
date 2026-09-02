@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T04:07:25Z"
 ---
 ## What it is
 Enables natural-language Q&A over codebases via MCP, using AST-aware chunking, hybrid retrieval, reranking, and call-graph expansion to answer with file:line citations and impact analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T07:40:09Z"
 ---
 ## What it is
 Demonstrates the new stateless MCP protocol on a serverless platform, showing how it survives instance death and cold starts unlike the legacy session-based approach.

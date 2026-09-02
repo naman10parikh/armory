@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T23:36:20Z"
 ---
 ## What it is
 Zero-dependency MCP server and CLI that proxies, inspects, and analyzes JSON-RPC message streams between MCP clients and servers.

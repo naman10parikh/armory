@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-23T14:36:16Z"
 ---
 ## What it is
 Provides web development tools including taking screenshots and listing screens via MCP.

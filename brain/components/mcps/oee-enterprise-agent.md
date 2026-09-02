@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T03:41:08Z"
 ---
 ## What it is
 MCP-based production monitoring agent for manufacturing OEE, providing real-time monitoring, downtime root-cause analysis, and automated alerts through integration with SQL Server, MES APIs, and incident management systems.

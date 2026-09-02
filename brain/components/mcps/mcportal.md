@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T23:49:25Z"
 ---
 ## What it is
 Bridges Korean public data APIs (data.go.kr) into MCP with automatic OpenAPI normalization, quota management, caching, and backoff. Enables natural language interaction with Korean government data through MCP.

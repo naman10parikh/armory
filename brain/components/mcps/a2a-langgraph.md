@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, multiagent-systems]
+forks: 28
+pushed_at: "2025-04-27T10:17:11Z"
 ---
 ## What it is
 A2A implementation using LangGraph

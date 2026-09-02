@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T16:47:27Z"
 ---
 ## What it is
 Automates real estate content creation from a keyword or news article, generating blog posts, YouTube scripts, SNS content, and thumbnail prompts, saved as a markdown file.

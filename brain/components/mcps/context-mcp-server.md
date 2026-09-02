@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T21:23:06Z"
 ---
 ## What it is
 Enables AI agents to browse, trade, and create prediction markets on Context Markets. Supports wallet management, order placement, and market creation through MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T19:46:51Z"
 ---
 ## What it is
 MCP server for Huly project management — enables managing issues, documents, people, and labels through natural language.

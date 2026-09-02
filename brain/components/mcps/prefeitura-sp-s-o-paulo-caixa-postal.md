@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:14Z"
 ---
 ## What it is
 MCP server for consulting the official São Paulo City Hall post office box (Caixa Postal) information via a single read/write tool, using prepaid credits and no platform credentials.

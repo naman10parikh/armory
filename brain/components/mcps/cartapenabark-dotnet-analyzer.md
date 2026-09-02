@@ -8,10 +8,12 @@ source_url: https://github.com/cartapenabark/dotnetanalyzer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T10:43:23Z"
 ---
 ## What it is
 MCP server `DotNet Analyzer`, catalogued on PulseMCP. Deep C# code analysis using Microsoft's Roslyn compiler platform.

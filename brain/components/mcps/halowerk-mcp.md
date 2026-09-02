@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T09:06:13Z"
 ---
 ## What it is
 Provides access to 70 paid APIs as MCP tools with per-call and session budgets, paying via x402/USDC on Base without requiring an account or login. Includes a built-in allowlist of hosts and safe defaults to prevent unintended payments.

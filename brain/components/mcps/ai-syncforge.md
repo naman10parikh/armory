@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-29T07:51:22Z"
 ---
 ## What it is
 A LAN multi-AI collaborative development ecosystem connecting tools like Cursor, Windsurf, and Claude Desktop via MCP for automated Dev-QA-Ops workflows.

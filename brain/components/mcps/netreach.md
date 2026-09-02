@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:05:08Z"
 ---
 ## What it is
 Provides AI agents with read-only access to various public data sources (web, YouTube, RSS, GitHub, V2EX, Bilibili, and semantic search) without requiring any login credentials or API keys.

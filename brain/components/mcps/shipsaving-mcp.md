@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T02:19:47Z"
 ---
 ## What it is
 An MCP server that wraps the ShipSaving logistics REST API, enabling AI assistants like Claude to perform shipping operations through natural language.

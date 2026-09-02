@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T18:49:10Z"
 ---
 ## What it is
 Connects App Store and Google Play keyword data to AI assistants, enabling ASO tasks like rank tracking, keyword analysis, competitor visibility, and top charts through natural language.

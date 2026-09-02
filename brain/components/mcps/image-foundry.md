@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T13:24:54Z"
 ---
 ## What it is
 MCP server for generating and editing images via PackyAPI's gpt-image-2 model, enabling Codex to create and modify images based on prompts.

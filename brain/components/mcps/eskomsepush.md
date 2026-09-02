@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-18T02:52:00Z"
 ---
 ## What it is
 MCP server `EskomSePush`, catalogued on PulseMCP. South African electricity load shedding schedules and status via the EskomSePush API.

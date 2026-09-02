@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T11:38:56Z"
 ---
 ## What it is
 Local Model Context Protocol server that exposes EasyEDA Pro design capabilities as MCP tools, enabling project inspection, schematic editing, PCB design, validation, and manufacturing exports through natural language.

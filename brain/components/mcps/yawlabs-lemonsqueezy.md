@@ -8,10 +8,12 @@ source_url: https://github.com/yawlabs/lemonsqueezy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-23T20:44:27Z"
 ---
 ## What it is
 MCP server `LemonSqueezy`, catalogued on PulseMCP. Manage LemonSqueezy stores, products, subscriptions, and customers through 61 tools with built-in guardrails for safe agentic use.

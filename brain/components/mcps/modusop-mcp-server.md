@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T22:47:26Z"
 ---
 ## What it is
 Acts as a stdio-to-HTTP proxy for Modus Brain, enabling MCP-compatible AI clients to access an organization's knowledge base in ModusOp.

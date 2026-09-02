@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T09:51:39Z"
 ---
 ## What it is
 Hosted MCP server connecting Shopify, Klaviyo, GA4, Meta Ads, Google Ads, Xero, Gorgias and 20+ e-commerce data sources so AI assistants can answer merchant questions that span every source at once.

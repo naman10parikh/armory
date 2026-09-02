@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T18:05:28Z"
 ---
 ## What it is
 MCP server `Oura`, catalogued on PulseMCP. Connects AI assistants to Oura Ring API v2 for sleep, activity, readiness, heart rate, and workout data.

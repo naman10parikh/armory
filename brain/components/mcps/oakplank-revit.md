@@ -8,10 +8,12 @@ source_url: https://github.com/oakplank/revitmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-07-02T18:57:37Z"
 ---
 ## What it is
 MCP server `RevitMCP`, catalogued on PulseMCP. Enables AI to interact directly with Revit models, allowing natural language querying, element creation, and complex model manipulation for architects and engineers.

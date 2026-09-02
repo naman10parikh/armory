@@ -8,11 +8,13 @@ source_url: https://github.com/Vladimir-Human/ru-marketplace-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 71
+stars: 79
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-08-31T10:55:47Z"
 ---
 ## What it is
 MCP server that reads product data from Russian and Chinese marketplaces (Wildberries, Ozon, Yandex Market, Avito, etc.) — prices, availability, ratings, reviews, and seller details — with price comparison across sources. Requires no API keys; some sources use your Chrome session for anti-bot access

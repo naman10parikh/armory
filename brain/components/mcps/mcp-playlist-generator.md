@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-18T07:59:14Z"
 ---
 ## What it is
 Generates .m3u playlists on the user's PC based on their current mood or theme, using metadata from local music files.

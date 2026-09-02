@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-16T11:57:33Z"
 ---
 ## What it is
 MCP server `Japan UX`, catalogued on PulseMCP. Builds web interfaces following Japanese UX conventions with form generation, keigo suggestions, and JP-readiness auditing.

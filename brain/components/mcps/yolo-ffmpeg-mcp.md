@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-06-29T21:40:08Z"
 ---
 ## What it is
 An AI-powered MCP server for intelligent video processing, enabling automated analysis, transition effects, and quality assurance with multi-agent orchestration.

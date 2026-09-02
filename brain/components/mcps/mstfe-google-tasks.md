@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-17T08:25:09Z"
 ---
 ## What it is
 MCP server `Google Tasks`, catalogued on PulseMCP. Integrates with the Google Tasks API to provide structured task management capabilities for creating, listing, updating, and toggling tasks in default lists.

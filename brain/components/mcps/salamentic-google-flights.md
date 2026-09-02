@@ -8,10 +8,12 @@ source_url: https://github.com/salamentic/google-flights-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-03-05T23:42:36Z"
 ---
 ## What it is
 MCP server `Google Flights`, catalogued on PulseMCP. Leverages the fast-flights API to enable advanced flight search and travel planning capabilities, providing tools for searching one-way and round-trip flights, retrieving airport information, and generating travel recommendations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T18:16:19Z"
 ---
 ## What it is
 Template repository for building a WebAssembly component MCP server using wasmCloud.

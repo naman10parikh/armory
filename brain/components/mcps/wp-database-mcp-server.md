@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-30T21:16:11Z"
 ---
 ## What it is
 Read-only MCP server for exploring WordPress MySQL/MariaDB databases. Provides schema inspection, relationship mapping, and safe SQL querying.

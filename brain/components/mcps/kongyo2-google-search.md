@@ -8,10 +8,12 @@ source_url: https://github.com/kongyo2/google-search-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-08T15:06:51Z"
 ---
 ## What it is
 MCP server `Google Search`, catalogued on PulseMCP. Provides Google Search functionality with advanced anti-detection capabilities including rotating user agents, DNS servers, and retry logic to reliably extract search results across different Google layouts and regions.

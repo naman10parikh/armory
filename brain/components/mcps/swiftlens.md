@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-07-17T17:21:01Z"
 ---
 ## What it is
 MCP server that provides semantic-level analysis of Swift codebases to AI agents by integrating with Apple's SourceKit-LSP, enabling compiler-grade code understanding and cross-file navigation.

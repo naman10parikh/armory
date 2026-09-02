@@ -12,6 +12,8 @@ stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-06-01T12:27:46Z"
 ---
 ## What it is
 MCP server `Tool Filter`, catalogued on PulseMCP. Proxy server that filters tools from upstream MCP servers using configurable regex patterns to control which tools are exposed to clients.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-13T12:33:20Z"
 ---
 ## What it is
 MCP server `Slack Agent Team`, catalogued on PulseMCP. Coordinates multi-agent teams via Slack channels with command loops, persona management, approval workflows, and context persistence.

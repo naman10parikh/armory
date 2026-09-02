@@ -8,10 +8,12 @@ source_url: https://github.com/haonanalex/mgmt-paper-skills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 115
+stars: 123
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-05-02T12:17:01Z"
 ---
 ## What it is
 MCP server `Management Research Skills`, catalogued on PulseMCP. Monorepo of MCP servers for Chinese academic research workflows including NSFC data, academic search, and financial data.

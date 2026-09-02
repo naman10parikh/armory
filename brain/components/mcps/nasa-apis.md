@@ -8,10 +8,12 @@ source_url: https://github.com/programcomputer/nasa-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 88
+stars: 92
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-07-04T16:07:35Z"
 ---
 ## What it is
 MCP server `NASA APIs`, catalogued on PulseMCP. Integrates with NASA and JPL APIs to provide access to astronomy images, satellite data, space weather information, Mars rover photos, and more through a unified interface built with TypeScript.

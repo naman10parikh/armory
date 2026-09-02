@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:33:38Z"
 ---
 ## What it is
 A multi-database MCP server that enables LLM agents to safely access MySQL, Oracle, DM, PostgreSQL, and SQLite databases with security features like whitelist, row count pre-check, and audit logging.

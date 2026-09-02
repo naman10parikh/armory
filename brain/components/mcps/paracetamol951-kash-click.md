@@ -8,10 +8,12 @@ source_url: https://github.com/paracetamol951/caisse-enregistreuse-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-25T11:56:56Z"
 ---
 ## What it is
 MCP server `Kash.click`, catalogued on PulseMCP. Integrates with the Kash.click French point-of-sale system to create sales transactions, manage product catalogs and customer data, and configure shop settings including departments, payment methods, and delivery options.

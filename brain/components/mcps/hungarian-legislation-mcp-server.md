@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-27T08:02:17Z"
 ---
 ## What it is
 Query 4,326 Hungarian laws (Ptk., Mt., Btk., etc.) from MCP-compatible clients. Includes full-text search, citation validation, and EU law mapping.

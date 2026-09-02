@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T15:48:52Z"
 ---
 ## What it is
 An MCP server that speaks the Gopher protocol, enabling AI to browse gopherspace, read text files, and search via Veronica-2.

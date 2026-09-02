@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T23:12:59Z"
 ---
 ## What it is
 Connects to GA4, Mixpanel, PostHog and other analytics platforms, providing 9 tools for trend analysis, anomaly detection, funnel analysis, and more via natural language queries.

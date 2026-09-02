@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:28:11Z"
 ---
 ## What it is
 Enables compliance with the UK CQC Single Assessment Framework, including KLOEs, NICE NG5, and DSPT standards.

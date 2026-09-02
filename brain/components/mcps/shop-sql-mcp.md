@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T12:52:33Z"
 ---
 ## What it is
 Provides AI agents read-only analytical access to a SQLite database over stdio, with tools for listing tables, describing schemas, and running paginated SQL queries.

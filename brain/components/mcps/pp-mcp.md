@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-14T14:42:08Z"
 ---
 ## What it is
 A read-only MCP server that provides filtered account and portfolio data from Portfolio Performance .portfolio files to generate reports.

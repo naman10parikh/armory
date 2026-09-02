@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T04:42:18Z"
 ---
 ## What it is
 A privacy-first MCP server for inbox triage, enabling masked email reading, calendar upsert, reply drafting, and Slack digests using Google and Slack credentials.

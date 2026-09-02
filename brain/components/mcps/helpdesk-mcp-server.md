@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T02:20:16Z"
 ---
 ## What it is
 An AI IT support agent that enables natural language interaction with IT helpdesk operations, including knowledge base search, ticket querying, password reset, and escalation, powered by LangGraph and MCP.

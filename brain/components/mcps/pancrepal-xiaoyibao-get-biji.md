@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-02T05:44:33Z"
 ---
 ## What it is
 MCP server `Get Biji`, catalogued on PulseMCP. Integrates with Get Biji API for creating, retrieving, updating, and managing notes within the platform, enabling seamless note-taking workflows and knowledge base management with configurable authentication and topic organization.

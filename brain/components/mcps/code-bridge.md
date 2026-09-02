@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T08:01:10Z"
 ---
 ## What it is
 An MCP server that bridges Claude Desktop with Claude Code, allowing users to delegate tasks to Claude Code directly from Claude Desktop conversations, supporting both synchronous and background execution with session reuse.

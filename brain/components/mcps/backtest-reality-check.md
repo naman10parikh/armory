@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T12:45:00Z"
 ---
 ## What it is
 Checks whether a trading backtest survives its own statistics: deflated Sharpe, multiple-testing correction against a best-of-N-noise benchmark, minimum track record length, and fill realism. Takes no market data and no API keys, and cannot recommend a trade — it only reports that a result is weaker

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T14:44:59Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to interact with Virtuous CRM+ through the entire API, with reads allowed freely and mutating operations requiring explicit user confirmation.

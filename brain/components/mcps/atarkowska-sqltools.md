@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-06T19:30:22Z"
 ---
 ## What it is
 MCP server `FastMCP SQL Tools`, catalogued on PulseMCP. SQL database access with support for PostgreSQL, MySQL, and SQLite

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T07:41:49Z"
 ---
 ## What it is
 MCP server for GoHighLevel API v2 that provides 50+ tools for CRM, billing, marketing, and operations workflows, enabling natural language interaction with contacts, opportunities, conversations, and more.

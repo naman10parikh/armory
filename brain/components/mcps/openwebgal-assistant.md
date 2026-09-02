@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-02T12:21:45Z"
 ---
 ## What it is
 MCP server that automates WebGAL game development tasks such as resource management, script editing, documentation lookup, and AI-powered voice generation using LLMs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:51:43Z"
 ---
 ## What it is
 Enables natural language search and exploration of over 1.15 million museum records from Museums Victoria, including specimens, items, articles, and species, with full-text search and detailed record retrieval.

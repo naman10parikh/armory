@@ -8,11 +8,13 @@ source_url: https://github.com/sweetrb/apple-mail-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 66
+stars: 68
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 24
+pushed_at: "2026-09-01T11:48:22Z"
 ---
 ## What it is
 This MCP server allows AI assistants to read, send, search, and manage emails in Apple Mail on macOS. It uses AppleScript to interact with the Mail app locally.

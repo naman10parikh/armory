@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T20:49:44Z"
 ---
 ## What it is
 MCP server for network-level TLS interception and IoT security testing. Orchestrates mitmproxy and tshark to intercept traffic from devices connecting to a WiFi access point, automatically flagging credentials, API keys, and certificate pinning failures.

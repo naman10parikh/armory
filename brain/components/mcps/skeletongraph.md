@@ -8,11 +8,13 @@ source_url: https://github.com/yashdoke7/skeletongraph
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T06:49:46Z"
 ---
 ## What it is
 Provides function-level structural retrieval for coding agents using tree-sitter, with zero-LLM indexing and MCP serving, enabling exact function localization and cost savings.

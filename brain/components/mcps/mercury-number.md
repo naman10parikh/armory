@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:21:57Z"
 ---
 ## What it is
 Generates random numbers (1-100) with astrological justification based on Mercury's current zodiac position, providing cosmic context for decision-making.

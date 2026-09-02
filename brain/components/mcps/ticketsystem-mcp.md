@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T09:00:57Z"
 ---
 ## What it is
 Enables agents to view and reassign tickets in a fictional German health insurer's case load, with German-language responses and demo-friendly relative dates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T08:23:47Z"
 ---
 ## What it is
 Enables AI tools to remotely control a SIGLENT SDS800X HD series oscilloscope, configure acquisition, capture waveforms, and analyze signal quality safely through high-level SCPI tools.

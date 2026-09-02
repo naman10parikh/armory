@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T22:18:42Z"
 ---
 ## What it is
 Enables AI agents to investigate Splunk exports or live queries using deterministic detectors and an iterative analysis loop, all running locally without data leaving the machine.

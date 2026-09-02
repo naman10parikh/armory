@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T18:23:15Z"
 ---
 ## What it is
 Exposes USC's public course catalog API to AI agents, enabling natural-language queries about courses, GE requirements, schedules, and fees with optional filters for days, times, and open sections.

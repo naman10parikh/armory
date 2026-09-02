@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-27T14:20:56Z"
 ---
 ## What it is
 MCP server `Kloakt`, catalogued on PulseMCP. Lightweight headless browser in Rust for web page extraction and scraping.

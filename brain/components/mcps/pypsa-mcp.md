@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-03-20T03:26:31Z"
 ---
 ## What it is
 PyPSA MCP is a Model Context Protocol (MCP) server for creating, analyzing, and optimizing energy system models using PyPSA (Python for Power System Analysis).

@@ -8,10 +8,12 @@ source_url: https://github.com/artokun/comfyui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 110
+stars: 711
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 109
+pushed_at: "2026-09-02T03:25:35Z"
 ---
 ## What it is
 MCP server `ComfyUI`, catalogued on PulseMCP. MCP server and Claude Code plugin for ComfyUI: run workflows, generate images, and manage models.

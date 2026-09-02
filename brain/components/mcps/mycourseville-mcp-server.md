@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:08:34Z"
 ---
 ## What it is
 Enables an AI agent to access a user's MyCourseVille account to retrieve assignments with deadlines, course materials, released grades, and a feed of what has changed since the last sync.

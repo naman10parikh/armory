@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T17:38:58Z"
 ---
 ## What it is
 Translates natural language requests into official NWS API queries, providing real-time weather data through a FastAPI bridge.

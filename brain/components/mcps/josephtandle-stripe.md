@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T05:40:46Z"
 ---
 ## What it is
 MCP server `Stripe`, catalogued on PulseMCP. Wraps the Stripe payments API with 30+ tools for managing payments, subscriptions, and revenue from AI assistants.

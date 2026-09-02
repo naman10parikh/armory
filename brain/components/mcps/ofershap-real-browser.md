@@ -8,10 +8,12 @@ source_url: https://github.com/ofershap/real-browser-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-31T13:09:32Z"
 ---
 ## What it is
 MCP server `Real Browser`, catalogued on PulseMCP. Connects to the user's actual Chrome browser via extension for real-session automation, inspection, and verification.

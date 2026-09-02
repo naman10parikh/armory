@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-21T15:14:46Z"
 ---
 ## What it is
 MCP server `Rize`, catalogued on PulseMCP. Integrates with Rize.io's automatic time tracking platform to manage clients, projects, and tasks while logging time entries and analyzing productivity data.

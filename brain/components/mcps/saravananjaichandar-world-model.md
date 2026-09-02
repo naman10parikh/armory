@@ -8,10 +8,12 @@ source_url: https://github.com/saravananjaichandar/world-model-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-27T16:21:35Z"
 ---
 ## What it is
 MCP server `World Model`, catalogued on PulseMCP. Temporal knowledge graph for codebases with constraint enforcement at edit boundaries.

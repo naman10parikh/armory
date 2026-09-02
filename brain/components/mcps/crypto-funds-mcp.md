@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-09-25T03:18:43Z"
 ---
 ## What it is
 An MCP server that provides AI agents with structured, real-time data on cryptocurrency investment funds, enabling deeper due diligence and portfolio intelligence.

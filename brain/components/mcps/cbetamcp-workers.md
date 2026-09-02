@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-10T06:59:38Z"
 ---
 ## What it is
 Cloudflare Workers 版 MCP 服务器，提供 CBETA 佛经数据库的搜索与查询工具，支持关键词、典籍、作者等检索功能。

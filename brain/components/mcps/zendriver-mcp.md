@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T13:43:44Z"
 ---
 ## What it is
 Provides undetectable browser automation for LLM agents via MCP, enabling real Chrome interaction with stealth features, DOM accessibility, and DevTools integration.

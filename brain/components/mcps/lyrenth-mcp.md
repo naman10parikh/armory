@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T20:44:24Z"
 ---
 ## What it is
 Read any public web page as a clean AIDocument: Markdown plus title, description, and structure, with navigation and boilerplate stripped. Reads resolve through Lyrenth's shared cache, so it is far fewer tokens than raw HTML and origin-friendly.

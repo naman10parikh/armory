@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T21:57:00Z"
 ---
 ## What it is
 A local MCP server that scans workspaces, detects projects and technologies, and creates reusable agents for planning, rules validation, performance review, and architecture review per project.

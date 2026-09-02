@@ -8,10 +8,12 @@ source_url: https://github.com/tencentcloudbase/cloudbase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1019
+stars: 1090
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 137
+pushed_at: "2026-09-01T16:23:02Z"
 ---
 ## What it is
 MCP server `Tencent CloudBase`, catalogued on PulseMCP. Enables AI systems to deploy, monitor, and manage full-stack applications on Tencent CloudBase through tools for cloud environments, databases, functions, hosting services, and storage resources.

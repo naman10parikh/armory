@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T09:29:48Z"
 ---
 ## What it is
 A composite MCP server for managing products across multiple Korean e-commerce platforms (Naver Smart Store, Coupang, 11번가, Gmarket/Auction), enabling registration, updating, sales pause/resume, and deletion with preview and approval before actual execution.

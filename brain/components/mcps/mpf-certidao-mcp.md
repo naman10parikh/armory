@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:38:37Z"
 ---
 ## What it is
 MCP server that issues Brazilian Federal Public Ministry negative certificates (Certidão MPF) for individuals or companies via CPF/CNPJ, enabling certificate status checks through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-06-28T21:52:42Z"
 ---
 ## What it is
 Provides read-only access to Trading 212 accounts, enabling AI assistants to retrieve portfolio positions, account summaries, instrument data, and transaction history.

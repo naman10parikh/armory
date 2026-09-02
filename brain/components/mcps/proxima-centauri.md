@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T16:45:36Z"
 ---
 ## What it is
 A local development gateway that routes AI queries through browser sessions or API keys, enabling free and private access to frontier LLMs within code editors. It supports multiple providers and includes a self-healing Python agent for multi-agent delegation and cross-session memory.

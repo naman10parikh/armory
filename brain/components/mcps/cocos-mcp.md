@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T15:41:43Z"
 ---
 ## What it is
 Bridge for Cocos Creator 3.8.x enabling code agents to control the editor via 43+ tools for scene manipulation, asset management, UI creation, animation, and more.

@@ -8,10 +8,12 @@ source_url: https://github.com/wallisking1991/outlook-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2025-03-22T07:35:54Z"
 ---
 ## What it is
 MCP server `Outlook Email`, catalogued on PulseMCP. Enables direct access to Microsoft Outlook email functionality for reading, searching, composing, and managing emails without leaving the conversation context.

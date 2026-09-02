@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T19:23:48Z"
 ---
 ## What it is
 Blockchain JSON-RPC on 23 EVM chains for AI agents — Ethereum, Base, Arbitrum, plus young chains like Robinhood Chain, Plasma and Ink. Free reads with no key; heavy methods (eth_getLogs, trace, debug) via a free API key or x402 USDC pay-per-call.

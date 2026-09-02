@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T15:02:12Z"
 ---
 ## What it is
 Enables remote control of a StackChan robot via MQTT and MCP, allowing AI clients to switch its facial expressions and trigger camera photos for visual feedback.

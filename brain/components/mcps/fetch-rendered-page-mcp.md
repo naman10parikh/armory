@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T14:00:57Z"
 ---
 ## What it is
 MCP server that fetches and renders dynamic web pages (SPA) using Chromium, returning content as Markdown or text. It uses lightweight HTTP first with automatic fallback to a browser for JS-heavy sites, and includes SSRF protection, login session support, and batch fetching.

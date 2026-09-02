@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:50:58Z"
 ---
 ## What it is
 A local-first AI secretary that gathers your work context into private memory and enables AI agents to search and summarize it over MCP.

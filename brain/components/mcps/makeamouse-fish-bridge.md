@@ -8,10 +8,12 @@ source_url: https://github.com/makeamouse/fish-bridge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T16:23:52Z"
 ---
 ## What it is
 MCP server `Fish Bridge`, catalogued on PulseMCP. Compresses AI chat sessions into a typed knowledge graph for persistent context management.

@@ -8,11 +8,13 @@ source_url: https://github.com/DdUdle/ctxdebug
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-14T22:56:46Z"
 ---
 ## What it is
 MCP server that connects WinDbg, IDA Pro, and x64dbg to AI assistants for reverse engineering and Windows security research, offering 160+ tools for debugging, analysis, and cross-debugger workflows.

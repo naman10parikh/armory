@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2025-08-27T08:07:05Z"
 ---
 ## What it is
 MCP server providing access to the GNews API for fetching news articles and headlines. Supports search and top headlines with advanced filtering by language, country, category, and date.

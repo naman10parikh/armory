@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T07:55:51Z"
 ---
 ## What it is
 MCP server for the ParalleliX Compute API that lets you offload parallel inference tasks (bulk classify, extract, summarize, etc.) to a distributed network of open-source models.

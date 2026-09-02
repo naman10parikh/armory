@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T23:08:59Z"
 ---
 ## What it is
 Enables AI agents to consume 50+ NVIDIA NIM models including LLMs, image generation, and vision through 10 MCP tools with rich metadata and advanced filtering.

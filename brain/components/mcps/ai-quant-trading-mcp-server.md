@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:11:32Z"
 ---
 ## What it is
 Provides real-time stock data, technical indicators, and market analysis via MCP protocol to enable AI-driven quantitative trading.

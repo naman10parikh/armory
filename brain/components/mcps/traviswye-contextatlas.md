@@ -8,10 +8,12 @@ source_url: https://github.com/traviswye/contextatlas
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-09T19:52:01Z"
 ---
 ## What it is
 MCP server `ContextAtlas`, catalogued on PulseMCP. Pre-computed codebase atlas for Claude Code combining LSP, ADRs, and git for 45-72% token reduction.

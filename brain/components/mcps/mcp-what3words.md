@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:34:59Z"
 ---
 ## What it is
 Converts what3words addresses (e.g., filled.count.soap) to latitude/longitude coordinates and lists supported languages.

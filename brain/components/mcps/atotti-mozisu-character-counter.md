@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-10T04:04:22Z"
 ---
 ## What it is
 MCP server `Mozisu Character Counter`, catalogued on PulseMCP. Provides accurate character counting for text with special handling for multi-byte characters like Japanese text and emojis, returning both total and non-whitespace counts

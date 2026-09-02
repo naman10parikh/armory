@@ -8,11 +8,13 @@ source_url: https://github.com/klimPaskov/hoi4-agent-tools
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T15:59:18Z"
 ---
 ## What it is
 A source-preserving MCP server for coding agents working on Hearts of Iron IV mods, combining focus tree, GUI, and map tools with transaction safety.

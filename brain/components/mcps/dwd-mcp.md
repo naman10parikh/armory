@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-14T18:29:07Z"
 ---
 ## What it is
 Enables access to German weather data from the Deutscher Wetterdienst, including station observations, forecasts, and warnings, through standardized MCP tools.

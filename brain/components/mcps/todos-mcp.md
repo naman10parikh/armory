@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-08T12:48:54Z"
 ---
 ## What it is
 A todo list manager with MCP integration that enables AI assistants to create, read, update, and delete tasks through natural language.

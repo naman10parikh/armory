@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-12T16:54:33Z"
 ---
 ## What it is
 MCP server `Telecom Event Oracle`, catalogued on PulseMCP. Audits telecom routing paths, verifies local number portability, and identifies congestion risks for high-traffic events.

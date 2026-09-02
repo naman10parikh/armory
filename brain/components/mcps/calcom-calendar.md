@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-23T18:56:10Z"
 ---
 ## What it is
 MCP server `Cal.com Calendar`, catalogued on PulseMCP. Integrates with Cal.com Calendar API to enable appointment scheduling, management, and listing capabilities through calendar operation tools with rate limiting and error handling.

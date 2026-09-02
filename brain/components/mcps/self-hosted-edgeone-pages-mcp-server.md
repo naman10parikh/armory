@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-30T04:40:06Z"
 ---
 ## What it is
 Enables AI assistants to deploy and manage static websites through a self-hosted EdgeOne Pages MCP server, with one-click deploy and direct API access.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T17:28:28Z"
 ---
 ## What it is
 MCP server for Angel One SmartAPI. Lets AI clients trade Indian stocks, manage orders and GTT rules, read holdings/positions/funds, fetch quotes/candles/OI/Greeks, and estimate margin/brokerage with TOTP login and built-in safety guards.

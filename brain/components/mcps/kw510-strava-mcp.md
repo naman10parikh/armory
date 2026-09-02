@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 26
+forks: 8
+pushed_at: "2025-04-14T09:23:48Z"
 ---
 ## What it is
 An MCP server for Strava, an app for tracking physical exercise

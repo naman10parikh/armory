@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T21:14:35Z"
 ---
 ## What it is
 Provides Google Maps search, navigation, and travel time estimation alongside Lunch Money financial management, all accessible via a Cloudflare Workers MCP server with OAuth authentication.

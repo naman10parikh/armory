@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T09:06:04Z"
 ---
 ## What it is
 Automatically transcribes Google Chat voice messages using Groq Whisper API, and also supports local audio file transcription.

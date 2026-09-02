@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T15:53:56Z"
 ---
 ## What it is
 MCP server to control Autodesk Navisworks Manage 2025 from Claude via natural language, enabling model inspection, property search, selection sets, and clash detection.

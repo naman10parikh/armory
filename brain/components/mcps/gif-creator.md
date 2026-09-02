@@ -8,10 +8,12 @@ source_url: https://github.com/ananddtyagi/gif-creator-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-06-09T18:41:38Z"
 ---
 ## What it is
 MCP server `GIF Creator`, catalogued on PulseMCP. Converts video files to high-quality GIF animations using FFmpeg with optimized palette generation, customizable FPS and dimensions, and precise time-based segment extraction for creating animated previews and social media content.

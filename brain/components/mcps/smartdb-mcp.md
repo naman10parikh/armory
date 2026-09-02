@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-26T12:21:24Z"
 ---
 ## What it is
 智能数据库查询 MCP 服务，支持在 AI 编程工具中用自然语言查询数据库。

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-13T20:30:58Z"
 ---
 ## What it is
 Enables AI assistants to build Minecraft models, textures, and animations directly inside Blockbench through the Model Context Protocol.

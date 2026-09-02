@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:53Z"
 ---
 ## What it is
 Consult DNIT traffic fines for companies by CNPJ from official source. Provides a read-only tool to query vehicle infractions registered against a CNPJ.

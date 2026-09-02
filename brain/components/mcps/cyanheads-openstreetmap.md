@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/openstreetmap-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T07:32:18Z"
 ---
 ## What it is
 MCP server `OpenStreetMap`, catalogued on PulseMCP. Geocode addresses, reverse geocode coordinates, and run Overpass spatial queries on OpenStreetMap data.

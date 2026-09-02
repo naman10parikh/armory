@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T01:41:20Z"
 ---
 ## What it is
 Enables querying, summarizing, comparing ATPCO fare CSV snapshots and shopping live fares via engine-wrapper-service, all through MCP clients like Claude.

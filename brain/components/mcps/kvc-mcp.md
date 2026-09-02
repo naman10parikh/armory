@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T20:21:29Z"
 ---
 ## What it is
 MCP server for managing Krystal Voice Caller tenants, including tenant config, DNC, call history, reception captures, digest send-now, Script Author draft chat, contact upload, outbound captures, and test-call tools.

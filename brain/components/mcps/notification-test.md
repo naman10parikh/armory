@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-08T21:20:12Z"
 ---
 ## What it is
 Enables testing real-time MCP notifications that appear as VS Code popups, demonstrating standalone log messages.

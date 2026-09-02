@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [agentmoney, harness-rubric, harness-review]
 tags: [eval, benchmark, scoring, harness, cli]
+forks: 0
+pushed_at: "2026-06-10T03:29:08Z"
 ---
 
 ## What it is

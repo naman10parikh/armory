@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-19T17:34:12Z"
 ---
 ## What it is
 MCP server `Document Automation`, catalogued on PulseMCP. Automates codebase analysis and documentation generation for local directories or GitHub repositories, extracting project structure, dependencies, and API endpoints while generating documentation in multiple formats including Markdown, HTML, and RST.

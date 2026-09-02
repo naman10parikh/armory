@@ -8,10 +8,12 @@ source_url: https://github.com/j4th/mtg-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-24T00:54:49Z"
 ---
 ## What it is
 MCP server `Magic: The Gathering`, catalogued on PulseMCP. Unified card search, combo discovery, draft analytics, Commander metagame data, and deck analysis composing Scryfall, Commander Spellbook, 17Lands, EDHREC, and MTGJSON.

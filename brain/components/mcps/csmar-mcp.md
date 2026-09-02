@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-16T06:51:07Z"
 ---
 ## What it is
 Provides CSMAR metadata discovery, query feasibility probing, and local materialization for agent workflows, with caching and rate-limit management.

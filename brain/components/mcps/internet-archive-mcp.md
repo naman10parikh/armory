@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:43:22Z"
 ---
 ## What it is
 Full-coverage MCP server for Internet Archive, enabling search, metadata lookup, collection browsing, and Wayback Machine snapshot retrieval via 13 tools.

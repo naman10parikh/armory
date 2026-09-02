@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T19:24:04Z"
 ---
 ## What it is
 An MCP server for cryptocurrency trading via Freqtrade, enabling trade management, balance checks, strategy configuration, backtesting, and bot lifecycle control from any MCP-compatible AI agent.

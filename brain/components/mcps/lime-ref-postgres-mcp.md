@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T21:22:59Z"
 ---
 ## What it is
 MCP server that provides secure PostgreSQL access with LIME agent identity verification, whitelist-based authorization, and audit events.

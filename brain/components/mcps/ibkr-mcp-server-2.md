@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T04:30:29Z"
 ---
 ## What it is
 Enables interaction with Interactive Brokers through the TWS API for account management, market data, contract resolution, and order placement, with paper trading by default.

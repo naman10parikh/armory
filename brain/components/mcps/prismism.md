@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T12:18:37Z"
 ---
 ## What it is
 MCP server `Prismism`, catalogued on PulseMCP. Upload files and get tracked, shareable links with analytics, email capture, and access control.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T00:46:20Z"
 ---
 ## What it is
 Enables AI assistants to search YouTube, fetch transcripts, and get AI summaries of videos without API keys.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T18:29:32Z"
 ---
 ## What it is
 A scoped MCP server for managing Clockify workspaces, offering read/write tools for clients, projects, tasks, tags, and time entries, with idempotent structure scaffolding and gated deletion.

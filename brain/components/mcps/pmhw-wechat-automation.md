@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-09-15T16:05:33Z"
 ---
 ## What it is
 MCP server `WinAutoWx (WeChat Desktop Automation)`, catalogued on PulseMCP. Automates WeChat desktop application on Windows through UI element interaction, enabling message sending via clipboard-based text handling and process management without requiring official API access.

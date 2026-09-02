@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T21:53:04Z"
 ---
 ## What it is
 Provides a local MCP server for Claude Code to retrieve relevant documentation slices from a repository's auto-generated reference docs using hybrid search (vector + BM25).

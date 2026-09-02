@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T05:15:40Z"
 ---
 ## What it is
 A lightweight Windows automation MCP server that scopes UI operations to a single target window, offering tools like ReadWindow, PeekWindow, Click, Type, Scroll, Screenshot, and App management with reduced token usage compared to full-desktop alternatives.

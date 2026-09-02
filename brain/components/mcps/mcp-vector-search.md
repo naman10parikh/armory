@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-05-21T12:11:34Z"
 ---
 ## What it is
 A CLI-first semantic code search tool with MCP integration for AI assistants, enabling semantic search, AST-aware parsing, and code analysis across 13 languages.

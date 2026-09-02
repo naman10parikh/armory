@@ -8,10 +8,12 @@ source_url: https://github.com/raviolelabs/predmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-10T23:10:30Z"
 ---
 ## What it is
 MCP server `PredMCP`, catalogued on PulseMCP. MCP server for cryptocurrency prediction and trading signals using Polymarket, HIP-4, and Hyperliquid data.

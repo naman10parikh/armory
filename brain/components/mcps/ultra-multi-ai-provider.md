@@ -8,10 +8,12 @@ source_url: https://github.com/realmikechong/ultra-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 273
+stars: 275
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-08-25T20:29:35Z"
 ---
 ## What it is
 MCP server `Ultra (Multi-AI Provider)`, catalogued on PulseMCP. Unified server providing access to OpenAI O3, Google Gemini 2.5 Pro, and Azure OpenAI models with automatic usage tracking, cost estimation, and nine specialized development tools for code analysis, debugging, and documentation generation.

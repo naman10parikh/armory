@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:10:09Z"
 ---
 ## What it is
 MCP server for browsing, searching, and reading Sphinx documentation sites, providing tools to list pages, read content, search text, and list page sections.

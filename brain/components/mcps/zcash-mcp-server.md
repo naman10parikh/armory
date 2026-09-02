@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T13:13:12Z"
 ---
 ## What it is
 Enables AI agents to send and receive private Zcash payments with shielded transactions, balance checks, and encrypted memos.

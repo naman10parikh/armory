@@ -8,11 +8,13 @@ source_url: https://github.com/danieldoderlein/llm-bus
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T13:15:52Z"
 ---
 ## What it is
 MCP server that provides a live coordination layer for AI agents, including attributable handoffs, a shared event ledger, atomic work-claiming, and advisory file leases to prevent collisions.

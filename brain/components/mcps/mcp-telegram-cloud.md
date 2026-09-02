@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T21:52:59Z"
 ---
 ## What it is
 Open source MCP server that connects a Telegram account to AI assistants over OAuth + QR login, enabling read-only and safe state-change operations.

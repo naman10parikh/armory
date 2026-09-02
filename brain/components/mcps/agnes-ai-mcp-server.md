@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-27T17:17:10Z"
 ---
 ## What it is
 Enables text-to-image and text-to-video generation via the Agnes AI API, with support for multiple models, async video generation, and automatic file downloads.

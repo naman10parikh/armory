@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-07T16:48:15Z"
 ---
 ## What it is
 MCP server `Brian`, catalogued on PulseMCP. Retrieves blockchain transaction data from specified addresses using natural language prompts, translating user queries into structured data retrieval with flexible chain and address support.

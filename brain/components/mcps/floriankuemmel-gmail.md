@@ -8,10 +8,12 @@ source_url: https://github.com/floriankuemmel/gmail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-13T08:24:44Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. Read, compose, organize, and export Gmail with 24 tools via secure local OAuth2.

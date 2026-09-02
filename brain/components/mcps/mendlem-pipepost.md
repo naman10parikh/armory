@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
 stars: 5
+forks: 1
+pushed_at: "2026-04-16T21:00:18Z"
 ---
 ## What it is
 Publish from your terminal. Drafts SEO-scored articles, cross-publishes to Dev.to, Ghost, Hashnode, WordPress, and Medium with auto-wired canonical URLs, generates social posts for Twitter/LinkedIn/Reddit/Bluesky/HN, fetches Unsplash cover images, and submits URLs to IndexNow — all as local stdio, no cloud relay.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-07T21:06:21Z"
 ---
 ## What it is
 MCP server `Docs Provider`, catalogued on PulseMCP. Enables AI models to access and query local technical documentation through a stdio-based server that reads from markdown files and exposes a query-docs tool, with automatic configuration for Cursor editor integration.

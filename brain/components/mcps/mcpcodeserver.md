@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-13T07:10:08Z"
 ---
 ## What it is
 Proxy MCP server that translates tool calls into TypeScript code generation, enabling LLMs to orchestrate multi-tool workflows efficiently via code.

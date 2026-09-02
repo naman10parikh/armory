@@ -8,10 +8,12 @@ source_url: https://github.com/stagsz/unconventional-thinking
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-06-05T21:50:36Z"
 ---
 ## What it is
 MCP server `Unconventional Thinking`, catalogued on PulseMCP. Integrates unconventional ideation techniques to facilitate structured brainstorming and creative problem-solving sessions.

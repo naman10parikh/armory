@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T16:12:01Z"
 ---
 ## What it is
 Task Orchestrator MCP is a task orchestration server that helps AI agents execute complex workflows with proper dependency management. It enables structured task execution, automatic dependency resolution, retry logic, and persistent storage for tracking progress over time.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:29:25Z"
 ---
 ## What it is
 Enables AI trading agents to trade safely through any broker MCP server by recording every tool call and reasoning in a local blackbox, while enforing configurable guardrails such as symbol whitelists, order size caps, rate limits, and daily-loss circuit breakers before orders reach the exchange.

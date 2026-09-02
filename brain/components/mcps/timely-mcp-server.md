@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T03:31:22Z"
 ---
 ## What it is
 Exposes the Timely.mn v3 time-attendance API as MCP tools for Claude and other clients, allowing queries for company-wide attendance, employee profiles, and attendance reports.

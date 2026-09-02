@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T08:28:22Z"
 ---
 ## What it is
 Exposes Vadoo AI APIs (video generation, captions, clips, podcasts, etc.) as MCP tools for use with Claude, Cursor, and ChatGPT.

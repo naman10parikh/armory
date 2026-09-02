@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-23T04:40:29Z"
 ---
 ## What it is
 MCP server `ArgoCD`, catalogued on PulseMCP. Integrates with ArgoCD to enable natural language control of Kubernetes application deployments through a Python-based bridge that supports GitOps workflows.

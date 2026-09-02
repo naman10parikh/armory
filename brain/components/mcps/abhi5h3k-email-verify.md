@@ -8,10 +8,12 @@ source_url: https://github.com/abhi5h3k/mcp-email-verify
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-23T06:31:14Z"
 ---
 ## What it is
 MCP server `Email Validator`, catalogued on PulseMCP. Validates email addresses through Abstract API, checking format, deliverability, and identifying disposable or role-based addresses to reduce bounces and prevent fake signups.

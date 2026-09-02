@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T16:23:25Z"
 ---
 ## What it is
 Enables English language practice by silently logging messages and providing reports on recurring grammar patterns without interrupting conversation.

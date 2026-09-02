@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T04:53:54Z"
 ---
 ## What it is
 Enables AI assistants to scan and analyze nearby Wi-Fi networks for security vulnerabilities, control an ESP32-CYD device's display and RGB LED, and receive real-time threat alerts via USB serial communication.

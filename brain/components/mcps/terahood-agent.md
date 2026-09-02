@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T14:41:43Z"
 ---
 ## What it is
 Enables agents to purchase and use compute resources on Robinhood Chain via x402 payments. Provides tools for thinking, renting GPUs, checking balances, and viewing the compute menu.

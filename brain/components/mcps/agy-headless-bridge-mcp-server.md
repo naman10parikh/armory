@@ -8,11 +8,13 @@ source_url: https://github.com/rhishi99/agy-headless-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-15T13:51:21Z"
 ---
 ## What it is
 Enables calling Google's Antigravity CLI (agy) headlessly through MCP, providing tools like agy_ask and agy_research for agents like Claude Code.

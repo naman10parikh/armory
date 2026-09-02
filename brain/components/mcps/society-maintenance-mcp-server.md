@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T09:39:45Z"
 ---
 ## What it is
 Enables querying society maintenance and expense data from Excel files via natural language, providing tools to check pending payments, balance sheets, expense summaries, and flat histories.

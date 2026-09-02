@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T03:53:49Z"
 ---
 ## What it is
 MCP server that enables AI coding assistants to audit repositories against engineering rules, generating self-contained HTML reports with citations and optional GitHub issue filing.

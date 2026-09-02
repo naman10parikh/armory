@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T07:31:24Z"
 ---
 ## What it is
 MCP server for Microsoft Forms automation, enabling AI agents to inspect forms, resolve branching, validate and submit answers, upload files, and manage response links.

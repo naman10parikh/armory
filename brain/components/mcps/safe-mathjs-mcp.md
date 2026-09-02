@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T15:01:02Z"
 ---
 ## What it is
 Safe MCP server for math operations: evaluate, simplify, and differentiate expressions with configurable precision, using a sandboxed worker thread and strict AST allowlist to block dangerous input.

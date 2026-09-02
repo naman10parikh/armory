@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-04-15T13:37:23Z"
 ---
 ## What it is
 Retrieves architectural information from ArchiMate models, enabling AI coding assistants to access architectural context during the software development lifecycle. Supports search and retrieval of views and elements in markdown, JSON, or YAML.

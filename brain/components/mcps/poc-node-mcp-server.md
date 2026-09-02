@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-19T16:21:06Z"
 ---
 ## What it is
 A proof-of-concept MCP server for learning and testing, providing basic arithmetic and weather tools, along with greeting and user profile resources.

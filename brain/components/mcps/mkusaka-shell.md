@@ -8,10 +8,12 @@ source_url: https://github.com/mkusaka/mcp-shell-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-20T12:50:43Z"
 ---
 ## What it is
 MCP server `Shell Command Executor`, catalogued on PulseMCP. Provides a secure bridge for executing shell commands on the host system with automatic environment detection, supporting multiple shells across different operating systems.

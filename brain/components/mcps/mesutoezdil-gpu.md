@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-03T13:54:47Z"
 ---
 ## What it is
 MCP server `GPU Server`, catalogued on PulseMCP. Monitors GPU metrics via nvidia-smi including VRAM usage, utilization, and temperature.

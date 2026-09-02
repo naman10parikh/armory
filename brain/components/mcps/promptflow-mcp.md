@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T19:22:42Z"
 ---
 ## What it is
 A Model Context Protocol server for prompt template management, enabling storage, versioning, search, and rendering of prompt templates via MCP tools.

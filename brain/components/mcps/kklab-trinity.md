@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-11T03:17:09Z"
 ---
 ## What it is
 MCP server `Trinity`, catalogued on PulseMCP. Bridges AI systems with Trinity's formula-based tools through a Go-based server that enables access to Trinity API capabilities via JSON-RPC interface

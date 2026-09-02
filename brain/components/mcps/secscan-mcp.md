@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T07:22:41Z"
 ---
 ## What it is
 MCP server for Cursor that scans codebases for security issues including hardcoded secrets, SAST, vulnerable dependencies, and IaC misconfigurations.

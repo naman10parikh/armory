@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-12T23:16:31Z"
 ---
 ## What it is
 MCP server `Ramp`, catalogued on PulseMCP. Integrates with Ramp's API to enable credit card transaction querying and spend management data access for financial tracking and analysis workflows.

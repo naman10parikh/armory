@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 4
+forks: 4
+pushed_at: "2026-05-11T14:39:49Z"
 ---
 ## What it is
 MCP server that connects Claude to Bitrix24 — CRM, tasks, disk, calendar, chat, business processes, telephony and product catalog. Built by [Bit2Beat](https://bit2beat.com).

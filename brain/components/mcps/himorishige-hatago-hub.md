@@ -8,10 +8,12 @@ source_url: https://github.com/himorishige/hatago-mcp-hub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-09-14T15:08:57Z"
 ---
 ## What it is
 MCP server `Hatago Hub`, catalogued on PulseMCP. Lightweight hub for unified management of multiple MCP servers

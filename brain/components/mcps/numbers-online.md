@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T14:40:18Z"
 ---
 ## What it is
 Provides phone intelligence for AI voice agents, enabling inbound caller identification, outbound risk assessment, line type detection, and do-not-contact checks via four read-only MCP tools.

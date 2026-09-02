@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T22:47:02Z"
 ---
 ## What it is
 This MCP server starter template enables developers to quickly build production-ready MCP servers with Streamable HTTP, stateless design, and OAuth 2.1 authorization. It provides a structured, capability-based architecture with Postgres audit logging and centralized scope enforcement.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-29T20:29:04Z"
 ---
 ## What it is
 MCP server `eToro`, catalogued on PulseMCP. Connect to your eToro account for portfolio analysis, market research, and trading via AI agents.

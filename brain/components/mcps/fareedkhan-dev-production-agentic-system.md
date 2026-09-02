@@ -8,10 +8,12 @@ source_url: https://github.com/fareedkhan-dev/production-grade-mcp-agentic-syste
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-04-19T05:18:44Z"
 ---
 ## What it is
 MCP server `Production Agentic System`, catalogued on PulseMCP. Production-grade MCP server reference architecture with multi-tenancy, OAuth 2.1, OpenTelemetry, and a four-agent support copilot.

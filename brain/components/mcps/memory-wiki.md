@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T11:46:20Z"
 ---
 ## What it is
 A persistent personal memory system for Claude that accumulates and organizes knowledge over time using plain Markdown in a local git repo, providing tools for reading, searching, and capturing short-term memories.

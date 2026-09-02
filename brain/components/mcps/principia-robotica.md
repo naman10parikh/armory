@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:44:39Z"
 ---
 ## What it is
 World-first unified MCP gateway + Control Barrier Function (CBF-QP) safety engine for agentic robotics, enabling LLMs to control physical robots with mathematically proven safety.

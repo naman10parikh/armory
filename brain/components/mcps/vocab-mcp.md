@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T06:52:04Z"
 ---
 ## What it is
 A vocabulary-bank MCP server that allows users to collect unfamiliar words, organize them into decks, review with spaced repetition, and enrich with definitions and pronunciation, all stored locally.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T23:27:52Z"
 ---
 ## What it is
 Enables safe coordination of Herdr coding agents with lease-scoped reviewer and writer lifecycles, semantic waits for agent states, and read-only topology inspection, while prohibiting arbitrary shell execution and unscoped lifecycle operations.

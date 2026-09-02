@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T18:14:46Z"
 ---
 ## What it is
 Enforces brand writing guidelines in Claude Code by analyzing Markdown files for violations and offering on-demand readability analysis and automated term fixes through MCP tools.

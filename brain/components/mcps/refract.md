@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T17:47:11Z"
 ---
 ## What it is
 MCP proxy that compresses tool schemas on the fly. Up to 98% token reduction, 100% signal preserved verified after every compression. Zero LLM calls, fully deterministic.

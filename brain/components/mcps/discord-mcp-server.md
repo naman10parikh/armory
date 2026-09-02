@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-20T20:05:52Z"
 ---
 ## What it is
 Lets any MCP-compatible AI client interact with Discord — send messages, manage channels, create webhooks, assign roles, and more.

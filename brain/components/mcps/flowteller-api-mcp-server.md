@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T08:08:41Z"
 ---
 ## What it is
 Enables AI clients to search trips, find locations, and manage bookings through the Flowteller backend.

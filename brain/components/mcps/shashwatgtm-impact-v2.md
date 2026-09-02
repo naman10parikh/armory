@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-17T14:11:27Z"
 ---
 ## What it is
 MCP server `IMPACT Framework v2`, catalogued on PulseMCP. Hypothesis-driven B2B positioning engine with strategic tools for identifying buyer champions, mapping competitive alternatives, and crafting go-to-market messaging.

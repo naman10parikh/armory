@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T20:27:50Z"
 ---
 ## What it is
 MCP server connecting AI assistants to Havona trade finance API for managing trade contracts, checking blockchain status, and extracting document fields.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T11:25:48Z"
 ---
 ## What it is
 Provides specialist context for AI agents, enabling them to work as different roles (UI, DE, SRE, etc.) through MCP prompts and tools.

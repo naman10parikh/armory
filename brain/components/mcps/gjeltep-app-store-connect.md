@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-05T21:26:36Z"
 ---
 ## What it is
 MCP server `App Store Connect`, catalogued on PulseMCP. Interact with Apple's App Store Connect API

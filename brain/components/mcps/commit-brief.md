@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T12:43:11Z"
 ---
 ## What it is
 MCP server that turns git commit history into concise standup summaries, exposing tools to summarize and list commits with filters like repo, author, and time range.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T12:14:43Z"
 ---
 ## What it is
 Forwards normalized MCP tools to Codex or Claude Code for agentic coding tasks like starting new sessions, continuing existing ones, and checking status.

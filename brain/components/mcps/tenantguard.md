@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T15:45:44Z"
 ---
 ## What it is
 Scans self-hosted, multi-tenant AI-agent platforms for tenant-isolation gaps. Native Go MCP server exposing a scan tool that wraps the CLI's audit engine.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-05T03:31:42Z"
 ---
 ## What it is
 MCP server `NanoCrawl`, catalogued on PulseMCP. MCP server giving AI agents a wallet to pay for web content using USDC via the x402 payment protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T11:50:34Z"
 ---
 ## What it is
 Provides local MCP access to registered Obsidian vaults, enabling Markdown note operations like reading, writing, searching, and managing notes via tools for Codex and ChatGPT Desktop.

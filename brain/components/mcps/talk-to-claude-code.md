@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T21:45:08Z"
 ---
 ## What it is
 MCP server that lets you drive Claude Code sessions hands-free by voice from any MCP client, enabling remote models to send prompts, monitor progress, and get results read back.

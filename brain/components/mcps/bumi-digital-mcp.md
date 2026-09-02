@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:18:14Z"
 ---
 ## What it is
 MCP server for Bumi Digital that enables AI image, video, and audio generation and upscaling directly from MCP-compatible assistants like Claude Desktop and Cursor.

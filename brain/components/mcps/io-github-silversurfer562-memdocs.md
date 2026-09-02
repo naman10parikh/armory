@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-08T18:12:50Z"
 ---
 ## What it is
 Provides persistent, project-specific memory to AI assistants via the Model Context Protocol, enabling context-aware collaboration across sessions without cloud dependencies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T16:53:16Z"
 ---
 ## What it is
 Reads website pages and generates one cohesive image per page, with no text and no recognizable human faces.

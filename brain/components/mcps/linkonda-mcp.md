@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T09:35:24Z"
 ---
 ## What it is
 MCP server for creating and managing Linkonda short links, supporting anonymous use without an API key and full link management with a key, while collecting only total redirect counts for privacy.

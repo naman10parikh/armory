@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T05:01:31Z"
 ---
 ## What it is
 MCP server that provides access to screener.in financial data for Indian stocks, enabling queries for company info, financials, ratios, quarterly results, shareholding, and stock screening.

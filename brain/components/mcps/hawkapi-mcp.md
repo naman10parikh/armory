@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T12:55:30Z"
 ---
 ## What it is
 Auto-exports HawkAPI routes as MCP tools, allowing any MCP-compatible client to call your API.

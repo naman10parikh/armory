@@ -8,10 +8,12 @@ source_url: https://github.com/mintmcp/servers
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-10T04:29:55Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. Enterprise-grade Gmail integration with governance controls and OAuth authentication

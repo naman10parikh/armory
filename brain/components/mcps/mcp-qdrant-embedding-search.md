@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T16:28:08Z"
 ---
 ## What it is
 MCP server that searches documents in Qdrant using embeddings from LMStudio. Takes a text query, converts it to a vector via LMStudio's OpenAI-compatible API, and performs semantic search in Qdrant.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T08:58:00Z"
 ---
 ## What it is
 Exposes a Bitvavo crypto exchange account as read-only tools for Claude, allowing portfolio queries, trade history, and market data without enabling trading.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T17:19:12Z"
 ---
 ## What it is
 Provides tarot reading capabilities including drawing spreads, looking up card interpretations, listing cards, and retrieving reading history for LLM integration.

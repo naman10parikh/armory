@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T09:04:48Z"
 ---
 ## What it is
 MCP server that mirrors your Garmin data into a personal database and exposes tools for health summaries, training load, muscle readiness, and race analysis, with optional chat-driven insights via stdio or HTTP.

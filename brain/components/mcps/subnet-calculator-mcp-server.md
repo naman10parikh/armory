@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-16T21:38:42Z"
 ---
 ## What it is
 Enables subnet calculations from CIDR notation, providing network address, broadcast address, netmask, wildcard mask, usable host range, and number of usable hosts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T22:46:20Z"
 ---
 ## What it is
 An MCP server that lets Claude spawn Cursor subagents as async, bounded workers, enabling non-blocking task delegation with asynchronous completion notifications.

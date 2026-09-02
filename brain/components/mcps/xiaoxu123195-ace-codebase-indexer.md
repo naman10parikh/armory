@@ -8,10 +8,12 @@ source_url: https://github.com/xiaoxu123195/ace-mcp-go
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-16T13:53:11Z"
 ---
 ## What it is
 MCP server `Ace Codebase Indexer`, catalogued on PulseMCP. High-performance codebase indexing server that automatically processes project files with concurrent chunking and SHA-256 deduplication to enable intelligent semantic search and code retrieval through natural language queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T13:09:30Z"
 ---
 ## What it is
 MCP server that lets AI assistants read and query Dwarf Fortress world legends: search events, objects, and properties, or read summaries and base rates to distinguish real patterns from common traits.

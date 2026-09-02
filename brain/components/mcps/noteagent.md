@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T05:37:22Z"
 ---
 ## What it is
 Connects AI coding agents to Apple Notes, enabling note management, code snippet capture, and developer workflow logging directly from the terminal.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T21:51:15Z"
 ---
 ## What it is
 MCP server `Cannabis Regulatory`, catalogued on PulseMCP. Free cannabis compliance server covering US state testing standards, INCB narcotics data, Health Canada regulations, and EU precursor controls.

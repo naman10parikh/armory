@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 44
+pushed_at: "2026-03-13T14:56:08Z"
 ---
 ## What it is
 Enables AI assistants to search for jobs across multiple platforms (Indeed, LinkedIn, Glassdoor, etc.) using the JobSpy tool, with filtering and structured output.

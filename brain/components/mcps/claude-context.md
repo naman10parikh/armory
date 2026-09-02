@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T06:15:52Z"
 ---
 ## What it is
 Enables Claude to index and retrieve context from codebases using self-hosted Milvus for semantic search, with hardened reliability and security for production use.

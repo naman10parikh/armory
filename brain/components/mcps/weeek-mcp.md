@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T22:09:13Z"
 ---
 ## What it is
 MCP server for WEEEK Public API v1 enabling management of tasks, projects, boards, tags, custom fields, time tracking, and CRM entities.

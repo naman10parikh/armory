@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T08:20:38Z"
 ---
 ## What it is
 Exposes a connected-vehicle OBD-II/telematics platform to AI agents, enabling vehicle health scoring, live data queries, DTC decoding, maintenance prediction, and gated remote commands via a pluggable data layer.

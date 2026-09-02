@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T12:15:45Z"
 ---
 ## What it is
 Enables querying and modifying ArchiMate enterprise architecture models from XML or Archi Tool files via REST API and MCP server, supporting multiple simultaneous data sources.

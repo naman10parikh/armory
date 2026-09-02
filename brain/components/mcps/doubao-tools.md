@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T08:01:09Z"
 ---
 ## What it is
 一个MCP视觉分析工具，将本地图片交给豆包视觉模型分析，帮助Claude Code和DeepSeek理解截图内容。

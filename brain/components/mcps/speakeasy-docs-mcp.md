@@ -8,11 +8,13 @@ source_url: https://github.com/speakeasy-api/docs-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-31T18:22:42Z"
 ---
 ## What it is
 A lightweight, domain-agnostic hybrid search engine for markdown corpora, exposed via the Model Context Protocol (MCP), optimized for serving SDK documentation to AI coding agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:30:27Z"
 ---
 ## What it is
 An autonomous MCP server that fetches datasets from IPFS/Filecoin, performs computation (anomaly detection, statistics, data quality scoring), and stores results via Multi-Chain Storage simulation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T11:11:51Z"
 ---
 ## What it is
 A Windows-native WeChat bridge that connects WeChat to multiple MCP clients (Web Chat, Codex, Claude Desktop, etc.) for bidirectional text, image, and file transfer without requiring OpenClaw.

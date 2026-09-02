@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T23:02:40Z"
 ---
 ## What it is
 MCP server `Outlook`, catalogued on PulseMCP. Searches and analyzes Outlook emails via Windows COM automation with shared mailbox and AdvancedSearch support.

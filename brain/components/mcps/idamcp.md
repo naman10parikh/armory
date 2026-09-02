@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T05:50:12Z"
 ---
 ## What it is
 Enables AI tools to execute IDA Python code inside IDA Pro for reverse engineering tasks via MCP over SSE.

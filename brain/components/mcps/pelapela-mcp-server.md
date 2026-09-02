@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T09:10:50Z"
 ---
 ## What it is
 Provides translation tuning by adjusting model output for naturalness, tone, and script per language pair, supporting en-jp and en-es.

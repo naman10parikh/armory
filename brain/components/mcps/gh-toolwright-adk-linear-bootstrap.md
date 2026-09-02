@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-10T21:17:56Z"
 ---
 ## What it is
 MCP server `Linear Bootstrap`, catalogued on PulseMCP. Bootstrap Linear projects from natural language with milestones, epics, issues, and dependency graphs.

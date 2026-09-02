@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:26Z"
 ---
 ## What it is
 Consulta resumida em fonte oficial do INPI sobre processos de registro de marca via uma ferramenta de leitura, com pagamento pré-pago por uso.

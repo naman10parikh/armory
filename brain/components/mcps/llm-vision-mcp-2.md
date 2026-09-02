@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-03T10:53:30Z"
 ---
 ## What it is
 Provides vision capabilities to text-only LLMs by analyzing image files via Qwen-VL and returning textual descriptions, with support for OCR, UI analysis, diagram/chart understanding, and code extraction through MCP stdio.

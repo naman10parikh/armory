@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-08T01:36:36Z"
 ---
 ## What it is
 MCP server `ComfyUI`, catalogued on PulseMCP. Controls a local ComfyUI instance for text-to-image generation, variations, refinement, and upscaling.

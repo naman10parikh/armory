@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-06T15:44:52Z"
 ---
 ## What it is
 Provides unified access to Deutsche Bahn APIs for real-time railway data, station information, timetables, disruptions, parking, and accessibility services.

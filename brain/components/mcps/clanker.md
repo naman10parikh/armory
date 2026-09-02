@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T13:59:46Z"
 ---
 ## What it is
 MCP server for running external coding agents as background tasks inside Claude Code. Supports multiple backends including Codex, Grok, GLM, DeepSeek, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T16:25:01Z"
 ---
 ## What it is
 Lets Codex inspect a live macOS AppKit interface through a debug-only bridge, without Accessibility or Screen Recording permissions, and maps clicks to NSViews with hierarchy and geometry details.

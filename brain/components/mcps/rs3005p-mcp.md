@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T14:45:47Z"
 ---
 ## What it is
 An MCP server that lets AI agents control an RS PRO RS-3005P/RS-6005P programmable DC power supply over USB/RS232, enabling voltage/current control, measurements, output switching, and memory operations.

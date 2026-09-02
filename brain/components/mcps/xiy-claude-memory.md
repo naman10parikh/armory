@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-07T19:58:49Z"
 ---
 ## What it is
 MCP server `Claude Memory`, catalogued on PulseMCP. Provides persistent memory storage across conversations using SQLite database with full-text search and optional semantic search through Ollama embeddings, enabling context retention and knowledge accumulation with automatic memory capture capabilities.

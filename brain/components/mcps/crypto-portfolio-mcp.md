@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T08:11:51Z"
 ---
 ## What it is
 Tracks multi-exchange cryptocurrency portfolio P\&L by storing holdings and providing live price data.

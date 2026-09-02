@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:40:30Z"
 ---
 ## What it is
 Enables users to check names against the ICIJ Offshore Leaks database for compliance and AML due diligence. Provides a single read-only tool accessible via MCP over HTTP.

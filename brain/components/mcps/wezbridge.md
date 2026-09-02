@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:35:45Z"
 ---
 ## What it is
 Zero-dependency MCP server to orchestrate a swarm of Claude Code / Codex sessions across WezTerm panes: any session can discover, spawn, prompt, and read the others via MCP tools. One session becomes the coordinator; crash isolation keeps peers alive; auto-handoff resumes sessions when context fills

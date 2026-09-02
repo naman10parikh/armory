@@ -8,10 +8,12 @@ source_url: https://github.com/hamflx/imagen3-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 64
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2025-05-03T15:02:35Z"
 ---
 ## What it is
 MCP server `Imagen 3`, catalogued on PulseMCP. Enables AI to generate images from text prompts using Google's Imagen 3 API, handling API communication, image storage, and serving through a local HTTP server.

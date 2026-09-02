@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T13:55:14Z"
 ---
 ## What it is
 Provides complete MCP access to Wave Accounting, enabling AI assistants to manage invoices, payments, customers, and bookkeeping via natural language.

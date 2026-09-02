@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-12-06T05:38:03Z"
 ---
 ## What it is
 Provides access to French legal databases (Judilibre and Légifrance) and a structured legal reasoning skill for analyzing civil cases like a French magistrate.

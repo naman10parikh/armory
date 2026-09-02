@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T08:03:13Z"
 ---
 ## What it is
 MCP server providing Celestia network intelligence, including daily briefs, anomaly signals, staking and DA metrics, and live namespace and validator drill-downs, with each figure linked to its source.

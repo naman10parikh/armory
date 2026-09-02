@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:11:46Z"
 ---
 ## What it is
 Provides e-commerce customer support tools for order status, delivery, account, and policy questions, with RAG-grounded retrieval and strict authorization checks over mock data.

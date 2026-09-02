@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T17:29:09Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to access Yandex Calendar over CalDAV, with the ability to read, create, move, update, and delete events, including recurring events and attendee invitations.

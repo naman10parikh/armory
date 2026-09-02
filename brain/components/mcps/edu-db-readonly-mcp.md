@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:00:07Z"
 ---
 ## What it is
 Enables LLM agents to safely query educational administration databases through read-only MCP tools, enforcing SQL whitelisting, automatic LIMIT caps, parameterized queries, timeouts, token authentication, and audit logging.

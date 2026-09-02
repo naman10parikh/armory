@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T17:44:29Z"
 ---
 ## What it is
 MCP server for SensCritique that enables AI assistants to search works, access public data, and manage account actions like ratings and recommendations through a local HTTP API and MCP tools.

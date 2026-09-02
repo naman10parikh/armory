@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T16:38:48Z"
 ---
 ## What it is
 Connects AI assistants to Solodit's 49,000+ blockchain vulnerability database, enabling search, browse, and lookup of audit findings directly from your AI workflow.

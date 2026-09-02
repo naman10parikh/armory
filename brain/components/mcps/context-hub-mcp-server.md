@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-27T07:19:10Z"
 ---
 ## What it is
 A minimal MCP server with sample tools, resources, and prompts, plus an aggregator to connect multiple external MCP servers and REST APIs, including experimental OAuth support.

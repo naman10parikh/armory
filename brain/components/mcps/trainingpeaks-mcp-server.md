@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-21T20:49:47Z"
 ---
 ## What it is
 A Model Context Protocol server for TrainingPeaks with an analytics focus — enabling real-time querying of training data, performance trends, CTL/ATL/TSB analysis, and training load optimization through Claude Desktop.

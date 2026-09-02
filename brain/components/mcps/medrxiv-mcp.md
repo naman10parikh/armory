@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T12:16:02Z"
 ---
 ## What it is
 MCP server that turns a medRxiv DOI into clean markdown full text and provides free, relevance-ranked preprint search via Europe PMC.

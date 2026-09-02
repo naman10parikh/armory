@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T23:13:11Z"
 ---
 ## What it is
 Enables fully local semantic search over a Roam Research graph via MCP, providing tools for hybrid retrieval, index refresh, and stats while keeping all content on-machine.

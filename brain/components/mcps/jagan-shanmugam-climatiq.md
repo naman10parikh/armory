@@ -8,10 +8,12 @@ source_url: https://github.com/jagan-shanmugam/climatiq-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-03-28T19:16:45Z"
 ---
 ## What it is
 MCP server `Climatiq`, catalogued on PulseMCP. Provides a bridge to the Climatiq API for calculating precise carbon emissions across electricity usage, travel, cloud computing, and procurement domains using detailed environmental impact measurement tools.

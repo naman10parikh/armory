@@ -8,10 +8,12 @@ source_url: https://github.com/anjor/coinmarket-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-06-24T09:49:57Z"
 ---
 ## What it is
 MCP server `Coinmarket`, catalogued on PulseMCP. Access real-time cryptocurrency data from CoinMarketCap.

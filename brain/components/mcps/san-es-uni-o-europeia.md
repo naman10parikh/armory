@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:34:43Z"
 ---
 ## What it is
 Checks if a name appears in the EU financial sanctions list for compliance and AML due diligence. Provides a read-only MCP tool that works with any MCP client over HTTP.

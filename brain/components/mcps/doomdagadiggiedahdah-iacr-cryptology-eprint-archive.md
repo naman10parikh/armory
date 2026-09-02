@@ -8,10 +8,12 @@ source_url: https://github.com/doomdagadiggiedahdah/iacr-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-05-16T06:16:47Z"
 ---
 ## What it is
 MCP server `IACR Cryptology ePrint Archive`, catalogued on PulseMCP. Bridges AI models with the IACR Cryptology ePrint Archive, enabling efficient extraction and analysis of cryptographic research papers.

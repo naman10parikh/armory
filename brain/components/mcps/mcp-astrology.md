@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T08:13:32Z"
 ---
 ## What it is
 Receives birth information and returns Western astrology natal charts including planetary positions, houses, ASC/MC text, and a chart PNG image.

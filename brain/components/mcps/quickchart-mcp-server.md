@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-18T21:38:32Z"
 ---
 ## What it is
 Generates and downloads charts using QuickChart.io through Claude Desktop and other MCP clients.

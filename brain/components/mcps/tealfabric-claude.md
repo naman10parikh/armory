@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T09:06:44Z"
 ---
 ## What it is
 MCP server `Tealfabric Claude`, catalogued on PulseMCP. Claude Code and MCP client integration for Tealfabric webapps, processes, and integrations.

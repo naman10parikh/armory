@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T02:55:22Z"
 ---
 ## What it is
 MCP server providing fundamental and technical data on Indian-listed companies from Screener.in and Yahoo Finance, including financial statements, ratios, and technical indicators.

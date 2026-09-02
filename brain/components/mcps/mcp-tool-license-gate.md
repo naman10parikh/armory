@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T08:27:08Z"
 ---
 ## What it is
 Enables agents to check third-party tool licenses, validate vendor policies, and issue license receipts before using external tools.

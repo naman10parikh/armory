@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T05:00:30Z"
 ---
 ## What it is
 Enables MCP clients to call an OFAC funds transfer authorization tool that returns a structured verdict, permitting transfers only if a version-pinned SDN screen returned CLEAR and COMPLETED before execution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:35:07Z"
 ---
 ## What it is
 Provides read-only access to Churn Solution retention analytics, including cancellation-flow metrics, save rates, recovered revenue, offer performance, cancellation reasons, and customer feedback.

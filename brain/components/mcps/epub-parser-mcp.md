@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-22T03:45:05Z"
 ---
 ## What it is
 A TypeScript-based MCP server for parsing EPUB files, enabling metadata extraction, table of contents parsing, text content extraction, and search within EPUB documents, designed for seamless integration with AI assistants like Claude Desktop.

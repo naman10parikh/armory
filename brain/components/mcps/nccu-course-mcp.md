@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T23:48:43Z"
 ---
 ## What it is
 Enables searching and retrieving course listings, departments, and syllabi from National Chengchi University's public course API using natural language.

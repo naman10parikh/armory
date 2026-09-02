@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:51:56Z"
 ---
 ## What it is
 MCP server `Pipeworx CryptoCompare`, catalogued on PulseMCP. Retrieve cryptocurrency prices, OHLC history, social stats, and exchange data via CryptoCompare.

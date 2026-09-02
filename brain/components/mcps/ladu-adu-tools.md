@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T18:47:29Z"
 ---
 ## What it is
 LA County ADU buildability checks, zoning rules, permit trends, and cost estimates — free, no auth.

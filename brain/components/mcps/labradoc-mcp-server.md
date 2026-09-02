@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T10:42:34Z"
 ---
 ## What it is
 Enables AI assistants to interact with Labradoc's document management, email ingestion, task extraction, and integration features through MCP tools.

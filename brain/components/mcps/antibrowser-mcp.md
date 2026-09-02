@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T12:00:14Z"
 ---
 ## What it is
 Enables LLM agents to browse and interact with web pages using a stealth Chromium browser, with an accessibility-tree interface for low token usage.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-15T05:21:57Z"
 ---
 ## What it is
 MCP server `Bright Data`, catalogued on PulseMCP. Integrates with Bright Data's web scraping platform to provide bot detection bypass, browser automation via Playwright, and access to 40+ pre-built datasets from major platforms like Amazon, LinkedIn, and Google Maps with structured data extraction and JSON conversion capabilities.

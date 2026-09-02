@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T21:37:36Z"
 ---
 ## What it is
 One MCP that turns Claude Code into your whole dev stack by swallowing other MCP servers, delegating to Codex & Gemini on your CLI subscriptions, remembering projects in a searchable knowledge graph, and carrying setup across sessions — secret-free by design.

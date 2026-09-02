@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-06T03:14:49Z"
 ---
 ## What it is
 Provides AI assistants with access to neobrutalism-styled React components, enabling them to generate UI code and prototypes using components like buttons, cards, dialogs, and star decorations.

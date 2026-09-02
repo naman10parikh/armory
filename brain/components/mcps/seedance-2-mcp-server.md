@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T11:25:27Z"
 ---
 ## What it is
 A focused MCP server for generating Seedance 2 videos via MuAPI. It provides tools for text-to-video, image-to-video, first-last-frame, and omni-reference generation, plus prediction polling and account balance.

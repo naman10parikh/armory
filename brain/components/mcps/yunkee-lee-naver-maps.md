@@ -8,10 +8,12 @@ source_url: https://github.com/yunkee-lee/mcp-naver-maps
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-12T03:40:37Z"
 ---
 ## What it is
 MCP server `Naver Maps`, catalogued on PulseMCP. Integrates with Naver Maps and Search APIs to provide accurate geocoding and local information retrieval services specifically optimized for Korean locations

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T05:35:45Z"
 ---
 ## What it is
 MCP server `middleBrick`, catalogued on PulseMCP. Scans APIs for security vulnerabilities through static analysis and runtime testing.

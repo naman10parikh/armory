@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-01T08:08:26Z"
 ---
 ## What it is
 Comprehensive MCP server for administering Msty Studio Desktop with 36 tools across 6 phases, Bloom behavioral evaluation, and support for four service backends.

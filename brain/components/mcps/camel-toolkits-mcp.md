@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-16T14:16:41Z"
 ---
 ## What it is
 A lightweight server that exports CAMEL framework toolkits as MCP-compatible tools.

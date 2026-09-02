@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T12:20:59Z"
 ---
 ## What it is
 Exposes Fing network devices and presence data to MCP clients over HTTP using both Streamable HTTP and SSE.

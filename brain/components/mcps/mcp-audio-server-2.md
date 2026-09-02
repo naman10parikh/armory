@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-13T17:23:56Z"
 ---
 ## What it is
 Enables audio transcription, intelligent splitting, and meeting analysis for MCP-compatible clients like Claude Desktop.

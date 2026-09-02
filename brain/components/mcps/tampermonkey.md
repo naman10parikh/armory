@@ -8,10 +8,12 @@ source_url: https://github.com/tampermonkey/tampermonkey-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-13T15:46:12Z"
 ---
 ## What it is
 MCP server `Tampermonkey`, catalogued on PulseMCP. Manage Tampermonkey userscripts from AI assistants — list, read, write, patch, and delete scripts via the Tampermonkey Editors extension.

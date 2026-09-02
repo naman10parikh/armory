@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:22:41Z"
 ---
 ## What it is
 Enables querying and acting on any Acumatica ERP tenant's contract-based REST API through 8 generic tools, covering all entities with read-only by default safety.

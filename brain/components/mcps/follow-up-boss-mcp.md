@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T20:17:01Z"
 ---
 ## What it is
 Enables Claude to interact with Follow Up Boss CRM, allowing lead management, task scheduling, and pipeline tracking through natural language.

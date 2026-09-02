@@ -8,10 +8,12 @@ source_url: https://github.com/non906/omniparser-autogui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-03-02T01:53:48Z"
 ---
 ## What it is
 MCP server `OmniParser AutoGUI`, catalogued on PulseMCP. Integrates computer vision and automation libraries to enable AI-assisted control of desktop applications through visual analysis and GUI interactions.

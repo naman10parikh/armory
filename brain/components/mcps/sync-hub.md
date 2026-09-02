@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:02:56Z"
 ---
 ## What it is
 Centralizes verbatim local AI conversation history into a SQLite database and exposes it via an MCP server, enabling tools like Claude Code and Codex to retrieve exact context from other tools.

@@ -12,6 +12,8 @@ stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-04T02:38:11Z"
 ---
 ## What it is
 MCP server `FFmpeg Helper`, catalogued on PulseMCP. Provides access to FFmpeg's video processing capabilities including format conversion, audio extraction, trimming, watermarking, frame extraction, and media information retrieval via simple tool calls

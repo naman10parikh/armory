@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T06:13:19Z"
 ---
 ## What it is
 Agentic KYC/AML compliance server with tools for sanctions screening, identity verification, and risk assessment, where AI orchestrates discretionary checks within deterministic compliance guardrails.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-07T19:45:14Z"
 ---
 ## What it is
 Enables searching the App Store, retrieving app details, discovering trending apps, and accessing screenshots and release information via Apple's public APIs.

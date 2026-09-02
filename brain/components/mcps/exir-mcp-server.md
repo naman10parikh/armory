@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T13:30:09Z"
 ---
 ## What it is
 A multi-tenant MCP gateway that connects AI agents to the Exir CRM API, enabling secure, permissioned access to customers, leads, tasks, invoices, and more through natural language.

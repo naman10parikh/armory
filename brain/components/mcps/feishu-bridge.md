@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T08:00:41Z"
 ---
 ## What it is
 MCP server that enables AI agents to interact with Feishu (Lark) for calendar events, attendees, and user recent work via structured tools with graceful degradation and recovery hints.

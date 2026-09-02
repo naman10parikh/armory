@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T06:30:50Z"
 ---
 ## What it is
 An MCP server that grades prompts against a validated rubric, tracks real outcomes, and provides guidance grounded in research on what predicts good results.

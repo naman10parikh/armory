@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:38Z"
 ---
 ## What it is
 Enables querying municipal tax clearance certificates (Certidão Negativa de Débitos) from Prefeitura de Luz, MG, via a hosted MCP server with a single read-only tool.

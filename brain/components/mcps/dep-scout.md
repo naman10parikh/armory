@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T15:00:22Z"
 ---
 ## What it is
 Dep-scout prevents AI coding agents from reinventing the wheel by searching package registries for mature, safe packages and scoring them on reuse quality, security, and license compliance.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T12:05:19Z"
 ---
 ## What it is
 MCP server `Korea Stock Insight`, catalogued on PulseMCP. Korean stock market data via DART disclosures and KRX prices for international LLM analysts.

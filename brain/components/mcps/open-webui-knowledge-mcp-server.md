@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T14:23:08Z"
 ---
 ## What it is
 MCP server for Open WebUI Knowledge Bases – search and access your knowledge bases from Cursor, Claude Desktop, and other MCP clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T02:24:59Z"
 ---
 ## What it is
 A single-file MCP server that turns any folder into a workspace for AI agents, enabling file operations, code search, shell commands, background jobs, HTTP testing, headless browsing, PDF extraction, and screen capture.

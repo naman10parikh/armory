@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-22T01:42:13Z"
 ---
 ## What it is
 Enables AI agents to manage and interact with WebViews in DCC applications through tools like screenshot, load URL, eval JS, and event streaming via the Model Context Protocol.

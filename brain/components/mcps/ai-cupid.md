@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T07:44:49Z"
 ---
 ## What it is
 MCP server for matchmaking and dating, enabling users to register, answer a questionnaire, receive daily matches, and send paid greetings through natural language in AI chat interfaces like Claude and ChatGPT.

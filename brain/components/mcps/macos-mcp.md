@@ -8,11 +8,13 @@ source_url: https://github.com/CursorTouch/MacOS-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 156
+stars: 165
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 25
+pushed_at: "2026-08-27T07:38:54Z"
 ---
 ## What it is
 A lightweight MCP server that bridges AI agents and macOS, enabling automation of file navigation, application control, UI interaction, browser automation, and system operations.

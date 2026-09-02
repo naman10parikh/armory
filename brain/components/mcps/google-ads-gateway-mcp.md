@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T07:58:14Z"
 ---
 ## What it is
 A Codex MCP server that wraps the Google Ads Gateway Worker to provide list_accounts and run_gaql tools, enabling natural language querying of Google Ads accounts and running GAQL queries without storing credentials.

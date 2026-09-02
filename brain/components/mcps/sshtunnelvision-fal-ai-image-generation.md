@@ -8,10 +8,12 @@ source_url: https://github.com/arekhalpern/mcp-logo-gen
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 170
+stars: 172
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2025-03-16T05:06:47Z"
 ---
 ## What it is
 MCP server `FAL AI Image Generation`, catalogued on PulseMCP. Integrates with FAL AI to generate images from text prompts using models like 'fal-ai/recraft-v3', enabling real-time visual content creation for design and content generation tasks.

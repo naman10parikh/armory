@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-09T20:08:43Z"
 ---
 ## What it is
 Turn a plain-text prompt into a sent, signed document in one workflow. Create proposals, contracts, and agreements, apply branded templates, collect legally binding e-signatures, and track document opens and completion status with PandaDoc MCP. Free with any PandaDoc plan.

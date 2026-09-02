@@ -8,11 +8,13 @@ source_url: https://github.com/HieuAnh87/sentry-selfhosted-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-16T04:27:08Z"
 ---
 ## What it is
 MCP server for self-hosted Sentry instances, providing tools to query and triage issues and events, inspect stack frames, manage releases, and access raw Sentry API.

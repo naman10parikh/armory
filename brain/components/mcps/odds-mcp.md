@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T14:02:32Z"
 ---
 ## What it is
 MCP server for odds data that provides tools to query consensus odds, fair prices, and outliers, and to safely propose, approve, and publish boosts with audit logging.

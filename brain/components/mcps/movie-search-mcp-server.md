@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T19:42:43Z"
 ---
 ## What it is
 Enables searching for movies by title using a JSON database, with input validation via Zod. Provides a simple MCP server with STDIO transport for integration.

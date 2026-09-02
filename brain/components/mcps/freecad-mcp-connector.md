@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T19:57:24Z"
 ---
 ## What it is
 Connects Claude Desktop to a running FreeCAD instance, enabling document management, part creation and editing, direct Python execution, parts library insertion, FEM analysis, and 3D view screenshots.

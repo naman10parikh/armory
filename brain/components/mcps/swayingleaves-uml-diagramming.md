@@ -12,6 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-09-23T07:47:10Z"
 ---
 ## What it is
 MCP server `UML Diagramming`, catalogued on PulseMCP. Integrates with UML diagramming tools to generate visual representations of system architecture, class relationships, and process flows directly from code or text descriptions within conversational interfaces.

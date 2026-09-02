@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-11T05:53:00Z"
 ---
 ## What it is
 MCP server `Neo4j Graph`, catalogued on PulseMCP. Query a Neo4j graph database with read-only access via schema inspection, property search, neighborhood traversal, and custom Cypher queries.

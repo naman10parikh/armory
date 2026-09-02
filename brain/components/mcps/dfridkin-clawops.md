@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-28T13:59:15Z"
 ---
 ## What it is
 MCP server `Clawops`, catalogued on PulseMCP. CLI and MCP server for deploying and managing self-hosted OpenClaw instances across AWS, GCP, Azure, and local VMs.

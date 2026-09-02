@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T18:48:26Z"
 ---
 ## What it is
 Enables LLM agents to access live seismic data, calculate emergency vehicle routes, and dispatch first responders to incidents.

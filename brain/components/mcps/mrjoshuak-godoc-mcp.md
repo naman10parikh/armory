@@ -8,10 +8,12 @@ source_url: https://github.com/mrjoshuak/godoc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 119
+stars: 124
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-03-06T17:15:24Z"
 ---
 ## What it is
 MCP server `Go Documentation`, catalogued on PulseMCP. Access Go package documentation and project structures.

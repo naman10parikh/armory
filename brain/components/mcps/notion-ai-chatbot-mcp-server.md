@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-29T15:40:28Z"
 ---
 ## What it is
 Supercharges any Notion workspace with an AI chatbot and MCP server, enabling natural language interaction, search, summarization, and content generation.

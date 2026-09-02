@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:20Z"
 ---
 ## What it is
 Enables consulting details of protestos (protests) in São Paulo from the official IEPTB/CENPROT source, read-only, using natural language with prepaid credits.

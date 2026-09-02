@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-12T16:28:12Z"
 ---
 ## What it is
 MCP server `Agentic Commerce`, catalogued on PulseMCP. Simulates a complete food delivery platform with mock restaurant data, menu management, and order processing capabilities for prototyping e-commerce interactions and testing conversational ordering workflows without requiring real payment processing or restaurant integrations.

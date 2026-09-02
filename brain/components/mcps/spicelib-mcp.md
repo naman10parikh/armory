@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T10:25:14Z"
 ---
 ## What it is
 A thin MCP server that wraps spicelib for circuit simulation. Exposes tools for running AC, transient, DC op, and parameter sweep analyses, enabling behavioral model fitting through iterative simulation and measurement comparison.

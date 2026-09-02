@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T05:47:53Z"
 ---
 ## What it is
 Transcribe local audio/video to text + SRT/VTT with hosted Whisper large-v3, plus summaries, study notes, flashcards, document Q&A, and PDF compression. No API key required — runs via npx -y vocce-transcribe-mcp.

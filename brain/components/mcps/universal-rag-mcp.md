@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-14T20:47:19Z"
 ---
 ## What it is
 Enables persistent, searchable memory for AI assistants across platforms like Claude, ChatGPT, and Gemini, using semantic search and automatic deduplication.

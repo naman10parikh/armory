@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T09:04:05Z"
 ---
 ## What it is
 A Cloudflare Workers-based remote MCP gateway that securely bridges Feishu official MCP to MCP clients like ChatGPT, using OAuth-authorized user tokens for accessing and managing personal Feishu documents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T05:55:53Z"
 ---
 ## What it is
 Enables Codex to interact with the user's local OmniFocus database on macOS, allowing task management, project creation, and tag operations through natural language.

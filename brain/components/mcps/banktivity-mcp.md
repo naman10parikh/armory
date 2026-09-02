@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-06T21:37:43Z"
 ---
 ## What it is
 MCP server for accessing and managing Banktivity personal finance data, enabling account, transaction, and budget operations through natural language.

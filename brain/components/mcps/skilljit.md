@@ -8,11 +8,13 @@ source_url: https://github.com/aqibsidd/skilljit
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T19:36:12Z"
 ---
 ## What it is
 Enables on-demand discovery and loading of skills and MCP tools through a fixed set of routing tools, minimizing token overhead.

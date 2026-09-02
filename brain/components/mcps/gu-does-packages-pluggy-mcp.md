@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T18:09:33Z"
 ---
 ## What it is
 An MCP server for the Pluggy Open Finance Brazil API, enabling connection to bank accounts and management of financial data including transactions, accounts, investments, and payment intents through natural language.

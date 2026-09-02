@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-02T02:20:53Z"
 ---
 ## What it is
 Token-safe code search for AI agents: queries the language-server index (clangd / Roslyn / tsserver / pyright) instead of grep and returns a token-capped file:line list — ~20x fewer tokens. Symbol-level editing + a grep→index rewrite hook. Local-only, no IDE.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-31T17:37:04Z"
 ---
 ## What it is
 Open-source, self-hosted Inbox-as-a-Service API for AI agents. It enables agents to manage email inboxes, send/receive emails, search messages, and wait for replies via REST or MCP.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-08T01:51:32Z"
 ---
 ## What it is
 MCP server `Axion (Google Earth Engine)`, catalogued on PulseMCP. Integrates with Google Earth Engine to provide geospatial analysis and satellite imagery processing with NDVI/NDWI calculations, crop classification, wildfire risk assessment, and interactive map generation for environmental monitoring and agricultural analysis.

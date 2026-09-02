@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T13:19:55Z"
 ---
 ## What it is
 Enables passing notes between Claude rooms on the same machine via Markdown files. Supports listing, reading, and writing notes with security validation.

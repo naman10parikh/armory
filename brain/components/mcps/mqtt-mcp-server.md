@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-17T14:52:43Z"
 ---
 ## What it is
 Connects AI assistants to MQTT brokers for smart home automation and IoT device control, enabling topic discovery, sensor reading, command sending, and event monitoring.

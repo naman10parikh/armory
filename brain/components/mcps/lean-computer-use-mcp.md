@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:46:49Z"
 ---
 ## What it is
 Enables low-cost agent models to control Windows applications through a compact, state-safe proxy over Open Computer Use, reducing model-visible context by up to 99.8% with support for record/replay and reusable UI component memory.

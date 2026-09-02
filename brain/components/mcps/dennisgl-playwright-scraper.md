@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-09T04:35:18Z"
 ---
 ## What it is
 MCP server `Playwright Scraper`, catalogued on PulseMCP. Leverages Playwright and BeautifulSoup to enable robust web scraping and content extraction, converting complex JavaScript-heavy web pages into high-quality Markdown with browser automation capabilities.

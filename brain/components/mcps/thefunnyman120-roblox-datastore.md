@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T00:00:47Z"
 ---
 ## What it is
 MCP server `Roblox Datastore`, catalogued on PulseMCP. Provides AI agents direct access to Roblox game datastores via the Open Cloud API v2 with 18 tools.

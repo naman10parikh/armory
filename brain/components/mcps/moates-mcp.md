@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T23:24:25Z"
 ---
 ## What it is
 Enables answering questions about Marcus Oates, a Sydney-based senior software engineer, by exposing structured data about his profile, projects, experience, skills, and interests via MCP tools, resources, and prompts.

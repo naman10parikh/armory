@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-21T21:53:58Z"
 ---
 ## What it is
 MCP server `Lifelogger`, catalogued on PulseMCP. Personal knowledge system that captures information entries, automatically generates flashcards, and schedules spaced repetition reviews using the SM-2 algorithm for optimal long-term retention.

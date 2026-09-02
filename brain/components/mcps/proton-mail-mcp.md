@@ -8,11 +8,13 @@ source_url: https://github.com/sethbang/proton-mail-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T16:55:11Z"
 ---
 ## What it is
 Unofficial MCP server for Proton Mail (not affiliated with Proton AG) — send, read, search & organize email over SMTP/IMAP

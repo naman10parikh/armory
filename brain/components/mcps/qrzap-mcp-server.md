@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T11:48:48Z"
 ---
 ## What it is
 Enables AI agents to generate QR codes for URLs, WiFi, contacts, and more with structured parameters.

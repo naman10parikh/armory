@@ -8,10 +8,12 @@ source_url: https://github.com/akhilraghav0/hamr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-02T05:33:47Z"
 ---
 ## What it is
 MCP server `Hamr`, catalogued on PulseMCP. Go framework for building MCP servers with struct-tag schema definitions, pre-built tool collections, middleware, and token cost optimization.

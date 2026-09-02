@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-02T17:23:16Z"
 ---
 ## What it is
 A file-backed MCP server for hierarchical project management that enables AI assistants to create, claim, and complete tasks within a project→epic→feature→task structure, with dependency management and Markdown-based storage.

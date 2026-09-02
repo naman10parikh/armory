@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T20:57:54Z"
 ---
 ## What it is
 Predictive supply-chain MCP server that forecasts material confirmation risks and enables AI clients to interact with the system via natural language.

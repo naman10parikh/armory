@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-13T00:19:09Z"
 ---
 ## What it is
 MCP server `Looker`, catalogued on PulseMCP. Automates Looker workflows and LookML development with comprehensive parsing, validation, dependency analysis, query testing with baseline comparisons, and workspace management featuring SQLite-backed API caching and SQL formatting capabilities.

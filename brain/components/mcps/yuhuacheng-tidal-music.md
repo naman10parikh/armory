@@ -8,10 +8,12 @@ source_url: https://github.com/yuhuacheng/tidal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2025-05-02T05:51:16Z"
 ---
 ## What it is
 MCP server `TIDAL Music`, catalogued on PulseMCP. Integrates with TIDAL music streaming service, enabling authentication, playlist management, and personalized music recommendations through natural language interactions.

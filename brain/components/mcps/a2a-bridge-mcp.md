@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T13:40:57Z"
 ---
 ## What it is
 MCP server for agent-to-agent communication -- capability discovery, task delegation, and result aggregation across MCP agents.

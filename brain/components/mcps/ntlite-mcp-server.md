@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:14:05Z"
 ---
 ## What it is
 Enables MCP-compatible clients to inspect Windows images, edit NTLite presets, and run apply, save, and ISO creation operations through the running NTLite window.

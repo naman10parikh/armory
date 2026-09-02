@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-22T12:28:40Z"
 ---
 ## What it is
 MCP server `Uniquity`, catalogued on PulseMCP. Analyzes GitHub repositories for code similarities, returning detailed reports in Markdown format

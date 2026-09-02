@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T20:45:03Z"
 ---
 ## What it is
 An MCP server that connects to the Teamwork API, providing tools to manage projects, tasks, companies, people, time entries, and reports, with built-in competitive intelligence capabilities.

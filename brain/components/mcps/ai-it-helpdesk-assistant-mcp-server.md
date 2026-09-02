@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T14:00:08Z"
 ---
 ## What it is
 MCP server for an AI IT helpdesk that exposes 29 tools, 10 resources, and 6 prompts for ticket management, knowledge base search, employee lookup, reporting, and Slack notifications, with a multi-agent conversation pipeline.

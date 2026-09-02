@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T14:40:26Z"
 ---
 ## What it is
 The NEAR MCP Server enables AI agents to interact with the NEAR Protocol blockchain, providing smart contract interaction, transaction handling, and event listening with AI-driven processing.

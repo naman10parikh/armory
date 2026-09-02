@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-29T19:25:50Z"
 ---
 ## What it is
 MCP server `Reddit`, catalogued on PulseMCP. Java-based Reddit integration with OAuth authentication for browsing subreddits, searching posts, reading threads, submitting content, voting, and saving with built-in rate limiting and prompt injection defenses.

@@ -8,10 +8,12 @@ source_url: https://github.com/verivus-oss/llm-cli-gateway
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T02:23:24Z"
 ---
 ## What it is
 MCP server `LLM CLI Gateway`, catalogued on PulseMCP. Unified MCP gateway bridging Claude Code, Codex, and Gemini CLI interfaces.

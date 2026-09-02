@@ -8,11 +8,13 @@ source_url: https://github.com/sahmk-sa/sahmk-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-25T19:20:13Z"
 ---
 ## What it is
 Official MCP server for interacting with Saudi market data (Sahmk) via natural language queries, enabling stock quotes, company info, and market summaries inside AI agents like Cursor and Claude Desktop.

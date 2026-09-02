@@ -8,10 +8,12 @@ source_url: https://github.com/saintdoresh/crypto-trader-mcp-claudedesktop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-03-16T00:12:06Z"
 ---
 ## What it is
 MCP server `CoinGecko Crypto Trader`, catalogued on PulseMCP. Provides real-time cryptocurrency market data through CoinGecko API for accessing prices, market information, historical charts, search functionality, trending coins, and global statistics.

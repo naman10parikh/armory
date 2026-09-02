@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-31T11:54:27Z"
 ---
 ## What it is
 MCP server `MyPC`, catalogued on PulseMCP. Windows desktop automation server enabling secure remote control with zone-based permissions, screenshot capture, file management, window manipulation, system monitoring, and command execution.

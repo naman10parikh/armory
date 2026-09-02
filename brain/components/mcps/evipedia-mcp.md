@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:13:45Z"
 ---
 ## What it is
 MCP server enabling AI agents to search and retrieve evidence reviews from evipedia.ai on health and longevity interventions, and to suggest new interventions for review.

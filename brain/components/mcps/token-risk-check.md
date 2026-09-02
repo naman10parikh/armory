@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:58:55Z"
 ---
 ## What it is
 MCP server that evaluates memecoin tokens for scam/rug-pull risk, providing a verdict and risk report using live data from RugCheck and DexScreener.

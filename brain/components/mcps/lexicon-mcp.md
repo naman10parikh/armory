@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-19T13:53:00Z"
 ---
 ## What it is
 Enables querying and updating a Lexicon DJ library via its Local API, supporting read tools always on and write tools when enabled.

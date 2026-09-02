@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-23T03:53:54Z"
 ---
 ## What it is
 Enables natural language data queries with statistical rigor and a semantic layer, supporting 23+ analytical tools for product analytics.

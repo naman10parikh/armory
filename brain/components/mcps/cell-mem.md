@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T07:48:26Z"
 ---
 ## What it is
 An MCP server that provides AI agents with persistent, multi-layered memory inspired by the human brain, including consolidation, self-reflection, and generative replay.

@@ -8,10 +8,12 @@ source_url: https://github.com/lunfengchen/gateway-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-12T14:16:26Z"
 ---
 ## What it is
 MCP server `Gateway`, catalogued on PulseMCP. Aggregates multiple MCP servers into unified tool interfaces to reduce LLM context occupation

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-04T08:23:55Z"
 ---
 ## What it is
 Enables searching, reading, and appending change notes in an Obsidian vault through local MCP tools.

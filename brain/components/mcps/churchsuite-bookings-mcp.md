@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:46:56Z"
 ---
 ## What it is
 Enables querying ChurchSuite bookings, resources, ministries, and serving patterns via MCP tools, providing read-only access to church management data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, image-media-generation]
+forks: 0
+pushed_at: "2026-02-11T17:01:29Z"
 ---
 ## What it is
 A2A server for generating movie scripts using AI technology for crew members in Nevermined platform

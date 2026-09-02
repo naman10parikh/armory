@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T21:46:45Z"
 ---
 ## What it is
 Exposes GitHub Copilot premium request usage as an MCP tool, providing a breakdown by model and cost.

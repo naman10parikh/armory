@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T16:52:08Z"
 ---
 ## What it is
 An MCP task broker that enables Claude and Codex/ChatGPT agents to delegate tasks to each other, with persistent queues, worker adapters, and security controls.

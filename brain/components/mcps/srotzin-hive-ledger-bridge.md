@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T01:32:54Z"
 ---
 ## What it is
 MCP server `Hive Ledger Bridge`, catalogued on PulseMCP. EIP-712 Ledger Bridge MCP server for Hive hardware wallet integration.

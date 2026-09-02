@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:44:10Z"
 ---
 ## What it is
 A simple MCP server providing dummy data tools for days of the week and postal codes, with Streamable HTTP transport and optional API key authentication.

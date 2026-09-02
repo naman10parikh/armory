@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T16:50:21Z"
 ---
 ## What it is
 Enables AI coding agents to control a local InvokeAI creative engine, supporting text-to-image, image-to-image, masked inpaint, upscaling, and full queue, model, gallery, board, and workflow management.

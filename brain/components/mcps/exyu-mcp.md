@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T02:34:25Z"
 ---
 ## What it is
 An MCP server that gives AI agents ex-Yugoslav cultural context, resolving cultural references with accurate quotes, attributions, and slang meanings from a citable database.

@@ -8,10 +8,12 @@ source_url: https://github.com/dynatrace-oss/dynatrace-managed-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-09-01T15:23:53Z"
 ---
 ## What it is
 MCP server `Dynatrace Managed`, catalogued on PulseMCP. Integrates with self-hosted Dynatrace Managed environments to access logs, events, metrics, problems, and entity data.

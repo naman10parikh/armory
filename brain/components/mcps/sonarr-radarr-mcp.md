@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T07:37:02Z"
 ---
 ## What it is
 Enables AI assistants to manage TV shows and movies via Sonarr and Radarr, including searching, adding, and monitoring downloads.

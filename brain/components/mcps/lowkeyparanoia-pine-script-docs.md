@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-23T12:39:55Z"
 ---
 ## What it is
 MCP server `Pine Script Docs`, catalogued on PulseMCP. Provides full-text BM25 search across TradingView Pine Script v5/v6 documentation covering 858 indexed function references and user manual pages.

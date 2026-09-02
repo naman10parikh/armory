@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-19T03:27:36Z"
 ---
 ## What it is
 MCP server `War Dashboard Data`, catalogued on PulseMCP. Geopolitical conflict risk probabilities, political events, and maritime traffic data for AI agents.

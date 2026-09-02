@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-09T16:37:18Z"
 ---
 ## What it is
 Enables AI agents to create, run, and save API requests and collections as local Gud API files, which are git-committable and viewable in VS Code-compatible editors.

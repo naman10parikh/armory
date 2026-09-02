@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T04:56:32Z"
 ---
 ## What it is
 Exposes account risk status from a fraud detection pipeline, returning risk scores, flagged transaction history, and LLM-generated explanations via the get_account_risk_status tool.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T20:22:06Z"
 ---
 ## What it is
 Operates a TOTVS Fluig environment via AI agents or terminal, managing datasets, forms, global events, and BPM process definitions without Fluig Studio.

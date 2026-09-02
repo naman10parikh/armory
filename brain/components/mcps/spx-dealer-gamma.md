@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T07:03:25Z"
 ---
 ## What it is
 Computes SPX dealer gamma exposure (GEX) from CBOE delayed option quotes and exposes it as an MCP tool for Claude Desktop.

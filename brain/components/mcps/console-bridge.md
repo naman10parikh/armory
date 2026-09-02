@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-04T14:13:46Z"
 ---
 ## What it is
 Captures and queries browser console logs from all tabs, enabling AI assistants to debug web applications with search, filtering, and custom debugging playbooks.

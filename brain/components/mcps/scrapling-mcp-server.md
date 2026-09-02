@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T18:21:42Z"
 ---
 ## What it is
 Enables MCP-compatible AI clients to extract live web content and convert it into structured Markdown for LLM ingestion, RAG pipelines, and agentic workflows.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-31T18:26:03Z"
 ---
 ## What it is
 MCP server `Debate Agent`, catalogued on PulseMCP. Orchestrates competitive code review debates between CLI-based language models with deterministic scoring to generate merged recommendations and declare winners.

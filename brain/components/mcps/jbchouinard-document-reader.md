@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-08T21:33:47Z"
 ---
 ## What it is
 MCP server `Document Reader`, catalogued on PulseMCP. Enables interaction with PDF and EPUB documents for reading, analyzing content, and extracting information from document files.

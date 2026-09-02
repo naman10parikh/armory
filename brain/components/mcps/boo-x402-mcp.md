@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T08:26:49Z"
 ---
 ## What it is
 Enables AI agents to access crypto/web3 data across 5 chains with pay-per-call billing in USDC via x402, no API key required, and built-in spend caps.

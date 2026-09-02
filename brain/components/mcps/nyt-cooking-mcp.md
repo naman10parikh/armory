@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-05T17:05:44Z"
 ---
 ## What it is
 Enables AI assistants to search New York Times Cooking recipes, fetch full recipes with ingredients and steps without login, and browse personal saved recipe box with optional authentication.

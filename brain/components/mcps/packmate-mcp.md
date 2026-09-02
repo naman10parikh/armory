@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T14:34:31Z"
 ---
 ## What it is
 MCP server for Packmate, a CTF network traffic analyzer, enabling LLMs to analyze network traffic streams, search patterns, and manage pcap files.

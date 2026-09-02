@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T18:30:33Z"
 ---
 ## What it is
 A bioinformatics MCP server that connects AI clients to over 30 life science databases and 32 curated tools for research, drug discovery, and clinical analysis.

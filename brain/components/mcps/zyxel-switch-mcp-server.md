@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T04:30:06Z"
 ---
 ## What it is
 Enables AI applications to interact with Zyxel switches via CLI for network configuration, monitoring, and management, supporting SSH/Telnet sessions and MCP-compliant tools, resources, and prompts.

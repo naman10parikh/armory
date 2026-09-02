@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T11:37:28Z"
 ---
 ## What it is
 A local MCP server for Dungeons & Dragons campaign management, combining core runtime with skill and module-generation packs. It enables campaign creation, module generation and import, rule and skill searching via tools, resources, and prompts.

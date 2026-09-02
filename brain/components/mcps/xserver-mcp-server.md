@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T00:08:40Z"
 ---
 ## What it is
 MCP server for Xserver hosting that provides tools to manage mail accounts, DNS records, server information, and domain verification through natural language.

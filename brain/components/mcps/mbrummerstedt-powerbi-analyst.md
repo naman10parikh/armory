@@ -8,10 +8,12 @@ source_url: https://github.com/mbrummerstedt/powerbi-analyst-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-15T14:37:46Z"
 ---
 ## What it is
 MCP server `Power BI Analyst`, catalogued on PulseMCP. Connects to Power BI semantic models to browse workspaces, run DAX queries, and automatically page large result sets through local CSV files.

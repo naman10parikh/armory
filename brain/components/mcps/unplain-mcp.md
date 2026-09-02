@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T11:08:32Z"
 ---
 ## What it is
 Enables generating designed, publish-ready PDF ebooks and reports from Markdown through natural language, with reusable brand themes, AI-generated covers, and editable saved projects.

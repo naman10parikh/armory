@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T00:19:42Z"
 ---
 ## What it is
 Local-first shared memory and coordination layer for AI coding agents, with repository evidence, reservations, handoffs, code graph context, and dashboard review backed by PostgreSQL/pgvector.

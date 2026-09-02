@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T10:32:07Z"
 ---
 ## What it is
 Architecture-aware code navigation system for AI agents, providing line-level symbol location, layered architecture detection, and dual-engine hybrid analysis with 22 MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-05T18:16:55Z"
 ---
 ## What it is
 An MCP server providing tools to query gravitational wave data from GraceDB and GWOSC, enabling natural language queries about GW events.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T16:35:58Z"
 ---
 ## What it is
 Enables Claude Code to consult external LLMs (GPT, Gemini) through multi-turn sessions for second opinions, parallel consultations, and web-grounded research.

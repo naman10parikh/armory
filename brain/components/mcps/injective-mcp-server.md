@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-14T14:47:56Z"
 ---
 ## What it is
 Enables AI agents to trade perpetual futures, manage wallets, transfer tokens, bridge cross-chain, and execute EVM transactions on Injective using natural language.

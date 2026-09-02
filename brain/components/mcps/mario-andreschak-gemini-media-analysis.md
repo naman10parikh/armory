@@ -8,10 +8,12 @@ source_url: https://github.com/mario-andreschak/mcp_video_recognition
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-30T19:48:44Z"
 ---
 ## What it is
 MCP server `Gemini Media Analysis`, catalogued on PulseMCP. Provides image, audio, and video analysis tools using Google's Gemini AI for content description, transcription, and understanding with file caching for improved performance.

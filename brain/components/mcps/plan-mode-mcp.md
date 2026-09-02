@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T14:59:33Z"
 ---
 ## What it is
 Cross-platform MCP server providing Claude Code-style plan mode via four tools (enter_plan_mode, get_plan_mode_standards, todo_write, exit_plan_mode) with soft guidance through SKILL.md.

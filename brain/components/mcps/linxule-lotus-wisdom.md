@@ -8,10 +8,12 @@ source_url: https://github.com/linxule/lotus-wisdom-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-03T09:36:25Z"
 ---
 ## What it is
 MCP server `Lotus Wisdom`, catalogued on PulseMCP. Problem-solving framework inspired by Buddhist philosophy

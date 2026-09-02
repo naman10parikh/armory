@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-06T22:12:42Z"
 ---
 ## What it is
 Exposes OpenAI's gpt-image-2 and gpt-image-1.5 to Claude Code as a single tool for generating, editing, or composing images with automatic model selection.

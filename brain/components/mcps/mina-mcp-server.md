@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-05T15:30:11Z"
 ---
 ## What it is
 MCP server that provides zkApp transaction information from the Mina blockchain via the Blockberry API, enabling querying of specific transactions and fetching recent ones with filters.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-21T14:44:51Z"
 ---
 ## What it is
 MCP server for querying patient, surgery, outpatient, inpatient, consent, and IVI data within the VGH intranet. Provides 27 tools with unified authentication and date formatting.

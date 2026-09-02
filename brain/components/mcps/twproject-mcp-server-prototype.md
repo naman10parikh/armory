@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T13:17:49Z"
 ---
 ## What it is
 Enables automation of routine operations on Twproject installations, including task, assignment, issue, person, company, worklog, and cost management through safe, non-destructive API calls.

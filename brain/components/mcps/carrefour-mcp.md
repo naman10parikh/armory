@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:37Z"
 ---
 ## What it is
 Conecta contas Carrefour via Open Finance Brasil a agentes de IA como Claude e ChatGPT, permitindo consultar saldos, extratos, faturas de cartão e investimentos em linguagem natural, apenas leitura.

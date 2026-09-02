@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T18:02:17Z"
 ---
 ## What it is
 Enables AI agents to perform SEO searches and retrieve SEO intelligence data via the Model Context Protocol.

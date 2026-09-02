@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T04:19:07Z"
 ---
 ## What it is
 Enables a language model to perceive a robot's surroundings, navigate to referenced objects, count instances, and stop when finished, via tools for viewing, grounding, driving, and counting.

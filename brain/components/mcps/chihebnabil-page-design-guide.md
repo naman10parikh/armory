@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-20T23:07:27Z"
 ---
 ## What it is
 MCP server `Page Design Guide`, catalogued on PulseMCP. Provides comprehensive web design guidance including layout patterns, color psychology, typography hierarchy, responsive design strategies, and accessibility standards to help generate modern, visually appealing web pages.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-13T00:14:55Z"
 ---
 ## What it is
 MCP server `Reddit Ads`, catalogued on PulseMCP. Manages Reddit Ads campaigns, ad groups, ads, reporting, and audience targeting through MCP.

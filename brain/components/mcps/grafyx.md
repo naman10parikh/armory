@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T15:44:30Z"
 ---
 ## What it is
 Enables AI coding assistants to understand codebase architecture in real time by parsing source code into a relationship graph and exposing call chains, dependencies, class hierarchies, and conventions via MCP tools.

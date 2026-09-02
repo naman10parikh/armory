@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T16:11:03Z"
 ---
 ## What it is
 Brings Garmin training data into Claude via Intervals.icu, enabling querying of activities, wellness, and planned workouts, as well as creating structured workouts that sync back to the Garmin watch.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T15:21:34Z"
 ---
 ## What it is
 Enables interaction with Agent Build Context Manager workspaces through MCP, providing safe file operations, scoped discovery, and an authenticated REST file API for managing project context.

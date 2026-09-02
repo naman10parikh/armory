@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T18:39:58Z"
 ---
 ## What it is
 Provides MCP tools that expose runtime-proven data lineage verdicts from Polygraph, allowing agents to verify declared catalog lineage, detect undeclared sources and phantom edges, and retrieve incident reports.

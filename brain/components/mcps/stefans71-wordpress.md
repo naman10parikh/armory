@@ -8,10 +8,12 @@ source_url: https://github.com/stefans71/wordpress-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 78
+stars: 80
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2025-01-05T01:13:59Z"
 ---
 ## What it is
 MCP server `WordPress AI Integration`, catalogued on PulseMCP. Integrates WordPress with AI systems to enable automated content creation, site management, and data analysis for WordPress-based websites.

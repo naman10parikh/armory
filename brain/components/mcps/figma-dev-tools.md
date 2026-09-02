@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T06:07:02Z"
 ---
 ## What it is
 Enables conversion of Figma designs into frontend code (React, Vue, HTML, etc.) with high fidelity, including design tokens, assets, and responsive layout. Integrates with AI editors via MCP for a seamless design-to-code workflow.

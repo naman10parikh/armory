@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-29T13:48:14Z"
 ---
 ## What it is
 Enables AI assistants to perform Aerodrome Finance DEX operations on Base chain, including token swaps, liquidity management, and market analysis through natural language.

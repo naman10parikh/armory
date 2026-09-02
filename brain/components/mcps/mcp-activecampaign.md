@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T23:24:20Z"
 ---
 ## What it is
 Enables AI assistants to manage ActiveCampaign CRM, marketing automation, and contact data via 33 tools including contacts, deals, tags, automations, pipelines, custom fields, campaigns, accounts, and webhooks.

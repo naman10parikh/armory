@@ -8,10 +8,12 @@ source_url: https://github.com/jleechanorg/mcp_mail
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-17T00:50:34Z"
 ---
 ## What it is
 MCP server `Agent Mail`, catalogued on PulseMCP. Multi-agent coordination through structured mailbox messaging with file reservations and Git-backed persistence

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-09-16T04:54:47Z"
 ---
 ## What it is
 Provides social media content extraction and analysis tools via MCP (Reddit and LinkedIn), while demonstrating security risks and obfuscation techniques for educational purposes.

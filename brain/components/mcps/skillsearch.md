@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T08:26:35Z"
 ---
 ## What it is
 Indexes every skill across all installed plugins and enables the agent to find them instantly via BM25 search through an MCP tool.

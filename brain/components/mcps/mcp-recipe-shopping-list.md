@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T08:07:38Z"
 ---
 ## What it is
 Reads recipes from food.ru, searches products on magnit.ru, and compiles a shopping list with prices and direct product links.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:44:37Z"
 ---
 ## What it is
 Enables LLM agents to query databases with read-only access, while requiring human approval for writes through a token-based confirmation system.

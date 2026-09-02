@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-14T12:05:52Z"
 ---
 ## What it is
 An MCP server that queries the baseline status of web platform features using data from webstatus.dev. It provides tools to get feature baseline status and a summary of baseline categories.

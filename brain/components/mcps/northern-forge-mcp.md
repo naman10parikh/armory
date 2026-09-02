@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T23:45:47Z"
 ---
 ## What it is
 Portable agent tools with typed schemas (diff, cron, units, JSON→TS, outdoor helpers, prompts). Free to try—no account required.

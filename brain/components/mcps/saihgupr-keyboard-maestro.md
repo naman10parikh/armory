@@ -8,10 +8,12 @@ source_url: https://github.com/saihgupr/keyboard-maestro-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-13T13:19:06Z"
 ---
 ## What it is
 MCP server `Keyboard Maestro`, catalogued on PulseMCP. Automates Keyboard Maestro workflows through AppleScript integration, enabling macro creation, modification, execution, variable management, and debugging on macOS.

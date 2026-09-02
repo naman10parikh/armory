@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-25T11:38:21Z"
 ---
 ## What it is
 A powerful and flexible package designed to simplify HTTP/HTTPS requests by automatically applying authentication credentials based on configurable rules. It acts as a seamless proxy for your fetch calls, finding the correct authentication method for a given URL, and attaching the necessary headers 

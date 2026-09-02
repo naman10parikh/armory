@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T17:07:19Z"
 ---
 ## What it is
 MCP server that connects AI assistants to Writavo CMS, enabling content creation, publishing, scheduling, and media management through natural language, with safety confirmations for irreversible actions.

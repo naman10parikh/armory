@@ -8,10 +8,12 @@ source_url: https://github.com/meanands/mysql-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-11T06:42:56Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Enables natural language interaction with MySQL databases through Python and SQLAlchemy, providing secure query execution, connection pooling, and structured results for data analysis and database management without writing raw SQL.

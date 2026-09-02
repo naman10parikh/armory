@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-11T23:17:29Z"
 ---
 ## What it is
 MCP server `Code Audit (Ollama)`, catalogued on PulseMCP. Provides local code auditing using Ollama models to analyze security vulnerabilities, performance bottlenecks, quality issues, architectural problems, testing gaps, and documentation deficiencies across multiple programming languages with configurable analysis depth and severity classification.

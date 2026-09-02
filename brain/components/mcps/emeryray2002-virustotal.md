@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-30T13:54:33Z"
 ---
 ## What it is
 MCP server `VirusTotal`, catalogued on PulseMCP. Bridges to the VirusTotal API for comprehensive threat intelligence, enabling security analysts to analyze file hashes, URLs, domains, and IP addresses with automatically fetched relationship data for complete security overviews.

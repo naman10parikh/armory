@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-01-05T05:14:23Z"
 ---
 ## What it is
 MCP server `Goal Story`, catalogued on PulseMCP. Integrates with Goal Story to enable personal goal management, step-by-step planning, and motivational narrative visualization based on users' beliefs and motivations.

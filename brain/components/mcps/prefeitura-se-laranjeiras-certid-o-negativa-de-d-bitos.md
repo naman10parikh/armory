@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:03Z"
 ---
 ## What it is
 Allows querying negative debt certificates (Certidão Negativa de Débitos) from the Prefeitura SE Laranjeiras official source via a read-only MCP tool.

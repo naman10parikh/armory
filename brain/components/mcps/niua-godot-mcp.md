@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-17T08:02:49Z"
 ---
 ## What it is
 A local MCP server plus a bundled Godot editor addon that lets an AI agent create, inspect, run, debug, and export real Godot 4.6 games through tools.

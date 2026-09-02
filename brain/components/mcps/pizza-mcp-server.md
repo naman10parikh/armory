@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 34
+pushed_at: "2026-09-02T02:33:46Z"
 ---
 ## What it is
 Enables AI agents to browse pizza menus, place orders, and track order status via the Model Context Protocol.

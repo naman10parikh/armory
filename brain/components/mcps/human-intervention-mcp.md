@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T14:26:22Z"
 ---
 ## What it is
 Enables AI agents to request human actions or decisions by opening a local browser page for input, allowing the agent to pause and wait for human response.

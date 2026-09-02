@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T14:00:51Z"
 ---
 ## What it is
 Enables LLM clients to interact with a mock HR system via the Model Context Protocol, supporting queries and workflows across leave, benefits, employee lifecycle, learning, performance, travel, expenses, policies, and FAQs.

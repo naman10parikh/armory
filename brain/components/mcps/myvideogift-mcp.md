@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T23:30:27Z"
 ---
 ## What it is
 Create and deliver personalized video gifts (photos + an original song) from any Model Context Protocol client.

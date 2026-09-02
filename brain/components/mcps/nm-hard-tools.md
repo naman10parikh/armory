@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:42:09Z"
 ---
 ## What it is
 Provides deployable, stateless MCP services for rigorous inference evaluation and benchmarking, including a profiled lm-evaluation-harness controller/worker and a bounded vLLM forward-pass benchmark adapter.

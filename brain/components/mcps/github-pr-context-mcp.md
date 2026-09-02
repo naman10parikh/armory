@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T17:25:56Z"
 ---
 ## What it is
 Retrieves historical pull request context from GitHub repositories and provides it to IDE agents for reasoning, review, and code generation without modifying files.

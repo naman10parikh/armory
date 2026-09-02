@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-16T09:46:04Z"
 ---
 ## What it is
 MCP server `Walletap`, catalogued on PulseMCP. Issue and manage Apple Wallet and Google Wallet passes including membership cards, loyalty cards, tickets, and coupons.

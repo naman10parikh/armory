@@ -8,11 +8,13 @@ source_url: https://github.com/kkruglik/mlflow-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-08T13:03:40Z"
 ---
 ## What it is
 A Model Context Protocol server that enables LLMs to interact with MLflow tracking servers, allowing users to query experiments, analyze runs, compare metrics, manage the model registry, and promote models through natural language.

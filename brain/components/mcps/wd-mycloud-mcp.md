@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T17:20:53Z"
 ---
 ## What it is
 Enables AI assistants to browse, read, write, move, copy, and delete files on WD MyCloud Home devices, supporting local SMB and remote REST API connections with automatic token refresh.

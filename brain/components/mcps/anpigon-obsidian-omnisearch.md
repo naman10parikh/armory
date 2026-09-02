@@ -8,10 +8,12 @@ source_url: https://github.com/anpigon/mcp-server-obsidian-omnisearch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-04-05T04:05:42Z"
 ---
 ## What it is
 MCP server `Obsidian Omnisearch`, catalogued on PulseMCP. Integrates Obsidian vaults to enable searching and retrieving notes, leveraging personal knowledge for various applications.

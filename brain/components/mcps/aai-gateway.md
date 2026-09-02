@@ -8,11 +8,13 @@ source_url: https://github.com/gybob/aai-gateway
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 98
+stars: 99
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-01T14:16:41Z"
 ---
 ## What it is
 Unified MCP and skill management gateway for AI agents, enabling tool discovery, installation, and sharing with 99% context token savings.

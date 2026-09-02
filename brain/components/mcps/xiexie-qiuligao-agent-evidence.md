@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T12:16:26Z"
 ---
 ## What it is
 MCP server `Agent Evidence`, catalogued on PulseMCP. Document AI agent workflows with screenshots, screen recordings, and reviewable evidence trails.

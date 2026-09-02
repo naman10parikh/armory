@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T18:07:54Z"
 ---
 ## What it is
 MCP server `AgentSIM`, catalogued on PulseMCP. Provisions real SIM-backed phone numbers for OTP verification, with automatic code parsing and session management.

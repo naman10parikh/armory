@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-01-25T02:39:36Z"
 ---
 ## What it is
 MCP server `Browserbase (Browser Automation)`, catalogued on PulseMCP. Provides browser automation through dual servers: Browserbase for direct browser control and Stagehand for natural language-driven workflows, enabling navigation, data extraction, and complex multi-step actions

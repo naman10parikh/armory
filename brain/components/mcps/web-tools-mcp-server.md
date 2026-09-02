@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T06:41:08Z"
 ---
 ## What it is
 Drop-in replacement for Claude's native web_search and web_fetch tools, resolving IP blocks and user-agent detection by using your own API keys and proxy.

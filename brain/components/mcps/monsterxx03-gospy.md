@@ -12,6 +12,8 @@ stars: 96
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-08T07:38:31Z"
 ---
 ## What it is
 MCP server `GoSpy`, catalogued on PulseMCP. Inspects and analyzes running Go processes by directly reading memory on Linux and macOS systems, providing deep visibility into goroutine states, memory statistics, and runtime behavior without modifying target applications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T07:10:45Z"
 ---
 ## What it is
 An MCP server that helps catch context drift in AI coding agents by comparing actual code changes against the original request, allowing users to keep or roll back unintended additions.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-17T12:57:25Z"
 ---
 ## What it is
 MCP server `Boundary`, catalogued on PulseMCP. Structures complex decisions into analytical frameworks by exposing variables, constraints, trade-offs, and cognitive biases.

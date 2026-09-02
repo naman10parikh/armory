@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-03-22T10:44:18Z"
 ---
 ## What it is
 A crypto data gateway for AI assistants, providing real-time newsflashes, articles, on-chain metrics, ETF flows, stablecoin data, macro indicators, and derivatives market data via the BlockBeats Pro API.

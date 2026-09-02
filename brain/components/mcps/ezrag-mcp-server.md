@@ -8,11 +8,13 @@ source_url: https://github.com/benbjurstrom/ezrag
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-29T17:39:53Z"
 ---
 ## What it is
 Provides semantic search and keyword search over Obsidian notes, along with direct note retrieval, allowing external AI agents to query and access the vault.

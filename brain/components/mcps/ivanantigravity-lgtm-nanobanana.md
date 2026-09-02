@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-22T17:19:56Z"
 ---
 ## What it is
 MCP server `Nanobanana`, catalogued on PulseMCP. Connects to Polza AI media and storage APIs for managing digital assets through AI agents.

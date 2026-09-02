@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-12-21T10:05:04Z"
 ---
 ## What it is
 Provides comprehensive access to the NCBI Datasets API, enabling genomic, taxonomic, and biological data operations through 31 specialized tools.

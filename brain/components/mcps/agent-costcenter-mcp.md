@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T13:40:53Z"
 ---
 ## What it is
 MCP server for tracking and managing costs per AI agent, with budget alerts, anomaly detection, and model cost comparison.

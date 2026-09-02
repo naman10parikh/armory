@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T16:45:36Z"
 ---
 ## What it is
 A self-hostable, vulnerable-by-design MCP server for learning how object-level authorization bugs (BOLA/IDOR) appear in multi-tenant tools.

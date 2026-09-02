@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T18:53:41Z"
 ---
 ## What it is
 Exposes Yandex Tracker's REST API v3 as tools for LLM clients, enabling issue management and queue operations via natural language.

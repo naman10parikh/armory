@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T01:11:46Z"
 ---
 ## What it is
 A local MCP server that enables Codex and other MCP clients to orchestrate native external coding-agent harnesses through a normalized lifecycle, with guarded execution and deterministic testing.

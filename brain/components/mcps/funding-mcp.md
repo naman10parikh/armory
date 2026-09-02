@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T13:19:20Z"
 ---
 ## What it is
 Real-time perp market-data for AI trading agents — funding rates, funding-arb signals, open interest, volume, orderbook depth/slippage and oracle families across 25 venues, plus HIP-3 RWA coverage (tokenized stocks, metals, oil) that mainstream aggregators lack. x402-native pay-per-call (USDC on Bas

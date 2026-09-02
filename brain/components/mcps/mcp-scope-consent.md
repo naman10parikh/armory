@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T12:32:45Z"
 ---
 ## What it is
 Hosted remote MCP server for managing consent scope receipts, enabling checking, issuing, and auditing consent policies and tool calls.

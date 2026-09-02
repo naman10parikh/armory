@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-12-12T09:50:23Z"
 ---
 ## What it is
 MCP server `Memory by File`, catalogued on PulseMCP. Lightweight, file-based memory storage for maintaining persistent context across conversations using simple text operations.

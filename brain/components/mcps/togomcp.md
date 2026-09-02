@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-09-01T08:51:52Z"
 ---
 ## What it is
 An MCP server that gives AI assistants access to biological and biomedical RDF databases via SPARQL at the RDF Portal, as well as selected REST APIs (NCBI E-utilities, UniProt, ChEMBL, PDB, Reactome, Rhea, MeSH, and more).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T11:16:14Z"
 ---
 ## What it is
 Connects AI assistants to Purefeed for access to AI-curated Twitter/X feeds, signals, semantic search, and post creation.

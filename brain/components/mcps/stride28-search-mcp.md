@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T09:44:11Z"
 ---
 ## What it is
 Enables AI assistants to search real content from Xiaohongshu and Zhihu, supporting keyword search, note details, and question retrieval.

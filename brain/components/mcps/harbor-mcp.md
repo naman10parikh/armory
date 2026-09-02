@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T21:42:49Z"
 ---
 ## What it is
 Provides MCP tools to manage a local-first Kanban board, including projects, issues, dependencies, and labels. Enables AI clients to interact with the board via a stdio MCP server connected to a NestJS API.

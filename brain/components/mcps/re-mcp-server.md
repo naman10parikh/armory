@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T03:06:45Z"
 ---
 ## What it is
 A local, privacy-first MCP server that orchestrates Ghidra, Binary Ninja, x64dbg, and system tools to provide AI assistants with powerful binary analysis capabilities.

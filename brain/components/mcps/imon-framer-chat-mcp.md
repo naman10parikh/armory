@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T07:54:16Z"
 ---
 ## What it is
 Private remote MCP gateway connecting ChatGPT to one configured Framer project. Exposes read, controlled write, and separate publishing tools over /mcp, with authentication and environment-based security controls.

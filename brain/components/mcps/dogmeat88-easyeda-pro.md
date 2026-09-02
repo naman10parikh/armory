@@ -8,10 +8,12 @@ source_url: https://github.com/dogmeat88/easyeda-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-28T06:46:07Z"
 ---
 ## What it is
 MCP server `EasyEDA Pro`, catalogued on PulseMCP. MCP server for AI-driven control of EasyEDA Pro PCB design, covering schematics, component placement, routing, and project management.

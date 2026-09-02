@@ -12,6 +12,8 @@ stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-08-12T07:35:01Z"
 ---
 ## What it is
 MCP server `Deep Research`, catalogued on PulseMCP. Integrates search engines, web scraping, and Gemini models to perform iterative, deep research on any topic, generating insights and detailed reports with source citations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-30T21:19:35Z"
 ---
 ## What it is
 Provides maritime routing capabilities, enabling computation of oceangoing route distances and full routes in GeoJSON format via MCP tools.

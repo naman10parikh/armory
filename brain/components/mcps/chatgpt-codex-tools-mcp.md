@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-10T11:57:46Z"
 ---
 ## What it is
 Enables ChatGPT to inspect and edit local projects through a secure MCP interface, offering workspace management, file operations, git integration, and safe command execution.

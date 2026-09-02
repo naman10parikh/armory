@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-02-21T18:57:25Z"
 ---
 ## What it is
 MCP server `OpenAPI Proxy`, catalogued on PulseMCP. Converts OpenAPI and Swagger specifications into callable tools by generating Zod-validated schemas and proxying HTTP requests to backend APIs.

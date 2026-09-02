@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T15:20:20Z"
 ---
 ## What it is
 Local MCP server that exposes Apple Contacts data, enabling phone, email, and name lookups via a helper app.

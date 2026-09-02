@@ -8,10 +8,12 @@ source_url: https://github.com/photoxpedia/bolor-brain-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T03:38:57Z"
 ---
 ## What it is
 MCP server `Bolor Brain`, catalogued on PulseMCP. Modular cognitive architecture with memory systems, advanced reasoning, and self-evolving skills

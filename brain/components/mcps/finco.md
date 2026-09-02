@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T23:04:02Z"
 ---
 ## What it is
 An MCP server that enables natural-language queries over SEC EDGAR filings and live market data, providing hybrid retrieval with reranking for company snapshots, quotes, fundamentals, and macro indicators.

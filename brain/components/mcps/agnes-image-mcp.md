@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T12:56:49Z"
 ---
 ## What it is
 An MCP server that gives text-only models image generation and understanding capabilities, with tools like generate_image, describe_image, and set_api_key. It enables any MCP client to create and analyze images using a single API key.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T09:47:18Z"
 ---
 ## What it is
 基于火珠林法六爻理论和《增删卜易》体系的智能排盘工具，为AI助手提供自动起卦、完整排盘、格局分析和专业解读等六爻占卜功能。

@@ -8,10 +8,12 @@ source_url: https://github.com/labguy94/mcpemulate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-23T20:20:16Z"
 ---
 ## What it is
 MCP server `CPU Emulator`, catalogued on PulseMCP. Exposes CPU emulation, disassembly, and assembly capabilities through MCP for multiple architectures.

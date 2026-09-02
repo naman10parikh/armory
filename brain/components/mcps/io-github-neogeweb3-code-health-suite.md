@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T01:12:44Z"
 ---
 ## What it is
 Provides 28 MCP tools across 16 analysis engines for comprehensive Python code quality assessment, including complexity scoring, security scanning, dead code detection, dependency auditing, and test quality analysis.

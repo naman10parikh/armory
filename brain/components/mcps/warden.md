@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:33:24Z"
 ---
 ## What it is
 A governed MCP server enforcing RBAC outside the model, with OpenTelemetry traces on every run and an LLM-as-judge eval suite proving the agent stays inside policy.

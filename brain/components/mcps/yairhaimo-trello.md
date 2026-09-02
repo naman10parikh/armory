@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-22T19:06:41Z"
 ---
 ## What it is
 MCP server `Trello`, catalogued on PulseMCP. Integrates with Trello's API to enable AI-powered project management tasks like automated workflow optimization and task creation.

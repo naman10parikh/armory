@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T16:59:04Z"
 ---
 ## What it is
 This MCP server enables medicine management, stock/refill estimation, doctor search and availability checks, and appointment management for senior care scenarios.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T21:31:24Z"
 ---
 ## What it is
 An MCP server for healthcare intake forms that lets AI agents import blank PDFs, create patient fill links, and retrieve completed PDFs while keeping PHI out of the model context.

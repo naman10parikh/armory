@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-13T19:00:37Z"
 ---
 ## What it is
 MCP server `CosmWasm Blockchain`, catalogued on PulseMCP. Bridges with CosmWasm-based blockchains using cw-orchestrator, enabling querying contract state, executing transactions, checking balances, and retrieving blockchain information without direct access to underlying infrastructure.

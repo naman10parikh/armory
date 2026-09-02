@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-03T13:03:33Z"
 ---
 ## What it is
 MCP server `Google Spreadsheets`, catalogued on PulseMCP. Integrates with Google Spreadsheets to enable retrieval and manipulation of spreadsheet data for analysis, reporting, and automated information management workflows.

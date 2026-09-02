@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T10:33:04Z"
 ---
 ## What it is
 MCP server `DealFlowPro`, catalogued on PulseMCP. Multifamily real estate deal analysis: cap rate, DSCR, IRR, and max offer price calculations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T07:06:31Z"
 ---
 ## What it is
 Enables querying 29,500+ World Bank development indicators for 200+ countries across 60+ years via MCP, with 7 tools for browsing topics, sources, countries, and indicators.

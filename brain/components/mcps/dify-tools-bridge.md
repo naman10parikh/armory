@@ -8,10 +8,12 @@ source_url: https://github.com/junjiem/dify-plugin-mcp_compat_dify_tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-25T07:38:14Z"
 ---
 ## What it is
 MCP server `Dify Tools Bridge`, catalogued on PulseMCP. Bridges Dify's tool ecosystem with MCP-compatible assistants, enabling organizations to extend their existing Dify tool configurations without duplication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-05T23:18:56Z"
 ---
 ## What it is
 Enables AI agents to build, deploy, and manage full-stack applications on AppsAI's platform, with tools for project management, backend/frontend deployment, billing, marketplace, domains, and more.

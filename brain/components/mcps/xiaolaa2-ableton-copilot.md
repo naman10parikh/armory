@@ -8,10 +8,12 @@ source_url: https://github.com/xiaolaa2/ableton-copilot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 82
+stars: 91
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-07-29T08:01:25Z"
 ---
 ## What it is
 MCP server `Ableton`, catalogued on PulseMCP. AI assistant for Ableton Live music production.

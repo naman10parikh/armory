@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T03:56:35Z"
 ---
 ## What it is
 MCP server for the nagi-ledger audit ledger and guardrail toolkit, exposing tools to record and annotate AI agent actions, subagent dispatches, and known dead ends, plus query session reports and statistics.

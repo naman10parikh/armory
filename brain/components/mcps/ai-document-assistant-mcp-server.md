@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T17:16:07Z"
 ---
 ## What it is
 Enables document Q&A, summarization, keyword extraction, and Wikipedia lookup through MCP tools, using RAG with FAISS and Ollama.

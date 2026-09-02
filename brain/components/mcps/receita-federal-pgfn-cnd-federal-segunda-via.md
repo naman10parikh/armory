@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:36Z"
 ---
 ## What it is
 Consulta a segunda via da Certidão Negativa de Débitos (CND) Federal da PGFN em fonte oficial, com acesso somente leitura via MCP.

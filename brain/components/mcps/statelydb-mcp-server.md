@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-19T18:05:06Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that integrates with the StatelyDB CLI to enable AI assistants to validate and manage StatelyDB schemas.

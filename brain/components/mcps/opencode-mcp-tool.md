@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-08-12T23:08:12Z"
 ---
 ## What it is
 This is a Model Context Protocol (MCP) server that allows AI assistants to interact with the OpenCode CLI. It enables AI assistants to leverage multiple AI models through a unified interface, with features like plan mode for structured thinking and extensive model selection.

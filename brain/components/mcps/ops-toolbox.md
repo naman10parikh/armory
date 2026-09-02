@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T17:19:04Z"
 ---
 ## What it is
 A dependency-free MCP server providing tools for tailing logs, checking endpoint health, and searching/updating a runbook of past fixes.

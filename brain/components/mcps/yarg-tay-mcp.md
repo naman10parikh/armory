@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T13:40:02Z"
 ---
 ## What it is
 Enables searching and retrieving full text of Yargıtay (Turkish Supreme Court) decisions as Markdown, via the official karararama.yargitay.gov.tr system.

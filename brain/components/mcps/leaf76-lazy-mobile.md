@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-19T09:58:01Z"
 ---
 ## What it is
 MCP server `Lazy Mobile`, catalogued on PulseMCP. Local Android and iOS mobile automation with performance telemetry via ADB, simctl, devicectl, and WebDriverAgent.

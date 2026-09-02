@@ -8,10 +8,12 @@ source_url: https://github.com/patrickpalmer/mayamcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 77
+stars: 99
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2025-05-12T12:38:25Z"
 ---
 ## What it is
 MCP server `Maya`, catalogued on PulseMCP. Provides a bridge between natural language commands and Autodesk Maya, enabling scene management, object creation, attribute manipulation, and viewport control through a dynamically extensible Python-based server.

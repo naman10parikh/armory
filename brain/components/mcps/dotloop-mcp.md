@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T17:01:16Z"
 ---
 ## What it is
 Read-only MCP server for Dotloop that exposes safe read tools for accounts, profiles, loops, folders, documents, participants, tasks, activity, and templates.

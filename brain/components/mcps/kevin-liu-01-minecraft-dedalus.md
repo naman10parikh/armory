@@ -8,10 +8,12 @@ source_url: https://github.com/kevin-liu-01/minecraft-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-16T00:03:56Z"
 ---
 ## What it is
 MCP server `Minecraft Dedalus`, catalogued on PulseMCP. LAN-oriented Minecraft bot control stack with 60+ tools for movement, mining, building, crafting, combat, planning, persistent memory, skill libraries, and autonomous survival mode via a Python server and Mineflayer bridge.

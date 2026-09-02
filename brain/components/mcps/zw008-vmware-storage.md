@@ -8,10 +8,12 @@ source_url: https://github.com/zw008/vmware-storage
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T07:22:36Z"
 ---
 ## What it is
 MCP server `VMware Storage by zw008`, catalogued on PulseMCP. VMware vSphere storage management covering datastores, iSCSI configuration, and vSAN health monitoring.

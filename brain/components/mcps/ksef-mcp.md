@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T16:16:25Z"
 ---
 ## What it is
 Single-tenant MCP server for Polish KSeF e-invoice workflows, supporting local stdio testing, draft management, and invoice submission with safety gates.

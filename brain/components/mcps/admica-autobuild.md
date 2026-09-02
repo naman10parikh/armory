@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-30T05:03:10Z"
 ---
 ## What it is
 MCP server `AutoBuild`, catalogued on PulseMCP. Provides profile-based build automation with asynchronous queuing, file system watching, and lifecycle management for automated builds, continuous integration scenarios, and development workflows requiring build system access without manual intervention.

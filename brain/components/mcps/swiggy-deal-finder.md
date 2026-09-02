@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T03:10:15Z"
 ---
 ## What it is
 Finds the cheapest nearby option for a dish on your own Swiggy account, ranked by final post-coupon payable amount.

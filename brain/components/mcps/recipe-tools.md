@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T14:08:47Z"
 ---
 ## What it is
 Enables extraction of recipes from PDFs or JPG files and conversion into structured HTML, with interactive region selection and OCR via a web GUI.

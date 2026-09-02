@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T06:06:42Z"
 ---
 ## What it is
 Compiles an Obsidian knowledge graph into a queryable MCP server, allowing AI agents to search concepts, get nodes, and retrieve related information.

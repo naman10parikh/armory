@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-04T19:18:02Z"
 ---
 ## What it is
 Minimal demo of Entra ID authentication with MCP and HTTP+SSE transport, using session mapping with JWT-like tokens.

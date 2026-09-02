@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T10:34:56Z"
 ---
 ## What it is
 Autonomous AI agent for n8n workflow automation with credential factories, execution helpers, and 4343+ workflow templates. Provides 38 MCP tools for full n8n API coverage.

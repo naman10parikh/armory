@@ -8,10 +8,12 @@ source_url: https://github.com/iosifache/annas-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 875
+stars: 1020
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 68
+pushed_at: "2026-06-26T07:54:30Z"
 ---
 ## What it is
 MCP server `Anna's Archive`, catalogued on PulseMCP. Integrates with Anna's Archive to provide search and download capabilities for Creative Commons publications and public domain materials, requiring API key authentication and emphasizing responsible use for research and educational workflows.

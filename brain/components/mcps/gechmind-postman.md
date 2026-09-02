@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-17T22:18:11Z"
 ---
 ## What it is
 MCP server `Postman`, catalogued on PulseMCP. Enables execution of Postman collections using Newman for API testing, validation, and workflow automation directly within conversations.

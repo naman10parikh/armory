@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T00:45:58Z"
 ---
 ## What it is
 Enables interaction with Google Merchant Center through 34 tools across 9 modules, including account management, product operations, reports, inventory, promotions, shipping, return policies, collections, and recommendations.

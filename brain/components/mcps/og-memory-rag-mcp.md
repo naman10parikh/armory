@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T22:52:17Z"
 ---
 ## What it is
 A thin MCP client that provides a search_kb tool for querying a remote oG-Memory knowledge base, enabling any agent to retrieve relevant information without local setup.

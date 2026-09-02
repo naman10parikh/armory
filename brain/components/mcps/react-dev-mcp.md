@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T10:29:58Z"
 ---
 ## What it is
 Enables safe, controlled filesystem operations and terminal command execution within allowed directories, with security rules to prevent access to sensitive files.

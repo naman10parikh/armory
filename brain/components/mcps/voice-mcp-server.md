@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T18:04:07Z"
 ---
 ## What it is
 Enables AI agents to speak and listen in real-time with interruption handling, using local ML models and hot-swappable adapters.

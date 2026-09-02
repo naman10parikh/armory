@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T21:43:38Z"
 ---
 ## What it is
 Enables MAME reverse engineering tasks including memory access tracing, input injection, ROM auditing, and IO-port discovery for arcade-to-SNES porting.

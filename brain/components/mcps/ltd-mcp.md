@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T17:06:50Z"
 ---
 ## What it is
 MCP server that lets AI agents connect to LTD project workspaces to inspect project health, search and manage tasks, assign owners, and add comments, with scoped tokens and preview-confirm safety for writes.

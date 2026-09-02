@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T04:31:48Z"
 ---
 ## What it is
 Security scanner for AI agent skills, providing tools to scan skill files for threats such as credential theft and prompt injection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T03:06:47Z"
 ---
 ## What it is
 Connect AI agents to your Australian bank and global brokerage data — live balances, transactions, holdings, and trades over the Model Context Protocol.

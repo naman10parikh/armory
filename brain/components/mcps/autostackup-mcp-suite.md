@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T10:16:00Z"
 ---
 ## What it is
 Provides Claude with business intelligence frameworks for sales, marketing, and operations, enabling lead qualification, pipeline tracking, marketing mix analysis, and campaign planning through natural language.

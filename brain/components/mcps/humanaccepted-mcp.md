@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T14:26:27Z"
 ---
 ## What it is
 MCP server that auto-emits tamper-evident receipts for every tool call, enabling EU AI Act Article 12 compliance with signed, chain-linked receipts.

@@ -8,10 +8,12 @@ source_url: https://github.com/0xkoda/wiremcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 475
+stars: 577
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 62
+pushed_at: "2025-07-09T20:28:22Z"
 ---
 ## What it is
 MCP server `WireMCP (Wireshark)`, catalogued on PulseMCP. Empowers network analysis with real-time traffic monitoring capabilities through Wireshark's tshark utility, providing tools for packet capture, protocol statistics, conversation tracking, and threat detection.

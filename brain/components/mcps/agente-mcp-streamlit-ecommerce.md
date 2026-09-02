@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T04:14:39Z"
 ---
 ## What it is
 Enables natural-language querying of an e-commerce dataset by providing a LangChain agent that uses tools to execute parameterized SQL queries on a SQLite database, with short-term memory and Streamlit or Claude Desktop interfaces.

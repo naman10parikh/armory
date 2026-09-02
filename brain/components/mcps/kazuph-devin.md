@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-25T07:07:32Z"
 ---
 ## What it is
 MCP server `Devin`, catalogued on PulseMCP. Integrates with Slack to enable seamless team collaboration through automated session management, thread context preservation, and channel-based conversations

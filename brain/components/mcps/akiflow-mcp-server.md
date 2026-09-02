@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-05-24T11:31:44Z"
 ---
 ## What it is
 MCP server for Akiflow task management with Meeting Assistant support. Enables creating, updating, scheduling tasks, managing calendars, and accessing meeting recordings, summaries, and action items.

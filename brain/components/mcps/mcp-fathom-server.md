@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-12-28T20:00:34Z"
 ---
 ## What it is
 Enables Claude to search and retrieve meeting information from Fathom AI through natural language queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-09T10:09:39Z"
 ---
 ## What it is
 Enables AI assistants to manage RongCloud instant messaging services, including user registration, message sending, and group operations.

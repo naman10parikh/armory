@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T04:55:36Z"
 ---
 ## What it is
 Scans local folders for PDF papers, extracts title/abstract text, and moves files to categorized folders based on classification decisions made by Claude or another MCP server.

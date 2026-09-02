@@ -8,10 +8,12 @@ source_url: https://github.com/lekssays/codebadger
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 107
+stars: 163
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-08-31T11:38:23Z"
 ---
 ## What it is
 MCP server `Joern`, catalogued on PulseMCP. Provides static code analysis capabilities using Joern's Code Property Graph technology in Docker environments, automatically detecting programming languages and executing security vulnerability detection, code quality assessment, and metrics calculation queries.

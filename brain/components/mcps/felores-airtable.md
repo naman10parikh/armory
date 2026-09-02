@@ -8,10 +8,12 @@ source_url: https://github.com/felores/airtable-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 73
+stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 34
+pushed_at: "2025-01-27T16:44:10Z"
 ---
 ## What it is
 MCP server `Airtable`, catalogued on PulseMCP. Airtable MCP server enables AI assistants to programmatically manage Airtable bases, tables, fields, and records through a simplified interface to the Airtable API.

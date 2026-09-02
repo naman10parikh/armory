@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T12:39:32Z"
 ---
 ## What it is
 Enables querying and analysis of Kakao Keyword Ads data, including campaigns, ad groups, keywords, and performance reports. Supports 21 read-only tools and 2 resources for accessing ad account information and metrics.

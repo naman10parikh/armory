@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T02:16:36Z"
 ---
 ## What it is
 Acts as a middleware for the Unreal Engine 5.8 editor, serving as an MCP Server for LLMs (Claude/GPT) and an MCP Client for the UE MCP Server, enabling context assembly, state caching, visual verification, long-task memory compression, and safety guards.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-09T05:12:39Z"
 ---
 ## What it is
 Enables AI assistants to manage Focalboard boards and blocks through the Model Context Protocol, supporting both Stdio and HTTP transport modes.

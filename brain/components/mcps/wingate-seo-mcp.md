@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T05:34:07Z"
 ---
 ## What it is
 Enables natural-language, read-only analysis of your own Google Search Console and Google Analytics 4 data, including search performance, engagement, sitemap health, ranking opportunities, and deterministic SEO audits through MCP clients like ChatGPT.

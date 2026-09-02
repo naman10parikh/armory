@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:48Z"
 ---
 ## What it is
 Consulta certidões cíveis de 1º grau do Tribunal de Justiça de São Paulo em fonte oficial, com leitura somente e acesso via MCP.

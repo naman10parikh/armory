@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T14:16:02Z"
 ---
 ## What it is
 An MCP server that provides structure-aware code analysis (symbol trees, dependencies, docs) to reduce AI agent token consumption by up to 99%, along with Git commit intelligence.

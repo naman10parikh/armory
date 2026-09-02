@@ -8,11 +8,13 @@ source_url: https://github.com/lordbasilaiassistant-sudo/broke2built-skills-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:15:20Z"
 ---
 ## What it is
 Provides 29 live data skills for AI agents, including email/DNS/domain intelligence, SEO & security audits, content extraction, and EVM on-chain reads, with a free tier that works out of the box.

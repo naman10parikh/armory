@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-29T12:57:02Z"
 ---
 ## What it is
 MCP server `Vapi`, catalogued on PulseMCP. Integrates with Vapi voice AI platform to manage assistants, calls, phone numbers, workflows, and analytics while enabling voice infrastructure control and conversation data analysis.

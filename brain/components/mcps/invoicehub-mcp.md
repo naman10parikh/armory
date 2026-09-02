@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T01:57:59Z"
 ---
 ## What it is
 EU e-invoice validation, as a developer API. Check whether an electronic invoice conforms to EN 16931 — the European standard behind France, Germany, Belgium, Poland and the 2030 ViDA mandate — with a single REST call. Structured JSON errors mapped to the official BR-* business rules. No enterprise 

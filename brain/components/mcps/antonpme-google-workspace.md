@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-05T19:54:47Z"
 ---
 ## What it is
 MCP server `Google Workspace`, catalogued on PulseMCP. Provides OAuth2-authenticated access to Google Workspace services including Gmail, Calendar, Drive, Docs, and Sheets with multi-account support.

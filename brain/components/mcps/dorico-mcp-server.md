@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-06T12:37:17Z"
 ---
 ## What it is
 An MCP server that enables natural language control of Steinberg Dorico music notation software through Claude Desktop or ChatGPT, offering tools for score creation, note input, notation, harmony analysis, and orchestration.

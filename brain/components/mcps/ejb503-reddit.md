@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-06-23T07:36:57Z"
 ---
 ## What it is
 MCP server `Reddit`, catalogued on PulseMCP. Enables AI to search, read, and interact with Reddit content through tools for analyzing subreddits, creating posts/comments, managing notifications, and configuring content creation instructions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-05T09:52:58Z"
 ---
 ## What it is
 Provides access to Poland's largest business registry database, enabling company search, beneficiary checks, and financial document retrieval via natural language.

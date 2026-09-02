@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T15:48:47Z"
 ---
 ## What it is
 Enables interaction with Zoom APIs through MCP, supporting multi-user OAuth token management, read-only and admin-gated mutation tools, schema discovery, and query suggestions for LLM workflows.

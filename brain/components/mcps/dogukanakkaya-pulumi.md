@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-01T11:51:50Z"
 ---
 ## What it is
 MCP server `Pulumi`, catalogued on PulseMCP. Enables AI assistants to manage infrastructure as code through Pulumi Cloud API, providing capabilities to create and list stacks across organizations and projects

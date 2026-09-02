@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:05:47Z"
 ---
 ## What it is
 Remote MCP server for verifying API key authentication header propagation and debugging inbound HTTP headers.

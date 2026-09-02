@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-12T08:12:07Z"
 ---
 ## What it is
 MCP server `Configuration Manager`, catalogued on PulseMCP. Manages configurations for multiple MCP clients across platforms, providing tools to retrieve, list, add, and remove server configurations from client configuration files.

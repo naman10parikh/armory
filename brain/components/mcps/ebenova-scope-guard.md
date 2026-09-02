@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T12:08:30Z"
 ---
 ## What it is
 MCP server `Ebenova Scope Guard`, catalogued on PulseMCP. Detects AI contract scope violations, identifies scope creep, and drafts change order responses.

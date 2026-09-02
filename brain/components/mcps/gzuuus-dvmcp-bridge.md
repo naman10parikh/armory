@@ -8,10 +8,12 @@ source_url: https://github.com/gzuuus/dvmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-07-21T16:35:14Z"
 ---
 ## What it is
 MCP server `DVMCP`, catalogued on PulseMCP. Decentralizes computational tool discovery and execution by bridging Nostr's Data Vending Machine ecosystem, enabling distributed service interactions through NIP-89 announcements and direct Nostr event requests.

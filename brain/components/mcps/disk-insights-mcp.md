@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T12:37:57Z"
 ---
 ## What it is
 A read-only MCP server that reports largest files, folder sizes, and disk usage, running locally without any data leaving your machine.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 5
+forks: 0
+pushed_at: "2026-06-08T17:01:21Z"
 ---
 ## What it is
 Minimal MCP server (~250 lines TS) for ERC-8004 agent discovery + x402 payment. Three tools: `find_agents_by_skill` (via 8004scan public API), `get_agent_card`, `call_agent_with_payment` using Coinbase's official `x402-fetch`. Direct EOA signing — no smart account, no bundler, no relay. Works with Claude Code, OpenClaw, Cursor, Cline. USDC on Base/Ethereum + testnets, MIT.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-05T07:36:49Z"
 ---
 ## What it is
 Enables AI assistants to interact with Tencent Lexiang enterprise knowledge base for searching, reading, creating, and editing documents, managing files, and importing meeting recordings.

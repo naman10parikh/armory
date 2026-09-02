@@ -8,11 +8,13 @@ source_url: https://github.com/aranlucas/ai-shopping-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:49:02Z"
 ---
 ## What it is
 Enables AI models to manage Kroger/QFC shopping lists, search products, and plan meals via the Kroger API.

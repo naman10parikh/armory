@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T12:37:52Z"
 ---
 ## What it is
 An enterprise-ready MCP server that exposes a RAG tool for retrieving relevant context and metadata from a Qdrant vector database using natural language queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-04T06:34:36Z"
 ---
 ## What it is
 Provides AI assistants with access to ShopSavvy's comprehensive product data, pricing information, and historical price tracking, enabling product lookup by barcode or ASIN, current offers, price history, and scheduling for automatic monitoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T15:19:59Z"
 ---
 ## What it is
 Bridges a Matrix room with Claude Code's claude/channel feature, enabling chat from Matrix to interact with a running Claude Code session.

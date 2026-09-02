@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T10:23:15Z"
 ---
 ## What it is
 Provides AI agents with access to CO2 emissions data, climate projections, and risk assessments for heat, flooding, and drought, supporting ESG analysis and CSRD compliance.

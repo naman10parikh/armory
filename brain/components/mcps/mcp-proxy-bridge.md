@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T08:25:00Z"
 ---
 ## What it is
 Enables AI coding assistants to access hosts (e.g., GitHub) behind a local proxy by automatically launching the proxy client and configuring tools to route through it.

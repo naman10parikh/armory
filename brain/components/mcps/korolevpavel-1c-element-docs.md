@@ -8,10 +8,12 @@ source_url: https://github.com/korolevpavel/xbsl-mcp-docs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-31T15:17:32Z"
 ---
 ## What it is
 MCP server `1C Element Docs`, catalogued on PulseMCP. MCP server providing local documentation search for the 1С:Элемент enterprise platform, indexing topics, standard library references, and user uploads.

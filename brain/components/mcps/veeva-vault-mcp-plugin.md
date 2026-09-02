@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T19:00:21Z"
 ---
 ## What it is
 Provides two MCP servers: one for searching public Vault documentation and another for read-only access to customer Vaults via OAuth/OIDC.

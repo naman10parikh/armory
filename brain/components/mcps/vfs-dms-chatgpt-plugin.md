@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T11:27:33Z"
 ---
 ## What it is
 Enables read-only file-management operations from AI assistants, including health checks, connection and folder listings, search, share-link resolution, metadata retrieval, and on-demand document reading.

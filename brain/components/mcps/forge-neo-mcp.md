@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T20:40:15Z"
 ---
 ## What it is
 Enables AI agents to generate images on a local Stable Diffusion Forge Neo instance, automatically inferring prompt style and sampling parameters from the user's setup and past generations, and providing tools for LoRA search, model management, and module checks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T18:22:52Z"
 ---
 ## What it is
 Provides GDB and clangd-based tools for debugging C++ programs, enabling step execution, variable inspection, diagnostics, and combined runtime-static analysis.

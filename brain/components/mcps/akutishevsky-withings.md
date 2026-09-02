@@ -8,10 +8,12 @@ source_url: https://github.com/akutishevsky/withings-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-30T08:07:55Z"
 ---
 ## What it is
 MCP server `Withings`, catalogued on PulseMCP. Integrates with Withings health devices for sleep metrics, body measurements, workouts, ECG recordings, and activity tracking

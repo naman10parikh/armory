@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-28T13:33:44Z"
 ---
 ## What it is
 Connects Claude AI with EPRI's OpenDSS power system simulator, enabling conversational power system analysis for distribution planning.

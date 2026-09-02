@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-27T12:30:02Z"
 ---
 ## What it is
 Enables natural language querying of Apache Doris databases via LLM-powered SQL generation, execution, and metadata management through the MCP protocol.

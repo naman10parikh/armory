@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-27T06:23:08Z"
 ---
 ## What it is
 Fetches YouTube subtitles via yt-dlp, cleans them into plain text, and provides tools for transcript retrieval, file management, and session-based storage with paging.

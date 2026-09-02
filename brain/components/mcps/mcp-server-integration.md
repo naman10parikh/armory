@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T08:14:16Z"
 ---
 ## What it is
 Scaffolds a custom MCP server with placeholder resources and tools, enabling developers to practice setting up MCP configuration, environment variables, and server implementation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T07:48:11Z"
 ---
 ## What it is
 Quote, book, and track real LTL, FTL, cargo van, and box-truck freight through the Warp network - 20 tools, in-chat login, Stripe-charged bookings, and real carrier dispatch. Quoting is keyless; booking needs a free Warp account with a card on file.

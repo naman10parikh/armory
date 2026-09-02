@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T16:02:10Z"
 ---
 ## What it is
 Enables read-only SQL queries and CSV exports to the Bolthouse_Ag_AI database via MCP tools like execute_sql_query and submit_sql_export, with bearer-token authentication.

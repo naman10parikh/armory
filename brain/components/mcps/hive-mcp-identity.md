@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T22:37:43Z"
 ---
 ## What it is
 W3C DID resolution and agent KYC for autonomous agent counterparties, enabling identity verification and trust scoring.

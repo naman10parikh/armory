@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T08:12:46Z"
 ---
 ## What it is
 Enables AI image and video generation using Dreamshot's API, supporting tools like image editing, video creation, and enhancement directly from MCP-compatible clients.

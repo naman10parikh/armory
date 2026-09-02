@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T08:32:32Z"
 ---
 ## What it is
 MCP server inspector that reads a server's published source code and reports findings with file:line evidence, helping users assess what an MCP server does before connecting.

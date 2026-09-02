@@ -8,11 +8,13 @@ source_url: https://github.com/perfectra1n/triliumnext-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 64
+stars: 65
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-09-02T03:28:46Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for interacting with TriliumNext via its ETAPI. Enables LLMs to create, read, update, and organize notes, including embedding images and files directly into note content.

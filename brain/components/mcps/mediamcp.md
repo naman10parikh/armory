@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T19:44:36Z"
 ---
 ## What it is
 mediamcp is an MCP server that connects your AI assistant — Claude Code, Claude Desktop, Cursor, Windsurf, VS Code, or anything else that speaks MCP — to cloud media models (Gemini Flash Image, GPT-5 Image, Seedream, Veo, Sora, …) via OpenRouter or any OpenAI-compatible API.

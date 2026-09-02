@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-11-19T07:14:38Z"
 ---
 ## What it is
 MCP server `Codebase Insight`, catalogued on PulseMCP. Provides deep code analysis capabilities for software repositories, enabling pattern detection, architecture understanding, and knowledge management through a FastAPI server with Qdrant vector database integration.

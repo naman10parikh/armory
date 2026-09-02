@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T06:08:11Z"
 ---
 ## What it is
 Enables searching and retrieving environmental impact assessment projects from the Korean EIASS system, including document keyword search, PDF text extraction, geocoding, and checking adjacency to protected areas like national parks.

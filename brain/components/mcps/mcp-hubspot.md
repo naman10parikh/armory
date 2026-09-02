@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T19:42:26Z"
 ---
 ## What it is
 An MCP server that uses a browser extension to interact with HubSpot through the logged-in browser, enabling reading, searching, creating, and updating HubSpot records without API tokens.

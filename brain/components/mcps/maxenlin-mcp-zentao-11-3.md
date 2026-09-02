@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-18T19:18:03Z"
 ---
 ## What it is
 Enables AI-powered interaction with ZenTao 11.3 legacy systems, supporting task, bug, requirement, and test case management via MCP protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:04:36Z"
 ---
 ## What it is
 Enables querying quality procedures in natural language, retrieving relevant passages via RAG, and calculating supplier KPIs such as PPM and non-conformity rates through MCP-exposed tools.

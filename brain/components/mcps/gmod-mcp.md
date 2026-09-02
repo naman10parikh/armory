@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T09:34:07Z"
 ---
 ## What it is
 MCP server for Garry's Mod enabling RCON command execution, Lua scripting, window control, screenshots, and SFTP file management.

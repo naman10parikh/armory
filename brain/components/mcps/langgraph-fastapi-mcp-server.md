@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T08:38:11Z"
 ---
 ## What it is
 Enables LLM-powered agents to securely communicate with and orchestrate downstream microservices via FastAPI endpoints exposed as MCP tools.

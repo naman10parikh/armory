@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T00:05:38Z"
 ---
 ## What it is
 Enables Claude users to research U.S. labor-market trends through live BLS and FRED data, covering employment, unemployment, wages, job openings, occupational outlook, and industry comparisons.

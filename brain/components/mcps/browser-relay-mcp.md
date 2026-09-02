@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T06:37:04Z"
 ---
 ## What it is
 Unlimited, session-authenticated web search and fetch for AI tools using your own browser. Supports authenticated/paywalled pages without API keys.

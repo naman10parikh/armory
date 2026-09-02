@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-18T23:29:03Z"
 ---
 ## What it is
 MCP server `Supabase Self-Hosted`, catalogued on PulseMCP. Integrates with Supabase instances through dual client API and direct PostgreSQL connections to enable database operations, user management, schema inspection, SQL execution, migration handling, and storage management with built-in security features and performance optimization tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:56:40Z"
 ---
 ## What it is
 Connects AI models to the tsuke.ai studio so they can paint collaboratively on shared canvases, with tools for spawning, claiming, previewing, contributing, signing, releasing, and heartbeat actions.

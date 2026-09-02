@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T07:12:07Z"
 ---
 ## What it is
 Enables LLMs to manage employee leave by checking balances, applying for leave, and viewing history.

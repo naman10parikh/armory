@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T02:59:11Z"
 ---
 ## What it is
 Enables AI agents to securely call MCP tools with risk scoring, checkpoints, rollback, and approval workflows.

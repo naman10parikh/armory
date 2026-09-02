@@ -8,10 +8,12 @@ source_url: https://github.com/bharatrameshwar/commonplace
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-06T10:50:41Z"
 ---
 ## What it is
 MCP server `Commonplace`, catalogued on PulseMCP. Local macOS activity tracker that captures app usage, screenshots, and browser URLs to build a searchable daily commonplace book.

@@ -8,11 +8,13 @@ source_url: https://github.com/tinygodsdev/bitext-word-alignment
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-22T01:32:40Z"
 ---
 ## What it is
 Enables creating word alignment visualizations between sentences and their translations, returning shareable links and preview images.

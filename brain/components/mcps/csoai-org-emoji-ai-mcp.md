@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T14:40:30Z"
 ---
 ## What it is
 MCP server `Emoji AI`, catalogued on PulseMCP. AI tools for emoji selection, sentiment mapping, and text-to-emoji conversion.

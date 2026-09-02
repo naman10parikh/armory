@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T03:49:46Z"
 ---
 ## What it is
 MCP server for synthetic vendor-management workflow, providing structured access to vendor records, contracts, spending, renewals, and security reviews. Currently exposes read-only vendor data over local stdio.

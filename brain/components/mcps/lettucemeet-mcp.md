@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T15:16:22Z"
 ---
 ## What it is
 Unofficial MCP tools for LettuceMeet to create polls, view responses, and find meeting overlaps via CLI or MCP server.

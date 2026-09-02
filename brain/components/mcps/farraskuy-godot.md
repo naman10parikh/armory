@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T10:09:27Z"
 ---
 ## What it is
 MCP server `Godot`, catalogued on PulseMCP. 168 AI-powered tools for Godot 4 Editor enabling game development through natural language commands.

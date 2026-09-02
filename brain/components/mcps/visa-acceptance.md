@@ -8,10 +8,12 @@ source_url: https://github.com/visaacceptance/agent-toolkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-04-03T20:38:39Z"
 ---
 ## What it is
 MCP server `Visa Acceptance`, catalogued on PulseMCP. Integrates with Visa Acceptance payment APIs to enable invoice management, payment link creation, and Cybersource-backed payment processing for automated billing workflows.

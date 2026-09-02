@@ -8,10 +8,12 @@ source_url: https://github.com/rippermercs/tensorfeed
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T14:17:21Z"
 ---
 ## What it is
 MCP server `TensorFeed`, catalogued on PulseMCP. Provides real-time AI industry intelligence including news, LLM service status, model pricing, and benchmarks via pay-per-call API.

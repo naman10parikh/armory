@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-10T18:54:44Z"
 ---
 ## What it is
 Enables AI models to retrieve random or specified numbers of fictional cats with names, descriptions, and images.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-01T00:59:50Z"
 ---
 ## What it is
 MCP server `Qase`, catalogued on PulseMCP. Provides a bridge to Qase test management platform for automated test case management and reporting through the Qase API

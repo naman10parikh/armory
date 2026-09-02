@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-01T16:07:04Z"
 ---
 ## What it is
 Integrates Leonardo AI image generation capabilities into MCP-compatible clients like Cursor, Claude Desktop, and VS Code, allowing natural language commands to generate, upscale, vary, and manage images.

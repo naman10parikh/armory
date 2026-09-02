@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T09:10:40Z"
 ---
 ## What it is
 A sovereign, MIT-licensed MCP server for FallEstate US, enabling AI agents to sign, manage, and trade property listings and transactions securely with Ed25519 signatures.

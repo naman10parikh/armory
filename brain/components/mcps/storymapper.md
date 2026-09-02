@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T05:33:59Z"
 ---
 ## What it is
 A User Story Map and Kanban board that a human and an AI coding agent plan together in real time via MCP, with live bidirectional sync and governance enforcement.

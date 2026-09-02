@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:35Z"
 ---
 ## What it is
 Provides read-only access to download and OCR 'Light' utility bills from the official source, enabling document retrieval and text extraction via natural language. It is a hosted MCP server with prepaid credits and works with any MCP client.

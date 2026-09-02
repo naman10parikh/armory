@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T16:18:29Z"
 ---
 ## What it is
 An MCP server providing over 30 mathematical and statistical tools, enabling language models to perform calculations, trigonometry, statistics, combinatorics, and list operations through natural language.

@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-20T06:31:26Z"
 ---
 ## What it is
 MCP server `Bear Notes`, catalogued on PulseMCP. Provides direct access to Bear App's SQLite database on macOS, enabling search and retrieval of personal notes by content, title, or tags, plus extraction of code blocks and technical documentation for knowledge discovery workflows.

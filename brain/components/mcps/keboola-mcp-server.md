@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T23:25:10Z"
 ---
 ## What it is
 Connects AI agents and MCP clients to Keboola, enabling storage queries, SQL transformations, job triggers, and more through natural language.

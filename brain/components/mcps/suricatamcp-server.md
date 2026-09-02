@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T23:11:42Z"
 ---
 ## What it is
 Turn Claude Desktop into a network security analyst. A comprehensive MCP server that connects Claude Desktop to Suricata IDS/IPS for PCAP analysis, rule management, and rule quality linting through natural language.

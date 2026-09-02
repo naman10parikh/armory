@@ -8,10 +8,12 @@ source_url: https://github.com/skernelx/mysearch-proxy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 131
+stars: 157
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-03-23T03:55:21Z"
 ---
 ## What it is
 MCP server `MySearch Proxy`, catalogued on PulseMCP. Unified search proxy aggregating Tavily, Firecrawl, and Exa with team-shared backend and token management.

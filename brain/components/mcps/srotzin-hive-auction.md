@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-29T07:53:18Z"
 ---
 ## What it is
 MCP server `Hive Auction`, catalogued on PulseMCP. Reverse Dutch auction for scarce compute slot allocation, starting at 5x asking rate and dropping 5% per 30 seconds to a floor price.

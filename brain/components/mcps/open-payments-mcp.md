@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T18:10:33Z"
 ---
 ## What it is
 Enables Open Payments operations such as creating incoming payments, quotes, and outgoing payments via the Interledger protocol. Supports wallet address retrieval, grant management, and payment flow automation.

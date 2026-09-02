@@ -8,10 +8,12 @@ source_url: https://github.com/dynsoft-lab/software-as-content-sdk
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-16T13:38:24Z"
 ---
 ## What it is
 MCP server `Software as Content`, catalogued on PulseMCP. Agent SDK for generating live, interactive apps as responses instead of static text.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-30T00:44:32Z"
 ---
 ## What it is
 MCP server `Vertex AI`, catalogued on PulseMCP. Offload repository analysis and screenshot understanding to Google Vertex AI.

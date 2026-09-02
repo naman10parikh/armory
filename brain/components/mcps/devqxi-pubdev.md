@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-12T02:51:41Z"
 ---
 ## What it is
 MCP server `pub.dev`, catalogued on PulseMCP. Integrates with pub.dev to enable package discovery, version management, dependency analysis, and documentation retrieval for Dart and Flutter development workflows.

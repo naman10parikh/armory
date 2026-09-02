@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T01:33:24Z"
 ---
 ## What it is
 A Python MCP server for discovering and analyzing Sentinel-2 L2A imagery, enabling AI agents to search scenes, check quality, and compute spectral indices like NDVI, NDWI, and NBR from remote COG windows.

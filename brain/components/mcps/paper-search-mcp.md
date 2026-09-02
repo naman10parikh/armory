@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T13:20:56Z"
 ---
 ## What it is
 Enables agents to search papers across Semantic Scholar and arXiv, read and extract text from arXiv PDFs, align records across sources, and produce structured literature-analysis digests.

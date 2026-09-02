@@ -8,11 +8,13 @@ source_url: https://github.com/tgeselle/bugsnag-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-03-22T07:20:15Z"
 ---
 ## What it is
 Enables interacting with Bugsnag to investigate and resolve errors via natural language. Supports browsing organizations, projects, errors, stacktraces, and exception chains.

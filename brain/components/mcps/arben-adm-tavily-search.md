@@ -8,10 +8,12 @@ source_url: https://github.com/arben-adm/tavily-mcp-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-29T23:22:18Z"
 ---
 ## What it is
 MCP server `Tavily Search`, catalogued on PulseMCP. Integrates with Tavily search API to enable natural language web queries for retrieving up-to-date, contextual information from across the internet.

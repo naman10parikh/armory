@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T12:11:10Z"
 ---
 ## What it is
 Enables ingesting documents or text to extract entities and relationships via LLM, storing them in Neo4j, and searching or retrieving episodes.

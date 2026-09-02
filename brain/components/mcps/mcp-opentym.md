@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T08:27:57Z"
 ---
 ## What it is
 A lightweight MCP HTTP server giving AI assistants real tools to interact with your Windows machine, including running commands, file access, system info, web search, and browser automation.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-19T10:51:53Z"
 ---
 ## What it is
 MCP server `Kentik`, catalogued on PulseMCP. Integrates with the Kentik network observability platform to query flow data, manage devices and interfaces, monitor synthetic tests, and analyze traffic patterns.

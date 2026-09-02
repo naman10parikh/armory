@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-28T14:55:34Z"
 ---
 ## What it is
 Enables users to interact with AmoCRM via Claude Desktop using natural language, with 17 tools for accessing CRM entities like leads, contacts, and pipelines.

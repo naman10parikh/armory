@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T22:52:32Z"
 ---
 ## What it is
 Search Japanese onomatopoeia by scene, not by spelling. 161 entries with nuance explained in Japanese and English. Fully offline MCP server, no API key required.

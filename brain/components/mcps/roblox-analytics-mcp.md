@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T20:27:25Z"
 ---
 ## What it is
 A local MCP server that gives AI agents read access to Roblox experience analytics via the Open Cloud API, exposing 168 metrics and analysis tools for retention, engagement, monetization, and more.

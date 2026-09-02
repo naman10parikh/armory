@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-17T01:55:49Z"
 ---
 ## What it is
 Deploys a stateless MCP server on AWS Lambda and API Gateway using CDK, supporting Express.js or Hono implementations with bearer token authentication and MCP tools, resources, and prompts.

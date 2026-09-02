@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-01T21:46:42Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides AI assistants with secure access to Obsidian vaults. Enables reading, writing, searching, and managing notes without requiring Obsidian to be running.

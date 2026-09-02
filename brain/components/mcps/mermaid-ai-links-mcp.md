@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T21:26:03Z"
 ---
 ## What it is
 Enables AI hosts to generate and open Mermaid diagram links in Markdown files, providing tools for syncing, listing, and injecting diagrams via the Mermaid.ai editor.

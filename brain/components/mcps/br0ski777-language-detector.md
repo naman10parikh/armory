@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:35Z"
 ---
 ## What it is
 MCP server `Language Detector`, catalogued on PulseMCP. Identifies the written language of input text using trigram frequency analysis, covering over 30 languages with script detection.

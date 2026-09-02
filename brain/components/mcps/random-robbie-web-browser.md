@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-10T13:34:26Z"
 ---
 ## What it is
 MCP server `Web Browser (Playwright)`, catalogued on PulseMCP. Integrates with Playwright to enable cross-browser web automation for tasks like scraping, testing, and content extraction.

@@ -8,10 +8,12 @@ source_url: https://github.com/replica882/twitter-bridge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 122
+stars: 130
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-03-29T16:13:47Z"
 ---
 ## What it is
 MCP server `Twitter Bridge`, catalogued on PulseMCP. Connects to Twitter/X via browser automation with 19 tools for posting, searching, and managing interactions.

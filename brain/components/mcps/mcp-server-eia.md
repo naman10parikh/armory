@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T07:46:43Z"
 ---
 ## What it is
 Provides AI agents with structured access to the U.S. EIA Open Data API for energy data including power plants, operations, fuel prices, projections, and state CO2 emissions.

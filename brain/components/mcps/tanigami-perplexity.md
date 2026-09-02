@@ -8,10 +8,12 @@ source_url: https://github.com/tanigami/mcp-server-perplexity
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 92
+stars: 94
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 39
+pushed_at: "2024-12-25T07:06:10Z"
 ---
 ## What it is
 MCP server `Perplexity`, catalogued on PulseMCP. Get chat completions with citations from Perplexity API.

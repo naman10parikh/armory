@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-11T15:05:20Z"
 ---
 ## What it is
 MCP server `Termlink`, catalogued on PulseMCP. Secure terminal and filesystem access with configurable command filtering, file operations, and system monitoring.

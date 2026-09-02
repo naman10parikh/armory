@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T08:21:30Z"
 ---
 ## What it is
 MCP server that wraps Cursor Enterprise API to enable AI agents to answer questions about team spending, usage, and model adoption.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T05:48:51Z"
 ---
 ## What it is
 Enables users to manage job applications (add, list, update status) through natural language conversations, using Notion as the backend.

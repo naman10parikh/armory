@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T00:44:28Z"
 ---
 ## What it is
 Enables agents to retrieve and cite text from MinIO-hosted knowledge bases by indexing PDF/txt/md documents into Chroma and exposing search, ingestion, and source listing as MCP tools.

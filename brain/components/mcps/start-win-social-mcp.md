@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T12:37:33Z"
 ---
 ## What it is
 Enables publishing and scheduling social media posts through the Social by Start-Win API, supporting multiple connected networks.

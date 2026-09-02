@@ -8,10 +8,12 @@ source_url: https://github.com/duhlink/instagram-server-next-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-01-09T08:34:30Z"
 ---
 ## What it is
 MCP server `Instagram Analytics`, catalogued on PulseMCP. Integrates with Instagram's API and web scraping tools to enable social media analytics, account management, and content strategy insights.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T05:44:16Z"
 ---
 ## What it is
 Proxies the local Affinity MCP server over stdio, enabling tools to call Affinity's tools like execute_script and search_sdk_hints via MCP.

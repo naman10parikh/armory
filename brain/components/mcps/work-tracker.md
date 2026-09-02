@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T06:55:26Z"
 ---
 ## What it is
 Automatically tracks AI-assisted work sessions, code changes, and commands in Claude Code or Codex CLI, and provides daily stats, weekly reports, and data export through MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T23:34:18Z"
 ---
 ## What it is
 Enables AI agents to control Chrome browser actions like navigation, clicking, form filling, screenshots, and console/network logging via an MCP server and Chrome extension.

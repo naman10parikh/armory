@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-23T14:24:07Z"
 ---
 ## What it is
 MCP server `S3`, catalogued on PulseMCP. Provides AWS S3 and S3-compatible object storage operations with configurable read-only or read-write modes, CDN URL generation, and bulk operations.

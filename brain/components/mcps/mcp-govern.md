@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-25T20:40:07Z"
 ---
 ## What it is
 MCP server for investigating public transparency and detecting corruption patterns by cross-referencing open data from Catalan, Barcelona, and Spanish government sources, with 49 tools for contract, subsidy, salary, and lobbying analysis.

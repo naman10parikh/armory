@@ -8,10 +8,12 @@ source_url: https://github.com/tschoonj/xraylib-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-14T03:58:46Z"
 ---
 ## What it is
 MCP server `xraylib`, catalogued on PulseMCP. Provides access to X-ray interaction data from the xraylib scientific library.

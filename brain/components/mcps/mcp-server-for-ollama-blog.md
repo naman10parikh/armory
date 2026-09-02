@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T06:21:36Z"
 ---
 ## What it is
 Exposes a blog CRUD API (posts and comments) as MCP tools, with an integrated AI chatbot agent powered by Ollama Gemma2 for natural language interaction.

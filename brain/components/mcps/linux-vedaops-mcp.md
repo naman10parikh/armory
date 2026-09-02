@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T19:33:09Z"
 ---
 ## What it is
 Governed development control plane for VedaOps projects, letting authorized agents inspect, search, patch, test, lint, and coordinate registered software without exposing a general shell.

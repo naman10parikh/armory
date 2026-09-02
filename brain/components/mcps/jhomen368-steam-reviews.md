@@ -8,10 +8,12 @@ source_url: https://github.com/jhomen368/steam-reviews-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T03:55:04Z"
 ---
 ## What it is
 MCP server `Steam Reviews`, catalogued on PulseMCP. Searches Steam games, fetches user reviews, and performs sentiment analysis with topic drill-down capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T00:06:26Z"
 ---
 ## What it is
 Caches Figma file data locally and provides an MCP server for AI agents to search and retrieve design nodes efficiently, minimizing API calls.

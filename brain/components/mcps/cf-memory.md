@@ -8,11 +8,13 @@ source_url: https://github.com/hansakoch/cf-memory-plugin
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T06:08:28Z"
 ---
 ## What it is
 Provides MCP tools for persistent, cross-session memory via Cloudflare Agent Memory, enabling agents to store, recall, ingest, summarize, and manage memory namespaces.

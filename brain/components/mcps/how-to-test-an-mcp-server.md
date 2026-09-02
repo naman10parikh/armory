@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T13:19:52Z"
 ---
 ## What it is
 A minimal MCP server with get_weather and create_ticket tools, used for testing MCP servers across protocol, unit, eval, transport, and auth layers.

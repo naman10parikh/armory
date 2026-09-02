@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T02:49:41Z"
 ---
 ## What it is
 Encrypted, local memory for your Claude Code Telegram bot. Captures both sides of the conversation at the plugin source (survives restarts and crashes) and recalls it via MCP tools.

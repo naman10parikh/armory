@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-22T16:29:21Z"
 ---
 ## What it is
 MCP server `Zenn`, catalogued on PulseMCP. Automates article publishing from GitHub to Zenn

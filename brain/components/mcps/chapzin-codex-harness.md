@@ -8,10 +8,12 @@ source_url: https://github.com/chapzin/codex-harness-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-12T17:46:37Z"
 ---
 ## What it is
 MCP server `Codex Harness`, catalogued on PulseMCP. Creates a structured control plane for Codex CLI managing execution contracts, persistent project knowledge, verification records, and evaluation frameworks.

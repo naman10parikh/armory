@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:11:56Z"
 ---
 ## What it is
 A general-purpose MCP connectivity layer that bridges MCP clients to authenticated remote MCP servers, managing authentication, credentials, routing, and connection lifecycle. It enables clients like OpenHands Cloud to securely connect to remote MCP servers such as Notion.

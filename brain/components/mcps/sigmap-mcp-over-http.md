@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T08:48:05Z"
 ---
 ## What it is
 Exposes the sigmap MCP server (code analysis tools) over Streamable HTTP via supergateway, allowing remote MCP clients to query code context, signatures, and more.

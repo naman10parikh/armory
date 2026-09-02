@@ -8,10 +8,12 @@ source_url: https://github.com/zencoderai/slack-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 41
+pushed_at: "2025-07-16T20:31:39Z"
 ---
 ## What it is
 MCP server `Slack`, catalogued on PulseMCP. Integrates with Slack workspaces to enable complete messaging operations including channel management, message posting, thread replies, reactions, and user profile retrieval with OAuth authentication and configurable channel restrictions.

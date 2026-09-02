@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-07T14:37:26Z"
 ---
 ## What it is
 Enables AI assistants to securely interact with FHIR R4 servers for clinical decision support workflows, including PlanDefinition execution, FHIR resource management, terminology services, and Questionnaire/StructureMap transformation via Matchbox.

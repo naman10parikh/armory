@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T06:12:13Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Bybit cryptocurrency exchange via the V5 API, supporting market data, trading, and account management with both local and remote OAuth-authenticated connections.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-28T23:01:39Z"
 ---
 ## What it is
 Enables AI agents to manage a Canonical Landscape estate, including inventory, alerts, patching, and script execution, with built-in safety layers to prevent accidental destructive actions.

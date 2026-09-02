@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T23:15:51Z"
 ---
 ## What it is
 Biblos is a multi-agent MCP server providing shared documented memory and a persistent inter-agent message bus, enabling agents to persist knowledge and hand off work verifiably. It features hybrid searchable Markdown memories, a knowledge graph, agent registry, and identity-verified request queue.

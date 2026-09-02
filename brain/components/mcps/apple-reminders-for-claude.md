@@ -8,11 +8,13 @@ source_url: https://github.com/high5-ventures/apple-reminders-for-claude
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:25:06Z"
 ---
 ## What it is
 Enables Claude to manage Apple Reminders on macOS, providing full CRUD operations such as listing, searching, creating, updating, and deleting reminders.

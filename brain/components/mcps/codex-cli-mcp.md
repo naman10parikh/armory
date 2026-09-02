@@ -8,11 +8,13 @@ source_url: https://github.com/nayagamez/codex-cli-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T01:26:43Z"
 ---
 ## What it is
 Bridges OpenAI Codex CLI to any MCP client, allowing headless Codex sessions via tools like codex and codex-reply.

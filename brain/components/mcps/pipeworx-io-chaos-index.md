@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:47:32Z"
 ---
 ## What it is
 MCP server `Chaos Index`, catalogued on PulseMCP. Combines Bitcoin price, ISS location, earthquake data, and lunar phase into a single chaos score via StupidAPIs.

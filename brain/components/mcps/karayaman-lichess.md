@@ -8,10 +8,12 @@ source_url: https://github.com/karayaman/lichess-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-26T13:29:32Z"
 ---
 ## What it is
 MCP server `Lichess`, catalogued on PulseMCP. Integrates with the Lichess chess platform to enable natural language-driven gameplay, analysis, and tournament participation through its API.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-23T14:40:14Z"
 ---
 ## What it is
 MCP server `Upbit`, catalogued on PulseMCP. Integrates with Upbit cryptocurrency exchange to provide real-time market data access and optional trading functionality with JWT authentication, order management, and configurable safety controls for Korean crypto markets.

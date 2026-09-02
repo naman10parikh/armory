@@ -8,11 +8,13 @@ source_url: https://github.com/JuanCF/scrcpy-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 84
+stars: 90
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-08-21T01:47:11Z"
 ---
 ## What it is
 MCP server that gives AI agents full vision and control over Android devices via ADB and scrcpy. Supports screenshots, input, apps, UI automation, shell, files, and clipboard.

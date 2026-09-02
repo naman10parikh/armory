@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 7
+forks: 5
+pushed_at: "2026-03-24T16:38:01Z"
 ---
 ## What it is
 Am MCP server for LNbits Lightning Network wallet integration.

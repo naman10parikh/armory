@@ -8,10 +8,12 @@ source_url: https://github.com/pylegifrance/mcp-server-legifrance
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-06-29T15:06:26Z"
 ---
 ## What it is
 MCP server `Legifrance`, catalogued on PulseMCP. Provides access to French legal documents and legislation from the Legifrance database for legal research, compliance work, and understanding regulatory frameworks.

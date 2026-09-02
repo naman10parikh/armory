@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T18:15:40Z"
 ---
 ## What it is
 Provides tools to scrape, crawl, and map web pages via the Basecrawl SaaS API.

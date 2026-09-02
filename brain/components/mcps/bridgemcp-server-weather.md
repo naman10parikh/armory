@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T11:14:31Z"
 ---
 ## What it is
 Provides weather data including current conditions, forecasts, and summaries via Open-Meteo with no API key required, enabling natural language queries through an MCP interface.

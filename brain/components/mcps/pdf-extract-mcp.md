@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T01:37:57Z"
 ---
 ## What it is
 FastMCP server for PDF text extraction and metadata retrieval, providing structured JSON output for pages, metadata, and specific page ranges.

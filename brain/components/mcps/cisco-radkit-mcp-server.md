@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-07-30T15:57:52Z"
 ---
 ## What it is
 Enables LLMs to interact with network devices via Cisco RADKit, supporting inventory discovery, device attribute inspection, CLI command execution, and SNMP queries.

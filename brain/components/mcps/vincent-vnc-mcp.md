@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T12:58:28Z"
 ---
 ## What it is
 A self-hosted, VNC-backed MCP server that enables AI agents to control a dedicated macOS user session remotely, without disturbing the console user.

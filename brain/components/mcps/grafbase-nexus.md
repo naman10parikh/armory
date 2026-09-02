@@ -8,10 +8,12 @@ source_url: https://github.com/nexus-router/nexus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 428
+stars: 435
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2026-03-16T20:50:37Z"
 ---
 ## What it is
 MCP server `Nexus`, catalogued on PulseMCP. AI gateway that aggregates multiple MCP servers and LLM providers through a unified HTTP interface with JWT authentication, rate limiting, and tool discovery for centralized AI resource management.

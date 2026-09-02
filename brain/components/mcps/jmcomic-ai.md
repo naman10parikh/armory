@@ -8,11 +8,13 @@ source_url: https://github.com/hect0x7/jmcomic-ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 94
+stars: 99
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-12T08:42:15Z"
 ---
 ## What it is
 MCP server enabling AI agents to search, download, and manage JMComic manga via natural language, with dynamic configuration and skill injection.

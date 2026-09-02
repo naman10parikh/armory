@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-27T05:32:42Z"
 ---
 ## What it is
 MCP server `Technical Documentation Search`, catalogued on PulseMCP. Provides AI assistants with access to technical documentation from LangChain, LlamaIndex, and OpenAI libraries through a specialized search tool that leverages the Brave Search API to find, fetch, and extract relevant content.

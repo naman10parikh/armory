@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:28:59Z"
 ---
 ## What it is
 MCP server providing web search, fetch, and crawl capabilities for AI agents via the spider.cloud API, with caching, cost controls, and robust error handling.

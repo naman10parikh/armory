@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T22:03:56Z"
 ---
 ## What it is
 SkinKnowledgeBase provides source-backed skincare question answering and product comparison context for AI assistants through a public, read-only MCP endpoint.

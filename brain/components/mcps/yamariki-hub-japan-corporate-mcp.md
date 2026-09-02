@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 3
+pushed_at: "2026-02-22T14:22:54Z"
 ---
 ## What it is
 Japanese corporate data via government APIs (gBizINFO, EDINET, e-Stat). Search companies, financials, patents, subsidies, procurement, and government statistics.

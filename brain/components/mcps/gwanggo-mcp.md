@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T06:38:55Z"
 ---
 ## What it is
 Enables AI agents to generate images and videos using 30+ models (Seedream, Sora, Veo, etc.) via the Gwanggo API. Provides tools for model listing, image/video generation, task checking, and credit balance.

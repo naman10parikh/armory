@@ -8,11 +8,13 @@ source_url: https://github.com/eminyilmz/high-performance-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:43:27Z"
 ---
 ## What it is
 A high-performance, modular MCP server with safe-by-default profiles, read-only workspace access, search, diagnostics, and benchmarking tools, built with TypeScript and the MCP v2 SDK.

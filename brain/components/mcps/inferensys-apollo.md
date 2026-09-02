@@ -8,10 +8,12 @@ source_url: https://github.com/inferensys/apollo-io-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-05-16T21:23:14Z"
 ---
 ## What it is
 MCP server `Apollo.io`, catalogued on PulseMCP. Connect AI coding assistants to Apollo.io for lead search, contact enrichment, CRM operations, and outreach sequences.

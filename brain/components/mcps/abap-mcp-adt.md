@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T03:47:59Z"
 ---
 ## What it is
 MCP server for SAP ABAP development that enables AI assistants and code editors to interact with SAP systems via ABAP Developer Toolkit (ADT) APIs, supporting read, create, update, and delete of ABAP objects.

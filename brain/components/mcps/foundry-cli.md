@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T08:24:40Z"
 ---
 ## What it is
 MCP server for managing Foundry VTT journal content (entries, categories, pages) and listing actors, enabling AI-assisted world-building via natural language commands.

@@ -8,11 +8,13 @@ source_url: https://github.com/mhue26/figma-mcp-hybrid
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T05:37:09Z"
 ---
 ## What it is
 Enables reading Figma files via REST API and writing to the Figma canvas via a WebSocket bridge.

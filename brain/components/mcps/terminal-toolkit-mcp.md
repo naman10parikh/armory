@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-21T12:22:11Z"
 ---
 ## What it is
 Enables LLM clients to execute shell commands safely through the MCP protocol, with features like session management, safe mode, and process control.

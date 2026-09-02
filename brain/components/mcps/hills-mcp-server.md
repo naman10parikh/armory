@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T17:22:33Z"
 ---
 ## What it is
 An MCP server for exploring British and Irish hills (Munros, Wainwrights, Corbetts, Marilyns) with offline search, nearby hills, and detailed hill data, no API key required.

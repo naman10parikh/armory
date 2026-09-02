@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T13:04:56Z"
 ---
 ## What it is
 MCP server `Vedurstofa`, catalogued on PulseMCP. Provides Icelandic weather observations, multi-day forecasts, severe-weather alerts, earthquake data, and station listings from vedur.is.

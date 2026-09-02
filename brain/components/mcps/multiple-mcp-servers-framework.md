@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-01T19:51:41Z"
 ---
 ## What it is
 Provides a framework for running multiple MCP servers using FastAPI, stdio, and streamable-http transports, with an echo tool for testing and integration with MCP Inspector.

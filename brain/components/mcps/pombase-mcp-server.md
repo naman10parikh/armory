@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T14:18:39Z"
 ---
 ## What it is
 Enables AI agents to query the fission yeast PomBase database for gene summaries, GO annotations, phenotypes, orthologs, domains, and interactions via structured API calls.

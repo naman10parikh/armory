@@ -12,6 +12,8 @@ stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-06-18T13:38:29Z"
 ---
 ## What it is
 MCP server `Excel Automation`, catalogued on PulseMCP. Provides Excel file manipulation capabilities through OpenXLSX, enabling creation, editing, and formatting of spreadsheets with cell operations, worksheet management, styling controls, and range manipulation for automated report generation and data processing workflows.

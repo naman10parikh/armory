@@ -8,11 +8,13 @@ source_url: https://github.com/automateyournetwork/MCPyATS
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 68
+stars: 69
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, frameworks]
+forks: 30
+pushed_at: "2025-06-28T12:36:45Z"
 ---
 ## What it is
 VibeOps - Cisco pyATS MCP Plus Many Other MCPs

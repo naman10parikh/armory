@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T06:06:53Z"
 ---
 ## What it is
 An MCP server that enables operations teams to diagnose and recover stalled fulfillment orders via tools like retry_fulfillment and escalate_order, with safety boundaries limiting writes to retry and audit operations.

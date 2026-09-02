@@ -8,10 +8,12 @@ source_url: https://github.com/shaneholloman/mcp-knowledge-graph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 862
+stars: 888
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 101
+pushed_at: "2026-05-29T12:57:51Z"
 ---
 ## What it is
 MCP server `Knowledge Graph`, catalogued on PulseMCP. Enables persistent memory and structured knowledge management for enhanced personalization and context retention in natural language interactions through a local graph database.

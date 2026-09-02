@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-06T02:47:19Z"
 ---
 ## What it is
 MCP server `JSON Logs`, catalogued on PulseMCP. Analyzes JSON log files from Python applications with tools for searching by level, module, function, and time ranges, aggregating data by various criteria, and generating statistics for debugging and performance monitoring.

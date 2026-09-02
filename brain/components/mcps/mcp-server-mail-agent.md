@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-31T17:55:26Z"
 ---
 ## What it is
 Multi-account email management server supporting IMAP, Gmail, and Outlook with a unified inbox, security-first design, and Docker-ready deployment.

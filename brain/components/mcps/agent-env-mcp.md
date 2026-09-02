@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T01:28:27Z"
 ---
 ## What it is
 Provides a restricted Docker-based sandbox for LLM agents, enabling file operations, command execution, and local Git within an isolated runtime.

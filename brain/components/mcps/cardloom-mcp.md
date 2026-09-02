@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T15:29:34Z"
 ---
 ## What it is
 Provides long-lived, cross-project technical memory for AI agents via markdown cards stored in git and indexed by SQLite, enabling search, retrieval, and human-reviewed knowledge management.

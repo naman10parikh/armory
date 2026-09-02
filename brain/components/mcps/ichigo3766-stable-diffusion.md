@@ -8,10 +8,12 @@ source_url: https://github.com/ichigo3766/image-gen-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-07-21T17:03:44Z"
 ---
 ## What it is
 MCP server `Stable Diffusion WebUI`, catalogued on PulseMCP. Integrates with Stable Diffusion WebUI to provide text-to-image generation with extensive parameter control and metadata embedding

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T14:50:28Z"
 ---
 ## What it is
 Cross-tool AI memory MCP server for Claude Code, Cursor, Antigravity, Windsurf, and every MCP-compatible AI. 400 tokens not 4,000.

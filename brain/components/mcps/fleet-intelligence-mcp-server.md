@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T10:57:52Z"
 ---
 ## What it is
 Connects an LLM to your fleet of clusters via ACM or Multicluster Global Hub, enabling queries about fleet health, unhealthy clusters, and detailed cluster conditions.

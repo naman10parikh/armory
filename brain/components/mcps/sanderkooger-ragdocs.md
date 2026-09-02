@@ -12,6 +12,8 @@ stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-02-11T13:36:38Z"
 ---
 ## What it is
 MCP server `RAG Documentation Search`, catalogued on PulseMCP. Provides semantic document search and retrieval through vector embeddings, enabling context-aware responses backed by specific documentation sources

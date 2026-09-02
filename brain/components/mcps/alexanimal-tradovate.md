@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-27T20:48:12Z"
 ---
 ## What it is
 MCP server `Tradovate`, catalogued on PulseMCP. Integrates with the Tradovate trading platform API to enable futures contract management, position monitoring, and order execution with real-time market data and offline capabilities.

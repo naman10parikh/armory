@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T07:56:13Z"
 ---
 ## What it is
 AI-powered dependency vulnerability and breaking change analyzer that scans dependencies, identifies vulnerabilities via OSV.dev, and uses AI to assess real impact and suggest fixes.

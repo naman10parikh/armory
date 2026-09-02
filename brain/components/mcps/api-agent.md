@@ -8,11 +8,13 @@ source_url: https://github.com/agoda-com/api-agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 284
+stars: 285
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 44
+pushed_at: "2026-06-19T05:50:08Z"
 ---
 ## What it is
 Turn any API into an MCP server. Query in English. Get results—even when the API can't.

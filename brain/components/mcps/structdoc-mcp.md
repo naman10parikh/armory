@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T08:10:55Z"
 ---
 ## What it is
 MCP server for StructDoc that converts documents (PDFs, images) into structured data like Markdown, OCR text, and invoice/receipt fields for AI agents, with pay-per-call via x402 (USDC on Base/Solana).

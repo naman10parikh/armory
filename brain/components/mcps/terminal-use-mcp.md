@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T12:06:16Z"
 ---
 ## What it is
 Local + remote terminal interaction control MCP Server. Lets AI agents control interactive TUI programs the way a human would.

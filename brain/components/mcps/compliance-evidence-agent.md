@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T04:57:23Z"
 ---
 ## What it is
 An MCP server that automates the collection and verification of SOC 2 compliance evidence across multiple systems, detecting gaps and ensuring evidence is current, complete, and properly attested.

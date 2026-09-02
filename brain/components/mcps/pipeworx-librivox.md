@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:19:21Z"
 ---
 ## What it is
 MCP server `LibriVox`, catalogued on PulseMCP. Searches approximately 17,000 LibriVox public-domain audiobooks in dozens of languages.

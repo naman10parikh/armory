@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T16:50:11Z"
 ---
 ## What it is
 A standalone MCP server wrapping Mastercard Open Finance US (Finicity) APIs for open banking operations, enabling financial data access and payment services.

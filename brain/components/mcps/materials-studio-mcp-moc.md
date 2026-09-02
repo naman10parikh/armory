@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T06:56:46Z"
 ---
 ## What it is
 MCP server for BIOVIA Materials Studio 2023 on Windows, providing controlled preparation of Forcite and CASTEP inputs, model building, and LAMMPS/VMD pre-processing with reproducible, auditable workflows and strict scientific boundaries.

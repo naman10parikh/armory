@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
 stars: 1
+forks: 0
+pushed_at: "2026-08-13T20:25:13Z"
 ---
 ## What it is
 AI-native platform for Kubernetes management and automated GitOps (30+ tools).

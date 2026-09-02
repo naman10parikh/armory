@@ -8,10 +8,12 @@ source_url: https://github.com/basissetventures/grok-cli-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-10T02:06:21Z"
 ---
 ## What it is
 MCP server `Grok CLI`, catalogued on PulseMCP. Bridges to Grok AI through the official CLI, enabling simple queries, multi-turn conversations, and code generation with configurable timeouts and model selection.

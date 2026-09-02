@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-22T10:50:05Z"
 ---
 ## What it is
 A comprehensive MCP server for Dataiku DSS integration, providing Claude Code with direct access to manage recipes, datasets, and scenarios.

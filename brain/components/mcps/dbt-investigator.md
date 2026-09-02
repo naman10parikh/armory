@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T20:30:57Z"
 ---
 ## What it is
 Enables AI clients to automatically investigate dbt test failures, trace root cause through BigQuery lineage, and generate plain-English incident reports.

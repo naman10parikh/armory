@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:53:59Z"
 ---
 ## What it is
 Provides access to Detroit open data via ArcGIS REST API, enabling querying and analysis of municipal datasets through natural language or direct tool calls.

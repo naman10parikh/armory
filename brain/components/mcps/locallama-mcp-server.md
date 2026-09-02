@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-06-08T04:46:43Z"
 ---
 ## What it is
 Routes coding tasks to local and remote LLMs with intelligent cost-quality optimization, supports benchmarking and code search.

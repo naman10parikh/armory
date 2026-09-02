@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T16:35:44Z"
 ---
 ## What it is
 Read-only Modbus TCP monitoring server that exposes safe MCP tools for AI agents to read holding/input registers, coils, and device identity from industrial devices without write access.

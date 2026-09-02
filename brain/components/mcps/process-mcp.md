@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T01:49:57Z"
 ---
 ## What it is
 An MCP server that allows AI assistants to manage background processes, enabling start, stop, monitoring, and querying of long-running shell commands without blocking the conversation.

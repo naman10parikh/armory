@@ -8,10 +8,12 @@ source_url: https://github.com/hemmabo-se/hemmabo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T18:38:59Z"
 ---
 ## What it is
 MCP server `HemmaBo`, catalogued on PulseMCP. Vacation rental booking infrastructure for independent hosts.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-06T19:58:01Z"
 ---
 ## What it is
 MCP server `Markdown Web Crawl`, catalogued on PulseMCP. Python-based web crawler extracts website content into markdown files, enabling efficient content aggregation and site archiving.

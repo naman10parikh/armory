@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-07T06:22:44Z"
 ---
 ## What it is
 Establishes feedback-oriented development workflows with Web UI and desktop application interfaces, enabling AI to confirm with users and consolidate tool calls into single feedback requests.

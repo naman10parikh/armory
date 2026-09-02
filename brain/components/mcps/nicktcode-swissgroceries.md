@@ -8,10 +8,12 @@ source_url: https://github.com/nicktcode/swissgroceries-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-07T05:45:38Z"
 ---
 ## What it is
 MCP server `Swiss Groceries`, catalogued on PulseMCP. Real-time Swiss grocery shopping across Migros, Coop, Aldi, Denner, Lidl, and more with price comparison and store location.

@@ -8,10 +8,12 @@ source_url: https://github.com/forcedotcom/mcp-hosted
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 110
+stars: 133
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-07-23T15:07:23Z"
 ---
 ## What it is
 MCP server `Salesforce Platform`, catalogued on PulseMCP. Provides secure access to Salesforce CRM data, invocable actions, analytics, and industry cloud features through 11 hosted remote server types with OAuth authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T04:31:57Z"
 ---
 ## What it is
 MCP server that helps discover and rank libraries from awesome lists by tech stack and category, using a state-machine workflow to find relevant sections and present ranked repos.

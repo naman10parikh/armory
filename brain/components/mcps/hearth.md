@@ -8,11 +8,13 @@ source_url: https://github.com/echoo19/hearth
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 101
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-05T20:17:03Z"
 ---
 ## What it is
 AI-native open-source 2D game engine whose MCP server exposes every editor operation to coding agents as typed commands, so an agent can build, run, and verify a game inside the editor. It runs locally on macOS, Windows, and Linux with no cloud service or API key.

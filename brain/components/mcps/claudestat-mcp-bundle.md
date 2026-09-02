@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T15:21:18Z"
 ---
 ## What it is
 Wraps createMcpServer() into a standalone package with CLI and programmatic import, allowing users to run a custom MCP server for Claude AI.

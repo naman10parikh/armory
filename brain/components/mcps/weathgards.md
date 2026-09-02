@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T21:45:32Z"
 ---
 ## What it is
 Exposes MCP tools that enable remote LLMs to query local Docker containers, OS processes, and system services in real time.

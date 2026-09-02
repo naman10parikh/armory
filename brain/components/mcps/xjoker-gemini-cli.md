@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-20T04:25:00Z"
 ---
 ## What it is
 MCP server `Gemini CLI Bridge (xjoker)`, catalogued on PulseMCP. Wraps Google Gemini CLI for cross-model queries using local OAuth with activity-based timeouts.

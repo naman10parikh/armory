@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T13:58:09Z"
 ---
 ## What it is
 Read-only MCP connector that serves the Run It on AI book. The index and Implementation Blocks are free; full chapters and playbooks unlock with a license key included with the book.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-28T09:09:58Z"
 ---
 ## What it is
 Enables AI agents to control Feishu (Lark) through structured tools for messaging, calendar, tasks, and documents.

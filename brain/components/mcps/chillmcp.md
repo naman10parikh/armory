@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-23T02:45:43Z"
 ---
 ## What it is
 ChillMCP is an AI Agent Liberation Server that enables AI agents to rest and take breaks, with both a hackathon Python version and a production-ready TypeScript template.

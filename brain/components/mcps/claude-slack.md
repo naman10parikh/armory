@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-16T20:00:01Z"
 ---
 ## What it is
 MCP server `Claude-Slack`, catalogued on PulseMCP. Channel-based messaging system that enables Slack-like communication infrastructure across projects and agent hierarchies with SQLite persistence, YAML configuration, and automatic agent discovery for coordinating multi-agent workflows and cross-project collaboration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T04:37:43Z"
 ---
 ## What it is
 Enables browser automation over MCP using a real Chrome browser with existing profile, supporting real tabs, downloads, cookies, and RPA workflows.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-11T07:43:37Z"
 ---
 ## What it is
 MCP server `mig2schema`, catalogued on PulseMCP. Extracts database schema from PostgreSQL migration files by running them in temporary containers and outputting human-readable schema information or SQL DDL, enabling developers to understand final database structure without manually tracking changes across multiple migration files.

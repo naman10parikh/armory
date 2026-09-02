@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T14:00:08Z"
 ---
 ## What it is
 Multi-tenant MCP server connecting Claude to Priority ERP via OData. Supports read-only operations through natural language.

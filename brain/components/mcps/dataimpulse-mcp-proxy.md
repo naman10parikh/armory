@@ -8,11 +8,13 @@ source_url: https://github.com/Gentleman-Programming/dataimpulse-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-12T22:53:46Z"
 ---
 ## What it is
 Enables fetching public HTTP(S) pages through DataImpulse residential proxies with country, city, and session targeting, plus an exit IP check tool. Includes best-effort SSRF safeguards and response size limits for safe bounded access.

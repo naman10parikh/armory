@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T06:50:38Z"
 ---
 ## What it is
 Converts documents, images, audio, and video into Markdown or structured JSON. Compatible with MCP-compatible AI agents as a stdio server providing a convert_file tool.

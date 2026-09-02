@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T04:32:31Z"
 ---
 ## What it is
 Converts any webpage into clean, LLM-ready Markdown using the skrape.ai API. Enables easy integration of web content into LLMs like Claude.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T08:35:19Z"
 ---
 ## What it is
 通过SSH和浏览器访问管理多套命名环境的MCP服务器，提供环境列表、SSH命令执行和浏览器凭据获取功能。

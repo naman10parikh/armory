@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-23T11:21:57Z"
 ---
 ## What it is
 A comprehensive MCP server for checking package versions and rating package quality across Python (PyPI), JavaScript/TypeScript (npm), Dart (pub.dev), and Rust (crates.io) ecosystems.

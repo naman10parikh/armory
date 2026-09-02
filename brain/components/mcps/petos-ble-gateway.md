@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T01:08:49Z"
 ---
 ## What it is
 MCP server for controlling an ESP32-C3 PetOS watch over BLE. Enables scanning, connecting, sending pet actions, and showing frames through MCP tools.

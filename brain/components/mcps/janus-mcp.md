@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-03T15:27:49Z"
 ---
 ## What it is
 Enables AI assistants to understand and interact with OpenAPI specifications, providing deep insight into API structures for faster and more accurate API integration.

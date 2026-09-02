@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T09:42:38Z"
 ---
 ## What it is
 Analyzes and compares GitHub repositories, tracks star growth, and offers AI-powered README optimization to help grow open-source projects.

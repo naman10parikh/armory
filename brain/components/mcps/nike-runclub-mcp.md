@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T12:47:58Z"
 ---
 ## What it is
 Provides read-only access to your Nike Run Club running activities, including listing runs and retrieving detailed metrics like distance, pace, and heart rate.

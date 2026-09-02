@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:14:45Z"
 ---
 ## What it is
 Deterministic social image rendering for AI agents that converts specs into PNGs with exact typography, paid per call in USDC on Base via x402.

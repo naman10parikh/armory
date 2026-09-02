@@ -8,10 +8,12 @@ source_url: https://github.com/kruschdev/krusch-memory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-05T02:36:25Z"
 ---
 ## What it is
 MCP server `Krusch Memory`, catalogued on PulseMCP. Persistent local-first semantic memory for AI agents with vector embeddings, temporal decay, and SQLite/PostgreSQL support.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:56:46Z"
 ---
 ## What it is
 MCP server `DORA NIS2 Crosswalk`, catalogued on PulseMCP. Maps EU DORA and NIS2 regulatory obligations to unified compliance controls for financial and critical infrastructure operators.

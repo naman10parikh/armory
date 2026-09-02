@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T22:51:38Z"
 ---
 ## What it is
 MCP server for agent-native evolutionary optimization. Enables agents to join runs, submit gate-checked mutations, and collaborate on evolving code toward a stated goal.

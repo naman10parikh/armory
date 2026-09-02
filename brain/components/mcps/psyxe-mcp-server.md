@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T13:29:58Z"
 ---
 ## What it is
 An MCP server that gives AI assistants access to your Apple Notes, Reminders, and Contacts — with optional BERT-powered semantic search.

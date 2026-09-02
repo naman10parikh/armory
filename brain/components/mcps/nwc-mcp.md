@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T09:57:30Z"
 ---
 ## What it is
 MCP server exposing a Lightning wallet to LLM agents over Nostr Wallet Connect (NIP-47): balance, invoices, LN address/LNURL payments, batch pay, and keysend. All spend tools are wrapped in a defense-in-depth safety stack — budget caps, allowlist, two-step confirmation, audit log.

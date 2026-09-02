@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-12T20:55:08Z"
 ---
 ## What it is
 MCP server `Lithic`, catalogued on PulseMCP. Provides read-only access to Lithic's banking and card services API for fetching resources like cards, accounts, and transactions with robust error handling and Docker containerization.

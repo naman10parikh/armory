@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-24T02:20:15Z"
 ---
 ## What it is
 Pingpong is an MCP server for oh-my-pi that gives your AI agent a local code reviewer using a local LLM (llama.cpp) for automated code reviews after task completion.

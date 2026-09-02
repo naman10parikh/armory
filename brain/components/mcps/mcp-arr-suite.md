@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-23T11:20:26Z"
 ---
 ## What it is
 Enables interaction with the *arr media management suite (Sonarr, Radarr, Lidarr, Prowlarr, SABnzbd) and TRaSH Guides through MCP tools, allowing media library management, searching, and configuration via natural language.

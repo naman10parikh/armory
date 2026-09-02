@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T22:35:04Z"
 ---
 ## What it is
 Enables Claude Desktop to scan, analyze, and track job postings from Hacker News and Y Combinator's Work at a Startup using a 24-tool MCP server with multi-stage filtering and resume-based ranking.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T15:33:39Z"
 ---
 ## What it is
 Connects AI agents to payment processors (Lithic, Stripe, PayPal) for automated shopping with single-use virtual cards and transaction management.

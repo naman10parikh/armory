@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T18:33:06Z"
 ---
 ## What it is
 Exposes a provenance-aware knowledge graph to AI agents over MCP, providing tools like get_fact and search_documents that return precise answers with source citations.

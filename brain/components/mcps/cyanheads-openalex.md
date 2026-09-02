@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/openalex-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-22T13:54:52Z"
 ---
 ## What it is
 MCP server `OpenAlex`, catalogued on PulseMCP. OpenAlex academic research catalog access for searching 270M+ publications, analyzing research trends, and resolving author and institution identifiers.

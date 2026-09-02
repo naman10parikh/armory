@@ -8,10 +8,12 @@ source_url: https://github.com/boxlite-ai/boxlite-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-02-09T08:18:36Z"
 ---
 ## What it is
 MCP server `BoxLite`, catalogued on PulseMCP. Provides computer use capabilities through an isolated Ubuntu desktop sandbox environment, enabling mouse control, keyboard input, screenshot capture, and scrolling within a 1024x768 XFCE desktop for safe interaction with graphical applications and web browsing.

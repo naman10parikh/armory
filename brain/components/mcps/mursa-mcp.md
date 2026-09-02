@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T19:11:47Z"
 ---
 ## What it is
 Enables Claude Code, Claude Desktop, Cursor, or any MCP-compatible client to interact with Mursa tasks, calendar, goals, notes, habits, projects, and Gmail via natural language.

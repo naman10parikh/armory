@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T03:01:26Z"
 ---
 ## What it is
 Enables arithmetic operations such as addition and calculating averages, exposing tools via MCP with stdio and Streamable HTTP transports.

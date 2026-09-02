@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T07:24:05Z"
 ---
 ## What it is
 An MCP server that bypasses Claude's context by routing file processing to local or cloud AI, saving token costs. It reads files from disk and returns distilled results without Claude seeing the raw content.

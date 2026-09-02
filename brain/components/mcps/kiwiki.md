@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T13:22:48Z"
 ---
 ## What it is
 A self-hosted Markdown knowledge base and Agent Harness with an MCP server that enables AI agents to read and write notes, providing persistent memory and a shared workspace for multi-agent collaboration.

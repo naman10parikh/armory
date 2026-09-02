@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T20:41:19Z"
 ---
 ## What it is
 A Türk hukuk MCP sunucusu that enables searching and retrieving Turkish legal decisions (Yargıtay, Danıştay, etc.) with semantic search via NVIDIA embeddings and a Turkish chat tool powered by Llama 3.3 70B.

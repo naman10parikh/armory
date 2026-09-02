@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T21:04:48Z"
 ---
 ## What it is
 MCP server that provides role-based access control for Outline workspaces, allowing users to interact with docs, users, and admin tools according to their assigned role.

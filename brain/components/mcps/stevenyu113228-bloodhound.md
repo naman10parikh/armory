@@ -8,10 +8,12 @@ source_url: https://github.com/stevenyu113228/bloodhound-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 158
+stars: 160
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-04-04T12:23:57Z"
 ---
 ## What it is
 MCP server `BloodHound`, catalogued on PulseMCP. Enables security professionals to analyze Active Directory and Azure AD environments through natural language queries by connecting to BloodHound's Neo4j database for identifying attack paths and vulnerabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T07:10:42Z"
 ---
 ## What it is
 Enables AI assistants to read, search, create, and modify Obsidian notes via the Model Context Protocol, supporting tasks like daily notes, backlinks, and project management.

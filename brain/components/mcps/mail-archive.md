@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T05:25:09Z"
 ---
 ## What it is
 Enables AI assistants to query and manage per-project Outlook mail archives, providing tools to list projects, search emails, and update archives incrementally.

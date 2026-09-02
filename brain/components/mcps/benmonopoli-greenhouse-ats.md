@@ -8,10 +8,12 @@ source_url: https://github.com/benmonopoli/open-greenhouse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-20T16:44:44Z"
 ---
 ## What it is
 MCP server `Greenhouse ATS`, catalogued on PulseMCP. Manage recruiting pipelines, candidates, and jobs via the Greenhouse ATS API.

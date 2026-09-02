@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T04:46:09Z"
 ---
 ## What it is
 Connect Claude (or any MCP client) to Salesforce Marketing Cloud. Explore Data Extensions, query records, and validate Automation Studio queries before running them.

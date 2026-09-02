@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T14:07:25Z"
 ---
 ## What it is
 Korean-content MCP that consolidates real-time trends from Naver, Daum, Google, YouTube, and Zum, includes a 100+ Korean holiday database, and provides a viral-score predictor for content optimization.

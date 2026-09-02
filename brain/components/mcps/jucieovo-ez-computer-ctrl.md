@@ -8,10 +8,12 @@ source_url: https://github.com/jucieovo/ezcomputerctrl-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T12:10:04Z"
 ---
 ## What it is
 MCP server `EZ Computer Control`, catalogued on PulseMCP. Vision-first MCP server for Windows desktop GUI automation using semantic object recognition instead of screen coordinates.

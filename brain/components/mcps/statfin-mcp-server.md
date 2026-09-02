@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T06:59:15Z"
 ---
 ## What it is
 Search Statistics Finland's StatFin database (3,000+ tables), inspect table variables, and query clean flattened statistics on population, economy, labour and regions.

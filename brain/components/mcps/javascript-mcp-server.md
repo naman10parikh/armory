@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T11:07:14Z"
 ---
 ## What it is
 Deterministic MCP server for semantic analysis of JavaScript/TypeScript codebases, including frameworks like Vue, Angular, React, and Node. It provides tools for type checking, code metrics, framework-specific analysis, and quality heuristics via static parsing.

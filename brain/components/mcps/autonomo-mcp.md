@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-04T18:49:33Z"
 ---
 ## What it is
 Gives AI coding assistants live, structured access to running apps' state and UI elements, enabling real-time verification and interaction across web, mobile, and desktop.

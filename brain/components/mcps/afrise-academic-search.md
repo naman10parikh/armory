@@ -8,10 +8,12 @@ source_url: https://github.com/afrise/academic-search-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 114
+stars: 118
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-02-12T01:24:08Z"
 ---
 ## What it is
 MCP server `Academic Paper Search`, catalogued on PulseMCP. Integrates with academic APIs to enable searching, retrieving, and filtering scholarly papers across multiple sources for research and analysis tasks.

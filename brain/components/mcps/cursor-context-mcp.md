@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T02:13:52Z"
 ---
 ## What it is
 MCP server providing filesystem allowlist and pack-aware Qdrant RAG search. Enables reading files, listing directories, and performing filtered RAG searches with case and pack IDs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T08:59:31Z"
 ---
 ## What it is
 An MCP server for sending and receiving WeChat messages, built on Tencent's iLink bot protocol.

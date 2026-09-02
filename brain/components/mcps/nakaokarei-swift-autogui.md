@@ -8,10 +8,12 @@ source_url: https://github.com/nakaokarei/swift-mcp-gui
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-30T22:56:40Z"
 ---
 ## What it is
 MCP server `SwiftAutoGUI`, catalogued on PulseMCP. Enables precise control of macOS through mouse movements, clicks, and scrolling via SwiftAutoGUI, allowing direct manipulation of the macOS interface for automation workflows and GUI testing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-26T10:07:25Z"
 ---
 ## What it is
 A comprehensive framework for evaluating AI responses using Inspect AI and Petri-style behavioral assessment patterns. Built as an MCP server for real-time evaluation during AI development.

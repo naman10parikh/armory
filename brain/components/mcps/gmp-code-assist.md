@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 29
+pushed_at: "2026-08-18T14:23:07Z"
 ---
 ## What it is
 Enhances LLM responses by grounding them in official Google Maps Platform documentation and code samples via MCP tools for developing applications.

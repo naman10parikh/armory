@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T17:38:52Z"
 ---
 ## What it is
 AI-powered terrain analysis for any location on Earth. Uses super-resolution and computes environmental risk metrics including erosion, water flow, and a composite Site Intelligence Score.

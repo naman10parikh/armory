@@ -8,11 +8,13 @@ source_url: https://github.com/timescale/pg-aiguide
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1820
+stars: 1830
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 106
+pushed_at: "2026-09-01T21:29:01Z"
 ---
 ## What it is
 Enables semantic search across PostgreSQL, TimescaleDB, and PostGIS documentation to help AI coding assistants write better PostgreSQL code.

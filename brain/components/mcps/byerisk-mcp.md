@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T13:37:01Z"
 ---
 ## What it is
 MCP server that integrates ByeRisk's content compliance detection into AI assistants, enabling text, image, and video compliance checks with risk details and rewrite suggestions.

@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-06T10:10:17Z"
 ---
 ## What it is
 MCP server `ZenTao`, catalogued on PulseMCP. Integrates with ZenTao project management systems for bug tracking, project information retrieval, and workflow automation

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:17Z"
 ---
 ## What it is
 MCP server `Text Translator`, catalogued on PulseMCP. Translate text between 50+ languages with automatic language detection via x402 micropayment.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T15:20:38Z"
 ---
 ## What it is
 An MCP server for searching Google Scholar, enabling paper search, author lookup, citation tracking, and BibTeX export for AI assistants and automation workflows.

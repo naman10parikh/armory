@@ -8,10 +8,12 @@ source_url: https://github.com/nextdriveioe/github-action-trigger-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-17T06:32:44Z"
 ---
 ## What it is
 MCP server `GitHub Actions Trigger`, catalogued on PulseMCP. Enables GitHub Actions integration for triggering workflows, fetching action details, and retrieving repository releases through authenticated API interactions

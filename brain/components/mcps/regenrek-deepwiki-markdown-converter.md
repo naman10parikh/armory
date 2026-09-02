@@ -8,10 +8,12 @@ source_url: https://github.com/regenrek/deepwiki-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1353
+stars: 1383
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 81
+pushed_at: "2026-03-20T22:38:26Z"
 ---
 ## What it is
 MCP server `DeepWiki Markdown Converter`, catalogued on PulseMCP. Converts DeepWiki repositories into well-formatted Markdown, maintaining links between pages while removing headers, footers, navigation elements, and ads for clean documentation extraction.

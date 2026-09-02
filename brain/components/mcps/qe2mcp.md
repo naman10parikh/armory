@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T17:36:52Z"
 ---
 ## What it is
 Converts Quantum ESPRESSO output files to structured JSON and serves them via an HTTP API for use with MCP clients.

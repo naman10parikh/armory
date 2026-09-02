@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T09:25:53Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to LinkedIn's Ad Library API for searching advertisers' sponsored content, job postings, and influencer partnerships.

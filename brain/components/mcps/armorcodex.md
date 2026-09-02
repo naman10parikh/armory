@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T16:50:14Z"
 ---
 ## What it is
 Intent-based security governance for OpenAI Codex and ChatGPT. Register intent plans before tool calls, apply natural-language policy rules, and get per-request audit logs across all your AI agents.

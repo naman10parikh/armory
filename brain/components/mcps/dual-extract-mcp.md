@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T18:34:16Z"
 ---
 ## What it is
 Enables structured document understanding of local PDFs via a dual-extract MCP server, combining MinerU text/layout and Qwen3-VL vision with fusion adjudication for field extraction, tables, formulas, and validation. Fully local and offline.

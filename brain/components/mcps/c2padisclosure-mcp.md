@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T12:39:48Z"
 ---
 ## What it is
 MCP server `C2PA Disclosure`, catalogued on PulseMCP. C2PA disclosure policy compliance with structured receipts, audit logs, and reviewer-ready evidence.

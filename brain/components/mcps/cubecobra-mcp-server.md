@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T12:03:21Z"
 ---
 ## What it is
 MCP server for CubeCobra that enables fetching cube lists, CSV, JSON, plaintext, and record data. It supports optional authentication for private endpoints and configurable base URL.

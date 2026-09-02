@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:21:10Z"
 ---
 ## What it is
 Exposes 96 economic distress indicators, the American Distress Index (ADI), and county-level distress scores for all 3,144 U.S. counties to MCP-compatible AI agents.

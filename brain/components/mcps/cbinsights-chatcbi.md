@@ -8,10 +8,12 @@ source_url: https://github.com/cbinsights/cbi-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-01-16T15:46:14Z"
 ---
 ## What it is
 MCP server `CB Insights`, catalogued on PulseMCP. Integrates with CB Insights' ChatCBI platform to provide direct access to market intelligence, company research, funding data, acquisitions, partnerships, and competitive analysis through conversational queries.

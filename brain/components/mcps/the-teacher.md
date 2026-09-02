@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T22:25:54Z"
 ---
 ## What it is
 Enables structured learning with a verified loop: define goals as observable claims, learn through teach-lab-test-gate per claim, and get independently graded by an adversarial examiner to ensure genuine progress.

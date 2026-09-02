@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-11T00:52:58Z"
 ---
 ## What it is
 Enables testing AI safety classifier robustness against query decomposition, obfuscation, and multi-agent attacks. Provides tools for full evaluation pipelines, query previews, and status checks.

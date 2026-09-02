@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, e-commerce]
 stars: 1
+forks: 0
+pushed_at: "2026-04-24T04:39:09Z"
 ---
 ## What it is
 Supply chain & logistics intelligence — rate shopping across 85+ carriers, inventory management, order tracking, fleet logistics, and AI-powered demand forecasting. 20 tools and 3 resources for warehouse and supply chain operations.

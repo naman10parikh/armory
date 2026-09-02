@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T13:37:21Z"
 ---
 ## What it is
 Exposes the Filly Forms REST API as MCP tools for AI agents, enabling form type listing, record CRUD, data preview, and document upload with AI extraction.

@@ -8,10 +8,12 @@ source_url: https://github.com/onenicolas/mcp-service-public
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T17:10:39Z"
 ---
 ## What it is
 MCP server `Service Public France`, catalogued on PulseMCP. French public services data: tax, property, admin, education, healthcare, security, risks, and legal texts.

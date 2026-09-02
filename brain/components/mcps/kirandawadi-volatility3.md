@@ -8,10 +8,12 @@ source_url: https://github.com/kirandawadi/volatility3-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-08T21:51:12Z"
 ---
 ## What it is
 MCP server `Volatility3`, catalogued on PulseMCP. Automate memory forensics with Volatility3.

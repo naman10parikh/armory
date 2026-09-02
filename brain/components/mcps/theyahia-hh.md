@@ -8,10 +8,12 @@ source_url: https://github.com/theyahia/hh-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-23T12:48:14Z"
 ---
 ## What it is
 MCP server `HeadHunter Jobs`, catalogued on PulseMCP. Job vacancy search, salary statistics, employer data, and regional information via the hh.ru public API.

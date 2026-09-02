@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T15:24:50Z"
 ---
 ## What it is
 MCP server `Screenshot`, catalogued on PulseMCP. Enterprise-grade screenshot capture with PII masking and cross-platform support

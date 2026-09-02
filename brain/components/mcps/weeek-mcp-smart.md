@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T19:51:44Z"
 ---
 ## What it is
 WEEEK MCP server that allows creating, reading, updating, moving, and completing tasks using names instead of IDs for projects, columns, and assignees.

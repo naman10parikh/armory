@@ -8,10 +8,12 @@ source_url: https://github.com/x-t-e-r/zotero-mcp-neo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-15T10:15:55Z"
 ---
 ## What it is
 MCP server `Zotero Neo`, catalogued on PulseMCP. A Zotero plugin that embeds an MCP server, giving AI assistants read/write access to Zotero reference libraries via six unified tools.

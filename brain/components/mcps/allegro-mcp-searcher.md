@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T22:56:29Z"
 ---
 ## What it is
 Enables Claude Desktop to search products on Allegro.pl by translating user queries into Polish and querying the Allegro API.

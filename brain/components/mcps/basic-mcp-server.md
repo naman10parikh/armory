@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T07:36:24Z"
 ---
 ## What it is
 A demonstration MCP server using FastMCP and streamable-http transport. It provides tools like weather and Kusto queries, secured by Microsoft Entra ID OAuth.

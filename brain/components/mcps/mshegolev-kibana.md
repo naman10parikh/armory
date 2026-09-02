@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-12T15:37:20Z"
 ---
 ## What it is
 MCP server `Kibana`, catalogued on PulseMCP. Search logs, run aggregations, discover indices, and browse dashboards in Kibana and Elasticsearch via MCP.

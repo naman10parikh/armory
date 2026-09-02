@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-20T18:18:16Z"
 ---
 ## What it is
 MCP server `TVWizard`, catalogued on PulseMCP. Controls Android TV devices through tools for key presses, app management, playback, and volume.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:14:52Z"
 ---
 ## What it is
 A local knowledge base MCP server that enables retrieval and evidence-based Q&A over Obsidian Markdown notes, with high-recall embedding search, chunked indexing, hybrid retrieval, and three STDIO MCP tools for agent-driven recollection and quality-gated recall.

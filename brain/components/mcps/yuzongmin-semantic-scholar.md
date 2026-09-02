@@ -8,10 +8,12 @@ source_url: https://github.com/zongmin-yu/semantic-scholar-fastmcp-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 142
+stars: 165
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-03-20T08:36:10Z"
 ---
 ## What it is
 MCP server `Semantic Scholar`, catalogued on PulseMCP. Integrates with Semantic Scholar API to enable academic literature search, citation analysis, and paper recommendations at scale.

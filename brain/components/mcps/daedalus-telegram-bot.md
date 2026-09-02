@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T19:29:19Z"
 ---
 ## What it is
 MCP server `Telegram Bot (daedalus)`, catalogued on PulseMCP. Integrates with Telegram's Bot API to send messages, retrieve bot information, and access recent updates.

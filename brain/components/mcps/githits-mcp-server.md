@@ -8,11 +8,13 @@ source_url: https://github.com/githits-com/githits-cli
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 84
+stars: 91
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-09-01T19:25:19Z"
 ---
 ## What it is
 Enables AI coding agents to search and access open-source code, documentation, and package information via a local MCP server.

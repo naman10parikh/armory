@@ -8,11 +8,13 @@ source_url: https://github.com/eddiehale3/preflight-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T03:55:18Z"
 ---
 ## What it is
 Enables pilots to assemble a preflight briefing per 14 CFR §91.103 by fetching weather, airport info, aircraft performance, fuel estimates, alternates, and NOTAMs.

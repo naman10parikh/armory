@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-26T17:20:53Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Microsoft Advertising (Bing Ads / DuckDuckGo Ads). This server enables AI assistants to create, manage, and report on Microsoft Advertising campaigns programmatically.

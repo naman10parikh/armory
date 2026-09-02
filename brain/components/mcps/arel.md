@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T06:23:16Z"
 ---
 ## What it is
 A production-oriented reliability, benchmarking, and evaluation system that layers multi-version protocol negotiation, adaptive streaming, connection pooling, and resilience onto an MCP agent runtime.

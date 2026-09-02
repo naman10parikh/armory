@@ -8,11 +8,13 @@ source_url: https://github.com/huey1in/trio
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-16T09:52:38Z"
 ---
 ## What it is
 Turns DeepSeek Harness into an MCP server with tools for session management, agent execution, resources, and OAuth, plus browser automation and GitHub/GitLab integration.

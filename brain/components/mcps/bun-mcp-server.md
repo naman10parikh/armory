@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T05:28:31Z"
 ---
 ## What it is
 A lightweight HTTP-based MCP server built with Bun, enabling tool discovery and execution via JSON-RPC 2.0 over HTTP.

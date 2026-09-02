@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T15:26:50Z"
 ---
 ## What it is
 MCP server for creating and editing Effekseer effects with AI agents. It provides tools to manage effect documents, nodes, properties, resources, and curves via stdio.

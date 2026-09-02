@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-25T15:32:54Z"
 ---
 ## What it is
 MCP server `DeBanK`, catalogued on PulseMCP. Provides a bridge to blockchain and DeFi data across multiple chains, enabling access to information about protocols, tokens, pools, user assets, activities, and wallet operations

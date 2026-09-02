@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-29T20:34:50Z"
 ---
 ## What it is
 Enables pulling live Federal Reserve economic data (SOFR, Treasury yields, Fed funds rate, mortgage rates, CPI, PCE) for CRE capital markets analysis through an MCP client.

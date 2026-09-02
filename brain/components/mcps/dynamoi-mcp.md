@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T03:06:20Z"
 ---
 ## What it is
 Lets AI agents help artists and labels prepare releases for promotion by creating Smart Links, checking campaign readiness, and managing platform connections.

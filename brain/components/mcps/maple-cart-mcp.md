@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-24T17:34:47Z"
 ---
 ## What it is
 Enables e-commerce shopping assistant capabilities including product search, cart management, payment processing, and order fulfillment via MCP tools.

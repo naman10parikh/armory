@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:39:31Z"
 ---
 ## What it is
 Enables Indic-language transliteration and normalization of Indian names and addresses using Wikidata, Aksharamukha, and OpenStreetMap.

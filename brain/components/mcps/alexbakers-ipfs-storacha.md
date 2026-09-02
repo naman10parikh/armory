@@ -8,10 +8,12 @@ source_url: https://github.com/alexbakers/mcp-ipfs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-04-10T00:16:33Z"
 ---
 ## What it is
 MCP server `IPFS Storacha Network`, catalogued on PulseMCP. Enables AI access to the IPFS Storacha Network for decentralized file storage, content addressing, and persistent data management through the w3cli interface.

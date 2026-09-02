@@ -8,10 +8,12 @@ source_url: https://github.com/baranwang/mcp-trends-hub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 247
+stars: 269
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 40
+pushed_at: "2026-01-31T04:13:24Z"
 ---
 ## What it is
 MCP server `Chinese Trends Hub`, catalogued on PulseMCP. Provides real-time access to trending topics and content from major Chinese platforms including Weibo, Zhihu, Douyin, Bilibili, Douban, Toutiao, and 36kr through separate tools with temporary caching for improved performance.

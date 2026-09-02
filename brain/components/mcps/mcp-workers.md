@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T23:33:09Z"
 ---
 ## What it is
 An MCP server that enables AI agents to search and analyze employee profiles, skills, tasks, and team structures stored in PostgreSQL, including advanced features like burnout detection and skill gap analysis.

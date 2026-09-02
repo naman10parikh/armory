@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T21:26:45Z"
 ---
 ## What it is
 A Model Context Protocol server that enables Claude (or any MCP client) to read and write Clio Manage data—contacts, matters, activities—directly from chat, with flat-fee billing support in one call.

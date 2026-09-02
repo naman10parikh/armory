@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:08:53Z"
 ---
 ## What it is
 A zero-data MCP server for LLM fine-tuning, providing 64 tools across 10 dimensions to prepare, build, train, evaluate, secure, package, and deliver fine-tuned models without ever accessing client data.

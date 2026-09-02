@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T01:08:22Z"
 ---
 ## What it is
 MCP server that diagnoses ML model regressions by correlating drift reports, eval runs, and deploy logs, providing evidence-cited incident reports through a set of investigation tools.

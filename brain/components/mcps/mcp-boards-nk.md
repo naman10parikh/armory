@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T01:52:37Z"
 ---
 ## What it is
 MCP server for Mattermost Boards (Focalboard) that enables natural language management of teams, boards, and cards, including CRUD operations.

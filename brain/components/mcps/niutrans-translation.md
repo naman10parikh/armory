@@ -8,10 +8,12 @@ source_url: https://github.com/niutrans/mcp-texttranslation
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-17T02:29:21Z"
 ---
 ## What it is
 MCP server `NiuTrans Translation`, catalogued on PulseMCP. Integrates with NiuTrans commercial translation API to provide professional-grade machine translation between multiple languages

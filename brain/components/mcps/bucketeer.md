@@ -8,10 +8,12 @@ source_url: https://github.com/bucketeer-io/bucketeer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-30T02:07:26Z"
 ---
 ## What it is
 MCP server `Bucketeer`, catalogued on PulseMCP. Integrates with Bucketeer's open-source feature flag platform to provide complete CRUD operations for managing feature flags, including listing with filtering, creating with targeting rules, updating with audit trails, and archiving flags across multiple environments.

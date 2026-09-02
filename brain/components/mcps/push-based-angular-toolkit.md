@@ -8,10 +8,12 @@ source_url: https://github.com/push-based/angular-toolkit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-25T14:37:28Z"
 ---
 ## What it is
 MCP server `Angular Toolkit`, catalogued on PulseMCP. Provides Angular development teams with component analysis, design system migration support, and automated refactoring workflows including deprecated CSS detection, component contract generation, and validation steps for modernizing legacy codebases.

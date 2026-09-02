@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T07:22:43Z"
 ---
 ## What it is
 A design studio where AI draws, charts and animates: agents create fully editable hand-drawn visuals, build charts from data, and their edits become stop-motion GIF and video animations. Free, offline, zero-dependency, MIT.

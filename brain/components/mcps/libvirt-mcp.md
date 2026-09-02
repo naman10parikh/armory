@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T19:24:07Z"
 ---
 ## What it is
 Enables management of KVM/QEMU virtual machines on remote libvirt hosts via SSH, with tools for inspection, lifecycle management, snapshots, and cloning.

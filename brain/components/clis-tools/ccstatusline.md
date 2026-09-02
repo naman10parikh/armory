@@ -8,11 +8,13 @@ source_url: https://github.com/sirmalloc/ccstatusline
 license: MIT
 cli_compat: [claude]
 maturity: experimental
-stars: 12532
+stars: 12713
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [awesome-claude-code, status-lines]
+forks: 557
+pushed_at: "2026-08-26T13:26:16Z"
 ---
 ## What it is
 A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.

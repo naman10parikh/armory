@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T20:26:54Z"
 ---
 ## What it is
 Connects AI coding assistants to DLP One for real-time security scanning, vulnerability management, and AI-generated remediation directly inside your IDE or AI agent.

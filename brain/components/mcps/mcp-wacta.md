@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:18:11Z"
 ---
 ## What it is
 MCP server for the WaCta WordPress suite, enabling AI assistants to read/update settings, manage CTAs, and query WhatsApp analytics via secure Application Passwords.

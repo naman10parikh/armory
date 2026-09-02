@@ -8,10 +8,12 @@ source_url: https://github.com/drolosoft/go-docs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-17T12:38:42Z"
 ---
 ## What it is
 MCP server `Go Docs`, catalogued on PulseMCP. Reads and processes PDF, TXT, Markdown, DOCX, CSV, and image files through 12 tools delivered as a single dependency-free Go binary.

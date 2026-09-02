@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T01:04:22Z"
 ---
 ## What it is
 MCP server exposing Cursor's HTTP APIs for managing Cloud Agents, Team/Org Admin, Analytics, Bugbot, AI Code Tracking, and Fleet with read-only and read-write modes.

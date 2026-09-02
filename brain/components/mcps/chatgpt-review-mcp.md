@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T13:18:59Z"
 ---
 ## What it is
 An MCP server that lets Claude Code send prompts to a logged-in ChatGPT web session via Chrome DevTools Protocol, enabling a second opinion from GPT without using API tokens.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:40:45Z"
 ---
 ## What it is
 Enables AI agents to fact-check claims, verify citations, and check source freshness using Wikipedia, Wikidata, Crossref, and Wayback Machine.

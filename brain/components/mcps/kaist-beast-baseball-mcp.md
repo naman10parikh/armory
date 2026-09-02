@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T12:22:31Z"
 ---
 ## What it is
 Collects baseball league data from gameone.kr and enables Claude Desktop to perform team analysis, lineup recommendations, and opponent strategy through natural language.

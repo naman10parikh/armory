@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-23T13:20:01Z"
 ---
 ## What it is
 Enforces engineering governance for AI-driven software projects, ensuring state over prompt, freeze over generate, and audit over output through the 5S workflow.

@@ -8,11 +8,13 @@ source_url: https://github.com/dinglebear-ai/rarcane
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T16:41:56Z"
 ---
 ## What it is
 MCP server for managing Docker containers, images, networks, volumes, and Compose projects via Arcane, exposing a single 'arcane' tool for read/write operations over stdio or HTTP.

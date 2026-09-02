@@ -8,10 +8,12 @@ source_url: https://github.com/atharva-gundawar/macos_gui
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-26T00:33:00Z"
 ---
 ## What it is
 MCP server `macOS GUI Control`, catalogued on PulseMCP. Enables AI assistants to control macOS applications by capturing screenshots, identifying UI elements, and automating mouse and keyboard actions through the macOS accessibility framework.

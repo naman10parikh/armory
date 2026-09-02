@@ -8,11 +8,13 @@ source_url: https://github.com/john7ross/BitrixMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T20:01:08Z"
 ---
 ## What it is
 Universal MCP server for the Bitrix24 REST API, enabling full read and write access to CRM, tasks, calendar, disk, and more. Supports any MCP client with stdio or Streamable HTTP transport.

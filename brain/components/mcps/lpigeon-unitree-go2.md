@@ -8,10 +8,12 @@ source_url: https://github.com/lpigeon/unitree-go2-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 78
+stars: 86
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-06-10T07:34:11Z"
 ---
 ## What it is
 MCP server `Unitree Go2`, catalogued on PulseMCP. Enables control of the Unitree Go2 quadruped robot through natural language commands, translating conversational instructions into precise ROS2 actions for walking, dancing, sitting, and performing gestures.

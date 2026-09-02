@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T12:33:38Z"
 ---
 ## What it is
 A content fetcher that sanitizes, size-caps, and caches fetched content, protecting against injection attacks via the Model Context Protocol.

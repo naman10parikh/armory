@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-31T11:22:30Z"
 ---
 ## What it is
 Enables AI-powered shopping assistance by analyzing natural language shopping queries and automating product searches on multiple e-commerce platforms.

@@ -8,10 +8,12 @@ source_url: https://github.com/aryanbv/pdf-toolkit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-22T05:56:14Z"
 ---
 ## What it is
 MCP server `PDF Toolkit`, catalogued on PulseMCP. Create, merge, split, watermark, and convert Markdown to PDF with sixteen manipulation tools.

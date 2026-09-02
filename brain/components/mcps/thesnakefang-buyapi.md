@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T16:07:53Z"
 ---
 ## What it is
 MCP server `BuyAPI`, catalogued on PulseMCP. Evaluate and compare vendor options for infrastructure and software purchasing decisions.

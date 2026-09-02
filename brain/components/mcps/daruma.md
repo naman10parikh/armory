@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T07:23:18Z"
 ---
 ## What it is
 A lightweight, local-first MCP server and CLI that helps developers and AI coding agents store and retrieve lessons learned during development, using SQLite and context-aware filtering.

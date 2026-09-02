@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T19:58:09Z"
 ---
 ## What it is
 Enables safe, read-only analysis of an online store's SQLite database, providing schema introspection, restricted SELECT queries, and specialized analytics tools through MCP.

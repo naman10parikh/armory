@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-14T22:09:24Z"
 ---
 ## What it is
 An MCP server that makes project documentation instantly accessible in Claude Code through @ mentions, allowing Claude to understand your codebase's conventions and architecture.

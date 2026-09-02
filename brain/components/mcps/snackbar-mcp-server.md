@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:33:05Z"
 ---
 ## What it is
 A personal note store exposed as an MCP server. Enables any MCP-speaking assistant to create, search, list, and categorize notes, with per-client bearer tokens for author attribution.

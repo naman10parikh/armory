@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T00:28:42Z"
 ---
 ## What it is
 MCP server `Biolit`, catalogued on PulseMCP. LLM-assisted biomedical literature screening and data extraction for PubMed, GEO, and preprints.

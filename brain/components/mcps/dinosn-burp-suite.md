@@ -8,10 +8,12 @@ source_url: https://github.com/dinosn/burp-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-17T10:40:48Z"
 ---
 ## What it is
 MCP server `Burp Suite`, catalogued on PulseMCP. Integrates Burp Suite's web security testing platform with tools for HTTP request/response handling, vulnerability scanning, crawling, proxy history access, and configuration management to enable automated security analysis workflows and intelligent vulnerability discovery.

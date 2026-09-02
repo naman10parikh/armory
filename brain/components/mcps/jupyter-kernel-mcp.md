@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-29T18:12:57Z"
 ---
 ## What it is
 Enables AI agents to execute Python, TypeScript, and JavaScript code in persistent Jupyter kernels with stateful variables and imports across interactions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T07:31:51Z"
 ---
 ## What it is
 Enables AI agents to securely control a remote Windows/Linux PC via MCP and REST, executing shell commands and driving coding-agent CLIs like Claude, Cursor, and Codex.

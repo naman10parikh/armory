@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
-stars: 2611
+stars: 2622
+forks: 326
+pushed_at: "2026-08-12T07:39:54Z"
 ---
 ## What it is
 Discover, extract, and interact with the web - one interface powering automated access across the public internet.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T03:56:41Z"
 ---
 ## What it is
 A vendor-neutral, release-aware context contract and MCP runtime that provides reliable data agents with compact metadata, semantic definitions, and validated SQL compilation.

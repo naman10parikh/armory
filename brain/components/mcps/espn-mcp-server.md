@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-12-01T13:03:18Z"
 ---
 ## What it is
 Enables access to live ESPN sports data for NFL, NHL, and NBA leagues, including standings, scores, schedules, team info, and playoffs through natural language queries.

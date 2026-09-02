@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T19:00:26Z"
 ---
 ## What it is
 Enables AI assistants to search, query, and manage Azure AI Search indexes using full-text, semantic, and vector search, alongside index and document operations.

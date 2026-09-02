@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T09:13:46Z"
 ---
 ## What it is
 Enables AI clients to perform domain verification, DNS lookup, and domain assessment via the Revnuvo x402 paid APIs, with automatic USDC micropayments on Base.

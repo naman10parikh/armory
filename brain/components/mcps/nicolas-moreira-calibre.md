@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T21:47:52Z"
 ---
 ## What it is
 MCP server `Calibre`, catalogued on PulseMCP. Local-first AI memory system with decay and evolution mechanics, behavioral gene tracking, and multi-agent coordination via MCP.

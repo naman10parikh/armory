@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T22:03:58Z"
 ---
 ## What it is
 A symbolic mathematics MCP server supporting calculus, linear algebra, number theory, statistics, and unit conversion via natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/mattydsmith/things-cloud-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-28T15:05:15Z"
 ---
 ## What it is
 MCP server `Things Cloud`, catalogued on PulseMCP. Full read/write access to Things 3 task manager via reverse-engineered cloud SDK.

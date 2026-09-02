@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T13:04:57Z"
 ---
 ## What it is
 Enables OneSignal push notification workflows in Cursor, including message sending, segment management, template creation, Journeys, custom events, and mobile SDK setup.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T19:55:41Z"
 ---
 ## What it is
 Enables interacting with Clockify time-tracking data through natural language, providing tools to manage workspaces, projects, time entries, reports, and more via the MCP protocol.

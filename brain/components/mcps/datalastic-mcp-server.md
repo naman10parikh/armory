@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T17:27:20Z"
 ---
 ## What it is
 Enables real-time vessel tracking, port data, maritime weather, and maritime intelligence through 25 tools, allowing AI clients to query live vessel positions, registry, port info, area searches, weather, and more.

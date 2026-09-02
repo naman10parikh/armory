@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:47:09Z"
 ---
 ## What it is
 MCP server for querying Brazilian individual (CPF) registration data. Provides a single read-only tool to fetch cadastral information by CPF and name.

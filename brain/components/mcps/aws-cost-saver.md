@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-02T07:24:40Z"
 ---
 ## What it is
 Enables scanning AWS accounts for cost optimization opportunities by reading resource configurations and pricing data, without making any modifications.

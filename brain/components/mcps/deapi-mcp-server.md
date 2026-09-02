@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-04T10:13:46Z"
 ---
 ## What it is
 Production-ready MCP server for the deAPI REST API, exposing AI capabilities like audio transcription, image generation, OCR, video generation, and text-to-speech as MCP tools.

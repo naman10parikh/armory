@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T13:28:46Z"
 ---
 ## What it is
 A read-only MCP server that lets you search current and historical facts from a time-indexed knowledge graph derived from a folder of Markdown/text documents, with verification against original sources. It exposes tools for status, fact search, history search, and revision lookup while keeping docum

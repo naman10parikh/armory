@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T07:48:38Z"
 ---
 ## What it is
 An MCP server that exposes 58 tools for boards, tasks, comments, worklogs, stages, members, invitations, tags, and a personal day planner, letting AI agents manage Kelvia workspaces through natural language.

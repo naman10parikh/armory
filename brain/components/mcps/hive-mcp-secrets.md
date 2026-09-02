@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T22:56:37Z"
 ---
 ## What it is
 Encrypted secret store for the A2A network — Hive Civilization. Agents can store and retrieve secrets encrypted with AES-256-GCM, scoped to their DID, with USDC payment via x402.

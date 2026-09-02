@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T03:11:31Z"
 ---
 ## What it is
 Enables fetching YouTube transcripts, searching videos, and listing channel/playlist videos via the TranscriptFetch API.

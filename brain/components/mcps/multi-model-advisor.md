@@ -8,10 +8,12 @@ source_url: https://github.com/yuchenssr/multi-ai-advisor-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 86
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-04-02T19:12:18Z"
 ---
 ## What it is
 MCP server `Multi-Model Advisor (Ollama)`, catalogued on PulseMCP. Queries multiple Ollama models in parallel with distinct system prompts focused on empathy, logic, and creativity to provide diverse perspectives on user queries

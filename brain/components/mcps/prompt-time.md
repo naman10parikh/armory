@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T19:06:36Z"
 ---
 ## What it is
 Schedule Windows desktop reminders from Claude Desktop using PowerShell and Windows Task Scheduler. Supports one-time and recurring reminders that persist across reboots.

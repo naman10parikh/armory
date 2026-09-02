@@ -8,10 +8,12 @@ source_url: https://github.com/iceener/files-stdio-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 73
+stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-07-27T13:22:22Z"
 ---
 ## What it is
 MCP server `Files Stdio`, catalogued on PulseMCP. Sandboxed file system access with pattern matching, checksum verification, and Obsidian/Markdown workflow support

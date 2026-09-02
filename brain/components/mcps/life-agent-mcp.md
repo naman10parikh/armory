@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T19:29:31Z"
 ---
 ## What it is
 Enables turning any personal-assistant REST backend into Claude-ready tools via a single MCP server, providing 38 tools for communications, finance, health, and more.

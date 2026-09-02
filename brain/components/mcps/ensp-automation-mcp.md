@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T12:09:16Z"
 ---
 ## What it is
 Generates eNSP network topologies, deploys Huawei VRP configurations, and provides verification plans for lab scenarios.

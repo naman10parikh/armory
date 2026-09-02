@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T15:13:30Z"
 ---
 ## What it is
 A fully local AI stack that provides OpenAI/Anthropic-compatible LLM API, embeddings, mem0 memory, and second-brain RAG via MCP tools, all running independently with no cloud dependencies.

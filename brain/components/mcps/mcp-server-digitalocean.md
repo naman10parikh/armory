@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T13:50:12Z"
 ---
 ## What it is
 Enables managing DigitalOcean cloud resources, including Droplets, databases, domains, and more, via natural language.

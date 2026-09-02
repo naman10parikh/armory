@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T18:53:09Z"
 ---
 ## What it is
 A production-ready local MCP server for Agent Studio, providing tools for calculation, search, chat, and Hugging Face text generation via the Inference API.

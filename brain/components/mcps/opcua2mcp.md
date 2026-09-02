@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T15:24:55Z"
 ---
 ## What it is
 Converts OPC UA sensor data into MCP-compatible tools and exposes machine health via both HTTP and MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T01:14:02Z"
 ---
 ## What it is
 MCP server for Swiss federal finances (EFV), providing read-only tools to query budget, debt, forecasts, and spending by task and institution from public data.

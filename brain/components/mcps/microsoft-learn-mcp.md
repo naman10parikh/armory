@@ -8,11 +8,13 @@ source_url: https://github.com/microsoftdocs/mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4136
+stars: 1868
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 238
+pushed_at: "2026-08-12T20:00:41Z"
 ---
 ## What it is
 The Microsoft Learn MCP Server is a remote MCP Server that enables clients like GitHub Copilot and other AI agents to bring trusted and up-to-date information directly from Microsoft's official documentation. It supports streamable http transport, which is lightweight for clients to use.

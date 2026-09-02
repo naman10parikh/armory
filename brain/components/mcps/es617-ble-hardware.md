@@ -8,10 +8,12 @@ source_url: https://github.com/es617/ble-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-30T03:00:31Z"
 ---
 ## What it is
 MCP server `BLE Hardware Bridge`, catalogued on PulseMCP. Interact with Bluetooth Low Energy hardware — scan, connect, read, write, and subscribe.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T20:01:09Z"
 ---
 ## What it is
 mcp-broker is a local Model Context Protocol process broker for MCP clients. Think PgBouncer for MCP: one stable local endpoint in front of many upstream MCP servers. The broker owns upstream startup, reuse, cleanup, profile exposure, status, and safe tool routing. The core idea is simple: do not ma

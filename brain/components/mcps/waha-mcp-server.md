@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T11:58:45Z"
 ---
 ## What it is
 Enables Claude or other MCP clients to interact with WhatsApp through the WAHA HTTP API, supporting messaging, group management, and contact operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T14:59:09Z"
 ---
 ## What it is
 Provides geospatial intelligence for Uttar Pradesh, India, enabling geocoding, fetching location facts (district, elevation, road/water proximity), and answering location-based questions with AI-grounded answers.

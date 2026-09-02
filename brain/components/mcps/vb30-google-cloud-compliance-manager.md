@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-10T17:07:09Z"
 ---
 ## What it is
 MCP server `Google Cloud Compliance Manager`, catalogued on PulseMCP. Integrates with Google Cloud Compliance Manager to discover, deploy, and manage compliance frameworks like CIS, NIST, and FedRAMP across organizations, folders, and projects with monitoring and enforcement capabilities.

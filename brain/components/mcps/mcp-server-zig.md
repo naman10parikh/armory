@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T12:35:45Z"
 ---
 ## What it is
 Provides Zig language intelligence for Claude Code by wrapping ZLS (Zig Language Server) and exposing 8 tools for diagnostics, formatting, hover info, go-to-definition, references, completions, document symbols, and building.

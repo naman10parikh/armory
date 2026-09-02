@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T06:07:26Z"
 ---
 ## What it is
 Attaches a file-based kanban workflow to any project, allowing agents to create, claim, complete, and block work items using git as the locking mechanism.

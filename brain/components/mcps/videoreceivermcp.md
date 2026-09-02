@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T16:22:05Z"
 ---
 ## What it is
 MCP server that receives base64-encoded video files, saves them locally, and supports listing and deletion; works via stdio for local agents and HTTP for remote clients.

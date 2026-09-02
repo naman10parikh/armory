@@ -8,10 +8,12 @@ source_url: https://github.com/kornbed/jira-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-05-07T10:18:22Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Provides a TypeScript-based integration with Jira, enabling direct interaction with tickets through standardized tools for developers and project managers to streamline their workflow.

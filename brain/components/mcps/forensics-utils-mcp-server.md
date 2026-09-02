@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T23:44:18Z"
 ---
 ## What it is
 Comprehensive forensic analysis MCP server enabling AI agents to analyze files, Chromium and Firefox browser artifacts, with VirusTotal, DIE, Binwalk integrations.

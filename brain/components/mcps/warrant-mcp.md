@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:47:41Z"
 ---
 ## What it is
 An MCP server that enforces plain-English rules on AI agent tool calls, deterministically blocking forbidden actions before execution via a Claude Code hook and a check_action tool.

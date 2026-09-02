@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:28:10Z"
 ---
 ## What it is
 Exposes cloud drive file search, read/write, sharing, tagging, and more via the standardized MCP protocol, enabling AI clients like Claude Desktop and Cursor to interact with 一粒云 storage.

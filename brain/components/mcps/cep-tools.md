@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T00:43:20Z"
 ---
 ## What it is
 An MCP server that provides a tool to query Brazilian postal codes (CEPs) via the ViaCEP API, returning address details such as street, neighborhood, city, and state.

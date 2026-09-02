@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T19:05:16Z"
 ---
 ## What it is
 MCP server `Meta & Google Ads Connector`, catalogued on PulseMCP. MCP server connecting to Meta Ads and Google Ads APIs to retrieve campaign performance metrics and audience insights.

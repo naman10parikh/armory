@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-03T17:54:09Z"
 ---
 ## What it is
 An MCP server that provides cost and reliability observability for LLM and agent workflows. It records model calls and allows querying and aggregating telemetry data through MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T13:35:36Z"
 ---
 ## What it is
 A small Python MCP server for querying PostgreSQL and MySQL databases with read-only safety, featuring schema inspection, table description, and query execution tools.

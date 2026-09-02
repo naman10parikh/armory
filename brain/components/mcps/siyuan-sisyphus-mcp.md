@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2026-08-25T11:50:48Z"
 ---
 ## What it is
 Enables AI agents to safely read, search, edit, and organize SiYuan notes, with git-like document timeline and notebook-level permissions.

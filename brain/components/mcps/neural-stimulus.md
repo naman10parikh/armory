@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T13:41:43Z"
 ---
 ## What it is
 An MCP server that provides persistent semantic memory for LLMs by building a concept graph with vector search. It enables storing, linking, and retrieving concepts across conversations using Turso vector search and 256-dimensional embeddings.

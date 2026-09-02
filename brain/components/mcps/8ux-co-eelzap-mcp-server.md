@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T14:46:09Z"
 ---
 ## What it is
 Connect your AI assistant to Eel Zap CMS to create collections, manage content, upload media, and publish through natural language.

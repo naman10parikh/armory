@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T09:16:39Z"
 ---
 ## What it is
 Hire real humans in Russia for physical-world tasks — storefront photos, address checks, offline errands — directly from your AI agent. Payment in USDT.

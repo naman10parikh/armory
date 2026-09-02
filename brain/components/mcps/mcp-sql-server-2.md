@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-31T13:07:52Z"
 ---
 ## What it is
 A Model Context Protocol server that enables Claude to query, monitor, and analyze SQL Server databases, with support for schema exploration, performance analysis, and optional write operations.

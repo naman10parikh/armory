@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T09:04:11Z"
 ---
 ## What it is
 MCP server that exposes local Python scripts as tools for AI clients (e.g. Claude Desktop), enabling directory tree generation, Excel-to-text conversion, Python code extraction, and text file merging.

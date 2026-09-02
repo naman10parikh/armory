@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-23T23:13:48Z"
 ---
 ## What it is
 MCP server `Skill History`, catalogued on PulseMCP. Track and search download history for 70,000+ agent skills with daily snapshots.

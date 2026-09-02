@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T23:01:53Z"
 ---
 ## What it is
 Generates test files locally (images, PDFs, CSVs, corrupted files, etc.) from natural language prompts, with configurable sizes and safety limits.

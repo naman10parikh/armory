@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T01:44:29Z"
 ---
 ## What it is
 A single MCP server that gives Claude, ChatGPT, Codex, and any MCP-compatible AI access to the same personal context via two tools: context_get and context_log.

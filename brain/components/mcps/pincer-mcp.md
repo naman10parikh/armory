@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-18T10:13:35Z"
 ---
 ## What it is
 A security-hardened MCP gateway that enables AI agents to call LLM APIs (Gemini, OpenAI, Claude, etc.) using ephemeral proxy tokens, eliminating exposure of real API keys.

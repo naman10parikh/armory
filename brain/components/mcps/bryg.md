@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T07:38:01Z"
 ---
 ## What it is
 An MCP server that lets AI assistants drive real Chromium browsers — navigate, click, type, read pages, run OCR, and record network traffic. 43 tools, credentials stay local, zero telemetry.

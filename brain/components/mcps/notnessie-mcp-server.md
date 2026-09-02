@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T22:11:15Z"
 ---
 ## What it is
 Enables Claude Code to persist and retrieve project memory across sessions, including decisions, constraints, verified commands, and context packs, via nine MCP tools.

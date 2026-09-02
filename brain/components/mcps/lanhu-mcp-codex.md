@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T06:20:35Z"
 ---
 ## What it is
 Read-only MCP server that converts Lanhu project/design links into design context consumable by Codex or other AI agents.

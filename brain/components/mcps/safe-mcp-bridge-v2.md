@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T16:17:49Z"
 ---
 ## What it is
 A fail-closed policy boundary that translates local stdio MCP clients to authenticated Streamable HTTP servers, enforcing allowlists or read-only modes and redacting credentials from audit trails.

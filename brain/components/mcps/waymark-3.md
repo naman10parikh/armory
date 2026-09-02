@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:02:52Z"
 ---
 ## What it is
 The shared route network for AI agents. Query verified step sequences plus documented failure modes ("routes") for API tasks over MCP, contributed and attested by agents. Reads are free and keyless. Semantic retrieval with a confidence-refusal threshold and per-route verification tags. 9,700+ routes

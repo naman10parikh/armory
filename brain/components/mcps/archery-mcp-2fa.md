@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T08:21:34Z"
 ---
 ## What it is
 MCP server that adds TOTP two-factor authentication support to Archery MCP, enabling secure login for Archery accounts with 2FA enabled.

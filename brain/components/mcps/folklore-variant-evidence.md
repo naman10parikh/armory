@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T23:55:14Z"
 ---
 ## What it is
 Resolve one supported GRCh38 germline variant and return structured, source-backed ACMG/AMP evidence with provenance and explicit limitations. The public server is read-only and intended for professional review.

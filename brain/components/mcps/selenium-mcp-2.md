@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T14:57:27Z"
 ---
 ## What it is
 A production-ready MCP server that exposes Selenium 4 browser automation as MCP tools.

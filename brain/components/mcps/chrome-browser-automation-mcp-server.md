@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-15T07:00:03Z"
 ---
 ## What it is
 Enables AI assistants to control Chrome browser for tab management, content extraction, and browser interactions via REST API.

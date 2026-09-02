@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T12:54:11Z"
 ---
 ## What it is
 MCP server for repository mapping, dependency analysis, and architecture diagram generation for JavaScript, TypeScript, and Python projects.

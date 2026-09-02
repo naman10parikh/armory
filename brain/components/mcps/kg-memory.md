@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-25T01:24:12Z"
 ---
 ## What it is
 An MCP server that implements a heavily typed knowledge graph memory system with AI-powered entity and relation extraction, enabling structured knowledge storage and retrieval from unstructured text using predefined or custom ontologies.

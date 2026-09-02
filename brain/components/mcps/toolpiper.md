@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T09:39:06Z"
 ---
 ## What it is
 300+ MCP tools for macOS, all on-device — local AI inference (llama.cpp on Metal), voice, vision OCR, local RAG, browser automation, and ~140 system actions across 26 macOS domains. Nothing leaves your Mac.

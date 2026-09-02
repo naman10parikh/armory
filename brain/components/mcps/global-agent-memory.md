@@ -8,11 +8,13 @@ source_url: https://github.com/ozankasikci/global-agent-memory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T10:21:03Z"
 ---
 ## What it is
 Provides local-first, project-aware durable memory for coding agents, with a human-reviewed Markdown vault, MCP daemon, and dashboard for managing and retrieving shared knowledge.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T17:11:49Z"
 ---
 ## What it is
 Upload, list, and delete files on YourImageShare (free image & video hosting, 200MB limit, no account required) from Claude, ChatGPT, or any MCP-compatible agent.

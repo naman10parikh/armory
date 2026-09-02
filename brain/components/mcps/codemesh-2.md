@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-03T03:18:47Z"
 ---
 ## What it is
 CodeMesh enables AI agents to orchestrate any MCP server by writing TypeScript code, with self-improving capabilities through auto-augmentation of tool documentation.

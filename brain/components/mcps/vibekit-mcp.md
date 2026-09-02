@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T18:15:33Z"
 ---
 ## What it is
 MCP server for VibeKit — build, deploy, and manage hosted apps and chat with each app's persistent server-side AI agent from Claude Desktop, Cursor, or any MCP client. Every app gets its own agent and a live URL; bring your own Claude/OpenAI key or pay-as-you-go.

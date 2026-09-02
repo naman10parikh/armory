@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T16:20:42Z"
 ---
 ## What it is
 Enables web search via a real browser for any LLM, bypassing anti-bot measures without API keys.

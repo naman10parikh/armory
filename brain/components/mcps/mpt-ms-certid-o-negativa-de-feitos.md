@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:50Z"
 ---
 ## What it is
 Read-only MCP server that consults official Certidão Negativa de Feitos (negative certificate of legal proceedings) from the MPT MS, a Brazilian labor prosecutor, via a hosted API.

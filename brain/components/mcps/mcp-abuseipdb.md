@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T08:41:05Z"
 ---
 ## What it is
 Enables AI agents to check IP reputation and abuse reports via AbuseIPDB, including abuse confidence scores, report details, and bulk IP triage.

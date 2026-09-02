@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T00:42:29Z"
 ---
 ## What it is
 Enables AI assistants to drive Xilinx Vivado, Intel Quartus, and Anlogic TangDynasty for FPGA development, including project creation, synthesis, implementation, timing closure, and hardware programming through natural language.

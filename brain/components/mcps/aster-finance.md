@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-18T13:10:43Z"
 ---
 ## What it is
 MCP server `Aster Finance`, catalogued on PulseMCP. Integrates with Aster Finance API to provide cryptocurrency futures trading data including kline charts, price statistics, funding rates, order books, and recent trades formatted as Markdown tables for market analysis and trading strategies.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T22:50:42Z"
 ---
 ## What it is
 MCP server `PricePilot`, catalogued on PulseMCP. Free competitive pricing intelligence for CPG brands across Amazon grocery, health, household, and pet supply categories.

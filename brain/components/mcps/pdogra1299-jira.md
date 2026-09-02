@@ -8,10 +8,12 @@ source_url: https://github.com/pdogra1299/jira-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-05-19T15:03:26Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Integrates with Jira Cloud REST API v3 to enable issue creation, updates, searching with JQL, comment management, workflow transitions, user lookup, and project discovery with automatic email-to-account-ID resolution and rich text content extraction from Atlassian Document Format.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T21:10:37Z"
 ---
 ## What it is
 An MCP server that lets Claude Code search Google Drive, read vault notes, and pull Drive files into the vault using rclone authentication. It operates with read-only scope and supports document section filtering.

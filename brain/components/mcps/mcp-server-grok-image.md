@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:46:43Z"
 ---
 ## What it is
 MCP server for generating and editing images using xAI's Grok API. Provides tools for image generation, editing, and style listing with configurable models and output options.

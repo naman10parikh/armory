@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-27T21:32:14Z"
 ---
 ## What it is
 MCP server `Docker`, catalogued on PulseMCP. MCP server for managing Docker containers, images, networks, volumes, and registries

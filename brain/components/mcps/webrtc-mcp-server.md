@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T02:24:48Z"
 ---
 ## What it is
 Peer-to-peer WebRTC communication for AI agents, connecting autonomous coding agents over low-latency WebRTC DataChannels with room-based signaling, video stream bridging, and multi-agent coordination — all exposed as MCP tools.

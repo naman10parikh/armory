@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-14T15:23:45Z"
 ---
 ## What it is
 Enables natural language search through personal video collections, returning AI-generated descriptions and direct URLs to relevant 30-second video clips.

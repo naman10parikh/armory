@@ -8,10 +8,12 @@ source_url: https://github.com/danilop/mcp2lambda
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 110
+stars: 109
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-03-27T14:51:22Z"
 ---
 ## What it is
 MCP server `AWS Lambda`, catalogued on PulseMCP. Enables LLMs to interact with AWS Lambda functions, providing access to private resources, AWS services, and Lambda's capabilities for data processing and external API integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T21:09:56Z"
 ---
 ## What it is
 MCP server exposing ServiceNow, Jira, and PagerDuty as unified tools for AI agents, enabling incident management, issue tracking, and on-call operations.

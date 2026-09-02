@@ -8,11 +8,13 @@ source_url: https://github.com/TheLlamainator/after-effects-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-03-15T10:05:48Z"
 ---
 ## What it is
 Enables AI assistants to control Adobe After Effects for composition, layer, effect, preset, marker, and audio automation through a bridge panel.

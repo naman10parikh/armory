@@ -8,11 +8,13 @@ source_url: https://github.com/lineex/pubmed-mcp-smithery
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-18T17:20:16Z"
 ---
 ## What it is
 A Model Content Protocol server that provides enhanced tools to search and retrieve academic papers from PubMed, with features including MeSH term lookup, publication count statistics, and PICO-based evidence search.

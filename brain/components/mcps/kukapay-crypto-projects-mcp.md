@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 10
+pushed_at: "2025-05-11T12:57:52Z"
 ---
 ## What it is
 Providing cryptocurrency project data from Mobula.io to AI agents.

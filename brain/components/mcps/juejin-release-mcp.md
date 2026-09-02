@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-07T11:40:56Z"
 ---
 ## What it is
 Enables AI assistants to manage Juejin articles directly via natural language, including publishing, drafting, and content management.

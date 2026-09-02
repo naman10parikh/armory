@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T03:24:13Z"
 ---
 ## What it is
 An educational MCP server demonstrating tools, resources, and prompts for learning the Model Context Protocol.

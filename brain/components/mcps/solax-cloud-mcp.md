@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T15:58:39Z"
 ---
 ## What it is
 Provides real-time access to solar inverter data from the SolaX Cloud API, enabling queries of power output, energy yields, battery status, and grid import/export data.

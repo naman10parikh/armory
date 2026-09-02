@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T06:53:34Z"
 ---
 ## What it is
 Enables automated creation and publishing of branded Instagram and Facebook posts, with topic management, typeset image rendering, and social media publishing via the Meta Graph API.

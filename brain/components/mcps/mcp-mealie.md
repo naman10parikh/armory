@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:16:08Z"
 ---
 ## What it is
 MCP server for Mealie that exposes its REST API to manage recipes, meal plans, shopping lists, cookbooks, and taxonomy through natural language.

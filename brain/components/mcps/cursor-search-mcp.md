@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-29T23:22:24Z"
 ---
 ## What it is
 Exposes Cursor's semantic code search through MCP, enabling tools like codebase_search to query indexed repos.

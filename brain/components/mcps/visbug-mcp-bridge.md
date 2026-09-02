@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-31T07:25:06Z"
 ---
 ## What it is
 Bridge between VisBug and Cursor via MCP, enabling visual edits on localhost to be captured and applied as structured CSS diffs. Russian localization of mambari/visbug-mcp.

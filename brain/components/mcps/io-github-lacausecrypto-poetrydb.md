@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T16:05:00Z"
 ---
 ## What it is
 Enables exploring and retrieving classic poems from PoetryDB via 12 MCP tools for catalog, search, and discovery, including by author, title, lines, and poetic forms.

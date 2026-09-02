@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T23:33:07Z"
 ---
 ## What it is
 MCP server that enables AI agents to read and write records in a live REST API generated from pasted data, with tools for listing, querying, inserting, updating, and deleting records.

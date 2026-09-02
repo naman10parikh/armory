@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-29T19:02:06Z"
 ---
 ## What it is
 Scans MCP tool descriptions for prompt injection attacks, including cross-tool instructions, privilege escalation, and data exfiltration patterns. It can be used as a CLI scanner or integrated as an MCP server itself.

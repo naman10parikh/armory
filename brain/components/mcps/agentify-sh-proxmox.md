@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-19T01:00:46Z"
 ---
 ## What it is
 MCP server `Proxmox`, catalogued on PulseMCP. Integrates with Proxmox virtualization platform to monitor cluster health, manage VM and container lifecycles, execute commands within VMs via QEMU guest agent, and track storage resources across nodes.

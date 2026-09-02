@@ -8,10 +8,12 @@ source_url: https://github.com/logi-cmd/agent-guardrails
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-16T15:15:33Z"
 ---
 ## What it is
 MCP server `Agent Guardrails`, catalogued on PulseMCP. Production guardrails for AI coding agents that validate changes before they reach production.

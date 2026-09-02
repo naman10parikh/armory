@@ -8,10 +8,12 @@ source_url: https://github.com/aashari/mcp-server-atlassian-bitbucket
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 148
+stars: 162
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 60
+pushed_at: "2026-03-06T07:29:48Z"
 ---
 ## What it is
 MCP server `Bitbucket`, catalogued on PulseMCP. Integrates with Bitbucket's REST APIs to enable repository management, pull request handling, and workspace operations with TypeScript-based error handling and pagination support

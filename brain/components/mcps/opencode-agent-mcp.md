@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:37:44Z"
 ---
 ## What it is
 MCP server that exposes independent OpenCode AI coding agents to upstream agents with multi-workspace concurrent routing, enabling session management and message exchange across multiple repositories via stdio JSON-RPC.

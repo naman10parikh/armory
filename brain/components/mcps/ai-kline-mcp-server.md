@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 94
+pushed_at: "2025-08-06T02:37:26Z"
 ---
 ## What it is
 MCP server for A-share stock technical analysis and AI prediction, enabling LLM-based interaction to analyze stocks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T13:38:12Z"
 ---
 ## What it is
 Enables AI assistants to capture screenshots of any public URL, returning images inline with page metadata. Supports full-page captures, custom wait times, and timeouts.

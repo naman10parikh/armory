@@ -8,11 +8,13 @@ source_url: https://github.com/cyanheads/clinicaltrialsgov-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2341
+stars: 91
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 24
+pushed_at: "2026-08-21T22:39:13Z"
 ---
 ## What it is
 MCP server for the ClinicalTrials.gov v2 API. Search trials, retrieve study details and results, and match patients to eligible trials.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-12T07:48:56Z"
 ---
 ## What it is
 Provides LinkedIn automation via a real browser session using your own cookie, enabling profile, company, job, and post search and reading, plus sending messages and connection requests with rate limiting.

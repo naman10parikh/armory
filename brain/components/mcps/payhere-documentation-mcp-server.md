@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T03:26:15Z"
 ---
 ## What it is
 Provides AI-ready documentation for the PayHere payment gateway, enabling access to API references, SDK guides, and documentation search through MCP tools.

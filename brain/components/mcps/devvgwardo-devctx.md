@@ -8,10 +8,12 @@ source_url: https://github.com/devvgwardo/devctx
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-05T17:11:00Z"
 ---
 ## What it is
 MCP server `DevCtx`, catalogued on PulseMCP. Provide AI agents with a structured development environment snapshot covering services, git, deployments, and env vars.

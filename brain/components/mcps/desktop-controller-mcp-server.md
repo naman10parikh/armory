@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T09:17:15Z"
 ---
 ## What it is
 Give any AI full control of your desktop. Mouse, keyboard, screenshots — all through the Model Context Protocol.

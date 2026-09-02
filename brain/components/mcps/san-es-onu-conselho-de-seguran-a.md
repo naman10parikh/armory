@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:54:18Z"
 ---
 ## What it is
 Verifica se um nome consta na lista consolidada de sanções do Conselho de Segurança da ONU, para diligência de compliance e AML.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:26:06Z"
 ---
 ## What it is
 A personal remote MCP gateway that exposes Garmin Connect, Home Assistant, and YouTube as MCP servers over HTTP, allowing Claude or any MCP client to query and control them from anywhere without local credentials. It includes a web UI for managing credentials and issuing API keys, with authenticatio

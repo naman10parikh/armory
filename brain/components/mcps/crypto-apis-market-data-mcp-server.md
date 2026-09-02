@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:50:03Z"
 ---
 ## What it is
 Provides access to Crypto APIs Market Data, enabling listing supported assets, fetching exchange rates, and retrieving asset details.

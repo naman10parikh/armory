@@ -12,6 +12,8 @@ stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-10-27T14:33:03Z"
 ---
 ## What it is
 MCP server `Linkup Search`, catalogued on PulseMCP. Integrates with Linkup Technologies' API to enable web searches for information gathering, fact-checking, and research tasks.

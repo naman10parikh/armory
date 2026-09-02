@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-11T14:34:36Z"
 ---
 ## What it is
 Exposes litmedia.ai text-to-image and image-to-video generation tools via MCP, enabling AI agents to generate images and videos directly from prompts.

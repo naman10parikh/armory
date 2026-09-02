@@ -8,10 +8,12 @@ source_url: https://github.com/hollobit/assembly-api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 76
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 33
+pushed_at: "2026-05-02T05:09:35Z"
 ---
 ## What it is
 MCP server `Korean National Assembly`, catalogued on PulseMCP. Queries the Korean National Assembly's open data API for legislative and parliamentary information.

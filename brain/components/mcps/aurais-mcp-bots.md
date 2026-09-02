@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T19:33:54Z"
 ---
 ## What it is
 A monorepo of five signed MCP servers (journal-companion, market-scout, meeting-distiller, research-reader, writing-editor) with offline verifiable proof chains, shared core, and cross-bot provenance.

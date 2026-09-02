@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T13:40:10Z"
 ---
 ## What it is
 Enables MCP-compatible LLM clients to execute server-verified agent workflows, with enforced transitions, invocation caps, and signed audit trails.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T14:11:56Z"
 ---
 ## What it is
 Local MCP server for safe automation of job application responses on hh.ru using the user's Chrome session.

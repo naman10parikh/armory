@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T15:39:41Z"
 ---
 ## What it is
 Enables users to manage a personal todo list with CRUD operations, keyword search, and local SQLite storage. Designed for AI agent productivity tools.

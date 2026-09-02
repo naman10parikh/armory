@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-28T13:27:04Z"
 ---
 ## What it is
 MCP server `Fabric Pattern Tools`, catalogued on PulseMCP. Exposes Fabric design patterns as executable tools that can be discovered and run directly within development workflows, with automatic pattern recommendation based on task descriptions.

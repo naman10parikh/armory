@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-24T22:12:25Z"
 ---
 ## What it is
 A lightweight MCP server that auto-discovers tool kits, enabling tools like SQLite queries and web searches via Tavily API.

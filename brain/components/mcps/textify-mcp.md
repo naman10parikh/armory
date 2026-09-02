@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T19:54:01Z"
 ---
 ## What it is
 A local stdio shim for the hosted Textify MCP server that converts audio, video, images, documents, and webpages into text or Markdown. Includes tools for YouTube transcripts, audio transcription, OCR, file-to-Markdown, and webpage-to-Markdown extraction.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:23:20Z"
 ---
 ## What it is
 MCP server for Stellar that enables AI assistants to explain account holdings, diagnose transaction failures, and describe Soroban contracts in plain language, with optional payment proposal flow.

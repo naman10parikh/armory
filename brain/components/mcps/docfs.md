@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-04T12:30:41Z"
 ---
 ## What it is
 Read-only filesystem MCP server with .gitignore filtering, multi-root support, and cache for efficient file exploration.

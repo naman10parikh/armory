@@ -8,11 +8,13 @@ source_url: https://github.com/Agentic-Delivery/teams-assistant-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T12:26:43Z"
 ---
 ## What it is
 Lets a Claude Code agent read and post in a fixed allowlist of Microsoft Teams group chats using an ordinary user account, with tools for messaging, replying, editing, deleting, and polling.

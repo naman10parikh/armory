@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T10:11:36Z"
 ---
 ## What it is
 MCP server that diffs a project's code structure against fluencyloop architectural records and flags where reality has drifted.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T22:21:16Z"
 ---
 ## What it is
 Enables AI agents to create and interact with isolated tmux terminal sessions in real time, supporting command execution, output capture, and session management.

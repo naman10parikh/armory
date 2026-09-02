@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T15:20:58Z"
 ---
 ## What it is
 AI-powered business intelligence tools via MCP, enabling competitors analysis, website scoring, review analysis, and market research in real time.

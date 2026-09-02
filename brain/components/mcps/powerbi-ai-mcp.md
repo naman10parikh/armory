@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T12:43:04Z"
 ---
 ## What it is
 Enables controlling Power BI with AI through natural language commands for creating DAX measures, explaining metrics, suggesting KPIs, and organizing models.

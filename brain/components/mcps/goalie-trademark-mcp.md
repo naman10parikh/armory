@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T00:46:29Z"
 ---
 ## What it is
 Not another TSDR wrapper. Most trademark MCP servers wrap the USPTO's TSDR endpoint, which returns a single record when you already know its serial or registration number. Ours searches and filters the whole register. Your agent can find the marks it doesn't already have the numbers for.

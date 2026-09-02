@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T09:42:43Z"
 ---
 ## What it is
 Enables an AI assistant to administer a Jira Cloud site with 78 purpose-built tools for behind-the-scenes admin work like custom fields, permission schemes, workflows, screens, issue-type schemes, groups, project roles, saved filters, and bulk operations.

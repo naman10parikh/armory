@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T07:23:37Z"
 ---
 ## What it is
 An MCP server that provides ultra-efficient code exploration through AST analysis, reducing LLM token usage by up to 95% while enabling instant call graph generation and dependency analysis for massive codebases.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-12T02:14:36Z"
 ---
 ## What it is
 MCP server `DuckDuckGo`, catalogued on PulseMCP. Integrates with DuckDuckGo search engine to provide real-time web information retrieval for research, fact-checking, and current events updates.

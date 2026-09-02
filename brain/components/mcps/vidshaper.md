@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T16:03:10Z"
 ---
 ## What it is
 A local MCP server that enables Claude to edit videos on your machine using ffmpeg, with tools for trimming, converting, compressing, creating GIFs, and more.

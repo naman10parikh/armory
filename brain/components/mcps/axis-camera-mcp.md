@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T06:12:16Z"
 ---
 ## What it is
 MCP server that lets an LLM control an Axis network camera over VAPIX, including live streaming, PTZ, image settings, overlays, clock, light, user management, and a built-in RAG knowledge base of VAPIX docs.

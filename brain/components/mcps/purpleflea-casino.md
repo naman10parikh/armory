@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T08:10:13Z"
 ---
 ## What it is
 MCP server `Purple Flea Casino`, catalogued on PulseMCP. Provably fair AI agent casino with 21 games, Kelly criterion bankroll protection, and 0.5% house edge.

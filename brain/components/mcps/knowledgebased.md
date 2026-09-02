@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T07:02:05Z"
 ---
 ## What it is
 Provides semantic search and a tag-based knowledge graph for any project, auto-discovering local markdown knowledge bases with YAML frontmatter.

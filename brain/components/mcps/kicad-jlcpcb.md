@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-20T23:38:28Z"
 ---
 ## What it is
 Automates PCB design from idea to fabrication: sources JLCPCB parts, fetches pin maps from EasyEDA, places and wires footprints in KiCad, and hands off to EasyEDA for auto-routing and ordering — all via Claude Code.

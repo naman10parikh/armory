@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T19:00:30Z"
 ---
 ## What it is
 Enables LLM agents to query real-time and historical analytics from WireBoard, allowing natural language questions about visitors, events, and site metrics.

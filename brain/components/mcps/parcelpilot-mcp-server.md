@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:59:33Z"
 ---
 ## What it is
 Enables AI agents to retrieve customer, order, ticket, policy, and agreement information, and to prepare or execute state-changing support actions like escalations and follow-ups with confirmation and access control.

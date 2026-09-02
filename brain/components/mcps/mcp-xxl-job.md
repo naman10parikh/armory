@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T08:26:56Z"
 ---
 ## What it is
 MCP server for XXL-JOB Admin that enables AI assistants to manage scheduled jobs through natural language, including task lifecycle management, manual triggering, cron preview, and execution log retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T05:56:31Z"
 ---
 ## What it is
 Enables AI agents to create, edit, and publish web apps on Prowpt.ai through project management, code editing, and AI assistant tools.

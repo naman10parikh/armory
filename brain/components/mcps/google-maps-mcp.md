@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-16T04:50:04Z"
 ---
 ## What it is
 A TypeScript MCP server that exposes Google Maps Platform APIs as tools for LLMs, providing real map data like directions, transit routes, place search, address validation, photos, and elevation.

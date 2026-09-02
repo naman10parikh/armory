@@ -8,10 +8,12 @@ source_url: https://github.com/feiskyer/mcp-ai-hub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-11T12:38:18Z"
 ---
 ## What it is
 MCP server `AI Hub`, catalogued on PulseMCP. Provides unified access to 100+ AI providers through LiteLLM integration, enabling seamless switching between OpenAI, Anthropic, Google, Azure, AWS Bedrock, and other services through YAML-based configuration with tools for chatting, listing models, and retrieving model information.

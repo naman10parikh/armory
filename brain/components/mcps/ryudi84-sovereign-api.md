@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-25T20:13:35Z"
 ---
 ## What it is
 MCP server `Sovereign API Generator`, catalogued on PulseMCP. REST API boilerplate generation with Express endpoint scaffolding.

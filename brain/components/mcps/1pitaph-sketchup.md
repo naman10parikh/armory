@@ -8,10 +8,12 @@ source_url: https://github.com/1pitaph/su_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-26T05:47:04Z"
 ---
 ## What it is
 MCP server `SketchUp`, catalogued on PulseMCP. Ruby plugin for SketchUp 3D modeling with geometry creation, entity transformation, material assignment, and model introspection via TCP bridge.

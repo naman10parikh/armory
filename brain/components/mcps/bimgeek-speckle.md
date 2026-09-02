@@ -8,10 +8,12 @@ source_url: https://github.com/bimgeek/speckle-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-08-23T20:42:39Z"
 ---
 ## What it is
 MCP server `Speckle`, catalogued on PulseMCP. Integrates with Speckle to enable querying and analyzing 3D design and AEC project data, including listing projects, retrieving details, searching by name or description, and accessing model versions for architecture, engineering, and construction professionals.

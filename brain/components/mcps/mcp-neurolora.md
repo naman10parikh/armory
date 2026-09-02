@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2024-12-22T19:13:16Z"
 ---
 ## What it is
 An intelligent MCP server that provides tools for code analysis using OpenAI API, code collection, and documentation generation.

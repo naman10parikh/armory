@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T06:03:32Z"
 ---
 ## What it is
 An MCP server that enables Claude to retrieve real-time cryptocurrency market data from CoinGecko and answer price queries with live, grounded responses.

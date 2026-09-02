@@ -8,10 +8,12 @@ source_url: https://github.com/zeph-gh/docx-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-11T05:33:57Z"
 ---
 ## What it is
 MCP server `DOCX Document Processor`, catalogued on PulseMCP. Processes DOCX documents to extract text, convert to HTML/Markdown with preserved formatting, analyze document structure, and extract embedded images for content migration and document processing workflows.

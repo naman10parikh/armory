@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T12:23:28Z"
 ---
 ## What it is
 Provides two MCP servers: Shopify Catalog Monitor for tracking product changes and US Building Permit Aggregator for construction permit data from 9 US cities.

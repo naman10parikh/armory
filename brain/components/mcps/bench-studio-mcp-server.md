@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-18T02:28:05Z"
 ---
 ## What it is
 A local-first creative studio MCP server that provides access to 73 curated image and video generation models across 5 providers, enabling users to generate, refine, and manage creative outputs with transparent cost tracking and local file custody.

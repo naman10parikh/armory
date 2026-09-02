@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T12:25:42Z"
 ---
 ## What it is
 An MCP central server that lets multiple AI agents (e.g., Claude Code, kimi-code) exchange private messages, shared channel broadcasts, and unified message streams via MCP tools, with SQLite persistence and per-connection identity binding.

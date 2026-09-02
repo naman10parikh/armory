@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-15T21:56:01Z"
 ---
 ## What it is
 MCP server `Apache Airflow (Bearer Token)`, catalogued on PulseMCP. Integrates with Apache Airflow through Bearer token authentication to provide DAG operations, task instance management, connection handling, variable management, dataset operations, and monitoring functions with optional read-only mode and automatic UI link generation.

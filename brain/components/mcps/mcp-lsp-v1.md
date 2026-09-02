@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T10:55:09Z"
 ---
 ## What it is
 An MCP stdio server that wraps language servers to expose read-oriented code-intelligence tools (hover, definition, references, diagnostics, etc.) for coding agents, supporting TypeScript/JavaScript and Python.

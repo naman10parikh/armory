@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T04:59:14Z"
 ---
 ## What it is
 MCP server `AgentBase`, catalogued on PulseMCP. Shared knowledge base for AI agents with persistent memory, document storage, and cross-agent information sharing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T23:47:38Z"
 ---
 ## What it is
 Enables Japanese word lookup and search using the Jisho.org dictionary, providing tools to search entries and retrieve exact word definitions with JLPT levels and parts of speech.

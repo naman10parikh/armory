@@ -8,10 +8,12 @@ source_url: https://github.com/thinkneo-ai/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-06T21:51:39Z"
 ---
 ## What it is
 MCP server `ThinkNEO`, catalogued on PulseMCP. Enterprise AI governance control plane with spend tracking, guardrails, policy enforcement, and compliance monitoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:47:16Z"
 ---
 ## What it is
 MCP server enabling natural language search and recommendation of Seoul Open Data Plaza datasets, covering APIs and non-API formats with provider and recency filters.

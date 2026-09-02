@@ -8,10 +8,12 @@ source_url: https://github.com/cmendezs/mcp-ksef-pl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T15:23:16Z"
 ---
 ## What it is
 MCP server `KSeF Poland`, catalogued on PulseMCP. Polish e-invoicing MCP server supporting KSeF API v2, FA(3)/FA(2) XML, Peppol BIS 3.0, and NIP/REGON validation.

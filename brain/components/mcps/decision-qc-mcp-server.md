@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T11:53:31Z"
 ---
 ## What it is
 An MCP server that provides AI agents with structured devil's advocate counter-arguments for their decisions, charged per call in USDT. It exposes a decision_qc tool to evaluate a decision and return rebuttals, risks, and a self-reflection question.

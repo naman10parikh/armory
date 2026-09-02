@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T23:34:09Z"
 ---
 ## What it is
 Operator-tuned MCP server for Venice AI, providing 31 tools for chat, image, video, audio, and music generation with curated presets and workflow prompts.

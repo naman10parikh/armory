@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T13:40:41Z"
 ---
 ## What it is
 Enables AI agents to check order statuses, retrieve FAQ policy answers via RAG, and create/manage support tickets, all based on the e-commerce support workflow in the repository.

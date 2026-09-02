@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tutorials-learning-resources]
+forks: 16
+pushed_at: "2025-04-21T20:02:53Z"
 ---
 ## What it is
 Multi-Agent Systems with Google's Agent Development Kit + A2A + MCP

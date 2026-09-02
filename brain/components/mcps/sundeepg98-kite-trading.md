@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-14T19:17:12Z"
 ---
 ## What it is
 MCP server `Kite Trading`, catalogued on PulseMCP. Indian stock market trading via Zerodha Kite Connect — orders, portfolio, options, and market data.

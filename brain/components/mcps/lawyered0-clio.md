@@ -8,10 +8,12 @@ source_url: https://github.com/lawyered0/clio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-24T01:46:05Z"
 ---
 ## What it is
 MCP server `Clio Manage`, catalogued on PulseMCP. Reads and writes Clio Manage legal practice data including contacts, matters, activities, and flat-fee billing.

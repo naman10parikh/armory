@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T13:39:01Z"
 ---
 ## What it is
 Enables transcribing public Douyin videos to text using a local AI model, providing read-only tools for transcription, search, and listing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:49:38Z"
 ---
 ## What it is
 Enables local-first book writing with AI assistance, allowing users to scaffold, create, search, validate, and enrich a book repository through natural language using OpenCode or Claude.

@@ -8,10 +8,12 @@ source_url: https://github.com/cavinooo/claude-find
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-10T19:52:52Z"
 ---
 ## What it is
 MCP server `Claude Find`, catalogued on PulseMCP. Retrieves deep memory from past Claude Code sessions for use in current conversations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T02:51:30Z"
 ---
 ## What it is
 模糊匹配两份表格中的公司名称和日期，输出已匹配、待复核和未匹配三种结果，便于数据对账。

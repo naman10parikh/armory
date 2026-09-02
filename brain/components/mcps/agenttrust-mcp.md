@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T13:42:24Z"
 ---
 ## What it is
 Reputation infrastructure for the A2A economy, providing agent identity, trust scores, transaction history, and peer endorsements through twelve MCP tools.

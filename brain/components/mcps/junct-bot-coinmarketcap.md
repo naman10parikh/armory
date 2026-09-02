@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:39Z"
 ---
 ## What it is
 MCP server `Junct CoinMarketCap`, catalogued on PulseMCP. Auto-generated MCP server for CoinMarketCap cryptocurrency data, metrics, and analytics.

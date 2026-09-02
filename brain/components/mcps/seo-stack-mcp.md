@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T16:26:14Z"
 ---
 ## What it is
 The complete open-source SEO data stack for AI agents, integrating Google Search Console, Google Analytics 4, Bing Webmaster Tools, and Microsoft Clarity with built-in analyst tools like cannibalization check, low-hanging fruit, and content gap analysis, all self-hosted and free.

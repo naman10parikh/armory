@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-18T00:50:18Z"
 ---
 ## What it is
 MCP server for managing Incus containers and VMs via the incus CLI. Supports operations on remotes, instances, images, networks, storage, profiles, projects, and snapshots.

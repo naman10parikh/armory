@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-13T12:26:58Z"
 ---
 ## What it is
 Enables AI assistants to automatically detect WBSO-relevant work and log R&D time tracking entries based on configurable project criteria.

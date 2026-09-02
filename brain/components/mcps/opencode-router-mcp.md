@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T04:06:37Z"
 ---
 ## What it is
 Cost-aware, multimodal OpenCode task router and sub-agent MCP server for Claude Code, providing tools for delegation, status, review, revision, abort, models, and usage.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-24T09:44:05Z"
 ---
 ## What it is
 A production-ready MCP server that exposes 46 tools for ArangoDB operations, including queries, graph management, multi-tenancy, and backup/restore, enabling AI assistants to interact with ArangoDB databases.

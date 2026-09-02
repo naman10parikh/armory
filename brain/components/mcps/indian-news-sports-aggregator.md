@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:05:53Z"
 ---
 ## What it is
 MCP server that aggregates and caches top stories from Indian news websites, prioritizing sports stories, and exposes them via tools for use with Claude.

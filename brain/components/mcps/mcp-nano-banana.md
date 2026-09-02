@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T18:50:41Z"
 ---
 ## What it is
 Remote HTTP MCP server that generates LXP background images using Gemini 2.5 Flash Image, returning inline PNGs and public URLs with token-based authentication.

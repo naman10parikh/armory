@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:20Z"
 ---
 ## What it is
 Enables querying SINTEGRA Paraná state tax registration data through official sources. Provides a single read-only tool that works with any MCP client.

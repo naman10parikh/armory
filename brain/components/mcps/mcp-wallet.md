@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T19:16:27Z"
 ---
 ## What it is
 Chain-agnostic MCP wallet interface for durable AI agents, enabling autonomous creation, signing, and broadcasting of native transfers while keeping mnemonics encrypted in local custody.

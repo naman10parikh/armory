@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-02-27T17:15:14Z"
 ---
 ## What it is
 An MCP server that makes Claude Code conversation history searchable and proactively useful by indexing past sessions with hybrid BM25+TF-IDF search, extracting decisions and solutions, and auto-injecting relevant project context at session start.

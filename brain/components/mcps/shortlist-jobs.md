@@ -8,10 +8,12 @@ source_url: https://github.com/mls-tech-inc/shortlistjobs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-21T22:53:33Z"
 ---
 ## What it is
 MCP server `Shortlist Jobs`, catalogued on PulseMCP. Automates job searching, application form filling, and submission across major applicant tracking systems.

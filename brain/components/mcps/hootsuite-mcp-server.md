@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-18T15:37:14Z"
 ---
 ## What it is
 Integrates Hootsuite social media management with AI assistants, enabling post creation, scheduling, analytics, and profile management through natural language.

@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2024-12-04T04:28:23Z"
 ---
 ## What it is
 MCP server `Developer Documentation`, catalogued on PulseMCP. Manages up-to-date documentation scraped from the web to support your programming workflows.

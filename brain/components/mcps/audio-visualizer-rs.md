@@ -8,11 +8,13 @@ source_url: https://github.com/JuzzyDee/audio-analyzer-rs
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 55
+stars: 57
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-03-15T10:29:47Z"
 ---
 ## What it is
 Enables Claude to analyze audio files locally, extracting musical features like key, tempo, dynamics, timbre, stereo field, and structural sections via an MCP server.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T13:44:58Z"
 ---
 ## What it is
 MCP server for MAScope: search and analyze World MiniApps, get verified reviews and analytics data.

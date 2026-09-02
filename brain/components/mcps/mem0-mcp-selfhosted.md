@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T19:13:42Z"
 ---
 ## What it is
 Self-hosted mem0 MCP server for Claude Code that adds durable async ingestion, document support, and reranking, enabling persistent memory management with Qdrant, Neo4j, and Ollama.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T05:23:38Z"
 ---
 ## What it is
 Token-optimized unified MCP server for Gmail and Microsoft 365, enabling email, calendar, and contact management with up to 70% token savings via TOON format.

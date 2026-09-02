@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:09:26Z"
 ---
 ## What it is
 Zero-dependency MCP server and CLI for token-efficient inspection of local CSV/JSON/JSONL files, providing schema, samples, and paginated filtered queries to AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T08:06:13Z"
 ---
 ## What it is
 Provides library visit time recommendations and book recommendations by analyzing real lending data from the Data4Library Open API.

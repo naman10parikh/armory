@@ -8,10 +8,12 @@ source_url: https://github.com/zomato/mcp-server-manifest
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 163
+stars: 180
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2026-05-01T11:40:53Z"
 ---
 ## What it is
 MCP server `Zomato`, catalogued on PulseMCP. Search for restaurants and order food on Zomato

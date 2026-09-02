@@ -8,10 +8,12 @@ source_url: https://github.com/leadbroaf/mcp-agent-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-05T20:37:56Z"
 ---
 ## What it is
 MCP server `Agent Server`, catalogued on PulseMCP. Provides a foundation for building persistent agent systems with memory storage, user authentication, and n8n workflow integration designed for SaaS deployment and monetization.

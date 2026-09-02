@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-04-22T09:09:50Z"
 ---
 ## What it is
 MCP server `Kolada`, catalogued on PulseMCP. Access Swedish municipality statistics and KPIs for all 290 municipalities and 21 regions

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T18:32:15Z"
 ---
 ## What it is
 An MCP server that connects Claude to FreeAgent accounting data, allowing natural language queries for financial information like bank transactions, invoices, and reports. It also includes a command-line tool for direct API access.

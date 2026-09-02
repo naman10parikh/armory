@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T18:13:09Z"
 ---
 ## What it is
 Bridges AI agents with Igniral's platform to generate production-ready backends from natural language descriptions.

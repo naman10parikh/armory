@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T02:10:01Z"
 ---
 ## What it is
 Enables AI assistants to capture, search, update, and delete notes in a local Markdown vault with automatic categorization and tagging, making knowledge management seamless.

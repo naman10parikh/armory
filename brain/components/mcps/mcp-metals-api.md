@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:22:13Z"
 ---
 ## What it is
 Wraps the Metals-API to provide real-time precious metals data (gold, silver, platinum, palladium) via natural language queries, part of the Pipeworx gateway for AI agents.

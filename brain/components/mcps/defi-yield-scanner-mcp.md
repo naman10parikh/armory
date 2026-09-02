@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T16:49:54Z"
 ---
 ## What it is
 Real-time DeFi analytics MCP server for AI agents. Provides token risk analysis, yield scanning, and wallet exposure checking across Base, Ethereum, and Arbitrum.

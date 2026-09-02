@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T13:18:04Z"
 ---
 ## What it is
 Enables executing SQL queries, exploring database schemas, and exporting results from Redash via MCP, with ad-hoc queries and write protection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T04:55:23Z"
 ---
 ## What it is
 Demo MCP server that exposes order and customer data as read-only tools for AI assistants, simulating a business API or internal data source.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T12:20:51Z"
 ---
 ## What it is
 Local MCP server that uses Playwright browser automation to enable Claude Code to generate images, create variations, expand, and remove backgrounds via Adobe Firefly, requiring manual sign-in once.

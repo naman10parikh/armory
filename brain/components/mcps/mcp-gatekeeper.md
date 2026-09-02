@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T02:24:27Z"
 ---
 ## What it is
 Runtime security gateway and FastMCP server that protects MCP clients from tool poisoning, prompt injection, and unauthorized tool schema changes through policy enforcement, fail-closed scanning, and human approval gates.

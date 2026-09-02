@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-02T07:08:19Z"
 ---
 ## What it is
 MCP server `Mexico City Open Data`, catalogued on PulseMCP. Mexico City open data covering crime statistics, 911 calls, air quality, bike-sharing, and business locations.

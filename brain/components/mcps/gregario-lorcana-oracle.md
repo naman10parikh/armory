@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
 stars: 3
+forks: 0
+pushed_at: "2026-06-15T17:39:43Z"
 ---
 ## What it is
 Disney Lorcana TCG card search, deck analysis, ink curves, lore generation, and franchise browsing. 7 tools, 2,710 cards embedded.

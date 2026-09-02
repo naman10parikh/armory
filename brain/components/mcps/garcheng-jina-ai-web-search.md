@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-26T10:14:03Z"
 ---
 ## What it is
 MCP server `Jina AI Web Search`, catalogued on PulseMCP. Integrates with Jina AI's web search and content fetching APIs, enabling web searches and URL content extraction for research tasks and information retrieval directly within conversations.

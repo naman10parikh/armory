@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T01:25:09Z"
 ---
 ## What it is
 Lets Claude Code offload cheap, mechanical tasks to opencode's free models for codebase summaries, exploration, web research, and bulk edits, saving paid tokens.

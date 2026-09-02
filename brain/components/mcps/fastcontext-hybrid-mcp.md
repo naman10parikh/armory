@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T11:42:10Z"
 ---
 ## What it is
 MCP server for context-aware codebase exploration using FastContext model, combining LLM-guided search with fuzzy matching to find relevant code snippets.

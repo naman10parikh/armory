@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T20:43:53Z"
 ---
 ## What it is
 A local MCP bridge that connects Claude Code and OpenAI Codex via a durable SQLite mailbox, with support for orchestrating and resuming Codex sessions.

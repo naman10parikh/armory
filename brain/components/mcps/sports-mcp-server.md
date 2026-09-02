@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T03:59:33Z"
 ---
 ## What it is
 Provides comprehensive sports intelligence including live scores, standings, schedules, betting odds, news, highlights, and more via SSE transport.

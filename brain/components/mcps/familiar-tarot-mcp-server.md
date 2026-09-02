@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T15:13:56Z"
 ---
 ## What it is
 Provides free tarot card readings for AI assistants with real deck shuffles, multiple decks, and spreads, enabling reflective practice rather than fortune-telling.

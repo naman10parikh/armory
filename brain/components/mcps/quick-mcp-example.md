@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 22
+pushed_at: "2025-03-07T23:54:13Z"
 ---
 ## What it is
 Demonstrates an MCP server with tools, resources, and prompts for a knowledgebase chatbot that queries a ChromaDB vector database for RAG responses.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-07-07T05:27:24Z"
 ---
 ## What it is
 Enables AI agents to automate web browsers using local Ollama models via the Model Context Protocol, supporting tasks like web search, data extraction, and e-commerce analysis through natural language commands.

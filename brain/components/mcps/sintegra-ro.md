@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:21Z"
 ---
 ## What it is
 Enables querying SINTEGRA RO (Brazilian tax registration) data from official sources via a single read-only tool, with prepaid credit usage and compatibility with any MCP client.

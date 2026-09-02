@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T18:48:13Z"
 ---
 ## What it is
 MCP server that helps commerce operations investigate and safely recover orders left inconsistent after captured-payment webhook failures, with atomic recovery actions and audit history.

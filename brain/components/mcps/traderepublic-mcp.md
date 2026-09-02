@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T22:40:51Z"
 ---
 ## What it is
 A read-only MCP server for Trade Republic that provides portfolio, cash balance, real-time quotes, and instrument search via an unofficial API.

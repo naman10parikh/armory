@@ -8,11 +8,13 @@ source_url: https://github.com/kumoproductions/mcp-aftereffects
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 46
+stars: 51
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:37:31Z"
 ---
 ## What it is
 MCP server that lets LLMs drive Adobe After Effects, enabling project inspection, comp/layer mutations with undo support, JSON checkpoint/restore, and render-verification of edits.

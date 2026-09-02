@@ -8,11 +8,13 @@ source_url: https://github.com/coreyhahn/vivado_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 59
+stars: 60
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 21
+pushed_at: "2026-02-19T12:52:02Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that enables AI assistants like Claude to directly interact with AMD/Xilinx Vivado FPGA development tools.

@@ -8,10 +8,12 @@ source_url: https://github.com/vinnividivicci/wave_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-03-31T23:56:40Z"
 ---
 ## What it is
 MCP server `Wave Accounting`, catalogued on PulseMCP. Integrates with Wave Accounting's GraphQL API to automatically create expense and income transactions from receipt and payment data using intelligent account matching and vendor lookup with fallback creation guidance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T21:02:45Z"
 ---
 ## What it is
 A learning project that wraps a FastAPI app with endpoints for random facts and Japan FAQs as MCP tools, enabling LLMs to call them via LiteLLM proxy.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T08:25:31Z"
 ---
 ## What it is
 Persistent AI knowledge base for Claude via Model Context Protocol — fully offline, no cloud API key required. Stores architectural decisions, technical debt, project progress, and domain knowledge in versioned Markdown files.

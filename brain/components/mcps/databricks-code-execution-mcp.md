@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-02-03T15:03:08Z"
 ---
 ## What it is
 Enables AI-assisted development by running and testing code directly on Databricks clusters via natural language, then deploying Databricks Asset Bundles.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-07T20:34:31Z"
 ---
 ## What it is
 MCP server `Database Explorer`, catalogued on PulseMCP. Provides a unified interface for exploring and managing PostgreSQL, MySQL, and Firestore databases through specialized commands for listing tables, viewing triggers, executing SQL queries, and exporting schemas or data.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:28:23Z"
 ---
 ## What it is
 MCP server `Pipeworx Tenor`, catalogued on PulseMCP. Tenor GIF and sticker search, featured content, categories, and trending posts via the Pipeworx gateway.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:10:59Z"
 ---
 ## What it is
 Generates a technical starting plan for your app shape, data, login, deployment, and boundaries, saving decisions and reasons for later review only when requested.

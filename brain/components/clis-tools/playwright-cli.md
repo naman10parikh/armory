@@ -8,11 +8,13 @@ source_url: "https://github.com/microsoft/playwright-cli"
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 95026
+stars: 13015
 eval_score: 1
 verified_at: 2026-05-28
 related: []
 tags: [browser, playwright]
+forks: 704
+pushed_at: "2026-09-01T21:58:33Z"
 ---
 ## What it is
 Playwright CLI bundled with the @playwright/test package — provides codegen, screenshot, pdf, and trace viewer commands for headless browser scripting; the canonical Playwright command-line interface.

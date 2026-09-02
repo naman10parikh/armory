@@ -8,11 +8,13 @@ source_url: https://github.com/varadfromeast/codex-agy-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T17:58:56Z"
 ---
 ## What it is
 An MCP bridge that lets Codex delegate long-running agent work to the Antigravity CLI, providing observable and resumable tool-based execution with project scoping.

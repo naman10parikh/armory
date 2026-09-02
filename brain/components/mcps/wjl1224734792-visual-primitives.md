@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-28T12:58:17Z"
 ---
 ## What it is
 MCP server `Visual Primitives`, catalogued on PulseMCP. MCP server for multimodal vision understanding using a two-stage describe-then-locate workflow with DeepSeek Visual Primitives.

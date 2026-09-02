@@ -8,10 +8,12 @@ source_url: https://github.com/yellow-hammer/mcp-1c-platform-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-31T17:16:03Z"
 ---
 ## What it is
 MCP server `1C Platform Tools`, catalogued on PulseMCP. Bridge between AI assistants and 1C:Enterprise platform via the 1c-platform-tools VS Code extension.

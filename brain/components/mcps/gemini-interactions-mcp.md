@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T06:23:53Z"
 ---
 ## What it is
 A FastMCP server for stateful Gemini conversations with automatic Google Search grounding.

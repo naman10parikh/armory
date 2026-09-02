@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-18T10:25:49Z"
 ---
 ## What it is
 A free search MCP server powered by SearXNG, offering various search types without requiring an API key.

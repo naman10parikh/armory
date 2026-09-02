@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T02:02:33Z"
 ---
 ## What it is
 MCP server `Minesweeper Rails`, catalogued on PulseMCP. Provides access to a Minesweeper Rails API for game management including starting games, checking state, opening/flagging/chording cells, and ending games.

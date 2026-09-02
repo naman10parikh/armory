@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T14:43:17Z"
 ---
 ## What it is
 Enables querying the Gibraltar Prediction Market Regulations 2026 in plain English via MCP clients, returning exact cited regulation text.

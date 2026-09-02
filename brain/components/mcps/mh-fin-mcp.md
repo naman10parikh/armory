@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-21T16:22:58Z"
 ---
 ## What it is
 Enables China A-share quantitative market data retrieval, including market overview, industry rotation, sector hotspots, limit-up analysis, and risk alerts.

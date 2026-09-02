@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T08:05:11Z"
 ---
 ## What it is
 Local authenticated MCP bridge enabling bounded cross-model review between Claude Code and Codex, with isolated artifacts/workspaces and secure per-role endpoints.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-20T01:38:16Z"
 ---
 ## What it is
 A comprehensive MCP server for PowerPoint manipulation using python-pptx, providing 32 tools organized into 11 modules for creation, management, and professional design.

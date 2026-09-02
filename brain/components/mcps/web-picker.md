@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T11:35:20Z"
 ---
 ## What it is
 Enables users to select UI elements on localhost pages and send fix requests to MCP-compatible coding agents, which retrieve the captures and edit the code, with masking of sensitive values.

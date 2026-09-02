@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T05:40:08Z"
 ---
 ## What it is
 Fetches and searches structured JSON feeds from 7 tech sources including GeekNews, Hacker News, and arXiv.

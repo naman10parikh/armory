@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T21:46:19Z"
 ---
 ## What it is
 MCP server providing U.S. college ROI data (30-year NPV, major ROI, best-value rankings, and out-of-state tuition penalty) by wrapping a free, keyless API.

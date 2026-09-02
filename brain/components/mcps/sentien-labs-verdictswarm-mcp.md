@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 2
+forks: 0
+pushed_at: "2026-08-03T16:10:23Z"
 ---
 ## What it is
 Multi-AI crypto token scanner. 6 AI agents independently analyze and debate token risk on Solana, Base, and Ethereum. Detects rug pulls, honeypots, holder concentration, and wash trading through adversarial consensus.

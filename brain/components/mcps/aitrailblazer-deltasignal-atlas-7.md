@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-07T18:11:09Z"
 ---
 ## What it is
 MCP server `DeltaSignal ATLAS-7`, catalogued on PulseMCP. Financial market intelligence with issuer risk, peer ranking, and alpha detection.

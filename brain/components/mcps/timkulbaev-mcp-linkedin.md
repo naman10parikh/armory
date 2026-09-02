@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
 stars: 2
+forks: 1
+pushed_at: "2026-03-20T14:15:21Z"
 ---
 ## What it is
 LinkedIn publishing, commenting, and reacting via Unipile API. Dry-run by default, SKILL.md included, CLI-first design for AI automation workflows.

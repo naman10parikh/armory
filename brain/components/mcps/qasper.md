@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T09:20:37Z"
 ---
 ## What it is
 MCP server `Qasper`, catalogued on PulseMCP. Discover and book businesses via AI agents.

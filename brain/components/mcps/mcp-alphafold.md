@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-08T15:29:15Z"
 ---
 ## What it is
 Provides programmatic access to AlphaFold protein structure predictions and UniProt data, enabling users to retrieve protein structures, summaries, and annotations through natural language.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T19:06:20Z"
 ---
 ## What it is
 MCP server `LaunchFrame`, catalogued on PulseMCP. Provides AI agents with architectural knowledge about LaunchFrame SaaS projects, including auth patterns, entity conventions, queue usage, cron jobs, and webhooks.

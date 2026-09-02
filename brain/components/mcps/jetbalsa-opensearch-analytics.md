@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-23T19:16:32Z"
 ---
 ## What it is
 MCP server `Wazuh OpenSearch Analytics`, catalogued on PulseMCP. Enables security analysts to query, analyze, and visualize Wazuh security logs stored in OpenSearch databases for efficient incident investigation and monitoring.

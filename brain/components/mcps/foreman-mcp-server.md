@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-02T17:01:46Z"
 ---
 ## What it is
 MCP server for managing Foreman hosts and infrastructure. Enables listing, searching, and getting detailed information about hosts, organizations, locations, subnets, domains, and more via natural language.

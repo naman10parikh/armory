@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 136
+forks: 0
+pushed_at: "2026-08-13T17:58:24Z"
 ---
 ## What it is
 Enables Grok Build to orchestrate the local Codex CLI for code reviews, adversarial reviews, task rescue, session transfer, and background job management through MCP tools.

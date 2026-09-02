@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:03Z"
 ---
 ## What it is
 MCP server for consulting SEFAZ CE DEC Caixa Postal (official Brazilian tax mailbox) via a hosted official API, with a single query tool. Works with any MCP client over HTTP using prepaid credits.

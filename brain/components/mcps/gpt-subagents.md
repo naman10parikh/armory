@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T21:26:56Z"
 ---
 ## What it is
 Enables Claude to delegate tasks to OpenAI expert models (GPT-5.3-Codex and GPT-5.5) as subagents, with orchestration patterns for safe and effective use.

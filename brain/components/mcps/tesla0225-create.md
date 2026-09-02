@@ -12,6 +12,8 @@ stars: 98
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-05-17T08:20:55Z"
 ---
 ## What it is
 MCP server `Dynamic MCP Server Creator`, catalogued on PulseMCP. Creates and manages dynamic MCP servers on-demand, enabling flexible tool execution and server lifecycle control through a TypeScript-based controller that runs in Docker for optimal isolation and security.

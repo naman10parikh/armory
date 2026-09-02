@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-31T08:23:34Z"
 ---
 ## What it is
 MCP server `CodeLedger`, catalogued on PulseMCP. AI coding agent verification layer for complete, production-ready code generation.

@@ -8,10 +8,12 @@ source_url: https://github.com/yusong652/yade-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T19:32:13Z"
 ---
 ## What it is
 MCP server `YADE`, catalogued on PulseMCP. Browse YADE discrete element method API documentation, run simulations, and manage async tasks via natural conversation.

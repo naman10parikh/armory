@@ -8,10 +8,12 @@ source_url: https://github.com/amrsa1/swagger-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-30T10:37:22Z"
 ---
 ## What it is
 MCP server `Swagger/OpenAPI`, catalogued on PulseMCP. Integrates with REST APIs through OpenAPI specifications to fetch documentation, explore endpoints, execute authenticated requests, and validate responses with support for multiple authentication methods.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T03:58:21Z"
 ---
 ## What it is
 Enables natural language analysis, screening, reporting, and comparison of A-share stocks via MCP tools or REST API, with pluggable data (mock/akshare) and LLM providers.

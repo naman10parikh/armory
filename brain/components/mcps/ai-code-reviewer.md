@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T12:36:12Z"
 ---
 ## What it is
 An installable MCP server that reviews diffs/PRs against a target repository's own coding conventions, learned via RAG over its code, docs, and lint config, citing specific file:line sources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T09:51:05Z"
 ---
 ## What it is
 Enables Mimer SQL database connectivity for browsing schemas, executing read-only queries with parameterization, and managing stored procedures.

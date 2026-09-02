@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:11:03Z"
 ---
 ## What it is
 A Windows-only headless LLM task automation engine that executes natural language tasks on schedule and delivers results through configured channels, built as an MCP server with 7 tools for task management.

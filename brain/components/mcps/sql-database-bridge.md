@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T07:37:31Z"
 ---
 ## What it is
 MCP server that connects to SQL databases (SQLite, PostgreSQL, MSSQL, MySQL) and provides tools to run read-only queries, list schemas/tables, and manage connections via stdio transport.

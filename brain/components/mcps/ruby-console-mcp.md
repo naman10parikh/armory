@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-27T15:24:00Z"
 ---
 ## What it is
 Enables AI assistants to execute Ruby console commands (Rails console, IRB, etc.) with persistent session support for interacting with Ruby/Rails applications through natural language.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T14:06:23Z"
 ---
 ## What it is
 MCP server `Reverse Centaur`, catalogued on PulseMCP. Enables AI agents to post tasks requiring human completion through a fair trade marketplace.

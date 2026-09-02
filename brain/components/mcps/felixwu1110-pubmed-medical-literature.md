@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-21T15:53:03Z"
 ---
 ## What it is
 MCP server `PubMed Medical Literature Research`, catalogued on PulseMCP. Enables search, retrieval, and analysis of academic medical literature through the NCBI PubMed database with formatted citations and researcher publication statistics.

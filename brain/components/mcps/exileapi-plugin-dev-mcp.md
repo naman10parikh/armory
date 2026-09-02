@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:06:41Z"
 ---
 ## What it is
 An MCP server that provides a bounded development workflow for ExileAPI plugins, enabling agents to detect compiler references, create linked Git repositories, and read build errors.

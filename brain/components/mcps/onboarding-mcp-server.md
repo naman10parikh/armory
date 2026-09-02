@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T14:09:49Z"
 ---
 ## What it is
 A local-first MCP server that enables AI coding assistants to map codebases, transcribe onboarding videos with keyframe screenshots, and maintain structured Obsidian knowledge vaults directly from IDE chat.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T21:52:02Z"
 ---
 ## What it is
 A multi-agent system that scans a JavaScript or TypeScript source file for unbalanced addEventListener calls, flags memory-leak vectors, and produces a validated patch via a Gemini LLM.

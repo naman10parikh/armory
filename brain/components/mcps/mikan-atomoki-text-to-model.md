@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
 stars: 6
+forks: 1
+pushed_at: "2026-03-16T06:11:16Z"
 ---
 ## What it is
 Turn natural language into 3D models in Fusion 360. 64 CAD tools including sketches, extrudes, fillets, and JIS standard parts.

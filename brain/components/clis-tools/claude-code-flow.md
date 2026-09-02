@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 69182
+stars: 70157
+forks: 8375
+pushed_at: "2026-09-02T02:00:47Z"
 ---
 ## What it is
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.

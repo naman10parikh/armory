@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-03-03T13:00:48Z"
 ---
 ## What it is
 Provides agricultural intelligence tools for pest/disease lookup, government scheme discovery, and SME knowledge retrieval via semantic search.

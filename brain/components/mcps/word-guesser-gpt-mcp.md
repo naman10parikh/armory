@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T03:58:01Z"
 ---
 ## What it is
 MCP server for a Wordle-style five-letter word guessing game playable in ChatGPT, supporting English and Brazilian Portuguese with progress persistence.

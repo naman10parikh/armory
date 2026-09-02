@@ -8,10 +8,12 @@ source_url: https://github.com/ericzakariasson/uber-eats-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 225
+stars: 236
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 39
+pushed_at: "2025-03-02T16:28:46Z"
 ---
 ## What it is
 MCP server `Uber Eats`, catalogued on PulseMCP. Integrates with Uber Eats using browser automation to enable restaurant searches, menu exploration, and food order placement for applications requiring food delivery capabilities.

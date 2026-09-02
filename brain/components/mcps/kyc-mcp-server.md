@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-22T03:03:03Z"
 ---
 ## What it is
 Comprehensive system diagnostics and monitoring server providing detailed hardware information, performance metrics, and optimization recommendations.

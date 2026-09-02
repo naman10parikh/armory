@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 19
+forks: 13
+pushed_at: "2025-06-02T14:47:26Z"
 ---
 ## What it is
 MCP server for Calcom. Manage event types, create bookings, and access Cal.com scheduling data through LLMs.

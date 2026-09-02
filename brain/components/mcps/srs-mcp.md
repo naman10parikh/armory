@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T17:46:08Z"
 ---
 ## What it is
 Enables agents to perform spaced-repetition learning with FSRS scheduling, including adding cards, reviewing due cards, and grading recall, using a headless SQLite or Postgres backend.

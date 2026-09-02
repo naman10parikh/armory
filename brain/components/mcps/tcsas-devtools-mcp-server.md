@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-19T11:23:39Z"
 ---
 ## What it is
 Enables AI assistants to manage TCSAS miniprogram development tasks such as launching the IDE, previewing, and uploading miniprograms via natural language.

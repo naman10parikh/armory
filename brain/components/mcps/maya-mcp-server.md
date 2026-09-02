@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-07-15T17:14:39Z"
 ---
 ## What it is
 MCP server for interacting with Autodesk Maya sessions, enabling multi-session management, arbitrary Python execution, and streaming output capture.

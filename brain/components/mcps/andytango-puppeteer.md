@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-03T16:54:36Z"
 ---
 ## What it is
 MCP server `Puppeteer`, catalogued on PulseMCP. Provides browser automation capabilities through Puppeteer, enabling web page interaction, content extraction, screenshot capture, PDF generation, and JavaScript evaluation for web scraping, automated testing, and form filling workflows.

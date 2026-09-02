@@ -8,10 +8,12 @@ source_url: https://github.com/recoupableorg/mcp-vercel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-16T17:44:22Z"
 ---
 ## What it is
 MCP server `Recoupable`, catalogued on PulseMCP. Retrieves and aggregates social media insights for artists by fetching comprehensive fan and post data across multiple platforms, enabling developers to easily access structured online presence information

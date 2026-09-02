@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T15:18:09Z"
 ---
 ## What it is
 Enables AI clients to explore and analyze CSV datasets via tools for dataset overview, statistical summaries, missing value analysis, duplicate detection, correlation analysis, and outlier detection.

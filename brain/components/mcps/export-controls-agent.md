@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T15:18:20Z"
 ---
 ## What it is
 Provides export-control compliance research and transaction-risk analysis for Korean semiconductor and battery companies, with tools for classifying ECCN, analyzing license exceptions, and drafting export-control clauses.

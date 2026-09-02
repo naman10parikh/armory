@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T23:16:27Z"
 ---
 ## What it is
 MCP server that enables Claude Code to access, monitor, and manage MikroTik RouterOS devices via its REST API, with 92 tools for read-only and optional write operations.

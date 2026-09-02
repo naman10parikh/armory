@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:32:09Z"
 ---
 ## What it is
 Read-only MCP server for public Guild Wars 1 sources (wiki, builds, YouTube, Reddit) and optional local install inventory.

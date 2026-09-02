@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T18:56:19Z"
 ---
 ## What it is
 Multi-user OAuth 2.1 gateway allowing a trusted circle to connect their Garmin Connect accounts to Claude, enabling natural language access to Garmin tools.

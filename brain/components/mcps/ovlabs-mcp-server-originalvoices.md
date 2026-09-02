@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, research]
 stars: 3
+forks: 2
+pushed_at: "2026-03-31T18:19:51Z"
 ---
 ## What it is
 Instantly understand what real users think and why by querying our network of 1:1 Digital Twins - each representing a real person. Give your AI agents authentic human context to ground outputs, improve creative, and make smarter decisions.

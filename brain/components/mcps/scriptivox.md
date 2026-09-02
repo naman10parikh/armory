@@ -8,10 +8,12 @@ source_url: https://github.com/sparkleofficial/scriptivox-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T17:29:06Z"
 ---
 ## What it is
 MCP server `Scriptivox`, catalogued on PulseMCP. AI transcription from URLs or audio files with 119 language support, speaker diarization, and multiple export formats.

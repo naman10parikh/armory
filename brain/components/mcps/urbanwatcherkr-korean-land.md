@@ -8,10 +8,12 @@ source_url: https://github.com/urbanwatcherkr/korean-land-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-21T04:05:17Z"
 ---
 ## What it is
 MCP server `Korean Land`, catalogued on PulseMCP. Provides Korean spatial land data from the V-World API with 7 tools for geospatial queries and parcel information.

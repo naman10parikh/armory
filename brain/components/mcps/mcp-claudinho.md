@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-30T22:12:51Z"
 ---
 ## What it is
 Claudinho gives any MCP client live 2026 World Cup scores, fixtures, group standings, read-only prediction-market signals (Polymarket, informational only), and ready-to-paste match cards. Key-free; the schedule is bundled offline — only live state hits ESPN. Independent fan project — not affiliated 

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-25T18:46:15Z"
 ---
 ## What it is
 MCP server `CaseMgr`, catalogued on PulseMCP. CMMN case management with 184 MCP tools for cases, tasks, workflows, billing, and AI agents.

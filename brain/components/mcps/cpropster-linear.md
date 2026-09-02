@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-06T20:13:25Z"
 ---
 ## What it is
 MCP server `Linear`, catalogued on PulseMCP. Integrates with Linear's project management platform, enabling AI-assisted workflows for team, issue, project, and cycle management through API operations.

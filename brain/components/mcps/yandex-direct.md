@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-10T13:56:38Z"
 ---
 ## What it is
 Enables AI assistants to manage Yandex Direct advertising campaigns, ads, keywords, and reports via natural language using the Yandex Direct API v5.

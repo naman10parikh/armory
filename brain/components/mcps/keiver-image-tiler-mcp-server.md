@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
 stars: 2
+forks: 1
+pushed_at: "2026-03-07T12:19:41Z"
 ---
 ## What it is
 Full-resolution vision for LLMs. Tiles large images and captures web pages via Chrome CDP so vision models process every detail without downscaling. Generates interactive HTML tile previews. Supports Claude, OpenAI, Gemini presets with per-model token math and entropy-based tile classification.

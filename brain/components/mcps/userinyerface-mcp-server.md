@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:52:22Z"
 ---
 ## What it is
 An MCP server that exposes test cases for the userinyerface.com capstone project, providing tools to list and retrieve test case details.

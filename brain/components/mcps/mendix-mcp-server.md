@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T06:10:23Z"
 ---
 ## What it is
 Enables AI agents to read and modify Mendix application models through MCP tools for creating modules, entities, pages, microflows, deploying, and querying runtime data.

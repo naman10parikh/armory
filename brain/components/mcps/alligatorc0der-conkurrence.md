@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T20:54:41Z"
 ---
 ## What it is
 MCP server `Conkurrence`, catalogued on PulseMCP. Statistical consensus metrics measuring AI self-agreement across repeated responses.

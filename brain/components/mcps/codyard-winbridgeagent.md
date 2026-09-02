@@ -8,10 +8,12 @@ source_url: https://github.com/codyard/winbridgeagent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-23T04:59:06Z"
 ---
 ## What it is
 MCP server `WinBridgeAgent`, catalogued on PulseMCP. Open-source Windows MCP server for AI assistants. File, clipboard, screenshot, process & power mgmt.

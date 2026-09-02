@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T18:33:46Z"
 ---
 ## What it is
 Enables agents to pull compact MySQL row diffs into their context, supporting before/after changes via triggers or watermark-based updates, with tools to fetch and acknowledge changes.

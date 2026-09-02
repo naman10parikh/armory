@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-25T19:24:49Z"
 ---
 ## What it is
 This MCP server enables LLMs to POST, GET, and DELETE cron jobs that schedule email sends via SendGrid.

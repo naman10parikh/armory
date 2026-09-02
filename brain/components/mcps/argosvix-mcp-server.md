@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T12:15:02Z"
 ---
 ## What it is
 Lets AI agents query, manage, and operate their LLM observability data directly from the conversation. Provides 87 tools for cost analysis, alerting, anomaly detection, and runtime control gates.

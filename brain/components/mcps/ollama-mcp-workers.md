@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T14:28:56Z"
 ---
 ## What it is
 Enables local image analysis and document processing through MCP workers (Vision and Document) using Ollama models, with cloud orchestration for mixed hierarchical tasks. Supports tools for image understanding, requirement extraction, test case generation, and GPU memory lifecycle management.

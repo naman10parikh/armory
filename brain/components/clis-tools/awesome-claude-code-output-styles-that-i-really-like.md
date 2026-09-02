@@ -8,11 +8,13 @@ source_url: https://github.com/hesreallyhim/awesome-claude-code-output-styles-th
 license: MIT
 cli_compat: [claude]
 maturity: experimental
-stars: 74
+stars: 78
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [awesome-claude-code, output-styles]
+forks: 2
+pushed_at: "2025-11-21T23:56:19Z"
 ---
 ## What it is
 A fun and moderately amusing collection of experimental output styles.

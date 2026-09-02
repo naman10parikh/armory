@@ -8,10 +8,12 @@ source_url: https://github.com/zhiwei5576/excel-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-04-13T05:44:48Z"
 ---
 ## What it is
 MCP server `Excel File Processor`, catalogued on PulseMCP. Enables direct interaction with Excel files for reading sheet names, extracting data, and managing workbook caching to improve performance with large spreadsheets.

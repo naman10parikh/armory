@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-10T08:02:38Z"
 ---
 ## What it is
 Enables web scraping with JavaScript rendering, screenshots, and proxy support via the Scrapedo API, allowing Claude to scrape any website.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T20:46:11Z"
 ---
 ## What it is
 Enables AI agents to generate, validate, decode, and verify Swiss QR payment slips, with all file writes confined to a specified output directory.

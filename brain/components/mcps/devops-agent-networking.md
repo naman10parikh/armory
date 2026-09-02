@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T02:45:33Z"
 ---
 ## What it is
 Enables DevOps Agent to troubleshoot VPC networking problems by running live probes (dig, nc, ping, traceroute) via SSM and querying VPC Flow Logs via Athena.

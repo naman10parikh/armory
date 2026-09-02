@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T06:08:44Z"
 ---
 ## What it is
 MCP server `OpenAI Compatible Gateway`, catalogued on PulseMCP. Routes MCP tool calls to any OpenAI-compatible chat or completions API backend.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T05:29:15Z"
 ---
 ## What it is
 Bridges Claude Code with an on-premise Azure DevOps Server / TFS collection, enabling work item and Git operations via PAT authentication.

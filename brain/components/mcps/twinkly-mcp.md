@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T15:43:59Z"
 ---
 ## What it is
 MCP server that enables AI agents to control Twinkly lights through natural language, supporting operations like on/off, color, brightness, and effects.

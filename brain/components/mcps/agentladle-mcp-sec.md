@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:45:19Z"
 ---
 ## What it is
 It enables AI assistants (Claude, Cursor, etc.) to access SEC EDGAR data through 6 structured tools — from discovering available filings to keyword-searching within their pages.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:28:09Z"
 ---
 ## What it is
 MCP server `OpenAQ`, catalogued on PulseMCP. Global air quality data via the OpenAQ v2 API — station measurements, pollutant levels, and location queries.

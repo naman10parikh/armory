@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T08:50:01Z"
 ---
 ## What it is
 agent-delegate is an MCP-first delegation advisor for coding agents. It helps a main agent decide when to delegate read-only investigation, generate bounded subagent briefs, and summarize subagent results back into compact main-agent context.

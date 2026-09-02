@@ -8,10 +8,12 @@ source_url: https://github.com/ondrejlapes/gretlmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-06T17:59:37Z"
 ---
 ## What it is
 MCP server `Gretl`, catalogued on PulseMCP. Control the Gretl econometrics software via natural language commands.

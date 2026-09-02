@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T12:27:17Z"
 ---
 ## What it is
 Enables agents to access live crypto market data and execute risk-controlled paper trades through standardized MCP tool calls.

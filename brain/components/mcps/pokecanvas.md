@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T03:27:22Z"
 ---
 ## What it is
 Enables querying Canvas LMS courses, assignments, grades, and more via natural language through Poke. Reads live data on every request.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T04:24:07Z"
 ---
 ## What it is
 Searches and retrieves scholarly metadata from the CrossRef REST API, covering over 150 million records across all disciplines, without requiring an API key.

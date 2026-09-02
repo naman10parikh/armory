@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:56:27Z"
 ---
 ## What it is
 A Model Context Protocol server for the Vehicle Imagery API that lets AI assistants browse vehicle catalogs and resolve studio quality car images with customizable options like paint colors, camera views, shadows, and transparent backgrounds.

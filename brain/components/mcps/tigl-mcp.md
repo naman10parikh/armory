@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-18T02:03:34Z"
 ---
 ## What it is
 Provides MCP tools for CPACS-oriented TiGL workflows, enabling lifecycle management, inspection, export, and parameter manipulation of aircraft geometry models without native geometry runtimes.

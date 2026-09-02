@@ -8,12 +8,14 @@ source_url: https://github.com/comet-ml/opik
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 21563
+stars: 21735
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, observability, tracing, dataset]
 mentions: 1
+forks: 1744
+pushed_at: "2026-09-02T02:57:53Z"
 ---
 ## What it is
 Open-source LLM evaluation and observability platform from Comet ML for tracing, scoring, and dataset management.

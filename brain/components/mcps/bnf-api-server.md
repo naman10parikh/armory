@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-17T02:55:54Z"
 ---
 ## What it is
 Enables searching documents in Gallica, the digital library of the Bibliothèque nationale de France, and generating structured research reports with citations and images.

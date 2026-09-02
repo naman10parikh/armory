@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:42:06Z"
 ---
 ## What it is
 用于读取Knife4j/Swagger多模块接口文档，为Agent提供结构化接口查询能力的MCP服务器。

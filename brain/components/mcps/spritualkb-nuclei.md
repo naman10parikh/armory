@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-30T10:42:23Z"
 ---
 ## What it is
 MCP server `Nuclei`, catalogued on PulseMCP. Provides a bridge to the Nuclei vulnerability scanning tool, enabling automated security scans on target URLs with configurable parameters like severity, rate limiting, and proxy settings.

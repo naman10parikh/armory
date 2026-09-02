@@ -8,11 +8,13 @@ source_url: https://github.com/withqwerty/football-docs
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 47
+stars: 60
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-08-31T00:48:16Z"
 ---
 ## What it is
 Searchable football data provider documentation for AI coding agents. Enables agents to look up verified docs on event types, qualifier IDs, coordinate systems, and more across 15 providers.

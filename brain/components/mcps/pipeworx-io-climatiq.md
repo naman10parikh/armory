@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:48:37Z"
 ---
 ## What it is
 MCP server `Climatiq`, catalogued on PulseMCP. Climatiq carbon footprint calculator with 60k peer-reviewed emission factors via the Pipeworx gateway.

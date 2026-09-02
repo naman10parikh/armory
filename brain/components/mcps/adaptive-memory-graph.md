@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T18:48:56Z"
 ---
 ## What it is
 Enables persistent, intelligent memory across sessions using a weighted, interconnected graph that evolves through conversation.

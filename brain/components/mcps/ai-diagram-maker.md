@@ -8,10 +8,12 @@ source_url: https://github.com/erajasekar/ai-diagram-maker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T04:45:33Z"
 ---
 ## What it is
 MCP server `AI Diagram Maker`, catalogued on PulseMCP. Generate professional software engineering diagrams from text, JSON, ASCII, images, or Mermaid.

@@ -8,11 +8,13 @@ source_url: https://github.com/Roam-Research/roam-tools
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 54
+stars: 55
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-08-25T19:09:36Z"
 ---
 ## What it is
 MCP server for Roam Research that enables AI assistants like Claude and Cursor to read, write, search, and query your Roam graph with full write access.

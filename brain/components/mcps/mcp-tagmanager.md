@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:03:01Z"
 ---
 ## What it is
 MCP server for Google Tag Manager, offering tools to manage accounts, containers, workspaces, tags, triggers, and versions, with explicit confirmation for production-affecting actions.

@@ -8,10 +8,12 @@ source_url: https://github.com/renantrendt/mcp-github
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-16T02:05:33Z"
 ---
 ## What it is
 MCP server `GitHub`, catalogued on PulseMCP. Integrates with GitHub's API to enable repository management, file operations, issue tracking, and code search through natural language conversation, streamlining development workflows without leaving your assistant interface.

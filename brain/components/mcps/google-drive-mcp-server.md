@@ -8,11 +8,13 @@ source_url: https://github.com/piotr-agier/google-drive-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 205
+stars: 210
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 110
+pushed_at: "2026-08-21T21:42:56Z"
 ---
 ## What it is
 Enables management of Google Drive files, Docs, Sheets, Slides, and Calendar events through natural language using the MCP protocol.

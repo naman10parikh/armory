@@ -8,10 +8,12 @@ source_url: https://github.com/jkawamoto/mcp-bear
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 76
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-07-14T08:36:14Z"
 ---
 ## What it is
 MCP server `Bear`, catalogued on PulseMCP. Integrates with Bear note-taking software to enable note creation, search, and organization operations for enhanced knowledge management.

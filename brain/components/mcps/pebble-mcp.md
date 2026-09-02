@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T08:03:10Z"
 ---
 ## What it is
 An MCP server for the Pebble smartwatch ecosystem, offering appstore search, a 64-color design toolkit, and build-emulator-screenshot development workflows as typed tools.

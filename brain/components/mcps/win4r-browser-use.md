@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-17T00:39:37Z"
 ---
 ## What it is
 MCP server `Browser Use`, catalogued on PulseMCP. Lightweight TypeScript-based server implementation for Node.js that provides a standards-compliant, type-safe solution for enabling tool interactions and external service integrations with robust configuration and deployment options.

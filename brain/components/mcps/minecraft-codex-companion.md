@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T16:41:16Z"
 ---
 ## What it is
 Local MCP server that lets AI agents control a Minecraft Forge 1.20.1 NPC to chat, move, gather, craft, build, fight, and manage inventory in a single-player world.

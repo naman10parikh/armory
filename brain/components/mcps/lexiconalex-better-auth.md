@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-02-14T00:57:13Z"
 ---
 ## What it is
 MCP server `Better-Auth`, catalogued on PulseMCP. Provides tools for setting up, migrating to, and maintaining Better-Auth authentication systems in web applications, with capabilities for project analysis, security testing, and real-time monitoring of authentication processes.

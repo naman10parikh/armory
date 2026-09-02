@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-01-03T05:29:53Z"
 ---
 ## What it is
 MCP server `DALL-E Image Generation`, catalogued on PulseMCP. Integrates with OpenAI's DALL-E API to generate and save images from text descriptions.

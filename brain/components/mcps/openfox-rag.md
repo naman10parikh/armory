@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T10:52:07Z"
 ---
 ## What it is
 MCP server for OpenFox that provides a rag_search tool for hybrid retrieval from local knowledge bases (Obsidian vaults, docs) using BM25, vector search, and cross-encoder reranking.

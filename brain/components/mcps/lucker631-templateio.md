@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-10T15:36:37Z"
 ---
 ## What it is
 MCP server `Templateio`, catalogued on PulseMCP. Provides a template for building custom servers using TypeScript and the mcp-framework package, setting up project structure and configuration for developers to create tailored API or service integrations.

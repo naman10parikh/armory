@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-25T09:09:36Z"
 ---
 ## What it is
 MCP server `AgentFolio`, catalogued on PulseMCP. Query AI agent profiles, trust scores, verifications, marketplace jobs, and leaderboard rankings on the AgentFolio reputation platform.

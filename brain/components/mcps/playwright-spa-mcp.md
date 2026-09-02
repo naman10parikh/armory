@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T16:27:18Z"
 ---
 ## What it is
 Playwright browser automation tuned for single-page apps (React/Vue/Angular) — screenshots, form filling, action chains, persistent sessions and 140+ device presets.

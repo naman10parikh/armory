@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T18:41:33Z"
 ---
 ## What it is
 An MCP server that turns your development workflow into an RPG with persistent memory, tracking quests, perks, and skills across projects.

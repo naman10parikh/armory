@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:21:41Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to search, read, and manage files across multiple cloud drives (Baidu, Aliyun, 115, OneDrive, Quark) through a unified interface.

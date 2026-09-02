@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:13:18Z"
 ---
 ## What it is
 Enables real-time currency exchange rate retrieval and conversion for over 200 currencies. Supports operations like getting rates, converting amounts, and comparing currencies through natural language.

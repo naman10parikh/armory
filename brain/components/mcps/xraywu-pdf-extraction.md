@@ -8,10 +8,12 @@ source_url: https://github.com/xraywu/mcp-pdf-extraction-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-05-31T11:21:53Z"
 ---
 ## What it is
 MCP server `PDF Extraction`, catalogued on PulseMCP. Extracts text and performs OCR on PDF files using Python libraries for tasks like document analysis and content indexing.

@@ -8,10 +8,12 @@ source_url: https://github.com/aplaceforallmystuff/mcp-pihole
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-12T20:21:09Z"
 ---
 ## What it is
 MCP server `Pi-hole`, catalogued on PulseMCP. Manage DNS blocking, monitor traffic stats, and control whitelist/blacklist for Pi-hole v6

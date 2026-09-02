@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T10:08:42Z"
 ---
 ## What it is
 Enables MCP clients to upload local or remote images to PicGo-configured image hosts, reusing existing PicGo configs without the desktop app. Supports batch uploads, custom naming, and status retrieval.

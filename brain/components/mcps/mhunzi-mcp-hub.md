@@ -8,10 +8,12 @@ source_url: https://github.com/mhunzi/mcp_hub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T17:51:07Z"
 ---
 ## What it is
 MCP server `MCP Hub`, catalogued on PulseMCP. Governs multiple MCP servers with JWT authentication, RBAC, multi-tenant workspaces, audit logging, and cost tracking.

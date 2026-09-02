@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T22:04:09Z"
 ---
 ## What it is
 A local MCP server for SkyPortal and Fritz that exposes astronomical transient data (photometry, spectra, classifications, observability) as tools for AI coding assistants.

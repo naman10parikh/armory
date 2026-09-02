@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-12T12:14:29Z"
 ---
 ## What it is
 MCP server `Barnsworthburning Search`, catalogued on PulseMCP. Integrates with barnsworthburning.net's API to enable direct querying of website content for design, typography, and user experience information

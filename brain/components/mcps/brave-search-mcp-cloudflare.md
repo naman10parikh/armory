@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T17:00:23Z"
 ---
 ## What it is
 MCP server `Brave Search (Cloudflare)`, catalogued on PulseMCP. Remote Brave Search wrapper deployed as a Cloudflare Worker with Durable Objects and optional Zero Trust auth.

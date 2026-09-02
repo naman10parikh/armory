@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, data-analysis-database-integration]
+forks: 0
+pushed_at: "2025-09-23T09:05:12Z"
 ---
 ## What it is
 Data integration service using MCP

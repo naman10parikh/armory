@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T07:50:48Z"
 ---
 ## What it is
 Exposes schema, lineage, and data-quality trust signals from a SQLite-backed catalog as MCP tools, enabling AI agents to answer grounded questions about datasets without hallucinating.

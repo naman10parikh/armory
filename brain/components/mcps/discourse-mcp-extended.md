@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T17:28:44Z"
 ---
 ## What it is
 A Model Context Protocol server for Discourse forums, extended with review queue tools to list and act on pending or flagged items, enabling AI agents to moderate content.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T11:42:41Z"
 ---
 ## What it is
 Enables AI assistants to safely query and explore SQL Server and PostgreSQL databases with read-only access, supporting schema discovery, relationship exploration, and query execution.

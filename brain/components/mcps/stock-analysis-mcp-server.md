@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T13:27:48Z"
 ---
 ## What it is
 Offers real-time stock prices, sector and historical analysis, top performers for NSE and global markets, plus stock-specific and general market news with intelligent caching and fallback data.

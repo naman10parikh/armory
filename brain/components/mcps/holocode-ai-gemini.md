@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-29T13:53:42Z"
 ---
 ## What it is
 MCP server `Gemini AI`, catalogued on PulseMCP. Integrates with Google Gemini AI services to provide text-to-image generation, image editing, multi-image composition, and text-to-video creation using Imagen 4.0 and Veo 3.0 models with configurable quality settings and automatic file saving.

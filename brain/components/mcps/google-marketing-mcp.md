@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T02:25:34Z"
 ---
 ## What it is
 Read-only MCP server for Google Ads API, enabling natural language queries about campaigns, metrics, search terms, and change history without write access.

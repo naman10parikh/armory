@@ -8,10 +8,12 @@ source_url: https://github.com/olgasafonova/miro-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-31T05:50:22Z"
 ---
 ## What it is
 MCP server `Miro (Go)`, catalogued on PulseMCP. Integrates with Miro collaborative whiteboards for creating and managing boards, shapes, diagrams, and visual content.

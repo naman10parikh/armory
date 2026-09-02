@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-30T19:32:41Z"
 ---
 ## What it is
 High-performance MCP server for OpenAPI specifications that parses specs, diffs versions, tracks dependencies, and generates code (TypeScript, Rust, Python).

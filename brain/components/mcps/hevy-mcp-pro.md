@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T15:05:40Z"
 ---
 ## What it is
 A production-ready MCP server for the Hevy fitness API that exposes 27 tools for reading, writing, and analyzing workout data, enabling LLM-driven personal trainer workflows.

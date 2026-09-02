@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T21:49:54Z"
 ---
 ## What it is
 Provides deterministic structured thinking grids and validation for AI agents, enabling consistent multi-lens analysis without network calls or model inference.

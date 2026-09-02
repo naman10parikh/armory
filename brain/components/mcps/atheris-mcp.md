@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T20:21:26Z"
 ---
 ## What it is
 Enables agents to autonomously route traffic through real 4G/5G mobile and residential IPs by country, with tools to check live proxy stock, obtain ready-to-use proxy URLs, and monitor remaining data usage.

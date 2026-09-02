@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T16:12:30Z"
 ---
 ## What it is
 A local MCP server for Claude to create, edit, and export PowerPoint presentations on Windows, with support for SAP corporate templates and full auditing.

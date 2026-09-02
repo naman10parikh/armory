@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-24T15:38:48Z"
 ---
 ## What it is
 Provides real-time access to Italian legislation and administrative court rulings through Normattiva, OpenGA, and GA Portal.

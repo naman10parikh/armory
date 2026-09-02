@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T23:50:35Z"
 ---
 ## What it is
 Web-only MCP server for php-spx reports that calls embedded SPX web endpoints, parses full reports, and returns LLM-sized JSON summaries instead of raw event streams.

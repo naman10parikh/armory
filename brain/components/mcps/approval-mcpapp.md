@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:01:47Z"
 ---
 ## What it is
 An MCP server that implements a multi-stage employee access request and approval workflow, enabling employees to request system access and managers/IT admins to approve or reject requests through an interactive UI.

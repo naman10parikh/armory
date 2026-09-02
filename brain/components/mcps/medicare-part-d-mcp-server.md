@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T14:01:49Z"
 ---
 ## What it is
 Enables AI assistants to access CMS Medicare Part D drug spending, prescriber, and pricing trend data through a single MCP tool with 15 actions, deployed on Cloudflare Workers for sub-50ms response times.

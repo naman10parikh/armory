@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:40:04Z"
 ---
 ## What it is
 A financial data MCP server that provides documentation and code examples for agents to write correct API calls to the findata library, covering equity prices, macro data, and more.

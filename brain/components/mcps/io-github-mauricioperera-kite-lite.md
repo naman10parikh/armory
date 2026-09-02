@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:51:56Z"
 ---
 ## What it is
 MCP server for lightweight web browsing: fetch and parse pages, extract structured content, run isolated JavaScript, and render to SVG/PNG/PDF with a minimal CDP interface.

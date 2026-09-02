@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:45Z"
 ---
 ## What it is
 MCP server for querying traffic fines from the official Campina Grande, PB, Brazil source via a single read-only tool, with pay-per-use credits and no platform credentials.

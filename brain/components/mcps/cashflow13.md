@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T13:56:58Z"
 ---
 ## What it is
 MCP server for 13-week cash flow planning. It generates a survival calendar and identifies the week cash goes negative, with real Excel formulas.

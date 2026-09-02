@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-06T13:36:33Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for handling OpenDocument Text (.odt) files, enabling AI assistants to read, analyze, and extract data from ODT documents.

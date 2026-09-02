@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T17:51:48Z"
 ---
 ## What it is
 A stdio MCP server that wraps ReSpec rendering with repo-local profiles, enabling AI agents to scaffold, validate, and build W3C-style documents.

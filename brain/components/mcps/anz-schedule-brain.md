@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T06:07:29Z"
 ---
 ## What it is
 Provides verified ANZ public holidays, school terms, and business-day calculations for all 9 regions of Australia and New Zealand, backed by data for 2026 and 2027.

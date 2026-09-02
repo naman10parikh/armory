@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T07:12:45Z"
 ---
 ## What it is
 A modern MCP server template built with Bun and TypeScript, supporting stdio and HTTP transports for easy integration with AI assistants like Claude.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-25T02:23:26Z"
 ---
 ## What it is
 MCP server `Hi-AI Development Assistant`, catalogued on PulseMCP. Development assistant providing 36 specialized tools for TypeScript, JavaScript, and Python projects with semantic code analysis, persistent memory management, and browser automation capabilities.

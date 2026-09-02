@@ -8,10 +8,12 @@ source_url: https://github.com/domdomegg/google-documents-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-11T21:50:41Z"
 ---
 ## What it is
 MCP server `Google Docs`, catalogued on PulseMCP. Read, create, and edit Google Docs through OAuth-authenticated integration

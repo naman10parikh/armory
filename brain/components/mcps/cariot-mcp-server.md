@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T04:51:46Z"
 ---
 ## What it is
 Enables querying Cariot APIs for fleet management data, including alcohol checks, daily reports, drivers, vehicles, and realtime snapshots, with utility for generating chart configurations.

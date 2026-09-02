@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T23:30:30Z"
 ---
 ## What it is
 Dense Knowledge is a small local server for Model Module Protocol (MMP) files. It gives language models a persistent research memory without requiring a database, embeddings, or a hosted service.

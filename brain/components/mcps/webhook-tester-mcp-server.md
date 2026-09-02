@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-22T07:14:11Z"
 ---
 ## What it is
 Enables management and inspection of webhook tokens (URLs) and incoming requests via webhook-test.com, allowing users to create, list, fetch details, fetch payloads, and delete webhooks without custom API integrations.

@@ -8,10 +8,12 @@ source_url: https://github.com/codeturion/unity-api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-19T17:40:42Z"
 ---
 ## What it is
 MCP server `Unity API Documentation`, catalogued on PulseMCP. Accurate Unity C# API documentation for AI agents to prevent hallucinated signatures.

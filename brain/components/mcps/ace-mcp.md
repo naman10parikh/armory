@@ -8,11 +8,13 @@ source_url: https://github.com/0215AndrewFeng/ACE-MCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T03:01:57Z"
 ---
 ## What it is
 Enables AI clients to perform local code search, indexing, and analysis across Java, JavaScript/TypeScript, .NET/C#, and Python projects through the MCP protocol.

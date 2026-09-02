@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T08:12:39Z"
 ---
 ## What it is
 Enables interactive feedback sessions in Cursor with support for multiple chat tabs, clipboard (copy/paste images), and robust connection management across multiple windows.

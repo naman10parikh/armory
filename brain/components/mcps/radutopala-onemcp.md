@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-12T11:29:39Z"
 ---
 ## What it is
 MCP server `OneMCP`, catalogued on PulseMCP. Aggregates tools from multiple MCP servers with TF-IDF semantic search for natural language tool discovery

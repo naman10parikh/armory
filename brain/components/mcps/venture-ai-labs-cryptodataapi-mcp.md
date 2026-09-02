@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 2
+pushed_at: "2026-02-25T02:52:13Z"
 ---
 ## What it is
 Real-time crypto market data for AI agents — market health scores, derivatives, funding rates, ETF flows, cycle indicators, and 100+ endpoints via CryptoDataAPI.

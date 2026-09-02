@@ -8,10 +8,12 @@ source_url: https://github.com/johnneerdael/swagger-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-29T04:32:32Z"
 ---
 ## What it is
 MCP server `Swagger Explorer`, catalogued on PulseMCP. Analyzes and interacts with Swagger/OpenAPI specifications to enable dynamic API exploration, endpoint filtering, and schema validation for developers working with unfamiliar APIs.

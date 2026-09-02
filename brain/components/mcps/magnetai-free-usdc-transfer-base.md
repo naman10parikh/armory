@@ -8,10 +8,12 @@ source_url: https://github.com/magnetai/mcp-free-usdc-transfer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-01-17T09:25:59Z"
 ---
 ## What it is
 MCP server `Free USDC Transfer (Base)`, catalogued on PulseMCP. Enables feeless USDC transfers on the Base blockchain through Coinbase CDP's MPC wallet integration, providing secure wallet creation and cryptocurrency transactions without gas fees.

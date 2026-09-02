@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-27T02:27:28Z"
 ---
 ## What it is
 MCP server `Gemini CLI`, catalogued on PulseMCP. Bridges code2prompt with Google's Gemini models to analyze entire codebases or specific components, providing architectural reviews, refactoring recommendations, and development insights by extracting structured codebase content and leveraging Gemini's large context window for comprehensive code analysis.

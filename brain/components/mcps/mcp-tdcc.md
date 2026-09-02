@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-06T12:46:18Z"
 ---
 ## What it is
 MCP server for TDCC OpenData, enabling natural language query of Taiwan securities custody data, including shareholding distribution, stock custody changes, offshore fund NAVs, and e-voting information.

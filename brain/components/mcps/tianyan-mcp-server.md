@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T08:03:56Z"
 ---
 ## What it is
 A read-only MCP server that enables querying available quantum computers and simulators from Tianyan Cloud, with tools to list running backends and retrieve detailed resource information.

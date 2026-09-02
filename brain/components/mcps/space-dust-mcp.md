@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-03T01:54:15Z"
 ---
 ## What it is
 Lets users shape Space Dust synthesizer presets by describing the sound they want in natural language, instead of turning knobs. It reads, creates, adjusts, and compares preset files, with safety rails and live updates.

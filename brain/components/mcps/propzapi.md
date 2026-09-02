@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:25:44Z"
 ---
 ## What it is
 Props-first sports odds API with a hosted MCP server. Live odds and player props (moneyline, spreads, totals) across US sportsbooks, normalized to JSON. Tools: get_odds, get_props, get_events, get_books. API-key auth, free tier.

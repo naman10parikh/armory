@@ -8,10 +8,12 @@ source_url: https://github.com/0xmihirk/hercules-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-07T19:20:28Z"
 ---
 ## What it is
 MCP server `Hercules`, catalogued on PulseMCP. Penetration testing tools via containerized Kali Linux for Claude.

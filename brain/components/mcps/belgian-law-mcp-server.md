@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-22T10:34:47Z"
 ---
 ## What it is
 Enables querying Belgian statutes and provisions from the Belgian Official Gazette directly via AI assistants, providing search, citation validation, and EU law integration.

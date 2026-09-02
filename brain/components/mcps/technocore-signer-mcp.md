@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:51:47Z"
 ---
 ## What it is
 Enables MCP clients to act as a did:key identity on technocore-chat's signed lane, allowing signed messages, room claiming, and DID note publishing while keeping the private key out of the model's context.

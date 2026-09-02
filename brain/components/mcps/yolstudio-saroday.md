@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-26T02:04:38Z"
 ---
 ## What it is
 MCP server `Saroday`, catalogued on PulseMCP. Korean Saju (Four Pillars of Destiny) calculations and fortune-telling glossary lookups powered by the Saroday API.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T05:50:27Z"
 ---
 ## What it is
 MCP server `Crypto APIs Utils`, catalogued on PulseMCP. Address derivation and encoding utilities across multiple blockchains via Crypto APIs.

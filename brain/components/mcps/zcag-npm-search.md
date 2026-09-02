@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-12T22:00:20Z"
 ---
 ## What it is
 MCP server `npm Search`, catalogued on PulseMCP. Searches npm packages and returns live registry data including versions, downloads, and comparisons.

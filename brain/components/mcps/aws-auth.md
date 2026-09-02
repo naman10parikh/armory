@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T04:08:20Z"
 ---
 ## What it is
 MCP server for AWS SSO authentication and profile management, enabling AI assistants to check identity, switch profiles, and manage EC2/EKS resources.

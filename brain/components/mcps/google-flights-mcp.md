@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T08:38:45Z"
 ---
 ## What it is
 MCP server that enables Google Flights search via SerpApi, supporting one-way, round-trip, and multi-city itineraries with defaults for Business class, Star Alliance, and EUR pricing. It provides flight search, booking options, and usage tracking.

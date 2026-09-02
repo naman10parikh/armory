@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:03Z"
 ---
 ## What it is
 Enables users to query IPVA (vehicle property tax) data from the official SEFAZ TO source via a read-only MCP tool.

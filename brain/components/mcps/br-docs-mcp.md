@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T01:50:31Z"
 ---
 ## What it is
 MCP server for validating and generating Brazilian documents (CPF, CNPJ, and bank boletos) with 6 tools, a resource, and a prompt.

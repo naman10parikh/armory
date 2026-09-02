@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T04:29:56Z"
 ---
 ## What it is
 Enables semantic and keyword search of Ceph documentation with version-aware, component-scoped indices, supporting command lookup and code example retrieval.

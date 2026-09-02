@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T06:18:12Z"
 ---
 ## What it is
 Enables read-only interaction with an online store's SQLite database over MCP stdio, including table listing, schema inspection, safe read-only SQL execution, and sales analytics. It rejects mutating SQL operations to keep data intact.

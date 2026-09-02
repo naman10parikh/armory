@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-17T12:30:26Z"
 ---
 ## What it is
 MCP server for mechanistic interpretability research, enabling agents to drive probe-causality and SAE-feature experiments via 8 typed tools on user's own compute (Colab).

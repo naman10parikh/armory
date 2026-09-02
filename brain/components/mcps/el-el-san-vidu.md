@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-01T23:32:34Z"
 ---
 ## What it is
 MCP server `Vidu`, catalogued on PulseMCP. Transforms static images into dynamic videos with customizable parameters through the Vidu AI video generation API, handling authentication, file management, and asynchronous task processing.

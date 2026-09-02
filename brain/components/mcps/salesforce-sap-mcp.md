@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T06:26:19Z"
 ---
 ## What it is
 Enables Claude AI to securely query live SAP inventory data through Salesforce by invoking typed Apex methods via MCP, using OAuth 2.0 JWT Bearer flow for authentication.

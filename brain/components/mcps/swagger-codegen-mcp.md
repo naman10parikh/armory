@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-07T01:52:18Z"
 ---
 ## What it is
 Automatically generates TypeScript API code from Swagger/OpenAPI documentation. Supports listing services, tags, endpoints, and generating code by tag or endpoint.

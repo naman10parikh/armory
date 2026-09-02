@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T05:20:12Z"
 ---
 ## What it is
 A remote MCP server on Cloudflare Workers that lets text-only development agents analyze webpage, error, and annotated screenshots via SenseNova 6.7 Flash-Lite through a single tool. It supports local dev, Cloudflare deployment, and integration with clients like Claude Code and Pi.

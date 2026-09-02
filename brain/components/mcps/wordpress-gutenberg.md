@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-09T16:09:38Z"
 ---
 ## What it is
 MCP server `WordPress Gutenberg`, catalogued on PulseMCP. Enables WordPress site management and development through a TypeScript-powered REST API and WP-CLI toolkit for automating administrative tasks and plugin interactions

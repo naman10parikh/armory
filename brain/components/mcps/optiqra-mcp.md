@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T19:21:21Z"
 ---
 ## What it is
 Exposes OptiQra's full SEO/GEO/AEO audit and AI-fix/insight tools as MCP tools for AI clients like Claude, Cursor, and Windsurf. Use natural language to crawl URLs, analyze performance/a11y/security, and generate AI-driven fixes and strategy insights.

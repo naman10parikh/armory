@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T14:55:01Z"
 ---
 ## What it is
 Enables AI assistants to manage multiple Outlook/Microsoft 365 mailboxes simultaneously through MCP tools, with local OAuth token storage.

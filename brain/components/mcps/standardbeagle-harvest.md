@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-18T23:09:58Z"
 ---
 ## What it is
 MCP server `Harvest`, catalogued on PulseMCP. Integrates with Harvest time tracking API to enable natural language control over time entries, project management, timer operations, and reporting workflows for freelancers and teams.

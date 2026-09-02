@@ -8,10 +8,12 @@ source_url: https://github.com/ctpn3m01/mcp-metaeditor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-08T01:53:46Z"
 ---
 ## What it is
 MCP server `MetaTrader MetaEditor`, catalogued on PulseMCP. Connects AI assistants to MetaTrader 5 MetaEditor on Linux via Wine for MQL5 workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-31T17:03:48Z"
 ---
 ## What it is
 Enables agents to create and manipulate 3D CAD models using natural language via MCP, with git-based versioning and manufacturing output generation.

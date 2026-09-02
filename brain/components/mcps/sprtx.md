@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-03T17:25:35Z"
 ---
 ## What it is
 MCP server `SPRTX`, catalogued on PulseMCP. Agent-native sports token network with 1,435 tokens across 98 sports and 9 global regions via Streamable HTTP.

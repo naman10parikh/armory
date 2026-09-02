@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T09:40:57Z"
 ---
 ## What it is
 MCP server providing 1:1 tool parity with Arcade.dev's HubSpot Conversations API toolkit, enabling reading and sending conversation messages, managing threads, inboxes, channels, and custom channels from any MCP client.

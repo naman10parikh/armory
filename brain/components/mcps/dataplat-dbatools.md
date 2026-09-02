@@ -8,10 +8,12 @@ source_url: https://github.com/dataplat/dbatools-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-04T10:24:25Z"
 ---
 ## What it is
 MCP server `dbatools`, catalogued on PulseMCP. SQL Server database administration through dbatools PowerShell module with instance management, backup, and migration tools.

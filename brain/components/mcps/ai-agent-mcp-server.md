@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T12:55:30Z"
 ---
 ## What it is
 Enables ChatGPT agents to store and retrieve reports in MongoDB Atlas, acting as a bridge between ChatGPT scheduled agents and a persistent database.

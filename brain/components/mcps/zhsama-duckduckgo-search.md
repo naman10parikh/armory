@@ -8,10 +8,12 @@ source_url: https://github.com/zhsama/duckduckgo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 77
+stars: 87
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-04-04T09:10:29Z"
 ---
 ## What it is
 MCP server `DuckDuckGo Search`, catalogued on PulseMCP. Lightweight TypeScript-based DuckDuckGo search server that enables developers to retrieve search results programmatically using the duck-duck-scrape library with minimal configuration.

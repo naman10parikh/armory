@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T15:36:00Z"
 ---
 ## What it is
 Enables control of local Xiaomi smart home devices via MCP, allowing reading real-time status and setting properties through natural language, without relying on the Xiaomi cloud.

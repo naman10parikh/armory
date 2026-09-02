@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T06:38:41Z"
 ---
 ## What it is
 MCP-native agentic threat investigation server that investigates IOCs across multiple threat intelligence sources, correlates findings to detect campaigns, and outputs STIX 2.1 bundles.

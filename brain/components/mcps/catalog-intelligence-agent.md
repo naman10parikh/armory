@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:07:51Z"
 ---
 ## What it is
 MCP server for autonomous catalog enrichment, turning raw ERP data into storefront-ready product listings with SEO titles, descriptions, images, schema.org, and validation. Provides tools for EAN lookup, image search, enrichment, batch processing, URL analysis, and Shopify payload generation.

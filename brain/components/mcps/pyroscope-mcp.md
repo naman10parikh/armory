@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T09:04:39Z"
 ---
 ## What it is
 A read-only MCP server for Grafana Pyroscope that lets AI assistants query continuous profiling data, including flamegraphs, hotspot functions, memory allocations, and label discovery, directly from any MCP-compatible client.

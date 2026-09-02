@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T14:37:31Z"
 ---
 ## What it is
 ReportFlow MCP Server - PDF report generation for Claude and AI agents

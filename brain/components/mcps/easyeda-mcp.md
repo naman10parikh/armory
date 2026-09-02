@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-20T21:37:14Z"
 ---
 ## What it is
 MCP server for AI-assisted PCB design with EasyEDA Pro, enabling inspection, review, and automation of schematics, PCBs, and manufacturing export.

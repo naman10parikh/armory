@@ -8,10 +8,12 @@ source_url: https://github.com/johanli233/mcp-sandbox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-12-19T07:17:12Z"
 ---
 ## What it is
 MCP server `Python Sandbox`, catalogued on PulseMCP. Provides a secure sandbox environment for executing Python code within isolated Docker containers, enabling safe code testing with resource limits, package installation, and file operations through a RESTful API.

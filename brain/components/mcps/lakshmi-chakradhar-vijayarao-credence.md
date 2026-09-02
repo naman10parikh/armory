@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-16T07:42:38Z"
 ---
 ## What it is
 MCP server `Credence`, catalogued on PulseMCP. Epistemic guard for AI coding that tracks uncertain values and blocks writes until verified.

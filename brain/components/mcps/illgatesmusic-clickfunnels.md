@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-19T20:32:00Z"
 ---
 ## What it is
 MCP server `ClickFunnels`, catalogued on PulseMCP. Integrates with ClickFunnels marketing platform to provide tools for listing and retrieving funnels, managing contacts, and debugging API connections through a modular TypeScript architecture.

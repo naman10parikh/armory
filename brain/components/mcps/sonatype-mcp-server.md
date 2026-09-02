@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-14T11:46:49Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Sonatype Nexus Repository Manager that enables AI assistants to interact with Nexus repositories through a standardized interface.

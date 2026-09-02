@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T07:55:17Z"
 ---
 ## What it is
 Simulates a third-party appointment booking agent, enabling your AI platform to check availability and book appointments via MCP interoperability.

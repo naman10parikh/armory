@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-01T05:37:28Z"
 ---
 ## What it is
 A Model Context Protocol server for Microsoft Fabric that enables AI agents to query and analyze Lakehouse and Eventhouse data, and manage Eventstreams, using natural language through the MCP interface.

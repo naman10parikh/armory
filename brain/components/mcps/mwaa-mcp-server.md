@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T18:13:40Z"
 ---
 ## What it is
 MCP server for Amazon MWAA that enables managing Airflow environments, DAGs, runs, task instances, and configurations through natural language, using secure AWS-native API access and read-only by default.

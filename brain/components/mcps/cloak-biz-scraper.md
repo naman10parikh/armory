@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:17:49Z"
 ---
 ## What it is
 A self-hosted MCP server enabling AI assistants to scrape business-for-sale listings from websites like BizBuySell using stealth browsers and store results in Notion.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T21:31:53Z"
 ---
 ## What it is
 Keyless crypto payments for AI agents. One MCP call turns any wallet address into a non-custodial crypto payment link or tip jar, no API key and no account, with funds settling straight to your wallet at a 0% platform fee (USDC/USDT, BTC, LTC, DASH, DOGE, ZCASH).

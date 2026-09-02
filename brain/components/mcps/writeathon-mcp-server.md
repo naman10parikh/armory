@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T14:44:25Z"
 ---
 ## What it is
 Enables users to interact with the Writeathon platform for managing cards, spaces, and writing picks via MCP.

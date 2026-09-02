@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T05:20:46Z"
 ---
 ## What it is
 Provides AI agents with live, structured access to Singapore government open data including weather, transport, property, and company registry via 35 well-described tools.

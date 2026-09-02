@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T21:42:30Z"
 ---
 ## What it is
 Provides AI assistants with programmatic access to SAP Commerce Cloud's Hybris Administration Console (HAC), enabling automated FlexibleSearch queries, ImpEx imports, Groovy script execution, and system administration across multiple environments with fine-grained permissions.

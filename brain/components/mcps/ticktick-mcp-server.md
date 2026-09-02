@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-29T16:43:02Z"
 ---
 ## What it is
 Remote MCP server for managing TickTick tasks and projects, offering 22 tools for CRUD, search, and GTD workflows via any MCP client.

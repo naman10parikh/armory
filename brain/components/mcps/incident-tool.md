@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T05:04:41Z"
 ---
 ## What it is
 Enables AI agents to diagnose Linux server incidents by collecting and structuring system diagnostics from multiple servers via SSH, with tools for finding incident clusters, gathering context (memory, CPU, swap, etc.), and running arbitrary commands.

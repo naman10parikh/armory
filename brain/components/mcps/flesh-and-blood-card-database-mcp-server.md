@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T22:53:48Z"
 ---
 ## What it is
 MCP server for searching Flesh and Blood TCG cards, retrieving print variations, and browsing product catalogs via the CardVault API.

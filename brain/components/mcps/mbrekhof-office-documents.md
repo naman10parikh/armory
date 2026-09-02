@@ -8,10 +8,12 @@ source_url: https://github.com/mbrekhof/mcpoffice
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T21:44:46Z"
 ---
 ## What it is
 MCP server `Office Documents`, catalogued on PulseMCP. Reads, writes, and converts Microsoft Office documents via 24 tools covering Word creation from Markdown, Excel analysis, VBA extraction, and format conversion.

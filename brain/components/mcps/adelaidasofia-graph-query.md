@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-23T02:03:59Z"
 ---
 ## What it is
 MCP server `Vault Graph Query`, catalogued on PulseMCP. Queries a local knowledge graph vault for semantic search and relationship traversal.

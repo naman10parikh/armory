@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-22T15:54:33Z"
 ---
 ## What it is
 A local-first MCP server that indexes all your local files (text, code, images, audio, video) and provides hybrid search (BM25+embeddings) to retrieve only relevant chunks for AI tools, reducing token usage by over 57%.

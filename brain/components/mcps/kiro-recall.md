@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:57:57Z"
 ---
 ## What it is
 A local MCP memory server for Kiro CLI that provides persistent semantic memory across sessions using SQLite for storage, Ollama for local vector embeddings, and Obsidian as a human-readable sync target.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T22:33:24Z"
 ---
 ## What it is
 Enables LLM agents to search academic literature across multiple sources (IEEE, arXiv, ACM, Semantic Scholar, CORE, Scite, Consensus) and index/search local PDFs.

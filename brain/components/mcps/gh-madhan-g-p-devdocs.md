@@ -8,10 +8,12 @@ source_url: https://github.com/madhan-g-p/devdocs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-05-10T07:42:42Z"
 ---
 ## What it is
 MCP server `DevDocs by madhan-g-p`, catalogued on PulseMCP. Local developer documentation server with project-specific context awareness.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-10T10:59:56Z"
 ---
 ## What it is
 An MCP server that drives Anthropic's Claude Design from agentic coding CLIs, providing tools to create, generate, iterate, and export design systems without a browser.

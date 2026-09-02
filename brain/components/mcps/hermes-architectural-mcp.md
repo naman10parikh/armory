@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T13:06:08Z"
 ---
 ## What it is
 Converts architectural PDF plans into dimension-verified millimetre geometry, IFC models, and CPU-rendered views, with built-in validation for boundaries, areas, and overlaps.

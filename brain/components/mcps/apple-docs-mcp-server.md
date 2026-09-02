@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-26T02:53:22Z"
 ---
 ## What it is
 Search and retrieve information from Apple's complete developer documentation, including API references, code examples, and Human Interface Guidelines, across all Apple platforms and versions.

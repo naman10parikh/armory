@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:12:17Z"
 ---
 ## What it is
 Remote MCP server for GoHighLevel that enables multi-tenant agency access via OAuth, allowing Claude or ChatGPT to use GHL tools through natural language.

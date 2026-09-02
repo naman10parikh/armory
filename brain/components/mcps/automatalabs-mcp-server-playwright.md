@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 299
+forks: 51
+pushed_at: "2025-06-05T21:48:28Z"
 ---
 ## What it is
 An MCP server for browser automation using Playwright

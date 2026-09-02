@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T12:27:34Z"
 ---
 ## What it is
 Wraps Yandex Cloud Search API v2 for web search, returns compact JSON results.

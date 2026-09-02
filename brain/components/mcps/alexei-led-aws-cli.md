@@ -8,10 +8,12 @@ source_url: https://github.com/alexei-led/aws-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 182
+stars: 185
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 33
+pushed_at: "2026-02-27T14:42:40Z"
 ---
 ## What it is
 MCP server `AWS CLI`, catalogued on PulseMCP. Provides a lightweight bridge to AWS CLI, enabling command documentation retrieval and execution with Unix pipe support using existing AWS credentials on the host machine.

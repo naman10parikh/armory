@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T16:05:21Z"
 ---
 ## What it is
 A MongoDB MCP Server that allows AI agents and MCP clients to interact with MongoDB databases through standardized tools for CRUD operations, schema discovery, and collection management.

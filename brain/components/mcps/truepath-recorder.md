@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T16:17:45Z"
 ---
 ## What it is
 A local MCP server that lets Claude, Cursor, or Codex drive TruePath Recorder — start/stop recordings, list capture sources, and get the saved file path back. Local bridge over 127.0.0.1 + per-launch token; recordings never leave your Mac.

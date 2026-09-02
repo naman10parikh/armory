@@ -8,11 +8,13 @@ source_url: https://github.com/longevity-genie/biothings-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 33
+stars: 34
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-11-03T20:05:06Z"
 ---
 ## What it is
 Provides a Model Context Protocol server for accessing and querying biomedical data from BioThings services, including gene, variant, chemical, and taxon annotations.

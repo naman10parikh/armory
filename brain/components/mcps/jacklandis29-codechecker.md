@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-05T23:23:41Z"
 ---
 ## What it is
 MCP server `CodeChecker`, catalogued on PulseMCP. Integrates with Cursor IDE to provide real-time code review capabilities, leveraging GPT models for intelligent analysis and specific improvement suggestions.

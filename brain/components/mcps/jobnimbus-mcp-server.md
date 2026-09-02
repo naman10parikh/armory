@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T06:14:03Z"
 ---
 ## What it is
 Connects Claude to your JobNimbus account via API, enabling management of contacts, jobs, notes, and other CRM entities through natural language.

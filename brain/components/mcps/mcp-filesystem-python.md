@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-01-05T05:05:55Z"
 ---
 ## What it is
 A secure, read-only MCP server for browsing and searching files in a specified directory with path traversal protection and .gitignore support.

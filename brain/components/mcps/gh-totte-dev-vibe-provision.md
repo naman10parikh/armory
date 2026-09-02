@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-27T05:47:36Z"
 ---
 ## What it is
 MCP server `Vibe Provision`, catalogued on PulseMCP. SaaS service provisioning tool that automates setup of Clerk, Stripe, Resend, and infrastructure from YAML configuration.

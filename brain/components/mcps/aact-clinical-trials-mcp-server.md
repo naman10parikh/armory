@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-03T02:20:24Z"
 ---
 ## What it is
 Enables querying clinical trial data from the AACT database (ClinicalTrials.gov) using natural language through tools like list_tables, describe_table, and read_query.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:04:02Z"
 ---
 ## What it is
 MCP server `French Companies`, catalogued on PulseMCP. French company registry data — 26M+ legal units and 30M establishments via the recherche-entreprises.api.gouv.fr API through Pipeworx.

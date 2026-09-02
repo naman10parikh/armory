@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T21:23:09Z"
 ---
 ## What it is
 MCP server for spatial queries via the Terranode Geospatial API, enabling AI agents to perform point-in-polygon lookups, nearest feature search, distance calculations, and spatial joins.

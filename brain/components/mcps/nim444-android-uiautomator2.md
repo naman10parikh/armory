@@ -8,10 +8,12 @@ source_url: https://github.com/nim444/mcp-android-server-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-11-21T20:34:46Z"
 ---
 ## What it is
 MCP server `Android UIAutomator2`, catalogued on PulseMCP. Provides a bridge between Android devices and automation tools for controlling apps, interacting with UI elements, and capturing screenshots through UIAutomator2 technology.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T09:20:22Z"
 ---
 ## What it is
 Read-only MCP server with hybrid search combining dense semantic and sparse keyword retrieval via Qdrant, enabling document querying and fetching for ChatGPT Deep Research.

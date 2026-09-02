@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T18:36:09Z"
 ---
 ## What it is
 Enables LLM agents to maintain a two-tier memory system with local hot storage and remote cold storage, automatically routing and overflowing facts based on importance to prevent memory bloat.

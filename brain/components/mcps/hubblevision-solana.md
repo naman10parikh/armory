@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-30T08:04:38Z"
 ---
 ## What it is
 MCP server `Hubble AI (Solana)`, catalogued on PulseMCP. Provides a bridge to Solana blockchain data through natural language queries, enabling analytics searches, chart generation, and image downloads for visualizing transaction patterns, price movements, and token distributions.

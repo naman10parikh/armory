@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T19:31:42Z"
 ---
 ## What it is
 Enables reviewing plans for unstated assumptions, risks, and blind spots through a structured pre-mortem analysis.

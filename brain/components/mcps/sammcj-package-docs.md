@@ -12,6 +12,8 @@ stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-07-18T00:44:45Z"
 ---
 ## What it is
 MCP server `Package Docs`, catalogued on PulseMCP. Provides efficient access to NPM/Go/Python package documentation through smart parsing and caching, enabling quick retrieval of up-to-date library information.

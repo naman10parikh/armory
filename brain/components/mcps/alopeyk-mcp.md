@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T04:08:23Z"
 ---
 ## What it is
 A self-hostable MCP server for Alopeyk (الوپیک), an Iranian on-demand delivery and logistics company, enabling LLM agents to geocode addresses, quote and track deliveries, manage parcels, and optionally create/cancel real orders.

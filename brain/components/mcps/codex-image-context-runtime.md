@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T09:36:56Z"
 ---
 ## What it is
 MCP server that enables Codex to run image generation and inspection as durable jobs, returning bounded text results and references instead of image bytes to keep context manageable.

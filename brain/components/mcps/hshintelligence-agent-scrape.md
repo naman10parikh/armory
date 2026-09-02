@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 2
+forks: 1
+pushed_at: "2026-06-22T08:00:22Z"
 ---
 ## What it is
 Pay-per-call web scraping for AI agents via x402 micropayments on Base. Six tools: scrape, extract structured data, screenshot, metadata, browser session, workflow. No signup, no API keys — just USDC. HTTP + MCP transports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-15T20:38:30Z"
 ---
 ## What it is
 A comprehensive smart home automation system that allows AI assistants to control and monitor smart home devices through natural language using the Model Context Protocol (MCP).

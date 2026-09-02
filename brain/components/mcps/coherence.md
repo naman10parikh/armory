@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T20:41:47Z"
 ---
 ## What it is
 MCP server `Coherence`, catalogued on PulseMCP. Chat with your Coherence CRM's AI agent from Claude, Cursor, and Cline — read records, draft outreach, send email, and create reminders.

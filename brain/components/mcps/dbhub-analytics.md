@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T19:42:22Z"
 ---
 ## What it is
 Universal Database MCP Server enabling AI assistants to connect and query multiple databases including Databricks, BigQuery, PostgreSQL, MySQL, SQL Server, SQLite, and MariaDB through a unified interface.

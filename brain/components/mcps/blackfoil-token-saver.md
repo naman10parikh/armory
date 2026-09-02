@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-31T09:23:09Z"
 ---
 ## What it is
 MCP server `Claude Token Saver`, catalogued on PulseMCP. Offloads routine coding tasks to a local LLM to reduce Claude API token usage.

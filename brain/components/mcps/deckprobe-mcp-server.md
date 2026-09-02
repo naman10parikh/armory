@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:13:10Z"
 ---
 ## What it is
 Enables agents to inspect PDF, Microsoft Office, and Apple iWork documents without rendering them, providing page/slide counts, metadata, security signals, structure, and integrity as deterministic JSON via typed tools and batch operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T11:26:32Z"
 ---
 ## What it is
 Enables searching Polish parliamentary prints and retrieving the full legislative process history, including links to final legal acts, via the official Sejm API.

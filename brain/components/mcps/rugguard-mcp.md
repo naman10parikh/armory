@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T07:43:43Z"
 ---
 ## What it is
 MCP server for RugGuard, enabling AI agents to perform pre-trade rug checks on tokens, with paid tools for token scanning and pre-trade verification, and a free metrics resource.

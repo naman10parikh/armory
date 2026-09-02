@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T18:46:11Z"
 ---
 ## What it is
 Enables querying and comparing the first 25 Pokémon from the Kanto region, providing base stats, evolution chains, and type filtering via natural language.

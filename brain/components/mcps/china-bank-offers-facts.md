@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T08:17:14Z"
 ---
 ## What it is
 MCP server that exposes source-linked bank offer documents from 17 Chinese banks. Provides tools to list supported banks and retrieve official offer details with URLs, timestamps, and activity status.

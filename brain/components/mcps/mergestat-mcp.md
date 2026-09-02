@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-31T09:50:07Z"
 ---
 ## What it is
 Enables SQL queries against git repositories via MergeStat, allowing users to analyze commits, authors, and files using natural language.

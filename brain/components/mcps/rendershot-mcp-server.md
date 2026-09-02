@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T00:38:25Z"
 ---
 ## What it is
 Enables AI agents to capture screenshots and generate PDFs from URLs or HTML via the Rendershot API.

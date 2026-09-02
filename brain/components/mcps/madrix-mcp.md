@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T22:48:15Z"
 ---
 ## What it is
 Enables AI-driven control of MADRIX LED lighting software, providing over 100 tools for storage, layer, cue list, timeline, audio, output, and color management via the MADRIX Remote HTTP interface.

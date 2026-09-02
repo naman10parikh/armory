@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-09T09:21:31Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Integrates with Jira Cloud API to provide comprehensive issue management including creation, searching, workflow transitions, comments, attachments, and worklog tracking across multiple projects for streamlined development and project management workflows.

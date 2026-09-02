@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
 stars: 5
+forks: 4
+pushed_at: "2025-12-02T00:24:29Z"
 ---
 ## What it is
 MCP server that connects your IDE or AI assistant to GitHub Copilot CLI for code analysis, review, and batch processing

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T06:24:50Z"
 ---
 ## What it is
 MCP server offering seven paid bounded decision APIs for autonomous coding agents, including diagnosing GitHub Actions failures, classifying flaky tests, auditing skills, and comparing bounties, all settled via x402 Base USDC.

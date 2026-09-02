@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:49:12Z"
 ---
 ## What it is
 Indexes local documents (PDF, Word, Markdown, text) into a SQLite database for AI agents to search and retrieve bounded, source-located passages. Runs fully locally with optional OCR, preserving privacy.

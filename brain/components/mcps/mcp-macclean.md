@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T02:28:13Z"
 ---
 ## What it is
 Local multi-package manager cache cleaning MCP service that safely discovers, previews, and cleans caches for Maven, pnpm, npm, yarn, pip, uv, and Go.

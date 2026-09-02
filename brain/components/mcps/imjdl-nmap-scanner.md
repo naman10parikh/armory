@@ -8,10 +8,12 @@ source_url: https://github.com/imjdl/nmap-mcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-24T10:20:03Z"
 ---
 ## What it is
 MCP server `Nmap Scanner`, catalogued on PulseMCP. Provides a secure, controlled interface for network administrators and security researchers to perform targeted network reconnaissance and analysis using nmap scans with built-in rate limiting and security safeguards.

@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-01-16T08:54:58Z"
 ---
 ## What it is
 MCP server `Anti-BS`, catalogued on PulseMCP. Integrates multiple epistemological frameworks to analyze claims, validate sources, and detect manipulation for enhanced fact-checking and critical thinking.

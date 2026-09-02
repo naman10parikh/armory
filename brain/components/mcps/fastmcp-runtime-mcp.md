@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T06:40:55Z"
 ---
 ## What it is
 Paid remote MCP for hosted MCP server providing structured receipts, usage logs, and audit-ready evidence for agent and CI workflows.

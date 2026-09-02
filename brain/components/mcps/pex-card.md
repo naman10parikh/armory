@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-07T15:40:32Z"
 ---
 ## What it is
 MCP server `PEX Card`, catalogued on PulseMCP. Integrates with PEX Card's corporate expense management platform for business account, card, transaction, and payment operations.

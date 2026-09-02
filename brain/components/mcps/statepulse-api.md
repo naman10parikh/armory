@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T18:38:44Z"
 ---
 ## What it is
 55+ pay-per-call tools for AI agents over MCP: live telemetry, blockchain/on-chain checks, environmental, transit, finance, and network utilities. No API key or signup — agents pay per request with x402 USDC micropayments (Base and Solana).

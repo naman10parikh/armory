@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-04T11:03:38Z"
 ---
 ## What it is
 MCP server `AgentAnycast`, catalogued on PulseMCP. P2P daemon for decentralized agent-to-agent communication with automatic peer discovery and NAT traversal.

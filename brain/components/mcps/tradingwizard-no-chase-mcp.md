@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T10:20:37Z"
 ---
 ## What it is
 Enforces pre-trade planning discipline by checking entry, stop, target, and risk/reward via a gate tool, and provides proof receipts, terminal links, and risk prompts for AI assistants.

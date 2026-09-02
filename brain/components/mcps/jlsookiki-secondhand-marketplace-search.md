@@ -8,10 +8,12 @@ source_url: https://github.com/jlsookiki/secondhand-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-09-01T06:13:17Z"
 ---
 ## What it is
 MCP server `Secondhand Marketplace Search`, catalogued on PulseMCP. Searches multiple secondhand marketplaces including Facebook Marketplace, eBay, and Depop through a unified interface for price comparison and deal hunting across platforms.

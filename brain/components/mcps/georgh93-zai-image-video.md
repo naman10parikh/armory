@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-27T22:09:19Z"
 ---
 ## What it is
 MCP server `Z.AI Image and Video Generation`, catalogued on PulseMCP. Provides access to Z.AI's GLM-Image, CogView-4, CogVideoX-3, and Vidu video models for image and video generation with async processing and automatic downloads.

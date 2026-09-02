@@ -8,11 +8,13 @@ source_url: https://github.com/qiliang517/kingdee-search-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-14T09:10:18Z"
 ---
 ## What it is
 搜索金蝶开发者社区知识库的 MCP 服务器，支持根据关键字检索并返回结果表格。

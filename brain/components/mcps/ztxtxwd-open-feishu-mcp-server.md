@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 85
+forks: 14
+pushed_at: "2026-01-27T15:00:41Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server with built-in Feishu OAuth authentication, supporting remote connections and providing comprehensive Feishu document management tools including block creation, content updates, and advanced features.

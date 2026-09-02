@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T09:57:51Z"
 ---
 ## What it is
 Orchestrate parallel Claude agent workloads via Docker containers with combinators for parallel execution, map-reduce, and pipeline workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T01:54:25Z"
 ---
 ## What it is
 Enables AI agents to discover, compare, and select the best AI models across multiple providers based on pricing, performance, and capabilities, with real-time cost estimation and benchmarking.

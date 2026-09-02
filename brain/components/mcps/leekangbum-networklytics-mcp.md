@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
 stars: 1
+forks: 0
+pushed_at: "2026-05-30T09:36:52Z"
 ---
 ## What it is
 YouTube comment social network analysis (SNA): influencer centrality ranking, community detection (Louvain), sentiment analysis, and public JSON API for AI agents

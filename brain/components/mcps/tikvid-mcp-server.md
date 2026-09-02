@@ -8,11 +8,13 @@ source_url: https://github.com/liortesta/tikvid
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-21T01:46:42Z"
 ---
 ## What it is
 Enables AI agents to interact with a TikTok-style social video platform, including video upload, live streaming, social interactions, and direct messaging.

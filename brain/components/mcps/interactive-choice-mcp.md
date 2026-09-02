@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-13T04:10:18Z"
 ---
 ## What it is
 Enables AI to present options and launch an interactive web or terminal interface for user selection, then return the results to the AI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T13:01:34Z"
 ---
 ## What it is
 Search across a billion+ documents including academic papers, books, code, legal cases, forums, and Wikipedia. Provides search and detail tools for various content types.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:50:48Z"
 ---
 ## What it is
 A lightweight MCP adapter that connects AI clients to Ygdria Desktop's ETAPI, enabling note search, tree navigation, reading, and authorized editing via MCP tools and resources.

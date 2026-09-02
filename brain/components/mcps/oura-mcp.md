@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T18:05:28Z"
 ---
 ## What it is
 MCP server for the Oura Ring API v2, providing access to sleep, activity, readiness, heart rate, and workout data via OAuth.

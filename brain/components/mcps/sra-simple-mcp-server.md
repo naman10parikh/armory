@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T10:01:03Z"
 ---
 ## What it is
 MCP server to control StarRailAssistant (SRA) on Windows. Enables listing task configurations and running SRA tasks with configurable timeout.

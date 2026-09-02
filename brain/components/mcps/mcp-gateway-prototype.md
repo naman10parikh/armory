@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T21:52:46Z"
 ---
 ## What it is
 A local MCP server for BigQuery that integrates Okta authentication and workload identity federation, enabling natural language queries and dataset exploration.

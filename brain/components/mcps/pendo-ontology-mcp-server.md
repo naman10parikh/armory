@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T13:02:51Z"
 ---
 ## What it is
 A semantic ontology layer for Pendo that enables users to define and manage business concepts, entity relationships, and measurement hints, grounding LLM queries in workspace-specific definitions.

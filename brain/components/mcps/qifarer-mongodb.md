@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-20T14:20:39Z"
 ---
 ## What it is
 MCP server `MongoDB`, catalogued on PulseMCP. FastAPI-based server that connects MongoDB databases to AI assistants, enabling data access with comprehensive trace management and logging capabilities.

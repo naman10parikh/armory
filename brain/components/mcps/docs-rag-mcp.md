@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T08:42:08Z"
 ---
 ## What it is
 Searches local markdown files using TF-IDF retrieval and serves full documents as resources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T16:59:33Z"
 ---
 ## What it is
 Enables read-only queries to the University of Santiago de Compostela's Moodle Campus Virtual, including pending work, announcements, events, and exam dates from official public sources, with a protected message-sending tool that requires explicit confirmation.

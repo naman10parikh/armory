@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T10:03:45Z"
 ---
 ## What it is
 Provides access to a cited knowledge graph on football's Laws of the Game and major competitions, with tools for search, question answering, and entity exploration, returning claims with sources and confidence.

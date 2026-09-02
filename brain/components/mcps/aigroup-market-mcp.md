@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-24T06:10:27Z"
 ---
 ## What it is
 A financial data MCP server providing stock, fund, macroeconomic, and news queries through Tushare and Baidu News.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T02:41:17Z"
 ---
 ## What it is
 A read-only MCP server that provides family-context tools for the A2Me platform, enabling AI assistants to answer family-related questions and help write messages by securely accessing family member profiles, upcoming events, and recent activity.

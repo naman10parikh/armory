@@ -8,10 +8,12 @@ source_url: https://github.com/aliargun/mcp-server-gemini
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 254
+stars: 258
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 62
+pushed_at: "2025-07-14T18:52:57Z"
 ---
 ## What it is
 MCP server `Gemini`, catalogued on PulseMCP. Integrates Google's Gemini AI models enabling real-time response streaming and LLM processing capabilities.

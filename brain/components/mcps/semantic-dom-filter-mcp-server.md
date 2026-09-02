@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T15:03:56Z"
 ---
 ## What it is
 Converts messy HTML into clean semantic markdown with integer IDs, enabling LLMs to navigate and interact with web pages efficiently using intent-guided filtering and diff-based updates.

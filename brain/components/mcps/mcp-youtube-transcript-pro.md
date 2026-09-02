@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-19T03:26:06Z"
 ---
 ## What it is
 Enables fetching YouTube video transcripts with metadata, including timed captions in multiple formats (JSON, SRT, VTT, CSV, TXT) and preprocessing options.

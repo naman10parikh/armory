@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T15:03:11Z"
 ---
 ## What it is
 Local-first Commander deck planning, inventory fulfillment, and budget upgrades for Magic: The Gathering. Build, compare, price, and improve decks with pinned data and imported card inventory.

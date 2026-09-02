@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T15:18:26Z"
 ---
 ## What it is
 Provides AI-powered trading analytics and coaching by analyzing historical trades to identify strategies, emotional patterns, and behavioral mistakes via MCP tools.

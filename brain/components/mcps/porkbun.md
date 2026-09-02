@@ -8,10 +8,12 @@ source_url: https://github.com/oborseth/porkbun-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-01T22:34:54Z"
 ---
 ## What it is
 MCP server `Porkbun`, catalogued on PulseMCP. Official Porkbun MCP server for AI-driven domain management via the Porkbun v3 API.

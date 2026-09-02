@@ -8,11 +8,13 @@ source_url: https://github.com/zerx-lab/FluxDown
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2557
+stars: 2831
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 142
+pushed_at: "2026-08-31T01:18:44Z"
 ---
 ## What it is
 Built-in MCP server in the FluxDown download manager: a Streamable HTTP endpoint (POST /mcp, JSON-RPC 2.0, Bearer auth) exposing 9 tools to add, list, pause, resume, and remove HTTP/FTP/BitTorrent/HLS downloads and manage queues.

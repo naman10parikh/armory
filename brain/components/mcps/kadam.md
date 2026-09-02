@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-07T18:18:33Z"
 ---
 ## What it is
 MCP server `Kadam`, catalogued on PulseMCP. Manage Kadam advertising campaigns, creatives, audiences, and analytics via AI assistants.

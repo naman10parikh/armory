@@ -8,11 +8,13 @@ source_url: https://github.com/es617/serial-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-07T22:09:22Z"
 ---
 ## What it is
 Allows AI agents to interact with serial devices via RS232/UART, enabling port listing, connection, read/write, control line manipulation, and protocol specification for automated debugging and testing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T19:46:05Z"
 ---
 ## What it is
 Enables AI agents to scan, redact, and govern sensitive data before sending it to external tools through DLP, secure chat, and shadow AI discovery tools.

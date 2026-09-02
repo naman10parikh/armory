@@ -8,10 +8,12 @@ source_url: https://github.com/b1ff/atlassian-dc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 73
+stars: 93
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 37
+pushed_at: "2026-08-30T11:42:17Z"
 ---
 ## What it is
 MCP server `Atlassian DC`, catalogued on PulseMCP. MCP server for Atlassian Jira Data Center - search, view, and create issues

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:11:15Z"
 ---
 ## What it is
 Read-only MCP server for Dynamics 365 Business Central, enabling AI clients to query live ERP data like customers, items, orders, and invoices via GET-only APIs with dual authentication and stdio/HTTP transports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:12:27Z"
 ---
 ## What it is
 MCP server that exposes the 7-prime spine, 7 κ-bands, and 6 fold operations as tools and resources for AI clients to perform folding, band classification, and state operations.

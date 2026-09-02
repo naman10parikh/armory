@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T21:38:45Z"
 ---
 ## What it is
 Enables browsing prediction markets, getting price quotes, trading, creating markets, and managing portfolios on the FlipCoin platform through natural language.

@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-01-04T04:18:37Z"
 ---
 ## What it is
 MCP server `Room`, catalogued on PulseMCP. Enables creation and interaction with virtual rooms in a peer-to-peer space, facilitating multi-agent collaboration and communication in decentralized environments.

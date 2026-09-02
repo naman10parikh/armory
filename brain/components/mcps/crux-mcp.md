@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T22:24:11Z"
 ---
 ## What it is
 MCP server for the Chrome UX Report, providing real-user Core Web Vitals (LCP, INP, CLS) and historical trends for any origin or URL via natural language queries.

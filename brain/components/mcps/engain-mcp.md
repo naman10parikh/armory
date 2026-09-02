@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T21:17:37Z"
 ---
 ## What it is
 Enables programmatic Reddit growth campaign management via the Engain API, including task scheduling, upvote/downvote orders, opportunity discovery, and account management.

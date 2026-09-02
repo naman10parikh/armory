@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-02-28T20:24:51Z"
 ---
 ## What it is
 MCP server `Sleep`, catalogued on PulseMCP. Provides a simple sleep/wait tool for introducing timed delays between operations, enabling scenarios like API call spacing and time-dependent process simulation.

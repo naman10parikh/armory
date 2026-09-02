@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T12:25:28Z"
 ---
 ## What it is
 MCP server for Minecraft Bedrock Edition providing 7 tools for zone management, building, scanning, and command execution via LLM.

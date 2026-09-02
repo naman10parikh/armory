@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:01:54Z"
 ---
 ## What it is
 MCP server for PriceTrack that enables AI assistants to search live SaaS pricing, view verified price changes, and compare products side-by-side across 33,000+ vendors.

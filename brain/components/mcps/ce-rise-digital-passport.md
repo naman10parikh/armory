@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T10:25:53Z"
 ---
 ## What it is
 MCP server `CE-RISE Digital Passport`, catalogued on PulseMCP. AI assistant for planning and reusing CE-RISE Digital Passport components, models, and deployment assets.

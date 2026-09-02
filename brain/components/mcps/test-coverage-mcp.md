@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-03T14:29:17Z"
 ---
 ## What it is
 MCP server that provides instant, token-efficient test coverage data for any programming language, allowing agents to query coverage summaries and track session progress.

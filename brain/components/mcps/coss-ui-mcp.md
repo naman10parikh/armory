@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T13:43:22Z"
 ---
 ## What it is
 MCP server for the coss ui design system, enabling AI agents to fetch components, props, and design tokens on demand for accurate, low-cost code generation.

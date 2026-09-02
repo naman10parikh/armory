@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-04-16T01:47:30Z"
 ---
 ## What it is
 MCP server `Teamwork`, catalogued on PulseMCP. Integrates with Teamwork API to manage projects, tasks, team members, and generate utilization reports for streamlined project management and collaboration workflows.

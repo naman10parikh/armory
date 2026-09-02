@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T05:24:19Z"
 ---
 ## What it is
 An MCP server that intelligently filters and compresses tool outputs to reduce context window usage, saving up to 90% of tokens by removing noise such as passing tests and redundant information.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T19:44:25Z"
 ---
 ## What it is
 A Model Context Protocol server for AI image and video generation using Midjourney through the AceDataCloud API.

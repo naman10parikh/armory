@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T15:40:11Z"
 ---
 ## What it is
 Exposes the Panda-TAMP planning stack as tools via the Model Context Protocol, enabling natural language-driven goal grounding and closed-loop task and motion planning for a simulated Franka Panda robot.

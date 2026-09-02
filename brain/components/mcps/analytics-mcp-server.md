@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T05:35:22Z"
 ---
 ## What it is
 Enables safe exploration and analysis of SQLite databases through guarded read-only queries, schema inspection, aggregations, and CSV imports.

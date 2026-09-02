@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T14:22:41Z"
 ---
 ## What it is
 Voice input for Claude Code — speak Vietnamese or English; hold a hotkey, speak, release, and the transcribed text is cleaned and pasted into the input box for editing before sending.

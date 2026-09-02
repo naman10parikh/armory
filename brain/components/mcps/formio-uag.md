@@ -8,10 +8,12 @@ source_url: https://github.com/formio/uag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-05T14:40:38Z"
 ---
 ## What it is
 MCP server `Form.io UAG`, catalogued on PulseMCP. Universal Agent Gateway enabling agentic automation with Form.io forms and workflows.

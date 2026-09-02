@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-10T11:50:52Z"
 ---
 ## What it is
 MCP server `MongoDB`, catalogued on PulseMCP. Provides schema-enforced MongoDB database operations with collection management, document CRUD operations, and dynamic validation using Pydantic models for safe database interactions while maintaining data integrity.

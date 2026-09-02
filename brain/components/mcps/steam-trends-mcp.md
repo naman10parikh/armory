@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T14:52:01Z"
 ---
 ## What it is
 Track concurrent player counts and game momentum for any title on Steam via AI assistants.

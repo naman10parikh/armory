@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T20:34:05Z"
 ---
 ## What it is
 Local, private audio transcription MCP server enabling AI agents to transcribe audio files entirely on-device without uploading data.

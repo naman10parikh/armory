@@ -8,10 +8,12 @@ source_url: https://github.com/noredistribution/mcp-cvp-fun
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-02T14:34:57Z"
 ---
 ## What it is
 MCP server `Arista CloudVision`, catalogued on PulseMCP. Enables Claude to interact with Arista CloudVision for network management tasks including device inventory, system events, connectivity monitoring, and tag creation through conversational prompts.

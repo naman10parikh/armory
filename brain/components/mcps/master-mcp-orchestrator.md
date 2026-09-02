@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-21T17:34:00Z"
 ---
 ## What it is
 A central MCP server that connects to multiple MCP servers and intelligently routes user queries to the appropriate MCP tools, then aggregates and returns responses.

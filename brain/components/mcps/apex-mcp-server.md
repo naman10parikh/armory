@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T11:10:54Z"
 ---
 ## What it is
 A read-only MCP server for the Apex Rides API, deployed as a Cloudflare Worker, providing tools to browse popular classes, search workouts, get class details, and list instructors.

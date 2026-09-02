@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:51:16Z"
 ---
 ## What it is
 An MCP server that demonstrates converting a safe OpenAPI subset into MCP tools and interactive apps, using the GitHub API as an example. It provides three GitHub tools with summary, table, and ranking views.

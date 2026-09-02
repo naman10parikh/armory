@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-01T07:48:19Z"
 ---
 ## What it is
 MCP server `Desktop Image Manager`, catalogued on PulseMCP. Provides tools for managing and manipulating local desktop images with capabilities for file counting, filename retrieval, and image compression using the Sharp library

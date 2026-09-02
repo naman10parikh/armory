@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-04T20:32:37Z"
 ---
 ## What it is
 Provides full read-write access to PostgreSQL databases with advanced transaction management, recovery tools, and schema exploration capabilities, enabling LLMs to safely query, modify, and manage database content.

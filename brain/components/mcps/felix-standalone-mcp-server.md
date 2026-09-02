@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T08:40:57Z"
 ---
 ## What it is
 Standalone MCP server that provides external AI clients with tool integration and intelligent PASH compression for significant token savings.

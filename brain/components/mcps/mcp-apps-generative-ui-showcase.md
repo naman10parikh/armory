@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T00:06:24Z"
 ---
 ## What it is
 Enables booking flights and hotels, creating investment portfolios, and managing kanban boards directly within a chat interface using generative UI components.

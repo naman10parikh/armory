@@ -8,11 +8,13 @@ source_url: https://github.com/djayatillake/studybible-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 78
+stars: 80
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-08-13T13:45:50Z"
 ---
 ## What it is
 Enables deep Bible study through tools for original language lexicons, morphological analysis, cross-references, and contextual notes.

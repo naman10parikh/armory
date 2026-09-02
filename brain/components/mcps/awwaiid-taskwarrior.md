@@ -8,10 +8,12 @@ source_url: https://github.com/awwaiid/mcp-server-taskwarrior
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-03-27T01:23:21Z"
 ---
 ## What it is
 MCP server `TaskWarrior`, catalogued on PulseMCP. Integrates with TaskWarrior to enable viewing, adding, and completing tasks, facilitating automated task management for productivity and project workflows.

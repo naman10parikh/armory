@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-03T19:23:39Z"
 ---
 ## What it is
 Provides access to Iconify's 200,000+ open source vector icons from 200+ icon sets, enabling search, browsing, and retrieval of icon data with framework usage examples.

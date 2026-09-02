@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T10:52:24Z"
 ---
 ## What it is
 A durable DAG-based task planner exposed as an MCP server that lets AI orchestrators break a goal into a dependency graph of tasks, execute them in parallel where possible, track state durably, and handle human-in-the-loop approval through 22 MCP tools.

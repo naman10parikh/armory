@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-11T17:48:17Z"
 ---
 ## What it is
 A self-aware, AI-powered MCP server that acts as a personal medical education assistant for African students, understanding natural language and autonomously managing reminders, data bundles, and medical knowledge retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T04:04:06Z"
 ---
 ## What it is
 Enables AI agents with persistent semantic memory, including semantic recall, knowledge graphs, and instant domain expertise via pre-built Intelligence Packs.

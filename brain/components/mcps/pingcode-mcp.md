@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T08:22:37Z"
 ---
 ## What it is
 Enables natural language reading and management of PingCode project work items (defects and requirements) through Cursor, Claude Code, Codex, and other clients.

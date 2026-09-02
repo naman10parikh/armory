@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-29T14:50:03Z"
 ---
 ## What it is
 A command-line tool for monitoring and analyzing New Relic application metrics using MCP.

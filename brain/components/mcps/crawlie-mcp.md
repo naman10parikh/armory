@@ -8,11 +8,13 @@ source_url: https://github.com/spronta/crawlie
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 99
+stars: 102
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-07-18T20:02:49Z"
 ---
 ## What it is
 Enables LLM agents to crawl and audit websites for technical SEO and GEO issues, providing actionable fixes via tools like crawl_site and explain_issue.

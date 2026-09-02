@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:26:55Z"
 ---
 ## What it is
 Turns application errors into reviewed pull requests by automating root-cause analysis, Jira ticket creation, local and CI test gates, and GitHub PRs, with a human as the final merge gate.

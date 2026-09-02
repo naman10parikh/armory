@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T18:41:38Z"
 ---
 ## What it is
 Connects WhatsApp with AI agents and CLI, enabling agents to read and send messages while imitating the user's unique communication style per contact through a local memory system.

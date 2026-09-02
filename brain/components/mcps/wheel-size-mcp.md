@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T17:28:07Z"
 ---
 ## What it is
 Official MCP server for the Wheel Fitment API, giving LLM agents access to vehicle wheel and tire compatibility data, including OEM specs, reverse lookups, plus-sizing calculations, and product card generation.

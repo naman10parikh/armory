@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-28T19:42:27Z"
 ---
 ## What it is
 A CLI and MCP server for managing skills across ~45 code CLI agents, with 18 tools for discovering, installing, enabling, and syncing skills in mid-session.

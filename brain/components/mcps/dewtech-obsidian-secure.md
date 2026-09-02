@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T20:14:00Z"
 ---
 ## What it is
 MCP server `Obsidian Secure`, catalogued on PulseMCP. Security-hardened Obsidian integration with OWASP Top 10 controls and full audit logging.

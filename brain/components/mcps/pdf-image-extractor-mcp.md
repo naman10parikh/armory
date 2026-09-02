@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-02T09:54:01Z"
 ---
 ## What it is
 Extracts images from PDF files, allowing LLMs to access and analyze embedded images from local PDF documents.

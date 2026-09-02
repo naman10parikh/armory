@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T07:46:57Z"
 ---
 ## What it is
 A situational local recommendation MCP server that classifies user mood, energy, time, and budget to generate three actionable choices with search keywords and disclosure policy.

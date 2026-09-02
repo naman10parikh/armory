@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T21:13:33Z"
 ---
 ## What it is
 Adds a second-opinion advisor to OpenAI Codex CLI, enabling consultation with ChatGPT subscription, OpenAI API, Claude, Gemini, or OpenAI-compatible models during coding sessions.

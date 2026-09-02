@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T09:36:31Z"
 ---
 ## What it is
 A deterministic what-if scenario simulation MCP server that projects business metrics over time with exact decimal arithmetic, offering sensitivity analysis and break-even solving.

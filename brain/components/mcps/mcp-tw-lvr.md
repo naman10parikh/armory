@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T15:24:57Z"
 ---
 ## What it is
 MCP server for querying Taiwan's real estate transaction registry via web scraping of the Ministry of the Interior's official portal. Enables natural language queries for real estate sales, rentals, and pre-sale housing data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:16:18Z"
 ---
 ## What it is
 Provides in-process RDKit cheminformatics operations — descriptors, fingerprints, similarity and substructure search, reaction enumeration, standardization, and 3D conformer generation — for AI agents.

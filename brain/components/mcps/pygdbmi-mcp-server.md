@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T06:23:59Z"
 ---
 ## What it is
 Enables dynamic debugging with GDB via the MCP protocol, allowing LLMs to execute GDB commands, manage breakpoints, control execution, and inspect program state.

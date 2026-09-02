@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T06:34:40Z"
 ---
 ## What it is
 Enables AI agents to access a unified catalog of tools from various APIs (OpenAPI, GraphQL, MCP, Google Discovery) through the MCP protocol.

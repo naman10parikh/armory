@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-02T15:30:48Z"
 ---
 ## What it is
 Enables natural language control of Pure Data patches through Claude AI, allowing dynamic creation, modification, and DSP control via the Model Context Protocol.

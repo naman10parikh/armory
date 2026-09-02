@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T08:09:00Z"
 ---
 ## What it is
 MCP server for bottle-cap CAD workflow, providing tools for generating precise caps, filling holes, repairing meshes, and generating visual meshes via CadQuery, PyMeshLab, and the Meshy API.

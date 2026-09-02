@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T08:04:10Z"
 ---
 ## What it is
 Standalone MCP server exposing agentic-RAG tools (hybrid search, article retrieval, category listing) over a pgvector-backed knowledge base with bearer-token auth, designed for deployment on Render.

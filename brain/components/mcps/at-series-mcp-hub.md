@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T04:29:38Z"
 ---
 ## What it is
 Aggregates MCP tools from AT series IDE plugins into a single server, routing calls to plugin bridges for SSH, JumpServer, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:26:13Z"
 ---
 ## What it is
 Acts as a unified dispatch hub for local coding agent CLIs, supporting capability-based routing, schema validation, and retries via MCP tools.

@@ -8,10 +8,12 @@ source_url: https://github.com/agenerationforwordz-tech/strata
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-25T07:54:13Z"
 ---
 ## What it is
 MCP server `Strata`, catalogued on PulseMCP. Self-hosted AI memory server providing persistent memory on your own hardware.

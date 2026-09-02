@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-13T06:57:35Z"
 ---
 ## What it is
 An MCP server for learning purposes that integrates jina.ai tools for web search and reading.

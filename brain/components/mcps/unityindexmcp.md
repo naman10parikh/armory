@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T19:27:12Z"
 ---
 ## What it is
 A local read-only MCP server for Unity projects that provides ranked code search, C# symbol analysis, references, and snippets without sending project files to a hosted indexing service.

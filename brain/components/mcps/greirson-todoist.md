@@ -8,10 +8,12 @@ source_url: https://github.com/greirson/mcp-todoist
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 240
+stars: 243
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 35
+pushed_at: "2026-05-01T10:23:20Z"
 ---
 ## What it is
 MCP server `Todoist`, catalogued on PulseMCP. Integrates with Todoist API to manage tasks, projects, sections, and comments with support for bulk operations, natural language search, and comprehensive CRUD functionality.

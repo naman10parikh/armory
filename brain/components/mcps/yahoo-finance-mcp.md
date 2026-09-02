@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-31T19:41:36Z"
 ---
 ## What it is
 Provides access to Yahoo Finance data including real-time stock quotes, historical prices, financial statements, company info, symbol search, and news.

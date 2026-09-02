@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T06:07:00Z"
 ---
 ## What it is
 MCP server for a demo Nintendo Switch game shop. Enables agents to list/search games, manage the cart, and perform demo checkout while sharing state with the web UI.

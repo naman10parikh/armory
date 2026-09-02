@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-22T18:58:32Z"
 ---
 ## What it is
 MCP server `PmWiki`, catalogued on PulseMCP. Search and read PmWiki pages with text queries and group filtering

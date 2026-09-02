@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T07:01:59Z"
 ---
 ## What it is
 A testing server that provides CRUD operations on a JSON user database via MCP tools, enabling AI assistants to list, search, add, update, and delete users.

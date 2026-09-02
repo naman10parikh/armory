@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-03-30T18:55:20Z"
 ---
 ## What it is
 Enables creating high-performance MCP servers using Bun and Elysia, exposing resources, tools, and prompts to LLMs via SSE transport.

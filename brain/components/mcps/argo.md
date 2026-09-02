@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T15:38:53Z"
 ---
 ## What it is
 MCP server `Argo RPG Platform`, catalogued on PulseMCP. RPG campaign management platform MCP server for accessing guild data, campaigns, and lore via AI assistants.

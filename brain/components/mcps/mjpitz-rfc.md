@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-04-11T23:07:23Z"
 ---
 ## What it is
 MCP server `RFC Document Bridge`, catalogued on PulseMCP. Provides a bridge to IETF RFC documents for retrieving, searching, and extracting specific sections from technical standards documentation with support for both HTML and TXT formats

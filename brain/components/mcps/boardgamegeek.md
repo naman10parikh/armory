@@ -8,11 +8,13 @@ source_url: https://github.com/kkjdaniel/bgg-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9919
+stars: 52
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 13
+pushed_at: "2026-08-20T13:22:46Z"
 ---
 ## What it is
 BGG MCP provides access to BoardGameGeek and a variety of board game related data through the Model Context Protocol. Enabling retrieval and filtering of board game data, user collections, and profiles.

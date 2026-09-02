@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 1
+forks: 3
+pushed_at: "2026-02-16T23:18:33Z"
 ---
 ## What it is
 MCP audit server for agent discovery and certification. Provides trust and payment rail for AI agents including identity verification, escrow, settlement, and reputation management.

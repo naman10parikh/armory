@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T06:38:25Z"
 ---
 ## What it is
 MCP server for running long-running processes in PTY with real-time output streaming, enabling interactive dev servers, watch modes, and CLI tools.

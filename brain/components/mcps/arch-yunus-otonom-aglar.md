@@ -8,10 +8,12 @@ source_url: https://github.com/arch-yunus/otonom-aglar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-27T11:56:21Z"
 ---
 ## What it is
 MCP server `Otonom Aglar`, catalogued on PulseMCP. Autonomous agent MCP framework with ReAct loop architecture, semantic memory, secure code execution, and sub-agent delegation.

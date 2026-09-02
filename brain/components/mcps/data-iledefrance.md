@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:54:51Z"
 ---
 ## What it is
 Enables searching and querying Île-de-France open data datasets (transport, environment, economy, etc.) via natural language or direct tool calls.

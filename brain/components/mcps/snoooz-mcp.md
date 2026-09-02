@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T10:43:20Z"
 ---
 ## What it is
 Enables AI assistants to configure Snoooz email automation in natural language, including creating rules, follow-ups, training, and troubleshooting.

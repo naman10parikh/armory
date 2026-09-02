@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T05:46:15Z"
 ---
 ## What it is
 Vehicle handover compliance toolkit for UK car-transport operators, enabling automatic NAMA grading, BVRLA Fair Wear & Tear classification, photographic POD validation, and RHA liability calculations to dispute chargebacks effectively.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T20:39:29Z"
 ---
 ## What it is
 MCP server that lets AI agents securely access E-Disciplinas courses, materials, and files via Moodle Web Services API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-14T14:42:46Z"
 ---
 ## What it is
 MCP server that exposes Volcengine OpenAPI as tools, enabling AI agents to interact with Volcengine services like IAM.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T16:22:06Z"
 ---
 ## What it is
 Extends Claude's GitHub integration with tools for gists, starring, profile management, and notifications, complementing the standard GitHub MCP server.

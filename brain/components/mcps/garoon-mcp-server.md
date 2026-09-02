@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T19:03:20Z"
 ---
 ## What it is
 Official local MCP server for Garoon, enabling AI assistants to interact with the Garoon groupware platform through tools like schedule retrieval and user management.

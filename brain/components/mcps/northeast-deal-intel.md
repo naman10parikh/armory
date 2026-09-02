@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-02T18:27:15Z"
 ---
 ## What it is
 MCP server `Northeast Deal Intel`, catalogued on PulseMCP. Provides AI assistants with access to commercial real estate deal intelligence for the Northeast US market.

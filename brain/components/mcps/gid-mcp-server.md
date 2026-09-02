@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-04T03:54:19Z"
 ---
 ## What it is
 Enables AI to analyze, query, and manage a graph-based representation of software architecture for impact analysis, dependency tracking, and design.

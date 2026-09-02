@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-16T03:54:14Z"
 ---
 ## What it is
 AI-powered code review server that analyzes git diffs and PRs with context from project guidelines and task lists. Supports integration with Claude Code and Cursor via MCP.

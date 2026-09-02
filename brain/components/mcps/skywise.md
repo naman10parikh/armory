@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T18:23:15Z"
 ---
 ## What it is
 Skywise is a weather-prediction MCP server that provides current conditions, forecasts, historical data, severe weather alerts, air quality, and travel recommendations. It powers an Agent Bricks agent to answer natural-language weather questions and make simple predictions like 'Will it rain in Chic

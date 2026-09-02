@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T12:26:09Z"
 ---
 ## What it is
 MCP server for project management automation, providing tools for project health, documentation, task management, security scanning, and CI/CD validation.

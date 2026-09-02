@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T22:03:11Z"
 ---
 ## What it is
 Enables searching and exploring millions of items from the Smithsonian Institution's collections including artifacts, artworks, specimens, photographs, and more, using the Smithsonian Open Access API.

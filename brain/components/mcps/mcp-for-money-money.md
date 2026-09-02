@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T18:01:48Z"
 ---
 ## What it is
 A small MCP server that wraps MoneyMoney on macOS via AppleScript, exporting account lists and transactions (bookingDate, amount, name, purpose) as plists for invoice reconciliation, complementing a companion Apple Mail server.

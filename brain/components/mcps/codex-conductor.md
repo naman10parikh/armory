@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T21:57:59Z"
 ---
 ## What it is
 An MCP server that allows AI agents to monitor and interact with Codex sessions, providing session awareness, status summaries, and managed tmux windows for automated continuation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-17T06:34:33Z"
 ---
 ## What it is
 AI-powered IT support server that understands issues in Turkish and English, suggests fixes, and routes to the right experts via Django DB.

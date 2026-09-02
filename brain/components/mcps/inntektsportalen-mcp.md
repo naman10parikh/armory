@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T10:22:05Z"
 ---
 ## What it is
 MCP server that enables AI assistants to securely access and manage personal financial data from Inntektsportalen (Norwegian income portal) with fine-grained scope-based authorization via OAuth2.

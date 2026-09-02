@@ -8,10 +8,12 @@ source_url: https://github.com/bettyguo/mcp-wandb-2
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-11T14:03:50Z"
 ---
 ## What it is
 MCP server `W&B Analytics`, catalogued on PulseMCP. MCP server extending Weights & Biases with hyperparameter importance analysis using RandomForest and SHAP, sweep summaries, regression detection, and Plotly chart generation.

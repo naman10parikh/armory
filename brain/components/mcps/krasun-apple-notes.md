@@ -8,10 +8,12 @@ source_url: https://github.com/krasun/notes-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-05-22T13:49:08Z"
 ---
 ## What it is
 MCP server `Apple Notes`, catalogued on PulseMCP. Connects AI with Apple Notes on macOS, enabling retrieval, creation, and search of notes without leaving your workflow.

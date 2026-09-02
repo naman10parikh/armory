@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T01:36:04Z"
 ---
 ## What it is
 Snapshot-based file editing for AI agents. Enables safe file edits by sending only new content against immutable, content-addressed snapshots with 3-way merging and ambiguity protection.

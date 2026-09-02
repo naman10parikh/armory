@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T13:17:36Z"
 ---
 ## What it is
 MCP server that gives OpenCode a persistent, graph-based memory with semantic search, iterative retrieval, and session-aware knowledge management. It supports capturing fleeting and permanent notes, distilling insights, tracking mistakes and fixes, and auto-archiving stale memories.

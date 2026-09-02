@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-17T12:13:58Z"
 ---
 ## What it is
 Enables drawing annotations directly on local web pages and sending screenshots, DOM data, and annotation context to your IDE agent for precise code edits.

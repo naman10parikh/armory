@@ -8,10 +8,12 @@ source_url: https://github.com/r-huijts/strava-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 417
+stars: 475
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 90
+pushed_at: "2026-06-13T05:50:22Z"
 ---
 ## What it is
 MCP server `Strava`, catalogued on PulseMCP. Integrates with Strava's API to access and analyze fitness data, retrieve athlete profiles, activities, segments, routes, and clubs, with features for exporting routes in GPX/TCX formats for training insights and route planning.

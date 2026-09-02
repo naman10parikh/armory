@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-12T02:07:10Z"
 ---
 ## What it is
 MCP server `Neo4j`, catalogued on PulseMCP. Provides a TypeScript-based server for executing Cypher queries against Neo4j graph databases via stdio transport, enabling secure and flexible database interactions for developers and data analysts.

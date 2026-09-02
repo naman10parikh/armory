@@ -8,10 +8,12 @@ source_url: https://github.com/lin037/mcp-diagnostics-trae
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-02T03:25:43Z"
 ---
 ## What it is
 MCP server `VS Code Diagnostics`, catalogued on PulseMCP. Connects to VS Code diagnostics via Debug Adapter Protocol to retrieve error messages, warnings, and diagnostic information from active workspaces for debugging workflows and automated error resolution.

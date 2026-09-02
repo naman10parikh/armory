@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T16:54:21Z"
 ---
 ## What it is
 MCP server `Env Secret Exposure Analyzer`, catalogued on PulseMCP. Scans projects for secret exposure risks including leaked API keys, unprotected env files, and log leaks.

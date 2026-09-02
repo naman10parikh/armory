@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T16:05:54Z"
 ---
 ## What it is
 Exposes technical debt management to AI coding assistants, enabling them to find, prioritize, and resolve TODO/FIXME/BUG comments across codebases via MCP tools.

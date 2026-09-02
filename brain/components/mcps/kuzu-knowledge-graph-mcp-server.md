@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T15:15:48Z"
 ---
 ## What it is
 Connects to an embedded Kuzu graph database and provides read-only MCP tools for AI clients to query a knowledge graph.

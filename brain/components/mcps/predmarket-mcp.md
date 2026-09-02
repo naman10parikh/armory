@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T11:21:27Z"
 ---
 ## What it is
 A monetizable remote MCP server that provides prediction-market intelligence tools for AI agents, enabling discovery, evaluation, and mispricing detection across venues like Polymarket and Kalshi with per-call payment.

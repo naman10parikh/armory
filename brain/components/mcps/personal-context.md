@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T20:23:36Z"
 ---
 ## What it is
 Aggregates your digital footprint (GitHub, blogs, resume) into a single AI-readable profile and exposes it via MCP tools so AI agents can query your context live.

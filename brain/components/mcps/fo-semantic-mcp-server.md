@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-25T07:32:56Z"
 ---
 ## What it is
 Enables AI assistants to search and analyze Microsoft Dynamics 365 Finance & Operations artifacts, read local source code, and generate context-aware solutions through natural language.

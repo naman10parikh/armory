@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
 stars: 28
+forks: 3
+pushed_at: "2026-07-20T15:52:45Z"
 ---
 ## What it is
 Connect to any relational database, and be able to get valid SQL, and ask questions like what does a certain column prefix mean.

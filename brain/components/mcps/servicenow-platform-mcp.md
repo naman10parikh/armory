@@ -8,11 +8,13 @@ source_url: https://github.com/Xerrion/servicenow-platform-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:53:01Z"
 ---
 ## What it is
 Enables AI agents to interact with ServiceNow through MCP, providing schema inspection, record CRUD, attachments, audit, Flow Designer, and platform investigations with policy-guarded access.

@@ -8,10 +8,12 @@ source_url: https://github.com/beibei030/hermes-remote-device-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-20T06:40:27Z"
 ---
 ## What it is
 MCP server `Hermes Remote Device`, catalogued on PulseMCP. MCP server enabling one agent to control multiple remote devices simultaneously via Tailscale networking.

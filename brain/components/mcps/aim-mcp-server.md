@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T12:16:39Z"
 ---
 ## What it is
 Serves project memory, tasks, docs, and conventions live over the Model Context Protocol, enabling AI assistants to query and manipulate workspace context directly. Exposes tools for task management, memory operations, search, and context health checks.

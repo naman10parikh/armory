@@ -8,10 +8,12 @@ source_url: https://github.com/crazyrabbitltc/mcp-twitter-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-06-03T16:32:40Z"
 ---
 ## What it is
 MCP server `X (Twitter)`, catalogued on PulseMCP. Integrates with the X API v2 to enable post, search, and reply to tweets.

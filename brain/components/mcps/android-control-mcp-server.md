@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T04:54:00Z"
 ---
 ## What it is
 Enables AI assistants to observe, reason about, and control connected Android devices via ADB, providing tools for screenshots, UI hierarchy parsing, semantic element clicking, gestures, text input, and app lifecycle management.

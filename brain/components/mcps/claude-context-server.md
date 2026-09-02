@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T05:42:13Z"
 ---
 ## What it is
 An MCP server that reads all your Claude Code project memory files and exposes them as tools. Lets any Claude instance — in any project, or via Claude.ai — query your full project history and preferences.

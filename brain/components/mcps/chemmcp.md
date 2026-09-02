@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2025-06-09T04:51:52Z"
 ---
 ## What it is
 ChemMCP is an easy-to-use and extensible chemistry toolkit for LLMs and AI assistants, enabling molecular analysis, property prediction, and reaction synthesis tasks without domain-specific training.

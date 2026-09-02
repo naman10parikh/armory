@@ -8,10 +8,12 @@ source_url: https://github.com/b-open-io/bsv-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-07-30T19:29:27Z"
 ---
 ## What it is
 MCP server `Bitcoin SV Wallet`, catalogued on PulseMCP. Integrates with Bitcoin SV blockchain to enable wallet operations, transaction management, and NFT interactions while maintaining local private key security

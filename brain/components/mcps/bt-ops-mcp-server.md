@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T14:22:54Z"
 ---
 ## What it is
 An MCP server for controlled server operations via BaoTa Panel, providing 50+ tools for system, site, database, files, cron, Docker, and network management with safety features like permission tiers, credential masking, and audit logs.

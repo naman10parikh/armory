@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-21T15:14:22Z"
 ---
 ## What it is
 Enables to search, draft, and profile from your X/Twitter archive locally via MCP tools.

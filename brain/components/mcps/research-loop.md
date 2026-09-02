@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T22:38:57Z"
 ---
 ## What it is
 Enables AI-moderated interviews that become cited, searchable transcripts, with a repository Q&A tool that returns exact transcript quotes.

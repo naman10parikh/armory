@@ -8,10 +8,12 @@ source_url: https://github.com/hhhh124hhhh/godot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-15T14:02:28Z"
 ---
 ## What it is
 MCP server `Godot Engine`, catalogued on PulseMCP. Bidirectional Godot engine integration for natural language game development with scene manipulation and GDScript editing

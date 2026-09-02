@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-17T20:07:58Z"
 ---
 ## What it is
 MCP server `Prompt Optimizer`, catalogued on PulseMCP. Score and rewrite prompts using a hybrid rule engine with optional Claude or OpenAI LLM enhancement.

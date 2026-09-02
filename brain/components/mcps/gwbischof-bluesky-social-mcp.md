@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
 stars: 16
+forks: 7
+pushed_at: "2025-05-23T23:28:11Z"
 ---
 ## What it is
 An MCP server for interacting with Bluesky via the atproto client.

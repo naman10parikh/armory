@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T17:18:51Z"
 ---
 ## What it is
 A Model Context Protocol server that enables Claude to fully manage Google Calendar, including events, calendars, sharing, and availability checks through natural language.

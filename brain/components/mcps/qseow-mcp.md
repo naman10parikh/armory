@@ -8,11 +8,13 @@ source_url: https://github.com/rmterenzi/qseow-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T12:16:36Z"
 ---
 ## What it is
 An MCP server for Qlik Sense Enterprise on Windows (client-managed) that exposes the on-prem Qlik API surface as MCP tools, enabling agents to query, govern, and build against the site.

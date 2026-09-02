@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T21:33:35Z"
 ---
 ## What it is
 MCP server `Venmo`, catalogued on PulseMCP. Integrates with Venmo for sending money, requesting payments, searching users, and managing transactions.

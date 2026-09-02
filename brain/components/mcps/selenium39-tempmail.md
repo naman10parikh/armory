@@ -8,10 +8,12 @@ source_url: https://github.com/selenium39/mcp-server-tempmail
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-09T14:47:15Z"
 ---
 ## What it is
 MCP server `ChatTempMail`, catalogued on PulseMCP. Integrates with ChatTempMail API to create temporary email addresses, retrieve messages, and manage disposable email sessions for account verification, testing email flows, and privacy protection during online registrations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-24T12:28:06Z"
 ---
 ## What it is
 FastMCP server that exposes the YNAB API for budget management, enabling interaction with YNAB data through MCP tools.

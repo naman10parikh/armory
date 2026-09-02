@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-30T22:50:20Z"
 ---
 ## What it is
 MCP gateway bridging Claude Code with Google Calendar, Google Tasks, and GitHub for calendar/task management and GitHub operations via natural language.

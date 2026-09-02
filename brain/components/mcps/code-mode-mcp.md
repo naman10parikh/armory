@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T21:30:36Z"
 ---
 ## What it is
 Compose arbitrary MCP tools with JavaScript through one agent-agnostic stdio MCP server. It exposes an exec tool that enables dynamic tool discovery, schema inspection, and invocation with JavaScript code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:11:02Z"
 ---
 ## What it is
 Local MCP server for web search and page extraction, providing clean markdown from URLs, search results, site mapping, and research endpoints without API keys or accounts.

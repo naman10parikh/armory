@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-23T09:39:26Z"
 ---
 ## What it is
 Enables AI models to manage decentralized storage, hosting, and NFTs via Apillon's API.

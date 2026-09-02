@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, sports]
 stars: 3
+forks: 3
+pushed_at: "2026-01-19T17:31:33Z"
 ---
 ## What it is
 AI workout coach MCP server for Arvo. Access training data, workout history, personal records, body progress, and 29 fitness tools through Claude Desktop.

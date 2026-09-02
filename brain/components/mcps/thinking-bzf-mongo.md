@@ -8,10 +8,12 @@ source_url: https://github.com/thinking-bzf/mongo-mcp-go
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-10T10:08:37Z"
 ---
 ## What it is
 MCP server `MongoDB`, catalogued on PulseMCP. Enables natural language interaction with MongoDB databases for collection management, document operations, and index manipulation without writing complex queries.

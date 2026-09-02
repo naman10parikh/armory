@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:02:25Z"
 ---
 ## What it is
 Enables querying tax administrative proceedings (CARF) by CPF or CNPJ, providing read-only access to process information via a hosted MCP endpoint.

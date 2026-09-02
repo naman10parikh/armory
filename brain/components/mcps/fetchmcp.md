@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:57:11Z"
 ---
 ## What it is
 Fetches web pages and converts them to clean, LLM-ready Markdown, with optional JavaScript rendering and honest statuses when pages are blocked or need JS.

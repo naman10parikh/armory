@@ -8,10 +8,12 @@ source_url: https://github.com/chroma-core/chroma-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 550
+stars: 588
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 118
+pushed_at: "2025-09-17T20:20:13Z"
 ---
 ## What it is
 MCP server `Chroma`, catalogued on PulseMCP. Integrates with Chroma vector database to enable collection management, document operations, and vector search capabilities for knowledge bases and context-aware conversations.

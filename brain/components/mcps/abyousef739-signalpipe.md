@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T17:20:40Z"
 ---
 ## What it is
 MCP server `SignalPipe`, catalogued on PulseMCP. Agentic sales pipeline that detects buying-intent signals across the web, drafts AI-powered outreach, and nurtures prospects from cold to closed.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-27T16:58:15Z"
 ---
 ## What it is
 MCP server `GitHub PR Notion`, catalogued on PulseMCP. Fetches GitHub pull request changes and creates structured analysis reports in Notion pages for automated PR documentation workflows.

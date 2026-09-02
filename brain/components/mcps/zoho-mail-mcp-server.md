@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-23T07:11:53Z"
 ---
 ## What it is
 Enables AI assistants to manage Zoho Mail accounts, including sending/receiving emails, folder and label management, organization administration, and productivity tools like tasks and notes.

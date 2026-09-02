@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:50:58Z"
 ---
 ## What it is
 Verifies if a name appears in the Swiss SECO sanctions list for compliance and AML due diligence. It is a read-only, hosted MCP server with a single tool that works with any MCP client over HTTP.

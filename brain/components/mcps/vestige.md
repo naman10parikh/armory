@@ -8,11 +8,13 @@ source_url: https://github.com/samvallad33/vestige
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 608
+stars: 615
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 63
+pushed_at: "2026-09-01T22:48:08Z"
 ---
 ## What it is
 A local cognitive memory server for MCP-compatible AI agents, providing persistent, inspectable memory with spaced repetition, predictive retrieval, and a 3D dashboard, all running locally in a single Rust binary.

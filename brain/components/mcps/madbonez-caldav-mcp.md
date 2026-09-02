@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 14
+forks: 10
+pushed_at: "2025-11-28T15:55:56Z"
 ---
 ## What it is
 Universal MCP server for CalDAV protocol integration. Works with any CalDAV-compatible calendar server including Yandex Calendar, Google Calendar (via CalDAV), Nextcloud, ownCloud, Apple iCloud, and others. Supports creating events with recurrence, categories, priority, attendees, reminders, searching events, and retrieving events by UID.

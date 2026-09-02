@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T01:03:00Z"
 ---
 ## What it is
 A FastMCP server that enables AI agents to schedule notifications and reminders via Upstash QStash and NTFY.

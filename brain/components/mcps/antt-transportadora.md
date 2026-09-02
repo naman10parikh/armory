@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:20:05Z"
 ---
 ## What it is
 MCP server for checking the regulatory status of freight carriers licensed by ANTT (Brazilian National Land Transport Agency) using CPF, CNPJ, or RNTRC. Read-only tool that works with any MCP client over HTTP.

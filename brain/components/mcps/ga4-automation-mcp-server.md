@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-26T17:56:36Z"
 ---
 ## What it is
 This project is a Google Analytics 4 (GA4) automation server implemented as a Model Context Protocol (MCP) tool. It lets AI agents query GA4 data (reports, traffic sources, demographics, etc.) and also includes a simple connection test script.

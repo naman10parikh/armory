@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-01T20:00:39Z"
 ---
 ## What it is
 A Git-enforced filesystem MCP server that integrates git with filesystem operations, enforcing commits on writes, providing reads with history, and supporting staged branching.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T18:07:42Z"
 ---
 ## What it is
 MCP server exposing 95 categories of independent work, freelance, gig and side-income opportunities in Portugal (PT-PT) with real contacts. Hosted Streamable-HTTP endpoint plus npx stdio bridge for Claude Desktop / Cursor.

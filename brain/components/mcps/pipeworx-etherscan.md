@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:04:50Z"
 ---
 ## What it is
 MCP server `Etherscan`, catalogued on PulseMCP. Query Ethereum blockchain data including transactions, addresses, and contract activity via Etherscan.

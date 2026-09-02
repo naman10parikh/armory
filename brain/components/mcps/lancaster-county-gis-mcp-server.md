@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:38:19Z"
 ---
 ## What it is
 Enables querying and searching Lancaster County, Pennsylvania open geospatial datasets (parcels, addresses, zoning, public works) via ArcGIS Feature Services. Supports dataset search, layer query with SQL-like filters, and schema retrieval.

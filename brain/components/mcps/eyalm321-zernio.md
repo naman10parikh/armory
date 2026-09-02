@@ -8,10 +8,12 @@ source_url: https://github.com/eyalm321/zernio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-10T19:31:34Z"
 ---
 ## What it is
 MCP server `Zernio`, catalogued on PulseMCP. Connects to the Zernio social media management platform with 273 tools covering posts, analytics, inbox management, and advertising across 14+ social platforms.

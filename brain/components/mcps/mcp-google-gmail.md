@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-24T11:35:02Z"
 ---
 ## What it is
 A Python-based MCP server that bridges MCP-compatible clients with the Gmail API, enabling AI-driven email management through natural language commands.

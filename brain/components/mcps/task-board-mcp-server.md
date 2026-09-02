@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T07:57:49Z"
 ---
 ## What it is
 A task-board MCP server that provides tools to search, create, and update tasks, resources for reading the board, and prompts for standup and triage workflows.

@@ -8,10 +8,12 @@ source_url: https://github.com/wrxck/infrastructure-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-01T00:43:32Z"
 ---
 ## What it is
 MCP server `Infrastructure`, catalogued on PulseMCP. Orchestrates Cloudflare, Fleet, and Namecheap for automated domain onboarding and infrastructure management.

@@ -8,10 +8,12 @@ source_url: https://github.com/webconsulting/mcp-server-wsl-filesystem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-08-30T13:57:03Z"
 ---
 ## What it is
 MCP server `WSL Filesystem`, catalogued on PulseMCP. Provides a bridge between Windows and Linux environments by enabling access to WSL filesystem operations, allowing seamless reading, writing, editing, and management of files within WSL distributions directly from Windows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-22T00:44:27Z"
 ---
 ## What it is
 Exposes CEDARScript Editor through Model Context Protocol, enabling AI agents to perform semantic-aware code transformations with security features like path validation and dry-run mode.

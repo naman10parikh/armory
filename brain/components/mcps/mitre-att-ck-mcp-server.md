@@ -8,11 +8,13 @@ source_url: https://github.com/imouiche/complete-mitre-attack-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-22T01:21:44Z"
 ---
 ## What it is
 Enables AI-native access to the MITRE ATT\&CK framework, allowing LLMs and agents to query techniques, threat groups, software, and generate ATT\&CK Navigator layers for threat intelligence and security workflows.

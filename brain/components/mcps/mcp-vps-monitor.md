@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T10:05:29Z"
 ---
 ## What it is
 Provides system monitoring tools for VPS including CPU, memory, disk, network ping, top processes, and Docker status, with read-only architecture and security features.

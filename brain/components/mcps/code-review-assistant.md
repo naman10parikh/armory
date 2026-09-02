@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-06T16:38:42Z"
 ---
 ## What it is
 An MCP server that automates code review by providing syntax checking, code explanation, and improvement suggestions using a multi-agent system.

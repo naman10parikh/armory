@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:59Z"
 ---
 ## What it is
 MCP server `Junct Wormhole`, catalogued on PulseMCP. Auto-generated MCP server for Wormhole cross-chain transfers and bridge data.

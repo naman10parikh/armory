@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T18:58:36Z"
 ---
 ## What it is
 A local document search MCP server that indexes folders and provides hybrid keyword+semantic search, enabling users to chat with their documents via MCP clients like Claude Desktop or Claude Code.

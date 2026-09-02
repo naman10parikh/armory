@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T14:39:46Z"
 ---
 ## What it is
 Profile-driven MCP server for Google Cloud Text-to-Speech that exposes tools to synthesize text to speech, run diagnostics, and stop playback, with voice and settings locked per profile.

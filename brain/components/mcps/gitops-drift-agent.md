@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T18:15:47Z"
 ---
 ## What it is
 Enables detection and remediation of Kubernetes GitOps drift via MCP tools, supporting drift detection, policy evaluation, patch application, PR generation, and audit trail retrieval.

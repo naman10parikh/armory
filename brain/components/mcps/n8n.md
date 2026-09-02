@@ -13,6 +13,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 15
+forks: 0
+pushed_at: "2025-06-13T09:13:04Z"
 ---
 ## What it is
 MCP server `n8n`, catalogued on PulseMCP. Integrates with n8n workflow automation platform to enable natural language management of workflows, executions, credentials, users, and projects with support for both core and enterprise features.

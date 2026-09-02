@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-03T13:53:05Z"
 ---
 ## What it is
 Enables AI tools to discover, communicate with, and orchestrate AI agents over a decentralized peer-to-peer network with end-to-end encryption.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T20:31:08Z"
 ---
 ## What it is
 Pro Se Engine is an MCP server that provides 39 legal research tools across 6 government APIs, enabling AI agents to access case law, SEC filings, federal legislation, regulations, government contracts, and document processing workflows.

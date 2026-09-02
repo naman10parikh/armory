@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T15:10:02Z"
 ---
 ## What it is
 Compiles codebases into a layered knowledge graph, providing an MCP server with 16 tools for AI to navigate, understand, and analyze code before making changes.

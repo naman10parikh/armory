@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T01:45:13Z"
 ---
 ## What it is
 MCP server `OpenUnfurl`, catalogued on PulseMCP. Anonymous link unfurling API that returns clean JSON metadata for any public URL.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T00:18:20Z"
 ---
 ## What it is
 Minimal Todoist MCP server that provides direct passthrough to the Todoist REST API v2, supporting all HTTP methods via a single tool.

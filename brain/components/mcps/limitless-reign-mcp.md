@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T17:41:56Z"
 ---
 ## What it is
 A Discord MCP server SDK that connects AI assistants like Claude and ChatGPT to Discord, providing over 100 tools for natural language control of Discord servers, including channel, message, member, and role management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:07:29Z"
 ---
 ## What it is
 Provides Finnish Meteorological Institute weather data including forecasts, observations, and warnings through the MCP protocol.

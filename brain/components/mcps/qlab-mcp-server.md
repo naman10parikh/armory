@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T10:42:17Z"
 ---
 ## What it is
 Enables LLMs to control QLab live over OSC, including querying workspaces, managing cues, and sending raw OSC or AppleScript commands.

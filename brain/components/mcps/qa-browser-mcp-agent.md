@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T18:28:18Z"
 ---
 ## What it is
 An MCP server that enables browser-based QA testing of web applications using Playwright, with support for manual and AI-driven test execution and HTML reporting.

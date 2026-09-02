@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-08T02:09:26Z"
 ---
 ## What it is
 Search and reference your Claude Code conversation history directly from Claude, with full-text search, conversation viewing, and project browsing.

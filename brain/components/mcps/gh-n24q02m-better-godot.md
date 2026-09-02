@@ -8,10 +8,12 @@ source_url: https://github.com/n24q02m/better-godot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-09-02T00:48:13Z"
 ---
 ## What it is
 MCP server `Better Godot`, catalogued on PulseMCP. Composite tools for Godot Engine development with scene control, GDScript, and shader support.

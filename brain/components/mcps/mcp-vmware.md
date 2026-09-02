@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T16:27:19Z"
 ---
 ## What it is
 MCP server for managing VMware vCenter (vSphere 7/8) with 39 tools covering VMs, clusters, and ESXi hosts. Supports direct and jump host deployment modes.

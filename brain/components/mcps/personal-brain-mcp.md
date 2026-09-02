@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T19:12:57Z"
 ---
 ## What it is
 A personal-life database with 47 tools across 13 domains, enabling semantic search and retrieval of memories, food, home, health, and more from any MCP-aware AI client.

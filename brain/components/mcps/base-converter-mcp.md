@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:04:37Z"
 ---
 ## What it is
 An MCP server providing deterministic base conversions (binary, hex, octal, decimal, base64) for AI agents, eliminating hallucination risks in low-level data processing.

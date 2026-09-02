@@ -8,11 +8,13 @@ source_url: https://github.com/ast-grep/ast-grep-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 411
+stars: 455
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 1
+forks: 27
+pushed_at: "2026-08-29T17:59:09Z"
 ---
 ## What it is
 MCP server `ast-grep`, catalogued on PulseMCP. Bridges to the ast-grep code search tool for finding code patterns in projects using abstract syntax tree matching, enabling efficient code analysis and refactoring tasks.

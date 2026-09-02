@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-09-25T21:18:03Z"
 ---
 ## What it is
 Enables AI assistants to read sensor data from IoT devices and dispatch data collection tasks through a unified interface supporting multiple protocols.

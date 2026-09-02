@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T20:05:54Z"
 ---
 ## What it is
 Managed MCP server that enables AI assistants to run, analyze, and create mabl tests, and query results across workspaces.

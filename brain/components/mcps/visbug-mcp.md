@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T19:45:06Z"
 ---
 ## What it is
 Captures visual changes made with VisBug in the browser and exposes them to Claude Code via MCP, allowing developers to apply design modifications to source files directly from natural language.

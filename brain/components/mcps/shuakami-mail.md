@@ -8,10 +8,12 @@ source_url: https://github.com/shuakami/mcp-mail
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-11-12T08:02:52Z"
 ---
 ## What it is
 MCP server `Mail`, catalogued on PulseMCP. Enables AI assistants to send and receive emails directly through IMAP and SMTP protocols, bridging email services with conversation interfaces for seamless correspondence management.

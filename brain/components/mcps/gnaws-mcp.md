@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T18:28:00Z"
 ---
 ## What it is
 Enables AI agents to scan AWS accounts, build resource relationship graphs, detect unused resources, and export data via MCP tools.

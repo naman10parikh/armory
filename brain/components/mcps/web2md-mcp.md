@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T04:18:05Z"
 ---
 ## What it is
 Fetches any web URL and converts it to clean Markdown via the web2md service (Crawl4AI backend). Designed for ModelScope MCP Hub.

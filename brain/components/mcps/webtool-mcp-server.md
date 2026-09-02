@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-11T10:59:06Z"
 ---
 ## What it is
 Provides web browsing, multi-engine search, and news retrieval tools for local LLMs via the Model Context Protocol, optimized for low-token iterative access with outline-first browsing and selective drill-down.

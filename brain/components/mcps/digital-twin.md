@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T23:12:16Z"
 ---
 ## What it is
 Enables natural language control of a digital twin simulation pipeline for phone drop tests, converting LS-DYNA .k meshes to solid .k files with hand grip poses using 7 MCP tools.

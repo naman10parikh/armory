@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T20:36:26Z"
 ---
 ## What it is
 MCP server that searches French recipes from Marmiton, reads ingredients and steps, and rescales quantities to any number of servings without requiring an API key.

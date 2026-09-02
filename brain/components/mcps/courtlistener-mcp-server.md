@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-02-01T01:32:15Z"
 ---
 ## What it is
 Enables LLM-friendly access to the CourtListener legal database and eCFR for searching legal opinions, court cases, judges, documents, and federal regulations.

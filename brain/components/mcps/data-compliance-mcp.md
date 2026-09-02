@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T07:32:40Z"
 ---
 ## What it is
 MCP server `Data Compliance Classifier`, catalogued on PulseMCP. Classifies data sensitivity and compliance requirements across GDPR, HIPAA, PCI-DSS, and CCPA frameworks.

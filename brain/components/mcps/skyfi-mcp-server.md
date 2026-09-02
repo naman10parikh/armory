@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T15:00:15Z"
 ---
 ## What it is
 Provides access to SkyFi's satellite imagery API for searching, ordering, tasking, monitoring, and geographic operations through natural language.

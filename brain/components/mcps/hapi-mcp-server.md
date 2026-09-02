@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T19:12:52Z"
 ---
 ## What it is
 Enables developers to define, expose, and consume APIs using the Model Context Protocol with API-first design, built on OpenAPI specifications for robust schema validation and secure integration.

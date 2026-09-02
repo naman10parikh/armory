@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T21:35:15Z"
 ---
 ## What it is
 Enables agents and humans to manage a central ticket dispatcher via MCP, with tools to create, claim, renew, takeover, and submit tickets through a local HTTP server.

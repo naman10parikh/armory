@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T14:34:06Z"
 ---
 ## What it is
 An MCP server that translates your coding prompts from your native language into a target language, enabling you to learn a new language through immersion and spaced repetition while building software.

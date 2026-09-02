@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-05T18:45:48Z"
 ---
 ## What it is
 MCP bridge for MeshLab enabling mesh operations via HTTP and TCP backends using pymeshlab. Allows MCP clients to perform 3D mesh processing tasks through natural language.

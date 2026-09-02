@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T06:06:14Z"
 ---
 ## What it is
 Enables AI agents to investigate and resolve e-commerce order exceptions like damages, lost shipments, refunds, and replacements through a unified interface with built-in guardrails.

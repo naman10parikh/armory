@@ -8,10 +8,12 @@ source_url: https://github.com/infobip/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-07-17T12:00:10Z"
 ---
 ## What it is
 MCP server `Infobip`, catalogued on PulseMCP. Integration with the Infobip communication platform that allows you to reach your customers globally across any channel.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T20:15:30Z"
 ---
 ## What it is
 MCP server `Drengr`, catalogued on PulseMCP. Eyes and hands for AI agents on Android and iOS devices, enabling screen observation, interaction, and autonomous navigation via a single Rust binary.

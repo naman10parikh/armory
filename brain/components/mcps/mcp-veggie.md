@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T20:41:38Z"
 ---
 ## What it is
 Enables tracking of weekly vegetable box deliveries, translating Danish produce names, providing USDA-sourced freshness data, generating zero-waste recipes, and alerting on expiring items.

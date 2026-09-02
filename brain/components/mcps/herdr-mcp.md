@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T17:55:53Z"
 ---
 ## What it is
 Enables AI assistants to orchestrate Herdr coding agents by wrapping its Unix-socket JSON-RPC API, providing tools for agent management, layout editing, and terminal interaction.

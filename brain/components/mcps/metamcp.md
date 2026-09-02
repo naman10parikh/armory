@@ -8,10 +8,12 @@ source_url: https://github.com/metatool-ai/mcp-server-metamcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 154
+stars: 155
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 35
+pushed_at: "2025-06-25T08:57:33Z"
 ---
 ## What it is
 MCP server `MetaMCP`, catalogued on PulseMCP. Centralizes management of multiple AI services, providing secure API key handling and unified access for streamlined interactions across diverse platforms.

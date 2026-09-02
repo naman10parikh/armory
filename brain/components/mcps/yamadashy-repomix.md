@@ -8,10 +8,12 @@ source_url: https://github.com/yamadashy/repomix
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25548
+stars: 28161
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1509
+pushed_at: "2026-08-31T15:11:20Z"
 ---
 ## What it is
 MCP server `RepoMix`, catalogued on PulseMCP. Package codebases into AI-friendly single files with intelligent code structure preservation and token optimization.

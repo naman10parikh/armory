@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-25T17:07:52Z"
 ---
 ## What it is
 Enables video processing tasks such as resizing, audio extraction, and metadata inspection using FFmpeg, with base64 input/output for stateless and portable operation.

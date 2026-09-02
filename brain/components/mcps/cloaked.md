@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-05T20:52:44Z"
 ---
 ## What it is
 MCP server `Cloaked`, catalogued on PulseMCP. Trustless spending accounts for AI agents on Solana with on-chain enforced limits and zero-knowledge proofs.

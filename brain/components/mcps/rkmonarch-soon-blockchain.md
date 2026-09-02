@@ -8,10 +8,12 @@ source_url: https://github.com/rkmonarch/svm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-03T08:40:03Z"
 ---
 ## What it is
 MCP server `SOON Blockchain`, catalogued on PulseMCP. Bridges Claude AI with SOON blockchain networks for real-time wallet balance checks, transaction retrieval, and token holdings using Solana Web3.js library

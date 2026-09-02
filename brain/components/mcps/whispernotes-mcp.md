@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T09:52:08Z"
 ---
 ## What it is
 Search, read, and create speech-to-text transcripts on-device with the Whisper Notes Mac app. The MCP server is built into the app (macOS, Apple Silicon) and serves over a local Unix socket — 100% offline, no open ports.

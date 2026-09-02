@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T18:55:17Z"
 ---
 ## What it is
 Checks your local development environment for common issues like wrong Node version, missing Docker, missing git config, missing .env keys, and busy ports, and provides fixes.

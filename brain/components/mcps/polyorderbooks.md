@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T16:25:34Z"
 ---
 ## What it is
 Historical Polymarket order book depth — full L2 bid/ask ladders at 1-second resolution on resolved markets, plus prices, spread and liquidity. Polymarket archives no order book history, so this serves depth captured live.

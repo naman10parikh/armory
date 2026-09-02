@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T06:07:22Z"
 ---
 ## What it is
 Enables AI assistants to search the Swiss Central Business Name Index (Zefix) for companies by name or UID, with optional filters, and retrieve full company details including address, legal form, history, and representatives.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T10:39:15Z"
 ---
 ## What it is
 MCP server for evidence-aware video research, providing tools to analyze local videos, inspect specific time windows, and analyze Bilibili videos with provenance tracking and optional audio removal for privacy.

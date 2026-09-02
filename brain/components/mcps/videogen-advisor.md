@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T23:01:03Z"
 ---
 ## What it is
 A unified MCP server for video generation that intelligently routes requests to HeyGen (for avatar/presenter videos) or Google Veo (for creative/cinematic content).

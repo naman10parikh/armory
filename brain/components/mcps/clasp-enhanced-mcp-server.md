@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-04T20:24:01Z"
 ---
 ## What it is
 Provides comprehensive management of Google Apps Script projects via clasp CLI, enabling AI assistants to create, clone, deploy, and run scripts with full version control and deployment management.

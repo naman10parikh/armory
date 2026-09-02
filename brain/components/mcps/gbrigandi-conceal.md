@@ -8,10 +8,12 @@ source_url: https://github.com/gbrigandi/mcp-server-conceal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-24T06:26:01Z"
 ---
 ## What it is
 MCP server `Conceal`, catalogued on PulseMCP. Proxy server that intercepts communications to automatically detect and replace personally identifiable information with consistent fake data using configurable regex patterns and optional LLM-based detection, maintaining semantic meaning while ensuring privacy compliance.

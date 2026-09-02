@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T09:01:31Z"
 ---
 ## What it is
 MCP server `Telegram Notifier`, catalogued on PulseMCP. Sends Telegram notifications including messages, photos, and documents via Claude.

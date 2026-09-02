@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:29:09Z"
 ---
 ## What it is
 Enables AI agents to start and stop native GNOME Shell screen recordings via MCP tools, returning JSON with file path, size, and duration without depending on ffmpeg or wf-recorder.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T12:27:29Z"
 ---
 ## What it is
 MCP server wrapping the Akamai mPulse Query API v2 to fetch RUM aggregate data (summaries, histograms, per-minute time series) with loss-free numbers for downstream statistical analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T13:42:56Z"
 ---
 ## What it is
 Enables AI agents to use Feishu (Lark) spreadsheets as long-term memory and personal knowledge base with retrieval-augmented generation (RAG) via the Model Context Protocol.

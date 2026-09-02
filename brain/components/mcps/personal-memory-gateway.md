@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T18:13:18Z"
 ---
 ## What it is
 A privacy-first memory layer for AI that securely bridges local knowledge with AI assistants through MCP tools, with intelligent redaction and local vector database.

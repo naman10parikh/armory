@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T16:55:17Z"
 ---
 ## What it is
 Analyzes images, audio, and video using Google's Gemini AI, with support for downloading videos from URLs such as Bilibili and YouTube.

@@ -12,6 +12,8 @@ stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-04-01T15:48:36Z"
 ---
 ## What it is
 MCP server `Storybook`, catalogued on PulseMCP. Integrates with Storybook documentation to extract component information, props data, and custom design system elements like icons and color palettes using browser automation and JavaScript execution.

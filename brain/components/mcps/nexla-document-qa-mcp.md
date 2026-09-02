@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T00:27:26Z"
 ---
 ## What it is
 A local MCP server that answers natural language questions over a collection of research PDFs, using semantic retrieval and Gemini for grounded answers with citations.

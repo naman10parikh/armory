@@ -8,10 +8,12 @@ source_url: https://github.com/elgentos/magento2-dev-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-04-15T13:43:42Z"
 ---
 ## What it is
 MCP server `Magento 2 Development`, catalogued on PulseMCP. Integrates with Magento 2 through n98-magerun2 to provide cache management, module operations, configuration control, database querying, and deployment tools for streamlined e-commerce development workflows.

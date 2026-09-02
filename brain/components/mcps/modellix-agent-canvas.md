@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T04:02:46Z"
 ---
 ## What it is
 A local stdio MCP server for visual AI work, offering an Excalidraw infinite canvas, image generation and editing, HTML drafts, presentations, and durable task recovery within a project workspace.

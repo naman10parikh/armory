@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/dune-analytics-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-05-04T01:51:29Z"
 ---
 ## What it is
 MCP server `Dune Analytics`, catalogued on PulseMCP. Integrates with Dune Analytics API to provide direct access to blockchain data through tools for retrieving existing query results and executing on-demand queries in CSV format.

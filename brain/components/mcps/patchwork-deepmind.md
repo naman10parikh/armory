@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T20:51:34Z"
 ---
 ## What it is
 MCP server for the Behringer DeepMind 12 synthesizer. Gives AI agents real-time control over synth parameters via MIDI NRPN, plus edit-buffer snapshots via SysEx.

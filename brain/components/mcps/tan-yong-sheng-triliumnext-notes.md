@@ -8,10 +8,12 @@ source_url: https://github.com/tan-yong-sheng/triliumnext-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-24T07:09:01Z"
 ---
 ## What it is
 MCP server `TriliumNext Notes`, catalogued on PulseMCP. Integrates with TriliumNext Notes for creating, retrieving, updating, searching, and deleting notes through conversation, enabling seamless knowledge base management without context switching.

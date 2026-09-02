@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-22T07:05:58Z"
 ---
 ## What it is
 Collect YouTube trending videos without web scraping via yt-dlp MCP server. No API keys required, supports category filtering and daily rankings.

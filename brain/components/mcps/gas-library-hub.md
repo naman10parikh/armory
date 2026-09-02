@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-26T12:47:30Z"
 ---
 ## What it is
 MCP server `GAS Library Hub`, catalogued on PulseMCP. Search and discover Google Apps Script libraries with AI-generated summaries

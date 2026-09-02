@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T05:11:41Z"
 ---
 ## What it is
 A comprehensive GitHub project dashboard for MCP that monitors multiple repositories, pull requests, issues, deployments, and health status through AI assistants.

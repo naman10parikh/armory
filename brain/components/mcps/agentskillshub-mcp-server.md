@@ -8,11 +8,13 @@ source_url: https://github.com/zhuyansen/agentskillshub-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T02:05:08Z"
 ---
 ## What it is
 Enables AI agents to search, audit, and install open-source AI skills and MCP servers with security grading and quality scoring, directly from MCP clients.

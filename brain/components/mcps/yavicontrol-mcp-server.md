@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T15:04:35Z"
 ---
 ## What it is
 Enables AI agents to control your existing Chrome browser via MCP, using your logged-in sessions for automation on authenticated sites. Provides high-level browser tools plus raw CDP and Chrome API access.

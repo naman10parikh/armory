@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T10:16:51Z"
 ---
 ## What it is
 A secure, local communication runtime bridge that interfaces a cloud-based Large Language Model (Claude Desktop) with a local machine execution environment using the Model Context Protocol (MCP).

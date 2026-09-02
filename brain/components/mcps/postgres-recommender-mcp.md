@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T14:25:11Z"
 ---
 ## What it is
 Enables read-only SQL analytics and ALS collaborative filtering recommendations on a Postgres e-commerce database.

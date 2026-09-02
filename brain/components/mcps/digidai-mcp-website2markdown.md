@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-15T10:40:18Z"
 ---
 ## What it is
 Converts any web page to clean Markdown, handling JS-heavy SPAs, paywalled content, and Chinese platforms through a 5-layer fallback pipeline and 14 site adapters.

@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 1223
+stars: 1242
+forks: 156
+pushed_at: "2026-08-02T15:15:01Z"
 ---
 ## What it is
 Self-hosted MCP Server registry for enterprise AI Agents

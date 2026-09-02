@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T19:56:33Z"
 ---
 ## What it is
 A complete MCP server integrating Gmail and Google Docs, enabling email management (list, send, search, reply) and document operations (create, edit, search, share) through natural language.

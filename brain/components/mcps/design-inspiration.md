@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:17:43Z"
 ---
 ## What it is
 Searches design platforms for UI references and extracts design tokens such as colors, typography, spacing, and shadows from live websites.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T20:52:18Z"
 ---
 ## What it is
 Provides cryptocurrency market data (prices, symbols) and a gated demo trading flow via MCP tools, with safety defaults like dry-run and confirmation gates.

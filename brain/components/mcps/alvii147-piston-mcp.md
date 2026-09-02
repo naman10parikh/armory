@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, code-execution]
 stars: 9
+forks: 3
+pushed_at: "2026-02-22T20:04:06Z"
 ---
 ## What it is
 MCP server that lets LLMs execute code through the Piston remote code execution engine, with a zero-config `uv` setup and a ready-to-use Claude Desktop config example.

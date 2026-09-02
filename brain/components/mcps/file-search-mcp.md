@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T08:07:16Z"
 ---
 ## What it is
 Search local file contents recursively with keyword matching

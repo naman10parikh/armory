@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T12:43:05Z"
 ---
 ## What it is
 MCP server that lets AI clients drive the dfxm-geo dark-field X-ray microscopy forward model, enabling config validation, reflection enumeration, and preview-scale simulations.

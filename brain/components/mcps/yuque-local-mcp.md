@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-23T07:42:31Z"
 ---
 ## What it is
 本地语雀 MCP 服务器，通过浏览器登录态访问语雀，支持读取、创建和编辑文档，具有知识库白名单和只读模式等安全特性。

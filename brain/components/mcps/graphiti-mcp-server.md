@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 21
+pushed_at: "2025-08-06T20:56:44Z"
 ---
 ## What it is
 This MCP server extracts entities and relationships from text and stores them in Neo4j, supporting multiple isolated knowledge graph projects that share the same database.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T15:51:14Z"
 ---
 ## What it is
 A Model Context Protocol server for Gmail that lets AI assistants read, send, search, label, and filter Gmail through natural language, with OAuth2 auto-authentication and full attachment support.

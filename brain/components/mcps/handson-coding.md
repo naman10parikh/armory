@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T14:58:29Z"
 ---
 ## What it is
 Enables recording and analyzing coding practice attempts, comparing LLM verdicts with platform results, and gradually improving LLM judgment through correction rules.

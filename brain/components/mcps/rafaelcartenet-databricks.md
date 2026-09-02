@@ -8,10 +8,12 @@ source_url: https://github.com/rafaelcartenet/mcp-databricks-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-03-28T09:28:23Z"
 ---
 ## What it is
 MCP server `Databricks`, catalogued on PulseMCP. Integrates with Databricks to execute SQL queries, list schemas, and describe table structures using the Statement Execution API for data exploration and analysis tasks

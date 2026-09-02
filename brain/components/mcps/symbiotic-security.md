@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-15T13:46:17Z"
 ---
 ## What it is
 MCP server `Symbiotic Security`, catalogued on PulseMCP. Security scanning and vulnerability analysis for code and infrastructure

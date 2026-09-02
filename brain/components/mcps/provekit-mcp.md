@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T03:11:05Z"
 ---
 ## What it is
 Provides AI agents with a hardened code security scanner via scan_code and scan_path, detecting leaked secrets and insecure patterns while enforcing strict path confinement and resource bounds.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T03:06:50Z"
 ---
 ## What it is
 MCP server `Git Coordination`, catalogued on PulseMCP. Coordinate multiple AI agents on shared repositories to prevent conflicts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:58:04Z"
 ---
 ## What it is
 Exposes a live application's runtime state to coding agents, including logs, DB schema, config, and feature flags, with read-only SQL and secret redaction.

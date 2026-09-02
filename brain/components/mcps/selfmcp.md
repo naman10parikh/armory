@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T17:58:16Z"
 ---
 ## What it is
 A personal MCP server that exposes your profile (bio, skills, projects, work experience) as structured tools for any MCP-compatible AI client, secured with OAuth 2.1 and Dynamic Client Registration.

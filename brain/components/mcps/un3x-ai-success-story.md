@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-06T19:40:24Z"
 ---
 ## What it is
 MCP server `AI Success Story`, catalogued on PulseMCP. Browse and share AI agent success stories to inspire and learn from real-world AI workflows.

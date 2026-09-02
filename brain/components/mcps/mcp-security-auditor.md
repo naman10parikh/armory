@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T18:37:26Z"
 ---
 ## What it is
 An LLM-powered vulnerability auditor for MCP servers that catches semantically-equivalent attacks by using a local LLM grounded by retrieval against known attack patterns.

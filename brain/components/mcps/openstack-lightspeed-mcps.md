@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-10T07:04:28Z"
 ---
 ## What it is
 Exposes the full openstack and oc CLIs as MCP tools with read-only by default, dynamic/static credentials, and DNS rebinding protection.

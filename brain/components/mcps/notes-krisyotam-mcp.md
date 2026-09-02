@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T05:51:16Z"
 ---
 ## What it is
 Provides access to public notes and bibliography from notes.krisyotam.com, with tools for searching, fetching, listing notes, tags, backlinks, and bibliography metadata. Enforces public-only state and does not expose arbitrary SQL.

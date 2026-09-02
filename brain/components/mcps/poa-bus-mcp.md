@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-10T23:47:20Z"
 ---
 ## What it is
 Access bus stops, routes, and real-time information for Porto Alegre's public transportation system.

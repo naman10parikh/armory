@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T12:02:49Z"
 ---
 ## What it is
 Enables creating, listing, and searching project-based documentation with Markdown content, table of contents, full-text search, and multi-client support via Streamable HTTP transport.

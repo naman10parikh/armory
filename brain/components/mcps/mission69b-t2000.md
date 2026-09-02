@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 23
+forks: 6
+pushed_at: "2026-08-31T02:31:11Z"
 ---
 ## What it is
 Non-custodial DeFi banking for AI agents on Sui. 35 tools, 20 prompts for save, borrow, invest, exchange, send, pay — with auto yield optimization across NAVI, Suilend, and Cetus.

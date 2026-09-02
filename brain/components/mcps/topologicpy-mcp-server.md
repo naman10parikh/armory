@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-17T20:01:05Z"
 ---
 ## What it is
 Enables LLMs to perform architectural spatial modeling through natural language, including creating, manipulating, and analyzing 3D building models using TopologicPy.

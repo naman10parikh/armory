@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T16:01:03Z"
 ---
 ## What it is
 Enables automation of Thermo Scientific Amira-Avizo on Windows by discovering, inspecting, and creating workflows, and launching Avizo or its bundled Python.

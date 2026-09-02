@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:43:38Z"
 ---
 ## What it is
 An MCP server that helps Claude design, scaffold, and validate MCP servers compatible with the mcp-deploy platform, enabling seamless creation and deployment of new MCP workers.

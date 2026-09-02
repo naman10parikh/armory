@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-27T13:09:02Z"
 ---
 ## What it is
 Decompiles Java .class files, packages, and JARs into readable source code, enabling AI assistants to inspect Java bytecode.

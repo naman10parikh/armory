@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-20T04:36:17Z"
 ---
 ## What it is
 Connects AI tools to the Dovetail API, enabling them to interact with Dovetail features.

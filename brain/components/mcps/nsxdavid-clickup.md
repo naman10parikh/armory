@@ -12,6 +12,8 @@ stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-04-14T22:49:47Z"
 ---
 ## What it is
 MCP server `ClickUp`, catalogued on PulseMCP. Integrates with ClickUp API to enable workspace, task, document, and checklist management directly from conversations through Node.js-based tools and URI template resources.

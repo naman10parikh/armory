@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T18:03:29Z"
 ---
 ## What it is
 Enables connecting to AutoXEO Cloud, managing accounts and project bindings, and executing evidence-led GEO workflows from within Codex.

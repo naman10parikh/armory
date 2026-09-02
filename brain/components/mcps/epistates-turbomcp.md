@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, frameworks]
-stars: 95
+stars: 96
+forks: 21
+pushed_at: "2026-08-30T16:43:11Z"
 ---
 ## What it is
 TurboMCP SDK: Enterprise MCP SDK in Rust

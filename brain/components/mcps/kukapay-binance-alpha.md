@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/binance-alpha-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-05-14T09:59:26Z"
 ---
 ## What it is
 MCP server `Binance Alpha`, catalogued on PulseMCP. Tracks Binance Alpha trades in real-time by monitoring on-chain DEX router events and provides trading volume analysis and statistics to optimize alpha point accumulation strategies.

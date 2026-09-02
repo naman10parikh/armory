@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T19:45:51Z"
 ---
 ## What it is
 Post to Instagram, TikTok, LinkedIn, X (Twitter), Facebook, Threads and Bluesky from a single message. 1Social fits each caption to the network's limit, warns when a network needs an image, and schedules posts up to 30 days ahead. After publishing it reports each network separately — what landed, wh

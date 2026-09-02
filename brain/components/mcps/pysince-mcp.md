@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T16:21:50Z"
 ---
 ## What it is
 Provides tools for tracking file reads and staleness, enabling LLM agents to detect when files have changed between turns for improved context awareness.

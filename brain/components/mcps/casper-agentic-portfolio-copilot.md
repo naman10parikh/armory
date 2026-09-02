@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T11:59:47Z"
 ---
 ## What it is
 AI-driven portfolio dashboard and MCP server for the Casper blockchain, enabling wallet monitoring, validator staking analysis, RWA compliance checks, and on-chain transaction generation.

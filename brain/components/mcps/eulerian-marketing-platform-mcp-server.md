@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T11:00:14Z"
 ---
 ## What it is
 A proxy MCP server that bridges AI assistants to a remote Eulerian Marketing Platform, handling authentication and request forwarding for querying Eulerian API endpoints.

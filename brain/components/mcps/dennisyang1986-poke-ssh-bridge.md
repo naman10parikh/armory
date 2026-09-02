@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-10T07:59:03Z"
 ---
 ## What it is
 MCP server `Poke SSH Bridge`, catalogued on PulseMCP. MCP server bridging AI agents to remote servers via SSH using FastMCP.

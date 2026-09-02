@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T13:53:34Z"
 ---
 ## What it is
 Enables site-wide crawling of internal links with BFS traversal, time/title/URL filtering, and page operations like summarization and link clicking, with results persisted to SQLite.

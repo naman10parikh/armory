@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [four-layer-memory, learnings-append-only, consolidate-never-expand]
 tags: [memory, compression, archival, consolidation, maintenance]
+forks: 0
+pushed_at: "2026-06-10T03:59:01Z"
 ---
 
 ## What it is

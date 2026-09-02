@@ -8,11 +8,13 @@ source_url: https://github.com/vish288/mcp-gitlab
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-22T23:27:09Z"
 ---
 ## What it is
 MCP server for the GitLab REST API providing tools to manage projects, merge requests, pipelines, CI/CD variables, approvals, issues, and code reviews.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T03:47:59Z"
 ---
 ## What it is
 Enables AI assistants to trade on MetaTrader 5 on Linux by bridging the Windows-only MetaTrader5 package through Wine.

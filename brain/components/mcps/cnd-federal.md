@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:47:32Z"
 ---
 ## What it is
 Emits Brazilian federal tax clearance certificates (Certidão Negativa de Débitos) from CPF or CNPJ. Provides a single read-only tool for checking tax status of individuals or companies.

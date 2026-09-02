@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-03T07:11:17Z"
 ---
 ## What it is
 MCP server that securely reviews AI-generated code for vulnerabilities such as SQL injection, command injection, and hardcoded credentials.

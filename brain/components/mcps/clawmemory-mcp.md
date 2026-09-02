@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-26T19:23:51Z"
 ---
 ## What it is
 Enables claude.ai to append durable memory entries to an Obsidian vault on GitHub via tools for listing, reading, and appending markdown files.

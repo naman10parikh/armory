@@ -8,10 +8,12 @@ source_url: https://github.com/leshchenko1979/fast-mcp-telegram
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-08-23T22:18:44Z"
 ---
 ## What it is
 MCP server `Fast Telegram`, catalogued on PulseMCP. Production-ready Telegram integration with search, messaging, and HTTP-MTProto bridge

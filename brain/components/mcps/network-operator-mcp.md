@@ -8,11 +8,13 @@ source_url: https://github.com/bowling233/network-operator-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T08:03:12Z"
 ---
 ## What it is
 Enables agents to access network device management interfaces via SSH, keeping credentials on the server side. Supports both interactive terminal sessions and command execution on devices like Huawei VRP, MikroTik, and OpenWrt.

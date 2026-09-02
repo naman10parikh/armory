@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T18:46:38Z"
 ---
 ## What it is
 Provides AI agents with administrator-level control of the Origo Abroad platform via 56 MCP tools wrapping its REST API for students, CRM, loans, and more.

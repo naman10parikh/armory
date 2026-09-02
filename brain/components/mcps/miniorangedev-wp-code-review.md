@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-10-26T15:59:28Z"
 ---
 ## What it is
 MCP server `WordPress Code Review`, catalogued on PulseMCP. Validates WordPress PHP and JavaScript code against configurable coding standards and security patterns fetched from web-hosted markdown files, performing automated security scans for vulnerabilities like SQL injection and XSS while enforcing WordPress best practices for plugin and theme development.

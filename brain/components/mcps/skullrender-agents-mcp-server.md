@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T05:26:25Z"
 ---
 ## What it is
 Enables declarative agent manifest management and deterministic brief validation for the Presentador→Orquestador flow, with tools to list/get manifests and validate brief schemas.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T08:06:48Z"
 ---
 ## What it is
 A reusable MCP server template for AI agents to operate SDN network controllers via tools, built on FastMCP with Streamable HTTP and stdio support.

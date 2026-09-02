@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-08T18:18:17Z"
 ---
 ## What it is
 Enables agentic interaction with vanilla Pure Data by providing tools for live patch creation, inspection, and manipulation via an MCP server that synchronizes with a Pd bridge patch.

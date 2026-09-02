@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:28:01Z"
 ---
 ## What it is
 Enables image and video generation across GPT-Image, Gemini, Grok, and Jimeng with file-based outputs, multi-reference support, and model capability lookup.

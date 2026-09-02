@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T04:15:19Z"
 ---
 ## What it is
 Enables automated company formation across multiple jurisdictions with REST and MCP interfaces. Supports jurisdiction listing, requirement details, cost estimation, and secure API key management.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-10T09:02:19Z"
 ---
 ## What it is
 MCP server `Apple Notes`, catalogued on PulseMCP. Integrates with Apple Notes on macOS, enabling direct searching, reading, and creation of notes without leaving the Cursor editor.

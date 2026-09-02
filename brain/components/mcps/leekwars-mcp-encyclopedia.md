@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T09:33:34Z"
 ---
 ## What it is
 A standalone MCP server for read-only encyclopedia search and retrieval of Leekwars game knowledge, providing domain-aware tools to search and retrieve pages about chips, weapons, effects, and game mechanics.

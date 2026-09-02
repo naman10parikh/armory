@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T02:26:33Z"
 ---
 ## What it is
 An MCP server that runs in the browser, letting web pages register custom tools and prompts and expose them to an MCP client over WebSocket. Enables agents to drive UI, call page-scoped APIs, and get human-in-the-loop confirmation.

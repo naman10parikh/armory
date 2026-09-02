@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T00:42:41Z"
 ---
 ## What it is
 A personal MCP server that manages an Obsidian vault of project notes, provides scoped external research tools, and offers code-graph analysis via a proxied tree-sitter engine.

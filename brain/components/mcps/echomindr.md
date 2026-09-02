@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T14:58:25Z"
 ---
 ## What it is
 MCP server `Echomindr`, catalogued on PulseMCP. Search real founder decisions, lessons, and signals from 100+ startup podcasts.

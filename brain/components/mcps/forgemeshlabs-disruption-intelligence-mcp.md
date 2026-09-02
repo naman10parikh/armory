@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, real-estate]
 stars: 1
+forks: 0
+pushed_at: "2026-08-24T11:55:12Z"
 ---
 ## What it is
 AI-native commercial disruption intelligence for MCP clients and x402-powered agents. Supports WARN/layoff intelligence, company context, geospatial territory disruption, and x402 payment challenge inspection via the hosted Forgemesh API.

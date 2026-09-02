@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:58:34Z"
 ---
 ## What it is
 MCP server that provides guarded, audited, read-only access to ops tooling (alerts, metrics, logs, deploys, runbooks) and a triage agent that diagnoses incidents end-to-end with CI-verified root cause analysis.

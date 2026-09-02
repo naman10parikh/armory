@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T13:12:47Z"
 ---
 ## What it is
 A batteries-included server runtime for provider-backed agents, offering MCP, CLI, REST, and plugin support.

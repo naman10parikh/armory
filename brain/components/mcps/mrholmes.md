@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T18:17:31Z"
 ---
 ## What it is
 Enables users to execute OSINT tasks from 88 catalogued repositories through safe command surfaces, supporting authorized research and threat intelligence workflows.

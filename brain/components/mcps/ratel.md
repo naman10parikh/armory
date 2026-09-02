@@ -8,10 +8,12 @@ source_url: https://github.com/ratel-ai/ratel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-01T21:15:18Z"
 ---
 ## What it is
 MCP server `Ratel`, catalogued on PulseMCP. Exposes a Ratel tool catalog as a unified MCP server, managing connections to multiple upstream MCP servers with OAuth 2.1 authentication.

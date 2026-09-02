@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:44:51Z"
 ---
 ## What it is
 MCP server `Take the Meeting`, catalogued on PulseMCP. Meeting value assessor that evaluates whether a meeting is worth attending, heavily weighted toward declining.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T14:10:44Z"
 ---
 ## What it is
 A Node.js gateway that exposes FlureeDB functionality through MCP, enabling LLM clients to query, mutate, and manage Fluree ledgers interactively.

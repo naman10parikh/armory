@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-11-28T09:59:58Z"
 ---
 ## What it is
 Free MCP server for easy deployment and management of MCP tools via Docker, tailored for the Xiaozhi community.

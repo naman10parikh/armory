@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-27T13:22:14Z"
 ---
 ## What it is
 MCP server `Tesla (Tessie)`, catalogued on PulseMCP. Integrates with Tesla vehicles through the Tessie API to retrieve vehicle status information and execute control commands like locking, climate control, and charging management.

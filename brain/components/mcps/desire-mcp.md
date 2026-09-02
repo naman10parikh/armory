@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T12:07:35Z"
 ---
 ## What it is
 An MCP server implementing a desire-driven system for AI, managing nine drive dimensions, thought pools, and generating behavior suggestions and inner monologues. It provides tools to view status, trigger events, run heartbeats, and resolve thoughts with persistent storage.

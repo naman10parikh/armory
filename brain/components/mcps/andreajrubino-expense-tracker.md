@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-13T14:11:40Z"
 ---
 ## What it is
 MCP server `Expense Tracker`, catalogued on PulseMCP. Parses natural language expense descriptions to extract amounts, currencies, and dates, storing transactions in a local Excel file.

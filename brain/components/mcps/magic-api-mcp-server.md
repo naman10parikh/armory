@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-10T00:51:07Z"
 ---
 ## What it is
 Enables AI assistants to interact with Magic-API development environment, supporting script syntax query, API management, debugging, and knowledge search for efficient development.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:38:39Z"
 ---
 ## What it is
 Connects Claude to Tyme Wear's breathing sensor platform to analyze ventilatory data, activities, thresholds, and training zones.

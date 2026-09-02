@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T22:58:06Z"
 ---
 ## What it is
 Local-first memory server that stores notes, contacts, and future data as a unified entity graph, providing hybrid retrieval (vector + keyword) for AI assistants via MCP.

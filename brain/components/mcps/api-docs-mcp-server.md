@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T11:02:31Z"
 ---
 ## What it is
 Exposes OpenAPI/Swagger API documentation as MCP tools, enabling AI agents to search, inspect, and call API endpoints through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T11:13:33Z"
 ---
 ## What it is
 Identity and credential governance for AI agents. Every agent gets its own cryptographic identity, scoped short-lived credentials per platform, human approval on sensitive actions, and an immutable audit log.

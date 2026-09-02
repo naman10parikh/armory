@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-10-19T22:13:09Z"
 ---
 ## What it is
 Enables MCP clients to execute Mathematica code via wolframscript and verify mathematical derivations.

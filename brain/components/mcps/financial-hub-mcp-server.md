@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-17T03:03:45Z"
 ---
 ## What it is
 A TypeScript MCP server for financial data aggregation that connects AI assistants to SEC EDGAR filings, XBRL statements, FRED economic indicators, and real-time market data.

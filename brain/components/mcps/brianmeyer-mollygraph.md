@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T16:09:46Z"
 ---
 ## What it is
 MCP server `MollyGraph`, catalogued on PulseMCP. Local-first self-improving knowledge graph for AI agents with three-layer entity extraction, parallel graph and vector retrieval, and automated LoRA fine-tuning.

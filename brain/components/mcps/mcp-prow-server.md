@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-03-26T10:54:18Z"
 ---
 ## What it is
 Enables users to interact with Prow CI/CD systems, retrieving build logs and diagnosing PR build issues through natural language.

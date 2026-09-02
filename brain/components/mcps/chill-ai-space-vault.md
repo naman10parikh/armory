@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-28T23:56:59Z"
 ---
 ## What it is
 MCP server `Vault`, catalogued on PulseMCP. Credential isolation for AI agents — bots use passwords and API keys without seeing them in context.

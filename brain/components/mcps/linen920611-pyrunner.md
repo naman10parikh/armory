@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-03T08:04:27Z"
 ---
 ## What it is
 MCP server `PyRunner`, catalogued on PulseMCP. Executes Python code with a persistent Jupyter kernel, maintaining variables and state across multiple runs for data analysis and scripting workflows.

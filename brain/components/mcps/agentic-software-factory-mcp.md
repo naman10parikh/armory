@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T15:10:07Z"
 ---
 ## What it is
 Turns Cursor into a full software factory with 10 specialist agents (PM, Architect, Backend, Frontend, etc.) as a local MCP server, keeping code on your machine.

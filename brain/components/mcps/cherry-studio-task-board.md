@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T07:13:13Z"
 ---
 ## What it is
 Provides Kanban, Gantt, list views, multi-project management, and archiving for task management via MCP protocol, enabling Cherry Studio Agent to create, update, query, and organize tasks.

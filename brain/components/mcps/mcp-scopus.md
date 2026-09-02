@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-30T08:02:09Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve real academic papers from Scopus, preventing citation hallucination by providing accurate paper metadata, author info, and citation analysis.

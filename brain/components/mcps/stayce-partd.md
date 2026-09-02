@@ -8,10 +8,12 @@ source_url: https://github.com/stayce/partd-mcp-cloudflare
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T14:01:49Z"
 ---
 ## What it is
 MCP server `Part D`, catalogued on PulseMCP. CMS Medicare Part D drug spending and prescriber data.

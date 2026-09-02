@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T22:52:32Z"
 ---
 ## What it is
 MCP server `ACM-68000`, catalogued on PulseMCP. CPG product eligibility checker for AI agents — resolve product eligibility via the ACM-68000 DPU.

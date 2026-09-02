@@ -8,10 +8,12 @@ source_url: https://github.com/themaximoguys/max_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-15T19:41:27Z"
 ---
 ## What it is
 MCP server `IBM Maximo MAS 9.x`, catalogued on PulseMCP. Comprehensive integration with IBM Maximo Application Suite 9.x covering work orders, assets, inventory, service requests, purchase orders, preventive maintenance, and analytics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T18:12:03Z"
 ---
 ## What it is
 An MCP server that gives Claude the ability to watch any desktop window, detecting changes and providing compact image bundles for Claude's vision, enabling real-time screen-watching without API costs.

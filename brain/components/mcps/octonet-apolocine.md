@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T14:36:41Z"
 ---
 ## What it is
 MCP server `OctoNet`, catalogued on PulseMCP. Multi-protocol MCP server with access to 13 databases via zero-config deployment with support for REST, GraphQL, WebSocket, and SSE interfaces.

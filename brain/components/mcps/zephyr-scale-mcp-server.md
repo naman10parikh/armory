@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-06-05T08:52:16Z"
 ---
 ## What it is
 An MCP server for Zephyr Scale test management supporting Jira Cloud and Data Center. It enables creating, reading, and managing test cases and test runs via the Atlassian REST API with official API-compliant schemas.

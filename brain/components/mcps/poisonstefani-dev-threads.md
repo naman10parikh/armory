@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T21:37:43Z"
 ---
 ## What it is
 MCP server `Threads`, catalogued on PulseMCP. MCP server for the official Meta Threads API covering authentication, publishing, reading, replies, insights, and search operations.

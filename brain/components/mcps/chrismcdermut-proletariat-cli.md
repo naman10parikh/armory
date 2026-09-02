@@ -8,10 +8,12 @@ source_url: https://github.com/chrismcdermut/proletariat
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-09T02:43:43Z"
 ---
 ## What it is
 MCP server `Proletariat CLI`, catalogued on PulseMCP. Command-line task runner and workflow automation for development pipelines.

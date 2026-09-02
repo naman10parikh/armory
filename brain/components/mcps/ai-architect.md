@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T12:27:40Z"
 ---
 ## What it is
 An autonomous software-engineering pipeline for Claude Code that runs on real evidence: codebase intelligence tools, git analytics, deterministic verification rules, and zero LLM-judges-LLM. Every claim traces to a paper and every PR passes its own gates.

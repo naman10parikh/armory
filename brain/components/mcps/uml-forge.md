@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T17:15:54Z"
 ---
 ## What it is
 13 AI-powered UML diagram tools for coding agents. Generates class, sequence, state, ER, threat model, deployment and architecture diagrams in Mermaid syntax. Works in Claude Code, Cursor and Windsurf.

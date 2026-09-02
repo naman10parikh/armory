@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-13T04:34:18Z"
 ---
 ## What it is
 Provides a standardized interface to interact with Serpapi's search engine results API, enabling users to perform web searches and retrieve structured data.

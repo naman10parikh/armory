@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T09:03:52Z"
 ---
 ## What it is
 This MCP server lets an AI agent securely connect to a read-only SQLite store database, inspect its tables and schema, and run analytical SQL queries without modifying any data.

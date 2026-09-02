@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T12:39:46Z"
 ---
 ## What it is
 MCP server that provides full read/write access to the Bungie API for Destiny 2, enabling AI assistants to manage inventory, equipment, loadouts, subclass configuration, vendors, and account stats for a user's Destiny 2 characters. It runs locally with OAuth authentication and exposes 23 tools for c

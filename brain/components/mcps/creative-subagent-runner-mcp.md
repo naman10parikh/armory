@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T07:33:47Z"
 ---
 ## What it is
 A universal MCP server that runs creative sub-agents (chapter writer, auditor, reviser) by calling GPT/Gemini APIs via juxinapi, enabling structured writing and auditing workflows.

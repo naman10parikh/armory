@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-31T11:24:48Z"
 ---
 ## What it is
 MCP server offering text analysis tools for writing improvement, including spellcheck, readability, keyword analysis, passive voice detection, and AI-generated content detection.

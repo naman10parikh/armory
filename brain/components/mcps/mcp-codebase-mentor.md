@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-13T08:18:33Z"
 ---
 ## What it is
 An MCP server that acts as an AI mentor for any codebase using dual-layer indexing, enabling codebase initialization, tutorial generation, and semantic search.

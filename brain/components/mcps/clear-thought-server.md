@@ -8,11 +8,13 @@ source_url: https://github.com/chirag127/clear-thought-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1685
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 7
+pushed_at: "2026-08-27T21:44:35Z"
 ---
 ## What it is
 Provide enhanced problem-solving capabilities by leveraging systematic thinking, mental models, and debugging approaches. Enable structured reasoning and decision-making support for complex challenges. Facilitate integration with MCP-compatible clients for advanced cognitive workflows.

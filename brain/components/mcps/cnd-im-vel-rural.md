@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:30:17Z"
 ---
 ## What it is
 MCP server that issues Certidão Negativa de Débitos e Dívida Ativa da União for rural properties using the CIB, enabling debt status checks through natural language.

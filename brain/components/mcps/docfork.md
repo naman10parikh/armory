@@ -8,10 +8,12 @@ source_url: https://github.com/docfork/docfork
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 478
+stars: 488
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 39
+pushed_at: "2026-06-13T06:28:17Z"
 ---
 ## What it is
 MCP server `Docfork`, catalogued on PulseMCP. Retrieves up-to-date documentation and code examples for any software library through the Docfork API, automatically selecting relevant libraries and providing topic-focused documentation with configurable response size limits.

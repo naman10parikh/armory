@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T18:16:29Z"
 ---
 ## What it is
 Enables Claude to interact with the Open Finance Brasil APIs, allowing users to query accounts, balances, transactions, credit cards, PIX keys, initiate PIX payments, and view investments across supported Brazilian banks using natural language.

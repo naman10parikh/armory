@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T03:46:04Z"
 ---
 ## What it is
 An MCP server enabling natural language queries for TON blockchain data, including balance checks, transaction analysis, hot trends, trading patterns, and forensic investigations.

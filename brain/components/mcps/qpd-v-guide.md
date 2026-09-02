@@ -8,10 +8,12 @@ source_url: https://github.com/qpd-v/mcp-guide
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 64
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2024-12-19T06:40:27Z"
 ---
 ## What it is
 MCP server `MCP Guide`, catalogued on PulseMCP. Interactive tutorial and tools for understanding, implementing, and exploring MCP concepts and capabilities.

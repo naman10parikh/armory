@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T12:26:29Z"
 ---
 ## What it is
 An AI-powered developer assistant MCP server that provides filesystem tools (list_files, read_file, search_files, write_file) to help AI agents inspect, analyze, and modify real codebases via the Model Context Protocol.

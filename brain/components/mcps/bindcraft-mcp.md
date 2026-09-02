@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-22T15:24:52Z"
 ---
 ## What it is
 Model Context Protocol server for protein binder design using BindCraft via Docker, enabling structure prediction, sequence optimization, and scoring.

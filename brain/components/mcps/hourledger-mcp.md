@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T11:47:09Z"
 ---
 ## What it is
 MCP server that calculates work hours, overtime, and gross pay from clock in/out entries with support for federal, California, Alaska, Colorado, and Nevada overtime rules.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-11-08T22:45:51Z"
 ---
 ## What it is
 Enables AI assistants to manage media automation services like Sonarr, Radarr, Prowlarr, Bazarr, Overseerr, and Plex through natural language commands.

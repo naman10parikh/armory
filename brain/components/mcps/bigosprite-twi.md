@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-21T16:04:11Z"
 ---
 ## What it is
 MCP server `TWI (Text-to-Image)`, catalogued on PulseMCP. Integrates with machine learning models through the transformers library to generate images from text prompts with robust data validation and processing capabilities.

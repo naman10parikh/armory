@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T12:49:42Z"
 ---
 ## What it is
 Provides software design guidance via MCP, including SOLID principles, design patterns, pattern scaffolding, and heuristic code-smell detection to help review and refactor code.

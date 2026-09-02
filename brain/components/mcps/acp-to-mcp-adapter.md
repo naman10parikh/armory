@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-05-09T05:21:00Z"
 ---
 ## What it is
 Bridges Agent Communication Protocol (ACP) agents with Model Context Protocol (MCP) applications, allowing MCP clients such as Claude Desktop to discover and invoke ACP agents as tools and resources.

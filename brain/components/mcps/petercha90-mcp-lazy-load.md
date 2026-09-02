@@ -8,10 +8,12 @@ source_url: https://github.com/petercha90/mcp-lazy-load
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-15T13:42:06Z"
 ---
 ## What it is
 MCP server `MCP Lazy Load`, catalogued on PulseMCP. Proxy that lazy-loads MCP tools on demand to reduce context window token usage by 90%.

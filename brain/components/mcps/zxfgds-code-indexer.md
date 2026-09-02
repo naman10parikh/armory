@@ -8,10 +8,12 @@ source_url: https://github.com/zxfgds/mcp-code-indexer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-03-04T15:03:59Z"
 ---
 ## What it is
 MCP server `Code Indexer`, catalogued on PulseMCP. Indexes and retrieves code snippets using embedding models and vector databases, enabling efficient code search and analysis for software development tasks.

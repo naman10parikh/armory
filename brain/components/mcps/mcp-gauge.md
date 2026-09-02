@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T05:08:29Z"
 ---
 ## What it is
 An MCP server that enables coding agents to autonomously test, evaluate, and tune other MCP servers by acting as a proxy and providing linting, trace recording, evaluation, comparison, and reporting tools.

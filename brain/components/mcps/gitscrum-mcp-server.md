@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-12T23:38:52Z"
 ---
 ## What it is
 Enables AI assistants to manage projects, tasks, sprints, time tracking, and more through GitScrum.

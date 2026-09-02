@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-22T08:38:32Z"
 ---
 ## What it is
 MCP server `Volcengine Knowledge Base`, catalogued on PulseMCP. Connects to Volcengine's knowledge base API for searching and retrieving organizational information with customizable search parameters and authentication via Volcengine credentials.

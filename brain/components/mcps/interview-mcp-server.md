@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-11T23:44:46Z"
 ---
 ## What it is
 Intelligent interview assistant that parses resumes, generates interview questions, records conversations, and produces evaluation reports for technical interviews.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-25T14:27:36Z"
 ---
 ## What it is
 Enables private web search and webpage content extraction using a local SearxNG instance, prioritizing user privacy and autonomy.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:08:54Z"
 ---
 ## What it is
 AI-powered job search and resume customization MCP server that automates job searching and tailors resumes for each role.

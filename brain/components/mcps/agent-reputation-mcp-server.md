@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:21Z"
 ---
 ## What it is
 Enables AI agents to rate each other, track interaction outcomes, and compute trust scores, with features like submitting ratings, getting reputation profiles, leaderboards, and trust computation.

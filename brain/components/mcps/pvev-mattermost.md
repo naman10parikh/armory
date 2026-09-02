@@ -8,10 +8,12 @@ source_url: https://github.com/pvev/mattermost-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2025-03-10T16:16:08Z"
 ---
 ## What it is
 MCP server `Mattermost`, catalogued on PulseMCP. Integrates with Mattermost workspaces to enable channel listing, message history retrieval, posting, thread management, reactions, user information access, and topic monitoring for team communication platforms.

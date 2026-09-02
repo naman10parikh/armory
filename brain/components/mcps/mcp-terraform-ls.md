@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T16:41:18Z"
 ---
 ## What it is
 An MCP server that wraps terraform-ls to provide Terraform language intelligence as MCP tools, enabling AI assistants to understand and navigate Terraform codebases.

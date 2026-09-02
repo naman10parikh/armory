@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-04T13:57:10Z"
 ---
 ## What it is
 An MCP server that gives AI agents programmatic control over a live tldraw canvas, enabling diagram creation through natural language.

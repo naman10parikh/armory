@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T20:21:37Z"
 ---
 ## What it is
 Enables interaction with DigitalOcean services and tools through a unified API via the Model Context Protocol.

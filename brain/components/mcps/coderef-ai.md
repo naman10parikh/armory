@@ -8,11 +8,13 @@ source_url: https://github.com/keaizuizui/Coderef-Ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T06:47:36Z"
 ---
 ## What it is
 A tool for vibecoding personnel and non-programmers to perform static code audit, query knowledge graph, and generate project documentation via MCP protocol.

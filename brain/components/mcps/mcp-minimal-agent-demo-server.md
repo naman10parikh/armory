@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T14:24:51Z"
 ---
 ## What it is
 A demo MCP server exposing three simple tools (get_github_activity, get_site_content, contact_scott) to illustrate tool discovery and invocation within an LLM agent harness using the Model Context Protocol.

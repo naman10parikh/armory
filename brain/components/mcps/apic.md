@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T18:55:10Z"
 ---
 ## What it is
 A server that compiles a web app's public, read-only UI into verified, typed MCP tools, and fulfills user requests against those compiled flows.

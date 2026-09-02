@@ -8,11 +8,13 @@ source_url: https://github.com/Yookio-Z/AFSIM_MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-05-20T09:46:47Z"
 ---
 ## What it is
 Enables LLMs and AI agents to interact with AFSIM through standardized MCP tools for scenario management, entity/component control, simulation execution, and results analysis.

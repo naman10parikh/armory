@@ -8,10 +8,12 @@ source_url: https://github.com/tokidoo/crawl4ai-rag-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-08-08T20:58:10Z"
 ---
 ## What it is
 MCP server `Crawl4AI RAG`, catalogued on PulseMCP. Combines web crawling with vector search to enable content extraction, semantic indexing, and retrieval-augmented generation over web-based documentation and code repositories.

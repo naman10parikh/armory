@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T01:37:35Z"
 ---
 ## What it is
 Enables AI assistants to access options analysis data, market research tools, portfolio risk snapshots, and platform context via 32 tools.

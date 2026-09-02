@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T06:41:43Z"
 ---
 ## What it is
 Search and explore 1,100+ games with 69-dimension Gameplay DNA profiles and find similar games via AI-powered cosine similarity.

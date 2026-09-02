@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T12:06:24Z"
 ---
 ## What it is
 A minimal TypeScript MCP starter server that counts words and characters, ready to extend with custom tools.

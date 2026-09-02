@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T10:02:31Z"
 ---
 ## What it is
 Enables coding agents to turn CollectUI links or any image/GIF/video URL into a detailed design and motion brief with measured timings, easing curves, displacement, palette, and opt-in keyframes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T06:48:56Z"
 ---
 ## What it is
 An MCP server providing role-based access control for HR policies, exposing tools to list, retrieve, and check access to policy sections while filtering sensitive data by role.

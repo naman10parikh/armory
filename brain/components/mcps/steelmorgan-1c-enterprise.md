@@ -8,10 +8,12 @@ source_url: https://github.com/steelmorgan/spring-mcp-1c-copilot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-03T22:12:38Z"
 ---
 ## What it is
 MCP server `1C Enterprise`, catalogued on PulseMCP. Bridges 1C enterprise systems with reactive REST API endpoints and server-sent events for real-time business application integration and data synchronization.

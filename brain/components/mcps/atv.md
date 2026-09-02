@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T11:59:58Z"
 ---
 ## What it is
 Provides AI-native access to Aarna's tokenized yield vaults on Ethereum and Base, with tools for vault discovery, performance metrics, transaction building, and portfolio tracking.

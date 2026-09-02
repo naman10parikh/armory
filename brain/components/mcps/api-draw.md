@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T10:05:35Z"
 ---
 ## What it is
 MCP server for generating and editing images using gpt-image-2. Enables image creation, editing, listing, and retrieval via natural language tools.

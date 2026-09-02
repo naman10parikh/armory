@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T21:05:45Z"
 ---
 ## What it is
 Encrypts and stores API keys and environment variables locally, providing them to AI agents via MCP with tools for listing, describing, getting secrets, and running commands with secret values redacted.

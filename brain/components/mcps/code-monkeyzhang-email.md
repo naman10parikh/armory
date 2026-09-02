@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-19T15:15:56Z"
 ---
 ## What it is
 MCP server `Email`, catalogued on PulseMCP. Integrates with IMAP and SMTP email servers to enable comprehensive email management including sending messages with attachments, retrieving content, organizing conversations through threading, and automating email workflows.

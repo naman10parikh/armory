@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T04:38:22Z"
 ---
 ## What it is
 Provides read-only access to Old School RuneScape Wiki data, returning structured content with source provenance via MCP tools for searching pages, items, monsters, quests, shops, and drop sources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T00:44:36Z"
 ---
 ## What it is
 An MCP server that lets AI agents create and manage LighterPack packing lists — add gear, track weights, organize categories, and share lists, all through natural conversation.

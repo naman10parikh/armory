@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:41:23Z"
 ---
 ## What it is
 MCP server `Quiz Generator AI`, catalogued on PulseMCP. Python MCP server for quiz generation and educational assessment tools.

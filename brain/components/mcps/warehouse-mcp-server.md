@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T21:59:05Z"
 ---
 ## What it is
 An MCP server that provides safe, read-only access to a PostgreSQL warehouse, enabling schema introspection, guarded SQL queries, and truncated result reporting for LLMs.

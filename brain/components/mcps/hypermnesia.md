@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T04:40:32Z"
 ---
 ## What it is
 A semantic memory store for AI agents, enabling persistent memory across sessions via MCP tools with semantic search, scoped access, and local embeddings.

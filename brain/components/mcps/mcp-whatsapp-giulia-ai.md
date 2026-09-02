@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:32:59Z"
 ---
 ## What it is
 Enables LLM agents to operate WhatsApp through the Evolution API, providing tools to list groups, fetch message history, and send text messages to groups or individual phone numbers.

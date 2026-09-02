@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T17:16:57Z"
 ---
 ## What it is
 Provides 8 MCP tools for frontend design: load design system, generate components, scaffold pages, review consistency, extract tokens, check WCAG 2.2 AA, test responsiveness, and export to Figma.

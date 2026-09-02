@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T10:32:33Z"
 ---
 ## What it is
 Enables natural-language nutrition research for Indian foods, combining a curated knowledge base with hybrid RAG and specialized agents. Provides MCP tools for knowledge search, safe calculations, document retrieval, and optional live web search.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T17:58:22Z"
 ---
 ## What it is
 A FastMCP server that enables AI applications to navigate and query OpenAPI specifications, including resolving $ref pointers and inspecting paths and operations.

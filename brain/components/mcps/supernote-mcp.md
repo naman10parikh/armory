@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T00:38:47Z"
 ---
 ## What it is
 Enables AI agents to interact with Ratta Supernote e-ink tablets over Wi-Fi, allowing live screen capture, reading and rendering of handwriting notes, and file upload.

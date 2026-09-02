@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T15:28:30Z"
 ---
 ## What it is
 A local MCP server that maintains a persona profile (contact library) for AI assistants, allowing them to create, search, retrieve, supplement, and correct information about people mentioned in conversations via tools like search_profiles, get_profile, create_profile, update_profile, add_facts, upda

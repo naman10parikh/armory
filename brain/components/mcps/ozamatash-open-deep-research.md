@@ -8,10 +8,12 @@ source_url: https://github.com/teelaitila/deep-research-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 322
+stars: 323
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 33
+pushed_at: "2026-01-28T10:48:24Z"
 ---
 ## What it is
 MCP server `Open Deep Research`, catalogued on PulseMCP. Performs iterative, deep research on any topic by combining search engines, web scraping, and large language models to generate comprehensive markdown reports.

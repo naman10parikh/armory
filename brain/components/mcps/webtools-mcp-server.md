@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-27T10:56:53Z"
 ---
 ## What it is
 Provides comprehensive web analysis and auditing tools including HTML extraction, markdown conversion, screenshots, debugging, and Lighthouse-based performance, accessibility, and SEO audits, with token optimization for reduced usage.

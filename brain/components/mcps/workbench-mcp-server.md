@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T07:46:15Z"
 ---
 ## What it is
 Provides remote project access via MCP, enabling file operations, code search, git commands, and background Claude CLI execution.

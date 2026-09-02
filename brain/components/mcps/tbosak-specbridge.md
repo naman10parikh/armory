@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-03-18T15:07:49Z"
 ---
 ## What it is
 MCP server `Specbridge`, catalogued on PulseMCP. Automatically converts OpenAPI specifications into executable tools by scanning folders for spec files and generating corresponding endpoints with parameter validation, authentication support, and HTTP request handling.

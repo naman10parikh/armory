@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-13T13:40:50Z"
 ---
 ## What it is
 MCP server `Markmap`, catalogued on PulseMCP. Transforms Markdown content into interactive SVG mindmap visualizations using markmap.js libraries with support for custom themes, hierarchical structure analysis, and file operations.

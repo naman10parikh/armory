@@ -8,10 +8,12 @@ source_url: https://github.com/aras-workspace/claude-kvm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-06T22:38:17Z"
 ---
 ## What it is
 MCP server `Claude KVM`, catalogued on PulseMCP. Control remote desktops via VNC with a native Swift daemon and Apple Vision OCR.

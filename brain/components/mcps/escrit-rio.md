@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T23:43:41Z"
 ---
 ## What it is
 Enables peer-to-peer messaging and coordination between Claude Code sessions via a shared mail server, with tools for roster, ask, dm, inbox, board, and claim.

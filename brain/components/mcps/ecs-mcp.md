@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-21T07:59:24Z"
 ---
 ## What it is
 Monitor and analyze AWS ECS services, including service status, CloudWatch metrics, and load balancer integration.

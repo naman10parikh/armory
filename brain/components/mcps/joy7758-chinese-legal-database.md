@@ -8,10 +8,12 @@ source_url: https://github.com/joy7758/mcp-legal-china
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-23T21:03:01Z"
 ---
 ## What it is
 MCP server `Chinese Legal Database`, catalogued on PulseMCP. Provides access to Chinese legal regulations and laws through a structured database interface, enabling legal research and compliance queries within the Chinese legal system.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T15:05:00Z"
 ---
 ## What it is
 MySQL datasource MCP server for AI clients like Cursor and Claude Desktop, enabling SQL query execution via natural language.

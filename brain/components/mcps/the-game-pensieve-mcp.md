@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T18:28:05Z"
 ---
 ## What it is
 Read-only MCP server that proxies The Game Pensieve API over Streamable HTTP, letting AI assistants query a personal game collection via tools like search, filters, and summaries. Supports OAuth 2.1 enforcement and owner-scoped access.

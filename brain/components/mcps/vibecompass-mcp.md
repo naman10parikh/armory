@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T07:29:11Z"
 ---
 ## What it is
 MCP server that connects AI coding tools to VibeCompass projects for reading context and writing decisions, conflicts, and session notes.

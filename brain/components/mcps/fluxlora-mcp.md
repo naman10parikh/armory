@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-18T22:31:44Z"
 ---
 ## What it is
 An MCP server that lets users and autonomous agents generate high-quality images in a chosen artistic style by automatically discovering and applying open-source LoRA models.

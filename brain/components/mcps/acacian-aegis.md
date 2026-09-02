@@ -8,10 +8,12 @@ source_url: https://github.com/acacian/aegis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-29T14:36:46Z"
 ---
 ## What it is
 MCP server `Aegis`, catalogued on PulseMCP. Governs AI agent actions with YAML-based policies, approval gates, audit trails, and risk classification.

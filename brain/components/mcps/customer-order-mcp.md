@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T14:43:32Z"
 ---
 ## What it is
 A safe Python MCP server modeled on a Java reference, providing tools to create and search customers, create pending orders, list customer orders, and run health checks.

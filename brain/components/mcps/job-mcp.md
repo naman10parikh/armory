@@ -8,11 +8,13 @@ source_url: https://github.com/zvieli/TechJobMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:38:51Z"
 ---
 ## What it is
 Enables multi-source tech job search and application with CV-based skill extraction, deduplication, and scoring across HireMeTech, Comeet, and AllJobs, supporting autonomous or supervised workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T04:14:42Z"
 ---
 ## What it is
 A pluggable vector memory server for semantic search and long-term memory, with session-scoped and universal memory tools.

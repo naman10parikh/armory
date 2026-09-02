@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:31:54Z"
 ---
 ## What it is
 MCP server `Patents`, catalogued on PulseMCP. Queries patent records, inventors, and assignees from PatentsView.

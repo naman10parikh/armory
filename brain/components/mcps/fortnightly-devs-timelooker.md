@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-30T16:40:39Z"
 ---
 ## What it is
 MCP server `TimeLooker`, catalogued on PulseMCP. Automated web monitoring system that executes paid search tasks at scheduled intervals, detects genuine changes using duplicate detection, and sends email notifications when new results are found.

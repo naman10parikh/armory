@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T11:07:14Z"
 ---
 ## What it is
 Connects AI assistants to WordPress sites, enabling automated SEO analysis and fixes for meta tags, schema, content, images, and technical SEO via MCP tools.

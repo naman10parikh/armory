@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-06-26T23:11:18Z"
 ---
 ## What it is
 Enables sending and managing emails via Postmark, including email delivery with templates, template listing, and delivery statistics.

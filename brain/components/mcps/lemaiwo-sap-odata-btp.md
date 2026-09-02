@@ -8,10 +8,12 @@ source_url: https://github.com/lemaiwo/btp-sap-odata-to-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 127
+stars: 130
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 65
+pushed_at: "2026-05-22T22:17:20Z"
 ---
 ## What it is
 MCP server `SAP OData (BTP)`, catalogued on PulseMCP. Integrates with SAP OData services on Business Technology Platform to enable CRUD operations on SAP business data through automatically discovered service endpoints with configurable filtering and comprehensive query capabilities.

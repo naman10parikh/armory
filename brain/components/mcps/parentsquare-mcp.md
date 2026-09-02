@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T04:45:32Z"
 ---
 ## What it is
 MCP server that gives Claude read access to your ParentSquare parent account, enabling queries about school posts, calendars, messages, directory, signups, forms, payments, and files. It also parses image/PDF attachments so calendar flyers are accessible.

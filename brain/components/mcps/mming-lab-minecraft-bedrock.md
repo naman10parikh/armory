@@ -8,10 +8,12 @@ source_url: https://github.com/mming-lab/minecraft-bedrock-education-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-31T03:45:22Z"
 ---
 ## What it is
 MCP server `Minecraft Bedrock Edition`, catalogued on PulseMCP. Provides direct control over Minecraft Bedrock Edition through WebSocket connections, enabling agent movement, combat actions, world block manipulation, geometric building operations, player interactions, and environmental controls for automated gameplay and construction projects.

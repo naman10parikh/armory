@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
 stars: 86
+forks: 24
+pushed_at: "2026-09-01T12:06:31Z"
 ---
 ## What it is
 interact with Keboola Connection Data Platform. This server provides tools for listing and accessing data from Keboola Storage API.

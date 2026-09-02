@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, communication-services]
+forks: 2
+pushed_at: "2025-06-01T23:50:32Z"
 ---
 ## What it is
 Node.js chat app using Gemini function calling and an A2A server to interact with Google Maps APIs

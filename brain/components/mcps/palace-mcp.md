@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:26:36Z"
 ---
 ## What it is
 MCP server that exposes an Obsidian vault to AI assistants, enabling them to list, read, write, search, and delete notes via the Local REST API.

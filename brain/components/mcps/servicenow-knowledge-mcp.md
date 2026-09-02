@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:07:03Z"
 ---
 ## What it is
 Enables deterministic, read-only retrieval of ServiceNow Knowledge articles, including search, article details, and binary attachments, via the ServiceNow Knowledge Management REST API.

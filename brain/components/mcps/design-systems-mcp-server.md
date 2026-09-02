@@ -8,11 +8,13 @@ source_url: https://github.com/southleft/design-systems-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 198
+stars: 204
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 20
+pushed_at: "2026-08-09T00:34:59Z"
 ---
 ## What it is
 Enables AI-powered access to authoritative design systems knowledge, including W3C standards, WCAG guidelines, and best practices from 188+ curated entries via semantic vector search.

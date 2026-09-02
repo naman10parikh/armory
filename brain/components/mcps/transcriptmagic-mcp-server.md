@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T23:58:59Z"
 ---
 ## What it is
 Remote MCP server that generates transcripts from YouTube, TikTok, Instagram, and Facebook videos. Supports OAuth authentication and credit-based pricing.

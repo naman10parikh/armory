@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T12:43:23Z"
 ---
 ## What it is
 MCP server for the OpenAlex scholarly database, providing AI agents with tools to search and retrieve academic works, authors, and institutions via natural language queries.

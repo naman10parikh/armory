@@ -8,10 +8,12 @@ source_url: https://github.com/r-huijts/ns-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-08-26T08:45:18Z"
 ---
 ## What it is
 MCP server `NS Travel Information`, catalogued on PulseMCP. Access real-time Dutch Railways data for trip planning.

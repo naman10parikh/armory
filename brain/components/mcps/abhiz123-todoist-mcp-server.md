@@ -8,10 +8,12 @@ source_url: https://github.com/abhiz123/todoist-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 393
+stars: 392
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 72
+pushed_at: "2025-04-20T04:03:50Z"
 ---
 ## What it is
 MCP server `Todoist`, catalogued on PulseMCP. Create and manage tasks in Todoist through natural language.

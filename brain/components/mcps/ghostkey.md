@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T02:17:59Z"
 ---
 ## What it is
 MCP-native credential vault that enables AI agents to authenticate with external services without exposing secrets, supporting bearer, basic, OAuth2, and other auth patterns via MCP tools.

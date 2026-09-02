@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T08:16:04Z"
 ---
 ## What it is
 A local MCP server that turns an Obsidian vault into a searchable second brain for Claude with meaning-based search, note read/write, and insight reports like contradictions and stale TODOs.

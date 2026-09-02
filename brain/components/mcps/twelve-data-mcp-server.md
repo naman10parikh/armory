@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-26T12:03:27Z"
 ---
 ## What it is
 Enables fetching real-time and historical market data including forex, precious metals, cryptocurrencies, and stocks using the Twelve Data API.

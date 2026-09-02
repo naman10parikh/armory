@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T18:39:06Z"
 ---
 ## What it is
 Enables AI assistants to manage LXD containers and virtual machines through a standardized MCP interface for lifecycle management, image operations, and server monitoring.

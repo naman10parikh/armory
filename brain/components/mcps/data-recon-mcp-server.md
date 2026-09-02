@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-26T06:20:19Z"
 ---
 ## What it is
 An MCP server for data reconciliation between MySQL and Snowflake, enabling LLM agents to validate data integrity during migrations and ETL processes.

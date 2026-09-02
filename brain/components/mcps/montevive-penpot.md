@@ -8,10 +8,12 @@ source_url: https://github.com/montevive/penpot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 228
+stars: 237
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2025-11-01T09:19:10Z"
 ---
 ## What it is
 MCP server `Penpot`, catalogued on PulseMCP. Integrates with Penpot's API to enable project browsing, file retrieval, object searching, and visual component export with automatic screenshot generation for converting UI designs into functional code.

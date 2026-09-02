@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T16:21:43Z"
 ---
 ## What it is
 Enables full CRUD operations on HubSpot custom objects, complementing the official server that only handles standard objects.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T14:24:37Z"
 ---
 ## What it is
 Enables deterministic visual and structural analysis of PDF and DOCX documents, extracting measurable evidence such as blur, OCR confidence, and image anomalies for auditable forensic workflows.

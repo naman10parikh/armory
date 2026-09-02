@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T09:40:12Z"
 ---
 ## What it is
 查询和分析A股数据的MCP服务器，支持实时行情、K线、技术指标、基本面和AI选股等功能。

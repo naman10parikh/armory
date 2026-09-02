@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:28Z"
 ---
 ## What it is
 Enables AI agents to resize images from a URL with configurable dimensions and convert between PNG, JPEG, and WebP formats while preserving aspect ratio, using pay-per-call x402 micropayments.

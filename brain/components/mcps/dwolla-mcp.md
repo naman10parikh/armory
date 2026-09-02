@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T08:50:22Z"
 ---
 ## What it is
 Enables AI agents to retrieve and analyze Dwolla payment platform data using natural language, with read-only access to accounts, transfers, customers, and compliance information.

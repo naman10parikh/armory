@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-05-04T14:41:34Z"
 ---
 ## What it is
 MCP server `AWS Bedrock Nova Canvas`, catalogued on PulseMCP. Integrates with Amazon Bedrock's Nova Canvas model to generate images from text descriptions with customizable parameters like dimensions and seed control.

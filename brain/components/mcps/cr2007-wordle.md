@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T17:23:45Z"
 ---
 ## What it is
 MCP server `Wordle`, catalogued on PulseMCP. Fetches daily Wordle puzzle solutions from the New York Times API for any date between 2021-05-19 and 23 days into the future, enabling word pattern analysis and hint generation without spoiling the game experience.

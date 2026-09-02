@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T10:46:58Z"
 ---
 ## What it is
 An MCP server that enables AI applications to search YouTube music videos and manage playlists via the YouTube Data API v3, with OAuth support for playlist and subscription management.

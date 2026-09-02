@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-13T14:31:36Z"
 ---
 ## What it is
 MCP server `Aha!`, catalogued on PulseMCP. Access and manage Aha! product management features, sprints, and projects.

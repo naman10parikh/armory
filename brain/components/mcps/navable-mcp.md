@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T07:37:06Z"
 ---
 ## What it is
 Enables AI coding agents to perform real-browser accessibility scanning of localhost pages using Playwright and axe-core, returning WCAG 2.1 violations with structured fix plans.

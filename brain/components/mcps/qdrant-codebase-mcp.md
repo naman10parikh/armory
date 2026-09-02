@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T01:15:32Z"
 ---
 ## What it is
 Indexes codebases into Qdrant for semantic search, enabling AI assistants to find relevant code by meaning without re-exploring the repo.

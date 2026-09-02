@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-10T14:43:52Z"
 ---
 ## What it is
 MCP server `SQLite Explorer`, catalogued on PulseMCP. Integrates with SQLite databases to enable AI-driven schema exploration, querying, updates, and statistical analysis for efficient data management and rapid prototyping.

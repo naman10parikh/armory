@@ -8,10 +8,12 @@ source_url: https://github.com/boikot-xyz/boikot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-09-01T16:31:23Z"
 ---
 ## What it is
 MCP server `Company Ethics Information (Boikot)`, catalogued on PulseMCP. Learn about the ethical and unethical actions of major companies.

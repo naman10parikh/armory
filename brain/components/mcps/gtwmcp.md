@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T03:59:37Z"
 ---
 ## What it is
 Aggregates multiple MCP servers behind a single stdio interface, supporting stdio-based and HTTP SSE-based upstreams with OAuth.

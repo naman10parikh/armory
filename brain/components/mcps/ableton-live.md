@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-09T14:16:11Z"
 ---
 ## What it is
 MCP server `Ableton Live`, catalogued on PulseMCP. Provides real-time control and automation of Ableton Live through a dual-component architecture consisting of a Python Remote Script and external server that communicate via socket connections, enabling session management, MIDI clip operations, and browser integration for loading instruments and effects.

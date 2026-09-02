@@ -8,11 +8,13 @@ source_url: https://github.com/timescale/rsigma
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 133
+stars: 136
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2026-08-31T21:32:34Z"
 ---
 ## What it is
 RSigma is a Rust detection-engineering toolkit for the Sigma standard. Its MCP server (rsigma mcp serve) exposes the toolchain to AI agents over stdio or Streamable HTTP, with tools to author, lint, validate, and convert Sigma rules, evaluate and explain detections against log events, and inspect co

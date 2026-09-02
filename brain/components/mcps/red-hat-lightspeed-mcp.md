@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 38
+pushed_at: "2026-09-01T01:44:52Z"
 ---
 ## What it is
 A lightweight, self-hosted MCP server that connects LLM-based agents to Red Hat Lightspeed services, enabling natural language querying of read-only (and optionally write) operations across Advisor, Image Builder, Inventory, Planning, Remediations, and Vulnerability services.

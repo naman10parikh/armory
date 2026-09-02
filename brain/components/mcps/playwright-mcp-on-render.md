@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T15:25:24Z"
 ---
 ## What it is
 Deploys Microsoft's Playwright MCP server to Render, providing a public MCP URL for streamable HTTP or SSE connections. Enables browser automation and interaction via natural language in clients like Cursor, Cline, Claude, and VS Code.

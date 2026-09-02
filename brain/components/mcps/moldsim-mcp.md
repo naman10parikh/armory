@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-03T12:28:58Z"
 ---
 ## What it is
 An MCP server that gives AI assistants expert knowledge about injection molding simulation, providing tools for material properties, process validation, troubleshooting, and simulation specification generation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:11:25Z"
 ---
 ## What it is
 Enables natural language interaction with the Zenskar billing platform, covering customers, contracts, invoices, payments, accounting, products, plans, and more.

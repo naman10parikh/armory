@@ -8,10 +8,12 @@ source_url: https://github.com/jackkuo666/medrxiv-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-18T13:51:07Z"
 ---
 ## What it is
 MCP server `medRxiv Research`, catalogued on PulseMCP. Provides a specialized interface for searching and retrieving medical research articles from medRxiv using keyword-based searches, advanced filtering, and DOI metadata retrieval.

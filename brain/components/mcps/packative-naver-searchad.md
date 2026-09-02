@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-29T17:49:25Z"
 ---
 ## What it is
 MCP server `Naver SearchAd`, catalogued on PulseMCP. Integrates with Naver SearchAd API to manage Korean advertising campaigns, ad groups, and keywords while retrieving performance statistics with flexible date ranges and breakdown dimensions.

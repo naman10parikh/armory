@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T04:34:04Z"
 ---
 ## What it is
 Deploys a read-only MCP server to Cloudflare Workers for interacting with Canvas LMS, supporting courses, assignments, files, and more via a user-generated encrypted endpoint.

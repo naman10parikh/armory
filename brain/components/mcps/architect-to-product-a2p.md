@@ -8,11 +8,13 @@ source_url: https://github.com/BernhardJackiewicz/architect-to-product
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-09-01T10:26:41Z"
 ---
 ## What it is
 An MCP server that adds engineering discipline to AI-assisted development, enforcing evidence-gated TDD, security review, backup strategy, and deployment generation to turn AI-generated code into production-ready software.

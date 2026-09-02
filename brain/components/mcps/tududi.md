@@ -8,10 +8,12 @@ source_url: https://github.com/tududi/tududi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-06T15:01:04Z"
 ---
 ## What it is
 MCP server `Tududi`, catalogued on PulseMCP. Integrates with tududi task management system for task lifecycle management, project organization, and productivity analytics.

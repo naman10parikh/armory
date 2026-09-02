@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-09T19:24:06Z"
 ---
 ## What it is
 MCP server `Minecraft Survival`, catalogued on PulseMCP. Enables LLM agents to play and survive in Minecraft through high-level intent-based commands via Mineflayer.

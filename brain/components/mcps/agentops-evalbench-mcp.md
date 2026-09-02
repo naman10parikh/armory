@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:01:48Z"
 ---
 ## What it is
 Enables LLM evaluation and observability by uploading documents, building test sets, running RAG pipelines, and automatically scoring answers for groundedness, hallucination risk, retrieval quality, latency, and cost, with tools exposed to MCP-compatible clients.

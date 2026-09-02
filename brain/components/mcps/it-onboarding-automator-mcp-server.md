@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T18:50:03Z"
 ---
 ## What it is
 Enables AI assistants to inspect employee access, list failed onboarding events, and retry provisioning operations.

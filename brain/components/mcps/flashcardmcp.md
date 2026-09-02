@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-25T12:11:57Z"
 ---
 ## What it is
 Converts JSON/CSV Markdown content into interactive flashcard pages with multiple templates, PDF export, and voice support for language learning.

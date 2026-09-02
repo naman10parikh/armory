@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T06:19:58Z"
 ---
 ## What it is
 Issue verifiable credentials (diplomas, certificates, badges) for $0.10 USDC via x402 or an API key — registered on-chain on Celo, pinned to IPFS, verifiable via QR. Includes a free inline template preview to iterate layouts.

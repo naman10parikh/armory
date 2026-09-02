@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T05:11:58Z"
 ---
 ## What it is
 MCP server `ActTrace`, catalogued on PulseMCP. Classify AI systems under the EU AI Act and generate Article 50 transparency notices.

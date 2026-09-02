@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-10T14:04:34Z"
 ---
 ## What it is
 MCP server `Unleash`, catalogued on PulseMCP. Provides a bridge to the Unleash feature flag management system, enabling dynamic creation, retrieval, and management of feature flags across different development projects.

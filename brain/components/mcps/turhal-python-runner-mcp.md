@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T16:16:58Z"
 ---
 ## What it is
 Executes Python code in isolated subprocesses with resource limits and timeout, designed for safe execution in Docker containers.

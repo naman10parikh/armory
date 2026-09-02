@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T15:05:28Z"
 ---
 ## What it is
 MCP server `BrandKit`, catalogued on PulseMCP. Expose your company design system—colors, typography, logos, and tokens—to AI coding tools.

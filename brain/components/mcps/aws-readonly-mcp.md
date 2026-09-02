@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T04:51:05Z"
 ---
 ## What it is
 A read-only MCP server that lets an LLM inspect an AWS account — list EC2 instances, S3 buckets, IAM users, and cost — with a structural guarantee against any mutations.

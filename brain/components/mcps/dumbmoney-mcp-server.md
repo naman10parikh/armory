@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T23:42:14Z"
 ---
 ## What it is
 Enables querying reflection tokens on Solana, checking earnings, and discovering top earners via MCP tools.

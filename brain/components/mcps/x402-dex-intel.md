@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T14:41:32Z"
 ---
 ## What it is
 Real-time DEX token momentum, orderbook liquidity depth, and whale flows on Base Mainnet gated with gasless x402 micropayments.

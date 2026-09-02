@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T08:34:52Z"
 ---
 ## What it is
 A standalone MCP server that lets Claude Code, opencode, and other MCP clients control your real browser via the QoderWork browser connector extension, preserving login state and providing tools for navigation, clicking, typing, screenshots, and more.

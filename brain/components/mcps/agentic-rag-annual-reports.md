@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T10:17:36Z"
 ---
 ## What it is
 MCP server for retrieving and analyzing Indian IT-sector annual reports (TCS, Infosys, Wipro, HCLTech, Tech Mahindra, LTIMindtree) from FY2020-2024. Enables natural language questions with citations and refusal for out-of-corpus queries.

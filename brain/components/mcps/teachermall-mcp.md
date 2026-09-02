@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T02:39:08Z"
 ---
 ## What it is
 Enables natural language search of Teachermall products and provides smart recommendations for classroom kits, lesson materials, and budget-optimized shopping lists.

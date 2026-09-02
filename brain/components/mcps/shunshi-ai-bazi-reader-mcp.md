@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
 stars: 10
+forks: 4
+pushed_at: "2026-05-31T12:23:26Z"
 ---
 ## What it is
 Bazi (Four Pillars / 四柱推命 / 사주팔자) charting MCP server with true solar time correction and multilingual output (中文/EN/日本語/한국어). `npx shunshi-bazi-mcp`

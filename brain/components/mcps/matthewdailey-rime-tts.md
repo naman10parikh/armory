@@ -8,10 +8,12 @@ source_url: https://github.com/matthewdailey/rime-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-29T22:16:33Z"
 ---
 ## What it is
 MCP server `Rime Text-to-Speech`, catalogued on PulseMCP. Text-to-speech server that converts text into spoken audio through Rime's API, streaming with optimized buffering for minimal latency between generation and playback.

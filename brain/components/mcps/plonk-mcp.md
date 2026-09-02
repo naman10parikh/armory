@@ -8,11 +8,13 @@ source_url: https://github.com/ostapondo/Plonk
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T03:24:01Z"
 ---
 ## What it is
 Mac window manager AI agents can drive: see every monitor and window, apply multi-monitor layouts in one call, save and relaunch whole workspaces, snap zones, keep-awake, and annotated screenshots. Backed by a native macOS menu bar app over a local-only loopback API — no cloud, no telemetry.

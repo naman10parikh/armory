@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-21T13:36:27Z"
 ---
 ## What it is
 MCP server `Jira Project Management`, catalogued on PulseMCP. Wraps Jira Cloud REST API for AI-driven agile project management with sprint health monitoring, velocity tracking, and automated audits.

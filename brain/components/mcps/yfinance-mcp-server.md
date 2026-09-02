@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T13:21:34Z"
 ---
 ## What it is
 Provides AI-friendly stock analysis using Yahoo Finance data, including technical indicators, financial metrics, and Japanese reports.

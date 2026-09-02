@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T11:40:20Z"
 ---
 ## What it is
 Extract structured, schema-typed data from invoices, purchase orders, receipts, and tax forms, and classify documents into custom label sets — via a hosted MCP server. Free tier included.

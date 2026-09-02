@@ -8,10 +8,12 @@ source_url: https://github.com/chargebee/agentkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-11-18T10:04:08Z"
 ---
 ## What it is
 MCP server `AgentKit (Chargebee)`, catalogued on PulseMCP. Provides a billing and subscription management server for developers, enabling seamless integration of Chargebee workflows into development environments through specialized documentation search and code generation tools.

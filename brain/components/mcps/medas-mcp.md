@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T23:37:52Z"
 ---
 ## What it is
 Enables querying TÜİK (Turkish Statistical Institute) indicators via 92 topics and 400+ indicators, with cached metadata for fast responses and optional live download of real Excel reports through a Playwright-powered ZK Widget API.

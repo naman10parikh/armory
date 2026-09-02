@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T10:08:37Z"
 ---
 ## What it is
 Token-efficient MCP server for Linux system diagnostics and desktop/hardware control, providing compact JSON output with hard size limits and a safety model that requires explicit flags for mutating actions.

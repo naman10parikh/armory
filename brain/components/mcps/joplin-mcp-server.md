@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-10T18:51:08Z"
 ---
 ## What it is
 MCP server that provides standardized tools for querying and retrieving notes from Joplin personal knowledge manager through its API, enabling AI assistants to access and reference personal notes contextually.

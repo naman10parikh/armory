@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:19:38Z"
 ---
 ## What it is
 Enables testing and interacting with the Garmonia hotel CRM through its internal API, including orders, clients, brands, calendar, and general CRUD operations via an authenticated session.

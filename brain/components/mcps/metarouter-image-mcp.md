@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T12:16:00Z"
 ---
 ## What it is
 MCP server that connects Codex or MCP clients to MetaRouter's OpenAI-compatible image generation API, enabling natural language image generation, local image editing, batch editing, and multi-reference image synthesis.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-15T14:07:25Z"
 ---
 ## What it is
 MCP server `Up Bank`, catalogued on PulseMCP. Bridges to the Up Bank API for analyzing personal banking data, including accounts, transactions, categories, and tags for financial insights and spending pattern analysis.

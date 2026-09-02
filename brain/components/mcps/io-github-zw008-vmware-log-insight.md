@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T07:22:08Z"
 ---
 ## What it is
 Read-only MCP server for searching and aggregating logs from VMware Aria Operations for Logs (formerly vRealize Log Insight). Enables querying log events, aggregating with spike detection, and retrieving alert information.

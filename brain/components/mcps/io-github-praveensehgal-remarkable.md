@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T01:54:08Z"
 ---
 ## What it is
 MCP server that connects AI assistants to your reMarkable tablet, enabling reading, searching, and traversing handwritten and typed notes via OCR.

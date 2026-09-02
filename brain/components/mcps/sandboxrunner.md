@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T07:26:46Z"
 ---
 ## What it is
 Enables AI assistants to securely execute Python and C++ code snippets inside disposable, isolated Docker containers and receive structured results.

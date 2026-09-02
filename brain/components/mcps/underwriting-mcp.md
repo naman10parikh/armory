@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T04:12:32Z"
 ---
 ## What it is
 A headless MCP connector that lets you underwrite commercial and multifamily deals inside a Claude chat, providing exact arithmetic for NOI, valuation, debt sizing, DSCR, and returns.

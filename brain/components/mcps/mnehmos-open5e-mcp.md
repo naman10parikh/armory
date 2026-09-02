@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T04:11:41Z"
 ---
 ## What it is
 Query D&D 5e game data from 22+ source books and contribute to the open-source database with validation, diffing, and PR generation tools.

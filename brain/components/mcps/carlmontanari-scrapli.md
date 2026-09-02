@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-10T19:12:15Z"
 ---
 ## What it is
 MCP server `Scrapli Network Automation`, catalogued on PulseMCP. Integrates the Scrapli network automation library to enable SSH command execution on Cisco IOS XE devices for network configuration and troubleshooting tasks

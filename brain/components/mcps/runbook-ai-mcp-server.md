@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-28T20:13:02Z"
 ---
 ## What it is
 MCP server that provides browser automation capabilities through a Chrome extension, enabling terminal-based agents to interact with any website via a live browser session with optimized context.

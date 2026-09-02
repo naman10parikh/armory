@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-06-08T11:26:15Z"
 ---
 ## What it is
 This server enables interaction with Amazon S3 buckets for listing and retrieving objects, with efficient streaming for large files like PDFs, through the Model Context Protocol.

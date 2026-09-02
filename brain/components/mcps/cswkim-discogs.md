@@ -8,10 +8,12 @@ source_url: https://github.com/cswkim/discogs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 101
+stars: 120
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-07-06T16:10:19Z"
 ---
 ## What it is
 MCP server `Discogs`, catalogued on PulseMCP. Provides a bridge to the Discogs API for searching music databases, managing collections, and accessing marketplace listings with comprehensive artist and release information.

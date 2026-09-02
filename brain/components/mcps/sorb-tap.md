@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T23:14:21Z"
 ---
 ## What it is
 MCP server for design tokens that gives AI agents read access to design systems, enabling token resolution, listing, and component usage lookups via natural language.

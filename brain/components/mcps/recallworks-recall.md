@@ -8,10 +8,12 @@ source_url: https://github.com/recallworks/recall
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-16T08:03:14Z"
 ---
 ## What it is
 MCP server `Recall`, catalogued on PulseMCP. Open-source persistent memory server with searchable, tiered memory across AI agent sessions.

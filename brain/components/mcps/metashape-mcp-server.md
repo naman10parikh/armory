@@ -8,11 +8,13 @@ source_url: https://github.com/jenkinsm13/metashape-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-07T02:56:20Z"
 ---
 ## What it is
 A comprehensive MCP server that brings AI-powered automation to Agisoft Metashape Professional. Enables natural language control of photogrammetry tasks such as drone mapping, 3D model generation, and export.

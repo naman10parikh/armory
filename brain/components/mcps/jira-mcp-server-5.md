@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-25T13:23:41Z"
 ---
 ## What it is
 A local MCP server for managing Jira issues, enabling creation, update, deletion, search, and commenting on issues via natural language.

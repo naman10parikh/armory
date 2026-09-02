@@ -8,10 +8,12 @@ source_url: https://github.com/signnow/sn-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-27T14:15:30Z"
 ---
 ## What it is
 MCP server `SignNow`, catalogued on PulseMCP. Provides secure access to SignNow eSignature workflows including templates, signing invitations, and document management.

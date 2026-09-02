@@ -8,11 +8,13 @@ source_url: https://github.com/googlemaps-samples/grounding-lite-mcp-sample-app
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 6
+forks: 24
+pushed_at: "2026-06-21T23:31:57Z"
 ---
 ## What it is
 MCP server `Google Maps`, catalogued on PulseMCP. Integrates Google Maps Platform APIs with 3D visualization to provide place searching, route computation, elevation data retrieval, and weather lookup for trip planning and geographic data exploration.

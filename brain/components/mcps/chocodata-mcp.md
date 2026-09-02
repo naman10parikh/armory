@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T18:01:15Z"
 ---
 ## What it is
 MCP server for the Chocodata web scraping API. Enables agents to scrape live product prices, search results, and social profiles without writing glue code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-07T11:33:20Z"
 ---
 ## What it is
 Query and analyze your Weights & Biases data using natural language through the Model Context Protocol.

@@ -8,10 +8,12 @@ source_url: https://github.com/dinanathdash/envault
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-01T21:26:52Z"
 ---
 ## What it is
 MCP server `Envault`, catalogued on PulseMCP. Secure secrets management with Human-In-The-Loop interception for agent mutations via the Envault platform.

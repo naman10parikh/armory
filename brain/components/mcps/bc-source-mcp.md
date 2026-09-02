@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T21:07:46Z"
 ---
 ## What it is
 Exposes structured Microsoft Dynamics 365 Business Central source code (versions 23-29, 47 localizations) to AI agents via MCP, enabling fast lookups, searches, and code analysis.

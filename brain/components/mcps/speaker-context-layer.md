@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T12:51:41Z"
 ---
 ## What it is
 Local MCP server for private, consent-based speaker identification and attribution, with per-language voiceprints and calibrated match thresholds. It lets AI assistants know who is speaking in a room or transcript without cloud services.

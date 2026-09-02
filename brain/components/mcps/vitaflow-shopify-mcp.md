@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T21:17:18Z"
 ---
 ## What it is
 MCP server for VitaFlow. Connects ChatGPT to Shopify product data for product management, category cleanup, and tax setup.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T17:39:42Z"
 ---
 ## What it is
 Sends native Windows desktop notifications with repeating sound alerts for Claude Code, supporting states like finished, needs_help, and pending_review.

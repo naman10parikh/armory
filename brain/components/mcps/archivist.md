@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T08:37:25Z"
 ---
 ## What it is
 Provides read-only SRD lookup and deterministic enrichment tools for D&D 5e content generation, including search, entity retrieval, and generation of monsters, spells, items, NPCs, and encounters.

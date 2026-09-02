@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-04T14:36:28Z"
 ---
 ## What it is
 MCP server `Databutton`, catalogued on PulseMCP. Enables using Databutton app API endpoints as tools by establishing secure websocket connections and handling authentication for seamless integration

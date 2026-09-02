@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T20:59:50Z"
 ---
 ## What it is
 Enables digital forensics investigation by exposing SANS SIFT tools (The Sleuth Kit, Volatility 3, Plaso, etc.) as callable MCP tools, running in a self-contained Docker container with safe, allowlisted commands.

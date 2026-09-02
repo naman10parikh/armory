@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T02:30:14Z"
 ---
 ## What it is
 An MCP server for discovering, downloading, querying, and analyzing datasets from Ontario's open data portals, allowing natural language questions and high-performance analytics via DuckDB.

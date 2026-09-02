@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T22:16:07Z"
 ---
 ## What it is
 An MCP server for RD Station CRM that enables managing contacts, deals, tasks and notes, and generating pipeline health reports through natural language in any MCP-compatible client like Claude.

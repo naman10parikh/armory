@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:24:43Z"
 ---
 ## What it is
 A production-grade MCP server framework providing multiple specialized servers for tabular data, documents, calendars, markdown, prompt engineering, and general utilities.

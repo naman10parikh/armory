@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-10T19:32:24Z"
 ---
 ## What it is
 Provides database interaction through natural language, enabling query execution and content processing.

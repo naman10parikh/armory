@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T14:38:35Z"
 ---
 ## What it is
 Enables browsing JavaDoc documentation of Java libraries via Maven coordinates, with tools to list packages, classes, methods, and search.

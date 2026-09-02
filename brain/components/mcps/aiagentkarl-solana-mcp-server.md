@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 0
+pushed_at: "2026-04-03T16:05:51Z"
 ---
 ## What it is
 Solana blockchain data for AI agents — wallet balances, token prices, DeFi yields (Raydium + Orca), and token safety checks (RugCheck scores, holder concentration, insider detection).

@@ -12,6 +12,8 @@ stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-04-20T00:02:31Z"
 ---
 ## What it is
 MCP server `RTFM`, catalogued on PulseMCP. Transforms unstructured documentation into an intelligent, searchable knowledge base.

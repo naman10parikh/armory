@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T18:52:41Z"
 ---
 ## What it is
 A Model Context Protocol server that provides todo management via stdio, local HTTP, and public HTTPS transports, enabling agents to add, list, and complete tasks, and includes a daily standup skill.

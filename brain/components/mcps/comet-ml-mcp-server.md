@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T21:48:52Z"
 ---
 ## What it is
 Enables interaction with Comet ML's experiment tracking platform through the Model Context Protocol, providing tools for experiment management, project organization, and advanced search.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-07-06T00:13:45Z"
 ---
 ## What it is
 Enables AI assistants to control CleanShot X for screenshots, recordings, OCR, and annotations via natural language commands.

@@ -8,10 +8,12 @@ source_url: https://github.com/mangooer/mysql-mcp-server-sse
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 102
+stars: 105
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2025-06-19T03:49:04Z"
 ---
 ## What it is
 MCP server `MySQL SSE`, catalogued on PulseMCP. Provides a lightweight MySQL database server implementation using Server-Sent Events (SSE) for streamlined database operations with modular Python connection handling.

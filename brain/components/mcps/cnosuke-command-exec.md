@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-06T12:01:01Z"
 ---
 ## What it is
 MCP server `Command Executor`, catalogued on PulseMCP. Enables secure remote command execution with robust security controls like command allowlisting, direct command invocation without shell access, and strict environment management for controlled system interactions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T04:21:26Z"
 ---
 ## What it is
 Enables remote MCP access to Tencent Cloud DNSPod DNS management through Cloudflare Workers, with OAuth authorization and support for domain and record operations.

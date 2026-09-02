@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T06:00:36Z"
 ---
 ## What it is
 Local MCP server for managing arsnovasingers.org via the WordPress REST API, currently providing read-only audit tools for posts, pages, media, users, SEO, and site settings.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-21T08:26:20Z"
 ---
 ## What it is
 MCP server that enables AI-powered content generation in multiple formats using Google Gemini and Tavily real-time research, accessible via MCP-compatible clients.

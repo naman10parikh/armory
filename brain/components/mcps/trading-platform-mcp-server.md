@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T03:05:41Z"
 ---
 ## What it is
 Enables Claude to monitor and execute Binance trading strategies through a bounded MCP tool interface, with risk controls and audit logging.

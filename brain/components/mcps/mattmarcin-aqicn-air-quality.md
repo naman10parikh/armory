@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-04T20:05:01Z"
 ---
 ## What it is
 MCP server `AQICN Air Quality`, catalogued on PulseMCP. Integrates with the World Air Quality Index API to retrieve real-time air quality data for cities and monitoring stations globally.

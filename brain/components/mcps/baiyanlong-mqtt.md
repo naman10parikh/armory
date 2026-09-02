@@ -8,10 +8,12 @@ source_url: https://github.com/baiyanlong/mqtt-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-30T13:35:36Z"
 ---
 ## What it is
 MCP server `MQTT Bridge`, catalogued on PulseMCP. MCP server bridging AI agents to IoT devices via MQTT protocol, with device discovery, sensor data access, and command execution over SSE and stdio.

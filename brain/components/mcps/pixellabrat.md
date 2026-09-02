@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T11:52:19Z"
 ---
 ## What it is
 MCP server for generating style-consistent pixel art assets from PixelLab API, with project management, asset review, and an embedded Claude assistant.

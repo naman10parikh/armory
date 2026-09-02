@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T02:18:58Z"
 ---
 ## What it is
 Enables searching for movies and TV shows, viewing cast details, exploring actor bios and filmographies, checking streaming availability, and cross-referencing actor work against Netflix's catalog.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 5
+forks: 1
+pushed_at: "2026-05-26T04:59:46Z"
 ---
 ## What it is
 Convert any URL to LLM-ready Markdown via real Chrome browsers. 3 tools: scrape, crawl, search. Free via MCP, pay-per-use via x402. Remote MCP endpoint: `https://anybrowse.dev/mcp`

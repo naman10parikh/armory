@@ -8,10 +8,12 @@ source_url: https://github.com/sparfenyuk/mcp-youtube
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-15T19:02:33Z"
 ---
 ## What it is
 MCP server `YouTube Transcript Downloader`, catalogued on PulseMCP. Bridges YouTube API to download closed captions, enabling video transcript analysis and content processing.

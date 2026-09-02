@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 36
+pushed_at: "2025-05-28T18:23:07Z"
 ---
 ## What it is
 MCP server for integrating with Abacate Pay API, enabling management of customers, billings, PIX QR codes, and discount coupons via AI assistants like Claude.

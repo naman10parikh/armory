@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T00:24:00Z"
 ---
 ## What it is
 MCP server for git archaeology — churn hotspots, blame summaries, bus factor, commit forensics and file history over any local repository.

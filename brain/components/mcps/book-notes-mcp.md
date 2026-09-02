@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T12:47:22Z"
 ---
 ## What it is
 MCP server for processing raw book notes into structured, searchable knowledge using embeddings and semantic search.

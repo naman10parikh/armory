@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T04:25:22Z"
 ---
 ## What it is
 Blindspot is a local, general-purpose context engine for AI coding agents. It helps agents understand project structure, symbols, relationships, and change impact before editing.

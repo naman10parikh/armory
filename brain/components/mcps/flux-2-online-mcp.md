@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:30:26Z"
 ---
 ## What it is
 Read-only MCP server exposing Flux-2 Online's image generation knowledge surface, including styles, pricing, FAQ, and official links, with no API key required and ~50 ms cold start.

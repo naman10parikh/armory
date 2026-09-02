@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-10T06:55:57Z"
 ---
 ## What it is
 MCP server `Bling Bag`, catalogued on PulseMCP. Configure and display AI agent identity, personality traits, and platform-specific visual theming.

@@ -8,10 +8,12 @@ source_url: https://github.com/jbdamask/cursor-db-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-24T11:01:14Z"
 ---
 ## What it is
 MCP server `Cursor DB Explorer`, catalogued on PulseMCP. Provides access to Cursor IDE's SQLite databases for exploring project data, chat history, and composer information through an API that automatically detects installations and exposes structured resources and tools for analysis.

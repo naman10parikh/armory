@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:39:04Z"
 ---
 ## What it is
 Exposes historical hourly weather data (temperature, humidity, wind chill, cloud cover) via the free Open-Meteo API, requiring no API key, and lets Claude answer questions about past weather conditions.

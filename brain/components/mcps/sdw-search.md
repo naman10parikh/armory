@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T16:30:07Z"
 ---
 ## What it is
 A provider-neutral Web Search MCP server and CLI that combines live search, scholarly discovery, verified PDF downloads, URL normalization, multi-provider ranking, secure page fetching, caching, and citation-ready research evidence.

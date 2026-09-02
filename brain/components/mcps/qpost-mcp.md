@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:53:47Z"
 ---
 ## What it is
 MCP server for QPost that lets AI agents schedule and publish video/image posts to YouTube, TikTok, and Instagram via QPost's REST API.

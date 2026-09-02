@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T16:40:14Z"
 ---
 ## What it is
 Provides a minimal Microsoft 365 MCP server with fourteen hand-written tools for email, people, and drafts, designed to fit small local models.

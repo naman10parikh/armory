@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T15:48:46Z"
 ---
 ## What it is
 Enables prompt evaluation and refactoring via MCP protocol, allowing clients like OpenWebUI, Claude Desktop, and Cursor to access the Eliezer prompt engineer's 5-dimension scoring, ambiguity detection, and XML prompt generation.

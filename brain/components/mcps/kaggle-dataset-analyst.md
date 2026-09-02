@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T22:26:42Z"
 ---
 ## What it is
 Enables exploratory data analysis and machine learning on CSV datasets with tools for profiling, missing values, correlation, plotting, model training, and prediction.

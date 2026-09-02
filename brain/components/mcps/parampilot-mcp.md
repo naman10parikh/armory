@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:47:41Z"
 ---
 ## What it is
 Enables interaction with ParamPilot's campaign optimization platform via Model Context Protocol, providing tools for campaign management, experiments, and model jobs with configurable safety profiles.

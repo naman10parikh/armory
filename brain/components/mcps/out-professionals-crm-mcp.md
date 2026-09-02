@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T16:09:22Z"
 ---
 ## What it is
 Deploys a stateless remote MCP server on Cloudflare Workers without authentication, supporting the MCP 2026-07-28 specification and custom tool registration.

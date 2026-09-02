@@ -8,11 +8,13 @@ source_url: https://github.com/Shalin-Shah-2002/Yt-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-27T10:12:21Z"
 ---
 ## What it is
 AI-powered MCP server that transforms learning by finding best YouTube tutorials, generating personalized learning paths, and tracking progress for any tech skill.

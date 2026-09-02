@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-30T21:25:52Z"
 ---
 ## What it is
 Enables AI to send expressive stickers based on conversation context, with a built-in UI for managing stickers.

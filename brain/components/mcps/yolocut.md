@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:46:52Z"
 ---
 ## What it is
 Enables AI agents and MCP clients to programmatically edit video projects on a local desktop editor, with 119 tools for multitrack editing, effects, captions, audio, and batch auto-editing, producing reviewable and reversible real timeline edits.

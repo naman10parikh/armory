@@ -8,11 +8,13 @@ source_url: https://github.com/bethmaloney/rdl-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-24T21:54:38Z"
 ---
 ## What it is
 Enables AI assistants to read and modify SQL Server Reporting Services (SSRS) RDL files through simple natural language commands, avoiding manual XML editing.

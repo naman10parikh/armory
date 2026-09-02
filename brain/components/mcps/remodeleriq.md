@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:50:36Z"
 ---
 ## What it is
 Check if a contractor's remodeling bid is fair — analyze a quote (fairness score + red flags), get 2026 cost estimates by city, and look up BLS trade labor rates.

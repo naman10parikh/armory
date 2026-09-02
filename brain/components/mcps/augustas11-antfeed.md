@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-21T12:49:17Z"
 ---
 ## What it is
 MCP server `AntFeed`, catalogued on PulseMCP. Analytics and transaction interface for the AntSeed P2P AI services network.

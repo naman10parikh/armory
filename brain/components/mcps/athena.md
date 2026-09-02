@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T14:12:45Z"
 ---
 ## What it is
 A local academic research assistant that indexes PDFs into a searchable vector library and exposes MCP tools for semantic search, claim extraction, contradiction detection, and multi-step research synthesis.

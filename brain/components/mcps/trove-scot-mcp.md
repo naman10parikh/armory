@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:43:20Z"
 ---
 ## What it is
 MCP server for Scotland's historic environment, providing tools to search, filter, count, and locate heritage sites, listed buildings, scheduled monuments, and properties in care using Historic Environment Scotland's open ArcGIS API. Supports natural language queries for castles, monuments, archaeol

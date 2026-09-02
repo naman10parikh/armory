@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:24:51Z"
 ---
 ## What it is
 MCP server that gives Claude access to Runrun.it tasks, projects, clients, users, boards, and more via the Runrun.it REST API v1.0, including listing, creating, updating, deleting, and time-tracking operations.

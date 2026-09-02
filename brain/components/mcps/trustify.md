@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-09-01T09:43:55Z"
 ---
 ## What it is
 MCP server `Trustify`, catalogued on PulseMCP. Integrates with Trustify supply chain security platforms to query SBOMs and packages, retrieve vulnerability information by CVE ID or PURL, analyze dependencies for security issues, and access advisory data for vulnerability management and compliance tracking.

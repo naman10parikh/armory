@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:47:11Z"
 ---
 ## What it is
 A local-first MCP server for reading petroleum data formats like LAS and DLIS, designed for teams whose data cannot leave their machine. It provides read-only tools for well log analysis, comparison, and unit conversion with strict path allowlisting and no network access.

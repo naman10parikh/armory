@@ -12,6 +12,8 @@ stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-11-06T00:02:09Z"
 ---
 ## What it is
 MCP server `Code Screenshot Generator`, catalogued on PulseMCP. Generates beautiful, syntax-highlighted code screenshots with professional themes, automatic language detection for 20+ programming languages, and versatile input methods including file paths, line ranges, git diffs, and batch processing for creating documentation visuals and social media content.

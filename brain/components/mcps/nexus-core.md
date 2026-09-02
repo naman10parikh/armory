@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T21:50:46Z"
 ---
 ## What it is
 A self-hostable, multi-MCP personal-assistant framework with multi-provider LLM orchestration, a real safety model, and a production-grade test suite. Nexus Core is the engine behind a Telegram-based personal assistant: it takes a message (text or voice), routes it through an LLM, lets the model cal

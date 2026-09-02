@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:31:04Z"
 ---
 ## What it is
 A minimal MCP server that exposes a single tool, day_in_week, to return the current weekday name.

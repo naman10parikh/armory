@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-06T10:08:20Z"
 ---
 ## What it is
 Connects Gmail and Telegram via an MCP server, enabling users to interact with their emails through a Telegram bot with commands for summaries and audio.

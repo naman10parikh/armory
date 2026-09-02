@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T12:10:58Z"
 ---
 ## What it is
 MCP server for the Froide FOI platform. Exposes Froide's REST API as MCP tools for Claude and other MCP clients.

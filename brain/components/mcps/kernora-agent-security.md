@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T21:35:40Z"
 ---
 ## What it is
 Provides a zero-install security baseline for AI coding agents, with tools to retrieve curated security rules and check actions against them for self-correction.

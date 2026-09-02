@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T14:36:38Z"
 ---
 ## What it is
 Provides 30 pay-per-call APIs (compliance, trade, safety, web, data) for AI agents via MCP with automatic USDC payment on Base.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:47:08Z"
 ---
 ## What it is
 Transforms unstructured natural language operational problems into rigorously formulated, validated, and solved Mixed-Integer Linear Programming (MILP) models via an autonomous multi-agent graph, bringing closed-loop Operations Research capabilities to LLM assistants and MCP clients.

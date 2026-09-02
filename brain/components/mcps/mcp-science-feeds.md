@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:38:19Z"
 ---
 ## What it is
 Provides curated science and space feeds (RSS/Atom/RDF) with tools to list feeds, read items, and fetch any feed by URL, enabling AI agents to access the latest scientific news.

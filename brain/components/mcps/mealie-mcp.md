@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T21:44:25Z"
 ---
 ## What it is
 Docker-hosted MCP server for Mealie that enables AI agents to read cookbooks, extract recipes, translate them if needed, store them in Mealie, and verify the results.

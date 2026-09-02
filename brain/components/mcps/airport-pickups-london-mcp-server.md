@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T22:27:28Z"
 ---
 ## What it is
 Enables AI agents to get fixed-price quotes and book London airport transfers, with flight validation and inter-agent communication via A2A protocol.

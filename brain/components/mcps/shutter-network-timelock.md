@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-25T09:10:28Z"
 ---
 ## What it is
 MCP server `Shutter Network`, catalogued on PulseMCP. Encrypts messages using Shutter Network's decentralized timelock encryption system where messages can only be decrypted after a specified future time, supporting natural language time parsing and threshold cryptography for trustless time-delayed communications like sealed bid auctions and scheduled announcements.

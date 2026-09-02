@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T15:05:32Z"
 ---
 ## What it is
 Provides trust scores, comparisons, and search for software entities, AI tools, packages, and MCP servers using Nerq's Trust Score system.

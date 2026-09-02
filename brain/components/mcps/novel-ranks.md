@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-07-07T12:17:04Z"
 ---
 ## What it is
 获取番茄小说榜单数据并解密字体加密内容，支持MCP协议自动注册为工具。

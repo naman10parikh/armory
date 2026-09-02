@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T21:19:21Z"
 ---
 ## What it is
 Enables teachers to use AI agents for lesson preparation, grading, and administrative tasks through tools for class averages, school resources, and assessment prompts.

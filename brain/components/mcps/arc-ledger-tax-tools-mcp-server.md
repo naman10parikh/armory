@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T01:31:24Z"
 ---
 ## What it is
 A public, no-auth remote MCP server that exposes Arc & Ledger's free tax calculators and intake funnel as tools inside AI assistants. Provides tools for IRS notice explanation, FBAR/FATCA, LLC vs S-Corp comparison, quarterly tax estimates, and more.

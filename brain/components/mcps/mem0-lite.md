@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T20:23:51Z"
 ---
 ## What it is
 Provides self-hosted memory management for coding agents via MCP, with local vector storage and tools for adding, searching, updating, and deleting memories.

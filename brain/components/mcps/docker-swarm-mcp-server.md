@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-13T06:53:32Z"
 ---
 ## What it is
 A production-ready MCP server for Docker Swarm that provides full control over services, stacks, configs, and secrets with smart context preservation to reduce tool clutter.

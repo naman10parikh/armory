@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T18:55:02Z"
 ---
 ## What it is
 Provides deterministic, verifiable text/code/measurement utilities for AI agents, enabling tasks like unit conversion, citation formatting, diffing, proofreading, readability scoring, and syntax checking with re-executable proof.

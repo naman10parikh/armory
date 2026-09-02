@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-14T18:27:20Z"
 ---
 ## What it is
 MCP server `Tafa (File System)`, catalogued on PulseMCP. Provides secure file system operations including read/write, directory management, search with pattern matching, batch compression, and duplicate detection with sandboxed execution and configurable directory permissions.

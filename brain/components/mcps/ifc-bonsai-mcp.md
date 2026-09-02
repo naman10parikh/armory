@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-07-10T10:19:24Z"
 ---
 ## What it is
 An MCP server that connects AI language models with the Bonsai Blender add-on to read, create, and edit IFC models through high-level tool calls.

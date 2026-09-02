@@ -8,10 +8,12 @@ source_url: https://github.com/gomarble-ai/facebook-ads-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 326
+stars: 360
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 110
+pushed_at: "2026-08-05T09:45:30Z"
 ---
 ## What it is
 MCP server `Facebook Ads`, catalogued on PulseMCP. Integrates with Facebook's advertising platform to retrieve and analyze ad account data, campaign metrics, ad sets, creatives, and performance insights using the Facebook Graph API.

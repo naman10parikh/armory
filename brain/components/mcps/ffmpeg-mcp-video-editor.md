@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T16:26:58Z"
 ---
 ## What it is
 Give any MCP client a real video editor — 32 typed tools over ffmpeg, Whisper and MediaPipe, plus an optional local UI with a drag-and-drop timeline.

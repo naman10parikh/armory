@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-27T09:22:10Z"
 ---
 ## What it is
 MCP server `Dock AI`, catalogued on PulseMCP. Discover MCP endpoints for real-world entities by resolving business domains.

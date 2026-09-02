@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-29T22:05:35Z"
 ---
 ## What it is
 MCP server `UN Data Commons`, catalogued on PulseMCP. Query Data Commons indicators and observations from the public knowledge graph

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-07-11T13:56:33Z"
 ---
 ## What it is
 Enables LLMs to take full control of your device by providing screen automation tools for capturing, clicking, typing, and scrolling, ideal for automation and education.

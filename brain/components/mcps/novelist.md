@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T21:17:07Z"
 ---
 ## What it is
 MCP server for the Novelist runtime, enabling narrative creation with storyboard, cast, and 3D materialization from the Zeus corpus.

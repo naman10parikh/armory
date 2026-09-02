@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T22:23:46Z"
 ---
 ## What it is
 A secure MCP server for managing Cloudflare DNS records, transform rules, page rules, and cache via natural language, with robust token handling and containerized deployment.

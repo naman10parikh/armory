@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T21:09:00Z"
 ---
 ## What it is
 A zero-config, read-only PostgreSQL MCP server that enforces read-only access at the database level using READ ONLY transactions, allowing AI agents to safely explore schemas and run SELECT queries without risk of mutation.

@@ -8,10 +8,12 @@ source_url: https://github.com/elliotpadfield/unpaywall-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-24T20:08:13Z"
 ---
 ## What it is
 MCP server `Unpaywall`, catalogued on PulseMCP. Integrates with Unpaywall's database to find open access versions of academic papers and retrieve publication metadata including DOIs, author details, and venue information for research and educational purposes.

@@ -8,11 +8,13 @@ source_url: https://github.com/EldrexDelosReyesBula/CodeMemory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T05:37:57Z"
 ---
 ## What it is
 Enables AI agents to locally search, query, and understand codebases with token-efficient context, dependency graphs, history, architecture diagrams, and metrics through MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T20:45:14Z"
 ---
 ## What it is
 Exposes the Eurostat Statistics API, enabling LLMs to discover, explore, and retrieve official EU statistical data through search, dimension inspection, and data retrieval tools.

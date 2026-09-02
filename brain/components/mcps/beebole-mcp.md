@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T13:12:22Z"
 ---
 ## What it is
 MCP server to connect Claude with Beebole for time tracking, enabling project and task listing, time entry retrieval, and time logging.

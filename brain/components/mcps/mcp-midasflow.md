@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T12:59:16Z"
 ---
 ## What it is
 MidasFlow Flow API - Cross-exchange order flow, whale detection, liquidations, funding rates, squeeze alerts for AI agents. Native MCP server.

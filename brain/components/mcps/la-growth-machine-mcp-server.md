@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T06:19:49Z"
 ---
 ## What it is
 Enables interaction with La Growth Machine (LGM) workspace via MCP, providing 27 tools for managing members, identities, audiences, leads, campaigns, inbox webhooks, messaging, website visitors, and conversations.

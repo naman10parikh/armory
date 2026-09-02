@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T04:52:57Z"
 ---
 ## What it is
 Reverse-engineers design videos and images into structured frontend implementation specifications using vision LLMs and FFMPEG for frame-level analysis.

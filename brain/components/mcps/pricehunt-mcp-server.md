@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-31T16:00:50Z"
 ---
 ## What it is
 Enables searching and comparing products across Pakistani e-commerce platforms Daraz, Telemart, and iShopping, filtering by price and ratings.

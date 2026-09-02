@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-12T23:42:17Z"
 ---
 ## What it is
 MCP server `PrompyAI`, catalogued on PulseMCP. Context-aware prompt intelligence that scores and rewrites prompts against your real codebase.

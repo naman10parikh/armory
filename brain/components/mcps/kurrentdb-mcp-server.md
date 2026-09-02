@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-03-31T08:45:52Z"
 ---
 ## What it is
 Provides tools to read and write events, list streams, and create, test, and debug projections on KurrentDB.

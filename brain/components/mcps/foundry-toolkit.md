@@ -8,10 +8,12 @@ source_url: https://github.com/praneshasp/foundry-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 249
+stars: 253
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 36
+pushed_at: "2026-01-17T15:25:55Z"
 ---
 ## What it is
 MCP server `Foundry Toolkit`, catalogued on PulseMCP. Integrates with Foundry blockchain development toolkit to enable smart contract deployment, testing, bytecode analysis, and transaction inspection across local Anvil instances and remote EVM networks.

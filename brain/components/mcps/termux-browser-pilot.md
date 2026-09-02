@@ -8,11 +8,13 @@ source_url: https://github.com/salviz/termux-browser-pilot
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-04-15T19:07:51Z"
 ---
 ## What it is
 Real browser automation for Termux/Android. Runs Firefox or Chromium on Xvfb on your phone with a persistent daemon for sub-second commands.

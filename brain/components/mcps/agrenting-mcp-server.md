@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T13:19:01Z"
 ---
 ## What it is
 Enables hiring remote marketplace agents from Codex using a scoped API key, with tools for creating hirings and checking their status.

@@ -8,10 +8,12 @@ source_url: https://github.com/mattt/emcee
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 321
+stars: 331
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2026-07-04T11:41:37Z"
 ---
 ## What it is
 MCP server `OpenAPI Transformer`, catalogued on PulseMCP. Transforms OpenAPI specifications into ready-to-use tools that enable seamless interaction with REST APIs through automatic endpoint mapping, authentication handling, and response formatting.

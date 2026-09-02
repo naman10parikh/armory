@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:00:46Z"
 ---
 ## What it is
 A local MCP server for managing saved Substack posts. Enables offline reading, searching, bookmarking, and unbookmarking of Substack content via CLI or MCP clients.

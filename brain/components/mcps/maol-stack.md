@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T05:38:59Z"
 ---
 ## What it is
 MCP server enabling stacked Git branch workflows and GitHub PR submission through commands like run_stackline_cmd and learn_stackline.

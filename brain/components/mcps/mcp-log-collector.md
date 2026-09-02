@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T11:52:58Z"
 ---
 ## What it is
 Enables remote log collection from Linux machines via HTTP/HTTPS, allowing clients like Claude Desktop to access and analyze system logs securely.

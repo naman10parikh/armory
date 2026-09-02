@@ -8,10 +8,12 @@ source_url: https://github.com/redoxnet/mcp-lsopenapi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-09T10:21:53Z"
 ---
 ## What it is
 MCP server `LS Securities OpenAPI`, catalogued on PulseMCP. Access Korean stock market data from LS Securities OpenAPI — charts, screeners, and local portfolio management.

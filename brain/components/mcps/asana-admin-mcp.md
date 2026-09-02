@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:53:50Z"
 ---
 ## What it is
 MCP server for Asana administration, enabling portfolio, custom field, project, and section management with advanced features like duplication and reordering.

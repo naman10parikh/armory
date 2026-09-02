@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-24T12:44:34Z"
 ---
 ## What it is
 Enables querying and comparing prices, availability, ratings, reviews, and seller details from major Russian and Chinese marketplaces (Wildberries, Ozon, Yandex Market, and others) without requiring API keys, via a unified MCP interface.

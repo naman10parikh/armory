@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T16:15:38Z"
 ---
 ## What it is
 Provides Vedic astrology calculations (kundali, dasha, panchang, yoga) and Hindi/English PDF reports via 11 MCP tools, with SQLite-backed client/report storage.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-13T05:49:51Z"
 ---
 ## What it is
 Provides real-time and historical Chinese A-share market data, including stock quotes, financial statements, technical indicators, shareholder information, and news, through the Model Context Protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T11:03:30Z"
 ---
 ## What it is
 MCP server for DTS Engine 6.1 that enables agents to create, validate, and run 3D digital-twin tile publishing pipelines from shapefiles, photogrammetry, DEM/DOM, BIM, and point clouds, with tools for pipeline introspection, error resolution, and OSGB publishing.

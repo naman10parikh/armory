@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-15T11:44:22Z"
 ---
 ## What it is
 MCP server `Cloud Services`, catalogued on PulseMCP. Provides unified access to AWS, Azure, and GCP resources through cloud-agnostic adapters for managing instances, storage, databases, and functions with cost analysis, monitoring, security scanning, and compliance checking capabilities.

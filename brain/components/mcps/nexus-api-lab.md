@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T23:10:19Z"
 ---
 ## What it is
 MCP server `Nexus API Lab`, catalogued on PulseMCP. Japanese LLM security — prompt injection detection and PII masking for Japanese text.

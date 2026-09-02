@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T20:42:21Z"
 ---
 ## What it is
 Codex任务完成后发送企业微信通知的MCP服务器。提供notify_wecom工具，支持自定义标题、状态、任务摘要等参数。

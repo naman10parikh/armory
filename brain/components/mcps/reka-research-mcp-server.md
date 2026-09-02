@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-29T10:33:44Z"
 ---
 ## What it is
 Enables AI-powered fact-checking and similarity search via the Reka Research API, with tools to verify claims and find similar items by attributes.

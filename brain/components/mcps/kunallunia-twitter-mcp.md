@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
 stars: 60
+forks: 11
+pushed_at: "2025-05-03T09:33:53Z"
 ---
 ## What it is
 All-in-one Twitter management solution providing timeline access, user tweet retrieval, hashtag monitoring, conversation analysis, direct messaging, sentiment analysis of a post, and complete post lifecycle control - all through a streamlined API.

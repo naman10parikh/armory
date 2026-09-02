@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T23:02:51Z"
 ---
 ## What it is
 A multi-account MCP server providing 72 tools for Gmail and Google Calendar, with password protection, environment variable-based credentials, and support for multiple accounts.

@@ -8,10 +8,12 @@ source_url: https://github.com/agimaulana/googleplayconsolemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-11T04:43:20Z"
 ---
 ## What it is
 MCP server `Google Play Console`, catalogued on PulseMCP. Manage Google Play Store releases, testers, rollouts, and Android Vitals.

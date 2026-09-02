@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 28
+pushed_at: "2026-08-26T18:27:39Z"
 ---
 ## What it is
 MCP server for reverse engineering Windows executables and related binary formats, offering static analysis, Ghidra-assisted function recovery, plugin-driven tooling, and optional isolated Windows runtime execution.

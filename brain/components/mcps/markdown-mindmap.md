@@ -8,10 +8,12 @@ source_url: https://github.com/yuchenssr/mindmap-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 233
+stars: 236
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2025-05-20T12:49:06Z"
 ---
 ## What it is
 MCP server `Markdown Mindmap`, catalogued on PulseMCP. Transforms Markdown content into interactive HTML-based mind maps using markmap-cli, enabling visual organization of structured information and knowledge representation.

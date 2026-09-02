@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-08T09:08:07Z"
 ---
 ## What it is
 MCP server `VoltPlan`, catalogued on PulseMCP. Generate electrical wiring diagrams for campers, boats, and off-grid power systems with automatic cable sizing, fuse calculations, and component protection.

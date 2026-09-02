@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T06:17:56Z"
 ---
 ## What it is
 Automates backporting upstream Ironic changes across OpenShift release branches using Claude AI for intelligent decision-making and natural language interaction.

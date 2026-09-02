@@ -8,10 +8,12 @@ source_url: https://github.com/formulahendry/mcp-server-spec-driven-development
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 430
+stars: 437
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 39
+pushed_at: "2025-09-26T06:50:18Z"
 ---
 ## What it is
 MCP server `Spec-Driven Development`, catalogued on PulseMCP. Provides three sequential prompts that guide software development from high-level requirements through EARS format documentation and design specifications to final code generation, supporting a structured waterfall development workflow.

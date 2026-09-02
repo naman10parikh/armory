@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T12:31:01Z"
 ---
 ## What it is
 MCP server for Claude Code agents to manage persistent shared task boards with dependency graphs, atomic claims, and git-bound tasks.

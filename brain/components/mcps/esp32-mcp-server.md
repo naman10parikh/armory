@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-22T08:23:14Z"
 ---
 ## What it is
 Bridges the Model Context Protocol (MCP) with ESP32 devices running Tasmota firmware, enabling LLMs to send structured commands like toggling relays or reading sensors via HTTP.

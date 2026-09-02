@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-29T12:28:11Z"
 ---
 ## What it is
 Enables AI assistants to present interactive choices to users via browser popups, supporting single and multiple selections with optional custom input.

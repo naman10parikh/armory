@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T23:43:31Z"
 ---
 ## What it is
 A lightweight TypeScript/Bun MCP server for LinkedIn automation, providing 19 tools to search and view profiles, jobs, companies, messages, and feed using your authenticated browser session.

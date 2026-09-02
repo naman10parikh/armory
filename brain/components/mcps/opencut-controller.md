@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-19T06:00:53Z"
 ---
 ## What it is
 Enables AI models to fully automate and control the OpenCut Video Editor through a comprehensive set of MCP tools for timeline manipulation, scene management, media handling, and rendering.

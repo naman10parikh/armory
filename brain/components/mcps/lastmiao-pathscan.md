@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-08T07:04:34Z"
 ---
 ## What it is
 MCP server `PathScan (Dirsearch + Firecrawl)`, catalogued on PulseMCP. Integrates dirsearch directory brute-forcing tool with Firecrawl web crawling services to enable automated discovery of hidden web directories, files, and endpoints for security researchers and penetration testers.

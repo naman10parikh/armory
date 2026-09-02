@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:43:44Z"
 ---
 ## What it is
 Enables secure analytics on an SQLite database of an online store via six specialized tools covering schema, customer metrics, product sales, category revenue, period revenue, and order leaders.

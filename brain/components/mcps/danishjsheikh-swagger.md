@@ -12,6 +12,8 @@ stars: 81
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-07-07T07:57:15Z"
 ---
 ## What it is
 MCP server `Swagger`, catalogued on PulseMCP. Transforms Swagger/OpenAPI specifications into dynamic tools, enabling interaction with any REST API through automatic endpoint discovery, parameter validation, and security handling.

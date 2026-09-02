@@ -8,10 +8,12 @@ source_url: https://github.com/vrtejus/pymol-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-03-18T16:02:45Z"
 ---
 ## What it is
 MCP server `PyMOL`, catalogued on PulseMCP. Enables direct interaction with PyMOL molecular visualization software for executing commands, manipulating structures, and analyzing molecular data through a socket connection that translates natural language to PyMOL-compatible Python code.

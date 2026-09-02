@@ -8,11 +8,13 @@ source_url: https://github.com/teslasolar/light
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-09T02:15:31Z"
 ---
 ## What it is
 MCP server for the LIGHT photonic programming language. Enables executing light programs, evaluating expressions, applying parameterized templates, chaining pipes, and accessing opcode/runtime info.

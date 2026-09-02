@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T19:40:13Z"
 ---
 ## What it is
 Enables interaction with the Bokio accounting API for managing journal entries, invoices, customers, items, and more, with read-only mode by default for safety.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T19:07:27Z"
 ---
 ## What it is
 Gives your agent a private Kinematic Drive: a deterministic memory engine for sub-millisecond exact recall over code and docs with no hallucination. Also provides self-serve checkout and metered pay-per-call tools for AI agents.

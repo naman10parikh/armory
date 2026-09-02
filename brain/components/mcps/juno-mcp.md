@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T21:23:45Z"
 ---
 ## What it is
 Enables LLMs to interact with MGMU Juno ERP, providing tools to fetch student profile, attendance, fees, schedule, results, and search students.

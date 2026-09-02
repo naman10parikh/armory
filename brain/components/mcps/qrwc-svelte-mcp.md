@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-25T17:40:44Z"
 ---
 ## What it is
 MCP server that provides tools, resources, and prompts to help LLMs build Svelte UI components for Q-SYS systems, including discovering components and controls from a Q-SYS Core.

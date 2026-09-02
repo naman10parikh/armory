@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-29T15:37:14Z"
 ---
 ## What it is
 MCP server `Binary Ninja`, catalogued on PulseMCP. Integrates with Binary Ninja for reverse engineering tasks by providing tools to retrieve binary metadata, list functions, disassemble code, and decompile functions to C.

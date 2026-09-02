@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-06T21:52:58Z"
 ---
 ## What it is
 MCP server `Typebot`, catalogued on PulseMCP. Integrates with Typebot's chatbot platform using workspace tokens for authentication to enable management of chatbot workflows and bot instances.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-18T08:53:58Z"
 ---
 ## What it is
 MCP server `MonteWalk Quantitative Trading`, catalogued on PulseMCP. Integrates with financial markets through yfinance, Alpaca paper trading, and CoinGecko APIs to provide market data analysis, portfolio optimization, backtesting, and risk management tools for quantitative trading research and algorithmic strategy development

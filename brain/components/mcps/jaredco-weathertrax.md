@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-28T12:37:02Z"
 ---
 ## What it is
 MCP server `WeatherTrax`, catalogued on PulseMCP. Current weather conditions and multi-day forecasts for any location worldwide via World Weather Online.

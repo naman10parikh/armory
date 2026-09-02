@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T06:51:36Z"
 ---
 ## What it is
 Enables LLMs to ingest and analyze legal agreements, compute risk scores, and monitor non-compliant clauses through MCP tools like ingest, fetch_contracts, and run_analysis.

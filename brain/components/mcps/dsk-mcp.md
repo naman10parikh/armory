@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T22:48:15Z"
 ---
 ## What it is
 An MCP server that gives AI assistants structured access to a design system's tokens, components, guidelines, and patterns, enabling them to read, lint, and author design system data.

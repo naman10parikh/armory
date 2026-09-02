@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T14:56:31Z"
 ---
 ## What it is
 Enables running parameterized SQL queries against a PostgreSQL database via an MCP tool.

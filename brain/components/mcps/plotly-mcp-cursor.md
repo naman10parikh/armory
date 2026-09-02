@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-01T16:50:44Z"
 ---
 ## What it is
 Enables creating Plotly charts from natural language in Cursor, supporting a wide variety of trace types with full customization.

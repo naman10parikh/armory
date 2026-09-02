@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T01:44:55Z"
 ---
 ## What it is
 Enables web search and deep multi-source research for Cerase agents via LiteLLM proxy, with billing attribution per agent.

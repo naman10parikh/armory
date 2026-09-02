@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T14:43:03Z"
 ---
 ## What it is
 MCP server for storing and managing QA workflows, encrypted credentials, and browser test run history. Enables agents to create targets, workflows, and retrieve decrypted credential bundles for test execution.

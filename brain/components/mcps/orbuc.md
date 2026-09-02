@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T10:48:14Z"
 ---
 ## What it is
 MCP server `Orbuc`, catalogued on PulseMCP. On-chain stablecoin market cap and Bitcoin institutional holdings data.

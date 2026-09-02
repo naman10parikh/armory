@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-06T15:31:13Z"
 ---
 ## What it is
 MCP server `Docker`, catalogued on PulseMCP. Java-based Docker management server that connects to Docker daemon via TCP to provide container lifecycle operations, image management, network control, and log retrieval for DevOps workflows and infrastructure automation.

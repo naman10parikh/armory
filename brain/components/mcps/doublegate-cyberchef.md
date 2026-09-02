@@ -8,10 +8,12 @@ source_url: https://github.com/doublegate/cyberchef-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-02T03:38:51Z"
 ---
 ## What it is
 MCP server `CyberChef`, catalogued on PulseMCP. Converts CyberChef's 300+ cryptographic, encoding, compression, and data analysis operations into individual tools for cybersecurity analysis, data transformation workflows, and forensic investigations.

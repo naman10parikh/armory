@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-21T13:29:04Z"
 ---
 ## What it is
 Provides AI clients with access to FlowMusicAI's pricing, documentation, and FAQ, enabling them to answer questions about the AI music generator.

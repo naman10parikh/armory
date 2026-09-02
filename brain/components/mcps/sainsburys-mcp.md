@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T22:52:48Z"
 ---
 ## What it is
 An MCP server that enables adding groceries to a Sainsbury's basket from a plain-text shopping list via natural language, using existing browser session for authentication.

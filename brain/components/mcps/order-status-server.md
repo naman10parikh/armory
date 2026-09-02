@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T05:23:06Z"
 ---
 ## What it is
 Laravel MCP server that provides a tool to look up order status by order ID from a MySQL database.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-20T06:57:57Z"
 ---
 ## What it is
 MCP server `Flowvenue`, catalogued on PulseMCP. Enterprise workflow automation platform exposing business processes as AI-callable MCP tools for approvals, CRM, HR, expense management, and support operations.

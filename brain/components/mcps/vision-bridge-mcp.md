@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T09:15:09Z"
 ---
 ## What it is
 Bridges a vision model to enable text-only models like DeepSeek to describe images, extract text, and compare images via MCP tools.

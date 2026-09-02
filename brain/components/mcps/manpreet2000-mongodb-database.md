@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-23T16:56:42Z"
 ---
 ## What it is
 MCP server `MongoDB Database`, catalogued on PulseMCP. Provides a bridge between MongoDB databases and natural language, enabling collection listing, document querying, record manipulation, and aggregate operations without writing complex queries.

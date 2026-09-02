@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T06:06:09Z"
 ---
 ## What it is
 Enables AI assistants to query, calculate, and benchmark AWS Partner Polaris training depth levels using CSV data.

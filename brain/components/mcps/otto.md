@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T11:49:27Z"
 ---
 ## What it is
 Enables AI agents to operate a local financial terminal, including market data, backtesting, paper portfolio management, and news digest, through safe, gated tools over MCP.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T11:38:16Z"
 ---
 ## What it is
 MCP server `Formester`, catalogued on PulseMCP. Give AI agents access to form submissions — read, search, update, and process file attachments.

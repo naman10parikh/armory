@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T18:26:00Z"
 ---
 ## What it is
 A minimal MCP server that executes commands on remote hosts by delegating to the local ssh binary, supporting batch-mode execution and optional timeout.

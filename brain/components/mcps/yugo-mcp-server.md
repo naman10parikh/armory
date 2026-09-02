@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T14:01:26Z"
 ---
 ## What it is
 Enables interaction with the Yugo Payments API to manage payins, payouts, and accounts through auto-generated MCP tools.

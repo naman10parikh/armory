@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-28T05:35:56Z"
 ---
 ## What it is
 Analyzes Hytale game SDK by automatically detecting the installation, decompiling server logic, and exposing an AI-ready interface via the Model Context Protocol for searching API and assets.

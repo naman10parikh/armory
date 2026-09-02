@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T01:34:38Z"
 ---
 ## What it is
 MCP server for image analysis using Gemini API. It enables analyzing images from local paths or URLs, and provides usage statistics.

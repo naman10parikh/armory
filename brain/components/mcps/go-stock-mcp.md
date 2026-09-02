@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T04:46:16Z"
 ---
 ## What it is
 Provides read-only access to Chinese A-share stock market data such as quotes, K-lines, financials, capital flows, news, and research reports via a stdio MCP server for DeepSeek Harness and other MCP clients.

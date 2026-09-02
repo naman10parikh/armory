@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-20T15:37:08Z"
 ---
 ## What it is
 An MCP server that connects to OpenRouter's API to provide Perplexity's models (Sonar, Sonar Deep Research, Sonar Reasoning) for use with any MCP-compatible client.

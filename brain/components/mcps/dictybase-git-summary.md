@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-02T21:24:44Z"
 ---
 ## What it is
 MCP server `Git Summary`, catalogued on PulseMCP. Lightweight git commit message summary generator that analyzes repository histories by filtering commits and producing human-readable markdown summaries highlighting key changes and business impact.

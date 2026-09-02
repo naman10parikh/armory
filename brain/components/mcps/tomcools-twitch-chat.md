@@ -8,10 +8,12 @@ source_url: https://github.com/tomcools/twitch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-20T20:18:45Z"
 ---
 ## What it is
 MCP server `Twitch Chat`, catalogued on PulseMCP. Integrates with Twitch chat using Apache Camel and Quarkus to enable real-time interaction, moderation, and analysis of live stream conversations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 42
+pushed_at: "2025-06-23T06:03:41Z"
 ---
 ## What it is
 Enables fetching content from InterviewReady (blogs, resources, course materials) and managing notes and Google reminders for classes.

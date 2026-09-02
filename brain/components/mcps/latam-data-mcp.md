@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T17:51:46Z"
 ---
 ## What it is
 An MCP server that gives agents reliable access to LatAm data: tax-ID validation for 12 countries, live economic indicators, exchange rates, Brazilian company lookups, holidays, and business-day math.

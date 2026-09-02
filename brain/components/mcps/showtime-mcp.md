@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T10:14:00Z"
 ---
 ## What it is
 Enables browsing movie and TV show data from TMDB and OMDB through 24 MCP tools.

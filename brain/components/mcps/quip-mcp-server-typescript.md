@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-05T05:55:37Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for interacting with Quip spreadsheets. It provides tools to read spreadsheet data from Quip documents and return the content in CSV format.

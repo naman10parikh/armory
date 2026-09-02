@@ -8,10 +8,12 @@ source_url: https://github.com/robrawks/logosbiblesoftwaremcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-08-04T14:04:07Z"
 ---
 ## What it is
 MCP server `Logos Bible Software`, catalogued on PulseMCP. Connects to Logos Bible Software for Scripture retrieval, search, word studies, and personal study data access.

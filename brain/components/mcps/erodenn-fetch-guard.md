@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 1
+forks: 1
+pushed_at: "2026-03-23T21:01:44Z"
 ---
 ## What it is
 URL fetcher and HTML-to-markdown converter with three-layer prompt injection defense: pre-extraction sanitization of hidden/off-screen elements and non-printing Unicode, 15-pattern risk scanning (HIGH/MEDIUM/OK), and per-request session-salt content boundary wrapping.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-23T22:07:25Z"
 ---
 ## What it is
 MCP server `ROOT`, catalogued on PulseMCP. Execute Python and C++ code using CERN's ROOT data analysis framework

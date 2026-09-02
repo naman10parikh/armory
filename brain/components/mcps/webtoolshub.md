@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T12:57:48Z"
 ---
 ## What it is
 MCP server providing domain name checking and other web tools, accessible via MCP, REST API, and CLI for AI assistants.

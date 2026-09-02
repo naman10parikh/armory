@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T04:25:21Z"
 ---
 ## What it is
 Enables multi-modal travel planning for India, aggregating flights, trains, buses, cabs, and personal vehicles across 117 cities with multi-leg routing and weighted scoring.

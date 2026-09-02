@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-11T14:52:04Z"
 ---
 ## What it is
 Enables AI agents to manage Listmonk email campaigns, subscribers, lists, and analytics through typed MCP tools with production safety features.

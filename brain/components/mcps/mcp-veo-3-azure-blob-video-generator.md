@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-19T10:25:38Z"
 ---
 ## What it is
 Generates high-quality 8-second videos with native audio from text prompts or images using Google's Veo 3 API, and automatically uploads them to Azure Blob Storage for cloud hosting and management.

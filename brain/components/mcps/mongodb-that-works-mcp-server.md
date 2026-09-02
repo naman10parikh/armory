@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-19T07:02:30Z"
 ---
 ## What it is
 Enables interaction with MongoDB databases through CRUD operations, aggregation, and schema discovery, with automatic field validation and ObjectId conversion.

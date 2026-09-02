@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T20:23:09Z"
 ---
 ## What it is
 Enables AI agents to semantically search and access read-only Reddit and X data through a hosted MCP server, with residential proxy crawling and no API credentials required.

@@ -8,10 +8,12 @@ source_url: https://github.com/alexai-mcp/k-beauty-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-09-22T05:02:31Z"
 ---
 ## What it is
 MCP server `K-Beauty`, catalogued on PulseMCP. Provides specialized Korean skincare and cosmetics knowledge with curated brand data, ingredient analysis, and personalized routine recommendations for different skin types and concerns.

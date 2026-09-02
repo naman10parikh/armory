@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T01:36:05Z"
 ---
 ## What it is
 Provides structured search, schema-validated writes, and linting for a markdown knowledge base, enabling agents to operate the wiki over a single streamable-HTTP MCP endpoint.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T10:07:56Z"
 ---
 ## What it is
 Local-first security check for AI coding agents — finds hardcoded secrets, exposed .env files, git-history leaks and vulnerable dependencies (OSV), entirely on your machine. Ask your agent "is this safe to ship?" and get a Launch Readiness score with a fix for every finding.

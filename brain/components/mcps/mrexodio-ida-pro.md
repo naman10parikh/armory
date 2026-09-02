@@ -8,10 +8,12 @@ source_url: https://github.com/mrexodia/ida-pro-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8820
+stars: 11756
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1396
+pushed_at: "2026-08-28T18:08:44Z"
 ---
 ## What it is
 MCP server `IDA Pro`, catalogued on PulseMCP. Automated reverse engineering with IDA Pro.

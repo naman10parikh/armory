@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T16:56:26Z"
 ---
 ## What it is
 Gives AI assistants long-term memory by letting them search, read, create, and organize Markdown notes, folders, tags, and links through a hosted note-taking backend.

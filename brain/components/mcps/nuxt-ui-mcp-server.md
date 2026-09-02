@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-03T20:18:46Z"
 ---
 ## What it is
 An MCP server that exposes Nuxt UI documentation and resources via a standardized API, enabling interaction through natural language.

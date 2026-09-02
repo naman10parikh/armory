@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-09T19:46:22Z"
 ---
 ## What it is
 FastMCP cloud server enabling AI assistants to manage outbound call campaigns, schedule calls, list agents, and access call data via HTTP.

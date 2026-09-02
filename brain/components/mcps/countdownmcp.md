@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T06:48:13Z"
 ---
 ## What it is
 A local, read-only MCP server that gives Codex a plan-aware view of its remaining usage and helps choose work that fits the current usage window.

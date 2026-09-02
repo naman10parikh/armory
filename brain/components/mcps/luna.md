@@ -8,11 +8,13 @@ source_url: https://github.com/OnStepNinja/LUNA
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-04T04:34:20Z"
 ---
 ## What it is
 ESP32-based Streamable HTTP MCP server with embedded Lua scripting engine. Bridges Claude AI to physical devices — telescopes (INDI protocol), sensors, BLE peripherals, and TCP devices. Flash-and-run binary distribution, no build required.

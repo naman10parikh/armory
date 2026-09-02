@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T09:43:43Z"
 ---
 ## What it is
 Manages projects, requirements, and knowledge entries with full-text search via SQLite FTS5. Provides 19 MCP tools for AI assistants to create, update, search, and delete project data.

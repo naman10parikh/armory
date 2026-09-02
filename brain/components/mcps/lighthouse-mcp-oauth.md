@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T14:56:50Z"
 ---
 ## What it is
 Enables Claude.ai to connect to a Hermes MCP server via OAuth 2.1 authorization code flow with PKCE, acting as a reverse proxy and single-user authorization gateway.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-27T14:43:48Z"
 ---
 ## What it is
 Enables large language models like Claude to automatically generate flashcards and sync them with Anki decks via a Dockerized MCP server using the AnkiConnect add-on.

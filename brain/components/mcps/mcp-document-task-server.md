@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T16:28:29Z"
 ---
 ## What it is
 Provides a document database with search, retrieval, and creation tools, and a task tracker with search and status filtering, enabling AI agents to manage documents and tasks via natural language.

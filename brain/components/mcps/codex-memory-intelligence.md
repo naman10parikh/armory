@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T04:12:54Z"
 ---
 ## What it is
 A local-first MCP server that gives AI coding agents durable project memory, dependency graphs, and impact analysis to answer team knowledge and cross-file change questions before editing.

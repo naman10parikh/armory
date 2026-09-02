@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-08T06:42:09Z"
 ---
 ## What it is
 This MCP server bridges to the Tuba.ai platform, enabling programmatic control of AI vision workflows through callable tools such as running workflows, checking status, fetching results, and updating workflow blocks.

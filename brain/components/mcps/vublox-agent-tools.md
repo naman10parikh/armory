@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-03T17:10:36Z"
 ---
 ## What it is
 Enables AI agents to discover live and recent football matches, scores, and fan clips on Vublox. Supports searching by team, league, or keyword and retrieving match summaries.

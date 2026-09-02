@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T06:47:22Z"
 ---
 ## What it is
 A Korean-language loss-prevention MCP server that extracts deadlines from user-provided text, ranks them by risk, and generates actionable steps to avoid financial or opportunity loss.

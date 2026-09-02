@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-17T03:41:52Z"
 ---
 ## What it is
 MCP server `LinkedIn Profile Scraper`, catalogued on PulseMCP. Integrates with LinkedIn Profile Scraper API to asynchronously retrieve profile data including skills, certifications, publications, and honors for recruitment tools or professional data analysis.

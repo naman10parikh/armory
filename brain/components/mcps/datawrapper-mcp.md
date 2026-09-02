@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-07-01T02:54:16Z"
 ---
 ## What it is
 Enables AI assistants to create, update, publish, and manage Datawrapper charts via the Model Context Protocol.

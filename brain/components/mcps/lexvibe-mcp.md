@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T10:57:03Z"
 ---
 ## What it is
 One-step legal compliance for vibe-coded apps: scans project, generates privacy policies/TOS, installs cookie consent banner, and checks EU AI Act risk.

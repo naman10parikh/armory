@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T08:34:56Z"
 ---
 ## What it is
 Exposes RenderDoc capture analysis to AI clients via MCP, enabling offline analysis of .rdc files (action tree, pipeline state, textures, shaders) and GUI state interaction on Windows.

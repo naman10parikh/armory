@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T20:26:16Z"
 ---
 ## What it is
 A multi-tenant MCP server that exposes DataCrazy CRM REST API as 63 auto-generated tools, allowing AI assistants to query leads, conversations, pipelines, and more through natural language.

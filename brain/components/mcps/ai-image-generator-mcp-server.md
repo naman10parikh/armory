@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-13T15:57:58Z"
 ---
 ## What it is
 Generates web images using AI via ModelScope FLUX model, supporting multiple image types and custom prompts.

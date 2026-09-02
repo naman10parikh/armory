@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-04T18:40:06Z"
 ---
 ## What it is
 Implements a secure MCP server with API Key and JWT authentication, providing tools like echo, login, secure_action, and admin_action. Includes MCP Inspector integration for testing and debugging.

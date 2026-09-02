@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T01:06:43Z"
 ---
 ## What it is
 Enables creating, modifying, and checking Google Calendar events from Claude desktop app using MCP protocol with secure OAuth2 authentication.

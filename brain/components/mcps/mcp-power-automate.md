@@ -8,11 +8,13 @@ source_url: https://github.com/kaael1/mcp-power-automate
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-06-01T02:38:51Z"
 ---
 ## What it is
 Local-first MCP server and Chromium extension for AI-assisted Microsoft Power Automate work, enabling users to inspect, validate, edit, run, review, and revert cloud flows using a browser session.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T18:08:15Z"
 ---
 ## What it is
 A Model Context Protocol server that lets any AI assistant query the full text of Bangladeshi legislation directly from natural language.

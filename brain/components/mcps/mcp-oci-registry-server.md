@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-12T10:36:44Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for querying OCI container registries. Provides tools and prompts for interacting with registries like Docker Hub, GHCR, and other OCI-compatible registries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T15:20:19Z"
 ---
 ## What it is
 A context preservation engine for AI agents that bundles project state into a markdown package and syncs it to clipboard or cloud, enabling zero knowledge loss across sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-24T15:05:29Z"
 ---
 ## What it is
 Enables monitoring and analysis of Amazon RDS (MySQL, PostgreSQL) instances, metrics, and slow query logs via natural language.

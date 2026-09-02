@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T17:19:58Z"
 ---
 ## What it is
 Enables AI assistants to manage Check Point CloudGuard WAF configuration through natural language, including assets, profiles, practices, and policy.

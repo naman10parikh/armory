@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T23:56:59Z"
 ---
 ## What it is
 Enables natural language discovery, querying, and analysis of Thailand's official statistics from the National Statistical Office via SDMX REST API. It provides tools for searching dataflows, exploring structures, and fetching data with caching and bilingual support.

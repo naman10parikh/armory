@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-19T08:36:34Z"
 ---
 ## What it is
 MCP server `Jadx Daemon`, catalogued on PulseMCP. Provides Android APK and DEX file decompilation through jadx library, enabling extraction of AndroidManifest.xml content, decompiled Java code, smali bytecode, class hierarchies, method signatures, and caller relationships for malware analysis, reverse engineering, and security research workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:30:04Z"
 ---
 ## What it is
 Evidence-first YouTube research server enabling search, transcript citation, video analysis, flashcards, and collateral generation for MCP hosts and VS Code.

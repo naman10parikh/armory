@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T04:45:24Z"
 ---
 ## What it is
 MCP server for managing multiple SSH servers via AI assistants, offering tools for remote command execution, file operations, and system monitoring.

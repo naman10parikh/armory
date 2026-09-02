@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-04T14:57:35Z"
 ---
 ## What it is
 Enables generating GCP architecture, sequence, flow, and class diagrams using natural language or Python code via the diagrams library.

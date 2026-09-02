@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T20:37:17Z"
 ---
 ## What it is
 MCP server `Cryptair`, catalogued on PulseMCP. Tamper-evident attestation tools for AI agents using on-chain receipts recorded on Hedera Hashgraph.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T11:14:04Z"
 ---
 ## What it is
 A factory for generating Construct 3 games programmatically, exposed as an MCP server.

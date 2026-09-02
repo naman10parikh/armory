@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-07-16T08:40:05Z"
 ---
 ## What it is
 A comprehensive MCP service for cryptocurrency data acquisition with advanced technical analysis capabilities, supporting 100+ exchanges, 158 TA-Lib indicators, and dual transport protocols (stdio and HTTP/SSE).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T07:41:07Z"
 ---
 ## What it is
 Enables querying restaurant information in Daejeon, South Korea, through the city's open API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-15T01:59:50Z"
 ---
 ## What it is
 Provides local semantic search over files using embeddings, enabling directory indexing and natural language queries without external services.

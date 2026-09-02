@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-29T12:07:28Z"
 ---
 ## What it is
 MCP server `Marlo`, catalogued on PulseMCP. Provides integration with Marlo platform services for finance and operations platform designed for maritime and shipping companies.

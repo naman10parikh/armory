@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T13:49:00Z"
 ---
 ## What it is
 MCP server `Mac Letterhead`, catalogued on PulseMCP. Professional letterhead PDF generator for macOS with Markdown support and smart margin detection

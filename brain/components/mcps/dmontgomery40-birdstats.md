@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-23T19:33:55Z"
 ---
 ## What it is
 MCP server `BirdStats`, catalogued on PulseMCP. Integrates BirdNET-Pi and eBird APIs to enable cross-referencing bird detection data with observation records for ecological research and bird watching insights.

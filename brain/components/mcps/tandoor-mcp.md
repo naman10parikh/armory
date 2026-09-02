@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T20:11:42Z"
 ---
 ## What it is
 MCP server for Tandoor Recipes, enabling recipe management (create, edit, search, delete) and entity operations (foods, units, keywords) via natural language from Claude.

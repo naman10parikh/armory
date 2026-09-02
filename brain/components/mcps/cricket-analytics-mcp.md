@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T13:14:37Z"
 ---
 ## What it is
 Enables cricket analytics via natural language, including player stats, team performance, match results, comparisons, and news, powered by OpenAI and MCP.

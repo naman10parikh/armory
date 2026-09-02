@@ -8,10 +8,12 @@ source_url: https://github.com/jackkuo666/semanticscholar-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 80
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-03-25T09:36:38Z"
 ---
 ## What it is
 MCP server `Semantic Scholar`, catalogued on PulseMCP. Provides a bridge to Semantic Scholar for searching and analyzing academic papers with tools for keyword searches, metadata access, and citation network exploration

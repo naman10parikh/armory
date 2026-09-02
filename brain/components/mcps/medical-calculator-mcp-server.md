@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T15:40:45Z"
 ---
 ## What it is
 Provides validated clinical scoring tools for AI agents via MCP, with evidence-based calculators and smart tool discovery.

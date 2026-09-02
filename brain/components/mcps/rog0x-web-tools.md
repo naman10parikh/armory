@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-21T20:21:22Z"
 ---
 ## What it is
 MCP server `Web Tools (rog0x)`, catalogued on PulseMCP. Web content extraction, DuckDuckGo search, site monitoring, and HTML-to-markdown conversion with no API keys required.

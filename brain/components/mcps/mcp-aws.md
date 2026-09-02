@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-07T21:28:37Z"
 ---
 ## What it is
 Enables AI agents to provision and terminate AWS EC2 instances using natural language commands.

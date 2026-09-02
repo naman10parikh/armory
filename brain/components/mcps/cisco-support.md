@@ -8,10 +8,12 @@ source_url: https://github.com/sieteunoseis/mcp-cisco-support
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-08-04T20:54:25Z"
 ---
 ## What it is
 MCP server `Cisco Support APIs`, catalogued on PulseMCP. Integrates with Cisco's Support APIs to search bug databases, retrieve case information, and access product lifecycle data with OAuth2 authentication and rate limiting for technical support workflows and incident investigation.

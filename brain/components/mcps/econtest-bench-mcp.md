@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T10:41:41Z"
 ---
 ## What it is
 MCP server for controlling SIGLENT oscilloscopes and signal generators via USBTMC, enabling waveform generation, scope configuration, measurement, and evidence reporting for electronics competitions.

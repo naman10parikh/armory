@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T09:30:06Z"
 ---
 ## What it is
 Scans npm project dependencies for license compliance issues, detecting GPL contamination and generating detailed reports.

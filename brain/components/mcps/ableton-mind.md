@@ -8,11 +8,13 @@ source_url: https://github.com/Pantani/ableton-mind
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T01:55:25Z"
 ---
 ## What it is
 MCP server for Ableton Live that exposes the Live Object Model to LLMs, enabling natural language control of music production.

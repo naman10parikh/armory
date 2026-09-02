@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T08:48:26Z"
 ---
 ## What it is
 An MCP server that lets an AI agent drive and inspect a running Next.js app, with headless route/error introspection and a real DOM-based in-page bridge for interactive testing.

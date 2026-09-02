@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-22T09:03:53Z"
 ---
 ## What it is
 A professional MCP server for Bitbucket Server that enables automation of pull request management, code review, and repository operations.

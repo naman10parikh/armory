@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-24T12:56:04Z"
 ---
 ## What it is
 A local proxy that enables ChatGPT to access an Obsidian vault through the Obsidian Local REST API by tunneling via ngrok and adding the API key header.

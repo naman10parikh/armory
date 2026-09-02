@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-11-14T02:09:08Z"
 ---
 ## What it is
 Enables Claude Code to run OpenAI Codex (GPT-5) tasks asynchronously in the background, filtering out thinking logs to save 95% context tokens and allowing parallel execution.

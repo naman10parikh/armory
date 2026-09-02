@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:03Z"
 ---
 ## What it is
 Consulta em fonte oficial documentos de transferência de município via uma ferramenta de leitura, com pagamento por uso e hospedagem na plataforma.

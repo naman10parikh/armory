@@ -8,11 +8,13 @@ source_url: https://github.com/szgk/mcp-affinity-designer
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-28T13:22:21Z"
 ---
 ## What it is
 This MCP server enables AI assistants to interact with Affinity Designer for document manipulation, layer management, export operations, and tool automation.

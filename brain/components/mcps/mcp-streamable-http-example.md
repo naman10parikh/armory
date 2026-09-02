@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T02:41:11Z"
 ---
 ## What it is
 Demonstrates building an MCP server with Python, exposing tools like web search (Tavily) and basic utilities over streamable HTTP for AI assistants like Cursor.

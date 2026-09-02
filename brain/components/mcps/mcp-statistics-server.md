@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T16:43:00Z"
 ---
 ## What it is
 Provides LLMs access to Japanese and international statistical data (e-Stat, World Bank, OECD, Eurostat) with tools for data retrieval, chart generation, and statistical analysis.

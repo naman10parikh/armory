@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T04:52:54Z"
 ---
 ## What it is
 MCP server for semantic log ingestion, hybrid retrieval, and cleanup, enabling natural-language querying of log files with dense+BM25 retrieval and full provenance.

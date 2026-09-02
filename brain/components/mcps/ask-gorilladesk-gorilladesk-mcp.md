@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T18:12:40Z"
 ---
 ## What it is
 Read-only MCP server that lets Claude, ChatGPT, or Cursor answer pest-business questions from your GorillaDesk account in plain English—looks up customers, invoices, schedules, and technicians without creating or changing data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T02:13:37Z"
 ---
 ## What it is
 MCP server for searching and accessing historical Austrian newspapers from ANNO, providing full-text search, snippet extraction, and OCR text download.

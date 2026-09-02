@@ -8,10 +8,12 @@ source_url: https://github.com/darshjoshi/pitwall
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-02T07:45:15Z"
 ---
 ## What it is
 MCP server `Pitwall F1`, catalogued on PulseMCP. Provides real-time and historical Formula 1 telemetry, race results, strategy data, and visual plots from 75 years of racing history.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T10:20:51Z"
 ---
 ## What it is
 Enables analyzing AWS cloud costs from billing data, identifying waste, and providing mergeable fixes, with findings reconciled to actual invoices and priced at your negotiated rates.

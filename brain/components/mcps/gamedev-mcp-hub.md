@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T13:59:08Z"
 ---
 ## What it is
 Aggregates game-development MCP servers (Blender, Godot, GitHub, Obsidian) behind one interface for AI clients, with smart task routing and a local GUI for multi-client support.

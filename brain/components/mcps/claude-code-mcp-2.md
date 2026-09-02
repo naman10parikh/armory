@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T09:33:19Z"
 ---
 ## What it is
 Delegates coding tasks to the local Claude Code CLI via MCP, offering run, review, and status tools for MCP-compatible agents.

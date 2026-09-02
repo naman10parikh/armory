@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, integration-services]
+forks: 0
+pushed_at: "2025-04-20T21:42:09Z"
 ---
 ## What it is
 Google Agent-to-Agent protocol implementation

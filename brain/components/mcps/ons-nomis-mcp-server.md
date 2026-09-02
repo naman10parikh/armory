@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T20:33:27Z"
 ---
 ## What it is
 Provides access to UK economic, social, and labour-market statistics via the ONS beta and Nomis APIs, enabling discovery and retrieval of time series, datasets, and census data.

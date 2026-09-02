@@ -8,10 +8,12 @@ source_url: https://github.com/luarss/openroad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-09-01T05:10:20Z"
 ---
 ## What it is
 MCP server `OpenROAD`, catalogued on PulseMCP. Interactive electronic design automation sessions for the OpenROAD RTL-to-GDS toolchain.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T23:06:42Z"
 ---
 ## What it is
 An MCP server that lets AI agents delegate domain-specific tasks to local Ollama models, using purpose-built specialists for structured tasks like config generation, parsing, and validation.

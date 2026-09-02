@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:03:27Z"
 ---
 ## What it is
 Read-only MCP server for querying Cloudera Manager metrics (CPU, memory, disk, health) for CDP Public Cloud DataHubs via natural language, using workload credentials and Knox.

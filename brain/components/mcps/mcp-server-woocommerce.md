@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-05T06:33:34Z"
 ---
 ## What it is
 MCP server for managing WooCommerce stores through AI assistants like Claude. Provides 101 tools covering products, orders, customers, coupons, shipping, taxes, webhooks, settings, reports, and more.

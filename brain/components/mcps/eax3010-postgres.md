@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T12:37:50Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. Provides secure PostgreSQL database operations with comprehensive safety guards, audit logging, and multi-database connection management.

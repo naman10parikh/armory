@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-04T22:08:02Z"
 ---
 ## What it is
 Enables managing Google Calendar events including creating, listing, updating, and deleting events through natural language.

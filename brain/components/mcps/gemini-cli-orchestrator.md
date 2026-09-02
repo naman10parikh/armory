@@ -8,10 +8,12 @@ source_url: https://github.com/dnnyngyen/gemini-cli-orchestrator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-07-08T03:11:54Z"
 ---
 ## What it is
 MCP server `Gemini CLI Orchestrator`, catalogued on PulseMCP. Provides strategic metaprompting guidance for Google's Gemini CLI through intelligent frameworks that teach agents sequential analysis workflows, ReAct loops, and synthesis strategies optimized for Gemini's 1M+ token context window without executing commands directly.

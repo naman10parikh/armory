@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:46Z"
 ---
 ## What it is
 Consulta de multas da Prefeitura de João Pessoa em fonte oficial, com uma única ferramenta de leitura, hospedada via MCP over HTTP e paga por uso com créditos pré-pagos.

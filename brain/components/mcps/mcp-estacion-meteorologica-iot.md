@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T02:29:33Z"
 ---
 ## What it is
 Exposes meteorological sensor data (temperature, humidity, pressure) from an IoT weather station via Supabase. Enables natural language queries for current readings, history, statistics, and alerts through MCP-compatible clients like Claude Desktop.

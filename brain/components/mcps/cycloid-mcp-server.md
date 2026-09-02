@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-09T08:05:31Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Cycloid platform for infrastructure management, including blueprint discovery, stack creation, pipeline listing, and event monitoring via natural language.

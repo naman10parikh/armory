@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:41:41Z"
 ---
 ## What it is
 Local Streamable HTTP MCP server exposing Unity Editor inspection, authoring, testing, profiling, play-mode, and build tools.

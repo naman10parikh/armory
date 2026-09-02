@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T17:47:32Z"
 ---
 ## What it is
 Provides safe, allowlisted local filesystem access for MCP-compatible AI clients, enabling directory listing, file reading/writing (with byte limits), and text search while blocking paths outside approved roots and symlink escapes.

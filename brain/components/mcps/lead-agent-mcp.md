@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T17:40:27Z"
 ---
 ## What it is
 A lightweight MCP server that lets distributed AI agent teams query a designated project lead before making design decisions, preventing divergence.

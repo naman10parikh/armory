@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-12T21:47:24Z"
 ---
 ## What it is
 MCP server `Createya`, catalogued on PulseMCP. Access 100+ AI models including FLUX, Sora, Kling, GPT, and Claude via MCP.

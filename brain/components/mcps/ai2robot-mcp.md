@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T17:26:21Z"
 ---
 ## What it is
 MCP server that lets AI agents dispatch physical tasks to robot executors and track the task -> proof -> verify -> settle workflow, enabling task creation, executor discovery, proof submission, and verification status checks.

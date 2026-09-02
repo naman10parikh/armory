@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T15:32:43Z"
 ---
 ## What it is
 MCP server that enables querying Brazilian vehicle data by plate, returning details like brand, model, year, and color. It is read-only, hosted, and works with any MCP client over HTTP.

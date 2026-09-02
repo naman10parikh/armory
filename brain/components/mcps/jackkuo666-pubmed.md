@@ -8,10 +8,12 @@ source_url: https://github.com/jackkuo666/pubmed-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 118
+stars: 127
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 45
+pushed_at: "2025-05-08T12:45:30Z"
 ---
 ## What it is
 MCP server `PubMed`, catalogued on PulseMCP. Provides a bridge to PubMed for searching, filtering, retrieving, and analyzing medical research articles with tools for keyword searches, metadata access, PDF downloads, and structured paper analysis.

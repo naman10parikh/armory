@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-03-16T23:47:46Z"
 ---
 ## What it is
 MCP server for managing and analyzing Amazon Advertising data through natural language queries.

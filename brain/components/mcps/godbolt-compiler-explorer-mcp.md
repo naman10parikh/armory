@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-22T21:56:37Z"
 ---
 ## What it is
 Enables compiling source code and exploring assembly outputs via the Godbolt Compiler Explorer API. Supports multiple languages, compilers, and optimization levels.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T17:13:56Z"
 ---
 ## What it is
 Route optimization API for Brazil with tools for geocoding, distance matrices, isochrones, and advanced vehicle routing, supporting constraints like time windows, skills, and multi-profile fleets.

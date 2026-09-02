@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-21T14:23:39Z"
 ---
 ## What it is
 A proxy MCP server that manages multiple upstream MCP servers by grouping them and loading tool schemas on-demand, reducing LLM context usage.

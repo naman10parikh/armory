@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T06:04:45Z"
 ---
 ## What it is
 An MCP server that enables Claude agents to interactively merge security audit findings by grouping duplicates, selecting canonicals, preserving authorship, and generating edit instructions, all against a GitHub issues repository.

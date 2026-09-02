@@ -12,6 +12,8 @@ stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-02T13:12:19Z"
 ---
 ## What it is
 MCP server `GitLab`, catalogued on PulseMCP. Integrates with GitLab's API to provide merge request management, code review workflows, and branch-based development operations through tools for listing, retrieving detailed information, accessing discussions, and finding associated merge requests.

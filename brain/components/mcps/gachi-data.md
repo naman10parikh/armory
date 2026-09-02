@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T05:15:44Z"
 ---
 ## What it is
 Provides Japanese station accessibility and hazard data via MCP tools, including toilet information, public toilet locations, and official hazard categories.

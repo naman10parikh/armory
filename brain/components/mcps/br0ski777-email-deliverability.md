@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:51:16Z"
 ---
 ## What it is
 MCP server `Email Deliverability Audit`, catalogued on PulseMCP. Audits email domain health by checking SPF, DKIM, DMARC, and MX records, returning a deliverability score from 0 to 100.

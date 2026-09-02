@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T08:08:53Z"
 ---
 ## What it is
 Enables AI agents to access DCP's Saudi-hosted AI compute platform for inference, GPU rental, and storage via tool calls.

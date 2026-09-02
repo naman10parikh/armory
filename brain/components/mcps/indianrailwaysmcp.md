@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:16:01Z"
 ---
 ## What it is
 Enables AI assistants to query real-time Indian Railways data including train schedules, live status, PNR status, seat availability, fares, and coach positions via the Model Context Protocol.

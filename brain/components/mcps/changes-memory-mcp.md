@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:41:52Z"
 ---
 ## What it is
 A local MCP server that stores user-approved corrections, preferences, and reusable criteria in plain Markdown files, with separate global and project memory. It provides tools to list, search, and retrieve relevant criteria to help agents avoid repeating mistakes.

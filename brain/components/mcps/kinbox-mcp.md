@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-09T06:26:41Z"
 ---
 ## What it is
 MCP server for integration with Kinbox API, enabling WhatsApp, Instagram, and multi-channel customer service management through tools for contacts, campaigns, deals, and messaging.

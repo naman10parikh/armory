@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-14T12:06:40Z"
 ---
 ## What it is
 Offline MCP server for ICD medical code lookup, search, and crosswalk translation with 124K codes and 102K mappings, all local with zero network calls.

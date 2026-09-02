@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T12:05:48Z"
 ---
 ## What it is
 Evidence-first MCP server for diagnosing problems with hooks, plugins, skills and configuration, returning ranked probable causes and reviewable fixes without modifying the workspace.

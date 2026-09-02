@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-10T17:51:46Z"
 ---
 ## What it is
 Enables managing multiple Kubernetes clusters simultaneously with over 60 tools for cluster operations, resource management, monitoring, RBAC, storage, networking, and more through AI assistants.

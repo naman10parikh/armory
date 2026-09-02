@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-08T23:57:01Z"
 ---
 ## What it is
 MCP server `Obsidian Diary`, catalogued on PulseMCP. Provides intelligent diary management for Obsidian vaults with template generation, reflection prompts based on recent entries, and automatic backlink creation between related entries using theme extraction to connect similar topics and encourage deeper self-awareness through personalized questions.

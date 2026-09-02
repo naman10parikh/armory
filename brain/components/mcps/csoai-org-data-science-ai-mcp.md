@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T14:40:03Z"
 ---
 ## What it is
 MCP server `Data Science AI`, catalogued on PulseMCP. Machine learning and statistical analysis tools for data science workflows.

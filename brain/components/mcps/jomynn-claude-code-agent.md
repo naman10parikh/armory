@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-13T04:10:39Z"
 ---
 ## What it is
 MCP server `Claude Code Agent`, catalogued on PulseMCP. Provides persistent memory management and project automation capabilities through automated memory dumps with cron scheduling, comprehensive project state tracking, and n8n workflow integration for AI-assisted coding projects.

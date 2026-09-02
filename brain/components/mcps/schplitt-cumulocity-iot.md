@@ -8,10 +8,12 @@ source_url: https://github.com/schplitt/mc8yp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-02T02:37:36Z"
 ---
 ## What it is
 MCP server `Cumulocity IoT`, catalogued on PulseMCP. Integrates with Software AG's Cumulocity IoT platform for device management, time-series data analysis, and operational monitoring.

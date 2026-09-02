@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T10:05:53Z"
 ---
 ## What it is
 Enables AI agents to create and control real, isolated browser profiles with engine-level fingerprinting and per-profile proxies, providing antidetect browsing capabilities through a Model Context Protocol interface.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-29T20:49:36Z"
 ---
 ## What it is
 MCP server `GeoFS Flight Simulator`, catalogued on PulseMCP. Enables natural language control of aircraft in the GeoFS flight simulator through a WebSocket server that translates commands into simulator actions for takeoff, landing, and navigation maneuvers.

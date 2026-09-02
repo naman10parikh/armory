@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-23T14:22:07Z"
 ---
 ## What it is
 MCP server `iOS Development Tools`, catalogued on PulseMCP. Automates iOS development workflows through command-line tools like simctl, xcodebuild, and idb for building apps, managing simulators, controlling UI interactions, capturing screenshots, and debugging Swift concurrency.

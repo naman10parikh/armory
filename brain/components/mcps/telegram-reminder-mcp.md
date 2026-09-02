@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T06:48:20Z"
 ---
 ## What it is
 Enables users to manage Telegram reminders via natural language or commands, with features like setting, updating, deleting, and listing reminders, while ensuring multi-user privacy.

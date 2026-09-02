@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-20T01:53:35Z"
 ---
 ## What it is
 Extracts brand identity (colors, typography, spacing) from any website and generates HTML/CSS replicas or applies branding to templates.

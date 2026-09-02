@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T13:00:32Z"
 ---
 ## What it is
 CP server that generates AGENTS.md and CLAUDE.md from your real repo, verifies every command actually exists, detects doc drift, and saves session context — all locally, no data leaves your machine. Free-tier friendly via Groq/NVIDIA.

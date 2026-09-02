@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T18:47:14Z"
 ---
 ## What it is
 Enables coverage-aware Apple Health metrics, distinguishing observed values from placeholders and providing day-level coverage and trend tools.

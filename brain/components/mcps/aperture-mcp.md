@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-05T10:54:12Z"
 ---
 ## What it is
 A commitment tripwire that flags when a tracked commitment disappears verbatim between document versions; enables AI agents to call this check via MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-29T10:42:52Z"
 ---
 ## What it is
 Agent-first YouTube Shorts uploader with dry-run validation, OAuth checks and synthetic-media metadata.

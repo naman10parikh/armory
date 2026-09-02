@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-02T02:45:22Z"
 ---
 ## What it is
 MCP server for managing Laravel Forge servers, sites, and deployments via the Forge API.

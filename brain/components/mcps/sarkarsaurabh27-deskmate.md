@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-14T07:01:22Z"
 ---
 ## What it is
 MCP server `Deskmate`, catalogued on PulseMCP. Enables remote control of your Mac through natural language commands, executing shell commands, managing files, and performing system operations with built-in approval mechanisms for security.

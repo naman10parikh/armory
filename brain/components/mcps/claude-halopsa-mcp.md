@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T22:01:36Z"
 ---
 ## What it is
 Enables Claude to interact with HaloPSA by authenticating via Azure CLI and fetching OAuth secrets from Azure Key Vault at runtime.

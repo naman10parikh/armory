@@ -8,10 +8,12 @@ source_url: https://github.com/angrysky56/memvid_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-21T02:37:05Z"
 ---
 ## What it is
 MCP server `Memvid`, catalogued on PulseMCP. Converts text content and PDFs into searchable video-based memory systems using H.264/H.265 encoding, enabling semantic search and chat interactions with encoded content for persistent knowledge storage and retrieval.

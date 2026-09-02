@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T03:50:33Z"
 ---
 ## What it is
 MCP server `Academic Search`, catalogued on PulseMCP. Searches Semantic Scholar, arXiv, and OpenAlex for academic papers with citation metrics and impact factors.

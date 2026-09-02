@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-12T03:17:55Z"
 ---
 ## What it is
 Provides read-only access to Google Drive meeting transcripts and Google Calendar events, enabling AI assistants to search, analyze, and retrieve meeting insights.

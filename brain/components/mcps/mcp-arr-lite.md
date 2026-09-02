@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T10:17:10Z"
 ---
 ## What it is
 MCP server for managing media downloads with Radarr and Sonarr, providing granular tools for searching, adding, and grabbing movies and TV shows through natural language.

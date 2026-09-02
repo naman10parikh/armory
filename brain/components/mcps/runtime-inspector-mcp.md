@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T03:22:20Z"
 ---
 ## What it is
 Read-only MCP server to inspect allowlisted Docker containers, systemd services, JSONL logs, and HTTP health endpoints without arbitrary shell access.

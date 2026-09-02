@@ -8,10 +8,12 @@ source_url: https://github.com/burtthecoder/mcp-dnstwist
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-03-03T06:57:46Z"
 ---
 ## What it is
 MCP server `DNSTwist`, catalogued on PulseMCP. Integrates with dnstwist to automate DNS fuzzing for detecting typosquatting, phishing, and corporate espionage threats.

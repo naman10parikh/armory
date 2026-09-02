@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-28T14:30:00Z"
 ---
 ## What it is
 MCP server `MetaMask`, catalogued on PulseMCP. Integrates with MetaMask wallet to enable secure blockchain operations including transaction sending, smart contract deployment and interaction, ENS resolution, and chain switching across Ethereum networks while keeping private keys protected within the user's wallet.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T22:10:38Z"
 ---
 ## What it is
 A lightweight MCP server that enables sending native desktop notifications with action buttons and text replies, compatible with any MCP client.

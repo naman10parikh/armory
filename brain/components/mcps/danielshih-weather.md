@@ -8,10 +8,12 @@ source_url: https://github.com/isdaniel/mcp_weather_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 35
+pushed_at: "2026-07-26T01:49:13Z"
 ---
 ## What it is
 MCP server `Weather`, catalogued on PulseMCP. Provides real-time weather information for any city through the Open-Meteo API without requiring API keys or complex setup.

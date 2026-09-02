@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T03:14:04Z"
 ---
 ## What it is
 Enables stdio-only MCP clients to connect to the Frantic bounty board, letting users post and fund bounties with Base USDC and outsource tasks to AI agents paid on accepted delivery.

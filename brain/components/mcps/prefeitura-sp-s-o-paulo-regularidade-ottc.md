@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:22Z"
 ---
 ## What it is
 A read-only MCP server to query São Paulo's city hall for Regularidade OTTC (establishment regularity) data. Works with any MCP client over HTTP.

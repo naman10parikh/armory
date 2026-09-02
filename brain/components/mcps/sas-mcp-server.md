@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T07:49:08Z"
 ---
 ## What it is
 An MCP server for executing SAS code and managing SAS Viya resources, including data, CAS tables, models, and batch jobs, with support for multiple deployment modes and authentication options.

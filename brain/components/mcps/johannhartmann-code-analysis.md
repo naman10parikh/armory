@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-27T04:43:15Z"
 ---
 ## What it is
 MCP server `Code Analysis`, catalogued on PulseMCP. Provides intelligent code analysis and semantic search for large codebases using TreeSitter parsing, PostgreSQL with pgvector embeddings, and Git-based indexing to enable natural language code search, architectural analysis, dependency mapping, and refactoring suggestions across repositories with up to 10M lines of code.

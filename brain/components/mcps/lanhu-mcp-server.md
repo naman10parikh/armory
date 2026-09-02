@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T08:38:14Z"
 ---
 ## What it is
 Enables AI coding tools to read Lanhu design data and automate Design to Code, including project browsing, layer tree extraction, DDS semantic components, and code generation.

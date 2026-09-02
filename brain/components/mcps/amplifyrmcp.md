@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T12:22:47Z"
 ---
 ## What it is
 AmplifyrMCP is an MCP server that enables Claude Desktop to manage LinkedIn, Medium, and Telegram accounts through natural language, allowing users to post, schedule, engage, and analyze content without leaving the AI assistant.

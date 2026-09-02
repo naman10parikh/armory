@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-22T19:15:45Z"
 ---
 ## What it is
 MCP server `Bug Detector`, catalogued on PulseMCP. Identifies and analyzes software defects through automated code analysis for quality assurance and development process enhancement.

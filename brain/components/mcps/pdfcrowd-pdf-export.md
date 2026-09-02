@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-20T15:07:02Z"
 ---
 ## What it is
 MCP server `Pdfcrowd PDF Export`, catalogued on PulseMCP. Professional PDF generation from prompts using the Pdfcrowd conversion API.

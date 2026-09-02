@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-17T17:43:58Z"
 ---
 ## What it is
 MCP server `TMDB`, catalogued on PulseMCP. Provides a bridge to The Movie Database (TMDB) API, enabling retrieval of movie information, trending films, details, and reviews through type-safe TypeScript resources and tools.

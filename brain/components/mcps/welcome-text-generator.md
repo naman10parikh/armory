@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-12T14:58:35Z"
 ---
 ## What it is
 Generates professional, modular welcome texts for new employees by extracting structured data from free-text input and assembling customizable templates.

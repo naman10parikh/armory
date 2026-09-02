@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T07:44:20Z"
 ---
 ## What it is
 Verifies C2PA Content Credentials for local files or URLs and returns an LLM-ready verdict on trust, AI generation, and provenance.

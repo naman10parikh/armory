@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-10T17:25:16Z"
 ---
 ## What it is
 MCP server `Secure Shell Executor`, catalogued on PulseMCP. Provides a secure way to execute shell commands with robust validation, whitelisting, and timeout handling through an asyncio-powered Python implementation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:13:33Z"
 ---
 ## What it is
 Enables querying Hong Kong Government procurement contracts awarded data through natural language, with no API key required.

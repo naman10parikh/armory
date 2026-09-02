@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:15:36Z"
 ---
 ## What it is
 The official MCP server for Nahook. Manage webhook endpoints, inspect deliveries and delivery attempts, retry failed deliveries, and list environments — directly from Claude, Cursor, Cline, or any MCP-compatible client.

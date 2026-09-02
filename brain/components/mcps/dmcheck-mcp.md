@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:35:54Z"
 ---
 ## What it is
 MCP server for refereeing tabletop RPG sessions by analyzing transcripts against a configurable charter, providing deterministic findings on rule violations like unanswered questions or unacknowledged dice rolls.

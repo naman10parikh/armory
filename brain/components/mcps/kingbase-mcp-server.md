@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-25T05:17:04Z"
 ---
 ## What it is
 A Cursor-integrated MCP server for Kingbase (人大金仓) databases, enabling schema queries, document generation, and SQL execution with configurable security modes (readonly, limited_write, full_access).

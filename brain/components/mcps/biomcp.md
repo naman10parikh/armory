@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:01:52Z"
 ---
 ## What it is
 A high-performance MCP server that gives LLMs access to 25 biomedical tools federated across 50+ upstream APIs for genes, variants, drugs, diseases, literature, clinical trials, and structural biology.

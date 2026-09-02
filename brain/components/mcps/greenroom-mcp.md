@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:53:36Z"
 ---
 ## What it is
 MCP server that connects AI coding agents to Greenroom's per-story Storybook reviews, allowing them to list feedback with screenshots, reply to threads, mark stories addressed, and approve stories when explicitly delegated.

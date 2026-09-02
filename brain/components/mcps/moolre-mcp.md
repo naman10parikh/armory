@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:33:00Z"
 ---
 ## What it is
 MCP server that exposes Moolre's API as 24 tools for AI agents, enabling account management, transfers, payments, SMS, and WhatsApp operations.

@@ -8,10 +8,12 @@ source_url: https://github.com/migratorywhale/stackchan-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-08-31T00:13:20Z"
 ---
 ## What it is
 MCP server `Stack-chan`, catalogued on PulseMCP. Controls Stack-chan robots via AI with text-to-speech, camera, and servo management through M5Stack CoreS3.

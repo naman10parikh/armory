@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:08:00Z"
 ---
 ## What it is
 Enables reading and writing local files via MCP, supporting Bun, Deno, or Node.js runtimes.

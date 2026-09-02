@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-28T14:41:10Z"
 ---
 ## What it is
 MCP server `GraphQL Bridge`, catalogued on PulseMCP. Provides a bridge between MCP clients and GraphQL APIs, enabling introspection of schemas and execution of arbitrary operations with full support for queries, mutations, variables, and authentication.

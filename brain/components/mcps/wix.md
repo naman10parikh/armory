@@ -8,10 +8,12 @@ source_url: https://github.com/wix/wix-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-07-23T02:06:34Z"
 ---
 ## What it is
 MCP server `Wix`, catalogued on PulseMCP. Enables website creation and management with Wix business solutions including eCommerce, booking systems, payment processing, and CRM functionality through natural language commands

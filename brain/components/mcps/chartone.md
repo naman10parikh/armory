@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T19:14:02Z"
 ---
 ## What it is
 MCP server `ChartOne`, catalogued on PulseMCP. Hosted chart rendering for AI agents — generate themed chart URLs with zero setup.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:36:28Z"
 ---
 ## What it is
 Enables querying blockchain data across multiple EVM chains via RouteMesh, offering built-in RPC tools for blocks, transactions, logs, balances, and gas estimation, plus customer management tools for API keys and usage.

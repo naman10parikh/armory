@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T05:36:05Z"
 ---
 ## What it is
 Enables interaction with Dialpad's tools and services through a unified API, allowing users to manage communications via natural language.

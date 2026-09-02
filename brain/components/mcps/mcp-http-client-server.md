@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-28T10:22:16Z"
 ---
 ## What it is
 A powerful MCP server for making HTTP requests, GraphQL queries, and TCP/Telnet connections from AI assistants.

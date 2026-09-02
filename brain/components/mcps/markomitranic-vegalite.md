@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-13T10:17:07Z"
 ---
 ## What it is
 MCP server `Vega-Lite Data Visualization`, catalogued on PulseMCP. Enables data visualization capabilities using Vega-Lite specification language to create custom charts and graphs from tabular data, with output as either text specifications or rendered PNG images.

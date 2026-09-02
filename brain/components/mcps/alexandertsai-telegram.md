@@ -8,10 +8,12 @@ source_url: https://github.com/alexandertsai/mcp-telegram
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-31T21:16:25Z"
 ---
 ## What it is
 MCP server `Telegram`, catalogued on PulseMCP. Enables Claude to monitor and respond to Telegram messages by accessing chat lists, reading conversations, and sending replies that match the user's texting style through Telethon API integration.

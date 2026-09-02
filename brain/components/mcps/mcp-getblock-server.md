@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-13T15:44:31Z"
 ---
 ## What it is
 Enables querying blockchain data from Ethereum and Solana via GetBlock.io API, including wallet balances, transactions, gas prices, and account information.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 4
+forks: 6
+pushed_at: "2026-08-27T20:13:50Z"
 ---
 ## What it is
 Trust verification and security scanning for AI agents. Checks security posture of third-party MCP servers and tools with signed attestations (Ed25519/JWS) before interaction.

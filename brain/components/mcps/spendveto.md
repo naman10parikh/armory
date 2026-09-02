@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T09:16:30Z"
 ---
 ## What it is
 Governs AI agents' spending by enforcing budgets, approvals, and kill switches before any payment, providing an MCP interface for tool calls with policy checks.

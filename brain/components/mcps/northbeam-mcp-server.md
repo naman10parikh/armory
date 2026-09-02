@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-03-31T13:08:07Z"
 ---
 ## What it is
 Provides access to Northbeam marketing analytics data, enabling querying of metrics, dimensions, channel performance, cohort analysis, and attribution data.

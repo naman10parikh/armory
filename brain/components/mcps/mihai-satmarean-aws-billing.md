@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T08:39:17Z"
 ---
 ## What it is
 MCP server `AWS Billing Unified`, catalogued on PulseMCP. Extends the official AWS billing MCP server with cost-by-tag analysis, CUR parsing, and additional Cost Explorer capabilities.

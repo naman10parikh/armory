@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T15:49:01Z"
 ---
 ## What it is
 Enables asking natural language questions about local videos, using Whisper transcription, ChromaDB vector storage, and Groq for timestamped answers via MCP.

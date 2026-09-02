@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T22:52:49Z"
 ---
 ## What it is
 Monitors MCP protocol traffic across legacy and modern lanes, records usage evidence in a durable SQLite ledger, and recommends when the legacy fallback can safely be removed.

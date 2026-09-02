@@ -8,10 +8,12 @@ source_url: https://github.com/nasoma/joomla-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-11-12T21:22:40Z"
 ---
 ## What it is
 MCP server `Joomla Articles`, catalogued on PulseMCP. Enables AI to create, update, and manage Joomla website articles through specialized tools for retrieving content, converting markdown to HTML, and controlling publication states via the Joomla Web Services API.

@@ -8,10 +8,12 @@ source_url: https://github.com/max-rousseau/mcp-hass
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T14:34:01Z"
 ---
 ## What it is
 MCP server `Home Assistant`, catalogued on PulseMCP. Connects AI assistants to Home Assistant via REST and WebSocket APIs with 10 tools for entity control, camera snapshots, and configuration management.

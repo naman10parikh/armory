@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T02:20:52Z"
 ---
 ## What it is
 MCP server for Skool.com communities. Enables listing/approving members, posting, commenting, and managing courses.

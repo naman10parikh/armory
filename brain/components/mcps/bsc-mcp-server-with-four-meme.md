@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-20T17:11:03Z"
 ---
 ## What it is
 Enables interaction with Binance Smart Chain, including wallet management, token transfers, contract execution, PancakeSwap swaps, and four.meme token creation.

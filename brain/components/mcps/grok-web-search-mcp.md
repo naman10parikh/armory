@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T02:46:29Z"
 ---
 ## What it is
 A lean FastMCP server that wraps xAI's web_search and x_search tools for MCP hosts, enabling live web and X search with citations.

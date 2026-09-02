@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-23T08:33:43Z"
 ---
 ## What it is
 MCP server `DocBase`, catalogued on PulseMCP. Connects AI systems to DocBase document management platform for searching, retrieving, creating, and updating posts through a clean Go-based API requiring minimal configuration.

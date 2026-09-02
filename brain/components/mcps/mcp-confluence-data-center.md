@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T09:52:09Z"
 ---
 ## What it is
 Connects AI assistants to Confluence Server/Data Center, enabling search, content management, attachments, and natural-language interaction with your Confluence instance.

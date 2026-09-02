@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-17T09:12:25Z"
 ---
 ## What it is
 MCP server `Django Migrations`, catalogued on PulseMCP. Integrates Django migrations across distributed services, enabling coordinated database schema changes and enhanced migration safety for large-scale projects.

@@ -8,10 +8,12 @@ source_url: https://github.com/waldzellai/waldzell-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 201
+stars: 202
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2026-07-10T08:32:08Z"
 ---
 ## What it is
 MCP server `Yelp Fusion AI`, catalogued on PulseMCP. Collection of specialized servers for Google TypeScript style analysis, Yelp Fusion API integration, systematic thinking frameworks, and probabilistic decision-making algorithms, each containerized with Docker for independent deployment.

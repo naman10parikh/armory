@@ -8,10 +8,12 @@ source_url: https://github.com/browsercat/browsercat-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-21T03:26:14Z"
 ---
 ## What it is
 MCP server `BrowserCat`, catalogued on PulseMCP. Enables LLMs to interact with web pages through cloud-based browser automation for navigation, screenshot capture, element interaction, and JavaScript execution without local browser installation.

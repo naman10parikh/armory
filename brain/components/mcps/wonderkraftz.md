@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-12T11:52:43Z"
 ---
 ## What it is
 MCP server `Wonderkraftz`, catalogued on PulseMCP. Premium gifting marketplace with product search, recommendations, cart management, and checkout via Shopify Storefront API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T03:46:05Z"
 ---
 ## What it is
 Enables AI assistants to manage digital signage infrastructure through the Revel Digital REST API, allowing natural language control of devices, content, playlists, and system monitoring.

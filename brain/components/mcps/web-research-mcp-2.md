@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:26:18Z"
 ---
 ## What it is
 Enables AI agents to search and fetch high-quality information from multiple sources, including general web APIs, Wikipedia, arXiv, Hacker News, Stack Exchange, and Crossref, with optional pro-mode deep research and clean markdown page extraction.

@@ -8,10 +8,12 @@ source_url: https://github.com/tjp2021/mcp-thinkgate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-28T03:07:16Z"
 ---
 ## What it is
 MCP server `ThinkGate`, catalogued on PulseMCP. Automatically classifies prompt complexity and routes to optimal Claude thinking modes, selecting between no thinking, medium effort, and maximum effort based on task demands.

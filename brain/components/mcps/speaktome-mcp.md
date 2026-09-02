@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T00:02:45Z"
 ---
 ## What it is
 A local MCP server for Linux that records microphone audio and returns transcripts using local faster-whisper transcription.

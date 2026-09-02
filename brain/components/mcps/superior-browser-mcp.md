@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T02:05:22Z"
 ---
 ## What it is
 Enables AI-powered browser automation with real profiles, supporting interaction, navigation, form filling, and advanced features like visual overlays and self-healing selectors.

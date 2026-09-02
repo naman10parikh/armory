@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T12:08:52Z"
 ---
 ## What it is
 A modular platform that enables LLM agents to discover, register, and execute both local tools and tools from external MCP servers, with REST APIs for server management and Streamable HTTP support.

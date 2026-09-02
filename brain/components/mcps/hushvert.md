@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T21:29:04Z"
 ---
 ## What it is
 File conversion for AI agents: office docs to PDF, PDF to Word, document interchange (Markdown/HTML/EPUB/LaTeX), and audio/video transcodes via the hushvert hosted API. Tools: convert_file, convert_poll, list_formats, check_usage.

@@ -8,10 +8,12 @@ source_url: https://github.com/op7418/generative-ui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-03-16T04:50:31Z"
 ---
 ## What it is
 MCP server `Generative UI`, catalogued on PulseMCP. Teaches AI models to generate interactive visualizations, charts, diagrams, and mockups.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T10:58:53Z"
 ---
 ## What it is
 A NAS music library downloader shell that aggregates multiple sources, writes ID3 tags, and exposes MCP tools for AI agents to search, download, and manage music.

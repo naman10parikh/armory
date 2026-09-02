@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T08:55:35Z"
 ---
 ## What it is
 An MCP server that allows Cursor Agent to control your desktop via a desktop pet, enabling actions like mouse movement, clicks, typing, and app management.

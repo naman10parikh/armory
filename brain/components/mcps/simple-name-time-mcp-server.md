@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T08:25:16Z"
 ---
 ## What it is
 A minimal MCP server that returns the current local server time for a given name and a lucky number.

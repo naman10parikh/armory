@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T17:37:24Z"
 ---
 ## What it is
 MCP server that enables LLMs to query Apple Health data such as steps, heart rate, sleep, and workouts via natural language, with secure cloud access through OAuth.

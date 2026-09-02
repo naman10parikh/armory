@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T19:59:58Z"
 ---
 ## What it is
 A minimal Python MCP server over Streamable HTTP using FastAPI, exposing demo tools like ping, get_positions, and list_upcoming_corporate_actions that can be replaced with read-only adapters to custody data.

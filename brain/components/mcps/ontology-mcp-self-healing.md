@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-01-17T10:24:07Z"
 ---
 ## What it is
 Self-healing MCP server that monitors database schema changes, detects differences, and automatically updates ontology mappings using AI to ensure agents continue working without manual intervention.

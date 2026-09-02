@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T21:09:58Z"
 ---
 ## What it is
 Clarity and memory for Claude. Persistent memory, intelligent context ranking, safety modes, and session checkpoints for Claude Desktop & Claude Code in a single install.

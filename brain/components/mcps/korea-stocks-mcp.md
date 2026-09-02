@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T11:45:11Z"
 ---
 ## What it is
 A read-only MCP server skeleton for Korean stocks data, with tool stubs for stock quotes, orderbooks, and DART filings; all data tools currently return a NOT_IMPLEMENTED error.

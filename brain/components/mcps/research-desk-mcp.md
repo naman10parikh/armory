@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T14:35:42Z"
 ---
 ## What it is
 Enables AI assistants to manage structured research ideas and retrieve recent arXiv papers by idea ID, automatically generating Markdown reports.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-11T15:57:53Z"
 ---
 ## What it is
 MCP server `Eighty`, catalogued on PulseMCP. Gamified personal development app where users complete real-world quests, build character stats, and progress through skill trees.

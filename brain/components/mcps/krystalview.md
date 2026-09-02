@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-10T11:36:36Z"
 ---
 ## What it is
 MCP server `KrystalView`, catalogued on PulseMCP. Provides AI agents with access to website analytics, session replay data, friction scoring, conversion funnels, and anomaly detection from KrystalView.

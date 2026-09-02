@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T21:59:03Z"
 ---
 ## What it is
 Local-first MCP server that captures web URLs (X, Reddit, YouTube, Wikipedia, articles) as typed data + Markdown into a self-hosted capture/store/recall substrate, with offline semantic recall. Six tools over a local khiipd daemon; run khiipd serve first.

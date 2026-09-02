@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T23:04:23Z"
 ---
 ## What it is
 Enables querying GSA Per Diem rates for travel destinations, providing daily lodging and meal allowance data from the U.S. General Services Administration API.

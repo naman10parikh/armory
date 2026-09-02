@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-18T08:22:43Z"
 ---
 ## What it is
 Institutional-grade MCP server for the Colombo Stock Exchange. Features real-time market data, order flow pressure analysis, and AI-powered forensic fundamental screening.

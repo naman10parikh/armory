@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-25T03:59:48Z"
 ---
 ## What it is
 MCP server `Skill2MCP`, catalogued on PulseMCP. CLI tool that converts SKILL.md markdown documents into deployable MCP server packages.

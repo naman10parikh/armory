@@ -8,10 +8,12 @@ source_url: https://github.com/zw008/vmware-aiops
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-09-01T06:38:06Z"
 ---
 ## What it is
 MCP server `VMware AIops`, catalogued on PulseMCP. Full VMware vCenter and ESXi monitoring, operations, and VM lifecycle management.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:31:21Z"
 ---
 ## What it is
 MCP server `Packagist`, catalogued on PulseMCP. PHP Composer package registry search and metadata via the Packagist API through Pipeworx's managed gateway.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T10:34:51Z"
 ---
 ## What it is
 A multimodal academic research assistant for LLM Agent papers, enabling paper search, PDF/figure understanding, knowledge graph memory, learning paths, and reproducible experiments via MCP.

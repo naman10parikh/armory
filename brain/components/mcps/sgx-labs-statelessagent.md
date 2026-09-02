@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 23
+forks: 0
+pushed_at: "2026-08-13T20:55:55Z"
 ---
 ## What it is
 Memory with provenance tracking — records where agent knowledge originated and detects when sources change. 17 MCP tools for session handoffs, decisions, semantic search, and knowledge graph. Works across Claude Code, Cursor, Windsurf, Codex CLI, and Gemini CLI. Single Go binary, SQLite + vector search, fully local.

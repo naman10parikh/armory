@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T07:45:33Z"
 ---
 ## What it is
 Exposes the active file and selection(s) from VS Code to MCP clients, enabling CLI coding agents to access current editor context.

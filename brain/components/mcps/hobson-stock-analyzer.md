@@ -8,10 +8,12 @@ source_url: https://github.com/wshobson/mcp-trader
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 268
+stars: 273
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 65
+pushed_at: "2025-08-24T15:36:43Z"
 ---
 ## What it is
 MCP server `Stock Analyzer (Tingo)`, catalogued on PulseMCP. Integrates with Tiingo API to perform technical analysis on stocks, providing key indicators for trading decisions.

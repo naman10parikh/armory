@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T21:28:55Z"
 ---
 ## What it is
 A server for managing notes with full CRUD operations, tagging, and search, compatible with Claude Desktop.

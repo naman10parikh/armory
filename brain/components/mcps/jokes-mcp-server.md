@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-08T03:35:04Z"
 ---
 ## What it is
 Enables fetching jokes (e.g., Chuck Norris jokes) via the Model Context Protocol, usable with Microsoft Copilot Studio and other MCP-compatible clients.

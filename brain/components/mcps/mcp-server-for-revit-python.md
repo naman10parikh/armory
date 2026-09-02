@@ -8,11 +8,13 @@ source_url: https://github.com/mcp-servers-for-revit/mcp-server-for-revit-python
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 169
+stars: 175
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 102
+pushed_at: "2026-07-26T15:24:18Z"
 ---
 ## What it is
 Enables Large Language Models to access and manipulate Autodesk Revit models through a pyRevit-based bridge and the Model Context Protocol.

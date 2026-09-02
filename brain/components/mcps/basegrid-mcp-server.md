@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T17:07:01Z"
 ---
 ## What it is
 Gives Claude Desktop, Cursor, Cline, and other MCP-compatible AI tools persistent memory, enabling them to store and recall information seamlessly across sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-26T12:59:15Z"
 ---
 ## What it is
 A full-featured MCP server for building scrapers, with tools for page fetching, HTML parsing, CSS/XPath querying, and spider generation using silkworm-rs and scraper-rs.

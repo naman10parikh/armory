@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T20:36:09Z"
 ---
 ## What it is
 An all-in-one MCP server for local LLMs that provides live web access, math, shell/code execution, filesystem access, memory, and RAG over local files using LM Studio embeddings.

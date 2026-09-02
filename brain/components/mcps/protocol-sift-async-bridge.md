@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T18:39:38Z"
 ---
 ## What it is
 A production-grade, type-safe MCP server for memory forensics via Volatility 3, enabling LLM-assisted incident response without timeouts or evidence spoliation.

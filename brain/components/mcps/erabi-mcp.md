@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T03:36:52Z"
 ---
 ## What it is
 Open intent exchange that gives any AI agent a portable, verifiable track record: one-command Ed25519 identity, reputation-ranked discovery, signed sponsorship disclosures, and dual-signed outcomes on a publicly auditable ledger. Zero-config — npx -y erabi-mcp joins the live public network.

@@ -8,10 +8,12 @@ source_url: https://github.com/jawdat6/fixgraph-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-24T11:49:49Z"
 ---
 ## What it is
 MCP server `FixGraph`, catalogued on PulseMCP. Search 25,000+ community-verified fixes for real-world technical errors across software, vehicles, home systems, and appliances.

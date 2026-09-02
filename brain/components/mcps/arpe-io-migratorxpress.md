@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T18:05:59Z"
 ---
 ## What it is
 MCP server `MigratorXpress`, catalogued on PulseMCP. Cross-platform database migration between heterogeneous systems with DDL translation and data transfer.

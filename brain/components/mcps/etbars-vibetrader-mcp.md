@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 4
+forks: 3
+pushed_at: "2026-06-10T21:58:05Z"
 ---
 ## What it is
 AI-powered trading bot platform. Create automated trading strategies with natural language via Alpaca brokerage.

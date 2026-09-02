@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-23T03:50:57Z"
 ---
 ## What it is
 An MCP server that delegates coding and sysops work to cheaper agents via durable background queues, with git worktree isolation, safety policies, and clarification rounds to avoid hitting limits of frontier models.

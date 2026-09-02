@@ -8,10 +8,12 @@ source_url: https://github.com/mapbox/mcp-devkit-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-26T16:55:28Z"
 ---
 ## What it is
 MCP server `Mapbox DevKit`, catalogued on PulseMCP. Developer tools for Mapbox APIs, styles, tokens, and documentation

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T07:39:18Z"
 ---
 ## What it is
 Drives a real Chromium browser via Playwright to capture evidence (screenshots, video, trace) of feature verification sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T18:28:52Z"
 ---
 ## What it is
 A self-hostable MCP server that enables searching and reading Rapid7 documentation, blog posts, and resources through six tools, with optional authentication and Docker support.

@@ -8,10 +8,12 @@ source_url: https://github.com/quink-black/tmux-mcp-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-15T16:35:33Z"
 ---
 ## What it is
 MCP server `Tmux MCP Agent`, catalogued on PulseMCP. Controls tmux sessions with parallel command execution, connection safety, and comprehensive session management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T05:56:03Z"
 ---
 ## What it is
 Enables MCP clients to read and write into a self-hosted personal knowledge base built from imported chats, documents, and notes, with a knowledge graph and AI-powered enrichment.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-09T15:33:20Z"
 ---
 ## What it is
 Enables insurance policy analysis, risk assessment, and policy comparison with support for multiple editions (Lite free, Solo and Pro paid).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-01T14:10:16Z"
 ---
 ## What it is
 Provides ML engineering tools including local/remote bash, text editor, file search, remote GPU helpers via vast.ai, and an OpenRouter LLM proxy.

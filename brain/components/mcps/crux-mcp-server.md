@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T07:50:24Z"
 ---
 ## What it is
 Federates UI component registries, enabling AI agents to fetch exact component code, dependencies, and setup prerequisites directly into the workspace. Includes sandboxed previews, anti-slop layout auditing, and offline-to-cloud telemetry sync.

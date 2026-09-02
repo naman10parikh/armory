@@ -8,10 +8,12 @@ source_url: https://github.com/asyncfuncai/github-chat-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 85
+stars: 87
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-04-10T04:34:19Z"
 ---
 ## What it is
 MCP server `GitHub Chat`, catalogued on PulseMCP. Enables AI to analyze and query GitHub repositories through a FastMCP-based interface for understanding codebases, exploring architecture, and retrieving contextual information with source references.

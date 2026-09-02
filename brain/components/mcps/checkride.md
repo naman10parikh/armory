@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T16:01:44Z"
 ---
 ## What it is
 Enables AI coding agents to run fast, sandboxed pre-flight validation—tests, type-checking, linting, security audits, Git safety scans, and fix suggestions—before committing or pushing code, with instant caching and optional Docker isolation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T11:04:16Z"
 ---
 ## What it is
 A build accelerator for AI coding assistants that scaffolds complete projects from short prompts using Smart Context Mode to reduce token usage.

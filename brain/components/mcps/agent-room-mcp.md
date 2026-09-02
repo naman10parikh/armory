@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T14:17:34Z"
 ---
 ## What it is
 Enables Cursor agents to communicate via a shared chat room, allowing them to ask questions, share status, and warn about conflicts while collaborating on the same repo.

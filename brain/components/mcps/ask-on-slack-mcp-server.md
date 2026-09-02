@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-18T17:15:24Z"
 ---
 ## What it is
 Enables AI assistants to request information and clarification from humans via Slack, supporting multiple roles and transport modes.

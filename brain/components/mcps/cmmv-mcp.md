@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-15T06:00:12Z"
 ---
 ## What it is
 Enables standardized interactions between LLMs and CMMV applications using the Model Context Protocol, with decorator-based tool registration and flexible transport options.

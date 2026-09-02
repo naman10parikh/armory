@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-27T15:49:52Z"
 ---
 ## What it is
 Connects Claude to MyCase legal practice management, enabling natural language queries for cases, contacts, calendar, billing, and more.

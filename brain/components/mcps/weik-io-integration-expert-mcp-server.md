@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-02-28T18:42:14Z"
 ---
 ## What it is
 Provides AI-assisted guidance for the Weik.io integration platform, enabling planning, implementation, testing, and deployment of integrations using Apache Camel and specialized Weik.io features.

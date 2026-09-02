@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:10:12Z"
 ---
 ## What it is
 Provides competitor intelligence and private company data, including named competitors, revenue estimates, employee counts, funding totals, and firmographics from company URLs.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:44:12Z"
 ---
 ## What it is
 MCP server `Bitstamp`, catalogued on PulseMCP. Bitstamp public cryptocurrency market data: ticker, orderbook, transactions, OHLC, and trading pairs via MCP.

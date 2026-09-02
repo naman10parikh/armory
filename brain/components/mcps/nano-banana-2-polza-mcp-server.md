@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-22T17:19:56Z"
 ---
 ## What it is
 MCP server for generating and editing images through Polza AI using Google Gemini models (Nano Banana 2, Pro, Flash). It supports conditioning with up to three reference images and provides structured metadata with reproducibility hints.

@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/qr-code-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3098
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:55Z"
 ---
 ## What it is
 QR code generation API for AI agents. Generate QR codes from any text or URL: base64-encoded PNG output, configurable size (100-1000px). Fast and lightweight. Tools: utility_generate_qr_code. Use this for generating payment links, sharing URLs, encoding data for mobile scanning, or building checkout

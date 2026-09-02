@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T17:51:10Z"
 ---
 ## What it is
 Enables AI assistants to perform live stock and portfolio research using Yahoo Finance data, including quotes, fundamentals, price history, news, portfolio analysis, and ticker comparisons.

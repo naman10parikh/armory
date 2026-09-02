@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-04T02:02:49Z"
 ---
 ## What it is
 A streamlined MCP server for XMP metadata embedding with beautiful formatting and smart filename indicators, enabling metadata embedding, reading, validation, and report generation for lifestyle, product, and orbit schemas.

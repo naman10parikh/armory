@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T13:16:21Z"
 ---
 ## What it is
 Provides AI agents with 40 tools for structured data storage, querying, web search, URL fetching, scheduled jobs, and execution through the Model Context Protocol.

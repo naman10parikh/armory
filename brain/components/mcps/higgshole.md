@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T22:38:38Z"
 ---
 ## What it is
 An MCP server that enables local AI agents to generate images and videos through the OpenRouter API, manage a browsable media library, and track generation costs.

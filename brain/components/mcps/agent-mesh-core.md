@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T04:43:34Z"
 ---
 ## What it is
 An MCP server for coordinating trusted local AI agents across machines on a private Tailscale network, enabling message passing and state management between agents like Claude Code, Codex, and Ollama.

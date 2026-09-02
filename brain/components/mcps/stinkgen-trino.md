@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-02T05:19:26Z"
 ---
 ## What it is
 MCP server `Trino`, catalogued on PulseMCP. Integrates with Trino databases to enable natural language querying, data analysis, and SQL execution via a FastAPI-based REST interface.

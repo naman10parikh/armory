@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-21T08:52:41Z"
 ---
 ## What it is
 取得臺灣各縣市今明36小時天氣預報資料的MCP伺服器。

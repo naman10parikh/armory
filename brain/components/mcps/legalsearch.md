@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T07:21:02Z"
 ---
 ## What it is
 Grounds external agents in public Indian judgments and statutes through MCP, enabling legal search and bounded document packets without requiring the full Roop platform.

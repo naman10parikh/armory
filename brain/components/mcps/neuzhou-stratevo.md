@@ -8,10 +8,12 @@ source_url: https://github.com/neuzhou/stratevo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-04-18T00:35:47Z"
 ---
 ## What it is
 MCP server `StratEvo`, catalogued on PulseMCP. Quantitative trading framework using genetic algorithms to evolve strategies from 484 factors across crypto and equities.

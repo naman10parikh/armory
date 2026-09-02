@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T15:26:32Z"
 ---
 ## What it is
 Evaluates RAG outputs on faithfulness, answer relevancy, and context precision using an LLM-as-a-Judge backend. Exposes tools for running evaluations, scoring individual samples, and checking thresholds, enabling CI gating and on-demand assessment via MCP.

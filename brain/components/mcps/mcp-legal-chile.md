@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T00:27:19Z"
 ---
 ## What it is
 Connects AI assistants to Chilean legal sources, enabling citation of official legal texts, search of doctrine, jurisprudence, and rulings.

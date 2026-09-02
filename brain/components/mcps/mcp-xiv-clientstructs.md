@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T08:10:49Z"
 ---
 ## What it is
 An MCP server that indexes the FFXIVClientStructs C# library and exposes it as searchable tools for any MCP-compatible AI assistant, useful when writing Dalamud plugins.

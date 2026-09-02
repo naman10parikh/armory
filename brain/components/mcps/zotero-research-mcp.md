@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T06:44:43Z"
 ---
 ## What it is
 Enables ChatGPT to search and retrieve papers, passages, and page evidence from a local Zotero library via a read-only MCP server.

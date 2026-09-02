@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T19:44:51Z"
 ---
 ## What it is
 Connects Claude Desktop to Notion and YouTube transcripts with one-click installation, enabling natural language queries about your pages and video content.

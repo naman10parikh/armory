@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T16:49:28Z"
 ---
 ## What it is
 MCP server that scores the behavioral risk of a wallet on Base before sending it money. Provides a risk score, verdict, and explainable flags based on USDC payment history.

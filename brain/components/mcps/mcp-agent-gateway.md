@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T00:24:12Z"
 ---
 ## What it is
 A ready-to-run MCP gateway and multi-agent scheduling system with 14 built-in tools and 3-layer performance optimization, reducing latency by 65%.

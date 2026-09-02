@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T23:58:29Z"
 ---
 ## What it is
 Discovers Korean national heritage, resolves designation numbers, and creates heritage-focused trip plans using official National Heritage Administration data.

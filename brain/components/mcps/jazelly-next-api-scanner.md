@@ -8,10 +8,12 @@ source_url: https://github.com/vertile-ai/next-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 98
+stars: 99
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-03-27T04:42:21Z"
 ---
 ## What it is
 MCP server `Next.js API Scanner`, catalogued on PulseMCP. Scans Next.js project directories to extract API route information, validation schemas, and type definitions for automated documentation and testing workflows

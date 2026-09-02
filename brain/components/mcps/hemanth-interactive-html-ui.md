@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-08T19:57:42Z"
 ---
 ## What it is
 MCP server `Interactive HTML UI`, catalogued on PulseMCP. Reference implementation demonstrating interactive HTML UI capabilities through the SEP-1865 specification with example tools and sandboxed iframe rendering.

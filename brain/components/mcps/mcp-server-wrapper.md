@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-03T17:35:34Z"
 ---
 ## What it is
 A meta-MCP server that dynamically manages and invokes any MCP server on the fly, enabling runtime addition, removal, and tool invocation without restarting Claude Code.

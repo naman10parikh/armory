@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-24T07:19:07Z"
 ---
 ## What it is
 Autonomous penetration testing powered by a local LLM, automating tool chaining for recon, vulnerability scanning, exploit research, and reporting.

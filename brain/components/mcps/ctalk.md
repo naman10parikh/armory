@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T06:17:02Z"
 ---
 ## What it is
 Enables coworkers to register profiles, ask questions, check inboxes, propose draft responses, and send approved replies through Claude Code.

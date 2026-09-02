@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:28:19Z"
 ---
 ## What it is
 An MCP server demonstrating sampling, where the server asks the host to run model calls, with a spend gate that estimates costs and refuses over-budget calls.

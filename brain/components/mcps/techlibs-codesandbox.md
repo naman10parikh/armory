@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-23T02:58:25Z"
 ---
 ## What it is
 MCP server `CodeSandbox`, catalogued on PulseMCP. Provides stateless access to CodeSandbox SDK operations for creating, managing, and interacting with cloud-based development sandboxes through 13 tools covering VM lifecycle management, file system operations, and session handling with configurable tiers and hibernation settings.

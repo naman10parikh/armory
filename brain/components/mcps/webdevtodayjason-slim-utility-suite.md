@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-12T17:26:49Z"
 ---
 ## What it is
 MCP server `Slim Utility Suite`, catalogued on PulseMCP. Integrates diverse utility services including weather data, email, task management, currency conversion, and calendar functions through a RESTful API for seamless incorporation into applications.

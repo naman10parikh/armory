@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:06:19Z"
 ---
 ## What it is
 MCP server wrapping fallarch-sdk to provide a sovereign, MIT-licensed, offline-capable, Ed25519-signed tool for professional service workflows, designed for both human developers and autonomous agents.

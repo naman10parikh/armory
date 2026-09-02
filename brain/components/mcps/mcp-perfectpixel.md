@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T23:28:31Z"
 ---
 ## What it is
 MCP server for pixel-perfect verification, screenshots a live URL and diffs it against a static design image, returning grouped diff regions with severity scores and source tracing.

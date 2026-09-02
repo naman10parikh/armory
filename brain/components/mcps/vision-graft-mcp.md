@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T15:09:39Z"
 ---
 ## What it is
 Enables blind AI coding models to debug visual bugs by capturing screenshots, analyzing them with a vision-capable model, and returning a written report.

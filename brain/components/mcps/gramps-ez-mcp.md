@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-05T18:49:06Z"
 ---
 ## What it is
 Enables natural language queries about family tree data from a Gramps genealogy database.

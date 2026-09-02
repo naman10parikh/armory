@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T12:23:15Z"
 ---
 ## What it is
 Enables auditing AI search visibility: checks site readiness for AI crawlers and measures whether ChatGPT, Gemini, and Perplexity recommend your site, including verbatim answers and citation gap analysis.

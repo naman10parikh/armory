@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T02:37:25Z"
 ---
 ## What it is
 MCP server for Autodesk Inventor that lets AI clients model parts, build assemblies, and inspect models via COM automation.

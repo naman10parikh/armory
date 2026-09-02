@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T17:00:39Z"
 ---
 ## What it is
 Enables natural language interaction with complex computer vision workflows such as auto-labeling, class mapping, and embedding selection through an LLM-agnostic MCP orchestration layer.

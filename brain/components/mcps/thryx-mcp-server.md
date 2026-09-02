@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T15:16:36Z"
 ---
 ## What it is
 MCP server for ThryxProtocol on Base, enabling AI agents to launch ERC-20 tokens, trade on bonding curves or Uniswap V4 pools, claim fees, and discover tokens through 21 native tools with gasless transactions.

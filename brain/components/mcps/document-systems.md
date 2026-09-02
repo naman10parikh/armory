@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T22:55:24Z"
 ---
 ## What it is
 A stateless MCP server for composing, validating, auditing, and rendering consequential documents from a small semantic model.

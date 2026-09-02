@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T20:23:51Z"
 ---
 ## What it is
 A single Python package that bundles 18 plug-and-play MCP servers for Claude, allowing users to access Hacker News, Wikipedia, weather, GitHub, and many other services directly from conversations.

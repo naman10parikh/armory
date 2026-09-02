@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T02:58:54Z"
 ---
 ## What it is
 Enables to query Xbox Live profiles, current games, recent games, and activity for any Xbox player using the OpenXBL API. Supports gamertag resolution and provides rich presence details.

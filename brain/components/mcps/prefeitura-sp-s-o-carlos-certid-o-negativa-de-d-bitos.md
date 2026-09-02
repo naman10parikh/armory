@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:12Z"
 ---
 ## What it is
 Enables querying negative debt certificates from São Carlos city hall through an official source, with a single read-only tool and pay-per-use pricing.

@@ -8,10 +8,12 @@ source_url: https://github.com/lupuletic/onyx-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-05-21T08:10:13Z"
 ---
 ## What it is
 MCP server `Onyx Knowledge Base`, catalogued on PulseMCP. Bridges Onyx knowledge bases with semantic search and chat capabilities, enabling teams to access organizational knowledge through RAG-powered document retrieval with configurable context windows.

@@ -8,11 +8,13 @@ source_url: https://github.com/industrial-aiops/industrial-aiops-energy
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:57:25Z"
 ---
 ## What it is
 Governed, read-only OT data tap for substation and utility telecontrol — IEC 60870-5-104, DNP3/IEEE 1815, and IEC 61850 MMS connectors with cross-protocol asset discovery, alarm and downtime RCA, unbypassable audit logging (MCP + CLI), budget/runaway guards, and an airgap no-egress mode. Energy edit

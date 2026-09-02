@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T14:50:18Z"
 ---
 ## What it is
 MCP server for the Threads API, enabling profile management, content reading, publishing, replies, and discovery through 26 tools.

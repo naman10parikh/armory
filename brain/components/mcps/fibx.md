@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-30T15:39:59Z"
 ---
 ## What it is
 DeFi execution on Base, Citrea, HyperEVM and Monad via Fibrous aggregation: swap quotes, swaps with optimal routing, native and ERC-20 transfers, cross-chain portfolio with USD valuations, and Aave V3 supply/borrow/repay/withdraw. Quotes, transaction status and Aave market data need no wallet, and t

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-23T17:23:27Z"
 ---
 ## What it is
 Enables no-code creation, preview, deployment, and monetization of MCP servers via x402 micropayments, including a virtual file system, sandbox preview, and tool monetization.

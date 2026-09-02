@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T13:25:26Z"
 ---
 ## What it is
 A read-only MCP server for exploring and analyzing a Secoda data catalog, enabling AI chat, semantic search, glossary browsing, and data lineage tracing.

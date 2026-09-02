@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T07:45:28Z"
 ---
 ## What it is
 Allows AI agents to authenticate with LinkedIn and share posts or links via the Model Context Protocol.

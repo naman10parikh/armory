@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T13:28:33Z"
 ---
 ## What it is
 CoTerm provides an MCP-native terminal runtime with shared PTY-backed sessions, enabling AI agents to create, manage, and interact with local, SSH, WSL, or Docker sessions through 23 terminal and workspace tools.

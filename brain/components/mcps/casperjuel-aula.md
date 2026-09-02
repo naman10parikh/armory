@@ -8,10 +8,12 @@ source_url: https://github.com/casperjuel/aula-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-09-01T06:47:58Z"
 ---
 ## What it is
 MCP server `Aula`, catalogued on PulseMCP. Access Denmark's Aula school platform to retrieve student profiles, calendars, messages, assignments, and attendance data.

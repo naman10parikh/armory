@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-09-01T04:40:31Z"
 ---
 ## What it is
 MCP server `Browser Automation`, catalogued on PulseMCP. Enables Claude to automate browser interactions by detecting elements and executing planned actions for website navigation, form filling, and content interaction directly from conversations.

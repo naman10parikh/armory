@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T23:21:04Z"
 ---
 ## What it is
 Enables AI agents to create loop-perfect generative ASCII animations headlessly, including defining custom animations and 3D shapes as expression strings.

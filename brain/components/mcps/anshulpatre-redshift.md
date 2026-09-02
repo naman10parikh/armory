@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-15T11:29:05Z"
 ---
 ## What it is
 MCP server `Redshift`, catalogued on PulseMCP. Provides secure Amazon Redshift database access with configurable permission modes (readonly, readwrite, admin) that enforce SQL operation restrictions, featuring automatic connection management, schema discovery, query execution, and built-in command filtering to prevent dangerous operations.

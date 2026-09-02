@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-10T09:22:27Z"
 ---
 ## What it is
 MCP server `Npm Plus`, catalogued on PulseMCP. Search npm packages, check bundle sizes, scan vulnerabilities, and compare download trends.

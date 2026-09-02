@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-20T11:46:52Z"
 ---
 ## What it is
 MCP server enabling AI agents to search and retrieve scientific papers, citations, and author profiles from Crossref, OpenAlex, and Semantic Scholar with no API keys required.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:40:32Z"
 ---
 ## What it is
 MCP server that provides the describe_image tool, enabling AI clients to analyze local images by forwarding them to any OpenAI-compatible vision endpoint and returning a text description.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T13:43:09Z"
 ---
 ## What it is
 An MCP server that enables AI agents to search and retrieve SSW Rules, a collection of 3,700+ best-practice rules, using semantic search.

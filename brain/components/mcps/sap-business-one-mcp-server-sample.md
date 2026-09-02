@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:59:20Z"
 ---
 ## What it is
 Enables AI agents to discover SAP B1 entities, inspect their schemas, and perform authenticated CRUD operations through natural language, translating requests into Service Layer API calls.

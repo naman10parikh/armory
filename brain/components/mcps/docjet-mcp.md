@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T22:02:59Z"
 ---
 ## What it is
 Render branded PDF documents (invoices, reports, certificates) and PNG social images directly from any MCP client using DocJet templates or raw HTML with JSON data.

@@ -8,10 +8,12 @@ source_url: https://github.com/multimail-dev/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-12T01:49:10Z"
 ---
 ## What it is
 MCP server `MultiMail`, catalogued on PulseMCP. Email capabilities for AI agents with markdown-native messaging, threaded conversations, attachments, and human oversight controls.

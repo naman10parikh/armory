@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T06:08:14Z"
 ---
 ## What it is
 Enables MCP-capable agents to retrieve live, task-scoped context from a curated ontology, providing relevant direction, decisions, and constraints for a given task.

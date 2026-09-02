@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T12:00:28Z"
 ---
 ## What it is
 Exposes the canonical 7-0 knowledge surface — game modes, roster picks, and scenarios, FAQ, official links

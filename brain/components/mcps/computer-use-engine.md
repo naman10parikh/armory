@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T10:22:10Z"
 ---
 ## What it is
 Safety middleware for AI computer use agents that monitors, enforces policies, and provides guardrails to enable safe desktop interaction.

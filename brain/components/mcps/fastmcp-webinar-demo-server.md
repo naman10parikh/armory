@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-06-17T17:15:26Z"
 ---
 ## What it is
 An MCP server with six tools including web search, URL fetching, math calculation, and note management. Designed for a live-coding demo integrating FastMCP with LangGraph ReAct agents.

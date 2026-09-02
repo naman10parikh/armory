@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T18:41:39Z"
 ---
 ## What it is
 MCP server that proxies the SurfTracker API to let AI clients list, create, and manage tasks, releases, and notifications, using the user's SurfTracker API key for authorization.

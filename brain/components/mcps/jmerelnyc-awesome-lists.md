@@ -8,10 +8,12 @@ source_url: https://github.com/jmerelnyc/list-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T11:53:25Z"
 ---
 ## What it is
 MCP server `Awesome Lists`, catalogued on PulseMCP. Provides searchable access to curated awesome lists across topics, with tools to browse categories, search by keyword, and retrieve full list contents.

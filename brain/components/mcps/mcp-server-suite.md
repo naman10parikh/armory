@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T08:27:28Z"
 ---
 ## What it is
 This suite provides five production-ready MCP servers for restaurant orders, web search, browser automation, and filesystem operations, supporting both stdio and HTTP/SSE transports.

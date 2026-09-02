@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T06:50:10Z"
 ---
 ## What it is
 MCP server for Chess.com's API, providing access to player profiles, stats, games, clubs, tournaments, and puzzles. It serializes requests to reduce rate limit errors and includes an unofficial tool for retrieving game data by ID.

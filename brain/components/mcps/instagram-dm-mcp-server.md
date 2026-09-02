@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T07:12:23Z"
 ---
 ## What it is
 Enables agents to send and read Instagram direct messages to a fixed set of configured recipients, with recipient discovery via aliases.

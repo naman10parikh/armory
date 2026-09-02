@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:54:04Z"
 ---
 ## What it is
 Local stdio bridge to the hosted PoYo MCP server, enabling discovery and execution of AI models via chat, generation tasks, and agent skills.

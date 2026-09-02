@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:33:45Z"
 ---
 ## What it is
 MCP server for compliance with the Korea AI Basic Act, providing tools to classify system impact, check generative AI labeling requirements, and assess business types.

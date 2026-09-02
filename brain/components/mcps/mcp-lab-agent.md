@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T14:56:59Z"
 ---
 ## What it is
 Autonomous QA testing MCP server that analyzes, fixes, and learns from test failures. Integrates with IDE and Slack to provide cause and fix in plain language.

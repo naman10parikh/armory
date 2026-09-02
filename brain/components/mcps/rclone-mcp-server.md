@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T02:36:46Z"
 ---
 ## What it is
 MCP server for the Rclone RC API that enables AI assistants to manage cloud storage remotes, copy/sync files, and list directories through natural language.

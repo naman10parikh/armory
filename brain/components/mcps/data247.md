@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T17:44:26Z"
 ---
 ## What it is
 Data247's MCP connector offers many different data services including phone carrier lookup, phone append, email append, reverse phone append, reverse email append, CNAM lookup, IP address geolocation, Do-not-call, phone number in-service verificaition, email deliverability verification, fraud detect

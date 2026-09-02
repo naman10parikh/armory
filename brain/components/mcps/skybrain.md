@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T19:49:32Z"
 ---
 ## What it is
 Provides a shared MCP memory layer for AI clients, backed by Cloudflare Workers and D1, enabling personal Markdown notes management.

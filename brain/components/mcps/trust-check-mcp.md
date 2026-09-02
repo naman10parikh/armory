@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T03:35:44Z"
 ---
 ## What it is
 Free wallet-OFAC SDN screening and trust-check preview for AI agents on Base. Single MCP tool call returns allow/block verdict against US Treasury OFAC SDN list.

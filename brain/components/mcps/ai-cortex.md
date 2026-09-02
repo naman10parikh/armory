@@ -8,11 +8,13 @@ source_url: https://github.com/ai-creed/ai-cortex
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-27T00:32:31Z"
 ---
 ## What it is
 Provides durable project context for coding agents, including project maps, session history, and explicit memories, all stored locally.

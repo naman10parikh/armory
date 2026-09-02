@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T13:53:21Z"
 ---
 ## What it is
 Provides authenticated local MCP bridge for brawsr browser sessions, checkpoints, rewind, and fork operations via stdio, using the official @brawsr/sdk.

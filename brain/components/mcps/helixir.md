@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-11T03:28:39Z"
 ---
 ## What it is
 MCP server that provides AI agents with accurate, hallucination-free access to web component APIs by reading the library's Custom Elements Manifest.

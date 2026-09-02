@@ -12,6 +12,8 @@ stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-03-31T14:53:43Z"
 ---
 ## What it is
 MCP server `Codebaxing`, catalogued on PulseMCP. Provides semantic code search capabilities using natural language queries, indexing codebases with Tree-sitter parsing, all-MiniLM-L6-v2 embeddings, and ChromaDB vector storage.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-29T16:55:16Z"
 ---
 ## What it is
 MCP server `Remote Expense Tracker`, catalogued on PulseMCP. Provides structured expense categorization through a JSON-based system covering 20 major expense types with detailed subcategories for building expense management applications and budgeting tools.

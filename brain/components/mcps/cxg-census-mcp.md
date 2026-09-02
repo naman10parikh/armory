@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:28:16Z"
 ---
 ## What it is
 Enables LLM agents to query the CZ CELLxGENE Census single-cell atlas with ontology-aware filters, cost caps, and full provenance, allowing natural language questions about cell types, tissues, and gene expression.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T21:00:04Z"
 ---
 ## What it is
 OpenTool is an MCP server that provides AI agents with secure, authenticated access to a wide range of tools (GitHub, Notion, Slack, etc.) through a single MCP connection. It is fully open-source and self-hostable.

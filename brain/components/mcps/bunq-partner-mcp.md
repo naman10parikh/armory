@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T15:31:05Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to the bunq Partner API, enabling natural language management of partner onboarding, including provisioning users, KYC, accounts, payments, cards, and compliance.

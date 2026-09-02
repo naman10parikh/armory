@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-04-12T12:51:54Z"
 ---
 ## What it is
 Enables AI-driven MIDI composition with chord name support, interactive piano-roll preview, and multiple deployment modes.

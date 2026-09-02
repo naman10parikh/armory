@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T03:25:37Z"
 ---
 ## What it is
 An agent-native shell as an MCP server, designed for LLM agents (like Claude Code) to execute commands with structured output, lazy detail retrieval, and effect tracking, minimizing token usage.

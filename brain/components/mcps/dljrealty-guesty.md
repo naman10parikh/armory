@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-06T20:02:45Z"
 ---
 ## What it is
 MCP server `Guesty`, catalogued on PulseMCP. Guesty property management integration with 38 tools for reservations, guests, messaging, pricing, and financials.

@@ -8,10 +8,12 @@ source_url: https://github.com/hloiseau/mcp-gopls
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 85
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-06-22T15:18:06Z"
 ---
 ## What it is
 MCP server `Gopls`, catalogued on PulseMCP. Bridges the Go Programming Language Server (gopls) with AI systems, enabling advanced code analysis, navigation, completion, and diagnostic capabilities for Go projects.

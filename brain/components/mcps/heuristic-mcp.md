@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-25T17:39:28Z"
 ---
 ## What it is
 Enables smart code search in your editor using natural language queries, building an index of your workspace.

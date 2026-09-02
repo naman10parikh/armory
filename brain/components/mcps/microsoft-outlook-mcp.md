@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T11:52:27Z"
 ---
 ## What it is
 Enables AI assistants to manage Outlook mail, calendar, and contacts via Microsoft Graph API with secure device code authentication.

@@ -8,10 +8,12 @@ source_url: https://github.com/chainaware/behavioral-prediction-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-11T16:23:43Z"
 ---
 ## What it is
 MCP server `Behavioral Prediction`, catalogued on PulseMCP. Provides AI-powered tools to analyze wallet behavior prediction, fraud detection and rug pull prediction.

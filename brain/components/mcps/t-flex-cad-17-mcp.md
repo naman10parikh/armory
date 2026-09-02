@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T13:42:57Z"
 ---
 ## What it is
 Read-only MCP server providing search and retrieval of T-FLEX CAD 17 API symbols, documentation, and capabilities via a static API layer.

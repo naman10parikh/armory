@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-24T14:24:35Z"
 ---
 ## What it is
 Enables AI assistants to analyze farm locations, retrieve soil and weather data, access commodity market prices, and chat with an agricultural advisor for farming recommendations.

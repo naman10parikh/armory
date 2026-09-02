@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-05T20:05:09Z"
 ---
 ## What it is
 MCP server that exposes all 111 endpoints of the Tienda Nube API as tools for Cursor (or other MCP clients) to code directly with the API.

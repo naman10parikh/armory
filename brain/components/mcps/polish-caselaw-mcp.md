@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T13:18:09Z"
 ---
 ## What it is
 MCP server for querying live Polish court case law (orzecznictwo) via the SAOS API, offering tools to search judgments, fetch full cases, find judgments citing specific statutory provisions, and check Constitutional Tribunal citations.

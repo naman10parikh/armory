@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T08:28:38Z"
 ---
 ## What it is
 Enables LLMs to analyze images via OpenAI-compatible multimodal models, supporting local files, base64, and URLs with safety validation and model selection.

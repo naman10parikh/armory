@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-31T07:00:07Z"
 ---
 ## What it is
 MCP server `Jardin`, catalogued on PulseMCP. Personal garden management tool for tracking plants, logging observations, and scheduling care tasks with Apple Calendar and Reminders integration.

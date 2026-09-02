@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T18:58:15Z"
 ---
 ## What it is
 Enables Claude to interact with the RuneScape Wiki through search, page retrieval, extracts, and ASCII image rendering.

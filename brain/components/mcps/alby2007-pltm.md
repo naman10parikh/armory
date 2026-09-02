@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-31T19:52:11Z"
 ---
 ## What it is
 MCP server `PLTM`, catalogued on PulseMCP. Implements a jury-based memory validation system that extracts semantic triples from conversations, validates them through multi-judge architecture, and stores approved facts in persistent memory graphs with conflict resolution, personality synthesis, and temporal decay.

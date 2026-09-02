@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T07:26:17Z"
 ---
 ## What it is
 MCP server for UK fuel prices, enabling queries for cheapest stations, nearby forecourts, and area price summaries using official government open data.

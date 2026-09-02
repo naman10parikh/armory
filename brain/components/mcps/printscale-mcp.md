@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T15:52:41Z"
 ---
 ## What it is
 Upscales images to print-ready TIFF, PNG, and JPG files via the PrintScale API, with support for auto/2x/3x/print modes and local file paths.

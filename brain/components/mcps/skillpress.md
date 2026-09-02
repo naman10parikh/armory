@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T21:22:27Z"
 ---
 ## What it is
 Compiles websites, docs, and repositories into agent-ready SKILL.md packages for AI coding agents.

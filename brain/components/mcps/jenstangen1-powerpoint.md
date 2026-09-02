@@ -12,6 +12,8 @@ stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-28T11:52:58Z"
 ---
 ## What it is
 MCP server `PowerPoint`, catalogued on PulseMCP. Enables creation and manipulation of Microsoft PowerPoint presentations through natural language, offering tools for managing slides, shapes, charts, and tables with styling and visualization capabilities.

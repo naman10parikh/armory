@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:26:50Z"
 ---
 ## What it is
 Enables AI tools to retrieve codebase context, summaries, decision notes, and file details via MCP, avoiding re-explaining the project.

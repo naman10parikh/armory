@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T08:42:28Z"
 ---
 ## What it is
 A local MCP server enabling AI assistants to query and analyze data via DuckDB SQL engine, supporting local files, memory, S3, and MotherDuck.

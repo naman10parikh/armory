@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-06T18:21:14Z"
 ---
 ## What it is
 MCP server `Desktop UI Test Utils`, catalogued on PulseMCP. Windows desktop UI automation with screenshots, window management, mouse and keyboard input, UI Automation tree inspection, and OCR for automated testing workflows.

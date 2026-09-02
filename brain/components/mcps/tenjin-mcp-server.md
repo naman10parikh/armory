@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T23:26:07Z"
 ---
 ## What it is
 Enables agents to discover, read, buy, and publish knowledge using USDC on Base, with search and free essays at no cost.

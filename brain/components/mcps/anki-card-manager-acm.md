@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T22:32:34Z"
 ---
 ## What it is
 This MCP server connects Claude with Anki, allowing users to create flashcards conversationally and automatically deduplicates, classifies, and uploads them without manual copying and pasting. It runs locally with Ollama for embeddings and classification, ensuring privacy.

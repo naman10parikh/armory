@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-05T07:49:16Z"
 ---
 ## What it is
 Enables AI assistants to read, write, query, and manage JSON data files with automatic ID and timestamp generation.

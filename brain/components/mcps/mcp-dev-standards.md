@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-23T12:05:13Z"
 ---
 ## What it is
 A Model Context Protocol server that provides development standards and best practices context to AI coding assistants, ensuring generated code adheres to team/project conventions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:59:03Z"
 ---
 ## What it is
 Provides a hand-written MCP server integrated with a LangGraph agent to benchmark multiple agent topologies and measure their failure rates.

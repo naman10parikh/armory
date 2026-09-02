@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T14:05:38Z"
 ---
 ## What it is
 Enables coding agents to create, start, pause, and delete labeled timers within projects, with persistence via SQLite, through a stdio MCP interface.

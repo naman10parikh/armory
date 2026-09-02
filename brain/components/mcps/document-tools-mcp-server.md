@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:40:41Z"
 ---
 ## What it is
 MCP server that provides document conversion and processing tools, enabling AI assistants to handle document formats through natural language.

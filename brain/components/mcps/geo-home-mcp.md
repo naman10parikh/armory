@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:44:36Z"
 ---
 ## What it is
 Enables comparison of residential candidate areas by land price, station walking time, and public transit commute, with PMTiles-powered interactive maps. Provides MCP tools for listing layers, retrieving land prices, computing commutes, finding and comparing areas, and building area maps.

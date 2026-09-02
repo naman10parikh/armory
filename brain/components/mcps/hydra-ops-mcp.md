@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T10:33:11Z"
 ---
 ## What it is
 Operate a Hydra head by talking to it — an MCP server that exposes lifecycle, ledger, L1 wallets, node logs, and on-chain error codes as tools for LLM clients to drive and debug a head in plain language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T06:16:28Z"
 ---
 ## What it is
 AI-powered Teacher Assistance MCP Server for managing student records with PostgreSQL, enabling create and read operations via MCP tools.

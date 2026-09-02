@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T21:53:47Z"
 ---
 ## What it is
 Converts PDFs to Markdown for AI optimization, with tools to detect PDF type (text-based, scanned, mixed, image-based) and support page ranges, raw/compact/page-break options.

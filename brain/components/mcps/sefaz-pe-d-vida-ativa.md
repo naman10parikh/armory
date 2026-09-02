@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:35Z"
 ---
 ## What it is
 Enables users to query official SEFAZ Pernambuco active tax debt (dívida ativa) records through a read-only MCP tool, using magic-link authentication and compatible with any MCP client like Claude Desktop and Cursor.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, file-systems]
 stars: 2
+forks: 1
+pushed_at: "2026-03-11T06:15:28Z"
 ---
 ## What it is
 Model Context Protocol server for file system operations. Supports read, write, search, copy, move with security path restrictions.

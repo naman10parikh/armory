@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T22:28:41Z"
 ---
 ## What it is
 Enables SSH-based remote access to dark.lmphq.net for executing commands, listing Docker containers, and reading files via the MCP protocol.

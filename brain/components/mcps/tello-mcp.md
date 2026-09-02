@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T17:02:39Z"
 ---
 ## What it is
 MCP server that connects a local LLM to a DJI Tello drone via UDP, enabling natural language flight planning and execution with safety-focused separation of plan and execution, plus a full simulator for development.

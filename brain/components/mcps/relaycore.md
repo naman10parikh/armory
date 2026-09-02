@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T03:22:11Z"
 ---
 ## What it is
 A lightweight, self-hostable MCP server for shared memory, structured command relay, and traceable decision evidence across AI runtimes.

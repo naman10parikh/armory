@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T23:08:22Z"
 ---
 ## What it is
 This MCP server provides authoritative medical data from FDA, WHO, PubMed, RxNorm, and Google Scholar, enabling drug information lookup, health statistics retrieval, medical literature searching, and clinical guidelines access directly in AI workflows.

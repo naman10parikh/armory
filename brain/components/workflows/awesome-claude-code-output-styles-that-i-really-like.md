@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [output-style]
-stars: 74
+stars: 78
+forks: 2
+pushed_at: "2025-11-21T23:56:19Z"
 ---
 ## What it is
 A community workflow/command by Really Him, catalogued in awesome-claude-code. A fun and moderately amusing collection of experimental output styles.

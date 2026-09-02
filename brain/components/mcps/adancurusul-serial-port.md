@@ -8,10 +8,12 @@ source_url: https://github.com/adancurusul/serial-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2026-07-07T08:10:23Z"
 ---
 ## What it is
 MCP server `Serial Port Communication`, catalogued on PulseMCP. Enables serial port communication with embedded devices and hardware through configurable connection parameters, multiple data encodings, and session management for IoT development, firmware debugging, and hardware automation.

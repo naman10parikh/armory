@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-07T03:04:10Z"
 ---
 ## What it is
 An MCP server for RabbitMQ that exposes the RabbitMQ HTTP API as tools, enabling natural language interaction with RabbitMQ management.

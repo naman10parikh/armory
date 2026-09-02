@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:46:37Z"
 ---
 ## What it is
 Enables remote execution of MATLAB experiments via natural language, with tools for code execution, task management, file transfer, and system diagnostics.

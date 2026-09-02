@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:07:26Z"
 ---
 ## What it is
 An MCP server that enables AI agents to send realtime messages, query channels, and manage users through Pusher Channels.

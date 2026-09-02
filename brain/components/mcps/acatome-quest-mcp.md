@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T15:32:34Z"
 ---
 ## What it is
 An MCP server that resolves paper requests (DOI, arXiv, etc.), checks a local store, fetches open-access PDFs, and returns request IDs. It integrates with acatome-extract for ingestion and provides tools for submission, status, update, and file upload.

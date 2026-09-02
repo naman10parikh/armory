@@ -8,10 +8,12 @@ source_url: https://github.com/warpfreight/warp-agent-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T07:48:11Z"
 ---
 ## What it is
 MCP server `Warp Freight`, catalogued on PulseMCP. Quote, book, track, and manage LTL, FTL, cargo van, and box truck freight via 17 MCP tools.

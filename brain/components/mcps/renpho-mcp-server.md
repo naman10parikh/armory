@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T09:17:54Z"
 ---
 ## What it is
 Provides access to body composition data from Renpho smart scales, allowing users to query weight, BMI, body fat, and other health metrics via MCP-compatible clients.

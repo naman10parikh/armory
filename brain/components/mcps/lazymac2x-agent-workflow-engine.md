@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T16:02:27Z"
 ---
 ## What it is
 MCP server `Agent Workflow Engine`, catalogued on PulseMCP. Multi-step AI agent workflow orchestration API, deployed via Cloudflare Workers with REST and MCP interfaces.

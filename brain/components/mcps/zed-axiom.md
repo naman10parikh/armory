@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-24T12:08:59Z"
 ---
 ## What it is
 MCP server `Axiom`, catalogued on PulseMCP. Integrates with Axiom's log management platform to query and analyze log data directly within Zed, enabling developers to investigate application logs and troubleshoot issues without leaving their coding environment.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T11:12:55Z"
 ---
 ## What it is
 Enables autonomous web-contract verification through MCP tools for planning, classifying, checking, and recording bug patterns, with access to a shared community corpus that strengthens collective detection.

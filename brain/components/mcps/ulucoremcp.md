@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-12T15:20:46Z"
 ---
 ## What it is
 Low-level blockchain interface MCP server for Algorand and Voi networks, providing account/asset/app inspection, transaction search, block retrieval, TEAL compilation, and transaction simulation.

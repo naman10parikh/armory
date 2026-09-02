@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-08T23:17:48Z"
 ---
 ## What it is
 MCP server for USDA nutrition data lookup, meal logging, and daily macro tracking.

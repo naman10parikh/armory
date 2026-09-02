@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T14:41:21Z"
 ---
 ## What it is
 An MCP server that lets AI agents manage cron jobs through natural language — adding, listing, pausing, removing, running, and viewing logs of scheduled jobs with plain-English schedule parsing, automatic log capture, missed-run detection, and failure alerts.

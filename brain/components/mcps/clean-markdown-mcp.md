@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T02:23:31Z"
 ---
 ## What it is
 Converts any URL to clean, LLM-ready Markdown by removing ads, navigation, and other clutter, using Mozilla Readability and Turndown.

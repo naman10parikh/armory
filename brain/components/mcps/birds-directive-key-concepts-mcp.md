@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T23:00:40Z"
 ---
 ## What it is
 An MCP server exposing the EU Birds Directive Art. 7(4) 'Key Concepts' data: the periods of reproduction and pre-nuptial migration for each huntable bird species in each Member State. It lets you check whether a given hunting-season date falls within a protected period.

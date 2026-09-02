@@ -8,10 +8,12 @@ source_url: https://github.com/oktopeak/clio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-09-01T21:40:29Z"
 ---
 ## What it is
 MCP server `Clio`, catalogued on PulseMCP. Access Clio legal practice management data including matters, contacts, documents, tasks, calendar entries, time logs, and billing.

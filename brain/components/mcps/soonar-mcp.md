@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T10:52:36Z"
 ---
 ## What it is
 Enables searching, viewing, and managing Slovak business leads (companies) via the SoonaR API, including finding companies by criteria, enriching contacts, and pushing to Odoo CRM.

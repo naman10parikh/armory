@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 20
+pushed_at: "2026-09-01T14:31:04Z"
 ---
 ## What it is
 MCP server for tabular data retrieval that indexes local CSV, Excel, Parquet, and JSONL files once and answers questions via column profiles, filtered rows, server-side aggregations, and joins, drastically reducing token usage for large datasets.

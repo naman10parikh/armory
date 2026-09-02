@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-27T17:28:02Z"
 ---
 ## What it is
 Connects to wetlab protocol resources such as protocols.io, enabling users to access and manage experimental protocols via natural language.

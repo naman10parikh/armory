@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T13:37:41Z"
 ---
 ## What it is
 Read-only MCP server that computes financial answers, such as work-in-progress (NPV), from the Fintablo API using natural language queries.

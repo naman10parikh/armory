@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T15:00:15Z"
 ---
 ## What it is
 Read-only MCP server that exposes Eodly's sourced end-of-day reports and team roster to MCP clients, letting you ask questions like "who is slipping this week?" and get answers backed by GitHub and Linear data.

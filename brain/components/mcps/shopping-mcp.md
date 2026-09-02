@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:49:42Z"
 ---
 ## What it is
 Read-only eBay search and listing lookup via the official Browse API, with filters for price, condition, buying format, shipping, and deals.

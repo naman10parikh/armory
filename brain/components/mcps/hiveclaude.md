@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-13T03:03:52Z"
 ---
 ## What it is
 Coordinates multiple Claude Code agents to work collaboratively on projects with role-based task management, shared state, and automated code review.

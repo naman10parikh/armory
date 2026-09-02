@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T04:53:05Z"
 ---
 ## What it is
 Enables an SAP Joule agent to read and send email from a scoped Microsoft Exchange mailbox via MCP tools, translating tool calls into Microsoft Graph requests.

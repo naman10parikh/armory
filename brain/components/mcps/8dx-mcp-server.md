@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T13:55:24Z"
 ---
 ## What it is
 Exposes 8DX DEX aggregator REST endpoints as tools for AI agents, enabling token discovery, quotes, swaps, limit orders, and wallet execution via WalletConnect.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T11:04:52Z"
 ---
 ## What it is
 Enables AI agents to create, render, and validate 3D scenes, 2D art, and games in HTML canvas using Three.js, WebGL, or Canvas 2D, with multi-angle screenshots, structured validation reports, and interactive playtesting.

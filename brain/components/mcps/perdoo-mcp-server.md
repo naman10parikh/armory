@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T19:16:44Z"
 ---
 ## What it is
 An MCP server that integrates with the Perdoo OKR platform, providing tools to manage objectives, key results, initiatives, KPIs, and strategic pillars.

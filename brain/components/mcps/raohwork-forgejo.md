@@ -8,10 +8,12 @@ source_url: https://github.com/raohwork/forgejo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-10-28T07:59:05Z"
 ---
 ## What it is
 MCP server `Forgejo`, catalogued on PulseMCP. Integrates with Gitea and Forgejo servers to manage repositories, issues, pull requests, releases, wikis, labels, milestones, and repository actions through conversational commands.

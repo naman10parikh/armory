@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T22:37:24Z"
 ---
 ## What it is
 Gives AI agents read-only access to any QuestDB instance, enabling schema discovery, time-series querying, and monitoring of partitions, WAL state, symbols, and ingestion health through MCP.

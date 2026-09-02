@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T05:37:31Z"
 ---
 ## What it is
 Automates Jupyter Book notebook creation by fixing common rendering issues (bold, math, markdown formatting) and provides tools for adding cells, validating notebooks, updating TOC, and deploying.

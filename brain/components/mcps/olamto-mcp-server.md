@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T08:10:12Z"
 ---
 ## What it is
 MCP server for Web3 AI agents enabling autonomous smart contract engineering on Robinhood EVM and Solana, with Cloudflare One portals for efficient token usage and edge execution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T08:43:07Z"
 ---
 ## What it is
 Lets AI tools send transactional emails, check status, and manage contacts through the Model Context Protocol.

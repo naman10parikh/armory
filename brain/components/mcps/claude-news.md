@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T08:49:17Z"
 ---
 ## What it is
 Claude Real Time News Popy21/claude-news-mcp https://claudenews.online/api/mcp

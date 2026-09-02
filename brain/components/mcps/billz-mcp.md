@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T13:13:56Z"
 ---
 ## What it is
 MCP server for the BILLZ POS/Retail API 2.0, enabling AI agents to perform analytics and full retail operations including sales, products, customers, reports, and inventory management.

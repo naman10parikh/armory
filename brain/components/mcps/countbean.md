@@ -8,11 +8,13 @@ source_url: https://github.com/CPUtester5465/countbean-plugin
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 33
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T06:36:12Z"
 ---
 ## What it is
 MCP server for Beancount plain-text accounting: turns plain English into double-entry transactions, runs bean-check, and commits each change to git so it can be diffed and reverted. Works on a local ledger file with no account, or on a hosted book.

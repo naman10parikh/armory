@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T22:01:03Z"
 ---
 ## What it is
 Fetches MetService CAP Atom feed for weather alerts and exposes tools to get active road warnings and all alerts.

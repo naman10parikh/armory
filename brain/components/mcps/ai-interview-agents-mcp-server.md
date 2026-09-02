@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T20:12:28Z"
 ---
 ## What it is
 Lets any MCP client drive the recruiting workflow in natural language: create roles, screen CVs, schedule and manage candidate interviews, and read back scored reports with transcripts.

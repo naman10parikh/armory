@@ -8,11 +8,13 @@ source_url: https://github.com/alfianyusufabdullah/figma-proxy-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-16T04:07:43Z"
 ---
 ## What it is
 A local MCP server that gives AI agents live access to open Figma files for design handoff and UX writing without API tokens or rate limits.

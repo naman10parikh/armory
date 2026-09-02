@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T14:38:34Z"
 ---
 ## What it is
 Enables MCP clients to access all endpoints of an x402 gateway by paying real-time microtransactions (USDC on Base) per API call, with automatic tool discovery and spend guardrails.

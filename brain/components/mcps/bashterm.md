@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-20T01:22:03Z"
 ---
 ## What it is
 Enables executing commands in visible VSCode terminal tabs with full output capture, supporting long-running processes, interactive input, and isolated sessions for parallel agents.

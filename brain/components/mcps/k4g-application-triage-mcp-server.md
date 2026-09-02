@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:17:51Z"
 ---
 ## What it is
 An MCP server for accelerator programs to query, review, and manage startup applications via natural language. It enables searching applications by sector or impact score, fetching full application details with reviewer notes, listing pending reviews, and flagging applications for panel discussion.

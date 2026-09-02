@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T06:41:48Z"
 ---
 ## What it is
 MCP server `Orbital`, catalogued on PulseMCP. Run quantum algorithm simulations and submit jobs to IBM Quantum hardware using QAOA, VQE, and resource estimation tools.

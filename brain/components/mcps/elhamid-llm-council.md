@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
 stars: 8
+forks: 3
+pushed_at: "2026-02-20T02:40:07Z"
 ---
 ## What it is
 Multi-LLM deliberation with anonymized peer review. Runs a 3-stage council: parallel responses → anonymous ranking → synthesis. Based on Andrej Karpathy's LLM Council concept.

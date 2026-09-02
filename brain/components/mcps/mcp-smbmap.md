@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:28:54Z"
 ---
 ## What it is
 Enables SMB enumeration and interaction through MCP tools, including share listing, file operations, and remote command execution.

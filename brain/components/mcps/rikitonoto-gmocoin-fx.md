@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T00:26:21Z"
 ---
 ## What it is
 MCP server `GMO Coin FX`, catalogued on PulseMCP. Access GMO Coin FX trading with tools for account balances, positions, order execution, and candlestick data.

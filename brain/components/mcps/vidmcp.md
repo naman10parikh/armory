@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T19:57:02Z"
 ---
 ## What it is
 MCP server for video editing with text-prompt subject segmentation and compositing effects behind subjects. Enables agent-driven video creation and education animations.

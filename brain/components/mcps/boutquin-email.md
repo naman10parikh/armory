@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T03:06:40Z"
 ---
 ## What it is
 MCP server `Email IMAP/SMTP`, catalogued on PulseMCP. Multi-account email management over IMAP and SMTP with connection pooling and OAuth2 support.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-13T21:48:56Z"
 ---
 ## What it is
 MCP server `SQLite Database`, catalogued on PulseMCP. Provides database connectivity through SQLite integration with pre-seeded sample data, enabling query execution and structured data interaction for prototyping and testing relational database operations.

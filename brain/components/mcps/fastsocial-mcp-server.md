@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T16:47:08Z"
 ---
 ## What it is
 Schedule and manage social media posts across Facebook, Instagram, Twitter/X, LinkedIn, YouTube, TikTok, and Pinterest directly from Claude.

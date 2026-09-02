@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T22:47:11Z"
 ---
 ## What it is
 Provides read-only access to Sleeper fantasy football leagues, enabling team snapshots, available players, matchups, trade context, and league history through standardized MCP tools.

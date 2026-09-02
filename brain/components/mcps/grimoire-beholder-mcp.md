@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T01:53:43Z"
 ---
 ## What it is
 An MCP server that exposes a fully offline RAG library of books (PDFs, EPUBs, markdown, text) to Claude, enabling hybrid search and retrieval of contextualized chunks via read-only tools.

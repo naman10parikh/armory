@@ -8,11 +8,13 @@ source_url: https://github.com/nikan/elorus-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-03T17:21:47Z"
 ---
 ## What it is
 MCP server for the Elorus invoicing and accounting platform, enabling AI assistants to create invoices, manage contacts, and query financial data through natural language.

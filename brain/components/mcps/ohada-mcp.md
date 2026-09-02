@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T15:23:29Z"
 ---
 ## What it is
 A public MCP server for OHADA legal research, enabling search of relevant provisions, retrieval of full articles with hierarchical context, and citation verification.

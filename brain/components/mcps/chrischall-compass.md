@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T23:30:43Z"
 ---
 ## What it is
 MCP server `Compass Real Estate`, catalogued on PulseMCP. Search Compass real estate listings, view property details, photos, price history, and comparisons via your browser session.

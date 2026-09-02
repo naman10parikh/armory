@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-21T19:51:34Z"
 ---
 ## What it is
 MCP server for ai-scanner that enables AI agents to scan codebases for LLM usage, AI frameworks, and exposed secrets.

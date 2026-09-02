@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-05-27T12:11:59Z"
 ---
 ## What it is
 Enables natural language management of OPNsense firewalls through AI clients, providing tools for firewall rules, system health, VPN monitoring, and more.

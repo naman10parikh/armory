@@ -8,10 +8,12 @@ source_url: https://github.com/i2y/d2mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-02T14:09:05Z"
 ---
 ## What it is
 MCP server `D2 Diagramming`, catalogued on PulseMCP. Integrates with Terrastruct's D2 diagramming language to generate technical diagrams, flowcharts, and architectural visualizations in SVG, PNG, and PDF formats through natural language requests.

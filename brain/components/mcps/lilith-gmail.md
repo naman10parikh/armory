@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T22:28:15Z"
 ---
 ## What it is
 Enables semantic search, retrieval, and summarization of Gmail emails with privacy-aware classification and PII sanitization.

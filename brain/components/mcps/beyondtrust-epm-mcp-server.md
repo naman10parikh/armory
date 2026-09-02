@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-13T18:33:45Z"
 ---
 ## What it is
 Enables management of BeyondTrust Endpoint Privilege Management (EPM) through natural language, supporting policy, computer, user, group management, file inspection, audit monitoring, and admin access requests.

@@ -8,10 +8,12 @@ source_url: https://github.com/codingjay-1/claude-mail-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-23T01:00:39Z"
 ---
 ## What it is
 MCP server `Mail Bridge for Claude Code`, catalogued on PulseMCP. Enables remote control of Claude Code sessions via email for permission approvals, progress updates, and team coordination.

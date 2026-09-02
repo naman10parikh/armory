@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T03:25:36Z"
 ---
 ## What it is
 Provides short, positive encouragement messages for AI coding agents during long-running or difficult tasks. Hosted on Cloudflare Workers with a public Streamable HTTP endpoint.

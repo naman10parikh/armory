@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T12:19:12Z"
 ---
 ## What it is
 Remote MCP server (Streamable HTTP) for generating and editing images via Google Gemini, usable as a custom connector in Claude.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T01:11:23Z"
 ---
 ## What it is
 Enables AI agents to control the klo macOS video editor locally, providing 83 tools for timeline editing, captions, color grading, and export while keeping media on-device.

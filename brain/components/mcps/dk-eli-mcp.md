@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:55:44Z"
 ---
 ## What it is
 Provides access to Danish legislation from Retsinformation.dk, enabling retrieval of act metadata, full text, and recent changes with verifiable citations.

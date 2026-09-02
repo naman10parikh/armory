@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-13T06:55:20Z"
 ---
 ## What it is
 Provides 108 tools and 15 React apps to manage ServiceTitan field service operations, including jobs, customers, estimates, invoices, dispatching, technicians, equipment, memberships, inventory, locations, marketing, reporting, tags, and payroll.

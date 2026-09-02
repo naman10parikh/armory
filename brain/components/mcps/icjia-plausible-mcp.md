@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T16:07:56Z"
 ---
 ## What it is
 Enables querying a self-hosted Plausible Analytics instance to retrieve compressed analytics data such as overview stats, top pages, traffic sources, and trends, with computed deltas and human-readable filters.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:51:27Z"
 ---
 ## What it is
 Enables searching and analyzing Polish public procurement tenders from BZP and TED, including filtering, tender details and timelines, offers and contract values, buyer/contractor profiles, CPV code lookup, and regional statistics, with optional AI-summary endpoints.

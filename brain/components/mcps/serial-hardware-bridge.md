@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2024-12-29T09:37:04Z"
 ---
 ## What it is
 MCP server `Serial Hardware Bridge`, catalogued on PulseMCP. Bridges LLMs with physical hardware through serial communication, enabling real-world interaction via configurable commands for IoT projects and hardware control applications.

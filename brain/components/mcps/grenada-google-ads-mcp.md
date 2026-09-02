@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T21:14:43Z"
 ---
 ## What it is
 Enables authorized users to securely connect to and manage their Google Ads accounts through MCP clients, with support for campaigns, ad groups, ads, keywords, reporting, and billing. Runs as a remote multi-user server on Cloudflare Workers with per-user authentication and safety controls.

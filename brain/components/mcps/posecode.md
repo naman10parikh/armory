@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-31T21:14:02Z"
 ---
 ## What it is
 MCP server for Posecode

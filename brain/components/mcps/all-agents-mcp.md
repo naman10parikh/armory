@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-15T05:49:20Z"
 ---
 ## What it is
 Enables orchestrating multiple AI CLI agents (Claude Code, Codex, Gemini CLI, Copilot CLI) through a unified MCP interface for task delegation, cross-agent comparison, and specialized tools like code review and debugging.

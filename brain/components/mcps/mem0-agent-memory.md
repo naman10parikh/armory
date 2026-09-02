@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T19:16:37Z"
 ---
 ## What it is
 An MCP server that provides persistent memory capabilities for AI agents using Mem0, enabling storage, search, and management of contextual information across conversations with support for multiple backends and LLM providers.

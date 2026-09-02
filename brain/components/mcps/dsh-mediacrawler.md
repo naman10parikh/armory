@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:34:12Z"
 ---
 ## What it is
 An MCP adapter that connects DeepSeek Harness to MediaCrawler, enabling search, post/video detail, creator feeds, and comments across multiple Chinese social platforms. It provides eight supervised tools for collecting, monitoring, and exporting crawl results.

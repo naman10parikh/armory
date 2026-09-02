@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-28T02:53:39Z"
 ---
 ## What it is
 Enables AI assistants to manage Notion tasks, projects, and courses through MCP, allowing creation, retrieval, and filtering of tasks.

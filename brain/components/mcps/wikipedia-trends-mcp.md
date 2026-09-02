@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T14:52:03Z"
 ---
 ## What it is
 Provides Wikipedia page view trend data including spike detection, historical traffic, and cross-platform comparison, enabling AI to access a leading indicator of public curiosity.

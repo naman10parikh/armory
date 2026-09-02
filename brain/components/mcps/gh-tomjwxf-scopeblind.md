@@ -8,10 +8,12 @@ source_url: https://github.com/tomjwxf/scopeblind-gateway
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-07-03T05:22:18Z"
 ---
 ## What it is
 MCP server `Scopeblind`, catalogued on PulseMCP. Scan, protect, and monitor APIs from AI coding tools with device-level rate limiting.

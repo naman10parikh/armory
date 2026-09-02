@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T20:54:47Z"
 ---
 ## What it is
 MCP server `LexSocket Tenders`, catalogued on PulseMCP. Access European public procurement tenders from TED and 18 national platforms with hybrid search, filtering by CPV codes, NUTS regions, buyer, and value range.

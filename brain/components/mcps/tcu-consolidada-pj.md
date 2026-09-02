@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:51:31Z"
 ---
 ## What it is
 Consulta consolidada de uma empresa no TCU a partir do CNPJ, reunindo sanções e apontamentos, como servidor MCP somente leitura.

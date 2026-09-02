@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T12:45:43Z"
 ---
 ## What it is
 Enables querying private documentation with tools for version resolution, stale reference checking, and receipt export.

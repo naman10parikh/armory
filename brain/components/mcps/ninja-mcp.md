@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T20:38:36Z"
 ---
 ## What it is
 MCP server for AI agents to interact with the Ninja/AnaNinja mobile API, enabling mobile-compatible auth, address management, retail/grocery product search, draft order validation, and checkout/payment flows.

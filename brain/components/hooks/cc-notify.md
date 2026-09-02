@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: [claude-hooks, claudio]
 tags: [claude-code, hooks]
 stars: 216
+forks: 23
+pushed_at: "2025-10-14T02:26:09Z"
 ---
 ## What it is
 CCNotify provides desktop notifications for Claude Code, alerting you to input needs or task completion, with one-click jumps back to VS Code and task duration display.

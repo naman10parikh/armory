@@ -8,11 +8,13 @@ source_url: https://github.com/simon92641/codex-remote-exec
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T17:07:32Z"
 ---
 ## What it is
 MCP server for remote execution on Windows devices. Enables Codex to run PowerShell, manage files/processes, and capture screenshots via a relay and enrolled Windows agent.

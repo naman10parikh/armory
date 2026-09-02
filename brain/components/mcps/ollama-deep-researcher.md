@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-07-23T05:53:44Z"
 ---
 ## What it is
 MCP server `Ollama Deep Researcher`, catalogued on PulseMCP. Leverage Ollama as your LLM, and Tavily or Perplexity to do your deep web research

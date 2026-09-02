@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 56
+pushed_at: "2025-09-11T22:25:07Z"
 ---
 ## What it is
 A template for deploying an MCP server on Vercel, with example tools like roll_dice and get_weather.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T02:05:09Z"
 ---
 ## What it is
 Bridges Motion's AI-powered calendar and task management API with LLMs, enabling natural language management of tasks, projects, schedules, and more via the Model Context Protocol.

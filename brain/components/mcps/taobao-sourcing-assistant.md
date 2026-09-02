@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T17:51:26Z"
 ---
 ## What it is
 A local, human-paced MCP server for sourcing products on Taobao/Tmall, extracting per-SKU pricing, variant-linked reviews, and exporting to a comparison spreadsheet.

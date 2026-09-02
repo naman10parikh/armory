@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T16:02:41Z"
 ---
 ## What it is
 Enables AI agents to read real-time device status and health data (battery, location, network) reported from a mobile phone, acting as a single-port HTTP/MCP telemetry server.

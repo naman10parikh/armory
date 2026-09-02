@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-20T12:47:12Z"
 ---
 ## What it is
 Enables AI applications to fetch verifiable randomness from the drand network, supporting latest, time-based, and round-based beacon retrieval.

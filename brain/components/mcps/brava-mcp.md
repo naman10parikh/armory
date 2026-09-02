@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T08:43:31Z"
 ---
 ## What it is
 Enables querying rare-variant, gene-based association results across ~1.2M individuals from 10 global biobanks, supporting phenome-wide scans, replication screens across ancestries, and candidate list evaluation for 44 harmonized traits.

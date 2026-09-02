@@ -8,10 +8,12 @@ source_url: https://github.com/genwavellc/svgmaker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 87
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-13T08:08:55Z"
 ---
 ## What it is
 MCP server `SVGMaker`, catalogued on PulseMCP. Integrates with SVGMaker's API to generate SVGs from text descriptions, edit existing images, and convert bitmap images to vector format with customizable quality settings and real-time progress tracking.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 14
+forks: 6
+pushed_at: "2026-03-30T02:27:21Z"
 ---
 ## What it is
 An MCP server for Mathematical expression calculation

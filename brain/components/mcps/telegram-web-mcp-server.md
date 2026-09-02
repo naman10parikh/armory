@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T19:49:04Z"
 ---
 ## What it is
 Enables AI agents to interact with Telegram Web through a clean text-based API, including chat search, message history, sending messages, and profile retrieval via a persistent Playwright session.

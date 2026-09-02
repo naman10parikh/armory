@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-17T18:39:37Z"
 ---
 ## What it is
 Provides AI assistants with local access to Filament, Laravel, Livewire, and Pest documentation, enabling offline reference and search.

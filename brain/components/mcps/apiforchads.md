@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-24T05:27:29Z"
 ---
 ## What it is
 MCP server `API for Chads`, catalogued on PulseMCP. Crypto prices, prediction market data, web research, and page rendering with Solana micropayments.

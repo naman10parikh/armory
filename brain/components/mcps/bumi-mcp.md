@@ -8,11 +8,13 @@ source_url: https://github.com/sandraschi/bumi-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T10:15:18Z"
 ---
 ## What it is
 MCP server for controlling the Noetix Bumi humanoid robot via ROS 2, with support for autonomous mission planning using LLMs and computer vision.

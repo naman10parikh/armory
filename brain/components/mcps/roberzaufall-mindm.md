@@ -8,10 +8,12 @@ source_url: https://github.com/robertzaufall/mindm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-01-28T16:25:16Z"
 ---
 ## What it is
 MCP server `MindM`, catalogued on PulseMCP. MindManager integration for automation on Windows + macOS

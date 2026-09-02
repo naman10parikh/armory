@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:32:55Z"
 ---
 ## What it is
 Enables AI agents to convert natural language schedule descriptions into valid cron expressions with explanations and next run times, using x402 micropayments for pay-per-call access.

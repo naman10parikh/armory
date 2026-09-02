@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-09-01T21:53:10Z"
 ---
 ## What it is
 Accounting MCP server for the French LMNP tax status (furnished rentals, e.g. Airbnb hosts). 44 tools to manage properties, income and expenses, compute component-based depreciation and fiscal results, and generate the official French tax return (2031/2033) and FEC accounting export.

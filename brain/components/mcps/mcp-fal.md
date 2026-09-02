@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T15:20:51Z"
 ---
 ## What it is
 An MCP server that exposes Fal.ai generative media models as tools for image and video generation, and running any Fal.ai model, callable by Claude and other MCP-compatible clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:57Z"
 ---
 ## What it is
 Consulta em fonte oficial o cadastro do Conselho Regional de Odontologia SE, com ferramenta somente leitura e paga por uso.

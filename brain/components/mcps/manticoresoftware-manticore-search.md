@@ -8,10 +8,12 @@ source_url: https://github.com/manticoresoftware/mcp-manticore
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T12:29:34Z"
 ---
 ## What it is
 MCP server `Manticore Search`, catalogued on PulseMCP. Query and manage Manticore Search databases with SQL execution, schema inspection, and built-in documentation access.

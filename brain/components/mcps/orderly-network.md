@@ -8,10 +8,12 @@ source_url: https://github.com/orderlynetwork/orderly-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-14T08:49:43Z"
 ---
 ## What it is
 MCP server `Orderly Network`, catalogued on PulseMCP. Provides documentation, SDK patterns, smart contract addresses, and API specifications for Orderly Network's omnichain perpetual futures trading infrastructure, enabling developers to build trading interfaces and integrate with cross-chain trading operations.

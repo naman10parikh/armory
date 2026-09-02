@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T01:56:18Z"
 ---
 ## What it is
 Enables comparing and renting vGPUs from 30+ cloud providers via Shadeform API, with tools to list, filter, rent, and manage GPU instances.

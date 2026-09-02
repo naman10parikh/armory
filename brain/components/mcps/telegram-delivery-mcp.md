@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T21:26:43Z"
 ---
 ## What it is
 MCP server for delivering Yandex Tracker artifacts to Telegram via a bot service. It works in conjunction with YandexTrackerMCP to send summarized reports and verify delivery.

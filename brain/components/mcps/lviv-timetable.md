@@ -8,10 +8,12 @@ source_url: https://github.com/vbhjckfd/timetable-api-node
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-30T08:44:06Z"
 ---
 ## What it is
 MCP server `Lviv Timetable`, catalogued on PulseMCP. Real-time Lviv public transport stops, routes, vehicle positions, and terminus timetables.

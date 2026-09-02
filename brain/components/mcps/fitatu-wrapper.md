@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T20:09:20Z"
 ---
 ## What it is
 Enables programmatic access to Fitatu nutrition tracking via MCP tools for login, food search, product lookup, daily nutrition read, and adding entries.

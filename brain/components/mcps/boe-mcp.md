@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-15T21:22:45Z"
 ---
 ## What it is
 Enables querying Spanish BOE consolidated legislation, daily summaries, and legal reference data through natural language using the Model Context Protocol.

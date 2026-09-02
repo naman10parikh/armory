@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T04:02:54Z"
 ---
 ## What it is
 Turns an LLM agent into a personal planner by providing atomic context (roles, goals, decision matrix) and routing classified items to Obsidian, with optional projection to Google Calendar and Tasks.

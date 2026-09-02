@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-28T20:33:07Z"
 ---
 ## What it is
 MCP server `YeetIt`, catalogued on PulseMCP. Instant web publishing for AI agents — POST HTML, get a live URL with no account needed.

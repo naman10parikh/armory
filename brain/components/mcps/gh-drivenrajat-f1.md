@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-18T21:20:07Z"
 ---
 ## What it is
 MCP server `Formula 1 Data`, catalogued on PulseMCP. Access Formula 1 race data, telemetry, lap times, standings, and analytics via FastF1.

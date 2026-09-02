@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:19Z"
 ---
 ## What it is
 Consulta a transferência de propriedade de veículos em Minas Gerais usando fonte oficial, com acesso somente leitura e integração com clientes MCP via HTTP.

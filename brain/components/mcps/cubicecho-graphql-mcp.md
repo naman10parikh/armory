@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:10:51Z"
 ---
 ## What it is
 Converts a GraphQL schema into MCP tools, allowing AI to discover and call GraphQL queries and mutations via natural language.

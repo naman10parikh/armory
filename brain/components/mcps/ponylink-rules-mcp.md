@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T06:30:01Z"
 ---
 ## What it is
 Provides read-only semantic search over the company's 36 internal rule documents (e.g., employment, HR, disciplinary, attendance, salary regulations). It exposes tools to query the knowledge base by natural language and to retrieve total chunk count, with no modification capabilities.

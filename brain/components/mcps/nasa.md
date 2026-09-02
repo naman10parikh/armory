@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T06:45:44Z"
 ---
 ## What it is
 MCP server that wraps three NASA public APIs (Astronomy Picture of the Day, Mars rover photos, and near-Earth objects) as tools for AI assistants.

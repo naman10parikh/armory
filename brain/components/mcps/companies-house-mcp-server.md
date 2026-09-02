@@ -8,11 +8,13 @@ source_url: https://github.com/stefanoamorelli/companies-house-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-06-21T18:22:14Z"
 ---
 ## What it is
 Access UK company data through the Companies House API directly in MCP clients, with 45+ tools for company info, search, officers, filing history, ownership, and charges.

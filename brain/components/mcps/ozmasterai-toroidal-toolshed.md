@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T16:55:12Z"
 ---
 ## What it is
 MCP server `Toroidal Toolshed`, catalogued on PulseMCP. Proxy that multiplexes multiple backends through two tools, reducing token overhead.

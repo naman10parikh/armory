@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-08T11:01:31Z"
 ---
 ## What it is
 MCP server for web search and URL reading via CLIProxyAPI Antigravity backend, enabling web search, URL content retrieval, and grounded research.

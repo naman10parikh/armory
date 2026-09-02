@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T02:26:39Z"
 ---
 ## What it is
 Exposes the Wardrowbe wardrobe API as MCP tools, enabling outfit suggestions, item management, wear/wash logging, and analytics via natural language.

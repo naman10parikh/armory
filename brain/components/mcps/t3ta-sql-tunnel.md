@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-07T02:51:48Z"
 ---
 ## What it is
 MCP server `SQL Tunnel`, catalogued on PulseMCP. Enables secure access to MySQL databases through SSH tunnels with configurable authentication via username/password or SSH keys

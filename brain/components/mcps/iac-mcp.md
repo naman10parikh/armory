@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T07:28:55Z"
 ---
 ## What it is
 Enables AI to dynamically discover and control native macOS applications (like Finder, Mail, Safari) through AppleScript/JXA automation without pre-built integrations.

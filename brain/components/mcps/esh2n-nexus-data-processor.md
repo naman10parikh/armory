@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-25T02:57:14Z"
 ---
 ## What it is
 MCP server `Nexus Data Processor`, catalogued on PulseMCP. Integrates data processing libraries and external services to facilitate complex data operations, transformations, and API interactions across multiple formats and sources.

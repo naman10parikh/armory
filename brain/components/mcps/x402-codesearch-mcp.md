@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T10:29:42Z"
 ---
 ## What it is
 Enables free indexing of repository files into a live semantic code search Worker via the index_code tool, while semantic search requires calling the paid x402-gated endpoint directly.

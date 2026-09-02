@@ -8,10 +8,12 @@ source_url: https://github.com/aquasecurity/trivy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-12-17T16:02:32Z"
 ---
 ## What it is
 MCP server `Trivy Security Scanner`, catalogued on PulseMCP. Integrates Trivy's security scanning capabilities to detect vulnerabilities, misconfigurations, licenses, and secrets in local filesystems, container images, and remote repositories through natural language queries.

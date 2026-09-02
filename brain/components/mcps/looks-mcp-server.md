@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T16:49:30Z"
 ---
 ## What it is
 Exposes the Look API's analytics surface as MCP tools, enabling agents to query outfit generation and analytics data with proper semantics for suppressed, sampled, or truncated results.

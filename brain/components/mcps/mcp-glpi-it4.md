@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T09:23:31Z"
 ---
 ## What it is
 Integrates with GLPI IT4Solução API v2.3 (OAuth2) to manage tickets, computer inventory, and configuration parameters, with safety features like dry-run and rollback.

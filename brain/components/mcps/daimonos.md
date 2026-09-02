@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T19:36:16Z"
 ---
 ## What it is
 Agent-optimized MCP server that replaces built-in file, search, exec, and git tools with compact, structured JSON equivalents. Benchmarked 20–45% token savings for AI coding agents.

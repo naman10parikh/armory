@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T15:30:17Z"
 ---
 ## What it is
 Provides a browsable, mutable SFTP filesystem for AI agents, supporting file operations like listing, uploading, downloading, moving, and deleting.

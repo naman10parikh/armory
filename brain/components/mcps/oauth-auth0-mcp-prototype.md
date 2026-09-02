@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T09:15:10Z"
 ---
 ## What it is
 This MCP server demonstrates end-to-end Auth0 authentication, validating JWT tokens and mapping org_id to cabinet_id via a whoami tool.

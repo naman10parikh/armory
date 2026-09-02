@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T05:11:17Z"
 ---
 ## What it is
 An MCP server providing public plant bioinformatics APIs including UniProt, NCBI, InterProScan, PDB, AlphaFold, Ensembl Plants, and web-based resources like Sol Genomics and BAR, without local data. It supports gene lookups, protein summaries, structure retrieval, and functional annotations through 

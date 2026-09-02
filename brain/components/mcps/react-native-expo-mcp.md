@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-25T19:48:36Z"
 ---
 ## What it is
 An MCP server for React Native development with Expo, offering automated code remediation, refactoring, testing, and analysis tools to accelerate development and enforce best practices.

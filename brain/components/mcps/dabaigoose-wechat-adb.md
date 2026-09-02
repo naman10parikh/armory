@@ -8,10 +8,12 @@ source_url: https://github.com/dabaigoose/mcp-wechat-adb-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-08-13T17:50:41Z"
 ---
 ## What it is
 MCP server `WeChat ADB`, catalogued on PulseMCP. Automates WeChat messaging and screenshot capture through ADB connectivity to Android devices and emulators, enabling bulk messaging workflows and customer service automation via direct mobile interface control.

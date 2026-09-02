@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-11T15:49:27Z"
 ---
 ## What it is
 Creates custom VS Code chat modes and prompts for specialized development workflows such as Azure migration, Bicep development, and spec-driven development.

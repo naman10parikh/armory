@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T19:39:12Z"
 ---
 ## What it is
 A deny-by-default MCP server for Obsidian vaults where operators declare exact capabilities (list, read, create, etc.) scoped by path globs; everything not permitted is impossible by construction as disallowed tools are never registered.

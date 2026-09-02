@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T13:10:25Z"
 ---
 ## What it is
 A stdio-to-HTTP bridge for connecting to Sombra's remote MCP server, enabling AI agents to save, search, and organize web content.

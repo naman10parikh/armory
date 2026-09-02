@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T19:04:51Z"
 ---
 ## What it is
 MCP server `Engram Memory`, catalogued on PulseMCP. Provides persistent memory capabilities through explainable retrieval mechanisms that transparently surface stored information with clear reasoning about why specific memories were recalled.

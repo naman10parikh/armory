@@ -8,10 +8,12 @@ source_url: https://github.com/gabbo01/zeek-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-16T21:33:00Z"
 ---
 ## What it is
 MCP server `Zeek`, catalogued on PulseMCP. Provides a bridge between Zeek network security monitor and language models for executing PCAP file analysis, log parsing, and converting tabular output into structured data formats without requiring direct command-line interaction.

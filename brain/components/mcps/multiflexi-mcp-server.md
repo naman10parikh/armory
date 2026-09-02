@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T17:24:34Z"
 ---
 ## What it is
 MCP server for MultiFlexi API integration, providing tools and resources to manage applications, jobs, companies, users, and run templates.

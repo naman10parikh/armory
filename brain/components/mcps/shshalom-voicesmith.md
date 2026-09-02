@@ -8,10 +8,12 @@ source_url: https://github.com/shshalom/voicesmith-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-30T16:03:01Z"
 ---
 ## What it is
 MCP server `VoiceSmith`, catalogued on PulseMCP. Adds speech-to-text and text-to-speech capabilities with automatic voice assignment, VAD-controlled recording, wake word activation, and tmux integration for terminal sessions.

@@ -8,10 +8,12 @@ source_url: https://github.com/severity1/nz-akahu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-24T23:23:11Z"
 ---
 ## What it is
 MCP server `Akahu NZ`, catalogued on PulseMCP. Unofficial MCP server for the Akahu New Zealand open-finance API, providing 14 tools for accounts, transactions, and identity with read-only defaults.

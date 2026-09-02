@@ -8,11 +8,13 @@ source_url: https://github.com/vouchdev/vouch
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 109
+stars: 91
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 62
+pushed_at: "2026-08-23T03:53:32Z"
 ---
 ## What it is
 Review-gated knowledge base for LLM agents that ensures durable memory via human-approved writes, compiling a wiki with verified citations.

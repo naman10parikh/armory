@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T09:08:19Z"
 ---
 ## What it is
 An MCP server that provides LLMs with access to Path of Exile game data, including gems, unique items, passive tree nodes, item modifiers, maps, scarabs, live pricing, and Path of Building build parsing, fetched at runtime from community sources without requiring an API key.

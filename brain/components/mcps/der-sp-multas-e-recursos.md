@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:06Z"
 ---
 ## What it is
 Consulta de multas e recursos do DER SP em fonte oficial, com API remota paga por uso, integração com qualquer cliente MCP sobre HTTP e foco em privacidade via LGPD.

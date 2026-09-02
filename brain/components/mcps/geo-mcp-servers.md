@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:50:38Z"
 ---
 ## What it is
 Enables geospatial operations such as geocoding, routing, map visualization, satellite imagery, and weather data through a unified MCP interface, making Earth data accessible to non-programmers.

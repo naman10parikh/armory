@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T15:20:08Z"
 ---
 ## What it is
 Paid MCP server that lets AI agents query live indexed Doginals, Dunes, DRC-20, and other Dogecoin metaprotocols, with operators compensated per query.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T05:45:17Z"
 ---
 ## What it is
 Enables AI assistants to inspect, control, and automate Arch Linux/CachyOS and the Niri Desktop Environment through natural language, featuring tools for window management, system administration, package queries, and hardware control.

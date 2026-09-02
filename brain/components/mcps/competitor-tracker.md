@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T11:58:04Z"
 ---
 ## What it is
 Competitor Tracker & Co. watches your competitors' websites and reports what changed: pricing, product, messaging and corporate moves, crawled weekly and filed as a tagged, ranked report. This server gives your agent the same intelligence: subscribe to competitors, read the change feed, and pull pag

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-28T23:51:47Z"
 ---
 ## What it is
 MCP server `K8s Port Forward`, catalogued on PulseMCP. Kubernetes port forwarding management for services and pods with lifecycle control.

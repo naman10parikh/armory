@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-20T10:49:59Z"
 ---
 ## What it is
 MCP server `Convo`, catalogued on PulseMCP. Access Convo meeting transcripts, summaries, action items, and coaching feedback from any MCP-compatible AI assistant.

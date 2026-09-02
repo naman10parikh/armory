@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T18:26:57Z"
 ---
 ## What it is
 The email API your AI agent can actually use. A Model Context Protocol server for Send16 that gives Claude, Cursor, and any MCP client 79 tools to send transactional & marketing email, manage contacts, audiences, segments, automations, templates, the inbox, suppressions, and webhooks.

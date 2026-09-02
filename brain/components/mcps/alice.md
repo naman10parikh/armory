@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T21:54:56Z"
 ---
 ## What it is
 MCP server `Alice`, catalogued on PulseMCP. Search, retrieve, and analyze voice recordings and transcripts from the Alice platform.

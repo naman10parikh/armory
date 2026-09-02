@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T06:48:32Z"
 ---
 ## What it is
 A file system MCP server that confines AI assistant file tools to a single folder, with read-only by default and optional write access.

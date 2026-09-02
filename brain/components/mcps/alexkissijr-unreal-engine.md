@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-20T18:18:03Z"
 ---
 ## What it is
 MCP server `Unreal Engine`, catalogued on PulseMCP. Enables AI interaction with Unreal Engine through a TCP server that exposes scene manipulation, material creation, and blueprint generation capabilities via a modular command system.

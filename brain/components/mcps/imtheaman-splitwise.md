@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-15T18:16:46Z"
 ---
 ## What it is
 MCP server `Splitwise`, catalogued on PulseMCP. Splitwise API integration for expense sharing and group financial management.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-09T11:42:38Z"
 ---
 ## What it is
 MCP server `Zotero Library`, catalogued on PulseMCP. Add papers and books to Zotero by DOI, arXiv ID, or ISBN and manage collections and tags.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T14:57:26Z"
 ---
 ## What it is
 Integrates with the Neptime.io video platform, providing 39 tools for video management, uploads, channels, playlists, comments, articles, and more via the Model Context Protocol.

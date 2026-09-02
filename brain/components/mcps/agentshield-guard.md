@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-11T16:18:15Z"
 ---
 ## What it is
 MCP server `AgentShield Guard`, catalogued on PulseMCP. Runtime gateway for detecting prompt injection and jailbreak attempts in LLM agents.

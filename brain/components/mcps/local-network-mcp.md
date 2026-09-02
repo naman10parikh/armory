@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T23:27:25Z"
 ---
 ## What it is
 MCP server enabling local network interaction, shell command execution, system resource monitoring, and SSH-based remote device management.

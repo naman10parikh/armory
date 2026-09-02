@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-14T00:36:20Z"
 ---
 ## What it is
 Exposes a set of CLI tools (test generation, documentation generation, linting, test running, code search) to AI assistants via MCP, allowing them to perform these tasks through natural language.

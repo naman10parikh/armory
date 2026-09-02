@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-05T13:50:14Z"
 ---
 ## What it is
 Provides access to Dexcom G7 continuous glucose monitor data, enabling AI assistants to retrieve current glucose readings and historical data.

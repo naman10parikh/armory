@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:32:56Z"
 ---
 ## What it is
 MCP server that demonstrates the Resources feature by exposing static and dynamic resources, including contact data and personalized greetings, through MCP.

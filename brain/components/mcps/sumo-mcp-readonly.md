@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T18:48:44Z"
 ---
 ## What it is
 A read-only MCP server for querying Sumo Logic logs, enabling AI assistants to search and investigate application logs with opinionated tools and secure credential handling.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T07:13:49Z"
 ---
 ## What it is
 Connects AI agents to Steep workspace for querying metrics, targets, entities, and team data via natural language. All tools are read-only and the server is remote.

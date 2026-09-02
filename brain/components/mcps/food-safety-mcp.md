@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T21:50:26Z"
 ---
 ## What it is
 Enables checking food additive safety, nutrition profiles, pesticide residues, and ingredient lists with regulatory flags and dietary compatibility. All data is sourced from authoritative bodies like JECFA, EFSA, and FDA.

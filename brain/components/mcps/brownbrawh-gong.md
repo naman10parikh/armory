@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-03T10:21:55Z"
 ---
 ## What it is
 MCP server `Gong`, catalogued on PulseMCP. Integrates with Gong's sales intelligence platform to analyze call recordings, retrieve transcripts with speaker identification, track conversation topics, and extract customer feedback patterns from sales conversations.

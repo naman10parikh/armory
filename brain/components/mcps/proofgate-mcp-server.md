@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T16:06:53Z"
 ---
 ## What it is
 Pre-execution firewall for autonomous agents that scans URLs via Telegraph, enforces allow/warn/block policy, and maintains a hash-chained audit ledger.

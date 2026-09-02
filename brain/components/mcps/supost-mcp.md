@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T17:43:50Z"
 ---
 ## What it is
 Remote MCP server for SUpost, the Stanford student marketplace. Lets AI agents search active listings, fetch listing details, and read verified market statistics.

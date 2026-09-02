@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T13:21:09Z"
 ---
 ## What it is
 Paid remote MCP server providing structured receipts, audit logs, and reviewer-ready evidence for Claude Code skill update gate operations.

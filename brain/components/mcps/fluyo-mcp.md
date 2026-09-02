@@ -8,11 +8,13 @@ source_url: https://github.com/itsnect/fluyo-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T18:40:24Z"
 ---
 ## What it is
 MCP server that creates, edits and exports architecture diagrams as .fluyo.json files, operating through tools like create_diagram, edit_diagram, and export_diagram directly from Claude.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T22:02:44Z"
 ---
 ## What it is
 A minimal MCP server that tells an interactive knock-knock joke suitable for children, supporting both local stdio and HTTP deployments.

@@ -8,11 +8,13 @@ source_url: https://github.com/adamamer20/paper-search-mcp-openai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6240
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 8
+pushed_at: "2025-09-18T16:51:36Z"
 ---
 ## What it is
 Search and download academic papers from arXiv, PubMed, bioRxiv, medRxiv, Google Scholar, Semantic Scholar, and IACR. Fetch PDFs and extract full text to accelerate literature reviews. Get consistent metadata for easier filtering, citation, and analysis.

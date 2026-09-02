@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-10-01T06:33:48Z"
 ---
 ## What it is
 Enables LLMs to send notifications and receive responses via Telegram.

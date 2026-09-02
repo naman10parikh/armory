@@ -8,10 +8,12 @@ source_url: https://github.com/gojue/moling
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 335
+stars: 338
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 40
+pushed_at: "2026-03-15T13:38:54Z"
 ---
 ## What it is
 MCP server `MoLing`, catalogued on PulseMCP. Enables AI to interact with local system resources through a secure, configurable server that provides browser automation, file operations, and command execution with robust security measures.

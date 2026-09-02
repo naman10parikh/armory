@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T06:38:46Z"
 ---
 ## What it is
 MCP server for creating, listing, and signing Turkish e-invoices, e-producer receipts, and e-self-employment receipts on the GİB e-Arşiv portal.

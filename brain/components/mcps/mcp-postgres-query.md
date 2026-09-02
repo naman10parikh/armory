@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T15:03:03Z"
 ---
 ## What it is
 Connects Claude to any PostgreSQL database, enabling schema exploration, query execution, and performance analysis through natural conversation.

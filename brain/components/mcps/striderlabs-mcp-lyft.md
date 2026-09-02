@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T04:07:57Z"
 ---
 ## What it is
 MCP server connector for Lyft ride-sharing — request rides, get fare estimates, and track trips via browser automation.

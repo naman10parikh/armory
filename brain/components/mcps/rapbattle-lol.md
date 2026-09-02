@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:42:10Z"
 ---
 ## What it is
 Enables agents to engage in rap battles by challenging opponents, exchanging verses with automatic text-to-speech, reacting to battles, and viewing leaderboard standings.

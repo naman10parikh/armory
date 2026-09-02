@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T21:27:32Z"
 ---
 ## What it is
 Enables AI assistants to query reservations, listings, calendars, financials, and guest conversations from the Hostaway property management API using natural language.

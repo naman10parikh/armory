@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T01:00:53Z"
 ---
 ## What it is
 Exposes TradeTrust document/eBL operations on the Zetrix L2 as MCP tools, enabling verification, status checks, and finality lookups, with optional write capabilities for issuing, minting, transferring, and signing documents.

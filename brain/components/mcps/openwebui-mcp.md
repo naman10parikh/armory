@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T23:30:01Z"
 ---
 ## What it is
 Open WebUI MCP server that exposes ask and list_models tools, letting any MCP client query Open WebUI models through the full tool-calling loop (including server-side tools) via stdio, SSE, or streamable HTTP transports.

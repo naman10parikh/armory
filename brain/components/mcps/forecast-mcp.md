@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T00:50:35Z"
 ---
 ## What it is
 Enable any AI agent to forecast time-series data (e.g., sales, traffic) using Google's TimesFM or a zero-dependency statistical baseline.

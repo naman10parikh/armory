@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-06T18:16:07Z"
 ---
 ## What it is
 Read-only MCP server for Easy Pay Direct / NMI payment gateway, enabling natural language queries of transactions, subscriptions, and customer vault records.

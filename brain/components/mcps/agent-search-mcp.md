@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T11:57:00Z"
 ---
 ## What it is
 Free multi-source web search server for AI agents, with confidence scoring and token optimization.

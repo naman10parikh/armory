@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-12T16:50:00Z"
 ---
 ## What it is
 MCP server `HeroUI Migration`, catalogued on PulseMCP. Assists with migrating HeroUI v2 and NextUI projects to HeroUI v3 beta through project scanning, file analysis, guided rewrites, and component comparison.

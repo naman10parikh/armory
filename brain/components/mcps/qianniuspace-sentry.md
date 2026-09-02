@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-07-18T09:02:32Z"
 ---
 ## What it is
 MCP server `Sentry`, catalogued on PulseMCP. Integrates with Sentry.io for retrieving and analyzing error reports, stacktraces, and debugging information, enabling developers and support teams to streamline issue tracking and debugging workflows.

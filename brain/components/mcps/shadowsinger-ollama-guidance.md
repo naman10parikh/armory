@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-10T11:42:32Z"
 ---
 ## What it is
 MCP server `Ollama`, catalogued on PulseMCP. Provides a standardized server interface for interacting with local language models through Ollama, enabling intelligent guidance, multimodal inputs, and flexible tool integration across generation and chat completion endpoints.

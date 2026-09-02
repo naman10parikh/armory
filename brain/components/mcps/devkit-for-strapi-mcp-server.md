@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T15:30:14Z"
 ---
 ## What it is
 Provides AI agents with ground-truth knowledge of Strapi projects by reading real schema files, enabling accurate queries and safe refactoring operations.

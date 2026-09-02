@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-25T01:02:39Z"
 ---
 ## What it is
 MCP server `Promptlint`, catalogued on PulseMCP. Static linter for AI prompts detecting contradictions, redundancy, ambiguity, and filler text.

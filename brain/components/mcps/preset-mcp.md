@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T17:56:13Z"
 ---
 ## What it is
 MCP server for Preset (managed Apache Superset). Manage dashboards, charts, and datasets from Claude Code and other LLM agents.

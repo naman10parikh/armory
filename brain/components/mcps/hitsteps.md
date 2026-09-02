@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T13:48:47Z"
 ---
 ## What it is
 Enables access to Hitsteps analytics and website operations through a remote MCP server, using OAuth for authentication and Streamable HTTP transport.

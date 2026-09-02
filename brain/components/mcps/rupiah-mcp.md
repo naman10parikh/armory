@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T03:28:28Z"
 ---
 ## What it is
 MCP server for the Indonesian Rupiah toolkit, enabling AI agents to format, parse, abbreviate, and convert numbers to Indonesian words.

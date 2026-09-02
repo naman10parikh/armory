@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T03:17:37Z"
 ---
 ## What it is
 A learning MCP server that transforms technical topics into four structured parts: definition, analogy, example, and hands-on try-it exercises, enabling beginner-friendly study directly from any MCP client.

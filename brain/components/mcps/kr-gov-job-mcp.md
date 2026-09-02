@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T08:50:24Z"
 ---
 ## What it is
 This MCP server helps users prepare for Korean public institution jobs by integrating job postings, job descriptions, NCS competencies, and institutional analysis from various sources like ALIO and 클린아이.

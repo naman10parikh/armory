@@ -8,11 +8,13 @@ source_url: https://github.com/magentic/flowlens-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 109
+stars: 110
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-05-17T17:01:18Z"
 ---
 ## What it is
 Enables coding agents to access recorded browser flows (user actions, network, console, etc.) for debugging and regression testing without reproducing issues.

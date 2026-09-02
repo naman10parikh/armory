@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:04:02Z"
 ---
 ## What it is
 Enables querying French companies and establishments via SIREN or geographic proximity using the official French business register API.

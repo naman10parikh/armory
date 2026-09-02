@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:34:34Z"
 ---
 ## What it is
 Runs AI-generated code in secure Firecracker microVMs with opt-in network policy enforcement, PII scanning, prompt injection defense, and audit logging. Exposes MCP tools for running commands, managing files, and the full sandbox lifecycle.

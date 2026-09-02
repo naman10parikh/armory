@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T10:40:40Z"
 ---
 ## What it is
 MCP server that integrates with the transport12 API to provide tools for searching stops, routes, arrivals, and vehicle forecasts, enabling natural language interaction with public transport data.

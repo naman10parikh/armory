@@ -8,10 +8,12 @@ source_url: https://github.com/panther-labs/mcp-panther
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-05-15T13:58:00Z"
 ---
 ## What it is
 MCP server `Panther Labs`, catalogued on PulseMCP. Integrates with Panther Labs' cybersecurity platform to enable security alert triage, data lake querying, detection rule management, and log source analysis for incident response and threat hunting workflows.

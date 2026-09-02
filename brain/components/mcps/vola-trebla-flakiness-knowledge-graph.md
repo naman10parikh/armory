@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T00:43:13Z"
 ---
 ## What it is
 MCP server `Flakiness Knowledge Graph`, catalogued on PulseMCP. Builds a flakiness knowledge graph from test run history using a Playwright reporter and SQLite.

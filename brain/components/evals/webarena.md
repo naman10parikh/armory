@@ -8,11 +8,13 @@ source_url: https://github.com/web-arena-x/webarena
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1585
+stars: 1592
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, agents, browser, benchmark]
+forks: 249
+pushed_at: "2025-11-26T21:16:00Z"
 ---
 ## What it is
 WebArena: realistic web-based environment for evaluating autonomous agents on long-horizon browser interaction tasks.

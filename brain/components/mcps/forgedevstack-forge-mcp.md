@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T16:37:10Z"
 ---
 ## What it is
 Tiny helper for building API-key-protected stdio MCP servers. Wraps the official @modelcontextprotocol/sdk so you define tools with plain JSON schemas — no zod, no boilerplate — and get a working server with one call.

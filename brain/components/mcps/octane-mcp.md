@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T10:23:34Z"
 ---
 ## What it is
 A local MCP server that lets Hermes Agent use Octane X as a shared visual canvas for geometry, data, math, and concept visualization.

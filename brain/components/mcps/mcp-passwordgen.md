@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:31:51Z"
 ---
 ## What it is
 Enables to generate cryptographically-random passwords and PINs with control over character sets and length. Returns the password(s) and their entropy in bits.

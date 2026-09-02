@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T15:59:29Z"
 ---
 ## What it is
 An AI-powered MCP server that reviews code bluntly, without sugarcoating, citing line numbers and severity labels.

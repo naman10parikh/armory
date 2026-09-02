@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-04T02:07:33Z"
 ---
 ## What it is
 Enables AI agents to download, index, and semantically search PDF research papers using 8 MCP tools.

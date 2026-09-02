@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T23:18:09Z"
 ---
 ## What it is
 Provides deterministic Python codebase symbol exploration using AST parsing, with tools for definition lookup, signatures, references, call chains, and class hierarchy queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T23:45:47Z"
 ---
 ## What it is
 A controlled local program execution bridge for mobile MCP clients, exposing structured tools for running programs, file operations, and network diagnostics without shell access.

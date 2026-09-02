@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-02T19:55:57Z"
 ---
 ## What it is
 A comprehensive MCP server that provides Claude with direct access to Docker, DigitalOcean, and CloudFlare APIs for infrastructure management and automation.

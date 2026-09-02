@@ -8,11 +8,13 @@ source_url: https://github.com/Zaida-3dO/agent-standup
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:21:13Z"
 ---
 ## What it is
 An MCP server enabling AI coding agents to interact with a task tracker that enforces rules server-side, replacing markdown files and hooks with a database, CLI, and web UI.

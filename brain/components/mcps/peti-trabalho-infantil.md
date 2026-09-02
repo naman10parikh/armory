@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:41:04Z"
 ---
 ## What it is
 MCP server that verifies a person's enrollment in Brazil's Child Labor Eradication Program (PETI) using CPF and NIS numbers. It provides a single read-only tool accessible over HTTP for any MCP client.

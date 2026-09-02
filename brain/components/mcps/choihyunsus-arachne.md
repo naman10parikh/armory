@@ -8,10 +8,12 @@ source_url: https://github.com/choihyunsus/n2-arachne
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-15T21:17:45Z"
 ---
 ## What it is
 MCP server `Arachne`, catalogued on PulseMCP. Assembles optimized codebase context for AI coding by selecting only relevant files through hybrid search and dependency graph analysis.

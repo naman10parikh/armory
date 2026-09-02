@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-01T13:26:09Z"
 ---
 ## What it is
 A TypeScript-based MCP server that integrates with Swagger/OpenAPI specifications to expose API endpoints as tools for Large Language Models (LLMs), enabling natural language interaction with any OpenAPI-compliant API.

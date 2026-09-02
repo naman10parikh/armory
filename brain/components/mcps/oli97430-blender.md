@@ -8,10 +8,12 @@ source_url: https://github.com/oli97430/blender-mcp-addon
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T11:27:05Z"
 ---
 ## What it is
 MCP server `Blender`, catalogued on PulseMCP. Enables AI tools to execute Python code within a running Blender instance via a local TCP server, providing complete access to the bpy API for 3D modeling and rendering.

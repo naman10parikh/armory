@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:39:10Z"
 ---
 ## What it is
 Consulta infrações trabalhistas registradas pelo Ministério do Trabalho e Emprego a partir de CPF ou CNPJ. Enables read-only querying of labor infractions for individuals or companies via MCP.

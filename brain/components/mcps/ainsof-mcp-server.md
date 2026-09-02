@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T09:30:28Z"
 ---
 ## What it is
 Enables AI assistants to search a curated production-music catalogue by brief or reference link, listen to full previews, and score videos with synced music, plus retrieve stems, versions, and cue sheets for licensing.

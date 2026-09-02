@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T11:47:10Z"
 ---
 ## What it is
 MCP server for the Pinoox PHP HMVC platform, giving any MCP-compatible AI client real project context.

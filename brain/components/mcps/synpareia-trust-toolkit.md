@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T10:32:16Z"
 ---
 ## What it is
 Verifiable dealings with other agents: prove what you did, vet who you deal with, bind agreements

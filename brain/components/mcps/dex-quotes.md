@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T11:25:42Z"
 ---
 ## What it is
 Get the best swap quotes across Uniswap, SushiSwap, Aerodrome with pay-per-call via x402 (USDC on Base).

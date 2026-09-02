@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-07-22T07:52:18Z"
 ---
 ## What it is
 A comprehensive MCP server for VMware vSphere management, enabling AI agents to perform VM operations, monitoring, snapshots, and reporting through a secure, Dockerized environment.

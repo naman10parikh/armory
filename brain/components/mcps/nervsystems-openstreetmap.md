@@ -8,10 +8,12 @@ source_url: https://github.com/nervsystems/osmmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-20T17:43:35Z"
 ---
 ## What it is
 MCP server `OpenStreetMap`, catalogued on PulseMCP. Integrates with OpenStreetMap to provide location-based services including geocoding, points of interest search, route planning, and neighborhood analysis for applications requiring geospatial intelligence without API keys.

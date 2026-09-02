@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-12T20:29:37Z"
 ---
 ## What it is
 Enables AI agents to file taxes through FreeTaxUSA by automating a browser, allowing form filling, navigation, and refund checks via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T17:12:45Z"
 ---
 ## What it is
 Enables AI agents to optimize context by pruning large JSON payloads, enforcing token budgets, and handling x402 micropayments via Base blockchain.

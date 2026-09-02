@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T03:31:01Z"
 ---
 ## What it is
 A real-time Formula 1 analytics server that lets you ask natural language questions about races, lap times, tyre strategies, pit stops, and more using live data from the OpenF1 API.

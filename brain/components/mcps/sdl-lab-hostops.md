@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T23:27:55Z"
 ---
 ## What it is
 MCP server for SDL2 lab machines providing host operations: service status, log tailing, whitelisted service restarts, serial port listing, and local status probing. It is strictly whitelisted with no arbitrary command execution.

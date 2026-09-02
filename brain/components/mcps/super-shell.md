@@ -8,10 +8,12 @@ source_url: https://github.com/cfdude/super-shell-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-13T01:01:18Z"
 ---
 ## What it is
 MCP server `Super Shell`, catalogued on PulseMCP. Enables secure execution of shell commands across Windows, macOS, and Linux with a three-tier whitelist security model for controlled system access.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T14:13:40Z"
 ---
 ## What it is
 MCP server `Slurm HPC`, catalogued on PulseMCP. Connects AI assistants to Slurm HPC clusters via SSH for job listing, submission, status checks, and error diagnostics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T06:28:24Z"
 ---
 ## What it is
 Retrieves indexed Confluence pages via semantic search, returning chunks, citations, and page bundles; stores embeddings in local SQLite with sqlite-vec.

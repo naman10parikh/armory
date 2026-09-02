@@ -8,10 +8,12 @@ source_url: https://github.com/kristianedlund/hardcover-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-06T13:01:44Z"
 ---
 ## What it is
 MCP server `Hardcover`, catalogued on PulseMCP. Unofficial MCP server for the Hardcover book tracking platform, enabling library management and book discovery via natural language.

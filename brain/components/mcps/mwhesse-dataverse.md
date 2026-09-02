@@ -8,10 +8,12 @@ source_url: https://github.com/mwhesse/dataverse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-08-15T13:38:48Z"
 ---
 ## What it is
 MCP server `Dataverse`, catalogued on PulseMCP. Integrates with Microsoft Dataverse to enable schema operations, data management, and configuration tasks across Power Platform environments through over 50 tools for creating tables, columns, relationships, security roles, and solutions with support for Power Pages WebAPI integration.

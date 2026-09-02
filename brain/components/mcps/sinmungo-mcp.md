@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T07:15:13Z"
 ---
 ## What it is
 Helps users draft formal Korean government civil complaints from informal descriptions, classifying the complaint type, providing legal hints, and generating a copyable complaint text with direct links to the appropriate submission portal.

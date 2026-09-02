@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T10:03:43Z"
 ---
 ## What it is
 Enables querying Taiwan's Ministry of Labor open data, including lists of companies violating labor laws with fuzzy search, and searching/querying ministry datasets.

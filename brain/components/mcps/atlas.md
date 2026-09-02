@@ -13,6 +13,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 1
+forks: 3
+pushed_at: "2026-09-02T03:17:44Z"
 ---
 ## What it is
 MCP server `Atlas`, catalogued on PulseMCP. YAML-defined semantic layer for analytics that lets AI agents query data sources with governed business logic.

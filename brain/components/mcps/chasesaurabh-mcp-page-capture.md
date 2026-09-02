@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 3
+forks: 2
+pushed_at: "2025-12-24T04:52:04Z"
 ---
 ## What it is
 MCP server that captures webpage screenshots, with viewport or full-page options and base64 PNG output.

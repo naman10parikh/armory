@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-08T19:02:23Z"
 ---
 ## What it is
 MCP server `Gemini Image Generation`, catalogued on PulseMCP. Integrates with Google's Gemini 2.0 Flash experimental model to generate images from text prompts with configurable aspect ratios and output formats, returning base64-encoded images directly.

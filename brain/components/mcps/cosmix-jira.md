@@ -8,10 +8,12 @@ source_url: https://github.com/cosmix/jira-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-07-25T20:22:00Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Integrates with Jira's API to enable issue searching, data cleaning, and project management automation using natural language commands.

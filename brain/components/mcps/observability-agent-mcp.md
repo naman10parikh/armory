@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T16:37:51Z"
 ---
 ## What it is
 A portable, read-only Model Context Protocol server for turning observability data into bounded evidence that AI agents can inspect safely.

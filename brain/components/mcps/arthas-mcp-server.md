@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-10-30T07:21:00Z"
 ---
 ## What it is
 Java diagnostics MCP server for LLM integration with Alibaba Arthas, enabling analysis and diagnosis of Java applications.

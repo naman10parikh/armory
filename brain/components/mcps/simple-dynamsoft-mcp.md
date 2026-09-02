@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T12:50:25Z"
 ---
 ## What it is
 MCP server that helps AI assistants generate accurate code and guidance for Dynamsoft SDKs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T11:28:47Z"
 ---
 ## What it is
 Enables AI assistants to interact with the AIGigLab API for lead generation, LinkedIn automation, voice cloning/TTS, and visual asset generation.

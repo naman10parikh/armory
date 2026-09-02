@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-08T01:36:39Z"
 ---
 ## What it is
 MCP server `YouTube`, catalogued on PulseMCP. Manages YouTube creator operations including uploads, metadata, analytics, and AI thumbnail generation.

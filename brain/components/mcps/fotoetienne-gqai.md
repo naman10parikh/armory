@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 23
+forks: 6
+pushed_at: "2025-06-08T04:51:11Z"
 ---
 ## What it is
 🏎 🏠 - Define tools using regular GraphQL queries/mutations and gqai automatically generates an MCP server for you.

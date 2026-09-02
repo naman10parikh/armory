@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T05:51:19Z"
 ---
 ## What it is
 MCP server and CLI for controlling Ulanzi TC001 Smart Pixel Clock via AWTRIX3 HTTP API. Enables power, brightness, notifications, and more from AI assistants.

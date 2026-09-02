@@ -8,10 +8,12 @@ source_url: https://github.com/jongalloway/dotnet-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-17T05:30:30Z"
 ---
 ## What it is
 MCP server `.NET`, catalogued on PulseMCP. Access to .NET SDK for projects, packages, building, testing, and development tools

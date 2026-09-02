@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-11T16:20:38Z"
 ---
 ## What it is
 MCP server `Ikenga`, catalogued on PulseMCP. Bridges the Ikenga desktop application with AI agents via MCP, enabling layout control, runtime inspection, and iframe communication.

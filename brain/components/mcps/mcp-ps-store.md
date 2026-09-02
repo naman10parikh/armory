@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T17:05:05Z"
 ---
 ## What it is
 Enables AI assistants to access a PlayStation Network account's gaming history, including playtime, trophies, and library, to provide personalized game recommendations based on real data.

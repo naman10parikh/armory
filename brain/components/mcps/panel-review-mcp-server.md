@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:11:21Z"
 ---
 ## What it is
 Enables adversarial multi-model AI review via OpenRouter, allowing Claude to submit prompts to multiple models and compare responses through custom connector tools.

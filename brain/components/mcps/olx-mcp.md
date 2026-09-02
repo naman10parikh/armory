@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T15:00:39Z"
 ---
 ## What it is
 MCP server for OLX marketplace. Enables AI assistants to search listings, get offer details, track prices over time, and compare offers across OLX Poland and other supported countries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T09:12:40Z"
 ---
 ## What it is
 MCP server for Yinxiang (Evernote China) that enables notebook listing, note search, creation, and retrieval with automatic Markdown to ENML conversion.

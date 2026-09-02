@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T22:19:26Z"
 ---
 ## What it is
 Wraps OpenAI-compatible text-to-image APIs as MCP tools, enabling image generation directly from conversations in Claude Code, Codex, Cursor, or Claude Desktop using the user's own API key.

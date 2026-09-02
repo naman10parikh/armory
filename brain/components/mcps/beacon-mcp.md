@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T05:31:53Z"
 ---
 ## What it is
 MCP server for the beacon log analytics platform, exposing beacon's REST API as MCP tools and resources for AI agents to query and analyse AI-assistant usage data.

@@ -8,10 +8,12 @@ source_url: https://github.com/hustcc/mcp-echarts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 235
+stars: 263
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 39
+pushed_at: "2026-08-27T01:50:43Z"
 ---
 ## What it is
 MCP server `Apache ECharts`, catalogued on PulseMCP. Generates interactive charts and visualizations by accepting ECharts configuration JSON with customizable dimensions, themes, and output formats including PNG images, SVG strings, and validated JSON options.

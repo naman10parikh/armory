@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-11T18:28:14Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI assistants to manage Splitwise expenses using natural language, with support for voice commands, smart name matching, and advanced split configurations.

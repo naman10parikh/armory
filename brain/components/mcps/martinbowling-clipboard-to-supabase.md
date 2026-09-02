@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-10T21:03:51Z"
 ---
 ## What it is
 MCP server `Clipboard to Supabase`, catalogued on PulseMCP. Monitors your clipboard for images, automatically uploads them to Supabase Storage, and writes the public URL back to the clipboard for seamless sharing across platforms.

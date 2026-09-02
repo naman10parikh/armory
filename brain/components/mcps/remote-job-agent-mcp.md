@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:13:56Z"
 ---
 ## What it is
 This server enables remote job discovery, tailored CV creation, and approval-gated application lifecycle management. It prioritizes safe, factual job applications without authenticated LinkedIn scraping or silent submissions.

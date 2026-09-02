@@ -8,11 +8,13 @@ source_url: https://github.com/norman2112/bhyve-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T15:58:03Z"
 ---
 ## What it is
 Query and control Orbit B-Hyve irrigation systems from MCP-compatible clients like Claude Code and Cursor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-09T15:02:38Z"
 ---
 ## What it is
 An MCP server that gives desktop AI apps access to your Waterloo LEARN courses, enabling listing courses, getting announcements, content, grades, and upcoming events through natural language.

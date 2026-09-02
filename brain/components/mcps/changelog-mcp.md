@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T12:48:37Z"
 ---
 ## What it is
 A universal MCP server that enables AI assistants to safely manage changelog files by writing structured records to a JSONL store and deterministically generating markdown changelogs.

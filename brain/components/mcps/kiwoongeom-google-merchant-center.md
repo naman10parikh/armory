@@ -8,10 +8,12 @@ source_url: https://github.com/kiwoongeom/gmc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-02T20:51:15Z"
 ---
 ## What it is
 MCP server `Google Merchant Center`, catalogued on PulseMCP. MCP server for Google Merchant Center with 126 tools for managing shopping feeds, products, inventory, reports, and account settings.

@@ -8,10 +8,12 @@ source_url: https://github.com/pouyahasanamreji/continuum
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 110
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-05-14T07:37:02Z"
 ---
 ## What it is
 MCP server `Continuum`, catalogued on PulseMCP. Shared memory and agent orchestration system for multi-agent AI workflows with local-first vector storage.

@@ -8,10 +8,12 @@ source_url: https://github.com/exotel/exotelmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-09-01T20:04:32Z"
 ---
 ## What it is
 MCP server `Exotel`, catalogued on PulseMCP. Exotel’s MCP Server empowers Agentic AI to make calls, send messages, and automate customer outreach without telephony complexity.

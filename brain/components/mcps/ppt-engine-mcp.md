@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T05:08:41Z"
 ---
 ## What it is
 Drives real PowerPoint desktop application for true-fidelity PDF export and per-slide image export, complementing python-pptx by handling rendering that no library can.

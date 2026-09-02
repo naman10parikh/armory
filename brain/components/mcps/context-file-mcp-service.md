@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-10T05:46:57Z"
 ---
 ## What it is
 Manages AI context files from local directories and GitHub repositories with file watching, tag-based organization, and full-text search.

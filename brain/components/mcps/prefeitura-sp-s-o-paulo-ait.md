@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:13Z"
 ---
 ## What it is
 Read-only MCP server for consulting official São Paulo traffic infraction (AIT) data from a hosted API, with pre-paid credits and support for any MCP client.

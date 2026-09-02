@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T16:56:04Z"
 ---
 ## What it is
 AI-driven USB oscilloscope control via FastMCP, enabling waveform capture, CSV export, and frequency measurements on PicoScope, Hantek, or a built-in simulator.

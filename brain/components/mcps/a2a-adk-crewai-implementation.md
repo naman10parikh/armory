@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, experimental-implementations]
+forks: 0
+pushed_at: "2025-04-20T14:08:34Z"
 ---
 ## What it is
 Implementation combining ADK and CrewAI with A2A

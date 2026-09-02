@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T10:37:04Z"
 ---
 ## What it is
 Enables external MCP clients to execute Mittwald CLI commands on behalf of users via stateless OAuth authentication.

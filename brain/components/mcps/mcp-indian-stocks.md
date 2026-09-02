@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T18:59:29Z"
 ---
 ## What it is
 Enables real-time and historical Indian stock market data retrieval, including prices, news, recommendations, and top gainers/losers.

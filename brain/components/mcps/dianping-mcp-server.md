@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T00:42:59Z"
 ---
 ## What it is
 Enables searching and retrieving details of merchants on Dianping (Chinese review platform) using a locally logged-in browser session.

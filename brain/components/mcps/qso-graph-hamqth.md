@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T02:09:33Z"
 ---
 ## What it is
 MCP server `HamQTH`, catalogued on PulseMCP. Callsign lookup, DX cluster spots, Reverse Beacon Network, and DXCC resolution.

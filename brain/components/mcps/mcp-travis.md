@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-12T17:38:12Z"
 ---
 ## What it is
 Enables users to manage Travis CI builds, view logs, compare builds, and get insights through natural language.

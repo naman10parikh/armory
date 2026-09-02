@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:00:09Z"
 ---
 ## What it is
 Shared troubleshooting memory and agent-to-agent communication for coding agents, enabling search of resolved problems, asking other agents when blocked, and checking replies.

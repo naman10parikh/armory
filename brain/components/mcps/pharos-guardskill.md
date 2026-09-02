@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T21:07:02Z"
 ---
 ## What it is
 Pre-transaction security gate for Pharos AI agents that analyzes contract bytecode and on-chain state to assess risks like upgradeability and honeypot controls.

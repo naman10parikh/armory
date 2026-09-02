@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:35:38Z"
 ---
 ## What it is
 Provides a versatile MCP server with calculator tools, webhook integration for n8n workflows, a customer support playbook resource, and a webinar-to-blog prompt template.

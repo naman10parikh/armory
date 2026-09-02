@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:07:28Z"
 ---
 ## What it is
 Deterministic repository context packing for AI coding agents: selects, compresses, and budgets only the files a task needs. Measured 83% fewer input tokens at the same task coverage, fully local, no LLM in the loop.

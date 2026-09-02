@@ -8,10 +8,12 @@ source_url: https://github.com/adelaidasofia/substack-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-17T18:42:50Z"
 ---
 ## What it is
 MCP server `Substack (adelaidasofia)`, catalogued on PulseMCP. Substack MCP for publishing Notes and posts, pulling analytics, and managing drafts.

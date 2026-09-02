@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T00:13:54Z"
 ---
 ## What it is
 Enables to run structured QuReDec decision briefs from inside MCP-compatible clients, submitting questions and receiving evidence-backed recommendations with citations.

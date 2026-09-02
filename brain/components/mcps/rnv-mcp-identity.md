@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T22:01:51Z"
 ---
 ## What it is
 A deterministic identity and authorization layer for MCP servers that verifies agent identity and scope using OAuth 2.0, WIMSE workload identity, and HTTP Message Signatures, resolving or refusing without guessing.

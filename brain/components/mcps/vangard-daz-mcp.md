@@ -8,11 +8,13 @@ source_url: https://github.com/bluemoonfoundry/daz-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-08-31T23:07:11Z"
 ---
 ## What it is
 MCP server that enables Claude to control DAZ Studio for scene manipulation, morph discovery, animation, and rendering.

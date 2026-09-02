@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T06:15:35Z"
 ---
 ## What it is
 A selective, aggregation-first MCP server for InfluxDB v2 that bounds output and pushes reduction to the database, avoiding context flooding from raw time-series data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T05:16:46Z"
 ---
 ## What it is
 An MCP server that lets coding agents trade on Injective, including launching tokens on SHROOM Pad, trading bonding-curve tokens, and swapping any Injective token via the Choice aggregator. It is non-custodial, uses a budgeted burner wallet, and includes security policies like per-tx caps and an all

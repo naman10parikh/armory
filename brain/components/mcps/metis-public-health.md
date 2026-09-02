@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:07:37Z"
 ---
 ## What it is
 Metis — an open-source (AGPL-3.0), local-first MCP server / research companion. It answers from the user's own indexed PDF library with page-level citations (and flags what it can't find rather than inventing), keeps all data on the user's machine, and routes requests to 34 specialist agents.

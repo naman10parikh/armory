@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-01-02T19:06:59Z"
 ---
 ## What it is
 Provides real-time hot trending topics from major Chinese social platforms and news sites, enabling AI models to fetch and display current hot lists.

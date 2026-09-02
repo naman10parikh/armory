@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T17:41:21Z"
 ---
 ## What it is
 Provides dependency upgrade advisories, API schemas for 1,097 services, and electronic component specifications over MCP, with Ed25519-signed evidence.

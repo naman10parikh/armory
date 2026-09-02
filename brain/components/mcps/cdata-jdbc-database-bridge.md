@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-18T19:17:32Z"
 ---
 ## What it is
 MCP server `JDBC Database Bridge`, catalogued on PulseMCP. Provides a generic bridge to any JDBC-compatible data source, enabling natural language querying of databases through table discovery, schema inspection, and SQL execution with CSV-formatted results.

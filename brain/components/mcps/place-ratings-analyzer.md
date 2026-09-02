@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T11:33:39Z"
 ---
 ## What it is
 Fetches and analyzes Google Maps review ratings with a full star-by-star breakdown (★1–★5) and provides an assessment of rating patterns.

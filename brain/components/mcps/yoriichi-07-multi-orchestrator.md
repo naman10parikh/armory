@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-10T16:11:45Z"
 ---
 ## What it is
 MCP server `Multi-Agent Orchestrator`, catalogued on PulseMCP. Multi-agent orchestrator that provides autonomous software development through specialized agents for system design, quality testing, prompt optimization, and cloud deployment with self-healing code generation, enterprise authentication, and comprehensive tooling across 16 development automation capabilities.

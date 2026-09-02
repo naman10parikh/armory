@@ -8,10 +8,12 @@ source_url: https://github.com/lawp09/bitbucket-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-17T12:38:30Z"
 ---
 ## What it is
 MCP server `Bitbucket MCP`, catalogued on PulseMCP. Bitbucket API integration for repositories and pull requests.

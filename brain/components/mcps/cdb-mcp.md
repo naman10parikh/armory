@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T15:58:07Z"
 ---
 ## What it is
 Enables LLMs to perform live debugging, dump analysis, and remote debugging by exposing Microsoft CDB capabilities through MCP. It manages cdb.exe sessions, forwards commands, and returns raw debugger output.

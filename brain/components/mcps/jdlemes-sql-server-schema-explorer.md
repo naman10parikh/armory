@@ -8,10 +8,12 @@ source_url: https://github.com/jdlemes/mssqlmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-28T12:15:16Z"
 ---
 ## What it is
 MCP server `SQL Server Schema Explorer`, catalogued on PulseMCP. Provides SQL Server database schema exploration tools for retrieving tables, columns, and relationships through connection strings configured in appsettings.json

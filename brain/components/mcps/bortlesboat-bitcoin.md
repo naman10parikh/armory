@@ -8,10 +8,12 @@ source_url: https://github.com/bortlesboat/bitcoin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-07T00:34:30Z"
 ---
 ## What it is
 MCP server `Bitcoin`, catalogued on PulseMCP. Comprehensive Bitcoin network toolkit with fee intelligence, mempool analysis, block exploration, mining stats, and price data. Works instantly with zero configuration via hosted API, or connects to a local Bitcoin Core node.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T19:52:13Z"
 ---
 ## What it is
 Enables multiple Hermes agents to persist and retrieve shared knowledge via a local graph-based memory system, supporting hybrid search, entity context exploration, and memory management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T11:56:22Z"
 ---
 ## What it is
 A library management MCP server supporting book search, member management, and loan operations through natural language commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T22:42:26Z"
 ---
 ## What it is
 Business Card Watchdog is an installable, user-scoped service for processing large batches of business card images from watched folders. It exposes CLI, API, MCP, and watched-folder surfaces for deterministic orchestration and routing to Google Contacts or Odoo.

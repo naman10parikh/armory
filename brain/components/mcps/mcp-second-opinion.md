@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T12:56:03Z"
 ---
 ## What it is
 An MCP server that queries a panel of LLMs from different providers via OpenRouter and returns their answers side by side, optionally synthesizing them to highlight disagreements.

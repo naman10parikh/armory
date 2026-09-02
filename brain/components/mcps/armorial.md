@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T08:30:24Z"
 ---
 ## What it is
 Enables AI agents and humans to resolve, search, and retrieve deterministic, policy-compliant SVG icons from the IconPark library, with explicit ambiguity handling and visual decision support.

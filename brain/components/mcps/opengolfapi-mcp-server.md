@@ -8,11 +8,13 @@ source_url: https://github.com/opengolfapi/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T18:57:02Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve detailed information about US golf courses, including course details, tees, climate, and nearby points of interest.

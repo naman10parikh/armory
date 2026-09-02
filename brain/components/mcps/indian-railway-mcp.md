@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-30T14:25:17Z"
 ---
 ## What it is
 Enables searching and tracking Indian Railways trains, checking seat availability, live status, delays, and station/train codes.

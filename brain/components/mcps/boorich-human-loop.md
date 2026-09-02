@@ -8,10 +8,12 @@ source_url: https://github.com/boorich/mcp-human-loop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-01T13:05:36Z"
 ---
 ## What it is
 MCP server `Human In The Loop`, catalogued on PulseMCP. Facilitates human-in-the-loop processes for AI workflows, enabling seamless integration of human judgment in tasks like content moderation, complex problem-solving, and ethical AI implementations.

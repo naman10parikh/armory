@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:44:22Z"
 ---
 ## What it is
 Enables querying Bitcoin blockchain data including blocks, transactions, addresses, mempool, and fee estimates via the Blockstream.info Esplora API.

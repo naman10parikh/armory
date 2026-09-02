@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T14:52:22Z"
 ---
 ## What it is
 MCP server for semantic search over Google Drive documents, enabling AI tools to search, list, and retrieve document content.

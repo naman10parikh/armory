@@ -8,10 +8,12 @@ source_url: https://github.com/lucasgerads/lecroy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-15T17:11:52Z"
 ---
 ## What it is
 MCP server `LeCroy Oscilloscope`, catalogued on PulseMCP. Controls LeCroy oscilloscopes via SCPI commands for channel configuration, measurements, waveform capture, and FFT operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T22:30:22Z"
 ---
 ## What it is
 Enables querying real-time stock prices, gold, crypto, interest rates, portfolio data, and financial analysis from Finhay Securities via Claude AI.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:48:10Z"
 ---
 ## What it is
 MCP server `Citybikes`, catalogued on PulseMCP. Bike-sharing network data via the CityBik.es API — stations, availability, and network coverage worldwide.

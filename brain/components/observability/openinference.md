@@ -8,11 +8,13 @@ source_url: https://github.com/Arize-ai/openinference
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1169
+stars: 1192
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, opentelemetry, tracing]
+forks: 302
+pushed_at: "2026-09-01T16:18:29Z"
 ---
 ## What it is
 OpenInference is an open standard and Python/JS instrumentation library for capturing LLM and agent traces in OpenTelemetry format, built by Arize AI.

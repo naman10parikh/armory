@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T21:08:49Z"
 ---
 ## What it is
 Enables real-time user intervention for MCP agents via a Web UI and interactive_feedback tool, allowing users to review context and send instructions when agents drift from intent.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T10:21:46Z"
 ---
 ## What it is
 Provides a read-only API over a book catalogue, offering tools to search books, retrieve book details and series, and inspect provenance and source agreement data.

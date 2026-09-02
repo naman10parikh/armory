@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-13T20:13:23Z"
 ---
 ## What it is
 Connects Ignition SCADA and Studio 5000 PLC to correlate tags end-to-end, trace signal chains, and find commissioning gaps.

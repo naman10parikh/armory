@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-03T09:58:05Z"
 ---
 ## What it is
 Wraps OpenAI's Codex CLI as an MCP server, enabling AI clients like KiloCode, Roo Code, and Cline to leverage Codex for code generation, debugging, and analysis through natural language.

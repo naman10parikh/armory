@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T06:20:20Z"
 ---
 ## What it is
 Provides local, project-aware memory for coding agents via MCP tools, lifecycle hooks, and a REST service, with no outbound network access.

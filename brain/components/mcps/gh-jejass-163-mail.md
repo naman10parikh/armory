@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-22T01:17:01Z"
 ---
 ## What it is
 MCP server `163 Mail`, catalogued on PulseMCP. Automates NetEase 163 Mail email sending including large attachments up to 500MB through browser automation.

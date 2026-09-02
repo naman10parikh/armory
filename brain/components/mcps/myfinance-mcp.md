@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T12:44:28Z"
 ---
 ## What it is
 Enables personal finance management through natural language: log expenses, snap receipt photos, and import bank statements. Computes budgets, trends, and net worth in any currency, with data persisted and accessible via MCP.

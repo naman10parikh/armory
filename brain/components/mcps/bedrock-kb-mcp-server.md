@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T13:43:40Z"
 ---
 ## What it is
 Enables AI assistants to query documents in a Bedrock Knowledge Base through the MCP protocol, with tools for semantic search and agentic retrieval.

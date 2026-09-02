@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T01:51:42Z"
 ---
 ## What it is
 MCP server for eBay buyer-side workflows enabling search, watch, bid, buy, and management of MyeBay via a hybrid REST and Trading API stack.

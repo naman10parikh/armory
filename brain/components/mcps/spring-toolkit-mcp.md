@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T14:25:32Z"
 ---
 ## What it is
 A secure-by-default MCP server and CLI for AI agents to inspect Spring Boot repositories and interact with runtime Actuator endpoints, enabling code review, dependency scanning, and monitoring.

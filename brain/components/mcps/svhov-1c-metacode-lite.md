@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-12T19:38:03Z"
 ---
 ## What it is
 MCP server `1C Metacode Lite`, catalogued on PulseMCP. MCP server for querying and analyzing 1C:Enterprise configuration metadata with 57 tools via SSE transport.

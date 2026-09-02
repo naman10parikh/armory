@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-29T14:16:11Z"
 ---
 ## What it is
 MCP server `Jetson Remote Monitor`, catalogued on PulseMCP. Enables natural language monitoring and control of NVIDIA Jetson boards over a network, providing remote diagnostics and hardware information without requiring direct terminal access.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T10:28:28Z"
 ---
 ## What it is
 Enables Claude or any LLM to manage a book library via MCP tools, allowing listing, searching, creating, updating, and deleting books through natural language.

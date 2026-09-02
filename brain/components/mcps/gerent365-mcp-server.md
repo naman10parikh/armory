@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T21:05:45Z"
 ---
 ## What it is
 Enables AI assistants to manage Gerent365 restaurant and business operations via natural language, including employees, schedules, payroll, tips, time tracking, customers, products, reservations, and reports.

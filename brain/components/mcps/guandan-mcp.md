@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T00:17:30Z"
 ---
 ## What it is
 MCP server for the card game GuanDan (掼蛋), providing tools for dealing hands, analyzing hand types, and statistical analysis.

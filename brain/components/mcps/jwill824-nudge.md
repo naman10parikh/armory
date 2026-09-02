@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-20T18:54:54Z"
 ---
 ## What it is
 MCP server `Nudge`, catalogued on PulseMCP. Analyzes AI session token usage and efficiency to encourage better prompting and context management.

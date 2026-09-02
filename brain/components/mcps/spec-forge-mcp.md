@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T06:07:28Z"
 ---
 ## What it is
 A NestJS MCP server that extracts tables from documents (PDF, etc.) into a single JSON file using OpenRouter's Claude Haiku model.

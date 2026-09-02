@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-21T05:39:03Z"
 ---
 ## What it is
 MCP server `LibSQL`, catalogued on PulseMCP. Integrates with LibSQL databases to enable schema retrieval and table querying for real-time data access and analysis.

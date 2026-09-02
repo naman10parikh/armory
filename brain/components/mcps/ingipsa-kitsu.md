@@ -8,10 +8,12 @@ source_url: https://github.com/ingipsa/kitsu-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-10T08:59:11Z"
 ---
 ## What it is
 MCP server `Kitsu`, catalogued on PulseMCP. Manages animation and VFX production pipelines through the Kitsu production tracking platform.

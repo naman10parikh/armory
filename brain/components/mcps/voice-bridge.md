@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T17:10:57Z"
 ---
 ## What it is
 Multi-engine text-to-speech for AI coding assistants. Speaks responses aloud from Claude Code, Cursor, or VS Code via a Claude Code plugin, MCP server, or CLI pipe.

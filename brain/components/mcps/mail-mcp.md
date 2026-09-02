@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-23T03:25:51Z"
 ---
 ## What it is
 An MCP server for email operations supporting IMAP and SMTP protocols, enabling sending, receiving, searching, and managing emails with attachments.

@@ -8,10 +8,12 @@ source_url: https://github.com/homelycarlos/nexusre-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-06-21T18:42:32Z"
 ---
 ## What it is
 MCP server `NexusRE`, catalogued on PulseMCP. AI bridge for reverse engineering tools including IDA Pro, Ghidra, x64dbg, Cheat Engine, and Frida.

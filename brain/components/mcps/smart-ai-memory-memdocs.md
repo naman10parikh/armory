@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-08T18:12:50Z"
 ---
 ## What it is
 MCP server `MemDocs`, catalogued on PulseMCP. Git-native project memory system with enterprise audit compliance

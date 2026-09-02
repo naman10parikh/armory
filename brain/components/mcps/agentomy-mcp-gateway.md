@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:15:21Z"
 ---
 ## What it is
 Governs any stdio MCP server by interposing between the agent and the server, enforcing policy on every tools/call and refusing denied actions before they reach the upstream server.

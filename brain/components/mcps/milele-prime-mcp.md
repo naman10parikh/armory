@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T08:22:58Z"
 ---
 ## What it is
 Read-only MCP server that lets a verified client connect their own AI to their trading account to read account data without order execution.

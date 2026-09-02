@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:07:59Z"
 ---
 ## What it is
 MCP server for creating cryptographically signed and timestamped evidence of public web/API responses, with offline verification of attestations and paid access via x402.

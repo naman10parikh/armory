@@ -8,11 +8,13 @@ source_url: https://github.com/verifizieren/perception-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T02:14:59Z"
 ---
 ## What it is
 Bridges Claude Code to Perception.cx reverse engineering tools via AngelScript WebSocket, providing 35+ tools for process manipulation, memory operations, disassembly, scanning, and more.

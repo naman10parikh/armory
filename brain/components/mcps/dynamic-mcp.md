@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T18:06:06Z"
 ---
 ## What it is
 Dynamic MCP server for Node.js enabling runtime tool creation, management, and execution in isolated sandboxes (Docker or Node).

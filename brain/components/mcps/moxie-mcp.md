@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T08:59:34Z"
 ---
 ## What it is
 A remote MCP server for the Moxie Public API, deployable to Cloudflare Workers. Exposes all 29 documented Moxie endpoints as MCP tools for managing clients, contacts, projects, tasks, invoices, payments, and more.

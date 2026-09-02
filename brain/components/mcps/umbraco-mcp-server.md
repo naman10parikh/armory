@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-10T17:52:12Z"
 ---
 ## What it is
 Enables AI models to interact with Umbraco CMS, retrieving and manipulating content like document types and media via the Umbraco Management API.

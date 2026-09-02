@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:49:47Z"
 ---
 ## What it is
 Enables AI agents to scan code for TODO, FIXME, XXX issues via MCP, providing prioritized findings in table, JSON, or SARIF format.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T07:49:44Z"
 ---
 ## What it is
 Enables AI agents to control Fiji/ImageJ for microscopy image analysis through natural language commands, supporting operations like image opening, filtering, particle analysis, and automated workflows.

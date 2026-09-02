@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-24T11:01:37Z"
 ---
 ## What it is
 MCP server for iTop ITSM that provides 19 tools for analytics, ticket management, comments, knowledge base, and CI impact analysis, enabling AI assistants to interact with iTop.

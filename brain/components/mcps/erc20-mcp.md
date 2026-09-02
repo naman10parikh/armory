@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-09T17:29:11Z"
 ---
 ## What it is
 This MCP server enables agents to fetch and reason about ERC-20 token metadata, balances, and allowances across multiple chains without hardcoding addresses or ABIs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T03:33:51Z"
 ---
 ## What it is
 MCP server for structured reflection and self-modeling over Everlog diary exports, enabling agents to query local diary evidence and maintain versioned artifacts of threads, moments, beliefs, and decisions.

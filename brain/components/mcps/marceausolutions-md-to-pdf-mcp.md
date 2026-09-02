@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, file-systems]
 stars: 8
+forks: 2
+pushed_at: "2026-01-14T15:01:44Z"
 ---
 ## What it is
 Convert Markdown files to professional PDFs with customizable themes, headers, footers, and styling

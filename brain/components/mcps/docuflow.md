@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T10:32:35Z"
 ---
 ## What it is
 Provides a unified interface for AI agents and scripts to read, create, and edit office documents (.docx, .xlsx, .pdf) via MCP tools, using Markdown as the intermediary format. Supports in-place patching with stable IDs, Jinja2 templating, and formatting preservation.

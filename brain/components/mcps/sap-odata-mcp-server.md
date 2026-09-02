@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T01:06:59Z"
 ---
 ## What it is
 MCP server for interacting with SAP S/4HANA OData services. It enables querying and controlled creation/update of sales orders, products, customers, and pricing conditions, with safety features like dry-run mode and ETag-based updates.

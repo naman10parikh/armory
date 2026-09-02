@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T11:32:49Z"
 ---
 ## What it is
 A Model Context Protocol server providing mathematical and scientific computing capabilities via NumPy, pandas, SciPy, and Matplotlib, with 19 tools for linear algebra, statistics, numerical methods, data processing, and plotting.

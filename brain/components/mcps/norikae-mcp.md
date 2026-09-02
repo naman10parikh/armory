@@ -8,11 +8,13 @@ source_url: https://github.com/tysonwu/norikae-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-01-21T06:29:38Z"
 ---
 ## What it is
 MCP server for searching Japanese train routes using Yahoo! Transit data, enabling station-to-station route planning with optional via stations, time specifications, and fare options.

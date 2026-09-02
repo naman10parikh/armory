@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:59:15Z"
 ---
 ## What it is
 MCP-native infrastructure ops for deploying and managing self-hosted OpenClaw instances across cloud providers or local VMs, with read-only mode, destructive-action confirmation, and audit logs.

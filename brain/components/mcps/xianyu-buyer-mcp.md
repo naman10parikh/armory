@@ -8,11 +8,13 @@ source_url: https://github.com/yunwanshu/xianyu-buyer-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T08:55:31Z"
 ---
 ## What it is
 Enables AI agents to interact with Goofish (闲鱼) marketplace, supporting product search, batch inquiry messaging, and conversation management for buyers.

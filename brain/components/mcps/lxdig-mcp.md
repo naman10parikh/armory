@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-03T05:56:06Z"
 ---
 ## What it is
 MCP server that gives AI coding assistants persistent memory, structural code graph analysis, and safe multi-agent coordination, enabling them to answer architectural questions, track decisions across sessions, and coordinate safely in multi-agent workflows.

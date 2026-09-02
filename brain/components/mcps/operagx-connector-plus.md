@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T10:53:29Z"
 ---
 ## What it is
 Adds real browser interaction (click, type, form fill, drag, scroll) to Opera GX via CDP, complementing the read-only OperaGX connector.

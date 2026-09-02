@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T13:47:58Z"
 ---
 ## What it is
 MCP server that exposes the Timetta OData API as a universal query gateway, allowing users to list, describe, and query OData entities through natural language.

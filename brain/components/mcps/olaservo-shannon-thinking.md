@@ -8,10 +8,12 @@ source_url: https://github.com/olaservo/shannon-thinking
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-10T04:24:28Z"
 ---
 ## What it is
 MCP server `Shannon Thinking (Problem Solving)`, catalogued on PulseMCP. Implements Claude Shannon's systematic problem-solving methodology to guide users through structured stages of complex problem breakdown and solution refinement.

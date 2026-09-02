@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T07:08:52Z"
 ---
 ## What it is
 Enables AI assistants to query Apache Iceberg tables on S3 via AWS Glue Data Catalog using DuckDB as the embedded query engine, supporting columnar Arrow reads with no data movement.

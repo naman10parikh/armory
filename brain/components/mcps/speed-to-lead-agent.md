@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:47:31Z"
 ---
 ## What it is
 MCP server for qualifying and responding to inbound leads in seconds using a multi-agent AI pipeline.

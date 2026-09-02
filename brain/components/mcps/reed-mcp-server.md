@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:43:45Z"
 ---
 ## What it is
 Enables AI clients to traverse and query the full RSS reading graph—feeds, articles, authors, topics, and tags—over stdio or HTTP, supporting graph traversal and item discovery across relationships.

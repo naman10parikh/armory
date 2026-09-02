@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-25T06:55:11Z"
 ---
 ## What it is
 MCP server `Stock Market Analysis Tools`, catalogued on PulseMCP. Provides specialized tools for stock market analysis including sector analysis, financial indicators, F10 information, market emotion tracking, and limit-up stock monitoring with Tavily search integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T19:05:30Z"
 ---
 ## What it is
 Enables real finite element analysis from natural language: accepts STEP geometry and plain-English questions, validates setups deterministically, meshes and solves with CalculiX on Modal, and returns engineering verdicts (stress, safety factor, deflection, modal frequencies) with rendered plots and

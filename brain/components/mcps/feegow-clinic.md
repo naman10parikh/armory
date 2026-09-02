@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-30T19:38:42Z"
 ---
 ## What it is
 Read-only MCP server for managing Feegow Clinic data, including patients, appointments, professionals, specialties, insurance, finances, and electronic medical records.

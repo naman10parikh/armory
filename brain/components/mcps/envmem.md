@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-17T17:04:05Z"
 ---
 ## What it is
 Personal environment variable memory with semantic search and project management. Enables storing, searching, and retrieving environment variables via MCP, supporting project organization and auto-fill of .env files.

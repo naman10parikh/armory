@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:18Z"
 ---
 ## What it is
 MCP server for querying official Brazilian labor lawsuit certificates (CEAT) from Tribunal TRT5, read-only and available to any MCP client over HTTP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-06-30T09:29:04Z"
 ---
 ## What it is
 An MCP server that enables AI agents to post Reels and Photos to Facebook by capturing and replaying the native web API through a Chrome extension.

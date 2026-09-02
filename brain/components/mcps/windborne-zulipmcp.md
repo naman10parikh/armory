@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 0
+forks: 0
+pushed_at: "2026-08-03T21:31:01Z"
 ---
 ## What it is
 Run AI agents in Zulip as @mentionable bots — or wire into any MCP client. Real-time listening, session management, file handling.

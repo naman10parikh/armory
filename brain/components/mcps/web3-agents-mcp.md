@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T08:36:09Z"
 ---
 ## What it is
 An MCP server that bridges ERC-8004 agent identity, reputation, and validation registries into tool calls, enabling discovery, inspection, and verification of on-chain AI agents from any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T12:10:20Z"
 ---
 ## What it is
 An MCP server and CLI for Ed Discussion that gives LLMs access to threads, comments, attendance, moderation, file uploads, and instant local search through 43 tools.

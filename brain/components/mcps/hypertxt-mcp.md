@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T19:33:40Z"
 ---
 ## What it is
 Provides MCP-compatible agents with a deliberately scoped content-operations toolset for managing Hypertxt projects, articles, and Google Search Console data.

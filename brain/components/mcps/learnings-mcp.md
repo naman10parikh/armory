@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-06T11:46:50Z"
 ---
 ## What it is
 An MCP server for managing learning prompts, supporting both global and local learnings with automatic git commits for shared use.

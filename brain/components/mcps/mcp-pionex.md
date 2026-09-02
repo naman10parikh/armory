@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T08:20:34Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Pionex exchange through MCP, providing market data, account info, spot trading, grid bots, and Dual Investment tools with strict anti-hallucination guardrails including two-phase order confirmation and live symbol/price validation.

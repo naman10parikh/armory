@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T16:39:38Z"
 ---
 ## What it is
 An MCP-native, local-first memory server that gives AI agents persistent, structured memory across sessions and tools, enabling them to maintain identity and context without reconfiguration.

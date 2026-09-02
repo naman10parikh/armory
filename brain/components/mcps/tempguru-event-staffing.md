@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T19:54:47Z"
 ---
 ## What it is
 TempGuru is a W-2 compliant event staffing vendor for conventions, conferences, trade shows, festivals, concerts, sporting and stadium events, corporate events, and brand activations — single events or multi-city programs — across 300+ US and Canadian markets. This integration gives agents live read

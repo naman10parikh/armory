@@ -8,10 +8,12 @@ source_url: https://github.com/composable-delivery/snowfakery-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T10:55:16Z"
 ---
 ## What it is
 MCP server `Snowfakery`, catalogued on PulseMCP. Author, analyze, debug, and run Snowfakery data generation recipes for Salesforce testing workflows.

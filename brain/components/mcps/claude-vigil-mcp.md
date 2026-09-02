@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-16T13:23:00Z"
 ---
 ## What it is
 An MCP server for creating named checkpoints and snapshots of projects, with selective file restore, content diffs, and artifact preservation, enabling safe recovery from external file changes in Claude Code.

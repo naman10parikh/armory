@@ -8,11 +8,13 @@ source_url: https://github.com/microsoft/DebugMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 482
+stars: 489
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 59
+pushed_at: "2026-08-24T09:55:00Z"
 ---
 ## What it is
 Enables AI agents to debug code inside VS Code by setting breakpoints, stepping through execution, inspecting variables, and evaluating expressions across multiple languages.

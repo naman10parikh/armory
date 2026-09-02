@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T14:47:09Z"
 ---
 ## What it is
 A black-box flight recorder for RAG retrieval inside MCP agents. Logs what chunks the model saw, scores, sources, and rankings - so you can audit, replay, and diff retrieval runs after the fact.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T08:12:27Z"
 ---
 ## What it is
 Enables automatic, project-scoped long-term memory for LibreChat conversations by recalling relevant memories before each turn and writing durable facts after each turn. It integrates via a proxy that resolves project context from MongoDB and exposes MCP tools for explicit memory management.

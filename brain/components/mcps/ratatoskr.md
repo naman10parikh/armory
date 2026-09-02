@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T06:06:41Z"
 ---
 ## What it is
 No-code MCP server that converts any API spec (OpenAPI, GraphQL, etc.) into MCP tools, enabling natural language interaction with APIs, TOON compression, and AI-powered response pruning with SQL post-processing.

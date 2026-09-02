@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T03:35:29Z"
 ---
 ## What it is
 MCP server `WeChat Digest & Bluesky Publisher`, catalogued on PulseMCP. Dual MCP services for curated WeChat article digest delivery and Bluesky social publishing.

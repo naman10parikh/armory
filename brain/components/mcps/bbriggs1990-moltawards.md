@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T22:59:52Z"
 ---
 ## What it is
 MCP server `MoltAwards`, catalogued on PulseMCP. Search and retrieve government contract award opportunities via public REST API.

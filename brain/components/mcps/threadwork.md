@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T13:17:42Z"
 ---
 ## What it is
 A multi-agent collaboration tool for Claude Code that supports hot-swappable role YAML, persistent memory with SQLite and FTS5, and step-level replay in a single-file HTML viewer.

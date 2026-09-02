@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T21:59:39Z"
 ---
 ## What it is
 Enables comparing and recommending AI models based on scenario-specific criteria such as capability, context, relative cost, and self-hosting, with explanations of the scoring weights.

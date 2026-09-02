@@ -8,10 +8,12 @@ source_url: https://github.com/cdatasoftware/ebay-mcp-server-by-cdata
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-18T19:16:56Z"
 ---
 ## What it is
 MCP server `eBay (CData JDBC)`, catalogued on PulseMCP. Provides access to eBay data through JDBC connections, enabling SQL queries for data discovery, metadata retrieval, and complex analysis operations across any JDBC-compliant database backend.

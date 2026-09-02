@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T14:41:56Z"
 ---
 ## What it is
 A Playwright-powered MCP server for browser automation using ARIA snapshots and element refs, enabling LLMs to control Chrome/Edge without CSS selectors.

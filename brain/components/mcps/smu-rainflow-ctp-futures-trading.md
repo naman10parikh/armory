@@ -8,10 +8,12 @@ source_url: https://github.com/smu-rainflow/ctp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-03T16:58:57Z"
 ---
 ## What it is
 MCP server `CTP Futures Trading`, catalogued on PulseMCP. Integrates with Chinese futures markets through vnpy trading framework and CTP gateway to provide real-time market data, account management, order execution, and position tracking for algorithmic trading and market analysis.

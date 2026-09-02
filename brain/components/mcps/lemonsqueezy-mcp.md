@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T13:21:28Z"
 ---
 ## What it is
 Enables natural language interaction with Lemon Squeezy accounts via MCP tools for managing subscriptions, orders, discounts, license keys, and more, with built-in security and audit logging.

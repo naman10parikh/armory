@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-01T15:24:48Z"
 ---
 ## What it is
 Enables interaction with Tecton clusters through MCP, allowing management of feature stores, execution of Tecton CLI commands, and retrieval of feature store configurations via natural language.

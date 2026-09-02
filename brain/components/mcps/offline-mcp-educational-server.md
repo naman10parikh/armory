@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-05T07:40:39Z"
 ---
 ## What it is
 Enables generation of educational content like MCQs, lesson plans, and flashcards without relying on external LLMs, fully offline and compatible with Claude Desktop.

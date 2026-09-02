@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-30T05:39:39Z"
 ---
 ## What it is
 An MCP server for USDC payments on Base, enabling AI agents to check balances, send payments, generate payment requests, and view transaction history.

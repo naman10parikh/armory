@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T13:40:44Z"
 ---
 ## What it is
 MCP server exposing 47 Polymarket API tools for AI assistants. Covers the full Gamma, CLOB, and Data APIs plus a fluent MarketBuilder for multi-source queries.

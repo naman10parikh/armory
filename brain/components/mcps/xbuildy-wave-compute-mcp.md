@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T22:59:49Z"
 ---
 ## What it is
 The only MCP that gives Cursor developers access to Base44 backend management + decentralized GPU compute via Theta EdgeCloud.

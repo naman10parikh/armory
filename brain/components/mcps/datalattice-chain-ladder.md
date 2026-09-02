@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T22:23:27Z"
 ---
 ## What it is
 MCP server `Chain Ladder`, catalogued on PulseMCP. Actuarial chain-ladder loss reserving calculations with IBNR projections and Mack stochastic statistics.

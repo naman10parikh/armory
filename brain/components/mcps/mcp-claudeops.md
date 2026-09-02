@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-10T09:33:19Z"
 ---
 ## What it is
 A comprehensive MCP server for monitoring Claude Code sessions, agent performance, cost tracking, project management, and GitHub synchronization with 89 tools and a real-time dashboard.

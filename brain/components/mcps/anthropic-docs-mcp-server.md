@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T14:50:09Z"
 ---
 ## What it is
 Enables searching and fetching Claude and Anthropic documentation with intelligent relevance scoring, optimized for MCP development, APIs, and examples.

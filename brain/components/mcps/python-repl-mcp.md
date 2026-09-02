@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T12:38:53Z"
 ---
 ## What it is
 一个基于MCP的Python REPL服务器，支持多会话管理、代码执行、历史记录回放和包安装，为AI提供Python解释器能力。

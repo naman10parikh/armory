@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T03:56:06Z"
 ---
 ## What it is
 Enables AI coding assistants to search, retrieve, and reuse validated Flutter animations with documented pitfalls, directly integrable into Claude Code or Cursor.

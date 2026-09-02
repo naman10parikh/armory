@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-18T18:00:31Z"
 ---
 ## What it is
 MCP server `Engineer Your Data`, catalogued on PulseMCP. Data engineering tools for validation, transformation, visualization, and API integration

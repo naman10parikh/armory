@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-30T19:35:23Z"
 ---
 ## What it is
 MCP server `Pinchwork`, catalogued on PulseMCP. Agent-to-agent task marketplace with credits-based economy for delegating and picking up work.

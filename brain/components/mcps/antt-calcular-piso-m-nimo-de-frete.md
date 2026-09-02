@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:42:57Z"
 ---
 ## What it is
 Consulta em fonte oficial da ANTT para calcular o piso mínimo de frete no transporte rodoviário de cargas. Serviço hospedado, somente leitura, com pagamento por consulta via créditos pré-pagos.

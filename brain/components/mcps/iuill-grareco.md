@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-13T12:08:48Z"
 ---
 ## What it is
 MCP server `GraReco (Grammar Recommendations)`, catalogued on PulseMCP. Provides real-time grammar correction and recommendations through specialized prompts and Server-Sent Events, enabling seamless text improvement without context switching.

@@ -8,11 +8,13 @@ source_url: https://github.com/saveeit/savee-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T18:35:19Z"
 ---
 ## What it is
 Enables conversational access to your saved visual inspiration on Savee, including listing saves, boards, feeds, searching the public library, and viewing images, with read-only tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T12:57:52Z"
 ---
 ## What it is
 Enables AI assistants to access official Indonesian statistical data (BPS) through MCP, providing tools for dynamic data queries, foreign trade, publications, and more.

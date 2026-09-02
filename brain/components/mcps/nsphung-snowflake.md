@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T15:07:34Z"
 ---
 ## What it is
 MCP server `Snowflake`, catalogued on PulseMCP. Connects AI assistants to Snowflake with SQL execution, schema exploration, and TOML multi-connection configuration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-10T22:24:00Z"
 ---
 ## What it is
 A secure MCP server for Google Gemini AI, providing 39 tools for text, image, video, document, YouTube, research, and more. Runs locally via stdio with API key protection and no third-party services.

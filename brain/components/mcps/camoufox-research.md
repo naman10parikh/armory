@@ -8,11 +8,13 @@ source_url: https://github.com/aidvizhhub/camoufox-research
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T16:48:17Z"
 ---
 ## What it is
 MCP server for web research using anti-detect Camoufox browser. Enables search, page reading (including JS/SPA), batch fetching, clicking, typing, and live browsing sessions with caching and retries.

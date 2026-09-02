@@ -8,10 +8,12 @@ source_url: https://github.com/akr4/applemusic-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-20T19:34:25Z"
 ---
 ## What it is
 MCP server `Apple Music`, catalogued on PulseMCP. Integrates with Apple Music API to enable song searching and playback link generation for music discovery applications

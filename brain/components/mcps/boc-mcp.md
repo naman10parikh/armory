@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T02:38:21Z"
 ---
 ## What it is
 MCP server for BeyondContainer platform, enabling LLMs to query clusters, nodes, workloads, images, monitoring, and security scans via 58 tools.

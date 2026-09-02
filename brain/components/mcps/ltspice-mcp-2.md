@@ -8,11 +8,13 @@ source_url: https://github.com/xuio/ltspice-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-05-05T13:07:28Z"
 ---
 ## What it is
 MCP server for automating LTspice on macOS, enabling simulation, schematic generation, data extraction, verification, and rendering via natural language or agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-07T16:47:21Z"
 ---
 ## What it is
 Provides real-time weather information for cities worldwide using the OpenWeatherMap API, accessible through natural language queries via the MCP protocol.

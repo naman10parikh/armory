@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T21:28:33Z"
 ---
 ## What it is
 MCP server `Crypto Agent Mail`, catalogued on PulseMCP. Hosted email service for AI agents with inboxes, send and receive, memory, and credit-based billing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-25T01:11:19Z"
 ---
 ## What it is
 A read-only MCP server that enables natural language querying of DSpace 7+ repositories via the REST API, allowing users to search, retrieve items, and analyze repository data.

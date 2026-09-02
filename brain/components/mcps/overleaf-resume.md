@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:47:31Z"
 ---
 ## What it is
 Enables local editing and compilation of LaTeX resumes, syncing with Overleaf via browser automation without Git or API access.

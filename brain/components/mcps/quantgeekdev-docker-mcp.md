@@ -8,10 +8,12 @@ source_url: https://github.com/quantgeekdev/docker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 480
+stars: 500
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 64
+pushed_at: "2024-12-14T03:54:41Z"
 ---
 ## What it is
 MCP server `Docker`, catalogued on PulseMCP. Manage containers and compose stacks through natural language.

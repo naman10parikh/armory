@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T19:19:47Z"
 ---
 ## What it is
 MCP server `loc8n Geographic Data`, catalogued on PulseMCP. U.S. demographics, housing, mortgage, migration, and employment data via the loc8n API.

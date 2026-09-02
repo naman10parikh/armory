@@ -8,11 +8,13 @@ source_url: https://github.com/excalidraw/excalidraw-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5159
+stars: 5221
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 488
+pushed_at: "2026-03-24T12:27:09Z"
 ---
 ## What it is
 Enables AI assistants to generate interactive Excalidraw diagrams with viewport camera control and fullscreen editing directly in the chat.

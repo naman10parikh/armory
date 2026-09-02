@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-28T01:40:20Z"
 ---
 ## What it is
 MCP server `EasySend`, catalogued on PulseMCP. File sharing with upload, download, and shareable link generation through the EasySend platform.

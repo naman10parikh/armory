@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T21:05:46Z"
 ---
 ## What it is
 Enforces AST-based architectural guardrails on AI-generated code, blocking writes that violate maintainability, security, or complexity rules and prompting immediate refactoring.

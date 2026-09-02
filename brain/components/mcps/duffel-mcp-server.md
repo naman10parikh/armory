@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:58:32Z"
 ---
 ## What it is
 Enables AI assistants to search live travel inventory for flights, stays, and car hire through typed tools, with place resolution and price details while deliberately exposing no booking or payment surface.

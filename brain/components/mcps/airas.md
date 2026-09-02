@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T10:26:43Z"
 ---
 ## What it is
 MCP server for AIRAS, an open-source research automation platform. It provides tools for paper search, retrieval, hypothesis generation, experiment execution, and paper writing, enabling automated or interactive research directly from MCP clients.

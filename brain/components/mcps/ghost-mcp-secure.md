@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T08:29:46Z"
 ---
 ## What it is
 A secure-by-default MCP server for Ghost CMS that enables content management, site configuration, and member operations via Claude, with all destructive actions disabled until explicitly opted in.

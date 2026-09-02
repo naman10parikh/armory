@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T01:57:08Z"
 ---
 ## What it is
 Enables AI assistants to search Japanese government subsidies and grants, including archived closed calls and recurring application periods based on historical data.

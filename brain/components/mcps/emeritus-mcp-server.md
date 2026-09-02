@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-15T18:07:37Z"
 ---
 ## What it is
 MCP server for integrating AI models with Emeritus services, enabling user management, tag operations, order management, and leads import via a standardized interface.

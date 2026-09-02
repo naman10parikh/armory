@@ -8,10 +8,12 @@ source_url: https://github.com/scald/tesla-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-14T18:09:51Z"
 ---
 ## What it is
 MCP server `Tesla Fleet API`, catalogued on PulseMCP. Integrates with the Tesla Fleet API to enable vehicle monitoring and control through OAuth 2.0 authentication, allowing for wake-up commands, information retrieval, and real-time data refreshing of Tesla vehicles.

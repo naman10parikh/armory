@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-13T13:18:26Z"
 ---
 ## What it is
 MCP server for integrating HiPay's Enterprise payment API, providing tools for transaction management, payment processing, and hosted payment pages.

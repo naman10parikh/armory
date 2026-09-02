@@ -8,10 +8,12 @@ source_url: https://github.com/pouyanafisi/gmail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-06T18:56:47Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. Integrates with Gmail through OAuth2 authentication

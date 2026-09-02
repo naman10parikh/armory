@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-01T22:37:31Z"
 ---
 ## What it is
 MCP server `Apple Developer Documentation`, catalogued on PulseMCP. Fetches and formats Apple Developer Documentation directly from Apple's JSON APIs with tools for listing frameworks, retrieving documentation, and searching symbols.

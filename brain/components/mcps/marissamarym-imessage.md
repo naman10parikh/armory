@@ -8,10 +8,12 @@ source_url: https://github.com/marissamarym/imessage-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2024-12-11T17:36:00Z"
 ---
 ## What it is
 MCP server `iMessage`, catalogued on PulseMCP. Integrates with Apple's iMessage and Contacts services to enable messaging and contact management operations for automated communication workflows on Apple platforms.

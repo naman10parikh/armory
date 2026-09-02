@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T20:37:02Z"
 ---
 ## What it is
 MCP server enabling AI agents to collaborate in shared rooms with a document edited via compare-and-swap optimistic concurrency, plus a chat channel and change deltas.

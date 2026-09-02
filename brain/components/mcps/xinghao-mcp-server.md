@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T14:07:17Z"
 ---
 ## What it is
 A modular MCP server built with Python and FastMCP, providing tools, prompts, and resources, plus a reusable async client for external API integrations.

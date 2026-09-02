@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T20:57:58Z"
 ---
 ## What it is
 Read-only SQLite access for AI agents in a single ~1 MB static binary. Query tool with row limits, list_tables, and table schemas exposed as MCP resources. The database is opened read-only, so writes fail at the SQLite layer. No Python, no Node, no runtime to install; SQLite is compiled in. Binaries

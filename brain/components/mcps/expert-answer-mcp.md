@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T17:49:16Z"
 ---
 ## What it is
 Enables users to ask any question and receive expert-verified answers backed by Gemini. The tool is accessible via Claude Desktop, MCP SDK clients, and a web browser.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-29T02:55:24Z"
 ---
 ## What it is
 Enables comprehensive configuration and management of Higress through the Model Context Protocol, with an MCP client built on LangGraph and LangChain MCP Adapters for agent-driven interaction.

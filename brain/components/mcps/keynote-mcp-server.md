@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T15:33:49Z"
 ---
 ## What it is
 Provides full programmatic control over Apple Keynote through the Model Context Protocol, enabling creation, editing, presenting, and exporting of presentations via natural language.

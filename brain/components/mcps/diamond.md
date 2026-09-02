@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T04:43:53Z"
 ---
 ## What it is
 Enables AI assistants to search and read offline documentation from synced libraries via MCP tools, providing hybrid keyword and semantic search without network calls.

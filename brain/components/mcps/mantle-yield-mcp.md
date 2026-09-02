@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T15:52:25Z"
 ---
 ## What it is
 Universal MCP server for Mantle yield data, enabling users to fetch health status, dashboard summaries, and detailed opportunity information through natural language.

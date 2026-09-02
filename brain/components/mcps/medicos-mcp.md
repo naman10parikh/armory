@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-30T11:34:51Z"
 ---
 ## What it is
 MCP server backend for a hospital medicine reminder app, offering tools for Firebase integration, OCR/parsing, medical intelligence, scheduling, notifications, adherence tracking, and governance with ArmorIQ intent enforcement.

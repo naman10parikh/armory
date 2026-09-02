@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T13:14:34Z"
 ---
 ## What it is
 Enables governed analytics and research on land development optionality, infrastructure proximity, and stewardship via MCP tools that provide transparent screening heuristics and reproducible evidence.

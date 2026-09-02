@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-05T23:41:35Z"
 ---
 ## What it is
 MCP server `Obsidian Vault`, catalogued on PulseMCP. Provides direct filesystem access to Obsidian vaults with 22 MCP tools for reading, writing, searching, and linking notes without requiring the Local REST API plugin.

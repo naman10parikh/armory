@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-28T16:42:03Z"
 ---
 ## What it is
 MCP server `Changeflow`, catalogued on PulseMCP. Monitors websites, PDFs, RSS feeds, and APIs for changes and delivers AI-enriched intelligence about what changed and why it matters.

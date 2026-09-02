@@ -8,11 +8,13 @@ source_url: https://github.com/Abinash009/iso26262-agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-08-13T09:53:31Z"
 ---
 ## What it is
 AI-powered MCP server for automotive functional safety engineering. Enables generation of HARA, FMEA, safety requirements, and compliance checks grounded in ISO 26262 standards.

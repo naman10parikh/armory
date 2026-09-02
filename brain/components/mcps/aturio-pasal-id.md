@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-04T06:04:54Z"
 ---
 ## What it is
 MCP server `Pasal ID`, catalogued on PulseMCP. MCP server for querying 40,000+ Indonesian legal regulations from authoritative government sources with article-level search.

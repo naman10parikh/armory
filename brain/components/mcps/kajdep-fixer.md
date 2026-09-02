@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-24T00:19:30Z"
 ---
 ## What it is
 MCP server `MCP Fixer`, catalogued on PulseMCP. Provides diagnostic and repair tools for Model Context Protocol configurations

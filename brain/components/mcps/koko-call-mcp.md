@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T16:37:02Z"
 ---
 ## What it is
 Read-only MCP server for searching Japanese government procurement bid notices (官公需) from the SME Agency's KKJ portal. Includes AI ranking, PDF requirement extraction, and CSV/calendar export.

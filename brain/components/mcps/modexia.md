@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T07:09:19Z"
 ---
 ## What it is
 This server allows your AI agents (like Claude, LangChain bots, or custom swarms) to seamlessly execute secure cryptocurrency transactions (USDC) and zero-fee micro-payments straight from their system prompts.

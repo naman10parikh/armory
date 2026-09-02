@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T23:08:40Z"
 ---
 ## What it is
 MCP server for raster image manipulation using Pillow and OpenCV. Enables image operations such as resizing, cropping, rotating, format conversion, filtering, and auto-enhancement via MCP tools.

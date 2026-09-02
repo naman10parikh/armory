@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T09:24:13Z"
 ---
 ## What it is
 A multi-agent research system that decomposes complex queries into targeted sub-questions, searches the web in parallel, scores source credibility, and synthesizes findings into structured markdown reports.

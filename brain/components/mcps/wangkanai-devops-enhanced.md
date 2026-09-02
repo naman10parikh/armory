@@ -8,10 +8,12 @@ source_url: https://github.com/wangkanai/devops-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-26T08:24:41Z"
 ---
 ## What it is
 MCP server `DevOps Enhanced (Azure DevOps)`, catalogued on PulseMCP. Integrates with Azure DevOps to provide work item management, repository access, build pipeline operations, and pull request handling with automatic project context switching based on working directory and per-repository authentication configuration.

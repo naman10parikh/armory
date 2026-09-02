@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
 stars: 4
+forks: 2
+pushed_at: "2026-06-10T06:04:24Z"
 ---
 ## What it is
 Bridge to Google Gemini API. Access Gemini Pro and Flash models through MCP.

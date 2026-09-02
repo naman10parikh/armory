@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T05:08:18Z"
 ---
 ## What it is
 MCP server for noise-reduced X (Twitter) search planning and Feedback-to-Fix engineering handoffs. Enables AI agents to generate structured search plans, filter signals, and build handoff packages via MCP tools.

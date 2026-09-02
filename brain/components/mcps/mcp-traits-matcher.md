@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:37:39Z"
 ---
 ## What it is
 A personality analysis server that creates persons with traits, adds descriptions to update personality, and finds matches for job descriptions using Euclidean distance.

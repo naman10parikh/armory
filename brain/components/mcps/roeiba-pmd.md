@@ -8,10 +8,12 @@ source_url: https://github.com/roeiba/pmd
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-14T23:05:36Z"
 ---
 ## What it is
 MCP server `PMD`, catalogued on PulseMCP. Run PMD static code analysis and detect code duplicates

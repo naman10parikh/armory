@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T12:27:00Z"
 ---
 ## What it is
 Shade MCP connects AI assistants to the creative assets in your Shade workspace. It can search and browse drives, inspect assets and transcripts, manage files and metadata, curate collections and views, add comments, create share links, work with custom objects, and manage automations.

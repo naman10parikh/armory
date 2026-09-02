@@ -8,10 +8,12 @@ source_url: https://github.com/polaroteam/moltdj-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T20:19:24Z"
 ---
 ## What it is
 MCP server `MolTDJ`, catalogued on PulseMCP. Molecular dynamics simulation toolkit for protein-ligand docking and analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-18T14:13:36Z"
 ---
 ## What it is
 Provides persistent browser tabs with tools to read, click, type, and interact with web pages, enabling local LLM agents to perform multi-step web tasks.

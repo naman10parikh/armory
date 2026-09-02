@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2024-12-20T05:07:08Z"
 ---
 ## What it is
 MCP server `Everything Search`, catalogued on PulseMCP. Integrates with the Everything Search Engine to enable file search and management across large file systems using advanced query options and customizable result formatting.

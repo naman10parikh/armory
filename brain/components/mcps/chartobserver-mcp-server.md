@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T18:57:54Z"
 ---
 ## What it is
 An MCP server that lets an AI agent read your portfolio, place paper trades, and check the leaderboard on your ChartObserver account.

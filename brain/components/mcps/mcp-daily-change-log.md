@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-17T06:54:00Z"
 ---
 ## What it is
 Enables managing daily change logs with automatic formatting, intelligent monitoring, and client-ready output, helping developers document work and generate professional reports.

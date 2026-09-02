@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T15:41:02Z"
 ---
 ## What it is
 Deterministic failure diagnosis for Soroban transactions and simulations, providing a normalized diagnosis with ranked causes, evidence, and fixes via CLI, MCP, or library.

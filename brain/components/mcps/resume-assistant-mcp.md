@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T07:14:32Z"
 ---
 ## What it is
 An intelligent, zero-cost MCP server that securely parses local resumes and compares them against live job postings for ATS scoring, skill gap analysis, and interview prep.

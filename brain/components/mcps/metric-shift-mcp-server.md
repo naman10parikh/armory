@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T00:20:40Z"
 ---
 ## What it is
 Answers "sales dropped since last week — where?" by comparing a target period against a weekday-adjusted baseline and localizing which attribute combinations (e.g. channel=web, or Tuesday nights) explain the shift. Runs fully offline on your own CSV — no API key, no ML training, read-only.

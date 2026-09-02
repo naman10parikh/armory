@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-12T22:31:41Z"
 ---
 ## What it is
 MCP server `Ghost Security`, catalogued on PulseMCP. Provides programmatic access to Ghost Security's application security platform

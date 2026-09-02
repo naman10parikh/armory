@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T13:43:45Z"
 ---
 ## What it is
 Stateless HTTP MCP server enabling QuickBooks integration through CLI commands, company management, and field definitions.

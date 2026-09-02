@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-04T12:09:14Z"
 ---
 ## What it is
 MCP server `Bilibili`, catalogued on PulseMCP. Integrates with Bilibili's search API to find videos, users, and content on China's popular video platform by keyword with structured results.

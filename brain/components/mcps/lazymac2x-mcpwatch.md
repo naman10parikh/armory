@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-28T13:12:06Z"
 ---
 ## What it is
 MCP server `MCPWatch`, catalogued on PulseMCP. Security auditing for MCP servers with OWASP checks, letter grades, and a live leaderboard.

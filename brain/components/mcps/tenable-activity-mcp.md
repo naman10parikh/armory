@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:34:01Z"
 ---
 ## What it is
 Enables querying and analyzing Tenable Vulnerability Management audit logs, including activity summaries, API key usage, and anomaly detection through MCP tools.

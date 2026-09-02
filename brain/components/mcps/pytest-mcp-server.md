@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-28T21:14:54Z"
 ---
 ## What it is
 MCP server for debugging pytest failures, allowing users to register test failures, apply systematic debugging principles, and analyze failure patterns.

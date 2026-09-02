@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T02:09:04Z"
 ---
 ## What it is
 Enables natural language management of Proxmox VE VMs and containers, including lifecycle, snapshots, cloud-init, and secure multi-step automation workflows.

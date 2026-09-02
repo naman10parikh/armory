@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T15:37:52Z"
 ---
 ## What it is
 Provides AI agents with a complete payments toolkit on the Pharos Atlantic Testnet, including balance checks, token transfers, conditional payments, batch sends, transaction history, gas estimation, and x402 protocol support.

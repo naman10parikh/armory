@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 0
+pushed_at: "2026-05-04T23:02:41Z"
 ---
 ## What it is
 Real-time crypto market structure for AI agents — orderflow across 20 exchanges, 24 tokens. 9 tools: price/funding/OI snapshots, cross-exchange CVD with whale activity, 7yr OHLCV history with buy/sell flow, on-chain address risk. Free via MCP ([`@tunedforai/x402-mcp`](https://www.npmjs.com/package/@tunedforai/x402-mcp) on npm) or pay-per-call in USDC on Base via x402 REST at [`x402.tunedfor.ai`](https://x402.tunedfor.ai) — no API key, no rate limits.

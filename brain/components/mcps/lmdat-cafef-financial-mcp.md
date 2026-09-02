@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T12:19:37Z"
 ---
 ## What it is
 MCP server to fetch Vietnamese corporate financial reports (balance sheet, income statement, cash flow) from cafef.vn using public API, no PDF or OCR needed.

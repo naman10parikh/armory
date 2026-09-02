@@ -8,11 +8,13 @@ source_url: https://github.com/TradersPost/pine-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-03-05T21:45:46Z"
 ---
 ## What it is
 Enables AI assistants to look up any Pine Script function, search TradingView documentation, and find code examples in real time.

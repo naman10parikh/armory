@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-14T05:05:24Z"
 ---
 ## What it is
 An MCP server using Google's Agent Development Kit with multiple specialized agents (search, data analysis, code generation) coordinated by an LLM-based router for intelligent request handling.

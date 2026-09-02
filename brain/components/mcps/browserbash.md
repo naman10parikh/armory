@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-10T12:05:01Z"
 ---
 ## What it is
 Enables plain-English browser automation via an MCP server, allowing agents to run objectives or test suites in a real browser without selectors or scripts.

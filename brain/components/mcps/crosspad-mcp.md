@@ -8,10 +8,12 @@ source_url: https://github.com/crosspad/crosspad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T23:36:21Z"
 ---
 ## What it is
 MCP server `CrossPad`, catalogued on PulseMCP. Development workflow server for CrossPad, enabling AI assistants to build, test, run, and navigate the project.

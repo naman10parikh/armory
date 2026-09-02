@@ -8,10 +8,12 @@ source_url: https://github.com/gwhthompson/grist-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-30T15:16:11Z"
 ---
 ## What it is
 MCP server `Grist`, catalogued on PulseMCP. Integrates with Grist spreadsheet-database for document management, data queries, and schema operations.

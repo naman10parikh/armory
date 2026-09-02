@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-13T08:45:20Z"
 ---
 ## What it is
 MCP server `PaperSearch (arXiv)`, catalogued on PulseMCP. Integrates with arXiv to enable keyword searches, paper retrieval, and tracking of recent submissions across scientific categories.

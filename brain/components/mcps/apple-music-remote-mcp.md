@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T15:59:29Z"
 ---
 ## What it is
 A read-only MCP bridge that lets ChatGPT access your personal Apple Music playlists and library from ordinary conversations.

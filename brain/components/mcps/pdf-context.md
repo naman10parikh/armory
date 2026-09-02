@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T22:48:36Z"
 ---
 ## What it is
 A local-first MCP server that ingests PDFs, extracts structure, and provides semantic search and sequential navigation tools for AI clients to query and learn from documents.

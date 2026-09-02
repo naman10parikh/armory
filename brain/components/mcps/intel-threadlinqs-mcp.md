@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T21:21:55Z"
 ---
 ## What it is
 MCP server for Threadlinqs Intelligence — 49 tools across threat intelligence, detections, IOCs, threat actors, MITRE attack-chains, C2 infrastructure, and Purple-tier composite intelligence. Drop-in for Claude Code, Claude Desktop, Cursor, and any MCP-compatible client.

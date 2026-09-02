@@ -8,10 +8,12 @@ source_url: https://github.com/johnzfitch/pyghidra-lite
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-28T18:55:29Z"
 ---
 ## What it is
 MCP server `PyGhidra Lite`, catalogued on PulseMCP. Token-efficient Ghidra reverse engineering with decompilation, Swift/ObjC, ELF/Mach-O, and async progress support.

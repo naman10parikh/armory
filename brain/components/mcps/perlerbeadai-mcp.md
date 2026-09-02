@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T04:54:06Z"
 ---
 ## What it is
 Fuse bead MCP: convert images, generate AI art, matchcolors (CIEDE2000) estimate bead costs.

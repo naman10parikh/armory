@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T19:17:12Z"
 ---
 ## What it is
 Gives Claude access to Microsoft 365 mail, calendar, files, and Teams chat with per-user identity via On-Behalf-Of flow. Supports reading and drafting content, but sending is deliberately disabled.

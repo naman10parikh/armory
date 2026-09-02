@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-27T06:21:10Z"
 ---
 ## What it is
 MCP server `Azure Java SDK`, catalogued on PulseMCP. Fetches Azure Java SDK documentation and code examples from Maven Central repositories, automatically retrieving the latest version metadata and README files for any Azure SDK package to provide quick access to usage examples and API documentation.

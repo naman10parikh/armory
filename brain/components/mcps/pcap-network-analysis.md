@@ -8,10 +8,12 @@ source_url: https://github.com/mcpcap/mcpcap
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-07-16T20:09:57Z"
 ---
 ## What it is
 MCP server `PCAP Network Analysis`, catalogued on PulseMCP. Analyzes network packet captures (PCAP files) from local directories or remote HTTP sources using scapy for DNS and DHCP traffic parsing, enabling cybersecurity threat detection, network troubleshooting, and digital forensics investigation with structured statistics generation and specialized security analysis prompts.

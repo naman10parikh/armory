@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T19:30:03Z"
 ---
 ## What it is
 MCP server for German e-invoice compliance (XRechnung 3.0 & ZUGFeRD 2.x) enabling AI agents to validate, generate, parse, and check compliance of electronic invoices per EN 16931.

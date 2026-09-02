@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:07:14Z"
 ---
 ## What it is
 Korean public data API gateway that enables searching, inspecting, and calling 80,000+ data.go.kr APIs (weather, real estate, air quality, etc.) via natural language.

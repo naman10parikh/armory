@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:38Z"
 ---
 ## What it is
 Consulta em fonte oficial as certidões do Tribunal de Justiça de Mato Grosso do Sul (TJMS), com uma única ferramenta de leitura, paga por uso via crédito pré-pago.

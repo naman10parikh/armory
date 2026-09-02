@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T12:58:14Z"
 ---
 ## What it is
 MCP server for automatic fact-checking of political claims by querying official statistical APIs (INSEE, Eurostat, World Bank, OECD) and providing tools for data retrieval, comparison, and cherry-picking detection.

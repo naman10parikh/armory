@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T07:34:49Z"
 ---
 ## What it is
 Enables AI assistants to query bills, committees, and members from the Israeli Knesset parliamentary information API via MCP tools.

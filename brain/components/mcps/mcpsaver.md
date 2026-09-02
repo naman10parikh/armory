@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T07:23:25Z"
 ---
 ## What it is
 Local MCP server for persistent, searchable agent memory using SQLite FTS5, replacing flat MEMORY.md files with efficient full-text search and workspace context caching.

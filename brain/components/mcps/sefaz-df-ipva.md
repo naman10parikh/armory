@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:08Z"
 ---
 ## What it is
 MCP server for querying IPVA (vehicle tax) information from the official SEFAZ DF source, with a single read-only tool for consultations. It is hosted and uses prepaid credits, supporting any MCP-compatible client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-02T21:44:45Z"
 ---
 ## What it is
 A FastMCP server for PowerSchool that enables students to check grades, assignments, grade history, and attendance through the Model Context Protocol.

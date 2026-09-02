@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-19T18:13:29Z"
 ---
 ## What it is
 MCP server `Twitter Timeline`, catalogued on PulseMCP. Fetches tweets from multiple Twitter profiles using the Twitter API through RapidAPI, enabling direct access to timeline data for social media analysis workflows.

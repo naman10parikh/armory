@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T21:17:27Z"
 ---
 ## What it is
 MCP server for visual feedback, video direction, and QA assertions on web pages, enabling AI agents to read, reply, and resolve annotations in real time.

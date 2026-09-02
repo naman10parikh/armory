@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-10T21:19:02Z"
 ---
 ## What it is
 AI-powered scheduling assistant that checks calendars, finds mutual availability, and books meetings via natural language commands.

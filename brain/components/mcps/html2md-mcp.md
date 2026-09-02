@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-01T09:17:17Z"
 ---
 ## What it is
 Converts HTML webpages to clean Markdown format, reducing size by ~90-95% while preserving tables, images, and important content. Supports both simple HTTP fetch and Playwright browser mode for JavaScript-heavy or authenticated pages.

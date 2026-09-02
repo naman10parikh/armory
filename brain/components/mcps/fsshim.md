@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T01:43:32Z"
 ---
 ## What it is
 A drop-in replacement for the blocked Filesystem MCP server that provides standard file operations with symlink hardening, enabling tools like read, write, and directory listing.

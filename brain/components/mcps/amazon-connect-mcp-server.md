@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-28T21:41:31Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to interact with Amazon Connect contact centers, providing 88 tools, 91 configuration templates, and multi-region support.

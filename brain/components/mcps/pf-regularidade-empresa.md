@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:00Z"
 ---
 ## What it is
 Consult status and regularity of private security companies with Brazil's Federal Police through an official read-only API. Works with any MCP client over HTTP, with prepaid credits.

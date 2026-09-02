@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T17:44:03Z"
 ---
 ## What it is
 An MCP server that lets users capture quick phone thoughts via Android and later query them from AI assistants like Grok or Claude, functioning as a simple task memory store without notifications or geolocation.

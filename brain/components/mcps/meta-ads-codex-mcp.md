@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:35:57Z"
 ---
 ## What it is
 A local MCP server that lets Codex answer conversational questions about Meta Ads performance. It provides read-only tools for listing ad accounts, checking active ads, and summarizing account performance.

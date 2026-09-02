@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T10:29:40Z"
 ---
 ## What it is
 Exposes the OLX.ba marketplace API as MCP tools, enabling LLM clients to authenticate, browse and manage listings, read categories/attributes/locations, and run sponsorship/discount actions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T13:50:40Z"
 ---
 ## What it is
 Enables AI clients to create and manage Jira tickets for Agile backlog items through natural language commands, integrating structured backlog generation with Jira board actions.

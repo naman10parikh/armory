@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T05:05:40Z"
 ---
 ## What it is
 Agent-native API client for executing REST, GraphQL, WebSocket, SSE, and gRPC requests from MCP-capable agents, with token-efficient responses and file-based collections.

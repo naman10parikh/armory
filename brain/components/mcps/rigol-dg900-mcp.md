@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T02:33:21Z"
 ---
 ## What it is
 MCP server that lets an AI assistant drive a RIGOL DG800 Pro / DG900 Pro arbitrary waveform generator over LAN (raw SCPI on TCP 5555), with tools for setting waveforms, output loads, and reading status.

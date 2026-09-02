@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T20:03:46Z"
 ---
 ## What it is
 Search 120,000+ recalled products from CPSC, FDA, EU Safety Gate, and other global agencies via MCP. Enables AI agents to check product safety by text or image.

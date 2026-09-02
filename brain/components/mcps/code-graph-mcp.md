@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-07-26T13:27:47Z"
 ---
 ## What it is
 MCP server for comprehensive code analysis, navigation, and quality assessment across 25+ programming languages.

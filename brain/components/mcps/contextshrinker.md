@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T00:02:02Z"
 ---
 ## What it is
 Zero-dependency Go MCP server that indexes codebases into an embedded Kùzu graph DB—enabling 90%+ token reduction, precise call-chain queries, and AI architectural health audits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T10:04:22Z"
 ---
 ## What it is
 Open-source MCP servers for ESG data extraction, analysis, and regulation management, providing 31 tools across 6 servers for tasks like metrics extraction, PDF processing, vector storage, and web scraping.

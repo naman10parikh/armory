@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-09-04T21:49:21Z"
 ---
 ## What it is
 MCP server `Sage (Gemini 2.5 Pro)`, catalogued on PulseMCP. Provides tools for sending prompts to Gemini 2.5 Pro with full file context, enabling second opinions and expert code reviews with gitignore-aware directory traversal.

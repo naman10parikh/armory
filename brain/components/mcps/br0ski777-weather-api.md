@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:35Z"
 ---
 ## What it is
 MCP server `Weather API`, catalogued on PulseMCP. Current weather and 7-day forecast for any location.

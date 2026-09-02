@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-09T12:57:29Z"
 ---
 ## What it is
 Enables AI-powered cryptocurrency trading and analytics across multiple exchanges and blockchains, with integrated Telegram bot and live trading capabilities.

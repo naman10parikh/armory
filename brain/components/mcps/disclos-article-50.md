@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T02:43:48Z"
 ---
 ## What it is
 Generates EU AI Act Article 50 transparency disclosures for AI features, in all 24 EU languages, with copy-paste HTML snippets and determines which rules apply.

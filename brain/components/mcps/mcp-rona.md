@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T06:09:20Z"
 ---
 ## What it is
 Enables product search, product detail, online availability, and store finder for RONA's catalogue via MCP tools.

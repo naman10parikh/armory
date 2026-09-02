@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-11T07:10:56Z"
 ---
 ## What it is
 A specialized MCP server focused on process management, development server control, and browser console log collection.

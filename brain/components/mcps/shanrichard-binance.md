@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-15T06:24:59Z"
 ---
 ## What it is
 MCP server `Binance`, catalogued on PulseMCP. Integrates with Binance cryptocurrency exchange API for trading operations, order management, and market data retrieval with comprehensive configuration management and error handling.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T12:12:15Z"
 ---
 ## What it is
 Manages and views virtual machines across multiple cloud providers (AWS, Azure, Alibaba Cloud). Enables AI assistants to list, inspect, and control VMs through a unified MCP interface.

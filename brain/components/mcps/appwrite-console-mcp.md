@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T09:16:43Z"
 ---
 ## What it is
 Provides root access to all Appwrite projects, enabling management of projects, organizations, and direct API calls to the console or any project via a single MCP tool.

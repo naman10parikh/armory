@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T11:11:32Z"
 ---
 ## What it is
 An MCP server that lets AI agents read and write Squidex CMS content directly, with tools for schema listing, content querying, CRUD operations, and multiple profile support for different Squidex instances.

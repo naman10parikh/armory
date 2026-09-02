@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T13:46:45Z"
 ---
 ## What it is
 Connects to WMPFDebugger's CDP WebSocket to enable AI-assisted debugging of Windows WeChat Mini Programs, providing tools for JavaScript evaluation, script inspection, breakpoints, debugger control, and network inspection.

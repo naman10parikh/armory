@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-17T16:35:23Z"
 ---
 ## What it is
 MCP server `Apache Tomcat Manager`, catalogued on PulseMCP. AI-assisted Apache Tomcat management and diagnostics for local instances.

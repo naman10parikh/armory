@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T19:48:41Z"
 ---
 ## What it is
 Automates posting articles to Dev.to and sharing posts on LinkedIn via command-line, cron jobs, or Copilot sessions.

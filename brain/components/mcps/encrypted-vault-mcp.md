@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T18:50:29Z"
 ---
 ## What it is
 Local-first encrypted key-value vault for securely storing and retrieving secrets like API keys using AES-GCM 256-bit encryption and a PIN.

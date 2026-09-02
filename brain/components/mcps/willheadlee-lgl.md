@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-14T17:52:53Z"
 ---
 ## What it is
 MCP server `Little Green Light`, catalogued on PulseMCP. Manages donors, gifts, and reports in Little Green Light nonprofit CRM via MCP.

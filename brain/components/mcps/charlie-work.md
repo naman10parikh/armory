@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T19:54:38Z"
 ---
 ## What it is
 Scans a repository for maintenance toil (flaky tests, expiring certificates, TODO rot, dead flags, etc.) and returns a prioritized queue with a credit ledger to track who cleared what.

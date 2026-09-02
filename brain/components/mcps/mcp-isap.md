@@ -8,11 +8,13 @@ source_url: https://github.com/matematicsolutions/mcp-isap
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T04:55:49Z"
 ---
 ## What it is
 MCP server for Polish legislation (ISAP / Sejm) — search acts (Dz.U., M.P.) and fetch full texts with ELI identifiers and verifiable citations.

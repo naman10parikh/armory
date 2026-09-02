@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T14:03:56Z"
 ---
 ## What it is
 Enables cost-parity benchmarking of agent loops by starting, extending, and monitoring paired trials, and retrieving receipts with statistical verdicts.

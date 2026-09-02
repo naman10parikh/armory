@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T03:24:13Z"
 ---
 ## What it is
 Exposes read-only PostgreSQL queries as typed MCP tools, enabling natural-language data analysis while keeping raw tables hidden and enforcing safety limits.

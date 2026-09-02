@@ -8,10 +8,12 @@ source_url: https://github.com/vuvuvu/streamersonglist-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-02T00:05:08Z"
 ---
 ## What it is
 MCP server `StreamerSongList`, catalogued on PulseMCP. Integrates with StreamerSongList APIs to manage streaming music queues, handle song requests, track play history, and retrieve overlay data for streaming platforms like Twitch.

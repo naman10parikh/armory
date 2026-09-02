@@ -8,10 +8,12 @@ source_url: https://github.com/andyanh174/vibe-hnindex
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T19:46:45Z"
 ---
 ## What it is
 MCP server `Vibe HN Index`, catalogued on PulseMCP. Index source code into a local knowledge base with keyword, semantic, and hybrid search modes.

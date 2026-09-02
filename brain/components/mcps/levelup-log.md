@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T05:34:33Z"
 ---
 ## What it is
 An MCP server that gamifies your daily activities by automatically recording achievements as you interact with AI assistants, turning tasks into XP, levels, and titles.

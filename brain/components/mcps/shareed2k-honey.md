@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T18:40:42Z"
 ---
 ## What it is
 MCP server `Honey`, catalogued on PulseMCP. Search service instances across GCP, AWS, Kubernetes, Consul, and Proxmox.

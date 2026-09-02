@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-04T17:59:14Z"
 ---
 ## What it is
 An MCP server for converting images to WebP or AVIF formats using the sharp library.

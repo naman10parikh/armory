@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-21T20:21:57Z"
 ---
 ## What it is
 MCP server `i18n Tools`, catalogued on PulseMCP. Internationalization and localization tools including language detection, hardcoded string extraction, translation file analysis, plural rules, and locale formatting.

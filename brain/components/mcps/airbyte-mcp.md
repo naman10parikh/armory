@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T22:00:45Z"
 ---
 ## What it is
 Enables interaction with an Airbyte instance through natural language, supporting workspaces, sources, destinations, connections, jobs, logs, tags, streams, and connector definitions.

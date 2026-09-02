@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:28Z"
 ---
 ## What it is
 Read-only MCP server for downloading and OCR-processing CPFL electricity bills from official sources, supporting any MCP client with prepaid per-query credits.

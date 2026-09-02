@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T22:58:15Z"
 ---
 ## What it is
 A high-performance MCP gateway for Python with Rust core, enabling fast JSON-RPC routing and tool dispatch.

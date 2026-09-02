@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:15:09Z"
 ---
 ## What it is
 Turn any OpenAPI specification into a smaller, LLM-friendly MCP server. Enables interaction with REST APIs through MCP tools using profiles to reduce complexity.

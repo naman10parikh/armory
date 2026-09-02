@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-12-16T20:33:27Z"
 ---
 ## What it is
 A command-line tool for monitoring and analyzing Coralogix logs using the Model Control Protocol, providing tools to query and summarize log data.

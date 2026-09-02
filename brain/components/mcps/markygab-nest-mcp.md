@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T00:16:39Z"
 ---
 ## What it is
 NestJS package that provides decorator-based tool discovery, TypeBox/AJV validation, and MCP SDK server construction for building MCP servers.

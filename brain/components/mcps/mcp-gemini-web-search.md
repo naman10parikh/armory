@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-23T09:05:48Z"
 ---
 ## What it is
 Provides grounded web search and research capabilities using Google's Gemini models and Google Search, with features like normal and research modes, batch searches, and health checks.

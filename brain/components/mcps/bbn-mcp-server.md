@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T19:17:08Z"
 ---
 ## What it is
 Exposes Big Bang Nucleosynthesis computation and analysis tools to LLM agents, enabling them to scan parameters like baryon density, extra relativistic species, and neutron lifetime, and to fit abundances against observations.

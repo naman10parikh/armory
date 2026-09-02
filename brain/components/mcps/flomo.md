@@ -8,10 +8,12 @@ source_url: https://github.com/chatmcp/mcp-server-flomo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-05-23T01:06:37Z"
 ---
 ## What it is
 MCP server `Flomo`, catalogued on PulseMCP. Enables direct note-taking in Flomo through a simple markdown-to-webhook tool that captures thoughts, ideas, and research findings without manual copying and pasting.

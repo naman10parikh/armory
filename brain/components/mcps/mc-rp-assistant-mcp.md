@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T19:41:04Z"
 ---
 ## What it is
 Enables reading, validating, and managing Minecraft resource packs, including structure checks, asset listing, pack comparison, and Modrinth queries.

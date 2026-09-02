@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T10:21:09Z"
 ---
 ## What it is
 Enables role-based order management operations such as viewing orders, checking refund eligibility, issuing refunds, deleting orders, and managing users through MCP tools with audit logging and permission checks.

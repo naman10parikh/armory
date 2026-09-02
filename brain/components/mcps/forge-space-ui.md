@@ -8,10 +8,12 @@ source_url: https://github.com/forge-space/ui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-20T04:30:25Z"
 ---
 ## What it is
 MCP server `Forge Space UI`, catalogued on PulseMCP. AI-driven UI and backend code generation across React, Vue, Angular, Svelte, and HTML with brand-aware design system integration.

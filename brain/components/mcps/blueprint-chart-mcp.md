@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T16:00:23Z"
 ---
 ## What it is
 Enables LLMs to author, validate, and render Blueprint Chart (.bpc) files with structured dataviz pedagogy and a tight parse + render feedback loop.

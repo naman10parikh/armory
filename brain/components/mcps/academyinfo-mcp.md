@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:10:50Z"
 ---
 ## What it is
 Read-only MCP server for factual queries and side-by-side comparisons of Korean university disclosure indicators using a bundled local snapshot, with no API key or network required.

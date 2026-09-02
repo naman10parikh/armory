@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-04T09:00:57Z"
 ---
 ## What it is
 MCP server `ChurchTools`, catalogued on PulseMCP. Integrate with ChurchTools to query the API, create calendar appointments, and search bundled documentation through 5 tools.

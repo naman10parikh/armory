@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-06-21T08:40:28Z"
 ---
 ## What it is
 MCP server `Blockchain Signer`, catalogued on PulseMCP. Enables secure blockchain interactions with user-controlled private keys and transaction signing, featuring a Node.js backend, PostgreSQL database, Redis caching, and integration with Ethereum and EVM-compatible chains via Infura.

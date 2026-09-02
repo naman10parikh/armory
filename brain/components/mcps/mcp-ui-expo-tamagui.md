@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-08T07:15:54Z"
 ---
 ## What it is
 Generates React Native/Expo UI components using AI, integrates with Claude Desktop to create and optimize Tamagui-based components via natural language commands.

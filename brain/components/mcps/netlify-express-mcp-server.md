@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T01:23:25Z"
 ---
 ## What it is
 A serverless MCP server example built with Express and deployed on Netlify Functions, demonstrating how to expose MCP endpoints via a custom URL with proper redirects.

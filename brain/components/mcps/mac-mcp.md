@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T08:38:08Z"
 ---
 ## What it is
 A read-only MCP server that exposes data from native macOS apps (Mail, Notes, Calendar, Reminders, Contacts, Messages, Spotlight) to AI agents over stdio, currently in early development with no domain tools wired yet.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:09:12Z"
 ---
 ## What it is
 Provides access to the geoBoundaries open database of political administrative boundaries, enabling querying and retrieval of boundary data through natural language via the Pipeworx gateway.

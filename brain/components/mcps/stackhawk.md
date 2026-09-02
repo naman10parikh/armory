@@ -8,10 +8,12 @@ source_url: https://github.com/stackhawk/stackhawk-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-04-13T21:58:01Z"
 ---
 ## What it is
 MCP server `StackHawk`, catalogued on PulseMCP. Dynamic application security testing and API security scanning platform integration

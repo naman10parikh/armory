@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-03T05:41:02Z"
 ---
 ## What it is
 MCP server `Sift`, catalogued on PulseMCP. Parses JUnit XML test reports to extract root causes, detect cascade failures, deduplicate errors via fingerprinting, and track failure history for test intelligence.

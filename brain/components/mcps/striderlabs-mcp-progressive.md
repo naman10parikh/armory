@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T13:21:41Z"
 ---
 ## What it is
 Progressive Insurance MCP connector for personal AI agents. Provides tools to get quotes, look up policies, check claims, manage payments, retrieve ID cards, get coverage recommendations, and request roadside assistance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T16:58:19Z"
 ---
 ## What it is
 Enables LLMs to run read-only show commands on Cisco IOS/IOS-XE and Nexus switches over SSH, with a two-account model for privilege separation and a fail-closed allowlist for safety.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-25T16:42:52Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Provides a lightweight bridge to MySQL databases, enabling read-only database resource introspection and query execution with controlled access and dynamic schema discovery.

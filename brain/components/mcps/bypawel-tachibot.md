@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-30T16:59:29Z"
 ---
 ## What it is
 MCP server `Tachibot`, catalogued on PulseMCP. Multi-model orchestration running OpenAI, Google, Anthropic, xAI, Perplexity, and OpenRouter in parallel for cross-validation

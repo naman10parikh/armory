@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-19T00:24:11Z"
 ---
 ## What it is
 MCP server `UnCorreoTemporal`, catalogued on PulseMCP. Temporary email for AI agents — create inboxes, wait for verification emails, extract OTPs, and automate signup flows.

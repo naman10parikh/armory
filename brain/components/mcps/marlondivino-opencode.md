@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T00:41:41Z"
 ---
 ## What it is
 MCP server `OpenCode`, catalogued on PulseMCP. Wraps the OpenCode coding assistant for token-efficient prompt refinement and code analysis with RAG-powered memory using LanceDB and Ollama.

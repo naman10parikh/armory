@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T20:22:41Z"
 ---
 ## What it is
 A human-in-the-loop SSH bridge for AI agents that requires approval for every command before execution on configured servers.

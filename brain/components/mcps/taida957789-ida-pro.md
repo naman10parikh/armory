@@ -8,10 +8,12 @@ source_url: https://github.com/taida957789/ida-mcp-server-plugin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 186
+stars: 188
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 34
+pushed_at: "2025-05-26T07:23:44Z"
 ---
 ## What it is
 MCP server `IDA Pro`, catalogued on PulseMCP. Enables direct interaction with IDA Pro for binary analysis tasks including disassembly, decompilation, and function querying for malware analysis and vulnerability research.

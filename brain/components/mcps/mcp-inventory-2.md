@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T01:46:56Z"
 ---
 ## What it is
 An MCP server for managing product inventory with SQLite, enabling CRUD operations and statistical queries such as total value, out-of-stock items, and most expensive product.

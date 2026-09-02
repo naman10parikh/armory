@@ -8,10 +8,12 @@ source_url: https://github.com/yeominux/md-feedback
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-23T13:16:44Z"
 ---
 ## What it is
 MCP server `MD Feedback`, catalogued on PulseMCP. Reviews markdown plan annotations so AI agents can read structured feedback directly.

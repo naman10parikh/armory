@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-26T22:31:00Z"
 ---
 ## What it is
 Exposes REST API endpoints defined in an OpenAPI Specification as MCP tools, allowing AI models to call them via the ModelContext Protocol.

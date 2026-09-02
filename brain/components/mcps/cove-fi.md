@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:12:00Z"
 ---
 ## What it is
 MCP server for cove-fi, a deterministic retirement and financial-independence projection engine. It lets users run plans, create scenarios, and explore year-by-year net-worth projections through natural language.

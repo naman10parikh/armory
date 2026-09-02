@@ -8,10 +8,12 @@ source_url: https://github.com/jxue0/opencut-controller
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-19T06:00:53Z"
 ---
 ## What it is
 MCP server `OpenCut Controller`, catalogued on PulseMCP. Automate video editing workflows with OpenCut through MCP tool calls.

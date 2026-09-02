@@ -8,10 +8,12 @@ source_url: https://github.com/cloudflare/workers-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 637
+stars: 646
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 67
+pushed_at: "2026-04-23T20:49:25Z"
 ---
 ## What it is
 MCP server `Cloudflare Workers`, catalogued on PulseMCP. Enables MCP capabilities in Cloudflare Workers for deploying low-latency, scalable AI services at the network edge.

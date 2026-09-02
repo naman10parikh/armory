@@ -8,11 +8,13 @@ source_url: https://github.com/JumenEngels/sap_analytics_cloud_mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-03-02T20:27:13Z"
 ---
 ## What it is
 Enables interaction with SAP Analytics Cloud through an MCP server, exposing 90 tools for content management, data export/import, user management, and more via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T03:20:52Z"
 ---
 ## What it is
 Automates DevOps workflows like vulnerability resolution, code review, test generation, and DORA metrics through Claude Code slash commands, using a state machine for reliable execution.

@@ -8,10 +8,12 @@ source_url: https://github.com/mohammadfarooqi/canlii-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-09T17:37:49Z"
 ---
 ## What it is
 MCP server `CanLII`, catalogued on PulseMCP. Search Canadian case law, browse legislation, and check citations via the CanLII API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T06:49:46Z"
 ---
 ## What it is
 Verifies AI agent completion claims by checking that claimed output files exist and are fresh, acting as a lightweight physical telemetry gate.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T03:30:40Z"
 ---
 ## What it is
 Personal AI tutor MCP that automatically generates structured coding practice materials based on coding context and local files.

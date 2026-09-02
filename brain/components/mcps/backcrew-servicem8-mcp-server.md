@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-22T15:31:59Z"
 ---
 ## What it is
 Enables an AI assistant to interact with ServiceM8 via natural language, supporting lookups and optionally creating or updating records, with tiered safety controls.

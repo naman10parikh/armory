@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T08:06:06Z"
 ---
 ## What it is
 Remote MCP server exposing Wasilah's Islamic reference data, enabling prayer-time, Qibla, Hijri-date, and Quran-audio queries via natural language.

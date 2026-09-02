@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T14:45:00Z"
 ---
 ## What it is
 Self-hosted MCP server that enables reading, sending, and automating Proton Mail via Bridge, with optional SimpleLogin alias management.

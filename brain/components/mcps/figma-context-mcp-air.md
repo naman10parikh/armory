@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T17:39:36Z"
 ---
 ## What it is
 An MCP server that gives AI coding agents access to Figma design data, enabling pixel-perfect implementation of designs through structured data extraction, image downloads, and design token retrieval.

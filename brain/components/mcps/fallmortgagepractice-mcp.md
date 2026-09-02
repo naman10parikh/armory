@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:00:40Z"
 ---
 ## What it is
 Provides MCP tools and resources for the foldkit SDK, enabling interaction with the 7-prime spine, kappa bands, and fold operations in any MCP client.

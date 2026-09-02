@@ -8,11 +8,13 @@ source_url: https://github.com/bartosz-kuc/honest-calendar-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T05:15:05Z"
 ---
 ## What it is
 A local MCP server that provides read/write access to Google Calendar without data passing through third parties, enabling AI assistants to manage events directly via the Google Calendar API.

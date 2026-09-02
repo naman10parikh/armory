@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T08:53:27Z"
 ---
 ## What it is
 Unofficial MCP server for Stalwart Mail Server using the JMAP management API, providing 39 tools to read and manage mailboxes, accounts, domains, DKIM, queue, IP filtering, and admin operations.

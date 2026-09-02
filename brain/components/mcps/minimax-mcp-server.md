@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:41:02Z"
 ---
 ## What it is
 Official MiniMax MCP server enabling AI clients to generate speech, clone voices, create videos and images, compose music, and design custom voices via MiniMax APIs.

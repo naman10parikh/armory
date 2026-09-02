@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T12:07:47Z"
 ---
 ## What it is
 Analyzes any codebase to detect project type, languages, frameworks, entry points, API routes, controllers, services, components, tests, and more.

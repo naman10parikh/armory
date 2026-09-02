@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-26T16:44:06Z"
 ---
 ## What it is
 MCP server `Browser Operator`, catalogued on PulseMCP. Enables Claude to control web browsers through Playwright for automated navigation, form filling, and element interaction while maintaining persistent sessions and supporting manual intervention for sensitive tasks.

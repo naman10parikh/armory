@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T05:57:11Z"
 ---
 ## What it is
 Enables editing text in existing PDFs by modifying content stream operators, preserving original fonts and positions. Provides fidelity reports on every edit, indicating font preservation, substitution, overflow, and other degradations.

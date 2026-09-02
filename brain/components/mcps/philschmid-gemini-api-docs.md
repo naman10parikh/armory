@@ -8,10 +8,12 @@ source_url: https://github.com/philschmid/gemini-api-docs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 100
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-02-03T20:08:49Z"
 ---
 ## What it is
 MCP server `Gemini API Docs`, catalogued on PulseMCP. Automatically scrapes and indexes Google Gemini API documentation from ai.google.dev into a local SQLite database with FTS5 search capabilities, providing keyword-based search, specific page retrieval, and quick model information access for developers building Gemini-powered applications.

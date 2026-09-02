@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T17:30:42Z"
 ---
 ## What it is
 An MCP server for the Resend email API, enabling AI assistants to send emails, manage contacts, audiences, and domains through natural language.

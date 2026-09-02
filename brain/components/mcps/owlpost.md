@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T14:09:47Z"
 ---
 ## What it is
 A high-fidelity IMAP/SMTP MCP server that enables reading, searching, and sending emails from providers like iCloud and Gmail, handling real-world IMAP quirks automatically.

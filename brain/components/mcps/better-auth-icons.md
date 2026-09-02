@@ -8,10 +8,12 @@ source_url: https://github.com/better-auth/better-icons
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1025
+stars: 1256
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 54
+pushed_at: "2026-04-02T15:54:17Z"
 ---
 ## What it is
 MCP server `Better Icons`, catalogued on PulseMCP. Provides access to 200,000+ icons from 150+ collections through the Iconify API with search, retrieval, batch operations, usage pattern learning, and direct project file synchronization across React, Vue, Svelte, and other frameworks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T10:08:44Z"
 ---
 ## What it is
 An MCP server that provides Fantasy Premier League advice, including transfer suggestions, captain recommendations, and differential player discovery.

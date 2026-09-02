@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-24T12:08:47Z"
 ---
 ## What it is
 MCP server that gives AI agents access to your Maus clipboard on macOS, enabling them to write clean text into history, search, and manage clipboard items locally.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T12:19:52Z"
 ---
 ## What it is
 MCP server to manage Memrise courses, levels, and words, enabling course creation and teaching workflows through natural language.

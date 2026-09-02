@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
 stars: 20
+forks: 4
+pushed_at: "2025-10-07T21:34:36Z"
 ---
 ## What it is
 An MCP server for [JupyterCAD](https://github.com/jupytercad/JupyterCAD) that allows you to control it using LLMs/natural language.

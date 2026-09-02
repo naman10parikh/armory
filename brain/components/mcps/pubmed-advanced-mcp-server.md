@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-28T22:03:05Z"
 ---
 ## What it is
 This MCP server provides 16 intelligent tools for searching, retrieving, and linking biomedical literature from PubMed and PMC. It enables LLM applications to perform complex queries, batch processing, and cross-database linking.

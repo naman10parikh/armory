@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T20:45:33Z"
 ---
 ## What it is
 Local static-analysis assistant for Android malware research that manages investigation cases, exposes MCP tools via a local server, and persists evidence-backed findings without cloud dependency.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T00:21:57Z"
 ---
 ## What it is
 Exposes a clinic's knowledge base and structured records to Claude Desktop as callable tools, with read tools grounded with citations and write tools gated behind approval.

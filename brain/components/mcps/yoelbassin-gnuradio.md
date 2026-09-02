@@ -8,10 +8,12 @@ source_url: https://github.com/yoelbassin/gr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-15T11:31:03Z"
 ---
 ## What it is
 MCP server `GNU Radio`, catalogued on PulseMCP. Enables direct access to GNU Radio's signal processing capabilities for creating, manipulating, and validating radio flowgraphs without leaving your conversation context.

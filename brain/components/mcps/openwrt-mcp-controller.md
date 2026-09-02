@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-11T04:03:20Z"
 ---
 ## What it is
 Enables management and control of OpenWrt devices via a simple API, including reboot, status checks, log reading, and LED control.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T06:01:32Z"
 ---
 ## What it is
 Scans your source code using AST analysis to detect coding conventions, error handling, API patterns, and more, then generates a CONVENTIONS.md file to help AI agents follow your project's style.

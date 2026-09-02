@@ -8,11 +8,13 @@ source_url: https://github.com/dbmcco/apple-reminders-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2025-10-25T20:03:18Z"
 ---
 ## What it is
 Enables Claude to manage Apple Reminders on macOS, including creating, reading, updating, deleting, and searching reminders across multiple lists with due dates, priorities, and notes.

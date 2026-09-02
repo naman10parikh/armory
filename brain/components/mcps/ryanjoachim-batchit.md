@@ -12,6 +12,8 @@ stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-18T19:03:15Z"
 ---
 ## What it is
 MCP server `BatchIt`, catalogued on PulseMCP. Combine tool calls into a single batch_execute call.

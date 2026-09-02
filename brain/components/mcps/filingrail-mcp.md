@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T10:33:41Z"
 ---
 ## What it is
 Give your AI agent live SEC EDGAR data: company financials, insider trades, 8-K events, 13F holdings, and the raw filings stream — all normalized to clean JSON, every number traceable back to its sec.gov source filing.

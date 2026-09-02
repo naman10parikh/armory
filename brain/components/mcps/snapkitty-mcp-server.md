@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T20:08:20Z"
 ---
 ## What it is
 MCP server exposing tools for WORM chain sealing, sovereign agent creation, Ada governance contract generation, and SSM state injection from Lean theorems.

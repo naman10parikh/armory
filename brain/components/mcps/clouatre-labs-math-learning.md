@@ -8,10 +8,12 @@ source_url: https://github.com/clouatre-labs/math-mcp-learning-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-09-01T01:22:23Z"
 ---
 ## What it is
 MCP server `Math Learning`, catalogued on PulseMCP. Educational server for mathematical operations, statistics, and data visualization with persistent workspace

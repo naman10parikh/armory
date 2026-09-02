@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T11:37:46Z"
 ---
 ## What it is
 MCP server with 12 tools enabling AI agents (Claude, ChatGPT) to manage Algorand-based subscriptions, including locking funds in vaults and automated payments.

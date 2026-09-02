@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-08-11T19:16:42Z"
 ---
 ## What it is
 Enables AI assistants to interact with your Productboard workspace, allowing features, products, notes, objectives, key results, and releases management.

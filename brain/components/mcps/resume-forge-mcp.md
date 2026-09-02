@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T15:36:34Z"
 ---
 ## What it is
 An MCP server for intelligent LaTeX resume generation with multiple templates, quality scoring, and job description tailoring.

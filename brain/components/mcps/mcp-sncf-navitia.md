@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T12:02:57Z"
 ---
 ## What it is
 MCP server for querying French railway services (SNCF) via the Navitia API, enabling station search, journey planning, and departure board retrieval.

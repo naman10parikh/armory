@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-12T14:03:16Z"
 ---
 ## What it is
 MCP server `Tickerr`, catalogued on PulseMCP. Live status, API pricing, and rate limits for ChatGPT, Claude, Gemini, Cursor, and 42+ AI tools.

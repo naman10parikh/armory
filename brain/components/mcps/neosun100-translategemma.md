@@ -8,10 +8,12 @@ source_url: https://github.com/neosun100/translategemma
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-01-17T18:10:44Z"
 ---
 ## What it is
 MCP server `TranslateGemma`, catalogued on PulseMCP. Provides local translation using Google's TranslateGemma models with support for 55 languages, multi-platform Docker deployment, and intelligent text chunking for long documents.

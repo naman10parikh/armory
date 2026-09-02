@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T14:59:19Z"
 ---
 ## What it is
 MCP server for a desktop calendar that allows AI agents to manage events, check schedules, and avoid conflicts via standard MCP tools.

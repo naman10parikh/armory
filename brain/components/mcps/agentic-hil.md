@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T20:00:15Z"
 ---
 ## What it is
 MCP server for Agentic Hardware-in-the-Loop testing, enabling AI agents to probe, flash, reset, and validate embedded firmware on real hardware via bounded MCP tools.

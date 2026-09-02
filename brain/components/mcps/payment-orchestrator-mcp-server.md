@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:42:16Z"
 ---
 ## What it is
 Enables agents to interrogate payment routing decisions through six tools: route transactions, explain decisions, simulate scenarios, inspect segment evidence, normalize decline codes, and review backtest summaries. It provides read-only access to the routing engine, allowing natural-language querie

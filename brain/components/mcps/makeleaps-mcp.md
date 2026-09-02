@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T04:48:00Z"
 ---
 ## What it is
 Unofficial MCP server to operate MakeLeaps clients, quotes, and invoices from LLMs via the MakeLeaps API, with local execution and no telemetry.

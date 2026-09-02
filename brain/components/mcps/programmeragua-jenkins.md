@@ -8,10 +8,12 @@ source_url: https://github.com/programmeragua/jenkins-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-09T02:51:52Z"
 ---
 ## What it is
 MCP server `Jenkins`, catalogued on PulseMCP. Make Jenkins REST API calls to provide common operation interfaces for Jenkins jobs.

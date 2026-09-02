@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T06:30:05Z"
 ---
 ## What it is
 Enables managing TrueConf Server conferences, recordings, invitations, participants, chats, and calendars from any MCP client. Supports OAuth authentication and exposes 32 tools for conference, recording, and invitation management.

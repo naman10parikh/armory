@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T13:57:40Z"
 ---
 ## What it is
 An MCP server for interacting with Kanton Luzern tax declarations on eSteuern.LU, enabling field catalogue search and live declaration editing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-26T11:36:40Z"
 ---
 ## What it is
 LocalAnt is a local-first MCP gateway that lets ChatGPT control your PC through approved, permissioned tools for shell commands, file management, coding agents, browser automation, and more.

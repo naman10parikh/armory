@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-12T00:54:30Z"
 ---
 ## What it is
 MCP server `New Relic`, catalogued on PulseMCP. Integrates with New Relic monitoring platform through GraphQL and REST APIs to provide access to logs, metrics, alerts, dashboards, and application data for DevOps teams and site reliability engineers performing incident investigation and automated troubleshooting workflows.

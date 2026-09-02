@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T15:07:56Z"
 ---
 ## What it is
 MCP server for integrating AI agents and automation with Medusa commerce platforms, enabling management of products, orders, and workflows through a scalable backend layer.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T23:22:27Z"
 ---
 ## What it is
 A self-hosted memory backend for MCP clients, providing tools for storing, searching, updating, and deleting memories with per-user scoping and OIDC support.

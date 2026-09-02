@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-23T11:36:38Z"
 ---
 ## What it is
 MCP server `SaluteSpeech`, catalogued on PulseMCP. Integrates with Sber SaluteSpeech API for speech recognition and text-to-speech synthesis.

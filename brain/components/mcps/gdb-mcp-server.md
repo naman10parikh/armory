@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-11-27T07:15:11Z"
 ---
 ## What it is
 Enables AI agents to interact with GDB for debugging via the MCP protocol. Supports setting breakpoints, stepping through code, inspecting memory and registers, and more.

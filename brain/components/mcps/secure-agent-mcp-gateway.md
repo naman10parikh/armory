@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T08:54:51Z"
 ---
 ## What it is
 Enables AI agents to safely call MCP tools through a security gateway that enforces per-role authorization and least-privilege tool scoping.

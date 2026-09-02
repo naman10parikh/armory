@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T11:10:50Z"
 ---
 ## What it is
 Enables AI coding agents to inspect Runable projects over MCP, providing read-only access to project information and configuration via Runable's inspector.

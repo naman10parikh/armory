@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T05:55:57Z"
 ---
 ## What it is
 Deterministic time-series statistics for AI agents. This MCP server gives any LLM agent unit-tested statistical tools — anomaly detection, changepoint detection, seasonal decomposition, stationarity/trend tests, data-quality audits, baseline forecasts — with schema-validated structured output and no

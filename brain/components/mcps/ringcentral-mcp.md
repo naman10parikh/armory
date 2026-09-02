@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T04:21:05Z"
 ---
 ## What it is
 Enables interaction with RingCentral phone system data, including account info, extensions, presence, call queues, contacts, and call logs/recordings, through MCP tools.

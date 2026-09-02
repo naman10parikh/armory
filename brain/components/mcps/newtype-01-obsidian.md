@@ -8,10 +8,12 @@ source_url: https://github.com/newtype-01/obsidian-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 305
+stars: 312
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 49
+pushed_at: "2025-08-04T05:47:18Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Bridges Claude with Obsidian note-taking application, enabling direct interaction with markdown notes through tools for listing, reading, creating, updating, and searching vault content.

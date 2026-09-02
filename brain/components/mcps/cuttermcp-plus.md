@@ -8,11 +8,13 @@ source_url: https://github.com/restkhz/CutterMCP-plus
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 54
+stars: 55
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-03-17T22:35:09Z"
 ---
 ## What it is
 Enables LLMs to automate reverse engineering tasks using Cutter, including function analysis, decompilation, disassembly, and more.

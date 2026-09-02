@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T14:58:11Z"
 ---
 ## What it is
 Enables Claude to read and search Apple Reminders tasks on macOS, including lists, incomplete/completed items, and keyword search, all locally without modifying data.

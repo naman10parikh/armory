@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T16:21:32Z"
 ---
 ## What it is
 Provides full Devin API coverage via MCP servers, enabling programmatic management of sessions, knowledge, playbooks, secrets, schedules, and attachments, plus a documentation-only DeepWiki proxy.

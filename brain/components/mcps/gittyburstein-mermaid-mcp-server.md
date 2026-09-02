@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, architecture-design]
 stars: 15
+forks: 3
+pushed_at: "2026-01-12T02:17:11Z"
 ---
 ## What it is
 MCP server that turns local projects or GitHub repositories into Mermaid diagrams and renders them via Kroki.

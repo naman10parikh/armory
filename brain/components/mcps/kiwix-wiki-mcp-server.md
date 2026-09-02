@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-10-27T02:31:06Z"
 ---
 ## What it is
 Provides access to offline Wikipedia and other content through Kiwix, enabling search and retrieval of articles from local ZIM files.

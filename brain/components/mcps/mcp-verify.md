@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T19:00:01Z"
 ---
 ## What it is
 A benchmarked hallucination detector that returns unsupported claims with details. Runs as an MCP server with two modes: sampling (default, no API key) and direct API.

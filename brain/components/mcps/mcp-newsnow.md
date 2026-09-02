@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 20
+pushed_at: "2025-05-14T09:19:16Z"
 ---
 ## What it is
 Aggregates hot news and trending topics from 14+ Chinese platforms like Zhihu, Weibo, Bilibili, and Douyin via the Newsnow API, providing tools to fetch single-source, multi-source, or all news.

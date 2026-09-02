@@ -8,10 +8,12 @@ source_url: https://github.com/antonpogrebenko-public/rftools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-29T21:33:36Z"
 ---
 ## What it is
 MCP server `RF Tools`, catalogued on PulseMCP. Provides 203 RF and electronics calculators plus 13 server-side simulation tools from rftools.io for engineering calculations and analysis.

@@ -8,11 +8,13 @@ source_url: https://github.com/shaun0927/openchrome
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 234
+stars: 236
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 40
+pushed_at: "2026-09-01T17:09:48Z"
 ---
 ## What it is
 Controls a real Chrome browser for AI agents, enabling authenticated automation with parallel lanes, token-efficient page reads, and robust recovery mechanisms.

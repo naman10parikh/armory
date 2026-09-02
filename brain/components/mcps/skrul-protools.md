@@ -8,10 +8,12 @@ source_url: https://github.com/skrul/protools-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-01-26T05:49:45Z"
 ---
 ## What it is
 MCP server `Pro Tools`, catalogued on PulseMCP. Connects to Avid Pro Tools through the PTSL API to enable session management, transport control, track operations, timeline editing, and marker management with spatial search capabilities for audio clips and their positions.

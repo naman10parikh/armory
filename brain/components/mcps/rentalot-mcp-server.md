@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T00:30:04Z"
 ---
 ## What it is
 MCP server for the Rentalot API. Manage rental properties, contacts, showings, conversations, and more from any AI assistant.

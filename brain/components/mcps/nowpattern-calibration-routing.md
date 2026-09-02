@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T00:37:27Z"
 ---
 ## What it is
 MCP server for querying counterparty calibration records to assess judgment quality before delegation. It provides read-only, OTS-sealed calibration data with zero-trust verification, enabling default-deny on unverified candidates.

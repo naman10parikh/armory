@@ -8,10 +8,12 @@ source_url: https://github.com/lexbeam-software/eu-ai-act-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-24T07:59:23Z"
 ---
 ## What it is
 MCP server `EU AI Act`, catalogued on PulseMCP. Provides structured knowledge about the EU AI Act for risk classification, compliance, and penalty calculations.

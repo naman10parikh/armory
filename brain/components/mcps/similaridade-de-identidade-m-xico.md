@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:49:20Z"
 ---
 ## What it is
 Compares a person's identity data in Mexico (CURP, name, birth, address) and returns a similarity score against official records. It is a read-only MCP server that works with any MCP client over HTTP.

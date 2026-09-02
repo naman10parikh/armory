@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-04T09:25:25Z"
 ---
 ## What it is
 A Model Context Protocol server for removing backgrounds from images using AI-powered segmentation models.

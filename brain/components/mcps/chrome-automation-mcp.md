@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-18T09:08:48Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for browser automation using Playwright to control Chrome browsers.

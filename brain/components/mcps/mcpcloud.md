@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-05T04:30:11Z"
 ---
 ## What it is
 A self-hosted MCP gateway that lets you write Python functions and register them as skills to be used as tools by any MCP-compatible client like Claude Desktop or Claude API.

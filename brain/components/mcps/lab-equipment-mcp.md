@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T05:54:37Z"
 ---
 ## What it is
 An MCP server for controlling lab instruments (oscilloscopes, signal generators, etc.) via standardized interfaces like USBTMC, RS-232, and LAN.

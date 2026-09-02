@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T01:41:20Z"
 ---
 ## What it is
 An MCP server for operating headless MetaTrader 5 terminals — over SSH, from your agent.

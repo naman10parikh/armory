@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-06-24T12:16:18Z"
 ---
 ## What it is
 Enables LLMs to interact with Cloudera AI Workbench APIs for managing files, jobs, models, experiments, projects, and applications.

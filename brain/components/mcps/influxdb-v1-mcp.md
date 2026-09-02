@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-19T01:37:53Z"
 ---
 ## What it is
 InfluxDB-v1-MCP is a powerful Model Context Protocol (MCP) interface specifically designed for InfluxDB v1.x, enabling AI assistants to intelligently manage and query time-series databases.

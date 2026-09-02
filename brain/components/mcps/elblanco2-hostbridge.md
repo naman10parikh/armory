@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-27T18:55:50Z"
 ---
 ## What it is
 MCP server `HostBridge`, catalogued on PulseMCP. Simplifies web application deployment across multiple hosting providers like Netlify and Vercel through a unified interface that handles authentication, building, and deployment operations with simple commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T12:28:24Z"
 ---
 ## What it is
 Enables estimation of PC-SAFT pure-component parameters and prediction of properties like density and vapor pressure for any molecule or mixture using Graph Neural Networks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-14T08:26:24Z"
 ---
 ## What it is
 This MCP server simplifies interaction with the ConnectWise Manage API through API discovery, execution, and a fast memory system for efficient workflows.

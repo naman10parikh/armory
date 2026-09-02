@@ -8,10 +8,12 @@ source_url: https://github.com/sunwood-ai-labs/github-kanban-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-06-22T01:09:15Z"
 ---
 ## What it is
 MCP server `GitHub Kanban`, catalogued on PulseMCP. Integrates with GitHub's API to enable Kanban-style project management and issue tracking for streamlined software development workflows.

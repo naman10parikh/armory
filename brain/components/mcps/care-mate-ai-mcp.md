@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T10:54:58Z"
 ---
 ## What it is
 Enables AI-driven post-discharge patient monitoring and care coordination through tools for symptom triage, recovery tracking, exercise recommendation, and clinical reporting.

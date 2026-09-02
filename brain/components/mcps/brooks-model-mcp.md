@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T02:24:20Z"
 ---
 ## What it is
 Provides a unified MCP interface to interact with Codex CLI, Claude Code, and Grok API, allowing seamless switching between AI models in VS Code or Claude Code.

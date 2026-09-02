@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-02T16:54:06Z"
 ---
 ## What it is
 Enables creating RPG Maker MZ games using natural language through AI assistance, with tools for project management, map creation, event systems, and batch operations.

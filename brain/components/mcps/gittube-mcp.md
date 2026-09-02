@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T03:52:03Z"
 ---
 ## What it is
 MCP server for downloading videos and audio from 1000+ sites, with YouTube search, playlist support, and tools for video/audio extraction, compatible with Claude, Cursor, and other AI agents.

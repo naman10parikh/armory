@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T00:07:04Z"
 ---
 ## What it is
 Local MCP tool for understanding JSON Schema files while planning tests, summarizing types, required fields, constraints, and generating placeholder paths without copying data.

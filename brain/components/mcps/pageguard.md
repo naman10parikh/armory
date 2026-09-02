@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T01:16:42Z"
 ---
 ## What it is
 MCP server `PageGuard`, catalogued on PulseMCP. Scans websites for privacy compliance issues, detecting tracking technologies, cookie problems, and data gaps that could create regulatory risk.

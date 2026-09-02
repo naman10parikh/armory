@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-27T09:05:36Z"
 ---
 ## What it is
 MCP server `Figma Design Processor`, catalogued on PulseMCP. Transforms Figma designs into structured data for React implementation, providing tools to extract component details, styles, and layout properties through the Figma API.

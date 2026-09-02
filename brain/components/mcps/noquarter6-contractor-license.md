@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T02:22:12Z"
 ---
 ## What it is
 MCP server `Contractor License Verification`, catalogued on PulseMCP. Verify contractor licenses across all US states and DC, including status, expiration, and disciplinary history.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T08:13:37Z"
 ---
 ## What it is
 MCP server that provides secure read-only access to a local folder, enabling file listing, reading, semantic search (RAG), and indexing status via natural language, integrated with Claude Desktop and a custom agent loop.

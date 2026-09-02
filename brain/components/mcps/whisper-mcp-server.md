@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-01-12T01:13:09Z"
 ---
 ## What it is
 Provides local audio transcription using whisper.cpp, supporting multiple models and audio formats. Enables transcription of audio files via MCP tools with optional timestamps.

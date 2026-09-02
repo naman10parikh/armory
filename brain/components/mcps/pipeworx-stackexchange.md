@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:43:18Z"
 ---
 ## What it is
 MCP server `Pipeworx StackExchange`, catalogued on PulseMCP. Wraps the StackExchange API v2.3 for searching questions, answers, and tags across Stack Overflow and sister sites.

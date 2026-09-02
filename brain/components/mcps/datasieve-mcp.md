@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T12:45:33Z"
 ---
 ## What it is
 Enables AI agents to create on-chain and web monitors, dead-man switches, cron triggers, and multi-agent coordination with pay-per-use x402 payments.

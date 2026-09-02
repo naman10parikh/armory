@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
 stars: 4
+forks: 2
+pushed_at: "2026-02-19T17:28:58Z"
 ---
 ## What it is
 Unified job aggregator for AI agents across 9+ platforms (x402, RentAHuman, Virtuals, etc).

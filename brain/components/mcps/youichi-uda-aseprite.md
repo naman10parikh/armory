@@ -8,10 +8,12 @@ source_url: https://github.com/youichi-uda/aseprite-mcp-pro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-20T17:18:49Z"
 ---
 ## What it is
 MCP server `Aseprite`, catalogued on PulseMCP. MCP server for controlling Aseprite pixel art editor, enabling AI assistants to create and edit sprites and animations.

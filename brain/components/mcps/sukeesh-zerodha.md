@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-29T01:34:11Z"
 ---
 ## What it is
 MCP server `Zerodha`, catalogued on PulseMCP. Provides a bridge to the Zerodha trading platform API, enabling real-time market data access, portfolio monitoring, and trading information retrieval through over 20 specialized tools for stock holdings, positions, order margins, and mutual fund details.

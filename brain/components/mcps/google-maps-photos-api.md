@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T00:03:48Z"
 ---
 ## What it is
 MCP server for extracting Google Maps photos as structured JSON, supporting search by place name, URL, or ID, with category filters and stable photo IDs. Enables users to pull full-size image URLs, thumbnails, and gallery metadata for any business or landmark directly through natural language.

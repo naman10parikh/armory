@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-09T13:17:45Z"
 ---
 ## What it is
 Enables MCP agents to control Keenetic routers via plain language, providing network monitoring, device management, and safe configuration changes with backup and read-only options.

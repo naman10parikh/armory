@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-08T06:54:08Z"
 ---
 ## What it is
 Provides cross-session memory for Claude Code by extracting structured handoffs at session end and retrieving relevant past context at session start.

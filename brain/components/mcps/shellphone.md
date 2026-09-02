@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T22:40:46Z"
 ---
 ## What it is
 Bridges Claude Code and Claude Chat by exposing session digests as MCP resources and allowing instruction queuing from Chat to Code.

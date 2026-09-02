@@ -8,10 +8,12 @@ source_url: https://github.com/faxioman/code-sage
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-19T12:19:46Z"
 ---
 ## What it is
 MCP server `Code Sage`, catalogued on PulseMCP. Provides high-performance semantic code search combining BM25 keyword search with vector embeddings and RRF reranking, using AST-based chunking to intelligently split code into semantic units across 60+ programming languages for natural language code exploration and analysis.

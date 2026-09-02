@@ -12,6 +12,8 @@ stars: 93
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-04-13T13:04:14Z"
 ---
 ## What it is
 MCP server `Manus`, catalogued on PulseMCP. Orchestrates specialized agents for collaborative task execution with file operations, shell commands, and browser automation capabilities through a TypeScript-based API.

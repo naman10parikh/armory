@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-19T18:50:37Z"
 ---
 ## What it is
 MCP server `LayerZero OFT`, catalogued on PulseMCP. Deploys and manages LayerZero OFT tokens across multiple blockchain networks with automated cross-chain bridging, consistent address deployment using CREATE2 factories, and seamless token transfers between Arbitrum Sepolia and Base Sepolia testnets.

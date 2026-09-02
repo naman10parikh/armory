@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-19T11:35:13Z"
 ---
 ## What it is
 MCP server `CloudZero`, catalogued on PulseMCP. Integrates with CloudZero's v2 API to enable direct querying of cloud cost data, dimensions, budgets, and insights for financial teams analyzing spending patterns and optimization opportunities.

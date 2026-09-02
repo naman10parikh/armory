@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T17:57:44Z"
 ---
 ## What it is
 An MCP server that enables agent-driven LinkedIn outreach across multiple accounts, with a safety gate for human approval and LLM-powered personalization.

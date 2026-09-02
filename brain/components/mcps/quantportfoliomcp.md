@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T19:15:56Z"
 ---
 ## What it is
 MCP server for quantitative portfolio optimization and analysis, providing tools for market data ingestion, covariance estimation, portfolio construction (mean-variance, Black-Litterman, HRP, CVaR, regularized), risk attribution, and statistical analysis to AI assistants.

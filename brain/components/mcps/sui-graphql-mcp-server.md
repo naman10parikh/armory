@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-31T15:26:23Z"
 ---
 ## What it is
 Query the Sui blockchain directly from Claude using GraphQL.

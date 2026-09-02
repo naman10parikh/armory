@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-03T08:39:50Z"
 ---
 ## What it is
 A high-performance MCP server for Trello integration with 97% token reduction through intelligent response optimization, enabling efficient board, card, and list management.

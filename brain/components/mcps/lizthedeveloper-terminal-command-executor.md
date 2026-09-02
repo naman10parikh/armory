@@ -8,10 +8,12 @@ source_url: https://github.com/lizthedeveloper/terminal-mcp-idk
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-02T16:59:31Z"
 ---
 ## What it is
 MCP server `Terminal Command Executor`, catalogued on PulseMCP. Provides secure command-line access for executing shell commands with TypeScript validation, returning structured output and error streams through a lightweight stdio-based server.

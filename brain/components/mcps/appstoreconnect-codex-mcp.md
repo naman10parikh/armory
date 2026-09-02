@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T08:20:57Z"
 ---
 ## What it is
 Enables read-only interaction with App Store Connect via MCP tools, including listing apps, versions, builds, and review submissions, with compliance boundaries and no write operations by default.

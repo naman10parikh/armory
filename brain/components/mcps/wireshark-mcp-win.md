@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T04:16:51Z"
 ---
 ## What it is
 Wireshark MCP server for Windows that enables AI agents to capture live packets, analyze pcap files, apply display filters, reassemble TCP/UDP streams, generate statistics, and export packets or protocol objects.

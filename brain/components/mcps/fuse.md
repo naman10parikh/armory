@@ -8,12 +8,14 @@ source_url: https://github.com/Litenova-Solutions/Fuse
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 33
+stars: 34
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 1
+forks: 2
+pushed_at: "2026-07-30T22:28:43Z"
 ---
 ## What it is
 A local .NET MCP server for coding agents, providing persistent semantic indexing, typed-graph DI wiring resolution, reduced context, and compiler-backed verification for .NET projects.

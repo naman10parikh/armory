@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:32:50Z"
 ---
 ## What it is
 MCP server `Color Palette Generator`, catalogued on PulseMCP. Generates harmonious color palettes using complementary, analogous, and triadic color theory from a seed color.

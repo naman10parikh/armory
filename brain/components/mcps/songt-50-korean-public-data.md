@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-08T23:59:41Z"
 ---
 ## What it is
 MCP server `Korean Public Data`, catalogued on PulseMCP. Korean government open data for weather, real estate prices, air quality, economic statistics, and business registration via data.go.kr.

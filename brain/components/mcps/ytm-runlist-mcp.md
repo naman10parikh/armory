@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T16:04:50Z"
 ---
 ## What it is
 Local MCP server that reorders YouTube Music playlists for running, using YouTube Data API to read, validate, and reorder tracks with dry-run and safe copy creation.

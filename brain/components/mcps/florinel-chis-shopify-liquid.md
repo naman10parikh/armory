@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-24T13:53:38Z"
 ---
 ## What it is
 MCP server `Shopify Liquid`, catalogued on PulseMCP. Provides searchable access to Shopify's Liquid templating language documentation using SQLite full-text search across filters, objects, and tags

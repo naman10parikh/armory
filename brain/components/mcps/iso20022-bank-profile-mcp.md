@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T10:14:57Z"
 ---
 ## What it is
 A fully local, closed-world MCP server that manages, validates, and serves bank-specific ISO 20022 clearing profiles and rule packs, enabling AI agents to discover profiles, fetch them, lint payloads against them, and validate rule-pack definitions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T01:34:38Z"
 ---
 ## What it is
 A self-synthesizing AI knowledge wiki that provides a read-only MCP surface for external agents to trace the wiki content and graph.

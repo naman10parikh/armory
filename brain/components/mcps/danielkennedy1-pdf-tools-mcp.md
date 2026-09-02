@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 31
+forks: 11
+pushed_at: "2025-05-17T13:05:26Z"
 ---
 ## What it is
 PDF download, view & manipulation utilities.

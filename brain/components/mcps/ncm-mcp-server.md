@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T15:18:01Z"
 ---
 ## What it is
 MCP server for NetEase Cloud Music, enabling Claude to search songs, add and switch tracks, accept listen-together invites, and send private messages via encrypted API calls.

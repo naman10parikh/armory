@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-11T23:56:54Z"
 ---
 ## What it is
 A personal assistant MCP server that integrates Todoist, Anki, Obsidian, and Google Calendar to help you learn, organize, and stay productive through natural language interactions.

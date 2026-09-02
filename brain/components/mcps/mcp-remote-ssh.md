@@ -8,11 +8,13 @@ source_url: https://github.com/faizbawa/mcp-remote-ssh
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T06:29:20Z"
 ---
 ## What it is
 MCP server giving AI agents full SSH access with persistent sessions, structured command output, SFTP file transfer, and port forwarding.

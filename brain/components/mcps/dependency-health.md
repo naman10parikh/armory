@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-08T20:19:07Z"
 ---
 ## What it is
 An MCP server that performs comprehensive health checks on project dependencies for JavaScript and Python projects, detecting outdated packages and fetching changelogs.

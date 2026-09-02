@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T00:19:25Z"
 ---
 ## What it is
 Provides a local, isolated Linux VM sandbox for AI agents using Apple's Virtualization.framework, enabling fast command execution (~60ms) and package management without cloud costs.

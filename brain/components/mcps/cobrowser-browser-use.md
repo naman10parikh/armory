@@ -8,10 +8,12 @@ source_url: https://github.com/kontext-security/browser-use-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 822
+stars: 843
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 115
+pushed_at: "2026-05-20T20:43:30Z"
 ---
 ## What it is
 MCP server `Browser Use`, catalogued on PulseMCP. Provides an async browser automation server using OpenAI's GPT-4o model, enabling remote web navigation, content extraction, and task execution with configurable browser contexts.

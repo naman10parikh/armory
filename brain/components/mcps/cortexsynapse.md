@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-20T09:49:09Z"
 ---
 ## What it is
 A robust MCP server that bridges AI development tools with Palo Alto Cortex platforms (XSOAR/XSIAM), enabling natural language-driven development, testing, and automation of security workflows.

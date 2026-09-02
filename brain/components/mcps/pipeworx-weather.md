@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:34:39Z"
 ---
 ## What it is
 MCP server `Pipeworx Weather`, catalogued on PulseMCP. Real-time weather conditions and multi-day forecasts via Open-Meteo, with no API key required.

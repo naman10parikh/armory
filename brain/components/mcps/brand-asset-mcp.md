@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T16:09:03Z"
 ---
 ## What it is
 A shareable, lightweight MCP server for managing corporate brand assets, logos, color design tokens, social media templates, and image watermarking across multiple locations and platforms.

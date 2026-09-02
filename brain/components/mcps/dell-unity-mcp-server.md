@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-12T10:40:10Z"
 ---
 ## What it is
 An MCP server for Dell Unity storage arrays that automatically generates tools from OpenAPI specifications, enabling AI assistants like Claude and n8n to interact with Unity storage systems without storing credentials.

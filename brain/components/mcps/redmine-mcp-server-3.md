@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T12:45:28Z"
 ---
 ## What it is
 Enables AI agents to interact with Redmine project management tool via its API, supporting issue creation, updates, search, and attachment operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T04:36:17Z"
 ---
 ## What it is
 Assesses event safety by providing prioritized actions, documentation needs, risk factors, and applicable regulations based on event conditions such as venue, crowd size, and setup.

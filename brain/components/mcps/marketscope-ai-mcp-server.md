@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-07-05T18:12:03Z"
 ---
 ## What it is
 Enables AI-powered analysis of healthcare market segments, product comparisons, and sales data insights using natural language processing and retrieval-augmented generation.

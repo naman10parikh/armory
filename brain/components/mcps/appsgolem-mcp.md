@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T00:03:52Z"
 ---
 ## What it is
 Enables AI agents to cut YouTube clips programmatically via the AppsGolem API, supporting multiple formats, batch cuts, and direct download URLs.

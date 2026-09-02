@@ -8,11 +8,13 @@ source_url: https://github.com/sun7singh/spark-sense-ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T06:23:53Z"
 ---
 ## What it is
 MCP server that diagnoses Apache Spark job failures and optimizes performance using stack-trace analysis and LLM providers, supporting EMR and local sources.

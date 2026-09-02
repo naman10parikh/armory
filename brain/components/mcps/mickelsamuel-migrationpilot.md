@@ -8,10 +8,12 @@ source_url: https://github.com/mickelsamuel/migrationpilot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T19:46:24Z"
 ---
 ## What it is
 MCP server `MigrationPilot`, catalogued on PulseMCP. Static analysis tool for PostgreSQL schema migrations with 83 safety rules and auto-fix capabilities.

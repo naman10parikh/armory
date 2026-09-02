@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T06:36:50Z"
 ---
 ## What it is
 An MCP server for Kvindo Cloud that lets AI clients list, inspect, create, update, and delete cloud resources (VMs, volumes, Kubernetes, etc.) via natural language. Read-only by default, with write/delete operations gated by explicit opt-in environment variables.

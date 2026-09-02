@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T02:56:53Z"
 ---
 ## What it is
 Exposes a JEPA latent world model for planning in a 2D point-mass environment via MCP tools like encode_observation, predict_rollout, and plan_to_goal.

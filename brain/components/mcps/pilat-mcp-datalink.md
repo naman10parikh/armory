@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T20:07:13Z"
 ---
 ## What it is
 MCP server for PostgreSQL, MySQL, and SQLite that gives AI assistants secure database access via the Model Context Protocol.

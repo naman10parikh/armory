@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T09:51:05Z"
 ---
 ## What it is
 An MCP server for Adobe After Effects that enables AI assistants to create premium showreels with professional motion design techniques.

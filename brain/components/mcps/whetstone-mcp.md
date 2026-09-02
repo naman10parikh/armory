@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T03:36:48Z"
 ---
 ## What it is
 An MCP server for U.S. public-records data, enabling AI agents to search business registrations, screen names against government watchlists, and pull federal awards.

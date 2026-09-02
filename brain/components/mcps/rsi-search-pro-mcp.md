@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T19:35:24Z"
 ---
 ## What it is
 A meta-MCP server that aggregates authoritative web search and browser research tools, providing a unified interface with a cost-efficient fetch ladder for web research.

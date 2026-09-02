@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:28:56Z"
 ---
 ## What it is
 Enables reading and searching emails in Microsoft Outlook classic on Windows via COM, with tools for listing folders, searching mail, reading messages and threads, and extracting attachments.

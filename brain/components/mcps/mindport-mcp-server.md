@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-17T08:24:50Z"
 ---
 ## What it is
 Enables AI systems to store and search resources with fuzzy search, regex, and tag filtering, with domain isolation and prompt template management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T08:20:45Z"
 ---
 ## What it is
 A self-hosted remote MCP server for Azure DevOps that bridges OAuth 2.1 between MCP clients and Microsoft Entra ID, enabling any OAuth-capable client (e.g., Claude Code, Claude Desktop) to access Azure DevOps resources.

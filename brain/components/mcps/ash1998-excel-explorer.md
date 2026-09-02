@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-02T06:49:25Z"
 ---
 ## What it is
 MCP server `Excel Explorer`, catalogued on PulseMCP. Provides Excel file analysis through pandas-powered tools for loading spreadsheets, extracting schemas, sampling data, generating statistics, and assessing data quality to enable quick dataset exploration without manual navigation.

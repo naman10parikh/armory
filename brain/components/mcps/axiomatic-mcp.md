@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-09-01T16:26:46Z"
 ---
 ## What it is
 MCP server enabling AI assistants to access the Axiomatic_AI Platform for scientific computing, document processing, and photonic circuit design.

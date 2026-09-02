@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T05:26:03Z"
 ---
 ## What it is
 Enables publishing markdown blog posts directly to Dev.to as drafts or live articles through a single MCP tool, with support for tags, series, canonical URL, and cover image.

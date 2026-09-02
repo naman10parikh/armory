@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T00:50:53Z"
 ---
 ## What it is
 Provides AI coding agents with real-time visibility into local development runtime state, enabling them to tail application logs, inspect ports, monitor process metrics, and diagnose network errors.

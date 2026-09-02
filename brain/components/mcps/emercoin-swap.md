@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T11:36:46Z"
 ---
 ## What it is
 Keyless MCP exchanger for AI agents — pay an exact amount to one deposit address, EMC delivered to any address. USDT(Tron) > EMC. Live at https://swap.emercoin.com/mcp

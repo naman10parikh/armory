@@ -8,10 +8,12 @@ source_url: https://github.com/last9/last9-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-28T10:58:22Z"
 ---
 ## What it is
 MCP server `Last9 Observability`, catalogued on PulseMCP. Integrates with Last9's observability platform to enable exception retrieval and service dependency analysis for efficient troubleshooting within monitoring environments.

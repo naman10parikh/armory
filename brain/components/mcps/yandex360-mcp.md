@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T15:50:22Z"
 ---
 ## What it is
 MCP server that enables AI assistants to interact with Yandex 360 organization services, currently supporting Yandex Wiki for reading, editing, and searching pages.

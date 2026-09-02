@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T06:38:36Z"
 ---
 ## What it is
 MCP server for creating and taking ENEM exams with official questions, including progress tracking, scoring, and interactive UI in MCP-compatible clients.

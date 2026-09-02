@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T14:21:24Z"
 ---
 ## What it is
 A local-first MCP server providing secure workspace file operations, offline full-text search, and web search/fetch capabilities without requiring API keys.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-04T21:23:43Z"
 ---
 ## What it is
 MCP server `WordPress.org Trac`, catalogued on PulseMCP. Integrates with WordPress.org Trac instances across Core, Meta, Plugins, Themes, bbPress, BuddyPress, and GlotPress to search tickets, retrieve detailed information with comments, access changeset diffs, monitor timeline activity, and query metadata.

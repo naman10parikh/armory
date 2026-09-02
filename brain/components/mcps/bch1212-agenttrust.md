@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T13:42:24Z"
 ---
 ## What it is
 MCP server `AgentTrust`, catalogued on PulseMCP. Trust scores and reputation infrastructure for agent-to-agent transactions — register identities, record transactions, and verify counterparty trust.

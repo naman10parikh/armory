@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:58:18Z"
 ---
 ## What it is
 Enables searching and retrieving Australian open government data from data.gov.au via CKAN API, including datasets, organizations, groups, tags, and resources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T16:16:06Z"
 ---
 ## What it is
 An image recognition MCP server based on mimo-v2.5, enabling AI assistants to describe images, extract text via OCR, and output structured information in JSON or table format.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T13:07:37Z"
 ---
 ## What it is
 A governed SQL gateway that exposes typed tools to AI agents, compiling safe read-only queries from a semantic layer while blocking PII before execution, supporting SQL Server, Postgres, and SQLite.

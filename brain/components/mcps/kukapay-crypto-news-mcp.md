@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 16
+stars: 15
+forks: 11
+pushed_at: "2025-12-10T10:47:52Z"
 ---
 ## What it is
 An MCP server that provides real-time cryptocurrency news sourced from NewsData for AI agents.

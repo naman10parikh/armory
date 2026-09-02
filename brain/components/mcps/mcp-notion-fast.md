@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T18:26:50Z"
 ---
 ## What it is
 A lightweight MCP server for Notion that enables natural language management of pages, databases, and blocks through the current Notion API.

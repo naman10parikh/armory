@@ -8,10 +8,12 @@ source_url: https://github.com/cnych/seo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 244
+stars: 257
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 41
+pushed_at: "2025-04-14T13:26:19Z"
 ---
 ## What it is
 MCP server `Backlinks (Ahrefs)`, catalogued on PulseMCP. Retrieves detailed backlink data from Ahrefs including anchor text, domain rating, and URL information for SEO analysis and link building strategies.

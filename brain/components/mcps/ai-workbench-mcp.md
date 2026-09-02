@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T17:03:45Z"
 ---
 ## What it is
 Enables acceptance gates for AI coding-agent runs by recording evidence, running deterministic validation, applying a quality gate, and rendering auditable outcomes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-11T06:22:40Z"
 ---
 ## What it is
 Enables AI agents to search and analyze federal government contract opportunities and awards from SAM.gov and USASpending.gov, with tools for contract search, detail, agency spending, and trending sectors.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-04T21:41:07Z"
 ---
 ## What it is
 Provides comprehensive NBA statistics via Model Context Protocol, enabling queries for player stats, game scores, team info, and advanced analytics through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T16:41:55Z"
 ---
 ## What it is
 Enables creating, updating, deleting, and managing projects, tasks, financial plans, OKRs, and work hierarchy nodes in Planview Portfolios through natural language. Designed as the write-action companion to the read-only Planview Portfolios Beta MCP.

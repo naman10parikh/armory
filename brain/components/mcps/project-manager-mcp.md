@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-03T02:01:22Z"
 ---
 ## What it is
 Enables AI agents to manage projects, epics, and tasks with atomic locking, real-time dashboard, and multi-agent coordination.

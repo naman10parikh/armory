@@ -8,10 +8,12 @@ source_url: https://github.com/everaldo/mcp-mistral-ocr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-02-21T11:50:32Z"
 ---
 ## What it is
 MCP server `Mistral OCR`, catalogued on PulseMCP. Processes images and PDFs through Mistral AI's OCR API to extract text from visual documents, supporting both local files and URLs with Docker containerization for easy deployment.

@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2024-12-27T05:04:30Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. Integrates Gmail functionality, enabling email search, message retrieval, and attachment downloads via Google Apps Script.

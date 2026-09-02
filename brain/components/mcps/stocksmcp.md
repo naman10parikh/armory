@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T18:52:11Z"
 ---
 ## What it is
 AI-powered stock research MCP server with real-time data, CRUD operations, and interactive dashboard for fundamental analysis and comparisons.

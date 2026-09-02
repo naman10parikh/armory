@@ -8,10 +8,12 @@ source_url: https://github.com/xdevplatform/xmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 780
+stars: 853
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 127
+pushed_at: "2026-04-09T19:59:20Z"
 ---
 ## What it is
 MCP server `X API`, catalogued on PulseMCP. Exposes the X API as MCP tools, enabling posting, searching, and managing content on X (formerly Twitter).

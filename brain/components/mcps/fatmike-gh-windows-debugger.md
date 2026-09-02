@@ -8,10 +8,12 @@ source_url: https://github.com/fatmike-gh/mcpdebugger
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-01T10:49:59Z"
 ---
 ## What it is
 MCP server `Windows Debugger`, catalogued on PulseMCP. Native Windows debugger with breakpoint management, memory inspection, disassembly analysis, and PE file examination for reverse engineering workflows

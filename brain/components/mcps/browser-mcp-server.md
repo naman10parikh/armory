@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-01T21:27:23Z"
 ---
 ## What it is
 A universal browser automation MCP server using Playwright, enabling programmatic control of Chrome with 63 tools for navigation, interaction, media control, and CDP-based diagnostics.

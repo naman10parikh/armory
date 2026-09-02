@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-08T06:43:48Z"
 ---
 ## What it is
 MCP server `Apache Superset`, catalogued on PulseMCP. Bridges Apache Superset with TypeScript to enable direct interaction with data visualization dashboards, allowing querying, analysis, and visualization without context switching.

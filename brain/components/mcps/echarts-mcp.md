@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T19:10:36Z"
 ---
 ## What it is
 A Model Context Protocol server that renders Apache ECharts options to SVG, enabling AI agents to generate deterministic charts server-side without a browser.

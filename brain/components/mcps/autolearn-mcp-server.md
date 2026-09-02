@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-12-16T01:02:31Z"
 ---
 ## What it is
 An MCP server that enables AI agents to dynamically create and reuse executable skills (Python functions) from natural language descriptions, with automatic skill crystallization and real-time MCP spec updates.

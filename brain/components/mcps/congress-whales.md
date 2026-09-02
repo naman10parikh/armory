@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T03:32:43Z"
 ---
 ## What it is
 Connects Claude to live U.S. Congress stock trades and institutional 13F holdings from free public sources, enabling natural language queries about political insider trading and fund overlap.

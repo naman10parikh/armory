@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T11:48:54Z"
 ---
 ## What it is
 Enables LLMs to inspect and search mock transcripts through MCP tools and resources. Supports listing, fetching, and searching transcripts with filters on participants, tags, and content.

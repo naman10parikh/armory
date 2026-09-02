@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T23:37:10Z"
 ---
 ## What it is
 Enables querying MyAnimeList data (anime search, rankings, seasonal anime, user lists) via natural language through the Model Context Protocol.

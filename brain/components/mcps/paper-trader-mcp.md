@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T06:40:13Z"
 ---
 ## What it is
 A simulation-only MCP server for recording US-equity order intents and estimating outcomes from historical Alpaca NBBO quotes, without placing live orders.

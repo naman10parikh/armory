@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T05:50:51Z"
 ---
 ## What it is
 Provides coding agents with compressed failure context via MCP, reducing the need to parse full raw logs.

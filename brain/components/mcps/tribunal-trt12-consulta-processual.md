@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:01Z"
 ---
 ## What it is
 MCP server that enables read-only, pay-per-use consultation of official court case information from Brazil's TRT12 labor court (Tribunal Regional do Trabalho da 12ª Região) via a single tool, compatible with any MCP-over-HTTP client such as Claude, ChatGPT, and Cursor.

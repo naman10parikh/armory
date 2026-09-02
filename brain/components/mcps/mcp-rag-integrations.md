@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T06:46:32Z"
 ---
 ## What it is
 Enables modular retrieval-augmented generation with multiple data sources (documents, FAQ, status) and dynamic routing using Gemini or fallback.

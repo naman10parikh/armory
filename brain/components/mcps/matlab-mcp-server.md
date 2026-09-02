@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-11-01T06:01:33Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that enables seamless integration between MATLAB and MCP-compatible applications like Claude Code, allowing execution of MATLAB code, workspace management, plotting, and data I/O.

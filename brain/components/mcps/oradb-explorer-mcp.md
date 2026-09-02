@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T18:39:34Z"
 ---
 ## What it is
 Enables read-only exploration of Oracle databases through natural language, providing schema inspection and safe bounded SQL query execution.

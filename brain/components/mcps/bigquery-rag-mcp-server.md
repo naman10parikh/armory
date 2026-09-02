@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T21:30:05Z"
 ---
 ## What it is
 A private MCP server that converts natural-language questions into embeddings and performs semantic retrieval over document chunks stored in BigQuery, returning structured passages with source and page metadata. It serves as the read-only retrieval layer for a document-grounded chatbot.

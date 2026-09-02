@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-10T05:09:24Z"
 ---
 ## What it is
 MCP server `Jakarta Migration`, catalogued on PulseMCP. Automates Java EE to Jakarta EE migrations with dependency analysis, namespace refactoring from javax.* to jakarta.* packages, and runtime compatibility verification using OpenRewrite recipes.

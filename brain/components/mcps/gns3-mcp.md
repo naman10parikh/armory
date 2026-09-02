@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T22:34:21Z"
 ---
 ## What it is
 Enables AI agents to control GNS3 network emulation labs. Supports building topologies, managing devices, capturing packets, and automating device CLIs.

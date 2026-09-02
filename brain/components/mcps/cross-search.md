@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T15:22:29Z"
 ---
 ## What it is
 Enables multi-engine parallel search with cross-validation, combining Brave, Tavily, DuckDuckGo, Wikipedia, Bing, and Mojeek, and labeling results with confidence levels based on engine agreement.

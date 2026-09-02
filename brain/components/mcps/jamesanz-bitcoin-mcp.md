@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 4
+forks: 4
+pushed_at: "2025-12-10T04:24:01Z"
 ---
 ## What it is
 An MCP server that enables AI models to query the Bitcoin blockchain.

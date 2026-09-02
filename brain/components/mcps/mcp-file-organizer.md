@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T02:53:57Z"
 ---
 ## What it is
 Enables AI-driven file organization by listing and moving files into structured folders by extension and modification date, based on natural language requests, without reading file contents.

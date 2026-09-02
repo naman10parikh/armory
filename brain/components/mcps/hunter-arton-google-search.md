@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-06T11:45:59Z"
 ---
 ## What it is
 MCP server `Google Search`, catalogued on PulseMCP. Provides Google web and image search capabilities through the Custom Search API, enabling access to current internet information with pagination and filtering options.

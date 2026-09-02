@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T07:58:39Z"
 ---
 ## What it is
 A local MCP server for querying MQL5 documentation, including reference, algo book, and neural networks book, with tools for search, smart query, error diagnosis, and browsing.

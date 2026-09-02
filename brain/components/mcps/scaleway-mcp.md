@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T20:52:40Z"
 ---
 ## What it is
 A comprehensive MCP server for the Scaleway cloud platform, enabling AI agents to inspect and manage cloud infrastructure through 155+ tools across compute, storage, networking, and platform services.

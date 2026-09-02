@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T12:03:43Z"
 ---
 ## What it is
 Crypto-native LLM gateway with OpenAI-compatible API and per-token USDC payments on Solana via the x402 protocol.

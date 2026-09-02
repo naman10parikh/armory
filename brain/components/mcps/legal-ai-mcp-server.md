@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T11:12:43Z"
 ---
 ## What it is
 Provides AI-powered legal tools including contract review, drafting, legal research, document summarization, and compliance checks via OpenRouter.

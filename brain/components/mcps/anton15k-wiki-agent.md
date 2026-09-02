@@ -8,10 +8,12 @@ source_url: https://github.com/anton15k/llm_wiki_agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-20T13:01:16Z"
 ---
 ## What it is
 MCP server `Wiki Agent`, catalogued on PulseMCP. MCP server for personal wiki and knowledge management that converts URLs, PDFs, audio, and video into Obsidian notes.

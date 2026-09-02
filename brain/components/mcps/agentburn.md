@@ -8,11 +8,13 @@ source_url: https://github.com/Socialpranker/agentburn
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-31T17:01:52Z"
 ---
 ## What it is
 Enables AI agents to self-audit their token usage and costs, providing burn reports, forensics, and optimization recommendations via MCP.

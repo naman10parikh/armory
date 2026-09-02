@@ -8,10 +8,12 @@ source_url: https://github.com/eleven-mouse/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T02:35:52Z"
 ---
 ## What it is
 MCP server `eleven-mouse Project Analyzer`, catalogued on PulseMCP. Pure Java MCP server for project code analysis including stats, dependencies, complexity, and PDF processing.

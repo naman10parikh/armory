@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-18T07:07:20Z"
 ---
 ## What it is
 MCP server `AER-MCP (American Economic Association Journals)`, catalogued on PulseMCP. Enables AI assistants to search and extract information from American Economic Association journals with filtering by title, abstract, author, and JEL classification for economic research and literature reviews.

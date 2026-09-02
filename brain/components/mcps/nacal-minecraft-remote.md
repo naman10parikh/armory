@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-01-12T07:50:06Z"
 ---
 ## What it is
 MCP server `Minecraft Remote`, catalogued on PulseMCP. Enables AI-assisted remote control and manipulation of Minecraft servers through natural language commands, supporting complex navigation, world interaction, and gameplay automation tasks.

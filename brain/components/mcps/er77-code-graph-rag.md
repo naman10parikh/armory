@@ -8,10 +8,12 @@ source_url: https://github.com/er77/code-graph-rag-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 117
+stars: 121
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2026-06-12T19:37:20Z"
 ---
 ## What it is
 MCP server `Code Graph RAG`, catalogued on PulseMCP. Provides advanced code graph analysis through specialized agents for parsing, indexing, querying, and semantic search across codebases with Tree-sitter parsing for multiple languages, SQLite vector storage, and hybrid search combining structural graph traversal with semantic similarity for code review workflows, refactoring analysis, and natural language codebase understanding.

@@ -8,11 +8,13 @@ source_url: https://github.com/alondmnt/joplin-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 167
+stars: 168
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-08-19T09:53:42Z"
 ---
 ## What it is
 Enables AI assistants to interact with Joplin notes, notebooks, and tags through a standardized MCP interface, supporting CRUD operations, search, and organization.

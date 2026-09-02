@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T22:21:18Z"
 ---
 ## What it is
 Enables LLM assistants to query Monday.com boards, groups, items, and columns via a cached SQLite-backed sync engine, minimizing API calls.

@@ -8,10 +8,12 @@ source_url: https://github.com/shadowcz007/mcp_server_exe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 148
+stars: 160
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2025-08-21T04:39:41Z"
 ---
 ## What it is
 MCP server `Shadow MCP Server`, catalogued on PulseMCP. Standalone MCP server executable for Windows, macOS, and other platforms that uses JavaScript configuration files to define resources, tools, and prompts without requiring Node.js installation.

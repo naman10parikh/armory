@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T12:21:55Z"
 ---
 ## What it is
 MCP server that enables AI agents to manage tasks, boards, lists, and comments on a Kanban-style project management system through JSON-RPC methods.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T15:47:19Z"
 ---
 ## What it is
 Enables burning optical media via the K3b CLI. Supports listing drives, burning data discs, and executing arbitrary k3bcli commands.

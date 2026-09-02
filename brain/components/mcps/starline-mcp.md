@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T20:31:10Z"
 ---
 ## What it is
 MCP server for controlling StarLine car alarms via AI agents like Claude, providing read-only tools and command tools with human confirmation.

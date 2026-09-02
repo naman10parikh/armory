@@ -8,10 +8,12 @@ source_url: https://github.com/hydrocoderclaud/mcphydrossh
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-14T04:27:23Z"
 ---
 ## What it is
 MCP server `HydroSSH`, catalogued on PulseMCP. SSH remote server management with persistent connections for Claude Code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T02:48:09Z"
 ---
 ## What it is
 Provides aggregated plugin index data from GitHub and npm as an MCP server, enabling search, stats, and sync via natural language or commands.

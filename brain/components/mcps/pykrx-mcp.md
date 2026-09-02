@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-01T02:52:09Z"
 ---
 ## What it is
 Provides Korean stock market data (KOSPI, KOSDAQ, KONEX) including prices, fundamentals, investor trading, short selling, and indices via MCP protocol, enabling natural language queries from AI agents like ChatGPT and Claude.

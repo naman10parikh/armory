@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-11T09:17:02Z"
 ---
 ## What it is
 MCP server `CO2 Sensor`, catalogued on PulseMCP. Simulates or interfaces with a CO2 sensor device, providing JSON-RPC endpoints for device information, sensor data, and network management with MQTT publishing capabilities for IoT applications.

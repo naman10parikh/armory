@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T00:02:54Z"
 ---
 ## What it is
 Bi-directional communication for Claude Code via Voice Calls, SMS, and WhatsApp, allowing users to call Claude, receive callbacks, and interact through multiple channels.

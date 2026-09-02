@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T10:14:07Z"
 ---
 ## What it is
 MCP server for Quackr, enabling virtual phone number management including balance checking, pricing, inventory, purchasing numbers, and reading SMS via Claude or any MCP-compatible client.

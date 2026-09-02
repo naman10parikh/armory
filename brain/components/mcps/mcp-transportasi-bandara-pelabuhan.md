@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T06:54:08Z"
 ---
 ## What it is
 Provides tools to search and retrieve detailed information about airports and seaports in Indonesia, including runways, radio frequencies, nearby airports, and port statistics.

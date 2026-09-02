@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-02-14T11:38:38Z"
 ---
 ## What it is
 Converts Markdown content into beautifully designed knowledge cards with customizable styles and sizes. Also supports fetching and converting WeChat public account articles to Markdown.

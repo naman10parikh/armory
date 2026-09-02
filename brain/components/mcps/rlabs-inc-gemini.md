@@ -8,10 +8,12 @@ source_url: https://github.com/rlabs-inc/gemini-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 199
+stars: 217
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 45
+pushed_at: "2026-07-08T00:12:46Z"
 ---
 ## What it is
 MCP server `Gemini`, catalogued on PulseMCP. Integrates Google Gemini 3 models for image generation, video creation, text-to-speech, code execution, and deep research.

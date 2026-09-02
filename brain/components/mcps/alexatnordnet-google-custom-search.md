@@ -8,10 +8,12 @@ source_url: https://github.com/limklister/mcp-google-custom-search-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-10-12T15:46:37Z"
 ---
 ## What it is
 MCP server `Google Custom Search`, catalogued on PulseMCP. Integrates the Google Custom Search API to enable web searches for retrieving and analyzing online content.

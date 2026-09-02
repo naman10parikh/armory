@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-10T10:52:46Z"
 ---
 ## What it is
 Enables Puppeteer-based web automation (navigation, screenshots, PDF generation, JavaScript execution, clicking) on Android Termux by running Chromium inside an Alpine Linux container.

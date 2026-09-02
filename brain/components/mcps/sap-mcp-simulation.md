@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T22:24:07Z"
 ---
 ## What it is
 Simulates and intermediates integrations with SAP via OData, exposing automated tools for AI agents and assistants.

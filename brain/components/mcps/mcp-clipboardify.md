@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-16T15:42:16Z"
 ---
 ## What it is
 Provides clipboard access tools (get and set) for AI assistants via the Model Context Protocol, enabling seamless clipboard operations across platforms.

@@ -12,6 +12,8 @@ stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-03-01T16:26:54Z"
 ---
 ## What it is
 MCP server `Sunsama`, catalogued on PulseMCP. Integrates Sunsama's task management and daily planning capabilities, enabling AI assistants to create, manage, and organize tasks through the Sunsama API.

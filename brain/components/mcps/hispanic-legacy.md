@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T10:03:47Z"
 ---
 ## What it is
 Provides a hosted, read-only MCP endpoint that answers questions about Spain's contributions to science, exploration, and culture using a knowledge graph where every claim is backed by cited sources and confidence scores. Enables agents to search, retrieve entities, explore related topics, and inspe

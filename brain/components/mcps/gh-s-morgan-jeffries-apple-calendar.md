@@ -8,10 +8,12 @@ source_url: https://github.com/s-morgan-jeffries/apple-calendar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T13:10:49Z"
 ---
 ## What it is
 MCP server `Apple Calendar`, catalogued on PulseMCP. Connects to Apple Calendar on macOS via AppleScript and EventKit for event management.

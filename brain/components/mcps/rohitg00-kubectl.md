@@ -8,10 +8,12 @@ source_url: https://github.com/rohitg00/kubectl-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 896
+stars: 956
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 181
+pushed_at: "2026-04-08T22:37:48Z"
 ---
 ## What it is
 MCP server `kubectl`, catalogued on PulseMCP. Enables natural language interaction with Kubernetes resources, allowing developers to manage clusters through conversational interfaces instead of complex kubectl commands.

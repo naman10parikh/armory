@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-30T09:43:34Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides AI assistants with seamless access to IBM Master Data Management (MDM) services through standardized REST API interactions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T04:02:55Z"
 ---
 ## What it is
 Lets Claude search Amazon products via multiple keyword queries and present curated results in an interactive carousel widget with add-to-cart functionality.

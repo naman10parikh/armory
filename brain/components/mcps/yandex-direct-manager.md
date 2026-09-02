@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T08:59:52Z"
 ---
 ## What it is
 MCP-коннектор для Яндекс Директа: управляйте кампаниями и аналитикой из Claude и ChatGPT — поиск лишних трат, ставки, бюджеты, минус-слова, аудит. Нужен аккаунт Direct Manager (app.marketscore.ru).

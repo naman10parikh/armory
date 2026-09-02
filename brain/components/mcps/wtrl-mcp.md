@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T07:59:47Z"
 ---
 ## What it is
 Assist LLM writing Waterloo Docstrings, a format with emphasis on machine-verifyable normativity.

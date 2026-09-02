@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T19:34:35Z"
 ---
 ## What it is
 Provides unified access to Turkish official data from TÜİK (statistics via SDMX) and TCMB EVDS (financial series), enabling search, query, and tidy CSV export with full frequency, aggregation, and formula support.

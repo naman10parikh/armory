@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-12T05:25:59Z"
 ---
 ## What it is
 MCP server `EPICS`, catalogued on PulseMCP. Provides direct access to EPICS Process Variables for monitoring and controlling scientific facilities, industrial automation, and laboratory equipment through get, set, and metadata retrieval operations with comprehensive error handling for network timeouts and connection issues.

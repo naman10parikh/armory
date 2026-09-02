@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T06:03:03Z"
 ---
 ## What it is
 MCP server for Codecks project management, providing 38 tools to manage cards, decks, milestones, tags, and workflows via the Model Context Protocol.

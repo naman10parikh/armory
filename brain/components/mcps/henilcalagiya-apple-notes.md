@@ -8,10 +8,12 @@ source_url: https://github.com/henilcalagiya/mcp-apple-notes
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-09-11T05:35:48Z"
 ---
 ## What it is
 MCP server `Apple Notes`, catalogued on PulseMCP. Full CRUD operations for Apple Notes using AppleScript automation

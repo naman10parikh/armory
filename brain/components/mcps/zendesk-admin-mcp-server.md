@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T20:01:04Z"
 ---
 ## What it is
 Enables full CRUD operations on Zendesk admin configurations like triggers, automations, macros, views, SLA policies, groups, ticket fields, forms, and webhooks, with a preview-confirm guard for destructive changes.

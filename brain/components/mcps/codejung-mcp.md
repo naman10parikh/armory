@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T00:55:07Z"
 ---
 ## What it is
 MCP server that exposes the self-hosted codeJung code-review service as tools, enabling PR and local directory reviews through any MCP client.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T03:22:12Z"
 ---
 ## What it is
 MCP server `Helm Chart Reader`, catalogued on PulseMCP. Read-only Helm chart data including versions, values schemas, dependencies, and release notes.

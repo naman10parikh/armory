@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-25T08:11:51Z"
 ---
 ## What it is
 MCP server `Web Audit`, catalogued on PulseMCP. Provides web-based security audit capabilities for Node.js projects by scanning package.json files, running npm audit commands, and generating structured markdown reports categorized by vulnerability severity levels for automated security assessment workflows.

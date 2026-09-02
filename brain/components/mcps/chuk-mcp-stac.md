@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-14T17:30:57Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for searching STAC catalogs, downloading satellite bands, and creating composites via 21 tools.

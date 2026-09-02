@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T11:05:59Z"
 ---
 ## What it is
 MCP server that finds open-source, commercially-usable icons and returns direct SVG download links, searching over 300,000 icons with license filtering.

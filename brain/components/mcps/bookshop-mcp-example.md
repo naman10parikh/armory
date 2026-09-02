@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T14:19:57Z"
 ---
 ## What it is
 Exposes a CAP bookshop service via MCP, enabling AI agents to query books, authors, and genres using natural language.

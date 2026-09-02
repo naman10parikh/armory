@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-17T04:02:08Z"
 ---
 ## What it is
 Transforms code repositories into interactive, themed adventures for exploration and learning through a Model Context Protocol server.

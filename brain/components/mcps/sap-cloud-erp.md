@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T13:31:56Z"
 ---
 ## What it is
 MCP server for SAP S/4HANA Cloud Public Edition that enables listing, reading, creating, updating, and executing actions on 14 business objects like purchase orders, sales orders, and production orders via OData APIs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-04T09:26:35Z"
 ---
 ## What it is
 Enables interaction with the CoreHub cloud platform to manage containers, EPFS filesystems, distributed training, and inference services through MCP tools.

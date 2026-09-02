@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T06:52:56Z"
 ---
 ## What it is
 An MCP server that lets AI assistants safely inspect and operate on Kubernetes clusters through natural conversation.

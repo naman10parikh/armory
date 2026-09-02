@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T21:40:39Z"
 ---
 ## What it is
 Enables AI clients to browse instruments, items, dimensions, expert assignments, and calculate Content Validity Index (CVI) via a standard MCP interface.

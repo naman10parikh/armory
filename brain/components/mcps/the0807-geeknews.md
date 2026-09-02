@@ -8,10 +8,12 @@ source_url: https://github.com/the0807/geeknews-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-13T05:48:56Z"
 ---
 ## What it is
 MCP server `GeekNews`, catalogued on PulseMCP. Retrieves and extracts tech news, articles, and discussions from GeekNews using BeautifulSoup for more informed conversations about current technology developments.

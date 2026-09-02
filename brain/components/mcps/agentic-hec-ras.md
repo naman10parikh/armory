@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T18:32:45Z"
 ---
 ## What it is
 MCP server that enables natural-language-driven, headless HEC-RAS modeling, letting agents inspect, edit, run, compare, and plot 1D/2D hydraulic models without the GUI.

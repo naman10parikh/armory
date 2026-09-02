@@ -8,10 +8,12 @@ source_url: https://github.com/dzikrihilman/kanban-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-26T15:44:50Z"
 ---
 ## What it is
 MCP server `Kanban Board`, catalogued on PulseMCP. Full-stack kanban project management with drag-and-drop board, dashboard analytics, sub-tasks, labels, comments, and 13 MCP tools for AI agent integration.

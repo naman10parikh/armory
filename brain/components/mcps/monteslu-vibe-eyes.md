@@ -8,10 +8,12 @@ source_url: https://github.com/monteslu/vibe-eyes
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-04T19:55:11Z"
 ---
 ## What it is
 MCP server `Vibe-Eyes`, catalogued on PulseMCP. Enables LLMs to visualize and debug browser-based games and applications by capturing canvas content, console logs, and errors, then processing visual data into compact SVG representations for seamless debugging.

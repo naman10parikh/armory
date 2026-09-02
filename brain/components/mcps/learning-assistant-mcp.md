@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T13:12:38Z"
 ---
 ## What it is
 A spaced-repetition study scheduler that syncs with Obsidian notes and uses SBB commute data to optimize study slots.

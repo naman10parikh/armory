@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T20:44:36Z"
 ---
 ## What it is
 Local-first evidence-backed repository memory for coding agents, providing read-only tools to list concepts, explain them, get governed context packs, and verify claims against the codebase.

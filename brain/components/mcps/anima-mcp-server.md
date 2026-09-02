@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-28T15:35:29Z"
 ---
 ## What it is
 Connects AI coding assistants to Anima Playground, Figma designs, and design systems, enabling handoff of designs to production code.

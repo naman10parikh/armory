@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-04T05:42:05Z"
 ---
 ## What it is
 Enables scraping Walmart product data, including product details, top products by category, and monitoring scraping tasks.

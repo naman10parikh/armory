@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-09T01:50:07Z"
 ---
 ## What it is
 Enables file operations such as counting, listing, compressing images, creating/extracting archives, copying/moving files, and merging/splitting PDFs via natural language.

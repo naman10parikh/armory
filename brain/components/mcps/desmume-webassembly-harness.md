@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T06:38:57Z"
 ---
 ## What it is
 Enables Codex to control a DeSmuME WebAssembly emulator for Nintendo DS games, including state management, screenshots, and persistent scripting via stdio MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T11:04:36Z"
 ---
 ## What it is
 Live markdown preview for LLM agents. Call a single tool to watch a markdown file and it opens a browser UI that streams rendered updates, changes, and history.

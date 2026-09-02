@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-26T21:28:00Z"
 ---
 ## What it is
 MCP server `Nessus`, catalogued on PulseMCP. Transforms Nessus vulnerability scan data into prioritized remediation tasks by correlating CVEs with NVD, CISA KEV, and asset ownership data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T13:33:51Z"
 ---
 ## What it is
 Converts PDFs, Office files, spreadsheets, emails, audio, and more to Markdown locally, enabling AI assistants to read and process them without cloud upload.

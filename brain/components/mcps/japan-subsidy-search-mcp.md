@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T05:16:41Z"
 ---
 ## What it is
 Real-time search of Japanese government subsidies and grants (official jGrants data): deadlines, amounts, eligibility, filterable by prefecture.

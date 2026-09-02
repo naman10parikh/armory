@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T15:02:51Z"
 ---
 ## What it is
 Provides a persistent Jupyter kernel for executing code, inspecting variables and dataframes, and checking SQL query plans, enabling agents to work with stateful Python sessions.

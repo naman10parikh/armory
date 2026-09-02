@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:31:20Z"
 ---
 ## What it is
 Enables MCP-compatible coding agents to control a posable, rigged stickman character by setting joint angles and facial expressions, and to render still frames or full animations as SVG, PNG, GIF, or MP4.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T18:12:18Z"
 ---
 ## What it is
 Enables Claude to generate and edit images using Google Gemini AI.

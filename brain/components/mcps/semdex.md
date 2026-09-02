@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T19:36:23Z"
 ---
 ## What it is
 A local MCP server that parses codebases into semantic chunks, indexes them in SQLite with vector embeddings, and exposes MCP tools for LLM agents to query.

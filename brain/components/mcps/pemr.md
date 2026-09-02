@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T21:30:21Z"
 ---
 ## What it is
 A local-first, family-scale medical record framework that provides a Python CLI engine and MCP server for ingesting, deduplicating, querying, and generating medical records from source documents.

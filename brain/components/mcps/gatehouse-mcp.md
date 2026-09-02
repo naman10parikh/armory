@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T23:27:50Z"
 ---
 ## What it is
 A read-only MCP server that provides tool safety checks and registry lookups from the Gatehouse vetted registry of agent tooling, enabling agents to assess trust, liveness, and audit details before installing tools.

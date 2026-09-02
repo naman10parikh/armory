@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T14:38:16Z"
 ---
 ## What it is
 Connects Claude with OneDrive via Microsoft Graph API to list, search, create, move, copy, and share files.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-10T22:51:13Z"
 ---
 ## What it is
 MCP server `GitHub Repository Manager`, catalogued on PulseMCP. Integrates with GitHub's API to automate repository management through natural language commands for creating, updating, and configuring repositories.

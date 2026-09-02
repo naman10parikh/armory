@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T05:03:12Z"
 ---
 ## What it is
 Provides MCP tool endpoints for hotel and flight actions to support multi-agent travel planning.

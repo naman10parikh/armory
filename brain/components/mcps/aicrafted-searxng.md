@@ -8,10 +8,12 @@ source_url: https://github.com/aicrafted/searxng-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-16T11:25:48Z"
 ---
 ## What it is
 MCP server `SearXNG by aicrafted`, catalogued on PulseMCP. Provides web search capabilities by integrating with a self-hosted SearXNG instance.

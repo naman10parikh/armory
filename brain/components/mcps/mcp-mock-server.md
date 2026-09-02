@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T03:11:08Z"
 ---
 ## What it is
 A zero-code-intrusion mock server for mobile apps that integrates with Charles proxy, allowing dynamic rule management via natural language in Cursor.

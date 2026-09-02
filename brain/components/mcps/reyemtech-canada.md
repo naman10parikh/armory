@@ -8,10 +8,12 @@ source_url: https://github.com/reyemtech/mcp-canada
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-24T15:57:37Z"
 ---
 ## What it is
 MCP server `Canada Government APIs`, catalogued on PulseMCP. Access to 15 Canadian federal, provincial, and municipal government APIs with 193 tools.

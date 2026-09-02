@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 20
+pushed_at: "2025-08-28T08:05:04Z"
 ---
 ## What it is
 Enables AI agents to generate, compile, and fix Rust projects from natural language descriptions using LLMs and the Rust compiler.

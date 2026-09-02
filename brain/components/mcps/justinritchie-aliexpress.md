@@ -8,10 +8,12 @@ source_url: https://github.com/justinritchie/aliexpress-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-22T00:06:36Z"
 ---
 ## What it is
 MCP server `AliExpress`, catalogued on PulseMCP. Search AliExpress products, get shipping info, and manage cart operations.

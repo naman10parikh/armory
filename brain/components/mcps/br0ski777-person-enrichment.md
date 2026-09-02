@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-19T00:54:32Z"
 ---
 ## What it is
 MCP server `Person Enrichment`, catalogued on PulseMCP. Look up a person's name, job title, company, and social profiles from their email address.

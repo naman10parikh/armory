@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-23T13:10:18Z"
 ---
 ## What it is
 MCP server `Workato`, catalogued on PulseMCP. Integrates with Workato automation platform API to provide read-only access for retrieving and analyzing integration workflows, recipes, connections, job monitoring, lookup tables, activity logs, and workspace metadata with intelligent caching and data summarization.

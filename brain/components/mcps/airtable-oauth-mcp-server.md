@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T21:11:38Z"
 ---
 ## What it is
 Enables AI assistants and applications to interact with Airtable bases through a secure OAuth-authenticated MCP interface, providing complete API coverage for all Airtable operations.

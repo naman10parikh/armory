@@ -8,11 +8,13 @@ source_url: https://github.com/mycelia1/fusion360-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-23T03:46:08Z"
 ---
 ## What it is
 Enables AI assistants to generate Autodesk Fusion 360 Python scripts through natural language commands, using the Model Context Protocol (MCP) for tool calls and script generation.

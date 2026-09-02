@@ -8,10 +8,12 @@ source_url: https://github.com/geekbot-com/geekbot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-07-06T09:33:03Z"
 ---
 ## What it is
 MCP server `Geekbot`, catalogued on PulseMCP. Integrates with Geekbot API to fetch standup meeting data and generate structured reports with filtering capabilities by date ranges and users, enabling automated team activity summaries and pattern analysis.

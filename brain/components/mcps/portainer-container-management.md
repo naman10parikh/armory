@@ -8,10 +8,12 @@ source_url: https://github.com/portainer/portainer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 158
+stars: 225
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 46
+pushed_at: "2026-08-28T03:44:34Z"
 ---
 ## What it is
 MCP server `Portainer Container Management`, catalogued on PulseMCP. Provides a bridge between AI and Portainer container management platform, enabling environment monitoring, access control management, and stack deployment through Docker and Kubernetes API proxying

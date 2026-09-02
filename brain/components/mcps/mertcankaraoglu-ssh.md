@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-07T15:53:00Z"
 ---
 ## What it is
 MCP server `SSH`, catalogued on PulseMCP. Enables secure remote command execution through SSH connections with persistent sessions, real-time output streaming, and clean connection management for server administration, deployment automation, and system monitoring workflows.

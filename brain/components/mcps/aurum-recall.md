@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T04:43:17Z"
 ---
 ## What it is
 A memory system for AI agents that maintains a human-readable, typed Markdown knowledge base with an always-in-context index, enabling recall, correction, and trust decay through MCP.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-27T07:53:34Z"
 ---
 ## What it is
 MCP server `Obsidian PDF Evidence`, catalogued on PulseMCP. Obsidian plugin exposing PDF evidence and vault context through an MCP bridge, enabling text extraction, fuzzy matching for precise citation generation with page coordinates, and comprehensive vault operations for academic research workflows.

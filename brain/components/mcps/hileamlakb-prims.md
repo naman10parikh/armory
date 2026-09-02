@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, code-execution]
 stars: 28
+forks: 18
+pushed_at: "2025-10-15T20:03:09Z"
 ---
 ## What it is
 A Python Runtime Interpreter MCP Server that executes user-submitted code in an isolated environment.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T20:49:04Z"
 ---
 ## What it is
 MCP server for managing Cloudflare DNS subdomains, enabling an LLM to check availability, claim, release, and list subdomains under a root domain.

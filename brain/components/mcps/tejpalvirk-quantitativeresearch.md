@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-03T01:03:21Z"
 ---
 ## What it is
 MCP server `Quantitative Research`, catalogued on PulseMCP. Organizes and analyzes numerical research data through a structured knowledge graph, enabling tracking of projects, datasets, variables, hypotheses, and statistical tests with their relationships and results.

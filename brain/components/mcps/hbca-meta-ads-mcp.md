@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T20:33:35Z"
 ---
 ## What it is
 A read-only MCP server for querying Meta Ads accounts through Meta's Marketing API. It provides tools to retrieve ad accounts, campaigns, ad sets, ads, and performance insights.

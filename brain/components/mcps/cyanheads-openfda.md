@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/openfda-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-25T08:13:25Z"
 ---
 ## What it is
 MCP server `OpenFDA`, catalogued on PulseMCP. Query FDA data on drugs, food, devices, and recalls via the openFDA API — STDIO or Streamable HTTP.

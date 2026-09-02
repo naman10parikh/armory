@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T06:25:44Z"
 ---
 ## What it is
 An MCP server that turns the Game Boy Pan Docs into precise, citable lookups for registers, opcodes, memory, cartridges, and CPU behavior, enabling decompilation work.

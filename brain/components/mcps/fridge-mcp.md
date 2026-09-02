@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T09:51:33Z"
 ---
 ## What it is
 Enables users to manage their fridge inventory by listing, adding, removing, checking items, and identifying expiring items, as well as getting dinner ideas from available ingredients.

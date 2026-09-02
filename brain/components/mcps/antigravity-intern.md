@@ -8,11 +8,13 @@ source_url: https://github.com/SinanTufekci/antigravity-intern
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-25T10:01:31Z"
 ---
 ## What it is
 An MCP server that bridges Claude Code with Antigravity CLI using a Swarm Agent architecture to optimize local development workflows and minimize LLM token costs. Includes a web UI for monitoring agent workflows.

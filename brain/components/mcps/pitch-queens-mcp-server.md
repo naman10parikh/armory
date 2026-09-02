@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T15:14:04Z"
 ---
 ## What it is
 Read-only MCP server exposing game rules, FAQs, and official links for the Women's World Cup 2027 simulator Pitch Queens, enabling AI clients to retrieve verified context without API keys.

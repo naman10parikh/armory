@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T16:13:30Z"
 ---
 ## What it is
 An MCP server for interacting with an HR database, enabling querying employee data and HR operations via natural language.

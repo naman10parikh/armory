@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-12-22T06:42:20Z"
 ---
 ## What it is
 MCP server `Vitest & Type Checking`, catalogued on PulseMCP. Integrates Vitest and TypeScript for automated test execution and type checking in development workflows.

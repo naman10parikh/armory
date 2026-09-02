@@ -8,10 +8,12 @@ source_url: https://github.com/peancor/moodle-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-02-22T10:37:13Z"
 ---
 ## What it is
 MCP server `Moodle`, catalogued on PulseMCP. Streamlines Moodle educational workflows by providing automated tools for retrieving student information, managing assignments, and generating feedback through natural language interactions.

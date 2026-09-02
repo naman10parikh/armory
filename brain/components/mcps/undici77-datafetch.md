@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-15T11:40:22Z"
 ---
 ## What it is
 MCP server `DataFetch`, catalogued on PulseMCP. Provides secure web content fetching with sandboxed access to webpages, link extraction, file downloads, metadata retrieval, and URL status checking without JavaScript execution.

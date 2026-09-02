@@ -8,10 +8,12 @@ source_url: https://github.com/astravueorg/astravue-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-25T04:31:18Z"
 ---
 ## What it is
 MCP server `Astravue`, catalogued on PulseMCP. Manage projects, tasks, time tracking, and team collaboration through natural language.

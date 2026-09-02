@@ -8,11 +8,13 @@ source_url: https://github.com/lead788/apick-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T08:02:02Z"
 ---
 ## What it is
 Enables access to 82 Korean data and AI tools through MCP, including business registry lookup, ID document verification, parcel tracking, OCR, file conversion, web/image intelligence, and LLM calls, all billed per call from a single APICK key.

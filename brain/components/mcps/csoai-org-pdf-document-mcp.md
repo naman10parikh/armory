@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:39:29Z"
 ---
 ## What it is
 MCP server `PDF Document`, catalogued on PulseMCP. Python MCP server for PDF document processing and manipulation tools.

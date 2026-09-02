@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-07-15T09:34:12Z"
 ---
 ## What it is
 Enables LLMs and AI assistants to interact with Tilt development environments, providing tools to list resources, fetch logs, and monitor status.

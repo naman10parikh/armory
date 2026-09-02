@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-21T12:48:22Z"
 ---
 ## What it is
 Enables Google search with advanced options (date, language, country, safe search) and webpage content extraction via the Model Context Protocol.

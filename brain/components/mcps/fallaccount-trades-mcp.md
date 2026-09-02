@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:18:39Z"
 ---
 ## What it is
 Exposes foldkit 7-prime spine, κ-band classification, and 6 fold operations as tools and resources for MCP-compatible AI clients like Claude Code.

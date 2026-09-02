@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:22:07Z"
 ---
 ## What it is
 An MCP server that orchestrates multiple devices (mobile, desktop, laptop) via REST API, allowing a local voice assistant (Hermes) to execute actions across devices through dynamic capability routing.

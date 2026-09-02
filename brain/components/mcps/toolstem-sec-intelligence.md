@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-22T17:53:51Z"
 ---
 ## What it is
 MCP server `Toolstem SEC Intelligence`, catalogued on PulseMCP. Delivers pre-computed financial intelligence from SEC EDGAR filings including insider signals, institutional activity, and material events digests.

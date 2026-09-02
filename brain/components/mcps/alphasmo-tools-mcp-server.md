@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:09:50Z"
 ---
 ## What it is
 Provides access to SEC EDGAR 13F institutional holdings, Form 4 insider trading, and smart money convergence signals for AI agents via the Model Context Protocol.

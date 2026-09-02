@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:40:25Z"
 ---
 ## What it is
 Gives Claude read/write access to your own Gmail, Google Docs, Google Sheets, and Google Tasks via a tiny always-on web service.

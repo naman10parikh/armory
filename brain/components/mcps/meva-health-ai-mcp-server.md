@@ -8,11 +8,13 @@ source_url: https://github.com/Tanz2024/meva-health-ai
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:21:37Z"
 ---
 ## What it is
 Enables AI agents to verify medical-record claims against synthetic FHIR evidence using a deterministic, non-AI verifier. Provides MCP tools for evidence retrieval, claim verification, and benchmark evaluation without requiring real patient data.

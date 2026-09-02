@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-31T10:35:12Z"
 ---
 ## What it is
 MCP server `ThreatLocker`, catalogued on PulseMCP. MCP server for ThreatLocker zero-trust endpoint protection, allowlisting, and policy management.

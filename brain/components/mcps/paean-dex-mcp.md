@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-28T15:27:02Z"
 ---
 ## What it is
 DEX trading MCP server enabling autonomous token swaps on Base (Uniswap v3) and Solana (Jupiter) for AI agents, with privacy-first design and read-only mode.

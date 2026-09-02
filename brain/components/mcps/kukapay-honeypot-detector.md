@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/honeypot-detector-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-14T13:34:48Z"
 ---
 ## What it is
 MCP server `Honeypot Detector`, catalogued on PulseMCP. Detects honeypot tokens on Ethereum, BNB Smart Chain, and Base networks using the honeypot.is API to validate contract addresses and return detailed analysis including risk level, taxes, and verification status for safer DeFi trading.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-21T18:59:46Z"
 ---
 ## What it is
 Provides accurate IPv4 subnet and address tools for LLMs using Python's ipaddress library. Includes CIDR parsing, overlap detection, IP classification, and more.

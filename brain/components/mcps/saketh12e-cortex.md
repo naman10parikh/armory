@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T05:16:07Z"
 ---
 ## What it is
 MCP server `Cortex`, catalogued on PulseMCP. Local-first persistent memory system for AI agents using hybrid semantic and keyword search over a shared SQLite database.

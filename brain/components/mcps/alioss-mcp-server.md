@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-03T17:12:48Z"
 ---
 ## What it is
 将图片URL转存到阿里云OSS并返回CDN访问地址，支持OSS直传和HOOK代理两种模式。

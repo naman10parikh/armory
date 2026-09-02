@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:04Z"
 ---
 ## What it is
 MCP server for querying official GARE (Guia de Recolhimento da Receita Estadual) issuance data from the São Paulo State Attorney General's Office, offering a read-only tool for consultation with prepaid credits.

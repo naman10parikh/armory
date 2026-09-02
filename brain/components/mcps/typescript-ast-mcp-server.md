@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T16:17:59Z"
 ---
 ## What it is
 Provides deep structural analysis of TypeScript and JavaScript code via the TypeScript Compiler API, offering 20 tools for functions, types, call graphs, code quality, dead code detection, and IDE integration.

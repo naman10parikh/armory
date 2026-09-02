@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T23:06:51Z"
 ---
 ## What it is
 Enables budget management, scenario creation, and value updates through natural language, integrating with the Budget Planner MVP.

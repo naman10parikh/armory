@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-19T00:54:21Z"
 ---
 ## What it is
 MCP server `NFT Floor`, catalogued on PulseMCP. Retrieves NFT collection floor prices, trading volume, holder counts, and rarity rankings via the Reservoir API for Ethereum and Base networks.

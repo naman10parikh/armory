@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T16:35:46Z"
 ---
 ## What it is
 Provides a local, queryable mirror of changelogs from Anthropic and related AI dev tools, enabling agents to discover cross-product workflows and sync updates via MCP.

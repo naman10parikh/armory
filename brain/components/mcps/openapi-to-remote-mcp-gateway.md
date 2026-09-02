@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T03:12:11Z"
 ---
 ## What it is
 A cloud gateway that dynamically parses standard OpenAPI JSON specifications and provisions a hosted, remote Model Context Protocol (MCP) server running over Server-Sent Events (SSE).

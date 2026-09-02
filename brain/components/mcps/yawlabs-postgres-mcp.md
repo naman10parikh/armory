@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T19:43:56Z"
 ---
 ## What it is
 Query and manage PostgreSQL databases from Claude Code, Cursor, and any MCP client, with read-only by default and built-in schema introspection, EXPLAIN, and performance diagnostics.

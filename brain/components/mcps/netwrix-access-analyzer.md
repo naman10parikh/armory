@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-15T22:40:11Z"
 ---
 ## What it is
 MCP server `Netwrix Access Analyzer`, catalogued on PulseMCP. Enables security administrators to analyze file system permissions, identify excessive access rights, and detect shadow access paths in enterprise environments through SQL Server database queries.

@@ -8,10 +8,12 @@ source_url: https://github.com/warpdev/mcp-hub-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 61
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-12-04T04:07:22Z"
 ---
 ## What it is
 MCP server `Hub`, catalogued on PulseMCP. Centralizes multiple MCP servers into a unified hub, enabling seamless tool discovery and routing across specialized servers for complex workflows without managing individual connections.

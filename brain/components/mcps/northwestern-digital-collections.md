@@ -8,10 +8,12 @@ source_url: https://github.com/nulib/dc-api-v2
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-28T21:16:10Z"
 ---
 ## What it is
 MCP server `Northwestern Digital Collections`, catalogued on PulseMCP. Access Northwestern University Libraries' digital collections API for rich archival metadata and search.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-05T06:52:25Z"
 ---
 ## What it is
 MCP server `TV Show Recommender (TMDb)`, catalogued on PulseMCP. Integrates with The Movie Database (TMDb) API to provide TV show discovery, recommendations, and streaming information based on genres, trends, and viewer preferences.

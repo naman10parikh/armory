@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T19:56:05Z"
 ---
 ## What it is
 Multi-asset market intelligence MCP server that monitors cryptocurrency movements, equity data, and ECB foreign-exchange reference rates to produce structured market briefs using Gemini.

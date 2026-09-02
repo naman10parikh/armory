@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:11:02Z"
 ---
 ## What it is
 Aggregates tech and AI signals from HackerNews, arXiv, Lobste.rs, and GitHub into a structured briefing. No authentication required.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T19:28:45Z"
 ---
 ## What it is
 MCP server `Shodan`, catalogued on PulseMCP. Exposes all Shodan API functionality for host lookups, network scanning, alert management, and exploit searches.

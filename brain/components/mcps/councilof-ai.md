@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:37:41Z"
 ---
 ## What it is
 Provides AI governance and EU AI Act compliance through a council of 12 AIs, enabling risk management, transparency, bias detection, and content watermarking.

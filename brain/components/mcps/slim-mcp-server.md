@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T17:26:35Z"
 ---
 ## What it is
 Enables Claude to fetch web content in SLIM format, reducing tokens by ~90% for efficient AI comprehension.

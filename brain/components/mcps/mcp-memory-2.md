@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T13:02:44Z"
 ---
 ## What it is
 Enables MCP clients like Cursor and Claude to remember user preferences and information across conversations using vector search.

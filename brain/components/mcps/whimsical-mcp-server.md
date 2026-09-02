@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T09:40:50Z"
 ---
 ## What it is
 Enables AI agents to create and edit Whimsical diagrams and documents, including flowcharts, mind maps, sequence diagrams, and wireframes, and to search and read workspace content.

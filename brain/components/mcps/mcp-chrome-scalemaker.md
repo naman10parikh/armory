@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T16:33:20Z"
 ---
 ## What it is
 Enables AI assistants to control Chrome via MCP with automatic site permissions, force reconnect, and diagnostics. Uses stdio native messaging for reliable browsing automation.

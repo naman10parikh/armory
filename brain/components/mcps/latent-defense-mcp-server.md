@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T18:59:32Z"
 ---
 ## What it is
 Connects Claude Code to a Latent Defense deployment to map GitHub repositories into an infrastructure graph, discover attack paths using the JEPA energy model, and triage findings from the terminal.

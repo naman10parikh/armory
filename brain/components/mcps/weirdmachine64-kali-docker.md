@@ -8,10 +8,12 @@ source_url: https://github.com/weirdmachine64/kali-docker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-11-01T22:21:03Z"
 ---
 ## What it is
 MCP server `Kali Docker`, catalogued on PulseMCP. Provides secure command execution within a containerized Kali Linux environment with background job management, interactsh client integration, and pre-configured API access to reconnaissance services like Shodan and VirusTotal for penetration testing workflows and automated security assessments.

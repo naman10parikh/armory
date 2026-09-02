@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-29T06:55:39Z"
 ---
 ## What it is
 MCP server `RFK Jr Gateway`, catalogued on PulseMCP. Bridges campaign tools and data to enable dynamic tool registration, endpoint discovery, and information retrieval for RFK Jr's presidential campaign.

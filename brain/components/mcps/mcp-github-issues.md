@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T20:45:56Z"
 ---
 ## What it is
 Enables LLMs to list, create, and comment on GitHub issues using your own GitHub identity via stdio transport.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-08T12:37:16Z"
 ---
 ## What it is
 Enables AI clients to log in and interact with the PTT bulletin board system via MCP protocol, supporting article management, mailbox, and P-coin operations.

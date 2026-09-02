@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T16:58:44Z"
 ---
 ## What it is
 Encrypted secrets vault that blinds AI agents to API keys. Stores secrets in AES-256-GCM encrypted SQLite vault, resolves them at runtime via MCP values never appear in LLM conversation transcripts. Sandbox .env files with deterministic fakes.

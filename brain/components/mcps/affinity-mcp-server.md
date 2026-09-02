@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T17:05:57Z"
 ---
 ## What it is
 Enables LLMs to read and manage Affinity CRM data including companies, persons, lists, opportunities, pipeline stages, notes, custom field details, change history, and network intelligence for warm introductions.

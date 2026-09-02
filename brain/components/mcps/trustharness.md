@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T03:00:15Z"
 ---
 ## What it is
 Enables deterministic security testing of AI agents that use tools by serving synthetic MCP environments with poisoned data, fake secrets, and privileged actions. Records agent tool calls and evaluates security invariants (e.g., canary leaks, forbidden access, approval binding) without an LLM judge 

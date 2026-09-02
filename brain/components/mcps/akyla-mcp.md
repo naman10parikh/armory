@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T12:56:24Z"
 ---
 ## What it is
 Provides as-reported US equity fundamentals, live quotes, financial statements, valuation comps, and a screener from SEC filings, with per-cell filing provenance for citations.

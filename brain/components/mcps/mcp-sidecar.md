@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T08:16:20Z"
 ---
 ## What it is
 A lightweight, cross-platform MCP server for managing background processes. Enables AI coding agents to spawn, monitor, and interact with long-lived processes.

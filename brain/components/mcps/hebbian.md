@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-18T05:26:27Z"
 ---
 ## What it is
 MCP server `Hebbian`, catalogued on PulseMCP. Connects AI agents to Hebbian knowledge workspaces with 8 tools for semantic search, synthesis Q&A, graph traversal, and vault capture.

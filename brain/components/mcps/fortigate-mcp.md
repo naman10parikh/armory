@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T00:27:44Z"
 ---
 ## What it is
 Enables read-only querying and diagnostics of Fortigate firewalls via SSH, providing security analysis, traffic monitoring, and configuration inspection through natural language.

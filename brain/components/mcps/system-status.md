@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T12:34:46Z"
 ---
 ## What it is
 Enables monitoring of Ubuntu system metrics, Docker containers, and public IP drift, with Feishu alerting and HTTP/MCP tools for querying status, viewing history, and restarting containers.

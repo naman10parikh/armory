@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T15:07:18Z"
 ---
 ## What it is
 Unified academic search MCP server that searches open literature (arXiv, bioRxiv, medRxiv, PMC), CNKI, and Web of Science, with browser-backed authentication, local paper library, and export to multiple formats.

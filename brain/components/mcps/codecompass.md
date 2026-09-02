@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-01T04:13:56Z"
 ---
 ## What it is
 Helps developers tackle legacy codebases by giving AI coding assistants context through Qdrant vector store and Agentic RAG with Ollama or DeepSeek.

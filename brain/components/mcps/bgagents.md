@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-03-13T10:20:29Z"
 ---
 ## What it is
 Enables turning AI code agents like Anthropic Claude and OpenAI Codex into background agents accessible via MCP protocol for code generation, branch creation, and PR automation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T08:04:22Z"
 ---
 ## What it is
 Provides real-time and predicted congestion data, route optimization, and train arrival information for Seoul subway lines 1-8, helping users choose the best travel times.

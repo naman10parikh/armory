@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-02T23:50:06Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides seamless integration with the Documize API. This server enables AI assistants like Claude to interact with your Documize knowledge base - search documents, manage spaces, handle attachments, and more.

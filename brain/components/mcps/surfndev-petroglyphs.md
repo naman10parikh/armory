@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T09:35:31Z"
 ---
 ## What it is
 MCP server `Petroglyphs`, catalogued on PulseMCP. Bridge iPad handwriting input with LLMs via image capture and Obsidian vault integration.

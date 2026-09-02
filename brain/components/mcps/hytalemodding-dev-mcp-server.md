@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T20:53:40Z"
 ---
 ## What it is
 Provides AI tools with access to HytaleModding.dev documentation through search and page retrieval, enabling modding assistance in natural language.

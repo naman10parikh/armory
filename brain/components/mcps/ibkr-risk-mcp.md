@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T16:06:13Z"
 ---
 ## What it is
 MCP server exposing Interactive Brokers' portfolio risk analysis, including model greeks, implied volatility surface, what-if margin, and a local stress engine for P&L curve analysis.

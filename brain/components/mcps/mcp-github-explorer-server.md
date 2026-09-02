@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T20:23:26Z"
 ---
 ## What it is
 MCP server for exploring GitHub public data. It provides tools to fetch user profiles, list top repositories, and calculate language usage statistics, which AI agents can invoke dynamically.

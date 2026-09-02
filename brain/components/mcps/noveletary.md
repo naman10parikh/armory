@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T10:30:48Z"
 ---
 ## What it is
 A local MCP server for maintaining internal consistency in fiction writing, with constraint-based fact checking, branching, and author-oracle conflict resolution.

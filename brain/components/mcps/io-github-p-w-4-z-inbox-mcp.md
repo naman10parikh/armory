@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:55:53Z"
 ---
 ## What it is
 Provider-agnostic email MCP server that connects any IMAP mailbox to AI assistants, enabling email management through natural language.

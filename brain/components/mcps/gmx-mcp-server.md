@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:48Z"
 ---
 ## What it is
 Hosted MCP server that gives AI agents direct access to GMX DeFi protocol endpoints via deterministic, auto-generated tools.

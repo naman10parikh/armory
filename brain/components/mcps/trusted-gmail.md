@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-05T01:02:15Z"
 ---
 ## What it is
 MCP server `Trusted Gmail`, catalogued on PulseMCP. Securely accesses Gmail through AWS Nitro enclaves, enabling email search, retrieval, and sending while protecting sensitive credentials

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-20T15:16:11Z"
 ---
 ## What it is
 MCP server `HyperStore`, catalogued on PulseMCP. Search and inspect curated AI apps from the HyperStore directory via remote MCP endpoint.

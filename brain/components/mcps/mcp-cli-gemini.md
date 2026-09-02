@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-13T07:14:14Z"
 ---
 ## What it is
 Wraps the Gemini CLI as an MCP server, enabling AI tools to perform Gemini queries, interactive sessions, and extension management via a unified tool.

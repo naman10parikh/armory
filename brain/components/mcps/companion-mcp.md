@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T02:40:28Z"
 ---
 ## What it is
 An MCP server for Bitfocus Companion that enables AI assistants to program and control Stream Deck surfaces and other Companion-connected devices. It provides 53 tools for button control, styling, page management, variable handling, and batch operations with verification and rollback.

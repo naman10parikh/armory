@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:06:50Z"
 ---
 ## What it is
 MCP server for full control of Rachio sprinkler controllers via the reverse-engineered internal gRPC API, enabling schedule management, manual zone runs, rain delays, and weather data retrieval.

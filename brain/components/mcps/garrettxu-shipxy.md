@@ -8,10 +8,12 @@ source_url: https://github.com/garrettxu/mcp-shipxy-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-11T09:47:07Z"
 ---
 ## What it is
 MCP server `ShipXY`, catalogued on PulseMCP. Integrates with ShipXY's maritime vessel tracking API to provide real-time ship location data, vessel movements, and maritime information for logistics companies and shipping industry professionals.

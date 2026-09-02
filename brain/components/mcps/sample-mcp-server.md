@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-11T02:11:00Z"
 ---
 ## What it is
 Provides current weather information for Japanese cities using the Open-Meteo API. A sample MCP server built with FastAPI_MCP to demonstrate integrating MCP with FastAPI.

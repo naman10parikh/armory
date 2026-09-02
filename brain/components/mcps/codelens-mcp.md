@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T17:34:50Z"
 ---
 ## What it is
 A local MCP server that enables LLM clients like Claude to perform semantic code search and answer questions about a codebase using tree-sitter parsing and sqlite-vec vector storage.

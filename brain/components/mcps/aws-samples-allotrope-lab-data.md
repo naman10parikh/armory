@@ -8,10 +8,12 @@ source_url: https://github.com/aws-samples/sample-laboratory-data-transformation
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-01T20:15:47Z"
 ---
 ## What it is
 MCP server `Allotrope Lab Data`, catalogued on PulseMCP. Works with Allotrope Simple Model (ASM) laboratory instrument data including schema validation and document fetching.

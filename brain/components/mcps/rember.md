@@ -8,10 +8,12 @@ source_url: https://github.com/rember/rember-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-03-28T09:29:27Z"
 ---
 ## What it is
 MCP server `Rember`, catalogued on PulseMCP. Create flashcards and study/remember anything you care about with spaced repetition reviews on Rember.

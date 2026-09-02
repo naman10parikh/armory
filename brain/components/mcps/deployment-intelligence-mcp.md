@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:13:27Z"
 ---
 ## What it is
 Enables MCP agents to inspect deployment knowledge extracted from a repository, covering workflows, services, deployments, and images.

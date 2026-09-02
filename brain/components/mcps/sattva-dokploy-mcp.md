@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T15:21:13Z"
 ---
 ## What it is
 MCP server for Dokploy that dynamically generates 420+ tools from the Dokploy OpenAPI spec, enabling deployment, management, and monitoring of self-hosted infrastructure through AI assistants.

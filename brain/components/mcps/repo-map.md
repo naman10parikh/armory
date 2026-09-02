@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T18:42:33Z"
 ---
 ## What it is
 A navigable symbol map of your codebase for coding agents, enabling efficient code navigation and reading only relevant symbols instead of entire files.

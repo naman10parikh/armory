@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T00:52:30Z"
 ---
 ## What it is
 Provides a secure MCP server for operating Typesense, exposing 95 typed operations for search, collection management, and system administration. Read-only by default, with opt-in write access for human and AI agents.

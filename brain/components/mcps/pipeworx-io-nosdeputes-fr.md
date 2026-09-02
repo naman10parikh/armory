@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:25:47Z"
 ---
 ## What it is
 MCP server `NosDéputés.fr`, catalogued on PulseMCP. Query French Assemblée nationale deputy voting records, parliamentary questions, and legislative activity from the NosDéputés.fr civic technology platform.

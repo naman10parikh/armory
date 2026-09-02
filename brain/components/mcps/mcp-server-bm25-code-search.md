@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T02:41:32Z"
 ---
 ## What it is
 Enables fast, low-token code search for AI coding agents via a local BM25 engine built on SQLite FTS5, with support for camelCase, snake_case, and Japanese text. Provides a stateless MCP stdio server and a Hermes adapter for multi-agent environments.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-05T14:48:57Z"
 ---
 ## What it is
 Provides professional-grade data center engineering calculations including cooling, power, GPU thermal optimization, UPS/battery sizing, tier classification, and commissioning workflows, compliant with ASHRAE and Uptime Institute standards.

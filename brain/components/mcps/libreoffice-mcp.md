@@ -8,11 +8,13 @@ source_url: https://github.com/WaterPistolAI/libreoffice-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-05-28T04:17:03Z"
 ---
 ## What it is
 Enables interaction with LibreOffice documents (Writer, Calc, Impress, Draw) via MCP, supporting document management, data analysis, and database operations using the OooDev library.

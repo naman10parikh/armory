@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-07T09:17:43Z"
 ---
 ## What it is
 Enables real-time AI editing assistance in the WordPress block editor, allowing Claude to proofread, review, edit, translate, compose, and prepare posts for publishing.

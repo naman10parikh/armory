@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T14:28:50Z"
 ---
 ## What it is
 An MCP server that automates filling out BLok Berichtsheft (training reports) via browser automation using Playwright.

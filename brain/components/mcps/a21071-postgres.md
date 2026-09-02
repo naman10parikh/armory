@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-26T05:39:49Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. Provides type-safe PostgreSQL database integration for user data management through robust CRUD operations with TypeScript and Prisma, enabling efficient and validated database interactions.

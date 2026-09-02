@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-07T07:44:42Z"
 ---
 ## What it is
 MCP server `Bouyomi-chan`, catalogued on PulseMCP. Integrates with Bouyomi-chan Japanese TTS software to convert text into spoken audio with configurable voice parameters for speech synthesis and accessibility applications.

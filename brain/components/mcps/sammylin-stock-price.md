@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-13T11:20:13Z"
 ---
 ## What it is
 MCP server `Stock Price (yfinance)`, catalogued on PulseMCP. Integrates with yfinance library to provide real-time stock prices, historical market data, and detailed company information across global exchanges including US, Taiwan, and international markets for financial analysis and investment research.

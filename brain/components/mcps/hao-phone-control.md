@@ -8,10 +8,12 @@ source_url: https://github.com/hao-cyber/phone-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 232
+stars: 244
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 41
+pushed_at: "2025-05-08T16:10:52Z"
 ---
 ## What it is
 MCP server `Phone Control (Android ADB)`, catalogued on PulseMCP. Enables remote control of Android phones through ADB commands for making calls, sending texts, taking screenshots, managing contacts, launching apps, and retrieving system information.

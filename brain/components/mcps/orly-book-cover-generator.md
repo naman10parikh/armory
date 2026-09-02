@@ -8,10 +8,12 @@ source_url: https://github.com/princefishthrower/orly-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-12T13:21:29Z"
 ---
 ## What it is
 MCP server `O'RLY Book Cover Generator`, catalogued on PulseMCP. Generates parody O'Reilly-style book covers with customizable titles, subtitles, authors, and visual themes using 40 different animal/object images and 17 color schemes.

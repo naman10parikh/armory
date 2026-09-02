@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:46:40Z"
 ---
 ## What it is
 MCP server for the xAI Grok API, providing tools for chat completions, vision analysis, web/X search, embeddings, and model listing via stdio.

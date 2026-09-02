@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T17:51:29Z"
 ---
 ## What it is
 Enables two local LLMs (Qwen and Llama) to communicate via MCP, allowing one model to consult the other for second opinions or additional reasoning.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T01:04:33Z"
 ---
 ## What it is
 Read-only MCP server for cross-stack impact analysis across Java Spring Boot backend and TypeScript frontend linked through OpenAPI.

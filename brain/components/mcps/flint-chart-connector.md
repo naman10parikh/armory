@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T18:58:02Z"
 ---
 ## What it is
 A deployable remote MCP server that packages Microsoft's Flint chart compiler for chat hosts, enabling users to render, compile, and explore charts from natural language descriptions across Claude and Codex.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-27T14:38:22Z"
 ---
 ## What it is
 Enables AI assistants to manage i18next translation files, including adding keys, syncing missing translations, and analyzing coverage.

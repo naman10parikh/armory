@@ -8,11 +8,13 @@ source_url: https://github.com/yiaany/Mekka
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:44:26Z"
 ---
 ## What it is
 A compact backend platform exposing a scoped MCP server for agents, with SQLite data plane, embedded Studio, auth, storage, and realtime. Default read-only agent access with opt-in read-write mutations via isolated preview branches and exact-SQL approval before production promotion.

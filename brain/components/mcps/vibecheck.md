@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T15:22:53Z"
 ---
 ## What it is
 Agent-native "safe to ship?" security gate for AI-generated code. Uses real parsers and inter-rocedural taint analysis (JS/TS, Python, Go) to flag the classes AI coding agents get wrong — secrets, SQL injection, SS, SSRF, path traversal, command injection, weak JWT/CORS — and ranks findings by confi

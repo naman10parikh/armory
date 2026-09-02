@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T12:54:05Z"
 ---
 ## What it is
 Read-only MCP server for FinTS/HBCI banking; enables account information retrieval such as balances and transactions via PIN-TAN.

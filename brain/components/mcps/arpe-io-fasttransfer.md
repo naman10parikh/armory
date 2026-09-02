@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T18:05:48Z"
 ---
 ## What it is
 MCP server `FastTransfer`, catalogued on PulseMCP. High-performance parallel data transfer between heterogeneous database systems with safety-first command preview.

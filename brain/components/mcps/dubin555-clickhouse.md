@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-20T11:17:10Z"
 ---
 ## What it is
 MCP server `ClickHouse Database`, catalogued on PulseMCP. Enables read-only ClickHouse database interactions for schema inspection and SQL query execution, returning results in JSON format for data analysis while preventing data modification operations.

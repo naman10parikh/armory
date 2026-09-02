@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-20T11:12:56Z"
 ---
 ## What it is
 Enables AI to interact with ServiceNow instances via MCP, providing 400+ tools across all modules for automation, development, and management.

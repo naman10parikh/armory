@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T03:52:34Z"
 ---
 ## What it is
 Membro is a local-first memory service for AI assistants, providing MCP tools to recall ranked memories, search history, save memory notes, and retrieve a profile summary. Everything is stored in a local SQLite file with per-fact provenance and a review queue.

@@ -8,11 +8,13 @@ source_url: https://github.com/lanes-sh/link
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:30:12Z"
 ---
 ## What it is
 One secure, self-hosted MCP endpoint connecting AI agents to your real accounts (mail, calendar, files, notes), with per-profile separation, explicit permission enforcement, and an append-only audit log.

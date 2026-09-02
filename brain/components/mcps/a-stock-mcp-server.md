@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T06:44:09Z"
 ---
 ## What it is
 Provides free Chinese A-share stock data including real-time quotes, historical K-lines, market scanning, and multi-factor stock screening via BaoStock and Sina Finance APIs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T14:53:10Z"
 ---
 ## What it is
 Enables web scraping through Scrapling's adaptive parsers, fetchers that bypass anti-bot systems, and scalable spider framework, allowing users to fetch pages, extract structured data, and run concurrent crawls with proxy rotation.

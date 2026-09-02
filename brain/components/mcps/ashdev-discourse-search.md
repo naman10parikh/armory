@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-10T23:36:54Z"
 ---
 ## What it is
 MCP server `Discourse Search`, catalogued on PulseMCP. Enables searching and retrieving content from Discourse forums through a single tool that queries posts using the discourse2 npm package.

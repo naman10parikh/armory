@@ -8,10 +8,12 @@ source_url: https://github.com/mustafahasankhan/duckdb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-10T17:19:43Z"
 ---
 ## What it is
 MCP server `DuckDB`, catalogued on PulseMCP. Enables AI to query and analyze data through DuckDB, an in-process analytical database optimized for OLAP workloads with direct support for CSV, Parquet, and JSON files including remote sources like S3.

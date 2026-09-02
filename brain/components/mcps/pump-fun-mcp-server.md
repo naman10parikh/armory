@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T03:00:03Z"
 ---
 ## What it is
 A Cloudflare Worker that implements the MCP Streamable HTTP transport for AI agents to interact with pump.fun on Solana.

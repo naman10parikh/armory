@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T12:10:29Z"
 ---
 ## What it is
 An MCP server that uses Google OR-Tools CP-SAT to find minimal corrections to variable values to satisfy a set of equations, useful for fixing misread data from OCR or forms.

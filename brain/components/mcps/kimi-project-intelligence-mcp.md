@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T03:30:38Z"
 ---
 ## What it is
 A Model Context Protocol server for Kimi-CLI that provides semantic project indexing, intelligent code retrieval, and dynamic skill routing to enhance code assistance. It supports incremental indexing, file watching, dependency graphs, git integration, code summarization, REST API, and web UI for ma

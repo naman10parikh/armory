@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T02:35:14Z"
 ---
 ## What it is
 MCP server for rendering diagrams (Mermaid, Graphviz, PlantUML, D2) via Kroki. Provides tools to render diagrams and list available engines.

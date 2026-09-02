@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T12:36:58Z"
 ---
 ## What it is
 A hosted remote MCP for A2A failure replay, providing tools to replay failures, classify agent errors, suggest retry plans, issue receipts, and export failure logs.

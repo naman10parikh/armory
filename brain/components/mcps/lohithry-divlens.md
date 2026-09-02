@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-31T04:49:48Z"
 ---
 ## What it is
 MCP server `DivLens`, catalogued on PulseMCP. System diagnostics MCP server providing real-time hardware, performance, storage, and network monitoring.

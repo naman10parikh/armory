@@ -8,11 +8,13 @@ source_url: https://github.com/cognis-digital/ragshield
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:24:11Z"
 ---
 ## What it is
 RAG corpus poisoning detector that scans for embedding anomalies and backdoor triggers, with an MCP server for AI agent integration.

@@ -8,10 +8,12 @@ source_url: https://github.com/wyattjoh/imessage-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-19T05:31:34Z"
 ---
 ## What it is
 MCP server `iMessage`, catalogued on PulseMCP. Provides read-only access to macOS iMessage data through specialized tools for searching messages, retrieving conversations, and accessing contact information by directly querying the Messages SQLite database with proper timestamp conversion and phone number normalization.

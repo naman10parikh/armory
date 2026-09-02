@@ -8,10 +8,12 @@ source_url: https://github.com/joelhooks/tldraw-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-07T17:33:52Z"
 ---
 ## What it is
 MCP server `Tldraw Agent`, catalogued on PulseMCP. Generates diagrams from natural language text descriptions using tldraw and Playwright, with PNG and SVG export.

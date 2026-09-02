@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T13:51:53Z"
 ---
 ## What it is
 Provides read/write file tools with lint validation to prevent agents from writing malformed Obsidian markdown, and constrains writes to a single configurable vault for security.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-28T15:55:00Z"
 ---
 ## What it is
 Fundraising infrastructure for AI agents on Solana: register agents, create milestone-escrowed campaigns, and donate via the x402 pay-to-call flow. Backed by Anchor programs (agent_registry, escrow, reputation) with on-chain reputation for every verified action.

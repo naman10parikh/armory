@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-25T22:44:20Z"
 ---
 ## What it is
 Bridges Claude Code and Google's Gemini AI models to enable AI-to-AI collaboration for code reviews, brainstorming, and direct questions.

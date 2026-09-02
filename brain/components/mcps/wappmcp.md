@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T03:08:36Z"
 ---
 ## What it is
 A WhatsApp Web MCP server that enables reading chats, contacts, and messages, as well as sending, replying, reacting, and managing WhatsApp messages via stdio.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-04T06:42:02Z"
 ---
 ## What it is
 MCP server `All Your Base64`, catalogued on PulseMCP. Provides base64 encoding and decoding with 8 output formats, automatic MIME type detection, data URI generation, and intelligent job memory with checksums for file change detection and LRU caching.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:49:24Z"
 ---
 ## What it is
 Enables MCP-aware agents to queue and run faster-whisper transcription jobs on a shared GPU, with tools to submit audio, poll job status, cancel jobs, and inspect queue status.

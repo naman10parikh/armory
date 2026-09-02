@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-27T06:32:45Z"
 ---
 ## What it is
 MCP server `DevBrain`, catalogued on PulseMCP. Integrates with DevBrain's curated developer knowledge base to search coding articles, tutorials, and technical content with tag-based filtering and full article retrieval for contextual programming guidance and research workflows.

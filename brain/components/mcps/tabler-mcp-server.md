@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-16T12:41:57Z"
 ---
 ## What it is
 Brings Tabler icons, UI components, page layouts, themes, and live documentation into MCP-compatible AI assistants for correct, hallucination-free usage.

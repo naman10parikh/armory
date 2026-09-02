@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-25T05:17:55Z"
 ---
 ## What it is
 A high-performance, cross-platform MCP server for split-screen window management on Windows and macOS, providing 16 window manipulation tools.

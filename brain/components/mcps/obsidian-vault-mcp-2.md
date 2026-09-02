@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:33:12Z"
 ---
 ## What it is
 A filesystem-based MCP server for Obsidian vaults that works without Obsidian running, enabling direct file operations via tools like list, read, write, append, and patch notes.

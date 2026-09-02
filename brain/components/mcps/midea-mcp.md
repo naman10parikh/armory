@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T10:38:20Z"
 ---
 ## What it is
 Local MCP server for controlling Midea air conditioners via LAN or cloud, providing tools for device management and state control.

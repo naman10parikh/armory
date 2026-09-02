@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T18:48:59Z"
 ---
 ## What it is
 MCP server `Linkinator`, catalogued on PulseMCP. Comprehensive link checking and validation across websites and local files

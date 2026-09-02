@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T20:10:25Z"
 ---
 ## What it is
 Security scanner for AI agent packages that enables AI agents to audit MCP servers and packages for vulnerabilities, prompt injection, and supply chain attacks.

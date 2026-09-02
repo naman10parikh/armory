@@ -8,11 +8,13 @@ source_url: https://github.com/puf3zin/art-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-27T00:24:30Z"
 ---
 ## What it is
 MCP server for searching museum collections and viewing artwork images and metadata from multiple museums, including the Met, Art Institute of Chicago, Rijksmuseum, and more.

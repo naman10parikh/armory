@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T07:19:13Z"
 ---
 ## What it is
 A universal paper downloader MCP that probes providers by DOI/identifier, downloads to a short-lived staging area, validates PDFs, and cleans up, while leaving final storage and management to the calling project.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 7
+forks: 1
+pushed_at: "2026-03-07T14:04:33Z"
 ---
 ## What it is
 Full-featured Telegram Bot API MCP server with 174 tools covering the entire Bot API.

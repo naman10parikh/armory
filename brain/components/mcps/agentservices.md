@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T07:33:17Z"
 ---
 ## What it is
 MCP server providing 50+ crypto, market intelligence, and AI inference endpoints with x402 pay-per-request micropayments on Base.

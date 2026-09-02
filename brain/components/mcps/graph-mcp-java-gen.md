@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T11:32:34Z"
 ---
 ## What it is
 Enables users to turn natural-language requests into validated, compilable Java test methods, grounded in a graph catalog to prevent hallucinated imports and ungrounded symbols.

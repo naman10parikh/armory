@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T14:10:40Z"
 ---
 ## What it is
 Enables LLM agents to draw and edit ChemDraw reaction schemes, parse ELN exports and LCMS/NMR data, and generate publication-ready CDXML files through grounded chemistry tools.

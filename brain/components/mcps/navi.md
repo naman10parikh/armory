@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T21:18:39Z"
 ---
 ## What it is
 A desktop notifier for AI agents that floats on screen and alerts users with chimes and speech bubbles when an agent calls its notify tool.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-07T15:56:49Z"
 ---
 ## What it is
 An MCP app that displays interactive Paris real estate price statistics per arrondissement inside Claude, with map, comparison, and address search.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T01:12:25Z"
 ---
 ## What it is
 A remote MCP server with GitHub OAuth that provides tools like arithmetic, GitHub user info, and image generation for authorized users.

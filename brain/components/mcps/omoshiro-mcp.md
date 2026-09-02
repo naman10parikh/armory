@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:38:40Z"
 ---
 ## What it is
 Research-grounded MCP server that provides evaluation lenses and conceptual boundaries for analyzing interestingness, enabling AI to assess humor, curiosity, and suspense without scoring content.

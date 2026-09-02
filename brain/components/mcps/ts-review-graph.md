@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T23:13:19Z"
 ---
 ## What it is
 Enables Claude Code to query a TypeScript dependency graph and retrieve the minimal set of files needed for code review, implementation, or debugging.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T18:32:49Z"
 ---
 ## What it is
 Enterprise-grade asynchronous multi-agent orchestration and MCP router mesh framework, enabling DAG-based workflows, consensus-driven agent swarms, and REST/telemetry gateway.

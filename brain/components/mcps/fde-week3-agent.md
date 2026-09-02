@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T23:42:49Z"
 ---
 ## What it is
 MCP server that exposes tools for natural-language querying of the Chinook SQLite database, enabling agents to discover schema and execute read-only SQL queries dynamically.

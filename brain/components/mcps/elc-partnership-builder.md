@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T18:54:36Z"
 ---
 ## What it is
 Enables users to build tailored company partnerships with the Engineering Leaders Community directly from their AI assistant, including qualifying goals, matching packages, customizing priced line items, and laying out 12-month journeys with an automatically applied 16% discount.

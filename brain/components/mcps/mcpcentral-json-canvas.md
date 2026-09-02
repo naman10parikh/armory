@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T14:09:09Z"
 ---
 ## What it is
 MCP server `JSON Canvas`, catalogued on PulseMCP. Provides tools for creating, reading, editing, and exporting JSON Canvas files for visual note-taking workflows.

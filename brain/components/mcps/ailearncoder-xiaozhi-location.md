@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-28T04:04:04Z"
 ---
 ## What it is
 MCP server `Xiaozhi Location`, catalogued on PulseMCP. Integrates with the xiaozhi-app Android device framework to retrieve real-time location data including GPS coordinates, altitude, and accuracy measurements from mobile devices using multiple location providers for navigation, geofencing, and location-based services.

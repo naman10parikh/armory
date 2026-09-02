@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T16:20:47Z"
 ---
 ## What it is
 Enables interaction with the PactFi AMM DEX on Algorand, including pool discovery, quote computation, and building swap/liquidity transactions. Integrates with UluOS wallet and broadcast servers for signing and submission.

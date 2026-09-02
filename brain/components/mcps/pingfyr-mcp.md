@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 1
+forks: 0
+pushed_at: "2026-06-08T14:07:01Z"
 ---
 ## What it is
 The scheduled delivery API for developers. Schedule reminders, notifications, and webhooks with one API call.

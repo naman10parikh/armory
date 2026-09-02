@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:18:42Z"
 ---
 ## What it is
 MCP server for comparing JSON, XML, XLSX, CSV, and text data using expected templates, returning pass/fail with difference details.

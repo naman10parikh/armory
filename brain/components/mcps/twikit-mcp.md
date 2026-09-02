@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-08-17T08:17:23Z"
 ---
 ## What it is
 An MCP server for interacting with Twitter/X using browser cookies without an API key, enabling tweet management, user actions, and search via natural language.

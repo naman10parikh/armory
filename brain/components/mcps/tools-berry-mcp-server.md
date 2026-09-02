@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T08:48:18Z"
 ---
 ## What it is
 Answers US paycheck and payroll-tax questions for 2026 with real arithmetic, including take-home pay, bonus withholding, state comparisons, and per-state rate schedules for all 50 states and DC.

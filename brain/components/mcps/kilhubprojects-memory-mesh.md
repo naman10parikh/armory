@@ -8,10 +8,12 @@ source_url: https://github.com/kilhubprojects/memory-mesh
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T02:37:34Z"
 ---
 ## What it is
 MCP server `Memory Mesh`, catalogued on PulseMCP. Local AI memory hub combining SQLite and ChromaDB hybrid search with 47 data connectors, real-time file monitoring, and 15 MCP tools for persistent cross-session memory.

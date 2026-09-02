@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-11-10T10:22:21Z"
 ---
 ## What it is
 MCP server `VOYP Call Automation`, catalogued on PulseMCP. Integrates with VOYP API to enable automated call handling, routing, and intelligent voice responses for enhanced call center operations.

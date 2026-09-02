@@ -8,11 +8,13 @@ source_url: https://github.com/slicequeue/k-mfds-fooddb-mcp-server
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-02T15:50:33Z"
 ---
 ## What it is
 Provides tools to search Korean food nutrition data from the Ministry of Food and Drug Safety (MFDS) database, enabling natural language queries for food composition details.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T11:27:39Z"
 ---
 ## What it is
 MCP server for Ukrainian public procurement (Prozorro) that exposes tools to search tenders, retrieve tender details and cards, list and read tender documents.

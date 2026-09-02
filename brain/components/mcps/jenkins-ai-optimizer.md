@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-01T16:03:49Z"
 ---
 ## What it is
 Enterprise-grade MCP server for Jenkins CI/CD integration that enables AI assistants to diagnose build failures, analyze pipelines, and search logs through natural conversation.

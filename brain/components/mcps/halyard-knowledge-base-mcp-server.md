@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T14:38:28Z"
 ---
 ## What it is
 Enables to search and retrieve chunks from a fictional library's documentation through three tools (kb_search, kb_fetch, kb_sources), allowing LLMs to perform RAG queries via the Model Context Protocol.

@@ -8,10 +8,12 @@ source_url: https://github.com/withastro/docs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-10-25T18:57:45Z"
 ---
 ## What it is
 MCP server `Astro Docs`, catalogued on PulseMCP. Provides access to the latest Astro framework documentation through Kapa.ai's search API, enabling developers to query official docs and retrieve structured results with titles, URLs, content snippets, and source types.

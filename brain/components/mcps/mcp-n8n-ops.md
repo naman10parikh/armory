@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T05:15:27Z"
 ---
 ## What it is
 MCP server for operating an n8n instance, enabling AI assistants to monitor failing workflows, check health, and list executions. Read-only by default with an opt-in write mode for workflow activation.

@@ -8,10 +8,12 @@ source_url: https://github.com/syntropicsignal-ai/loxone-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T15:04:29Z"
 ---
 ## What it is
 MCP server `Loxone`, catalogued on PulseMCP. MCP server for controlling Loxone Miniserver smart home devices and sensors.

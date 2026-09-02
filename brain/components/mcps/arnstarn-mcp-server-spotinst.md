@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
 stars: 1
+forks: 0
+pushed_at: "2026-05-05T14:23:05Z"
 ---
 ## What it is
 MCP server for Spot.io (Spotinst) API with 23 tools for managing Ocean clusters, VNGs, Elastigroups, costs, right-sizing, and logs across AWS and Azure with multi-account support.

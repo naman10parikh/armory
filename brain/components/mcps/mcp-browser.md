@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T22:05:33Z"
 ---
 ## What it is
 Exposes Playwright browser automation as MCP tools, enabling AI assistants to control a real browser tab-by-tab for form filling, navigation, and more, while preserving the user's active session.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:45:21Z"
 ---
 ## What it is
 Enables safety-first live control of Rekordbox over a virtual MIDI port, with armed transitions, dry-run preview, and emergency stop.

@@ -8,10 +8,12 @@ source_url: https://github.com/phil65/mcp-server-llmling
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-25T00:23:06Z"
 ---
 ## What it is
 MCP server `LLMling`, catalogued on PulseMCP. Provides a YAML-based configuration system for LLM applications, enabling declarative setup of custom environments with resource management, tool execution, and prompt handling capabilities.

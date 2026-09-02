@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:13:54Z"
 ---
 ## What it is
 MCP server that enables LLMs to create and control interactive MapLibre maps by placing markers, drawing paths, and rendering polygons directly in Claude Desktop.

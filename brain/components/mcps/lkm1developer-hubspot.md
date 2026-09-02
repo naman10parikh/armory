@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-04-01T11:11:01Z"
 ---
 ## What it is
 MCP server `HubSpot`, catalogued on PulseMCP. Integrates with HubSpot CRM to enable contact creation, company management, and activity tracking directly from conversational interfaces

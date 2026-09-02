@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-13T00:14:55Z"
 ---
 ## What it is
 MCP server for Reddit Ads API v3 enabling campaign management, ad creation, performance reporting, and audience targeting through Claude.

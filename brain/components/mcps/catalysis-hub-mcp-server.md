@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-20T14:47:42Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides programmatic access to Catalysis Hub's GraphQL API, enabling querying of catalytic reactions, material systems, publications, and surface reaction data.

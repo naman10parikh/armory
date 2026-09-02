@@ -8,10 +8,12 @@ source_url: https://github.com/agentdeskai/browser-tools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7213
+stars: 7306
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 527
+pushed_at: "2026-08-12T16:48:04Z"
 ---
 ## What it is
 MCP server `Browser Tools`, catalogued on PulseMCP. Enables browser data capture and analysis with tools for retrieving console logs, monitoring network requests, capturing screenshots, selecting DOM elements, and running Lighthouse audits for web application debugging and performance optimization.

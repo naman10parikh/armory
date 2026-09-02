@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-24T18:48:17Z"
 ---
 ## What it is
 MCP server `WEMS Natural Hazards`, catalogued on PulseMCP. Real-time natural hazard monitoring: earthquakes, tsunamis, volcanoes, solar weather, and air quality.

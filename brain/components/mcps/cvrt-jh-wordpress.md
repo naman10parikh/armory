@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-27T08:44:47Z"
 ---
 ## What it is
 MCP server `WordPress`, catalogued on PulseMCP. Integrates with the WordPress REST API to provide token-optimized site management including posts, pages, media, users, comments, taxonomies, plugins, themes, and settings through streamlined responses designed for efficient AI interactions.

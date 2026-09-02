@@ -8,10 +8,12 @@ source_url: https://github.com/fulcradynamics/fulcra-context-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-09-01T16:36:26Z"
 ---
 ## What it is
 MCP server `Fulcra Context`, catalogued on PulseMCP. Integrates with Fulcra Context personal data through OAuth2 authentication to retrieve health metrics, workout data, sleep cycles, location information, and user profile details from Apple Health and other connected sources for personal health analysis and fitness tracking.

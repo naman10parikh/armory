@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T16:52:52Z"
 ---
 ## What it is
 Provisions Google Analytics 4 for local AI/web projects by creating properties and web data streams, injecting gtag snippets, and saving configuration.

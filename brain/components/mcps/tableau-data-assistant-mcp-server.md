@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T09:39:33Z"
 ---
 ## What it is
 Provides MCP tools to query Tableau Server/Cloud datasources via REST API and VizQL Data Service, with support for Gemini or OpenAI as the LLM backend. Enables a natural language chat interface that can be embedded in Tableau dashboards, automatically including dashboard filter context.

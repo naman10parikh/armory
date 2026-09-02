@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:19:48Z"
 ---
 ## What it is
 Enables querying ANTT road freight transport operations by RNTRC and RENAVAM to confirm registration. Read-only MCP server that works with any MCP client over HTTP, with pay-per-use pricing.

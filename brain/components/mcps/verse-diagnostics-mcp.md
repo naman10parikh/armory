@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T13:15:10Z"
 ---
 ## What it is
 Parses UEFN Verse build diagnostics from UnrealEditorFortnite.log and exposes structured error data to MCP clients.

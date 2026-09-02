@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T02:40:50Z"
 ---
 ## What it is
 Compiles ISO 20022 readiness findings, remediation diffs, and simulated bank responses into sealed, tamper-evident audit evidence packs with Ed25519 signing and verification.

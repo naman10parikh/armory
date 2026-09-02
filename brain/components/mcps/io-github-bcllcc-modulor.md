@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T17:16:15Z"
 ---
 ## What it is
 Agent-native 2D drafting and 3D modeling kernel with a JSON op protocol, enabling parametric design, BIM semantics, and MCP server access for geometry generation and verification.

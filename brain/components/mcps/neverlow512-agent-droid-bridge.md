@@ -8,10 +8,12 @@ source_url: https://github.com/neverlow512/agent-droid-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-30T22:04:44Z"
 ---
 ## What it is
 MCP server `Agent Droid Bridge`, catalogued on PulseMCP. Programmatic control of Android devices and emulators via ADB, exposing screen capture, touch input, app management, and UI inspection as structured tools.

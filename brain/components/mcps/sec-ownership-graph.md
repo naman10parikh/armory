@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T05:45:31Z"
 ---
 ## What it is
 MCP server for querying the SEC Ownership Graph, providing curated read-only tools to analyze activist campaigns, control chains, and board interlocks from SEC filings. Answers cite accession numbers and abstain when data is insufficient.

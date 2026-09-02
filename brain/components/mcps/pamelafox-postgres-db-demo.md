@@ -8,10 +8,12 @@ source_url: https://github.com/pamelafox/mcp-for-postgres-db-demo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-12T14:27:06Z"
 ---
 ## What it is
 MCP server `Postgres DB Demo`, catalogued on PulseMCP. Educational MCP server demonstrating four FastMCP abstraction levels for safe PostgreSQL tool design.

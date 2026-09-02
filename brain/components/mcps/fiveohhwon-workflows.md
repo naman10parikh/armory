@@ -8,10 +8,12 @@ source_url: https://github.com/fiveohhwon/workflows-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-12T03:38:46Z"
 ---
 ## What it is
 MCP server `Workflows`, catalogued on PulseMCP. Provides workflow management and automation through step-by-step execution with branching logic, conditional operations, template variables, and state persistence for complex multi-step processes like code reviews and data pipelines.

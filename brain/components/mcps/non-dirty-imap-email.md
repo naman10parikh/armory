@@ -8,10 +8,12 @@ source_url: https://github.com/non-dirty/imap-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2025-04-03T00:14:05Z"
 ---
 ## What it is
 MCP server `IMAP Workflows`, catalogued on PulseMCP. Provides robust email interaction capabilities through IMAP, enabling advanced email retrieval, searching, and management with first-class support for Gmail OAuth2 and app-specific password authentication.

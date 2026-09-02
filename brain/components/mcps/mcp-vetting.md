@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T14:14:12Z"
 ---
 ## What it is
 Trust-scan gate for MCP servers: evidence-backed verdicts before you install.

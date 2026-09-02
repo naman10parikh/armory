@@ -8,10 +8,12 @@ source_url: https://github.com/radareorg/radare2-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 236
+stars: 302
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 39
+pushed_at: "2026-09-01T14:58:07Z"
 ---
 ## What it is
 MCP server `Radare2`, catalogued on PulseMCP. Provides direct access to radare2's binary analysis framework for reverse engineering, malware analysis, and debugging through a simple stdin/stdout communication model.

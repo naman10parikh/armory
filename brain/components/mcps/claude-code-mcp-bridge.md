@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-23T18:36:54Z"
 ---
 ## What it is
 A transparent message ferry between Claude Desktop and Claude Code CLI, enabling task delegation with any MCP configuration without the bridge needing to know about specific MCPs.

@@ -8,11 +8,13 @@ source_url: https://github.com/shimmerjordan/self-host-fusion360-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-03T08:28:59Z"
 ---
 ## What it is
 A self-hosted MCP server that lets Claude (or any MCP client) drive Autodesk Fusion 360 on your own machine.

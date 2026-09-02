@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T13:25:11Z"
 ---
 ## What it is
 Issue, rotate, and revoke API key passes from your AI agent without the agent ever seeing a real key.

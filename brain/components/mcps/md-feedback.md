@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-23T13:16:44Z"
 ---
 ## What it is
 An MCP server for reviewing markdown plans before AI agents implement them. Enables annotation of plans with Fix, Question, and Highlight, which AI agents can read directly through MCP.

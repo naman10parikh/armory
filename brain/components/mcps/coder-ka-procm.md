@@ -8,10 +8,12 @@ source_url: https://github.com/coder-ka/procm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-31T12:06:29Z"
 ---
 ## What it is
 MCP server `Procm`, catalogued on PulseMCP. MCP server for managing and monitoring local processes from AI agents.

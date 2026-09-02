@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T05:52:50Z"
 ---
 ## What it is
 A retrieval-first prompt engine for commercial advertising that curates, ranks, and composes visual ad prompts for image generation models like GPT Image, Midjourney, and Flux without generating images itself.

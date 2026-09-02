@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-22T05:13:03Z"
 ---
 ## What it is
 MCP server `Radiation Detector Simulation`, catalogued on PulseMCP. Design and simulate radiation detectors using Geant4 and Allpix2 through natural language with 9 tools.

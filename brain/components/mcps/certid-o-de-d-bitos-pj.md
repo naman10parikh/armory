@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:29:58Z"
 ---
 ## What it is
 MCP server that issues joint federal debt certificates for Brazilian companies from CNPJ. Read-only, hosted, pay-per-use, works with any MCP client.

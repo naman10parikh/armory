@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T11:57:36Z"
 ---
 ## What it is
 Enables analysis of legal document changes by constructing a dependency graph and simulating impact propagation, with risk level assessment.

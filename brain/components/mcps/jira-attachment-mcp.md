@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T15:25:25Z"
 ---
 ## What it is
 Fetches Jira attachments and returns them inline (for small images) or as local paths for larger files and other types, enabling AI models to access Jira attachments directly.

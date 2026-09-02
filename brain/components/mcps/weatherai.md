@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-25T07:58:00Z"
 ---
 ## What it is
 MCP server `WeatherAI`, catalogued on PulseMCP. Real-time weather data for AI assistants with 11 tools covering forecasts, air quality, and solar data.

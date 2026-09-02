@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T20:08:41Z"
 ---
 ## What it is
 MCP server providing 200x faster macOS computer use via Accessibility API, enabling direct UI automation (click, type, scroll) with ~1s workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T16:56:54Z"
 ---
 ## What it is
 Read-only MCP server that monitors a Bitcoin Core full node via JSON-RPC, providing tools to check node status, network info, mempool, and peer information.

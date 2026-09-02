@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T08:03:16Z"
 ---
 ## What it is
 MCP server that wraps SFC financial data API into 32 tools for comprehensive A-share market data, including real-time quotes, rankings, limit-up statistics, news, themes, financials, charts, research reports, and watchlists.

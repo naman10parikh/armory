@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:30:12Z"
 ---
 ## What it is
 Provides MySQL access with configurable per-connection capabilities, enabling secure read-only or writable database operations through Claude Code and other MCP clients.

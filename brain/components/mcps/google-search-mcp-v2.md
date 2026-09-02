@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T11:06:57Z"
 ---
 ## What it is
 MCP server for Claude Code that provides Google text search, web content extraction, and image search with dual-platform (Google Images + Pinterest) and AI visual analysis with quality scoring.

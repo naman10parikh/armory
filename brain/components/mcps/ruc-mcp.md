@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T21:53:49Z"
 ---
 ## What it is
 Enables AI agents to write and execute code snippets that call back to the LLM, combining procedural code with LLM judgment for reliable execution of complex tasks such as data processing and classification.

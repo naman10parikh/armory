@@ -12,6 +12,8 @@ stars: 83
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-04-05T09:52:46Z"
 ---
 ## What it is
 MCP server `Browser MCP`, catalogued on PulseMCP. Browser extension that enables real-time interaction with web pages, allowing retrieval of content as markdown, CSS styling modifications, and browser history searches.

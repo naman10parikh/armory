@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T03:40:39Z"
 ---
 ## What it is
 MCP server `Anthropic Admin`, catalogued on PulseMCP. Manage Anthropic organizations, workspaces, members, API keys, and usage via the Admin API.

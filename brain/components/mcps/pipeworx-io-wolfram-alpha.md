@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:49:51Z"
 ---
 ## What it is
 MCP server `Wolfram Alpha`, catalogued on PulseMCP. Wolfram Alpha computational, factual, and quantitative queries via the Pipeworx gateway.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-12T09:22:05Z"
 ---
 ## What it is
 MCP server `Domain Monitor`, catalogued on PulseMCP. Queries domain expiration data from domain-monitor.io.

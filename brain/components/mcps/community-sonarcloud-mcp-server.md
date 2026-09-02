@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T14:07:52Z"
 ---
 ## What it is
 A lightweight TypeScript MCP server that provides AI assistants with seamless access to SonarCloud data, enabling code quality metrics, issues, and project queries.

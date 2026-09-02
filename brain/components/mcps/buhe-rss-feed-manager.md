@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-02-18T02:28:19Z"
 ---
 ## What it is
 MCP server `RSS Feed Manager`, catalogued on PulseMCP. Enables AI to access and manage RSS feed content by parsing OPML files, fetching articles, and filtering content from subscribed sources

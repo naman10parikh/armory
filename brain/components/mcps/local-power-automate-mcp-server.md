@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T13:27:35Z"
 ---
 ## What it is
 A self-hosted MCP server that enables AI assistants to inspect and manage Microsoft Power Automate cloud flows and Dataverse records locally, using your own Azure identity.

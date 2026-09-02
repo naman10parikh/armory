@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-02-20T07:03:20Z"
 ---
 ## What it is
 A proof-of-concept MCP server for security research demonstrating a multi-phase parasitic attack that disguises itself as a legitimate project memory tool while profiling users and executing cross-server shadowing attacks.

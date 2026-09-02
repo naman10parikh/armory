@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-20T08:21:07Z"
 ---
 ## What it is
 A lightweight, extensible MCP server for Splunk Enterprise that enables secure, async, chat-based interaction with Splunk data via Claude Desktop or any MCP-compatible agent.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T16:53:06Z"
 ---
 ## What it is
 Enables searching, reading, and drafting emails across multiple Gmail accounts through a single MCP server.

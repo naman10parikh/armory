@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T21:46:39Z"
 ---
 ## What it is
 Sends document files (EPUB, PDF, DOCX, etc.) to your Kindle via email using Amazon's Send to Kindle feature.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:43:35Z"
 ---
 ## What it is
 Integrates Kiro IDE with Telegram to send notifications and request interactive confirmations via inline keyboard buttons.

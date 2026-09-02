@@ -8,11 +8,13 @@ source_url: https://github.com/DevnorsAI/devnors-data-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 160
+stars: 234
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T08:45:33Z"
 ---
 ## What it is
 Enables MCP clients to discover capabilities and call legal, enterprise, content, and express APIs using a Devnors Data API Key.

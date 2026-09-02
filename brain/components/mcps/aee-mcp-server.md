@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T04:34:36Z"
 ---
 ## What it is
 Enables AI-first accessibility testing by investigating pages, explaining findings, and applying fixes via natural language, integrated with Playwright tests and local or cloud AI models.

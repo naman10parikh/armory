@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T12:09:15Z"
 ---
 ## What it is
 Enables AI agents to query a cross-disciplinary knowledge graph covering metaphysics, quantum physics, astronomy, and historical geography, with semantic search and relationship discovery.

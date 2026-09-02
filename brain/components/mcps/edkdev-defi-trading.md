@@ -8,10 +8,12 @@ source_url: https://github.com/edkdev/defi-trading-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-06-10T10:03:05Z"
 ---
 ## What it is
 MCP server `DeFi Trading Agent`, catalogued on PulseMCP. Transforms conversational interfaces into autonomous DeFi trading agents with real-time market analysis, portfolio management, and seamless trade execution across 17+ blockchains including Ethereum, Base, and Arbitrum through 0x API swap aggregation and gasless trading support.

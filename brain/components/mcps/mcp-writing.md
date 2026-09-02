@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T09:22:50Z"
 ---
 ## What it is
 An MCP service for AI-assisted reasoning and editing on long-form fiction projects. It builds a structured index from scene files for targeted context retrieval.

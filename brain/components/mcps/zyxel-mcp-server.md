@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-04T20:01:49Z"
 ---
 ## What it is
 Enables AI applications to interact with Zyxel managed switches for network configuration, monitoring, and management using authentic CLI commands.

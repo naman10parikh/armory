@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T10:02:38Z"
 ---
 ## What it is
 Enables AI-assisted gameplay for Slay the Spire by reading game state and providing strategy advice or automated actions via Claude Code.

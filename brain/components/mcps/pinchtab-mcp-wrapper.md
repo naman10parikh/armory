@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-31T12:48:33Z"
 ---
 ## What it is
 MCP server that exposes the Pinchtab browser API for token-efficient web scraping, change detection, and automated testing workflows.

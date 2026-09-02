@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T09:22:49Z"
 ---
 ## What it is
 An MCP server template with built-in OAuth 2.0 authorization code flow and PKCE, enabling Grok to authenticate and invoke tools such as hello and publish_page.

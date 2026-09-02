@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T19:03:56Z"
 ---
 ## What it is
 Enables LibreChat AI agents to search indexed message history and conversations via MCP tools, with user-scoped access and optional admin search, augmenting memory while reducing context loss.

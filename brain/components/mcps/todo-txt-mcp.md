@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-20T20:58:27Z"
 ---
 ## What it is
 Connects AI assistants to todo.txt files, enabling task management through natural language while preserving plain text simplicity.

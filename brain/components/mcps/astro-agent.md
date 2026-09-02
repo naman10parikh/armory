@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T08:35:24Z"
 ---
 ## What it is
 Provides live astronomical telemetry and space data, including ISS tracking, NASA APOD, and solar weather, via a Model Context Protocol server with SSE and JSON-RPC support.

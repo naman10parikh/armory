@@ -8,11 +8,13 @@ source_url: https://github.com/Kaago/openpapers-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T23:43:24Z"
 ---
 ## What it is
 A local MCP server for searching scientific papers, retrieving metadata and abstracts, and legally downloading Open Access PDFs via OpenAlex, CrossRef, and Unpaywall APIs.

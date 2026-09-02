@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T18:50:30Z"
 ---
 ## What it is
 Cache-first MCP server for Romanian job search with Jooble integration, enabling local job search, quota management, and structured detail extraction.

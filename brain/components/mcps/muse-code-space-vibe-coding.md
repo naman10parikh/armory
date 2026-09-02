@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-06T14:07:28Z"
 ---
 ## What it is
 MCP server `Vibe Coding`, catalogued on PulseMCP. Auto-document vibe coding sessions by collecting, summarizing, and publishing to multiple platforms.

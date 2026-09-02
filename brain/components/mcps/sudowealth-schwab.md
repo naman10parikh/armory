@@ -8,10 +8,12 @@ source_url: https://github.com/sudowealth/schwab-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 36
+pushed_at: "2025-06-02T23:51:26Z"
 ---
 ## What it is
 MCP server `Charles Schwab`, catalogued on PulseMCP. Access Charles Schwab accounts, trading data, and real-time market information.

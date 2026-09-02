@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T08:55:16Z"
 ---
 ## What it is
 MCP server `Vibe Checker`, catalogued on PulseMCP. Analyzes code with humorous personality type assignments, energy ratings, and aesthetic naming suggestions.

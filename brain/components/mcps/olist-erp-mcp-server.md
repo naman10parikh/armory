@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-28T07:52:58Z"
 ---
 ## What it is
 Enables AI agents to interact with the Olist ERP (Tiny) API v3, providing 168 tools for managing products, orders, contacts, invoices, and more.

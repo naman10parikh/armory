@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T22:22:11Z"
 ---
 ## What it is
 Enables AI agents to safely inspect and query a SQLite database through read-only MCP tools for listing tables, describing schemas, and running paginated SELECT queries.

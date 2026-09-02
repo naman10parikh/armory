@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:54:02Z"
 ---
 ## What it is
 France Economy & Finance Open Data MCP server providing tools to search datasets, retrieve metadata, and query records from data.economie.gouv.fr.

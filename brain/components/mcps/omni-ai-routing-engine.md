@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T21:01:47Z"
 ---
 ## What it is
 Edge-deployed predictive decision engine and circuit-breaker orchestrator for AI agents. Features low-latency telemetry, automated failover routing, and Bitcoin Lightning micro-payments.

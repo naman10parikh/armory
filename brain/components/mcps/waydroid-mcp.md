@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T02:55:29Z"
 ---
 ## What it is
 Enables agents to interact with Android via text-based UI trees instead of screenshots, supporting taps, swipes, input, macro recording, and device control through an MCP server and CLI.

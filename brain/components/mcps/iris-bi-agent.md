@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T03:14:21Z"
 ---
 ## What it is
 Enables verifiable business intelligence over federated data sources, supporting semantic queries, drill-down to source rows, and raw SQL with explicit verification status.

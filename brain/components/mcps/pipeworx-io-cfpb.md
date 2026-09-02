@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:47:22Z"
 ---
 ## What it is
 MCP server `CFPB`, catalogued on PulseMCP. Consumer Financial Protection Bureau complaint database, free with no authentication required.

@@ -8,10 +8,12 @@ source_url: https://github.com/nanameru/substack-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-02T01:48:31Z"
 ---
 ## What it is
 MCP server `Substack`, catalogued on PulseMCP. Manages Substack publications programmatically, enabling post creation, editing, image uploads, scheduling, and publishing via Substack's internal API.

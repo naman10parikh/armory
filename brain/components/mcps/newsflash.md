@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T01:34:49Z"
 ---
 ## What it is
 MCP server for Newsflash, offering a deduplicated, corroborated news event graph from 260+ outlets, backfilled five years. Enables agents to query events, articles, sources, and corpus stats via natural language.

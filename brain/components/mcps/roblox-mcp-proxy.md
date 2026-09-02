@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T20:03:03Z"
 ---
 ## What it is
 Enables cloud agents like Notion AI to connect to a local Roblox Studio MCP server via a persistent SSE bridge with authentication.

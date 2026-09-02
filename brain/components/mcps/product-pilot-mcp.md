@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:53:20Z"
 ---
 ## What it is
 Provides secure PDF template analysis and layout extraction for AI assistants, enabling generation of styled HTML with automatic image generation.

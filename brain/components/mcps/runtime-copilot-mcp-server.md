@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T16:30:34Z"
 ---
 ## What it is
 Provides an MCP-native operational interface for diagnostics, explainability, regression checks, and operational memory on data-system internals like PostgreSQL and Databricks toy engines.

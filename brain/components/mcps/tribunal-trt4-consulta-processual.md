@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:17Z"
 ---
 ## What it is
 MCP server for consulting process information from TRT4 (Regional Labor Court) in Brazil, providing read-only access to official legal process data. Works with any MCP client over HTTP, using prepaid credits for per-query pricing.

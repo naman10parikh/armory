@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T10:34:51Z"
 ---
 ## What it is
 Enables natural language interaction with a GeoServer instance for managing workspaces, datastores, feature types, layers, styles, and OGC services (WMS/WFS) via an LLM-powered agent.

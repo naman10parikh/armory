@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:42:54Z"
 ---
 ## What it is
 Enables an agent to review pull requests by listing changed files, checking test coverage, linting changed Python files with Ruff, and posting a real review to GitHub.

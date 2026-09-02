@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-07T13:47:58Z"
 ---
 ## What it is
 Provides a trust layer for agent-to-agent commerce and delegated agent authority, allowing MCP-capable agents to install and fetch the latest Internet Court skill dynamically.

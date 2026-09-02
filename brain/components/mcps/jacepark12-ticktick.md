@@ -8,10 +8,12 @@ source_url: https://github.com/jacepark12/ticktick-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 287
+stars: 298
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 104
+pushed_at: "2025-07-30T15:26:11Z"
 ---
 ## What it is
 MCP server `TickTick`, catalogued on PulseMCP. Integrates with TickTick task management API for creating, reading, updating, and deleting tasks and projects with OAuth2 authentication and secure credential storage.

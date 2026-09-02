@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:31:03Z"
 ---
 ## What it is
 Provides inventory analysis, risk assessment, demand forecasting, and recommendation generation tools for retail inventory optimization via a FastMCP stdio server.

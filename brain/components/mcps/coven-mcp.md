@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T13:36:35Z"
 ---
 ## What it is
 MCP server for website auditing and AI visibility measurement using the COVEN v2.0.1 methodology, offering tools to scan, score, and optimize sites for agent traffic.

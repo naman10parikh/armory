@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T20:52:02Z"
 ---
 ## What it is
 MCP server for Hive Passport, enabling lookup of HKTN registry records, zone membership proofs, and A2A clearance integration.

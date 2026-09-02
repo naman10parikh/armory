@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T14:46:41Z"
 ---
 ## What it is
 An MCP server that enables AI coding assistants like Codex and Claude Code to use DSH as an external resumable sub-agent via async task management tools and a visual dashboard.

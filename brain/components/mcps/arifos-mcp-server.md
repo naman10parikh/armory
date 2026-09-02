@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-09-01T09:57:11Z"
 ---
 ## What it is
 Provides a constitutional governance framework for AI agents, offering 13 MCP tools for session initiation, reasoning, evidence fetching, judgment, and execution, all governed by hard invariant laws and a hierarchical set of constitutional floors.

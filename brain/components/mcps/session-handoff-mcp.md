@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T03:18:53Z"
 ---
 ## What it is
 Preserves continuity between coding agent sessions (e.g., Claude Code and Codex) via local, structured checkpoints, enabling a checkpoint → clear → resume workflow.

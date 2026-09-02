@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-02T04:27:42Z"
 ---
 ## What it is
 Enables semantic code search across indexed code folders using vector embeddings, with support for multiple embedding providers and automatic file watching. Provides an admin UI and integrates with MCP clients for natural language code queries.

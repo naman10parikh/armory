@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T15:40:45Z"
 ---
 ## What it is
 Exposes a metrics query API to AI assistants, allowing them to issue queries and interact with the server's tools such as ping.

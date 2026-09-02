@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T17:59:49Z"
 ---
 ## What it is
 Enables deterministic web evidence collection by inspecting a field (price or availability) on a web page and returning structured observations from multiple channels (raw DOM, structured data, embedded state, rendered DOM, network JSON) with exact provenance, without interpreting correctness.

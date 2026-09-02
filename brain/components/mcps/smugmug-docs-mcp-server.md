@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T22:26:12Z"
 ---
 ## What it is
 A lightweight MCP server for searching SmugMug documentation and calling the live SmugMug API.

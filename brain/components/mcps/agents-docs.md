@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:52:35Z"
 ---
 ## What it is
 Ultra-fast local markdown documentation RAG for AI coding agents, enabling instant BM25 search over official framework docs and live AI model registries via MCP.

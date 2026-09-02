@@ -8,10 +8,12 @@ source_url: https://github.com/onplana/onplana-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-27T16:17:14Z"
 ---
 ## What it is
 MCP server `Onplana`, catalogued on PulseMCP. Portfolio management MCP providing AI agents access to projects, tasks, and semantic search across organizational content.

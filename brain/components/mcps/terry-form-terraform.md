@@ -8,10 +8,12 @@ source_url: https://github.com/aj-geddes/terry-form-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-22T02:27:20Z"
 ---
 ## What it is
 MCP server `Terry-Form (Terraform)`, catalogued on PulseMCP. Provides secure Terraform operations through Docker-containerized environments that isolate infrastructure planning and validation tasks, supporting init, validate, fmt, and plan operations with variable injection while restricting dangerous actions like apply or destroy for safe infrastructure code review and automated planning workflows.

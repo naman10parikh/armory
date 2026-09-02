@@ -8,11 +8,13 @@ source_url: https://github.com/gopisrikrishna/solarnetwork-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T08:33:53Z"
 ---
 ## What it is
 Enables AI agents to query live solar telemetry from public SolarNetwork sites, detect dated equipment faults with peer-relative analysis, and generate printable PDF service reports for field technicians.

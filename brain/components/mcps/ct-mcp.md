@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T15:41:30Z"
 ---
 ## What it is
 Nine deterministic MCP tools that make LLM answers prove themselves before you trust them.

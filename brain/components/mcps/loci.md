@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T04:42:56Z"
 ---
 ## What it is
 Local-first harness and ticket operations for AI assistants via CLI or MCP.

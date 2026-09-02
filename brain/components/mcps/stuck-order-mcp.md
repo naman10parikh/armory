@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:44:06Z"
 ---
 ## What it is
 MCP server for investigating payment/webhook drift, classifying order status mismatches, detecting duplicate charges, and escalating findings for human review. It is read-only for payment state and does not automatically retry or correct transactions.

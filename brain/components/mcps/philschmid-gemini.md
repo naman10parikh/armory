@@ -12,6 +12,8 @@ stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-06-13T13:47:54Z"
 ---
 ## What it is
 MCP server `Gemini`, catalogued on PulseMCP. Integrates with Google's Gemini API to provide intelligent web search with synthesized results and citations, plus direct access to Gemini 2.5 models for complex reasoning and content generation tasks.

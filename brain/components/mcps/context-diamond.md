@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T17:40:35Z"
 ---
 ## What it is
 Enables LLM agents to compress handoffs into structured, auditable context capsules, preserving goals, constraints, decisions, and risks without external API calls.

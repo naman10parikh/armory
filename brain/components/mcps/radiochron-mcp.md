@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T08:32:03Z"
 ---
 ## What it is
 Provides AI assistants with local Wi-Fi diagnostics including connection history analysis, live signal sampling, and connectivity diagnosis. It returns findings and verdicts rather than raw data, and runs on Windows, Linux, and macOS without sending data off the machine.

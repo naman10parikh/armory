@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T20:50:35Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes Pexels API tools for searching and retrieving free stock photos, videos, and curated collections, enabling AI agents to incorporate royalty-free media directly from chat.

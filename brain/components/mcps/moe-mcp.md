@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T07:05:27Z"
 ---
 ## What it is
 Enables querying a team of domain experts with automatic routing and traceable citations for accurate answers.

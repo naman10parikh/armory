@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-22T08:51:43Z"
 ---
 ## What it is
 Provides tools for downloading YouTube videos and audio using yt-dlp, enabling integration with AI assistants via MCP.

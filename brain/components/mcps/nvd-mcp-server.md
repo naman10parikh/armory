@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T23:44:55Z"
 ---
 ## What it is
 MCP server for the NIST National Vulnerability Database — lets AI assistants search CVEs by keyword, severity, CPE, CWE, KEV status, and date range via natural language.

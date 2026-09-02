@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T16:20:10Z"
 ---
 ## What it is
 A deployable serverless MCP OAuth gateway and proxy that adds OAuth 2.0 authentication to Excalidraw tools or any external MCP server, enabling secure connections from clients like Google Spark and Gemini.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:12Z"
 ---
 ## What it is
 MCP server for querying official fund transfer data from Brazil's Transparency Portal, offering a read-only tool with usage-based pricing.

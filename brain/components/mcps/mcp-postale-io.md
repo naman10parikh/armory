@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T00:11:48Z"
 ---
 ## What it is
 Enables managing postale.io email hosting through the official API, covering domains, DNS/DKIM, mailboxes, aliases, branding, Sieve filters, quotas, and logs, with safety confirmations for destructive operations.

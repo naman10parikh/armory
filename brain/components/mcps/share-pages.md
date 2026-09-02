@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T15:54:12Z"
 ---
 ## What it is
 Enables creating, listing, and deleting temporary shared Markdown/HTML pages with 72-hour expiration. Supports local Node.js or Cloudflare Workers deployment with OAuth login.

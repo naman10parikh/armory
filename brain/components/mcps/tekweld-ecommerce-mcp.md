@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T05:23:03Z"
 ---
 ## What it is
 MCP server that wraps the Tekweld ecommerce test API, providing tools to browse the mega menu and make generic API calls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-22T05:04:35Z"
 ---
 ## What it is
 m1nd is a local MCP runtime that gives coding agents graph-native memory of a codebase: structure, docs, decisions, change impact, recovery state, and investigation continuity.

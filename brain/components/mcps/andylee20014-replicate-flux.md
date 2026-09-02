@@ -8,10 +8,12 @@ source_url: https://github.com/andylee20014/mcp-replicate-flux
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-04-13T13:31:51Z"
 ---
 ## What it is
 MCP server `Replicate Flux`, catalogued on PulseMCP. Connects to Replicate's image generation models, enabling text-to-image creation with automatic cloud storage of results for seamless visual content integration.

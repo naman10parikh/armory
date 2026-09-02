@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:08:30Z"
 ---
 ## What it is
 A sample employee database exposed as an MCP server, enabling AI agents to search employees and query organizational structure.

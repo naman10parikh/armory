@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-11T05:08:27Z"
 ---
 ## What it is
 MCP server `Hong Kong Transportation`, catalogued on PulseMCP. Provides real-time Hong Kong bus arrival information, nearby stop discovery, and route planning via KMB and Citybus APIs.

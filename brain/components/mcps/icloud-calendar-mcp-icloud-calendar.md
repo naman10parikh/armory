@@ -8,10 +8,12 @@ source_url: https://github.com/icloud-calendar-mcp/icloud-calendar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-15T02:42:03Z"
 ---
 ## What it is
 MCP server `iCloud Calendar`, catalogued on PulseMCP. Secure iCloud Calendar access via CalDAV with OWASP-aligned security controls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T08:36:30Z"
 ---
 ## What it is
 Enables querying, searching, and comparing FANUC CNC parameters for the 0i-F Plus series.

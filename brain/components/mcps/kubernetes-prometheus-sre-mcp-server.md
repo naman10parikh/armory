@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T17:40:16Z"
 ---
 ## What it is
 Enables natural language Kubernetes cluster operations, SLO monitoring, and PromQL queries via Claude using the Model Context Protocol.

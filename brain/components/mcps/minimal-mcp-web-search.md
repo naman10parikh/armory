@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T03:18:21Z"
 ---
 ## What it is
 Provides local LLMs with web search and page fetching capabilities via MCP, with a focus on OWASP security best practices.

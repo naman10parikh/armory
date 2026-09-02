@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T03:01:43Z"
 ---
 ## What it is
 Checks cross-branch compatibility for merge conflicts by detecting function signature changes, route conflicts, and schema mismatches across 15+ languages using AST analysis.

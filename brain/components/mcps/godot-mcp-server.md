@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-01T16:26:14Z"
 ---
 ## What it is
 A Model Context Protocol server that provides AI assistants with tools to interact with Godot projects, enabling starting, stopping, capturing output, and screenshots.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T18:37:23Z"
 ---
 ## What it is
 An MCP server that gives LLMs access to Wikipedia, supporting search, article retrieval, summaries, sections, and related topics across multiple languages and language variants.

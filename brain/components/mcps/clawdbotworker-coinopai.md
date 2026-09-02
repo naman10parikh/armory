@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-01T18:41:19Z"
 ---
 ## What it is
 MCP server `CoinopAI`, catalogued on PulseMCP. x402-powered crypto intelligence and automation search on Base blockchain via local stdio MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-05T03:35:31Z"
 ---
 ## What it is
 Exposes Amazon Nova Act browser-automation tools via the Model Context Protocol, enabling AI agents to control a web browser through natural language instructions.

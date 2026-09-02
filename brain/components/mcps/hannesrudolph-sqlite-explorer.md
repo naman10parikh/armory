@@ -8,10 +8,12 @@ source_url: https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 105
+stars: 107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2025-07-18T07:01:19Z"
 ---
 ## What it is
 MCP server `SQLite Explorer`, catalogued on PulseMCP. Secure, read-only access to query and analyze SQLite databases.

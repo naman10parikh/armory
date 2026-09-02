@@ -8,10 +8,12 @@ source_url: https://github.com/bart6114/my-bear-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-14T12:08:28Z"
 ---
 ## What it is
 MCP server `Bear Notes`, catalogued on PulseMCP. Provides read-only access to Bear note-taking app's SQLite database for searching and retrieving notes and tags through local Node.js server tools.

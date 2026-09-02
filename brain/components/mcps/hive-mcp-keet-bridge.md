@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T01:27:18Z"
 ---
 ## What it is
 Bridges Holepunch/Keet identity keys into the Hive DID network, enabling DID resolution, attestation verification, and partner lookup via MCP tools.

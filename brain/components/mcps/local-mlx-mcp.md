@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T15:02:49Z"
 ---
 ## What it is
 Exposes locally hosted MLX models as MCP tools for Claude Desktop and Codex, with optional SearXNG search augmentation for private local inference.

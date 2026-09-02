@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T08:37:14Z"
 ---
 ## What it is
 A professional MCP server for serial port communication, enabling AI assistants to list, connect, send/receive data, and manage serial connections with embedded systems, IoT devices, and hardware debugging hardware.

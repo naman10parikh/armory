@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:09:56Z"
 ---
 ## What it is
 Read-only MCP server that performs deterministic local preflights of agent-payment boundary documents and x402 v2 PaymentRequired JSON, and prepares unsubmitted public quote-request drafts without network calls or fund movement.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-15T20:02:37Z"
 ---
 ## What it is
 MCP server to fetch transcripts for YouTube videos, enabling users to retrieve and summarize video content via natural language.

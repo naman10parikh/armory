@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T07:43:19Z"
 ---
 ## What it is
 Self-hosted ML inference MCP server providing embeddings and summarization tools using sentence-transformers and Ollama, with low-latency preloaded models and API-key authentication.

@@ -8,10 +8,12 @@ source_url: https://github.com/sundsoffice-tech/ai-audit-trail
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-10T15:05:44Z"
 ---
 ## What it is
 MCP server `AI Audit Trail`, catalogued on PulseMCP. Tamper-evident Ed25519-signed audit trails for AI agents with EU AI Act compliance support.

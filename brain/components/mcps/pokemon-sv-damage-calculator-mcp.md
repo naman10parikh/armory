@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-21T06:48:59Z"
 ---
 ## What it is
 A high-precision damage calculator for Pokemon Scarlet and Violet, supporting 16-step random rolls, type effectiveness, terastal, and weather effects. Enables users to calculate damage, compare moves, search Pokemon/moves/items, and analyze KO probabilities.

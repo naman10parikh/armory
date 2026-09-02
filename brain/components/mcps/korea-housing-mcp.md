@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T04:46:30Z"
 ---
 ## What it is
 This MCP server integrates South Korea's national law information, building registers from MOLIT, and KOSIS statistics for housing development research. It enables searching laws, retrieving building details, and accessing statistical data through natural language.

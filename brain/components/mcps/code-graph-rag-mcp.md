@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 30
+pushed_at: "2026-06-12T19:37:20Z"
 ---
 ## What it is
 A powerful Model Context Protocol server that creates intelligent graph representations of your codebase with comprehensive semantic analysis capabilities, supporting 11 languages and 26 MCP methods.

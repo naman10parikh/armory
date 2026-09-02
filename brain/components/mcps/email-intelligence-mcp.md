@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T00:14:09Z"
 ---
 ## What it is
 An MCP server that provides email verification, bulk list cleaning, and signup risk assessment tools. It exposes three typed tools for agents: verify_email, clean_email_list, and assess_signup_risk, with real DNS MX checks and disposable domain detection.

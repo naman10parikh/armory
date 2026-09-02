@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-23T22:57:34Z"
 ---
 ## What it is
 MCP server `RiveMCP`, catalogued on PulseMCP. Creates and edits Rive animation files with 139 tools for AI-driven animation workflows.

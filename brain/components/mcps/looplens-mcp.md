@@ -8,11 +8,13 @@ source_url: https://github.com/musaceylan/looplens-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-31T16:32:20Z"
 ---
 ## What it is
 An MCP server for detecting retry loops and analyzing iteration patterns in agentic coding workflows, providing structured debugging intelligence to improve repair attempts.

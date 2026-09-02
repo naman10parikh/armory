@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T10:08:56Z"
 ---
 ## What it is
 An AI-powered news aggregator MCP server that fetches live news from multiple sources, provides AI summaries via Claude, and performs sentiment analysis and trending topic detection.

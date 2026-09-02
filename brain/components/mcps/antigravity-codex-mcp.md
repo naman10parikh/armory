@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T02:16:48Z"
 ---
 ## What it is
 A controlled Model Context Protocol bridge that lets OpenAI Codex delegate work to Google Antigravity CLI on demand, with project-scoped opt-in and read-only delegation.

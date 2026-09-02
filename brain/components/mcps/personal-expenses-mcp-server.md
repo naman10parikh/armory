@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T00:18:42Z"
 ---
 ## What it is
 An MCP server for tracking personal monthly budgets, allowing users to add people, initialize months with salary, log expenses, and retrieve monthly statements through natural language.

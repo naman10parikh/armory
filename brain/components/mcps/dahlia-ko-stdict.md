@@ -8,10 +8,12 @@ source_url: https://github.com/dahlia/ko-stdict-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-29T08:16:57Z"
 ---
 ## What it is
 MCP server `Korean Standard Dictionary`, catalogued on PulseMCP. Provides Korean Standard Dictionary lookup from the National Institute of the Korean Language via SQLite-backed search.

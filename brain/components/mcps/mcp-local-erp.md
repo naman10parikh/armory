@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T14:51:36Z"
 ---
 ## What it is
 Enables local file reading and writing for your project via Claude Desktop, with tools to read, write, and list files in a specified root path.

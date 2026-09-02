@@ -8,10 +8,12 @@ source_url: https://github.com/mhajder/librenms-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-09-01T07:56:02Z"
 ---
 ## What it is
 MCP server `LibreNMS`, catalogued on PulseMCP. Query devices, ports, alerts, and manage LibreNMS network monitoring infrastructure with read and write operations.

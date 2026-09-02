@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-07T06:51:38Z"
 ---
 ## What it is
 MCP server `Toolz`, catalogued on PulseMCP. Manages conversation contexts, code snippets, and todo lists across sessions through SQLite storage while providing second opinions by integrating with ChatGPT and Claude APIs for alternative perspectives on saved development contexts.

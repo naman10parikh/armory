@@ -8,11 +8,13 @@ source_url: https://github.com/instavm/open-skills
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 447
+stars: 449
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 36
+pushed_at: "2026-01-23T19:53:56Z"
 ---
 ## What it is
 Enables running Claude Skills locally on your Mac with sandboxed execution, supporting document processing and integration with MCP-compatible AI tools while ensuring data privacy.

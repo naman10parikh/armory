@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T02:51:15Z"
 ---
 ## What it is
 Analyzes and compares product reputation using data from Reddit, Hacker News, and YouTube, providing sentiment and dimensional scores.

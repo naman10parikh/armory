@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T20:38:56Z"
 ---
 ## What it is
 Simulates a network of IoT environmental sensors and exposes their data and controls as MCP tools that any MCP client can query and act on.

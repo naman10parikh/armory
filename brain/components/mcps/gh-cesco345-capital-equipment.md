@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-01T03:26:43Z"
 ---
 ## What it is
 MCP server `Capital Equipment Network`, catalogued on PulseMCP. Search, book, and manage scientific research equipment across STEM core facilities.

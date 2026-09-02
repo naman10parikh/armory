@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T23:38:24Z"
 ---
 ## What it is
 Verified hyper-local data API for the Florida Keys. Raccoon data covering charters, marinas, restaurants, and local knowledge missing from Google Maps and TripAdvisor.

@@ -8,10 +8,12 @@ source_url: https://github.com/husamabusafa/hasura_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-04-05T13:01:52Z"
 ---
 ## What it is
 MCP server `Hasura GraphQL`, catalogued on PulseMCP. Enables AI interaction with Hasura GraphQL endpoints for schema discovery, data querying, and database operations through a comprehensive set of database tools

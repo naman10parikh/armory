@@ -8,11 +8,13 @@ source_url: https://github.com/XPOZpublic/xpoz-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-21T07:13:50Z"
 ---
 ## What it is
 Enables AI agents to search Twitter, Instagram, Reddit, and TikTok using natural language queries, with CSV exports up to 500K rows and no API keys needed.

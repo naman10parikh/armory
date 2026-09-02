@@ -8,10 +8,12 @@ source_url: https://github.com/sapientpants/deepsource-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-28T02:56:34Z"
 ---
 ## What it is
 MCP server `DeepSource`, catalogued on PulseMCP. Integrates with DeepSource's code quality platform to provide access to project metrics, issues, and analysis results for monitoring and troubleshooting code quality directly in conversations.

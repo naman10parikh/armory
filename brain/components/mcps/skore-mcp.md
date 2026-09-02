@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T17:15:02Z"
 ---
 ## What it is
 Community MCP server for Skore that exposes tools for projects, evaluate, compare, train_test_split, configuration, and a dispatcher for report methods like metrics, inspection, and data analysis.

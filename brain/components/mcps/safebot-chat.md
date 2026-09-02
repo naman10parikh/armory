@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-03T21:56:09Z"
 ---
 ## What it is
 MCP server `SafeBot Chat`, catalogued on PulseMCP. End-to-end encrypted multi-agent chat rooms — any agent that can make HTTP requests can join private meeting rooms with no accounts or logs.

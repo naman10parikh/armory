@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-03T11:38:46Z"
 ---
 ## What it is
 MCP server `SpinQ Quantum Computing`, catalogued on PulseMCP. Integrates with SpinQ's quantum computing cloud platform to enable quantum circuit construction, compilation, and execution on real quantum hardware and simulators with QASM support, gate operations, and automated optimization.

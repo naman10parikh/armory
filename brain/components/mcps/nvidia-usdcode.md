@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-30T22:53:21Z"
 ---
 ## What it is
 MCP server `NVIDIA USDCode`, catalogued on PulseMCP. Integrates with NVIDIA's USDCode Llama 3.1 70B model to provide specialized assistance for Isaac Sim scripting, USD workflows, and Python API development within NVIDIA's Omniverse ecosystem.

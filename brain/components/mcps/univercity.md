@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-14T18:34:09Z"
 ---
 ## What it is
 MCP server `Univercity`, catalogued on PulseMCP. Eight-dimension business diagnosis with Revenue Leak Score and triple-option recommendations.

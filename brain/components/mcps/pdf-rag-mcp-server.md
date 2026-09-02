@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T18:46:11Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides powerful RAG (Retrieval-Augmented Generation) capabilities for PDF documents. This server uses ChromaDB for vector storage, sentence-transformers for embeddings, and semantic chunking for intelligent text segmentation.

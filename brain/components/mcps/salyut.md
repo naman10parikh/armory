@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T01:44:03Z"
 ---
 ## What it is
 Fans out queries to multiple independent free LLMs from different providers and returns their answers side by side, enabling sanity-checking of decisions or getting multiple perspectives during coding sessions.

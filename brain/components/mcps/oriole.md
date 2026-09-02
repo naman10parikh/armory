@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T20:08:51Z"
 ---
 ## What it is
 This MCP server exposes 16 bilingual tools for operating a review-gated China job-source intelligence engine, enabling discovery, probing, human approval, collection, and job/region queries. It lets an LLM manage the Oriole job pipeline over stdio without requiring model access to credentials.

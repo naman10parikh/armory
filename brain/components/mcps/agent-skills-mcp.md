@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-01-30T13:40:18Z"
 ---
 ## What it is
 Loads Agent Skills from markdown files, exposing them as MCP tools or system prompts for AI agents.

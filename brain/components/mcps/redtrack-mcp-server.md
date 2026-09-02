@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-02T16:01:09Z"
 ---
 ## What it is
 A stateless MCP server that exposes RedTrack attribution data via two endpoints (GET /manifest and POST /run) and can be deployed with one click on Railway.

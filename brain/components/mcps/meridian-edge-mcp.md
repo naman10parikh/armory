@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T00:28:24Z"
 ---
 ## What it is
 Provides AI assistants with real-time prediction market consensus data, including probabilities, opportunities, signals, and settlements.

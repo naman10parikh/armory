@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T03:28:42Z"
 ---
 ## What it is
 This MCP server provides AI coding assistants with curated Adobe developer knowledge on demand, enabling automatic retrieval of guidance and patterns for building App Builder actions and Workfront extensions.

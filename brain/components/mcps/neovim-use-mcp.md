@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:47:19Z"
 ---
 ## What it is
 An MCP server that edits files through a real Neovim instance, giving agents access to LSP diagnostics, formatting, code actions, and plugin commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-30T03:56:48Z"
 ---
 ## What it is
 MCP server for Google's Gemini CLI with OAuth, enabling use of Gemini through Claude Desktop/Code without API keys – just log in with a Google account.

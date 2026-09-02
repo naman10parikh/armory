@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T18:40:43Z"
 ---
 ## What it is
 Enables MCP-compatible AI agents to read and write architecture-map projects and diagrams with per-project access controls via OAuth 2.1/PKCE.

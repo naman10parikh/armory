@@ -8,10 +8,12 @@ source_url: https://github.com/jonasrackl/labmate-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-03T07:25:24Z"
 ---
 ## What it is
 MCP server `LabMate`, catalogued on PulseMCP. Interactive protocol design and experiment planning for laboratory research.

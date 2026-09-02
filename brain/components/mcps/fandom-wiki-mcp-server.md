@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T09:21:23Z"
 ---
 ## What it is
 A generic MCP server that allows searching and retrieving articles, summaries, category members, and wiki info from any Fandom wiki.

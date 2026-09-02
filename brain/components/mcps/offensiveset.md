@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T05:01:02Z"
 ---
 ## What it is
 Generates realistic, multi-turn penetration testing conversation datasets for training security-focused LLMs.

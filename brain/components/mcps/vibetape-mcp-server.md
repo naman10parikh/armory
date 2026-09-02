@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-01-09T01:23:52Z"
 ---
 ## What it is
 Captures key development moments, enables multi-agent traceability, provides intelligent context curation, and facilitates seamless agent-to-agent handoffs.

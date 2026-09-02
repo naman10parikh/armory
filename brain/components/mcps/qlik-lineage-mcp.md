@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T18:10:53Z"
 ---
 ## What it is
 A read-only MCP server that exposes data-file lineage analyses for Qlik Cloud tenants, enabling identification of unused columns and ghost files to reduce storage costs.

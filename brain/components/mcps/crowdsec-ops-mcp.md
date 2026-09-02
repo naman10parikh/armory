@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T05:46:03Z"
 ---
 ## What it is
 Local MCP server for CrowdSec operations, enabling inspection of decisions/alerts, summaries, and generation of audited single-IP action proposals without executing changes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T21:47:38Z"
 ---
 ## What it is
 Enables agents to check proposals against team decisions via check_decision tool and recall memory via recall_memory tool, preventing conflicts with standing decisions in Slack.

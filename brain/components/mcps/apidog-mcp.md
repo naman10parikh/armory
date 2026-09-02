@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:31:17Z"
 ---
 ## What it is
 An MCP server for Apidog that enables listing projects, inspecting API trees, creating modules and folders, and adding or updating requests without manual configuration.

@@ -8,10 +8,12 @@ source_url: https://github.com/stratmannbenedikt/obsidianworkspacemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-12T15:26:08Z"
 ---
 ## What it is
 MCP server `Obsidian Workspace`, catalogued on PulseMCP. MCP server for sandboxed access to Obsidian vaults with path traversal protection and 7 file management tools.

@@ -8,11 +8,13 @@ source_url: https://github.com/macfax/macfax-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T23:03:07Z"
 ---
 ## What it is
 MCP server for the used-Mac market, enabling AI assistants to search live listings across multiple marketplaces, get price statistics, check listing trust, lookup serial numbers, retrieve condition reports, and create email alerts.

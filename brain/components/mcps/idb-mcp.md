@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-18T06:55:12Z"
 ---
 ## What it is
 MCP server to control iOS simulators for automation, enabling device management, input control, and screen capture via Facebook IDB.

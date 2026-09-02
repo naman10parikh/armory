@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-15T04:00:39Z"
 ---
 ## What it is
 MCP server `Mail IMAP/SMTP`, catalogued on PulseMCP. Provides complete email management through IMAP and SMTP protocols including folder operations, search, and sending.

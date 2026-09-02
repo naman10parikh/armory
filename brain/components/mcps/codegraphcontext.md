@@ -8,10 +8,12 @@ source_url: https://github.com/codegraphcontext/codegraphcontext
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3409
+stars: 4148
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 826
+pushed_at: "2026-08-26T19:17:00Z"
 ---
 ## What it is
 MCP server `CodeGraphContext`, catalogued on PulseMCP. Indexes codebases into a Neo4j graph database to enable sophisticated code analysis including function call relationships, class hierarchies, dead code detection, and dependency tracking through real-time file monitoring and direct Cypher queries.

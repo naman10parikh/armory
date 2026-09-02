@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:06:42Z"
 ---
 ## What it is
 MCP server for OpenEdge ABL — pluggable tool architecture with per-project YAML configuration. Provides AI assistants with 24 tools to parse, analyze, lint, document, and scaffold ABL projects.

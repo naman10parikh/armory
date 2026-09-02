@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-04T17:39:43Z"
 ---
 ## What it is
 MCP server `MAGI Code Review`, catalogued on PulseMCP. Orchestrates code reviews through a distributed framework of three specialized agents (Melchior, Balthasar, and Casper) that evaluate submissions and deliver majority-rule verdicts on code quality.

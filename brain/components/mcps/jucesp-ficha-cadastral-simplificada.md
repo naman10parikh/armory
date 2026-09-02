@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:31Z"
 ---
 ## What it is
 Fetches simplified company registration data from JUCESP (São Paulo state trade board) by CNPJ, NIRE, or company name. Read-only, hosted, no credentials, with pay-per-use prepaid credits.

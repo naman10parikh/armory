@@ -8,11 +8,13 @@ source_url: https://github.com/claude-world/notebooklm-skill
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 435
+stars: 446
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 54
+pushed_at: "2026-07-18T11:29:16Z"
 ---
 ## What it is
 Bridges NotebookLM's research capabilities with Claude's content generation, enabling creation of notebooks, deep research queries, and structured content output from URLs, PDFs, or trending topics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T00:54:09Z"
 ---
 ## What it is
 Provides Dify apps with a secure, app-scoped MCP tool catalog and action gateway for authorized FlowFlox operations, enabling intent-driven planning and fixed operational processes without exposing global credentials.

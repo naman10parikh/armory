@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T11:28:49Z"
 ---
 ## What it is
 A FastMCP server packaged for easy installation into Dataiku code environments, enabling the addition and execution of MCP tools.

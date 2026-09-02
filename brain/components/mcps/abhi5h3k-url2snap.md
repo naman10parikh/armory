@@ -8,10 +8,12 @@ source_url: https://github.com/abhi5h3k/mcp-url2snap
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-17T11:35:41Z"
 ---
 ## What it is
 MCP server `URL2SNAP (Website Screenshot)`, catalogued on PulseMCP. Captures website screenshots through the Abstract API and serves them locally, enabling visualization of web content without requiring direct site visits.

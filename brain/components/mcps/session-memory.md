@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:41:21Z"
 ---
 ## What it is
 An MCP server for persistent session context, user preferences, project conventions, and indexed state, with features like full-text search, task management, and a web dashboard.

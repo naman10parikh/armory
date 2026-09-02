@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
-stars: 4742
+stars: 5651
+forks: 243
+pushed_at: "2026-09-01T09:02:38Z"
 ---
 ## What it is
 Use 3,000+ pre-built cloud tools, known as Actors, to extract data from websites, e-commerce, social media, search engines, maps, and more

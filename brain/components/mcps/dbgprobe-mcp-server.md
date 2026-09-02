@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-14T03:59:33Z"
 ---
 ## What it is
 Stateful MCP server for driving debug probes (J-Link) to flash, debug, and inspect embedded targets. Enables AI agents to perform flash, memory, breakpoint, and ELF/SVD-aware operations conversationally.

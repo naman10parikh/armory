@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T22:00:23Z"
 ---
 ## What it is
 Enables access to Syracuse Company news API for registering accounts and fetching stories by location, industry, or organization. Supports local and remote MCP server modes.

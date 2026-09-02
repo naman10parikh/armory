@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T08:50:39Z"
 ---
 ## What it is
 Enables AI assistants to manage Docker containers, images, volumes, networks, and compose projects through Arcane's API. Provides comprehensive tools for environment, container, image, volume, network, project, and system operations.

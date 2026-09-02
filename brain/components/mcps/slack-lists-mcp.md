@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T19:31:17Z"
 ---
 ## What it is
 Enables AI assistants to create, read, update, delete, and manage Slack List items, providing full task management within Slack through natural language.

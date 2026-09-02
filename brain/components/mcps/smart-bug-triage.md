@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T21:30:11Z"
 ---
 ## What it is
 MCP server that triages GitHub issues by classifying, ranking priority, and assigning an engineer using a local LLM (Ollama) with full traceability.

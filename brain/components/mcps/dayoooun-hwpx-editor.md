@@ -8,10 +8,12 @@ source_url: https://github.com/dayoooun/hwpx-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-29T09:47:45Z"
 ---
 ## What it is
 MCP server `HWPX Editor`, catalogued on PulseMCP. Enables comprehensive editing and manipulation of HWPX and HWP Korean word processing documents with 76 specialized tools covering text operations, table management, styling, search/replace, metadata handling, and document structure through both VS Code extension and server interfaces.

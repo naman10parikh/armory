@@ -8,10 +8,12 @@ source_url: https://github.com/xcodethink/pixelcheck
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-31T01:08:07Z"
 ---
 ## What it is
 MCP server `Pixelcheck`, catalogued on PulseMCP. Visual inspection and web interaction for AI agents: audit pages, extract data, and judge UI correctness.

@@ -8,10 +8,12 @@ source_url: https://github.com/lolrazh/cad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-02T18:57:46Z"
 ---
 ## What it is
 MCP server `Rayon Design CAD`, catalogued on PulseMCP. Integrates with Rayon Design CAD interface using browser automation to enable shape creation and drawing method searches for AI-assisted design workflows.

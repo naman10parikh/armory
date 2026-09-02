@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T11:12:01Z"
 ---
 ## What it is
 Enables AI assistants to query orders, transaction details, warnings/anomalies, and payment methods from your Nexi XPay merchant account.

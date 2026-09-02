@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-14T07:22:17Z"
 ---
 ## What it is
 Enables coding agents like Cursor to access Figma design data, fetch layout and styling information, and implement designs in any framework.

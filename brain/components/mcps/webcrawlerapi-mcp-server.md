@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-11T07:07:26Z"
 ---
 ## What it is
 Integrates WebcrawlerAPI's web scraping and crawling capabilities into MCP-compatible applications like Claude Code, allowing content extraction from any website.

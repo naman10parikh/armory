@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T17:59:02Z"
 ---
 ## What it is
 Enables AI agents to search and browse a curated directory of AI projects, including MCP servers, CLI tools, libraries, and APIs, and submit new projects directly from the terminal.

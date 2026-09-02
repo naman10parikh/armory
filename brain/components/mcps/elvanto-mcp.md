@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T12:35:41Z"
 ---
 ## What it is
 Self-hosted MCP server for Elvanto church management. Enables querying upcoming rosters, service songs, and submitting unavailability via Claude or ChatGPT.

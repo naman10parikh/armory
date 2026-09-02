@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:16:13Z"
 ---
 ## What it is
 MCP server for Spotify that enables playlist building and music discovery through 19 tools, allowing LLM agents to search tracks/artists/albums, manage playlists, control playback, and access personal listening data.

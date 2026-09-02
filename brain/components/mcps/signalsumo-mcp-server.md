@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T16:27:19Z"
 ---
 ## What it is
 Model Context Protocol server for SignalSumo that lets Claude, Cursor, and other MCP-compatible clients read SEO data, run technical audits, research keywords, and check backlink profiles through natural-language tool calls.

@@ -8,11 +8,13 @@ source_url: https://github.com/juspay/neurolink
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 123
+stars: 129
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 125
+pushed_at: "2026-09-02T03:11:58Z"
 ---
 ## What it is
 TypeScript AI SDK with a built-in MCP client: 58+ MCP servers over 4 transports (stdio, HTTP, SSE, WebSocket), 24+ LLM providers behind one interface, streaming, tool calling, RAG, voice (TTS/STT/realtime), and task scheduling.

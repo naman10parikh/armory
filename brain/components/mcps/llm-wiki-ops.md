@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T01:40:33Z"
 ---
 ## What it is
 Graph-level operations for Karpathy LLM Wiki knowledge bases, enabling LLM agents via MCP and humans via CLI to perform structured graph surgery including node/edge CRUD, wikilink management, index rebuilding, and graph metrics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T06:21:16Z"
 ---
 ## What it is
 Provides MCP tools for Cisco Meraki Dashboard API, enabling management of networks, configuration templates, and health checks via natural language commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-09T16:03:24Z"
 ---
 ## What it is
 Enables AI assistants to interact with MISP threat intelligence platforms through natural language, supporting event search, creation, user management, and report generation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-18T00:21:28Z"
 ---
 ## What it is
 Enables AI assistants to fully control and manage Odoo 18 ERP instances through 79 tools, including configuration, data operations, reporting, and code generation, with built-in domain knowledge and specialist agents.

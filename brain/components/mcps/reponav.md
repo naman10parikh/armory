@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:27:11Z"
 ---
 ## What it is
 Enables locating evidence for repository questions using CodeGraph or ripgrep, providing verified results and follow-ups.

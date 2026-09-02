@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T19:38:11Z"
 ---
 ## What it is
 An MCP server that provides long-term semantic memory via Garnet Vector Sets, enabling agents to store text embeddings and retrieve relevant context across sessions. It exposes tools for storing, recalling, and managing memories using pluggable embedding providers.

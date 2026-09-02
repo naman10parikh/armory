@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T04:58:49Z"
 ---
 ## What it is
 Voice Agent Factory for Vapi phone agents: vertical templates, self-testing agents, audio forensics, prompt versioning, CI regression gates.

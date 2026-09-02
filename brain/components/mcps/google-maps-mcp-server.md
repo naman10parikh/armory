@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-01T18:48:38Z"
 ---
 ## What it is
 Production-ready MCP server for Google Maps Platform APIs, providing 11 tools for directions, places, geocoding, traffic, and road data to empower AI agents with location intelligence.

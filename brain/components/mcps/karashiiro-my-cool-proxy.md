@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-30T01:15:17Z"
 ---
 ## What it is
 MCP server `My Cool Proxy`, catalogued on PulseMCP. Gateway that minimizes context usage by wrapping multiple servers with progressive Lua-driven tool discovery.

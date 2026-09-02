@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T14:06:15Z"
 ---
 ## What it is
 MCP server for IncidentRelay, exposing its entire REST API (279 operations) through gateway and curated tools for on-call scheduling, alert routing, and incident management.

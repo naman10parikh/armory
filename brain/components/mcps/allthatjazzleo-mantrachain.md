@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-04T14:33:38Z"
 ---
 ## What it is
 MCP server `Mantra Chain MCP`, catalogued on PulseMCP. Integration with the Mantra Chain blockchain.

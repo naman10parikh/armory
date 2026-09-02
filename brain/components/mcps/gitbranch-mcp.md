@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:51:52Z"
 ---
 ## What it is
 Enables managing a GitBranch stock token portfolio, including buying, selling, swapping tokens, and checking balances.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:40:51Z"
 ---
 ## What it is
 MCP server that unifies official Turkish open data sources into a single interface, letting AI agents query and compare normalized indicators like population, inflation, and GDP through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T02:00:38Z"
 ---
 ## What it is
 MCP server providing 17 keyless, pay-per-use web-data tools with signed-provenance receipts, enabling AI agents to autonomously fetch, extract, and verify web content on Base mainnet.

@@ -8,10 +8,12 @@ source_url: https://github.com/ayeletstudioindia/unreal-analyzer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 153
+stars: 158
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2025-08-06T17:32:55Z"
 ---
 ## What it is
 MCP server `Unreal Engine Analyzer`, catalogued on PulseMCP. Analyzes Unreal Engine codebases, enabling deep insights into class hierarchies, subsystems, and game patterns.

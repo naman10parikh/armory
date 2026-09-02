@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T01:11:36Z"
 ---
 ## What it is
 Provides an MCP server that tracks open loops (pending decisions or replies) across email, agent sessions, and other channels, enabling agents to query what is waiting on whom.

@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-05-05T19:19:49Z"
 ---
 ## What it is
 MCP server `Couchbase`, catalogued on PulseMCP. Interact directly with Couchbase databases on Capella clusters. Query buckets, perform CRUD operations, execute N1QL queries, and manage data seamlessly through natural language.

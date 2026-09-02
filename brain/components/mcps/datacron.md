@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T08:45:20Z"
 ---
 ## What it is
 Local MCP server for querying and maintaining a Markdown vault. Provides full-text search, backlinks, note retrieval, and optional confined write tools, without sending the whole vault to the client context.

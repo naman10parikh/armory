@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T00:06:57Z"
 ---
 ## What it is
 MCP server for the Nextcloud Forms API v3 that enables secure creation, update, cloning, and validation of forms without exposing credentials to the AI agent.

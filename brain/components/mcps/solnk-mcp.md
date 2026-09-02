@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T08:40:13Z"
 ---
 ## What it is
 Enables publishing and scheduling content across 9 social platforms (X, Instagram, TikTok, YouTube, Facebook, LinkedIn, Pinterest, Threads, Bluesky) through a single MCP tool interface, acting as a stateless proxy to the Solnk API.

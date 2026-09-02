@@ -8,10 +8,12 @@ source_url: https://github.com/dknell/mcp-system-info
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-01T03:50:46Z"
 ---
 ## What it is
 MCP server `System Information`, catalogued on PulseMCP. Provides real-time system monitoring capabilities through psutil, enabling access to CPU usage, memory statistics, disk information, network status, running processes, and system uptime data with cross-platform compatibility and performance optimization.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T20:21:50Z"
 ---
 ## What it is
 Code linting and style checking tools for AI agents, exposed as an MCP server. Supports style checks, naming conventions, complexity analysis, dead code detection, and import analysis.

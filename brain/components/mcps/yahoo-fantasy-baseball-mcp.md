@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T19:14:40Z"
 ---
 ## What it is
 Connects Claude to your Yahoo Fantasy Baseball team, enabling lineup management, roster analysis, and free agent scouting through natural conversation.

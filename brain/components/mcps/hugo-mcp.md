@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-09T04:37:04Z"
 ---
 ## What it is
 A powerful MCP server for managing Hugo static site generator. This server provides a comprehensive set of tools for creating, managing, and deploying Hugo sites.

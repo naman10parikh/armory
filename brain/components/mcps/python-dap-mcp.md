@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T10:28:27Z"
 ---
 ## What it is
 An MCP server that exposes Python debugging tools backed by debugpy, providing a focused debugging surface for local scripts.

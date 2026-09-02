@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:35:15Z"
 ---
 ## What it is
 Enables AI agents to push generated HTML into a Readeck library with automatic LLM-based auto-labeling and to retrieve and read documents back, turning the library into a read/write knowledge base.

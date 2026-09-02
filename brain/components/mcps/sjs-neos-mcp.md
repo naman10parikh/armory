@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-16T20:18:04Z"
 ---
 ## What it is
 Core MCP server implementation for Neos CMS 9.x, enabling interaction with Neos sites through tools and resources.

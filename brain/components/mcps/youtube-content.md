@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T08:17:58Z"
 ---
 ## What it is
 Enables AI-powered YouTube content management using Claude Code to orchestrate research, scripting, and scheduling via Google Sheets, Docs, and Drive.

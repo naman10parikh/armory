@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-22T16:44:37Z"
 ---
 ## What it is
 MCP server `Gemini Media`, catalogued on PulseMCP. Generates videos and images using Google VEO 3.1 and Gemini Imagen 3 with async job management, multi-resolution support, and prompt engineering skills.

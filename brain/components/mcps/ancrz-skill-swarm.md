@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-21T05:06:45Z"
 ---
 ## What it is
 MCP server `Skill Swarm`, catalogued on PulseMCP. Automates skill discovery, trust evaluation, and installation from multiple registries for coding agents with security scanning and usage tracking.

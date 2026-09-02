@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-11T16:48:01Z"
 ---
 ## What it is
 Enables access to browser data (tabs, history, bookmarks) from Chromium-based browsers including Chrome, Brave, and Chromium, directly from local profile files without authentication.

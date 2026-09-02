@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-31T19:41:45Z"
 ---
 ## What it is
 MCP server `Routine`, catalogued on PulseMCP. Creates and manages reusable workflows by capturing sequences of tool calls and converting them into parameterized routines that can be invoked by name for automating repetitive multi-step tasks.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-17T06:40:10Z"
 ---
 ## What it is
 MCP server `Make MCP`, catalogued on PulseMCP. Simplifies the creation of custom MCP servers through natural language requests, providing documentation on implementation structure, components, and best practices without requiring technical expertise.

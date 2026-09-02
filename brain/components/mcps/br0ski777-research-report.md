@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:58Z"
 ---
 ## What it is
 MCP server `Research Report`, catalogued on PulseMCP. Multi-source research report generator with web fetching, producing structured reports from gathered information.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-02T03:46:17Z"
 ---
 ## What it is
 MCP server `Steam Reviews & Forums`, catalogued on PulseMCP. MCP server for analyzing Steam store reviews and community forums with tools for review and forum operations.

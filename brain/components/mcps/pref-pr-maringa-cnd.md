@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:51Z"
 ---
 ## What it is
 MCP server that provides a single read-only tool to query official debt certificates (Certidão Negativa de Débitos) for taxpayers in Maringá, PR, Brazil, enabling AI assistants to access this data through natural language.

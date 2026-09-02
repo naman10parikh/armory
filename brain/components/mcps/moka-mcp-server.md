@@ -8,11 +8,13 @@ source_url: https://github.com/mingyangsun-sketch/moka-mcpserver
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-24T07:58:42Z"
 ---
 ## What it is
 Enables AI assistants to query Moka recruitment system data including candidates, jobs, pipelines, and talent pools through read-only MCP tools.

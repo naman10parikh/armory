@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T22:45:40Z"
 ---
 ## What it is
 A Model Context Protocol server that lets an AI agent drive the whole Clutter pipeline to invent a synthetic company, generate its documents, spreadsheets, emails, images and datasets, poll for completion, and fetch download URLs through Clutter's public REST API.

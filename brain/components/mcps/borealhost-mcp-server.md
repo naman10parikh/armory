@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T23:30:22Z"
 ---
 ## What it is
 Agent-native web hosting tools for the Model Context Protocol. Enables purchasing hosting, deploying sites, managing DNS, registering domains, and scaling infrastructure through tool calls.

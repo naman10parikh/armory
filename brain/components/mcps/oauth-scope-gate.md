@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T18:09:11Z"
 ---
 ## What it is
 MCP server `OAuth Scope Gate`, catalogued on PulseMCP. OAuth scope risk inspection, approval routing, consent receipts, and scope audit exports for remote MCP servers.

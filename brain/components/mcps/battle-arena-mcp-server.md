@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-22T14:11:03Z"
 ---
 ## What it is
 A multiplayer top-down action game where agents are controlled through MCP tools. Enables MCP clients to join and play by moving, attacking, and retreating.

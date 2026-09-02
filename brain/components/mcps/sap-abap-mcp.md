@@ -8,11 +8,13 @@ source_url: https://github.com/Coaspe/sap-abap-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T01:12:17Z"
 ---
 ## What it is
 A local MCP server that connects to SAP ABAP systems via ADT HTTP API, enabling AI assistants to search, read, and manage ABAP objects securely without SAP GUI.

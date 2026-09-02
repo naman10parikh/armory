@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T06:48:52Z"
 ---
 ## What it is
 Converts PDF files to Markdown format using AI sampling capabilities.

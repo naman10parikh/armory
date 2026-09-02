@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-13T22:50:03Z"
 ---
 ## What it is
 MCP server `Imagician`, catalogued on PulseMCP. Provides eight core image editing operations including resizing, format conversion, cropping, compression, rotation, flipping, metadata extraction, and batch processing using the Sharp library for automating image workflows and web optimization tasks.

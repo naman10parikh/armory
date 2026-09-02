@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T22:13:48Z"
 ---
 ## What it is
 Provides MCP tools for web page scanning, data extraction, local storage, markdown report generation, and browser inspection using Playwright on a Samsung S22.

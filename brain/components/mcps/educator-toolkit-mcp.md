@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T21:26:48Z"
 ---
 ## What it is
 An MCP toolkit exposing six AI-powered educator-craft tools for reviewing, critiquing, and improving learning artifacts like lessons, curricula, AI tools, learner experiences, assessments, and content accuracy. Deployable via hosted HTTPS, local stdio MCP, or an importable Python kernel.

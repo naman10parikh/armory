@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T21:41:31Z"
 ---
 ## What it is
 Local-first hierarchical memory for AI coding agents, providing automatic session capture, belief consolidation, and relevant memory injection via an MCP server.

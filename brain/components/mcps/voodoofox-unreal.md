@@ -8,10 +8,12 @@ source_url: https://github.com/voodoofox/unreal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-22T16:46:16Z"
 ---
 ## What it is
 MCP server `Unreal Engine`, catalogued on PulseMCP. Controls Unreal Engine from AI assistants via a Python FastMCP server and C++ Unreal plugin with 100+ tools across 11 categories.

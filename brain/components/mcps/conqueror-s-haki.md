@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T19:31:45Z"
 ---
 ## What it is
 Prioritizes tasks by eliminating distractions, returning a ranked shortlist based on a given goal.

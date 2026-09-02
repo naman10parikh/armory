@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:47:39Z"
 ---
 ## What it is
 An MCP server that allows agents to perform CRM segment and campaign queries, with a governance kernel controlling write operations for safety.

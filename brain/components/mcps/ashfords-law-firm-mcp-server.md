@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-23T20:18:36Z"
 ---
 ## What it is
 Enables law firm staff to automate case intake, conflict-of-interest checks, and attorney assignment through secure MCP tools without exposing sensitive data directly to LLMs.

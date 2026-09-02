@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-08-29T09:39:53Z"
 ---
 ## What it is
 A semantic search engine for files and code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T06:13:46Z"
 ---
 ## What it is
 Enables Codex to delegate tasks to interactive Claude Code sessions as role-controlled subagents for exploration, code review, and implementation, using the existing Claude Code installation on macOS.

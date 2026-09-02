@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:39:23Z"
 ---
 ## What it is
 Bridges vision models to text-only coding models using Florence-2, enabling non-vision LLMs to describe images, extract text, and analyze screenshots via MCP tools.

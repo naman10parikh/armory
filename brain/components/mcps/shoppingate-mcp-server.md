@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-11T13:56:27Z"
 ---
 ## What it is
 Enables merchants and customers to interact with the Shoppingate AI Platform, including product searches, inventory management, order tracking, promotions, and personalized recommendations via natural language.

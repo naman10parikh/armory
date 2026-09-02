@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-24T04:17:43Z"
 ---
 ## What it is
 An MCP server that gives AI citizens access to a shared knowledge graph governed by 21 physics laws.

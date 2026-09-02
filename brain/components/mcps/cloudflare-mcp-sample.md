@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T05:35:00Z"
 ---
 ## What it is
 A stateless MCP server on Cloudflare Workers providing a ping tool and a CSV column summarizer, demonstrating the createMcpHandler API.

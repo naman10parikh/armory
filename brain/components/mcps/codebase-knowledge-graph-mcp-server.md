@@ -8,11 +8,13 @@ source_url: https://github.com/jigneshsuvariya/codenexus-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-12T09:10:34Z"
 ---
 ## What it is
 Enables storing and querying structured information about software code entities (classes, functions, files) and their relationships (calls, imports) along with qualitative observations like design decisions and change rationale.

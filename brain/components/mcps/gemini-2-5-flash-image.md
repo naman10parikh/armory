@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-27T11:49:19Z"
 ---
 ## What it is
 MCP server `Gemini 2.5 Flash Image`, catalogued on PulseMCP. Integrates with Google Gemini 2.5 Flash to provide text-to-image generation, image editing, composition, and style transfer capabilities with support for base64 and file path inputs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T20:14:14Z"
 ---
 ## What it is
 Here is a brief description of what our MCP server does: Description Project Tollbooth is a real-time market microstructure and options analytics gateway. It exposes quantitative Gamma Verdicts (hedging effects, dealer exposure aggregates, and volatility regimes) and 0DTE Verdicts (real-time pinning

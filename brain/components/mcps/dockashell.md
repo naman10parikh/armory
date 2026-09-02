@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-06-06T16:46:19Z"
 ---
 ## What it is
 DockaShell is an MCP server that provides AI agents with isolated Docker containers for persistent shell access, file operations, and full audit trails, enabling autonomous development and self-evolving workflows.

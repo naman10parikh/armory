@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T11:50:10Z"
 ---
 ## What it is
 An MCP server that orchestrates deterministic analytics, benchmarks, recommendations, and forecasting to provide AI-driven campaign analysis and executive reports.

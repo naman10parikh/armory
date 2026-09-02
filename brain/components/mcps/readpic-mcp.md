@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:33:56Z"
 ---
 ## What it is
 Analyzes images using a vision model and returns detailed Chinese text descriptions, enabling text-only models to understand pictures from screenshots, UI designs, error logs, and architecture diagrams.

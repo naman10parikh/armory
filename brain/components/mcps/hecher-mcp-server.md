@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T04:20:58Z"
 ---
 ## What it is
 Enables AI assistants to search donors, record donations, run reports, and manage tasks across multiple organizations (Mosads) in the Hecher CRM.

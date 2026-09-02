@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-25T04:27:35Z"
 ---
 ## What it is
 MCP server `PG-Git Semantic Memory`, catalogued on PulseMCP. PostgreSQL-backed semantic Git storage for AI coding agents with pgvector embeddings, local Ollama models, and temporal decay scoring.

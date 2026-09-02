@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T10:43:23Z"
 ---
 ## What it is
 Enables searching and analyzing real H-1B visa sponsorship data from the U.S. Department of Labor, including job titles, salaries, locations, and company statistics.

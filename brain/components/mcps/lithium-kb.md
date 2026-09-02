@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T09:17:55Z"
 ---
 ## What it is
 MCP server that provides a structured project knowledge base for AI coding agents, enabling project memory management, targeted document retrieval, and symbol map queries to improve token efficiency and context persistence.

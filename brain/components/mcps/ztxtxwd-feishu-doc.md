@@ -8,10 +8,12 @@ source_url: https://github.com/ztxtxwd/feishu-doc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-11T13:04:03Z"
 ---
 ## What it is
 MCP server `Feishu Open Platform Docs`, catalogued on PulseMCP. Searches and retrieves Feishu (Lark) Open Platform API documentation with automatic HTML-to-markdown conversion for improved readability.

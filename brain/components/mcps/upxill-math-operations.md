@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-25T02:01:12Z"
 ---
 ## What it is
 MCP server `Math Operations`, catalogued on PulseMCP. Provides basic arithmetic operations including addition, subtraction, multiplication, and division for mathematical calculations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-02-16T19:06:11Z"
 ---
 ## What it is
 Enables Cursor to access Figma design data via MCP, allowing it to fetch simplified layout and styling information to accurately implement designs from Figma files.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:41:09Z"
 ---
 ## What it is
 MCP server for the pwncat post-exploitation platform. It exposes 40+ tools for session management, file operations, command execution, enumeration, privilege escalation, implants, and config to AI agents.

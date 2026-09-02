@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-06T02:31:00Z"
 ---
 ## What it is
 MCP server `Trello`, catalogued on PulseMCP. Manage Trello boards, lists, and cards from any MCP-compatible AI assistant.

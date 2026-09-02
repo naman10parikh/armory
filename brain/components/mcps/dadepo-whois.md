@@ -8,10 +8,12 @@ source_url: https://github.com/dadepo/whois-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-19T10:41:13Z"
 ---
 ## What it is
 MCP server `WHOIS`, catalogued on PulseMCP. Provides network information lookup through WHOIS and RIR database queries across RIPE NCC and ARIN regions, enabling contact card lookups, AS-SET expansion, route object validation, and BGP security analysis with TTL-based caching and async processing.

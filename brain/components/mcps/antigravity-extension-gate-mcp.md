@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T13:23:49Z"
 ---
 ## What it is
 A paid remote MCP server for checking extension compatibility and generating structured receipts, audit logs, and reviewer-ready evidence.

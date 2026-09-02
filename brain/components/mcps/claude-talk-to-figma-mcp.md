@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-30T13:21:34Z"
 ---
 ## What it is
 MCP server that enables AI agents to read, analyze, and modify Figma designs, including comment management via Figma's REST API. Works with any Figma account and supports parallel execution.

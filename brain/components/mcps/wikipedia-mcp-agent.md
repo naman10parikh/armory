@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T16:35:54Z"
 ---
 ## What it is
 Enables searching and reading Wikipedia articles through tools like search, section listing, and content retrieval. Supports prompt templates and resource suggestions for topic exploration.

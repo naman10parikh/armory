@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-23T08:35:53Z"
 ---
 ## What it is
 Enables querying median feeds and metrics from the Chunk network via MCP tools, including listing metrics, getting quotes, and checking contract health.

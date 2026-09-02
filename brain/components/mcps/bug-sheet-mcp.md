@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T03:48:56Z"
 ---
 ## What it is
 Enables managing bugs and test cases in Google Sheets via Claude Code, with tools to list, search, filter failed, and update test cases.

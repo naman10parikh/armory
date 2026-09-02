@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T19:01:48Z"
 ---
 ## What it is
 A fully offline, secure MCP server that enables AI agents to search, read, write, and list local markdown notes using SQLite FTS5, with directory traversal protection.

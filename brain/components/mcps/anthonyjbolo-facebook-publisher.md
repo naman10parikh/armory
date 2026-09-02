@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T00:20:26Z"
 ---
 ## What it is
 MCP server `Facebook Publisher`, catalogued on PulseMCP. Safe Facebook Pages publishing with brand-voice enforcement, image requirements, and anti-duplication checks.

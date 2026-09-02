@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-23T06:54:59Z"
 ---
 ## What it is
 MCP server `Exa`, catalogued on PulseMCP. Integrates with Exa.ai to enable web searches with customizable parameters like result count and live crawling, returning structured JSON results for retrieving up-to-date information without leaving the conversation context.

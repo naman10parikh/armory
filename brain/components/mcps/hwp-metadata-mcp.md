@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-11T17:45:58Z"
 ---
 ## What it is
 Enables extraction of metadata from HWP and HWPX files (Korean word processor formats) without requiring HWP installation. Supports document info, statistics, security, and font details.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T03:23:48Z"
 ---
 ## What it is
 Enables local semantic code search using compressed vectors from turbovec and any OpenAI-compatible embeddings endpoint.

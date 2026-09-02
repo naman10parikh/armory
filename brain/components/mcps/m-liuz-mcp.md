@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:21Z"
 ---
 ## What it is
 Connect your Méliuz account to Claude, ChatGPT, and AI agents via Open Finance Brasil for read-only access to balances, statements, credit card bills, and investments in natural language.

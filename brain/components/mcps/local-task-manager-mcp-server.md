@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T19:41:20Z"
 ---
 ## What it is
 A task manager MCP server that enables creating, reading, updating, and deleting tasks persisted in a local JSON file.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T09:42:55Z"
 ---
 ## What it is
 Exposes internal company services as LLM-callable MCP tools, enabling AI agents to perform business operations like customer management, order processing, and support ticketing through natural language.

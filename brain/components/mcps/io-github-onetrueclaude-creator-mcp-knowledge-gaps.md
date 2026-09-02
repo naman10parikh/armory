@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-18T13:37:10Z"
 ---
 ## What it is
 Scans markdown vaults to identify concepts mentioned but not defined, ranks gaps by priority, and generates research questions or random long-tail topics to fill knowledge gaps.

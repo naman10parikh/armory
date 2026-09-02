@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-23T17:44:58Z"
 ---
 ## What it is
 MCP server `PyODBC`, catalogued on PulseMCP. Provides a lightweight bridge between AI systems and ODBC-compatible databases, enabling SQL queries, table exploration, and schema discovery with special optimizations for Virtuoso DBMS features like SPARQL queries.

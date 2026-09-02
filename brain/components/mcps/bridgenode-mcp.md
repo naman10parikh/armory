@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:06:06Z"
 ---
 ## What it is
 Enables AI agents to make pay-as-you-go AI inference requests through x402 with automatic Solana USDC payments, no API keys or registration, while enforcing configurable spending limits.

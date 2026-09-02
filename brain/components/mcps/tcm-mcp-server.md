@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-23T13:32:17Z"
 ---
 ## What it is
 Enables AI assistants to access professional Traditional Chinese Medicine knowledge, including herb and formula search, acupoint lookup, six-channel diagnosis, and compatibility checking.

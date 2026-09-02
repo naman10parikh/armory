@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:29:40Z"
 ---
 ## What it is
 MCP server that validates medical codes (ICD-10-CM with official descriptions, CPT structural checks) via a single tool, with x402 billing.

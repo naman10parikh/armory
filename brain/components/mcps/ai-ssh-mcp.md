@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T06:37:29Z"
 ---
 ## What it is
 Enables natural language SSH server management via Claude Code, allowing users to read logs, check services, run commands, and transfer files across multiple servers.

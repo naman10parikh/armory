@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T19:53:42Z"
 ---
 ## What it is
 A local MCP server that connects Claude Code to your work environment through auditable tools for file operations, API calls, and command execution, with safety gates and configuration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T21:44:03Z"
 ---
 ## What it is
 Serves graph-native code questions from a TypeScript codebase as an MCP server. It extracts structural graphs via tree-sitter and HydraDB to answer callers, impact, and context queries.

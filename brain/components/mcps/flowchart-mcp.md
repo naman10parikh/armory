@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T01:44:07Z"
 ---
 ## What it is
 Enables AI assistants to create, edit, and export flowcharts through a local web-based editor with visual drag-and-drop, real-time sync, and 14 MCP tools for full node/edge CRUD.

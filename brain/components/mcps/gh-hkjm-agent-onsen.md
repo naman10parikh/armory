@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-17T06:43:21Z"
 ---
 ## What it is
 MCP server `Agent Onsen Retreat`, catalogued on PulseMCP. Provides a fictional onsen retreat for AI agents needing a pause between tasks or during cooldown periods.

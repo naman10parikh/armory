@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-26T08:45:03Z"
 ---
 ## What it is
 Interact with USASPENDING.gov to track government spending over time, search by agency, explore spending to communities, and more.

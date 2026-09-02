@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T11:56:11Z"
 ---
 ## What it is
 MCP server to start, monitor, search, and detect errors in logs from any project, even those without log files.

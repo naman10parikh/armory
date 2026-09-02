@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-06T00:54:14Z"
 ---
 ## What it is
 MCP server `Xiaohongshu`, catalogued on PulseMCP. Publish, search, and manage content on the Xiaohongshu (Little Red Book) platform.

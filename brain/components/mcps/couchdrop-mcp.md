@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T17:27:49Z"
 ---
 ## What it is
 MCP server for Couchdrop that enables file listing, metadata inspection, download/upload, user/group listing, and folder permission reading.

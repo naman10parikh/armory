@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-03-17T20:25:16Z"
 ---
 ## What it is
 A bridge that enables any LLM to access and interact with documented REST APIs through the Model Context Protocol (MCP).

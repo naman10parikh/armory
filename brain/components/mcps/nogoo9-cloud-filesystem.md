@@ -8,10 +8,12 @@ source_url: https://github.com/nogoo9/mcp-server-cloud-fs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T16:48:07Z"
 ---
 ## What it is
 MCP server `Cloud Filesystem`, catalogued on PulseMCP. Drop-in cloud storage replacement for the standard filesystem MCP server, supporting Amazon S3, Azure Blob Storage, Google Cloud Storage, and S3-compatible backends.

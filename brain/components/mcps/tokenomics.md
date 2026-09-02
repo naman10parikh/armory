@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T14:51:59Z"
 ---
 ## What it is
 Provides live LLM pricing data from OpenRouter, enabling agents to search models, get pricing, estimate costs, and compare models.

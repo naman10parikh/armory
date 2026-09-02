@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-07T09:37:26Z"
 ---
 ## What it is
 MCP server that provides access to Austria's official legal database (RIS), enabling AI assistants to search and retrieve legal documents from Austrian federal and state law, court decisions, and law gazettes.

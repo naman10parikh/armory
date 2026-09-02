@@ -8,10 +8,12 @@ source_url: https://github.com/strickvl/mcp-beeminder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-02-21T20:27:28Z"
 ---
 ## What it is
 MCP server `Beeminder`, catalogued on PulseMCP. Integrates with the Beeminder API to enable retrieval and analysis of personal productivity goals and progress data.

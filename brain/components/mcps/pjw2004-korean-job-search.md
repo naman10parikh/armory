@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T15:32:29Z"
 ---
 ## What it is
 MCP server `Korean Job Search`, catalogued on PulseMCP. Search Korean job postings from JobKorea and Saramin by company name with single and bulk search capabilities.

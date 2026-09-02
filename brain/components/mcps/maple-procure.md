@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T23:14:38Z"
 ---
 ## What it is
 An MCP server that gives Claude access to Canada's public procurement data from CanadaBuys, enabling search for tenders, awards, and spend summaries with traceable sources. It provides five tools: search_tenders, get_tender, search_awards, summarize_spend, and export_report.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T06:05:25Z"
 ---
 ## What it is
 MCP server `Dokmatiq DocGen`, catalogued on PulseMCP. Generate invoices, Excel files, and PDFs via the Dokmatiq document generation API.

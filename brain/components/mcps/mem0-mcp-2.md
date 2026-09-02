@@ -8,11 +8,13 @@ source_url: https://github.com/andresmorales07/mem0-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-05T16:23:05Z"
 ---
 ## What it is
 A server that wraps a self-hosted mem0 REST API as MCP tools for Claude Desktop and Claude Code, enabling memory operations such as adding, searching, and managing memories via natural language.

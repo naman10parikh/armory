@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T06:28:15Z"
 ---
 ## What it is
 Helps founders and teams review business workflows, identify AI opportunities, assess trust/control risks, and recommend a safe first AI-human workflow.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:21:00Z"
 ---
 ## What it is
 A read-only MCP server that exposes AI Dance's image generation workflows, styles, pricing, and official links to MCP-compatible AI clients like Claude Desktop and Cursor.

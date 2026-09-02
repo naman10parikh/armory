@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-18T03:08:41Z"
 ---
 ## What it is
 MCP server `Weaviate`, catalogued on PulseMCP. Provides a flexible vector database system for storing, searching, and retrieving persistent memories and structured knowledge across conversation contexts using Weaviate's advanced search capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:07:35Z"
 ---
 ## What it is
 Exposes data query and auto-insights (anomaly detection) as MCP tools. Enables AI agents to query metrics, list columns, and get data insights directly from pandas.

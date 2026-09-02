@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T11:16:11Z"
 ---
 ## What it is
 Enables any AI agent to discover, query, and order from a restaurant's storefront via MCP tools. It handles menu lookup, modifier validation, and enforces a mandatory confirmation gate before payment, replacing the human-operated phone line.

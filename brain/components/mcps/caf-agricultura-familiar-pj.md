@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:28:13Z"
 ---
 ## What it is
 MCP server to query the Brazilian National Registry of Family Farming (CAF) for a legal entity (CNPJ), providing a read-only tool to check CAF status.

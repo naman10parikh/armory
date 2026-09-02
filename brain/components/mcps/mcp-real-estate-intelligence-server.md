@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T07:49:12Z"
 ---
 ## What it is
 Provides comprehensive real estate market intelligence, property valuation, and investment analysis for AI agents. Unifies data from multiple sources like Zillow, Redfin, and public records into a single MCP interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T03:18:24Z"
 ---
 ## What it is
 Provides context management, task classification, and routing tools for small models (1B-12B) in production agentic workflows.

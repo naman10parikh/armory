@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-25T09:41:22Z"
 ---
 ## What it is
 Provides AI assistants with access to real-time flight data, airport schedules, delays, and aviation reference databases through natural language queries.

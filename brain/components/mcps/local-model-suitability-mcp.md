@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:49:06Z"
 ---
 ## What it is
 Evaluates task suitability for local models before cloud API calls, routing to Ollama or similar to reduce costs.

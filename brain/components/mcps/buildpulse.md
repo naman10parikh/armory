@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T18:52:15Z"
 ---
 ## What it is
 MCP server `BuildPulse`, catalogued on PulseMCP. CI test analytics for identifying flaky tests, tracking coverage, and reviewing CI run history.

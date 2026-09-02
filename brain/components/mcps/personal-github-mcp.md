@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:13:15Z"
 ---
 ## What it is
 Provides full read/write access to the GitHub REST API via a single tool using a personal access token.

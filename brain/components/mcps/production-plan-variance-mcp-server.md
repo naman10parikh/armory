@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T09:20:08Z"
 ---
 ## What it is
 Exposes read-only tools for querying production plan variance, issue tracking, plants, and shop floors from a DWH database, mirroring a dashboard's data.

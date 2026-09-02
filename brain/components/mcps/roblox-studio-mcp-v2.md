@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:50:46Z"
 ---
 ## What it is
 Enables safe operation of multiple Roblox Studio sessions from concurrent Codex tasks by requiring explicit studio IDs and providing per-session isolation.

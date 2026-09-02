@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T03:20:28Z"
 ---
 ## What it is
 Provides AI assistants with real-time, structured access to 32 privacy and AI governance laws across 28 jurisdictions to prevent hallucination in compliance answers.

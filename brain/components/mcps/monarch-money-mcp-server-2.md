@@ -8,11 +8,13 @@ source_url: https://github.com/jamiew/monarch-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-06-30T20:34:37Z"
 ---
 ## What it is
 An MCP server for Monarch Money that gives AI assistants access to your financial accounts, transactions, budgets, and more.

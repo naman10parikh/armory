@@ -8,10 +8,12 @@ source_url: https://github.com/akalaric/mcp-wolframalpha
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 83
+stars: 85
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-01-12T15:27:26Z"
 ---
 ## What it is
 MCP server `Wolfram Alpha`, catalogued on PulseMCP. Connects language models to Wolfram Alpha for performing mathematical calculations, scientific queries, and data analysis with structured results in text or image formats

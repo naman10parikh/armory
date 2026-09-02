@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-08-15T04:15:42Z"
 ---
 ## What it is
 An MCP server for Canvas LMS that provides 15 curated tools for everyday student work and a gateway to reach every endpoint your Canvas instance exposes.

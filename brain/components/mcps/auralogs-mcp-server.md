@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T05:45:45Z"
 ---
 ## What it is
 A read-only MCP server for the Auralogs logging platform, enabling AI agents to query production logs, search errors, and retrieve AI analyses without write access. It allows you to ask your coding assistant 'what's broken in production right now?' by connecting to your logs via a simple bearer auth

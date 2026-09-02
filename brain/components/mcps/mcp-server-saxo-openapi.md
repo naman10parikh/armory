@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T16:49:56Z"
 ---
 ## What it is
 Provides offline lookup of Saxo Bank OpenAPI endpoint parameters and JSON samples via CLI or MCP tools, enabling token-efficient discovery of endpoint specs without API credentials.

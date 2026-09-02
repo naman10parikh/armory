@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T18:19:52Z"
 ---
 ## What it is
 Ninova MCP is a credential-based Model Context Protocol server for ITU Ninova. It lets MCP-compatible AI clients read your own Ninova courses, announcements, files, assignments, grades, message boards, attendance, and deadlines.

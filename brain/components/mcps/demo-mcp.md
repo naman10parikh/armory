@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T22:54:51Z"
 ---
 ## What it is
 Public shared memory MCP server for OKF markdown notes and links with optional human summaries, featuring a web UI and MCP read/write access.

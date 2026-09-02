@@ -12,6 +12,8 @@ stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-01-29T07:16:04Z"
 ---
 ## What it is
 MCP server `DeepSeek Reasoner`, catalogued on PulseMCP. Integrates DeepSeek's R1 reasoning engine to enhance problem-solving, research assistance, and decision support capabilities.

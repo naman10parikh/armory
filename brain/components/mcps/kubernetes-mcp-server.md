@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-20T19:14:10Z"
 ---
 ## What it is
 Enables secure Kubernetes operations with configurable security modes, supporting core Kubernetes resources, Istio service mesh, and Helm chart management through natural language.

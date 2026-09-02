@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-27T07:46:46Z"
 ---
 ## What it is
 A MCP server for video multimodal understanding based on Alibaba Cloud DashScope, enabling video content analysis, summarization, scene recognition, and custom analysis.

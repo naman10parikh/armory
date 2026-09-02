@@ -8,10 +8,12 @@ source_url: https://github.com/forgeailab/forge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-17T05:09:49Z"
 ---
 ## What it is
 MCP server `Forge Agent Workflow`, catalogued on PulseMCP. Local-first workflow engine for coding agents with isolated git worktrees, CI gates, and review processes, exposing an MCP JSON-RPC endpoint.

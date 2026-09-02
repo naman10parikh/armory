@@ -8,10 +8,12 @@ source_url: https://github.com/climactic/umami-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-12T01:12:34Z"
 ---
 ## What it is
 MCP server `Umami Analytics`, catalogued on PulseMCP. MCP server providing 48 tools for read/write access to Umami Analytics data including statistics, sessions, events, and funnels.

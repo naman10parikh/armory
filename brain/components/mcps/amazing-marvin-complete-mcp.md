@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T09:38:25Z"
 ---
 ## What it is
 An MCP server that exposes the full Amazing Marvin public API (34 tools across ~31 endpoints) so assistants can manage tasks, habits, time blocks, reminders, and reward points through natural language.

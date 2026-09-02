@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T08:34:39Z"
 ---
 ## What it is
 Enables AI assistants to set up, run, and manage Ballerina + Salesforce integrations inside a WSO2 Integrator workspace, providing 18 tools for OAuth2 token acquisition, project scaffolding, building, deploying, and stopping the integration service.

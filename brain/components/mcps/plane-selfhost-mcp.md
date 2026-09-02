@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T02:58:16Z"
 ---
 ## What it is
 Enables interaction with self-hosted Plane project management instances using X-API-Key authentication, offering tools for project discovery, issue management, and workflow state operations.

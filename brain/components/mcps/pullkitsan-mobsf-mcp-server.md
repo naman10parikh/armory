@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 21
+forks: 8
+pushed_at: "2025-07-19T01:23:19Z"
 ---
 ## What it is
 A MCP server for MobSF which can be used for static and dynamic analysis of Android and iOS application.

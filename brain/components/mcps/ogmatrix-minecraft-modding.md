@@ -8,10 +8,12 @@ source_url: https://github.com/ogmatrix/mcmodding-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-28T22:23:28Z"
 ---
 ## What it is
 MCP server `Minecraft Modding`, catalogued on PulseMCP. Semantic search across Fabric and NeoForge modding documentation with code examples

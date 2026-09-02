@@ -8,11 +8,13 @@ source_url: https://github.com/runnel/voog-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T17:28:29Z"
 ---
 ## What it is
 MCP server for Voog CMS enabling management of Liquid templates, pages, products, ecommerce settings, and redirects via natural language or terminal commands.

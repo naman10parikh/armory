@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T10:22:02Z"
 ---
 ## What it is
 MCP server for tracing, logging, and debugging multi-agent systems by capturing sessions, spans, and events in a queryable trace tree.

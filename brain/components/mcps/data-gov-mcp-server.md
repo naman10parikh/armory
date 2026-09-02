@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T06:18:42Z"
 ---
 ## What it is
 Read-only access to approved federal APIs using the data.gov API gateway. Provides tools to call federal APIs and retrieve rate limit information.

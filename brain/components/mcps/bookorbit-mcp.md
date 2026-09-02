@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T02:22:45Z"
 ---
 ## What it is
 An MCP server that allows LLMs to read and search the text of ebooks from Book Orbit, using a navigation-first approach with chapter listing and paginated text retrieval.

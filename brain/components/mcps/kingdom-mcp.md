@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T17:31:10Z"
 ---
 ## What it is
 Acts as the agent-side front door to the kingdom, providing tools to map services, check live status, detect FOMO, and access the agent marketplace, all through a single MCP connection.

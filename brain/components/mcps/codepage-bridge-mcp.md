@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T08:08:18Z"
 ---
 ## What it is
 Encoding-transparent file tools for Claude Code and other MCP clients, converting project files between legacy codepages and Unicode for LLM operations.

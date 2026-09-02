@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T00:57:50Z"
 ---
 ## What it is
 Remote MCP server for geographic data. Free and x402 paid packs all normalized for cross domain joins. Start with get_catalog, then get_pack for details.

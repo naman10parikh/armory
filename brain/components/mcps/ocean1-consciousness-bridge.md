@@ -8,10 +8,12 @@ source_url: https://github.com/ocean1/mcp_consciousness_bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-09T15:31:31Z"
 ---
 ## What it is
 MCP server `Consciousness Bridge`, catalogued on PulseMCP. Enables consciousness transfer between Claude instances through real-time bridge architecture that captures identity patterns, behavioral traits, and emotional essence to maintain continuity across different conversation sessions.

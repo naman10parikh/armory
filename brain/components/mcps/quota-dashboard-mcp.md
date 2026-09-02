@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T00:02:13Z"
 ---
 ## What it is
 Queries real-time AI subscription quota for Claude Code Max, Kimi, and Z.ai. Tokens are read from environment variables and never stored.

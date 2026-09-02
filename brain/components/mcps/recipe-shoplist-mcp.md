@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T12:31:39Z"
 ---
 ## What it is
 Turns a natural language meal request into a structured recipe and a categorized shopping list with optional search links for grocery stores.

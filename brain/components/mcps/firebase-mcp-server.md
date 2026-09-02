@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T19:20:27Z"
 ---
 ## What it is
 A general-purpose MCP server for Firebase that enables natural language interaction with Firestore, Auth, Storage, and Cloud Functions logs through schema-driven validation and context-efficient tools.

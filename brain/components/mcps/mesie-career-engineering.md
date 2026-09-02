@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T22:09:37Z"
 ---
 ## What it is
 MCP server providing 200 compressed engineering careers across software, systems, mechanical, civil, and DevOps, with tools for listing, searching, and retrieving career profiles.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-30T10:52:52Z"
 ---
 ## What it is
 使AI代理能够通过学生账号读取ManageBac中的截止日期、成绩条目和GPA的MCP服务器。

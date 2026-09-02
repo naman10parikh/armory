@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:13Z"
 ---
 ## What it is
 Read-only MCP server for consulting IPVA (vehicle property tax) data from the official SEFAZ GO source in Brazil, using prepaid credits and compatible with any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-22T04:51:27Z"
 ---
 ## What it is
 Connects to Stack AI workflows, allowing you to run workflows and pass user inputs through MCP-compatible clients.

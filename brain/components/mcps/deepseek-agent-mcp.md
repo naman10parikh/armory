@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T15:45:22Z"
 ---
 ## What it is
 MCP server that packages DeepSeek agents as callable tools, offering a bare model for quick Q&A and a full agent capable of executing real coding and file-modifying tasks in a workspace.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T11:36:29Z"
 ---
 ## What it is
 Enables querying and retrieving normalized financial statements from 25 non-US markets via a local MCP server, with support for company search, filing listings, and structured balance sheet data.

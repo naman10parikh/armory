@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T01:39:45Z"
 ---
 ## What it is
 Enables interaction with synthetic NIH-style clinical research data through tools for searching publications, querying patient metadata, analyzing AAA measurements, and retrieving protocol guidance.

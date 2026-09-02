@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:16:29Z"
 ---
 ## What it is
 MCP server that unifies real-time telemetry from industrial systems into a single queryable interface, enabling production visibility, anomaly detection, and operational insights.

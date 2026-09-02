@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T10:50:37Z"
 ---
 ## What it is
 Enables LLM agents to control Android devices securely via Shizuku and Termux:API, providing a universal shell tool for command execution and persistent sessions.

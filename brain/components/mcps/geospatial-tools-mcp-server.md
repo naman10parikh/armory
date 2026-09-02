@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-10T05:16:02Z"
 ---
 ## What it is
 Provides 15 geospatial utility tools for AI agents, covering coordinate transformation, spatial data validation, elevation/terrain, viewshed analysis, and drone flight planning.

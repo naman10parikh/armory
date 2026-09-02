@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:35:51Z"
 ---
 ## What it is
 MCP server that allows querying vehicle history linked to a CPF or CNPJ in São Paulo state, Brazil. It offers a single read-only tool for retrieving vehicle records, with prepaid pay-per-use credits.

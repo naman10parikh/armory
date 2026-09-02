@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-22T09:45:08Z"
 ---
 ## What it is
 MCP server `Search Analytics (Google Search Console & Analytics 4)`, catalogued on PulseMCP. Integrates Google Search Console and Google Analytics 4 data through unified tools for search analytics, traffic overviews, page performance analysis, and combined insights that correlate search visibility with actual traffic metrics.

@@ -8,10 +8,12 @@ source_url: https://github.com/eralpozcan/vision-squeezer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-22T01:43:57Z"
 ---
 ## What it is
 MCP server `Vision Squeezer`, catalogued on PulseMCP. Reduces vision model token costs by snapping images to optimal tile boundaries for Claude, GPT-4o, GPT-5, and Gemini.

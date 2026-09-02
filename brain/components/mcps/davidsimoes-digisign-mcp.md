@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 1
+forks: 0
+pushed_at: "2026-03-18T10:12:09Z"
 ---
 ## What it is
 MCP server for DigiSign.cz digital signature API — create, send, and manage digital signature envelopes.

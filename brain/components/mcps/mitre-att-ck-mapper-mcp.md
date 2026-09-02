@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:37:04Z"
 ---
 ## What it is
 Enables cyber defenders to query ATT\&CK techniques, list tactics, map incidents to techniques, look up threat actor groups and mitigations, all via the MCP protocol.

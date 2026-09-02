@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-06T00:41:25Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Automatically captures Claude Code responses and saves them as structured markdown files in your Obsidian vault with configurable templates, project-specific organization, and automatic frontmatter generation for seamless AI conversation archiving.

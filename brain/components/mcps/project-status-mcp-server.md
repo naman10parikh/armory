@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:25:19Z"
 ---
 ## What it is
 MCP server that exposes project status tools (plan, milestones, RAID items, blockers) allowing AI assistants to retrieve and analyze project information via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-04-13T13:27:36Z"
 ---
 ## What it is
 Acts as a gateway to interface with the Evolution API, exposing an MCP server via SSE for remote connections.

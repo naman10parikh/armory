@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-06T20:54:39Z"
 ---
 ## What it is
 An MCP server that provides AI agents with direct access to authoritative Cakemail API specifications, enabling accurate code generation and eliminating hallucination.

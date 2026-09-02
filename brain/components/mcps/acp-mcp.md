@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T01:01:18Z"
 ---
 ## What it is
 MCP server for remote machine operations via SSH, providing a single tool to execute any shell command on remote machines with real-time progress streaming.

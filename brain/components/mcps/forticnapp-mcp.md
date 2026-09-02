@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T11:54:48Z"
 ---
 ## What it is
 An MCP server that exposes FortiCNAPP (formerly Lacework) API 2.0 operations as typed, auth-aware tools generated from the API spec at startup, supporting both local stdio and remote Streamable HTTP transports.

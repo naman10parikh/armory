@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:19:43Z"
 ---
 ## What it is
 MCP server `Pipeworx Listen Notes`, catalogued on PulseMCP. Search and discover podcasts, episodes, and curated lists via the Listen Notes directory.

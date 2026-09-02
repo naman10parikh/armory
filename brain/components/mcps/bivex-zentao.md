@@ -8,10 +8,12 @@ source_url: https://github.com/bivex/zentaomcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-03T23:52:56Z"
 ---
 ## What it is
 MCP server `ZenTao`, catalogued on PulseMCP. Integrates with ZenTao project management system to provide access to projects, products, stories, bugs, tasks, test management, releases, builds, and AI features through structured URI patterns and management tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T11:36:15Z"
 ---
 ## What it is
 Connects an MCP client to a remote Linux/Unix host over SSH, enabling remote shell commands, file access, port forwarding, and VS Code Remote-SSH URI generation.

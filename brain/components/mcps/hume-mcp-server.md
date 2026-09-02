@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-26T03:53:22Z"
 ---
 ## What it is
 Enables AI assistants to generate expressive speech using Hume AI's Octave Text-to-Speech, allowing for natural language-based audio synthesis and voice management.

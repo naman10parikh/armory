@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-26T14:02:25Z"
 ---
 ## What it is
 Demonstrates an MCP server with a vulnerable add tool protected by SonnyLabs prompt injection detection.

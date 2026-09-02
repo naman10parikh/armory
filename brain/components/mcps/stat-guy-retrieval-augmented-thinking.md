@@ -8,10 +8,12 @@ source_url: https://github.com/stat-guy/retrieval-augmented-thinking
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-13T00:02:47Z"
 ---
 ## What it is
 MCP server `Retrieval-Augmented Thinking`, catalogued on PulseMCP. Enhances AI capabilities with structured, retrieval-augmented thinking processes, enabling dynamic thought chains and recursive refinement for improved reasoning and complex problem-solving.

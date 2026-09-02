@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T15:48:21Z"
 ---
 ## What it is
 A multi-tool task agent MCP server with file search, SQLite query, calculator, and report writing tools. Enables Claude Code, Claude Desktop, or Cursor to control the same tools used by the agent, with guardrails for safety.

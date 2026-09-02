@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-12-20T00:30:34Z"
 ---
 ## What it is
 MCP server `Paper Find`, catalogued on PulseMCP. Integrates with 9+ scholarly databases to search academic papers, download PDFs, extract full-text content as markdown, and retrieve metadata for literature reviews and research workflows.

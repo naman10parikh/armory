@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T00:35:32Z"
 ---
 ## What it is
 Unchallengeable AI agent security audits. MASSAT framework covers all 10 OWASP Agentic Security categories (ASI01-ASI10); audit score 4.3/10 published publicly. Plus the trust layer for the x402 agent economy: ERC-8004 passports, ProofDB delegation chains, on-chain anchoring, x402 + Fedimint payment

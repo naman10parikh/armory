@@ -13,6 +13,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 13
+forks: 1
+pushed_at: "2025-06-23T15:52:46Z"
 ---
 ## What it is
 MCP server `Playwright`, catalogued on PulseMCP. Provides browser automation capabilities through Playwright integration, enabling navigation, element interaction, screenshot capture, form handling, file uploads, PDF generation, tab management, and both accessibility tree and vision-based web control for scraping, testing, and automated workflows.

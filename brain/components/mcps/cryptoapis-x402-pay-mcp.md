@@ -8,11 +8,13 @@ source_url: https://github.com/CryptoAPIs-io/cryptoapis-mcp-x402-pay
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T19:56:07Z"
 ---
 ## What it is
 Enables AI agents to discover and pay for x402-gated HTTP APIs, handling 402 Payment Required flows with local signing. Supports EVM and Solana with non-custodial wallet management.

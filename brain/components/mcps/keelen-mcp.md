@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T22:29:58Z"
 ---
 ## What it is
 MCP server for managing an autonomous dev loop from chat—onboarding, connecting GitHub, and converting plain-English requests into tested, merged pull requests.

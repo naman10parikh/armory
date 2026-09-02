@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T21:53:40Z"
 ---
 ## What it is
 Watches your terminal sessions, identifies repetitive workflows, and converts them into callable MCP tools so AI agents can automate them.

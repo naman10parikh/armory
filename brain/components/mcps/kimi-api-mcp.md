@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-30T15:42:35Z"
 ---
 ## What it is
 MCP server that provides file operations and Moonshot API-powered tools (reasoning, code review, testing, research, web search, agent) for Kimi K2.5, requiring only a Moonshot API key.

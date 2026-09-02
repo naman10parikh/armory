@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:08:29Z"
 ---
 ## What it is
 Enables AI coding agents to perform automated Blender UI testing, user-story validation, and computer-use workflows inside an isolated GPU-partitioned Windows 11 VM without disrupting the host desktop.

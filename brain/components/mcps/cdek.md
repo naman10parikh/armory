@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-10T12:19:52Z"
 ---
 ## What it is
 Integrates with CDEK delivery API to manage orders, track shipments, find pickup points, and handle delivery labels and barcodes through natural language.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-13T00:52:57Z"
 ---
 ## What it is
 MCP server `GroqCloud`, catalogued on PulseMCP. Integrates with Groq's high-speed inference API for text completion, audio transcription, and vision analysis with automatic model selection based on task complexity and intelligent rate limiting for optimal performance.

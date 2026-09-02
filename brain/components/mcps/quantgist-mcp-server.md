@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-17T18:33:29Z"
 ---
 ## What it is
 Provides macro-economic event data, earnings reports, and market overviews as MCP tools, enabling AI agents to query calendars, check event proximity, and assess trade safety.

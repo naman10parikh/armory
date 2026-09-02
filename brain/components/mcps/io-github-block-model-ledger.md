@@ -8,11 +8,13 @@ source_url: https://github.com/block/model-ledger
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-25T19:29:51Z"
 ---
 ## What it is
 Provides AI agents with a toolset to query model inventories, trace dependencies, and analyze the impact of changes across machine learning models and data pipelines.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T09:07:15Z"
 ---
 ## What it is
 Connects to vibe-code-best-practices.vercel.app to index 817 tools across 185 sections and 10 domains, routes the right tool/Skill for your project need, and can recommend a full stack.

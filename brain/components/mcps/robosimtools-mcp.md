@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T07:35:19Z"
 ---
 ## What it is
 Exposes 12 robotics/simulation tools from robosimtools.com as MCP tools, enabling AI agents to perform conversions (quaternion, URDF, MJCF), validation, and CAD imports locally.

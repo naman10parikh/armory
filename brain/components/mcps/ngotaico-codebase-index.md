@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-27T02:56:23Z"
 ---
 ## What it is
 MCP server `Codebase Index`, catalogued on PulseMCP. Indexes codebases using Qdrant vector storage and Google Gemini embeddings to provide semantic search capabilities over code with intelligent chunking, incremental updates, and natural language queries.

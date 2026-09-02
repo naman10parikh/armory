@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:15:06Z"
 ---
 ## What it is
 Maps design components, tokens, and patterns to their code implementations, providing AI coding agents with exact-match resolution across any design tool and framework. Enables agents to reliably discover and reuse existing components across React, Vue, Flutter, SwiftUI, and more.

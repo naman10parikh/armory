@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-18T19:36:58Z"
 ---
 ## What it is
 Provides real-time, up-to-date documentation for major LLM providers (OpenAI, Anthropic, Google Gemini) to prevent hallucinations and outdated code patterns in AI agents.

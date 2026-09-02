@@ -8,10 +8,12 @@ source_url: https://github.com/balldontlie-api/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-06T15:52:01Z"
 ---
 ## What it is
 MCP server `BALLDONTLIE`, catalogued on PulseMCP. Comprehensive sports data and analytics API covering NBA, NFL, MLB, NHL, and 6+ other major leagues

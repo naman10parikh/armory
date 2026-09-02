@@ -8,10 +8,12 @@ source_url: https://github.com/thsrite/mcp-gateway
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-31T13:22:32Z"
 ---
 ## What it is
 MCP server `MCP Gateway by thsrite`, catalogued on PulseMCP. Aggregates multiple stdio-based servers into a single streamable HTTP endpoint with web management.

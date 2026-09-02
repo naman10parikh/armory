@@ -8,11 +8,13 @@ source_url: https://github.com/phryniszak/stmcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T00:11:16Z"
 ---
 ## What it is
 MCP server for debugging STM32 microcontrollers over ST-LINK using STM32CubeCLT tools (GDB, ST-LINK_gdbserver, STM32_Programmer_CLI) with session management, flashing, breakpoints, memory/register access, and expression evaluation.

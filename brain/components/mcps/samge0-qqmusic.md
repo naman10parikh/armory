@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-13T17:03:16Z"
 ---
 ## What it is
 MCP server `QQ Music`, catalogued on PulseMCP. Provides a bridge to QQ Music API for searching, playing, and managing music playlists through natural language interactions without dealing with underlying API complexities.

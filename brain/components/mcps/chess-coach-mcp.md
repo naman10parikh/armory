@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T06:46:43Z"
 ---
 ## What it is
 A hybrid AI chess coach MCP server that uses Stockfish for grounded evaluation and LLM for natural-language coaching, enabling game analysis, weakness diagnosis, and personalized drills from your own games.

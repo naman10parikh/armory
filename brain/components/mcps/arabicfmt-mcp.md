@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T03:33:10Z"
 ---
 ## What it is
 MCP server for correct Arabic formatting — currency, Hijri dates, number-to-words, RTL fixes and validation across all 22 Arab countries. Zero-dependency.

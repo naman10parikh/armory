@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 24
+forks: 8
+pushed_at: "2025-05-14T09:48:27Z"
 ---
 ## What it is
 Save and query your agent memory in distributed way by Membase

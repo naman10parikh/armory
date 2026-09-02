@@ -8,11 +8,13 @@ source_url: https://github.com/justtryai/databricks-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 1
+forks: 34
+pushed_at: "2025-03-23T23:45:08Z"
 ---
 ## What it is
 MCP server `Databricks`, catalogued on PulseMCP. Integrates with Databricks services to enable interaction with clusters, jobs, notebooks, DBFS, and SQL workspaces via tools that wrap the Databricks REST API.

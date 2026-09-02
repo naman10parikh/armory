@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T06:09:10Z"
 ---
 ## What it is
 A lightweight Docker-based email sending microservice that provides both REST API and MCP (Model Context Protocol) tools for sending emails, enabling AI agents to send email notifications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T03:17:02Z"
 ---
 ## What it is
 A powerful Model Context Protocol (MCP) server for image processing, designed to empower AI models with advanced image manipulation capabilities.

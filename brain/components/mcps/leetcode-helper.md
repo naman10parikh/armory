@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T11:11:23Z"
 ---
 ## What it is
 An MCP server that provides structured, AI-powered guidance for LeetCode problems, including approach analysis, hints, complexity breakdowns, and optimization directions without spoiling solutions.

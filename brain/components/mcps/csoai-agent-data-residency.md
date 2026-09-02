@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:25:05Z"
 ---
 ## What it is
 MCP server `Agent Data Residency Guard`, catalogued on PulseMCP. GDPR Chapter V data residency runtime guard for AI agents that enforces transfer-basis rules programmatically.

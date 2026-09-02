@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-10T16:08:06Z"
 ---
 ## What it is
 Enables AI agents to discover and analyze prediction markets, execute trades, and manage positions on Polymarket via the Model Context Protocol.

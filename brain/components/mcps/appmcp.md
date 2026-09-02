@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T01:05:33Z"
 ---
 ## What it is
 AppMCP enables AI agents to build and publish self-contained HTML apps that query live data via a secure, read-only SQL proxy, with Azure AD authentication and role-based access.

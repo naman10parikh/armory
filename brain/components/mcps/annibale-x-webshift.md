@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-09T17:05:23Z"
 ---
 ## What it is
 MCP server `WebShift`, catalogued on PulseMCP. Denoised web search — fetch, clean, and rerank web content for AI agents with strict size budgets.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T06:52:12Z"
 ---
 ## What it is
 MCP server that enables AI assistants to automatically write and publish blog posts to CSDN with support for categories, tags, and drafts.

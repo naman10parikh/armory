@@ -8,10 +8,12 @@ source_url: https://github.com/zinxer/mcp-server-purelymail
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-06T13:54:01Z"
 ---
 ## What it is
 MCP server `Purelymail`, catalogued on PulseMCP. Unofficial MCP server for managing Purelymail email infrastructure including domains, mailboxes, routing rules, and DNS checks.

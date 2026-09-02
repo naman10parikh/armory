@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T05:38:41Z"
 ---
 ## What it is
 A local MCP server that provides a shared context and learning foundation across multiple AI tools (Claude, Copilot, Codex) for multiple projects, enabling persistent knowledge, decisions, and gap reflection through note storage.

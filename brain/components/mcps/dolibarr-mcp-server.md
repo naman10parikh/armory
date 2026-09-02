@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-28T16:38:00Z"
 ---
 ## What it is
 Provides structured access to Dolibarr ERP/CRM API endpoints via the Model Context Protocol, supporting CRUD operations on resources like thirdparties, products, and orders.

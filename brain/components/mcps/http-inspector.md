@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T04:20:08Z"
 ---
 ## What it is
 HTTP Inspector MCP Server enables sending arbitrary HTTP requests, viewing history via a web panel, and taking screenshots of the panel for AI penetration testing workflows.

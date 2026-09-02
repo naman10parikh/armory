@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T19:32:06Z"
 ---
 ## What it is
 Enables Claude Desktop to send messages, manage spaces, and automate team collaboration in Cisco Webex Teams via the Model Context Protocol.

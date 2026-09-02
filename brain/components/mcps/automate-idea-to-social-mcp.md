@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-29T10:55:00Z"
 ---
 ## What it is
 Enables publishing content to multiple social media platforms (YouTube, Twitter, Facebook, Instagram, TikTok, Reddit, Blog) through automation agents, with task management and system validation.

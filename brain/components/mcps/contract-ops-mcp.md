@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T07:51:38Z"
 ---
 ## What it is
 An MCP server that exposes nine local-first contract-ops CLIs as tools for contract extraction, linting, comparison, conversion, template vaults, and signed-contract vaults, with signing operations strictly human-gated.

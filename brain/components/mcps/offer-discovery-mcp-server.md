@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:28:04Z"
 ---
 ## What it is
 Connects AI agents to a live offers API, returning structured product offers in real time.

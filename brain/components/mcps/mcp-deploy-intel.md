@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T13:24:20Z"
 ---
 ## What it is
 Provides Kubernetes deployment intelligence with typed query tools and AI-synthesized risk briefs, enabling users to list workloads, get detailed snapshots, query Prometheus metrics, record deployment history, and generate risk assessments before promoting to production.

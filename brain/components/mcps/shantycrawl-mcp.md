@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T18:20:11Z"
 ---
 ## What it is
 A lean MCP server for Firecrawl with lazy-loading tool architecture, reducing context consumption by exposing only 5 base tools by default and enabling 23 advanced tools on demand via tool_enable.

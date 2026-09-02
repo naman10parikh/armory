@@ -8,11 +8,13 @@ source_url: https://github.com/derekslinz/meta-data-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T03:24:27Z"
 ---
 ## What it is
 A single MCP server that transparently routes user requests to 83 open-data sources with built-in discovery and autonomous plugin creation.

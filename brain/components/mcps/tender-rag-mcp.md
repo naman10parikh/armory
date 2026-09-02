@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T10:58:58Z"
 ---
 ## What it is
 This MCP server enables AI assistants to answer questions about government tenders based on the tenders' real documents, with citations to the exact document and page. It supports listing, summarizing, and querying tenders through natural language.

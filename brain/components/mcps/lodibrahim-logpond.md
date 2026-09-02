@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-19T00:46:22Z"
 ---
 ## What it is
 MCP server `Logpond`, catalogued on PulseMCP. Terminal log viewer with built-in MCP server for AI-assisted log analysis and hub auto-aggregation.

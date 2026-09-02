@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T17:14:56Z"
 ---
 ## What it is
 MCP server that connects AI agents to KOMPAS-3D CAD, enabling automated 3D document operations through deterministic COM/API7 calls.

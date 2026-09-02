@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T20:28:14Z"
 ---
 ## What it is
 Provides a tool to retrieve today's 2026 FIFA World Cup matches, including teams, time, venue, and scores.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T22:23:33Z"
 ---
 ## What it is
 A Model Context Protocol server for SAQ.com that enables searching wines and spirits, tracking new arrivals, monitoring restocks, and filtering alerts by geographic area from any MCP-compatible client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T08:31:11Z"
 ---
 ## What it is
 MCP server for Douyin/TikTok short-video transcript and hook analysis, ranking content by save intent rather than likes and transcribing real speech to find reusable opening structures.

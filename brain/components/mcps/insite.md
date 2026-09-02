@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-10T23:02:39Z"
 ---
 ## What it is
 A comprehensive browser automation MCP server using Playwright, offering 50+ tools for page control, element interaction, content extraction, and more across multiple browser engines.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T17:16:55Z"
 ---
 ## What it is
 Generates timed exams on any topic with an interactive exam sheet in MCP hosts; supports true/false, multiple-choice, and open questions with instant or model grading and a final report out of 100.

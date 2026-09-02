@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-25T12:46:16Z"
 ---
 ## What it is
 MCP server `Confluence Markdown Sync`, catalogued on PulseMCP. Bidirectional sync between Confluence pages and local Markdown files with 3 tools and a resource endpoint.

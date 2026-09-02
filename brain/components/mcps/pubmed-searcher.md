@@ -12,6 +12,8 @@ stars: 149
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2025-05-07T11:23:36Z"
 ---
 ## What it is
 MCP server `PubMed Searcher`, catalogued on PulseMCP. Search, retrieve, and analyze scientific literature from PubMed with capabilities for identifying research trends and generating statistical reports.

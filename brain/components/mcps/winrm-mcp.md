@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T04:54:42Z"
 ---
 ## What it is
 MCP server for controlling a Windows guest VM over WinRM, enabling PowerShell/CMD execution, file transfer, reboot, and KDNET debug configuration, typically paired with kd-mcp.

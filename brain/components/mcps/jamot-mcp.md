@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T03:06:54Z"
 ---
 ## What it is
 An MCP server that turns AI agents into a coordination brain for human teams — assign tasks, check workload, decompose complex instructions, and hand over full context through a single SSE endpoint.

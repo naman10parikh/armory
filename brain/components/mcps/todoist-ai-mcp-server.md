@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T12:08:30Z"
 ---
 ## What it is
 MCP server that enables AI agents to access and modify Todoist tasks, such as finding tasks by date and adding tasks, via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T19:31:47Z"
 ---
 ## What it is
 MCP server providing AI agents with a typed-edge graph memory layer that enables bounded hallucination, surgical forgetting, and audit trails, supporting multiple clients like Claude Desktop and Cursor.

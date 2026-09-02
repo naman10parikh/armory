@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T20:45:36Z"
 ---
 ## What it is
 Enables querying OpenDRIVE road network files through structured MCP tools for summarizing maps, listing roads and lanes, converting coordinates, and validating files.

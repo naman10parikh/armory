@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-15T11:10:08Z"
 ---
 ## What it is
 MCP server `Nordic Data`, catalogued on PulseMCP. Norwegian business registry MCP providing access to company data, procurement, sanctions, and financial records.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T11:08:47Z"
 ---
 ## What it is
 MCP server that lets AI draw in AutoLISP-capable CAD (reference BricsCAD on Linux) via a file bridge, enabling 2D drafting, 3D solid modeling, and verification with 100 tools.

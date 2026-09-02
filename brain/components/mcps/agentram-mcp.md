@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T02:02:56Z"
 ---
 ## What it is
 Provides persistent memory for AI agents via 10 MCP tools that map to the AgentRAM REST API, enabling store, retrieve, search, and share memories across personal and shared namespaces.

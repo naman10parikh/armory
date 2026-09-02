@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:33Z"
 ---
 ## What it is
 Enables tracking the status of a REDESIM protocol at JUCESP (company opening, alteration, or closure) with a single read-only tool. Works with any MCP client over HTTP, no credentials required, pay-per-use.

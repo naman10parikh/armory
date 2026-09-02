@@ -8,10 +8,12 @@ source_url: https://github.com/sacode/searxng-simple-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-08-25T21:17:00Z"
 ---
 ## What it is
 MCP server `SearxNG Search`, catalogued on PulseMCP. Integrates with SearxNG privacy-focused search engine to provide web search capabilities with customizable parameters like result count, language, and time range.

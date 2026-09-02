@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:33:19Z"
 ---
 ## What it is
 Enables querying a person's Pronaf Aptitude Declaration (DAP) using CPF and birth date through a single read-only tool. It is a hosted MCP server, pay-per-use, compatible with any MCP client.

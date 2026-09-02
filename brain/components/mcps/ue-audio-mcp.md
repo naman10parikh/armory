@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-17T14:26:42Z"
 ---
 ## What it is
 Enables AI-powered game audio creation for Unreal Engine 5.7, integrating Wwise, MetaSounds, and Blueprint through MCP tools to generate DSP graphs, sound systems, and trigger logic.

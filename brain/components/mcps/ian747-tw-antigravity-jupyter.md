@@ -8,10 +8,12 @@ source_url: https://github.com/ian747-tw/antigravity-jupiter-notebook-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-20T12:27:01Z"
 ---
 ## What it is
 MCP server `Antigravity Jupyter Notebook`, catalogued on PulseMCP. Enables AI agents in Antigravity to read, edit, execute, and orchestrate Jupyter notebooks with cell management, kernel control, and tag-based pipeline execution.

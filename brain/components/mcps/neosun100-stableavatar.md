@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-03T18:44:24Z"
 ---
 ## What it is
 MCP server `StableAvatar`, catalogued on PulseMCP. Generates synchronized talking head videos from reference images and audio using diffusion models with multi-GPU support.

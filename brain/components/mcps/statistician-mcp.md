@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T11:18:24Z"
 ---
 ## What it is
 A virtual statistician MCP server that provides real statistical methods—design of experiments, hypothesis testing, regression, SPC, MSA—via tested Python libraries, with plain-language interpretations and plotted outputs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T10:25:00Z"
 ---
 ## What it is
 Wraps WeChat push capability as MCP tools, allowing users to send WeChat template messages and check health via Claude clients.

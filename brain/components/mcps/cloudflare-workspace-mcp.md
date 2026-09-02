@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T12:10:48Z"
 ---
 ## What it is
 Gives mobile AI assistants a real local command-line workspace and manages Cloudflare resources (Pages/D1/KV/R2) via REST or wrangler, with credentials remaining on-device.

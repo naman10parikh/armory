@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-12T04:32:16Z"
 ---
 ## What it is
 Enables listing, reading, and searching local files and directories through MCP tools.

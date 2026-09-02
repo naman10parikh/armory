@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T17:46:19Z"
 ---
 ## What it is
 Provides an AI agent with authenticated shell and file access to a sandbox host, plus a restricted gateway for safe deploys on a production host via forced SSH commands.

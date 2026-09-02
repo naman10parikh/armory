@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-22T22:23:54Z"
 ---
 ## What it is
 An institutional-grade algorithmic trading platform that bridges MetaTrader 5 with an autonomous AI cortex for high-frequency data extraction, ML-driven analysis, and autonomous decision-making using the FEAT methodology.

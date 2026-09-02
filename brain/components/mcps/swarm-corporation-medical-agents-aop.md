@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-10T08:04:23Z"
 ---
 ## What it is
 MCP server `Medical Agents AOP`, catalogued on PulseMCP. Orchestrates specialized medical AI agents for blood data analysis, CBC interpretation, and clinical decision support

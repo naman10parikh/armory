@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T13:31:51Z"
 ---
 ## What it is
 Remote MCP server for business lead discovery via Geoapify, exposing search_businesses and get_business_details tools with deduplication, pagination, and secure API key handling.

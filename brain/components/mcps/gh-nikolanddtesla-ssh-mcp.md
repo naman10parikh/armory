@@ -8,10 +8,12 @@ source_url: https://github.com/nikolanddtesla/ssh-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-27T02:04:13Z"
 ---
 ## What it is
 MCP server `SSH Bridge`, catalogued on PulseMCP. SSH server management with zero-token SFTP transfers and multi-server connection pooling.

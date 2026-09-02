@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T09:56:23Z"
 ---
 ## What it is
 MCP server for Sqemo, a web-based ERD tool with team naming standards. 34 tools: read/edit entities, attributes, and relationships; generate physical names from a shared glossary and naming rules; SQL (7 dialects) and DBML import/export; ERD lint, diff, and ALTER generation.

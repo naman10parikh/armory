@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T13:02:33Z"
 ---
 ## What it is
 Bridges MCP clients to the DeepSeek API for chat completions and model discovery, with an optional locked-down bridge that delegates prompts to local CLI harnesses like Claude, Codex, or opencode.

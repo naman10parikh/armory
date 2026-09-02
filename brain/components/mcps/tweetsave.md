@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-13T21:03:14Z"
 ---
 ## What it is
 MCP server `TweetSave`, catalogued on PulseMCP. Fetch and analyze Twitter/X posts without API keys. Download media and extract tweet data.

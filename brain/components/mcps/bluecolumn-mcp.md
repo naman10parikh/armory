@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:36:37Z"
 ---
 ## What it is
 Persistent semantic memory for MCP-compatible agents, enabling them to remember and recall text, audio, and documents across sessions.

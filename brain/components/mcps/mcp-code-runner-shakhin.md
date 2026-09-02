@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-02T10:53:26Z"
 ---
 ## What it is
 MCP server `Code Runner`, catalogued on PulseMCP. Executes Python code in a sandboxed environment with security restrictions.

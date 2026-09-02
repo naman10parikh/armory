@@ -8,10 +8,12 @@ source_url: https://github.com/philschmid/code-sandbox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 199
+stars: 203
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-07-22T14:22:11Z"
 ---
 ## What it is
 MCP server `Code Sandbox`, catalogued on PulseMCP. Provides secure code execution capabilities through containerized sandbox environments, supporting Python and JavaScript with pre-installed libraries for data analysis, visualization, and prototyping without compromising host system security.

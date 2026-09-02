@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T08:53:51Z"
 ---
 ## What it is
 Multi-AI collaboration MCP server enabling message passing, code review workflows, shared todo lists, and agent management with authentication and role-based access.

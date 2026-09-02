@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T23:07:55Z"
 ---
 ## What it is
 Enables AI agents to access Tor hidden services and the dark web through tools for search, fetch, and analysis over Tor.

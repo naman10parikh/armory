@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:22:16Z"
 ---
 ## What it is
 Enables any agent framework to connect and interact with a persistent, rules-based world service, while providing a built-in WebUI for human players and owner management.

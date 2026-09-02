@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:46:13Z"
 ---
 ## What it is
 Product evaluation MCP server for US packaged food. Health scores, ingredient safety, regulatory flags, recall history, corporate ownership.

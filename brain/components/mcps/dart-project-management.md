@@ -8,10 +8,12 @@ source_url: https://github.com/its-dart/dart-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 127
+stars: 128
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-08-24T20:46:06Z"
 ---
 ## What it is
 MCP server `Dart Project Management`, catalogued on PulseMCP. Integrates with Dart's project management platform, enabling direct task and document management through a set of tools for creating, retrieving, updating, and filtering work items by various attributes.

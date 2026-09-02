@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:04:39Z"
 ---
 ## What it is
 MCP server for interacting with a running T3 Code instance. Enables viewing agent threads, sending messages, and approving permission requests from Claude Code or voice-controlled models.

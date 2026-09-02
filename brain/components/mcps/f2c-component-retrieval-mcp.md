@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:17:39Z"
 ---
 ## What it is
 Enables Figma-to-Code workflows by retrieving and calibrating real-world components from Figma designs, screenshots, and a component knowledge base, outputting component contracts and preview implementations.

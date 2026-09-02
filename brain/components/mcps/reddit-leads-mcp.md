@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T21:20:34Z"
 ---
 ## What it is
 An MCP server that turns Claude into a Reddit lead-finding agent: search for buying-intent conversations, score them against your product, and read full threads before drafting a reply.

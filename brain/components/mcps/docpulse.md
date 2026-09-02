@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T11:38:57Z"
 ---
 ## What it is
 DocPulse enables users to distill large documentation into compact, LLM-ready summaries by crawling web, PDF, and local sources, augmented with community insights from Reddit/StackOverflow, all running locally on Apple Silicon.

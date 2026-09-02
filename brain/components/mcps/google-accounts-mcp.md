@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:36:55Z"
 ---
 ## What it is
 MCP server for multiple Google accounts, providing tools for Gmail, Drive, Calendar, Tasks, and Contacts with multi-account support and cross-MCP file handoff.

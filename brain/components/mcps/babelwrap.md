@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T17:50:30Z"
 ---
 ## What it is
 MCP server `BabelWrap`, catalogued on PulseMCP. Web browsing capabilities for AI agents via the BabelWrap API.

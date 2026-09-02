@@ -8,10 +8,12 @@ source_url: https://github.com/joshfng/crucible
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-24T01:35:22Z"
 ---
 ## What it is
 MCP server `Crucible`, catalogued on PulseMCP. Browser automation server using Ferrum and headless Chrome for navigation, screenshots, form interaction, JavaScript evaluation, cookies, file downloads, and multi-session management with stealth mode capabilities.

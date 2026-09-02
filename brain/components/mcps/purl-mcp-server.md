@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T14:38:06Z"
 ---
 ## What it is
 Connects AI assistants to live Purl Studio projects, enabling reading objects, modifying scripts, and setting properties.

@@ -8,11 +8,13 @@ source_url: https://github.com/EllisMorrow/OmniClip-RAG
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 46
+stars: 45
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-08T15:38:54Z"
 ---
 ## What it is
 Read-only local-first MCP server enabling AI assistants to semantically search private Markdown, PDF, and Tika-backed knowledge bases without data upload.

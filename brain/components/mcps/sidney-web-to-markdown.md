@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-26T17:43:42Z"
 ---
 ## What it is
 MCP server `Web to Markdown`, catalogued on PulseMCP. Fetch any URL and return clean Markdown using a three-tier strategy: native markdown fast-path, trafilatura extraction, and headless Chromium fallback.

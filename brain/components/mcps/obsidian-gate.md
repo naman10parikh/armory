@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T19:13:37Z"
 ---
 ## What it is
 Enables AI agents to read, search, write, and link notes in an Obsidian vault via MCP tools and resources.

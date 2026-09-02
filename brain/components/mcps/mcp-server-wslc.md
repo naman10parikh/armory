@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T09:24:49Z"
 ---
 ## What it is
 Enables AI agents to manage WSL containers and images via the wslc CLI, supporting container lifecycle, network, volume, and registry operations through natural language.

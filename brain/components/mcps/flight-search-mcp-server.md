@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-27T02:20:33Z"
 ---
 ## What it is
 Enables AI assistants to search for real-time flights between airports using the SearchAPI.io Google Flights API, returning prices, schedules, airlines, and carbon emissions.

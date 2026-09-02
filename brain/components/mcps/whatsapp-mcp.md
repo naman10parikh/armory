@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T02:57:47Z"
 ---
 ## What it is
 A macOS app that provides a read-only interface to WhatsApp for Claude via the Model Context Protocol, with one-click install and local-only operation.

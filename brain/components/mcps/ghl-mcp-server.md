@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T06:56:19Z"
 ---
 ## What it is
 A comprehensive MCP server that connects AI assistants to GoHighLevel CRM, enabling management of contacts, conversations, calendars, pipelines, payments, and more through 60+ tools.

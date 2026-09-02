@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T14:30:41Z"
 ---
 ## What it is
 A Python MCP server that reduces token usage by ~98% when working with log files by auto-detecting format and stripping noise to return only actionable signal.

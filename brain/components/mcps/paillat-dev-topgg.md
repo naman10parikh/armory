@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T12:33:21Z"
 ---
 ## What it is
 MCP server `Top.gg`, catalogued on PulseMCP. Manage Discord bot and server listings on Top.gg through 9 tools covering listing operations via the Top.gg v1 API.

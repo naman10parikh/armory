@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T09:19:19Z"
 ---
 ## What it is
 An MCP server that gives Claude Code and Codex full control of a personal Outlook.com mailbox and calendar via the Microsoft Graph API, enabling mail, draft, folder, and calendar operations through natural language.

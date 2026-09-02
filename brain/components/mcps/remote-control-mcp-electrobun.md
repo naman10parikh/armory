@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T09:26:28Z"
 ---
 ## What it is
 Enables remote desktop control with screen capture and mouse/keyboard simulation through an MCP server exposed via a WebSocket tunnel.

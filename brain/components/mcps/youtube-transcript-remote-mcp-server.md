@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T12:59:06Z"
 ---
 ## What it is
 Enables Claude AI to extract transcripts from YouTube videos with zero local setup, supporting multi-language and all URL formats.

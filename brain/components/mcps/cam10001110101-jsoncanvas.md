@@ -8,10 +8,12 @@ source_url: https://github.com/cam10001110101/obsidian-jsoncanvas
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-09T13:03:13Z"
 ---
 ## What it is
 MCP server `JSON Canvas`, catalogued on PulseMCP. Provides tools for creating, modifying, and validating infinite canvas data structures, supporting all node types and edge connections, with a RESTful API for canvas operations and export capabilities.

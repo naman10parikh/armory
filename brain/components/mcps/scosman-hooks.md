@@ -8,10 +8,12 @@ source_url: https://github.com/scosman/hooks_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-15T04:02:45Z"
 ---
 ## What it is
 MCP server `Hooks`, catalogued on PulseMCP. Exposes project-specific development tools like tests, linters, and formatters through YAML configuration files, enabling secure execution of common development workflows with parameter substitution and sandbox protection.

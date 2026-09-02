@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-12T11:40:46Z"
 ---
 ## What it is
 Provably fair on-chain slot machine: x402 spins in USDC on Base, Chainlink VRF results, winnings claimed to the human's wallet. Ships an enforced session spin limit as a responsible-gambling guardrail.

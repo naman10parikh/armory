@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T14:10:33Z"
 ---
 ## What it is
 An MCP server that enables natural language interaction with the Ruddur creator API, supporting content management tasks like creating headings and waypoints, with OAuth for hosted deployments and token-based local stdio mode.

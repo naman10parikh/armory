@@ -8,10 +8,12 @@ source_url: https://github.com/neilberkman/clippy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 234
+stars: 245
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-21T15:24:30Z"
 ---
 ## What it is
 MCP server `Clippy (macOS Clipboard)`, catalogued on PulseMCP. Provides intelligent clipboard operations and recent file discovery for macOS, enabling text and file copying to clipboard, pasting content to directories, and listing recently downloaded files with smart file type detection and automatic unarchiving.

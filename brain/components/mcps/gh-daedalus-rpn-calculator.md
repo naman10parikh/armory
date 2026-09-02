@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T14:57:16Z"
 ---
 ## What it is
 MCP server `RPN Calculator`, catalogued on PulseMCP. Reverse Polish Notation calculator with standard math operations.

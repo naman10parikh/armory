@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T11:42:17Z"
 ---
 ## What it is
 Enables AI agents to query Linux kernel source code, git history, LKML discussions, Patchwork patches, and documentation with evidence-ranked results, citations, and explicit assumptions or contradictions.

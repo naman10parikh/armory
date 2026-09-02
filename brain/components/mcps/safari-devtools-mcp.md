@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T06:29:14Z"
 ---
 ## What it is
 Lets your coding agent control and inspect a live Safari browser on macOS. Provides access to Safari DevTools for debugging, automation, and testing.

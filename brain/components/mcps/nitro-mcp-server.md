@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-28T12:50:14Z"
 ---
 ## What it is
 Enables MCP client interaction via streamable HTTP, providing example tools (echo, getPostsByUser) and resources (posts, users) with pluggable authentication providers.

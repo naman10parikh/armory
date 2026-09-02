@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T06:10:33Z"
 ---
 ## What it is
 Enables searching local images using natural Japanese queries, leveraging a Japanese-specific CLIP model for similarity search and providing efficient caching and fast retrieval via MCP and HTTP endpoints.

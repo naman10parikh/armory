@@ -8,11 +8,13 @@ source_url: https://github.com/vornicx/Midas
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-28T12:13:38Z"
 ---
 ## What it is
 Local-first, source-traceable memory for AI agents — no LLM at ingest, $0 per message, zero data egress. Gives Claude Code, Cursor, and any MCP client one shared persistent memory with semantic recall, belief revision, selective forgetting, and a provenance guard that blocks acting on stale or uncon

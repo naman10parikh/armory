@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T03:02:54Z"
 ---
 ## What it is
 Provides Claude with queryable knowledge of 300+ visual aesthetics from the Aesthetics Wiki and enables turning that knowledge into design tokens, Tailwind configs, and design briefs.

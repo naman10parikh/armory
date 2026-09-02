@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:01:55Z"
 ---
 ## What it is
 Provides a comprehensive MCP server for data preprocessing, analysis, mathematical modeling, and visualization, enabling agents to load, clean, analyze, model, and plot data with tracking and dynamic method extension capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T11:50:47Z"
 ---
 ## What it is
 A modular MCP server that provides file search, URL fetching, text reading, knowledge base search, and image embedding tools, with a web interface powered by an Ollama agent.

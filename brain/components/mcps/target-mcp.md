@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T00:22:52Z"
 ---
 ## What it is
 Enables automated assessment of research manuscripts against the TARGET reporting guideline for target trial emulation, providing item-by-item scoring with evidence and provenance.

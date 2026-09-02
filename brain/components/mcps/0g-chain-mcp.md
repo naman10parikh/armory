@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-28T12:59:42Z"
 ---
 ## What it is
 Production-ready MCP server for 0G Chain blockchain operations, enabling wallet creation, balance checks, token transfers, staking, and validator discovery through natural language.

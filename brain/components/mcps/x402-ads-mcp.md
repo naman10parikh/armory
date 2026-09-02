@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:41:58Z"
 ---
 ## What it is
 x402 Ads lets AI agents buy and verify ad placements with per-request USDC payments. Agents can discover inventory, submit campaign context, receive structured placement options, and pay through x402 without API keys or accounts. Built for autonomous promotion, attribution, and pay-per-action agent 

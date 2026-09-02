@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T20:31:17Z"
 ---
 ## What it is
 MCP server `Workday`, catalogued on PulseMCP. Accesses Workday HR data via ASOR OAuth 2.0 with tools for worker management.

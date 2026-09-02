@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T02:09:59Z"
 ---
 ## What it is
 An MCP server for managing OpenText Knowledge Discovery content engines, enabling AI assistants to create, delete, list databases, delete documents, query engine status, and manage engine configuration through natural language.

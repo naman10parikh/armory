@@ -8,10 +8,12 @@ source_url: https://github.com/ggerve/coding-standards-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-13T08:06:23Z"
 ---
 ## What it is
 MCP server `Coding Standards`, catalogued on PulseMCP. Provides coding style guidelines and best practices for Java, Python, and React in Markdown format to enhance development workflows and maintain consistent code quality.

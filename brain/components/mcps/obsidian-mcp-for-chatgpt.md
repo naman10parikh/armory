@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T05:14:19Z"
 ---
 ## What it is
 This MCP server bridges ChatGPT web with an Obsidian vault, allowing ChatGPT to read and write notes via the Obsidian Local REST API.

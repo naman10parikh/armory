@@ -8,10 +8,12 @@ source_url: https://github.com/dmitriygolub/threejs-devtools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 88
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-04-07T20:12:15Z"
 ---
 ## What it is
 MCP server `Three.js DevTools`, catalogued on PulseMCP. Inspects and modifies Three.js scenes in real time with 47 tools.

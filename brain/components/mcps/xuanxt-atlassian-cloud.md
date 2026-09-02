@@ -8,10 +8,12 @@ source_url: https://github.com/xuanxt/atlassian-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-05-19T19:41:52Z"
 ---
 ## What it is
 MCP server `Atlassian Cloud`, catalogued on PulseMCP. Integrates with Atlassian Cloud (Confluence and Jira) to provide comprehensive workspace management with full CRUD operations on pages, issues, sprints, boards, and backlogs.

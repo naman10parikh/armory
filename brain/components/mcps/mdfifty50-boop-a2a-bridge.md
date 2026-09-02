@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T13:40:57Z"
 ---
 ## What it is
 MCP server `Agent-to-Agent Bridge`, catalogued on PulseMCP. Enables direct communication between AI agents in multi-agent systems over MCP.

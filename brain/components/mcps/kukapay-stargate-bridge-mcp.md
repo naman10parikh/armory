@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 2
+pushed_at: "2025-10-27T12:19:32Z"
 ---
 ## What it is
 An MCP server that enables cross-chain token transfers via the Stargate protocol.

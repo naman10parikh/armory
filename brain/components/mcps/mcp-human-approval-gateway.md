@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T13:33:30Z"
 ---
 ## What it is
 A public-safe research prototype for controlling AI-agent tool actions with deterministic policy, risk-based human approval, time-bound authorization and a tamper-evident audit chain.

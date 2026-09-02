@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T11:09:57Z"
 ---
 ## What it is
 Enables teams to share and dynamically update instructions for Claude via a collaborative YAML file, with tools for refreshing and prompts for different modes.

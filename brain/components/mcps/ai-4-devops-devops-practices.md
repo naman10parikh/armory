@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-22T03:22:10Z"
 ---
 ## What it is
 MCP server `DevOps Practices`, catalogued on PulseMCP. Centralized DevOps practices and templates for AI-assisted PoC development, eliminating repeated instructions across projects.

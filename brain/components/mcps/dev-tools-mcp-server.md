@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-17T15:31:03Z"
 ---
 ## What it is
 A TypeScript MCP server example providing basic developer tools: hello world greeting, arithmetic calculator, and file information retrieval.

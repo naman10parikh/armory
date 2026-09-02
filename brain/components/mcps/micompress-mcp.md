@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T06:30:49Z"
 ---
 ## What it is
 An MCP server that lets AI agents compress images, PDFs, video, audio, documents, and archives, writing the smaller versions back to disk via the MiCompress service.

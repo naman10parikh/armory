@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T21:05:57Z"
 ---
 ## What it is
 Compares Figma frames to live pages, checking colors, fonts, and border radii, and generates a shareable HTML report.

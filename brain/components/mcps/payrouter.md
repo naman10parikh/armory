@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T14:37:06Z"
 ---
 ## What it is
 Universal agentic payment router that gives AI agents the ability to pay across multiple payment rails through a single MCP interface, with cross-rail budget enforcement and a unified audit trail.

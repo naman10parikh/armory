@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T18:49:05Z"
 ---
 ## What it is
 A task management MCP server for AI-driven development, enabling creation, tracking, and organization of tasks with subtasks, priorities, and dependencies via natural language commands.

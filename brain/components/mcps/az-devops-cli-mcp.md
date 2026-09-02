@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T23:05:19Z"
 ---
 ## What it is
 Azure DevOps MCP tools for Claude Code and Codex CLI, enabling interaction with boards, work items, repos, and pull requests via natural language.

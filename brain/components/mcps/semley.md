@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-07T18:58:57Z"
 ---
 ## What it is
 Enables autonomous SRE incident investigation by allowing users to describe incidents in natural language. The agent follows a governed state machine to gather read-only evidence and produce grounded conclusions.

@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-05T06:35:05Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Integrates with Obsidian vaults to enable querying, creating, and modifying notes for enhanced personal knowledge management workflows.

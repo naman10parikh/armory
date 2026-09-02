@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T12:29:21Z"
 ---
 ## What it is
 Turns AI assistants like Claude and ChatGPT into a remote control for LG webOS smart TVs, enabling power control, volume, app launching, input switching, and more, all locally without cloud APIs.

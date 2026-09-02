@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:37:18Z"
 ---
 ## What it is
 Local-first MCP server for per-agent key management, generating and using signing keys without external KMS.

@@ -8,11 +8,13 @@ source_url: https://github.com/junnnnnw00/obsidian-everywhere
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T06:46:29Z"
 ---
 ## What it is
 Enables Claude clients to interact with an Obsidian vault as a knowledge graph, supporting full-text search, backlink traversal, neighborhood exploration, and note creation/append.

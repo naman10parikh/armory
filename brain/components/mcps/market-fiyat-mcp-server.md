@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-28T14:23:05Z"
 ---
 ## What it is
 A Model Context Protocol server for querying Turkish market prices, comparing products, and getting AI-powered shopping recommendations.

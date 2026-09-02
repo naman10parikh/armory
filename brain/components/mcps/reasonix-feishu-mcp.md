@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T14:47:27Z"
 ---
 ## What it is
 MCP server for Feishu/Lark API integration, enabling AI agents to send messages, manage groups, create and edit documents and spreadsheets, and search knowledge bases.

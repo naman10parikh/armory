@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T02:28:57Z"
 ---
 ## What it is
 An MCP server for driving an ITS session on a PiDP-10 emulator over raw TCP, supporting persistent connections, raw control-byte transmission, and escape syntax for DDT commands. It enables interaction with ITS systems through natural language via MCP tools like open, send, read, and status.

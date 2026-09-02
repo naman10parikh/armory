@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-26T05:37:46Z"
 ---
 ## What it is
 MCP server `JobApply`, catalogued on PulseMCP. Automates job application workflows by scraping job postings, analyzing resumes against job descriptions for ATS scoring, generating tailored cover letters, and providing company research capabilities to optimize application materials.

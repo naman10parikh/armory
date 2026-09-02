@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T16:06:05Z"
 ---
 ## What it is
 MCP server providing component catalog tools (search_components, get_component_detail) for coding agents to discover and reuse UI components.

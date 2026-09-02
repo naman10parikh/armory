@@ -8,10 +8,12 @@ source_url: https://github.com/jimprosser/obsidian-web-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 114
+stars: 165
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 53
+pushed_at: "2026-06-26T03:49:09Z"
 ---
 ## What it is
 MCP server `Obsidian Web`, catalogued on PulseMCP. Remote Obsidian vault access over HTTPS with OAuth 2.0 authentication and Cloudflare Tunnel security.

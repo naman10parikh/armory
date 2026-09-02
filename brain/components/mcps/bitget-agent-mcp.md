@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:12:14Z"
 ---
 ## What it is
 Official Bitget MCP server for Claude Desktop, Cursor, Windsurf & ChatGPT. Trade crypto via natural language — 89 UTA v3 ops through 14 intent verbs. Local stdio, HMAC signing, read-only & paper-trading modes.

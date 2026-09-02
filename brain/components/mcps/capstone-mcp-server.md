@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-27T04:34:37Z"
 ---
 ## What it is
 基于Capstone反汇编引擎的MCP服务器，为大语言模型提供多架构二进制反汇编、文件解析、CTF逆向及安全分析工具。

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T16:03:00Z"
 ---
 ## What it is
 Self-hosted fitness tracking MCP server that gives AI assistants access to your nutrition, training, weight, sleep, and accomplishment data via 77 tools and 5 resources. Enables natural-language logging and querying of personal health metrics through Claude or ChatGPT.

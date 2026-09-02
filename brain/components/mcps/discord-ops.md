@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T01:38:45Z"
 ---
 ## What it is
 A Discord MCP server with multi-guild project routing, enabling messaging, moderation, and notification management across multiple Discord servers via natural language.

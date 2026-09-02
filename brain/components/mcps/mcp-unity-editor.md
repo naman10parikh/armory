@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-10T01:12:33Z"
 ---
 ## What it is
 Enables AI assistants to interact with Unity Editor, managing scenes, game objects, animations, materials, scripts, and more via natural language commands.

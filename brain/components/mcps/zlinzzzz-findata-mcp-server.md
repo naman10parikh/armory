@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 58
+forks: 13
+pushed_at: "2025-05-09T03:44:04Z"
 ---
 ## What it is
 An MCP server for accessing professional financial data, supporting multiple data providers such as Tushare.

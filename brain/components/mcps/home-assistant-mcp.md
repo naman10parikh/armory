@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T09:47:34Z"
 ---
 ## What it is
 Integrates Claude AI with Home Assistant to control smart home devices via natural language.

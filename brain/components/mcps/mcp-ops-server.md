@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T14:43:15Z"
 ---
 ## What it is
 A reference MCP server that gives an LLM agent safe write access to a business database, managing orders, production state, and FIFO stock with derived state and idempotent imports.

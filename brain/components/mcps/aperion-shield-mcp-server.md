@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T00:15:17Z"
 ---
 ## What it is
 Governance engine for MCP tool calls, providing deterministic rule enforcement to block destructive actions like SQL drops, shell commands, and file system modifications before execution.

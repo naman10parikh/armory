@@ -8,10 +8,12 @@ source_url: https://github.com/kindrat86/mcp-deal-flow-signal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-21T04:04:14Z"
 ---
 ## What it is
 MCP server `VC Deal Flow Signal`, catalogued on PulseMCP. Startup engineering acceleration signals for investors tracking commit velocity and contributor growth.

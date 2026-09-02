@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T19:02:47Z"
 ---
 ## What it is
 Remote MCP server for 2ools—build, version, review, and export websites, web apps, and games from the AI chat you already use. This repository includes a credential-free stdio proxy and Dockerfile that forward introspection to the verified remote endpoint without mocking tools.

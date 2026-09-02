@@ -8,10 +8,12 @@ source_url: https://github.com/rblank9/cross-claude-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-08-27T19:34:11Z"
 ---
 ## What it is
 MCP server `Cross-Claude`, catalogued on PulseMCP. Message bus enabling communication between AI instances across platforms through shared channels, threaded conversations, and data exchange with both local SQLite and cloud PostgreSQL modes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-02-28T00:25:59Z"
 ---
 ## What it is
 A structural codebase indexer that exposes 18 tools via the Model Context Protocol for AI-assisted code navigation, enabling efficient querying of functions, classes, dependencies, and call chains without reading entire files.

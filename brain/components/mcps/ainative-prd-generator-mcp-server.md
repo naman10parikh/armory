@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T02:24:53Z"
 ---
 ## What it is
 Generate production-ready Product Requirement Documents with full AINative platform awareness and persistent memory. Enables AI agents to create, validate, and manage PRDs using ZeroDB for cross-session storage and 18 tools including generation, templates, validation, and semantic search.

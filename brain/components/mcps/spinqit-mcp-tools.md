@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-03T11:38:46Z"
 ---
 ## What it is
 SpinQit MCP Tools is a Python MCP server that connects AI assistants to SpinQ Cloud, enabling QASM circuit submission, platform discovery, and quantum task result retrieval through the Model Context Protocol.

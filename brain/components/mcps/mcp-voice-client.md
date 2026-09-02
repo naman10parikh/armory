@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:49:36Z"
 ---
 ## What it is
 Barebones MCP server with a web-based voice interface, enabling spoken commands to trigger MCP tools via OpenAI function calling and Web Speech API.

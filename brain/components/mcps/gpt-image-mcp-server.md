@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T18:49:42Z"
 ---
 ## What it is
 An MCP server for image generation, editing, and analysis using OpenAI's gpt-image-1 model, with specialized templates for YouTube thumbnails, blog headers, social media, and more.

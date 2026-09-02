@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T13:07:24Z"
 ---
 ## What it is
 Enables AI assistants to interact with EV charging infrastructure through OCHP (Open Clearing House Protocol) services.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T07:17:56Z"
 ---
 ## What it is
 An MCP-native document research agent that provides search, summarization, and citation tools for iterative multi-step research, ending in validated structured JSON reports.

@@ -8,11 +8,13 @@ source_url: https://github.com/styfinity/linkedin-engine
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-06-30T18:55:44Z"
 ---
 ## What it is
 Enables running the entire LinkedIn sales motion inside Claude Code, including content creation, audience warming, outreach, and booking calls.

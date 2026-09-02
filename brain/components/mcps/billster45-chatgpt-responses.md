@@ -8,10 +8,12 @@ source_url: https://github.com/billster45/mcp-chatgpt-responses
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-07-26T12:33:55Z"
 ---
 ## What it is
 MCP server `ChatGPT Responses`, catalogued on PulseMCP. Bridges Claude Desktop with ChatGPT API, enabling direct access to standard ChatGPT interactions and web search-enabled queries with conversation continuity through response IDs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:38:40Z"
 ---
 ## What it is
 Enables job searching on Naukri via MCP, offering tools like search_jobs, get_job_details, get_trending_roles, and get_my_profile_summary, currently using demo data.

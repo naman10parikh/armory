@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-21T13:40:11Z"
 ---
 ## What it is
 Enables AI assistants to download, convert (HTML to PDF), and parse SEC EDGAR filings into Markdown, supporting filing types like 8-K, 10-Q, 10-K, and DEF 14A with Docker deployment and rate limiting.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 4
+forks: 0
+pushed_at: "2026-04-05T05:48:45Z"
 ---
 ## What it is
 Manage Inxmail Commerce transactional emails — events, sendings, bounces, blocklist, blacklist, reactions, and delivery tracking.

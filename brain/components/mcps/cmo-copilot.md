@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T07:02:54Z"
 ---
 ## What it is
 An AI copilot for marketing budgets that uses a 6-agent society with learned memory to manage ad accounts, built as a Model Context Protocol server for Qwen Cloud.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:38:13Z"
 ---
 ## What it is
 Enables asking yes/no questions and receiving quantum superposition answers (both true and false simultaneously), with optional cat mode for absurdist responses.

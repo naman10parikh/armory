@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:32:39Z"
 ---
 ## What it is
 MCP server for querying SIU Guaraní Autogestión from the Docente profile, providing read-only access to teaching periods, courses, exam boards, and student lists via CLI or MCP tools.

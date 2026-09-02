@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T09:44:03Z"
 ---
 ## What it is
 MCP server for grocery-related web automation using Playwright, enabling AI assistants to interact with grocery websites.

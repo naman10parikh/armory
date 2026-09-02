@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-07T09:37:51Z"
 ---
 ## What it is
 A local MCP server that lets Claude Code and Codex delegate repository exploration and test proposals to a remote LM Studio model, while enforcing security boundaries by keeping all repository access read-only and never applying patches or running commands remotely.

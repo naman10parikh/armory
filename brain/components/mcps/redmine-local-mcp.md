@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T12:48:32Z"
 ---
 ## What it is
 A local STDIO server that exposes Redmine REST API as MCP tools, allowing MCP clients to browse Redmine projects and tickets.

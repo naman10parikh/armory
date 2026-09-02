@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T12:11:47Z"
 ---
 ## What it is
 Three deterministic MCP tools that score text for AI-writing tells (em-dash density, hedge words, tricolons, boilerplate openers) and grade landing-page copy. No LLM, no network calls, no API key — same input always yields the same score. Published on the official MCP registry as io.github.parweb/ai

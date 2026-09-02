@@ -8,11 +8,13 @@ source_url: https://github.com/junainfinity/ZeroFuse
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T16:39:32Z"
 ---
 ## What it is
 An MCP server that enables agents to automate refusal direction removal from open-weight LLMs via Optuna-driven search, producing standard Hugging Face models with no inference overhead.

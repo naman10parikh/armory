@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-25T08:18:29Z"
 ---
 ## What it is
 MCP server `Dice Thrower`, catalogued on PulseMCP. Simulates dice rolls with configurable number and sides for tabletop gaming and random number generation

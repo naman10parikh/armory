@@ -8,10 +8,12 @@ source_url: https://github.com/rjexile/sports-card-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-24T22:25:02Z"
 ---
 ## What it is
 MCP server `Sports Card Agent`, catalogued on PulseMCP. Sports trading card pricing, market analysis, grading ROI, and player stats for NBA, NFL, and MLB.

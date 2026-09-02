@@ -8,10 +8,12 @@ source_url: https://github.com/markusl/alko-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-09T07:41:57Z"
 ---
 ## What it is
 MCP server `Alko`, catalogued on PulseMCP. Integrates with Finland's Alko alcohol monopoly catalog to provide product search, store availability, opening hours, and wine ratings for wine recommendations, inventory checking, and food pairing suggestions.

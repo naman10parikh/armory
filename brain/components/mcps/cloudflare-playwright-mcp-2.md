@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T06:35:24Z"
 ---
 ## What it is
 An MCP server that enables AI agents to automate browser interactions using Playwright and Cloudflare Workers, supporting tasks like navigation, clicking, typing, and screenshots.

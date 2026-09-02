@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-20T19:46:21Z"
 ---
 ## What it is
 MCP server `Confluence Chat`, catalogued on PulseMCP. Lightweight Confluence content expansion server that generates enhanced page content through a JSON-RPC interface, simplifying documentation workflows with minimal configuration.

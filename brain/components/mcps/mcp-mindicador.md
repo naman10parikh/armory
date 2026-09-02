@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T00:30:00Z"
 ---
 ## What it is
 Provides access to Chilean economic indicators (dolar, UF, IPC, etc.) via the mindicador.cl API, enabling queries for current values, historical series, and specific dates.

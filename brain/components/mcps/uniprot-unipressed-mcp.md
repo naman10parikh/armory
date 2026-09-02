@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-21T06:04:44Z"
 ---
 ## What it is
 An MCP server that provides tools for searching and fetching protein data from the UniProt database using the unipressed library.

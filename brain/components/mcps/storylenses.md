@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T09:51:55Z"
 ---
 ## What it is
 MCP server `StoryLenses`, catalogued on PulseMCP. AI cover letter generation with job analysis, profile matching, and narrative writing.

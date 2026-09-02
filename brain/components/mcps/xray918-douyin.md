@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-12T02:48:09Z"
 ---
 ## What it is
 MCP server `Douyin`, catalogued on PulseMCP. Downloads videos and extracts metadata from Douyin/TikTok content with progress tracking and proper file handling for content archival and social media analysis workflows.

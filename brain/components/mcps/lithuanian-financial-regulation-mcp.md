@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T08:56:18Z"
 ---
 ## What it is
 Enables querying Lithuanian financial regulation data, including regulations, enforcement actions, and requirements from the Bank of Lithuania, via MCP-compatible clients.

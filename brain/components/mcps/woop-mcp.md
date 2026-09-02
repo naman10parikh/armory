@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:33Z"
 ---
 ## What it is
 Connects Woop accounts via Open Finance Brasil to AI assistants for read-only access to balances, statements, credit card bills, and investments.

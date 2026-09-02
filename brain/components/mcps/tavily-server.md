@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2024-12-16T21:18:43Z"
 ---
 ## What it is
 A Model Context Protocol server that implements a simple notes system with resources for notes, a tool to create notes, and prompts to summarize notes.

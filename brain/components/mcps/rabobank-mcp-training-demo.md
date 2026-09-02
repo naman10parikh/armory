@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T06:17:31Z"
 ---
 ## What it is
 A training MCP server that demonstrates how GitHub Copilot can securely access internal banking APIs, documentation, and architecture review prompts.

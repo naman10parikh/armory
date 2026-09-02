@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T18:36:14Z"
 ---
 ## What it is
 A minimal example MCP server using Express and Clerk for authentication, exposing a streamable HTTP endpoint for MCP clients.

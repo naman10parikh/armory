@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T09:51:26Z"
 ---
 ## What it is
 Exposes TypeScript language service tools (completions, go-to-definition, type info, diagnostics) via MCP for use by AI or IDE clients.

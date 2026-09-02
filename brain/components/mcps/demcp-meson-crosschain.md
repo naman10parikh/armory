@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-28T03:54:55Z"
 ---
 ## What it is
 MCP server `Meson Cross-Chain Transfer`, catalogued on PulseMCP. Enables secure cross-chain cryptocurrency transfers between Ethereum, Arbitrum, Avalanche, and other blockchains using the Meson Protocol, with local private key processing for enhanced security.

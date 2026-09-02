@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-31T16:06:35Z"
 ---
 ## What it is
 Task spine + searched dead-ends + mobile approvals for AI coding agents — one shared brain across every session, machine, and device. Local SQLite or remote streamable-HTTP MCP, MIT.

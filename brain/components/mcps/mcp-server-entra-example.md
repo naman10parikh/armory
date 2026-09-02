@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T12:17:09Z"
 ---
 ## What it is
 A minimal, well-commented MCP server that authenticates its callers with Microsoft Entra ID (Azure AD).

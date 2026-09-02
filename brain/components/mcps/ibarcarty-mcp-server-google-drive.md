@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T10:32:24Z"
 ---
 ## What it is
 An MCP server for managing Google Drive, Docs, Sheets, and Slides with full read/write operations, rich markdown formatting, and 27 tools for file and permission management.

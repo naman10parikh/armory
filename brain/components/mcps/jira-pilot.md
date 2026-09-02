@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-13T17:28:42Z"
 ---
 ## What it is
 Jira Pilot is an MCP server that provides 14 tools for AI assistants to manage Jira issues, sprints, boards, and more. It enables natural language interaction with Jira through the Model Context Protocol.

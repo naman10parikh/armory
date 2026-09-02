@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-13T06:30:56Z"
 ---
 ## What it is
 Provides intelligent cryptocurrency trading assistance using Coinbase Advanced Trade API, with automated technical analysis screening and real-time market insights.

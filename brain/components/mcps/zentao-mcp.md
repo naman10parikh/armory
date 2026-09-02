@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T07:45:28Z"
 ---
 ## What it is
 Enables natural language management of ZenTao tasks in Claude, including listing executions/tasks, batch creating/updating/closing tasks, and uploading image/video attachments.

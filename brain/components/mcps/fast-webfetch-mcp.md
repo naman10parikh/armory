@@ -8,11 +8,13 @@ source_url: https://github.com/NikkeTryHard/fast-webfetch-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T22:17:52Z"
 ---
 ## What it is
 A high-performance MCP server for web fetching in Claude Code using Firecrawl backend with automatic fallback.

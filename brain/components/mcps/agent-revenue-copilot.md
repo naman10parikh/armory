@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T22:28:05Z"
 ---
 ## What it is
 Provides AI agents with tools to purchase a starter audit or triage for legal USDC earning routes, supporting checkout, triage, and payment processes.

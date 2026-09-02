@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T15:33:28Z"
 ---
 ## What it is
 Provides two-modal code search (lexical via Zoekt and semantic via ChromaDB embeddings) for AI coding agents through MCP tools, enabling fast regex and meaning-based code lookup.

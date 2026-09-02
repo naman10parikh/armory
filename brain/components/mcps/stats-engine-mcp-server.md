@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T11:10:34Z"
 ---
 ## What it is
 A statistical analysis MCP server offering 30 tools for descriptive statistics, hypothesis tests, regression, and time series, all returning Markdown reports with automatic interpretations to enable AI agents to perform comprehensive data analysis.

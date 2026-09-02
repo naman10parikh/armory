@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T08:26:35Z"
 ---
 ## What it is
 Enables interacting with Google Drive folders through an MCP server, allowing listing, searching, and reading files using tools like list_files, search_files, get_file, and read_file.

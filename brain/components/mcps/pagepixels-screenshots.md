@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-02T03:17:05Z"
 ---
 ## What it is
 MCP server `PagePixels Screenshots`, catalogued on PulseMCP. MCP server for the PagePixels Screenshot API with OAuth 2.1 authentication and 18+ tools for automated screenshots.

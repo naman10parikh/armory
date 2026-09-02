@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-28T14:29:48Z"
 ---
 ## What it is
 MCP server `AgentLookup`, catalogued on PulseMCP. Search, discover, and register AI agents in the public registry at agentlookup.dev.

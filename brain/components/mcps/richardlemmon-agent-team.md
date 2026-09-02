@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-20T14:16:14Z"
 ---
 ## What it is
 MCP server `Agent Team`, catalogued on PulseMCP. 13 specialized AI agents collaborating via SQLite with 44 MCP tools for project management.

@@ -12,6 +12,8 @@ stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2024-12-16T19:48:10Z"
 ---
 ## What it is
 MCP server `LangChain (TypeScript)`, catalogued on PulseMCP. Enable LangChain workflows for your MCP client.

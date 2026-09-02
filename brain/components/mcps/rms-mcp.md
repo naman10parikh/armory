@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T08:45:37Z"
 ---
 ## What it is
 MCP server for RMS/Global Meteor Network stations. Enables remote inspection and management via SSH tunnels, with tools for status, detections, logs, config, and reprocessing under scoped access.

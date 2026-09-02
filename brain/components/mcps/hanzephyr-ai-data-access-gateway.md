@@ -8,10 +8,12 @@ source_url: https://github.com/hanzephyr/ai-data-access-gateway
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-14T03:47:54Z"
 ---
 ## What it is
 MCP server `AI Data Access Gateway`, catalogued on PulseMCP. Secure MCP gateway server providing AI agents governed read-only database access with SQL safety and field masking.

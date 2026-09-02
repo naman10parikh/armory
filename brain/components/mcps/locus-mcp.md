@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T19:47:15Z"
 ---
 ## What it is
 MCP server for Locus, a local semantic dataspace manager powered by Ollama. It exposes all Locus HTTP endpoints as MCP tools to manage dataspaces, ingest documents, and perform semantic search.

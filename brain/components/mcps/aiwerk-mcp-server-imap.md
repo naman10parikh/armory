@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T14:21:19Z"
 ---
 ## What it is
 Universal IMAP/SMTP MCP server that works with any email provider, providing tools to read, search, send, and manage emails.

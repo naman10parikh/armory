@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T14:32:14Z"
 ---
 ## What it is
 A local-first MCP server for manually building, inspecting, and saving directed acyclic graphs (DAGs) for custom days, with optional evidence summaries from Home Assistant.

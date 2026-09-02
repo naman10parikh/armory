@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:12:55Z"
 ---
 ## What it is
 Enables local macOS computer use by letting agents click, type, and inspect accessibility trees without stealing focus, through an unofficial host for OpenAI Computer Use.

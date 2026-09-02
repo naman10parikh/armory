@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T10:44:46Z"
 ---
 ## What it is
 A remote, read-only MCP server for global media intelligence using GDELT DOC 2.0 API, enabling search and analysis of multilingual news coverage, tone, and attention trends.

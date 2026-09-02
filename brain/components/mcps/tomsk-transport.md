@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T04:15:34Z"
 ---
 ## What it is
 MCP server providing real-time public transport data for Tomsk, including routes, schedules, stops with lazy OSM enrichment, nearby stop search, and a routing prompt for LLMs.

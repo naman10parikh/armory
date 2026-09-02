@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T20:12:58Z"
 ---
 ## What it is
 Enables a private ChatGPT app to remotely control a Windows PC through file operations, PowerShell, screenshots, mouse and keyboard input, clipboard, and Chrome browser automation.

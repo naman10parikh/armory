@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:18:21Z"
 ---
 ## What it is
 Reads login-walled web pages by replaying cookies from your browser, returning clean markdown via MCP tools.

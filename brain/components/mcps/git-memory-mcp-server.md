@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-04T23:27:06Z"
 ---
 ## What it is
 Enables Git repository operations and real-time monitoring via MCP tools, with support for WebSocket events, authentication, and observability.

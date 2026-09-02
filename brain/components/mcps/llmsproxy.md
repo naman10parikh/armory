@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T16:00:26Z"
 ---
 ## What it is
 Connects MCP clients (Claude Desktop, Cursor, Cline, Zed) to llmsproxy.ai, exposing chat, coding, and retrieval capabilities as MCP tools, resources, and prompts.

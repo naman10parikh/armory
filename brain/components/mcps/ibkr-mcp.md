@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T21:38:21Z"
 ---
 ## What it is
 MCP server for Interactive Brokers via IB Gateway, enabling read access to account data and trading capabilities for paper accounts.

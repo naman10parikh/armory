@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T04:32:16Z"
 ---
 ## What it is
 MCP server for Lineage 2 / Unreal Engine 2.5 asset modding, enabling texture extraction, modification, repackaging, and procedural mesh generation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:41Z"
 ---
 ## What it is
 MCP Server providing AI agents access to over 3 million US court decisions via CourtListener and EU legislation via EUR-Lex, with tools for searching cases, citations, judges, and court information.

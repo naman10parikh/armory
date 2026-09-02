@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T00:22:35Z"
 ---
 ## What it is
 Exposes standup workflow tools (list members, start standup, record replies, list non-responders, generate digest) and skill resources via MCP, enabling AI agents to automate standup collection and summarization without direct Slack access.

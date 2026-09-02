@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T19:09:38Z"
 ---
 ## What it is
 Implements a distributed cops-and-robbers game agent as a FastMCP server, enabling peer-to-peer play with no central server. It manages turn-based moves, belief tracking, strategy selection, and secure protocol via SHA-256 commit-reveal.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T11:41:46Z"
 ---
 ## What it is
 Enables AI assistants to build complete, live websites from natural language descriptions by connecting to Buildez.ai.

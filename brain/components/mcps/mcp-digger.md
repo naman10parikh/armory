@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T16:20:43Z"
 ---
 ## What it is
 Code context for AI coding agents. Progressive, on-demand access to your internal .NET / NuGet package source — agents browse, search, and read private C# libraries autonomously, with zero workspace pollution.

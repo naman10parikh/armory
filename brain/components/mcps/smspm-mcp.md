@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T13:55:03Z"
 ---
 ## What it is
 MCP server for sending SMS via the SMSPM API. Send transactional SMS from Claude Desktop, Cursor, Windsurf, Cline, or any MCP client.

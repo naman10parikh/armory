@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T15:57:35Z"
 ---
 ## What it is
 Enables safe changelog management for AI assistants with append-only entries, automatic versioning, and backups to prevent accidental deletion or formatting inconsistencies.

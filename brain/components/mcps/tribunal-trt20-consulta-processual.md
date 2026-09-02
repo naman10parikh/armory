@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:11Z"
 ---
 ## What it is
 Enables read-only consultation of Brazilian labor court (TRT20) legal proceedings through a single tool, allowing users to query official case information via natural language in any MCP-compatible client.

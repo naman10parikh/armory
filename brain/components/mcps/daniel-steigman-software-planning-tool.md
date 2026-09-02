@@ -8,10 +8,12 @@ source_url: https://github.com/nighttrek/software-planning-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 393
+stars: 396
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 61
+pushed_at: "2025-03-14T09:36:09Z"
 ---
 ## What it is
 MCP server `Software Planning Tool`, catalogued on PulseMCP. Guides developers through a structured, question-based approach to break down software goals into actionable implementation plans with detailed task lists, complexity scores, and code examples.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-26T15:02:58Z"
 ---
 ## What it is
 MCP server `SSH Client`, catalogued on PulseMCP. Secure remote server management through SSH connections with SFTP file operations

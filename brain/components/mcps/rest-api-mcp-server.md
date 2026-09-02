@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T12:21:02Z"
 ---
 ## What it is
 A dynamic MCP server that automatically discovers and generates tools from any REST API using OpenAPI/Swagger specifications, enabling instant endpoint access with zero manual configuration.

@@ -8,10 +8,12 @@ source_url: https://github.com/contentauth/c2pa-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-27T19:00:42Z"
 ---
 ## What it is
 MCP server `C2PA Content Credentials`, catalogued on PulseMCP. Read and verify Content Credentials from images and media using the official C2PA Rust SDK.

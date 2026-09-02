@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T09:15:17Z"
 ---
 ## What it is
 Enables running Jupyter notebooks on temporary AWS compute (EC2 + SSM) with cost estimation, dry-run planning, progress reporting, and automatic cleanup.

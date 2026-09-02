@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T18:36:37Z"
 ---
 ## What it is
 Lets MCP-compatible AI assistants have read-only conversations with OpenAI Codex CLI for code analysis, review, and Q&A.

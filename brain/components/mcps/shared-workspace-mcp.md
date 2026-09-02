@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T11:34:16Z"
 ---
 ## What it is
 Local-first memory, pipelines, learning, feedback, and safe code tools for AI coding agents.

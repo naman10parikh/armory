@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T05:43:50Z"
 ---
 ## What it is
 Exposes a Linux host with shell, Python, and filesystem tools as MCP tools over HTTPS, enabling AI agents to execute commands and manage files remotely.

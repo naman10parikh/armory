@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:27:40Z"
 ---
 ## What it is
 A mathematical MCP server exposing 6 basic arithmetic and secure symbolic expression evaluation tools (add, subtract, multiply, divide, power, evaluate_expression) with structured JSON responses, input validation, and safe AST-based parsing.

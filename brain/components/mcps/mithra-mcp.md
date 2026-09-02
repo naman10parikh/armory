@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T16:39:08Z"
 ---
 ## What it is
 Turns a one-person, multi-project workspace into state an agent can reason over, exposing live git status, Kanban boards, tasks, standups, and production health as queryable tools via MCP.

@@ -8,11 +8,13 @@ source_url: https://github.com/nazariinalyvaikobs/shopify-store-builder-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:49:26Z"
 ---
 ## What it is
 MCP server for building Shopify stores with AI, letting Claude Code and other clients edit themes, pages, and navigation via the Admin GraphQL API. Credentials stay on your machine as the server runs locally.

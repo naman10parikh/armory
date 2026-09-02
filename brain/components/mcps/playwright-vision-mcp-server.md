@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-31T22:45:08Z"
 ---
 ## What it is
 Enables AI assistants to perform browser automation using Playwright, including navigation, content extraction, screenshot analysis, and custom script execution.

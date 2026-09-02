@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T15:01:23Z"
 ---
 ## What it is
 MCP server for integrating with Productboard to manage customer feedback, fetch notes, search and create features, and link notes to features.

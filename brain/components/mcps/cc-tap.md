@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-16T15:52:19Z"
 ---
 ## What it is
 An MCP server that bridges Claude Desktop and Claude Code by letting Desktop read and interact with Claude Code Remote Control sessions, enabling cross-agent coordination.

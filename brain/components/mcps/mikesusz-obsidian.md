@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T14:54:36Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Provides read-only access to Obsidian vaults with tools for searching notes by content or title, retrieving full note content and metadata, and listing markdown files.

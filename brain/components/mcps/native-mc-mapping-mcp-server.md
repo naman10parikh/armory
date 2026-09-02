@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T14:32:20Z"
 ---
 ## What it is
 Enables AI agents to search Minecraft obfuscated name mappings (class, method, field) across 38 versions, aiding modding, plugin development, and reflection.

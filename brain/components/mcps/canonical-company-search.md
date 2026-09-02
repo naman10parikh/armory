@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T09:00:29Z"
 ---
 ## What it is
 Verified, long-tail company search: describe what you want, get an LLM-verified company shortlist.

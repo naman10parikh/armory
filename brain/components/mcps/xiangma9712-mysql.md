@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-25T12:48:07Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Integrates with MySQL databases to enable secure, scalable database operations and management through TypeScript and Node.js.

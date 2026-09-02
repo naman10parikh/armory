@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-10T20:28:27Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve metadata and data files from Peru's National Open Data Platform, and generate Jupyter notebooks for data analysis.

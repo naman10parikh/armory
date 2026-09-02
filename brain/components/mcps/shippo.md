@@ -8,11 +8,13 @@ source_url: https://github.com/goshippo/ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:34:56Z"
 ---
 ## What it is
 AI-powered shipping integrations with Shippo: shipping labels, rates, address validation, tracking and more for USPS, UPS, FedEx, DHL and other carriers.

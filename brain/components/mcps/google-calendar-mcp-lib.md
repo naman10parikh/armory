@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T05:48:57Z"
 ---
 ## What it is
 A Google Calendar MCP server that enables listing, creating, updating, and deleting calendar events and calendars through natural language.

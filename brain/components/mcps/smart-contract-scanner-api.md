@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T00:58:14Z"
 ---
 ## What it is
 Enables scanning Solidity smart contracts for 13 vulnerability classes using pattern-based analysis; provides full audit, quick scan, gas analysis, and detector catalog through MCP tools.

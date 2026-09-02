@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T16:45:34Z"
 ---
 ## What it is
 MCP server to issue ARCA/AFIP Factura C for monotributistas using Afip SDK, PostgreSQL, and a secure preview-before-emission flow.

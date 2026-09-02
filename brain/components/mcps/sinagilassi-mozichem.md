@@ -8,10 +8,12 @@ source_url: https://github.com/sinagilassi/mozichem-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-14T19:12:10Z"
 ---
 ## What it is
 MCP server `MoziChem`, catalogued on PulseMCP. Provides thermodynamic and chemical engineering calculations through the MoziChem framework, offering equation of state models and flash calculations for process design, optimization, and phase equilibrium analysis.

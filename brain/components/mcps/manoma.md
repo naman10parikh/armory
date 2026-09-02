@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T13:36:36Z"
 ---
 ## What it is
 Manoma is an MCP server that enables any LLM to read your soul.md file, a portable plaintext identity file you own and control, making your values, voice, skills, and taste available across AI tools.

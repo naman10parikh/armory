@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T17:29:18Z"
 ---
 ## What it is
 MCP server that extracts clean text, tables, and structured data from documents, images, code, and audio files, supporting 97 formats with OCR, transcription, and code intelligence.

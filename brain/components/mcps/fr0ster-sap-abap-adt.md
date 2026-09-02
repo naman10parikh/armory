@@ -8,10 +8,12 @@ source_url: https://github.com/fr0ster/mcp-abap-adt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 84
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-08-11T08:48:25Z"
 ---
 ## What it is
 MCP server `SAP ABAP ADT`, catalogued on PulseMCP. Full CRUD access to SAP ABAP repositories via ADT for on-premise ECC/S4HANA and BTP ABAP Cloud systems with JWT/XSUAA and service-key authentication.

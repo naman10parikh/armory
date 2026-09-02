@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-20T04:37:54Z"
 ---
 ## What it is
 Connects WordPress sites to AI agents, enabling content management through natural language commands via the WordPress REST API.

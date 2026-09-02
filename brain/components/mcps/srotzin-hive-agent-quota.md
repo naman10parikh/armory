@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-29T05:41:30Z"
 ---
 ## What it is
 MCP server `Hive Agent Quota`, catalogued on PulseMCP. Per-agent quota metering for A2A networks with real USDC settlement on Base L2.

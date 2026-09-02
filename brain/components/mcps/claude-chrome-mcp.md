@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-08T17:24:07Z"
 ---
 ## What it is
 Enables MCP clients like Claude Desktop to automate and interact with claude.ai via a Chrome extension and WebSocket relay.

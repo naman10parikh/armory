@@ -8,11 +8,13 @@ source_url: https://github.com/yolfinance/yolfi-agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 197
+stars: 188
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T12:20:39Z"
 ---
 ## What it is
 Yolfi Agent Kit for AI coding agents: receive crypto, SaaS payment, stablecoin checkout, payment links, payment status checks, webhook verification, and webhook-based access logic to applications through Yolfi

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-18T12:36:41Z"
 ---
 ## What it is
 MCP server `NorthData`, catalogued on PulseMCP. German company, owner, and financial data via the NorthData API, with a built-in credit guard to prevent overspending.

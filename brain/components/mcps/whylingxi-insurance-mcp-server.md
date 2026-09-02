@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-09T02:12:16Z"
 ---
 ## What it is
 Enables AI agents to search, compare, recommend, quote, and pre-underwrite Chinese insurance products via MCP, covering 158 insurers and 489 products.

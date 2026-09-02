@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T21:03:06Z"
 ---
 ## What it is
 MCP server for the OrionBelt Semantic Layer. Enables LLMs to explore governed semantic models, compile YAML metric definitions into optimized SQL across 8 engines (BigQuery, ClickHouse, Databricks, Dremio, DuckDB, MySQL, PostgreSQL, Snowflake), and execute analytics queries via natural language. Wor

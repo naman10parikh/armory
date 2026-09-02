@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-01T13:01:56Z"
 ---
 ## What it is
 Enhanced MCP server for sending native macOS notifications with terminal-notifier, interactive dialogs, text-to-speech, screenshots, and file selection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-07T16:21:31Z"
 ---
 ## What it is
 An MCP server for generating dad jokes based on a given topic, with support for dynamic prompts and extensible resources.

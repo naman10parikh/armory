@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T13:03:44Z"
 ---
 ## What it is
 Local MCP server for Direxio chat workflows enabling room search, messaging, and channel post management.

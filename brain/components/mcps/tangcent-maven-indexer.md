@@ -8,10 +8,12 @@ source_url: https://github.com/tangcent/maven-indexer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-15T13:31:03Z"
 ---
 ## What it is
 MCP server `Maven Indexer`, catalogued on PulseMCP. Indexes local Maven repositories to enable semantic search and discovery of Java classes from external dependencies with method signatures, inheritance relationships, and source code access

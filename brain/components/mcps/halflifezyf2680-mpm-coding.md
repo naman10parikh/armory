@@ -8,10 +8,12 @@ source_url: https://github.com/halflifezyf2680/mpm-coding
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-14T08:37:38Z"
 ---
 ## What it is
 MCP server `MPM Coding`, catalogued on PulseMCP. Reliable long-running coding workflows with checkpoint and recovery support.

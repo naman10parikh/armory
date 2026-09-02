@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T07:08:33Z"
 ---
 ## What it is
 Web search for AI agents across 6 engines (Serper, Brave, Exa, Tavily, Firecrawl, Perplexity) through one search tool. Routes each query to the cheapest engine that clears a quality bar and caches repeats. Hosted, streamable-HTTP, BYOK supported.

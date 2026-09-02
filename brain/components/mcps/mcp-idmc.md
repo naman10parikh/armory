@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T15:51:42Z"
 ---
 ## What it is
 A FastMCP server that exposes Informatica IDMC Data Integration APIs as MCP tools, allowing AI agents to query, run, and monitor CDI mappings through natural language.

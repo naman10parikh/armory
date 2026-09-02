@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T18:31:57Z"
 ---
 ## What it is
 Provides LLMs with live access to Binghamton University campus data, including laundry availability, bus locations, dining status and menus, gym capacity, library room availability, and campus events.

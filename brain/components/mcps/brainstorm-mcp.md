@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T12:02:10Z"
 ---
 ## What it is
 Connects Claude or any MCP client to a Brainstorm Board workspace via SSO, enabling note management, reading/writing markdown notes, and fetching attachments through natural language.

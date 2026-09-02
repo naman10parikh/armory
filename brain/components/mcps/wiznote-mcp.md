@@ -8,11 +8,13 @@ source_url: https://github.com/735140144/wiznote-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-04T09:22:03Z"
 ---
 ## What it is
 Enables Claude to interact with a private WizNote server for document management, including creating, reading, searching, and updating notes.

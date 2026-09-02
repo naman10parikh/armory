@@ -8,10 +8,12 @@ source_url: https://github.com/adrianczuczka/mason
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-22T10:41:59Z"
 ---
 ## What it is
 MCP server `Mason`, catalogued on PulseMCP. MCP server that gives AI assistants a persistent codebase map — feature-to-file lookups, change impact analysis, and git history insights.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T09:59:24Z"
 ---
 ## What it is
 MCP server that enables AI agents to propose USDC payments on the Soroban blockchain with deterministic policy enforcement and injection protection, while providing payment status and attestation tools.

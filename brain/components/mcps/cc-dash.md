@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T18:10:14Z"
 ---
 ## What it is
 A local dashboard and Model Context Protocol server for managing a multi-project portfolio whose entire state lives in markdown files.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T09:10:56Z"
 ---
 ## What it is
 MCP server `Thai Transliterate`, catalogued on PulseMCP. Converts Thai text to Roman script with ranked transliteration variants, word-level processing, and fuzzy English matching.

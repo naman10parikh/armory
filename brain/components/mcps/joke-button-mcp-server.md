@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:37:19Z"
 ---
 ## What it is
 A minimal MCP server that exposes a single-button UI. Clicking the button prompts the assistant to deliver a short, family-friendly joke.

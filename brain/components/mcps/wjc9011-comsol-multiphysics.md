@@ -8,10 +8,12 @@ source_url: https://github.com/wjc9011/comsol_multiphysics_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 256
+stars: 683
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 68
+pushed_at: "2026-08-12T13:58:59Z"
 ---
 ## What it is
 MCP server `COMSOL Multiphysics`, catalogued on PulseMCP. COMSOL Multiphysics simulation control through the MPh Python library.

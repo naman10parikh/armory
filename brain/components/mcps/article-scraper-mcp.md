@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-28T11:26:23Z"
 ---
 ## What it is
 Enables fetching and parsing news articles from URLs, extracting title, text, author, and publication date.

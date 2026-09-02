@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-14T22:40:36Z"
 ---
 ## What it is
 MCP server `StressZero`, catalogued on PulseMCP. Burnout risk scoring across physical, emotional, and effectiveness dimensions with personalized recommendations.

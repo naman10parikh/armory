@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T04:09:50Z"
 ---
 ## What it is
 AI-powered FPGA power estimation assistant that wraps Xilinx PDM API as MCP services for natural language power modeling and analysis.

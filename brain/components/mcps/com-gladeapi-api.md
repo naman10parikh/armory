@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T01:42:30Z"
 ---
 ## What it is
 Provides read-only access to normalized Amazon marketplace data, including product details, search, offers, reviews, sellers, categories, deals, best sellers, identifiers, stock, and sales estimates across 13 marketplaces.

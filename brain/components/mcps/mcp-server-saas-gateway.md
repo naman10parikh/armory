@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T19:55:02Z"
 ---
 ## What it is
 A single MCP server that fronts multiple REST APIs, each configured via environment variables, allowing Claude to orchestrate across several SaaS backends with namespaced tools.

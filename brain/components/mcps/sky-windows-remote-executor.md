@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T05:22:07Z"
 ---
 ## What it is
 Enables remote execution of commands, file operations, screenshots, and clipboard access on Windows machines through MCP tools.

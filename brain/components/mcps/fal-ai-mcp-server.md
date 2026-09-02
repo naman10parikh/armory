@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-27T17:42:52Z"
 ---
 ## What it is
 An MCP server to use the fal.ai APIs to generate images and videos.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T02:41:36Z"
 ---
 ## What it is
 Automates mobile game dailies on BlueStacks via ADB using a dual-LLM architecture with vision and action models, configurable through a web dashboard.

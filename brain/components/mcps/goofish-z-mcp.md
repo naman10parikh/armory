@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T08:11:21Z"
 ---
 ## What it is
 Provides MCP interface to Xianyu (Goofish) for searching items, managing price watches, and monitoring prices via CLI, HTTP API, or MCP.

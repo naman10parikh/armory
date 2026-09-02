@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:07:56Z"
 ---
 ## What it is
 Your AI agent can't touch Stripe, Gmail, Slack or more, without your tap. mild.run intercepts every sensitive action and sends you a notification to approve or block — before anything executes. Agent never holds credentials.

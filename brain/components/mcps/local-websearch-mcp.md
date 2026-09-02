@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T00:00:12Z"
 ---
 ## What it is
 Small Python MCP server that provides web search and page fetching tools via DuckDuckGo, requiring no API key.

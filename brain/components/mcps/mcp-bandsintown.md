@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T17:35:21Z"
 ---
 ## What it is
 Enables querying Bandsintown for artist events and global event listings. It supports natural language queries through the Pipeworx gateway.

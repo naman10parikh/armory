@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:29:28Z"
 ---
 ## What it is
 MCP server for Turkish financial markets, providing BIST stock analysis, TEFAS fund data, TCMB macro indicators, KAP disclosures, analyst consensus forecasts, and portfolio optimization/risk simulation tools.

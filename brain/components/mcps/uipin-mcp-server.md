@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T06:29:10Z"
 ---
 ## What it is
 Run at http://127.0.0.1:3846 to provide AI tools (Claude Code, Cursor, etc.) with live UI annotations, screenshots, and structured context via JSON-RPC + SSE.

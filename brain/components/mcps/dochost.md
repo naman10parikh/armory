@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T04:42:35Z"
 ---
 ## What it is
 Publish Markdown or HTML to a clean, shareable public link straight from your AI assistant — OAuth sign-in, no API keys. Tools: publish and list_my_pages.

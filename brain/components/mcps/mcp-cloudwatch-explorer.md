@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T01:48:07Z"
 ---
 ## What it is
 Enables AI agents to query AWS CloudWatch metrics, alarms, and logs read-only via MCP, providing rapid health snapshots and triage without console navigation.

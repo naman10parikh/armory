@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T19:07:49Z"
 ---
 ## What it is
 Enables semantic and keyword search across AI work sessions, learnings, reflections, failures, research, and relationships stored in PAI's MEMORY directory.

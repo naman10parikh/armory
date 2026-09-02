@@ -8,10 +8,12 @@ source_url: https://github.com/sajmustafake/frappe-dev-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-11T14:43:38Z"
 ---
 ## What it is
 MCP server `Frappe Dev`, catalogued on PulseMCP. Development toolkit for Frappe/ERPNext with DocType generation, bench commands, and app management

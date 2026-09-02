@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-07-07T22:29:40Z"
 ---
 ## What it is
 An MCP server for financial analysis that provides real-time and historical stock prices via Alpha Vantage and company fundamentals via Financial Modeling Prep.

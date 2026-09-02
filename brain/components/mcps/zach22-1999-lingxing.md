@@ -8,10 +8,12 @@ source_url: https://github.com/zach22-1999/lingxing-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-07-14T06:35:47Z"
 ---
 ## What it is
 MCP server `Lingxing ERP`, catalogued on PulseMCP. Read-only access to Lingxing ERP data for Amazon sellers including orders, inventory, and advertising.

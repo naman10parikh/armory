@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-22T15:20:02Z"
 ---
 ## What it is
 Enables AI assistants to manage Parallel Works ACTIVATE resources including clusters, workflows, storage, sessions, and more via the REST API.

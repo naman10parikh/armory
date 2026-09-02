@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-21T16:27:58Z"
 ---
 ## What it is
 MCP server `Redis`, catalogued on PulseMCP. Integrates Redis database operations with key-value manipulation, data structure operations, and backup functionality for caching management, session storage, and real-time data analysis.

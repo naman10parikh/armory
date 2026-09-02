@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T02:21:05Z"
 ---
 ## What it is
 Enables Claude to search for geo entities such as cities, airports, and hotels using Skyscanner's Tellus API. Supports entity lookup, search by type/location, fetching children, and nearby entities.

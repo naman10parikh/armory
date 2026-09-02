@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T11:33:01Z"
 ---
 ## What it is
 MCP server for iiko restaurant management system REST API, providing 39 tools to manage products, employees, entities, documents, payments, reports, and raw API access.

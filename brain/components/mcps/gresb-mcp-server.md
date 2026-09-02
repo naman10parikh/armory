@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T02:01:00Z"
 ---
 ## What it is
 Enables interaction with GRESB's Real Estate ESG Benchmarking API, allowing users to query entity data, scores, benchmarks, indicators, and submit survey responses via natural language.

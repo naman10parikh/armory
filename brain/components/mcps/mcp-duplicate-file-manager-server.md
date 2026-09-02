@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-09T19:24:47Z"
 ---
 ## What it is
 Enables LLM agents to find and safely delete duplicate files using content-based detection, with smart copy prioritization and dry-run mode.

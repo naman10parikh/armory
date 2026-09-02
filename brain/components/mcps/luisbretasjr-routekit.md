@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T17:13:56Z"
 ---
 ## What it is
 MCP server `Routekit`, catalogued on PulseMCP. Route optimization API for Brazil — routes, distance matrices, and VRP solver.

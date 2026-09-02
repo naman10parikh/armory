@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T19:32:07Z"
 ---
 ## What it is
 A contract linter for AI agents that uses structured YAML contracts to define dependencies, business rules, and exports, enabling agents to work without breaking project conventions.

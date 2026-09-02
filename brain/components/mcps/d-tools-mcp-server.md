@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-28T07:36:51Z"
 ---
 ## What it is
 A production-ready MCP server that connects AI assistants to the D-Tools System Integrator platform, enabling natural language management of AV projects, clients, catalogs, tasks, service orders, and purchase orders.

@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-13T19:59:25Z"
 ---
 ## What it is
 MCP server `Meta MCP Proxy`, catalogued on PulseMCP. Unifies multiple MCP servers into a single gateway with built-in search capabilities, enabling tools to be discovered and executed across different specialized services through one interface

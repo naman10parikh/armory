@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T02:12:56Z"
 ---
 ## What it is
 Enables retrieval of annuity client data, payout calculations, and portfolio analysis, with prompt templates for generating client reviews, summaries, and reports.

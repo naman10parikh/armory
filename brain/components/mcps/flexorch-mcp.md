@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T10:01:19Z"
 ---
 ## What it is
 Enables Claude and other MCP-compatible agents to process documents, extract structured data, detect PII, and export LLM-ready datasets through natural language tool calls.

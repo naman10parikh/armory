@@ -8,10 +8,12 @@ source_url: https://github.com/destinyfrancis/openclaw-knowledge-distiller
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 61
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-03-10T04:32:55Z"
 ---
 ## What it is
 MCP server `OpenClaw Knowledge Distiller`, catalogued on PulseMCP. Extracts knowledge from YouTube, Bilibili, and Facebook videos through local transcription and AI-powered summarization.

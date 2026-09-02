@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T06:13:23Z"
 ---
 ## What it is
 Enables Claude to chat with various AI models and obtain multi-model consensus for complex decisions.

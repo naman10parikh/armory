@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T16:19:49Z"
 ---
 ## What it is
 Automates sales data analysis by cleaning CSV, generating AI insights, creating interactive HTML dashboards, exporting PDF reports, and emailing them, all via MCP tools and multi-model AI fallback.

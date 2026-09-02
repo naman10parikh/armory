@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T07:33:39Z"
 ---
 ## What it is
 Enables an AI assistant to help students by providing tools for math calculations, attendance tracking, marks analysis, reading PDF notes, searching lecture notes, and checking college regulations.

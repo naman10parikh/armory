@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T09:11:50Z"
 ---
 ## What it is
 Enables running multiple isolated browser instances in parallel, each with independent state and auth cloning, for concurrent task execution.

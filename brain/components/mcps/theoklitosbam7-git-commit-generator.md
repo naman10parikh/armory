@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-17T17:58:05Z"
 ---
 ## What it is
 MCP server `Git Commit Generator`, catalogued on PulseMCP. Generates conventional commit messages from staged git changes by analyzing diffs and file status to create properly formatted commits with optional type and scope parameters.

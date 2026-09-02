@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T00:13:13Z"
 ---
 ## What it is
 Open-source MCP server for Umami Analytics — Cloud and self-hosted.

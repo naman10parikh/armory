@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T06:18:27Z"
 ---
 ## What it is
 Enables AI assistants to create lyric videos by adding images, audio, styled text, and timed lyric lines, then rendering the final MP4.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 65
+forks: 8
+pushed_at: "2026-08-10T11:43:12Z"
 ---
 ## What it is
 Real-time security framework for MCP servers that detects and blocks malicious AI agent behavior by analyzing tool call patterns and intent across multiple threat detection engines.

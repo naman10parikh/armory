@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-05-28T08:56:19Z"
 ---
 ## What it is
 MCP server `MeterSphere API Testing`, catalogued on PulseMCP. Bridges AI systems with MeterSphere's testing platform, enabling natural language control of API testing, debugging, and documentation generation without leaving conversation context.

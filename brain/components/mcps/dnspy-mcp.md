@@ -8,11 +8,13 @@ source_url: https://github.com/notgate/dnSpy-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-16T00:20:39Z"
 ---
 ## What it is
 A Model Context Protocol server for static .NET assembly analysis, offering decompilation, IL disassembly, metadata inspection, and protection detection tools without executing target assemblies.

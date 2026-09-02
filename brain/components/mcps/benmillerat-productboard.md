@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-14T09:35:03Z"
 ---
 ## What it is
 MCP server `Productboard`, catalogued on PulseMCP. Integrates with Productboard for feature management, customer feedback, OKR tracking, release planning, and organizational data access.

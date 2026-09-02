@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T10:14:12Z"
 ---
 ## What it is
 A read-only MCP server for Linux system monitoring and OS algorithm simulation, exposing tools for memory, filesystem, process, and CPU scheduling observations.

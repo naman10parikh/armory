@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T09:42:59Z"
 ---
 ## What it is
 An MCP server for AI-powered task and note management using Python and SQLite, providing tools to create, retrieve, update, search, and delete tasks and notes with persistent local storage.

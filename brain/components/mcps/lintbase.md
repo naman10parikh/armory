@@ -8,10 +8,12 @@ source_url: https://github.com/lintbase/lintbase
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-20T16:37:06Z"
 ---
 ## What it is
 MCP server `LintBase`, catalogued on PulseMCP. Real-time Firestore and MongoDB schema context for AI coding agents.

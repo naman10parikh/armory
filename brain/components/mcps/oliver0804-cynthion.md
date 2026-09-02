@@ -8,10 +8,12 @@ source_url: https://github.com/oliver0804/cynthion-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-11T09:17:35Z"
 ---
 ## What it is
 MCP server `Cynthion USB`, catalogued on PulseMCP. MCP server for controlling Cynthion USB test instruments with 17 tools for sniffing, decoding, and emulating USB devices in hardware reverse engineering workflows.

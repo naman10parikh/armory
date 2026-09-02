@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-13T14:56:51Z"
 ---
 ## What it is
 MCP server `Sign CLI`, catalogued on PulseMCP. Offline PAdES digital signing and hash-chained audit for AI agent document workflows.

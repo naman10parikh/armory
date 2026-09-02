@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T07:01:00Z"
 ---
 ## What it is
 Enables AI agents like claude.ai to search online marketplaces (e.g., Facebook Marketplace) through your own logged-in browser, returning structured listings and details.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T00:29:32Z"
 ---
 ## What it is
 Remote MCP server enabling ChatGPT Workspace integration with the official Ultra Group Wiki (Wiki.js). Provides read-only search_pages and get_page tools to retrieve Markdown content with metadata.

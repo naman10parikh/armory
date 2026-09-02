@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-29T06:37:02Z"
 ---
 ## What it is
 MCP server `Caselaw`, catalogued on PulseMCP. Search and analyze 85.7M judicial decisions across 90 jurisdictions with citation network analysis and legal risk assessment.

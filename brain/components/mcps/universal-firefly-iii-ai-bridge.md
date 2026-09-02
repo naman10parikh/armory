@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-05-05T02:16:52Z"
 ---
 ## What it is
 Provides comprehensive AI-agnostic access to all Firefly III personal finance features via 66 tools, enabling natural language management of accounts, transactions, budgets, and more.

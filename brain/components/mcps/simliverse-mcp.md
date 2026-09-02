@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:16:14Z"
 ---
 ## What it is
 Provides a unified MCP server for the SimLiverse Physical AI Platform, enabling LLM copilots to access Isaac Sim knowledge via NVIDIA NIM and execute/control simulation through a TCP socket.

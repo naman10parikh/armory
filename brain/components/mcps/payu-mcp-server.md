@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T09:02:36Z"
 ---
 ## What it is
 Integrates PayU payment services with AI tools through the Model Context Protocol, enabling payment link creation, transaction retrieval, and settlement analysis.

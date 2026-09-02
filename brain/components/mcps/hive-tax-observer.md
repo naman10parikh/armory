@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T22:56:17Z"
 ---
 ## What it is
 Classifies on-chain crypto transactions into sale, swap, income, or transfer for observational tax-event tracking, surfacing cost-basis-relevant inputs.

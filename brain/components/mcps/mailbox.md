@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T20:00:10Z"
 ---
 ## What it is
 Unified email access via IMAP/SMTP, enabling reading, searching, sending, and deleting messages across multiple accounts through a single MCP server.

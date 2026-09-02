@@ -8,10 +8,12 @@ source_url: https://github.com/mikerecognex/mcp-codebase-index
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-02-28T00:25:59Z"
 ---
 ## What it is
 MCP server `Codebase Index`, catalogued on PulseMCP. Structural codebase indexer with query tools for navigating functions, classes, imports, and dependency graphs without reading entire files.

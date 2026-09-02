@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-08T12:43:16Z"
 ---
 ## What it is
 MCP server `addTaskManager`, catalogued on PulseMCP. Integrates with the addTaskManager iOS/macOS app through CloudKit to provide structured task and project management following the ADD (Assess-Decide-Do) framework with realm-based workflow restrictions and Apple ID authentication.

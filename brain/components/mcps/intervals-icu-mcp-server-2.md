@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T10:49:49Z"
 ---
 ## What it is
 Connects to Intervals.icu to let users query training data, create workouts, manage calendar events, and coach athletes through natural language in Claude Desktop.

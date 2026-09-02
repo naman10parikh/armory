@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T09:28:25Z"
 ---
 ## What it is
 MCP server for image understanding that analyzes UI designs, HTML pages, and visual layouts using Agnes 2.0 Flash, returning structured descriptions with layout hierarchy, components, text, interactions, and accessibility notes.

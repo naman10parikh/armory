@@ -8,10 +8,12 @@ source_url: https://github.com/dylangroos/patchright-mcp-lite
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-05-07T18:48:52Z"
 ---
 ## What it is
 MCP server `Patchright Stealth Browser`, catalogued on PulseMCP. Provides stealth browser automation capabilities through a containerized server that avoids anti-bot detection systems while offering essential tools for navigating websites, interacting with elements, and extracting content.

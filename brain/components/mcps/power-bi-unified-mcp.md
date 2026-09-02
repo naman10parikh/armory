@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:16:16Z"
 ---
 ## What it is
 One MCP interface for AI-driven Power BI semantic-model engineering and PBIR/PBIP report authoring.

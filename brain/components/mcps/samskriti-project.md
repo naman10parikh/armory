@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:00:33Z"
 ---
 ## What it is
 A local MCP server that enables multiple AI coding tools to share structured project state (decisions, tasks, bugs) so they coordinate without re-explaining.

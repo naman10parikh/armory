@@ -8,11 +8,13 @@ source_url: https://github.com/ebin198351-akl/agent-room
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 34
+stars: 45
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-08-01T02:39:36Z"
 ---
 ## What it is
 A multi-agent collaboration layer for AI coding agents enabling real-time communication, code review, and task handoff across distributed development sessions.

@@ -8,10 +8,12 @@ source_url: https://github.com/sean2077/gitlab-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-05T07:28:48Z"
 ---
 ## What it is
 MCP server `GitLab`, catalogued on PulseMCP. Manage self-hosted GitLab via REST API v4 with 87 tools across projects, issues, merge requests, pipelines, and wikis.

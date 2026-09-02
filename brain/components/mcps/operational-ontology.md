@@ -8,11 +8,13 @@ source_url: https://github.com/gura105/operational-ontology
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 60
+stars: 75
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-08-22T21:02:15Z"
 ---
 ## What it is
 Reference implementation of the Operational Ontology pattern: MCP tools are generated from a typed business domain model (objects, links, actions) — one tool per query shape and per action, deliberately no raw SQL tool. Writes pass business-rule preconditions, are audited, and write back to the syst

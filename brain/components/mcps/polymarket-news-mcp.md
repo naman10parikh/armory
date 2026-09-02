@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T10:13:05Z"
 ---
 ## What it is
 Connects real-world news to Polymarket prediction markets by matching headlines to relevant markets with live odds. Read-only by default with optional trading capabilities.

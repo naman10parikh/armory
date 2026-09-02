@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T16:54:52Z"
 ---
 ## What it is
 A local MCP server that exposes Mobile AI Agent capabilities from the WebADB browser as MCP tools, allowing external AI clients like Qoder and OpenClaw to control connected phones through natural language tasks, screenshots, device status, and memory management via a WebSocket relay.

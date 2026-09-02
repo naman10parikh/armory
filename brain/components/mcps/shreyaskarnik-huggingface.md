@@ -8,10 +8,12 @@ source_url: https://github.com/shreyaskarnik/huggingface-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-03-19T23:26:16Z"
 ---
 ## What it is
 MCP server `Hugging Face`, catalogued on PulseMCP. Provides direct access to thousands of Hugging Face models and resources with optional authentication, enabling natural language processing and image generation capabilities within conversation interfaces.

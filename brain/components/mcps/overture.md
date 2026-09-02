@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 61
+pushed_at: "2026-03-08T01:51:05Z"
 ---
 ## What it is
 Provides interactive visual plans for AI coding agents, allowing users to review, approve, and monitor execution in real-time.

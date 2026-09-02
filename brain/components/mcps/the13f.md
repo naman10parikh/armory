@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T09:59:02Z"
 ---
 ## What it is
 MCP server `The13F`, catalogued on PulseMCP. Institutional 13F filing intelligence with data on 8,600+ fund managers and their holdings.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-18T04:55:52Z"
 ---
 ## What it is
 MCP server `LLM Advisor`, catalogued on PulseMCP. Second-opinion responses from Gemini, GPT-4, and other LLMs for cross-model validation.

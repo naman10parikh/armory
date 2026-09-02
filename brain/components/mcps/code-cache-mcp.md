@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T05:26:51Z"
 ---
 ## What it is
 A persistent, tree-sitter-backed code knowledge cache MCP server that reduces token usage by storing parsed structure and enabling fast symbol lookup, inheritance graph, call graph, and semantic search.

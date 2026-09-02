@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T21:27:47Z"
 ---
 ## What it is
 A stateless MCP server for Cloudflare Workers that exposes read-only Garmin Connect data (activities, health, sleep, training status, HRV, VO2 max) for a single securely linked personal account.

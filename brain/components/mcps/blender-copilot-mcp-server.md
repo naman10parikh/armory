@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-06T23:33:46Z"
 ---
 ## What it is
 Comprehensive MCP server for Blender with 308 tools across 25 modules, enabling AI-powered 3D creation and full VRChat avatar pipeline.

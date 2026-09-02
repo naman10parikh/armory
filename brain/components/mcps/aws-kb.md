@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-13T06:28:51Z"
 ---
 ## What it is
 MCP server `AWS Knowledge Base`, catalogued on PulseMCP. Integrates with AWS Knowledge Bases to retrieve information using Bedrock Agent Runtime, enabling RAG operations with structured metadata for organizational knowledge access.

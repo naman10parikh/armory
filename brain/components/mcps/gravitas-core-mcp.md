@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-11T05:04:43Z"
 ---
 ## What it is
 Production-grade, autonomous Model Context Protocol (MCP) server that elevates AI models from stateless code generators into persistent, self-verifying software engineers.

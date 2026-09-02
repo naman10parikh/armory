@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T01:01:47Z"
 ---
 ## What it is
 Extends Solana debugging to AI agents via MCP: decode transaction failures, trace CPI trees, and profile compute for any Solana transaction.

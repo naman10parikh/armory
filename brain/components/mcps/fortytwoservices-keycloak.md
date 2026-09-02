@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-28T22:13:09Z"
 ---
 ## What it is
 MCP server `Keycloak (Fortytwo)`, catalogued on PulseMCP. Provides full administrative control over Keycloak identity management including realms, users, groups, roles, clients, and audit events.

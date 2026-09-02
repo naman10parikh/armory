@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T15:59:13Z"
 ---
 ## What it is
 A TypeScript library that lets you build MCP servers whose tools charge stablecoins per call and AI agents that pay for those tools automatically via the Machine Payments Protocol on Tempo.

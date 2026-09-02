@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T06:19:10Z"
 ---
 ## What it is
 A personal knowledge hub MCP server that allows LLMs to query Akib Dabgar's skills, experience, projects, and education using Dynamic Context Retrieval.

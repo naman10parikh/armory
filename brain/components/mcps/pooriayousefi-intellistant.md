@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-19T16:09:20Z"
 ---
 ## What it is
 MCP server `Intellistant`, catalogued on PulseMCP. Production C++23 multi-agent development framework with specialized agents for coding, DevOps, documentation, testing, data analysis, and security.

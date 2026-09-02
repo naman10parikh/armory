@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T10:35:06Z"
 ---
 ## What it is
 Enables users to expose arbitrary HTTP APIs as configurable MCP tools by defining tool specifications in a JSON configuration file.

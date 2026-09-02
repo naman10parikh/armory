@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T22:00:43Z"
 ---
 ## What it is
 Provides free energy intelligence APIs for AI agents: solar production estimates, US clean-energy incentives by ZIP, home Energy Node Scores, contractor search, and consented installer routing.

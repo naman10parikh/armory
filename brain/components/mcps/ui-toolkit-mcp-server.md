@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T07:23:49Z"
 ---
 ## What it is
 Comprehensive MCP server for end-to-end UI development, offering tools to generate components, manage design tokens, audit accessibility, autofix issues, inspect live pages, compare screenshots, and more across multiple frameworks.

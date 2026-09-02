@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T16:03:18Z"
 ---
 ## What it is
 A robust MCP server that transforms OneNote notebooks into an AI-accessible knowledge base for Gemini Spark, enabling natural language queries to list, read, and search notes via Microsoft Graph API.

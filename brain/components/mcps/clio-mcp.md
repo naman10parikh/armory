@@ -8,11 +8,13 @@ source_url: https://github.com/oktopeak/clio-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-09-01T21:40:29Z"
 ---
 ## What it is
 Connects Claude to Clio practice management, enabling AI-assisted access to matters, contacts, documents, tasks, and billing with audit logging and encryption for law firm compliance.

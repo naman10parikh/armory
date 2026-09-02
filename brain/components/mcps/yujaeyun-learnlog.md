@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-13T10:51:22Z"
 ---
 ## What it is
 MCP server `LearnLog`, catalogued on PulseMCP. Logs learning prompts to help users develop metacognitive awareness of their knowledge gaps and learning patterns

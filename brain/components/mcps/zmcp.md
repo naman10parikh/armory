@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-04T21:14:53Z"
 ---
 ## What it is
 ZMCP turns your Obsidian vault into an AI-accessible workspace. It creates a bridge between your notes and AI assistants like Claude, allowing them to read, write, and manage your knowledge base directly.

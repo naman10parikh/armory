@@ -8,11 +8,13 @@ source_url: https://github.com/whoamiTM/bi-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T21:50:33Z"
 ---
 ## What it is
 Connects AI assistants like Claude to Blue Iris security camera software, enabling natural language queries about camera status, alerts, and configurations.

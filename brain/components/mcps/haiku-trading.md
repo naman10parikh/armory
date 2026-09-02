@@ -8,10 +8,12 @@ source_url: https://github.com/haiku-trading/haiku-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T04:36:19Z"
 ---
 ## What it is
 MCP server `Haiku DeFi`, catalogued on PulseMCP. DeFi execution for AI agents — swap, lend, bridge, and yield across 22 blockchain networks.

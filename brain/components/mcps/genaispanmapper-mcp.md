@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T08:28:15Z"
 ---
 ## What it is
 MCP server `GenAI Span Mapper`, catalogued on PulseMCP. GenAI span mapping with provider normalization, dashboard schemas, and structured receipts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-14T21:49:00Z"
 ---
 ## What it is
 A self-hosted MCP server that provides up-to-date documentation for enterprise and development tools directly to AI coding assistants like Claude Code and Cursor.

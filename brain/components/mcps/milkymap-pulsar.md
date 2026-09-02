@@ -8,10 +8,12 @@ source_url: https://github.com/milkymap/omnimcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-12-08T10:04:15Z"
 ---
 ## What it is
 MCP server `Pulsar`, catalogued on PulseMCP. Semantic router that enables intelligent tool discovery and execution across multiple MCP servers using embeddings and vector search to eliminate context bloat while providing natural language tool access and progressive exploration.

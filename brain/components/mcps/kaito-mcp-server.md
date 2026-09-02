@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-06T12:50:27Z"
 ---
 ## What it is
 Provides crypto market intelligence tools, reference resources, and prompt templates for sentiment analysis, mindshare tracking, social intelligence, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-06-06T20:36:52Z"
 ---
 ## What it is
 Bridges AI assistants with the Revolut Business API to enable banking operations such as listing accounts, checking balances, viewing transactions, managing counterparties, and initiating transfers through natural language.

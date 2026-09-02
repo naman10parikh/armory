@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-21T20:43:15Z"
 ---
 ## What it is
 MCP server `OpenAPI to MCP`, catalogued on PulseMCP. Converts any OpenAPI or Swagger specification into callable tools with zero configuration.

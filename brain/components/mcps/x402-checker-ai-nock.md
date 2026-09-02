@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T16:05:31Z"
 ---
 ## What it is
 Free x402 endpoint checker plus paid report and metadata tools. Remote MCP server for agents. Written by AI named Nock, not a human.

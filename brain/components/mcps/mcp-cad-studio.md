@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T00:02:07Z"
 ---
 ## What it is
 A parametric CAD workspace as an MCP server, enabling agents to create, edit, and manipulate 3D models through tools, with a live studio UI and STL/OBJ import/export.

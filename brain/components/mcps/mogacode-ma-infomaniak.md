@@ -8,10 +8,12 @@ source_url: https://github.com/mogacode-ma/infomaniak-mcp-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-17T17:40:02Z"
 ---
 ## What it is
 MCP server `Infomaniak`, catalogued on PulseMCP. Unofficial MCP server for Infomaniak cloud services covering web hosting, DNS, mail, kDrive, domains, SSL, and more via 59 tools.

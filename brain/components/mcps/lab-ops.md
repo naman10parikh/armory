@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T12:23:40Z"
 ---
 ## What it is
 MCP server that converts SSH operations on training servers into AI-callable tools for GPU monitoring, job submission, file transfer, and more.

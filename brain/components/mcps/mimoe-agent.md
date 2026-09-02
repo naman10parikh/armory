@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T04:39:51Z"
 ---
 ## What it is
 MCP server for the mimOE AI Agent, enabling on-device tools like device discovery, network insight, and persistent note storage via natural language.

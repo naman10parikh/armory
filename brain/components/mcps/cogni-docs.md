@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-24T14:30:43Z"
 ---
 ## What it is
 Enables AI assistants to search and query documentation with flexible backend configurations (ChromaDB, Xenova embeddings) and supports multiple chunking strategies via an MCP server.

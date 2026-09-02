@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-22T15:50:39Z"
 ---
 ## What it is
 MCP server `AmanMCP`, catalogued on PulseMCP. Provides local-first semantic code search with hybrid BM25 and vector embeddings, featuring automatic project indexing and zero-config setup.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T20:24:06Z"
 ---
 ## What it is
 Generates, validates, and updates structured research tables by synthesizing multiple AI queries, enabling AI agents to autonomously drive research workflows.

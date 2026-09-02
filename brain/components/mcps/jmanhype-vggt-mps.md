@@ -8,10 +8,12 @@ source_url: https://github.com/jmanhype/vggt-mps
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 90
+stars: 92
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-03-25T16:58:35Z"
 ---
 ## What it is
 MCP server `VGGT-MPS`, catalogued on PulseMCP. Provides 3D vision and reconstruction capabilities through VGGT transformer model for multi-view reconstruction from image sequences, offering camera pose estimation, depth prediction, point cloud generation, and point tracking with Apple Silicon MPS acceleration for efficient inference on Mac hardware.

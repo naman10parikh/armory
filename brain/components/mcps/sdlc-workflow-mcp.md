@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T08:33:31Z"
 ---
 ## What it is
 Enables local Copilot use to interact with SDLC workflow tools (workflow tasks, internal-readiness, epic/ticket/repo-task, change-request, and journey) via a stdio MCP server that proxies to a local Workflow Service.

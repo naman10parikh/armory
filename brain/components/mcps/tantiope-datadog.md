@@ -8,10 +8,12 @@ source_url: https://github.com/tantiope/datadog-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-09-02T03:42:17Z"
 ---
 ## What it is
 MCP server `Datadog`, catalogued on PulseMCP. Full Datadog API access for monitors, logs, metrics, traces, dashboards, and observability workflows

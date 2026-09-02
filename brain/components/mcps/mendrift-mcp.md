@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T22:02:26Z"
 ---
 ## What it is
 MCP server for autonomous MLOps incident response, enabling drift detection, deployment history analysis, and human-approved rollback execution via gated tools.

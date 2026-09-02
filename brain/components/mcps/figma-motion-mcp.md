@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T02:10:06Z"
 ---
 ## What it is
 Enables Claude to programmatically create and modify Figma animations (keyframes and motion styles) using the Figma Motion API via a plugin bridge.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T21:58:22Z"
 ---
 ## What it is
 MCP server providing 174 tools for AI-powered Godot 4 development, enabling scene manipulation, scripting, animation, runtime analysis, and more.

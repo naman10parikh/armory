@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:17:22Z"
 ---
 ## What it is
 A local MCP server that automatically generates tools from Toss Securities' official OpenAPI spec, enabling real API calls with multi-layered order safety and OAuth 2.0 authentication.

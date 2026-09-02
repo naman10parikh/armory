@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T14:11:49Z"
 ---
 ## What it is
 Automatically scans SQLite databases and generates typed CRUD tools for each table, allowing natural language database interaction without exposing raw SQL.

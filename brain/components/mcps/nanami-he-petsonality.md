@@ -8,10 +8,12 @@ source_url: https://github.com/nanami-he/petsonality
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-11T13:41:16Z"
 ---
 ## What it is
 MCP server `Petsonality`, catalogued on PulseMCP. MBTI-powered terminal pet companion for personality-driven coding session interactions.

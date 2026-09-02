@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T15:28:21Z"
 ---
 ## What it is
 A proof-of-concept MCP server implementing OAuth 2.1 authorization with CIMD client registration and PKCE, demonstrating protected resource access and step-up authentication.

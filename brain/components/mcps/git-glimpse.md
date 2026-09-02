@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T05:12:15Z"
 ---
 ## What it is
 A token-budgeted Git MCP server and CLI that provides compact status, diff, and log summaries for AI agents to conserve context.

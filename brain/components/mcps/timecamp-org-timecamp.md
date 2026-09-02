@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T13:50:56Z"
 ---
 ## What it is
 MCP server `TimeCamp`, catalogued on PulseMCP. Integrates with TimeCamp's time tracking API to create, retrieve, update, and delete time entries with project and task assignments for automated timesheet management and productivity reporting.

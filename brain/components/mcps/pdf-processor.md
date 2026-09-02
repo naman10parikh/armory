@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-13T01:08:14Z"
 ---
 ## What it is
 MCP server `PDF Processor`, catalogued on PulseMCP. Extracts text content and mathematical equations from PDF documents using PyMuPDF for text processing and pix2tex for LaTeX OCR, enabling analysis of academic papers and technical documents with specialized equation recognition.

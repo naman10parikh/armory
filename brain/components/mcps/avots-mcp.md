@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:04:59Z"
 ---
 ## What it is
 Hosted multi-model AI media + chat MCP server. Generates images, video, audio, face-swaps and talking-avatars, and chats across 300+ models (Claude, GPT, Gemini, DeepSeek…) - all from one balance and one API key.

@@ -8,10 +8,12 @@ source_url: https://github.com/trialanderrorai/appstore-connect-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-05-19T21:25:26Z"
 ---
 ## What it is
 MCP server `App Store Connect`, catalogued on PulseMCP. Integrates with Apple's App Store Connect API to provide direct access to iOS app sales reports, user analytics, app health metrics, beta testing data, and subscription information with JWT authentication and automatic pagination handling.

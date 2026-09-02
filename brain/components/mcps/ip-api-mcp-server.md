@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T08:27:02Z"
 ---
 ## What it is
 Enables looking up approximate location of public or specific IP addresses, returning country, city, ISP, and coordinates via ip-api.com.

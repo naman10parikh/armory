@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-03-03T18:11:36Z"
 ---
 ## What it is
 MCP server that brings Gemini's image generation and editing capabilities to Claude Desktop, Claude Code, and Cursor. Supports Nano Banana 2 (Flash) and Nano Banana Pro models.

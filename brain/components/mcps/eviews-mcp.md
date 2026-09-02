@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T02:37:37Z"
 ---
 ## What it is
 MCP server that drives EViews econometrics software from Python or LLM clients via COM automation, enabling workfile creation, model estimation, diagnostics, and data exchange with pandas.

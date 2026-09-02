@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T16:53:52Z"
 ---
 ## What it is
 Local Streamable HTTP MCP server for Avanza that provides authentication, account data, instruments, market data, and order tools. Order tools can affect real money, so requires approval and safe configuration.

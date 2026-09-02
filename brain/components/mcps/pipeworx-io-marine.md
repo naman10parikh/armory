@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-26T17:20:47Z"
 ---
 ## What it is
 MCP server `Marine Traffic`, catalogued on PulseMCP. Track vessel positions and retrieve maritime data from the marine traffic API.

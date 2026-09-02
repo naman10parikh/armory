@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-02-21T20:38:50Z"
 ---
 ## What it is
 Enables controlling a Teenage Engineering EP-133 K.O. II sampler via MIDI through natural language, allowing note playback, pattern creation, and drum pattern sequencing.

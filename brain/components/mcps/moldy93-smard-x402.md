@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-03T18:44:17Z"
 ---
 ## What it is
 MCP server `SMARD Electricity Prices`, catalogued on PulseMCP. Paywalled SMARD day-ahead electricity prices for Germany-Luxembourg with 15-minute resolution via x402.

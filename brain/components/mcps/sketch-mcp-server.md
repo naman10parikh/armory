@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-09-09T03:47:38Z"
 ---
 ## What it is
 A Sketch file processing MCP server that enables AI tools to analyze Sketch design files and generate code, with smart token optimization and 16 professional tools for design element discovery and analysis.

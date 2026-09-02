@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T12:51:33Z"
 ---
 ## What it is
 A read-only MCP server that gives AI agents accurate current time, timezone conversions, DST transitions, and city lookups using live IANA timezone data, with cited sources.

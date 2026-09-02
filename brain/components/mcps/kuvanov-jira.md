@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-18T04:40:31Z"
 ---
 ## What it is
 MCP server `JIRA`, catalogued on PulseMCP. Provides a bridge to Atlassian JIRA for retrieving issue details by key using TypeScript and JSON-RPC requests over stdio transport.

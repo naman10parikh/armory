@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T21:16:45Z"
 ---
 ## What it is
 Exposes news search and top headlines via GNews API, plus simulated email tools for sending and retrieving emails.

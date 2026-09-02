@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-08T15:53:00Z"
 ---
 ## What it is
 MCP server for managing Zoom meetings, enabling creation, update, deletion, and retrieval via Claude or Cursor.

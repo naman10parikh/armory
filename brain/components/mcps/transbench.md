@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:44:58Z"
 ---
 ## What it is
 TransBench is a translational research agent that takes free-text clinical observations, decomposes them into biological axes, generates falsifiable hypotheses grounded in PubMed evidence, and designs reproducible computational experiments with concrete datasets for Claude Science.

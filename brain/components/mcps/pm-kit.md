@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-30T16:44:58Z"
 ---
 ## What it is
 Integrates AI assistants with product management tools like Linear and Slack, providing specialized agents for discovery, strategy, prioritization, roadmap planning, and metrics definition via the Model Context Protocol.

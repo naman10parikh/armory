@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T05:14:24Z"
 ---
 ## What it is
 An MCP server that exposes Azure resource management tools, allowing AI assistants to list resource groups, list resources in a group, and retrieve subscription information.

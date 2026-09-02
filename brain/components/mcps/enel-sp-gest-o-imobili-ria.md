@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:32Z"
 ---
 ## What it is
 Consulta em fonte oficial da Enel SP para gestão imobiliária, com ferramenta somente leitura e pagamento por uso via créditos pré-pagos.

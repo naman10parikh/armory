@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T09:30:11Z"
 ---
 ## What it is
 Enables OpenAI Codex to inspect and modify Adobe InDesign documents through a local, authenticated MCP bridge and UXP panel. It provides typed, allowlisted operations with workspace confinement, approvals, and one-step Undo.

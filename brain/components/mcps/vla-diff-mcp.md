@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:52:28Z"
 ---
 ## What it is
 Enables AI agents to inspect and control a robotic VLA system via MCP, offering read-only tools for ROS topics, processes, tmux, and logs, as well as write tools for publishing prompts, issuing tmux commands, restarting services, and running shell commands inside containers.

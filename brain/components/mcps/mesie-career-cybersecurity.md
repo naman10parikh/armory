@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T22:09:30Z"
 ---
 ## What it is
 Enables access to 200 compressed cybersecurity career profiles via tools for listing, searching, and invoking careers, supporting SOC, IR, pentest, GRC, IAM, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T12:19:27Z"
 ---
 ## What it is
 Search, trending, topics, and local news all in one MCP server. Article previews, deduplication, source filtering, and 40+ languages built in.

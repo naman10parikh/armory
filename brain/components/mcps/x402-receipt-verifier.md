@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T23:08:14Z"
 ---
 ## What it is
 Enables auditing x402 payment logs against delivery logs to issue signed proof-of-delivery receipts and verify payer spend health.

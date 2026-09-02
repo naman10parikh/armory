@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T20:25:03Z"
 ---
 ## What it is
 An MCP server exposing NACE Rev. 2.1 economic activity classification codes for AI agents, with tools to browse, search, and fuzzy-match codes.

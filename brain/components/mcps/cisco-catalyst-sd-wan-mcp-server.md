@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-03-23T14:39:23Z"
 ---
 ## What it is
 Exposes Cisco Catalyst SD-WAN Manager (vManage) REST API as MCP tools, enabling AI assistants to query and manage SD-WAN fabric through vManage without direct router communication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T07:12:50Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Post For Me API, allowing them to explore endpoints, make test requests, and use documentation to help integrate this SDK into your application.

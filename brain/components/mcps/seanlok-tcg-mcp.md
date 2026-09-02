@@ -8,10 +8,12 @@ source_url: https://github.com/seanlok/tcg-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-05T00:53:26Z"
 ---
 ## What it is
 MCP server `Pokemon TCG`, catalogued on PulseMCP. Pokemon TCG tools: PSA grading lookups, collection management, and multi-provider card pricing.

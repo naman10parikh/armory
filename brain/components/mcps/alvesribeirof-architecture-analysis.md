@@ -8,10 +8,12 @@ source_url: https://github.com/alvesribeirof/architecture-analysis-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-06T03:15:26Z"
 ---
 ## What it is
 MCP server `Architecture Analysis`, catalogued on PulseMCP. Analyzes source code for SOLID principle violations and design pattern opportunities, providing structured refactoring recommendations powered by AI models.

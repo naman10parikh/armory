@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T19:53:09Z"
 ---
 ## What it is
 Enables AI assistants to place phone calls for reservations, appointments, confirmations, and inquiries through a self-hosted MCP server, with language support and learning capabilities.

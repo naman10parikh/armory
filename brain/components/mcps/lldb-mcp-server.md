@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-31T09:21:32Z"
 ---
 ## What it is
 An MCP server that exposes LLDB debugging capabilities, enabling AI-assisted interactive debugging of C/C++ applications through 40 specialized tools.

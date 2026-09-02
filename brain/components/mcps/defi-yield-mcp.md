@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T02:26:23Z"
 ---
 ## What it is
 Enables querying DeFi yield pool data and risk signals from DefiLlama, including APY, TVL, exploit history, and a gate-then-score risk assessment for curated protocols.

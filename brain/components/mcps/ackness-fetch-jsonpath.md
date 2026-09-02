@@ -8,10 +8,12 @@ source_url: https://github.com/ackness/fetch-jsonpath-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-21T13:04:22Z"
 ---
 ## What it is
 MCP server `Fetch JSONPath`, catalogued on PulseMCP. Fetches and extracts data from HTTP endpoints using JSONPath patterns with support for batch processing, custom headers, proxy configuration, and concurrent operations for efficient web API data retrieval.

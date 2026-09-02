@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-05T00:57:00Z"
 ---
 ## What it is
 A comprehensive MCP server for Microsoft Outlook email management, enabling mail operations, smart search, statistical analysis, and more via natural language.

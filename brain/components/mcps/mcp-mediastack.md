@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:21:34Z"
 ---
 ## What it is
 Provides access to live news and media data via the Mediastack API, enabling queries for articles, sources, and categories through natural language or direct tool calls.

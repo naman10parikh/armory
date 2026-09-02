@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T01:46:13Z"
 ---
 ## What it is
 Provides MCP tools to search and retrieve Apple App Store and Google Play app data, including app details, reviews, charts, developer info, and ASO keyword/rank estimates.

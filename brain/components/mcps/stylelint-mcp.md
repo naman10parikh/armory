@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-17T07:21:11Z"
 ---
 ## What it is
 Enables AI models to run Stylelint on CSS files and fix linting warnings directly through the Model Context Protocol.

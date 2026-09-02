@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T02:48:57Z"
 ---
 ## What it is
 Provides tools to search and retrieve LILYGO hardware documentation, including product listings, full specs, and sectioned guides, with live fetching from GitHub.

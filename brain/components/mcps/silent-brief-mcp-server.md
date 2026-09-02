@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T07:31:17Z"
 ---
 ## What it is
 MCP server for generating legal and business documents via Silent Brief API. Pay with Monero, no accounts needed.

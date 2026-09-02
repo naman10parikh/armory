@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T11:42:27Z"
 ---
 ## What it is
 Enables AI agents to perform product discovery from natural language shopping intents, returning ranked products with merchant links without completing checkout.

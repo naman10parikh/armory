@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-06-09T02:28:00Z"
 ---
 ## What it is
 封装了 Google Antigravity 的 Nano Banana 图像生成能力，使 AI 客户端可通过 MCP 调用生成或编辑图片。

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-27T14:33:47Z"
 ---
 ## What it is
 MCP server `Base Price Oracle`, catalogued on PulseMCP. Retrieves real-time token prices on Base from on-chain DEX pools using pure blockchain reads.

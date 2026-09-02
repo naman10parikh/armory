@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T01:32:44Z"
 ---
 ## What it is
 Middleware that gives AI personas a visible, reactive presence inside editors like Cursor, Claude Code, and Cowork.

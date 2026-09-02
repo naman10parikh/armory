@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-06T04:11:45Z"
 ---
 ## What it is
 Discovers LLM models in real time from cloud providers and local Ollama instances, returning compatibility profiles and live pricing so AI agents can route tasks to the cheapest viable model without breaking tool calls or context clipping.

@@ -8,11 +8,13 @@ source_url: https://github.com/nusantara-ventures/dino-markets-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T00:43:22Z"
 ---
 ## What it is
 Bridges matched Kalshi and Polymarket prediction-market data to AI agents via MCP, enabling market lookup, cross-venue spread analysis, and arbitrage detection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:23:36Z"
 ---
 ## What it is
 MCP server for Google Ads API that enables LLMs to search and query Google Ads accounts, retrieve resource metadata, and generate keyword ideas.

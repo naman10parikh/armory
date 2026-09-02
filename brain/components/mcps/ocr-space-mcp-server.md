@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-08T21:10:17Z"
 ---
 ## What it is
 MCP server for OCR.space API to extract text from images and PDFs, with tools for file, URL, automatic oversized handling, and language support.

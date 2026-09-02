@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T18:23:15Z"
 ---
 ## What it is
 Enables read-only SQL database access for AI assistants, allowing schema exploration and safe query execution without risk of data modification.

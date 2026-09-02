@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T10:17:24Z"
 ---
 ## What it is
 Enables searching and retrieving US federal antitrust decisions from the CourtListener API, providing verified citations and full text for competition law research.

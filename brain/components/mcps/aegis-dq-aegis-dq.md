@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
 stars: 4
+forks: 2
+pushed_at: "2026-05-27T20:34:08Z"
 ---
 ## What it is
 Agentic data quality framework that runs structured rules against warehouses (DuckDB, BigQuery, Athena, Databricks, Postgres), diagnoses failures with LLM root cause analysis, and proposes SQL remediations. Every LLM decision is audit-logged with cost and latency.

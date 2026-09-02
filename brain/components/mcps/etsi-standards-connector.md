@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T14:46:43Z"
 ---
 ## What it is
 Fetches, parses, and summarizes ETSI telecommunications and media standards documents, enabling Claude to autonomously look up and ingest standards mid-conversation for answering questions, generating conformant code, or writing XML.

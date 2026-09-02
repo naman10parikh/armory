@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-20T17:06:46Z"
 ---
 ## What it is
 Enables Claude Code to directly control Android emulators or Windows windows for MaaFramework pipeline development, with features like screenshot with grid, template cropping, and real-time recognition testing.

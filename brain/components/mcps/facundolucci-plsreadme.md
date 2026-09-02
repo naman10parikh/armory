@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, file-systems]
 stars: 4
+forks: 1
+pushed_at: "2026-08-25T18:34:04Z"
 ---
 ## What it is
 Share markdown files and text as clean, readable web links via `plsreadme_share_file` and `plsreadme_share_text`; zero setup (`npx -y plsreadme-mcp` or `https://plsreadme.com/mcp`).

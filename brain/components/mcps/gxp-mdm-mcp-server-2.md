@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T15:15:48Z"
 ---
 ## What it is
 Lets AI agents query a computerized system inventory as a knowledge graph using Cypher, enabling blast radius, data lineage, regulation checks, and change impact assessments while preventing hallucinated regulatory claims.

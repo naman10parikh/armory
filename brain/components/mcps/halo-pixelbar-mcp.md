@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T14:48:21Z"
 ---
 ## What it is
 A local MCP server for controlling an EDIFIER Halo PixelBar's ambient light, pixel screen, and hardware volume on Windows.

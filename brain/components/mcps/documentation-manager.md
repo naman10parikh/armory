@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-31T22:52:09Z"
 ---
 ## What it is
 Comprehensive documentation lifecycle management powered by an MCP server. Automates documentation creation, maintenance, quality assessment, and synchronization for software projects.

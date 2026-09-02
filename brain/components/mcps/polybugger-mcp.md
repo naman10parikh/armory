@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-24T12:37:39Z"
 ---
 ## What it is
 Multi-language MCP debugger for AI agents that supports Python, JavaScript/TypeScript, Go, Rust, and C/C++ with features like container debugging, session recovery, and watch expressions.

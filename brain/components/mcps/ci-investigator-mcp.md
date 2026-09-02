@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T15:32:13Z"
 ---
 ## What it is
 Provides tools to analyze and debug GitHub Actions CI failures, including summarizing failures, detecting flaky tests, and suggesting fixes.

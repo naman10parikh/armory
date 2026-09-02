@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T02:33:54Z"
 ---
 ## What it is
 A local stdio MCP server for a self-hosted GeoGebra 5.0 Web bundle. It enables executing GeoGebra commands with structured feedback, querying commands, evaluating CAS, managing state, and exporting images using headless Chromium.

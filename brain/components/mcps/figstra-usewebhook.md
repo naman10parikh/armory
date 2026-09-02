@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-02T19:13:30Z"
 ---
 ## What it is
 MCP server `UseWebhook`, catalogued on PulseMCP. Generates unique webhook endpoints on usewebhook.com for capturing and inspecting HTTP requests without requiring account setup or configuration.

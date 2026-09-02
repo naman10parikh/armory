@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T21:46:08Z"
 ---
 ## What it is
 Connects Lelly.chat workspace with AI agents, offering tools for tasks, reminders, health tracking, CRM, knowledge base, finance, and spiritual journaling via MCP.

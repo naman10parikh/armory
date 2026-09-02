@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T17:23:50Z"
 ---
 ## What it is
 Exposes Together AI's inference endpoints (chat, image generation, vision, embeddings) as tools callable from MCP clients like Claude Desktop and Cursor.

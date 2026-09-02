@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T09:44:33Z"
 ---
 ## What it is
 Enables AI assistants to search videos, read channels, browse playlists, fetch comments, and get transcripts from YouTube using the YouTube Data API v3 and InnerTube API for captions.

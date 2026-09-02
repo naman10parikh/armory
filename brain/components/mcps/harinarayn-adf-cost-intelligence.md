@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T23:13:12Z"
 ---
 ## What it is
 MCP server `ADF Cost Intelligence`, catalogued on PulseMCP. Azure Data Factory FinOps intelligence for pipeline cost ranking, waste detection, and optimization.

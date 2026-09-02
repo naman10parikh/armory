@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-15T16:42:45Z"
 ---
 ## What it is
 Enables AI agents to search and access public calendar data, supporting iCal, CalDAV, and Google Calendar sources with event search, details, and availability checks.

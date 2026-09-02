@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T22:07:50Z"
 ---
 ## What it is
 An MCP server that exposes Azure Data Factory operations as tools any LLM can call — trigger pipelines, monitor runs, inspect datasets, and get factory health summaries through natural language.

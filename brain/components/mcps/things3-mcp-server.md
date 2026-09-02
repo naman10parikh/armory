@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-15T12:49:46Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides integration with Things 3 and Calendar app on macOS, allowing AI assistants to manage tasks, projects, and areas.

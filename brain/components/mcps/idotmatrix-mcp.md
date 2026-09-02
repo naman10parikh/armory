@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T22:36:52Z"
 ---
 ## What it is
 An MCP server that lets AI assistants draw pixel art on iDotMatrix LED displays over Bluetooth.

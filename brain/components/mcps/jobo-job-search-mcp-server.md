@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:43:22Z"
 ---
 ## What it is
 Enables LLM clients to search Jobo's live job index and fetch detailed job postings, with canonical search and fetch tools for ChatGPT Deep Research compatibility. Supports OAuth 2.1 authentication, structured filters, and self-hosting.

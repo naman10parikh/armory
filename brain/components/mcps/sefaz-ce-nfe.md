@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:06Z"
 ---
 ## What it is
 MCP server for querying official SEFAZ CE NF-e (Brazilian electronic invoices) data from Ceará state. It is read-only and works via pre-paid credits, compatible with any MCP client.

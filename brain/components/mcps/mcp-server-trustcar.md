@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:44:33Z"
 ---
 ## What it is
 MCP server for trustcar.info, a Ukrainian license-plate lookup and driver review service. It provides tools to look up vehicle details, recent plates, and post reviews.

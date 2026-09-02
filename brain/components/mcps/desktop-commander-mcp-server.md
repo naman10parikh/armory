@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T06:15:33Z"
 ---
 ## What it is
 A comprehensive MCP server that gives AI assistants full control over your desktop — monitor system resources, manage windows, capture screenshots, control the clipboard, launch applications, and more.

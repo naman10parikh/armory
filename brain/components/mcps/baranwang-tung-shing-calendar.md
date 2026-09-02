@@ -8,10 +8,12 @@ source_url: https://github.com/baranwang/mcp-tung-shing
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-06-30T00:17:17Z"
 ---
 ## What it is
 MCP server `Tung Shing Calendar`, catalogued on PulseMCP. Provides cross-calendar date parsing, formatting, and manipulation for Gregorian and lunar calendars.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-09T06:23:42Z"
 ---
 ## What it is
 Provides email sending and receiving via SMTP/IMAP/POP3, supporting major email providers and dynamic authentication for AI assistant integration.

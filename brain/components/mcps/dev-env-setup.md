@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-07T09:17:06Z"
 ---
 ## What it is
 Automates setup of local development environments for Python, Node.js, Flutter, Android, and more on macOS and Linux. Can be used as a standalone CLI or as an MCP server for AI assistant integration.

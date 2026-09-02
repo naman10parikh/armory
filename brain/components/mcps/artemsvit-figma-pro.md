@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-17T08:55:21Z"
 ---
 ## What it is
 MCP server `Figma Pro`, catalogued on PulseMCP. Integrates with Figma API to retrieve design files, extract design tokens and CSS properties, process designer comments for implementation instructions, and download assets for automated design-to-code conversion across 10 frameworks including React, Vue, Angular, SwiftUI, and mobile platforms.

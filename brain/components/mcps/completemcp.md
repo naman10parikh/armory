@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T05:32:42Z"
 ---
 ## What it is
 Enables tailoring resumes to job descriptions by scraping JDs, applying rules, and generating optimized DOCX resumes.

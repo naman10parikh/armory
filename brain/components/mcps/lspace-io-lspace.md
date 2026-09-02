@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-30T20:43:29Z"
 ---
 ## What it is
 MCP server `Lspace`, catalogued on PulseMCP. Transforms Git repositories into searchable knowledge bases through automated document processing, timeline tracking, and semantic search capabilities with OpenAI integration for content extraction and GitHub support for repository management.

@@ -8,11 +8,13 @@ source_url: https://github.com/empires-security/mcp-oauth2-aws-cognito
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 69
+stars: 68
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-03-26T05:13:37Z"
 ---
 ## What it is
 Demonstrates how to secure an MCP server with OAuth 2.1 using AWS Cognito, with support for dynamic client registration and client ID metadata documents.

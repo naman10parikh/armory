@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-05-13T03:16:11Z"
 ---
 ## What it is
 Enables interaction with Binary Ninja for binary analysis and reverse engineering, providing tools and resources to examine binaries, decompile functions, and manage symbols through natural language.

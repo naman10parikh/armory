@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-01-20T22:02:59Z"
 ---
 ## What it is
 A Model Context Protocol server that provides read-only access to Firebird databases, enabling LLMs to inspect database schemas and execute read-only queries.

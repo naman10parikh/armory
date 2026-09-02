@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T07:08:00Z"
 ---
 ## What it is
 A deterministic MCP server for creating and managing educational storyboards, video scripts, and slide decks. It provides tools for content planning, validation, and DOCX/PPTX generation, with a guided workflow.

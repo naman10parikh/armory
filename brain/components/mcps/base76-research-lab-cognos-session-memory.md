@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-03T11:56:33Z"
 ---
 ## What it is
 MCP server `CognOS Session Memory`, catalogued on PulseMCP. Verified context injection via epistemic trust scoring for session continuity between conversations.

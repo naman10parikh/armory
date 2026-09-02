@@ -8,10 +8,12 @@ source_url: https://github.com/antonio-mello-ai/mcp-pfsense
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-17T00:55:20Z"
 ---
 ## What it is
 MCP server `pfSense`, catalogued on PulseMCP. Manage pfSense firewalls through AI assistants with rules, DHCP, DNS, and monitoring tools.

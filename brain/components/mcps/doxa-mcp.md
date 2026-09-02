@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:57:20Z"
 ---
 ## What it is
 Christian Bible Scripture MCP: BSB verse lookup, Christian encouragement, the Doxa Way journey map. Three tools: doxa_encourage, doxa_scripture, doxa_way_movement. Hosted at https://doxa.app/mcp/v1, free per-individual quota, BYOL for unlimited. Scripture, summoned.

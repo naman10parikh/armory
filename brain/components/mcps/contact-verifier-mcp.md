@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T11:32:45Z"
 ---
 ## What it is
 MCP server for verifying B2B contact records via email syntax and DNS/MX checks, serving verified data with per-tenant isolation.

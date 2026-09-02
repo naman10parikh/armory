@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T18:47:54Z"
 ---
 ## What it is
 MCP server `Threat Research`, catalogued on PulseMCP. Extract IOCs, map MITRE ATT&CK techniques, enrich with threat intelligence, and generate Sigma/KQL/SPL detection rules from threat reports.

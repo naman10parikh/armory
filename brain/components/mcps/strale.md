@@ -8,10 +8,12 @@ source_url: https://github.com/strale-io/strale
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-02T03:52:25Z"
 ---
 ## What it is
 MCP server `Strale`, catalogued on PulseMCP. Capability marketplace providing AI agents with access to quality-scored business tools including company lookups, compliance checks, and financial data.

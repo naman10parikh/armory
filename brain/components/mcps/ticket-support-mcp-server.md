@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T17:31:17Z"
 ---
 ## What it is
 Enables retrieval of support tickets and user data from a JSON store or ServiceNow via MCP tools, providing context for AI-powered support responses.

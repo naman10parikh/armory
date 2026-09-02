@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T18:53:03Z"
 ---
 ## What it is
 Provides LLM-friendly access to German federal legislation via the NeuRIS API, enabling tool-based retrieval of laws, norms, and statutory text.

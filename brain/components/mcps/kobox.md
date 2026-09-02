@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T03:27:31Z"
 ---
 ## What it is
 Enables controlling a Teenage Engineering EP-133 K.O. II via natural language, converting plain language into MIDI commands for triggering pads, playing scales, and sequencing patterns.

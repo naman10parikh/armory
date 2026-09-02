@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T05:35:51Z"
 ---
 ## What it is
 Enables interaction with Google SearchConsole tools and services through a unified API.

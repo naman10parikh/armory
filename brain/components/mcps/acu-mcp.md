@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T03:58:47Z"
 ---
 ## What it is
 Enables read-only analytics queries on Acumatica ERP data, including sales orders, inventory, shipments, invoices, purchase orders, customers, and OData generic inquiries.

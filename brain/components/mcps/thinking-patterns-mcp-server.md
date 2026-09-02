@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-16T21:27:13Z"
 ---
 ## What it is
 Provides AI systems with structured thinking frameworks and reasoning tools to maintain consistent problem-solving patterns across conversations. Enables multi-step reasoning, decision analysis, and systematic troubleshooting through invocable mental models.

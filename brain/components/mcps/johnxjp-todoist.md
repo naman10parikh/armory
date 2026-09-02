@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-17T20:38:46Z"
 ---
 ## What it is
 MCP server `Todoist`, catalogued on PulseMCP. Integrates with Todoist to enable task management including creation, retrieval, updates, and deletion with support for due dates, priorities, and labels through natural language commands.

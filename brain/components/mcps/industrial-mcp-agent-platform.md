@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T09:56:52Z"
 ---
 ## What it is
 MCP server for integrating manufacturing systems (MES/ERP/quality/maintenance) with LLM agents, enabling event ingestion, incident triage, approval workflows, and RAG-based knowledge retrieval.

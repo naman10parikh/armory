@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T04:22:09Z"
 ---
 ## What it is
 Provides aggregated municipal development costs for US jurisdictions, including impact fees and utility connection charges, enabling AI agents to assess building feasibility quickly.

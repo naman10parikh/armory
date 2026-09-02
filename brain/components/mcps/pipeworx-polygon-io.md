@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:33:35Z"
 ---
 ## What it is
 MCP server `Pipeworx Polygon.io`, catalogued on PulseMCP. Polygon.io stock, options, and crypto data including tickers, aggregates, news, splits, and dividends via the Pipeworx gateway.

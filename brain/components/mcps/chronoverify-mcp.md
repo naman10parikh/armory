@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:08:49Z"
 ---
 ## What it is
 Provides MCP-compatible AI agents with a verify_image tool to check a photo's capture time and provenance using C2PA, EXIF, XMP metadata, and pixel forensics, returning a verdict and confidence score.

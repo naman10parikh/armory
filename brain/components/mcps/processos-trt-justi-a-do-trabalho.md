@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:52:55Z"
 ---
 ## What it is
 Enables querying labor lawsuits (processos trabalhistas) in Brazilian Regional Labor Courts (TRT) using CPF or CNPJ, with read-only access and pay-per-use credits.

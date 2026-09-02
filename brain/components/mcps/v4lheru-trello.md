@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-12-02T17:32:32Z"
 ---
 ## What it is
 MCP server `Trello`, catalogued on PulseMCP. Provides a bridge to Trello for creating and managing boards, lists, cards, labels, members, and checklists through TypeScript-based service handlers that handle authentication and API communication.

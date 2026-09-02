@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-14T03:20:06Z"
 ---
 ## What it is
 Enables searching and retrieving Zendesk Help Center articles through natural language, supporting article search and detailed article lookup by ID.

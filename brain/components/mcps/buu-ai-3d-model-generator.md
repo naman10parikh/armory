@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-31T20:18:13Z"
 ---
 ## What it is
 MCP server `Buu AI 3D Model Generator`, catalogued on PulseMCP. Provides a bridge to the Buu AI platform for generating 3D models from text prompts in various styles including Realistic, LowPoly, Voxel, and Stylized.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T11:34:42Z"
 ---
 ## What it is
 Enables AI agents to navigate code using Neovim's LSP and Treesitter features, and read/write the quickfix list.

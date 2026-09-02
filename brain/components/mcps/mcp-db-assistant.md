@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T11:10:32Z"
 ---
 ## What it is
 A database operation server based on the MCP protocol, providing database connection, querying, schema exploration, data analysis, and SQL generation tools.

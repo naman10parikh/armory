@@ -8,10 +8,12 @@ source_url: https://github.com/huweihua123/stock-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 152
+stars: 173
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 45
+pushed_at: "2026-03-25T16:33:22Z"
 ---
 ## What it is
 MCP server `Chinese Stock Market Data (AkShare & Tushare)`, catalogued on PulseMCP. Integrates with Chinese financial data providers including AkShare and Tushare to deliver real-time stock market data, fundamental analysis, news monitoring, and market visualization through a FastAPI-based server with Redis caching and streaming capabilities.

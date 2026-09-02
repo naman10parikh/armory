@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T12:07:55Z"
 ---
 ## What it is
 Enables exploring and analyzing US Data Analyst job postings, offering job search, salary benchmarking, and skill-demand insights through MCP tools, resources, and a career gap review prompt.

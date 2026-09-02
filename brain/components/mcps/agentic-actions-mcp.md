@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T09:43:30Z"
 ---
 ## What it is
 Enables file IO operations and terminal commands via agentic actions using the MCP protocol.

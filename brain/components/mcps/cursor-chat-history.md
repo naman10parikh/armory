@@ -12,6 +12,8 @@ stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-01-12T10:26:04Z"
 ---
 ## What it is
 MCP server `Cursor Chat History`, catalogued on PulseMCP. Analyzes local Cursor chat history to extract development patterns, usage insights, and coding best practices with tools for searching conversations, generating analytics, and exporting data in multiple formats for personalized development assistance.

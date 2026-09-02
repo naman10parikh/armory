@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-09T05:45:22Z"
 ---
 ## What it is
 Sandboxed Python execution with automatic dependency management. Executes Python scripts in isolated environments (bubblewrap or Docker) with PEP 723 inline dependencies, preventing host pollution.

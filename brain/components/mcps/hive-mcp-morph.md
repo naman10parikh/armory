@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T01:27:21Z"
 ---
 ## What it is
 MCP server for the HiveMorph polymorphic agent runtime, exposing audit log, identity index, supermodel directory, brood carousel, and approval queue with x402 micropayments.

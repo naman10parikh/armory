@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:14:39Z"
 ---
 ## What it is
 MCP server that lets citizens search and book Parks Canada campgrounds, accommodations, day use, and backcountry permits through their own AI assistant, with secure local session handling and payment completed by the user in their own browser.

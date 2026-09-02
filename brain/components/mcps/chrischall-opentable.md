@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T23:32:15Z"
 ---
 ## What it is
 MCP server `OpenTable`, catalogued on PulseMCP. Find available reservation slots, book, cancel, and manage OpenTable reservations and favorites.

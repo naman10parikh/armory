@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T03:38:08Z"
 ---
 ## What it is
 A proxy MCP server that lazy-loads tools from configured servers on demand, reducing token usage and enabling mid-session server switching.

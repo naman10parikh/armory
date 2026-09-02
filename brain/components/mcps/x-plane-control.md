@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T16:52:38Z"
 ---
 ## What it is
 MCP server that lets ChatGPT or Codex control and inspect an X-Plane flight simulator through natural language, including reading/writing DataRefs, executing commands, and relocating the aircraft.

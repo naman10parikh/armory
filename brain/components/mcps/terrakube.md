@@ -8,10 +8,12 @@ source_url: https://github.com/terrakube-io/mcp-server-terrakube
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-23T22:26:41Z"
 ---
 ## What it is
 MCP server `Terrakube`, catalogued on PulseMCP. Provides a bridge to Terrakube infrastructure for managing workspaces, variables, modules, and organization resources through natural language interaction

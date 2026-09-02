@@ -8,10 +8,12 @@ source_url: https://github.com/madebyaris/agent-orchestration
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-05T06:17:21Z"
 ---
 ## What it is
 MCP server `Agent Orchestration`, catalogued on PulseMCP. Coordinates multiple agents working on the same project by providing shared memory, task queuing with dependencies, and resource locking to prevent conflicts.

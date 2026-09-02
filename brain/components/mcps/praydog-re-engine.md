@@ -8,10 +8,12 @@ source_url: https://github.com/praydog/re-engine-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-11T03:26:43Z"
 ---
 ## What it is
 MCP server `REFramework RE Engine`, catalogued on PulseMCP. Provides live access to RE Engine game data for inspection, modification, and scripting of game objects and memory in real time.

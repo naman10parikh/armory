@@ -8,11 +8,13 @@ source_url: https://github.com/anthropics/claude-quickstarts
 license: MIT
 cli_compat: [claude]
 maturity: experimental
-stars: 17521
+stars: 17588
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [awesome-claude-code, official-documentation]
+forks: 3031
+pushed_at: "2026-09-01T14:33:09Z"
 ---
 ## What it is
 Offers comprehensive development guides for three distinct AI-powered demo projects with standardized workflows, strict code style guidelines, and containerization instructions.

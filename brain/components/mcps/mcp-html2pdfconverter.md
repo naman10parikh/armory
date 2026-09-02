@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T20:18:21Z"
 ---
 ## What it is
 An MCP server for HTML2PDF Converter. Allows AI agents to seamlessly convert raw HTML strings or live web URLs into high-fidelity PDF documents and save them locally.

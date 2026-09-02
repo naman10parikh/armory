@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T15:40:28Z"
 ---
 ## What it is
 A trusted memory and predictive analysis MCP server for AI agents, enabling evidence-based memory management, pattern analysis, and decision support with full audit trails.

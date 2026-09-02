@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-29T15:02:43Z"
 ---
 ## What it is
 Parses Italian INAZ payslip PDFs into a local SQLite database, enabling AI clients to analyze salary history, search items, and get detailed breakdowns while keeping data on your machine.

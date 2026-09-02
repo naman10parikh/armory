@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T05:41:45Z"
 ---
 ## What it is
 An MCP server that dynamically sources global technology events, communities, and niche networking mixers from Luma, Eventbrite, Meetup, and fallback search sources, enabling event discovery and community finding via natural language.

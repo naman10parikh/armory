@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T17:00:19Z"
 ---
 ## What it is
 A comprehensive MCP server providing Claude with enterprise-grade access to HubSpot CRM, including contacts, deals, quotes, workflows, and automation through 37 tools.

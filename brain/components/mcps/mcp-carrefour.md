@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T19:20:21Z"
 ---
 ## What it is
 MCP server that connects Carrefour Drive to Claude and other MCP clients, enabling product search with real prices, nutriscore, availability, and natural language cart management.

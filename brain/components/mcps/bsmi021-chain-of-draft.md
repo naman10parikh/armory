@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-26T03:02:12Z"
 ---
 ## What it is
 MCP server `Chain of Draft`, catalogued on PulseMCP. Enables iterative reasoning through structured drafts with explicit reasoning chains, allowing for focused critiques and targeted revisions to improve problem-solving quality through systematic refinement.

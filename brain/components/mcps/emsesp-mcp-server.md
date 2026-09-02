@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-20T08:02:58Z"
 ---
 ## What it is
 Enables LLM applications to query and visualize data from Bosch/Buderus heat pumps via ems-ESP, including temperatures, statistics, and heat curves through natural language.

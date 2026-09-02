@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T08:04:35Z"
 ---
 ## What it is
 Enables AI assistants to access Google Maps services including places search, details, directions, geocoding, and nearby search through natural language.

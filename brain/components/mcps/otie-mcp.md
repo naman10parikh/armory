@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T06:51:58Z"
 ---
 ## What it is
 MCP server for controlling Opentrons robots (OT-2/Flex) via HTTP API v2 and Python Protocol API, enabling protocol validation, upload and execution, status monitoring, run control, and documentation search.

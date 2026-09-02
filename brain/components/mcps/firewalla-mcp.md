@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:21:44Z"
 ---
 ## What it is
 Exposes the Firewalla MSP API as tools for Claude Code and other MCP clients, enabling natural-language management of Firewalla boxes, alarms, rules, devices, flows, target lists, and trends with full read/write capabilities.

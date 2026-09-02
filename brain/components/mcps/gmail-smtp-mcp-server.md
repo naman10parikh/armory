@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:17:29Z"
 ---
 ## What it is
 Enables sending emails via Gmail using SMTP and app passwords without OAuth. It provides a custom authorization flow and encrypted credential storage for multi-user access.

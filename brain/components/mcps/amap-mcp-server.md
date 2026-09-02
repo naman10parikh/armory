@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T03:31:00Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that wraps the Amap (高德地图) Web Service APIs, giving AI assistants like Claude Code 9 map tools: geocoding, route planning (driving/transit/walking/cycling), POI search, nearby search, distance measurement, and IP location.

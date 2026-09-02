@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T11:02:20Z"
 ---
 ## What it is
 Standalone Matrix MCPL server that connects Matrix rooms and DMs to an MCPL host as a first-class channel surface, enabling real-time messaging, threads, typing indicators, attachments, and rollback via MCPL tools.

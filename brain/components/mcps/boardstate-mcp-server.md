@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T02:55:41Z"
 ---
 ## What it is
 Enables AI agents to compose and edit dashboards through MCP tools, allowing them to manage tabs, widgets, layout, and data bindings via a unified control plane.

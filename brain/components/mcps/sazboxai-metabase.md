@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-12T00:23:51Z"
 ---
 ## What it is
 MCP server `Metabase`, catalogued on PulseMCP. Provides a bridge between databases and external tools, enabling metadata retrieval, schema exploration, and secure action execution across Metabase database systems through an encrypted configuration interface.

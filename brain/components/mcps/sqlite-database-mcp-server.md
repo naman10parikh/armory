@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T13:47:51Z"
 ---
 ## What it is
 Enables AI agents to connect to and query an SQLite database through the Model Context Protocol, allowing natural language interaction with database tables and data.

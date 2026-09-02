@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-14T19:30:14Z"
 ---
 ## What it is
 MCP server `Contemplation`, catalogued on PulseMCP. Provides continuous background cognitive processing through local Ollama models that analyze conversations for patterns, connections, and insights, automatically saving significant findings to Obsidian while maintaining temporary scratch storage for medium-priority thoughts.

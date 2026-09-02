@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:38:41Z"
 ---
 ## What it is
 Enables interacting with Microsoft Planner and Project for the Web plans through a secure MCP server, supporting plan listing, WBS details, overdue tasks, and workload summaries with strict group isolation.

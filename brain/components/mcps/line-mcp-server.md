@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T10:41:39Z"
 ---
 ## What it is
 Enables sending LINE messages (push, multicast, broadcast), retrieving user profiles, checking quotas, and sending flex messages via Claude using the LINE Messaging API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:57:05Z"
 ---
 ## What it is
 Provides an isolated workspace for testing candidate code, runs tests, and returns deterministic pass/fail verdicts. Enables automated grading of software engineering solutions by ensuring reproducible test runs.

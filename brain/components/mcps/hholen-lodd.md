@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-01T10:03:55Z"
 ---
 ## What it is
 MCP server `Lodd`, catalogued on PulseMCP. Headless web analytics with 34 tools for traffic analysis, events, and funnel tracking.

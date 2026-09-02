@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:41:19Z"
 ---
 ## What it is
 Verifica se uma pessoa ou empresa consta na Lista de Devedores da União (PGFN) a partir do CPF ou CNPJ, com consulta somente leitura.

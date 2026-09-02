@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-13T15:51:20Z"
 ---
 ## What it is
 Enables management of MikroTik routers running RouterOS 6 and 7 via SSH, Telnet, or API with automatic command adaptation. Provides over 46 MCP tools for device management, firewall, DHCP, VPN, configuration profiles, and more.

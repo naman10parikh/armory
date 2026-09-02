@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T17:55:21Z"
 ---
 ## What it is
 Enables AI-assisted field service management through the Service Fusion API, including job lookup, customer management, dispatch, invoicing, and equipment tracking.

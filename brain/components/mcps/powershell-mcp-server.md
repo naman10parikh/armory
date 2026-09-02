@@ -8,11 +8,13 @@ source_url: https://github.com/gunjanjp/powershell-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-06-06T23:17:30Z"
 ---
 ## What it is
 A comprehensive Model Context Protocol (MCP) server that enables Claude and other LLM applications to execute PowerShell commands, scripts, and perform system operations on Windows systems.

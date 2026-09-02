@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-04T23:08:14Z"
 ---
 ## What it is
 Provides structured workflows (phases, gates, coordination) for AI agents, enabling complex task execution with quality enforcement and multi-agent coordination via Model Context Protocol.

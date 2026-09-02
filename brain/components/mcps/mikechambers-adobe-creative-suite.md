@@ -8,10 +8,12 @@ source_url: https://github.com/mikechambers/adb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 615
+stars: 691
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 101
+pushed_at: "2026-07-08T18:25:54Z"
 ---
 ## What it is
 MCP server `Adobe Creative Suite`, catalogued on PulseMCP. Bridges Adobe Creative Suite applications including Photoshop, Premiere Pro, and InDesign through WebSocket connections and UXP plugins, enabling natural language control of layer manipulation, filter application, video editing with transitions and effects, and document creation workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T13:19:58Z"
 ---
 ## What it is
 MCP server for Salesforce that exposes CLI, REST, Connect, Data 360, Bulk 2.0, and Einstein Models APIs as tools for any MCP-compatible client to manage orgs, data, and metadata.

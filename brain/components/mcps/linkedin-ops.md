@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T01:09:44Z"
 ---
 ## What it is
 MCP server that enables AI assistants to search LinkedIn for job posts, save them locally, and manage them via a React dashboard.

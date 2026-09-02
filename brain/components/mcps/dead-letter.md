@@ -8,11 +8,13 @@ source_url: https://github.com/BigCactusLabs/dead-letter
 license: PolyForm Noncommercial License 1.0.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T17:37:44Z"
 ---
 ## What it is
 MCP server that converts .eml email exports (Gmail, Outlook, and other archives) into clean Markdown with YAML front matter — splitting reply threads, stripping signatures and quoted history, extracting attachments, and parsing calendar invites. Built for feeding archived email into RAG and LLM pipe

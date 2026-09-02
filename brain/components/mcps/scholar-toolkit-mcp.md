@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T07:24:11Z"
 ---
 ## What it is
 Comprehensive MCP server for academic research workflows, enabling paper searching across multiple sources, manuscript processing with citation placeholders, search caching, and citation export.

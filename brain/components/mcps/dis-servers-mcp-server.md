@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:41:43Z"
 ---
 ## What it is
 Provides read-only access to Dis Servers' game community Discord directory, including listings, source evidence, official links, and FAQ, enabling MCP clients to query verification rules and directory overview.

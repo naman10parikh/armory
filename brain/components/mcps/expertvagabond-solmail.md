@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-28T17:45:25Z"
 ---
 ## What it is
 MCP server `Solmail`, catalogued on PulseMCP. Send physical mail worldwide using Solana cryptocurrency payments through AI agents.

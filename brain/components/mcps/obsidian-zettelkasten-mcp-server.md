@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-03T03:34:29Z"
 ---
 ## What it is
 Enables AI models to read, search, and write notes in an Obsidian vault following the Zettelkasten method, with tools for semantic search, memo reading/writing, and dialogue saving.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:34:18Z"
 ---
 ## What it is
 MCP server for end-to-end encrypted secret storage and retrieval, enabling LLM agents to fetch secrets by name via one-time URLs while keeping plaintext out of model context and logs.

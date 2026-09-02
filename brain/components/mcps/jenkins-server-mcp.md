@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-01-15T10:12:27Z"
 ---
 ## What it is
 Enables AI assistants to interact with Jenkins CI/CD servers, including checking build status, triggering builds, and retrieving build logs.

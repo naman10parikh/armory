@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T11:12:47Z"
 ---
 ## What it is
 A Node.js MCP server that exposes utility and sample HRMS tools over Streamable HTTP with shared bearer-token authentication, enabling local LLM gateways to call them in read-only mode.

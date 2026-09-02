@@ -8,10 +8,12 @@ source_url: https://github.com/indigoprotocol/indigo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-23T12:10:52Z"
 ---
 ## What it is
 MCP server `Indigo Protocol`, catalogued on PulseMCP. Exposes Indigo Protocol iAsset prices, CDP analytics, stability pool data, staking positions, governance, and DEX operations on the Cardano blockchain.

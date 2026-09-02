@@ -8,11 +8,13 @@ source_url: https://github.com/codebasics/ticket-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-29T12:14:13Z"
 ---
 ## What it is
 An MCP server exposing the internal Ticket API to MCP clients, built with FastMCP's OpenAPI integration.

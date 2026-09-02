@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T21:07:17Z"
 ---
 ## What it is
 MCP server for managing Google Forms — quizzes, grading, images, responses.

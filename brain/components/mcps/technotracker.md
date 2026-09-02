@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T16:42:54Z"
 ---
 ## What it is
 Enables generating a workday schedule and 8-hour timesheet from selected Jira, Outlook, and Teams context via a read-only MCP tool.

@@ -8,11 +8,13 @@ source_url: https://github.com/Portkey-AI/gateway
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 12813
+stars: 12873
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, gateway, proxy]
+forks: 1280
+pushed_at: "2026-05-25T13:54:51Z"
 ---
 ## What it is
 Open-source AI gateway providing a unified API across 100+ LLM providers with built-in observability, request logging, fallbacks, caching, and load balancing.

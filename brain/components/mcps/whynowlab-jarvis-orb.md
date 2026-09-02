@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 21
+stars: 22
+forks: 2
+pushed_at: "2026-04-28T02:52:44Z"
 ---
 ## What it is
 Persistent 4-tier AI memory (episodic, semantic, project, procedural) with temporal scoring, contradiction detection, entity tracking, and real-time desktop visualization orb.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T03:59:04Z"
 ---
 ## What it is
 Enables AI assistants to access live GitHub repository data without cloning, supporting repo summarization, file explanation, recent changes, and dependency analysis.

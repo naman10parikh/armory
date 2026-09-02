@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T05:56:02Z"
 ---
 ## What it is
 Enables task management via MCP tools for creating, listing, updating, completing, and deleting tasks with JSON file storage.

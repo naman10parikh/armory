@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T22:52:54Z"
 ---
 ## What it is
 Enables interaction with Microsoft Outlook services (Tasks, Calendar, Email, Contacts, and Teams) via the Microsoft Graph API, providing 39 tools for Claude Desktop with natural language and JSON output.

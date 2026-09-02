@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T07:18:42Z"
 ---
 ## What it is
 A local MCP server providing text utilities, math functions, and a persistent todo list, enabling task automation via natural language in Claude Desktop.

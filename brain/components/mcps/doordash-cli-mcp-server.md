@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T22:35:06Z"
 ---
 ## What it is
 Local MCP wrapper for DoorDash CLI on macOS, exposing DoorDash services like restaurant search, menus, carts, ordering, and payments as MCP tools with secure token-based access.

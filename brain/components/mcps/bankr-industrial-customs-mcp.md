@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T06:19:34Z"
 ---
 ## What it is
 MCP server for international trade operations focused on Kazakhstan/EAEU/Central Asia routes, providing tools for landed cost calculation, HS classification, Incoterms guidance, logistics estimation, and currency conversion.

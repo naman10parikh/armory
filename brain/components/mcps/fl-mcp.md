@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T17:34:47Z"
 ---
 ## What it is
 Local MCP server for FL Studio on macOS, enabling control of projects, transport, mixer, plugins, automation, and piano roll operations.

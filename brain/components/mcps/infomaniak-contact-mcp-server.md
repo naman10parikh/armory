@@ -8,11 +8,13 @@ source_url: https://github.com/Infomaniak/mcp-server-contact
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-15T17:56:55Z"
 ---
 ## What it is
 MCP server for the Infomaniak Contacts API, enabling listing and searching contacts across address books.

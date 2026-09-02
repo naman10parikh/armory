@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T05:47:08Z"
 ---
 ## What it is
 A read-only MCP server that gives coding agents structured, read-only access to sibling repositories, ensuring security by design with zero write tools.

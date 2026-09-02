@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T11:22:52Z"
 ---
 ## What it is
 This MCP is capable of analyzing medical documents and prescriptions and giving patient all the medical info it needs and answering their questions

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T17:50:34Z"
 ---
 ## What it is
 Connects AI assistants to Revelor e-shop analytics, search configuration, and recommendations, enabling both reading and optional writing for e-shop data.

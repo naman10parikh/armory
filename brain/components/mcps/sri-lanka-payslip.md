@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T23:58:47Z"
 ---
 ## What it is
 Source-backed Sri Lanka payslip tools for APIT/PAYE, EPF, ETF, stamp duty, net pay, and employer cost.

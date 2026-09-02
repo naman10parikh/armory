@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T16:50:33Z"
 ---
 ## What it is
 Public read-only MCP server for FoxTrove Voice, enabling LLMs to query call logs, customer records, assistant stats, and analytics via secure OAuth.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T10:19:41Z"
 ---
 ## What it is
 MCP server that computes a GitHub repo maintenance/abandonment health score from live GitHub data, providing a 0-100 score and verdict via the check_repo_health tool.

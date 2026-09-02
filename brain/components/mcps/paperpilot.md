@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T14:18:20Z"
 ---
 ## What it is
 Enables to turn a research folder into a submission-ready academic paper, with stages for screening, venue selection, drafting, humanization, and final QA. Runs locally without uploading any data.

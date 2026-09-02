@@ -8,11 +8,13 @@ source_url: https://github.com/tunglt1810/figma-mcp-go
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-30T06:51:44Z"
 ---
 ## What it is
 Figma MCP server with full read/write access via plugin bridge — no API token, no rate limits. 83 tools for design automation: styles, variables, components, prototypes, and content.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T12:40:36Z"
 ---
 ## What it is
 MCP server for semantic search over a solved-issues engineering knowledge base. Built on FastMCP with sqlite-vec and sentence-transformers; exposes recall, remember, list_recent, verify, and get tools so agents can retrieve and log fixes.

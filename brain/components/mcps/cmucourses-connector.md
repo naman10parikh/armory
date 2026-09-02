@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T18:21:32Z"
 ---
 ## What it is
 Remote MCP connector providing live, structured access to CMU Courses public data including courses, prerequisites, schedules, instructors, gen-eds, and final-exam times to help students plan schedules.

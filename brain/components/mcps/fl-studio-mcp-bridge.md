@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T11:34:50Z"
 ---
 ## What it is
 Enables MCP-compatible chat to control FL Studio on Windows, including transport, BPM, channels, mixer, patterns, and note insertion via MIDI bridge.

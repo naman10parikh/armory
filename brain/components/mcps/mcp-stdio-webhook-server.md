@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-12T03:56:25Z"
 ---
 ## What it is
 A lightweight MCP server that accepts event envelopes, maps them to configurable tools, and supports STDIO transport with Docker deployment.

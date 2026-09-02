@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T05:36:35Z"
 ---
 ## What it is
 AndroidAPI.net MCP Connector lets Claude send SMS, WhatsApp messages, and OTPs via your linked Android device or gateway credits. Features * 52 tools covering SMS, WhatsApp, OTP, Contacts, Android devices * Works with Claude Desktop and Claude Code * Install: npx -y androidapi-mcp Setup Set ANDROIDA

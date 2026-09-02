@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-24T02:04:26Z"
 ---
 ## What it is
 MCP server `Marketo Forms`, catalogued on PulseMCP. Provides a bridge between Marketo's REST API and form management operations, enabling marketing teams to retrieve, approve, and clone forms without writing API code or switching context.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:30Z"
 ---
 ## What it is
 MCP server for consulting Brazilian federal CTE (electronic transport document) data from official sources, read-only and paid per use via prepaid credits.

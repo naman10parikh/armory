@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
 stars: 2
+forks: 4
+pushed_at: "2026-03-09T00:43:35Z"
 ---
 ## What it is
 MercadoLibre marketplace integration for AI agents. Search products, get item details, browse categories, track trends, and convert currencies across Latin America (Argentina, Brazil, Mexico, Chile, Colombia).

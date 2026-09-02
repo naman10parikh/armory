@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T16:21:23Z"
 ---
 ## What it is
 Enables local tracking of personal expenses by adding, listing, summarizing, updating, and deleting expense records stored in a CSV file through an MCP client.

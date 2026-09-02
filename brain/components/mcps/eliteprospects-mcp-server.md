@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T20:06:03Z"
 ---
 ## What it is
 Enables querying hockey data from eliteprospects.com, including leagues, teams, players, and staff, via an MCP client without an API key.

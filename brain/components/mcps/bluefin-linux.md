@@ -8,10 +8,12 @@ source_url: https://github.com/projectbluefin/bluefin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-02T03:17:57Z"
 ---
 ## What it is
 MCP server `Bluefin Linux Context`, catalogued on PulseMCP. Provides system context and troubleshooting guidance for Project Bluefin Linux distributions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-16T17:33:01Z"
 ---
 ## What it is
 Exposes your local machine's filesystem, git, shell, network, databases, and system to any MCP-compatible LLM client over HTTP.

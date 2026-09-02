@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:29:28Z"
 ---
 ## What it is
 Enables ISO 19650 and UK BIM Level 2 compliance for construction projects, validating EIR, BEP, MIDP, TIDP, and CDE structures.

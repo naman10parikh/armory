@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T02:11:32Z"
 ---
 ## What it is
 Exposes a SilverBullet note space to Claude via MCP, with OAuth 2.1, collision-safe writes, and structured errors.

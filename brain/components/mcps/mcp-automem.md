@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-08-25T23:54:32Z"
 ---
 ## What it is
 AutoMem MCP provides persistent memory for AI assistants, enabling them to recall information across conversations and platforms with graph-vector retrieval.

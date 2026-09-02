@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T03:49:29Z"
 ---
 ## What it is
 A DataOps-focused MCP server for ClickHouse that provides query optimization advice, pipeline latency analysis, and data quality monitoring, with read-only safety.

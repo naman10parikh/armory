@@ -8,10 +8,12 @@ source_url: https://github.com/luotocompany/cursor-local-indexing
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-03-20T09:06:02Z"
 ---
 ## What it is
 MCP server `Local Code Search`, catalogued on PulseMCP. Locally indexes codebases using ChromaDB to enable semantic code search without sending code to external services, featuring real-time updates through file system watchers and configurable ignore patterns.

@@ -8,10 +8,12 @@ source_url: https://github.com/threat-zone/threatzonemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-09T00:24:54Z"
 ---
 ## What it is
 MCP server `Threat.Zone`, catalogued on PulseMCP. Integrates with the Threat.Zone API to provide malware analysis capabilities including static analysis, dynamic sandbox execution across multiple environments, URL scanning, and CDR processing with detailed result retrieval and artifact management.

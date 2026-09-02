@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:51:18Z"
 ---
 ## What it is
 MCP server `Keyword Research`, catalogued on PulseMCP. SEO keyword research using Google Suggest autocomplete, with intent classification and long-tail keyword discovery.

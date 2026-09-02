@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-24T08:12:50Z"
 ---
 ## What it is
 MCP server `SQLite Tool`, catalogued on PulseMCP. Provides SQLite database management with specialized delete functionality including safety controls and conditional filtering

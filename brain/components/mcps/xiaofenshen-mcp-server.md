@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T04:50:08Z"
 ---
 ## What it is
 Exposes Xiaofenshen's public read-only APIs as MCP tools, enabling agents to read shared content, list image prompt templates, and fetch product documentation.

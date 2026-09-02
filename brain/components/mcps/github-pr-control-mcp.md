@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T04:44:34Z"
 ---
 ## What it is
 A production-ready MCP server for triaging and reviewing GitHub pull requests via the GitHub REST API, providing typed tools to list, inspect, comment, add labels, and submit reviews.

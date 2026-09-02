@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-05T07:39:13Z"
 ---
 ## What it is
 Provides a remote coding environment for AI to publish static websites as live URLs, with live code editing and sandbox execution.

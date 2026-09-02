@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T07:47:03Z"
 ---
 ## What it is
 One-step AI image generation for Claude Code, allowing users to generate images from natural language prompts with support for multiple backends like Replicate and OpenAI.

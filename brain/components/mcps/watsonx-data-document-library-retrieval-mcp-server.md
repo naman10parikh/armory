@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-18T02:45:32Z"
 ---
 ## What it is
 Bridges AI agents with watsonx.data document libraries, enabling natural language queries and intelligent retrieval from document libraries.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T09:34:59Z"
 ---
 ## What it is
 MCP server `Korean University Regulations`, catalogued on PulseMCP. Search and retrieve regulations from 14 Korean universities that share a common regulation management system.

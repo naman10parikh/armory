@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T06:50:02Z"
 ---
 ## What it is
 Provides AI agents with read-only access to live chart context, candles, drawings, indicators, and provider status from the MyLinedChart desktop app, all running locally.

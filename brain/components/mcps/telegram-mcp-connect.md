@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T01:29:33Z"
 ---
 ## What it is
 Enables reading Telegram chats and searching messages through natural language, connecting to MCP clients like Claude Code, Codex, and Cursor.

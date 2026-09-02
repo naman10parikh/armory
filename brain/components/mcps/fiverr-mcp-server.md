@@ -8,10 +8,12 @@ source_url: https://github.com/kyurish/fiverr-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-23T19:30:26Z"
 ---
 ## What it is
 MCP server `Fiverr`, catalogued on PulseMCP. Search Fiverr gigs, sellers, pricing, and reviews without an API key.

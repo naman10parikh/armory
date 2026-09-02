@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T13:22:06Z"
 ---
 ## What it is
 Enables security work such as threat modeling, scanning, compliance checks, and remediation through AI assistants using the Model Context Protocol.

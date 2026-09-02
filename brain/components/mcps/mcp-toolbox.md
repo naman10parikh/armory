@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-02T20:19:59Z"
 ---
 ## What it is
 A comprehensive MCP server enabling LLMs to execute commands, manage files, interact with Figma, search the web, generate images, and more, extending their capabilities beyond text generation.

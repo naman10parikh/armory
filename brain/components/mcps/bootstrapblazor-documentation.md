@@ -8,10 +8,12 @@ source_url: https://github.com/bootstrapblazor/bootstrapblazor.mcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-25T16:08:29Z"
 ---
 ## What it is
 MCP server `BootstrapBlazor Documentation`, catalogued on PulseMCP. Provides access to BootstrapBlazor component documentation and source code through automated Git repository management, enabling developers to retrieve component listings, file structures, and implementation details for Blazor application development.

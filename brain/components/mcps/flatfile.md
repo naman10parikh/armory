@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-30T13:25:12Z"
 ---
 ## What it is
 MCP server `Flatfile`, catalogued on PulseMCP. Provides direct access to Flatfile's data migration platform for managing spaces, workbooks, sheets, jobs, users, and data operations without leaving your conversation context.

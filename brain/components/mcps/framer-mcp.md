@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-05T22:29:53Z"
 ---
 ## What it is
 Enables programmatic interaction with Framer canvas via a local MCP server and companion plugin, allowing automation of page generation, content updates, and component manipulation.

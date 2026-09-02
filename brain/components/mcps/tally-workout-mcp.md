@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T02:41:32Z"
 ---
 ## What it is
 Strength-training app Claude can write to: reads real workout history (planned vs actual) and writes planned workouts back into the Tally iOS app. First-party hosted remote MCP server secured with OAuth 2.1 (PKCE + dynamic client registration).

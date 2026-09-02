@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T11:01:08Z"
 ---
 ## What it is
 Enables querying Yazio food logs including meals, daily summaries, and nutrition totals through MCP tools.

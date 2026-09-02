@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-13T10:15:09Z"
 ---
 ## What it is
 Enables AI assistants to interact with local CSV and Parquet data files through natural language queries, facilitating tasks like summarizing datasets or retrieving specific information.

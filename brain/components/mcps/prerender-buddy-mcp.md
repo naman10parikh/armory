@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T13:47:46Z"
 ---
 ## What it is
 Provides local MCP tools for checking what public crawlers can read from HTTP responses, including crawler readability, response comparison, and discovery file checks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T17:58:21Z"
 ---
 ## What it is
 Exposes personal health data (recovery, sleep, strain, etc.) as MCP tools for AI agents to query and analyze.

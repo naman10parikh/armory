@@ -8,10 +8,12 @@ source_url: https://github.com/iceener/linear-streamable-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-07-27T13:22:34Z"
 ---
 ## What it is
 MCP server `Linear`, catalogued on PulseMCP. Integrates with Linear project management platform using OAuth2 authentication to provide comprehensive issue, project, team, comment, and cycle management with filtering, pagination, and batch operations support.

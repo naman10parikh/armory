@@ -8,10 +8,12 @@ source_url: https://github.com/pnizer/wweb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-07-18T17:13:31Z"
 ---
 ## What it is
 MCP server `WhatsApp Web`, catalogued on PulseMCP. Enables AI interaction with WhatsApp through direct client integration or API connectivity, supporting message handling, contact management, group creation, and conversation search capabilities.

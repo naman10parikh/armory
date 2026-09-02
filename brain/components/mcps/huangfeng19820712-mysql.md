@@ -8,10 +8,12 @@ source_url: https://github.com/huangfeng19820712/mcp-mysql-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-12-01T15:01:55Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Provides MySQL database operations including CRUD execution, transaction management, table introspection, and query analysis through JSON-RPC 2.0 interface with separate tools for different operation types and comprehensive error handling.

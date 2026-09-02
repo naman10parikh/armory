@@ -8,10 +8,12 @@ source_url: https://github.com/wso2/fhir-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 121
+stars: 134
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 50
+pushed_at: "2026-07-14T05:07:31Z"
 ---
 ## What it is
 MCP server `FHIR`, catalogued on PulseMCP. Access FHIR-compliant healthcare APIs from AI tools and agent workflows.

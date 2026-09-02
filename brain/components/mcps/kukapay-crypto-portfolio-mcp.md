@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 10
+forks: 3
+pushed_at: "2025-04-05T04:11:28Z"
 ---
 ## What it is
 An MCP server for tracking and managing cryptocurrency portfolio allocations.

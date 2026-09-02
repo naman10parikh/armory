@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-28T12:57:52Z"
 ---
 ## What it is
 Bridges AI assistants with Elgato apps via IPC, enabling dynamic tool discovery and notification forwarding.

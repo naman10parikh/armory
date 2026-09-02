@@ -8,10 +8,12 @@ source_url: https://github.com/pronskiy/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 124
+stars: 123
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-09-04T16:25:36Z"
 ---
 ## What it is
 MCP server `PHP MCP`, catalogued on PulseMCP. PHP library that provides a fluent interface for creating MCP servers with automatic schema generation, type conversion, and comprehensive error handling

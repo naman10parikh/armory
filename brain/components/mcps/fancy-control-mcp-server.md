@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T18:43:27Z"
 ---
 ## What it is
 MCP server for controlling PowerExchange/Fancy Control devices via HTTP. Provides tools like tilt, shock, beep, and various training modes.

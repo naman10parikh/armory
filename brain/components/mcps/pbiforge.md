@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T05:11:29Z"
 ---
 ## What it is
 PBIForge — Power BI .pbix generator MCP server generate .pbix files from dashboard image and prompts using a local hosted llm

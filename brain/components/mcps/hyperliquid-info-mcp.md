@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T19:23:24Z"
 ---
 ## What it is
 Provides live market and account data from Hyperliquid, including perp and spot prices, funding rates, open interest, order books, and wallet positions, without requiring an API key.

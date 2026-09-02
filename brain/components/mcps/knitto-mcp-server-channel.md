@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T02:39:35Z"
 ---
 ## What it is
 A Node.js server that runs a WebSocket relay and AI bridges (Cursor and OpenRouter) to integrate Figma with MCP agents.

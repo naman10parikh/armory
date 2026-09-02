@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T00:13:39Z"
 ---
 ## What it is
 An open-source MCP server for the SharpSpring API (Constant Contact Lead Gen & CRM) that enables AI clients to read and write Leads, discover custom fields, and call any documented API method.

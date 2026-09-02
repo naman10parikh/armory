@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-15T20:00:36Z"
 ---
 ## What it is
 Bridges MCP clients to interactive Reasonix agents, letting you spawn, steer, poll, resume, and manage agents via tools and callbacks. Enables orchestrating long-running AI agents from any MCP host.

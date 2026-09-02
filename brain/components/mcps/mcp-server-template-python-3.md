@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T16:25:19Z"
 ---
 ## What it is
 A minimal Model Context Protocol server template for Render with bearer token authentication, an example tool, and a health check endpoint. Enables deploying custom MCP tools quickly on Render.

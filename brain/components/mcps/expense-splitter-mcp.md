@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T19:41:25Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for managing shared expenses between groups, with tools for group management, expense tracking, and debt simplification.

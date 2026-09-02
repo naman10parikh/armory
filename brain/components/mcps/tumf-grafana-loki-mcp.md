@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
 stars: 29
+forks: 6
+pushed_at: "2026-01-05T04:26:52Z"
 ---
 ## What it is
 An MCP server that allows querying Loki logs through the Grafana API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T08:03:31Z"
 ---
 ## What it is
 Production-grade MCP server for Indian agriculture and utility workflows, enabling crop advisory, weather checks, mandi prices, and railway utilities through natural language.

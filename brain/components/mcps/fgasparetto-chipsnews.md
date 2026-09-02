@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-24T20:07:12Z"
 ---
 ## What it is
 MCP server `ChipsNews`, catalogued on PulseMCP. Manages news configuration, sources, articles, and fetch triggers for ChipsBuilder's news platform.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T22:43:54Z"
 ---
 ## What it is
 A drug and clinical information MCP server for Turkish healthcare professionals, integrating TİTCK, SGK, openFDA, and PubMed data with ChatGPT and Claude.

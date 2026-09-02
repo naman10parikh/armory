@@ -8,10 +8,12 @@ source_url: https://github.com/call518/mcp-postgresql-ops
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 149
+stars: 161
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-08-05T04:03:04Z"
 ---
 ## What it is
 MCP server `PostgreSQL Ops`, catalogued on PulseMCP. Provides direct PostgreSQL database access with query execution, schema introspection, and performance monitoring through specialized extensions like pg_stat_statements for conversational database administration and troubleshooting.

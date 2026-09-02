@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T09:19:45Z"
 ---
 ## What it is
 Exposes FastAPI routes as MCP tools with auto-discovery, Pydantic schema extraction, and built-in observability.

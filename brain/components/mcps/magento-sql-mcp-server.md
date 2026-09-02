@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:56:26Z"
 ---
 ## What it is
 Enables AI assistants to interact with a Magento 2 or Adobe Commerce MySQL database through 50+ read-only tools for orders, catalog, customers, CMS, configuration, indexers, and diagnostics, with support for local DDEV, Commerce Cloud, and remote/SSH connections.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T19:43:54Z"
 ---
 ## What it is
 AI-powered MCP server for enterprise OpenShift/Kubernetes cluster management, providing diagnostic tools, RAG knowledge retrieval, and autonomous remediation recommendations.

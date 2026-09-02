@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:37Z"
 ---
 ## What it is
 Consulta de processos do Tribunal de Justiça de Minas Gerais (TJMG) em fonte oficial via MCP.

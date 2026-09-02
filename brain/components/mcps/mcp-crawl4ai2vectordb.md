@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T23:50:33Z"
 ---
 ## What it is
 MCP server for crawling web documentation and storing it in a Supabase vector database.

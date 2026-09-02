@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T21:52:26Z"
 ---
 ## What it is
 Provides real-time Swiss railway information including departures, connections, train composition, occupancy forecasts, disruptions, and pricing, accessible via natural language in over 100 languages.

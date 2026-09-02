@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T17:02:10Z"
 ---
 ## What it is
 Exposes Alpaca paper trading as MCP tools for checking quotes, managing a watchlist, checking market hours, and placing simulated trades.

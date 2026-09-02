@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T02:36:24Z"
 ---
 ## What it is
 Connects Hermes to procurement pricing tools for BOM review, mock market data, cost calculations, and Excel report generation.

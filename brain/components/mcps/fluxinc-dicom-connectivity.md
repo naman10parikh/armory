@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-27T18:54:48Z"
 ---
 ## What it is
 MCP server `DICOM Connectivity`, catalogued on PulseMCP. Integrates with DICOM systems to provide connectivity testing and diagnostics for medical imaging workflows, enabling node listing, C-ECHO operations, and configuration management.

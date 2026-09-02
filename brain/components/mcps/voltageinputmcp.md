@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:42:11Z"
 ---
 ## What it is
 Enables a frontier model to drive a desktop at input speed by delegating rapid sequences of keyboard and mouse actions to small local models running via a state-machine playbook, without per-action round-trips.

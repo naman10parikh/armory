@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:29:21Z"
 ---
 ## What it is
 Exposes 36 skills covering 137 AI jobs across 7 departments, enabling AI workforce deployment and management through any MCP client.

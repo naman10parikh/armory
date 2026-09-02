@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T12:16:12Z"
 ---
 ## What it is
 A local MCP server for evidence-safe academic citation workflows, including verified-reference retrieval, Zotero duplicate detection and import, and Word export via Pandoc with zotero.lua.

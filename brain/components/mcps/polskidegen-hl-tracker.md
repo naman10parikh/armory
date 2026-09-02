@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T12:32:46Z"
 ---
 ## What it is
 MCP server for Hyperliquid that provides read-only on-chain wallet analytics. Enables natural-language queries about positions, fills, funding, and realized PnL for any public address.

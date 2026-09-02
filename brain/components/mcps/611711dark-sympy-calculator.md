@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-20T03:38:22Z"
 ---
 ## What it is
 MCP server `SymPy Calculator`, catalogued on PulseMCP. Provides symbolic mathematics capabilities through a Python-based server that leverages SymPy for complex calculations, equation solving, and mathematical manipulation.

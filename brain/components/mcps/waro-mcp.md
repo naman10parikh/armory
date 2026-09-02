@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:29:54Z"
 ---
 ## What it is
 Enables LLMs to interact with Waro Colombia's API, providing tools for sales, customers, menu, and analytics data.

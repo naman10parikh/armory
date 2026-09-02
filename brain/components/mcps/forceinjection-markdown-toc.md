@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-09T11:31:31Z"
 ---
 ## What it is
 MCP server `Markdown TOC`, catalogued on PulseMCP. Parses markdown documents to extract heading structures and generate formatted table of contents with support for various markdown heading formats.

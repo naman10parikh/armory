@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-11T12:50:40Z"
 ---
 ## What it is
 MCP server `VibeSpace Ternary`, catalogued on PulseMCP. Enables real-time streaming of contextual information through NATS with ternary data representation, featuring configurable privacy controls and JSON-RPC methods for collaborative virtual environments.

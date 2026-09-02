@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:59:08Z"
 ---
 ## What it is
 MCP server `Regulations.gov`, catalogued on PulseMCP. Regulations.gov federal regulatory dockets, public comments, and agency documents via the Pipeworx gateway.

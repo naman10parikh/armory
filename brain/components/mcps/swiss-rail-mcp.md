@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T00:37:57Z"
 ---
 ## What it is
 A zero-authentication MCP server for Swiss public transport, enabling users to query train connections, disruptions, station facilities, and plan journeys using natural language.

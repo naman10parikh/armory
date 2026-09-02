@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:25:25Z"
 ---
 ## What it is
 A demo MCP server that exposes stock-quote tools to LLMs via FastMCP over streamable HTTP. It can be deployed to AWS ECS and integrated with ChatGPT as a custom connector.

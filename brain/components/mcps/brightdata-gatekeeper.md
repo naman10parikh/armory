@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:19:41Z"
 ---
 ## What it is
 Enables agents to drive an evidence-based approval loop for Bright Data scraper repairs, detecting breakage, generating heal prompts, and verifying fixes against golden rows before commit.

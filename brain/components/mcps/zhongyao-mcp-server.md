@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-07-03T12:39:04Z"
 ---
 ## What it is
 Enables generating short videos for Chinese herbs with information, images, voiceovers, and video synthesis using Volcano Engine's Doubao models.

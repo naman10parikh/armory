@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T21:00:34Z"
 ---
 ## What it is
 Enables document parsing into structured, confidence-scored fields via the scan tool, working with any MCP host like Claude Desktop or Cursor.

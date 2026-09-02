@@ -8,10 +8,12 @@ source_url: https://github.com/sbmagar13/hashnode-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-05-19T07:12:54Z"
 ---
 ## What it is
 MCP server `Hashnode`, catalogued on PulseMCP. Create, update, and search Hashnode articles directly through Claude or other MCP clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T01:32:39Z"
 ---
 ## What it is
 Synchronizes multiple Gmail and Google Workspace accounts into a local SQLite database and exposes search and mailbox operations through a stdio MCP interface.

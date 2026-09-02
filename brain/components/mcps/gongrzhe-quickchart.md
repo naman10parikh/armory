@@ -8,10 +8,12 @@ source_url: https://github.com/gongrzhe/quickchart-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 161
+stars: 159
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 43
+pushed_at: "2025-05-13T05:18:18Z"
 ---
 ## What it is
 MCP server `QuickChart`, catalogued on PulseMCP. Integrates with QuickChart to enable dynamic generation of charts and graphs for data visualization tasks.

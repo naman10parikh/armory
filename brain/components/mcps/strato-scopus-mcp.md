@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-27T17:26:12Z"
 ---
 ## What it is
 Connects Scopus to AI assistants for literature discovery. Provides tools for finding papers, experts, citation networks, and analyzing research trends.

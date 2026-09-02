@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-12-06T18:36:47Z"
 ---
 ## What it is
 MCP server `Vercel AI`, catalogued on PulseMCP. Integrates OpenAI and Mistral models for versatile language tasks via the Vercel AI SDK.

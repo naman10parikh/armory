@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:42:23Z"
 ---
 ## What it is
 Provides access to Lightning FM's music catalog, allowing agents to search tracks, look up artists, and check the currently playing track and stream URL via public Nostr and Blossom infrastructure.

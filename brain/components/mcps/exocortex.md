@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-05T17:58:46Z"
 ---
 ## What it is
 Personal unified memory system for AI coding agents, providing persistent memory with hybrid RAG retrieval via MCP integration, allowing agents to store, search, and manage memories locally.

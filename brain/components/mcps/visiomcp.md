@@ -8,11 +8,13 @@ source_url: https://github.com/omerbelsayed/visio-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T10:37:36Z"
 ---
 ## What it is
 Connects Claude to Microsoft Visio to generate enterprise architecture diagrams from natural language or structured inventory data, supporting multiple diagram types and export formats.

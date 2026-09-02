@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
-stars: 138
+stars: 139
+forks: 15
+pushed_at: "2026-03-15T03:37:28Z"
 ---
 ## What it is
 AI council server: query CLI agents (Claude Code, Codex, Gemini, and OpenCode) in parallel with deliberation rounds

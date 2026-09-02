@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T19:01:48Z"
 ---
 ## What it is
 Enables AI agents to interact with a Stable Diffusion REST API for image generation, inpainting, model management, and merging.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T20:54:14Z"
 ---
 ## What it is
 Provides real Bitcoin full node data via 17 tools, with pay-per-call in USDC on Base mainnet. Free tools include blockchain info, fees, and mempool; paid tools enable transaction tracking, address analysis, and more.

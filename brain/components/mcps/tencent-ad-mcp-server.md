@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T01:07:42Z"
 ---
 ## What it is
 Wraps all Tencent Ads Marketing API v3.0 endpoints as MCP tools, enabling AI assistants to directly manage ads, creatives, reports, and more via natural language.

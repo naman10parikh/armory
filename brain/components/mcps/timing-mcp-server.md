@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-11T08:24:10Z"
 ---
 ## What it is
 This MCP server enables AI assistants to interact with the Timing application for managing time tracking and tasks, including project and time entry operations.

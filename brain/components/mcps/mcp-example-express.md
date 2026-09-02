@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T20:33:07Z"
 ---
 ## What it is
 A basic example of a Model Context Protocol (MCP) server deployed as a Netlify Function, demonstrating how to serve MCP endpoints over HTTP.

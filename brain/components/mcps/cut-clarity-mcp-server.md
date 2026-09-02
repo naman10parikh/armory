@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T16:31:47Z"
 ---
 ## What it is
 Read-only MCP server exposing Microsoft Clarity analytics data as tools for ChatGPT Agent Builder.

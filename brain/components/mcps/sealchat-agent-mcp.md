@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:13:45Z"
 ---
 ## What it is
 Read-only MCP server that provides tools to fetch SealChat public protocol docs, manifest, channel counts, and chat messages via the HTTP Agent API, without write access or database access.

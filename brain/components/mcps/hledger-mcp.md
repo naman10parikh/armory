@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-17T20:35:46Z"
 ---
 ## What it is
 MCP server for hledger that provides tools for financial reports, transaction management, and account management.

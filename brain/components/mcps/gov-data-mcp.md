@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T20:02:48Z"
 ---
 ## What it is
 MCP server with 562 tools accessing 114 government data APIs covering economic, health, education, energy, and more from federal, state, and international sources.

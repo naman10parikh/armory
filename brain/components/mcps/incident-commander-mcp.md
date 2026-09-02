@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T10:43:13Z"
 ---
 ## What it is
 AI-powered incident management MCP server that enables investigation, root cause analysis, and response actions for production incidents using mocked data for demo purposes.

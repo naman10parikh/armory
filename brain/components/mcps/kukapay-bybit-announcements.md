@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-16T01:49:46Z"
 ---
 ## What it is
 MCP server `Bybit Announcements`, catalogued on PulseMCP. Integrates with Bybit's public announcements API to retrieve cryptocurrency exchange announcements with filtering by locale, type, and tag, supporting pagination and markdown formatting for monitoring new listings, trading updates, and platform changes.

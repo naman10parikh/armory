@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-02-24T14:55:00Z"
 ---
 ## What it is
 MCP server `Serverman (Server Manager)`, catalogued on PulseMCP. Server that manages Claude's configuration for other MCP servers.

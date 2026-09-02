@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T22:07:32Z"
 ---
 ## What it is
 An MCP server that decodes V8 CPU profiles into token-efficient bottleneck summaries for AI agents, enabling them to analyze CPU consumption, call trees, GC pressure, and async bottlenecks.

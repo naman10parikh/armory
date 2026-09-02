@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T00:29:38Z"
 ---
 ## What it is
 Provides a stateful local Spark session for running PySpark and SQL cells, enabling local data exploration before deploying to Microsoft Fabric.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-02T21:35:45Z"
 ---
 ## What it is
 Enables exploring and querying SQLite databases through natural language, with tools to list tables, describe table structures, and run SELECT queries.

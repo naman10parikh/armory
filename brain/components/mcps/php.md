@@ -8,11 +8,13 @@ source_url: https://github.com/php-mcp/server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 842
+stars: 865
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 1
+forks: 66
+pushed_at: "2025-08-09T21:46:22Z"
 ---
 ## What it is
 MCP server `PHP MCP`, catalogued on PulseMCP. PHP implementation that enables PHP applications to expose methods as tools, prompts, and resources through attribute-based annotations with support for multiple transport handlers.

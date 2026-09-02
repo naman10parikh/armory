@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:46:34Z"
 ---
 ## What it is
 MCP server for the Carbon Interface API (v1), enabling AI agents to estimate carbon emissions through natural language queries via Pipeworx gateway.

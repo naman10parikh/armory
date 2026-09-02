@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T05:46:37Z"
 ---
 ## What it is
 Enables MCP clients to interact with over 31 blockchain chains through the MoltNode RPC gateway, providing tools for chain listing, RPC calls, block numbers, and native balance queries without API keys or setup.

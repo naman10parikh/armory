@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2025-04-02T20:28:41Z"
 ---
 ## What it is
 Enables AI assistants to interact with Targetprocess for search, create, update, and query of entities like User Stories and Bugs, with support for complex filters and data model discovery.

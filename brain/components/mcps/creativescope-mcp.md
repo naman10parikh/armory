@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T09:16:25Z"
 ---
 ## What it is
 Mobile-game ad creative intelligence for MCP-enabled agents, providing live access to creative search, rankings, advertiser profiles, and AI analysis from public ad placements across major SDK ad networks.

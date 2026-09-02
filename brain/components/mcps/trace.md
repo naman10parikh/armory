@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T10:35:50Z"
 ---
 ## What it is
 An MCP server that transforms Claude into an honest CV co-pilot, mechanically verifying all claims against your actual experience through a structured truth base.

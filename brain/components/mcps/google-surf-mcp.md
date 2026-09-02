@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T10:52:25Z"
 ---
 ## What it is
 Provides Google search, URL extraction, and academic paper inline extraction without API keys, enabling search and content retrieval from a single MCP server.

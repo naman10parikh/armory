@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-16T15:28:50Z"
 ---
 ## What it is
 Enables persistent memory for AI agents, combining episodic and semantic memory with LLM reasoning, accessible via MCP.

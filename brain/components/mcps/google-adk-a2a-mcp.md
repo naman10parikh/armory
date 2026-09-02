@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, multiagent-systems]
+forks: 0
+pushed_at: "2025-05-01T03:43:39Z"
 ---
 ## What it is
 Integration of Google ADK with A2A and MCP

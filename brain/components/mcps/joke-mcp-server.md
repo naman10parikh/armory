@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:55:04Z"
 ---
 ## What it is
 Provides random joke generation and joke counting as MCP tools for seamless integration with AI assistants and other compatible clients.

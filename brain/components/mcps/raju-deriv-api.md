@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-07T09:21:29Z"
 ---
 ## What it is
 MCP server `Deriv`, catalogued on PulseMCP. Integrates with Deriv API to enable trading operations like retrieving symbols and balances for automated trading systems and market analysis tools.

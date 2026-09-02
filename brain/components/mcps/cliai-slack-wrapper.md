@@ -8,10 +8,12 @@ source_url: https://github.com/cliai/slack-cli-mcp-wrapper
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-24T15:01:42Z"
 ---
 ## What it is
 MCP server `Slack CLI Wrapper`, catalogued on PulseMCP. Docker-wrapped CLI tool that provides token-efficient access to Slack workspaces through structured JSON output and multiple authentication methods.

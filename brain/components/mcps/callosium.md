@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T12:12:56Z"
 ---
 ## What it is
 One shared memory for every AI you use, in plain Markdown files you own. Teach one AI something and the rest know it, with per-AI folder permissions so each assistant only sees what you allow.

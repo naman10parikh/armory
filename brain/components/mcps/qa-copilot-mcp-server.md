@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:48:39Z"
 ---
 ## What it is
 Enables AI assistants to summarize Playwright test runs, identify flaky tests, heuristically triage failures, generate Playwright test stubs, and retrieve recent GitHub CI status through MCP tool calls.

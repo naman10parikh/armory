@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 34
+pushed_at: "2026-08-17T21:02:56Z"
 ---
 ## What it is
 Enables AI assistants to interact with Metabase's analytics platform, managing dashboards, cards, databases, and tables via the Model Context Protocol.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-24T08:17:05Z"
 ---
 ## What it is
 MCP server `AWS CLI`, catalogued on PulseMCP. Bridges AWS CLI with natural language interaction, enabling direct execution of AWS commands for resource management without leaving your conversation interface.

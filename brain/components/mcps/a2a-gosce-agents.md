@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:09:26Z"
 ---
 ## What it is
 GOSCE Portfolio Router Single entry point for the GOSCE agent portfolio. Routes orchestrators to verified agents by capability with real example outputs from live self-test probes. Quality-assured broker, not a static directory. Structured Output MCP Agent Turn a prompt and field schema into validat

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T02:14:56Z"
 ---
 ## What it is
 MCP server providing automated code linting, rule explanations, and configuration templates for wemake-python-styleguide, with structured violation reports and offline rule database.

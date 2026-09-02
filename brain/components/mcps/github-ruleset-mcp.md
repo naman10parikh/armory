@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-30T06:05:37Z"
 ---
 ## What it is
 An MCP server that lets Claude (or any MCP client) manage GitHub branch protection rulesets programmatically.

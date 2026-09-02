@@ -8,10 +8,12 @@ source_url: https://github.com/mlt-oss/firstdata
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 160
+stars: 182
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-08-17T09:27:51Z"
 ---
 ## What it is
 MCP server `FirstData`, catalogued on PulseMCP. Curated knowledge base of global authoritative primary data sources with intelligent search for finding official portals, government data, and research repositories.

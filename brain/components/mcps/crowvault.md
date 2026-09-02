@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-05T19:26:33Z"
 ---
 ## What it is
 MCP server `CrowVault`, catalogued on PulseMCP. 327 developer tools via MCP for generating Dockerfiles, schemas, Kubernetes configs, APIs, and more.

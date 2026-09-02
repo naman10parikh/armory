@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-11T00:00:42Z"
 ---
 ## What it is
 MCP server `Docker Sandbox`, catalogued on PulseMCP. Creates isolated Docker environments for executing code in multiple languages, with persistent containers and Dockerfile generation for reproducible setups.

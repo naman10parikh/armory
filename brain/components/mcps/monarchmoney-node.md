@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T00:40:11Z"
 ---
 ## What it is
 MCP server providing 30 tools to access and manage Monarch Money financial data, including accounts, transactions, budgets, and more, enabling AI assistants to interact with personal finances.

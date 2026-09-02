@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-07T05:58:21Z"
 ---
 ## What it is
 MCP server `Message Notifications`, catalogued on PulseMCP. Provides multi-channel notification capabilities through desktop notifications, email via SMTP, and HTTP API endpoints with a single tool that simultaneously delivers alerts across all configured channels.

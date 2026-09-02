@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T01:15:14Z"
 ---
 ## What it is
 A minimal MCP server that provides a DuckDuckGo search tool with configurable region, time limit, and safe search options.

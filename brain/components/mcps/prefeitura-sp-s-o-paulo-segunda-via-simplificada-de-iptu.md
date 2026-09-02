@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:20Z"
 ---
 ## What it is
 Provides a read-only tool to fetch the simplified second copy of IPTU (property tax) from the official São Paulo city hall source, working with any MCP client.

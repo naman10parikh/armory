@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:41:22Z"
 ---
 ## What it is
 Read-only MCP server exposing Desktop Mate directory listings, official links, and FAQ to AI clients like Claude Desktop.

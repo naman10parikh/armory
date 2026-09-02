@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T06:59:01Z"
 ---
 ## What it is
 MCP server that serves fresh, attributed facts from a Coalent semantic cache, automatically invalidating when underlying sources change, for use with Claude Code, Cursor, and other MCP clients.

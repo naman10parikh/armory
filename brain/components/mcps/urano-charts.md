@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T01:04:05Z"
 ---
 ## What it is
 Provides advanced charting widgets (uPlot time series, ECharts box plots and parallel coordinates) for Urano Desktop/Cloud via MCP tools that build uiSpec JSON for rendering.

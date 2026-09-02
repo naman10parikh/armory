@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T05:29:35Z"
 ---
 ## What it is
 Enables weather-based travel advisory generation using wttr.in API, including tools to fetch forecasts, calculate travel risk, and produce structured advisory reports.

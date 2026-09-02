@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T08:52:33Z"
 ---
 ## What it is
 Enables searching and reading Android Open Source Project (AOSP) source code via cs.android.com, with support for regex search, file content retrieval, and symbol suggestions.

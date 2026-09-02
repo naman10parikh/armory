@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:22:52Z"
 ---
 ## What it is
 Exposes an OpenAI- and Anthropic-compatible HTTP, SSE, and stdio gateway that wraps multiple subscription CLIs, adding prompt-injection defense, PII redaction, cost-aware routing, and reasoning-trace capture for MCP-compatible clients like Claude Desktop and Cursor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-18T10:59:34Z"
 ---
 ## What it is
 Provides a comprehensive creative thinking tool with methods like structured process, perspective shift, and constraint-based innovation to enhance divergent thinking.

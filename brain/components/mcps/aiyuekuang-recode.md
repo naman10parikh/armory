@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-28T12:13:38Z"
 ---
 ## What it is
 MCP server `ReCode`, catalogued on PulseMCP. Integrates with the ReCode VS Code extension to provide access to code history and change tracking data, enabling analysis of coding patterns, debugging assistance based on historical changes, and contextual code recommendations by leveraging temporal development data.

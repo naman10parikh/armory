@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T20:30:59Z"
 ---
 ## What it is
 MCP server for calculating profitable food combos from delivery chains in Voronezh. Provides menu parsing, best combo selection, price comparison, and health checks across multiple restaurant networks.

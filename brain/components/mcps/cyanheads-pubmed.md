@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/pubmed-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 98
+stars: 142
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-08-21T22:54:23Z"
 ---
 ## What it is
 MCP server `PubMed`, catalogued on PulseMCP. Enables AI systems to search, retrieve, and analyze biomedical literature from PubMed for evidence-based research, citation generation, and data visualization

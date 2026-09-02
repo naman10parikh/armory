@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T05:48:10Z"
 ---
 ## What it is
 Read-only MCP server for investigating AWS ECS deployment and runtime issues, focusing on ECS Fargate services behind an Application Load Balancer.

@@ -8,10 +8,12 @@ source_url: https://github.com/terilios/smartsheet-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-13T16:23:35Z"
 ---
 ## What it is
 MCP server `Smartsheet for Healthcare`, catalogued on PulseMCP. Integrates Smartsheet for healthcare analytics, enabling efficient data management and analysis in clinical research and hospital operations.

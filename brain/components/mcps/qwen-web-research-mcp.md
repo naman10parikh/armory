@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:37:18Z"
 ---
 ## What it is
 MCP server that fetches web pages and uses local Qwen models to answer questions about their content, with site-scoped search and map-reduce chunking for long pages.

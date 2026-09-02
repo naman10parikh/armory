@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T23:32:19Z"
 ---
 ## What it is
 Maango is the pre-flight check for AI agents on the web. Before an agent scrapes, summarises, trains on, or searches a site, it calls Maango and gets back whether the action is allowed for that domain, along with the reason and the policy signals that decided it.

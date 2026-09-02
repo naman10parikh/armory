@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T10:20:38Z"
 ---
 ## What it is
 MCP server `TOP GUN GEO-Lens`, catalogued on PulseMCP. Audits brand visibility across AI-powered search engines and LLM-indexed sources for Generative Engine Optimization.

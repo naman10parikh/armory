@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T17:29:27Z"
 ---
 ## What it is
 MCP server for converting between everyday file formats (CSV, Excel, Markdown, Word), including a GxP-compliant Markdown to Word template. Exposes four conversion tools over stdio.

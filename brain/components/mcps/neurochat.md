@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:50:02Z"
 ---
 ## What it is
 Enables natural language querying of brain volumes (NIfTI) with a fixed set of tools, returning visualizations and reproducible nilearn code.

@@ -8,10 +8,12 @@ source_url: https://github.com/gongrzhe/office-word-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1988
+stars: 2106
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 284
+pushed_at: "2025-12-31T13:23:05Z"
 ---
 ## What it is
 MCP server `Office Word`, catalogued on PulseMCP. Provides a bridge to Microsoft Word for creating and modifying documents with features like text formatting, table manipulation, image scaling, and style management

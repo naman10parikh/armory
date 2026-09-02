@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-01-17T15:39:48Z"
 ---
 ## What it is
 Enables AI assistants to access and analyze Coros watch data including activities, fitness metrics, training zones, and more through unofficial Coros API endpoints.

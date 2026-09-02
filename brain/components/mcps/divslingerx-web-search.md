@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-20T18:03:08Z"
 ---
 ## What it is
 MCP server `Web Search`, catalogued on PulseMCP. Integrates with Google Search using Puppeteer to enable web searches and extract structured results for real-time information retrieval and fact-checking.

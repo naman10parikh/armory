@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:59:56Z"
 ---
 ## What it is
 Enables ChatGPT users to create and manage Circle developer-controlled wallets on Arc Testnet, check USDC balances, estimate and send USDC using Circle App Kit, and view transaction history.

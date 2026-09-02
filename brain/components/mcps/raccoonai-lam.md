@@ -8,10 +8,12 @@ source_url: https://github.com/raccoonaihq/raccoonai-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-13T10:40:07Z"
 ---
 ## What it is
 MCP server `Raccoon AI (LAM API)`, catalogued on PulseMCP. Enables web browsing, data extraction, and task automation through Raccoon's LAM API, allowing users to search websites, fill forms, navigate UI elements, and extract structured data based on defined schemas.

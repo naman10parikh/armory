@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:44:26Z"
 ---
 ## What it is
 Enables interaction with the HMS O2 cluster via SSH, allowing job submission, remote command execution, file transfers, and disk management while minimizing Duo authentication prompts.

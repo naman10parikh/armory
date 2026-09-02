@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-08T05:36:46Z"
 ---
 ## What it is
 Enables AI agents to perform image processing tasks such as sprite sheet splitting, resizing, cropping, and batch operations on local images.

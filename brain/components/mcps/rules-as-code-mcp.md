@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T02:47:00Z"
 ---
 ## What it is
 Deterministic SNAP eligibility logic, exposed as auditable Model Context Protocol tools. An AI agent can read, reason, and orchestrate, but the eligibility determination itself is made by versioned, tested, cited code that a caseworker, an auditor, or a court can inspect.

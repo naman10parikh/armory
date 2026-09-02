@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T17:36:02Z"
 ---
 ## What it is
 MCP server for jar.tools' JAR security scanner. Enables AI agents to scan local .jar, .zip, or .class files for supply-chain risk without opening a browser.

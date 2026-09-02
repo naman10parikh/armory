@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T20:40:50Z"
 ---
 ## What it is
 One safe MCP doorway into every Publer workspace you manage. It provides workspace-aware social scheduling tools with preview and explicit approval workflows for teams managing multiple brands or clients.

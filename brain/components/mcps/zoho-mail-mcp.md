@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T05:34:32Z"
 ---
 ## What it is
 Enables AI assistants to read, search, send, and reply to Zoho Mail via IMAP/SMTP using an application-specific password.

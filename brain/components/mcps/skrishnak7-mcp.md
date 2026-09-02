@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-06T06:18:45Z"
 ---
 ## What it is
 MCP server for flight schedule finding via Skyscanner API. Enables querying flight quotes and schedules using natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/pancakeswap-poolspy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-05-07T17:24:42Z"
 ---
 ## What it is
 MCP server `PancakeSwap PoolSpy`, catalogued on PulseMCP. Tracks newly created PancakeSwap liquidity pools in real-time, providing detailed metrics like token pairs, transaction counts, volume, and TVL for DeFi traders and analysts on BNB Smart Chain.

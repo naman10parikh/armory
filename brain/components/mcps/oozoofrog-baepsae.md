@@ -8,10 +8,12 @@ source_url: https://github.com/oozoofrog/mcp-baepsae
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-31T22:49:05Z"
 ---
 ## What it is
 MCP server `Baepsae`, catalogued on PulseMCP. Automates iOS Simulator and macOS app interactions through TypeScript tools and native Swift integration, enabling UI element discovery, gesture execution, screenshot capture, and accessibility-based testing workflows.

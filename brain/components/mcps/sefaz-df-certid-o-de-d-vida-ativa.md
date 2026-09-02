@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:06Z"
 ---
 ## What it is
 Enables querying official tax debt certificates (Certidão de Dívida Ativa) from SEFAZ DF (Federal District Revenue) via a read-only MCP tool. Supports use with any MCP client over HTTP, with prepaid credits.

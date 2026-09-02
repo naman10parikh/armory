@@ -8,11 +8,13 @@ source_url: https://github.com/microsoft/EnterpriseMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 48
+stars: 52
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-06-04T23:33:45Z"
 ---
 ## What it is
 Enables AI agents to query Microsoft Entra data using natural language, converting requests into Microsoft Graph API calls for read-only enterprise IT scenarios.

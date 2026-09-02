@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-16T15:37:55Z"
 ---
 ## What it is
 MCP server `Chain-of-Recursive-Thoughts`, catalogued on PulseMCP. Implements Chain-of-Recursive-Thoughts methodology that enhances reasoning by making models argue with themselves across multiple rounds, using multi-LLM inference for deeper problem-solving.

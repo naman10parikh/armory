@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T23:48:45Z"
 ---
 ## What it is
 Enables Claude Code to use Alibaba Cloud Token Plan models via a local proxy that maps Anthropic-style model names to Alibaba IDs and provides missing endpoints like model discovery.

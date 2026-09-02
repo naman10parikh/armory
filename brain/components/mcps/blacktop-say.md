@@ -8,10 +8,12 @@ source_url: https://github.com/blacktop/mcp-tts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 59
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-08-31T20:53:23Z"
 ---
 ## What it is
 MCP server `Say (Text-to-Speech)`, catalogued on PulseMCP. Provides text-to-speech capabilities through both native system voices and ElevenLabs integration, enabling vocalization of responses without leaving the conversation interface.

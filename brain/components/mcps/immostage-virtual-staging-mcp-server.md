@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-05T08:37:39Z"
 ---
 ## What it is
 AI-powered virtual staging for real estate professionals: stage empty rooms with photorealistic furniture, beautify floor plans into 3D renders, classify rooms, generate German property descriptions, and get style recommendations.

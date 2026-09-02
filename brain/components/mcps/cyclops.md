@@ -12,6 +12,8 @@ stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-06-25T13:16:39Z"
 ---
 ## What it is
 MCP server `Cyclops`, catalogued on PulseMCP. Provides safe Kubernetes application management through template-based deployments using the Cyclops framework, enabling creation and updates of applications via validated Helm, Git, and OCI templates without direct cluster manipulation.

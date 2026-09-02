@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:31:43Z"
 ---
 ## What it is
 Enables auditing or configuring a registered Linux origin as a single Cloudflare-fronted 3x-ui/Xray WebSocket node through a fixed 31-tool MCP contract.

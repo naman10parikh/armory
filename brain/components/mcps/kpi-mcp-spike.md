@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T10:12:18Z"
 ---
 ## What it is
 Minimal MCP server that exposes a ping tool for Copilot Studio connectivity testing.

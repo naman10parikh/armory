@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T16:42:05Z"
 ---
 ## What it is
 MCP server that exposes Redtail CRM's TWAPI as tools, enabling CRM operations like contacts, activities, and onboarding via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T11:43:17Z"
 ---
 ## What it is
 CLI + MCP server that bootstraps persistent project context for any AI agent, storing structured information using hierarchical dot notation and exposing it via MCP tools for session-over-session knowledge growth.

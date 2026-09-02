@@ -8,10 +8,12 @@ source_url: https://github.com/shubham-s-pandey/wiresharkmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-31T15:45:08Z"
 ---
 ## What it is
 MCP server `Wireshark`, catalogued on PulseMCP. Integrates with Wireshark for natural language-driven network traffic analysis, enabling packet dissection, interface discovery, and connectivity troubleshooting through a Python bridge and Lua extension.

@@ -8,10 +8,12 @@ source_url: https://github.com/alan-thegentleman/gentleman-book-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 84
+stars: 135
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2025-12-29T21:45:20Z"
 ---
 ## What it is
 MCP server `Gentleman Programming Book`, catalogued on PulseMCP. Conversational access to technical content on software architecture and clean code principles

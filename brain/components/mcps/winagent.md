@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T02:12:19Z"
 ---
 ## What it is
 Enables MCP-compatible AI platforms to see the screen and operate any desktop software through real mouse clicks, text input, key presses, and scripted scenario execution.

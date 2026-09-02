@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T02:43:52Z"
 ---
 ## What it is
 Local credential broker that enables AI agents to securely run CLI tools like SSH and MySQL without exposing passwords to the AI context, environment variables, or process listings.

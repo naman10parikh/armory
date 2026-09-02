@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-26T02:01:17Z"
 ---
 ## What it is
 MCP server `Star Wars Planet Data (Couchbase)`, catalogued on PulseMCP. Integrates Couchbase vector search for semantic similarity queries on Star Wars planet data.

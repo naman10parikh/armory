@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T07:28:27Z"
 ---
 ## What it is
 Exposes identity, tools, workflows, guardrails, and evaluation as MCP tools — so any AI agent can read and write your ecosystem programmatically.

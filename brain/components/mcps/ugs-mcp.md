@@ -8,11 +8,13 @@ source_url: https://github.com/zackpeters93/ugs-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-12T17:36:29Z"
 ---
 ## What it is
 MCP server for controlling CNC machines via Universal GCode Sender. Lets Claude (or any MCP-compatible AI assistant) connect to a CNC machine, inspect G-code, and issue motion commands — all through the UGS Pendant REST API.

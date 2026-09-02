@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-08T12:15:49Z"
 ---
 ## What it is
 Enables sending emails (including mass emailing), querying, updating, and canceling delayed emails via the Resend API.

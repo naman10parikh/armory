@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-05T20:56:09Z"
 ---
 ## What it is
 MCP server for HolmesGPT that provides runbook search, gap detection, AI-assisted drafting, and root cause analysis by integrating with Confluence and Git providers.

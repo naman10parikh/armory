@@ -8,10 +8,12 @@ source_url: https://github.com/crystaldba/postgres-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2798
+stars: 3245
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 373
+pushed_at: "2026-08-17T05:06:35Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. Helps you and your AI agents throughout the entire development process—from writing SQL to tuning performance safely.

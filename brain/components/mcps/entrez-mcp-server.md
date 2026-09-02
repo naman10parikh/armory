@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-30T10:25:55Z"
 ---
 ## What it is
 Provides access to NCBI's E-utilities, PubChem, and PMC APIs for searching and retrieving biomedical literature, chemical, and genomic data.

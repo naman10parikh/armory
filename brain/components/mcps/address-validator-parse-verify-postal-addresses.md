@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/address-validator-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5180
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:32:42Z"
 ---
 ## What it is
 Postal address validation API for AI agents. Parse and validate addresses worldwide: country detection, component extraction (street, city, state, postal code), postal code format verification. Supports US, UK, FR, DE, and 50+ countries. Tools: address_validate. Use this for KYC compliance, shipping

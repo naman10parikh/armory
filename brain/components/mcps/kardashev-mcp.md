@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T12:01:41Z"
 ---
 ## What it is
 MCP server for Kardashev Labs US grid data, giving agents live LMP, carbon intensity, load, curtailment, interconnection queues, ERCOT large loads, and the public RT-DA spread forecast track record. Requires no API key.

@@ -8,10 +8,12 @@ source_url: https://github.com/subugoe/orion-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T13:15:24Z"
 ---
 ## What it is
 MCP server `ORION-DBs`, catalogued on PulseMCP. Explore open research datasets from OpenAlex, Crossref, ORCID, and DataCite on Google BigQuery.

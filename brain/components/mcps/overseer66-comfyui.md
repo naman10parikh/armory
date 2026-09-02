@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-11-04T02:06:24Z"
 ---
 ## What it is
 MCP server `ComfyUI`, catalogued on PulseMCP. Provides a bridge between AI systems and ComfyUI's image generation capabilities, enabling text-to-image creation with customizable parameters through WebSocket communication.

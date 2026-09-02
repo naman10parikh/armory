@@ -8,10 +8,12 @@ source_url: https://github.com/maplehilllabs/mcp-slack-lists
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-27T17:51:35Z"
 ---
 ## What it is
 MCP server `Slack Lists`, catalogued on PulseMCP. Integrates with Slack Lists to enable creation, retrieval, filtering, and management of list items with support for bulk operations, data export to JSON/CSV formats, and all Slack List field types including text, date, user, select, and checkbox fields.

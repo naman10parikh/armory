@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T07:14:30Z"
 ---
 ## What it is
 A read-only MCP server for auditing Trafft booking data with tools to list services, employees, appointments, and customers without mutation endpoints.

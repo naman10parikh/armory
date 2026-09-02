@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T10:33:36Z"
 ---
 ## What it is
 A task-management MCP server that enforces strict gates on task states, WIP limits, and closing reasons, refusing operations that would leave the list ambiguous or rotting.

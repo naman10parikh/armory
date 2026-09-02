@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T21:50:30Z"
 ---
 ## What it is
 Enables scraping single pages or crawling entire websites, converting content to markdown and optionally extracting structured data with Claude.

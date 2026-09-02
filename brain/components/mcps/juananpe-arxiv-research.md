@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-12T14:46:01Z"
 ---
 ## What it is
 MCP server `arXiv Research`, catalogued on PulseMCP. Integrates with arXiv API to provide academic paper discovery, metadata extraction, and topic-based organization with automatic JSON storage for literature reviews and research workflows.

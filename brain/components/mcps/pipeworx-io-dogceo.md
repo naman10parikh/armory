@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:01:20Z"
 ---
 ## What it is
 MCP server `Dog CEO`, catalogued on PulseMCP. Fetch random dog images and browse breeds using the Dog CEO API.

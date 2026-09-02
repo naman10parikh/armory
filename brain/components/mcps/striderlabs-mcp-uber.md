@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T04:04:26Z"
 ---
 ## What it is
 MCP server connector for Uber ride-sharing, enabling ride requests, fare estimates, and trip tracking via browser automation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T09:01:18Z"
 ---
 ## What it is
 A read-only MCP server for LinkedIn Ads that enables users to query ad accounts, campaigns, creatives, insights, and company intelligence via natural language.

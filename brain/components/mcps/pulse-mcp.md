@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T09:25:42Z"
 ---
 ## What it is
 Free MCP server for fetching social media metrics (views, likes, comments) from public post URLs across YouTube, Twitter, TikTok, and Instagram. No API key needed.

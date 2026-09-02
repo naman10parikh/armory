@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:19:33Z"
 ---
 ## What it is
 Enables AI agents to interact with the Txtcel Solana program for creating channels, posting and reading messages, and managing on-chain operations via a configured agent wallet.

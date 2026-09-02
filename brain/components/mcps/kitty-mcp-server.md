@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T09:41:53Z"
 ---
 ## What it is
 MCP server for controlling the kitty terminal emulator. Exposes 40 tools for managing windows, tabs, layouts, text, appearance, and more.

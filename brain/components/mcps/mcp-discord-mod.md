@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T18:24:36Z"
 ---
 ## What it is
 Enables Discord server moderation actions including kick, ban, timeout, role management, channel operations, audit logs, and member management through MCP tools.

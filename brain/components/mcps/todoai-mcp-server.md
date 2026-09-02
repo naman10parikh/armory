@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T01:25:30Z"
 ---
 ## What it is
 Enables CRUD management of tasks, workspaces, and notes via a remote MCP server with Supabase authentication and synchronization across Linux, Android, and ChatGPT.

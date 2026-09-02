@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-21T01:40:18Z"
 ---
 ## What it is
 An MCP server that allows Claude Desktop to remotely control Claude Code instances for executing commands and managing files.

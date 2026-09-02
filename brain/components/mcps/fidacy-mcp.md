@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T23:36:11Z"
 ---
 ## What it is
 Payment firewall for AI agents: a signed, independently verifiable verdict on every money-moving action. Blocks wrong/lookalike payee, over-cap, and duplicate-invoice (BEC) fraud before money moves — anyone can verify a verdict against the public JWKS. Free, local-first, non-custodial.

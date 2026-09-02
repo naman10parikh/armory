@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-07-28T08:55:51Z"
 ---
 ## What it is
 Transforms a codebase into a queryable knowledge base for code understanding, impact analysis, ownership lookup, and more via CLI, HTTP API, or MCP.

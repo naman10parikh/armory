@@ -8,10 +8,12 @@ source_url: https://github.com/tanevanwifferen/mcp-inception
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-02-25T10:01:12Z"
 ---
 ## What it is
 MCP server `MCP-Inception`, catalogued on PulseMCP. Enables MCP clients communicating with other MCP clients through this MCP server.

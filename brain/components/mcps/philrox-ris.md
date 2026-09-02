@@ -8,10 +8,12 @@ source_url: https://github.com/honeyfield-org/ris-mcp-ts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-07T09:37:26Z"
 ---
 ## What it is
 MCP server `Austrian Legal Information (RIS)`, catalogued on PulseMCP. Searches and retrieves Austrian federal laws, state laws, court decisions, law gazettes, and government bills from the official Rechtsinformationssystem (RIS) Open Government Data API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T18:12:19Z"
 ---
 ## What it is
 Enables AI agents to compose, preview, and apply curated font directions and text edits on live websites, allowing humans to choose the final typography and wording.

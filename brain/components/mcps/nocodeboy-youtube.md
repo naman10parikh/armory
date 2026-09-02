@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-17T01:24:47Z"
 ---
 ## What it is
 MCP server `YouTube`, catalogued on PulseMCP. Integrates with YouTube API to enable video search, channel discovery, and trending content retrieval for content research and analysis workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T19:48:10Z"
 ---
 ## What it is
 Enables AI agents to manage CRM data including companies, contacts, prospects, pipelines, forecasts, and tasks via typed MCP tools, with local SQLite storage and a JSON CLI.

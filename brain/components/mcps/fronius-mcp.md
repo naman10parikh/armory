@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-18T13:31:06Z"
 ---
 ## What it is
 Enables real-time solar data from Fronius inverters via Claude, allowing natural language queries about solar production, battery, and grid exchange.

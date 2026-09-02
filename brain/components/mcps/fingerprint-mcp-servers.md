@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-06T22:36:08Z"
 ---
 ## What it is
 Provides MCP servers for AI assistants to interact with Fingerprint's Server API for visitor identification events and Management API for workspace configuration.

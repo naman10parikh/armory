@@ -8,10 +8,12 @@ source_url: https://github.com/rudra-ravi/mcp-taskmanager
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-01-21T23:14:49Z"
 ---
 ## What it is
 MCP server `TaskManager`, catalogued on PulseMCP. Enables breaking down complex tasks into manageable steps with queue-based planning and execution, maintaining context across conversations through structured task tracking and visual progress monitoring.

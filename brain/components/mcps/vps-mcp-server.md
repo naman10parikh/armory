@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T08:35:56Z"
 ---
 ## What it is
 Enables remote command execution, scripting, file operations, and persistent tmux sessions on a VPS via MCP protocol.

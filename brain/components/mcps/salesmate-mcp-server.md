@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T14:40:23Z"
 ---
 ## What it is
 A production-ready MCP server that exposes the Salesmate CRM to Claude Desktop, enabling search, update, and creation of contacts, deals, tasks, notes, and activities.

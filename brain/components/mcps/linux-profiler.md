@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-18T14:29:10Z"
 ---
 ## What it is
 A comprehensive Linux system performance profiler with MCP remote invocation support, featuring advanced process profiling and flame graph generation.

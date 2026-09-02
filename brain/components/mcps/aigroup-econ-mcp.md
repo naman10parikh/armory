@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-04-17T15:47:39Z"
 ---
 ## What it is
 Econometrics MCP server for regression, causal inference, time series, panel data, machine learning, and broader statistical analysis workflows.

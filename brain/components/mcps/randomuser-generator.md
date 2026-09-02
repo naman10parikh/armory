@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-06T12:43:18Z"
 ---
 ## What it is
 MCP server `RandomUser`, catalogued on PulseMCP. Provides a bridge to the randomuser.me API with enhanced features for generating realistic synthetic user profiles, supporting advanced filtering and customizable output formats for developers needing mock data.

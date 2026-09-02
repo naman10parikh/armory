@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T01:15:04Z"
 ---
 ## What it is
 Enables AI agents to browse menus and place real food delivery orders from UberEats and DoorDash across 89 Canadian cities.

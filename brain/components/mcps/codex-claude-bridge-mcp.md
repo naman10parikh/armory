@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T20:32:28Z"
 ---
 ## What it is
 One local MCP server that lets Codex and Claude Code coordinate through a shared task board and message inbox.

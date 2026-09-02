@@ -8,11 +8,13 @@ source_url: https://github.com/KyuRish/patreon-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T13:42:57Z"
 ---
 ## What it is
 Gives AI assistants read-only access to your Patreon creator data, including campaigns, members, posts, and tiers.

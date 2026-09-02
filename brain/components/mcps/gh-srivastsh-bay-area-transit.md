@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-01T20:37:09Z"
 ---
 ## What it is
 MCP server `Bay Area Transit`, catalogued on PulseMCP. Real-time BART and SF Muni transit data via hosted Cloudflare Workers endpoints.

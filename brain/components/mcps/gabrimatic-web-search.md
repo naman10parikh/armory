@@ -8,10 +8,12 @@ source_url: https://github.com/gabrimatic/mcp-web-search-tool
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-12T20:15:39Z"
 ---
 ## What it is
 MCP server `Web Search (Brave)`, catalogued on PulseMCP. Integrates Brave Search API for real-time web information retrieval, dynamically categorizing queries to proactively fetch current events, weather, sports scores, and time-sensitive data with robust error handling.

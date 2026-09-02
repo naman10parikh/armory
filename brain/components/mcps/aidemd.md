@@ -8,10 +8,12 @@ source_url: https://github.com/aidemd-mcp/server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T01:27:44Z"
 ---
 ## What it is
 MCP server `AIDE`, catalogued on PulseMCP. MCP server for intent-driven development that manages .aide specification files capturing architectural intent alongside code.

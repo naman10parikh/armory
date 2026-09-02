@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:41:04Z"
 ---
 ## What it is
 Provides MCP tools for AWS S3 and S3-compatible storage, enabling file upload, download, listing, deletion, and temporary remote file staging via natural language.

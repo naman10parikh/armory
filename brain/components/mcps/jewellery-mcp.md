@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T06:40:36Z"
 ---
 ## What it is
 MCP server for cross-brand jewellery retail customer data, exposing read-only tools to search customers, view purchase histories, identify cross-brand opportunities, and recommend products for occasions across Austen and Blake, Diamonds Factory, and SACET.

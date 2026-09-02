@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T12:00:36Z"
 ---
 ## What it is
 A security research MCP server for testing tool call safety with deterministic policies like allowlists, path boundary enforcement, SSRF prevention, output redaction, and prompt injection detection, without requiring external LLMs or API keys.

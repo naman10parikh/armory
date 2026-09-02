@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-08T00:13:14Z"
 ---
 ## What it is
 Enables AI assistants to check the Magic Meal Kits server version through a single tool.

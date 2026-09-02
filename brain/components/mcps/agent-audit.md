@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:11:31Z"
 ---
 ## What it is
 Agent Audit runs Lighthouse against any URL and converts the output into structured fix packs your coding agent can execute. Each fix pack includes the failing audit evidence, CSS selectors to locate the issue in your repo, implementation steps, and acceptance criteria to verify the fix. Covers perf

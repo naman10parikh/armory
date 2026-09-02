@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-19T13:34:53Z"
 ---
 ## What it is
 MCP server `Better Notion (AI Aviate)`, catalogued on PulseMCP. Operate Notion with a single Markdown document in one call.

@@ -8,10 +8,12 @@ source_url: https://github.com/hzacode/onecite
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 59
+stars: 65
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-06T09:53:48Z"
 ---
 ## What it is
 MCP server `OneCite`, catalogued on PulseMCP. Generate academic citations from DOI, arXiv, titles, or URLs in BibTeX, APA, MLA formats

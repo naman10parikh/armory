@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 26
+pushed_at: "2025-04-02T04:37:21Z"
 ---
 ## What it is
 Connects Jupyter Notebook to Claude AI for direct notebook control and code execution.

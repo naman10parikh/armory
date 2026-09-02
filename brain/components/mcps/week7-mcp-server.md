@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T04:27:06Z"
 ---
 ## What it is
 Enables MCP-compatible clients to retrieve invoice and purchase order data live over stdio through tools for listing invoices, getting invoice details, and fetching purchase orders.

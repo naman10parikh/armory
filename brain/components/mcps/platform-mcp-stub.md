@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T14:41:06Z"
 ---
 ## What it is
 Demonstrates agent-native platform onboarding with human-in-the-loop API key provisioning, plus live usage and rate-limit queries via Anthropic Admin APIs.

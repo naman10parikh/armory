@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T05:10:19Z"
 ---
 ## What it is
 MCP gateway for GREEN-API WhatsApp that lets AI agents send messages, manage instances, and receive notifications via WhatsApp using the Model Context Protocol.

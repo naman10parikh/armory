@@ -8,10 +8,12 @@ source_url: https://github.com/andreisirbu91-lab/mcpspend
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 104
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-31T20:37:07Z"
 ---
 ## What it is
 MCP server `MCPSpend`, catalogued on PulseMCP. Track MCP tool call costs, latency, and errors across AI agent sessions with budget alerts and attribution.

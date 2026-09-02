@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T09:30:18Z"
 ---
 ## What it is
 A powerful MCP server for Facebook Ads Library that provides 15+ tools for competitive intelligence, creative analysis, and performance prediction, enabling users to search, monitor, and analyze advertising data.

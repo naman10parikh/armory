@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T08:02:38Z"
 ---
 ## What it is
 Enables AI clients to send, read, reply, and search messages on Feishu/Lark as the user's own identity using MCP tools.

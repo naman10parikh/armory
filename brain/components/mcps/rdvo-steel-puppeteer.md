@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-05T06:05:08Z"
 ---
 ## What it is
 MCP server `Steel Puppeteer`, catalogued on PulseMCP. Integrates AI with web browsers through Puppeteer and Steel's automation platform, enabling complex web tasks, data scraping, and workflow automation.

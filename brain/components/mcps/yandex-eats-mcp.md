@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T12:55:17Z"
 ---
 ## What it is
 MCP server for Yandex Eats Vendor Management API, enabling AI agents to manage partner operations like orders, busy mode, menu import, and feedback.

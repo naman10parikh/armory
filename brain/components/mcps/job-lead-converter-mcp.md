@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T06:58:19Z"
 ---
 ## What it is
 Transforms job postings into qualified sales leads by searching for active jobs, enriching company data, and identifying decision-maker contact information.

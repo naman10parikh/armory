@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T23:25:57Z"
 ---
 ## What it is
 An MCP server for Canvas LMS that enables assistants to read course content, create assignments and pages, set due dates, and post announcements via the Canvas REST API.

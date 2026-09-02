@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-29T06:50:50Z"
 ---
 ## What it is
 MCP server `AutoGUI Multinode`, catalogued on PulseMCP. Provides remote desktop automation capabilities through PyAutoGUI integration, enabling mouse operations, keyboard input, and screen capture for automated testing and GUI control workflows.

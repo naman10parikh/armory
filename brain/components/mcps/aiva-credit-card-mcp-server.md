@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T08:14:23Z"
 ---
 ## What it is
 A decoupled, stateful MCP server and HTTP REST Gateway styled as a Banking Credit Card IVR Integration, bridging core banking mainframes with conversational voice AI frameworks.

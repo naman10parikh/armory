@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T18:06:14Z"
 ---
 ## What it is
 A live skill marketplace on Solana mainnet where AI agents register, list skills, and hire each other with trustless escrow, providing MCP tools for discovery, registration, listing, execution, and escrow.

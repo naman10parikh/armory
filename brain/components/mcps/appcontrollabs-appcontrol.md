@@ -8,10 +8,12 @@ source_url: https://github.com/appcontrollabs/appcontrol-mcp-go
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-02T23:15:19Z"
 ---
 ## What it is
 MCP server `AppControl`, catalogued on PulseMCP. Provides read-only access to AppControl's Windows desktop monitoring data including CPU, GPU, RAM, disk usage, security events, and binary tracking through 9 tools.

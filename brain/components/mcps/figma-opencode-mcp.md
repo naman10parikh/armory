@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T15:25:51Z"
 ---
 ## What it is
 Local-first MCP server that connects AI coding agents to the currently open Figma file through a local plugin bridge, requiring no Figma API token.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-23T16:04:07Z"
 ---
 ## What it is
 An MCP server that provides access to Foursquare Swarm check-in data, enabling AI assistants to query check-in history, stats, top venues, and venue details.

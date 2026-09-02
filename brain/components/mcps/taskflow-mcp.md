@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T16:47:26Z"
 ---
 ## What it is
 A production-ready MCP server for task management, enabling LLMs to create, list, and manage tasks via tools and resources, with support for local stdio and cloud Streamable HTTP deployment.

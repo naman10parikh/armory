@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-13T08:36:02Z"
 ---
 ## What it is
 MCP server `Search1API`, catalogued on PulseMCP. Integrates with Search1API to enable web searches, website crawling, and content extraction with configurable parameters, featuring specialized tools for image search and integration with Coze AI for generating structured research plans.

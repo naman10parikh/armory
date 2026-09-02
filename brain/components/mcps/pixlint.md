@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T15:14:47Z"
 ---
 ## What it is
 Provides AI assistants with a comprehensive computer-vision dataset toolkit for analyzing, curating, augmenting, and exporting datasets, including label error detection and automatic publishing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:32:40Z"
 ---
 ## What it is
 Provides local DNA/RNA sequence analysis tools (composition, reverse complement, translation, ORF enumeration, motif scanning) via MCP for agent workflows.

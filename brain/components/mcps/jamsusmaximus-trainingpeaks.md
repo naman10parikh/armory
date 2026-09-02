@@ -8,10 +8,12 @@ source_url: https://github.com/jamsusmaximus/trainingpeaks-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 150
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 69
+pushed_at: "2026-08-02T23:10:12Z"
 ---
 ## What it is
 MCP server `TrainingPeaks`, catalogued on PulseMCP. Integrates with TrainingPeaks through cookie-based authentication to access workout data, personal records, and fitness metrics for endurance sports training analysis.

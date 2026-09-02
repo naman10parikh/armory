@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:31:45Z"
 ---
 ## What it is
 An MCP server that exposes a Synology NAS through the official DSM WebAPI, covering File Station, Download Station, Synology Photos, Container Manager, and system management with curated tools and a generic bridge for other APIs.

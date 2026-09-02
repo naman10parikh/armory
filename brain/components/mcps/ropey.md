@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T22:15:44Z"
 ---
 ## What it is
 Enables coding agents to perform safe, project-wide Python refactoring (rename, move, extract, inline, change signature, organize imports, etc.) with a dry-run safety contract and LSP-coordinate addressing.

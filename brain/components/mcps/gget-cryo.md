@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T19:55:30Z"
 ---
 ## What it is
 Enables searching cryo-EM density maps in EMDB and raw datasets in EMPIAR, with filtering by resolution, keyword, and cross-referencing between the two databases.

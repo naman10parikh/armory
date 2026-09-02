@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T18:23:42Z"
 ---
 ## What it is
 A bounded MCP server for C++ analysis through Compiler Explorer, providing compiler discovery, compilation, assembly comparison, analyzers, and shortlink sharing.

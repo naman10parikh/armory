@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T00:44:42Z"
 ---
 ## What it is
 Enables full management of a Plex Media Server via Claude, including browsing libraries, fixing metadata, managing collections, and more.

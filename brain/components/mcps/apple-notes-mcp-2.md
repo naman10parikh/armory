@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-08T05:10:08Z"
 ---
 ## What it is
 Enables AI assistants to read, search, and create notes in Apple Notes on macOS via JXA, with fast bulk operations and a compact schema.

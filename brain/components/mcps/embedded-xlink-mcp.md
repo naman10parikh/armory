@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T08:27:29Z"
 ---
 ## What it is
 MCP server for embedded debugging based on probe-rs, providing 22 tools for ARM Cortex-M and RISC-V microcontrollers, including connection, memory operations, breakpoints, flash programming, and RTT communication.

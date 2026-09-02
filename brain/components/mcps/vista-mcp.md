@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T00:38:56Z"
 ---
 ## What it is
 An MCP server that exposes a growing catalog of Fortinet VISTA tools to partner agents for FortiOS/FortiGate engineering and support, starting with log analysis and visualization.

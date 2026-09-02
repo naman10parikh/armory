@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T19:25:48Z"
 ---
 ## What it is
 MCP server for Mimecast Email Security — message tracking, threat intelligence, and email queue management. Enables AI assistants to investigate and manage email security events.

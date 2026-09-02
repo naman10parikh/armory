@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T14:12:16Z"
 ---
 ## What it is
 An MCP server that wraps PM4Py to bring research-grade process mining (event log analysis, discovery, conformance, OCEL 2.0) to Claude and other MCP agents, fully locally.

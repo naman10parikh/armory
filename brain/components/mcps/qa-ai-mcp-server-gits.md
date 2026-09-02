@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T20:07:03Z"
 ---
 ## What it is
 MCP server for end-to-end QA automation: generates test scenarios, discovers Playwright locators, creates TypeScript test code, executes tests, and creates GitHub issues for failures.

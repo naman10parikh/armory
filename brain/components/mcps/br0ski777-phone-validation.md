@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:49Z"
 ---
 ## What it is
 MCP server `Phone Validation`, catalogued on PulseMCP. Validate phone numbers worldwide: carrier, line type, country, and E.164 format.

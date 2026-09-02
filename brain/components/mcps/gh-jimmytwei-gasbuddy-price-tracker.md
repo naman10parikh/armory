@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-22T14:13:08Z"
 ---
 ## What it is
 MCP server `GasBuddy Price Tracker`, catalogued on PulseMCP. Scrapes GasBuddy.com to find real-time gas prices for US cities and zip codes.

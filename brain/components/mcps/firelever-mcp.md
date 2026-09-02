@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T13:55:09Z"
 ---
 ## What it is
 Read-only MCP server for querying the lead database and pipeline statistics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T06:31:51Z"
 ---
 ## What it is
 Enables LLM agents to safely reclaim disk space by deleting build artifact directories like node_modules, .venv, and target, with strong guardrails to prevent accidental or malicious deletion.

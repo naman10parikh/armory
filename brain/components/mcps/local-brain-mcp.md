@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-12T03:45:34Z"
 ---
 ## What it is
 A local MCP server for AI assistants to store and retrieve personal memories on disk, with optional semantic search using embeddings.

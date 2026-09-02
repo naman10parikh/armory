@@ -8,10 +8,12 @@ source_url: https://github.com/gongrzhe/yolo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-03-11T07:08:47Z"
 ---
 ## What it is
 MCP server `YOLO Computer Vision`, catalogued on PulseMCP. Enables computer vision capabilities using YOLO models for object detection, segmentation, classification, and pose estimation on images and camera feeds

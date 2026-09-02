@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-04-07T21:39:38Z"
 ---
 ## What it is
 Enables QA/SDET engineers to test APIs by ingesting Swagger/OpenAPI specs and Postman collections, generating and executing tests in multiple languages and frameworks with real-time progress tracking.

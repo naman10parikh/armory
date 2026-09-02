@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T01:01:23Z"
 ---
 ## What it is
 MCP server for Rootr markdown knowledge collaboration. Provides 27 tools for reading, writing, searching, and managing documents, issues, logs, and webhooks via natural language.

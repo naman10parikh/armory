@@ -8,10 +8,12 @@ source_url: https://github.com/manascb1344/together-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-23T14:02:36Z"
 ---
 ## What it is
 MCP server `Together AI (Flux.1 Schnell)`, catalogued on PulseMCP. Integrates with Together AI's Flux.1 Schnell model to provide high-quality image generation with customizable dimensions, clear error handling, and optional image saving.

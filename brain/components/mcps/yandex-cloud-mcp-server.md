@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-26T16:04:34Z"
 ---
 ## What it is
 Read-only MCP server for Yandex Cloud resources including VMs, networks, disks, and more, with support for cloud/organization level access.

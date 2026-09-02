@@ -8,10 +8,12 @@ source_url: https://github.com/iachilles/memento
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-12T22:05:15Z"
 ---
 ## What it is
 MCP server `Memento`, catalogued on PulseMCP. Provides persistent memory capabilities through a SQLite-based knowledge graph that stores entities, observations, and relationships with full-text and semantic search using BGE-M3 embeddings for intelligent context retrieval across conversations.

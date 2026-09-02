@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-20T04:48:15Z"
 ---
 ## What it is
 Enables face detection and recognition in Agentic AI workflows using Azure Face API, supporting attribute detection, image comparison, and face recognition.

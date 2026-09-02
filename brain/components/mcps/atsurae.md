@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-16T11:52:32Z"
 ---
 ## What it is
 Enables AI agents to edit videos through natural language, providing tools for timeline editing, audio management, rendering, and more.

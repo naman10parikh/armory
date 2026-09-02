@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-18T18:54:55Z"
 ---
 ## What it is
 MCP server `FusionAuth`, catalogued on PulseMCP. Identity and authentication platform with comprehensive user management capabilities

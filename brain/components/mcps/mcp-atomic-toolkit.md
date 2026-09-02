@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T05:12:57Z"
 ---
 ## What it is
 A FastMCP server for atomistic modeling workflows that enables building structures, running geometry optimization and molecular dynamics, and analyzing results with downloadable artifacts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T04:36:07Z"
 ---
 ## What it is
 Enables dynamic management and execution of proxy chains on a remote Linux host via SSH, allowing AI assistants to route network traffic through proxies for privacy and security testing.

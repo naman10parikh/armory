@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T18:07:31Z"
 ---
 ## What it is
 Agent NERO is an MCP server that enables Claude Code to spawn, manage, and communicate with persistent, named LLM agents that maintain conversation history and can use tools like file I/O, command execution, and shared memory.

@@ -8,10 +8,12 @@ source_url: https://github.com/ochen1/chrome-devtools-mcp-mux
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-30T19:39:55Z"
 ---
 ## What it is
 MCP server `Chrome DevTools MCP Mux`, catalogued on PulseMCP. Multiplex multiple MCP clients over a single shared Chrome instance with per-client tab isolation.

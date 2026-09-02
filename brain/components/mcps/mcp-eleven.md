@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T15:09:45Z"
 ---
 ## What it is
 An open-source MCP server that turns any AI assistant into a football data analytics and scouting platform, enabling natural language queries over 40+ stats, 20+ leagues, and 10,000+ players.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-05-19T14:18:32Z"
 ---
 ## What it is
 MCP server `Excel Reader`, catalogued on PulseMCP. Integrates with Excel files to extract and process data from sheets, enabling automated analysis and reporting tasks

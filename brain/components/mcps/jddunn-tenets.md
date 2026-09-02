@@ -8,10 +8,12 @@ source_url: https://github.com/jddunn/tenets
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-21T17:08:59Z"
 ---
 ## What it is
 MCP server `Tenets`, catalogued on PulseMCP. Local-first code context aggregation using BM25, TF-IDF, and embeddings with automatic injection of project principles

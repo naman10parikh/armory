@@ -8,11 +8,13 @@ source_url: https://github.com/googlemaps-samples/grounding-lite-mcp-sample-app
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 61
+stars: 64
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 24
+pushed_at: "2026-06-21T23:31:57Z"
 ---
 ## What it is
 Provides custom tools to the Gemini model for spatially grounding responses using Google Maps Platform APIs (Places, Routes, Elevation).

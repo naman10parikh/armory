@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-05-03T06:14:40Z"
 ---
 ## What it is
 Enables AI agents to access real-time market data, manage Moomoo trading accounts, and execute trades via the Moomoo platform.

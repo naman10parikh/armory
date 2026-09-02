@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-29T08:36:56Z"
 ---
 ## What it is
 Search your data exports from Google, Telegram, Spotify, and Instagram in one place. Everything runs on your own computer. Hybrid search and MCP, built in .NET 10

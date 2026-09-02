@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T19:12:48Z"
 ---
 ## What it is
 Enables delegating mechanical code rewrites to a cheap worker model while validating and atomically applying them, supporting PHP and Python without passing rewritten blocks through the orchestrator's context.

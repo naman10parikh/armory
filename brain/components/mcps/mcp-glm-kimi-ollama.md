@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T06:52:49Z"
 ---
 ## What it is
 Provides three MCP servers for Claude Code to access free/low-cost LLM models: GLM (Zhipu), Kimi (Moonshot), and local Ollama, enabling chat, vision, and offline tasks via natural language.

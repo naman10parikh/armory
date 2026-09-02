@@ -8,10 +8,12 @@ source_url: https://github.com/elastic/example-mcp-app-security
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-08-20T16:12:45Z"
 ---
 ## What it is
 MCP server `Elastic Security`, catalogued on PulseMCP. Interactive security operations dashboards for alert triage, threat hunting, and case management.

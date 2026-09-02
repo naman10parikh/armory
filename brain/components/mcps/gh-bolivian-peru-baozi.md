@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-17T22:20:50Z"
 ---
 ## What it is
 MCP server `Baozi Prediction Markets`, catalogued on PulseMCP. Interact with Solana prediction markets on Baozi.bet — 68 trading and market tools.

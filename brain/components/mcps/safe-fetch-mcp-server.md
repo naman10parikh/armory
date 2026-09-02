@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T13:23:05Z"
 ---
 ## What it is
 A secure MCP server for fetching web content for agents, with provably correct SSRF protection against edge cases, redirects, and DNS rebinding.

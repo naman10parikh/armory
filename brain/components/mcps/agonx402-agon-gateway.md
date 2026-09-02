@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T04:25:13Z"
 ---
 ## What it is
 MCP server `Agon Gateway`, catalogued on PulseMCP. Enable AI agents to discover and call Agon Gateway routes, handle x402/SIWX authentication challenges, and interact with payment workflows via caller-managed wallets.

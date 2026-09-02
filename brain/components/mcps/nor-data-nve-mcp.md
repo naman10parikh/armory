@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T21:06:23Z"
 ---
 ## What it is
 MCP server that wraps NVE's open GIS data to provide flood risk and landslide risk point lookups, with explicit uncertainty reporting (e.g., 'no data' vs 'safe') and source references.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2025-06-14T04:22:47Z"
 ---
 ## What it is
 Gives Claude access to multiple AI models (Gemini, OpenAI, OpenRouter, Ollama) for enhanced development capabilities like code review, debugging, and analysis.

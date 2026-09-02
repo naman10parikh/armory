@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-26T12:50:32Z"
 ---
 ## What it is
 MCP server `Sudoku Solver`, catalogued on PulseMCP. Enables users to add, solve, and store Sudoku puzzles with advanced parsing, solving, and grid management tools for puzzle enthusiasts and game developers.

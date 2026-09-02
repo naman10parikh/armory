@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-06T02:04:00Z"
 ---
 ## What it is
 MCP server that enables controlling PLAXIS 2D from any MCP client, exposing geometry, staged construction, meshing, calculation, and results as tools via a Windows-local stdio server. It supports role-separated Input/Output processes, shared profiles, and hardened security.

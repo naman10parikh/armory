@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T00:19:00Z"
 ---
 ## What it is
 Exposes Savanto AI workspace tools to MCP clients, enabling natural-language configuration, content management, analytics, and diagnostics for store AI assistants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T18:28:06Z"
 ---
 ## What it is
 Enables intent-driven version control on top of Git, turning commits into auditable intents with prompts, AST deltas, and signatures, and providing tools for blame, context, replay, and verification.

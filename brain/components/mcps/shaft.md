@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-12T13:00:05Z"
 ---
 ## What it is
 MCP server `SHAFT`, catalogued on PulseMCP. Selenium-based web automation and testing framework

@@ -8,10 +8,12 @@ source_url: https://github.com/kush36agrawal/video_editor_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-01-04T17:43:36Z"
 ---
 ## What it is
 MCP server `Video Editor (FFMpeg)`, catalogued on PulseMCP. Integrates FFmpeg for video editing operations, enabling tasks like trimming, merging, and format conversion through natural language commands.

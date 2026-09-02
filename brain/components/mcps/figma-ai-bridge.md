@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-28T12:39:33Z"
 ---
 ## What it is
 Enables AI assistants to control Figma in real-time through Model Context Protocol, allowing design creation, editing, and reading operations directly from VS Code.

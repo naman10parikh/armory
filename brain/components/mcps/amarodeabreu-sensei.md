@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-27T18:21:13Z"
 ---
 ## What it is
 MCP server `Sensei`, catalogued on PulseMCP. Transforms engineering standards from passive documentation into an active mentor by intelligently injecting relevant portions of a 57-section rulebook based on file types and operations, maintaining session memory of architectural decisions, and providing validation tools for consistent code quality and architectural compliance across development teams.

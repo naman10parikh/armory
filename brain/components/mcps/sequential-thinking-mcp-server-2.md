@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T03:25:31Z"
 ---
 ## What it is
 Provides a sequentialthinking tool for dynamic, reflective problem-solving via chain-of-thought reasoning. Supports local Stdio and remote SSE deployment on Google Cloud Run.

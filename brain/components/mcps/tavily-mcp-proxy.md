@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T15:48:50Z"
 ---
 ## What it is
 A proxy MCP server for Tavily search and extract APIs with support for multiple API keys, random rotation, and bearer token authentication.

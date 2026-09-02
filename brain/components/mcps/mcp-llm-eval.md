@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T21:53:32Z"
 ---
 ## What it is
 A local MCP server that packages LLM evaluation gates as reusable CI/CD primitives, enabling AI agents to run datasets against models, score responses, and enforce quality thresholds.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T15:24:41Z"
 ---
 ## What it is
 Enables AI assistants to search manga/anime, write and run code, get weather, save notes, and query JoJo Stands data with real data from public APIs. Integrates with Claude Code, Cursor, and other MCP-compatible clients.

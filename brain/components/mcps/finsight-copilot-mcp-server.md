@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T10:43:31Z"
 ---
 ## What it is
 Provides real-time financial market lookups (stock quotes, volume, P/E ratios) and deterministic portfolio risk (VaR) calculations as standardized MCP endpoints for AI assistant integration.

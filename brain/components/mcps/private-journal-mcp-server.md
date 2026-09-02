@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T10:09:06Z"
 ---
 ## What it is
 A project-scoped private journaling and semantic search server for Claude, using local AI embeddings to capture technical insights, user context, and work-in-progress notes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T10:53:22Z"
 ---
 ## What it is
 An MCP server for sending and receiving Telegram messages via a bot, enabling AI assistants to interact directly through Telegram by sending messages, reading recent messages, and sending photos.

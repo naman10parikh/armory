@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T10:41:30Z"
 ---
 ## What it is
 Query databases in plain English using Claude. Supports SQLite, CSV, PostgreSQL, and MySQL.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-12T00:03:00Z"
 ---
 ## What it is
 MCP server `TKU Academic Systems (TronClass & TKU-ilife)`, catalogued on PulseMCP. Connects Blender to TKU's learning management and student information systems, enabling automated interactions with university platforms through authenticated access to TronClass and TKU-ilife.

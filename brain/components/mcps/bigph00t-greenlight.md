@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-13T20:52:09Z"
 ---
 ## What it is
 MCP server `Greenlight`, catalogued on PulseMCP. Visual status indicator that displays colored terminal backgrounds to signal AI work progress states

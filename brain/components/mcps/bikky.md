@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T09:14:03Z"
 ---
 ## What it is
 Provides persistent memory for AI coding agents via MCP, enabling teams to share and recall facts across sessions. Automatically captures, classifies, and curates knowledge from supported transcript sources.

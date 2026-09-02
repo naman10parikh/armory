@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-13T19:19:02Z"
 ---
 ## What it is
 Connects AI applications to Trunk Flaky Tests for root cause analysis of flaky tests and setup of test result uploads.

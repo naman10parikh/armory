@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-14T10:50:10Z"
 ---
 ## What it is
 MCP server `TabNews`, catalogued on PulseMCP. Provides access to TabNews content through API tools for retrieving listings, user posts, comments, and analytics data without requiring direct API integration

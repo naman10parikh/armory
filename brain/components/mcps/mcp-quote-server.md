@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:39:05Z"
 ---
 ## What it is
 Enables users to list quote categories and retrieve random quotes from a local JSON file via MCP tools, with no API key required.

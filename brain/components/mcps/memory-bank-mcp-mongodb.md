@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-11T18:03:02Z"
 ---
 ## What it is
 MCP server for MongoDB-powered memory bank management with multi-project isolation, version control, and real-time statistics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-06T04:43:01Z"
 ---
 ## What it is
 MCP server for Inductive Automation Ignition, enabling AI assistants to browse and write tags, query history and alarms, manage projects, and deploy Perspective views through natural language.

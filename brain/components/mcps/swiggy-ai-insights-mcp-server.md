@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-21T05:39:12Z"
 ---
 ## What it is
 Enables AI assistants like Claude to analyze your Swiggy order history, providing personalized insights on food habits, spending, and recommendations.

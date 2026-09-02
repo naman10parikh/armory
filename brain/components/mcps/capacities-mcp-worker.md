@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T15:05:26Z"
 ---
 ## What it is
 A Cloudflare Worker that wraps the Capacities API as a remote MCP server, enabling Claude on any device to interact with your Capacities knowledge base.

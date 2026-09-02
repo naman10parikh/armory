@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T03:46:08Z"
 ---
 ## What it is
 Enables agents to prove and verify that a real, unique human performed an action, issuing machine-readable signed credentials with public verification.

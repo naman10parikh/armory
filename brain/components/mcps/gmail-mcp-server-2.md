@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T04:08:52Z"
 ---
 ## What it is
 A local MCP server that provides tool-level access to Gmail, allowing Claude to search, read, send, and manage emails using the Gmail API.

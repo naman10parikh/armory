@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:10Z"
 ---
 ## What it is
 Enables consultation of the Brazilian Transparency Portal's registry of barred non-profit entities (CEPIM) via a read-only MCP tool, returning official data with prepaid per-query credits.

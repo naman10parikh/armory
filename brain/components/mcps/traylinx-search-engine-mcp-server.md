@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-03T15:04:05Z"
 ---
 ## What it is
 Enables MCP clients to perform intelligent web searches via Traylinx's Agentic Search API, returning text summaries and structured data like HTML, images, and news.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-28T02:24:53Z"
 ---
 ## What it is
 An MCP server enabling AI agents to interact with JustLend DAO on TRON for lending, borrowing, and portfolio management, plus general TRON chain utilities.

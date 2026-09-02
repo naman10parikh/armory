@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-04T20:25:50Z"
 ---
 ## What it is
 MCP server `European Trains`, catalogued on PulseMCP. Search train schedules, find stations, and check disruptions across European rail networks.

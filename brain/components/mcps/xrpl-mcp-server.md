@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-08T07:39:35Z"
 ---
 ## What it is
 Provides read-only access to the XRP Ledger for querying accounts, transactions, NFTs, DEX order books, and more.

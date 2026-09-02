@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-04T12:52:04Z"
 ---
 ## What it is
 MCP server `GDPR Compliance AI`, catalogued on PulseMCP. Tools for assessing data handling practices against GDPR requirements.

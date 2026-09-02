@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T14:56:28Z"
 ---
 ## What it is
 An MCP server that lets Claude access your Zotero library and insert live, field-based Zotero citations directly into Word documents by writing the underlying OOXML, enabling proper style updates and bibliography management without manual intervention.

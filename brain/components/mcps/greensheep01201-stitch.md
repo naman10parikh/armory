@@ -12,6 +12,8 @@ stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-02-15T14:06:33Z"
 ---
 ## What it is
 MCP server `Stitch`, catalogued on PulseMCP. Integrates with Google Stitch API using OAuth authentication to provide automated design workflow capabilities including UI/UX development, design systems management, export processes, and quality assurance.

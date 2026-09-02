@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T02:34:15Z"
 ---
 ## What it is
 A stdio MCP server for workspace-parameterized task CRUD on SKRYE with row-level security, enabling task management through natural language.

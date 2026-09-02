@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T12:33:59Z"
 ---
 ## What it is
 MCP server `Burn`, catalogued on PulseMCP. AI-powered reading triage with 26 tools and a 24h burn timer to read less and absorb more.

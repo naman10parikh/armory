@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:09:33Z"
 ---
 ## What it is
 A single-purpose MCP server that lets an AI assistant run commands over SSH on a fixed, pre-configured host only, with an explicit per-call confirmation gate before execution.

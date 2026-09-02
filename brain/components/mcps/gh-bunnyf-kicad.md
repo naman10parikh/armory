@@ -8,10 +8,12 @@ source_url: https://github.com/bunnyf/pcb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-17T15:35:25Z"
 ---
 ## What it is
 MCP server `KiCad PCB Design`, catalogued on PulseMCP. AI-assisted PCB design with KiCad 9.x — schematic capture and board layout tools.

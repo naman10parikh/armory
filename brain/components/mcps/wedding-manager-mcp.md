@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T08:29:16Z"
 ---
 ## What it is
 Enables users to manage wedding preparation tasks including timeline generation, budget review, vendor quote comparison, role assignment briefs, and drafting messages for family, vendors, and friends.

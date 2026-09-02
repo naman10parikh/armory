@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:11:47Z"
 ---
 ## What it is
 MCP server providing Claude live access to USL Super League data—teams, matches, standings, rosters, and schedule-strength analytics—via the ESPN public API.

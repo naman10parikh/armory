@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T22:46:23Z"
 ---
 ## What it is
 MCP server that lets Claude read live financial data from Luni, including personal transactions, budgets, and business P\&L, cash flow, and partner distributions, by connecting to the Luni backend API.

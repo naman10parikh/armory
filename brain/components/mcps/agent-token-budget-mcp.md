@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:26:29Z"
 ---
 ## What it is
 Manages token budgets for AI agents, enabling tracking and enforcement of usage limits with built-in EU AI Act compliance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-21T03:34:45Z"
 ---
 ## What it is
 Access AMiner's free academic data APIs to search researchers, papers, and patents, enabling AI agents to retrieve and utilize global research information.

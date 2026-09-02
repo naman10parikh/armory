@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-27T06:51:49Z"
 ---
 ## What it is
 MCP server `PDF Tools`, catalogued on PulseMCP. PDF manipulation server for merging, splitting, extracting pages, and text extraction from documents

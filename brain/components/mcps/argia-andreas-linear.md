@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-02-27T19:39:54Z"
 ---
 ## What it is
 MCP server `Linear`, catalogued on PulseMCP. Bridges Linear's project management platform by retrieving user todo tickets via user ID or email, enabling seamless integration of project context into workflow tools.

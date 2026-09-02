@@ -8,10 +8,12 @@ source_url: https://github.com/hithereiamaliff/mcp-grabmaps
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-03T13:12:17Z"
 ---
 ## What it is
 MCP server `GrabMaps`, catalogued on PulseMCP. Integrates GrabMaps services through AWS Location Service to provide geocoding, place search, route calculation, and map visualization specifically for Southeast Asian markets including Malaysia, Singapore, Thailand, Myanmar, Cambodia, Vietnam, Philippines, and Indonesia.

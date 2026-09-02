@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-21T17:42:59Z"
 ---
 ## What it is
 MCP server `OpenAPI Transformer`, catalogued on PulseMCP. Transforms OpenAPI specifications into dynamic tool interfaces for REST API interactions, automatically handling parameter mapping, authentication, and request/response formatting without custom integration code.

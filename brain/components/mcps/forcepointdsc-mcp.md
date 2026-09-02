@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T15:54:01Z"
 ---
 ## What it is
 MCP server exposing Forcepoint Data Security Cloud configuration APIs for managing users, groups, credentials, and access tokens via Vault and Postgres.

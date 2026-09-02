@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T06:41:16Z"
 ---
 ## What it is
 Provides a shared memory bridge for AI agents (QClaw, Claude Code, Codex) allowing them to store, search, and retrieve notes, decisions, and conclusions via MCP tools, using local SQLite with optional TencentDB integration.

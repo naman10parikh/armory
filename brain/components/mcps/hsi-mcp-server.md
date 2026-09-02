@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-22T08:11:36Z"
 ---
 ## What it is
 Retrieves real-time Hang Seng Index data and news headlines with AI-powered summaries from AAStocks, supporting stock quote lookups via symbol or company name.

@@ -8,10 +8,12 @@ source_url: https://github.com/kyanitelabs/epoch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-02T03:06:48Z"
 ---
 ## What it is
 MCP server `Epoch`, catalogued on PulseMCP. Time estimation toolkit for AI agents using PERT, COCOMO II, Monte Carlo, and critical path methods.

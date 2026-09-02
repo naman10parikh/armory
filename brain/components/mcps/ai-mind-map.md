@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T18:39:06Z"
 ---
 ## What it is
 An MCP server that reduces AI coding agent token usage by 80-99% through a queryable knowledge graph of code, change tracking, and persistent memory across sessions.

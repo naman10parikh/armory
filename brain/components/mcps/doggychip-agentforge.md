@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
 stars: 3
+forks: 0
+pushed_at: "2026-04-21T17:13:00Z"
 ---
 ## What it is
 Unified API gateway and marketplace for 300+ AI agents. One API key, REST + streaming, 90% creator revenue share, health monitoring. Self-hostable (MIT).

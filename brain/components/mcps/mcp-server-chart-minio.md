@@ -8,11 +8,13 @@ source_url: https://github.com/zaizaizhao/mcp-server-chart-minio
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 52
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-03-07T14:36:37Z"
 ---
 ## What it is
 基于 NestJS 的图表生成服务，集成 MinIO 对象存储，支持 22+ 种图表类型的服务器端渲染。

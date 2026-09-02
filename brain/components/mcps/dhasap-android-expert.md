@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-26T17:29:12Z"
 ---
 ## What it is
 MCP server `Android Expert`, catalogued on PulseMCP. Comprehensive Android and Kotlin development toolkit with tools for ADB device control, web scraping, browser automation, emulator management, and VPS deployment.

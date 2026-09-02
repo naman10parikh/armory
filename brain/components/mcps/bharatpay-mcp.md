@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T22:19:36Z"
 ---
 ## What it is
 Provides AI agents with Indian fintech utilities including IFSC bank lookups, PAN/GSTIN validation, mutual fund NAVs, UPI VPA identification, pincode lookups, and INR formatting, all with zero authentication and zero cost.

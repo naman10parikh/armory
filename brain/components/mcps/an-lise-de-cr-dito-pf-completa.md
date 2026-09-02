@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:23:12Z"
 ---
 ## What it is
 Enables complete credit analysis of Brazilian individuals from CPF, retrieving registration data, credit score, debts, and payment history. It is a hosted, read-only MCP server with prepaid per-query pricing.

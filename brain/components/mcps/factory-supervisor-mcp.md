@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T07:59:45Z"
 ---
 ## What it is
 Enables AI assistants to manage factory operations through MCP, providing tools for real-time telemetry, predictive maintenance, inventory forecasting, order estimation, and AI supervisor copilot capabilities.

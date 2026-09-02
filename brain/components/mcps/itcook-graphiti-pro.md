@@ -8,10 +8,12 @@ source_url: https://github.com/itcook/graphiti-mcp-pro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-08-26T10:12:15Z"
 ---
 ## What it is
 MCP server `Graphiti Pro`, catalogued on PulseMCP. Provides persistent memory capabilities through Neo4j knowledge graphs with episode-based storage, entity relationship tracking, semantic search, and a web dashboard for managing memory operations across conversations.

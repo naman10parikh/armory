@@ -8,10 +8,12 @@ source_url: https://github.com/deadletterq/mcp-opennutrition
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 184
+stars: 204
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2026-07-28T15:15:58Z"
 ---
 ## What it is
 MCP server `OpenNutrition`, catalogued on PulseMCP. Provides access to OpenNutrition's 300,000+ food database with tools for searching foods by name, browsing paginated lists, retrieving detailed nutritional information by ID, and looking up products via EAN-13 barcodes for recipe analysis and dietary planning.

@@ -8,11 +8,13 @@ source_url: https://github.com/ChinaCarlos/figma-agent-kit
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:19:52Z"
 ---
 ## What it is
 Connects AI agents to Figma through a local WebSocket bridge, enabling read/write access to open Figma files, node manipulation, and AI-assisted rename/group features.

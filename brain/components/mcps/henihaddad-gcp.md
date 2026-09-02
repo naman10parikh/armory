@@ -12,6 +12,8 @@ stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-21T02:35:26Z"
 ---
 ## What it is
 MCP server `Google Cloud Platform`, catalogued on PulseMCP. Integrates with Google Cloud Platform to enable natural language management of cloud resources including compute, storage, networking, and databases through automated OAuth authentication.

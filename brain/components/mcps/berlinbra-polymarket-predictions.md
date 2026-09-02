@@ -8,10 +8,12 @@ source_url: https://github.com/berlinbra/polymarket-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 140
+stars: 142
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2025-06-06T15:26:56Z"
 ---
 ## What it is
 MCP server `Polymarket`, catalogued on PulseMCP. Integrates with PolyMarket's API to fetch and analyze prediction market data for financial insights and decision support.

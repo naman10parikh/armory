@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T11:37:13Z"
 ---
 ## What it is
 The Sendchamp MCP server gives AI coding agents read-only access to search and retrieve accurate Sendchamp API documentation, schemas, and integration guides. It currently covers SMS, OTP verification, authentication, wallet balance, and Africa-specific routing guidance.

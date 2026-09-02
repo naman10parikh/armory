@@ -8,10 +8,12 @@ source_url: https://github.com/ronieneubauer/cli2mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-29T22:50:11Z"
 ---
 ## What it is
 MCP server `CLI2MCP`, catalogued on PulseMCP. Wraps any CLI binary as an MCP server by parsing its --help output and synthesizing a JSON Schema at startup.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:57:12Z"
 ---
 ## What it is
 MCP server for accessing Strasbourg Open Data (data.strasbourg.eu). Allows searching datasets, retrieving metadata, and querying records with ODSQL.

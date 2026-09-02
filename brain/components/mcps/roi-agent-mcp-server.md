@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:51:33Z"
 ---
 ## What it is
 Enables users to ask questions in Portuguese about marketing metrics (ROI, CAC, LTV, pipeline, channel attribution) by querying a marketing data warehouse through MCP tools.

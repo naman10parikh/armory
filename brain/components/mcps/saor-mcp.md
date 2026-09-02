@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T00:34:26Z"
 ---
 ## What it is
 MCP server providing persistent memory for AI agents, enabling them to read, write, and query memories across sessions.

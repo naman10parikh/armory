@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-17T22:10:17Z"
 ---
 ## What it is
 Enables interaction with Calendly's scheduling platform via MCP, allowing users to manage events, invitees, and schedule meetings directly using the Calendly API.

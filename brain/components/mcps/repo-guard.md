@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T00:55:39Z"
 ---
 ## What it is
 MCP server that enforces deterministic policies for coding agents, inspecting file writes and shell commands to allow, deny, or require confirmation based on configurable rules.

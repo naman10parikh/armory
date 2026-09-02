@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T07:58:59Z"
 ---
 ## What it is
 MCP server that supplies AI coding agents with real, up-to-date documentation, API signatures, and examples for MerLin and Perceval photonic quantum ML frameworks, replacing hallucinated APIs with accurate knowledge fetched live from official sources.

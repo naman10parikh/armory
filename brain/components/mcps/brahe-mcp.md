@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T21:50:18Z"
 ---
 ## What it is
 Exposes the astrodynamics capabilities of the Brahe library enabling language models to perform space situational awareness and astrodynamics calculations.

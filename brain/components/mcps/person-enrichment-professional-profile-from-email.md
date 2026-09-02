@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/person-enrichment-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2555
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:54:32Z"
 ---
 ## What it is
 Person enrichment API for AI agents. Enrich any email address into a full professional profile: full name, job title, company, LinkedIn URL, GitHub profile, Twitter handle, avatar URL, location, and bio. Tools: person_enrich_from_email. Use this when researching leads, personalizing outreach, buildi

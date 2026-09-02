@@ -8,11 +8,13 @@ source_url: https://github.com/jiewaigongxing/dsh-jiey-browser
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T06:20:30Z"
 ---
 ## What it is
 Enables DeepSeek Harness agents to control a real Jiey Browser instance via MCP, providing tools for web navigation, interaction, and data extraction.

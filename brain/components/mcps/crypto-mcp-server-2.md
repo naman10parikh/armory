@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T17:23:29Z"
 ---
 ## What it is
 Provides real-time cryptocurrency market data including prices, K-line charts, funding rates, and industry news via modular tools, suitable for trading analysis and market monitoring.

@@ -8,10 +8,12 @@ source_url: https://github.com/yawlabs/ctxlint
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-23T18:08:13Z"
 ---
 ## What it is
 MCP server `CtxLint`, catalogued on PulseMCP. Lints AI agent context files (CLAUDE.md, AGENTS.md, etc.) against your actual codebase to catch broken paths, outdated commands, and contradictions.

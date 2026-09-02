@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-28T22:57:35Z"
 ---
 ## What it is
 MCP server `LicenseSpring`, catalogued on PulseMCP. Integrates with LicenseSpring's license management platform to enable software license activation, validation, consumption tracking, customer management, and trial key generation through dual API architecture with HMAC-SHA256 authentication.

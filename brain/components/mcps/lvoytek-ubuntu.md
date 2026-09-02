@@ -8,10 +8,12 @@ source_url: https://github.com/lvoytek/ubuntu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-04T22:24:54Z"
 ---
 ## What it is
 MCP server `Ubuntu`, catalogued on PulseMCP. Query and manage Ubuntu ecosystem data including bugs, packages, versions, and merge requests via Launchpad, GitHub, and Snapcraft.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:07:36Z"
 ---
 ## What it is
 Enables AI coding agents to maintain persistent project context, including rules, decisions, environment intelligence, and Git history, using a local-first MCP server with automatic project detection and token-efficient retrieval.

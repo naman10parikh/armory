@@ -8,10 +8,12 @@ source_url: https://github.com/namishsaxena/mcpspec
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T14:11:59Z"
 ---
 ## What it is
 MCP server `MCPSpec`, catalogued on PulseMCP. Documentation and specification generator for MCP servers with interactive HTML docs and YAML spec output.

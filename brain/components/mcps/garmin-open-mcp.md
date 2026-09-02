@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T02:19:44Z"
 ---
 ## What it is
 Unofficial MCP server bridging Garmin Connect to MCP clients and ChatGPT, providing tools to access health data, activities, and trends via a self-hosted API.

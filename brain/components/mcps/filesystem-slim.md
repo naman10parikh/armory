@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-20T02:40:30Z"
 ---
 ## What it is
 A token-optimized filesystem MCP server that groups 14 tools into 6 semantic operations, enabling file creation, deletion, reading, moving, querying, and more with reduced context token consumption.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T14:51:25Z"
 ---
 ## What it is
 MCP server for Shelby Protocol that enables AI agents to read, write, and manage files on decentralized storage (Aptos) through tools like upload, download, list, delete, and account info.

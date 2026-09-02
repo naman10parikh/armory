@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-03T10:36:31Z"
 ---
 ## What it is
 Fast, read-only MCP server for Notion that reads directly from local SQLite cache, enabling instant access to Notion pages, databases, and users without API calls or rate limits.

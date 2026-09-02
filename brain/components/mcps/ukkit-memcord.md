@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 72
+forks: 11
+pushed_at: "2026-08-07T13:21:23Z"
 ---
 ## What it is
 A MCP server that keeps your chat history organized and searchable—with AI-powered summaries, secure memory, and full control.

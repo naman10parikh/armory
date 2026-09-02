@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T00:13:40Z"
 ---
 ## What it is
 A single MCP server that orchestrates Expo CLI, Metro, and adb for local Expo project management, including device interaction and session summaries.

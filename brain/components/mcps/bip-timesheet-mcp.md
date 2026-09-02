@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:33:38Z"
 ---
 ## What it is
 MCP server that wraps the BIP work-hour reporting CLI into 11 tools, enabling automated timesheet preview, scanning, submission, and approval management. It keeps internal credentials and configuration server-side, supporting both streamable HTTP and stdio transports.

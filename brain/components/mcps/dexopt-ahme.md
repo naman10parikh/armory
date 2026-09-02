@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-04T18:31:36Z"
 ---
 ## What it is
 MCP server `AHME`, catalogued on PulseMCP. Background daemon that compresses chat conversations into structured JSON summaries using local Ollama models for persistent cross-session memory.

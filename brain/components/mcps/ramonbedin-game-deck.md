@@ -8,10 +8,12 @@ source_url: https://github.com/ramonbedin/mcp-game-deck
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T19:43:22Z"
 ---
 ## What it is
 MCP server `Game Deck`, catalogued on PulseMCP. Control Unity Editor from AI agents with 268 tools for scene manipulation, GameObjects, prefabs, scripts, and build management.

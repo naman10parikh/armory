@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T02:01:34Z"
 ---
 ## What it is
 MCP server `MeatSpace`, catalogued on PulseMCP. Human-in-the-loop service for AI agents — route decisions to human reviewers.

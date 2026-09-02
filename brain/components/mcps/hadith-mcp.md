@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T18:11:47Z"
 ---
 ## What it is
 An MCP server for retrieving hadith text and metadata from auditable sources, providing exact references, Arabic text, English translations, and source-attributed grading.

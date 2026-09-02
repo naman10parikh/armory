@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T18:50:03Z"
 ---
 ## What it is
 MCP server for the forme.gifts wishlist app that enables managing wishlists and gifts from Claude Code, Claude Desktop, Cursor, and other MCP clients.

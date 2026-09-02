@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T05:09:19Z"
 ---
 ## What it is
 Provides MCP tools to search, browse, and retrieve unified read-only history from CLI agents like Codex, Claude Code, and OpenCode, with connector discovery and project-folder grouping.

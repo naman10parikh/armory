@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-08-05T18:38:34Z"
 ---
 ## What it is
 Summarizes a user's Reddit frontpage, subreddits, and post comments, with optional comment analysis and sorting options.

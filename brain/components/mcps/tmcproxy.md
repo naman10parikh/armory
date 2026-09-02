@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T10:01:34Z"
 ---
 ## What it is
 Bridges OpenAI's Secure MCP Tunnel to legacy stdio MCP servers by answering server/discover requests that older servers don't support.

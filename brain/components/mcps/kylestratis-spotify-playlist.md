@@ -8,10 +8,12 @@ source_url: https://github.com/kylestratis/spotify-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-28T05:04:18Z"
 ---
 ## What it is
 MCP server `Spotify Playlist`, catalogued on PulseMCP. Integrates with Spotify's API to create and manage playlists using natural language with eight similarity algorithms that analyze audio features like energy, danceability, and tempo to find matching tracks across catalogs, playlists, and libraries for building mood-based collections or workout playlists.

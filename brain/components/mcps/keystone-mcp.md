@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T21:14:21Z"
 ---
 ## What it is
 An MCP server that retrieves contextual information from company resources and surfaces it to coding agents as rules, reasoning, skills, and commands.

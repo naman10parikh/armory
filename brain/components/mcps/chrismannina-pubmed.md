@@ -8,10 +8,12 @@ source_url: https://github.com/chrismannina/pubmed-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-18T02:30:30Z"
 ---
 ## What it is
 MCP server `PubMed`, catalogued on PulseMCP. Integrates with NCBI PubMed to provide literature search, article retrieval, author-based searches, citation formatting in multiple styles, and research trend analysis for academic and bibliographic research workflows.

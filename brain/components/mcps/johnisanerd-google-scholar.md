@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-25T20:07:33Z"
 ---
 ## What it is
 MCP server `Google Scholar Search`, catalogued on PulseMCP. Search Google Scholar for academic papers, citations, author profiles, and abstracts.

@@ -8,10 +8,12 @@ source_url: https://github.com/selvage-lab/selvage
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-07-19T02:44:33Z"
 ---
 ## What it is
 MCP server `Selvage`, catalogued on PulseMCP. LLM-based code review with AST-powered smart context extraction.

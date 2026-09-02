@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T10:34:09Z"
 ---
 ## What it is
 A paid remote MCP server for OpenAI Codex harness, offering structured JSON tools for coding task planning, safe command suggestions, test verdict recording, and run history.

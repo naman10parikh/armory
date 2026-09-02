@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:34:07Z"
 ---
 ## What it is
 Provides Islamic prayer times, Qibla direction, and Hijri calendar conversion using the Aladhan API. No API key required.

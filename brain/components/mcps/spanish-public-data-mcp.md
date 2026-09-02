@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-25T13:40:34Z"
 ---
 ## What it is
 MCP server for querying Spanish government open data APIs including grants, legislation, company registry, statistics, and open data catalog. Enables LLMs to access Spanish public information on-the-fly.

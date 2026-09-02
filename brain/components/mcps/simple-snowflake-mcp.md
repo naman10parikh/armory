@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-28T01:52:14Z"
 ---
 ## What it is
 Enables natural language querying and management of Snowflake databases, including SQL execution, schema exploration, and warehouse monitoring.

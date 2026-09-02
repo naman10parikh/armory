@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T16:49:16Z"
 ---
 ## What it is
 A demo MCP server that returns an interactive dashboard (bar chart with dataset selector) as an MCP App via the official MCP Apps extension (SEP-1865).

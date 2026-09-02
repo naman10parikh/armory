@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T07:26:01Z"
 ---
 ## What it is
 MCP server `Grafana`, catalogued on PulseMCP. Integrates with Grafana instances to provide dashboard management, data source operations, Prometheus/Loki querying, alerting configuration, and administrative tasks through 70+ organized tools for DevOps teams and SRE engineers.

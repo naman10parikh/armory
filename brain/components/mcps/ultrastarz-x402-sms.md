@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T04:52:27Z"
 ---
 ## What it is
 MCP server `x402 SMS`, catalogued on PulseMCP. Sends transactional SMS to US phone numbers for $0.03 USDC per message using the x402 blockchain payment protocol.

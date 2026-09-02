@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T20:39:19Z"
 ---
 ## What it is
 Enables AI agents to simulate network failures and test application resilience in Playwright browser sessions.

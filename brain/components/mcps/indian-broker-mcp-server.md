@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-05-29T09:12:54Z"
 ---
 ## What it is
 Enables unified read-only portfolio viewing across Indian brokers (Groww, Zerodha, INDmoney) using browser automation, without paid API subscriptions.

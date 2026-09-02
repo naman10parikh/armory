@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T03:27:23Z"
 ---
 ## What it is
 Enables AI agents to create, manage, and execute code in isolated Firecracker microVM sandboxes via the MCP protocol, with support for sandbox lifecycle and file operations.

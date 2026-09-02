@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:42:57Z"
 ---
 ## What it is
 Consulta antecedentes criminais em fonte oficial do estado de São Paulo, pagando por uso com crédito pré-pago.

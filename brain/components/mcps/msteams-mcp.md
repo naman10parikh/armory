@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T20:19:55Z"
 ---
 ## What it is
 MCP server for Microsoft Teams that lets AI assistants search, message, and manage chats, meetings, files, and contacts using your existing Teams browser login—no app approval or Azure AD registration needed.

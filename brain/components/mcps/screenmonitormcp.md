@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2025-07-09T00:54:51Z"
 ---
 ## What it is
 Enables real-time screen monitoring, UI element analysis, and predictive user behavior learning for AI assistants.

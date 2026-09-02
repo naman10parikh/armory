@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
 stars: 17
+forks: 6
+pushed_at: "2025-04-18T05:49:40Z"
 ---
 ## What it is
 A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.

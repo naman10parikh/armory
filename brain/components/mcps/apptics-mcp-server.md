@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T06:45:12Z"
 ---
 ## What it is
 Provides tools to query Zoho Apptics analytics data (crashes, devices, etc.) and automate iOS SDK integration into Xcode projects.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-08-22T05:31:46Z"
 ---
 ## What it is
 A Model Context Protocol server implementation for iOS Simulator control, providing tools for device management, app operations, permissions, system features, and certificate handling.

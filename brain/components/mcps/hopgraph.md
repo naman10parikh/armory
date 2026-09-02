@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-10T21:50:24Z"
 ---
 ## What it is
 MCP server `HopGraph`, catalogued on PulseMCP. Verify ANZ businesses against government registers with cross-jurisdictional findings.

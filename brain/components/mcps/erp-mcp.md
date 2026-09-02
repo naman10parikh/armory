@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-06T21:20:45Z"
 ---
 ## What it is
 Exposes ERP data (production orders, inventory, BOM, customers) to any MCP client through a backend-neutral interface, with a mock backend for testing.

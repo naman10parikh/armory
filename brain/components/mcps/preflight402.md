@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T23:05:21Z"
 ---
 ## What it is
 MCP server that preflights endpoints before agent payments, returning a trust verdict with proceed/caution/avoid recommendation.

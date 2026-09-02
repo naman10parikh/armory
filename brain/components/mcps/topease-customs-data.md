@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T08:47:16Z"
 ---
 ## What it is
 全球海关贸易数据MCP服务器，支持按企业名称、产品关键字、HS编码等多维度查询238个国家/地区的进出口贸易数据。

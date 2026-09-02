@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T08:26:46Z"
 ---
 ## What it is
 Enables interaction with CoW Protocol's order book API, allowing token resolution, quote retrieval, and order management across multiple networks through natural language.

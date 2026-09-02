@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T09:40:11Z"
 ---
 ## What it is
 Self-hosted MCP server for AI browser automation. Connects to your own Chromium instance via CDP, providing tools for browser control, navigation, interaction, and content extraction.

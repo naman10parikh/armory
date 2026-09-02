@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-04T12:19:23Z"
 ---
 ## What it is
 MCP server `Apache Iceberg`, catalogued on PulseMCP. Provides a SQL interface for querying and managing Apache Iceberg tables through connections to Iceberg REST catalogs and S3-compatible storage, enabling data analysts to interact with data lakes without switching contexts.

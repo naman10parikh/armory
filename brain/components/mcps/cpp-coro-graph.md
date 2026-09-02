@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T08:02:41Z"
 ---
 ## What it is
 Enables exploring a C++17 coroutine and device-domain call graph through MCP tools, providing symbol search, caller/callee queries, and neighborhood exploration of coroutine-aware codebases.

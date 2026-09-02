@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-29T16:17:02Z"
 ---
 ## What it is
 A lightweight MCP server that connects to WordPress via REST API, enabling content management (posts, pages, categories, etc.) and site configuration through natural language commands.

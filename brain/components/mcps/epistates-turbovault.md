@@ -8,10 +8,12 @@ source_url: https://github.com/epistates/turbovault
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 131
+stars: 149
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2026-08-28T03:58:55Z"
 ---
 ## What it is
 MCP server `TurboVault (Obsidian)`, catalogued on PulseMCP. Transforms Obsidian vaults into intelligent knowledge systems with advanced editing capabilities, full-text search, link graph analysis, and atomic batch operations for research workflows and automated vault maintenance.

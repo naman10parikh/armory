@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:23Z"
 ---
 ## What it is
 MCP server for consulting Brazilian INMETRO chronotachograph data from official sources, read-only, with one tool for queries.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T22:12:13Z"
 ---
 ## What it is
 MCP server `Unloop`, catalogued on PulseMCP. Utility server for loop control and management operations.

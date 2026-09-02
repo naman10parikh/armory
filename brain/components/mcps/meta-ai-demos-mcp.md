@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T01:25:29Z"
 ---
 ## What it is
 Enables using Meta AI Demos (aidemos.meta.com) tools from Cursor via MCP, including SAM3 template management, media upload, and GraphQL calls.

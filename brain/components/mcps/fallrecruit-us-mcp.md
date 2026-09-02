@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T09:11:21Z"
 ---
 ## What it is
 Sovereign, MIT-licensed MCP server for professional service workflow, wrapping the FallRecruit US SDK, enabling offline-capable, Ed25519-signed listing and transaction operations.

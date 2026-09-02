@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:41:47Z"
 ---
 ## What it is
 MCP server that exposes Coherence XRM as tools for Claude, Cursor, Cline, and other MCP-compatible clients. The headline: chat_with_agent — send a message to your Coherence agent (Nash) from your agent and it can draft emails, create reminders, update records, post to social, create landing pages, a

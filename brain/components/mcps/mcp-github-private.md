@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:09:52Z"
 ---
 ## What it is
 Enables AI agents to access private GitHub repositories, organizations, issues, pull requests, and file contents via OAuth authentication.

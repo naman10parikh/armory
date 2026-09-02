@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:08:50Z"
 ---
 ## What it is
 Enables monitoring and control of Blender renders via natural language, providing real-time render status, settings, preview frames, and protected actions like cancellation.

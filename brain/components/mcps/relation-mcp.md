@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T03:44:02Z"
 ---
 ## What it is
 Enables to interact with Re:lation support tickets via MCP. Allows searching, updating, replying to tickets, and managing customers and internal records.

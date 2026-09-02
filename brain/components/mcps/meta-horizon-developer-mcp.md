@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T10:33:27Z"
 ---
 ## What it is
 Read-only MCP server that collects Analytics data from the Meta Horizon developer dashboard by intercepting GraphQL queries. It provides tools for status checks, snapshot collection, and reading allowed query results.

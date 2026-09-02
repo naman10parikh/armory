@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-19T14:19:40Z"
 ---
 ## What it is
 Enables Claude to look up customers, check routes, view appointments, pull service history, and access FieldRoutes data directly in conversation.

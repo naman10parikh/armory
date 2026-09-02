@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T16:33:54Z"
 ---
 ## What it is
 Self-hosted Google Search Console MCP server deployable to Cloudflare Workers in 15 minutes. Enables querying GSC data (sites, search analytics, URL inspection, sitemaps) via natural language through MCP-capable clients like ChatGPT or Claude.

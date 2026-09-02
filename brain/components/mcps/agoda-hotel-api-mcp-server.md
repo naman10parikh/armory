@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:10:54Z"
 ---
 ## What it is
 Provides live hotel room rates, availability, and guest reviews from Agoda, enabling searches by destination and dates, property details, and structured review data.

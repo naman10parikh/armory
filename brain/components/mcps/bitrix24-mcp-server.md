@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-03-28T13:49:18Z"
 ---
 ## What it is
 Provides a REST API and MCP server to interact with Bitrix24 CRM, enabling CRUD operations on entities like deals, leads, contacts, and tasks via natural language.

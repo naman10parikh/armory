@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-25T16:55:02Z"
 ---
 ## What it is
 MCP server `French Business Search`, catalogued on PulseMCP. Connects to the French government's API Recherche Entreprises to retrieve detailed business information including names, addresses, directors, and sector data based on search queries.

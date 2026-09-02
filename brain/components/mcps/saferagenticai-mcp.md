@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T09:23:06Z"
 ---
 ## What it is
 MCP server exposing the Safer Agentic AI safety framework: 238 patterns + 14 operational heuristics via 12 read-only stdio tools.

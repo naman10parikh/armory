@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:03:48Z"
 ---
 ## What it is
 A hosted remote MCP server for OpenAI Codex memory MCP, providing structured JSON tools to store, recall, and manage memory with token-based access and audit receipts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T05:28:41Z"
 ---
 ## What it is
 A local MCP server that manages Claude-to-Codex task orchestration on Windows, providing tools for creating, dispatching, and monitoring tasks with safety constraints.

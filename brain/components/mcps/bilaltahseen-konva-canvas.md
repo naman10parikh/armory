@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-22T06:59:27Z"
 ---
 ## What it is
 MCP server `Konva.js Canvas`, catalogued on PulseMCP. Enables 2D canvas drawing using Konva.js with tools for creating shapes, layers, groups, and exporting PNG images.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-08T10:58:00Z"
 ---
 ## What it is
 MCP server `Transport NSW`, catalogued on PulseMCP. Integrates with Transport NSW API to provide real-time public transportation data, including nearby stops, service alerts, and disruptions across trains, buses, and ferries throughout New South Wales.

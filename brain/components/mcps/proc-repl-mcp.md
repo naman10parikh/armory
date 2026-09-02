@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T07:06:54Z"
 ---
 ## What it is
 Enables stateful subprocess sessions (REPLs) and tmux-backed TUI program control for interactive tools like Python, r2, or shells.

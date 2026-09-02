@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
 stars: 47
+forks: 6
+pushed_at: "2025-10-07T09:43:52Z"
 ---
 ## What it is
 Gives LLMs the ability to manage Prisma Postgres databases (e.g. spin up new databases and run migrations or queries).

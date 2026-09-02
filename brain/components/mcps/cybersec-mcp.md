@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T06:14:19Z"
 ---
 ## What it is
 Enables Claude or any MCP-compatible client to execute cybersecurity workflows like incident response, cloud audits, and pentests by calling tools with 323 prompts across 8 categories.

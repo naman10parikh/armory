@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:32:54Z"
 ---
 ## What it is
 A simple MCP server providing ping, echo, and TCP host health-check tools with latency measurement. It enables transport testing and real network connectivity checks through natural language.

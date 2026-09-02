@@ -8,11 +8,13 @@ source_url: https://github.com/199-mcp/mcp-kling
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 4
+forks: 17
+pushed_at: "2025-06-14T20:23:56Z"
 ---
 ## What it is
 MCP server `Kling AI`, catalogued on PulseMCP. Integrates with Kling AI's video and image generation APIs to create high-quality videos from text prompts, convert images to videos, apply special effects, generate lip-sync videos, and perform virtual try-on operations with advanced camera controls and professional quality modes.

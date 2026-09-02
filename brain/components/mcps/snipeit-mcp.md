@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T01:22:31Z"
 ---
 ## What it is
 Read-only MCP server for Snipe-IT v7 REST API, providing search and retrieval of assets, users, models, categories, and locations without modification.

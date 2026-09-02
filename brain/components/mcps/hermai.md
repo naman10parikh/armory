@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-13T17:16:28Z"
 ---
 ## What it is
 MCP server `Hermai`, catalogued on PulseMCP. Schema lookup, request intake, and workflow classification for website APIs via MCP.

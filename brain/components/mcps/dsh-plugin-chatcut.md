@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T15:19:45Z"
 ---
 ## What it is
 MCP server that integrates ChatCut's video editing tools into DeepSeek Harness, enabling AI-powered video editing through natural language, including transcript-based edits, captions, motion graphics, and exports.

@@ -8,11 +8,13 @@ source_url: https://github.com/iola1999/codex-control-chrome-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-03T20:02:28Z"
 ---
 ## What it is
 Exposes the Codex Chrome extension flow to other Agent tools through MCP, enabling Chrome automation via CDP and tab management.

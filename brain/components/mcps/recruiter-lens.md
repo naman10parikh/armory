@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T11:00:33Z"
 ---
 ## What it is
 Audits GitHub repos and profiles for hiring signal, providing tools audit_repo and recruiter_scan for use with MCP clients.

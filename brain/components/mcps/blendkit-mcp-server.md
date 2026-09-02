@@ -8,11 +8,13 @@ source_url: https://github.com/RN0000/blendkit-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T16:09:58Z"
 ---
 ## What it is
 Enables AI agents to search and download 3D assets (models, materials, HDRs, brushes) from the BlenderKit library.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-27T11:51:24Z"
 ---
 ## What it is
 Enables querying Chess.com player profiles and stats using the Chess.com API.

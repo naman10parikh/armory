@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T16:05:54Z"
 ---
 ## What it is
 An AI-powered EV Digital Twin platform for battery health monitoring, predictive maintenance, fleet analytics, and intelligent decision support using MCP tools for SOH prediction and RUL estimation.

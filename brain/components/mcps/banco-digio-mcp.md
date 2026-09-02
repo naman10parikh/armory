@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:09Z"
 ---
 ## What it is
 Connects Banco Digio accounts to AI assistants via Open Finance Brasil. Enables natural language queries about balances, statements, credit card bills, and investments, read-only.

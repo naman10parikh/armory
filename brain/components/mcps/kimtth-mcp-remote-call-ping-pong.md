@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 2
+forks: 3
+pushed_at: "2025-04-08T07:46:39Z"
 ---
 ## What it is
 An experimental and educational app for Ping-pong server demonstrating remote MCP (Model Context Protocol) calls

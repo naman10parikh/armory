@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:34:57Z"
 ---
 ## What it is
 MCP Server for full Easypanel control via Claude Code, Cursor, and Claude Desktop. Provides 37 tools for deploy, logs, env vars, domains, databases, and monitoring with built-in safety guards.

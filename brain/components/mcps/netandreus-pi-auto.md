@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-21T18:06:04Z"
 ---
 ## What it is
 MCP server `Pi Auto`, catalogued on PulseMCP. Provides usage-aware model switching and load-balancing across coding agent backends like Claude Code, OpenAI Codex, and CursorAI.

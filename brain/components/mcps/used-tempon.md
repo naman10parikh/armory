@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T13:22:26Z"
 ---
 ## What it is
 Enables logging time to Tempo (Jira time tracker) via natural language in Claude Desktop or OpenCode.

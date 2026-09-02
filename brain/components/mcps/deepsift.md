@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-20T18:25:15Z"
 ---
 ## What it is
 DeepSIFT is an MCP server that wraps SANS SIFT Workstation forensic tools with structured JSON output and RAG threat intelligence, reducing LLM hallucinations in autonomous incident response.

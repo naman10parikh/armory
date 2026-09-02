@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-05T06:52:24Z"
 ---
 ## What it is
 An MCP server that provides AI-powered search capabilities including web, academic, YouTube, Reddit search and writing assistance via Perplexica.

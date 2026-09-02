@@ -8,10 +8,12 @@ source_url: https://github.com/vdalhambra/financekit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-17T14:12:05Z"
 ---
 ## What it is
 MCP server `FinanceKit`, catalogued on PulseMCP. Real-time stock quotes, cryptocurrency prices, and technical indicators (RSI, MACD, Bollinger Bands) with no API key for basic data.

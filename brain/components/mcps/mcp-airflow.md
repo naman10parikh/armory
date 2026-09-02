@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T00:44:18Z"
 ---
 ## What it is
 MCP server exposing Apache Airflow REST API operations as tools — list DAGs, inspect runs and task instances, trigger DAG runs, and check failed DAGs and scheduler health

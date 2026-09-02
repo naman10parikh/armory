@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T06:02:44Z"
 ---
 ## What it is
 Connects IDE to Figma Desktop App, enabling AI assistants to generate and manipulate layouts, shapes, and designs directly inside the Figma canvas.

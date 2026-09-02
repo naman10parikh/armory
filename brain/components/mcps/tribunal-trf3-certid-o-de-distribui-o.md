@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:54Z"
 ---
 ## What it is
 MCP server for consulting distribution certificates from TRF3 (Tribunal Regional Federal da 3ª Região) via official source, providing read-only access with usage-based pricing.

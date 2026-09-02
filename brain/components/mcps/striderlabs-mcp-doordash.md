@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-21T10:03:22Z"
 ---
 ## What it is
 AI agents can order DoorDash food delivery: search restaurants, browse menus, add items to cart, place orders, and track delivery in real-time.

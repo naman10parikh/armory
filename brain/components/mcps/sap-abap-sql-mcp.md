@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T00:31:24Z"
 ---
 ## What it is
 Provides tools to prepare and validate ABAP Open SQL statements for SAP's ADT data-preview console, automatically fixing dialect issues like parenthesis spacing and 255-character limits.

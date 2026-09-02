@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T16:04:33Z"
 ---
 ## What it is
 Enables preparing Foundry worlds and running encounters through the FoundryVTT REST API Relay, with tools for managing worlds, scenes, encounters, and table play.

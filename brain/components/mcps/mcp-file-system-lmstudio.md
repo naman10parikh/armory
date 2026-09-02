@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T06:56:19Z"
 ---
 ## What it is
 Exposes local LM Studio language models as MCP tools, enabling chat completions and model listing through a local OpenAI-compatible API without requiring API keys.

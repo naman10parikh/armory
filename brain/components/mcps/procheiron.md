@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:12:33Z"
 ---
 ## What it is
 MCP server that adds a trust layer to AI agent memory, enforcing independent review and tamper-evident audit chains for any memory store. It provides tools to search, get, propose, and promote memories under governance rules.

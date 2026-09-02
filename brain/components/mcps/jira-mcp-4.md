@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:10:26Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that integrates with Atlassian Jira to search issues, retrieve details, access comments, create new issues, and update issues.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-08T22:05:18Z"
 ---
 ## What it is
 Enables cloud LLM agents to discover and invoke physical hardware on edge and IoT devices through standard MCP tools, bridging constrained device channels like UART, BLE, and Wi-Fi.

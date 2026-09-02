@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:42:28Z"
 ---
 ## What it is
 Enables travel search workflows including airport lookup, route comparison, travel timing guidance, and external booking links with commission-eligible links.

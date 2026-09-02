@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-31T17:29:24Z"
 ---
 ## What it is
 MCP server for controlling Meticulous espresso machines via Claude and other AI clients.

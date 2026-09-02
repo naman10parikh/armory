@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T07:17:10Z"
 ---
 ## What it is
 A local, privacy-friendly pipeline for analyzing customer reviews using Ollama for sentiment analysis and issue clustering.

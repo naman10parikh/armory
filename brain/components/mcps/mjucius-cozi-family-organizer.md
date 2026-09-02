@@ -8,10 +8,12 @@ source_url: https://github.com/mjucius/cozi_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-31T01:40:47Z"
 ---
 ## What it is
 MCP server `Cozi Family Organizer`, catalogued on PulseMCP. Integrates with Cozi Family Organizer to manage shopping lists, todo items, calendar appointments, and family member coordination through natural conversation interfaces.

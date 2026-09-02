@@ -8,10 +8,12 @@ source_url: https://github.com/srobbin/opengov-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-09T15:08:59Z"
 ---
 ## What it is
 MCP server `OpenGov Socrata`, catalogued on PulseMCP. Enables access to public government datasets from Socrata-powered portals through a unified tool for searching, querying, and analyzing data like budgets, crime statistics, and transportation information without requiring an API key.

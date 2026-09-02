@@ -8,10 +8,12 @@ source_url: https://github.com/foxintheloop/uptier
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-11T21:47:25Z"
 ---
 ## What it is
 MCP server `UpTier`, catalogued on PulseMCP. Desktop task management application with AI-powered prioritization

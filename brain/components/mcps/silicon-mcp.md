@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T08:30:55Z"
 ---
 ## What it is
 A Model Context Protocol server for the Silicon Product API that enables searching products, comparing prices, and looking up product details across hundreds of stores.

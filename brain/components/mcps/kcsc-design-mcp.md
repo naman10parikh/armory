@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T08:33:57Z"
 ---
 ## What it is
 Enables AI assistants to retrieve and cite South Korean national construction standards (KDS/KCS) with tables and formula images via the KCSC OpenAPI, and to use design decision trees, validation, and blank Excel templates directly in the chat interface.

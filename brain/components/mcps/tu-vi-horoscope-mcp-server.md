@@ -8,11 +8,13 @@ source_url: https://github.com/nmhaaa3218/TuViMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-26T09:33:48Z"
 ---
 ## What it is
 Calculates Vietnamese Tử Vi horoscope charts, generating structured JSON with Thiên Bàn and Địa Bàn, transit analysis, and local persistence via SQLite.

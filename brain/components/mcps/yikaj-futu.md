@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-14T06:27:21Z"
 ---
 ## What it is
 MCP server `Futu API`, catalogued on PulseMCP. Integrates with Futu API for financial market data and trading capabilities, enabling algorithmic trading strategies and market analysis through tools for retrieving market snapshots, historical data, and managing trading operations.

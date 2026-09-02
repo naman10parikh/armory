@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-18T05:32:26Z"
 ---
 ## What it is
 Enables AI-powered slide deck creation using natural language, allowing users to generate, edit, and manage presentations through MCP clients like Cursor and Claude Code.

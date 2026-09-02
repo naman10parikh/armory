@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T12:09:05Z"
 ---
 ## What it is
 Enables querying PubChem compound properties and structure images through MCP, providing formula, molecular weight, SMILES, IUPAC name, and image URLs.

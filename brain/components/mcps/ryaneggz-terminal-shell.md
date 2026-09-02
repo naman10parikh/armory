@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-30T06:30:11Z"
 ---
 ## What it is
 MCP server `Terminal Shell`, catalogued on PulseMCP. Provides a containerized shell command execution environment with Docker support, enabling secure terminal operations through a FastMCP server implementation.

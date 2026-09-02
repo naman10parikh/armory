@@ -8,10 +8,12 @@ source_url: https://github.com/fabkho/the-i18n-kit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-24T20:49:40Z"
 ---
 ## What it is
 MCP server `Nuxt i18n`, catalogued on PulseMCP. Manage i18n translation files in Nuxt projects with structured tools for reading and writing translation keys.

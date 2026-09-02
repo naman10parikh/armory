@@ -8,10 +8,12 @@ source_url: https://github.com/erithwik/mcp-hn
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 76
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2025-07-14T02:15:28Z"
 ---
 ## What it is
 MCP server `Hacker News`, catalogued on PulseMCP. Integrates with Hacker News to fetch stories, comments, and user data, enabling tech news aggregation, trend analysis, and community engagement tracking.

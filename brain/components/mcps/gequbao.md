@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T05:50:42Z"
 ---
 ## What it is
 Enables searching for songs and retrieving direct MP3 play URLs from gequbao.net. Supports both simple keyword search and enriched result lookup.

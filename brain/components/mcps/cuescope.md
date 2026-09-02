@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T18:18:37Z"
 ---
 ## What it is
 CueScope is a read-first MCP server that gives AI assistants safe production intelligence for vMix workflows. It reads vMix state, explains what it sees, and helps users decide what to do next without mutating vMix by default.

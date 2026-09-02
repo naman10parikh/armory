@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T00:24:04Z"
 ---
 ## What it is
 Exposes the CINC Systems HOA management REST API as MCP tools, enabling natural language queries and actions for ACC requests, aged balances, vendor records, call logs, documents, and more.

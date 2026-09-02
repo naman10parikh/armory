@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-16T15:21:46Z"
 ---
 ## What it is
 A FastMCP server for analyzing outstanding local git changes that haven't made their way to GitHub yet.

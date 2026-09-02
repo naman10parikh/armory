@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T17:33:45Z"
 ---
 ## What it is
 Provides IP geolocation lookups via ip-api.com, including single and batch queries up to 100 IPs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-07-20T16:18:18Z"
 ---
 ## What it is
 Enables AI agents to read and draw on Figma canvas safely, with built-in safeguards for layout, overlays, and verification.

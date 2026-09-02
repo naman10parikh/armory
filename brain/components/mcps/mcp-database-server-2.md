@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:41:57Z"
 ---
 ## What it is
 Enables Claude to query and manage databases (SQLite, SQL Server, PostgreSQL, MySQL) through natural language, supporting read/write operations and schema management.

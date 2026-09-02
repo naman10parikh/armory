@@ -8,11 +8,13 @@ source_url: https://github.com/perforce/p4mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 115
+stars: 114
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 25
+pushed_at: "2026-08-04T06:01:51Z"
 ---
 ## What it is
 Integrates with Perforce P4 version control system via Model Context Protocol, providing safe read/write tools for changelists, files, shelves, workspaces, jobs, reviews, and server metadata.

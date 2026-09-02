@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-12T20:07:53Z"
 ---
 ## What it is
 Enables management of Vultr DNS records through natural language with AI assistants or direct Python integration.

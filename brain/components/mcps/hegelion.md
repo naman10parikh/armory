@@ -8,11 +8,13 @@ source_url: https://github.com/Hmbown/Hegelion
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 170
+stars: 172
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-03-15T21:59:26Z"
 ---
 ## What it is
 An MCP server that improves LLM reasoning through dialectical argumentation and generates verified code via a player-coach loop.

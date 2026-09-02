@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-21T15:46:00Z"
 ---
 ## What it is
 一个优化过的台湾法规查询MCP服务器，提供高效的法规搜索、条文查询和关键字搜索功能，支持摘要模式减少token消耗。

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T02:56:25Z"
 ---
 ## What it is
 Enables semantic recommendation for Obsidian vaults, allowing users to find related notes, forgotten knowledge, and missing connections through embedding similarity and wiki-link graph analysis.

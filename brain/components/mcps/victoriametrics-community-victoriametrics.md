@@ -8,10 +8,12 @@ source_url: https://github.com/victoriametrics/mcp-victoriametrics
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 169
+stars: 225
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-08-23T08:12:35Z"
 ---
 ## What it is
 MCP server `VictoriaMetrics`, catalogued on PulseMCP. Provides direct access to VictoriaMetrics monitoring instances for querying metrics, exploring time series data, analyzing alerting rules, and debugging configurations without requiring online access.

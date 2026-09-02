@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, tracing, testing]
+forks: 5
+pushed_at: "2024-06-26T16:57:45Z"
 ---
 ## What it is
 Baserun captures LLM traces via a lightweight decorator-based SDK and provides a dashboard for debugging prompt chains, testing variants, and measuring quality.

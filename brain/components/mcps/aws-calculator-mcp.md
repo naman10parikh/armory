@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-06-01T18:58:51Z"
 ---
 ## What it is
 Enables creating AWS cost estimates through natural language, generating shareable calculator.aws links, and retrieving actual calculated costs via headless Chrome, without requiring AWS credentials.

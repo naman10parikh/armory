@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T05:54:47Z"
 ---
 ## What it is
 An MCP server that downloads PDF files from URLs and converts them to Markdown format. Supports custom file names and directories, with security measures like SSRF protection.

@@ -8,10 +8,12 @@ source_url: https://github.com/awesimon/elasticsearch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-08-04T12:20:34Z"
 ---
 ## What it is
 MCP server `Elasticsearch`, catalogued on PulseMCP. Enables natural language interaction with Elasticsearch databases for search functionality and index management without requiring complex query syntax or API knowledge.

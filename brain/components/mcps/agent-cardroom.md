@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T02:17:10Z"
 ---
 ## What it is
 Enables users to play virtual-chip poker games like Texas Hold'em and Zha Jin Hua against bot opponents within Codex, with interactive UI or text commands.

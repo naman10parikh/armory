@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T13:58:19Z"
 ---
 ## What it is
 An MCP server that gives AI assistants deep understanding of your local Git repositories, providing instant repo overviews, change summaries, blame analysis, changelogs, branch health checks, and history search.

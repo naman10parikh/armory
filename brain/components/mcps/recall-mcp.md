@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T01:54:52Z"
 ---
 ## What it is
 Persistent memory MCP server for AI coding agents. Stores, searches, and retrieves context across sessions using SQLite and FTS5.

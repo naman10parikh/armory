@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-07T10:48:28Z"
 ---
 ## What it is
 Persistent memory + intelligent context for Claude Code. Save and reuse solutions, decisions, and patterns across projects.

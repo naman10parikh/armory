@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-15T19:38:18Z"
 ---
 ## What it is
 MCP server `Secure GitHub Ops`, catalogued on PulseMCP. GitHub automation server with approval gate pattern requiring explicit admin approval for all write operations.

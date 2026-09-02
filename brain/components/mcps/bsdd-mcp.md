@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:28:37Z"
 ---
 ## What it is
 Provides read-only access to the buildingSMART Data Dictionary (bSDD), enabling AI assistants to search and retrieve construction classifications, classes, properties, and relations through natural language.

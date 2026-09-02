@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T14:52:20Z"
 ---
 ## What it is
 Enables AI assistants to query a garage workshop database for live information on open jobs, vehicle history, parts availability, and bookings, and to append notes to job cards.

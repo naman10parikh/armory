@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T22:44:41Z"
 ---
 ## What it is
 A local-first MCP bridge and script operations layer that connects coding agents to authorized Roblox Luau development clients via websocket, enabling live execution, file watching, diagnostics, permission-gated script capsules, crash detection, and a dashboard.

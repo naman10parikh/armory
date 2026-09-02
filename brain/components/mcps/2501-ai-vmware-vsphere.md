@@ -8,10 +8,12 @@ source_url: https://github.com/2501-ai/vmware-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-24T15:01:51Z"
 ---
 ## What it is
 MCP server `VMware vSphere`, catalogued on PulseMCP. Manages VMware vSphere infrastructure through the govc CLI with 55 typed tools covering VM lifecycle, snapshots, datastores, and networking.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-05T17:36:20Z"
 ---
 ## What it is
 Enables shell command execution with automatic pagination for large outputs, supporting custom directories and timeouts.

@@ -8,10 +8,12 @@ source_url: https://github.com/zekker6/mcp-alertmanager
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-30T13:53:43Z"
 ---
 ## What it is
 MCP server `Prometheus Alertmanager`, catalogued on PulseMCP. Connects to Prometheus Alertmanager to list and filter alerts, manage silences with custom matchers, and support multi-tenant environments through flexible authentication options.

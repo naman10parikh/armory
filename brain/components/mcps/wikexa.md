@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T16:26:34Z"
 ---
 ## What it is
 Structured knowledge for AI agents — Wikipedia, Wikidata, Wiktionary and growing as clean JSON. 1.9M searchable. Free, no auth.

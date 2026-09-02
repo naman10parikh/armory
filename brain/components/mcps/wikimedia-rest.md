@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:49:25Z"
 ---
 ## What it is
 MCP server `Wikimedia REST`, catalogued on PulseMCP. Wikimedia REST API v1 access for Wikipedia articles, summaries, and metadata via MCP.

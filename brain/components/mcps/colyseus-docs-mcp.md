@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:34:28Z"
 ---
 ## What it is
 Provides AI agents with access to the Colyseus documentation, enabling searching, reading, and listing of documentation pages.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T18:59:18Z"
 ---
 ## What it is
 A read-only MCP server for Microsoft SQL Server that enables AI agents to safely explore and query SQL Server databases.

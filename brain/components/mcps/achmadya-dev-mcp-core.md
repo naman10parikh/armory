@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T07:40:51Z"
 ---
 ## What it is
 Provides a shared MCP SDK wrapper for building MCP servers with stdio transport, tool registration, JSON-safe responses, and environment helpers.

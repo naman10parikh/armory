@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T17:18:46Z"
 ---
 ## What it is
 A full-capability MCP server for Expensify that enables creating expenses, reports, managing policies, categories, tags, members, and expense rules, while restricting approval and payment operations.

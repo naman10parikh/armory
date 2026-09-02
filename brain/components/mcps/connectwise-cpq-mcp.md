@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T02:46:24Z"
 ---
 ## What it is
 MCP server for ConnectWise CPQ (Sell) enabling quote, line item, customer, term, template, tax code, recurring revenue, and user management via a 25-tool interface.

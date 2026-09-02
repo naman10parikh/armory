@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T17:43:42Z"
 ---
 ## What it is
 Fetches a URL and returns the main content as clean Markdown, using plain HTTP when possible and headless Chromium for JavaScript-rendered or bot-protected pages.

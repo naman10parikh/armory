@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:54:43Z"
 ---
 ## What it is
 Provides full-text retrieval of Zhihu answers/articles, complete comment trees, and type-specific search (questions, articles, users, topics) by wrapping the zhihu CLI.

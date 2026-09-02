@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-24T01:54:39Z"
 ---
 ## What it is
 Grafema builds a queryable knowledge graph of your codebase and allows you to enforce structural invariants and query the system using Datalog or Cypher.

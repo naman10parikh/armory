@@ -8,10 +8,12 @@ source_url: https://github.com/ymadd/shadcn-ui-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 59
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-14T06:54:28Z"
 ---
 ## What it is
 MCP server `Shadcn UI`, catalogued on PulseMCP. Provides a dynamic server for accessing shadcn/ui component documentation by scraping and caching information from the official documentation site and GitHub repository, enabling developers to list, retrieve, and search through React UI component details.

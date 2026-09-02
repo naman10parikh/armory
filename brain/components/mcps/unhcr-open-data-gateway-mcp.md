@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T08:50:04Z"
 ---
 ## What it is
 Provides a unified interface to access UNHCR's open data across statistics, RDF, and IATI MCP servers, enabling aggregated queries, cross-domain analytics, and dataset discovery.

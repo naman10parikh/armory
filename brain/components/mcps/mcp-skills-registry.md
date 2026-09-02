@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T08:12:38Z"
 ---
 ## What it is
 A monorepo MCP server that aggregates multiple sub-servers under a single HTTP endpoint, routing by path, and supports static skills registry with Cloudflare deployment.

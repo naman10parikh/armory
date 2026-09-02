@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T09:19:37Z"
 ---
 ## What it is
 MCP server `PForge`, catalogued on PulseMCP. Zero-boilerplate framework for building MCP servers with declarative YAML configuration

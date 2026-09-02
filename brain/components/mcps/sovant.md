@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-02T07:43:12Z"
 ---
 ## What it is
 MCP server `Sovant`, catalogued on PulseMCP. Persistent project memory through governed memory layer with git integration and semantic search.

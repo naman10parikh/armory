@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T10:50:40Z"
 ---
 ## What it is
 MCP server for Langfuse that lets Claude Code create projects, manage API keys, and query traces without touching the web UI. Designed to work with a self-hosted Langfuse v3 stack running locally via Docker Compose.

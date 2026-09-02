@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, home-automation]
-stars: 61
+stars: 63
+forks: 8
+pushed_at: "2026-05-23T18:28:13Z"
 ---
 ## What it is
 Control Xiaomi/Mijia smart home devices (lights, AC, heaters, robots, cameras) through MCP. Includes web dashboard, REST API, CLI, SocketIO, energy monitoring, and automation rules.

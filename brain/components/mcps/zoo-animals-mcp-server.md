@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-28T10:12:07Z"
 ---
 ## What it is
 Provides tools to get random zoo animals, search by name, and filter by type, returning detailed information including physical characteristics, habitat, diet, and images.

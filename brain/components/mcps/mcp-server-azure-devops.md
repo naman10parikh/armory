@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T12:37:41Z"
 ---
 ## What it is
 Enables interaction with Azure DevOps, including listing pipelines and runs, viewing logs and artifacts, collecting and normalizing security reports, and triggering pipelines with safety controls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T19:34:38Z"
 ---
 ## What it is
 Enables commerce operations specialists to investigate and resolve stuck orders by diagnosing issues and performing safe, bounded remediations through AI-driven tools.

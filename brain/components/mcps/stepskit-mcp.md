@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T17:32:19Z"
 ---
 ## What it is
 The StepsKit MCP server enables AI coding agents to install StepsKit and author in-app guidance such as product tours, tooltips, surveys, and announcements directly from the codebase.

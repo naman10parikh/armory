@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-04T19:39:56Z"
 ---
 ## What it is
 Bridges Web of Things (WoT) devices to AI assistants via MCP, enabling discovery, monitoring, and control of IoT devices through natural language.

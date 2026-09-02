@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-25T22:53:46Z"
 ---
 ## What it is
 MCP server `Modal`, catalogued on PulseMCP. Enables AI systems to deploy and execute serverless applications in the cloud through Modal's platform, providing tools for application deployment and function execution with custom parameters.

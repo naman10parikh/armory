@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T00:50:55Z"
 ---
 ## What it is
 MCP server `Mesh Status`, catalogued on PulseMCP. Monitors homelab mesh network status for multi-agent AI systems using FastMCP.

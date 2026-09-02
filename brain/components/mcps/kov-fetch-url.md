@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-13T19:17:18Z"
 ---
 ## What it is
 MCP server `Fetch URL`, catalogued on PulseMCP. Rust-based server that provides a fetch tool for retrieving content from URLs, enabling access to web documentation, online resources, and specific website information during conversations.

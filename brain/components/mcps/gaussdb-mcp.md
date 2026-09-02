@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T10:17:46Z"
 ---
 ## What it is
 MCP server for Huawei Cloud GaussDB database, offering 24 tools for connection testing, queries, transactions, metadata, diagnostics, and user management, plus schema resources.

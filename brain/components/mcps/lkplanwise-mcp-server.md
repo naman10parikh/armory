@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T15:04:29Z"
 ---
 ## What it is
 Stateless MCP adapter for the LKPlanWise Go REST API, enabling AI agents to call curated financial tools via Streamable HTTP while forwarding bearer credentials.

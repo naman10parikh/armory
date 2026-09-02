@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-02T16:10:24Z"
 ---
 ## What it is
 MCP server that enables AI agents to fetch and summarize WeChat public articles, supporting export to HTML, Markdown, Obsidian, Notion, and OneNote.

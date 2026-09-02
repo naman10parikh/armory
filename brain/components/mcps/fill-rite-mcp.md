@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T16:48:44Z"
 ---
 ## What it is
 Enables AI agents to interact with a user's Fill-Rite fuel management system, with token refresh handling for continuous access.

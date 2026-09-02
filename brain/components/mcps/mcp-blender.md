@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T22:27:18Z"
 ---
 ## What it is
 Enables LLM clients like Claude to control Blender remotely, including scene inspection, object creation/modification, and Python code execution, via a socket-based MCP server.

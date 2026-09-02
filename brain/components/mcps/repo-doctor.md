@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T19:45:41Z"
 ---
 ## What it is
 MCP server that produces scored, evidence-cited audits of public GitHub repos via tools for fetching metadata, reading files, scanning git history, and checking hygiene.

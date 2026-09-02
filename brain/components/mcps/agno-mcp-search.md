@@ -8,11 +8,13 @@ source_url: https://github.com/kishansri/agno-mcp-search
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T19:55:30Z"
 ---
 ## What it is
 An MCP server that exposes an Agno agent with Google Gemini reasoning and Serper web search, enabling MCP-compatible clients like Claude Desktop to perform agent-driven web searches and receive synthesized answers.

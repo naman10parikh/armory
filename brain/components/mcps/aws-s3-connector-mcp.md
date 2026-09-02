@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T11:08:13Z"
 ---
 ## What it is
 Enables MCP clients to connect to AWS S3 buckets, list, upload, and read objects in various formats, supporting public and private buckets with multiple transport modes.

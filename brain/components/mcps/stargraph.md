@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T00:31:35Z"
 ---
 ## What it is
 Enables evidence-first analytics over GitHub starred repositories, including search, similarity comparison, explanation, and clustering via MCP tools.

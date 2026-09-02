@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T23:18:28Z"
 ---
 ## What it is
 CLI-first web and code search for agents, with MCP support for integration with IDEs like Cursor, VS Code, and Claude Code.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 58
+forks: 15
+pushed_at: "2026-03-26T01:16:53Z"
 ---
 ## What it is
 Trade stocks and crypto on common brokerages (Robinhood, E*Trade, Coinbase, Kraken) via Trade Agent's MCP server.

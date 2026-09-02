@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T02:34:09Z"
 ---
 ## What it is
 Provides a keyless, unified view of developer registries (npm, PyPI, Docker Hub, VS Code Marketplace) with tools for package search, details, versions, downloads, dependency graphs, vulnerabilities, and security insights via the DevStack API.

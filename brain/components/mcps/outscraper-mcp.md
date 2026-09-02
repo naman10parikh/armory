@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T10:09:47Z"
 ---
 ## What it is
 Connects AI agents to Outscraper for business discovery, Google Maps intelligence, company and contact enrichment, review analysis, search, and structured web extraction.

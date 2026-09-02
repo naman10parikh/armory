@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T13:46:01Z"
 ---
 ## What it is
 Enables coding agents to capture, claim, and summarize ideas from an idea inbox, with queue/retain modes and budget tracking.

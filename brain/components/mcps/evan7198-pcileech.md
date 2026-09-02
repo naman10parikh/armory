@@ -8,10 +8,12 @@ source_url: https://github.com/evan7198/mcp_server_pcileech
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-04-11T01:55:04Z"
 ---
 ## What it is
 MCP server `PCILeech`, catalogued on PulseMCP. Direct memory access through PCILeech DMA hardware for debugging, reverse engineering, and security research

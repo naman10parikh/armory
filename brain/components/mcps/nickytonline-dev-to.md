@@ -8,10 +8,12 @@ source_url: https://github.com/nickytonline/dev-to-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-10-09T12:22:34Z"
 ---
 ## What it is
 MCP server `Dev.to`, catalogued on PulseMCP. Integrates with dev.to's public API to provide article retrieval, user information access, tag browsing, comment viewing, and content search capabilities for developers and content creators analyzing the dev.to ecosystem.

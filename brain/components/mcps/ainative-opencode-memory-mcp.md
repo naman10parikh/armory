@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T18:06:07Z"
 ---
 ## What it is
 Provides persistent memory for OpenCode coding agents, allowing them to store and recall architecture decisions, conventions, and gotchas across sessions via semantic search.

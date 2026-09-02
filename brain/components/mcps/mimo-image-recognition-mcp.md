@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T18:22:20Z"
 ---
 ## What it is
 A Node.js MCP server that enables image understanding by calling the MIMO multimodal model, supporting local file paths and URLs.

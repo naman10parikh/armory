@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T22:02:31Z"
 ---
 ## What it is
 Personal documentation index for agents and IDEs, accessible via MCP HTTP protocol.

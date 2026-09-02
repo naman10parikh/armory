@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T23:30:16Z"
 ---
 ## What it is
 A Model Context Protocol server that connects Claude to Zola, giving you natural-language access to your wedding vendors, budget, guest list, seating chart, events, registry, inquiries, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T04:40:23Z"
 ---
 ## What it is
 An autonomous code-reasoning agent that parses repositories using tree-sitter, indexes symbols into SQLite, and answers questions about the codebase through an agentic loop powered by Claude via OpenRouter.

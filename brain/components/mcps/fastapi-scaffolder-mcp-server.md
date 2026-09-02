@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:52:34Z"
 ---
 ## What it is
 Enables AI agents to scaffold production-ready FastAPI applications from YAML architecture specifications, generating modular project structures with routers, models, and tests.

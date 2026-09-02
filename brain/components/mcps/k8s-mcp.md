@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-15T22:38:20Z"
 ---
 ## What it is
 A lightweight MCP server that enables AI assistants to deploy, inspect, and operate Kubernetes workloads through high-level workflow tools, reducing token usage with structured outputs.

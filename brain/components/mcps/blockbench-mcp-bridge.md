@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T08:59:01Z"
 ---
 ## What it is
 Enables AI to control Blockbench for creating and editing 3D models, especially Minecraft-style pets, weapons, and animations, through structured MCP tools and reference image processing.

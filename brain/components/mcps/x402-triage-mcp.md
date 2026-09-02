@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T15:10:17Z"
 ---
 ## What it is
 Enables no-payment triage of x402 payment surfaces, 402 Index health checks, and paid review handoff for authorized inspection.

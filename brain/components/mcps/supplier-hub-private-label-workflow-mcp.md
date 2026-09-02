@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T08:27:55Z"
 ---
 ## What it is
 MCP server that automates Coupang Supplier Hub Private Label fulfillment workflows, including order lookup, confirmation, courier registration, waybill printing, and shipment document output, with a local dashboard and 16-step tools.

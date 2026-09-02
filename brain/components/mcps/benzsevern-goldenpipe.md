@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T14:10:26Z"
 ---
 ## What it is
 MCP server `GoldenPipe`, catalogued on PulseMCP. Data quality pipeline orchestrator chaining validation, transformation, and deduplication stages.

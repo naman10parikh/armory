@@ -12,6 +12,8 @@ stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-01-18T20:24:25Z"
 ---
 ## What it is
 MCP server `Claude API`, catalogued on PulseMCP. Integrates Claude API features, enabling direct API access, extended context windows, and advanced conversation management. Helpful to bypass standard daily limits of Claude.ai.

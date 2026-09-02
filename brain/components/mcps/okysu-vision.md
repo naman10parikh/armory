@@ -8,10 +8,12 @@ source_url: https://github.com/okysu/vision-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-24T08:03:13Z"
 ---
 ## What it is
 MCP server `Vision`, catalogued on PulseMCP. Add image and video understanding to AI workflows with 8 tools for UI-to-code conversion, text extraction, and diagram analysis.

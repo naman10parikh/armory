@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-18T20:51:02Z"
 ---
 ## What it is
 Provides real-time rocket alerts, historical statistics, shelter search, and city data through 12 MCP tools.

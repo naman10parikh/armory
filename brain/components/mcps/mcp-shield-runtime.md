@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T16:32:32Z"
 ---
 ## What it is
 MCP Shield Runtime is a local-first security gateway that controls MCP tool calls with parameter-level policies, approval gates, secret redaction, rate limiting, contract drift detection, and tamper-evident auditing before they reach the upstream MCP server.

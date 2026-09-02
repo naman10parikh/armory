@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T17:15:15Z"
 ---
 ## What it is
 Enables AI assistants to interact with the GitLab API, providing over 1000 tools for managing groups, projects, users, and more through natural language.

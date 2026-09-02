@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-22T09:30:14Z"
 ---
 ## What it is
 MCP server `Schema Gen by sharozdawa`, catalogued on PulseMCP. Generate Schema.org JSON-LD structured data markup for 12 content types including Person, Product, and FAQ.

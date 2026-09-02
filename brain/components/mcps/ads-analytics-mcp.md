@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T09:39:25Z"
 ---
 ## What it is
 Provides read access to campaign performance data from Google Ads, Meta Ads, and TikTok Ads via live API calls, enabling AI assistants to analyze and audit advertising campaigns.

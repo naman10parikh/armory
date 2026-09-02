@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-03T11:22:34Z"
 ---
 ## What it is
 MCP server `Garmin Connect`, catalogued on PulseMCP. Garmin Connect health and fitness data access with 34 tools.

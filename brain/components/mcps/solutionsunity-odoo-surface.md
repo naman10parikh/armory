@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-20T13:57:12Z"
 ---
 ## What it is
 MCP server `Odoo Surface`, catalogued on PulseMCP. Provides AI agents with user-equivalent access to Odoo 17+ ERP instances using a five-layer tool architecture scoped to authenticated permissions.

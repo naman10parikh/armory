@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T17:25:47Z"
 ---
 ## What it is
 A Python MCP server that provides language models full read/write access to a Node-RED instance through its Admin HTTP API, enabling flow management with structured Pydantic responses and incremental patching.

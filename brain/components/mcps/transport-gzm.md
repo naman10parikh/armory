@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T15:40:24Z"
 ---
 ## What it is
 Provides tools for AI agents to query live public transport data for GZM (Silesian Metropolis) including vehicle positions, trip updates, service alerts, and next arrivals.

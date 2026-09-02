@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 1
+forks: 0
+pushed_at: "2026-07-26T08:03:45Z"
 ---
 ## What it is
 An MCP server that acts as an AI collections agent for Australian tradies and SMEs, enabling automated chasing of overdue invoices, payment plans, and payments through a secure permissions engine.

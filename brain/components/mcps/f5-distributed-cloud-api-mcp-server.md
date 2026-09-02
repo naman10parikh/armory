@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T07:32:41Z"
 ---
 ## What it is
 Enables natural language interaction with F5 Distributed Cloud (F5XC) infrastructure through Claude, VS Code, and other MCP-compatible tools, providing over 1500 API tools.

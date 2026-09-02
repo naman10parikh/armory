@@ -8,10 +8,12 @@ source_url: https://github.com/chaindead/telegram-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 328
+stars: 345
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 57
+pushed_at: "2026-05-28T17:44:53Z"
 ---
 ## What it is
 MCP server `Telegram`, catalogued on PulseMCP. Bridges AI with Telegram to enable monitoring, organizing, and responding to messages through account access, dialog management, and conversation handling capabilities

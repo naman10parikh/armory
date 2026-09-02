@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T17:36:36Z"
 ---
 ## What it is
 A read-only MCP server for the NuMetric.work accounting/POS/ERP platform, exposing 38 tools to query live business data such as financial statements, invoices, taxes, projects, inventory, and documents. It enables AI assistants to answer from real accounting data without any create, edit, or delete 

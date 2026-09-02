@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-11T21:27:42Z"
 ---
 ## What it is
 MCP server `Cursor A11y`, catalogued on PulseMCP. Integrates accessibility testing capabilities using Puppeteer to perform automated WCAG compliance checks and generate remediation suggestions for web applications.

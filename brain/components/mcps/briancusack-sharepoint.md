@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-16T23:16:32Z"
 ---
 ## What it is
 MCP server `SharePoint`, catalogued on PulseMCP. Integrates with SharePoint through Microsoft Graph API to enable direct access, search, and analysis of organizational documents, folders, and sites without leaving your assistant interface.

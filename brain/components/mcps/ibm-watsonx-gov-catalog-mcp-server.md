@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-23T12:37:17Z"
 ---
 ## What it is
 Bridges AI agents with tools on IBM watsonx governed agentic catalog, enabling secure governance and tool invocation via the Model Context Protocol.

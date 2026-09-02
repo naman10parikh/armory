@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:23:59Z"
 ---
 ## What it is
 A minimalist and elegant Model Context Protocol (MCP) server for fast context memo capture, keyword search, dynamic resource digests, and AI prompt workflows.

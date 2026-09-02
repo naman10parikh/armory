@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T02:17:23Z"
 ---
 ## What it is
 OAuth-protected Uniswap swap service that enables AI agents to get price quotes and execute ETH↔USDC swaps via MCP tools or REST API.

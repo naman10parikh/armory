@@ -8,10 +8,12 @@ source_url: https://github.com/leehack/finance-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-24T00:22:23Z"
 ---
 ## What it is
 MCP server `SEC EDGAR`, catalogued on PulseMCP. Retrieves company financial data from SEC EDGAR database with financial statement analysis and investment research tools

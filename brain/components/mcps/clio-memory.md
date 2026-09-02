@@ -8,11 +8,13 @@ source_url: https://github.com/dan521627-hash/Clio-Memory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-26T03:23:48Z"
 ---
 ## What it is
 A self-hosted MCP memory and state system for long-running AI relationships, storing source text locally with explicit memory tools and a web manager for humans.

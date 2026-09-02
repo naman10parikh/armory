@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-12T22:46:05Z"
 ---
 ## What it is
 MCP server `its-just-ui`, catalogued on PulseMCP. Provides tools for generating, customizing, and documenting React components from the its-just-ui library through natural language interactions, enabling component creation with props and styling, form generation with validation, responsive layouts, theme configuration, and Tailwind CSS utility class generation.

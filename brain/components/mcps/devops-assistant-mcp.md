@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T08:06:42Z"
 ---
 ## What it is
 Enables querying local MySQL databases and managing Docker containers (listing, logs) through natural language via the Model Context Protocol.

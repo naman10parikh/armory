@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:28Z"
 ---
 ## What it is
 Enables AI assistants to securely read balances, statements, credit card bills, and investments from Safra accounts via Open Finance Brasil. Read-only, regulated by the Central Bank of Brazil.

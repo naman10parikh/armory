@@ -8,10 +8,12 @@ source_url: https://github.com/suryast/indonesia-civic-stack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-11T11:33:31Z"
 ---
 ## What it is
 MCP server `Indonesia Civic Stack`, catalogued on PulseMCP. Access 11 Indonesian government data portals with 40 tools covering food safety, halal certification, company registry, and more.

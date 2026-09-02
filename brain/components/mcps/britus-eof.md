@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T12:31:47Z"
 ---
 ## What it is
 MCP server `EoF Source Code Management`, catalogued on PulseMCP. Qt-based source code management providing file operations and metadata extraction for local development workflows

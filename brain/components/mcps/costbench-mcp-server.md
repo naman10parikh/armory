@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T23:29:27Z"
 ---
 ## What it is
 Enables access to verified software-pricing intelligence for over 3,290 products, including true costs, hidden fees, negotiation data, price history, and TCO calculations, all sourced and dated.

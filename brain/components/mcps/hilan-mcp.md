@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T06:26:54Z"
 ---
 ## What it is
 An MCP server that lets AI assistants pull payslips and Form 106 from any Hilan (Hilanet) tenant, using a headless browser and Hilan's internal endpoints to provide structured data and PDFs.

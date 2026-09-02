@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-24T00:36:30Z"
 ---
 ## What it is
 SchemaBrain is an MCP server that sits between AI agents (Claude, Cursor, Windsurf) and your SQL database as a read-only trust + intelligence layer. The agent never writes SQL — 12 tools compile it from definitions you control, PII and secret categories are refused before the query runs, and every c

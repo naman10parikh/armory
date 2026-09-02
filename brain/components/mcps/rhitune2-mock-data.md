@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-11T09:40:38Z"
 ---
 ## What it is
 MCP server `Mock Data Generator`, catalogued on PulseMCP. Provides tools for generating realistic mock data including personal information, company details, and custom fields using TypeScript and Faker.js for testing and development purposes.

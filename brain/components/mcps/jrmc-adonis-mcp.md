@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-30T13:42:17Z"
 ---
 ## What it is
 Enables AI clients to interact with AdonisJS applications through tools, resources, and prompts. Integrates authentication and authorization seamlessly.

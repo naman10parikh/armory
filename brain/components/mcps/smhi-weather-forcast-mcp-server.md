@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T15:39:49Z"
 ---
 ## What it is
 Provides access to Swedish weather data from SMHI, including 10-day forecasts and historical observations from over 996 stations.

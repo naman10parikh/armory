@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-02T16:06:06Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for analyzing browser extension security, providing tools for vulnerability detection, signature checking, code review, and security evaluation.

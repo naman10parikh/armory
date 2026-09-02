@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T18:21:12Z"
 ---
 ## What it is
 Exposes a bio-hybrid neuromorphic simulation pipeline (SNN, consciousness proxies, FinalSpark NeuroPlatform) as MCP tools, resources, and prompts for AI assistants like Claude, Cursor, and VS Code.

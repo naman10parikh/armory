@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T16:57:14Z"
 ---
 ## What it is
 A local-first MCP server that connects to legal case-management systems like ActaPort, letting AI agents read and prepare work for lawyer approval by replaying saved browser sessions.

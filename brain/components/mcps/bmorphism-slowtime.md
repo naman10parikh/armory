@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-01-02T01:23:33Z"
 ---
 ## What it is
 MCP server `Slowtime (Time & Intervals)`, catalogued on PulseMCP. Integrates drand and tlock-js to enable secure, time-locked encryption for managing scheduled events with cryptographic guarantees.

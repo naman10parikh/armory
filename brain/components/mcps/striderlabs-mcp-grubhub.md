@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T19:02:08Z"
 ---
 ## What it is
 Enables AI agents to autonomously order food from Grubhub, including searching restaurants, browsing menus, managing cart, placing orders, and tracking delivery.

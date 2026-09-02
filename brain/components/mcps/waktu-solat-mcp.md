@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T23:07:15Z"
 ---
 ## What it is
 MCP server for Malaysian prayer times, providing tools to get daily and monthly prayer schedules, next prayer times, and zone listings via the api.waktusolat.app.

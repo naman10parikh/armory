@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T21:57:00Z"
 ---
 ## What it is
 Enables AI assistants to autonomously perform site reliability engineering including monitoring, root-cause analysis, impact assessment, and remediation with cryptographic zero-trust enforcement.

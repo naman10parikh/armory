@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:52:01Z"
 ---
 ## What it is
 MCP server that acts as a temporal verification firewall, checking structured assumptions or diffs against immutable version receipts to return allow/block/abstain with cited evidence.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T12:51:16Z"
 ---
 ## What it is
 Provides read-only access to the Sleeper Fantasy Sports API for league info, rosters, matchups, drafts, transactions, and player data.

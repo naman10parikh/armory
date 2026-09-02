@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-21T09:12:04Z"
 ---
 ## What it is
 Provides tools to fetch web content in HTML, JSON, text, or Markdown formats via MCP. Supports custom headers, length limits, and start index.

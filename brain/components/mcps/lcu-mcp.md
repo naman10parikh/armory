@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T23:24:31Z"
 ---
 ## What it is
 Provides MCP tools to interact with a running League of Legends client, including REST API calls, live event streaming, and DOM/JavaScript access.

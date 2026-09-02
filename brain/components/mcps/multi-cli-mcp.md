@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-08-03T13:55:34Z"
 ---
 ## What it is
 An MCP server that bridges multiple AI clients (Claude, Gemini, Codex, OpenCode) so they can call each other as tools.

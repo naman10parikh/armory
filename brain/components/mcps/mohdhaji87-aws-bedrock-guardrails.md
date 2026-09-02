@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-16T21:04:45Z"
 ---
 ## What it is
 MCP server `AWS Bedrock Guardrails`, catalogued on PulseMCP. Provides complete AWS Bedrock Guardrails management with full CRUD operations for all policy types including content filtering, topic restrictions, word blocking, and sensitive information detection, plus Terraform export functionality for infrastructure-as-code workflows.

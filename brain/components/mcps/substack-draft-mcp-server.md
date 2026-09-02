@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T16:08:59Z"
 ---
 ## What it is
 Private MCP server for validating, previewing, creating, and updating Substack newsletter drafts through an MCP-compatible client.

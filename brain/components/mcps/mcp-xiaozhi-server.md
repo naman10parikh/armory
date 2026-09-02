@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-04T12:05:15Z"
 ---
 ## What it is
 Enables to modify and manage XiaoZhi platform agents, including changing LLM, TTS, voice, role template, and name, as well as retrieving agent list information.

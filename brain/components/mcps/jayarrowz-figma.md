@@ -8,10 +8,12 @@ source_url: https://github.com/thirdstrandstudio/mcp-figma
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 76
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-02-21T13:31:06Z"
 ---
 ## What it is
 MCP server `Figma`, catalogued on PulseMCP. Integrates with Figma's API to enable viewing, manipulating, and collaborating on design files through comprehensive access to file operations, comments, components, and team resources.

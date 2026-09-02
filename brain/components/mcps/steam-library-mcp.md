@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T18:36:36Z"
 ---
 ## What it is
 Provides Steam library intelligence including ownership, store briefs, deals, discovery, wishlist updates, co-op planning, achievements, and optional local actions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T21:13:32Z"
 ---
 ## What it is
 Enables AI agents to forecast asset price paths using Monte Carlo simulation with EGARCH volatility and skewed-t shocks, providing risk metrics and percentiles.

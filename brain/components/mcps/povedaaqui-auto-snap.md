@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-23T19:27:09Z"
 ---
 ## What it is
 MCP server `Auto Snap`, catalogued on PulseMCP. Provides automated snapshot functionality for capturing and managing system or application state at specific points in time

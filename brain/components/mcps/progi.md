@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T13:14:01Z"
 ---
 ## What it is
 Workflow engine that teaches your agent how YOU like to get things done. So you can do your best work without re-explaining your process or losing context between sessions.

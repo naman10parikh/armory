@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T12:51:28Z"
 ---
 ## What it is
 An MCP server that bridges any MCP-capable AI host to Roblox Studio. The AI executes Lua live in Studio, reads output/errors, and iterates.

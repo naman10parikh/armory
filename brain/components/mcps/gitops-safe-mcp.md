@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T00:44:13Z"
 ---
 ## What it is
 Enables read-only inspection of Git repository status and diff summaries, along with validation of OpenTofu and Ansible configurations, through a strictly limited, non-mutating toolset.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-15T09:41:50Z"
 ---
 ## What it is
 MCP server `Tagny Web Access`, catalogued on PulseMCP. Provides web access tools for fetching URL text content and extracting page links using BeautifulSoup for HTML parsing, enabling locally served LLMs to browse and process web content.

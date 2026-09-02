@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-29T21:32:52Z"
 ---
 ## What it is
 Auto-generates MCP tools from Payload CMS 3.0 TypeScript type definitions, providing an HTTP endpoint for LLMs to generate Payload code.

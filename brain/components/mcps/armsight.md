@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T22:12:20Z"
 ---
 ## What it is
 An MCP server that autonomously optimizes ONNX ML models for Arm64 deployment, providing tools to analyze models, apply real INT8 quantization, benchmark performance, and generate Arm64-optimized Docker deployment packages.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T21:56:48Z"
 ---
 ## What it is
 MCP server for programmable bench power supply control, enabling autonomous bootloader-entry probing via precise power cycling and telemetry.

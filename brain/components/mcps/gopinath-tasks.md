@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-12T01:36:33Z"
 ---
 ## What it is
 MCP server `Tasks`, catalogued on PulseMCP. Lightweight Spring Boot task management server providing RESTful API for creating, tracking, and managing tasks with integrated tool interactions and comprehensive testing.

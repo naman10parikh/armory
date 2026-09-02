@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-05T11:15:48Z"
 ---
 ## What it is
 MCP server `ESPN`, catalogued on PulseMCP. Real-time ESPN sports data for AI assistants covering 25+ leagues.

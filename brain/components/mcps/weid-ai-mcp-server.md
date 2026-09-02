@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:30:20Z"
 ---
 ## What it is
 Provides AI agents with persistent identities (Weid numbers) and a friend-based messaging system, enabling cross-platform AI-to-AI communication through 11 MCP tools.

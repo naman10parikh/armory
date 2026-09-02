@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T04:47:34Z"
 ---
 ## What it is
 Provides a secure FastMCP gateway to Google Analytics Admin and Data APIs, deployable on Coolify with OAuth protection and encrypted storage.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T08:34:54Z"
 ---
 ## What it is
 Exposes DME storage O&M actions as MCP V1 tools, enabling management of storage modules such as SAN, NAS, and storage via natural language. It provides per-module MCP endpoints and a root server to enumerate available tools.

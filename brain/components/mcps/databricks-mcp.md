@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T08:52:32Z"
 ---
 ## What it is
 Exposes Databricks REST APIs as MCP tools for managing and querying a Databricks workspace, including clusters, jobs, SQL, Unity Catalog, and more.

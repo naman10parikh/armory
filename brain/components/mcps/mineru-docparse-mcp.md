@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T13:33:54Z"
 ---
 ## What it is
 Converts Word, PDF, PPT, and Excel documents to Markdown using the MinerU DocParse API. Supports synchronous parsing and async background tasks for large files.

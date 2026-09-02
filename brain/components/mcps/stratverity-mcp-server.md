@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T14:27:23Z"
 ---
 ## What it is
 Enables auditing and verification of algorithmic trading backtests from coding agents like Claude Code, Cursor, and Windsurf, including look-ahead bias detection, overfitting checks, and sealed audit proof verification.

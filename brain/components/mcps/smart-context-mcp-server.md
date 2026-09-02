@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-04T12:47:35Z"
 ---
 ## What it is
 An AI Context Engineer that transforms vague queries into structured context packages for LLMs by extracting code, mapping relationships, and providing insights.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-17T12:06:44Z"
 ---
 ## What it is
 Unified crypto tool directory MCP server enabling AI agents to discover, evaluate, and install crypto tools across multiple sources with trust scoring and x402 payment support.

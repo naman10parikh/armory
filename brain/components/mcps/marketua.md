@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:27:03Z"
 ---
 ## What it is
 Search Ukrainian marketplaces (OLX, Hotline, Prom; Rozetka via Bright Data MCP) from a plain-language prompt and get structured offers with prices and links.

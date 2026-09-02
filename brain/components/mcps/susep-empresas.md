@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:31Z"
 ---
 ## What it is
 Enables read-only queries to official SUSEP data on Brazilian insurance companies via a hosted MCP server with prepaid pay-per-use access and no platform credentials required.

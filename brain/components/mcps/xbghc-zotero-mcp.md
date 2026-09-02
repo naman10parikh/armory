@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T05:03:29Z"
 ---
 ## What it is
 Enables querying, creating, and managing Zotero references via the MCP protocol.

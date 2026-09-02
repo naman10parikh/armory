@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-27T06:09:33Z"
 ---
 ## What it is
 MCP server `ShippingRates`, catalogued on PulseMCP. Container shipping intelligence with demurrage, detention, and local charge data from verified carrier tariffs.

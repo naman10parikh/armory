@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T23:25:45Z"
 ---
 ## What it is
 Enables LLM-powered debugging with rr reverse execution, allowing record and replay of program execution via GDB/MI for forward and reverse state inspection.

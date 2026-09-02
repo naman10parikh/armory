@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T17:22:32Z"
 ---
 ## What it is
 Enables per-claim citation verification for AI-generated text by fetching cited sources and judging whether they support the claim, with verdicts and evidence quotes.

@@ -8,10 +8,12 @@ source_url: https://github.com/cerebrocanibalus/ultra-godot-mcp-asl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-27T22:30:46Z"
 ---
 ## What it is
 MCP server `Godot Engine`, catalogued on PulseMCP. Control Godot Engine projects with 42 tools for scene, node, and resource management using native .tscn parsing.

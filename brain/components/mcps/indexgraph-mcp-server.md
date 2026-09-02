@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T08:56:27Z"
 ---
 ## What it is
 Enables querying functions and their call relationships in frontend HTML inline scripts via indexgraph_node and indexgraph_explore tools.

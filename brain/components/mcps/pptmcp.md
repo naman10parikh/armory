@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-09-01T22:36:21Z"
 ---
 ## What it is
 Enables AI assistants to automate Microsoft PowerPoint through natural language, supporting slide creation, text formatting, charts, animations, and export via the COM API.

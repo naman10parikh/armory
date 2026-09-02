@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T18:16:00Z"
 ---
 ## What it is
 A server that summarizes and records conversation key points, supporting adding summaries and viewing history.

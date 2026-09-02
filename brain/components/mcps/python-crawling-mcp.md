@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T10:10:23Z"
 ---
 ## What it is
 An MCP server for safe web crawling and scraping of public and authenticated sites using Playwright and Crawlee. It provides tools for scraping single pages, crawling entire sites, validating sessions, and listing supported sites, with built-in security protections and adapter-based extensibility.

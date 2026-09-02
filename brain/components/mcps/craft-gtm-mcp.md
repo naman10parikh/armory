@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-16T14:56:34Z"
 ---
 ## What it is
 8 strategic GTM execution tools for founders, CMOs, and strategy leaders covering PMF assessment, launch planning, customer research, retention, partner programs, crisis management, and competitive intelligence.

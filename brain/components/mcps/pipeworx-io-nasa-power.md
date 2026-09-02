@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:24:07Z"
 ---
 ## What it is
 MCP server `NASA POWER`, catalogued on PulseMCP. Query NASA's POWER dataset for solar irradiance, wind speed, temperature, and humidity data by geographic location to support renewable energy and agricultural research.

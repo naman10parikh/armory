@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-06T19:06:20Z"
 ---
 ## What it is
 MCP server `CleanURI URL Shortener`, catalogued on PulseMCP. Integrates with CleanURI API to transform long URLs into shortened links.

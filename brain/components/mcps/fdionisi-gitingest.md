@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-23T16:07:30Z"
 ---
 ## What it is
 MCP server `GitIngest`, catalogued on PulseMCP. Provides direct access to GitHub and GitLab repositories for code exploration, searching, and analysis with intelligent file filtering and support for various Git references.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-09T14:43:50Z"
 ---
 ## What it is
 MCP server `Industrial IoT Monitoring`, catalogued on PulseMCP. Industrial IoT monitoring system combining OPC UA simulation, LSTM autoencoder anomaly detection, and local LLM explanations for real-time equipment monitoring with natural language insights.

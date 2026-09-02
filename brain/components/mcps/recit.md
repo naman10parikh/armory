@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T06:17:29Z"
 ---
 ## What it is
 Free, open-source screen recording MCP server for AI agents. Enables screen capture, screenshots, and frame extraction locally without cloud dependencies.

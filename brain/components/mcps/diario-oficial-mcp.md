@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T20:10:14Z"
 ---
 ## What it is
 Downloads the Colombian Diario Oficial daily PDF from the Imprenta Nacional public consultation portal, providing tools to list recent editions and download by date or number.

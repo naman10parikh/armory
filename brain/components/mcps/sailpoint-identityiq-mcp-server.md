@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-29T18:49:00Z"
 ---
 ## What it is
 This server enables interaction with SailPoint IdentityIQ through SCIM API endpoints, allowing MCP clients like Claude Desktop to manage identity resources using natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-30T22:41:11Z"
 ---
 ## What it is
 A Model Context Protocol server for controlling LIFX smart lights, enabling AI assistants to manage power, color, brightness, effects, and scenes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T21:48:55Z"
 ---
 ## What it is
 Enables AI agents to query the official Spanish AEMPS/CIMA registry for real-time pharmaceutical data, including medications, supply problems, and clinical equivalences.

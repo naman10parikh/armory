@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-11T22:38:37Z"
 ---
 ## What it is
 Enables semantic search over an Obsidian vault using natural language, retrieving relevant notes and extracted conclusions.

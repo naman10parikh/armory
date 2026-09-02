@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:34:38Z"
 ---
 ## What it is
 MCP server providing address-level US property records, including sales history, with natural language query capability via Pipeworx.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:55Z"
 ---
 ## What it is
 MCP server `QR Code`, catalogued on PulseMCP. Generate QR codes from text or URLs. Returns base64 PNG. x402 micropayment.

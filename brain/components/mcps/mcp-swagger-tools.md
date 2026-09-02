@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T06:54:20Z"
 ---
 ## What it is
 Automatically parses Swagger/OpenAPI documentation, generates frontend code (Vue3, React, etc.), and enables API testing through natural language commands.

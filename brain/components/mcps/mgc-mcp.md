@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T08:09:22Z"
 ---
 ## What it is
 Enables querying Mega MGC Coffee store locations, menu items, and real-time stock (sold-out) status across all stores using the official app API.

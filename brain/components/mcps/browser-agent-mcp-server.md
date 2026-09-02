@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T08:15:48Z"
 ---
 ## What it is
 Provides browser automation capabilities through Claude Desktop and other MCP clients, enabling navigation, screenshot capture, content extraction, and interactive control.

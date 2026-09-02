@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T14:39:13Z"
 ---
 ## What it is
 Connects AI assistants like Cursor and Claude to your local Daylens timeline so they can answer questions about your past work sessions, no cloud or API keys needed.

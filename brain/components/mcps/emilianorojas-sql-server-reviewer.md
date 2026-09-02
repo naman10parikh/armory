@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-28T21:42:27Z"
 ---
 ## What it is
 MCP server `SQL Server Reviewer`, catalogued on PulseMCP. Read-only MCP server for SQL Server database analysis with 9 tools for schema inspection, stored procedure review, dependency mapping, and index analysis.

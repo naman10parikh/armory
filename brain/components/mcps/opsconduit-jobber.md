@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T16:29:40Z"
 ---
 ## What it is
 MCP server `Jobber`, catalogued on PulseMCP. Read-only MCP server for Jobber field-service operations reports via the GraphQL API.

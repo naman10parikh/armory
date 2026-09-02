@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-20T13:01:22Z"
 ---
 ## What it is
 Enables AI assistants to look up, search, validate, navigate hierarchies, and expand value sets for SNOMED CT clinical terminology through the Model Context Protocol.

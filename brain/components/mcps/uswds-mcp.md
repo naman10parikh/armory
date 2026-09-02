@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T13:54:08Z"
 ---
 ## What it is
 Provides AI coding tools with structured access to U.S. Web Design System components, patterns, templates, and accessibility guidance for building government websites.

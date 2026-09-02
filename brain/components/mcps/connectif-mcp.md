@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T15:17:12Z"
 ---
 ## What it is
 Minimal MCP server exposing the Connectif HTTP API to MCP clients over stdio, enabling operations like contacts, purchases, products, exports, imports, workflows, and more.

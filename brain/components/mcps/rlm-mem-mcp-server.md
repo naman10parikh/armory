@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-22T02:26:07Z"
 ---
 ## What it is
 An MCP server implementing the TRUE Recursive Language Model technique for managing large context windows in Claude Code, enabling analysis of codebases beyond 200k tokens by storing content as variables and using LLM-generated code for search and analysis.

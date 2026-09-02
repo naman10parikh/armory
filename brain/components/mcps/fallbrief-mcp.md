@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T14:58:58Z"
 ---
 ## What it is
 Exposes foldkit primitives (7-prime spine, κ-bands, and 6 fold operations) as MCP tools and resources for AI agents to fold, unfold, classify, and manipulate 7-vector states.

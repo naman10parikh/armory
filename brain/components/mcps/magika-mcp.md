@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T21:14:18Z"
 ---
 ## What it is
 Enables AI-powered file type detection using Google Magika, identifying file types from content via tools like identify_file, identify_directory, and list_supported_types.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T11:30:13Z"
 ---
 ## What it is
 Enables AI agents to launch, inspect, control, debug, and hot-reload live Mengine game builds through Visual Studio Code or standard MCP clients.

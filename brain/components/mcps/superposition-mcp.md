@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T07:39:48Z"
 ---
 ## What it is
 Provides a deterministic, keyless two-pole terrain map from an agent's task framings to counter premature collapse in reasoning, working offline or via API.

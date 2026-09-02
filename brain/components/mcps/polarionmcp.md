@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T08:06:25Z"
 ---
 ## What it is
 A CLI-first Polarion ALM client with MCP server support for AI assistants, enabling natural language interaction with Polarion projects, work items, tests, and plans.

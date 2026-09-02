@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:38:44Z"
 ---
 ## What it is
 Universal MCP server for WordPress & WooCommerce, enabling AI agents to execute PHP, extract product attributes, and manage 38 builders/plugins with a WSOD-safe sandbox and persistent project memory.

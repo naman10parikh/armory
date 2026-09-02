@@ -12,6 +12,8 @@ stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-05-16T05:22:27Z"
 ---
 ## What it is
 MCP server `Claude Code Review`, catalogued on PulseMCP. Provides a server for obtaining structured and freeform code reviews from OpenAI, Google, and Anthropic models with support for project context, related files, and language detection.

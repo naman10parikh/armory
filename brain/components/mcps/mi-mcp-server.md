@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T04:01:09Z"
 ---
 ## What it is
 A TypeScript-based MCP server that connects with MCP clients like Claude, VS Code, and Cursor, providing tools like echo, sum, time, and customizable prompts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T23:42:39Z"
 ---
 ## What it is
 Converts oversized JSON arrays into a compact toon-style textual representation to reduce token consumption and compress context for LLM agent pipelines.

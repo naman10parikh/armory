@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-26T17:36:12Z"
 ---
 ## What it is
 MCP server `Database Lookup Protocol`, catalogued on PulseMCP. Provides read-only database schema inspection and safe query execution across PostgreSQL, MySQL, MongoDB, and SQL Server.

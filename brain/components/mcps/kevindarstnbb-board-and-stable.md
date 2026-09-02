@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-31T21:52:32Z"
 ---
 ## What it is
 MCP server `Board & Stable`, catalogued on PulseMCP. Search horse boarding facilities and trainers across 44 US states.

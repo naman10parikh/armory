@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:37Z"
 ---
 ## What it is
 Enables consulting Brazilian federal tax debt certificates (CND) from the official PGFN source through a read-only MCP tool, with pay-per-use hosted access.

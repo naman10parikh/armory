@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-01T20:12:58Z"
 ---
 ## What it is
 MCP server `Cluster API`, catalogued on PulseMCP. Provides secure bridge to Kubernetes Cluster API management clusters, enabling creation, scaling, and lifecycle management of Kubernetes clusters across cloud providers with AWS support, node management, kubeconfig retrieval, and comprehensive monitoring capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T10:41:06Z"
 ---
 ## What it is
 A paid callable research agent that provides source-backed reports, onchain intelligence, and claim verification via MCP tools for coding tools like Codex, Claude Code, Cursor, and Windsurf.

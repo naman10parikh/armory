@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T17:49:22Z"
 ---
 ## What it is
 Provides Korean market data (products, trends, stocks, real estate) in English JSON for AI agents, with 13 tools including search, trends, and stock analysis.

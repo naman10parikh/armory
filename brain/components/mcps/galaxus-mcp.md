@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T12:15:32Z"
 ---
 ## What it is
 Enables AI assistants to search products and retrieve detailed information from Galaxus and Digitec, including prices, specifications, and price history.

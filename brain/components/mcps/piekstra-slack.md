@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-14T21:44:01Z"
 ---
 ## What it is
 MCP server `Slack`, catalogued on PulseMCP. Integrates with Slack Web API to provide complete workspace management including channel operations, messaging, file uploads, reactions, user management, and rich Block Kit message formatting with secure credential storage.

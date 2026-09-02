@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T02:08:26Z"
 ---
 ## What it is
 Delegates bounded coding tasks from MCP clients to the Pi Coding Agent over stdio. Supports review, verification, implementation, and batch operations with long-running task polling.

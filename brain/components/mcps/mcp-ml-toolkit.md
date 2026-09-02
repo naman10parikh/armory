@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T11:10:45Z"
 ---
 ## What it is
 基于FastMCP和scikit-learn构建的机器学习MCP服务器，提供30个工具覆盖分类、回归、聚类、降维、模型评估和数据预处理。

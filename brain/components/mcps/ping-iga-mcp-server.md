@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T05:34:59Z"
 ---
 ## What it is
 MCP server exposing Ping IGA self-service governance operations (access requests, approvals, certifications, and manual tasks) to MCP clients, acting on behalf of the authenticated user.

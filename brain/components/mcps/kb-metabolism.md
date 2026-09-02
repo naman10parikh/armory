@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T02:59:10Z"
 ---
 ## What it is
 A knowledge base MCP server that manages notes with digestion and excretion features, supporting search, read, and stats tools.

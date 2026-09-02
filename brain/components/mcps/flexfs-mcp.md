@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T09:31:49Z"
 ---
 ## What it is
 Provides secure file system, web fetching, and Google Cloud Storage access for AI IDEs.

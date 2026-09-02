@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:09:49Z"
 ---
 ## What it is
 A sovereign, MIT-licensed MCP server wrapping @ai-native-solutions/falloptom-sdk, enabling offline-capable, Ed25519-signed professional service workflow tools.

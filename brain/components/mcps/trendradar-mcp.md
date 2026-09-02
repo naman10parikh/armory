@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T02:45:03Z"
 ---
 ## What it is
 Provides AI assistants with access to TrendRadar's aggregated news feeds, enabling intelligent analysis, personalized filtering, and multi-channel notifications for real-time hot topics.

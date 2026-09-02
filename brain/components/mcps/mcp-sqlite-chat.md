@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T12:21:51Z"
 ---
 ## What it is
 Enables querying and managing a SQLite database using natural language, with an MCP server and Groq LLM.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:42Z"
 ---
 ## What it is
 Linux system administration via AI agents — MCP server for managing services, processes, disk, network and logs on Linux systems.

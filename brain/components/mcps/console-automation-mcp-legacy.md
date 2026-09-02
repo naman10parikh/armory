@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T04:52:06Z"
 ---
 ## What it is
 Legacy MCP server for console automation that preserves interactive sessions, a 40-tool command/test surface, and legacy protocol adapters for local/remote execution. Intended only for migrations to RunBeacon 3.0.

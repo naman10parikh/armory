@@ -8,10 +8,12 @@ source_url: https://github.com/alex-rimerman/statcast-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-13T23:01:55Z"
 ---
 ## What it is
 MCP server `Statcast`, catalogued on PulseMCP. Queries MLB Statcast data from Baseball Savant, FanGraphs, and Baseball Reference using natural language.

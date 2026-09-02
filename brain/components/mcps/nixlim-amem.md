@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-19T03:53:21Z"
 ---
 ## What it is
 MCP server `A-MEM (Agentic Memory)`, catalogued on PulseMCP. Provides persistent memory capabilities for coding contexts using ChromaDB vector storage and semantic search, enabling storage and retrieval of coding memories with AI-generated keywords, automated memory network evolution, and contextual assistance across development sessions.

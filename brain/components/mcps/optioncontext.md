@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T04:36:37Z"
 ---
 ## What it is
 Official MCP Server for Indian Stock Market (NSE & BSE) equities, futures context, and option chains.

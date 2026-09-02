@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 1
+forks: 1
+pushed_at: "2026-05-02T20:52:28Z"
 ---
 ## What it is
 3D printing filament and materials knowledge base. 6,957 filaments from SpoolmanDB with material properties, print settings, manufacturer data, and troubleshooting guides. 8 tools for searching filaments, comparing materials, and diagnosing print issues. `npx 3dprint-oracle`

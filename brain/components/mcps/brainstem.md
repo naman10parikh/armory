@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T03:03:59Z"
 ---
 ## What it is
 Local-first knowledge backend for AI agents that connects MCP hosts to an Obsidian-compatible vault with indexed retrieval, token-budgeted memory recall, and secure ingestion.

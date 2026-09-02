@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-19T12:04:10Z"
 ---
 ## What it is
 MCP server `DocTranslate.io`, catalogued on PulseMCP. Integrates with DocTranslate.io's API to provide document translation and conversion capabilities across multiple formats including DOCX, PDF, PPTX, and XLSX with support for 26 languages, customizable tone and domain settings, bilingual output options, and credit usage monitoring for automated multilingual document workflows.

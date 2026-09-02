@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-28T06:57:23Z"
 ---
 ## What it is
 Guides users to official WCAG and W3C resources for learning web accessibility, without providing its own explanations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T12:56:20Z"
 ---
 ## What it is
 Enables natural-language-driven exploration, querying, and full configuration management of Salesforce Data Cloud / Data 360 via MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T13:45:28Z"
 ---
 ## What it is
 MCP server that serves tools for interacting with a users API over stdio, supporting operations like finding users. It provides a validated configuration and structured logging for building MCP-based user management workflows.

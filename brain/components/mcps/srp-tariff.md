@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T05:33:17Z"
 ---
 ## What it is
 Enables exact residential electricity rates and itemized bills for Salt River Project, computed from filed tariffs with citations, via tools for listing plans, getting rates, and calculating bills.

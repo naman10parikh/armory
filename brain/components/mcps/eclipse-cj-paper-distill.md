@@ -8,10 +8,12 @@ source_url: https://github.com/eclipse-cj/paper-distill-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 64
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-24T11:36:12Z"
 ---
 ## What it is
 MCP server `Paper Distill`, catalogued on PulseMCP. Automated academic paper discovery and curation across nine research databases with AI-powered filtering, Zotero and Obsidian integration, and multi-platform notifications.

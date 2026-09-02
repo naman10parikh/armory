@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T12:49:28Z"
 ---
 ## What it is
 Connects AI assistants to the Open Library API for searching books and authors, retrieving metadata, and comparing works.

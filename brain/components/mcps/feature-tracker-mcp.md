@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T23:06:49Z"
 ---
 ## What it is
 Enables coordinating multiple AI coding sessions by tracking features, decisions, and approval gates in a per-project Postgres database, with atomic IDs and commit-stamped append-only history.

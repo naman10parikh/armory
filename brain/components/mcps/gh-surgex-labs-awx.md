@@ -8,10 +8,12 @@ source_url: https://github.com/surgex-labs/awx-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-02-23T03:35:10Z"
 ---
 ## What it is
 MCP server `AWX by SurgeX-Labs`, catalogued on PulseMCP. Control AWX and Ansible Tower through natural language with 49 automation tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T16:26:11Z"
 ---
 ## What it is
 Automates backlink discovery and outreach for calcolatorigratis.com using Google CSE, Hunter.io, Open PageRank, and other APIs, enabling prospect search, email finding, and campaign management.

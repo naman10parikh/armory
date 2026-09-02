@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-27T23:02:10Z"
 ---
 ## What it is
 Connects Claude AI to SketchUp, allowing you to create and modify 3D models via natural language commands.

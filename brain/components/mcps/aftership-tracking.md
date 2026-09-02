@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-28T12:09:17Z"
 ---
 ## What it is
 MCP server `AfterShip Tracking`, catalogued on PulseMCP. Provides shipment tracking and returns management through the official AfterShip MCP server.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T16:15:45Z"
 ---
 ## What it is
 Enables interacting with TickTick tasks and projects through natural language via Claude and other MCP clients.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2024-12-15T06:22:59Z"
 ---
 ## What it is
 MCP server `Development Tooling`, catalogued on PulseMCP. Integrates with Docker, Git, and development tools to enable software project management, code analysis, and automated workflows across languages and frameworks.

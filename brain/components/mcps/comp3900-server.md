@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T22:40:03Z"
 ---
 ## What it is
 Enables installation and management of the COMP3900 project, including cloning, prerequisite checks, backend/frontend setup, Docker Compose, and optional cloudflared installation.

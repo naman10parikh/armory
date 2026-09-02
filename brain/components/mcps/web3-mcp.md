@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-18T15:26:54Z"
 ---
 ## What it is
 Enables LLMs to interact with blockchain data across multiple chains (Ethereum, BSC, Polygon, Avalanche, etc.) via Ankr's Advanced API, supporting NFT, token, and query operations.

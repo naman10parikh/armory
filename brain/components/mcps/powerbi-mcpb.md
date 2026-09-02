@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T15:13:18Z"
 ---
 ## What it is
 MCP Bundle for local Power BI report files, enabling scanning, reading, and extracting model tables from .pbix, .pbip, and .pbit files without any cloud API or authentication.

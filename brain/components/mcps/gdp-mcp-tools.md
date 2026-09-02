@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T18:20:35Z"
 ---
 ## What it is
 MCP server for Grubhub Data Platform operations, providing 40+ tools across 18 service categories for data platform management, observability, analytics, and collaboration.

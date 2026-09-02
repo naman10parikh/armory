@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T12:21:56Z"
 ---
 ## What it is
 A local MCP server that enables LLMs to securely search and read files within designated Google Drive folders. Supports Google Docs, Google Sheets, PDFs, and plain text with strict folder-scoping via service account authentication.

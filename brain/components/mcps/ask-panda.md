@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-06T14:56:46Z"
 ---
 ## What it is
 MCP server for querying PanDA documentation, analyzing job errors, and retrieving JSON data using multiple AI models.

@@ -8,10 +8,12 @@ source_url: https://github.com/sergeyklay/poe2-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-04-16T02:02:47Z"
 ---
 ## What it is
 MCP server `Path of Exile 2`, catalogued on PulseMCP. Provides real-time access to Path of Exile 2 game data including currency exchange rates, item prices, wiki content, datamined information, and ladder meta-build statistics.

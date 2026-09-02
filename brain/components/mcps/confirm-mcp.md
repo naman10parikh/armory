@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T16:18:15Z"
 ---
 ## What it is
 Provides a human-approval tool for MCP-compatible agents, pausing execution until a human approves or edits the action, with every decision logged.

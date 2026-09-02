@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T16:13:12Z"
 ---
 ## What it is
 Enables autonomous self-healing scraper fleet management for Bright Data Scraper Studio, with health checking, anomaly detection, and automated AI-driven scraper repair and approval.

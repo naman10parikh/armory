@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-10T15:09:08Z"
 ---
 ## What it is
 MCP server `Blender`, catalogued on PulseMCP. Integrates with Blender through socket-based communication to enable real-time 3D scene manipulation, asset management from PolyHaven and Sketchfab libraries, AI-generated model creation via Hyper3D Rodin, Python script execution, viewport screenshots, and automated rendering workflows for architectural visualization and content creation.

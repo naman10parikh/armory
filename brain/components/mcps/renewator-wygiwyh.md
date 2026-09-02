@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-05T19:19:24Z"
 ---
 ## What it is
 MCP server `WYGIWYH`, catalogued on PulseMCP. Converts WYGIWYH expense tracking API endpoints into MCP tools with automatic OpenAPI schema validation, enabling direct expense management, financial data analysis, and automated bookkeeping workflows.

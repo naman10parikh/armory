@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-17T12:46:59Z"
 ---
 ## What it is
 MCP server for generating videos using OpenAI Sora model via api.tu-zi.com, enabling AI assistants to create videos from text prompts with customizable orientation and model quality.

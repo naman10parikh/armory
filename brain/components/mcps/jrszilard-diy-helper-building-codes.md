@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-09T05:35:22Z"
 ---
 ## What it is
 MCP server `DIY Helper Building Codes`, catalogued on PulseMCP. Building code lookup and compliance checking for residential construction projects with National Electrical Code, International Residential Code, and International Plumbing Code

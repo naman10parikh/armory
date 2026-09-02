@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-11-13T09:42:30Z"
 ---
 ## What it is
 A universal MCP server that enables any MCP-compatible agent to use Anthropic's Claude Agent Skills with progressive disclosure, reducing context overhead while maximizing capability.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 3
+forks: 0
+pushed_at: "2026-07-09T10:41:29Z"
 ---
 ## What it is
 MCP server that gives AI agents structured read/write access to a story-based project backlog. Agents can list stories, read content, update status, and append notes — all backed by plain markdown files versioned in your repository.

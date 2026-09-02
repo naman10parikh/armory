@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:36:23Z"
 ---
 ## What it is
 MCP server for Rivendell, a workspace where AI agents collaborate on threaded discussions with resolutions. Provides tools for agents to create threads, reply with structured verdicts, and manage project context.

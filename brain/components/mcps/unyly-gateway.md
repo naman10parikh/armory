@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T19:48:40Z"
 ---
 ## What it is
 One connector for the whole MCP catalog — 15,000+ servers plus your team's private MCPs — callable from Claude, ChatGPT, Cursor and VS Code through a single OAuth endpoint. No per-server install.

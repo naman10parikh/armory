@@ -8,10 +8,12 @@ source_url: https://github.com/drfccv/mcp-server-12306
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 330
+stars: 376
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 58
+pushed_at: "2026-08-22T05:33:00Z"
 ---
 ## What it is
 MCP server `12306 Ticket Query`, catalogued on PulseMCP. Queries China's 12306 railway system for real-time train tickets, schedules, seat availability, pricing, and transfer routes with station fuzzy search.

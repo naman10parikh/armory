@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T00:29:34Z"
 ---
 ## What it is
 Enables scanning LLM prompts and responses for prompt injection, jailbreaks, PII leakage, secret leakage, and other malicious content using deterministic rules, returning verdicts and safe redacted text.

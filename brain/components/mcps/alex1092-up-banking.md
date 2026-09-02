@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-10T05:03:18Z"
 ---
 ## What it is
 MCP server `Up Banking`, catalogued on PulseMCP. Read-only Up Banking (Australia) integration for account balances, transactions, and spending category analysis

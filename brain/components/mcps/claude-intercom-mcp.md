@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-21T21:11:32Z"
 ---
 ## What it is
 Enables local messaging between Claude Code, Codex, Pi, and other coding-agent sessions on the same machine, allowing them to discover each other, send updates, ask questions, and reply.

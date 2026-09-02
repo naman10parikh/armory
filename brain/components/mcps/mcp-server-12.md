@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-24T01:51:35Z"
 ---
 ## What it is
 A simple, extensible MCP server implementation for local use with tools like Copilot Chat, enabling context management and protocol-compliant communication.

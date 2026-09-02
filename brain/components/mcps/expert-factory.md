@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-11T16:37:32Z"
 ---
 ## What it is
 Builds a queryable knowledge graph from a pack of repos, papers, and notes, and serves it to agents via MCP, enabling search, source reading, and neighbor exploration.

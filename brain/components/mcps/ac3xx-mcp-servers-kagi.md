@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 45
+forks: 10
+pushed_at: "2024-12-13T12:52:50Z"
 ---
 ## What it is
 Kagi search API integration

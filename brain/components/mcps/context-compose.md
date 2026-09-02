@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-17T02:55:02Z"
 ---
 ## What it is
 A system for defining, composing, and managing task-specific contexts for AI-powered development, enabling consistent, high-quality results.

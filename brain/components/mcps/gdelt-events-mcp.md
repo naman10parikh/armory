@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:39:20Z"
 ---
 ## What it is
 Enables macro/geopolitical event detection by wrapping the GDELT 2.0 API, providing tools for searching events, trending actors, and sentiment timeseries from global news.

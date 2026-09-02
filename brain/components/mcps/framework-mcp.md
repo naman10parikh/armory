@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:32:12Z"
 ---
 ## What it is
 Remote MCP server that gives coding agents verified, version-pinned answers about fast-moving frameworks, starting with Expo SDK 54.

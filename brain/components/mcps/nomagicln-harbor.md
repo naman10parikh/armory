@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-01T06:09:39Z"
 ---
 ## What it is
 MCP server `Harbor Container Registry`, catalogued on PulseMCP. Enables AI systems to manage Harbor container registry resources including projects, repositories, tags, and Helm charts for streamlined DevOps workflows.

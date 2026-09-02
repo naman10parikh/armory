@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T17:44:47Z"
 ---
 ## What it is
 MCP server for Java branch coverage analysis using JaCoCo. Enables agent-style coverage feedback with per-test-class granularity and uncovered line identification.

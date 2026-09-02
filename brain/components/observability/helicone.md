@@ -8,11 +8,13 @@ source_url: https://github.com/Helicone/helicone
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 6095
+stars: 6123
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, proxy, logging]
+forks: 662
+pushed_at: "2026-08-31T05:02:00Z"
 ---
 ## What it is
 Open-source LLM observability platform — proxy-based logging, cost tracking, caching, and rate limiting for OpenAI-compatible APIs.

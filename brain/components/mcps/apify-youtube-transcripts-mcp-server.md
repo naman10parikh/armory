@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:04:03Z"
 ---
 ## What it is
 Provides YouTube video transcripts as structured JSON, including timestamped captions and plain text, through the Apify YouTube Transcripts API. Supports single or batch video URLs across multiple formats.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T10:07:14Z"
 ---
 ## What it is
 Enables AI agents to browse and read files from a public Google Drive folder via MCP. Provides tools to list folders, read document contents, and get download URLs.

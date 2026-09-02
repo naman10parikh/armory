@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-24T17:41:13Z"
 ---
 ## What it is
 Enables AI assistants to manage Apple Reminders lists and reminders on macOS, including creating, updating, completing, and deleting reminders.

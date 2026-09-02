@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T07:24:28Z"
 ---
 ## What it is
 MCP server `Xurprise`, catalogued on PulseMCP. Commerce discovery for SEA and China with attribution-tracked storefronts across Taobao, Shopee, Shein, and more.

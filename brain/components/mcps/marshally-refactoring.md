@@ -8,10 +8,12 @@ source_url: https://github.com/marshally/mcp-refactoring
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-29T21:10:10Z"
 ---
 ## What it is
 MCP server `Refactoring`, catalogued on PulseMCP. Access Martin Fowler's refactoring catalog with 71+ refactoring patterns

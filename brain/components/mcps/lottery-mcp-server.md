@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-05T09:47:03Z"
 ---
 ## What it is
 A Model Context Protocol server for querying and analyzing double-color ball (双色球) lottery historical data from 2013 to present, offering tools for data retrieval, statistical analysis, and reference number generation.

@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-07T17:25:25Z"
 ---
 ## What it is
 MCP server `World Time`, catalogued on PulseMCP. Provides location-based current time in ISO 8601 format using the World Time API through a lightweight Python FastMCP server.

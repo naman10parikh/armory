@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-28T01:22:08Z"
 ---
 ## What it is
 MCP server `arXiv Papers`, catalogued on PulseMCP. Searches arXiv papers by title, author, or query terms and extracts full paper content as structured Markdown with proper handling of mathematical equations, figures, tables, citations, and references.

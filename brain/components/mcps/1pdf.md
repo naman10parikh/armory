@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T12:55:00Z"
 ---
 ## What it is
 Enables AI assistants to perform PDF operations like merge, split, compress, convert, encrypt, OCR, and summarize using natural language.

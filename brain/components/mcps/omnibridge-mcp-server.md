@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-19T12:06:37Z"
 ---
 ## What it is
 Provides isolated sandbox environments for AI agents to execute code securely, generating signed receipts for every execution to ensure auditability and trust.

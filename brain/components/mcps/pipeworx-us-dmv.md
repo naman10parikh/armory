@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T00:46:46Z"
 ---
 ## What it is
 Access US state DMV data including vehicle registrations, EV adoption, DMV office locations and services, live wait times, and California forms and insurer lookups. Supports multiple states with per-state quirks documented.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T01:08:17Z"
 ---
 ## What it is
 A modular MCP server that lets you add tools by dropping JavaScript files into a tools directory, with built-in shell command execution and safe execution options.

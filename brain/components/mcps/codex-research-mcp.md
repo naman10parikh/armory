@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T08:32:16Z"
 ---
 ## What it is
 A small local MCP adapter that lets Claude Code delegate bounded research work to Codex plan credits without giving the worker ownership of the final report.

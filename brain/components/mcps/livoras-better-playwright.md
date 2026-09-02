@@ -8,10 +8,12 @@ source_url: https://github.com/livoras/better-playwright-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-08-28T07:04:06Z"
 ---
 ## What it is
 MCP server `Better Playwright`, catalogued on PulseMCP. Enhanced browser automation with stealth mode, persistent profiles, and intelligent HTML snapshot extraction that enables reliable web scraping, form filling, and multi-page management with semantic parsing and token optimization for production workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T14:56:07Z"
 ---
 ## What it is
 A boilerplate for building local Node.js MCP servers that integrate with ChatGPT Web UI, featuring mock OAuth and secure tunneling for instant connection.

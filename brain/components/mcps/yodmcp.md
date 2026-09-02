@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T01:11:50Z"
 ---
 ## What it is
 A production-oriented Agent Operating System kernel that provides multi-graph memory, durable tasks, portable skills, attestation, and plan-based monetization for MCP-based agents.

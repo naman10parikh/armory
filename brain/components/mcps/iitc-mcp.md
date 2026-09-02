@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T16:42:36Z"
 ---
 ## What it is
 Bridge between IITC and MCP agents, enabling AI assistants to interact with Ingress Intel: view map, count portals, track players, and communicate via COMM without manual input.

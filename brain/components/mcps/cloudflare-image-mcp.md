@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T10:45:56Z"
 ---
 ## What it is
 An MCP server that allows AI models to generate images from text prompts and describe images using Cloudflare Workers AI models.

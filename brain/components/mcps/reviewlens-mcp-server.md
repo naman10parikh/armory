@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T08:35:48Z"
 ---
 ## What it is
 Enables secure, explainable AI-assisted GitHub pull-request review by exposing seven read-only tools that collect deterministic evidence from PRs, separating retrieval from interpretation.

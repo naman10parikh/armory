@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:30:07Z"
 ---
 ## What it is
 Enables writers and AI agents to preserve continuity in long-form fiction by maintaining a narrative knowledge graph and exposing MCP tools for querying outlines, entities, references, and consistency diagnostics.

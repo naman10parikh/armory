@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-06-21T18:10:45Z"
 ---
 ## What it is
 Enables AI agents to search hotels, check availability, manage reservations, and book rooms on Booking.com via browser automation.

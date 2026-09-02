@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T07:43:42Z"
 ---
 ## What it is
 Converts PNG, JPG, and JPEG images to WebP format with configurable quality and lossless compression, supporting single and batch conversion.

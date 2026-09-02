@@ -8,10 +8,12 @@ source_url: https://github.com/huoshuiai42/huoshui-pdf-translator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-10T01:33:08Z"
 ---
 ## What it is
 MCP server `Huoshui PDF Translator`, catalogued on PulseMCP. Translates PDF documents while preserving mathematical formulas and layout

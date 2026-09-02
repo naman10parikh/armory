@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-22T06:19:45Z"
 ---
 ## What it is
 MCP server `Selenium WebDriver`, catalogued on PulseMCP. Enables automated web interactions through Selenium WebDriver operations for navigation, element manipulation, screenshot capture, and local storage management in Chrome and Firefox browsers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-17T06:58:36Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve details about Odoo code elements (models, fields, views, etc.) with exact file locations using MCP tools.

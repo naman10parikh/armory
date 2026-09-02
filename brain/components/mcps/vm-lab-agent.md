@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T13:35:36Z"
 ---
 ## What it is
 An MCP server for managing home lab VMs and PNETLab topologies, enabling AI agents to power VMs, handle snapshots, and verify device configurations with explicit allowlists and confirmation gating.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T22:38:48Z"
 ---
 ## What it is
 MCP server that connects AI clients to Figma, enabling real-time reading, creation, and modification of designs using natural language.

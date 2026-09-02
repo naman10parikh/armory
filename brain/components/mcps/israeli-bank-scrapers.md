@@ -8,10 +8,12 @@ source_url: https://github.com/mottibec/israeli-bank-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-05-02T14:38:25Z"
 ---
 ## What it is
 MCP server `Israeli Bank Scrapers`, catalogued on PulseMCP. Connects to Israeli banking data for secure access to transactions from all major Israeli banks and credit card companies, enabling financial analysis and expense tracking across multiple institutions.

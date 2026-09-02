@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T15:44:43Z"
 ---
 ## What it is
 Enables managing an internet cafe through natural language by wrapping the iCafeCloud API, allowing actions like listing PCs, checking status, sending commands, and viewing revenue reports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-22T20:34:33Z"
 ---
 ## What it is
 A game development MCP server with 950+ curated docs across 29 engines and 5 power tools for scaffolding, debugging, design, and scope tracking. It connects to any AI supporting the Model Context Protocol.

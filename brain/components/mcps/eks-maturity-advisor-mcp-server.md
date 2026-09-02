@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T14:09:48Z"
 ---
 ## What it is
 Enables scanning of EKS cluster maturity and repository configuration through MCP tools, providing diagnostic reports as markdown.

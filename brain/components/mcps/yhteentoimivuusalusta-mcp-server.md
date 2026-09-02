@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-16T12:48:32Z"
 ---
 ## What it is
 Enables searching, validating, and referencing Finnish standardized terminology, data models, and code lists to ensure consistency in design documentation for Finnish government and building industry projects.

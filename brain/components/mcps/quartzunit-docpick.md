@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-15T01:59:49Z"
 ---
 ## What it is
 MCP server `Docpick`, catalogued on PulseMCP. Schema-driven document extraction pipeline combining local OCR with LLMs to extract structured JSON from invoices, receipts, and other documents.

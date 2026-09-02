@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2025-04-28T19:38:02Z"
 ---
 ## What it is
 Enables read-only querying of Snowflake databases through Claude, supporting multiple authentication methods and SQL operations like SELECT, SHOW, DESCRIBE.

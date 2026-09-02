@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T10:52:34Z"
 ---
 ## What it is
 A least-privilege enforcement proxy for MCP servers. It sits between MCP clients and upstream servers, enforcing tool policies, hiding denied tools, requiring human approval for risky actions, and providing a structured audit trail.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T19:32:49Z"
 ---
 ## What it is
 The most capable Monarch Money MCP server, merging the best features from all known implementations into one clean TypeScript project. It provides 47 tools for comprehensive personal finance management including transactions, budgets, rules, merchant management, and intelligence analysis.

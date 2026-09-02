@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T21:22:31Z"
 ---
 ## What it is
 Enables searching and retrieving lessons, posts, comments, and member profiles from the Agent Architects community knowledge base for use with AI clients.

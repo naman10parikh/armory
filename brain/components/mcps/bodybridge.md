@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T13:13:24Z"
 ---
 ## What it is
 Connects embodied devices (like StackChan, Raspberry Pi, ESP32) to AI via MCP protocol, enabling motion control with zero API cost, no PC required, and fully self-hosted.

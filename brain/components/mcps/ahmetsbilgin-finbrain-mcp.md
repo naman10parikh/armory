@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 9
+forks: 3
+pushed_at: "2026-08-14T13:20:19Z"
 ---
 ## What it is
 Access institutional-grade alternative financial data directly in your LLM workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-25T16:35:22Z"
 ---
 ## What it is
 Enables deploying a remote Model Context Protocol (MCP) server on Cloudflare Workers with OAuth authentication, allowing tools to be exposed and called from MCP clients like Claude Desktop.

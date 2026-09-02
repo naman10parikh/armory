@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-21T12:15:56Z"
 ---
 ## What it is
 MCP server `Maccy Clipboard History`, catalogued on PulseMCP. Provides direct access to Maccy clipboard history on macOS through SQLite database integration, enabling search with regex and date filtering, retrieval of recent items with image display, copying historical items back to clipboard, managing pinned items, exporting data in multiple formats, and analyzing usage statistics by source application.

@@ -8,10 +8,12 @@ source_url: https://github.com/grovesjosephn/pokemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-04T01:47:49Z"
 ---
 ## What it is
 MCP server `Pokemon`, catalogued on PulseMCP. Provides Pokemon data access through a local SQLite database with tools for information retrieval, comparison, searching by type/generation/stats, and type effectiveness analysis without requiring external API calls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T17:45:05Z"
 ---
 ## What it is
 An offline MCP server for translating movie subtitles, providing persistent translation sessions, a glossary, and modular format adapters so LLM agents can translate while timing is never altered.

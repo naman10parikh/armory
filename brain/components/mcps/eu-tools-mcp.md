@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T10:24:47Z"
 ---
 ## What it is
 Paid MCP server for EU tools: validate VAT numbers via VIES and get ECB euro FX rates, with per-call USDC payments on Base via the x402 protocol.

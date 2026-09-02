@@ -8,10 +8,12 @@ source_url: https://github.com/ejb503/systemprompt-mcp-interview
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-02-19T17:50:23Z"
 ---
 ## What it is
 MCP server `Interview Roleplay`, catalogued on PulseMCP. Provides an AI-powered interview roleplay system for dynamic simulation of customizable interview scenarios, enabling practice and skill improvement for job seekers.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-29T09:05:04Z"
 ---
 ## What it is
 MCP server `Flux Schnell`, catalogued on PulseMCP. Lightweight Python server using httpx for fast HTTP requests, providing a minimal configuration framework for developers seeking a quick and efficient server implementation.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T00:40:35Z"
 ---
 ## What it is
 MCP server `Penni`, catalogued on PulseMCP. AI bookkeeper connecting QuickBooks Online to your AI assistant — query balances, P&L, invoices, and post expenses via natural language.

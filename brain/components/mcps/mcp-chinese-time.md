@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T10:35:39Z"
 ---
 ## What it is
 MCP server for parsing Chinese fuzzy time expressions (e.g., '昨天', '下午3点', '中秋节') into standard datetime formats.

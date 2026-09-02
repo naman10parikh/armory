@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T17:15:40Z"
 ---
 ## What it is
 MCP server that turns Wildberries marketplace into a toolkit for LLM agents, enabling product search, detailed card inspection, price history, reviews, and cross-product comparison.

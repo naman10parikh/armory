@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T06:16:41Z"
 ---
 ## What it is
 MCP server for enforcing coding rules in Rust projects via scanning, routing, and explanation tools, designed for use with Codex, CI pipelines, and precommit hooks.

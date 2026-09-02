@@ -8,10 +8,12 @@ source_url: https://github.com/vikrantsingh01/adaptive-cards-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-06-20T05:08:35Z"
 ---
 ## What it is
 MCP server `Adaptive Cards`, catalogued on PulseMCP. Generates valid, accessible Adaptive Cards for Teams, Outlook, and Copilot.

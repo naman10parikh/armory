@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-15T14:06:59Z"
 ---
 ## What it is
 A Model Context Protocol server for retrieving land cover, soil type, and temporal land use data for any geographical coordinates using the National Land Cover Database and FAO soil classifications.

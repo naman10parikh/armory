@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T16:25:34Z"
 ---
 ## What it is
 MCP server `Hive Evaluator`, catalogued on PulseMCP. Evaluator-as-a-service for autonomous agents with three scoring tiers, EIP-3009 attestations, and real USDC settlement.

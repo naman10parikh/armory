@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T08:03:33Z"
 ---
 ## What it is
 Provides access to global news articles from over 60,000 sources through the GNews API. Supports keyword search, category browsing, and language customization.

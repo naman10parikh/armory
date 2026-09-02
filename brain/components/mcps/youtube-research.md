@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T15:40:20Z"
 ---
 ## What it is
 Enables YouTube integration with Claude Code, including video search, metadata retrieval, transcript fetching, channel exploration, and trending videos.

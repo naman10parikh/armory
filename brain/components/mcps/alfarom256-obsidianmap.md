@@ -8,10 +8,12 @@ source_url: https://github.com/alfarom256/obsidianmap
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-30T16:16:17Z"
 ---
 ## What it is
 MCP server `Obsidian Map`, catalogued on PulseMCP. Converts an Obsidian vault into a navigable knowledge graph with tree navigation, wikilink traversal, semantic gap detection, and write operations.

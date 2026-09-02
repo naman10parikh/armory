@@ -8,10 +8,12 @@ source_url: https://github.com/guangxiangdebizi/news-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-29T12:51:55Z"
 ---
 ## What it is
 MCP server `News API Aggregator`, catalogued on PulseMCP. Integrates with five news APIs (TheNewsAPI, NewsData.io, NewsAPI.org, GNews, and Twingly) with automatic failover switching to ensure reliable news data access when individual APIs hit rate limits or become unavailable.

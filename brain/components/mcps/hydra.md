@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:57:09Z"
 ---
 ## What it is
 Enables Codex to delegate bounded engineering jobs to Claude Code CLI in isolated Git worktrees with strict security and allowance pacing.

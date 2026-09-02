@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T22:13:13Z"
 ---
 ## What it is
 Hosted MCP server for structured public web data — 319 tools across search, maps, commerce, social & finance, returning clean JSON.

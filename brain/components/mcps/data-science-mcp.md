@@ -8,11 +8,13 @@ source_url: https://github.com/LiChenStuttgart/data-science-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:48:37Z"
 ---
 ## What it is
 Enables time-series analysis and forecasting through a structured tool catalogue, including data loading, quality repair, diagnostics, and forecasting with ARIMA, exponential smoothing, Chronos-2, Toto 2.0, and AutoML.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T05:26:00Z"
 ---
 ## What it is
 Enables LLM chat interfaces to load and interact with interactive UI components (MUPs) such as slides, PDF readers, and sound pads, allowing both users and the LLM to operate them through function calls.

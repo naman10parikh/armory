@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-27T08:09:06Z"
 ---
 ## What it is
 Enables web search via DuckDuckGo and web content fetching through the Model Context Protocol, allowing AI assistants to search and retrieve web page content.

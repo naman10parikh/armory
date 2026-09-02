@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T06:54:03Z"
 ---
 ## What it is
 Enables saving X (Twitter) Articles as Obsidian-faithful Markdown files with locally downloaded images and videos.

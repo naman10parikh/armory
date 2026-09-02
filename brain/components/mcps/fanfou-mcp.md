@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-13T14:18:13Z"
 ---
 ## What it is
 基于 FastMCP 构建的饭否 MCP 服务器，提供饭否时间线、用户、发布等工具和服务。

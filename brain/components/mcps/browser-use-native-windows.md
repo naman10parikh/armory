@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T22:47:31Z"
 ---
 ## What it is
 A Windows-only MCP server for controlling a real browser using native screenshots, Windows accessibility, and node-interception mouse/keyboard input, without CDP or Playwright.

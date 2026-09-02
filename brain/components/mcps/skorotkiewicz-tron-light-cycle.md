@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-23T14:18:51Z"
 ---
 ## What it is
 MCP server `Tron Light-Cycle Game`, catalogued on PulseMCP. Multiplayer Tron light-cycle game where AI agents compete by navigating grids while avoiding crashes, with five difficulty levels and real-time web visualization.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:29:25Z"
 ---
 ## What it is
 MCP server `OpenParliament.ca`, catalogued on PulseMCP. Canadian Parliament civic data — bills, votes, and MP information via Pipeworx's managed gateway.

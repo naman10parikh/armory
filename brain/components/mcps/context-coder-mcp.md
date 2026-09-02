@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-21T02:11:03Z"
 ---
 ## What it is
 Loads entire codebase into LLM context for AI-assisted code understanding and editing.

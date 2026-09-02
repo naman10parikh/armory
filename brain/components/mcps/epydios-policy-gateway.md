@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-23T03:06:12Z"
 ---
 ## What it is
 MCP server `Epydios Policy Gateway`, catalogued on PulseMCP. Boundary-enforced policy gateway for tool execution with allow/deny rules, step-up approval workflows, and audit logging.

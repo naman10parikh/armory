@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T07:44:54Z"
 ---
 ## What it is
 An MCP proxy that enforces policy on every tool call, blocking or flagging actions before they reach downstream MCP servers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T07:19:24Z"
 ---
 ## What it is
 MCP server for SRG+ — lets Claude (and any MCP-aware agent) manage hubs, channels, content, assets, users, and workspaces through the SRG+ API.

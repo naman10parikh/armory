@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T04:24:43Z"
 ---
 ## What it is
 Enables AI agents to seal, open, verify, and ingest verifiable agri-traceability data by description, with credentials and private keys kept out of the model's flow.

@@ -8,10 +8,12 @@ source_url: https://github.com/sonirico/mcp-stockfish
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-06-29T12:25:00Z"
 ---
 ## What it is
 MCP server `Stockfish`, catalogued on PulseMCP. Integrates with the Stockfish chess engine through UCI protocol to provide move analysis, position evaluation, and game analysis with configurable search depth and time limits.

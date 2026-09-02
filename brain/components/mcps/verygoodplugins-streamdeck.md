@@ -8,10 +8,12 @@ source_url: https://github.com/verygoodplugins/streamdeck-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-12T16:23:42Z"
 ---
 ## What it is
 MCP server `Stream Deck`, catalogued on PulseMCP. Control Elgato Stream Deck devices with natural language to configure buttons, manage pages, and wire actions.

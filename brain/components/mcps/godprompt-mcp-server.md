@@ -8,11 +8,13 @@ source_url: https://github.com/AKzar1el/god-prompt-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:16:56Z"
 ---
 ## What it is
 Provides tools to retrieve the GodPrompt universal system prompt and its components (core skill, protocols, gates, anti-patterns) for AI software development, plus task classification. Designed for progressive context usage.

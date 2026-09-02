@@ -8,10 +8,12 @@ source_url: https://github.com/promptpartner/bexio-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-06-30T22:44:15Z"
 ---
 ## What it is
 MCP server `Bexio`, catalogued on PulseMCP. Manage Bexio business software resources including contacts, projects, invoices, and time tracking.

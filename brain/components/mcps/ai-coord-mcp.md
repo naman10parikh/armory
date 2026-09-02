@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:51:52Z"
 ---
 ## What it is
 A shared coordination layer for multiple AI coding assistants, exposing a persistent task queue, per-task message threads, and progress tracking via JSON files on disk.

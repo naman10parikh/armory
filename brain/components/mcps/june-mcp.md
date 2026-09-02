@@ -8,11 +8,13 @@ source_url: https://github.com/Junemind/june-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T10:57:36Z"
 ---
 ## What it is
 Official MCP server connecting hosts to a June knowledge graph for agent memory, search, and cited answers.

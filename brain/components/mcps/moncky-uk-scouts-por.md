@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-30T19:29:46Z"
 ---
 ## What it is
 MCP server `UK Scouts POR`, catalogued on PulseMCP. Provides automated access to the UK Scouts Policy, Organisation and Rules document through PDF processing and text search.

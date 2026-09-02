@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-08T09:36:47Z"
 ---
 ## What it is
 MCP server `Negotiate`, catalogued on PulseMCP. Enables AI agents to negotiate prices at any negotiate.v1 store.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T07:08:04Z"
 ---
 ## What it is
 Enables AI agents to interact with TeamDynamix ITSM operations including tickets, assets, KB, and more through safety-gated tools.

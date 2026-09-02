@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-31T04:13:46Z"
 ---
 ## What it is
 MCP server `Gatefare`, catalogued on PulseMCP. Integrates AI agents with the Gatefare API marketplace for discovering, purchasing, and calling paid APIs using USDC stablecoin payments.

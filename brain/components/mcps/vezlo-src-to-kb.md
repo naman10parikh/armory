@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 39
+forks: 8
+pushed_at: "2025-12-30T10:31:45Z"
 ---
 ## What it is
 Convert source code repositories into searchable knowledge bases with AI-powered search using GPT-5, intelligent chunking, and OpenAI embeddings for semantic code understanding.

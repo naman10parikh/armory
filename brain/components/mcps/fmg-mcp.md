@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T07:01:22Z"
 ---
 ## What it is
 MCP server that drives Azgaar's Fantasy Map Generator in a real browser via Playwright, enabling map generation, inspection, and exporting screenshots/SVG/JSON through natural language.

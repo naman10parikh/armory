@@ -8,10 +8,12 @@ source_url: https://github.com/abhiphile/fermat-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-05T03:40:11Z"
 ---
 ## What it is
 MCP server `Fermat (Mathematical Computing)`, catalogued on PulseMCP. Provides mathematical computation and plotting capabilities through matplotlib for data visualization, NumPy for numerical operations, and SymPy for symbolic mathematics, enabling matrix operations, statistical calculations, equation solving, and calculus problems.

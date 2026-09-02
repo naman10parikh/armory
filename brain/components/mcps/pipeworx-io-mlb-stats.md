@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:22:51Z"
 ---
 ## What it is
 MCP server `MLB Stats`, catalogued on PulseMCP. Query Major League Baseball statistics including game results, player performance metrics, standings, schedules, and roster information via the MLB Stats API.

@@ -8,10 +8,12 @@ source_url: https://github.com/aiurda/cursor10x-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 80
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-05-07T18:28:12Z"
 ---
 ## What it is
 MCP server `Cursor10x Memory`, catalogued on PulseMCP. Provides persistent memory for Cursor through vector-based semantic search and structured data storage, enabling long-term context awareness across sessions by storing conversations, code snippets, and files with automatic embeddings for similarity-based retrieval.

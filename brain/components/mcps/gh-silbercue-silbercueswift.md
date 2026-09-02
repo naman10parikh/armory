@@ -8,10 +8,12 @@ source_url: https://github.com/silbercue/silbercueswift
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-27T10:18:59Z"
 ---
 ## What it is
 MCP server `SilbercueSwift`, catalogued on PulseMCP. Native Swift iOS development tools with xcresult parsing, WebDriverAgent automation, and fast screenshots.

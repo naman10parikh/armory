@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T12:54:58Z"
 ---
 ## What it is
 MCP server and CLI for Tailscale that lets agents inspect and manage tailnet devices, routes, users, keys, DNS, and ACL policy over stdio or streamable HTTP.

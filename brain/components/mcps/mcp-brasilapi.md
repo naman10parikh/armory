@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T14:02:03Z"
 ---
 ## What it is
 Exposes the BrasilAPI as MCP tools, enabling AI agents to query Brazilian public data such as CEP, CNPJ, DDD, IBGE, banks, PIX, FIPE, NCM, exchange rates, taxes, weather, CVM information, holidays, ISBN, domains, stock tickers, and TUSS.

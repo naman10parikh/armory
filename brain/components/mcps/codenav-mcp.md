@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T12:44:41Z"
 ---
 ## What it is
 CodeNav MCP is a remote Model Context Protocol server for exploring a codebase, exposing tools to list files, read source, search text, inspect imports/exports, find functions/classes, detect unused code, and summarize project structure.

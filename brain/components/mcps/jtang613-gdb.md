@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-24T19:00:38Z"
 ---
 ## What it is
 MCP server `GNU Debugger (GDB)`, catalogued on PulseMCP. Integrates with GNU Debugger to enable execution of arbitrary GDB commands within debugging sessions for automated debugging workflows, intelligent breakpoint management, and conversational program state inspection.

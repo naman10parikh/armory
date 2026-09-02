@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-19T22:49:22Z"
 ---
 ## What it is
 MCP server `Image Toolkit`, catalogued on PulseMCP. Provides image manipulation capabilities through Gemini models and third-party APIs for generating images from text, modifying existing images, and removing backgrounds with automatic FreeImage.host uploading.

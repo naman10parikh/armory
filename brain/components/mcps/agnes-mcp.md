@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T01:39:05Z"
 ---
 ## What it is
 MCP server that exposes Agnes AI's text, image, video, and multimodal capabilities as tools with up to 1M context and 4K video.

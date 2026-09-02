@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T13:44:17Z"
 ---
 ## What it is
 Enables searching and retrieving details of 41,000+ agent skills, MCP servers, Claude Code plugins, and agentic loops from any MCP-capable agent.

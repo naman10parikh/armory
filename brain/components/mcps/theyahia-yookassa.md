@@ -8,10 +8,12 @@ source_url: https://github.com/theyahia/yookassa-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-23T13:02:16Z"
 ---
 ## What it is
 MCP server `theYahia YooKassa`, catalogued on PulseMCP. Integrates with YooKassa payment gateway for processing payments, managing orders, and handling refunds.

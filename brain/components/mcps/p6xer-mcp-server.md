@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-03-25T09:31:05Z"
 ---
 ## What it is
 MCP server for parsing, querying, and analyzing Primavera P6 XER files with 13 tools, 3 resources, and 2 prompts.

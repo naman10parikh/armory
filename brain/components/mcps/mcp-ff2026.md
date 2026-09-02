@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T14:18:49Z"
 ---
 ## What it is
 An MCP server that helps an AI agent run a Sleeper fantasy football team from draft night through the championship. It syncs league data, imports FantasyPros rankings, and recommends draft picks, lineups, waivers, and trades.

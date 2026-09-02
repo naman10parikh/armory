@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T04:28:15Z"
 ---
 ## What it is
 Enables video editing via YAML/JSON edit specs, with validation and rendering using Remotion.

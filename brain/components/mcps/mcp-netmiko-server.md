@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-05-30T10:24:34Z"
 ---
 ## What it is
 Enables LLMs to interact with network devices via SSH (netmiko), allowing command execution and configuration changes on routers and switches.

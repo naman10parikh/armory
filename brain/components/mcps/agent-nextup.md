@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T04:02:39Z"
 ---
 ## What it is
 Enables AI agents to maintain project continuity through a file-based state hub with tasks, phases, and handoff snapshots. Provides MCP tools for reading and updating project state, with gatekeeping enforced via real-state evaluation and per-tool authorization.

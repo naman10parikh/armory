@@ -8,10 +8,12 @@ source_url: https://github.com/geropl/git-mcp-go
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-06-11T14:52:28Z"
 ---
 ## What it is
 MCP server `Git`, catalogued on PulseMCP. Integrates with Git repositories to enable version control operations and automation, supporting both shell-based commands and the go-git library for flexible implementation.

@@ -8,10 +8,12 @@ source_url: https://github.com/yindia/rootcause
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-31T14:14:13Z"
 ---
 ## What it is
 MCP server `RootCause (Kubernetes)`, catalogued on PulseMCP. Manages Kubernetes resources and identifies root causes of failures through interoperable toolchains for K8s, Linkerd, Istio, Karpenter, Helm, and AWS.

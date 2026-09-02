@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-10T06:48:57Z"
 ---
 ## What it is
 Official MCP server for the Lacuna Music API. Generate AI music — full songs with vocals and lyrics, or instrumentals — with style prompts, task status polling, and audio downloads.

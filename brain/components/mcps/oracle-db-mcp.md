@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T06:34:30Z"
 ---
 ## What it is
 Read-only MCP server that lets coding AI agents inspect Oracle Database schema through live metadata.

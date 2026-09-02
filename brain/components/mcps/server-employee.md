@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T18:19:36Z"
 ---
 ## What it is
 Enables querying employment rates by sector (agriculture, industry, services) for a given country and year using World Bank API.

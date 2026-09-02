@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T07:15:32Z"
 ---
 ## What it is
 A local-first MCP server that handles daily work tasks through your AI assistant: converts meeting notes into todos, manages todo lifecycle, tracks work hours, generates daily/weekly reports, organizes files via move-only operations, and diagnoses dev environments, all guarded by a human-maintained 

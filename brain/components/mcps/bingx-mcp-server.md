@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T08:47:23Z"
 ---
 ## What it is
 Enables LLM agents to access BingX cryptocurrency exchange market data and execute trades through the official API, with support for account management, order creation, and technical indicators.

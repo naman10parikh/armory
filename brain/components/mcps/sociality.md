@@ -8,10 +8,12 @@ source_url: https://github.com/socialityio/sociality-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T13:09:34Z"
 ---
 ## What it is
 MCP server `Sociality.io`, catalogued on PulseMCP. Social media analytics platform providing AI agents access to post insights, competitor benchmarking, and audience data across channels.

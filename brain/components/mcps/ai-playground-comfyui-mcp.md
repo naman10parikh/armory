@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:56:17Z"
 ---
 ## What it is
 Enables image generation through AI Playground's local ComfyUI backend via VS Code or GitHub Copilot, supporting PNG creation with configurable prompts, dimensions, and seeds through a local MCP server.

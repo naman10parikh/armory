@@ -8,11 +8,13 @@ source_url: https://github.com/coleam00/ottomator-agents
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5739
+stars: 5752
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, multiagent-systems]
+forks: 1953
+pushed_at: "2025-11-09T21:46:48Z"
 ---
 ## What it is
 Open source AI Agents hosted on the oTTomator Live Agent Studio platform

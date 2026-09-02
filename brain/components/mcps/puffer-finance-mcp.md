@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-06T12:50:29Z"
 ---
 ## What it is
 Enables cross-chain bridging via Everclear and Chainlink CCIP, and management of DeFi strategies on Puffer Finance across multiple networks.

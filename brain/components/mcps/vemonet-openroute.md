@@ -8,10 +8,12 @@ source_url: https://github.com/vemonet/openroute-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-31T10:25:48Z"
 ---
 ## What it is
 MCP server `OpenRouteService`, catalogued on PulseMCP. Plan routes for hiking and mountain biking using OpenRouteService API

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T12:59:08Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server that gives AI assistants a safe, correct data-analyst capability over business metrics - without raw SQL improvisation.

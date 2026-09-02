@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-18T00:16:28Z"
 ---
 ## What it is
 MCP server `Splunk`, catalogued on PulseMCP. Official MCP server for Splunk Enterprise and Cloud that enables AI assistants to securely execute SPL queries, generate searches from natural language, retrieve index metadata, and discover knowledge objects through the Splunk management port with RBAC enforcement.

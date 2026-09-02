@@ -8,10 +8,12 @@ source_url: https://github.com/hieuttmmo/entraid-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-05-02T08:59:23Z"
 ---
 ## What it is
 MCP server `Microsoft Entra ID`, catalogued on PulseMCP. Provides direct access to Microsoft Entra ID resources through the Graph API, enabling IT administrators to manage users, groups, applications, and security features without switching to the Azure portal.

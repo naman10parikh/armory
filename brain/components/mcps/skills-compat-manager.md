@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T02:25:05Z"
 ---
 ## What it is
 MCP server for managing AI agent skills with pre-flight compatibility checks, ensuring missing dependencies are detected before execution.

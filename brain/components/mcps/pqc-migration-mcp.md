@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:53:07Z"
 ---
 ## What it is
 Provides six MCP tools for AI agents to compute post-quantum cryptography migration facts, such as credential sizes, fragment counts, and failure taxonomy, enabling accurate migration decisions without estimation.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-04T16:06:17Z"
 ---
 ## What it is
 MCP server `Python Debugger`, catalogued on PulseMCP. Provides Python debugging capabilities through breakpoint-based execution control and variable inspection, enabling controlled script execution with state capture, timeout management, and support for multiple concurrent debug sessions.

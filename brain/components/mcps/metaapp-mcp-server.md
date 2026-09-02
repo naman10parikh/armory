@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-05T09:27:46Z"
 ---
 ## What it is
 A comprehensive MCP server for MetaApp development, offering tools for project initialization, protocol exploration, and blockchain interaction.

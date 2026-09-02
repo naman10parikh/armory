@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T21:53:28Z"
 ---
 ## What it is
 Enables AI assistants to perform controlled Linux system administration tasks like reading logs, managing services, cron jobs, WordPress, and executing sandboxed Python code, with strict security constraints.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T21:06:33Z"
 ---
 ## What it is
 Agent-first video-data API + MCP across 6 platforms (YouTube/Shorts, TikTok, Reddit, Instagram, Pinterest): metadata, insights, Whisper transcript, and parametric frames. Pay-per-call via x402 (USDC) or Stripe.

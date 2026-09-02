@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T11:11:41Z"
 ---
 ## What it is
 Provides accurate, source-grounded breaking-change briefings for npm packages by reading real GitHub release notes and CHANGELOGs, helping coding agents avoid hallucinated dependency migrations.

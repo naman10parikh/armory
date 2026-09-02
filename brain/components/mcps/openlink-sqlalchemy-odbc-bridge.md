@@ -8,10 +8,12 @@ source_url: https://github.com/openlinksoftware/mcp-sqlalchemy-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-05-23T16:12:57Z"
 ---
 ## What it is
 MCP server `SQLAlchemy ODBC Bridge`, catalogued on PulseMCP. Provides a bridge between databases and SQL/SPARQL queries through ODBC connections, enabling schema exploration, table management, and query execution with formatted results.

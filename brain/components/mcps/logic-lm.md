@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-28T21:34:44Z"
 ---
 ## What it is
 MCP server `Logic-LM (Answer Set Programming)`, catalogued on PulseMCP. Enhances language models with formal logical reasoning capabilities by translating natural language problems to Answer Set Programming code, executing symbolic reasoning with Clingo solver, and interpreting results back to natural language for constraint satisfaction and multi-step deduction tasks.

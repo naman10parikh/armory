@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T08:38:03Z"
 ---
 ## What it is
 A high-performance bridge that exposes OpenClaw capabilities as an MCP server, enabling remote AI agents to securely delegate local tasks such as browser automation and shell execution via network.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-27T05:14:28Z"
 ---
 ## What it is
 MCP server `Scrapi`, catalogued on PulseMCP. Web scraping for AI agents with anti-bot bypass.

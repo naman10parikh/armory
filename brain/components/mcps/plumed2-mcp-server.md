@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T22:32:24Z"
 ---
 ## What it is
 Enables AI assistants to generate, validate, and optimize PLUMED input files for molecular dynamics simulations using a set of MCP tools.

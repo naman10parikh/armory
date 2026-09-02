@@ -8,11 +8,13 @@ source_url: https://github.com/mapbox/mcp-devkit-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 59
+stars: 60
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-08-26T16:55:28Z"
 ---
 ## What it is
 Enables AI assistants to interact with Mapbox developer APIs for style management, token management, and local processing tasks like GeoJSON preview and coordinate conversion.

@@ -8,10 +8,12 @@ source_url: https://github.com/zxzinn/opencti-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-08-03T01:14:56Z"
 ---
 ## What it is
 MCP server `OpenCTI`, catalogued on PulseMCP. Integrates with OpenCTI to query and manipulate threat intelligence data, enabling automated analysis and enrichment of cyber threat information.

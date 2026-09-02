@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-14T12:39:15Z"
 ---
 ## What it is
 Enables AI assistants to create, search, and manage OTRS tickets and configuration items via the OTRS API.

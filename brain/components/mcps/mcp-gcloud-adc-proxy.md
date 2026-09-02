@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-06-12T03:38:24Z"
 ---
 ## What it is
 An auth proxy that forwards requests to remote MCP servers, attaching Google Cloud ADC tokens for authentication. It enables secure access to IAM-protected services like Cloud Run.

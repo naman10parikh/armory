@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:06:30Z"
 ---
 ## What it is
 AI-powered codebase intelligence tool that builds a dependency graph of a git repo for structural Q&A and pre-PR code review. It exposes MCP tools for blast radius, review sessions, and static analysis, running locally over stdio with no LLM or network dependencies.

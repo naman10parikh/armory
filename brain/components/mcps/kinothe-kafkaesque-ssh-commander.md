@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-27T22:55:37Z"
 ---
 ## What it is
 MCP server `SSH Commander`, catalogued on PulseMCP. Enables secure remote server management by executing SSH commands using stored credentials in a SQLite database, providing tools for command execution and credential management without leaving the conversation interface.

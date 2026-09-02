@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-02T11:27:44Z"
 ---
 ## What it is
 An enhanced MCP server that provides financial data and analysis tools for stocks, crypto, precious metals, and more, empowering AI agents with professional financial intelligence, including backtesting, ASCII charts, and simulated portfolios.

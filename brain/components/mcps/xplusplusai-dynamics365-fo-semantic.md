@@ -8,10 +8,12 @@ source_url: https://github.com/xplusplusai/fo-semantic-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-25T07:32:56Z"
 ---
 ## What it is
 MCP server `Dynamics 365 F&O Semantic`, catalogued on PulseMCP. Semantic search over 50,000+ Dynamics 365 F&O artifacts including tables, forms, classes, and more

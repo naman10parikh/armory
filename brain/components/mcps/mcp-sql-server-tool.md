@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:38:51Z"
 ---
 ## What it is
 A read-only MCP server for Microsoft SQL Server that enables metadata discovery, parameterized queries, and query analysis with profile-based configuration and strict no-DML/DDL enforcement.

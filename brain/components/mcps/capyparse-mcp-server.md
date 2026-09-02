@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T02:52:26Z"
 ---
 ## What it is
 Converts PDF bank statements into structured data (Markdown, JSON, CSV, JSONL) with verified transactions and balance checks, enabling agents to audit numbers.

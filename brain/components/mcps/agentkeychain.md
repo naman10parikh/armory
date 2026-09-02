@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T07:15:18Z"
 ---
 ## What it is
 Provides a zero-knowledge credential vault for AI agents, allowing secure storage, retrieval, and management of secrets with cross-agent delegation and tamper-evident audit.

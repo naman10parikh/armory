@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-27T20:03:46Z"
 ---
 ## What it is
 MCP server `DeepRecall`, catalogued on PulseMCP. Search 120,000+ recalled products from 8 global safety agencies using AI similarity.

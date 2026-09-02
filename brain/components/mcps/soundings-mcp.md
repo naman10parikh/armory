@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T20:05:35Z"
 ---
 ## What it is
 Enables users to fetch, analyze, and visualize RAOB upper-air sounding data, including station search, thermodynamic calculations, and Skew-T diagram generation with S3 upload support.

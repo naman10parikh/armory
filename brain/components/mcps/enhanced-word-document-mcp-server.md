@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T16:42:57Z"
 ---
 ## What it is
 A consolidated MCP server for creating, reading, and manipulating Microsoft Word documents with 25 tools including search/replace, track changes, and document protection.

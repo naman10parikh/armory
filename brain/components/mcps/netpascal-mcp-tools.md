@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:57:54Z"
 ---
 ## What it is
 Provides web automation utilities, including taking Camofox browser tab screenshots and saving them directly to local files.

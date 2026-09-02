@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T02:52:27Z"
 ---
 ## What it is
 MCP server for generating architecture diagrams with official vendor icons from natural language descriptions. Provides tools to validate specs, render diagrams, search icon catalog, and list available services.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:29:23Z"
 ---
 ## What it is
 Solar vitamin D: whether the sun where you are can make vitamin D right now, how many minutes your Fitzpatrick skin type needs for a target dose, which months of the year synthesis is possible at your latitude, and how much a sun session produced. Computed from solar geometry, a clear-sky UV model w

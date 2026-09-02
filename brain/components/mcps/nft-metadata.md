@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:43Z"
 ---
 ## What it is
 Enables fetching NFT metadata such as name, image, attributes, and collection details from a contract address and token ID on Ethereum and Base, with x402 pay-per-call micropayments.

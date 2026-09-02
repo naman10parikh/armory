@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T17:51:28Z"
 ---
 ## What it is
 Enables AI-powered music production in Ableton Live through natural language, with tools for composition, arrangement, mixing, and sound design.

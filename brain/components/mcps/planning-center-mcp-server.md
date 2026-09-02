@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T12:41:56Z"
 ---
 ## What it is
 Provides read-only access to the Planning Center People API, enabling natural language queries for people, households, background checks, and lists.

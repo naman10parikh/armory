@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-21T06:12:32Z"
 ---
 ## What it is
 Provides a standardized interface for interacting with Google Docs through the Model Context Protocol, enabling document management and content operations via natural language.

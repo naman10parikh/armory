@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-31T00:02:13Z"
 ---
 ## What it is
 MCP server `Jira Xray`, catalogued on PulseMCP. Integrates with Jira and Xray to automatically generate Gherkin test scenarios from user stories and comments using Vertex AI, then synchronizes them with existing test issues by comparing content signatures to determine which tests need creation, updates, or removal.

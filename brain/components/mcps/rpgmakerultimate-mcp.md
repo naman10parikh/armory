@@ -8,11 +8,13 @@ source_url: https://github.com/DiegoLopez0208/RpgMakerMVUltimate-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-09-02T01:02:00Z"
 ---
 ## What it is
 Model Context Protocol server for RPG Maker MV project management. Provides 102 tools for actors, classes, skills, items, weapons, armors, enemies, states, troops, common events, maps, events, tilesets, animations, system settings, project management, AI vision analysis, offline ASCII map rendering,

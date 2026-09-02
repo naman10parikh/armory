@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-18T13:55:02Z"
 ---
 ## What it is
 MCP server `LODA`, catalogued on PulseMCP. Integrates with the LODA Language API to provide sequence search, LODA program compilation and evaluation, and submission capabilities for mathematical research and integer sequence analysis workflows with the Online Encyclopedia of Integer Sequences.

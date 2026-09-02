@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T07:21:49Z"
 ---
 ## What it is
 Enables querying Korean official statistics from KOSIS via natural language in MCP clients like Claude Desktop, wrapping the KOSIS OpenAPI for search, data retrieval, and metadata exploration.

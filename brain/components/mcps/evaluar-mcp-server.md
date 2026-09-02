@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T22:28:26Z"
 ---
 ## What it is
 Enables authentication and management of eTalent processes within Evaluar platform, allowing users to search positions, create and launch processes directly from their IDE.

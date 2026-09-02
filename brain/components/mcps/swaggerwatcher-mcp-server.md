@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T00:22:21Z"
 ---
 ## What it is
 An MCP server that dynamically reads OpenAPI specs and registers every endpoint as an LLM-callable tool with automatic change detection and hot reload.

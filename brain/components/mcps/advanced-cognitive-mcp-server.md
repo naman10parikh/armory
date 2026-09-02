@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-19T10:29:44Z"
 ---
 ## What it is
 Enables complex problem-solving through multi-modal reasoning, dynamic knowledge graphs, meta-cognitive reflection, and collaborative AI personas.

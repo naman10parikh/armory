@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T17:27:30Z"
 ---
 ## What it is
 Provides a production-ready Model Context Protocol server with dual STDIO and Streamable HTTP transports, enabling file operations, memory, database queries, RAG, web search, GitHub integration, background tasks, and prompt-based workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:21:09Z"
 ---
 ## What it is
 Private escrow for AI agent work on Beam mainnet an agent locks payment, the worker locks collateral, and delivery settles on hash match or review, with M of N arbitrator voting and slashable worker bonds as the dispute backstop. 22 tools cover the full contract lifecycle, and dispute voting is deli

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-25T04:32:26Z"
 ---
 ## What it is
 Enables AI assistants to search the OSRS Wiki, lookup Grand Exchange prices, and access synced player data (bank, skills, quests, etc.) via local RuneLite plugin files.

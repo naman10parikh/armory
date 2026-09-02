@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:10:14Z"
 ---
 ## What it is
 MCP server that enables coding agents to search X/Twitter and the web through the local Grok CLI, providing better search results than default Codex or Claude search without requiring an API key.

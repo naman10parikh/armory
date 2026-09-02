@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-15T20:03:51Z"
 ---
 ## What it is
 Enables AI agents to access financial data and perform analysis by exposing AlphaVantage API endpoints as MCP tools, including company overview, income statement, balance sheet, cash flow, and earnings reports.

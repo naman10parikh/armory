@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-18T12:12:23Z"
 ---
 ## What it is
 Enables reading, creating, updating, and appending content to Yandex Wiki pages via MCP. Supports both read-write and read-only modes.

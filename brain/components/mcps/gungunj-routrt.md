@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T15:54:39Z"
 ---
 ## What it is
 MCP server `Routrt`, catalogued on PulseMCP. Provides routing and navigation tools for calculating paths and directions.

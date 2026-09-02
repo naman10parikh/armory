@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:54:38Z"
 ---
 ## What it is
 Enables collaborative multi-agent turn-taking conversations between LLM agents and humans via @mentions, with synchronized turn queues, private messaging, and live Markdown transcript tracking.

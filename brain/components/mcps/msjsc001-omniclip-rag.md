@@ -8,10 +8,12 @@ source_url: https://github.com/msjsc001/omniclip-rag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-08T15:38:54Z"
 ---
 ## What it is
 MCP server `OmniClip RAG`, catalogued on PulseMCP. Local-first RAG knowledge base supporting 1290 file formats with semantic search, markdown indexing, and read-only MCP retrieval.

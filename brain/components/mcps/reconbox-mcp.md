@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T10:42:20Z"
 ---
 ## What it is
 Enables Claude to run Kali Linux penetration-testing tools (e.g., nmap, sqlmap, ffuf) in an isolated Docker container.

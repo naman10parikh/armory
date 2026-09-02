@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-27T20:36:50Z"
 ---
 ## What it is
 Manages SkySQL MariaDB database instances and enables interaction with AI-powered database agents through natural language.

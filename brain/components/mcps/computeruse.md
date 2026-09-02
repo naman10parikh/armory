@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T17:33:40Z"
 ---
 ## What it is
 A stdio MCP server that provides safe local screen observation and one-step execution for desktop automation using Ollama vision models.

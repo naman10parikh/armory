@@ -8,10 +8,12 @@ source_url: https://github.com/excelsier/things-fastmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-05-30T14:17:20Z"
 ---
 ## What it is
 MCP server `Things 3`, catalogued on PulseMCP. Integrates with the Things 3 task management app to enable creating tasks, managing projects, and analyzing productivity patterns through natural language commands

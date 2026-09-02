@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T01:31:24Z"
 ---
 ## What it is
 Enables querying and analyzing logs from multiple remote Unix hosts via the Log Collector API, with tools for search, error detection, and summary generation.

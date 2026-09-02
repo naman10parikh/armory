@@ -8,10 +8,12 @@ source_url: https://github.com/allaboutai-yt/gpt5mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 83
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2025-08-09T14:20:53Z"
 ---
 ## What it is
 MCP server `GPT-5`, catalogued on PulseMCP. Provides direct integration with OpenAI's GPT-5 API through simple prompt-based and structured conversation tools for text generation without building custom API integration layers.

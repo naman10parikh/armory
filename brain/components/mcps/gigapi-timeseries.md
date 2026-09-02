@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-26T19:18:13Z"
 ---
 ## What it is
 MCP server `GigAPI`, catalogued on PulseMCP. Integrates with GigAPI Timeseries Lake to execute SQL queries, manage databases and tables, and write time-series data using InfluxDB Line Protocol for analytics and IoT monitoring applications.

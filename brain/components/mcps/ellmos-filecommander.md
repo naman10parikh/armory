@@ -8,10 +8,12 @@ source_url: https://github.com/ellmos-ai/ellmos-filecommander-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-30T18:29:54Z"
 ---
 ## What it is
 MCP server `BACH FileCommander`, catalogued on PulseMCP. Filesystem, process management, sessions, search, OCR, ZIP, and PDF export tools.

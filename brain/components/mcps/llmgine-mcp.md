@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-28T03:37:43Z"
 ---
 ## What it is
 Enables AI agents to build and test games headlessly using the llmgine game engine, with tools for world creation, prefab definition, spawning, acting, and simulation.

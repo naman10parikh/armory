@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T13:31:29Z"
 ---
 ## What it is
 A Node.js MCP server with custom OAuth 2.1 + PKCE authentication, enabling secure remote connections to LLMs like Claude and ChatGPT.

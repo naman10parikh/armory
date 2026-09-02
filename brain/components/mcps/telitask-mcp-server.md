@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T08:37:30Z"
 ---
 ## What it is
 Enables AI assistants to manage phone calls, contacts, and tasks directly, including making and scheduling calls, retrieving transcripts, and handling contact and to-do items.

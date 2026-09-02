@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T06:21:04Z"
 ---
 ## What it is
 Enables persistent AI entities with causal memory, emotional state, and identity continuity. Provides 31 tools for memory, cognition, emotion, planning, reasoning, and more.

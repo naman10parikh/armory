@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-17T21:07:51Z"
 ---
 ## What it is
 Enables flight search and date parsing using Amadeus API and Google Gemini, with natural language understanding.

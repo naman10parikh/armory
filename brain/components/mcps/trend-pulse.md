@@ -8,11 +8,13 @@ source_url: https://github.com/claude-world/trend-pulse
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 57
+stars: 58
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-04-13T00:03:17Z"
 ---
 ## What it is
 MCP server for trend-pulse, an agentic trend intelligence platform that fetches and analyzes trending topics from 37 sources, provides search, historical data, and lifecycle prediction via 29 tools.

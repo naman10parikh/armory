@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:35:41Z"
 ---
 ## What it is
 A lightweight MCP memory engine for AI coding agents that provides zero-token-waste memory recall, knowledge graph management, and Obsidian-compatible notes. It enables agents to persist and retrieve project decisions, inspect file structures efficiently, and manage a persistent knowledge graph with

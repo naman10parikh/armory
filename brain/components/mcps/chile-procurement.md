@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:47:53Z"
 ---
 ## What it is
 Enables access to Chile's government procurement data (Mercado Público / ChileCompra) via MCP, allowing AI agents to query public procurement information.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T20:22:24Z"
 ---
 ## What it is
 Provides AI agents with web accessibility analysis tools via MCP, enabling checks for alt text, heading hierarchy, color contrast, ARIA validation, and form accessibility.

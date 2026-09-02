@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-03T12:24:33Z"
 ---
 ## What it is
 Enables AI assistants to fetch and analyze YouTube data, including video info, transcripts, channel analysis, and comparisons, with both free and API-key extended tools.

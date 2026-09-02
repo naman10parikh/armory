@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:29:02Z"
 ---
 ## What it is
 MCP server `ThreatFox`, catalogued on PulseMCP. ThreatFox abuse.ch indicator-of-compromise feed for querying malware IOCs, threat actors, and malicious infrastructure via Pipeworx.

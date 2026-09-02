@@ -8,10 +8,12 @@ source_url: https://github.com/mikeborozdin/vibe-composer-midi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-12-30T22:53:12Z"
 ---
 ## What it is
 MCP server `Vibe Composer MIDI`, catalogued on PulseMCP. Enables real-time music composition and playback through natural language commands using the JZZ MIDI library, supporting 128 General MIDI instruments, drum kits, multi-channel arrangements, and both software and hardware synthesizers with configurable timing and BPM control.

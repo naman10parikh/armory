@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T18:08:46Z"
 ---
 ## What it is
 MCP server `ServiceNow Docs`, catalogued on PulseMCP. MCP server providing runtime access to ServiceNow documentation via the public Fluid Docs API with search, retrieval, and autocomplete tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T21:49:36Z"
 ---
 ## What it is
 Provides chemical hazard data from ECHA, NIOSH, GHS, and ICSC, enabling lookups of SVHC status, occupational exposure limits, GHS classifications, and cross-references to cosmetic and food additive databases.

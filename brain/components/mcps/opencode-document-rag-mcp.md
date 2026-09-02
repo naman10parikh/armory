@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T01:17:31Z"
 ---
 ## What it is
 Enables local semantic search over PDF, DOCX, PPTX, and EPUB documents by converting them to Markdown, indexing them in ChromaDB, and retrieving complete structure-aware sections with tables and equations.

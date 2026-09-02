@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T05:35:13Z"
 ---
 ## What it is
 Provides AI assistants with 6 tools to access Material UI component documentation, enabling consistent and well-designed React application development.

@@ -8,10 +8,12 @@ source_url: https://github.com/wenhuwang/mcp-k8s-eye
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-05-16T09:47:30Z"
 ---
 ## What it is
 MCP server `Kubernetes Eye`, catalogued on PulseMCP. Kubernetes management tool that connects to clusters to list, analyze, and manipulate pods, execute container commands, and retrieve logs directly through conversation interfaces.

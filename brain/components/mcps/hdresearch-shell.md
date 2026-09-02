@@ -12,6 +12,8 @@ stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-12-15T18:04:59Z"
 ---
 ## What it is
 MCP server `CLI`, catalogued on PulseMCP. Secure shell command execution server for AI models to interact with local systems while maintaining strict security controls.

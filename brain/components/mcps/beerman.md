@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T06:46:27Z"
 ---
 ## What it is
 MCP server for long-term project memory management, allowing AI agents to store and semantically search project milestones, decisions, and architecture specs via Supermemory vector store.

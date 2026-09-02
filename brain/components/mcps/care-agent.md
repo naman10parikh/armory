@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:27:30Z"
 ---
 ## What it is
 Enables medical care management by retrieving and synthesizing PubMed literature, drafting provider emails for user review, and supporting human-in-the-loop approvals.

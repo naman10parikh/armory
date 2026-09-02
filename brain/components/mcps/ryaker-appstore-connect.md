@@ -8,10 +8,12 @@ source_url: https://github.com/ryaker/appstore-connect-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-28T01:43:04Z"
 ---
 ## What it is
 MCP server `App Store Connect`, catalogued on PulseMCP. Manage iOS and macOS apps, TestFlight, and app metadata through Apple Store Connect API

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T12:37:02Z"
 ---
 ## What it is
 Provides real-time weather data and multi-day forecasts for any location worldwide.

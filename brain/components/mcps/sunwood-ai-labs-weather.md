@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-11-30T03:26:26Z"
 ---
 ## What it is
 MCP server `Weather`, catalogued on PulseMCP. Integrates real-time weather data from OpenWeather to provide location-specific forecasts.

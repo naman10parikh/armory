@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-22T13:36:47Z"
 ---
 ## What it is
 A generative AI agent that searches song lyrics across the web and returns results formatted for mobile apps, built with MCP.

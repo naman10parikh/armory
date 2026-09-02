@@ -8,10 +8,12 @@ source_url: https://github.com/acedatacloud/nanobananamcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-28T10:41:03Z"
 ---
 ## What it is
 MCP server `AceDataCloud NanoBanana`, catalogued on PulseMCP. NanoBanana AI image generation and editing through the AceDataCloud API platform.

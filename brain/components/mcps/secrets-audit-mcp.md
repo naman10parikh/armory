@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-19T05:09:14Z"
 ---
 ## What it is
 Detects leaked credentials in source code with tools to scan text, files, and directories for API keys, tokens, and private keys across 30+ providers.

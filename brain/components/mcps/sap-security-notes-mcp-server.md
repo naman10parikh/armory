@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T10:15:41Z"
 ---
 ## What it is
 Enables querying SAP Security Note metadata including Patch Day releases, CVSS scores, CVEs, affected components, and actively-exploited status via the Model Context Protocol.

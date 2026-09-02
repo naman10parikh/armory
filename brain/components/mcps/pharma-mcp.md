@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T11:43:31Z"
 ---
 ## What it is
 MCP server for clinical and pharmaceutical data, enabling search of ClinicalTrials.gov, PubMed, FDA, and ICH guidelines without API keys.

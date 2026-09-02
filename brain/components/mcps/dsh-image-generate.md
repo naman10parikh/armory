@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T10:56:59Z"
 ---
 ## What it is
 MCP server for generating and editing images and videos via DashScope/OpenAI-compatible APIs, with tools for text-to-image, image editing, text/video generation, and automatic local download.

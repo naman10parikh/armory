@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T08:11:32Z"
 ---
 ## What it is
 Provides structured dealer brand data including inventory, promotions, reviews, and dealer profile via MCP tools, enabling LLMs to answer accurate brand-related queries.

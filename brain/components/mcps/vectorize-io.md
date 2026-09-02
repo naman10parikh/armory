@@ -8,10 +8,12 @@ source_url: https://github.com/vectorize-io/vectorize-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 106
+stars: 111
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-08-27T17:49:33Z"
 ---
 ## What it is
 MCP server `Vectorize`, catalogued on PulseMCP. Bridges Claude with Vectorize.io's vector database services for advanced document retrieval, text extraction, and research capabilities through TypeScript-based tools that handle authentication via organization IDs and API tokens.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T00:31:30Z"
 ---
 ## What it is
 A secure, sandboxed file system server that enables reading, writing, searching, and managing files through MCP-compatible AI clients with path traversal protection and size limits.

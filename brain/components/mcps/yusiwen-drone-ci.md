@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T02:13:51Z"
 ---
 ## What it is
 MCP server `Drone CI`, catalogued on PulseMCP. Interact with Drone CI/CD pipelines to manage repositories, builds, secrets, and cron jobs.

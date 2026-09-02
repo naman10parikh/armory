@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-16T05:21:11Z"
 ---
 ## What it is
 An MCP server that enables AI agents to monitor and control an Elegoo Centauri Carbon 3D printer via local network, supporting status checks, snapshots, and print control.

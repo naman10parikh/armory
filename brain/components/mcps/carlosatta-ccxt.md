@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-29T20:40:29Z"
 ---
 ## What it is
 MCP server `CCXT`, catalogued on PulseMCP. Integrates with major cryptocurrency exchanges including Binance, Coinbase, Kraken, Bitfinex, and Bybit through CCXT to provide market data retrieval, account management, and live trading capabilities for spot and futures orders with comprehensive error handling and rate limit awareness.

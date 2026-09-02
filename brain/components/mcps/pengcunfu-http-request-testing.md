@@ -8,10 +8,12 @@ source_url: https://github.com/pengcunfu/go-mcp-request
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-11T00:06:58Z"
 ---
 ## What it is
 MCP server `HTTP Request Testing`, catalogued on PulseMCP. Provides HTTP request testing capabilities with comprehensive method support and specialized raw request tools that preserve payloads for security vulnerability testing while automatically logging all requests and responses.

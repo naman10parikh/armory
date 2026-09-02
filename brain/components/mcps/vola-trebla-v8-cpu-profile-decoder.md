@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T22:07:32Z"
 ---
 ## What it is
 MCP server `V8 CPU Profile Decoder`, catalogued on PulseMCP. Decodes V8 CPU profiles into token-efficient bottleneck summaries for AI agents.

@@ -8,10 +8,12 @@ source_url: https://github.com/executeautomation/mcp-database-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 354
+stars: 380
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 97
+pushed_at: "2025-08-27T01:22:21Z"
 ---
 ## What it is
 MCP server `ExecuteAutomation Database Server`, catalogued on PulseMCP. Enables direct interaction with SQLite and SQL Server databases through a modular adapter architecture for data analysis, database management, and business intelligence workflows without exposing raw credentials.

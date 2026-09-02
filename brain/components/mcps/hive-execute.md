@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T22:58:58Z"
 ---
 ## What it is
 MCP server `Hive Execute`, catalogued on PulseMCP. Intent execution engine for autonomous agent task routing.

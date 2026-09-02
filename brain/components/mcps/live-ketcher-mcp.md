@@ -8,11 +8,13 @@ source_url: https://github.com/MALeitch/live-ketcher-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-06T13:08:46Z"
 ---
 ## What it is
 MCP server that connects AI assistants to a live Ketcher window, the open-source web-based chemical structure editor. Draw, edit, and organize structures directly in the canvas you have open.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
+forks: 0
+pushed_at: "2025-05-25T08:26:05Z"
 ---
 ## What it is
 GitHub pages blog

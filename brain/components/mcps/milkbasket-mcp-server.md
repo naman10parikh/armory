@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-27T20:10:30Z"
 ---
 ## What it is
 Enables AI assistants to interact with Milkbasket for grocery shopping, including OTP authentication, product search, cart management, wallet balance checks, and order summaries through natural language.

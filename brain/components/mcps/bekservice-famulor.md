@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-23T08:10:27Z"
 ---
 ## What it is
 MCP server `Famulor`, catalogued on PulseMCP. Voice agent platform for phone calling, assistant configuration, campaign management, SMS messaging, and mid-call tool execution for automated voice interactions.

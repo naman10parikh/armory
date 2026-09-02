@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-12T13:12:57Z"
 ---
 ## What it is
 Enables AI agents to query and analyze FDA adverse events, drug labels, medical device clearances, and other public health datasets through natural language commands.

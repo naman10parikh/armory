@@ -8,10 +8,12 @@ source_url: https://github.com/bunasq/fs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-11T12:12:59Z"
 ---
 ## What it is
 MCP server `File System Access`, catalogued on PulseMCP. Enables file system access to read local files with optional API key authentication, providing a simple interface for analyzing and working with file content without manual uploads.

@@ -8,10 +8,12 @@ source_url: https://github.com/nam0101/android-mcp-toolkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-08T04:28:40Z"
 ---
 ## What it is
 MCP server `Android Toolkit`, catalogued on PulseMCP. Converts SVG files to Android VectorDrawables with optimization and provides ADB logcat analysis for debugging crashes, ANRs, and application state monitoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2026-05-20T13:26:14Z"
 ---
 ## What it is
 Provides file caching and diff tracking for AI coding agents, reducing token usage by returning changes or confirming no changes instead of full file contents on repeated reads.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:28:04Z"
 ---
 ## What it is
 Provides semantic search and listing over a unified personal knowledge graph aggregating LinkedIn, GitHub, course completions, and more, enabling MCP clients to answer questions about skills and experience with evidence-backed results.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:38:00Z"
 ---
 ## What it is
 Local-first MCP server that persists AI coding agent memory and session context, enabling seamless resume across sessions with searchable memories and checkpoints.

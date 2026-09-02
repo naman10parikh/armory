@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:25:32Z"
 ---
 ## What it is
 Enables cross-border SMB invoice settlement on USDT/USDC rails with $0 wire fee and same-block settlement, including fee schedule comparison, invoice creation, status tracking, and dispute arbitration via HiveLaw.

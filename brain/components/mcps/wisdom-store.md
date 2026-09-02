@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-20T15:46:48Z"
 ---
 ## What it is
 An MCP server that gives AI coding assistants persistent memory, context control, and anti-hallucination tools via flat-file knowledge storage, project indexing, and symbol validation.

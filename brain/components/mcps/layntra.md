@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T11:22:40Z"
 ---
 ## What it is
 MCP server that lets product managers turn ideas into editable Figma designs using natural language, with explicit planning and approval before any changes.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-13T10:27:03Z"
 ---
 ## What it is
 MCP server `Jupyter Notebook Bridge`, catalogued on PulseMCP. Provides a bridge between Jupyter notebooks and AI systems, enabling code execution, markdown creation, and Earth data interaction through specialized tools and kernel manipulation.

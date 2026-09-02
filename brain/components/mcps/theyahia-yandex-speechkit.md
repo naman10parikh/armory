@@ -8,10 +8,12 @@ source_url: https://github.com/theyahia/yandex-speechkit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-18T13:04:17Z"
 ---
 ## What it is
 MCP server `Yandex SpeechKit`, catalogued on PulseMCP. Integrates with Yandex SpeechKit API for speech recognition and text-to-speech synthesis.

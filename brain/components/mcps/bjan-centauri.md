@@ -8,10 +8,12 @@ source_url: https://github.com/bjan/pycentauri
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-16T05:21:11Z"
 ---
 ## What it is
 MCP server `Centauri`, catalogued on PulseMCP. Elegoo Centauri Carbon 3D printer control via reverse-engineered SDCP v3 WebSocket protocol.

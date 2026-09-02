@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T20:28:33Z"
 ---
 ## What it is
 An MCP server that gives any agent an end-to-end-encrypted, sovereign inbox on xete, enabling identity lookup, encrypted messaging, and inbox management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-20T02:57:59Z"
 ---
 ## What it is
 Provides a set of MCP tools to manage Google Calendar events via natural language, allowing creation, querying, updating, and deletion of events through a local LLM (Ollama) and MCP client.

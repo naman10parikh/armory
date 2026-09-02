@@ -8,10 +8,12 @@ source_url: https://github.com/dreamfactorysoftware/df-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-23T00:10:17Z"
 ---
 ## What it is
 MCP server `DreamFactory`, catalogued on PulseMCP. Enables AI to interact with databases through DreamFactory's REST API, providing secure, structured access to schemas, data, and stored procedures without direct credential exposure.

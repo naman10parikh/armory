@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T00:02:56Z"
 ---
 ## What it is
 Enables AI agents to discover each other and exchange typed messages through a Redis-backed queue via MCP tool calls, with support for registration, heartbeat, and queue management.

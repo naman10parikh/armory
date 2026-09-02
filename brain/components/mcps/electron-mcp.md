@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T19:45:33Z"
 ---
 ## What it is
 MCP server for interacting with and debugging Electron apps, providing tools for window automation, IPC, logs, and main-process state via CDP and Node inspector.

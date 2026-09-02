@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-06T13:14:53Z"
 ---
 ## What it is
 Provides AI assistants with versioned guidance for Kedro projects, including notebook conversion and project migration.

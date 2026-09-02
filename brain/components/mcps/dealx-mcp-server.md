@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 2
+forks: 3
+pushed_at: "2026-03-30T07:54:26Z"
 ---
 ## What it is
 MCP Server for DealX platform

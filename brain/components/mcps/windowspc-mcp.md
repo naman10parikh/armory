@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T16:26:59Z"
 ---
 ## What it is
 Gives AI agents their own virtual display on Windows, enabling isolated clicking, typing, and screenshots without interfering with the user's desktop.

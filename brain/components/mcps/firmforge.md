@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T08:04:44Z"
 ---
 ## What it is
 MCP server for firmware verification in MCU development, exposing a five-stage pipeline (Detect, Review, Build, Flash, Verify) as tools for AI agents to compile, flash, and verify firmware on Arduino boards.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-20T08:36:55Z"
 ---
 ## What it is
 Automates LinkedIn recruiting tasks such as login, search with filters, paginated people search, and profile detail retrieval via Playwright.

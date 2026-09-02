@@ -8,10 +8,12 @@ source_url: https://github.com/effytech/freshservice_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 47
+pushed_at: "2026-04-10T05:32:20Z"
 ---
 ## What it is
 MCP server `Freshservice`, catalogued on PulseMCP. Enable AI assistants to manage IT service tickets and operations by integrating directly with Freshservice. Automate ticket creation, updates, and asset management to streamline your IT support workflows. Accelerate routine IT service tasks with seamless AI-driven interactions.

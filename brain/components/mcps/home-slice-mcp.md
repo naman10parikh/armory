@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-05T16:02:49Z"
 ---
 ## What it is
 MCP server providing mortgage calculation tools and live interest rates from Home Slice.

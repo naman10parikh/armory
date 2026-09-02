@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T20:18:29Z"
 ---
 ## What it is
 Tracks working context and code structure in a portable local SQLite database, enabling seamless context and task continuity across different AI coding tools.

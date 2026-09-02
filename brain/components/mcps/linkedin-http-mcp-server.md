@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T20:08:01Z"
 ---
 ## What it is
 A production-ready MCP server for LinkedIn that provides tools to search jobs and people, retrieve profiles, network stats, connections, and send messages via natural language.

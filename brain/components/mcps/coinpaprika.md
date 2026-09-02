@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-19T09:02:19Z"
 ---
 ## What it is
 MCP server `CoinPaprika`, catalogued on PulseMCP. Provides real-time cryptocurrency market data, tickers, exchange information, OHLCV candles, and price conversions for 8,000+ coins.

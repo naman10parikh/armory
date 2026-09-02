@@ -8,11 +8,13 @@ source_url: https://github.com/rgarcia/ynab-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 91
+stars: 92
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 22
+pushed_at: "2026-07-16T15:33:03Z"
 ---
 ## What it is
 Exposes YNAB API endpoints as MCP tools, allowing AI assistants to manage budgets, accounts, transactions, and more through natural language.

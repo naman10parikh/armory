@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-01T18:29:37Z"
 ---
 ## What it is
 An MCP server optimized for user profile and audience data synchronization tasks, providing tools for confirmation, verification, and rollback in data sync workflows.

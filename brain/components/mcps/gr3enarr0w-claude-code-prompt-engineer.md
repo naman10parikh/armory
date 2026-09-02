@@ -8,10 +8,12 @@ source_url: https://github.com/gr3enarr0w/cc_peng_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-08-09T04:55:41Z"
 ---
 ## What it is
 MCP server `Claude Code Prompt Engineer`, catalogued on PulseMCP. Automatically detects programming languages and task types from natural language requests, then generates optimized, structured prompts with interactive refinement capabilities for enhanced code development workflows.

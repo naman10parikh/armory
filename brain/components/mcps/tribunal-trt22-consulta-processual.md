@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:13Z"
 ---
 ## What it is
 MCP server for querying legal proceedings at TRT22 (Brazilian regional labor court) through a single read-only tool, with usage-based prepaid credits.

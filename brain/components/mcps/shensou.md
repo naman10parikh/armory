@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T02:02:09Z"
 ---
 ## What it is
 An MCP server for divergent iterative web search that anchors on a question, proposes keyword queries, gathers evidence, and outputs a question-map and synthesis.

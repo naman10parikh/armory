@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:28Z"
 ---
 ## What it is
 Connects MCP-powered AI agents to the decentralized Agent Network Protocol (ANP) for DID-based identity, agent discovery, and secure agent-to-agent communication.

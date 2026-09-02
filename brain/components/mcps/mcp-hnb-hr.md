@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:13:22Z"
 ---
 ## What it is
 Provides access to Croatian National Bank exchange rates without needing an API key, enabling currency conversion and rate queries through natural language.

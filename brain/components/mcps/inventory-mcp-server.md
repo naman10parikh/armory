@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:56:26Z"
 ---
 ## What it is
 An MCP server for inventory management (list, add, delete, comment on items) that demonstrates Auth0 for MCP capabilities including JWT bearer auth, fine-grained authorization with FGA, CIBA step-up approval, and Token Vault integration.

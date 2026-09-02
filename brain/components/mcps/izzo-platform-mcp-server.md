@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T03:24:05Z"
 ---
 ## What it is
 Provides real-time supply chain compromise intelligence from X, enabling coding agents to check packages and view recent incidents before adding dependencies.

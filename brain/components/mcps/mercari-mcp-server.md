@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T01:07:16Z"
 ---
 ## What it is
 Automates Mercari resale marketplace operations, enabling AI assistants to search listings, manage selling inventory, view purchase/sales history, and create new listings via Playwright and Browserbase.

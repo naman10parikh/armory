@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T03:25:53Z"
 ---
 ## What it is
 Live LLM pricing as an MCP server. Ask Claude or any MCP client 'how much does this prompt cost?' and get real numbers from a hand-checked pricing table for every major LLM.

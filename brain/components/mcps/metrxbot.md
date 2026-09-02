@@ -8,10 +8,12 @@ source_url: https://github.com/metrxbots/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-29T05:55:45Z"
 ---
 ## What it is
 MCP server `MetrxBot`, catalogued on PulseMCP. Track AI agent costs, detect waste, optimize model selection, and prove ROI.

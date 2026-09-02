@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-26T03:20:41Z"
 ---
 ## What it is
 MCP server `XRPL Wallet Risk Score`, catalogued on PulseMCP. XRPL wallet risk scoring with behavioral tags, sub-scores, graph analysis, and pay-per-call in XRP.

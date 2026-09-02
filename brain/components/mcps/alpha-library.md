@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T13:24:53Z"
 ---
 ## What it is
 MCP server for searching and retrieving trading knowledge from a centralized SQLite library of book summaries, strategies, and document chunks.

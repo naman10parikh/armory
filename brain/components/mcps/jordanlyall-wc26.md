@@ -8,10 +8,12 @@ source_url: https://github.com/jordanlyall/wc26-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-09-01T13:17:42Z"
 ---
 ## What it is
 MCP server `World Cup 2026`, catalogued on PulseMCP. FIFA World Cup 2026 data and information.

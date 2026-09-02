@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T12:15:25Z"
 ---
 ## What it is
 Provides a stdio MCP server for Codex to inspect and query configured datasources, with tools for health checks, read-only queries, metadata, and fixed physical sessions with audit trails.

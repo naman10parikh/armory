@@ -12,6 +12,8 @@ stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-03-19T03:15:17Z"
 ---
 ## What it is
 MCP server `PowerShell Exec`, catalogued on PulseMCP. Enables real-time execution of PowerShell scripts through a lightweight Python server, bridging AI tools with PowerShell functionality for data analysis, Windows task automation, and module interaction.

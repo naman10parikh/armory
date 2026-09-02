@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:58:50Z"
 ---
 ## What it is
 MCP server `datos.gob.cl`, catalogued on PulseMCP. Chilean government open data portal (datos.gob.cl) access via a Pipeworx-hosted MCP endpoint.

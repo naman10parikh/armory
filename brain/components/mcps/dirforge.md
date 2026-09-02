@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T11:23:13Z"
 ---
 ## What it is
 DirForge is a lightweight, self-hosted file tree browser with integrated MCP that lets you share directory structures with anyone. It packs various MCP tools for browsing and analyzing files and directories.

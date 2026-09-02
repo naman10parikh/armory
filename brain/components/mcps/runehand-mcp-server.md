@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T20:23:39Z"
 ---
 ## What it is
 MCP server that wraps the Runehand API v1 as tools, enabling users to operate Runehand bots directly by listing bots and flows, reading and replying to conversations, managing leads, and checking analytics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T08:55:09Z"
 ---
 ## What it is
 Minimal, spec-faithful Python framework for building MCP clients and servers with decorators and automatic schema inference.

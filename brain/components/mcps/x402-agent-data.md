@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T00:44:11Z"
 ---
 ## What it is
 Pay-per-call MCP server offering crypto market signals, web page extraction, and GitHub repo auditing, with automatic settlement in USDC via the x402 protocol.

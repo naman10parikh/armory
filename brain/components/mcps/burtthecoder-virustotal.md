@@ -8,10 +8,12 @@ source_url: https://github.com/burtthecoder/mcp-virustotal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 127
+stars: 149
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-05-24T03:00:04Z"
 ---
 ## What it is
 MCP server `VirusTotal`, catalogued on PulseMCP. This VirusTotal MCP server enables AI assistants to programmatically access VirusTotal's threat intelligence for security analysis and threat detection.

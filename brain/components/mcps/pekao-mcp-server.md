@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T01:54:19Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Pekao banking API for account information, payment initiation, and confirmation of funds via MCP tools.

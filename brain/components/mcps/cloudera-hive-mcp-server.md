@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T21:31:03Z"
 ---
 ## What it is
 Enables LLM agents to query and explore Cloudera Hive virtual warehouses through tools like list_databases, list_tables, describe_table, get_table_sample, and execute_query with read-only safety.

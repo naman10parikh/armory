@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-17T13:54:51Z"
 ---
 ## What it is
 MCP server for generating images using Z.AI's glm-image model. Supports image generation with various sizes and qualities, and includes batch CLI functionality.

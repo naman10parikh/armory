@@ -8,10 +8,12 @@ source_url: https://github.com/artillect/mtg-mcp-servers
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-18T12:02:38Z"
 ---
 ## What it is
 MCP server `MTG Deck Manager`, catalogued on PulseMCP. Integrates with Magic: The Gathering resources to enable deck management, card drawing, hand manipulation, and Scryfall API searches for comprehensive card information retrieval and game simulation.

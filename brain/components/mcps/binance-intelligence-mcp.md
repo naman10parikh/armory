@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-20T23:39:42Z"
 ---
 ## What it is
 MCP server providing 12 computed intelligence tools for Binance, including accumulation detection, whale tracking, market impact simulation, and more, using public endpoints with no API keys needed.

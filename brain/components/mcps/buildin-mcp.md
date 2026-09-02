@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T14:15:30Z"
 ---
 ## What it is
 Enables LLMs to interact with Buildin.ai workspaces, providing tools to manage pages, databases, blocks, search, users, and convert Markdown content.

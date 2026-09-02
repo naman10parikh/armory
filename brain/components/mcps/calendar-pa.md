@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T17:21:45Z"
 ---
 ## What it is
 Google Calendar MCP server with natural language scheduling, conflict detection, smart slot finding, complex recurring events, and a Telegram bot interface. Self-hosted, works with Claude Desktop and any MCP-compatible client.

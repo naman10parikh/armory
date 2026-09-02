@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:48:30Z"
 ---
 ## What it is
 Enables email agents to send emails with granular trust levels per contact, ensuring human approval for high-risk or unknown recipients while allowing automatic sending for trusted ones.

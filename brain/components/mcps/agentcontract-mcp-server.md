@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T07:03:20Z"
 ---
 ## What it is
 Enables AI agents to create, sign, and enforce binding agreements with deliverables, deadlines, penalties, and a full lifecycle state machine.

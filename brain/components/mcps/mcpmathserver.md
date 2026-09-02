@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T08:59:34Z"
 ---
 ## What it is
 An MCP server that provides math tools (add, subtract, multiply) and a weather tool, with a LangChain agent client that uses Groq to answer natural language queries.

@@ -8,10 +8,12 @@ source_url: https://github.com/designcomputer/mysql_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1261
+stars: 1378
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 257
+pushed_at: "2026-08-02T13:36:20Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Explore schemas and execute read-only SQL queries on MySQL databases.

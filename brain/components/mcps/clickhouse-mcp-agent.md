@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-07T02:07:02Z"
 ---
 ## What it is
 Enables querying ClickHouse databases using natural language with AI models, supporting multiple providers and access restrictions via per-call allow-lists.

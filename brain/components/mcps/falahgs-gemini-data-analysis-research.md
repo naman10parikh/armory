@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-15T10:25:23Z"
 ---
 ## What it is
 MCP server `Gemini Data Analysis & Research`, catalogued on PulseMCP. Bridges to Google's Gemini model for data analysis, email communication, and reasoning process generation with tools for Excel/CSV processing, statistical visualization, and AI-generated content.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T16:00:01Z"
 ---
 ## What it is
 Searches LinkedIn, Indeed, USAJobs, and Google Jobs from the command line, deduplicates across sources, and optionally finds hiring manager emails; also runs as an MCP server for AI agents.

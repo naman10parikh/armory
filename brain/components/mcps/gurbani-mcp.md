@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:04:26Z"
 ---
 ## What it is
 A local self-hosted MCP server for searching and verifying Gurmukhi quotes from Sri Guru Granth Sahib, offering keyword search, authenticity verification, and text guarding via an MCP or HTTP API.

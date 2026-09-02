@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T21:33:19Z"
 ---
 ## What it is
 MCP server for the GSD (Get Shit Done) lifecycle framework. Exposes GSD project state, phases, milestones, and commands as MCP tools and resources.

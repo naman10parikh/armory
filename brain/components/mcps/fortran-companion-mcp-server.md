@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T03:30:24Z"
 ---
 ## What it is
 Enables AI models to write, format, compile, lint, and structure modern Fortran code using best practices and industry design patterns.

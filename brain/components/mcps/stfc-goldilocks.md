@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-11T00:36:37Z"
 ---
 ## What it is
 MCP server `Goldilocks`, catalogued on PulseMCP. Predicts optimal k-point grids for Quantum ESPRESSO DFT calculations using machine learning models trained on SSSP1.3 PBEsol pseudopotentials.

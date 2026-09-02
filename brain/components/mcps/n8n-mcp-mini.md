@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T14:30:41Z"
 ---
 ## What it is
 Enables searching and validating n8n node schemas, and managing live n8n instances via its REST API, including workflows, executions, credentials, and webhook triggers.

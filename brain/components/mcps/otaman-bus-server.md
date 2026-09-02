@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:00:32Z"
 ---
 ## What it is
 Provides a stdio MCP server for single-user local operation of the otaman platform, enabling agent orchestration, slash commands, and skill management within Claude Code without a remote bridge daemon.

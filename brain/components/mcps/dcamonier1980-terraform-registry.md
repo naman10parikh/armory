@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-20T05:33:57Z"
 ---
 ## What it is
 MCP server `Terraform Registry`, catalogued on PulseMCP. Integrates with Terraform Registry APIs to enable automated discovery, extraction, and exploration of Terraform providers, resources, data sources, and modules for Infrastructure as Code development.

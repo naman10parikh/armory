@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T15:53:18Z"
 ---
 ## What it is
 Controls a running KiCad 9+ instance via the official IPC API, enabling board edits, queries, and exports without reload.

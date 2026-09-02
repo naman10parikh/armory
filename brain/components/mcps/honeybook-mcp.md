@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:31:28Z"
 ---
 ## What it is
 A Model Context Protocol server that connects Claude to the HoneyBook client portal, giving you natural-language access to contracts and invoices sent by your wedding vendors.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-26T05:01:34Z"
 ---
 ## What it is
 MCP server `SEC EDGAR`, catalogued on PulseMCP. Enables AI systems to access and analyze SEC EDGAR filings data, providing tools for retrieving proxy statements with executive compensation information and Form 4 filings for insider trading details.

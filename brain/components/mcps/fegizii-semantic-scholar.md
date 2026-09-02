@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-02T16:13:07Z"
 ---
 ## What it is
 MCP server `Semantic Scholar`, catalogued on PulseMCP. Integrates with Semantic Scholar Academic Graph API to search papers, retrieve author profiles, analyze citations, and download PDFs with metadata embedding for academic research workflows.

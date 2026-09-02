@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T03:46:35Z"
 ---
 ## What it is
 A Model Context Protocol server that connects multiple AI models into a single workflow, enabling multi-model orchestration, conversation continuity, and tools like code review, planning, and CLI-to-CLI bridging.

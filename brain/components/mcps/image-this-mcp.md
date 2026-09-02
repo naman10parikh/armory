@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T13:09:40Z"
 ---
 ## What it is
 A production-ready MCP server that provides AI-powered image generation through multiple providers including Gemini and Jimeng AI with intelligent provider selection.

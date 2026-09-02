@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-26T08:46:53Z"
 ---
 ## What it is
 An MCP server that gives AI assistants tools to analyze Salesforce Apex debug logs for performance bottlenecks, slow methods, and governor limit usage.

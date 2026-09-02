@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-02-11T13:44:10Z"
 ---
 ## What it is
 MCP server `Simple Website Fetcher`, catalogued on PulseMCP. Fetches website content using Python and MCP, enabling web scraping and content analysis tasks

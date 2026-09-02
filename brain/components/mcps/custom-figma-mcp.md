@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T13:30:48Z"
 ---
 ## What it is
 Local bridge enabling AI agents to inspect and edit the currently open Figma Desktop file through the Figma Plugin API.

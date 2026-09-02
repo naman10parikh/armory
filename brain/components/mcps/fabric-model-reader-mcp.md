@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-12T11:38:40Z"
 ---
 ## What it is
 MCP server for reading and analyzing Fabric semantic models. Supports getting model definitions and executing DAX queries against Power BI datasets.

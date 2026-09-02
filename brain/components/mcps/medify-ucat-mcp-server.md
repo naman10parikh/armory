@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T23:23:06Z"
 ---
 ## What it is
 MCP server for Medify UCAT accounts that authenticates as a member, pulls completed mock scores and practice analytics, and exposes tools for score trends, question-type weaknesses, timing sinks, and practice recommendations.

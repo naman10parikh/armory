@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T14:25:40Z"
 ---
 ## What it is
 MCP server `Ashby Recruiting`, catalogued on PulseMCP. Provides full access to the Ashby recruiting API with 67 tools covering candidates, jobs, offers, and interviews.

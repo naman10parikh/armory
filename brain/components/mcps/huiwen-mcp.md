@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:11:13Z"
 ---
 ## What it is
 Enables AI clients to securely query library catalog data, holdings, availability, and statistics from the Huiben library management system via a read-only MCP server.

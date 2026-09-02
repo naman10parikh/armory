@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T02:21:08Z"
 ---
 ## What it is
 A low-hallucination vision MCP server that uses OpenAI-compatible multimodal models with structured prompts, confidence gating, and forced JSON to reduce false claims in image analysis.

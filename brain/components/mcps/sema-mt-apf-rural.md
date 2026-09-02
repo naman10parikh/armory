@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:04Z"
 ---
 ## What it is
 MCP server for querying official SEMA MT APF Rural data through a read-only tool, with prepaid per-use credits.

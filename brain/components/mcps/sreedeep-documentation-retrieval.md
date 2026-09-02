@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-22T22:00:41Z"
 ---
 ## What it is
 MCP server `Documentation Retrieval (Python Libraries)`, catalogued on PulseMCP. Retrieves up-to-date documentation for Python libraries including LangChain, LlamaIndex, and OpenAI through targeted web searches and HTML content extraction.

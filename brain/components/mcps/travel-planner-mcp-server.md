@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T20:52:38Z"
 ---
 ## What it is
 Minimal TypeScript MCP server providing real flight and hotel search via SerpApi for a personal travel-planning agent.

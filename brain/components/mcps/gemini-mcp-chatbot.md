@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-23T14:48:38Z"
 ---
 ## What it is
 An MCP server exposing calculator, file read, and file write tools for the Gemini CLI agent, enabling mathematical computations and file operations through natural language.

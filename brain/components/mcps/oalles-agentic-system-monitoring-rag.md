@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-21T09:09:39Z"
 ---
 ## What it is
 MCP server `Agentic (System Monitoring & RAG)`, catalogued on PulseMCP. Spring Boot-based server that connects system monitoring tools with a RAG service, enabling real-time access to both system metrics and corporate documentation stored in Redis.

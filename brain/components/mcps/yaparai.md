@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-21T22:09:39Z"
 ---
 ## What it is
 MCP server `YaparAI`, catalogued on PulseMCP. Connects to YaparAI's content creation platform with 30 tools for image, video, and music generation, image editing, and enterprise social media and CRM features.

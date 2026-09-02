@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2025-07-24T03:49:28Z"
 ---
 ## What it is
 A robust task scheduler server for scheduling and managing various types of automated tasks including shell commands, API calls, AI tasks, and reminders.

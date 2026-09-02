@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-29T10:13:28Z"
 ---
 ## What it is
 Enables AI coding tools to scan projects for security vulnerabilities, hardcoded secrets, injection flaws, and privacy violations with 699 rules and 76 MCP tools, all running locally with zero telemetry.

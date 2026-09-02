@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T22:23:46Z"
 ---
 ## What it is
 A stdio MCP server that resolves a template's logins and returns their plaintext credentials to the calling agent, typically to fill login forms via Playwright MCP.

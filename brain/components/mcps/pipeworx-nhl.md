@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:25:00Z"
 ---
 ## What it is
 MCP server `NHL`, catalogued on PulseMCP. Live NHL data via the official NHL API — scores, schedules, player stats, and standings.

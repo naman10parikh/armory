@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T16:26:16Z"
 ---
 ## What it is
 Enables uploading PR screenshots to Cloudflare R2 via presigned URLs, allowing Claude to attach images to PR descriptions without binary data passing through MCP.

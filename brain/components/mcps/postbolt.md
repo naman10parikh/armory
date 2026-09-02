@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-03T18:10:46Z"
 ---
 ## What it is
 MCP server `PostBolt`, catalogued on PulseMCP. Publish and schedule posts to 13+ social media platforms via the PostBolt API.

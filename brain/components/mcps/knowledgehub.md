@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T10:39:48Z"
 ---
 ## What it is
 Enables AI assistants to search, read, and retrieve context from local knowledge bases with full-text search, absolute paths, and section-level details.

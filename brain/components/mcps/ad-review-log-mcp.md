@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T15:13:20Z"
 ---
 ## What it is
 Acts as a persistent log of ad creative reviews. Stores each review's ad name, funnel stage, score, media link, and full review text so agents can look back at how past creatives were scored.

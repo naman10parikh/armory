@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T07:05:43Z"
 ---
 ## What it is
 Enables cross-repository architecture discovery and dependency routing across multi-service codebases, with automated scanning and batch AST indexing for AI agents to trace request lifecycles and navigate service boundaries.

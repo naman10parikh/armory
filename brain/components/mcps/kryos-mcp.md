@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T21:34:10Z"
 ---
 ## What it is
 Governed code execution for AI agents that type-checks, runs, and capability-verifies Kryos code, ensuring agents only run code with declared and allowed capabilities.

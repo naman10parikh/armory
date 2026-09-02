@@ -8,10 +8,12 @@ source_url: https://github.com/echology-io/decompose
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-24T11:32:50Z"
 ---
 ## What it is
 MCP server `Decompose`, catalogued on PulseMCP. Text decomposition into classified semantic units without LLM.

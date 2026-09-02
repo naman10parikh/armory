@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-19T16:34:09Z"
 ---
 ## What it is
 A database-backed MCP server that acts as a project memory bank, enabling AI assistants to store, retrieve, and search structured context like decisions, tasks, and architecture using SQLite and vector embeddings.

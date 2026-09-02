@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:38:35Z"
 ---
 ## What it is
 Enables AI assistants to persistently remember user preferences and context through client-side encrypted vaults, ensuring memory is portable and private across different MCP clients.

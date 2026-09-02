@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T16:18:22Z"
 ---
 ## What it is
 Enables Mu2e analysis workflows by exposing event counting, cut analysis, sensitivity computation, and ML selection as MCP tools for agentic frameworks.

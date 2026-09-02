@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T18:41:47Z"
 ---
 ## What it is
 MCP server `Affiliate Router`, catalogued on PulseMCP. Vendor-neutral payment and affiliate routing for agent-callable tools via x402 and adapter-based splits.

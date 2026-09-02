@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-02T02:44:23Z"
 ---
 ## What it is
 MCP server `Waldzell Metagames`, catalogued on PulseMCP. Provides 27+ game-theoretic problem-solving frameworks organized into 6 categories that transform open-ended challenges into systematic, time-boxed workflows with clear decision gates and termination conditions, preventing analysis paralysis, perfectionism spirals, and scope creep in software development, product management, operations research, and meta-learning contexts.

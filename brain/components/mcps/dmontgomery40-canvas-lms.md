@@ -8,10 +8,12 @@ source_url: https://github.com/dmontgomery40/mcp-canvas-lms
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 99
+stars: 103
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 38
+pushed_at: "2026-05-31T23:10:16Z"
 ---
 ## What it is
 MCP server `Canvas LMS`, catalogued on PulseMCP. Manage courses and assignments in Canvas learning system.

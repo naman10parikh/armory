@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-30T04:17:55Z"
 ---
 ## What it is
 MCP server `AnomalyArmor`, catalogued on PulseMCP. MCP server for AnomalyArmor data observability — monitor data quality, detect schema drift, and manage alerts from your AI assistant.

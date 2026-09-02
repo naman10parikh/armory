@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T14:02:29Z"
 ---
 ## What it is
 A minimal MCP server that exposes tools for addition, echoing text, time lookup, and URL fetching, with support for HTTP and stdio transports.

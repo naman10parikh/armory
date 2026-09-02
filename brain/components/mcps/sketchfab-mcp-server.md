@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T07:10:05Z"
 ---
 ## What it is
 Enables AI clients to search, browse, inspect, and download 3D models from Sketchfab via the Model Context Protocol.

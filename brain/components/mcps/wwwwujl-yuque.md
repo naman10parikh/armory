@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-18T14:05:09Z"
 ---
 ## What it is
 MCP server `Yuque`, catalogued on PulseMCP. Read and write access to Yuque groups, repositories, docs, and table of contents.

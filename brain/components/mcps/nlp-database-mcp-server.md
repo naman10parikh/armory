@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-22T22:22:04Z"
 ---
 ## What it is
 Connect your LLMs to SQL databases safely and intuitively using the Model Context Protocol (MCP). NLP Database acts as a secure, read-only bridge that allows AI agents to explore schemas and query data using natural language.

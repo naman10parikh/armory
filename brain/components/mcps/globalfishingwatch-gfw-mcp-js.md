@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T15:41:21Z"
 ---
 ## What it is
 Access Global Fishing Watch data from any MCP-compatible AI assistant or terminal: search vessels, retrieve fishing activity and port events, look up marine regions, and compute aggregate statistics.

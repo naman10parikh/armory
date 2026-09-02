@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-15T04:36:58Z"
 ---
 ## What it is
 MCP server `Korean Open Data Portal`, catalogued on PulseMCP. Integrates with Korean Open Data Portal APIs through a three-step workflow that searches for APIs by keywords, retrieves detailed documentation, and executes calls with automatic service key injection for accessing government datasets and building data analysis applications.

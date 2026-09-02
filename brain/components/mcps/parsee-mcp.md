@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T15:49:57Z"
 ---
 ## What it is
 MCP server that enables AI assistants to interact with the PARSE app for collecting and monitoring products on Ozon and Wildberries, with tools for search, parsing, group management, analytics, and scheduling.

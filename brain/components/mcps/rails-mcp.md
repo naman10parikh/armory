@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T14:17:58Z"
 ---
 ## What it is
 Default-deny action registry, append-only spend ledger, and human sign-off audit trail (MCP tools).

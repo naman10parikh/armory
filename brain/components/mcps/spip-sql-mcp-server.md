@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T18:49:02Z"
 ---
 ## What it is
 Provides read-only Microsoft SQL Server database access to AI agents with row-level security, enabling SELECT queries, table metadata, and schema introspection through MCP.

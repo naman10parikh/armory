@@ -8,10 +8,12 @@ source_url: https://github.com/wyattjoh/jmap-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 171
+stars: 176
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-08-24T09:53:26Z"
 ---
 ## What it is
 MCP server `JMAP Email`, catalogued on PulseMCP. Integrates with JMAP-compliant email servers to provide comprehensive email management including search, retrieval, mailbox operations, message actions, and composition with reply functionality.

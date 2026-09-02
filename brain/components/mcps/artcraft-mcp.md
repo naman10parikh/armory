@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T05:01:02Z"
 ---
 ## What it is
 Enables Hermes Agent (or other MCP clients) to interact with ArtCraft's subscription API for model discovery, cost estimation, reference ingestion, image/video generation, and task result retrieval.

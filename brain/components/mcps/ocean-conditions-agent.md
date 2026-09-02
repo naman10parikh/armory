@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T17:31:43Z"
 ---
 ## What it is
 Enables checking live tide, swell, and wind data for La Jolla surf spots, with an AI agent that makes judgment calls like a local surfer.

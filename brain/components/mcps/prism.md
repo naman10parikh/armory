@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T11:00:01Z"
 ---
 ## What it is
 Multi-server MCP tool bridge that exposes banking, email, calendar, and custom API tools for AI clients via the Model Context Protocol.

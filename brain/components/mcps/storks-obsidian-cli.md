@@ -8,10 +8,12 @@ source_url: https://github.com/storks/obsidian-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-28T06:31:17Z"
 ---
 ## What it is
 MCP server `Obsidian CLI`, catalogued on PulseMCP. Comprehensive Obsidian vault management through the official CLI with 54 tools for files, search, tasks, tags, plugins, and workspaces.

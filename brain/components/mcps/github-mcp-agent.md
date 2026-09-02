@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T05:38:13Z"
 ---
 ## What it is
 A server that enables natural-language queries about GitHub repositories and returns answers backed by live GitHub data.

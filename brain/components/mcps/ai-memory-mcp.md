@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T10:28:30Z"
 ---
 ## What it is
 Provides persistent session memory for AI assistants, enabling them to store, search, and retrieve conversation summaries across sessions via the Model Context Protocol.

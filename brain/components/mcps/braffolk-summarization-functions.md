@@ -12,6 +12,8 @@ stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-06-15T20:46:05Z"
 ---
 ## What it is
 MCP server `Summarization`, catalogued on PulseMCP. Provides summarized output from various actions, optimizing token usage for efficient processing of large datasets and language models.

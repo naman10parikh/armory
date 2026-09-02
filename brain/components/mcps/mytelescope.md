@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T09:46:43Z"
 ---
 ## What it is
 MCP server `MyTelescope`, catalogued on PulseMCP. Demand intelligence platform for market signals, competitor share, forecasts, and emerging trends.

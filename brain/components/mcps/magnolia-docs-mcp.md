@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-29T17:02:28Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve information from the official Magnolia CMS documentation through a set of MCP tools.

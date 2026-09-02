@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-10T00:40:10Z"
 ---
 ## What it is
 MCP server `Mosta`, catalogued on PulseMCP. Multi-database connectivity with zero config — supports 13 databases, multi-protocol transport, Auth, and RBAC.

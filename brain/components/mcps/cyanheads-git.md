@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/git-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 219
+stars: 239
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 56
+pushed_at: "2026-08-24T21:58:49Z"
 ---
 ## What it is
 MCP server `Git`, catalogued on PulseMCP. Integrates with Git repositories using simple-git to enable core version control operations like cloning, committing, and branch management.

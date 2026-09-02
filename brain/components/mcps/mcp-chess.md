@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T08:57:04Z"
 ---
 ## What it is
 An MCP server that exposes Stockfish chess analysis to LLM chat clients, enabling move analysis, game review, and explanation of engine choices.

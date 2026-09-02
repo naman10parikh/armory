@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-23T16:34:44Z"
 ---
 ## What it is
 Generates structured, validated PRDs from feature descriptions via a staged reducer pipeline. Provides MCP tools for pipeline control, section/document validation, context budgeting, and failure-to-retrieval mapping.

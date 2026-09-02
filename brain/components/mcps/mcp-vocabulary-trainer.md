@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T14:22:16Z"
 ---
 ## What it is
 A local multilingual vocabulary trainer with Leitner spaced repetition and MCP integration, enabling ChatGPT to manage vocabulary, domains, conjugations, and review schedules persistently.

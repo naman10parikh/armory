@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-06T08:36:32Z"
 ---
 ## What it is
 Provides persistent, searchable memory and knowledge capture for AI-assisted development, enabling agents to retain decisions, bugs, and patterns across sessions and projects.

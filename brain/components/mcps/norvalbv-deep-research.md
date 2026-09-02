@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-28T14:38:23Z"
 ---
 ## What it is
 MCP server `Deep Research`, catalogued on PulseMCP. Orchestrates comprehensive research workflows by coordinating web search, academic papers, and technical documentation through parallel LLM voting for planning, consensus-based execution, and structured synthesis with automated report generation.

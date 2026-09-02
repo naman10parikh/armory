@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T16:11:06Z"
 ---
 ## What it is
 Enables Claude Code instances to discover each other and exchange messages instantly via a local broker and channel protocol. Supports scoped peer discovery, reliable ack-based delivery, and cross-platform operation.

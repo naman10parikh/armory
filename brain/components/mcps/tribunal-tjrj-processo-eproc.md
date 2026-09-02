@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:41Z"
 ---
 ## What it is
 Enables read-only consultation of TJRJ (Rio de Janeiro) legal process details (eproc) from official sources via a single tool, with paid per-use access.

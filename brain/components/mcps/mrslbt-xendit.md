@@ -8,10 +8,12 @@ source_url: https://github.com/mrslbt/xendit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-10T06:40:40Z"
 ---
 ## What it is
 MCP server `Xendit`, catalogued on PulseMCP. Access Xendit payment APIs for invoices, disbursements, and balance management.

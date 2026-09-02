@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T10:18:10Z"
 ---
 ## What it is
 MCP server for web scraping with natural language, enabling site crawling, page fetching, and extraction of emails, phones, links, and social profiles. Returns clean markdown, handles JavaScript rendering, and respects rate limits.

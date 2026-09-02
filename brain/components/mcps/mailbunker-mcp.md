@@ -8,11 +8,13 @@ source_url: https://github.com/cubetribe/Mailbunker_MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T18:55:11Z"
 ---
 ## What it is
 Zero-trust encrypted email archiving and search MCP server with real-time IMAP IDLE ingestion, AES-256-GCM encryption, SQLite FTS5 full-text search, and Obsidian vault export, exposing tools for AI assistants to search, retrieve, and manage emails.

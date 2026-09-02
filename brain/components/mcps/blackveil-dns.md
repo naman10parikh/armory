@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-09-02T00:04:08Z"
 ---
 ## What it is
 A DNS and email security scanner with 77 MCP tools for assessing SPF, DMARC, DKIM, DNSSEC, SSL/TLS, and more, providing guided remediation and attack path simulation.

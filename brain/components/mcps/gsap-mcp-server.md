@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-11T11:33:55Z"
 ---
 ## What it is
 Generate GSAP animation code through natural language descriptions and integrate with Claude Desktop for easy animation development.

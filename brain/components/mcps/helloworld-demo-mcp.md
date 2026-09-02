@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T07:32:40Z"
 ---
 ## What it is
 A minimal MCP server offering a hello_world tool that returns a greeting and current UTC time via streamable HTTP.

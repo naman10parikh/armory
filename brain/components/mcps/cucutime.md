@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T06:31:32Z"
 ---
 ## What it is
 Generates personalized children's song ideas (title, style, character, chorus, lyrics) for any child's name and theme via API and remote MCP server.

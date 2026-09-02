@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T16:51:20Z"
 ---
 ## What it is
 MCP server that exposes fleet-aware KVM primitives for AI agents to control TinyPilot devices, including screen capture, keyboard input, mouse events, and device selection.

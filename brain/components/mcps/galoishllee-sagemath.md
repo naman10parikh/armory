@@ -8,10 +8,12 @@ source_url: https://github.com/galoishlee/mcp-server-sagemath
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-12-12T08:48:04Z"
 ---
 ## What it is
 MCP server `SageMath`, catalogued on PulseMCP. Integrates with local SageMath installations to execute mathematical computations and check version information with configurable timeouts for research, computational algebra, and educational applications.

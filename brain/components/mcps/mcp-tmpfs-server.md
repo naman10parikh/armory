@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T15:59:35Z"
 ---
 ## What it is
 MCP server that exposes file operations (list, read, write, delete, unzip) in a sandbox directory, preventing path traversal.

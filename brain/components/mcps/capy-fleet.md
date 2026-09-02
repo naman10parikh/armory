@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T14:35:22Z"
 ---
 ## What it is
 An MCP server that lets AI coding assistants delegate work to Capy's cloud agents and wait for results, all within the editor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T21:02:06Z"
 ---
 ## What it is
 A local, offline memory server for AI agents that stores and retrieves memories without LLM calls, enabling persistent cross-session memory with bi-temporal querying and auditable records.

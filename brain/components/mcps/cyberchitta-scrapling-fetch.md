@@ -8,10 +8,12 @@ source_url: https://github.com/cyberchitta/scrapling-fetch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 88
+stars: 113
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-08-02T10:03:55Z"
 ---
 ## What it is
 MCP server `Scrapling Fetch`, catalogued on PulseMCP. Enables AI to access text content from websites protected by bot detection mechanisms through three protection levels (basic, stealth, max-stealth), retrieving complete pages or specific content patterns without manual copying.

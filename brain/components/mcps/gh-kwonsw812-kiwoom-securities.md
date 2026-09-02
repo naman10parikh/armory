@@ -8,10 +8,12 @@ source_url: https://github.com/kwonsw812/kiwoom-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-07T10:16:37Z"
 ---
 ## What it is
 MCP server `Kiwoom Securities`, catalogued on PulseMCP. Trade Korean stocks on Kiwoom Securities with natural language commands for portfolio management, price lookups, and order execution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-04T05:34:41Z"
 ---
 ## What it is
 Enables querying FDA drug label information including adverse reactions, warnings, and indications via natural language.

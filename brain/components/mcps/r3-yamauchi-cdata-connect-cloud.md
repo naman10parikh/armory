@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-01T18:59:49Z"
 ---
 ## What it is
 MCP server `CData Connect Cloud`, catalogued on PulseMCP. Integrates with CData Connect Cloud to enable SQL query execution across diverse data sources, facilitating seamless data integration for analytics and workflows.

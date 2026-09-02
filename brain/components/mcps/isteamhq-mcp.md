@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T20:27:11Z"
 ---
 ## What it is
 MCP server for is.team, enabling AI agents to interact with project boards, tasks, cards, sprints, integrations, and real-time notifications.

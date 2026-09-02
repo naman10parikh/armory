@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T03:55:16Z"
 ---
 ## What it is
 MCP server `Release Readiness Triage`, catalogued on PulseMCP. Aggregates CI failures and outputs GO/NO_GO release verdicts for AI agents.

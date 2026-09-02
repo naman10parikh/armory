@@ -8,10 +8,12 @@ source_url: https://github.com/mrphu3074/skill-router-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-22T15:56:48Z"
 ---
 ## What it is
 MCP server `Skill Router`, catalogued on PulseMCP. Routes AI agents to specialized skills stored as markdown files using semantic search

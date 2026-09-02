@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-04T09:53:55Z"
 ---
 ## What it is
 MCP server that renders interactive Chart.js charts (bar, line, pie, doughnut, etc.) inline in Claude's UI.

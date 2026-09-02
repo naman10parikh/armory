@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T22:45:53Z"
 ---
 ## What it is
 MCP server `CircuitPython`, catalogued on PulseMCP. Enables interaction with CircuitPython microcontroller boards via serial REPL connections.

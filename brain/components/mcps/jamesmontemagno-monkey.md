@@ -8,10 +8,12 @@ source_url: https://github.com/jamesmontemagno/monkeymcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 125
+stars: 123
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 67
+pushed_at: "2025-10-10T21:34:31Z"
 ---
 ## What it is
 MCP server `Monkey`, catalogued on PulseMCP. Provides access to monkey data through a .NET 9.0 API with caching and dependency injection, featuring tools for retrieving complete lists or finding specific monkeys by name.

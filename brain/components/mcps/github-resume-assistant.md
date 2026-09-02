@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T21:06:27Z"
 ---
 ## What it is
 An MCP server that connects Claude to your real GitHub activity and tells you what to build and ship publicly to make your resume credible.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T04:35:41Z"
 ---
 ## What it is
 An MCP server for Quantinuum Nexus that lets AI agents inspect projects and, when enabled, run quantum circuits on the free H2-1LE emulator. It is read-only by default with optional flags for spending credits or interacting with real hardware.

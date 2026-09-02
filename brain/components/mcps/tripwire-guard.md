@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T20:51:04Z"
 ---
 ## What it is
 Provides a local, read-only MCP server that scans untrusted text for prompt-injection and returns an allow/review/block decision with evidence. It runs entirely on-device with no network requests and redacts sensitive strings by default.

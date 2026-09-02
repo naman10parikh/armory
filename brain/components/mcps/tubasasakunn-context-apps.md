@@ -8,10 +8,12 @@ source_url: https://github.com/tubasasakunn/context-apps-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-26T04:34:07Z"
 ---
 ## What it is
 MCP server `Context Apps`, catalogued on PulseMCP. Connects to four iOS productivity apps (Todo, Idea, Journal, Timer) through Apple ID OAuth authentication, enabling task management, idea capture, emotion-tracked journaling, and time logging with tag-based organization and search capabilities.

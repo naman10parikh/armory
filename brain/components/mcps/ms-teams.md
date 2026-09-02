@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 3
+forks: 0
+pushed_at: "2025-08-22T14:31:10Z"
 ---
 ## What it is
 Provides a standardized interface for interacting with Microsoft Teams tools and services through the Model Context Protocol.

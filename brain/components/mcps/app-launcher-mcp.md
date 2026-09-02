@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T10:11:02Z"
 ---
 ## What it is
 Launch Windows applications by name, alias, or path via MCP, supporting arguments and working directories. Uses Task Scheduler to detach launched processes so they persist independently of the MCP server.

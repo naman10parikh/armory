@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T04:40:55Z"
 ---
 ## What it is
 Bridges AI assistants with Xcode to control projects, builds, simulators, testing, and debugging without manual interaction.

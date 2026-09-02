@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:58Z"
 ---
 ## What it is
 Enables consultation of vehicle documents from an official source via a single read-only tool, with prepaid per-query pricing and compatibility across MCP clients.

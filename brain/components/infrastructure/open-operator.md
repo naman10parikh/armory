@@ -8,11 +8,13 @@ source_url: https://github.com/browserbase/open-operator
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1955
+stars: 1953
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, stagehand]
+forks: 325
+pushed_at: "2026-05-04T21:23:14Z"
 ---
 ## What it is
 Browserbase Open Operator — open-source Operator-style web agent built on Stagehand; demonstrates full task decomposition, action planning, and evidence collection using the Browserbase cloud.

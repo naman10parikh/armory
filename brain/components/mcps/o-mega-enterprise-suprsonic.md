@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T23:52:41Z"
 ---
 ## What it is
 MCP server `Suprsonic`, catalogued on PulseMCP. Multi-capability API gateway — web search, scraping, email finding, image generation, and more with one key.

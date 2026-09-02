@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T23:57:00Z"
 ---
 ## What it is
 Enables MCP clients to search and retrieve structured business data from the Vexi API, allowing AI agents to get clean, typed business objects with identity, offerings, and trust signals.

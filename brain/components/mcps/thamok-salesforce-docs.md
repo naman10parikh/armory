@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T23:30:41Z"
 ---
 ## What it is
 MCP server `Salesforce Docs`, catalogued on PulseMCP. MCP server for semantic search over Salesforce documentation.

@@ -8,10 +8,12 @@ source_url: https://github.com/ckanthony/openapi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 187
+stars: 194
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 39
+pushed_at: "2026-03-21T07:49:31Z"
 ---
 ## What it is
 MCP server `OpenAPI Swagger Converter`, catalogued on PulseMCP. Automatically converts Swagger/OpenAPI specifications into toolsets, enabling interaction with any API without additional coding through secure key management and dynamic request construction.

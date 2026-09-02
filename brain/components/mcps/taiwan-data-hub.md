@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T19:21:52Z"
 ---
 ## What it is
 An open-source MCP server that aggregates Taiwan public data sources (data.gov.tw, TWSE, MOEA, CWA, etc.) and exposes them through the Model Context Protocol, enabling AI agents to query Taiwan data with a single configuration line.

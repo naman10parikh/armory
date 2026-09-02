@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T16:21:42Z"
 ---
 ## What it is
 MCP server providing an AI repository index for codebase reasoning, with tools for search and change prediction via a compact AST-based index.

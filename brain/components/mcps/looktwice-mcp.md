@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T06:06:45Z"
 ---
 ## What it is
 MCP server for the LookTwice API, enabling validation of emails, EU VAT numbers, IBANs, and domains, plus product screening against U.S. CPSC recalls.

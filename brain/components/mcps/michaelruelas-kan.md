@@ -8,10 +8,12 @@ source_url: https://github.com/michaelruelas/kan-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-13T20:07:36Z"
 ---
 ## What it is
 MCP server `Kan`, catalogued on PulseMCP. Exposes Kan.bn project management capabilities via 40 MCP tools across workspaces, boards, lists, cards, and checklists.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T08:07:00Z"
 ---
 ## What it is
 Renders OHLCV data as candlestick chart PNGs and returns inline images. It is a pure renderer with no network access, allowing models to view charts generated from provided data.

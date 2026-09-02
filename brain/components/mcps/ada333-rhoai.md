@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-15T12:08:19Z"
 ---
 ## What it is
 MCP server `Red Hat OpenShift AI`, catalogued on PulseMCP. Integrates with Red Hat OpenShift AI clusters through Kubernetes APIs to list pods and workbenches within specified namespaces for DevOps workflows, cluster monitoring, and machine learning workload management.

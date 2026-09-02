@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T02:21:44Z"
 ---
 ## What it is
 Enables AI agents to manage AzurLaneAutoScript (ALAS) automation: start/stop processes, read/write configs, monitor runtime status, and schedule tasks via MCP tools.

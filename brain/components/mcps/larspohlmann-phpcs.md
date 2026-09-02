@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-09T07:26:22Z"
 ---
 ## What it is
 MCP server `PHP_CodeSniffer`, catalogued on PulseMCP. Integrates PHP_CodeSniffer and PHP Code Beautifier tools to analyze coding standard violations and automatically fix code style issues with flexible configuration and robust error handling.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T02:22:56Z"
 ---
 ## What it is
 Exposes multiple LLMs as individual tools via the OpenAI Responses API wire format, enabling the calling AI to get second opinions and orchestrate multi-model discussions with a quorum tool.

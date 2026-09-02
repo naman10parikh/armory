@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T09:12:48Z"
 ---
 ## What it is
 A read-only MCP server for MS SQL Server, written in Python. Lets AI agents query your database safely — no writes, no stored procedures, no shell access.

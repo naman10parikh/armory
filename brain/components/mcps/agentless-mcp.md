@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:08:19Z"
 ---
 ## What it is
 Enables coding agents to perform deterministic, model-free repository analysis and patch operations—tree-sitter repo maps, symbol/reference lookup, and SEARCH/REPLACE parsing/validation—via a CLI or MCP stdio server, without ever calling a language model.

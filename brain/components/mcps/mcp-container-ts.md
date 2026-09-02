@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 37
+pushed_at: "2026-08-26T09:14:53Z"
 ---
 ## What it is
 A remote MCP server (Node.js/TypeScript) deployed on Azure Container Apps that provides todo list management tools with JWT authentication and role-based access control.

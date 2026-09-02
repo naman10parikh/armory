@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-08-20T19:58:49Z"
 ---
 ## What it is
 MCP server for creating, modifying, and analyzing KiCAD schematic files using natural language.

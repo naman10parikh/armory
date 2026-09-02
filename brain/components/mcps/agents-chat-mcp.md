@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T11:36:27Z"
 ---
 ## What it is
 基于MCP协议的聊天桥接服务器，允许多个AI Agent接入同一个聊天室进行对话协作。

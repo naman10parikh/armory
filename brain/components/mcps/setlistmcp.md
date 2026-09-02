@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T02:03:32Z"
 ---
 ## What it is
 Enables AI assistants to search for and retrieve concert setlists from setlist.fm by artist, city, and date, and to view full setlists with songs, sets, and encores.

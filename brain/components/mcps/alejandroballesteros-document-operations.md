@@ -8,10 +8,12 @@ source_url: https://github.com/alejandroballesterosc/document-edit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-11-10T14:25:18Z"
 ---
 ## What it is
 MCP server `Document Operations (Word, Excel, PDF)`, catalogued on PulseMCP. Enables document operations on Microsoft Word, Excel, and PDF files through FastMCP and Python tools for creating, editing, converting, and manipulating files without switching applications

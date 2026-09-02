@@ -8,10 +8,12 @@ source_url: https://github.com/prereason/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-19T19:26:32Z"
 ---
 ## What it is
 MCP server `PreReason`, catalogued on PulseMCP. Delivers pre-reasoned financial market briefings with trend signals, regime classification, and cross-asset correlations.

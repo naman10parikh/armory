@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T16:44:19Z"
 ---
 ## What it is
 SEO toolkit MCP server for analyzing meta tags, robots.txt, sitemaps, keyword density, readability, and heading structure from any AI assistant that supports MCP.

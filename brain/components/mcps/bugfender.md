@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T10:56:20Z"
 ---
 ## What it is
 MCP server `Bugfender`, catalogued on PulseMCP. Provides user-scoped read access to Bugfender mobile app logs, crash reports, devices, and issue aggregation via the Bugfender dashboard API.

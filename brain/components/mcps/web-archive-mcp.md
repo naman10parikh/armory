@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T08:32:29Z"
 ---
 ## What it is
 Persists web fetch and search results as timestamped JSONL files, indexed for full-text search, enabling users to retrieve and search across archived web pages even after they are removed or changed.

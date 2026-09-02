@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T18:32:39Z"
 ---
 ## What it is
 An open-source MCP server providing AI agents with neural web search via Exa and tiered web fetch (Exa, local browser, Firecrawl) as a drop-in replacement for built-in web tools, preserving provenance and guarding against SSRF.

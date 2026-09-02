@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-27T15:49:57Z"
 ---
 ## What it is
 MCP server `Filevine`, catalogued on PulseMCP. Open-source MCP server connecting Claude to Filevine legal practice management, built by Oktopeak.

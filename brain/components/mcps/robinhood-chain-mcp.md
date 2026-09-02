@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-22T18:31:05Z"
 ---
 ## What it is
 Enables agents to query live Robinhood Chain data including tokens, wallets, Chainlink feeds, heat scores, and tracking error on tokenized equities, all read-only without API keys.

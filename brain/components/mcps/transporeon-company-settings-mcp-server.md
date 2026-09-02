@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-17T07:20:13Z"
 ---
 ## What it is
 Provides AI assistants with intelligent access to Transporeon's internal company settings API, enabling retrieval, search, and analysis of configuration settings across multiple environments with smart pagination and search capabilities.

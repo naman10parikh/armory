@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T22:21:46Z"
 ---
 ## What it is
 Remote MCP/API trust gate for AI agents to inspect readiness before performing Korean business workflow operations like vendor onboarding and payment release.

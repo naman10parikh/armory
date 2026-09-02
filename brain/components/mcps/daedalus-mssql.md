@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T19:28:33Z"
 ---
 ## What it is
 MCP server `Microsoft SQL Server`, catalogued on PulseMCP. Query and manage Microsoft SQL Server databases using mssql-python.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T18:41:22Z"
 ---
 ## What it is
 Enables LLM agents to query US macroeconomic time series from FRED, including GDP, CPI, unemployment, and interest rates, for contextual research.

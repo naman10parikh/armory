@@ -8,11 +8,13 @@ source_url: https://github.com/kemalabuteliyte/elsevier-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-08T15:27:03Z"
 ---
 ## What it is
 MCP server for the Elsevier Developer APIs. Gives Claude Code access to Scopus, ScienceDirect, and other Elsevier academic databases.

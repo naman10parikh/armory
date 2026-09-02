@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T15:34:05Z"
 ---
 ## What it is
 A lightweight MCP server that lets coding agents manage a local or remote WireMock instance through the WireMock Admin API, providing tools for creating, updating, deleting, and inspecting mock mappings and request journal entries.

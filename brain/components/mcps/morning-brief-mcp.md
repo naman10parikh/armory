@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:24:26Z"
 ---
 ## What it is
 Deterministic A-share morning brief service exposing MCP tools to generate full market briefs, filtered news events, previous close context, and news coverage without external LLM keys.

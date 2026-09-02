@@ -8,10 +8,12 @@ source_url: https://github.com/xzq-xu/jvm-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 85
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-03-30T02:23:20Z"
 ---
 ## What it is
 MCP server `Arthas JVM Diagnostics`, catalogued on PulseMCP. Enables direct interaction with running Java applications through Arthas diagnostic tools via SSH connections, allowing for remote command execution, performance monitoring, and debugging of JVM processes.

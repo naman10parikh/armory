@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T05:12:10Z"
 ---
 ## What it is
 MCP server for inter-agent communication. Gives multiple Claude Code sessions a shared message board, agent registry, and orchestration layer — backed by a cloud relay so agents can coordinate across machines, repos, and teams.

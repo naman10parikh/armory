@@ -8,11 +8,13 @@ source_url: https://github.com/kaditang/agent-wallet-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:10:48Z"
 ---
 ## What it is
 A non-custodial RWA service for AI agents on Solana that provides yield comparison, tokenized US-equity quotes, and ready-to-sign transactions.

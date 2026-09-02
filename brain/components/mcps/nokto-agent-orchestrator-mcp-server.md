@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T20:33:55Z"
 ---
 ## What it is
 Orchestrates Claude Code and OpenAI Codex to plan, implement, review, and verify code changes via pull requests with security controls.

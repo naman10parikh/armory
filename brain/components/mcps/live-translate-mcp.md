@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T08:51:51Z"
 ---
 ## What it is
 Real-time English ↔ Mandarin Chinese speech translation for Claude. Transcribes audio locally with Whisper, translates via Claude API, and synthesises speech locally with Piper TTS. Pass a WAV file path. Claude handles the rest.

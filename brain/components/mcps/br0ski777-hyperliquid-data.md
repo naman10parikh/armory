@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-18T16:47:46Z"
 ---
 ## What it is
 MCP server `Hyperliquid Perp Market Data`, catalogued on PulseMCP. Real-time Hyperliquid perpetual market data including order books, prices, funding rates, open interest, and candlestick charts.

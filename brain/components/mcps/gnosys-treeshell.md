@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-09T14:46:36Z"
 ---
 ## What it is
 Tree-based navigation MCP that provides a single interface to explore and execute actions across multiple GNOSYS MCP servers, reducing token consumption from ~14k to ~1.4k.

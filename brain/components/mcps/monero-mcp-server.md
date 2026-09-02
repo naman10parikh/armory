@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-25T09:24:21Z"
 ---
 ## What it is
 MCP server that gives AI agents a private Monero wallet, enabling balance checks, payment receiving, and XMR transfers through a tool interface.

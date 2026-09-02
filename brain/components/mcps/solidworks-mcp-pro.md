@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T08:21:38Z"
 ---
 ## What it is
 Enables connecting MCP clients to local SolidWorks for automated 3D part creation, template generation, file export, and basic review via natural language.

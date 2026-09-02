@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-09T07:35:13Z"
 ---
 ## What it is
 专为教师设计的小雅智能教学平台教育管理MCP服务器，集成课程资源管理、题目创建、试卷配置、班级查询、签到统计、任务测验与批阅等功能。

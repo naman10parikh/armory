@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:34:21Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that gives AI assistants full visibility and control over Kubernetes clusters.

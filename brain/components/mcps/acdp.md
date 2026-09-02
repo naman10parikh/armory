@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-17T19:00:00Z"
 ---
 ## What it is
 Enables multiple AI agents to coordinate work on the same codebase by providing real-time file locking, commit approval, and agent awareness through a lightweight WebSocket-based MCP server.

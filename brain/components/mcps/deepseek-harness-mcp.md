@@ -8,11 +8,13 @@ source_url: https://github.com/Seann0824/deepseek-harness-for-codex
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-16T17:43:10Z"
 ---
 ## What it is
 Enables Codex to start the local DeepSeek Harness Web UI, delegate coding tasks into visible sessions, and review workspace changes.

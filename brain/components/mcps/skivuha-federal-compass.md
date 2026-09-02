@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T05:14:57Z"
 ---
 ## What it is
 MCP server `Federal Compass`, catalogued on PulseMCP. Connects to the USAJobs API to search federal job openings, translate federal jargon, analyze CV qualifications, and explain GS grades and clearances.

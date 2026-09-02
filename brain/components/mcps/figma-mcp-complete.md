@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T19:48:33Z"
 ---
 ## What it is
 Exports Figma designs as ready-to-use HTML/CSS and validates pixel-perfect accuracy with image comparison and visual regression testing.

@@ -8,10 +8,12 @@ source_url: https://github.com/zym1998year/opticstudiomcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-16T04:57:16Z"
 ---
 ## What it is
 MCP server `OpticStudio`, catalogued on PulseMCP. Control Ansys Zemax OpticStudio for AI-assisted optical system design, analysis, and optimization via MCP.

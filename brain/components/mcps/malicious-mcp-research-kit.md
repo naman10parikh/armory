@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T20:15:26Z"
 ---
 ## What it is
 A local-first MCP attack kit for authorized security research and red teaming, demonstrating exfiltration, agent manipulation, and other abuse patterns via pluggable cases.

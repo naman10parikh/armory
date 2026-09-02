@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-25T01:02:39Z"
 ---
 ## What it is
 A static analyzer for AI prompts that runs as a CLI and MCP server, enabling linting of system prompts, agent instructions, and tool descriptions to catch contradictions, redundancy, and fluff before sending to an LLM.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T13:49:14Z"
 ---
 ## What it is
 AI soigneur for cyclists: turns your Strava ride into an Ien-Vitse-validated nutrition plan (carbs/hour, hydration, timing) and assembles a ready-to-order musette. Works alongside the Strava MCP in Claude and ChatGPT.

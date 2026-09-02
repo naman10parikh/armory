@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T15:15:26Z"
 ---
 ## What it is
 Enables AI agents to transcribe, translate, and summarize audio via Zoom AI Services APIs, providing an 'ear' through tools like transcribe_audio, summarize_transcript, and translate_text.

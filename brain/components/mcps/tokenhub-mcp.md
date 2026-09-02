@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T21:14:36Z"
 ---
 ## What it is
 A production-packaged Model Context Protocol server for coding agents that routes large file, git, web, database, and other tasks through token-budgeted tools and workflows.

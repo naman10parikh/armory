@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T04:08:50Z"
 ---
 ## What it is
 A local-first MCP server for AI programming branch notes and mainline decision logging, supporting branch management, summary merging, and Markdown export with optional Git-mode for isolated branch conversations.

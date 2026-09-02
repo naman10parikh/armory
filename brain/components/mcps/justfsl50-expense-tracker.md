@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-04T12:02:55Z"
 ---
 ## What it is
 MCP server `Expense Tracker`, catalogued on PulseMCP. Personal expense tracking with budgets, income, and savings goals.

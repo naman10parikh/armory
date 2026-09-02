@@ -8,10 +8,12 @@ source_url: https://github.com/pragmar/mcp-server-webcrawl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-05-31T01:21:59Z"
 ---
 ## What it is
 MCP server `Web Crawler Data Bridge`, catalogued on PulseMCP. Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.

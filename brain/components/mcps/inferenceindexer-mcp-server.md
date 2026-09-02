@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T18:05:23Z"
 ---
 ## What it is
 Exposes InferenceIndexer's live and historical inference pricing as MCP tools, enabling search of models, providers, price comparisons, and SIT index trends.

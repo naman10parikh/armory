@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:46:57Z"
 ---
 ## What it is
 An MCP server that brings GitHub workflow tools (repo, PR, issue, CI) and cost-free LLM-powered engineering tools (PR review, issue triage, commit messages) to any MCP client via the Groq free tier.

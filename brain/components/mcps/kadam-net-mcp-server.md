@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T18:18:33Z"
 ---
 ## What it is
 MCP server for Kadam ad network that enables AI agents to manage campaigns, creatives, audiences, sites, and analytics.

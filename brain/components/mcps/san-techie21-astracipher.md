@@ -8,10 +8,12 @@ source_url: https://github.com/san-techie21/astracipher
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-12T20:24:01Z"
 ---
 ## What it is
 MCP server `AstraCipher`, catalogued on PulseMCP. Encryption and decryption tools for AI agents with multiple cipher algorithm support.

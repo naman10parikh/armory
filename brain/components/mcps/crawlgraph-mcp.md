@@ -8,11 +8,13 @@ source_url: https://github.com/pucilpet/crawlgraph-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T19:44:35Z"
 ---
 ## What it is
 MCP server for the CrawlGraph backlink-intelligence API. Gives any MCP client - Claude Desktop, Claude Code, Cursor, Cline, Zed, Windsurf - backlink lookups and competitor gap analysis built on the public Common Crawl webgraph (4.4B edges, 120M domains).

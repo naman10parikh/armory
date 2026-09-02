@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T10:16:53Z"
 ---
 ## What it is
 Enables natural-language security operations by connecting Wazuh SIEM to Claude Desktop via MCP, allowing querying of alerts, agents, vulnerabilities, and generating security reports with Slack integration.

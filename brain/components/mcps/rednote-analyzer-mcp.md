@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-19T02:34:18Z"
 ---
 ## What it is
 MCP server enabling AI assistants to search, analyze, and generate content for Xiaohongshu (RedNote), China's leading lifestyle social media platform.

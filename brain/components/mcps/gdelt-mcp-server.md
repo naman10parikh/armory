@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-24T06:01:42Z"
 ---
 ## What it is
 Provides access to the GDELT DOC 2.0 API for searching global news articles and images across 65 languages with customizable timespans and query options.

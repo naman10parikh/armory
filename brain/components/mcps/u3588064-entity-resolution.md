@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-03T13:53:46Z"
 ---
 ## What it is
 MCP server `Entity Resolution`, catalogued on PulseMCP. Compares entities using syntactic and semantic methods to determine if differently formatted records refer to the same real-world entity, ideal for data deduplication and customer record matching.

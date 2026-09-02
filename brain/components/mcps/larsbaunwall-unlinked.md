@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T20:15:05Z"
 ---
 ## What it is
 MCP server `Unlinked`, catalogued on PulseMCP. Connect AI assistants to LinkedIn professional profile data via the official LinkedIn Member Data Portability API.

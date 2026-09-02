@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T20:29:04Z"
 ---
 ## What it is
 MCP server connecting AI assistants to eToro for portfolio analysis, market research, and trading, with 35 tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:47:36Z"
 ---
 ## What it is
 Enables control of external Home Assistant devices via an MCP control layer and frontend system page.

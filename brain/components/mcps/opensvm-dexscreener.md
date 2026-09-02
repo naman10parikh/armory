@@ -8,10 +8,12 @@ source_url: https://github.com/opensvm/dexscreener-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-01-06T14:59:12Z"
 ---
 ## What it is
 MCP server `DexScreener`, catalogued on PulseMCP. Integrates with decentralized exchanges across multiple blockchains to provide real-time crypto market data, focusing on Solana memecoin markets.

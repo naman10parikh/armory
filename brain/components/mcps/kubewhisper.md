@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T10:32:45Z"
 ---
 ## What it is
 An AI-DevOps MCP server that gives LLMs read-only-by-default access to Kubernetes clusters, Prometheus metrics, and GitHub Actions, enabling natural language queries about infrastructure status and safe write operations with previews.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:24:55Z"
 ---
 ## What it is
 A stateless MCP server that provides a configurable HTTP client tool for LLM agents, supporting custom methods, headers, bodies, timeouts, redirects, response size limits, DNS overrides, and TLS verification.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T08:22:17Z"
 ---
 ## What it is
 Enables read-only search and retrieval of H3 Yun workbench apps, forms, and business records via mobile and password login, exposing these as FastMCP tools for MCP clients.

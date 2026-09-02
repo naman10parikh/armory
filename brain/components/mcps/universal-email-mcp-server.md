@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-19T19:05:48Z"
 ---
 ## What it is
 Enables AI assistants to connect to any email provider via IMAP/SMTP, supporting account management and email operations like listing, sending, and marking emails.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T06:29:28Z"
 ---
 ## What it is
 Enables remote control of the Cursor AI agent via chat platforms like GitHub Issues or Telegram, allowing users to start sessions and receive summaries and prompts in a chat thread.

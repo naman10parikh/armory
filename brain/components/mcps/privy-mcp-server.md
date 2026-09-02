@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-09T22:08:28Z"
 ---
 ## What it is
 Enables AI agents to create wallets, sign transactions, and manage blockchain operations across multiple chains like Ethereum, Solana, and more via Privy.

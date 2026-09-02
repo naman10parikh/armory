@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T13:24:56Z"
 ---
 ## What it is
 A read-only kubectl MCP server for AI assistants. The kubectl verb is hardcoded in each tool (get/describe/logs/events) and user input only fills argument values — no mutation path even with malicious input, and Secret/ConfigMap values are never returned (metadata only). Returns structured JSON, plu

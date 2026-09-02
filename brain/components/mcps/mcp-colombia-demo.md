@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T13:39:12Z"
 ---
 ## What it is
 MCP server that lets AI assistants query official Colombian department data (capital, population, area, municipalities, and phone prefix) in real time through the public Colombia REST API.

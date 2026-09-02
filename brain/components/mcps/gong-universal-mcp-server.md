@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T05:36:20Z"
 ---
 ## What it is
 Enables integration with Gong's sales platform through MCP, providing access to tools and services for sales engagement tracking and analytics.

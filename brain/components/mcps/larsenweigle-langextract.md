@@ -8,10 +8,12 @@ source_url: https://github.com/larsenweigle/langextract-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-06T17:50:05Z"
 ---
 ## What it is
 MCP server `LangExtract`, catalogued on PulseMCP. Extracts structured information from unstructured text and URLs using Google's LangExtract library and Gemini models, maintaining precise source grounding that maps every extraction to its exact location in the original text for healthcare documents, legal contracts, research papers, and business intelligence workflows.

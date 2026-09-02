@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-07T08:06:02Z"
 ---
 ## What it is
 Enables querying U.S. politician stock trades from public disclosures, running backtests, and generating daily briefings via MCP tools.

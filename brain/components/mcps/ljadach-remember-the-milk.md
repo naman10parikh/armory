@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-12T22:24:06Z"
 ---
 ## What it is
 MCP server `Remember The Milk`, catalogued on PulseMCP. Integrates with Remember The Milk's task management API to enable natural language task creation, list management, note attachments, and Smart Add syntax with undo functionality and timezone-aware date handling.

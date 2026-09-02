@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T05:23:23Z"
 ---
 ## What it is
 Provides AI agents with quantitative risk tools such as VaR, expected shortfall, GARCH volatility, backtesting, stress testing, tail risk analysis, and credit scoring using synthetic or user-supplied data.

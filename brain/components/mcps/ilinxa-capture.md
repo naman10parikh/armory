@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:32:11Z"
 ---
 ## What it is
 Enables AI agents to extract video frames at configurable FPS and compose them into grid sheets for multimodal LLMs, with support for video download, HLS streams, and job management via MCP tools.

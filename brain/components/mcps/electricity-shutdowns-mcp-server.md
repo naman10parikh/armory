@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-29T11:22:18Z"
 ---
 ## What it is
 Monitors electricity outage schedules in Ukraine's Dnipropetrovsk region, enabling users to check outages, receive notifications, and calculate optimal charging time for MacBooks.

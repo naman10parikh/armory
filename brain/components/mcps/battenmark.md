@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T07:50:17Z"
 ---
 ## What it is
 Enables AI agents and software to create, edit, inspect, validate, and export CAD geometry through MCP using backend-neutral typed operations, with FreeCAD/OpenCascade as the authoritative B-rep backend and JSCAD preview.

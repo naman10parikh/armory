@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T15:17:12Z"
 ---
 ## What it is
 Enables AI coding agents to manage image projects, generate and edit images, and check usage via Inliner.ai through natural language commands.

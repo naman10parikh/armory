@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-13T02:34:49Z"
 ---
 ## What it is
 MCP server `Tana Codemode`, catalogued on PulseMCP. Enables dynamic TypeScript code execution against Tana's Local API for flexible knowledge management operations including workspaces, nodes, tags, search, and field management.

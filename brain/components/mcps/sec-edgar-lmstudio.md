@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T07:46:50Z"
 ---
 ## What it is
 Enables AI assistants in LM Studio to access SEC EDGAR company filings, financial statements, and insider trading data via a plugin that wraps the sec-edgar-mcp server.

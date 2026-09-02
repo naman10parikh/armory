@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-07T14:46:47Z"
 ---
 ## What it is
 Integrates with the Tomba.io API to provide email discovery, verification, enrichment, phone lookup, and company research capabilities through standardized MCP tools, resources, and prompts.

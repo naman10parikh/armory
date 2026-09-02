@@ -8,11 +8,13 @@ source_url: https://github.com/mapbox/mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 352
+stars: 353
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 41
+pushed_at: "2026-08-27T17:50:06Z"
 ---
 ## What it is
 Provides geospatial intelligence to AI agents through Mapbox APIs, enabling geocoding, routing, POI search, map images, and offline spatial calculations.

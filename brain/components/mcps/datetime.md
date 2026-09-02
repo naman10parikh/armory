@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-23T19:09:23Z"
 ---
 ## What it is
 Provides datetime functionality for Cursor IDE, enabling accurate timestamp generation and datetime operations for changelogs, documentation versioning, and time-sensitive tasks. Retrieves current datetime in ISO 8601 format.

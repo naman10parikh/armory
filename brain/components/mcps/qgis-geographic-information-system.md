@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-11T12:07:13Z"
 ---
 ## What it is
 MCP server `QGIS Geographic Information System`, catalogued on PulseMCP. Enables remote control of QGIS geographic information system for spatial analysis, map creation, and geographic data management through a JSON-based API

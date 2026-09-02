@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T09:15:07Z"
 ---
 ## What it is
 Enables AI agents to analyze and interact with Android phone screens via ADB, using the AutoGLM model to answer queries about screen content and coordinates.

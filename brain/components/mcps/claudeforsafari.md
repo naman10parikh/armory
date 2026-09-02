@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T19:21:17Z"
 ---
 ## What it is
 Safari Web Extension + Node.js MCP bridge giving Claude Desktop full control over Safari — navigate, read pages, click elements, fill forms, and manage tabs. No Playwright or WebDriver dependency.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T23:52:44Z"
 ---
 ## What it is
 MCP server `Loaded Vibes`, catalogued on PulseMCP. TypeScript web development framework that combines CLI-driven workflow with Spec-Plan-Tasks methodology to generate technical specifications, implementation plans, and executable task breakdowns for Next.js applications with built-in registries for code snippets and design tokens.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T08:41:52Z"
 ---
 ## What it is
 Project management and session memory for AI agents that provides 13 tools for tracking projects, tasks, and context during AI coding sessions.

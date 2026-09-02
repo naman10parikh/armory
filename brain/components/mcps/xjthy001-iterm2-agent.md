@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-13T03:54:56Z"
 ---
 ## What it is
 MCP server `iTerm2 Agent`, catalogued on PulseMCP. Integrates with iTerm2 terminal on macOS to execute shell commands, read terminal output, manage sessions and tabs, send keystrokes, and monitor output through the iTerm2 Python API.

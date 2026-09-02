@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T01:27:26Z"
 ---
 ## What it is
 A read-only MCP server for Salesforce that returns verified answers or says it cannot, with an evaluation suite that measures its correctness.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-16T02:13:25Z"
 ---
 ## What it is
 MCP server `USGS Water Data`, catalogued on PulseMCP. Integrates with USGS water data services to provide real-time and historical water measurements, flood monitoring, and geospatial queries for hydrological analysis and emergency management applications.

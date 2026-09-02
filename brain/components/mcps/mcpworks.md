@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-03T19:29:27Z"
 ---
 ## What it is
 Cuts AI token costs by running user code in a secure sandbox, so data never enters the context window, enabling efficient data processing with MCP protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-23T12:23:03Z"
 ---
 ## What it is
 MCP server for Planfix API enabling task, project, contact, and comment management with 10 tools and 2 skills.

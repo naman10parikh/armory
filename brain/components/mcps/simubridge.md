@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-13T08:26:28Z"
 ---
 ## What it is
 Enables AI assistants to control MATLAB Simulink models through natural language, providing tools for model creation, block management, wiring, simulation, and more via a local MCP backend.

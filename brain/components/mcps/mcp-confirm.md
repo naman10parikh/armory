@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T07:25:09Z"
 ---
 ## What it is
 MCP server that enforces single-use human confirmations for sensitive tool calls, sanitizes prompts against prompt injection, and re-validates file paths before destructive actions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T18:40:47Z"
 ---
 ## What it is
 MCP server for the Guerrilla Mail temporary/disposable email API. Spin up throwaway inboxes, poll for mail, and read messages from any MCP client.

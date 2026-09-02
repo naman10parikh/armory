@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T04:19:15Z"
 ---
 ## What it is
 A self-hosted, read-only Slack MCP server that runs locally and provides read-only access to Slack channels, messages, and users via the Slack Web API, with no third-party intermediary.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-03T13:33:17Z"
 ---
 ## What it is
 An MCP server that interfaces with the Creatomate API, turning LLMs into autonomous motion designers that can generate social media videos, ads, and shorts programmatically.

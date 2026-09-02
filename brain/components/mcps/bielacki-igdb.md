@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-09-30T19:19:43Z"
 ---
 ## What it is
 MCP server `IGDB`, catalogued on PulseMCP. Integrates with IGDB's video game database API to provide access to game details, release dates, platforms, genres, ratings, and gaming metadata for building gaming applications, research projects, and content creation workflows.

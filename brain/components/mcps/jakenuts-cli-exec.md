@@ -8,10 +8,12 @@ source_url: https://github.com/jakenuts/mcp-cli-exec
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-05T22:21:37Z"
 ---
 ## What it is
 MCP server `CLI Exec`, catalogued on PulseMCP. Provides powerful CLI command execution capabilities, enabling structured output for shell commands with features like timeout handling, ANSI code stripping, and error management for system administration and DevOps workflows.

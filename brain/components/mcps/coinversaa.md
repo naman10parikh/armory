@@ -8,10 +8,12 @@ source_url: https://github.com/coinversaa/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-02T00:02:25Z"
 ---
 ## What it is
 MCP server `Coinversaa`, catalogued on PulseMCP. Provides crypto trading intelligence with Hyperliquid wallet analytics, cohort analysis, and live market data.

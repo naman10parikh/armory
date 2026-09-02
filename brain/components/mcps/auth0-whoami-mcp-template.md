@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T21:41:01Z"
 ---
 ## What it is
 An MCP server that exposes an authenticated Streamable HTTP endpoint with a whoami tool returning safe claims for the current Auth0 user.

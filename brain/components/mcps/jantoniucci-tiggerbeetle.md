@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-28T13:41:26Z"
 ---
 ## What it is
 MCP server `TigerBeetle`, catalogued on PulseMCP. Integrates with TigerBeetle to enable creating and configuring high-performance accounting database accounts through a Spring Boot server with stdio-based connections.

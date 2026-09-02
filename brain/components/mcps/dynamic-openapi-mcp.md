@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T00:32:46Z"
 ---
 ## What it is
 Converts any OpenAPI v3 spec into an MCP server with typed tools, resources, and prompts, enabling AI agents to call any REST API via natural language.

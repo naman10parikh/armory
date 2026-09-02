@@ -8,10 +8,12 @@ source_url: https://github.com/ofershap/mcp-server-markdown
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-10T07:38:20Z"
 ---
 ## What it is
 MCP server `Markdown Navigator`, catalogued on PulseMCP. Search, navigate, and extract content from local markdown files with full-text search, section extraction, heading navigation, and code block discovery.

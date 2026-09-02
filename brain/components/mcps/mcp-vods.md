@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-25T11:10:42Z"
 ---
 ## What it is
 Enables AI to search for video streaming URLs and play them directly on Xiaomi TV or other Android TVs. Supports custom configurations for multiple devices.

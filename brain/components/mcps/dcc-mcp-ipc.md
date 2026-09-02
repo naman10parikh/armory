@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T06:38:06Z"
 ---
 ## What it is
 Multi-protocol IPC adapter layer for integrating DCC software (Maya, Houdini, Blender, Unreal, Unity) with MCP, enabling tool registration and remote control across multiple transport protocols.

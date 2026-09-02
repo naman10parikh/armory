@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T14:19:19Z"
 ---
 ## What it is
 Enforces mandatory pre-implementation audits for AI coding agents, preventing code duplication by inspecting connected MCP tools and workspace components before any code is written, with a hard-stop approval gate for multi-agent platforms.

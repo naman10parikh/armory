@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-22T02:33:34Z"
 ---
 ## What it is
 MCP server `Roc DateTime`, catalogued on PulseMCP. Provides current datetime functionality in ISO 8601 format through a proof-of-concept implementation built in the Roc programming language.

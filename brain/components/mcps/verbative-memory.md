@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T15:31:29Z"
 ---
 ## What it is
 On-device memory system for AI coding agents that captures commands, edits, and test results in a lossless ledger plus distilled facts, then provides selective recall over MCP with tools like remember, recall, search, and ask.

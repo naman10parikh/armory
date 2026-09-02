@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T15:00:53Z"
 ---
 ## What it is
 MCP server for managing customer feature requests with role-based approvals, elicitation for high-impact changes, and support for notifications, sampling, and progress tracking. Enables employees to review, prioritize, and approve requests without direct database access.

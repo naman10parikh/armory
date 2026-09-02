@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T06:27:29Z"
 ---
 ## What it is
 A lightweight stdio-only MCP server that allows AI agents to run multiple tasks (e.g., Python code, HTTP requests, shell commands) in parallel or with dependencies, returning structured results in a single call.

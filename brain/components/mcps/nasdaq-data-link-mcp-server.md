@@ -8,11 +8,13 @@ source_url: https://github.com/stefanoamorelli/nasdaq-data-link-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 65
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2025-10-04T16:20:28Z"
 ---
 ## What it is
 Enables LLMs to access Nasdaq Data Link's financial datasets via natural language, providing tools to search, retrieve, and export data.

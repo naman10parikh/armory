@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 67
+forks: 14
+pushed_at: "2026-03-13T18:05:45Z"
 ---
 ## What it is
 🏎 🏠/☁️ 🐧/🍎 - An MCP server in Go for Lightpanda, the ultra fast headless browser designed for web automation

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T17:33:28Z"
 ---
 ## What it is
 Enables analyzing Mercado Libre Argentina listings, calculating seller net proceeds, and preparing/publishing listings after explicit confirmation. Includes safe mock mode and secure OAuth.

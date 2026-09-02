@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T03:46:55Z"
 ---
 ## What it is
 MCP server that wraps ShowAPI (易源开放平台) to provide express tracking via query_express and general access to life service APIs via showapi_call, deployable to cloud or locally.

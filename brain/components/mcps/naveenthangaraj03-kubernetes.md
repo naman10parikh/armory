@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-20T15:46:36Z"
 ---
 ## What it is
 MCP server `Kubernetes`, catalogued on PulseMCP. Provides direct API access to Kubernetes clusters for managing pods, deployments, services, namespaces, storage, and RBAC components with CRUD operations, log retrieval, and label-based filtering.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T12:52:40Z"
 ---
 ## What it is
 Enables scaffolding, validating, and managing plugins for the Motor Agéntico ecosystem, with tools to generate plugin structures and verify compliance with the plugin standard.

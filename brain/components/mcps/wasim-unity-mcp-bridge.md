@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T13:22:22Z"
 ---
 ## What it is
 Enables ChatGPT to interact with the Unity Editor via MCP, using a PowerShell companion for persistent network connection and ngrok for public HTTPS endpoints.

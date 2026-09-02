@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:38:53Z"
 ---
 ## What it is
 A local MCP server that delegates tasks to a subagent runtime via OpenAI-compatible interfaces, enabling file operations, command execution, and rollback of local file changes.

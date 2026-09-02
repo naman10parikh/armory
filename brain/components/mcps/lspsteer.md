@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T20:46:02Z"
 ---
 ## What it is
 Compiler-in-the-loop steering for coding agents - Cursor and Claude Code. It runs your workspace's real language server on each edit, extracts diagnostics scoped to the changed lines and type signatures, and feeds that back to the coding agent.

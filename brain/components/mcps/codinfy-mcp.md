@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T06:56:45Z"
 ---
 ## What it is
 MCP server that connects AI agents to Codinfy platform APIs for validating licenses, creating checkouts, listing products, tracking analytics, managing OAuth identity, and handling ad placements.

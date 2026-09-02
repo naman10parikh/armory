@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:32:52Z"
 ---
 ## What it is
 MCP server `AlienVault OTX`, catalogued on PulseMCP. AlienVault Open Threat Exchange connector providing cybersecurity threat intelligence data through the Pipeworx MCP gateway.

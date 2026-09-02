@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-12-29T10:15:18Z"
 ---
 ## What it is
 MCP server `Kite 3D WebSocket Bridge`, catalogued on PulseMCP. Bridges Kite 3D game engine editor with WebSocket connectivity for real-time scene manipulation and automated game development workflows.

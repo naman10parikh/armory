@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T13:16:32Z"
 ---
 ## What it is
 Read-only MCP server that exposes Autopsy digital forensics case data as tools, enabling LLM clients like Cline to browse filesystems, query artifacts, and search keywords without modifying the case.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:53:14Z"
 ---
 ## What it is
 The Wellx Design System MCP enables AI agents to access the single source of truth for Wellx design, including tokens, component specs, rules, and search, ensuring consistent design implementation across surfaces.

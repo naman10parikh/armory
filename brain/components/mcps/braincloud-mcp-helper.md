@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-10T18:46:29Z"
 ---
 ## What it is
 A local, trustless MCP server that lets AI coding assistants sync brainCloud cloud-code scripts to and from your filesystem and git repo.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-22T01:42:04Z"
 ---
 ## What it is
 Enables heavy computation and data processing tasks in Claude Desktop, including complex SQL operations, large-scale data transformations, and resilient batch processing with automatic retry mechanisms.

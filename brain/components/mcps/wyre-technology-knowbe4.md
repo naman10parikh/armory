@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-31T02:26:10Z"
 ---
 ## What it is
 MCP server `KnowBe4`, catalogued on PulseMCP. Community MCP integration for KnowBe4, enabling AI agents to manage security awareness training and phishing campaigns.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-10T18:01:00Z"
 ---
 ## What it is
 Get your research artifact ready for Artifact Evaluation before the deadline: scan the repo, scaffold the easy fixes, verify the run path, and generate the appendix.

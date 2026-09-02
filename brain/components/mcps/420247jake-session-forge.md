@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-09T04:31:23Z"
 ---
 ## What it is
 MCP server `Session Forge`, catalogued on PulseMCP. Persistent session memory with decision logging and dead-end tracking for coding assistants.

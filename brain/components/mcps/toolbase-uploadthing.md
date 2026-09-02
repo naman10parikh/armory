@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-14T08:33:23Z"
 ---
 ## What it is
 MCP server `UploadThing`, catalogued on PulseMCP. Enables AI assistants to upload files to UploadThing's cloud storage from local paths or URLs via a Node.js bridge requiring token authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T05:58:23Z"
 ---
 ## What it is
 A deliberately vulnerable MCP application for learning MCP security through hands-on exercises covering OWASP MCP Top 10 categories.

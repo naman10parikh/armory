@@ -8,10 +8,12 @@ source_url: https://github.com/misbahsy/video-audio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 76
+stars: 83
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-05-24T19:15:22Z"
 ---
 ## What it is
 MCP server `Video & Audio Editor`, catalogued on PulseMCP. Provides comprehensive video and audio editing capabilities through FFmpeg, enabling operations like format conversion, trimming, subtitle addition, text overlays, and video concatenation with transition effects.

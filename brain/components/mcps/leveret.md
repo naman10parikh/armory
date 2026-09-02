@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:04:34Z"
 ---
 ## What it is
 Self-hosted MCP engine for private code reviews, providing deterministic static analysis and AST-level search over diffs, with findings passed to a review agent of your choice.

@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-05T14:20:25Z"
 ---
 ## What it is
 MCP server `Oh My KEGG`, catalogued on PulseMCP. Integrates with KEGG biological databases to provide access to pathways, genes, compounds, reactions, enzymes, diseases, drugs, and orthology data with advanced analysis capabilities like cross-organism ortholog finding, drug-drug interaction checking, and identifier conversion for bioinformatics research.

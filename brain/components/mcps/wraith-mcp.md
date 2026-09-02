@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T16:49:27Z"
 ---
 ## What it is
 An AI-native stealth browser MCP server that uses AI vision navigation and bot detection bypass, enabling natural language browser automation.

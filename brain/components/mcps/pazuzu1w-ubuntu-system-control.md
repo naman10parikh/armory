@@ -8,10 +8,12 @@ source_url: https://github.com/pazuzu1w/ubuntu_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-06-29T00:45:31Z"
 ---
 ## What it is
 MCP server `Ubuntu System Control`, catalogued on PulseMCP. Provides secure Ubuntu system control with safe file operations, command execution, and system information gathering through configurable security policies, path traversal prevention, command filtering, and comprehensive audit logging.

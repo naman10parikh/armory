@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-11T23:12:51Z"
 ---
 ## What it is
 MCP server `Memory LibSQL`, catalogued on PulseMCP. High-performance Go implementation of persistent memory storage using libSQL with vector search capabilities, managing knowledge graphs through entities, observations, and relations with multi-project support and compatibility with both local SQLite files and remote libSQL servers like Turso.

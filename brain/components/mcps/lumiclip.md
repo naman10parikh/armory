@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-27T13:33:00Z"
 ---
 ## What it is
 MCP server `Lumiclip`, catalogued on PulseMCP. Transforms YouTube videos into short vertical clips with subtitles, finding best moments and providing download-ready outputs.

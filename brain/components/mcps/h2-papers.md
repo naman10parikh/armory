@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-15T07:29:17Z"
 ---
 ## What it is
 MCP server `H2 Papers`, catalogued on PulseMCP. Search PubMed molecular hydrogen medical literature with delivery-aware safety notes.

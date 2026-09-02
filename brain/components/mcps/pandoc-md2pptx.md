@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-17T06:08:38Z"
 ---
 ## What it is
 MCP server `Pandoc Markdown to PowerPoint`, catalogued on PulseMCP. Converts Markdown content to PowerPoint presentations using pandoc with automatic diagram rendering for Mermaid, PlantUML, and Graphviz code blocks, supporting custom templates and file path inputs for streamlined presentation generation from documentation and notes.

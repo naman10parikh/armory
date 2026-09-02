@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T14:28:29Z"
 ---
 ## What it is
 MCP server for semantic research: search arXiv, fetch papers, and answer questions grounded in the actual paper text via RAG tools, resources, and prompts.

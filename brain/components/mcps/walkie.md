@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T18:36:32Z"
 ---
 ## What it is
 Enables remote monitoring and control of a local Claude Code agent fleet via MCP, with voice-friendly status summaries and strict command allowlisting.

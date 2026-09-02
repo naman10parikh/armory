@@ -8,11 +8,13 @@ source_url: https://github.com/Kaushalendra-Marcus/evident
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:22:59Z"
 ---
 ## What it is
 An agent-agnostic web extraction and fetch layer that turns URLs into verified, typed data with confidence scores via MCP, REST, or SDK, orchestrating scraping engines behind a resilience ladder and supporting structured extraction against any schema.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T23:53:49Z"
 ---
 ## What it is
 Read-only MCP server for VR.org providing live VR/AR/XR news, editorial, deals, headset comparisons, top games/apps, and Q&A through ten tools. Requires no API keys or configuration.

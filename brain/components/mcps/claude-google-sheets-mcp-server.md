@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-09-27T02:33:24Z"
 ---
 ## What it is
 A comprehensive MCP server for Google Sheets integration with Claude, enabling spreadsheet discovery, data manipulation, and formatting through natural language commands and slash commands.

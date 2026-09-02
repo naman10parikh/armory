@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T03:24:16Z"
 ---
 ## What it is
 An MCP server that enables hybrid semantic and keyword retrieval over your documents, using PostgreSQL and pgvector as the backend. It fuses rankings from both methods to provide high-quality search results to the language model.

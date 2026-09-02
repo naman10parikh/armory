@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-13T19:12:05Z"
 ---
 ## What it is
 Enables AI-driven graphical diagram creation and manipulation using natural language, with support for BPMN workflows, analysis, and manual editing via the Model Context Protocol.

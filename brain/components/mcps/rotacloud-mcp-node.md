@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T08:17:56Z"
 ---
 ## What it is
 MCP server exposing the RotaCloud API to Claude and other MCP clients, covering all 129 documented v1 operations across 36 resources including shifts, attendance, leave, users, locations, roles, and timesheets.

@@ -8,10 +8,12 @@ source_url: https://github.com/vish288/mcp-atlassian-extended
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-22T23:26:08Z"
 ---
 ## What it is
 MCP server `Atlassian Extended`, catalogued on PulseMCP. Extends Atlassian Jira, Confluence, and Bitbucket integration with advanced tools for sprint management, backlog grooming, content operations, and repository workflows.

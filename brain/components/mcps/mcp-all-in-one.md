@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-05T00:00:58Z"
 ---
 ## What it is
 Aggregates multiple MCP services into a single unified interface with self-configuration capabilities, enabling dynamic addition and removal of tools via conversation.

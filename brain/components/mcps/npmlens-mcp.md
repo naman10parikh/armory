@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-03T15:10:52Z"
 ---
 ## What it is
 Enables AI coding agents to search the npm registry and retrieve package metadata, READMEs, download stats, GitHub details, and usage snippets via the Model Context Protocol.

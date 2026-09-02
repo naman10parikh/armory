@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T19:22:31Z"
 ---
 ## What it is
 WYSIWYG HTML editor for LLM-assisted document creation, with a FastMCP server that lets AI agents create, modify, and export HTML presentations and documents.

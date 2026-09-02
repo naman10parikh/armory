@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T17:39:57Z"
 ---
 ## What it is
 Autonomous network monitoring and auto-remediation MCP server for Claude Desktop, enabling observation, planning, human-approved execution, verification, and session summarization.

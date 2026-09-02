@@ -8,10 +8,12 @@ source_url: https://github.com/littleblakew/msds-chain-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T23:56:24Z"
 ---
 ## What it is
 MCP server `MSDS Chain`, catalogued on PulseMCP. Provides chemical safety intelligence including compatibility checks, hazard info, PPE, and compliance data.

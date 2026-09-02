@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-22T02:30:16Z"
 ---
 ## What it is
 A Model Context Protocol server that provides tools to interact with Kaggle APIs, enabling dataset search, competition submissions, and account management.

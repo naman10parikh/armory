@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T19:39:45Z"
 ---
 ## What it is
 Local-first MCP server that simulates an investment committee on your pitch materials to assess funding readiness, integrating with Obra CTO for technical evidence.

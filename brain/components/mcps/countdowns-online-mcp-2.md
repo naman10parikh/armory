@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T12:55:23Z"
 ---
 ## What it is
 Enables AI clients to retrieve verified countdown event dates, semantics, and FAQ from Countdowns Online, allowing users to browse event categories and understand date contexts without API keys.

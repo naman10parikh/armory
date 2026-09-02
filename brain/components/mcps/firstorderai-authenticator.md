@@ -8,10 +8,12 @@ source_url: https://github.com/firstorderai/authenticator_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-03-31T08:16:54Z"
 ---
 ## What it is
 MCP server `Authenticator App`, catalogued on PulseMCP. Provides secure access to two-factor authentication codes and passwords stored in the Authenticator App, enabling seamless login assistance across multiple services without manual code entry.

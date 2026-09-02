@@ -8,10 +8,12 @@ source_url: https://github.com/isaacphi/mcp-language-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1535
+stars: 1586
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 143
+pushed_at: "2026-03-01T23:27:09Z"
 ---
 ## What it is
 MCP server `Language Server`, catalogued on PulseMCP. Provides intelligent code analysis and manipulation across multiple programming languages through language server protocols, enabling developers to explore, understand, and refactor complex codebases.

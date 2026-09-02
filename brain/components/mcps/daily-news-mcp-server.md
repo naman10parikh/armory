@@ -8,11 +8,13 @@ source_url: https://github.com/6551Team/daily-news
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 349
+stars: 350
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 38
+pushed_at: "2026-03-17T10:00:01Z"
 ---
 ## What it is
 Enables AI assistants to fetch news categories and hot news/tweets across various topics like crypto, DeFi, and AI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T06:29:21Z"
 ---
 ## What it is
 Read-only MCP server for a local-first supply chain knowledge base, enabling knowledge search with source evidence, internal system troubleshooting, vendor documentation fallback, vessel tracking, and work handoff preparation.

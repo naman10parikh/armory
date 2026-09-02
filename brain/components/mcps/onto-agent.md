@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:20:19Z"
 ---
 ## What it is
 Provides AI coding agents with an embedded knowledge graph and architecture governance tools, enabling blast radius analysis, compliance checks, and smart context extraction from codebases.

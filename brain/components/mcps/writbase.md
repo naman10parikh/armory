@@ -8,10 +8,12 @@ source_url: https://github.com/writbase/writbase
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:03:47Z"
 ---
 ## What it is
 MCP server `Writbase`, catalogued on PulseMCP. MCP-native task management for AI agent fleets with scoped permissions, inter-agent delegation, and full provenance tracking.

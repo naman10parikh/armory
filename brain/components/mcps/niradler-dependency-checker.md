@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-29T10:33:26Z"
 ---
 ## What it is
 MCP server `Dependency Checker`, catalogued on PulseMCP. Check package versions across npm, PyPI, Maven, NuGet, RubyGems, Crates.io, and Go modules

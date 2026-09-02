@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T20:57:51Z"
 ---
 ## What it is
 Provides voice transcription control and polling for MCP-compatible agents, enabling start/stop/pause/resume and retrieval of new text via tools.

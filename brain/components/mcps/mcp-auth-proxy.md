@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T08:14:54Z"
 ---
 ## What it is
 Authenticating reverse proxy for MCP servers providing credential isolation, OAuth2 token management, and composite tool aggregation.

@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-08-13T16:39:25Z"
 ---
 ## What it is
 MCP server `AWS Resources`, catalogued on PulseMCP. Provides a Python-based interface for executing AWS queries across services like S3 and CodePipeline, enabling DevOps tasks and cloud resource management.

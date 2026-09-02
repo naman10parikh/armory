@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:30:03Z"
 ---
 ## What it is
 MCP server `Trakt`, catalogued on PulseMCP. Trakt TV and movie metadata, watch history, and tracking signals via the Pipeworx gateway.

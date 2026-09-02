@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-18T06:36:12Z"
 ---
 ## What it is
 MCP server `Firebase Realtime Database`, catalogued on PulseMCP. Integrates with Firebase Realtime Database using Admin SDK authentication to enable querying documents by field filters, listing collections, and adding new documents for real-time data management workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T17:48:55Z"
 ---
 ## What it is
 MCP server for the DYNAMIS doctrine system, providing access to expert knowledge on launches and sales, including resources for indices, skills, tensions, and tools for searching, auditing, and benchmarking.

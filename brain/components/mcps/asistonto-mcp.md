@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:26:07Z"
 ---
 ## What it is
 Enables AI assistants to create validated question packs for the asistonto meeting copilot, converting meeting notes into pack files that surface questions during live meetings.

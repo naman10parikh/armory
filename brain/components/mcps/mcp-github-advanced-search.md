@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-16T15:39:28Z"
 ---
 ## What it is
 Enables LLMs to perform advanced GitHub code searches with intelligent filtering and content retrieval using Playwright automation, optimized for DeepSeek integration.

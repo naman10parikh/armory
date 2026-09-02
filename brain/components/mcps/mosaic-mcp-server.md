@@ -8,11 +8,13 @@ source_url: https://github.com/alexxb2mg-svg/Mosaic
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T11:31:16Z"
 ---
 ## What it is
 Provides 11 MCP tools for deterministic, local semantic search over your documents, including indexing, retrieval, exact-match facets, temporal truth, semantic diff, and agent-first JSON output. Enables LLMs and agents to search, retrieve, and analyze documents without cloud dependencies or per-quer

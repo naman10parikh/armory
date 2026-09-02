@@ -8,11 +8,13 @@ source_url: https://github.com/kleer001/nuke-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-26T17:03:16Z"
 ---
 ## What it is
 Connects AI assistants to Nuke for compositing tasks via natural language.

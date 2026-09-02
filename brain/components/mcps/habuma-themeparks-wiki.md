@@ -8,10 +8,12 @@ source_url: https://github.com/habuma/tpapi-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-15T05:30:00Z"
 ---
 ## What it is
 MCP server `ThemeParks.wiki`, catalogued on PulseMCP. Exposes data from the ThemeParks.wiki API as tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T19:57:21Z"
 ---
 ## What it is
 Enables managing Paperless-NGX documents, tags, correspondents, and document types via natural language. Supports document searching, downloading, uploading, and bulk editing.

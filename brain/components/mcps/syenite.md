@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T18:14:51Z"
 ---
 ## What it is
 MCP server `Syenite`, catalogued on PulseMCP. DeFi interface for AI agents with swap routing, cross-chain bridges, yield intelligence, and lending rate monitoring across 30+ chains.

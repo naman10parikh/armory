@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T14:34:35Z"
 ---
 ## What it is
 MAP (Maraventano Agent Protocol). One MCP server with three subtractive parts — Merchant Key (read any product URL into one CleanRead), Atlas (publish your own catalog by reading yourself), Provisions (wallet curriculum), Teacher, not butler: never signs, pays, or holds keys.

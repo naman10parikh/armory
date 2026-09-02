@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-07T16:39:29Z"
 ---
 ## What it is
 Provides real-time electricity prices, cheapest hours, and contract comparison for 40+ countries, enabling AI agents to make energy-aware decisions.

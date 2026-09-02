@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T18:14:02Z"
 ---
 ## What it is
 Exposes multiple LLM providers (AWS Bedrock, OpenAI, Google Gemini, local Ollama) as MCP tools with automatic routing by task type and Prometheus metrics, enabling any MCP-compatible client to generate text, route prompts, and list providers.

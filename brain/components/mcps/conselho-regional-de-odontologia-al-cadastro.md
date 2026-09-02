@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:45Z"
 ---
 ## What it is
 Read-only MCP server for querying official dental registration data from the Regional Council of Dentistry of Alagoas (Brazil). It provides a single tool to consult professional records via a hosted HTTP endpoint with prepaid credits.

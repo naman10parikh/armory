@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T10:55:00Z"
 ---
 ## What it is
 Provides interactive tools to explore AFAS customer data and employee leave information, including bubble charts, leave balance reports, and detailed leave cards.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T12:33:23Z"
 ---
 ## What it is
 A hosted remote MCP server that provides tools for inspecting A2A dependencies, extracting message edges, detecting dependency cycles, issuing rollout receipts, and exporting dependency logs.

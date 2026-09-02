@@ -8,11 +8,13 @@ source_url: https://github.com/yailPeralta/ast-mcp-server
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:08:32Z"
 ---
 ## What it is
 ast-mcp-server gives coding agents compact, type-aware access to TypeScript and JavaScript projects, providing structural code tools based on the real compiler project model through ts-morph for declarations, references, renames, and diagnostics, with safe prepare → review → apply mutation semantics

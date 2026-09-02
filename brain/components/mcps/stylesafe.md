@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T18:33:13Z"
 ---
 ## What it is
 An MCP server that detects CSS cascade conflicts and Tailwind utility clashes, returning structured reports with risk scores for AI coding agents and CI pipelines.

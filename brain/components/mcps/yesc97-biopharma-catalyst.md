@@ -8,10 +8,12 @@ source_url: https://github.com/yesc97/biopharma-catalyst-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-11T03:33:18Z"
 ---
 ## What it is
 MCP server `BioPharma Catalyst`, catalogued on PulseMCP. Forensic biopharma research tool that audits biotech companies by cross-referencing ClinicalTrials, SEC EDGAR, and FDA data.

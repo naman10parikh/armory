@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T20:22:20Z"
 ---
 ## What it is
 An MCP server that provides economic intelligence using FRED data, including series search, metadata, observations, comparisons, and a curated macroeconomic knowledge graph with GraphRAG, digital twin simulation, and explainability.

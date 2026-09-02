@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-28T18:05:26Z"
 ---
 ## What it is
 Connect AI assistants to your Baby Buddy instance to log and query feedings, sleep, diaper changes, and more.

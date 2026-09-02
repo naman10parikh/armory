@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-01T15:14:14Z"
 ---
 ## What it is
 MCP server `Antrieb`, catalogued on PulseMCP. Validates AI-generated infrastructure code by executing it on real VMs with self-correction.

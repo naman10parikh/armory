@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-16T07:05:45Z"
 ---
 ## What it is
 MCP server for any Microsoft Exchange / OWA deployment. Gives LLM agents access to email, calendar, directory search, folders, availability, and meeting analytics via 30 tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T06:55:22Z"
 ---
 ## What it is
 Software end-of-life intelligence for AI agents: EOL dates, support timelines and 0-100 upgrade risk scores for 480+ products. Check whether a version is still supported, score its risk, or audit an entire stack.

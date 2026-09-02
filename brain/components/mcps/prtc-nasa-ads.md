@@ -8,10 +8,12 @@ source_url: https://github.com/prtc/nasa-ads-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-04T12:03:04Z"
 ---
 ## What it is
 MCP server `NASA ADS`, catalogued on PulseMCP. MCP server for NASA Astrophysics Data System

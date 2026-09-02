@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:48Z"
 ---
 ## What it is
 MCP server for querying official dental council registration records in the Federal District of Brazil (Conselho Regional de Odontologia DF), offering a single read-only tool via prepaid credits.

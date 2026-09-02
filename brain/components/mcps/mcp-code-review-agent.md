@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-08T07:10:45Z"
 ---
 ## What it is
 A multi-persona code review tool that leverages AI agents with distinct expertise (Codex, Toxic Architect, Accessibility Expert) to analyze code quality through the Model Context Protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2025-07-09T08:22:06Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for Node-RED — allows language models (like Claude, GPT) to interact with Node-RED through a standardized API.

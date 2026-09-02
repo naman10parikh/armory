@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T07:02:35Z"
 ---
 ## What it is
 A human-in-the-loop governance interlock for AI agents. Agents propose changes, a human countersigns the exact plan, and then it executes stage by stage with precondition checks, verification, and auditing.

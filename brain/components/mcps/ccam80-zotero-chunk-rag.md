@@ -8,10 +8,12 @@ source_url: https://github.com/ccam80/deep-zotero
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-30T22:33:01Z"
 ---
 ## What it is
 MCP server `Zotero Chunk RAG`, catalogued on PulseMCP. Enables semantic search over Zotero research libraries by extracting and chunking PDF text, embedding with Gemini API, and storing in ChromaDB to find relevant papers, search specific passages with context, and retrieve bibliographic metadata with precise page-level attribution.

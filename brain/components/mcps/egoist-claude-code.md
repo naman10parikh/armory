@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-16T14:40:40Z"
 ---
 ## What it is
 MCP server `Claude Code`, catalogued on PulseMCP. Bridges Claude Code agent capabilities through a task delegation tool that accepts natural language coding descriptions, manages sessions for multi-turn interactions, and returns structured results with cost tracking for AI-assisted development workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T17:31:33Z"
 ---
 ## What it is
 Enables AI agents to analyze cold-chain sensor data locally, detecting threshold breaches, anomalies, and segmenting journeys from temperature/humidity logs.

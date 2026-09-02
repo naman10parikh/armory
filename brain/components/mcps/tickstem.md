@@ -8,10 +8,12 @@ source_url: https://github.com/tickstem/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-17T08:34:44Z"
 ---
 ## What it is
 MCP server `Tickstem`, catalogued on PulseMCP. Manage cron jobs and verify emails from your AI coding assistant via the Tickstem platform.

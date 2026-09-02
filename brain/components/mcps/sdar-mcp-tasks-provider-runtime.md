@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T14:34:13Z"
 ---
 ## What it is
 A language-neutral runtime for the SEP-2663 task lifecycle and io.sdar/taskExecution Provider Profile, delegating resource facts and side effects to versioned gRPC/Protobuf adapters. Implemented in strict TypeScript, it provides durable scheduling, recovery, and a full test suite for conformance.

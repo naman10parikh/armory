@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:10Z"
 ---
 ## What it is
 A hosted MCP server that provides a single read-only tool for consulting official NFC-e fiscal document querying of Brazilian tax document issuance of the official tax document of the official tax official of the official source of the official official official of the official official official tax

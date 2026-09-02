@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-04T10:34:56Z"
 ---
 ## What it is
 MCP server `n8n Workflow Automation`, catalogued on PulseMCP. Autonomous agent for n8n workflow automation providing comprehensive access to n8n instances through specialized tools for workflow management, credential handling, execution monitoring, and diagnostics.

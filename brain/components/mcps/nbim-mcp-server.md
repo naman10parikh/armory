@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T21:47:05Z"
 ---
 ## What it is
 MCP server for querying data from Norway's Government Pension Fund Global — the world's largest sovereign wealth fund.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-27T01:37:29Z"
 ---
 ## What it is
 MCP server `Wordware Research`, catalogued on PulseMCP. Integrates with Wordware's research and productivity tools to enable deep research on individuals, companies, and topics with direct saving to Notion and other specialized functions.

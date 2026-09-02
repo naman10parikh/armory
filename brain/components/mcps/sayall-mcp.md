@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T18:47:01Z"
 ---
 ## What it is
 Provides read-only access to local voice-to-text transcription history from the SayAll wireless mic app on macOS. Enables MCP-compatible assistants to query and paginate past transcripts by time and app with strong privacy boundaries.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 7
+forks: 6
+pushed_at: "2026-08-20T05:22:37Z"
 ---
 ## What it is
 Search, request, and manage e-signature contracts effortlessly with [BoldSign](https://boldsign.com/).

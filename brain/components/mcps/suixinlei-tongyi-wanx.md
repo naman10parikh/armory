@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-28T05:49:34Z"
 ---
 ## What it is
 MCP server `Tongyi Wanx`, catalogued on PulseMCP. Enables image generation through Alibaba's Tongyi Wanx API, handling authentication, communication, and response formatting for applications requiring AI-generated visuals.

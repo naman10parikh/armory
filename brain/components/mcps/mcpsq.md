@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-28T14:15:28Z"
 ---
 ## What it is
 A simple MCP server to discover and manage MCP servers. Provides tools to find, add, list, and remove MCP server configurations for Cursor.

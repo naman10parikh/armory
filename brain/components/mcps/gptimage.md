@@ -8,11 +8,13 @@ source_url: https://github.com/Connected-Mate/gptimage
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T08:01:13Z"
 ---
 ## What it is
 Image generation for Claude Code via ChatGPT subscription token. No API key needed.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T20:27:04Z"
 ---
 ## What it is
 MCP server for searching internal Confluence documentation with features like score-based ranking, noun extraction, and LLM query rewriting.

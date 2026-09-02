@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T17:42:22Z"
 ---
 ## What it is
 Enables AI agents to get real home & auto insurance quotes and start binding through a network of licensed independent agencies.

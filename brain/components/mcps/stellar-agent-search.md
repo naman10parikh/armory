@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T09:20:31Z"
 ---
 ## What it is
 Read-only MCP server for discovering and ranking on-chain agents on Stellar mainnet via natural language search, reputation probes, and profile lookups.

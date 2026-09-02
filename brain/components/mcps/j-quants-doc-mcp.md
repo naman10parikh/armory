@@ -8,11 +8,13 @@ source_url: https://github.com/J-Quants/j-quants-doc-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-12T21:56:45Z"
 ---
 ## What it is
 Enables searching J-Quants API endpoints, retrieving detailed documentation, generating executable sample code, and answering FAQs via MCP clients like Claude Desktop.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T04:06:21Z"
 ---
 ## What it is
 29 MCP tools for IPL 2026, IPL historical (18 seasons), and Major League Cricket. Free, no API key.

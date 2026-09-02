@@ -8,10 +8,12 @@ source_url: https://github.com/piiiico/proof-of-commitment
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-04T02:36:03Z"
 ---
 ## What it is
 MCP server `Proof of Commitment`, catalogued on PulseMCP. Supply chain risk scoring for npm, PyPI, Cargo, and Go. 9 tools. Behavioral signals.

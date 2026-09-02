@@ -8,10 +8,12 @@ source_url: https://github.com/yimingyan/fivetran-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-01T17:49:59Z"
 ---
 ## What it is
 MCP server `Fivetran`, catalogued on PulseMCP. Manages Fivetran data pipelines including connections, syncs, schemas, and status monitoring.

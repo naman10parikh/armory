@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T13:26:10Z"
 ---
 ## What it is
 MCP server that exposes Avangenio's service status by fetching and parsing status.avangenio.com/data.txt into normalized JSON.

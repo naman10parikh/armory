@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T14:04:08Z"
 ---
 ## What it is
 Enables AI agents to validate deliverables (JSON, ZIP, PDF, DOCX) against signed contracts, generating verifiable receipts with Ed25519 signatures.

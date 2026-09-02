@@ -8,10 +8,12 @@ source_url: https://github.com/openkash/abap-accelerator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-18T14:50:58Z"
 ---
 ## What it is
 MCP server `ABAP Accelerator`, catalogued on PulseMCP. SAP ABAP development tools for AI agents — search objects, validate syntax, run ATC checks, and navigate SAP systems.

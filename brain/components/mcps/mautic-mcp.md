@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T16:02:53Z"
 ---
 ## What it is
 A lightweight MCP server that connects Claude AI to Mautic marketing automation, enabling contact management, email sending, campaign operations, and analytics via natural language.

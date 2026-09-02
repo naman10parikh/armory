@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T04:59:51Z"
 ---
 ## What it is
 MCP server `Dreamlit`, catalogued on PulseMCP. AI-powered email workflow automation platform with MCP integration.

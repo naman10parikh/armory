@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T23:29:34Z"
 ---
 ## What it is
 MCP server for Google Docs and Sheets that enables AI assistants to read, create, edit, style, export, and collaborate on documents using local OAuth authentication.

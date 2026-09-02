@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-22T13:19:20Z"
 ---
 ## What it is
 MCP server `Invapi E-Invoicing`, catalogued on PulseMCP. Extract, convert, and validate invoices across UBL, CII, XRechnung, ZUGFeRD, PDF, and Excel formats via the Invapi API.

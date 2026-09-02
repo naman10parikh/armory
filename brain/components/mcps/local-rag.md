@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T10:19:43Z"
 ---
 ## What it is
 A local-first document retrieval MCP server that enables AI coding tools like Codex to search private local documents via semantic search and keyword boost, supporting ingestion of PDF, DOCX, TXT, Markdown, and HTML files.

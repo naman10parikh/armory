@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-15T20:21:25Z"
 ---
 ## What it is
 Provides access to Microsoft Ignite 2025 conference data including sessions, speakers, personal schedule, and favorites via 7 MCP tools with smart caching.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:19:11Z"
 ---
 ## What it is
 MCP server `Lemmy`, catalogued on PulseMCP. Reads posts, communities, and users from any Lemmy federated link-aggregator instance.

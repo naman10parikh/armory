@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:23:32Z"
 ---
 ## What it is
 A pay-per-pick World Cup edge API on Injective EVM where the x402 USDC receipt IS the pre-kickoff timestamp, plus a free public ledger that CLV-scores every settled pick — losses included.

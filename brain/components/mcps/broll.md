@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T18:42:12Z"
 ---
 ## What it is
 A content studio MCP server for coding agents that generates media, renders videos and carousels deterministically, and publishes with a draft-first outbox.

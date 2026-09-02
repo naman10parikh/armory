@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T00:54:47Z"
 ---
 ## What it is
 Enables AI assistants to call, text, and email businesses on your behalf, read back transcripts, recordings, and replies.

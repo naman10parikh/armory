@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T18:32:52Z"
 ---
 ## What it is
 Search competitions, hackathons, jobs, internships, and scholarships on Unstop.com directly from Claude — no browser tab switching needed.

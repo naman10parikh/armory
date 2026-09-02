@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T06:56:51Z"
 ---
 ## What it is
 An MCP server that provides a unified query layer over terminology, SEO/GEO analytics, and company facts, enabling Claude Code to access and reason over data previously scattered across JSON files and reports.

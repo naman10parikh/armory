@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-12T03:54:19Z"
 ---
 ## What it is
 Enables searching and summarizing MDN Web Docs documentation directly from MCP-compatible clients. Allows developers to quickly retrieve concise documentation summaries for web technologies without leaving their workflow.

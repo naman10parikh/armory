@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-30T12:12:45Z"
 ---
 ## What it is
 MCP server `Git PR Description Generator`, catalogued on PulseMCP. Analyzes Git repository changes to automatically generate contextually relevant pull request descriptions based on commit differences.

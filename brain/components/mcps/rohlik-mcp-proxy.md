@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T13:11:43Z"
 ---
 ## What it is
 Enables interaction with the Rohlik grocery delivery service through MCP by proxying requests with automatic authentication header injection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T04:16:31Z"
 ---
 ## What it is
 Enables deterministic preflight utility checks through the JustHandled Agent Gateway, with paid calls on Base mainnet and secure 402 preview before signing.

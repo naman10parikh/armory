@@ -8,10 +8,12 @@ source_url: https://github.com/wbopan/things-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-20T04:02:19Z"
 ---
 ## What it is
 MCP server `Things`, catalogued on PulseMCP. Integrates with Things.app task management for macOS, enabling task and project creation with full metadata support, update operations including completion status, database export functionality, and summary generation through URL scheme and direct database access.

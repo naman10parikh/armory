@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T03:46:34Z"
 ---
 ## What it is
 A multi-database MCP server supporting PostgreSQL, ClickHouse, and MySQL that enables database exploration and SQL execution through MCP stdio or HTTP API.

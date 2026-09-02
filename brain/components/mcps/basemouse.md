@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T04:44:34Z"
 ---
 ## What it is
 Shared, versioned memory for your agents across Claude Code, Cursor, Kiro and Grok. One MCP server, sourced answers, full history.

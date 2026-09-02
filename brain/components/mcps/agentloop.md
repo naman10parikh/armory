@@ -8,11 +8,13 @@ source_url: https://github.com/luckeyfaraday/athena-loops
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 53
+stars: 57
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-07-08T17:43:35Z"
 ---
 ## What it is
 MCP server that enables AI agents to run a deterministic orchestration loop with decomposition, subagent execution, and review feedback across multiple LLM backends.

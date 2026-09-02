@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T03:57:40Z"
 ---
 ## What it is
 MCP server for PromptHub. Enables publishing, fetching, listing, updating, and searching prompt repositories from Claude Code or Codex.

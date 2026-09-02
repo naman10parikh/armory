@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-03T20:40:49Z"
 ---
 ## What it is
 MCP server `Airbnb`, catalogued on PulseMCP. Provides direct access to Airbnb's search and listing data through web scraping, enabling property research, price analysis, budget calculations, and listing comparisons for travel planning and market research.

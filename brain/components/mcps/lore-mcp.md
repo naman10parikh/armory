@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T23:26:53Z"
 ---
 ## What it is
 A stateless MCP server that gives AI agents team-shared lore including area context documents, session captures, and structured docs (ADRs, logs, TODOs, plans) via the lore-api GraphQL endpoint.

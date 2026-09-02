@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T15:02:26Z"
 ---
 ## What it is
 Enables AI models like Claude or GPT to interact with a decentralized git network, supporting repository initialization, DID generation, agent spawning, and pull requests.

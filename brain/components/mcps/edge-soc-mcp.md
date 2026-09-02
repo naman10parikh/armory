@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T00:42:01Z"
 ---
 ## What it is
 A Cloudflare Workers MCP server that puts a SOC analyst's enrichment, investigation, and detection-context workflow behind a single endpoint. It aggregates over 20 threat-intel sources into 18 MCP tools for IP, domain, URL, hash, and CVE lookups.

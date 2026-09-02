@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-22T00:09:30Z"
 ---
 ## What it is
 Enables managing GitHub Project views, priorities, dependencies, and metrics through natural language.

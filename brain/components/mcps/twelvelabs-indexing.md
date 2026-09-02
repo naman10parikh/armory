@@ -8,11 +8,13 @@ source_url: https://github.com/Hrishikesh332/TL_Indexing_MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 70
+stars: 69
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-04T19:06:11Z"
 ---
 ## What it is
 Enables video indexing with TwelveLabs by uploading local video files and tracking task status.

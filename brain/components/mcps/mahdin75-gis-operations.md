@@ -8,10 +8,12 @@ source_url: https://github.com/mahdin75/gis-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 157
+stars: 190
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 51
+pushed_at: "2026-08-21T06:27:40Z"
 ---
 ## What it is
 MCP server `GIS Operations`, catalogued on PulseMCP. Integrates with geospatial libraries to perform geometric transformations, coordinate system conversions, and spatial analyses using WKT geometry strings for map creation and location-based services.

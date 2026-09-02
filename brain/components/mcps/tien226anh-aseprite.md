@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T06:15:47Z"
 ---
 ## What it is
 MCP server `Aseprite`, catalogued on PulseMCP. Python MCP server bridging LLMs to Aseprite for programmatic pixel art creation, animation, and sprite management.

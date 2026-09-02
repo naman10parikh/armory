@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T03:41:36Z"
 ---
 ## What it is
 Enables searching, enrolling, and tracking Coursera courses and certificates through LibreChat, with multi-user secure authentication and caching.

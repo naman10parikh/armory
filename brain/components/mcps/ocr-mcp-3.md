@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T14:49:32Z"
 ---
 ## What it is
 Converts screenshots of web pages into structured Markdown using GLM-OCR (Zhipu), with tools for OCR on images, webpages, and health checks.

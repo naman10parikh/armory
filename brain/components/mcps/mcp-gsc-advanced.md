@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T00:08:58Z"
 ---
 ## What it is
 MCP server for advanced Google Search Console analysis — keyword cannibalization detection, page-level query deep dive, and rank change tracking.

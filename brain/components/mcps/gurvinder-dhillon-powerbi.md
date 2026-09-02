@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-05T06:55:20Z"
 ---
 ## What it is
 MCP server `Power BI`, catalogued on PulseMCP. Integrates with Power BI REST APIs to query workspaces, datasets, and execute DAX queries.

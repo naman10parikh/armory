@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-03T02:53:33Z"
 ---
 ## What it is
 MCP server `Power Platform & Azure CLI Bridge`, catalogued on PulseMCP. Bridges Power Platform CLI and Azure CLI commands with specialized tools for executing Dataverse environment operations, making Azure REST API requests, and performing Graph API operations.

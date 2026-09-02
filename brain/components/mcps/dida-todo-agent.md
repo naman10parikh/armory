@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T06:11:47Z"
 ---
 ## What it is
 Enables AI agents to manage Dida365 tasks via natural language with a rule engine for automatic project routing, priority assignment, and label management.

@@ -8,10 +8,12 @@ source_url: https://github.com/xunmint/cisco-cli-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-01-18T09:34:53Z"
 ---
 ## What it is
 MCP server `Cisco CLI`, catalogued on PulseMCP. Manages Cisco network devices through Telnet connections for configuration, monitoring, and troubleshooting tasks.

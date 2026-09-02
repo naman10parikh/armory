@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T07:04:25Z"
 ---
 ## What it is
 A local, offline-first MCP server for searching, grepping, reading, rendering, and comparing long datasheet/TRM PDFs, using hybrid retrieval with BM25, dense embeddings, and visual page indexing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-29T17:33:39Z"
 ---
 ## What it is
 FROM node:22-alpine RUN npm install -g agentpack-cli WORKDIR /workspace RUN agentpack init ENTRYPOINT ["agentpack", "mcp"]

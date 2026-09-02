@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-04T09:04:54Z"
 ---
 ## What it is
 An MCP server that brings Perplexity's Sonar models with real-time web search capabilities to Claude Desktop and other MCP clients.

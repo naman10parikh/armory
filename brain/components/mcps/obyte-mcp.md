@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:48:53Z"
 ---
 ## What it is
 A local MCP server that enables AI tools to query Obyte blockchain data including balances, units, autonomous agent state and dry runs, and token symbols, supporting both mainnet and testnet.

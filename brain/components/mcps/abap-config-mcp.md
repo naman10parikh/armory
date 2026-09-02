@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T09:11:51Z"
 ---
 ## What it is
 A standalone MCP server for SAP ABAP development and customizing that connects directly to your SAP system via ADT REST API, enabling AI assistants to search, read, write, activate, transport, debug, and run quality checks on ABAP code, as well as manage customizing/IMG configurations with governed 

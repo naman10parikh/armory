@@ -8,10 +8,12 @@ source_url: https://github.com/walrusquant/sports-leader-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T13:19:30Z"
 ---
 ## What it is
 MCP server `Sports Leader`, catalogued on PulseMCP. Access live ESPN sports data across 17 sports and 139 leagues — scores, stats, rosters, betting odds, and standings without authentication.

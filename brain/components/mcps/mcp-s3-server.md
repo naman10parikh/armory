@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-14T18:34:47Z"
 ---
 ## What it is
 MCP server enabling AI models to list S3 buckets, objects, and download files securely.

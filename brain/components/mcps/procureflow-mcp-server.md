@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T02:58:42Z"
 ---
 ## What it is
 Enables AI agents to query and manage ERP procurement data, including suppliers, parts, inventory, and purchase orders, with human approval for write operations.

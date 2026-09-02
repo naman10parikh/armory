@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-17T07:48:33Z"
 ---
 ## What it is
 An MCP server that provides access to finn.no, Norway's largest online classifieds marketplace, enabling searches and listing retrieval across used goods, real estate, cars, and jobs.

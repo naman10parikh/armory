@@ -8,11 +8,13 @@ source_url: https://github.com/frishtik/osint-tools-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 231
+stars: 237
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 32
+pushed_at: "2025-08-07T13:52:10Z"
 ---
 ## What it is
 A comprehensive MCP server that exposes multiple OSINT tools to AI assistants like Claude, enabling sophisticated reconnaissance and information gathering tasks using industry-standard OSINT tools.

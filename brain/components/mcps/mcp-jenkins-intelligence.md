@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-12T18:17:32Z"
 ---
 ## What it is
 Enables natural language interfaces for complex Jenkins pipeline operations, including monitoring, analysis, and optimization through AI-powered conversations in VSCode and Cursor.

@@ -8,10 +8,12 @@ source_url: https://github.com/browseragentprotocol/bap
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T05:46:28Z"
 ---
 ## What it is
 MCP server `Browser Agent Protocol`, catalogued on PulseMCP. Provides standardized browser automation through semantic selectors and accessibility-focused element identification, enabling reliable web interactions using ARIA roles and accessible names instead of brittle CSS selectors.

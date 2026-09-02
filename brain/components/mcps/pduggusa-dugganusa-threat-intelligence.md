@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-30T17:24:58Z"
 ---
 ## What it is
 MCP server `DugganUSA Threat Intelligence`, catalogued on PulseMCP. Threat intelligence scanner and MCP server for checking indicators of compromise from the terminal and AI assistants.

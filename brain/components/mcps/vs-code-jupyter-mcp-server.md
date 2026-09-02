@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T10:38:29Z"
 ---
 ## What it is
 Enables external agents to run, edit, create, and manage the Jupyter notebook the user is actively editing in VS Code, headlessly and without approval dialogs. Works with any MCP client and is Jupyter-optional for document operations.

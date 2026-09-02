@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T01:03:44Z"
 ---
 ## What it is
 An MCP server that exposes a LangChain agent with short-term memory to analyze real e-commerce data through predefined SQL tools, enabling natural language queries on sales, customers, and logistics.

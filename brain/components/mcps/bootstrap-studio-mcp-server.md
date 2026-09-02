@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T13:58:02Z"
 ---
 ## What it is
 Provides tools for analyzing Bootstrap Studio .bsdesign project files, generating Bootstrap 5 component code, and looking up Bootstrap documentation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-12T13:49:54Z"
 ---
 ## What it is
 MCP server for safely exposing SQL Server database capabilities to LLM clients, with read-only mode, security features, and observability.

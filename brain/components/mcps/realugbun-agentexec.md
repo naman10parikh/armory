@@ -8,10 +8,12 @@ source_url: https://github.com/realugbun/agentexecmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-23T02:50:28Z"
 ---
 ## What it is
 MCP server `AgentExec`, catalogued on PulseMCP. Provides secure sandboxed code execution across Python, Node.js, and Go environments with shell command access and package management through Docker containerization and configurable safety controls.

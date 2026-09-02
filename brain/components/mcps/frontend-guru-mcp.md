@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T20:11:33Z"
 ---
 ## What it is
 Transforms design inputs (URLs, screenshots, descriptions) into production-ready React components following G2's Elevate 2.0 design system, providing both an MCP server for Claude Code and a web interface.

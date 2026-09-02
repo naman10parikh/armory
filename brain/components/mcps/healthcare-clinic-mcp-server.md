@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:58:03Z"
 ---
 ## What it is
 Exposes appointment scheduling and insurance claims data as MCP tools, allowing AI clients to query and update clinic records via a standard protocol.

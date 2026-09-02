@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T21:25:14Z"
 ---
 ## What it is
 MCP server `TCGA Bioconductor`, catalogued on PulseMCP. Conversational access to TCGA cancer genomics data through Bioconductor packages for research workflows

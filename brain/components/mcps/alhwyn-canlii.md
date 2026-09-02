@@ -8,10 +8,12 @@ source_url: https://github.com/alhwyn/canlii-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-07-24T02:09:35Z"
 ---
 ## What it is
 MCP server `CanLII`, catalogued on PulseMCP. Integrates with CanLII's Canadian legal database to provide search and retrieval capabilities for court decisions, legislation, case metadata, and legal citations with support for date filtering and bilingual content.

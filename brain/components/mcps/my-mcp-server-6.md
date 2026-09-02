@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:36:59Z"
 ---
 ## What it is
 Provides tools for greetings, calculations, weather, geocoding, and image generation via Hugging Face, deployable to Vercel and integrable with Cursor.

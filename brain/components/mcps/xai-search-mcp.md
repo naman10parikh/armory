@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T12:57:37Z"
 ---
 ## What it is
 An MCP server that provides real-time web search and X (Twitter) search capabilities via the xAI API.

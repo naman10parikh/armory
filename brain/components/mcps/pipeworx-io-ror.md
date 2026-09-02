@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:37:27Z"
 ---
 ## What it is
 MCP server `Research Organization Registry`, catalogued on PulseMCP. Queries ROR for canonical identifiers and metadata for research institutions.

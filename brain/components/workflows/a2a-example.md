@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tutorials-learning-resources]
+forks: 0
+pushed_at: "2025-12-31T01:33:43Z"
 ---
 ## What it is
 Example implementation of A2A protocol

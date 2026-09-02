@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-29T11:09:57Z"
 ---
 ## What it is
 Extracts transcripts, titles, descriptions, and comments from Loom videos via a remote MCP server.

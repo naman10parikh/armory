@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T19:36:09Z"
 ---
 ## What it is
 Local-first MCP server that analyzes and compiles prompts for multiple LLM clients, detecting intent, missing context, and waste risks to generate cost-aware, task-specific prompts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T08:20:48Z"
 ---
 ## What it is
 Self-hosted MCP memory server that gives a multi-agent fleet one shared, git-backed memory for search, read, and write.

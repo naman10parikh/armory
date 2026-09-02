@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T17:23:41Z"
 ---
 ## What it is
 Enables AI coding agents to securely access 70+ SQL and NoSQL databases via dockit and sqlkit, using plain language queries. It provides a three-tier permission model and never exposes credentials to the LLM.

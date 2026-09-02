@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:04Z"
 ---
 ## What it is
 Provides a read-only tool to query ECRVSP Estampagem authorization data from an official source via MCP, with prepaid usage and no credentials.

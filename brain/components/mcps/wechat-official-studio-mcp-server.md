@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T09:26:24Z"
 ---
 ## What it is
 A local MCP server that enables managing WeChat Official Account content through the logged-in web session, including reading published articles and analytics, uploading images, and creating drafts after explicit confirmation.

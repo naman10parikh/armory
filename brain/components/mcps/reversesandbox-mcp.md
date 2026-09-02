@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T05:13:36Z"
 ---
 ## What it is
 Enables AI agents to pay for x402 pay-per-use services like web search, scraping, and screenshots using a simple API key and USD balance, without managing crypto wallets.

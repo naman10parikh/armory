@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T16:09:31Z"
 ---
 ## What it is
 MCP server for HoodGrow's Robinhood Chain stock token API, exposing live prices, corporate-action adjusted supply, DeFi depth, and corporate actions as tools. Enables users to query token data and corporate actions through natural language in any MCP client.

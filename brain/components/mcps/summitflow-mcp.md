@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T02:22:21Z"
 ---
 ## What it is
 Grant management tools for AI agents: plan backward from deadlines, count business days around US federal holidays, build budgets with indirect costs, and value volunteer and in-kind contributions. No API key or network required—all pure functions.

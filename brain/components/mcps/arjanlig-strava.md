@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-26T18:45:26Z"
 ---
 ## What it is
 MCP server `Strava (ArjanLig)`, catalogued on PulseMCP. Connects Strava training data to Claude for training load analysis, weekly plans, and activity insights.

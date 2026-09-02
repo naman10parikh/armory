@@ -8,10 +8,12 @@ source_url: https://github.com/stefanoamorelli/sec-edgar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 271
+stars: 355
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 95
+pushed_at: "2026-08-21T10:17:34Z"
 ---
 ## What it is
 MCP server `SEC EDGAR`, catalogued on PulseMCP. Provides access to SEC EDGAR financial data through tools for retrieving company submissions, financial concepts, standardized facts, and XBRL frames for investment research and regulatory compliance.

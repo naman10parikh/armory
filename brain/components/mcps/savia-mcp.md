@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T16:30:05Z"
 ---
 ## What it is
 MCP server that exposes SAVIA, a legacy travel-industry ERP with no public API, as tools an AI assistant can use. It uses Playwright to operate the browser, enabling read-only extraction of information like screenshots, text, and tables.

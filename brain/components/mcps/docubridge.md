@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T17:32:29Z"
 ---
 ## What it is
 Provides AI assistants with direct access to local Markdown documentation libraries, enabling them to list, read, and search through docs on demand.

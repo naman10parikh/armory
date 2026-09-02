@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T11:06:41Z"
 ---
 ## What it is
 Enables AI agents to search and compare prices across Japanese used camera, watch, luxury brand, and instrument marketplaces from multiple stores, returning price, brand, condition, and source store information.

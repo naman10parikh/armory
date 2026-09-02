@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:00:45Z"
 ---
 ## What it is
 Enables natural-language supply-chain analysis over synthetic datasets through governed SQL/Python tools, providing supplier scorecards, forecast accuracy, risk detection, landed-cost comparisons, capacity planning, and quality trend insights without the LLM performing quantitative calculations.

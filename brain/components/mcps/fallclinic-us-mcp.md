@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T09:10:00Z"
 ---
 ## What it is
 Sovereign MCP server for fallclinic-us, enabling AI agents to manage clinic workflows via Ed25519-signed, offline-capable tools. MIT-licensed and runs on your own infrastructure.

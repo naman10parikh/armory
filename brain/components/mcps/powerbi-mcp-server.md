@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-21T09:49:51Z"
 ---
 ## What it is
 An MCP server for interacting with Microsoft PowerBI REST API, providing tools for data cleaning, transformation, analysis, and visualization within PowerBI.

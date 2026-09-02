@@ -8,10 +8,12 @@ source_url: https://github.com/nirholas/xactions
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 276
+stars: 496
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 95
+pushed_at: "2026-08-28T07:02:48Z"
 ---
 ## What it is
 MCP server `XActions`, catalogued on PulseMCP. Automates X/Twitter interactions through browser-based scraping, enabling profile management, engagement tracking, video downloads, and AI agent integration without API keys.

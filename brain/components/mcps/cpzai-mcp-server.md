@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:34:59Z"
 ---
 ## What it is
 MCP server for CPZAI platform, enabling AI agents to manage trading strategies, run backtests, route orders across brokers, and access portfolios, risk analytics, and market data through natural language.

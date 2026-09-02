@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T10:22:25Z"
 ---
 ## What it is
 Enables AI agents to render interactive user interfaces such as forms, dashboards, charts, tables, and wizards directly in MCP-compatible clients. Supports structured data collection and richer interactions beyond text responses.

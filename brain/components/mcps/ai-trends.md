@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T14:05:14Z"
 ---
 ## What it is
 Provides access to the latest AI trends by querying Google News RSS and Hacker News API, enabling AI assistants to retrieve real-time trending topics.

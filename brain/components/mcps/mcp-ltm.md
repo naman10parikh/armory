@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-20T13:45:48Z"
 ---
 ## What it is
 Provides persistent long-term memory for AI assistants with tag-based retrieval, wiki-style linking, and source references, storing memories as markdown files with SQLite index.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-27T00:22:43Z"
 ---
 ## What it is
 MCP server `ResX Resource Files`, catalogued on PulseMCP. Integrates with .NET resource files to provide localization and string management tools for internationalization tasks and multi-language application development.

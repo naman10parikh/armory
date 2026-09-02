@@ -12,6 +12,8 @@ stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-25T01:28:13Z"
 ---
 ## What it is
 MCP server `Ntfy Notifications`, catalogued on PulseMCP. Enables real-time notifications through ntfy.sh, allowing assistants to send customizable alerts with titles and summaries to users for task completions, errors, or important events.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T11:00:48Z"
 ---
 ## What it is
 Connects AI agents to the Futurykon prediction platform, enabling them to query and interact with prediction questions, manage predictions, and view leaderboards.

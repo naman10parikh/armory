@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T15:37:43Z"
 ---
 ## What it is
 An MCP server that exposes the Huawei Cloud CLI as a single tool for AI assistants to discover and execute commands interactively via --help navigation, with built-in safety for destructive operations.

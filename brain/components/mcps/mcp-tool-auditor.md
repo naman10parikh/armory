@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T17:09:53Z"
 ---
 ## What it is
 Audits MCP tool descriptions for quality and reliability, scoring them 0-100, detecting smells, and providing rewritten versions for better agent accuracy.

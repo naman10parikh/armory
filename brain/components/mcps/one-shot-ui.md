@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T20:39:21Z"
 ---
 ## What it is
 Deterministic screenshot diffing for AI coding agents. Extract design tokens, diff implementations vs reference, get CSS fix suggestions.

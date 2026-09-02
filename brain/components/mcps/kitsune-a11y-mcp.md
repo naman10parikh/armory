@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T00:24:15Z"
 ---
 ## What it is
 An accessibility audit server that enforces WCAG 2.2 AA standards by running axe-core in a headless browser, providing violation details grouped by impact with fix hints.

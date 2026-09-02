@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T23:04:39Z"
 ---
 ## What it is
 Exposes Frank Energie energy data (electricity and gas prices, account info) as MCP tools for LLMs, using python-frank-energie for API communication.

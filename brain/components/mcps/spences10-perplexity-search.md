@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-28T09:19:43Z"
 ---
 ## What it is
 MCP server `Perplexity Search`, catalogued on PulseMCP. Integrates with Perplexity's web search API to enable real-time fact-checking, research, and content generation using up-to-date information.

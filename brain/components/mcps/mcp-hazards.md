@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T15:39:52Z"
 ---
 ## What it is
 An MCP server that gives AI agents grounded access to US natural-hazard data — weather alerts, forecasts, earthquakes, and FEMA flood zones — from free, keyless US government APIs.

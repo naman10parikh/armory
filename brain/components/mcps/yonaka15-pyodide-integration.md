@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-05-19T14:42:21Z"
 ---
 ## What it is
 MCP server `Pyodide Integration`, catalogued on PulseMCP. Integrates Pyodide to enable Python execution in JavaScript environments.

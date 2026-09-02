@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T23:21:44Z"
 ---
 ## What it is
 Search 20,000+ corporate KPIs and 30,000+ source-attributed industry benchmarks: definitions, formulas, common pitfalls, improvement levers, and benchmark data. Hosted Streamable HTTP server at https://kpidepot.com/mcp; the repo's Dockerfile bridges stdio clients to it via mcp-remote.

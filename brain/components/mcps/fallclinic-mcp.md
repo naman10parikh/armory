@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:12:58Z"
 ---
 ## What it is
 MCP server for foldkit SDK exposing fold operations, kappa-band classification, and 7-prime spine as tools and resources for AI assistants.

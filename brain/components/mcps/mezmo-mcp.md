@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-13T22:08:22Z"
 ---
 ## What it is
 Mezmo MCP is a remote MCP server that connects AI assistants and IDE chat to Mezmo so you can run advanced root-cause analysis, discover pipelines, and export logs without hosting anything yourself. It's built for observability use cases and works across many popular MCP clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T07:50:02Z"
 ---
 ## What it is
 A small MCP server that turns a shared Ollama box into a team resource for Claude Code, providing typed tools and delegated read-only repo exploration using local models.

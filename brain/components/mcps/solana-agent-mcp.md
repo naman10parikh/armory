@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:27:16Z"
 ---
 ## What it is
 Real-time Solana pump.fun token scanner with MCP stdio transport and HTTP API. Enables AI agents to monitor and trade pump.fun tokens via natural language.

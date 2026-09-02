@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T13:49:44Z"
 ---
 ## What it is
 MCPWatch: observability for MCP servers. One line instruments any Python MCP server (FastMCP and the low-level Server) and tracks per-tool latency (p50/p95/p99), error rates, silent failures (empty/null returns and isError), and call volume. REST API, CLI, and alert hooks. MIT, no config required.

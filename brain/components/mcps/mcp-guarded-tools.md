@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T12:20:51Z"
 ---
 ## What it is
 An MCP server that exposes 43 domain tools behind 4 meta-tools, applying guardrails such as budgets, rate limits, schema validation, human-in-the-loop confirmation for mutations, PII redaction, and an append-only audit log while reducing context window usage.

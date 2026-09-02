@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:10:24Z"
 ---
 ## What it is
 Wraps the Gong API v2 to list users and retrieve call data through natural language queries.

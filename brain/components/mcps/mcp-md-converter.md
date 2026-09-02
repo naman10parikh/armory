@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T12:21:08Z"
 ---
 ## What it is
 Converts Markdown files to PDF or Google Docs via headless Chromium and Google Drive import.

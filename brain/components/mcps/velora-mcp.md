@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T12:53:46Z"
 ---
 ## What it is
 Hosted MCP server for Argentine commerce: real AFIP/ARCA fiscal invoicing (live CAE), MercadoPago payments, logistics, catalog, cash register and WhatsApp behind one authenticated endpoint. Includes 9 no-auth fiscal validation/formatting tools.

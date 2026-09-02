@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T10:15:57Z"
 ---
 ## What it is
 Enables AI agents to interact with X (Twitter) through its private GraphQL API using session cookies, supporting tweets, replies, likes, retweets, searches, direct messages, and more. Provides 24 MCP tools for full account automation.

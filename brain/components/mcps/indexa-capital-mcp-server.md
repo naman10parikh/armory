@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T08:16:09Z"
 ---
 ## What it is
 A read-only MCP server that enables Claude to monitor Indexa Capital investments, providing tools to query portfolio summary, account details, performance, transactions, and fees.

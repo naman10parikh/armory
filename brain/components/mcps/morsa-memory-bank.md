@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-21T08:41:31Z"
 ---
 ## What it is
 MCP server `Morsa Memory Bank`, catalogued on PulseMCP. Memory bank integration for the Morsa.io platform.

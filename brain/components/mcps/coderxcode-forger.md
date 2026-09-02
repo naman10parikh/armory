@@ -8,10 +8,12 @@ source_url: https://github.com/coderxcode/mcp-forger
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T18:11:55Z"
 ---
 ## What it is
 MCP server `Forger`, catalogued on PulseMCP. Converts existing applications into MCP servers by analyzing OpenAPI specs, GitHub repos, live URLs, or raw code.

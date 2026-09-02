@@ -8,10 +8,12 @@ source_url: https://github.com/jxnl/python-apple-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-29T18:04:57Z"
 ---
 ## What it is
 MCP server `Apple macOS Native Applications`, catalogued on PulseMCP. Enables AI interaction with macOS native applications through AppleScript for tasks like managing contacts, notes, emails, reminders, calendar events, and maps navigation

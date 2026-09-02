@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T15:30:17Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that lets Claude AI manage a real PostgreSQL inventory database using natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 35
+pushed_at: "2026-08-28T15:02:29Z"
 ---
 ## What it is
 A metadata-driven MCP server that auto-generates 480+ tools across 160+ ServiceNow tables, with multi-instance support, natural language search, and local script development.

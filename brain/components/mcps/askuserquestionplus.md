@@ -8,11 +8,13 @@ source_url: https://github.com/JoJoJotarou/AskUserQuestionPlus
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-05T15:13:50Z"
 ---
 ## What it is
 An MCP server that enables LLMs to ask users questions through a web interface with keyboard shortcuts, supporting single/multiple choice and custom input.

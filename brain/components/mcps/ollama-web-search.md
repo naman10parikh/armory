@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T06:55:06Z"
 ---
 ## What it is
 Enables web search and web fetch operations using Ollama's hosted APIs, allowing MCP clients to search the web and retrieve page content.

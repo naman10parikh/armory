@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T01:21:22Z"
 ---
 ## What it is
 MCP server that fetches YouTube video transcripts and creates Notion pages with summaries. Enables Claude Desktop to summarize videos and save them to Notion.

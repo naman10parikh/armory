@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-09T21:54:58Z"
 ---
 ## What it is
 MCP server `AgentTrust`, catalogued on PulseMCP. Trust layer for autonomous agents with A2A communication, cryptographic identity, and prompt injection detection.

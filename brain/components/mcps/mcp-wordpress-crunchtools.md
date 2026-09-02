@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T22:24:51Z"
 ---
 ## What it is
 A secure MCP server for WordPress content management, enabling posts, pages, media, and comment operations through natural language.

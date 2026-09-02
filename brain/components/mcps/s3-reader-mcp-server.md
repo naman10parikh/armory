@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T10:12:20Z"
 ---
 ## What it is
 Read-only MCP server for browsing and reading S3 objects, with tools for listing buckets/objects, reading text and binary files, and extracting text from PDFs.

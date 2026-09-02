@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-16T20:55:04Z"
 ---
 ## What it is
 MCP server `.NET Coverage`, catalogued on PulseMCP. .NET test coverage: run tests, parse Cobertura reports, find uncovered branches, and append tests.

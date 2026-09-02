@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-08T07:46:39Z"
 ---
 ## What it is
 An experimental MCP server demonstrating remote calls via FastAPI, supporting ping-pong commands through API endpoints and SSE transport.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T11:12:45Z"
 ---
 ## What it is
 Enables interaction with Tripo Studio for 3D model generation, management, and post-processing through natural language, with safety features to prevent duplicate charges.

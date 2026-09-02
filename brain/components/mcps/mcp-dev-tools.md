@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-25T15:41:52Z"
 ---
 ## What it is
 Integrates AI into software development workflows by providing three MCP tools: code review checklists, conventional commit message generation, and API documentation formatting from docstrings. Connects to Claude Desktop and any MCP-compatible client.

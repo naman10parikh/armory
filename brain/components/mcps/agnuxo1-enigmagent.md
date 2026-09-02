@@ -8,10 +8,12 @@ source_url: https://github.com/agnuxo1/enigmagent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-05T10:11:30Z"
 ---
 ## What it is
 MCP server `EnigmAgent`, catalogued on PulseMCP. AES-256-GCM encrypted credential vault for AI agents with placeholder-based secret injection.

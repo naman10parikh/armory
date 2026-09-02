@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, location-services]
 stars: 1
+forks: 0
+pushed_at: "2026-04-27T01:16:11Z"
 ---
 ## What it is
 GPS coordinates to AI-ready location context — returns place name, stable category (gym, supermarket, restaurant…), and live opening hours via OpenStreetMap. Works in Claude Desktop, Claude Code, Hermes Agent, OpenClaw, and any MCP client.

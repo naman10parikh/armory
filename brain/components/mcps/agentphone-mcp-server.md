@@ -8,11 +8,13 @@ source_url: https://github.com/AgentPhone-AI/agentphone-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 116
+stars: 121
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-08-29T03:14:20Z"
 ---
 ## What it is
 Enables AI agents to manage phone numbers, send/receive SMS, and place voice calls through natural language, connecting to the phone network via the AgentPhone API.

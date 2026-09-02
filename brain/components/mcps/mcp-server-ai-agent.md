@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T01:08:36Z"
 ---
 ## What it is
 A Python MCP server with JWT authentication and sample tools (weather + Bitcoin price), plus an AI agent that uses OpenAI to reason about and call those tools.

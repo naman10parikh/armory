@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-09-11T09:29:31Z"
 ---
 ## What it is
 Provides AI assistants with secure git access to ShadowGit repositories, enabling session-based commit management for clean, organized commits during AI-assisted development.

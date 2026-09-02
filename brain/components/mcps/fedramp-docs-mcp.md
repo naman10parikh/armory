@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T15:00:00Z"
 ---
 ## What it is
 An unofficial MCP server that exposes public FedRAMP 20x documentation as deterministic, citable lookup tools for AI assistants, with every response citing the exact upstream source.

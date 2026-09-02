@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-06T06:47:43Z"
 ---
 ## What it is
 MCP server `Handbook`, catalogued on PulseMCP. Manage handbook entries via CRUD operations, overview, and tag search through the Handbook API.

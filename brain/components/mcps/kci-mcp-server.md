@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T03:45:36Z"
 ---
 ## What it is
 Enables querying the Korea Citation Index (KCI) Open API to search reference lists, retrieve journal citation indices, and view citation detail history for Korean academic journals.

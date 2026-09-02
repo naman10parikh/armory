@@ -8,10 +8,12 @@ source_url: https://github.com/gongrzhe/travel-planner-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 98
+stars: 99
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2025-03-12T10:55:44Z"
 ---
 ## What it is
 MCP server `Google Maps (Travel Planner)`, catalogued on PulseMCP. Integrates with Google Maps to enable AI-driven travel planning, itinerary optimization, and location-based services for automated trip management.

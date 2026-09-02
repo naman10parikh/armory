@@ -8,11 +8,13 @@ source_url: https://github.com/Haleclipse/CCometixLine
 license: NOT_FOUND
 cli_compat: [claude]
 maturity: experimental
-stars: 3449
+stars: 3456
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [awesome-claude-code, status-lines]
+forks: 215
+pushed_at: "2026-03-14T18:03:04Z"
 ---
 ## What it is
 A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities.

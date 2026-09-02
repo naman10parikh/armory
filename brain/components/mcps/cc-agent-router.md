@@ -8,11 +8,13 @@ source_url: https://github.com/CjQkJ/cc-agent-router
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T11:25:23Z"
 ---
 ## What it is
 Routes Claude Code tasks to different AI roles with separate APIs, keys, and models while preserving existing MCP, skills, and project settings.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
 stars: 14
+forks: 3
+pushed_at: "2026-02-25T02:41:48Z"
 ---
 ## What it is
 CLI that detects dead `.claude/rules/` files by checking if `paths:` globs actually match files in your repo. Catches silent rule failures where renamed directories or typos in glob patterns cause rules to never apply. Features CI mode (exit 1 on dead rules), JSON output, and verbose mode showing matched files.

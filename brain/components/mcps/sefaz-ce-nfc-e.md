@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:05Z"
 ---
 ## What it is
 Read-only MCP server for querying official SEFAZ CE NFC-e (Brazilian electronic invoice) data through a single hosted tool, with prepaid per-use pricing.

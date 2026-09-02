@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:08:35Z"
 ---
 ## What it is
 MCP server that generates fortune context packs based on Saju, Zi Wei Dou Shu, and Western astrology for AI interpretation, enabling reflective entertainment and structured self-counseling in KakaoTalk conversations.

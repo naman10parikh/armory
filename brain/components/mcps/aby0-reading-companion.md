@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-05T05:19:09Z"
 ---
 ## What it is
 MCP server `Reading Companion`, catalogued on PulseMCP. A 4-stage reading companion that guides users through structured interviews to discover preferences, generates curated book recommendations with thoughtful sequencing, and maintains detailed progress tracking with reflective logging stored locally in markdown format.

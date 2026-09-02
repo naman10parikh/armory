@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-04-21T22:04:35Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. Provides secure read-only access to PostgreSQL databases for executing SQL queries and retrieving schema information.

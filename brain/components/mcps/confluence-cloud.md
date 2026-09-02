@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-26T17:20:41Z"
 ---
 ## What it is
 MCP server `Confluence Cloud`, catalogued on PulseMCP. Integrates with Confluence Cloud to enable listing, creating, and analyzing organizational knowledge stored in spaces and documents using secure API token authentication.

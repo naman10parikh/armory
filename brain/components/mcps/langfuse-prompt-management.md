@@ -8,10 +8,12 @@ source_url: https://github.com/langfuse/mcp-server-langfuse
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 167
+stars: 173
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 35
+pushed_at: "2025-02-16T14:03:25Z"
 ---
 ## What it is
 MCP server `Langfuse Prompt Management`, catalogued on PulseMCP. Manages prompts in Langfuse with version control, label management, and support for both text and chat prompt formats.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T14:33:34Z"
 ---
 ## What it is
 Integrates with Zotero's local API to search, retrieve, read PDFs, and add items by DOI from your Zotero library.

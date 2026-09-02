@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T21:20:34Z"
 ---
 ## What it is
 Efficiently loads, caches, and delivers project file context for AI agents using the Model Context Protocol, reducing multiple file reads to a single call with LRU caching and security validation.

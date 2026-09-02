@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-03-10T10:22:47Z"
 ---
 ## What it is
 MCP server for Google Workspace APIs - Docs, Sheets, Drive, Gmail, and Calendar. Enables reading, creating, and editing Google Docs and Sheets, managing comments, reading emails, and viewing calendar events.

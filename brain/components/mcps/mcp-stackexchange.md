@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:43:18Z"
 ---
 ## What it is
 Wraps the StackExchange API v2.3 to enable reading StackExchange data (questions, answers, etc.) without authentication. Allows AI agents to query StackExchange content through natural language or direct tool calls.

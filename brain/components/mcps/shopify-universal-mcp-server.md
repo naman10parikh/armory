@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T05:35:23Z"
 ---
 ## What it is
 Provides a standardized MCP interface for interacting with Shopify tools and services, enabling unified API access and compatibility with MCP-compliant clients.

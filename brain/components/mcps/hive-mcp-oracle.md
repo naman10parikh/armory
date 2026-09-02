@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T01:27:29Z"
 ---
 ## What it is
 Price feeds, TWAPs, and oracle service for autonomous agent settlement.

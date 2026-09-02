@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T09:40:20Z"
 ---
 ## What it is
 An MCP server for small-scale iOS app development, providing safe Git/GitHub operations like release preparation, hotfixes, and PR creation with dry-run support.

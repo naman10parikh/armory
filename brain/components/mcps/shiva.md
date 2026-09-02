@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T09:11:37Z"
 ---
 ## What it is
 An MCP server that enables invoking an abliterated model from Claude.ai to receive unfiltered, brutally honest feedback and hard truths.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-31T06:58:47Z"
 ---
 ## What it is
 Enables AI agents to send notifications and media (text, photos, documents, videos) via a Telegram bot.

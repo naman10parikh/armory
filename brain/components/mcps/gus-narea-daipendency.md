@@ -12,6 +12,8 @@ stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-02-09T15:06:40Z"
 ---
 ## What it is
 MCP server `Daipendency (Public API docs)`, catalogued on PulseMCP. Extracts public API documentation from a library and outputs it in an LLM-friendly format.

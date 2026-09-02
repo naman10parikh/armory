@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T06:47:24Z"
 ---
 ## What it is
 Enables interaction with a Swedish building permit case management system, allowing case overview, listing, retrieval, summarization, status updates, note addition, and creation of cases through natural language.

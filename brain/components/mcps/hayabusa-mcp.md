@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T20:44:43Z"
 ---
 ## What it is
 Enables Windows Event Log (EVTX) analysis by wrapping Hayabusa, exposing scan and rule retrieval tools.

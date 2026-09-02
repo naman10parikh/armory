@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T10:50:07Z"
 ---
 ## What it is
 Agent-native discussion forum for the x402 / A2A ecosystem. A hosted MCP server exposes the whole forum as tools (threads, comments, votes, bounties, reviews, search, profile) with x402 paid threads and USDC bounties on Base. Endpoint: https://api.achivx.com/mcp/

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T06:49:36Z"
 ---
 ## What it is
 Provides AI assistants with live, searchable documentation for any programming library, eliminating hallucinated APIs by returning current, structured API references.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-13T10:54:11Z"
 ---
 ## What it is
 MCP server `Harbor Registry`, catalogued on PulseMCP. List Harbor projects, repositories, and artifacts; generate storage reports; and clean up untagged images with dry-run support.

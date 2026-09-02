@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-10T07:52:31Z"
 ---
 ## What it is
 MCP server for searching Japanese government procurement notices via the Kanpou API. Enables LLMs to search by date, keyword, or detailed criteria.

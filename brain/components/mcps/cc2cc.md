@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-28T14:14:05Z"
 ---
 ## What it is
 Enables file-based agent-to-agent communication between Claude Code instances on the same machine, using MCP channels and plain JSON files.

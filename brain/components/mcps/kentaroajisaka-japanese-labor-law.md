@@ -8,10 +8,12 @@ source_url: https://github.com/kentaroajisaka/labor-law-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-03-03T10:36:21Z"
 ---
 ## What it is
 MCP server `Japanese Labor Law`, catalogued on PulseMCP. Retrieves Japanese labor and social insurance laws, MHLW administrative notices, and JAISH safety regulations from government databases.

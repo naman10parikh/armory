@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T16:04:56Z"
 ---
 ## What it is
 MCP server `Junipr Web Scraper`, catalogued on PulseMCP. Apify-hosted web scraper with full page scraping, targeted extraction, web search, and link analysis via SSE transport.

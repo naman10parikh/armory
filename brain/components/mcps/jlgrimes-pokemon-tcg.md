@@ -8,10 +8,12 @@ source_url: https://github.com/jlgrimes/ptcg-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-08T22:17:11Z"
 ---
 ## What it is
 MCP server `Pokemon TCG Card Search`, catalogued on PulseMCP. Enables searching and displaying Pokemon Trading Card Game cards with rich filtering capabilities for name, type, legality, and more through the Pokemon TCG API.

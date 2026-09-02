@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T00:52:10Z"
 ---
 ## What it is
 Enables Claude to intelligently organize files by scanning folders, detecting duplicates, suggesting meaningful names, and moving files into logical folders.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T05:24:21Z"
 ---
 ## What it is
 MCP server that provides web search and web page content extraction tools using Tavily's API, enabling agents to retrieve current information from the web.

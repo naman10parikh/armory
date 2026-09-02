@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-14T06:01:59Z"
 ---
 ## What it is
 MCP server `OpenCode SSH`, catalogued on PulseMCP. Manages SSH remote servers for AI agents by parsing SSH config files and maintaining persistent connections.

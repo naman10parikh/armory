@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T18:21:34Z"
 ---
 ## What it is
 Audits dbt Core projects for migration blockers and generates actionable guidance for migrating to dbt Cloud, including auto-fixing deprecated syntax.

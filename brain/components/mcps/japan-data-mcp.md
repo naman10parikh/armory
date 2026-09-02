@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T11:13:58Z"
 ---
 ## What it is
 Enables AI agents to query Japanese public data (laws, corporations, statistics) from official government APIs, returning normalized English metadata with source attribution.

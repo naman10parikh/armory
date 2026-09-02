@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-07T23:01:35Z"
 ---
 ## What it is
 MCP server for Mercury Banking API that enables listing accounts and retrieving transactions via natural language.

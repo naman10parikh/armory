@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T05:35:16Z"
 ---
 ## What it is
 Enables Claude to query and manage home-care operations including clients, visits, and compliance, with schema-validated write tools and a tamper-evident audit log.

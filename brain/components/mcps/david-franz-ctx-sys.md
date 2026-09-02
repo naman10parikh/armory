@@ -8,10 +8,12 @@ source_url: https://github.com/david-franz/ctx-sys
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-05-29T11:27:32Z"
 ---
 ## What it is
 MCP server `ctx-sys`, catalogued on PulseMCP. Knowledge graphs from codebases using AST parsing and semantic embeddings with vector, graph, and full-text search.

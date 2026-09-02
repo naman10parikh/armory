@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T07:54:54Z"
 ---
 ## What it is
 Unified MCP server providing business data APIs for Indian users, orders, and business metrics, deployable via Vercel.

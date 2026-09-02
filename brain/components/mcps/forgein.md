@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T21:17:54Z"
 ---
 ## What it is
 Persistent context layer for AI coding assistants. Sync memory files from Claude Code to ChatGPT, Gemini, Cursor, Windsurf, and Copilot via a native MCP endpoint. Bearer token auth, JSON-RPC 2.0 over stateless HTTP. Free tier available.

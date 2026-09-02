@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T15:36:57Z"
 ---
 ## What it is
 An MCP server that enables AI agents to drive Zephyr for Jira (Server/Data Center) test management via ZAPI. It exposes operations for test cycles, folders, executions, test steps, step results, and ZQL search over stdio for use with any MCP client.

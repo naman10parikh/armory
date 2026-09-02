@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-09T21:11:39Z"
 ---
 ## What it is
 Indexes codebases using semantic embeddings for natural language search, enabling developers to find code with queries like 'how does authentication work'.

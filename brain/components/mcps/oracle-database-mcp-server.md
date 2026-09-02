@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T08:02:39Z"
 ---
 ## What it is
 A production-grade MCP server for Oracle database interaction, providing 11 tools for full CRUD, transactions, execution plans, and comprehensive safety guardrails.

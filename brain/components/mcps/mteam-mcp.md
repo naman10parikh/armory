@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T11:16:04Z"
 ---
 ## What it is
 MCP server for M-Team that enables seed search, detail viewing, and .torrent file download through standard stdio MCP, designed for Hermes Agent.

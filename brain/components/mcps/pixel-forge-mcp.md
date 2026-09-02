@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T11:17:52Z"
 ---
 ## What it is
 Enables creating and editing pixel art through an MCP interface, with a live browser editor and WebSocket bridge for real-time updates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T23:57:05Z"
 ---
 ## What it is
 MCP server for ticketing automation that exposes tools to create, search, and update IT helpdesk tickets, with metrics tracking.

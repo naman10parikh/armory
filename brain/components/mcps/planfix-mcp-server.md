@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-07-16T23:11:47Z"
 ---
 ## What it is
 Enables integration with Planfix CRM and task management system, allowing lead management, contact/company management, task creation/search/commenting, and report generation via the Planfix REST API v2.0.

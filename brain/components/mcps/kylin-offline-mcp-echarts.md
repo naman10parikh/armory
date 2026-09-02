@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T02:03:41Z"
 ---
 ## What it is
 An MCP server for generating offline charts using Apache ECharts SVG SSR and rsvg-convert, optimized for Kylin ARM64 with 64KB page size.

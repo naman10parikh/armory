@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T11:28:55Z"
 ---
 ## What it is
 Calculates soil moisture index (SMI) from ERA5-Land data, providing MCP tools to fetch and extract point time series.

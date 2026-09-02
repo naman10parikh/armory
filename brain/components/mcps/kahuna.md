@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T08:26:16Z"
 ---
 ## What it is
 A persistent memory MCP server for AI copilots that automatically surfaces relevant context across sessions, projects, and teams, eliminating the need to repeat information.

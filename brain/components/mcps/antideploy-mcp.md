@@ -8,11 +8,13 @@ source_url: https://github.com/antideploy/antideploy-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T09:04:34Z"
 ---
 ## What it is
 Deploys applications from coding agents to Antideploy, handling packaging, environment variables, and asynchronous deployment without Dockerfiles or cloud consoles.

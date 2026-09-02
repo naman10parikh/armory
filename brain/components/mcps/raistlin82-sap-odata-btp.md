@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-09-25T08:40:16Z"
 ---
 ## What it is
 MCP server `SAP OData (BTP) - Optimized`, catalogued on PulseMCP. Enterprise-enhanced SAP OData integration with modular authentication and Cloud Foundry deployment

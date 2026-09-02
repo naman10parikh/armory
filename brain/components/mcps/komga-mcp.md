@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T14:18:45Z"
 ---
 ## What it is
 A read-only MCP server that exposes Komga reading data via Streamable HTTP, providing tools for searching comics, listing unread series, and tracking reading progress.

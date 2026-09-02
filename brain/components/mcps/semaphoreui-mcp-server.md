@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-20T19:38:36Z"
 ---
 ## What it is
 Enables AI assistants to interact with SemaphoreUI for managing and running Ansible automation tasks through natural language commands.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-14T17:03:16Z"
 ---
 ## What it is
 MCP server `AsQu`, catalogued on PulseMCP. Async question queue for Claude Code and other agents, providing a desktop UI where questions accumulate so users can answer at their own pace without blocking agent execution.

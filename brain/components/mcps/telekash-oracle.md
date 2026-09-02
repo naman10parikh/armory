@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T16:13:58Z"
 ---
 ## What it is
 MCP server `TeleKash Oracle`, catalogued on PulseMCP. Aggregates prediction market probabilities from Kalshi, Polymarket, and Metaculus across 500+ markets.

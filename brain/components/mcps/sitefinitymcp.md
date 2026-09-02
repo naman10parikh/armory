@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T22:41:02Z"
 ---
 ## What it is
 Enables AI clients to read and query content from a Progress Sitefinity CMS instance via its OData API. Tools are dynamically generated from the live service metadata, supporting filtering, searching, and navigation across content types.

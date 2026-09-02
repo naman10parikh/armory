@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T16:02:39Z"
 ---
 ## What it is
 Security-hardened MCP server for interacting with X.com (Twitter), with a fix to prevent sensitive tweet content from being logged to stderr.

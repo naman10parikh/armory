@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T21:43:20Z"
 ---
 ## What it is
 A read-only MCP server for querying PostgreSQL databases. It exposes a tool that runs SELECT queries and returns results to the agent.

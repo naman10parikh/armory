@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T06:54:09Z"
 ---
 ## What it is
 A Python-based MCP server that exposes SQLite database CRUD and search operations on Users, Products, and Orders as tools for AI clients like Claude Desktop.

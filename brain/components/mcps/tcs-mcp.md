@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T06:42:41Z"
 ---
 ## What it is
 MCP server to operate Fujitsu Technical Computing Suite (TCS/PJM) on Kyushu University's supercomputer 'Genkai' from MCP clients like Codex, supporting direct and SSH modes for job submission, monitoring, and file operations.

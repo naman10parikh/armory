@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T20:51:09Z"
 ---
 ## What it is
 Autonomous competitive intelligence tracking competitors across LinkedIn, news, reviews, job postings, and regulatory signals, generating executive briefs and sales battlecards.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T14:08:40Z"
 ---
 ## What it is
 An MCP server for Microweber sites that wraps the existing HTTP API to manage content (pages, posts, products) and media without installing any plugin. It uses admin credentials and handles session + CSRF authentication automatically.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T18:41:31Z"
 ---
 ## What it is
 Enables Claude to read, analyze, and write directly to local Power BI semantic models and Excel workbooks without exporting to the cloud.

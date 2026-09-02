@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T08:58:24Z"
 ---
 ## What it is
 MCP server for Hacker News that enables AI agents to search stories, read comments, and track tech trends via the public Hacker News API and Algolia HN Search.

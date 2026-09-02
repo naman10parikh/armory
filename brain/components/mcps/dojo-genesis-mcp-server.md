@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T22:45:09Z"
 ---
 ## What it is
 An MCP server that provides Claude Code with 99 methodology skills, seed patterns, decision logging, and memory tools to improve software development decisions. It acts as a cognitive scaffold layer, enabling better working methods rather than just additional data.

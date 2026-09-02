@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T22:28:05Z"
 ---
 ## What it is
 MCP server `Agent Revenue Copilot`, catalogued on PulseMCP. Audit tool for legal AI agent revenue routes, x402 monetization, and payout verification.

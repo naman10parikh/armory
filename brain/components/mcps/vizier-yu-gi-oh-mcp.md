@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:55:54Z"
 ---
 ## What it is
 MCP server for Yu-Gi-Oh! card data, providing cards, prices, banlists, rules, rulings, relations, and deck tools via a local SQLite database with semantic search.

@@ -8,10 +8,12 @@ source_url: https://github.com/layervai/qurl-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T23:01:30Z"
 ---
 ## What it is
 MCP server `qURL`, catalogued on PulseMCP. Creates and manages qURL secure links for AI agents with generation, resolution, and lifecycle management tools.

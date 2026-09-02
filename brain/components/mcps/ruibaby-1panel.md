@@ -8,10 +8,12 @@ source_url: https://github.com/ruibaby/1panel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-09T04:58:11Z"
 ---
 ## What it is
 MCP server `1Panel Deployment`, catalogued on PulseMCP. Automates website deployment to 1Panel servers by creating static sites, uploading build files, and providing deployment statistics through a Node.js Express interface.

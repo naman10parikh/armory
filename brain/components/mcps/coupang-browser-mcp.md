@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T06:15:41Z"
 ---
 ## What it is
 Personal-use MCP server that searches Coupang through your own Chrome browser, enabling product search, detail, reviews, orders, cart, and checkout preview without API keys.

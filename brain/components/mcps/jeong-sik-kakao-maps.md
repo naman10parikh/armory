@@ -8,10 +8,12 @@ source_url: https://github.com/jeong-sik/kakao-api-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-03T05:55:21Z"
 ---
 ## What it is
 MCP server `Kakao Maps`, catalogued on PulseMCP. Integrates with Kakao Maps API to provide location-based services including geolocation, address lookup, and map functionality for conversational interfaces

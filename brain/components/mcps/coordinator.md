@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T18:11:48Z"
 ---
 ## What it is
 Enables multiple Claude Code sessions to communicate, share state, and coordinate tasks through session management, message passing, and task scheduling, supporting a three-role collaboration workflow.

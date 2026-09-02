@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T00:43:04Z"
 ---
 ## What it is
 Extracts structured incident analysis from raw communication logs, classifying events by NIST SP 800-61 phases with severity assessment and responder metrics.

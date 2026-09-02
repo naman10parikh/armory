@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T13:34:41Z"
 ---
 ## What it is
 Self-hosted, ban-safe MCP server for LinkedIn that provides 22 tools for profiles, search, jobs, posts, connections, and messages. Integrates with any MCP-compatible client like Claude Desktop.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:22:17Z"
 ---
 ## What it is
 MCP server `Meteors`, catalogued on PulseMCP. Query NASA fireball and meteor impact event data via the NASA Fireball API.

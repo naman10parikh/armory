@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T10:21:52Z"
 ---
 ## What it is
 Read-only MCP server for MongoDB ERP analytics with catalog-driven collection allowlist and safe find/aggregate tools.

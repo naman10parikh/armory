@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-14T12:20:03Z"
 ---
 ## What it is
 提供免费网络搜索和智能摘要功能的MCP服务器，使用DuckDuckGo API和客户端语言模型生成搜索结果摘要。

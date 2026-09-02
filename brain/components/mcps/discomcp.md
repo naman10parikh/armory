@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T15:44:10Z"
 ---
 ## What it is
 Teach any AI agent how you use an MCP server – Soft-Landing to your AI integrations

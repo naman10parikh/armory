@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-28T12:00:02Z"
 ---
 ## What it is
 A plug-and-play MCP memory server with pluggable database backends that gives AI coding agents a persistent, shared knowledge graph for teams.

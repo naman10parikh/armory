@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-27T06:51:49Z"
 ---
 ## What it is
 Enables PDF file manipulation including merging, splitting, extracting pages, extracting text, excluding pages, and reordering pages.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:30:53Z"
 ---
 ## What it is
 MCP server `OpenStreetMap Overpass`, catalogued on PulseMCP. OpenStreetMap Overpass API for programmatic queries against the global OSM geographic database via Pipeworx.

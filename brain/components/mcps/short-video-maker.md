@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T19:56:39Z"
 ---
 ## What it is
 Automated short-form video creation from text prompts, combining text-to-speech, captions, background videos, and music, exposed as an MCP server for AI agents.

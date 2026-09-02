@@ -8,10 +8,12 @@ source_url: https://github.com/vishisht16/humane-proxy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2026-07-29T13:16:41Z"
 ---
 ## What it is
 MCP server `Humane Proxy`, catalogued on PulseMCP. AI safety middleware that detects self-harm and criminal intent in LLM prompts.

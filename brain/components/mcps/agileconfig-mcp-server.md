@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T01:20:36Z"
 ---
 ## What it is
 MCP server that exposes all AgileConfig RESTful APIs as tools, enabling AI assistants to manage configuration, applications, users, nodes, and more via natural language.

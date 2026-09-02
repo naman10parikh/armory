@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T22:16:10Z"
 ---
 ## What it is
 Enables AI assistants to build, drive, and observe Android/KMM apps end-to-end through ADB and Gradle, with tools for UI automation, error capture, and testing.

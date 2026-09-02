@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T10:59:25Z"
 ---
 ## What it is
 A local MCP daemon that turns an agentic coding client into a bug bounty operator, with 103 tools for offensive security testing including MITM proxy, traffic analysis, and OOB callbacks.

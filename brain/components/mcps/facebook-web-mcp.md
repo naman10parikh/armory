@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T12:26:25Z"
 ---
 ## What it is
 A local MCP server that lets Claude use your Facebook account through the normal website in a real Chrome window, with read-only tools and staged, confirmable write actions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T05:30:13Z"
 ---
 ## What it is
 A read-only MCP server that detects scam indicators in transaction and part-time job postings, returning a risk score and evidence.

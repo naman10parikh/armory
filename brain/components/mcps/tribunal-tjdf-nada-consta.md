@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:35Z"
 ---
 ## What it is
 MCP server for consulting official 'nada consta' certificates from Tribunal TJDF. It is hosted, read-only, and works with any MCP client over HTTP via prepaid credits.

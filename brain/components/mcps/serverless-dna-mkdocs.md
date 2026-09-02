@@ -8,10 +8,12 @@ source_url: https://github.com/serverless-dna/mkdocs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-11-11T11:54:30Z"
 ---
 ## What it is
 MCP server `MkDocs Search`, catalogued on PulseMCP. Enables AI to search and retrieve content from MkDocs documentation sites by leveraging existing Lunr.js indexes and converting HTML to markdown for seamless integration.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-08T10:32:33Z"
 ---
 ## What it is
 MCP server `Poker Win Calculator`, catalogued on PulseMCP. Calculates poker hand win probabilities through Monte Carlo simulations, providing strategic action recommendations based on statistical analysis of possible outcomes.

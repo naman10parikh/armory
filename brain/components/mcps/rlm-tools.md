@@ -8,10 +8,12 @@ source_url: https://github.com/stefanoshea/rlm-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-13T04:54:52Z"
 ---
 ## What it is
 MCP server `RLM Tools`, catalogued on PulseMCP. Persistent Python sandbox for codebase exploration.

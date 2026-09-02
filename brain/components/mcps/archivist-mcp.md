@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T15:53:58Z"
 ---
 ## What it is
 A self-hosted MCP server that provides Claude with a git-versioned document vault, featuring dataset-based access control with keys, OAuth authentication via GitHub, and automatic commits on every write.

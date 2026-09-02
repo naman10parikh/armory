@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:03:59Z"
 ---
 ## What it is
 Provides AI agents with live access to a global directory of consumer and business banks, including community-rated scores across categories like customer service, fees, digital experience, and crypto friendliness, enabling grounded answers to banking questions.

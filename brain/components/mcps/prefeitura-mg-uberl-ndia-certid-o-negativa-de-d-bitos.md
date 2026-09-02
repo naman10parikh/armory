@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:41Z"
 ---
 ## What it is
 MCP server for querying official negative debt certificates from Uberlândia, MG, Brazil via a single read-only tool, pay-per-use with prepaid credits.

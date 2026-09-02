@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T05:42:22Z"
 ---
 ## What it is
 An MCP server for COMSOL Multiphysics that enables AI agents to perform flexible pressure sensor simulation, including DXF analysis, contact model building, parameter sweeping, and result export using natural language.

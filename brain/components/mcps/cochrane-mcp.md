@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-29T23:09:45Z"
 ---
 ## What it is
 Turns the Cochrane Library into a tool for AI agents to search and retrieve clinical evidence, including systematic reviews, trials, and plain-language summaries.

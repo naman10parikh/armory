@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T21:31:26Z"
 ---
 ## What it is
 Integrates TaskMarket into MCP-compatible agents, enabling task discovery, details, and submission with secure API key handling.

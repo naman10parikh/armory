@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T12:59:34Z"
 ---
 ## What it is
 MCP server exposing a medical knowledge graph (289 Western drugs, 204 TCM drugs, diseases, symptoms) as MCP tools. Enables AI agents to search drugs, check drug compatibility, and query symptoms-to-medication recommendations locally.

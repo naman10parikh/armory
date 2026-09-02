@@ -8,11 +8,13 @@ source_url: https://github.com/mrnh/rigor
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T18:02:13Z"
 ---
 ## What it is
 Provides verified statistical inference and hypothesis testing tools, including t-tests, effect sizes, power analysis, and multiple comparisons correction, with assumption checks and citations.

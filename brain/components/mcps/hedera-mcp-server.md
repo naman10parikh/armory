@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-05T12:36:19Z"
 ---
 ## What it is
 Integrates with a Langchain wrapper to interact with the Hedera network via natural language commands.

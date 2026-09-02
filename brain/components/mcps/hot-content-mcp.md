@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-18T08:41:44Z"
 ---
 ## What it is
 Provides Baidu hot search and Bilibili trending video data for Claude and Cherry Studio, supporting retrieval, search, and cache management.

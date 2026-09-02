@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T09:14:15Z"
 ---
 ## What it is
 Exposes the catalog of Supermercados Kawakami (Paraguaçu Paulista/SP) as tools for MCP clients, enabling product search, offers, cart and list management.

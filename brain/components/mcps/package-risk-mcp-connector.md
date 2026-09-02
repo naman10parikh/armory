@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T08:17:11Z"
 ---
 ## What it is
 Provides MCP tools to check a package's maintenance status, licence, and security advisories before you depend on it, with per-call payment in USDC on Base mainnet via x402.

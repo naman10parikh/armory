@@ -8,10 +8,12 @@ source_url: https://github.com/austenstone/myinstants-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-17T03:55:03Z"
 ---
 ## What it is
 MCP server `MyInstants Soundboard`, catalogued on PulseMCP. Connects to myinstants.com to search, browse, and play millions of meme sounds through local audio players with category browsing and trending sound discovery.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T19:27:40Z"
 ---
 ## What it is
 MCP server that gives AI assistants a secure gVisor-isolated sandbox to run Python or JavaScript code, returning stdout, stderr, and exit codes without local access.

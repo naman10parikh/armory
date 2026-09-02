@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T13:51:19Z"
 ---
 ## What it is
 Enables OpenAI Codex to consult Claude Code for co-analysis, adversarial second opinions, and read-only file review over the Model Context Protocol, with Claude remaining advisory and unable to modify files.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T12:33:54Z"
 ---
 ## What it is
 Provides policy-driven runtime authorization and security evaluation for MCP-based agents, including MCP streaming HTTP gateway, mock MCP servers, deterministic agent demos, and audited tool invocation with redacted PostgreSQL audit chains.

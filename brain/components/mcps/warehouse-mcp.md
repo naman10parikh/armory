@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T21:31:38Z"
 ---
 ## What it is
 Production MCP server for data warehouses with read-only enforcement, five-tier role-based access, audit logging, PII masking, and optional semantic metadata layer.

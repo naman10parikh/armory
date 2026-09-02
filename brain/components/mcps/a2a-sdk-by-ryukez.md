@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, general-purpose-implementations]
+forks: 1
+pushed_at: "2025-06-12T11:56:50Z"
 ---
 ## What it is
 A2A (Agent-to-Agent) SDK sample for Node.js

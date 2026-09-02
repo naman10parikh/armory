@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T11:52:38Z"
 ---
 ## What it is
 MCP server that gives AI agents persistent, tenant-scoped memory with semantic search and consolidation, using CockroachDB vector indexes and Amazon Bedrock embeddings.

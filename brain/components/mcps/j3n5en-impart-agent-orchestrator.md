@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-20T09:56:06Z"
 ---
 ## What it is
 MCP server `Impart Agent Orchestrator`, catalogued on PulseMCP. Orchestrates Claude Code, Codex CLI, and Gemini CLI as specialized expert agents through synchronous, asynchronous, and batch execution modes.

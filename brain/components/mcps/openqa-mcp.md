@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T03:37:20Z"
 ---
 ## What it is
 Enables interaction with openQA instances through the REST API, offering read tools for jobs, machines, and test suites, as well as mutating tools like restart and cancel with optional authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T02:15:22Z"
 ---
 ## What it is
 Enables Excel automation via xlwings COM, supporting DRM-protected files and live Excel sessions with tools to read, write, format, run macros, and more.

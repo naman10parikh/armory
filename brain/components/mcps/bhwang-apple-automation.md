@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-26T07:51:14Z"
 ---
 ## What it is
 MCP server `Apple Automation`, catalogued on PulseMCP. Provides a lightweight macOS application control server for managing Spotify playback and iTerm interactions using AppleScript-based system commands.

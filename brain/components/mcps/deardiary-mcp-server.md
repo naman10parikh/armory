@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T03:45:47Z"
 ---
 ## What it is
 A read-only MCP server that gives AI access to a local journal vault of transcribed handwritten diaries, offering tools to search entries, read them, and retrieve profile, timeline, and people information.

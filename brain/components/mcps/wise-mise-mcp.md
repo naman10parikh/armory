@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-06T04:36:26Z"
 ---
 ## What it is
 AI-powered MCP server that analyzes project structures to create optimized task architectures for mise, enabling intelligent task management, dependency mapping, and automated task suggestions.

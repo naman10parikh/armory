@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-28T20:04:18Z"
 ---
 ## What it is
 MCP server that indexes your codebase's public API at startup and serves it via compact tool responses, saving tokens vs reading source files.

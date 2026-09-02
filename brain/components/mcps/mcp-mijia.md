@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-10T17:20:58Z"
 ---
 ## What it is
 Enables AI assistants to control Xiaomi Mi Home smart devices through natural language, supporting device listing, property control, actions, and scenes.

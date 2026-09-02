@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T21:49:36Z"
 ---
 ## What it is
 MCP server `Chemical Safety`, catalogued on PulseMCP. Free chemical hazard lookup across 468K classifications: SVHC restricted substances, GHS labeling, NIOSH occupational limits, and ICSC safety cards.

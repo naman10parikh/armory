@@ -8,11 +8,13 @@ source_url: https://github.com/erivgout/sc2-map-editor-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T18:53:17Z"
 ---
 ## What it is
 An MCP server for inspecting and editing StarCraft II maps and mods directly, enabling file-level manipulation of map components, triggers, scripts, and more without the Galaxy Editor UI.

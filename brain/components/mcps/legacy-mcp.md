@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T23:11:08Z"
 ---
 ## What it is
 Wraps a legacy SOAP + stored-procedure backend with governed MCP tools, including a semantic data dictionary, compensation for transactionless writes, and load protection, enabling AI agents to safely operate on enterprise systems.

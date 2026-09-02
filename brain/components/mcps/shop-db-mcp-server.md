@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:04:05Z"
 ---
 ## What it is
 Gives AI agents read-only analytical access to an e-commerce SQLite database (customers, orders, order_items, products) via SQL queries, table listing, and schema inspection.

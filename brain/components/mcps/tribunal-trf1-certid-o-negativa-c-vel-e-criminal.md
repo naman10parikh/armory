@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:51Z"
 ---
 ## What it is
 Consulta certidões negativas cíveis e criminais do TRF1 em fonte oficial, por meio de uma ferramenta de leitura.

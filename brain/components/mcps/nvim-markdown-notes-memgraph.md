@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T21:54:07Z"
 ---
 ## What it is
 Enables AI assistants to query and interact with a graph database of markdown notes, extracting entities like wikilinks, mentions, and hashtags.

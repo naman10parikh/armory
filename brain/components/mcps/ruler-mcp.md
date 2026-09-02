@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T20:59:40Z"
 ---
 ## What it is
 MCP server for reading, aggregating, suggesting, and applying price rules (floors) from ActiveView with a confirmation flow, designed for AI agents to analyze and adjust monetization.

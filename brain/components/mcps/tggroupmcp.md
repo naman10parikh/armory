@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T13:07:48Z"
 ---
 ## What it is
 Enables interaction with Telegram groups via MTProto, including message retrieval, sending, and semantic search with RAG support.

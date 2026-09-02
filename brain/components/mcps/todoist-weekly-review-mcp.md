@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T00:25:36Z"
 ---
 ## What it is
 Enables a weekly review of Todoist tasks by listing overdue tasks with key signals (days overdue, priority, times postponed) and letting Claude propose fixes per task, which you approve or veto in chat before any changes are applied.

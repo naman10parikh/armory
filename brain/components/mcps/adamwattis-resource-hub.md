@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-21T15:07:54Z"
 ---
 ## What it is
 MCP server `Resource Hub`, catalogued on PulseMCP. Centralizes shared tools and configurations for MCP environments, enabling consistent resource access across teams and projects.

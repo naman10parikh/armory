@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T11:16:12Z"
 ---
 ## What it is
 Wraps AWS Comprehend for PII detection and redaction, allowing users to upload files and remove PII via natural language in Claude Desktop.

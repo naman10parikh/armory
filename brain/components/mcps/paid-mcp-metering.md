@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:30:21Z"
 ---
 ## What it is
 Provides free MCP-based tool discovery and per-call paid execution of live web search and deep research tools, with USDC settlement via x402 v2.

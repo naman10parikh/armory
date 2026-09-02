@@ -8,10 +8,12 @@ source_url: https://github.com/zebbern/zebbern-kali-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-09-02T01:22:51Z"
 ---
 ## What it is
 MCP server `Zebbern Kali`, catalogued on PulseMCP. Provides access to Kali Linux penetration testing tools through a Flask API, enabling reconnaissance, web security testing, Active Directory attacks, and exploitation framework operations.

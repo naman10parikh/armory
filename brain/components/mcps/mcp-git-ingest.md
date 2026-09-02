@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:23:10Z"
 ---
 ## What it is
 MCP server that reads GitHub repository structures and important files, enabling exploration and analysis of codebases.

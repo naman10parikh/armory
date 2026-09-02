@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T13:48:47Z"
 ---
 ## What it is
 Enables semantic search over personal files using natural language, with optional AI summarization, all running locally.

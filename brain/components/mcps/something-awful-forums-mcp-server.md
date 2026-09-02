@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T13:39:54Z"
 ---
 ## What it is
 An MCP server that connects to Something Awful Forums using your account credentials. It enables Claude to browse threads, read posts, search forums, look up users, and manage private messages.

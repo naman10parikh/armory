@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T00:46:04Z"
 ---
 ## What it is
 A local MCP server for public Reserve Bank of Australia data, exposing six read-only tools backed by the R package readrba.

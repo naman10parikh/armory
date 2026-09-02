@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T19:51:49Z"
 ---
 ## What it is
 MCP server for managing Nextcloud Tasks (todos) via CalDAV, allowing Claude to view, add, complete, edit, and delete tasks with GitHub OAuth authentication.

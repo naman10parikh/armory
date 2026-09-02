@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-23T09:59:14Z"
 ---
 ## What it is
 MCP server `CAIT`, catalogued on PulseMCP. Modular MCP server with 37 tools across 9 modules for file I/O, code analysis, and research.

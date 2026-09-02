@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-03-08T13:09:54Z"
 ---
 ## What it is
 A Gmail MCP server with native multi-account support, enabling management of multiple Gmail accounts from a single server instance.

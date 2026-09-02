@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-17T17:52:48Z"
 ---
 ## What it is
 MCP server `ESET`, catalogued on PulseMCP. Provides AI access to ESET Connect management APIs with 102 auto-generated tools for device management, threat detection, vulnerability tracking, and policy administration.

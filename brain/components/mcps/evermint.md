@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T01:33:44Z"
 ---
 ## What it is
 MCP server `EverMint`, catalogued on PulseMCP. Mints tamper-evident receipts for AI agent actions as the notary layer for agent transactions.

@@ -8,10 +8,12 @@ source_url: https://github.com/glassbead-tc/tinder-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-05-24T07:59:35Z"
 ---
 ## What it is
 MCP server `Tinder`, catalogued on PulseMCP. Provides a secure TypeScript-based interface to Tinder's dating app API, handling authentication, rate limiting, and core functionality like profiles, recommendations, matching, and messaging

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-25T18:14:53Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides comprehensive access to Tigo Energy solar system data and analytics. It enables AI assistants to interact with your Tigo solar monitoring system to retrieve production data, performance metrics, system health information, and maintenance insights.

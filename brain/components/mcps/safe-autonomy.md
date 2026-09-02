@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T13:41:15Z"
 ---
 ## What it is
 Provides MCP tools for AI agents to classify changes into autonomous or human review lanes, and to run shadow simulations over backlogs without shipping anything.

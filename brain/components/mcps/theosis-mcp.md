@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T14:59:29Z"
 ---
 ## What it is
 PostgreSQL-backed MCP server for deep Bible study, integrating 140+ translations, Greek/Hebrew lexicons, cross-references, and semantic search.

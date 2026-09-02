@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T08:25:12Z"
 ---
 ## What it is
 Evaluates on-chain risk for Pharos agents before executing transactions, providing verdicts (safe/caution/dangerous) and risk-bounded execution plans via Foundry cast reads.

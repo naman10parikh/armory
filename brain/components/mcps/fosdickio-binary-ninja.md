@@ -8,10 +8,12 @@ source_url: https://github.com/fosdickio/binary_ninja_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 359
+stars: 428
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 87
+pushed_at: "2026-04-05T19:38:07Z"
 ---
 ## What it is
 MCP server `Binary Ninja`, catalogued on PulseMCP. Integrates with Binary Ninja reverse engineering platform to enable binary analysis tasks like function listing, code decompilation, symbol renaming, and structure analysis through a HTTP server bridge.

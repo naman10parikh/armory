@@ -8,10 +8,12 @@ source_url: https://github.com/olgasafonova/mediawiki-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-31T15:58:26Z"
 ---
 ## What it is
 MCP server `MediaWiki`, catalogued on PulseMCP. Integrates with MediaWiki wikis for searching, reading, editing pages, and analyzing wiki content and link structures.

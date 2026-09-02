@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-04T01:58:47Z"
 ---
 ## What it is
 Provides AI-powered image analysis using Google Gemini 2.0 Flash, with support for multiple access methods and robust security features.

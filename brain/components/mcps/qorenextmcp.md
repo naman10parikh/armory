@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T16:08:15Z"
 ---
 ## What it is
 Enables company hierarchy analysis and address verification through MCP, allowing submission of entities for screening, duplicate detection, and status polling.

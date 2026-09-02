@@ -8,11 +8,13 @@ source_url: https://github.com/do-md/homekb
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-21T15:30:37Z"
 ---
 ## What it is
 Enables natural language interaction with a personal knowledge base stored locally on your computer, supporting semantic search, note reading, and writing through Claude Code or mobile apps.

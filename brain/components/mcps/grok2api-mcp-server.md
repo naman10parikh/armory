@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-18T18:57:19Z"
 ---
 ## What it is
 Enables real-time web and Twitter/X search via Grok, returning structured results with source URLs, confidence scores, and key points. Supports multiple output modes, language options, and time range filtering.

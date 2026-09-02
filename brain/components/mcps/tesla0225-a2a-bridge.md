@@ -12,6 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-04-13T07:21:26Z"
 ---
 ## What it is
 MCP server `A2A Bridge`, catalogued on PulseMCP. Bridges LLMs with Agent-to-Agent protocol-compatible agents, enabling delegation of complex tasks to specialized external agents without requiring direct protocol implementation

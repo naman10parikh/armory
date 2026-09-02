@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T17:28:17Z"
 ---
 ## What it is
 A remote MCP server that lets users track expenses through Claude AI, supporting add, list, edit, and delete operations via natural language.

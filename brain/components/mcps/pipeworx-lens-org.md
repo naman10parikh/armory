@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:19:15Z"
 ---
 ## What it is
 MCP server `Pipeworx Lens.org`, catalogued on PulseMCP. Search patents and scholarly literature through Lens.org, a free academic knowledge commons.

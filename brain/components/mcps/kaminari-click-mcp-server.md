@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:36:41Z"
 ---
 ## What it is
 Enables querying traffic-quality statistics, managing reports, and downloading IP/UA risk databases via MCP.

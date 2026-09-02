@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-25T18:24:10Z"
 ---
 ## What it is
 Provides a standardized interface for interacting with GitHub's tools and services through the Model Context Protocol, enabling unified API access and compatibility with MCP-compliant tools.

@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-27T10:12:45Z"
 ---
 ## What it is
 MCP server `ROS 2 Bridge`, catalogued on PulseMCP. Bridges ROS 2 robotics systems by exposing services as tools and topics as resources, enabling direct robot control, sensor data analysis, and autonomous navigation tasks with automatic message type conversion and configurable filtering.

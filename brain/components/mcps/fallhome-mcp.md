@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:08:26Z"
 ---
 ## What it is
 MCP stdio server wrapping the fallhome SDK to enable sovereign, offline-capable, and cryptographically signed management of professional service workflows for autonomous agents and human developers.

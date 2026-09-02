@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:17:36Z"
 ---
 ## What it is
 Enables AI agents to scan codebases for TODO/FIXME/XXX patterns and get prioritized results over MCP, supporting CI gates and multiple output formats.

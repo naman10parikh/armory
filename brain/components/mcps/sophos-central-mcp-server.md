@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T18:58:09Z"
 ---
 ## What it is
 Enables AI-powered security operations through natural language, managing endpoint security, email threats, firewall policy, and more across multiple Sophos tenants with 334 tools, designed for MSP/MSSP teams.

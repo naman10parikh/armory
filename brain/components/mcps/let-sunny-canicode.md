@@ -8,10 +8,12 @@ source_url: https://github.com/let-sunny/canicode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-05T03:38:31Z"
 ---
 ## What it is
 MCP server `CanICode by let-sunny`, catalogued on PulseMCP. Analyze Figma designs for development and AI readiness with 39 rules, scoring, and HTML reports.

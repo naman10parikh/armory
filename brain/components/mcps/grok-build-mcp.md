@@ -8,11 +8,13 @@ source_url: https://github.com/howardpen9/grok-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-28T04:34:27Z"
 ---
 ## What it is
 MCP server that wraps the Grok CLI to enable code review, adversarial testing, and chat with xAI's Grok model, integrating into any MCP host as a peer reviewer, adversary, and consultant.

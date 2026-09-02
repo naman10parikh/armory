@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T06:07:11Z"
 ---
 ## What it is
 A server that enables checking and managing learning paths based on the 2022 Korean national curriculum, including child profile management, curriculum search, prerequisite tracing, and learning check creation with deterministic state assessment.

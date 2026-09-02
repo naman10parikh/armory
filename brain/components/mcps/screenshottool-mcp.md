@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:11:01Z"
 ---
 ## What it is
 Windows桌面截图与窗口自动化工具，支持后台操作、不抢焦点，可截取窗口/屏幕、模拟鼠标键盘、点击菜单等。

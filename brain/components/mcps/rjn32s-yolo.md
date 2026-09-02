@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-26T14:32:33Z"
 ---
 ## What it is
 MCP server `YOLO Object Detection`, catalogued on PulseMCP. Zero-shot object detection and segmentation using Ultralytics YOLOE models.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-05T19:33:36Z"
 ---
 ## What it is
 A browser-based Markdown editor that enables AI to co-write documents via MCP tools, with real-time collaboration and no data stored on servers.

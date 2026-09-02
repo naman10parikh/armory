@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:21:05Z"
 ---
 ## What it is
 A self-contained daemon that watches a directory, transcribes anything that lands in it, and presents the results to any AI agent through a standard protocol — no cloud, no subscriptions, no vendor lock-in.

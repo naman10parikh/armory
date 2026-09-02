@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 2
+forks: 1
+pushed_at: "2025-08-14T09:13:49Z"
 ---
 ## What it is
 MCP server with basic demonstration of getting weather from Hong Kong Observatory

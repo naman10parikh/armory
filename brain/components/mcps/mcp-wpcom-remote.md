@@ -8,11 +8,13 @@ source_url: https://github.com/Automattic/mcp-wpcom-remote
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-15T10:56:32Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for seamless WordPress.com integration, enabling AI assistants to connect to WordPress.com sites with OAuth authentication.

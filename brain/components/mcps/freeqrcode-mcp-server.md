@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-23T15:25:24Z"
 ---
 ## What it is
 Enables AI assistants to generate QR codes for URLs, text, vCard, WiFi, email, and phone numbers with customizable size, colors, and error correction.

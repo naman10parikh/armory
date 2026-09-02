@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:10:01Z"
 ---
 ## What it is
 Enables AI agents to scan codebases for prioritized findings (TODO, FIXME, XXX) and retrieve results in table, JSON, or SARIF format via MCP.

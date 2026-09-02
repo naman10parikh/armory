@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-29T07:00:27Z"
 ---
 ## What it is
 MCP server `Untappd`, catalogued on PulseMCP. Provides a bridge to the Untappd beer tracking API, enabling search and retrieval of detailed beer and brewery information through a robust TypeScript implementation.

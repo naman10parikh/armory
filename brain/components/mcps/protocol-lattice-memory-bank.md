@@ -8,10 +8,12 @@ source_url: https://github.com/protocol-lattice/memory-bank-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-16T19:20:36Z"
 ---
 ## What it is
 MCP server `Memory Bank`, catalogued on PulseMCP. Vector-native AI agent memory with multi-backend storage, shared spaces with ACL controls, and semantic search

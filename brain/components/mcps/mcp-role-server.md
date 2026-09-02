@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T09:32:14Z"
 ---
 ## What it is
 A role-based access control MCP server template with authentication, role-based tool exposure, and rate limiting, enabling secure tool management for AI assistants.

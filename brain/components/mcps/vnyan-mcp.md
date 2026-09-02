@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T19:28:46Z"
 ---
 ## What it is
 Enables full control and observation of VNyan VTuber avatar software from any MCP client, including reading and writing parameters, triggers, blendshapes, bones, node graphs, and settings.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-24T21:37:28Z"
 ---
 ## What it is
 An MCP (Model Context Protocol) server that exposes Sonilo's licensed music and sound-effects API to MCP-compatible clients (Claude Code, Claude Desktop, Codex).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T02:29:06Z"
 ---
 ## What it is
 Enables querying Ed Discussion posts via Claude. Uses search, Cohere reranking, and thread retrieval to provide cited answers.

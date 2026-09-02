@@ -8,11 +8,13 @@ source_url: https://github.com/gaiaftcl-sudo/uum8dSolarResearch
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:25:31Z"
 ---
 ## What it is
 Enables agent builders to run deterministic, integer-only mathematical operations while refusing floats, with sealed and verifiable integer-based results.

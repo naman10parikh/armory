@@ -8,10 +8,12 @@ source_url: https://github.com/xphileby/c64u-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-21T15:14:18Z"
 ---
 ## What it is
 MCP server `Commodore 64 Ultimate Computer`, catalogued on PulseMCP. Controls Commodore 64 Ultimate hardware through REST API, enabling program execution, machine state management, floppy drive operations, and screen capture with automatic graphics mode detection.

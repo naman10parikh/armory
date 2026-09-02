@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-09T18:15:42Z"
 ---
 ## What it is
 An MCP server that equips AI assistants with curated knowledge and live chain data for the Alkanes metaprotocol and Subfrost network, enabling them to read docs, query the chain, and scaffold contracts.

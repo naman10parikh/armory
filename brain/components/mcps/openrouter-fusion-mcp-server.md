@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T21:50:38Z"
 ---
 ## What it is
 Enables MCP clients to run multi-model deliberation (Fusion) via background jobs, using a panel of models and a judge to synthesize high-quality answers.

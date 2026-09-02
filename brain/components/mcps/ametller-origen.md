@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T16:41:11Z"
 ---
 ## What it is
 Enables shopping Ametller Origen online groceries through Claude, allowing catalog browsing, cart management, and order history access, with payment handled directly on the retailer's site.

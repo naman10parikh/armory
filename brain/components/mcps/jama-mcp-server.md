@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-04-15T16:59:47Z"
 ---
 ## What it is
 Read-only MCP server that allows interaction with a Jama Connect instance via tools, wrapping the official py-jama-rest-client library.

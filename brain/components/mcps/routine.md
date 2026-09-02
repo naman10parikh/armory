@@ -8,10 +8,12 @@ source_url: https://github.com/routineco/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-16T12:18:34Z"
 ---
 ## What it is
 MCP server `Routine`, catalogued on PulseMCP. Integrates with Routine productivity application through WebSocket RPC communication to provide task management, calendar integration, document access, contact management, and user profile information for seamless productivity workflows.

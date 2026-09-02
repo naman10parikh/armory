@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T11:36:43Z"
 ---
 ## What it is
 Dynamically loads the Antikor NGFW API schema and exposes eligible endpoints as MCP tools for firewall management via natural language.

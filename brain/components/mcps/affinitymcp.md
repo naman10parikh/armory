@@ -8,11 +8,13 @@ source_url: https://github.com/tacyan/AffinityMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-11-05T19:22:53Z"
 ---
 ## What it is
 Enables natural language control of Affinity Photo/Designer/Publisher and Canva workflows through MCP tools, supporting file operations, filters, and batch processing up to 16 files simultaneously.

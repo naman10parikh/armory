@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T13:30:25Z"
 ---
 ## What it is
 MCP server `MCP-to-MCP Tic-Tac-Toe`, catalogued on PulseMCP. Enables two LLMs to play Tic-Tac-Toe against each other through autonomous turn-based MCP tool calls.

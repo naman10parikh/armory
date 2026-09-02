@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T05:58:54Z"
 ---
 ## What it is
 Returns ranked, token-budgeted code slices for LLMs and coding agents, accessible via MCP for focused code reading.

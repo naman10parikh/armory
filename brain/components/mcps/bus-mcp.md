@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-30T21:34:26Z"
 ---
 ## What it is
 MCP server for Raspberry Pi peripheral bus access, enabling AI agents to interact with CAN, I2C, SPI, UART, and GPIO directly through natural language.

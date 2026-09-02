@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T06:42:57Z"
 ---
 ## What it is
 MCP server `Tickory`, catalogued on PulseMCP. Creates and manages Binance crypto scanner rules, runs scans on schedule, reads alert events, and explains why alerts triggered or were suppressed.

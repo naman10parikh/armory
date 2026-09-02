@@ -8,10 +8,12 @@ source_url: https://github.com/kimtaeyoon83/mcp-server-youtube-transcript
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 544
+stars: 590
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 98
+pushed_at: "2026-07-21T03:28:48Z"
 ---
 ## What it is
 MCP server `YouTube Transcripts`, catalogued on PulseMCP. Extract and analyze video captions and subtitles in multiple languages.

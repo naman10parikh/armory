@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-09T22:44:21Z"
 ---
 ## What it is
 MCP server `Home Assistant`, catalogued on PulseMCP. Demonstrates light control in Home Assistant by comparing OpenAI function calling with a standardized protocol for external tool interaction

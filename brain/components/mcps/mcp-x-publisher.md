@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T14:41:32Z"
 ---
 ## What it is
 Enables posting single tweets, threads, and saving drafts to X (Twitter) automatically using Playwright.

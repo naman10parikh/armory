@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T18:38:13Z"
 ---
 ## What it is
 14 tools for AI agents: transcript extraction in five formats with adjustable segment size, video metadata, video and channel search, channel browsing, in-channel search, playlists, and an asynchronous batch job for up to 4,000 transcripts. Free tier: 100 credits on signup, no card.

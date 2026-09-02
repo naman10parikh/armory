@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-26T01:27:55Z"
 ---
 ## What it is
 MCP server `Word Document Operations`, catalogued on PulseMCP. Comprehensive CRUD operations and document manipulation for Microsoft Word files with table management, formatting controls, and merge capabilities.

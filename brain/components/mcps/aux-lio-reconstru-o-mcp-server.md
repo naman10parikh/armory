@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:21:19Z"
 ---
 ## What it is
 Verifica o recebimento do Auxílio Reconstrução por um beneficiário a partir do CPF e do NIS, permitindo consultas de elegibilidade a partir de qualquer cliente MCP.

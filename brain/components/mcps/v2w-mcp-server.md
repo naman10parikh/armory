@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T07:47:21Z"
 ---
 ## What it is
 Enables agents to convert videos from URLs, Bilibili, and netdisk shares into Word documents, with tools for transcription, job management, and account configuration.

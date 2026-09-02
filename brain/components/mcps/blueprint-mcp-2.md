@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T21:09:06Z"
 ---
 ## What it is
 Provides architectural memory for AI coding agents, enabling reuse of existing abstractions and advisory-first guidance on code placement and imports.

@@ -8,10 +8,12 @@ source_url: https://github.com/alperenkocyigit/semantic-scholar-graph-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-10-27T14:00:23Z"
 ---
 ## What it is
 MCP server `Semantic Scholar`, catalogued on PulseMCP. Integrates with Semantic Scholar's academic database to search research papers, retrieve author information, analyze citation networks, and discover paper recommendations for literature reviews and academic research workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:36:11Z"
 ---
 ## What it is
 Provides Claude plan usage data (session and weekly percentages) as an MCP tool by reading through a logged-in browser, enabling Claude to check its own remaining usage.

@@ -8,10 +8,12 @@ source_url: https://github.com/samber/go-playground-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-23T12:50:56Z"
 ---
 ## What it is
 MCP server `Go Playground`, catalogued on PulseMCP. Enables remote execution of Go code using the official Go Playground API with tools for running code with optional vet checking, sharing snippets via public URLs, and combining execution with sharing for immediate testing and distribution.

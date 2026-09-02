@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T15:12:05Z"
 ---
 ## What it is
 This MCP server provides tools for OCR and keyword extraction, enabling AI workflows to be split into discrete steps for easier testing, tuning, and cost control.

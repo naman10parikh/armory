@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-31T03:18:02Z"
 ---
 ## What it is
 Multitenant Streamable HTTP wrapper for SentinelOne's purple-mcp. Enables MSPs to expose SentinelOne threat detection and response capabilities to AI assistants across multiple tenants.

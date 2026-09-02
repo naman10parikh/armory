@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:42:05Z"
 ---
 ## What it is
 Enables measuring and reporting which tool a model selects from an MCP server's tool list, without ever executing tools. Provides inspection, trial runs, and confusion analysis to benchmark routing accuracy.

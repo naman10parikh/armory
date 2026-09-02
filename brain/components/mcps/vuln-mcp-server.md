@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T03:55:28Z"
 ---
 ## What it is
 A vulnerable-by-design MCP server pair (NotesServer and VaultServer) for testing MCP security tools, featuring confused-deputy, prompt injection, and authorization bypass scenarios.

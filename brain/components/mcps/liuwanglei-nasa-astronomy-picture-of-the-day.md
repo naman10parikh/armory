@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-19T13:02:18Z"
 ---
 ## What it is
 MCP server `NASA Astronomy Picture of the Day`, catalogued on PulseMCP. Integrates with NASA's Astronomy Picture of the Day API to retrieve daily space images and descriptions directly within the Cursor IDE development environment.

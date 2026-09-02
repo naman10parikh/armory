@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T15:56:29Z"
 ---
 ## What it is
 Enables AI assistants to create PureRef reference boards from local images and ad-review data, supporting moodboards and A4-style creative review reports.

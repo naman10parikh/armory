@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:40Z"
 ---
 ## What it is
 Provides access to worldwide labor market data including unemployment, wages, and employment statistics from BLS (US) and Eurostat (EU). Offers tools for comparing countries and sectors, and retrieving occupation outlooks.

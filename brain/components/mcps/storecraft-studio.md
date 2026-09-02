@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T18:21:06Z"
 ---
 ## What it is
 Enables AI agents to create high-resolution marketing images from simple JSON configs without design skills or API keys. Provides presets, themes, and layouts to render deterministic PNGs locally.

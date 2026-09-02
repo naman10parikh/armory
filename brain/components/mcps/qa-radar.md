@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T12:41:10Z"
 ---
 ## What it is
 Analyzes codebases to produce structured quality health reports with risk-scored modules based on git churn, test coverage, and test-to-source mapping, acting as an MCP server for AI coding agents and a standalone CLI.

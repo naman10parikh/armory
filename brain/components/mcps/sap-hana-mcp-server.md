@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:33:48Z"
 ---
 ## What it is
 MCP server enabling AI agents to explore SAP HANA schemas, execute SQL with guardrails, and access database metadata, monitoring, and business domain semantics.

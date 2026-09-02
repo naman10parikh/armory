@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T00:15:24Z"
 ---
 ## What it is
 Sends native macOS push notifications via a single MCP tool, using osascript for secure delivery.

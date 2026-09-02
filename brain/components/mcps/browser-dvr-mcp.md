@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T03:26:45Z"
 ---
 ## What it is
 Records every browser session (screen, DOM, network, console, storage) and enables time-travel debugging to rewind and analyze failures.

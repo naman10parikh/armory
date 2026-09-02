@@ -8,10 +8,12 @@ source_url: https://github.com/vespo92/opnsensemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 80
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-07-21T21:36:19Z"
 ---
 ## What it is
 MCP server `OPNsense`, catalogued on PulseMCP. Provides Infrastructure as Code capabilities for OPNsense firewalls with declarative management of VLANs, firewall rules, DHCP configurations, DNS blocking, HAProxy load balancing, and network topology discovery through plan/apply workflows, automatic backups, and rollback capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T19:31:39Z"
 ---
 ## What it is
 Bridges your claude.ai authorized connectors (Slack, Atlassian, Gmail, Google Calendar) to any MCP client, enabling use of those tools without credential setup.

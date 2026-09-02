@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T04:26:17Z"
 ---
 ## What it is
 MCP server for integrating self-hosted Sentry with AI assistants, enabling project and issue listing, issue details with stack traces, and event retrieval.

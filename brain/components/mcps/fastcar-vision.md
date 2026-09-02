@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:17:48Z"
 ---
 ## What it is
 Provides vision understanding capabilities such as image analysis, OCR, object localization, and video frame analysis, plus optional image generation and editing, to coding agents via OpenAI-compatible multimodal models. Runs as a local MCP server with HTTP and stdio transports, configurable for cli

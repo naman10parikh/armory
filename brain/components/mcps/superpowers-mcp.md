@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-03-15T09:04:15Z"
 ---
 ## What it is
 An MCP server that makes superpowers skills available to any LLM that supports the Model Context Protocol.

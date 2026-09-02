@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T15:09:33Z"
 ---
 ## What it is
 A local-first MCP server that gives AI coding assistants persistent, structured, human-readable memory for a software project by storing project knowledge as Markdown files in the project's .dev-context-memory/ folder.

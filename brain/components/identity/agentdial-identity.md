@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [agentdial, soul-md-spec, agent-file-format]
 tags: [identity, channels, protocol, addressing, trust]
+forks: 0
+pushed_at: "2026-06-10T03:28:27Z"
 ---
 
 ## What it is

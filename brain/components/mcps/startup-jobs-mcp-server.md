@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T21:02:55Z"
 ---
 ## What it is
 Search live startup.jobs listings with filters for role, location, and employment type, plus get job details, company profiles, hiring trends, and salary benchmarks.

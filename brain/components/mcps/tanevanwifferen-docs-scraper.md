@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-08T13:12:43Z"
 ---
 ## What it is
 MCP server `DocsScraper`, catalogued on PulseMCP. Connects to the DocsScraper web API to provide semantic search across technical documentation and API references with automatic fallback to scraper sources when local results are unavailable.

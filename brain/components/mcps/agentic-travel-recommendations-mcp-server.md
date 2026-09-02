@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T20:55:23Z"
 ---
 ## What it is
 Enables an AI agent to fetch member profiles and generate deterministic, partner-rule-compliant travel recommendations on a multi-tenant white-label platform.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-09T10:21:54Z"
 ---
 ## What it is
 Searches Google Flights, labels results as in-policy or out-of-policy based on a travel policy file, and ranks them by preferences like nonstop, alliance, or price.

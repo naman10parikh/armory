@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-25T00:03:07Z"
 ---
 ## What it is
 A local-first Graph-RAG system that combines ChromaDB with metadata-based graph relationships and Gemini 2.5 Flash for intelligent Q\&A over your Obsidian vault.

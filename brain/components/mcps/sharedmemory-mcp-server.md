@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T03:33:33Z"
 ---
 ## What it is
 Gives Claude Code, Claude Desktop, Cursor, VS Code Copilot, and other MCP-compatible tools persistent memory.

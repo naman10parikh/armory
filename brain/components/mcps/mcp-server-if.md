@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T11:53:52Z"
 ---
 ## What it is
 Enables AI assistants to play interactive fiction games (Glulx and Z-machine) through the Model Context Protocol, with automatic save/restore and optional journaling mode.

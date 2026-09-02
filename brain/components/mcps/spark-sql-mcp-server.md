@@ -8,10 +8,12 @@ source_url: https://github.com/aidancorrell/spark-sql-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-26T03:03:07Z"
 ---
 ## What it is
 MCP server `Spark SQL`, catalogued on PulseMCP. Query Spark SQL clusters via Thrift/HiveServer2, with support for Spark, EMR, Hive, and Impala.

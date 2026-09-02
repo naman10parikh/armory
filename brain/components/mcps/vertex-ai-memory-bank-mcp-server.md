@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-06T14:57:04Z"
 ---
 ## What it is
 Enables LLMs to generate and retrieve long-term memories using Vertex AI Memory Bank, with tools for memory initialization, generation, retrieval, creation, deletion, and listing.

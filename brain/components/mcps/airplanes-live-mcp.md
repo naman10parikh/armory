@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-04T17:48:46Z"
 ---
 ## What it is
 Enables real-time aircraft tracking from Claude Desktop using the airplanes.live API, supporting searches by callsign, registration, hex ID, and position.

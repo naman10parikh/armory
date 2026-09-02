@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T18:37:00Z"
 ---
 ## What it is
 Enables LLM clients and coding agents to analyze prompts and recommend the cheapest AI model that meets the task requirements across text, voice, video, and other modalities, projecting monthly cost savings against a flagship baseline.

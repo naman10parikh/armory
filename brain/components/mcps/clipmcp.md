@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T14:40:25Z"
 ---
 ## What it is
 A standalone clipboard history MCP server for macOS that monitors clipboard in real-time, stores history locally in SQLite, and exposes it to any MCP-compatible AI assistant.

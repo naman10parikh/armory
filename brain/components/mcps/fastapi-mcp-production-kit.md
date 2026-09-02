@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T16:49:44Z"
 ---
 ## What it is
 A local-first FastAPI and MCP safety kit for turning internal HTTP APIs into controlled MCP tools, with per-tool scopes, quotas, audit events, and default-deny web-access boundaries.

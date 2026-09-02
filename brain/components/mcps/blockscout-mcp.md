@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-05T17:24:34Z"
 ---
 ## What it is
 Enables AI models to interact with Blockscout API for blockchain data, including transactions, blocks, balances, and contract calls. Supports multiple endpoints for comprehensive blockchain exploration.

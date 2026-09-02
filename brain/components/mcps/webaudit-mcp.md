@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T18:40:07Z"
 ---
 ## What it is
 Audits public web pages for tracking tags, duplicate pixels, page weight, header hygiene, and lab performance from inside Claude Code or Claude Desktop.

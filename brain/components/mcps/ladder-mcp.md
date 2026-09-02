@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T14:31:13Z"
 ---
 ## What it is
 Windows-first MCP bridge for Kimi Code CLI, exposing code analysis, editing, sessions, and diagnostics as tools for AI agents.

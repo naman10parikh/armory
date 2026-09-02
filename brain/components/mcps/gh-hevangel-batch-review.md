@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-09T06:11:06Z"
 ---
 ## What it is
 MCP server `Batch Review`, catalogued on PulseMCP. Enables collaborative code and markdown review between human reviewers and AI agents on shared codebases.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T03:52:40Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that exposes 48 tools covering the full spectrum of iSuite enterprise administration — user management, role verification, job monitoring, scheduler control, batch execution, audit trail lookup, and configuration validation.

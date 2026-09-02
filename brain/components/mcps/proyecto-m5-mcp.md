@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T12:45:36Z"
 ---
 ## What it is
 Provides a GitHub-integrated Model Context Protocol server with Octokit client, enabling AI models to interact with GitHub repositories, issues, and pull requests.

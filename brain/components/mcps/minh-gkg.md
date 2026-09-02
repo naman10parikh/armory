@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T11:20:40Z"
 ---
 ## What it is
 Compiler-exact TypeScript code graph MCP server exposing find-references, change impact analysis, and repo map tools for AI agents, powered by the TypeScript compiler via ts-morph.

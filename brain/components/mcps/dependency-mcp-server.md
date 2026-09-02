@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-29T10:33:26Z"
 ---
 ## What it is
 A Model Context Protocol server for checking package versions and metadata across multiple package managers including npm, PyPI, Maven, NuGet, RubyGems, Crates.io, and Go modules.

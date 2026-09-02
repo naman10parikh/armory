@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:45:40Z"
 ---
 ## What it is
 Autonomous QA platform powered by Claude + Playwright that allows AI to write, run, and fix tests for any project.

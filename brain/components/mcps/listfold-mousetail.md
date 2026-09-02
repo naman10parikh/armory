@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-24T01:21:55Z"
 ---
 ## What it is
 MCP server `Mousetail`, catalogued on PulseMCP. Anki flashcard integration using direct pylib API without requiring AnkiConnect addon

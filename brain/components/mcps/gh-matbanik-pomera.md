@@ -8,10 +8,12 @@ source_url: https://github.com/matbanik/pomera-ai-commander
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-31T23:09:10Z"
 ---
 ## What it is
 MCP server `Pomera AI Commander by matbanik`, catalogued on PulseMCP. Desktop text workbench with 22+ text processing tools for content transformation and analysis.

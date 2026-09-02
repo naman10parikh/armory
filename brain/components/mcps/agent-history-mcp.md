@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T14:05:07Z"
 ---
 ## What it is
 Local memory search for Codex and Claude Code conversations. It keeps history on your machine, builds a local graph index, and returns compact evidence from past sessions.

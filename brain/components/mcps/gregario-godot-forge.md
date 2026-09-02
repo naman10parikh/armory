@@ -8,10 +8,12 @@ source_url: https://github.com/gregario/godot-forge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-26T12:49:02Z"
 ---
 ## What it is
 MCP server `Godot Forge`, catalogued on PulseMCP. Godot 4 development companion with test runner, API docs search, script analysis, scene parsing, and Godot 3-to-4 migration mapping.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T18:43:40Z"
 ---
 ## What it is
 Enables AI-powered control and automation for Kamailio SIP servers, including config generation/linting, live JSONRPC operations, and database provisioning via MCP and CLI.

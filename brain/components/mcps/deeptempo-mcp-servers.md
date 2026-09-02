@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-30T23:59:11Z"
 ---
 ## What it is
 Provides tools for DeepTempo AI SOC including findings and case management, investigation workflow orchestration, action approval workflows, and MITRE ATT&CK layer generation.

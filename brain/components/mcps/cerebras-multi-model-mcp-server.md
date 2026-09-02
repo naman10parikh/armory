@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T22:47:51Z"
 ---
 ## What it is
 Use multiple Cerebras models from Claude Desktop & Claude Code with automatic model selection.

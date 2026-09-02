@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:04Z"
 ---
 ## What it is
 Provides a read-only MCP server for consulting traffic fines (autuações) from DER SP (São Paulo State Highway Department) from the official source. Works with any MCP client and uses a prepaid credit system.

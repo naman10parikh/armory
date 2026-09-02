@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:09:21Z"
 ---
 ## What it is
 MCP server that launches and manages ego-browser sessions, providing tools to open URLs and extract DOM records filtered by status, all through a sandboxed UI app.

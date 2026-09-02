@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T13:07:18Z"
 ---
 ## What it is
 Connects AI assistants to Querit for live web search and clean webpage content retrieval, supporting both anonymous access and bring-your-own-key authentication.

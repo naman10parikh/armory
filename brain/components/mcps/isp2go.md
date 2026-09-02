@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T10:37:05Z"
 ---
 ## What it is
 An MCP server for ISP management that enables agents to handle customer onboarding, billing, ticketing, network monitoring, and compliance (RICA/POPIA) via 20 tools.

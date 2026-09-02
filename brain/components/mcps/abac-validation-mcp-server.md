@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T13:48:48Z"
 ---
 ## What it is
 Enables AI-assisted Attribute-Based Access Control code validation and review, with batch processing and progress notifications for long-running operations.

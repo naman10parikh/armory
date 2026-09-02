@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T13:40:52Z"
 ---
 ## What it is
 MCP server for writing structured traces, spans, and decisions, enabling observability and EU AI Act traceability compliance for AI agent tasks.

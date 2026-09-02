@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T01:11:40Z"
 ---
 ## What it is
 Enables querying Korean apartment sales and rental transaction data from the public data portal through natural language, with tools for searching transactions and computing price statistics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T18:51:07Z"
 ---
 ## What it is
 A simple MCP server that provides tools for generating unique IDs in several formats, useful for when you need an LLM to create data containing new IDs.

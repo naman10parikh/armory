@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T09:11:00Z"
 ---
 ## What it is
 A sovereign, MIT-licensed MCP server that wraps mortgage functionality into an AI-callable tool with Ed25519 signing and offline capability, enabling autonomous agents to handle mortgage workflows securely.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T01:54:18Z"
 ---
 ## What it is
 Enables an LLM to author, validate, and test Wirefilter WAF and Smart Firewall rules using live schema and real CVE exploit templates.

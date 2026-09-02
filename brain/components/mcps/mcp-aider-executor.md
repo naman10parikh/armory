@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T21:28:10Z"
 ---
 ## What it is
 Enables running aider as a detached background process with git and file tools, allowing LLMs to start code editing processes and check progress asynchronously for agentic swarm behavior.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T01:41:55Z"
 ---
 ## What it is
 Enables AI agents to manage Discord support tickets by listing, reading, replying to, renaming, and closing ticket channels, with PII redaction for self-hosted compliance.

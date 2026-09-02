@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-05T04:54:58Z"
 ---
 ## What it is
 Enables AI assistants to interact with Bauplan lakehouse operations, including querying tables, schema inspection, branch management, and pipeline execution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T13:00:22Z"
 ---
 ## What it is
 A lightweight MCP server for GitHub with nine essential tools for reading files, managing pull requests, and creating issues, using personal access token authentication.

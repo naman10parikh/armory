@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-14T09:30:42Z"
 ---
 ## What it is
 A comprehensive MCP server for integrating with the NINSAÚDE Clinic API, providing 45+ tools for healthcare management including patient records, appointments, medical records, billing, reporting, and patient surveys.

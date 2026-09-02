@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-06T17:55:58Z"
 ---
 ## What it is
 An MCP server for interacting with Keap CRM, enabling contact and tag management, batch operations, custom fields, and advanced query optimization.

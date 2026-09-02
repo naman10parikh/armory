@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T17:40:40Z"
 ---
 ## What it is
 Enables AI agents to send emails and manage sending domains, templates, analytics, and content checks through the SendByte platform using the Model Context Protocol.

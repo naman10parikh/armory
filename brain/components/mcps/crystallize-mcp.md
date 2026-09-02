@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T08:53:24Z"
 ---
 ## What it is
 MCP server for Crystallize headless commerce. Gives AI agents read and write access to your catalogue, products, shapes, orders, customers, and tenant config.

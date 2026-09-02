@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-14T10:42:43Z"
 ---
 ## What it is
 A research assistant server that enables saving, organizing, and retrieving research content with semantic search using ChromaDB and OpenAI embeddings.

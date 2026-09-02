@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T09:16:55Z"
 ---
 ## What it is
 Exposes AI patterns, incidents, benchmarks, and regulatory changes from aipatterns.com.au as callable tools for Claude and other MCP-compatible assistants.

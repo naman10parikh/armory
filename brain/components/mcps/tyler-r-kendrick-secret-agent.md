@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-01-21T23:38:52Z"
 ---
 ## What it is
 MCP server `SecretAgent`, catalogued on PulseMCP. Parses local git repositories to generate tool descriptions, create Docker containers, and integrate CodeQL for security analysis, enabling automated secret management and repository introspection.

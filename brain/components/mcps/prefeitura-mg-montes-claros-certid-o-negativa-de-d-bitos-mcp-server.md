@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:37Z"
 ---
 ## What it is
 Read-only MCP server for consulting official negative debt certificates from the Montes Claros city government, with pay-per-use prepaid credits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-17T20:51:20Z"
 ---
 ## What it is
 Helps AI agents determine whether a number is even or not.

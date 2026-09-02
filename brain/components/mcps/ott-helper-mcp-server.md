@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-30T12:07:35Z"
 ---
 ## What it is
 Provides intelligent OTT content recommendations based on IMDB ratings, platform availability, and genre preferences, enabling users to search and filter movies and series across multiple streaming services.

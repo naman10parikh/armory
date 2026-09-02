@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T14:49:56Z"
 ---
 ## What it is
 Lets AI assistants read, command, and debug microcontrollers over a serial connection via MCP. Provides tools for serial port discovery, reading serial output, sending commands, and decoding register values.

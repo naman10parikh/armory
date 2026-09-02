@@ -8,11 +8,13 @@ source_url: https://github.com/firebase/firebase-tools
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4459
+stars: 4462
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1244
+pushed_at: "2026-09-02T00:16:16Z"
 ---
 ## What it is
 Enables interaction with Firebase projects and services, including deployment, database management, authentication, and local emulation, through natural language.

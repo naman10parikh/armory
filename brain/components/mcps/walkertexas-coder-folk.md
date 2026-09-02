@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-06T19:52:15Z"
 ---
 ## What it is
 MCP server `Folk`, catalogued on PulseMCP. Integrates with Folk CRM to provide contact management, deal tracking, note-taking with markdown support, reminder scheduling with iCalendar recurrence rules, and interaction logging.

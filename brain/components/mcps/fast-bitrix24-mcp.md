@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-24T18:55:19Z"
 ---
 ## What it is
 MCP server for interacting with Bitrix24 REST API, enabling CRUD operations on deals, contacts, companies, users, leads, and tasks, plus analytics and risk assessment.

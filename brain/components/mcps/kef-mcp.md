@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T06:14:20Z"
 ---
 ## What it is
 MCP server for controlling KEF wireless speakers (LSX II, LS50 Wireless II, LS60) and playing Spotify on them via local network and Spotify Web API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T19:59:07Z"
 ---
 ## What it is
 Read-only MCP server that exposes ZAP's RAG search modes (plain, hybrid, hybrid_rerank) for agents to perform semantic code retrieval.

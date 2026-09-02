@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-18T15:25:53Z"
 ---
 ## What it is
 Exposes Zoho CRM v6 REST API as structured tools for LLM agents via MCP, enabling CRUD operations, search, COQL queries, and more.

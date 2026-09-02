@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T00:53:01Z"
 ---
 ## What it is
 Shared MCP server enabling two Claude Code instances to collaborate over the internet by sharing messages, memory, tasks, and files through a common URL and room key.

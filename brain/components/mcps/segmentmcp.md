@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-09T21:43:21Z"
 ---
 ## What it is
 Transforms natural language queries into SQL for customer segmentation, enabling democratized access to customer data insights.

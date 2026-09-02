@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-06-29T14:40:41Z"
 ---
 ## What it is
 Enables AI assistants to interact with SiYuan Note through its API, supporting notebook and document management, block operations, search, file operations, and more.

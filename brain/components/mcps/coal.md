@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T12:06:36Z"
 ---
 ## What it is
 MCP server `Coal`, catalogued on PulseMCP. Payment rails for AI agents — pay merchants in USDC on Base via x402 and OKX APP protocols.

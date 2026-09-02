@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:28:59Z"
 ---
 ## What it is
 Read-only MCP server bridging the public UMBRAXON KYA-Hub HTTP API. Exposes tools to fetch tiers/health, certificates, reputation, CRL metadata, and to verify certificate/delegation-pass payloads.

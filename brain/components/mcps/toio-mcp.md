@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-28T02:13:21Z"
 ---
 ## What it is
 Controls toio robot cubes via natural language through BLE, enabling movement, LED control, and sound playback from MCP-compatible clients like Claude Desktop.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T10:48:35Z"
 ---
 ## What it is
 Production-grade MCP server for enterprise Azure cost optimization, enabling spend anomaly detection, multi-tenant auditing, budget validation, and compliance-aware recommendations.

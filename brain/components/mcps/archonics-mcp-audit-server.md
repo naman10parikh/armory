@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T02:28:14Z"
 ---
 ## What it is
 Free MCP tools for context engineering audits of AI agents, offering on-demand analysis of system prompts, tool definitions, and context packing.

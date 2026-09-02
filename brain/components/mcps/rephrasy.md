@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T18:15:12Z"
 ---
 ## What it is
 Enables humanizing AI-generated text and checking AI-detection scores directly from MCP-compatible clients like Claude and Cursor using the Rephrasy API.

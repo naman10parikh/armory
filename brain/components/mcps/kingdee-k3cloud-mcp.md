@@ -8,11 +8,13 @@ source_url: https://github.com/adamzhang1987/kingdee-k3cloud-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 62
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 20
+pushed_at: "2026-09-01T01:32:33Z"
 ---
 ## What it is
 MCP server for Kingdee K3Cloud ERP that enables AI assistants to query and operate ERP data via natural language through the Model Context Protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-02T00:32:52Z"
 ---
 ## What it is
 Enables AI assistants and IDEs to work with the AGNTCY Agent Directory, providing tools for validating, publishing, searching agent records, and navigating OASF taxonomies.

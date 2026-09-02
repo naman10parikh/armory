@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-10-18T18:00:31Z"
 ---
 ## What it is
 Enables data engineers and BI professionals to perform data pipeline development, quality assurance, visualization, and API integration locally with AI assistance.

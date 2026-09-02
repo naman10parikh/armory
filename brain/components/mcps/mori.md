@@ -8,11 +8,13 @@ source_url: https://github.com/fjwood69/mori
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-06T12:46:32Z"
 ---
 ## What it is
 Mori (森) is a shared memory layer for AI coding agents — one that compounds.

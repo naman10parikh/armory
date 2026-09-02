@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T03:56:18Z"
 ---
 ## What it is
 Provides search, retrieval, and validation of Lithuanian statutes and provisions, including EU law cross-references, enabling legal research and compliance checks through natural language.

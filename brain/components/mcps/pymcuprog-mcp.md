@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T14:04:24Z"
 ---
 ## What it is
 Enables AI tools to program Microchip AVR microcontrollers via natural language by wrapping pymcuprog, supporting USB HID debuggers and serial UART UPDI adapters.

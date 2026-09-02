@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-26T04:28:30Z"
 ---
 ## What it is
 A bi-temporal, provenance-carrying memory primitive for AI agents. Enables storing facts, recall, revision, and audit trails via MCP with SQLite storage.

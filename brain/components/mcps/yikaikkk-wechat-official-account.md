@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-13T15:24:40Z"
 ---
 ## What it is
 MCP server `WeChat Official Account`, catalogued on PulseMCP. Integrates with WeChat Official Account platform to enable automated article management, publishing workflows, and bulk content operations for marketing teams and content creators.

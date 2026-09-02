@@ -8,11 +8,13 @@ source_url: https://github.com/SamMorrowDrums/remarkable-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 209
+stars: 217
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 47
+pushed_at: "2026-08-17T09:38:56Z"
 ---
 ## What it is
 Enables AI assistants to read, search, and traverse your entire reMarkable library, including handwritten notes via OCR.

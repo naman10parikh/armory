@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T10:04:05Z"
 ---
 ## What it is
 A simple MCP server that exposes a terminal tool, allowing AI agents to execute shell commands.

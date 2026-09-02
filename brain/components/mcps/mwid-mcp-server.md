@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T13:04:08Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for the MetaWealth Asset Launch Dashboard. It enables AI assistants like ChatGPT and Claude to interact with the MWID Dashboard API for asset management, task tracking, and team collaboration.

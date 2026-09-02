@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:51:27Z"
 ---
 ## What it is
 Centralized encrypted gateway that routes requests to 11+ LLM providers (API keys and CLI subscriptions) through a single OpenAI-compatible endpoint, with MCP tools for vault operations, code search, and shared state.

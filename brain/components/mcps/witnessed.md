@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T21:25:01Z"
 ---
 ## What it is
 Verifiable action receipts for AI agents — agents sign claims locally, an independent witness countersigns and timestamps, anyone can verify offline.

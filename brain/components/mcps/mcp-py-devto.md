@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-17T16:55:51Z"
 ---
 ## What it is
 Enables interaction with dev.to platform through a message-based architecture, supporting article management operations like create, update, delete, and get articles.

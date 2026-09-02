@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T21:35:20Z"
 ---
 ## What it is
 MCP server that runs offensive security testing tools (nmap, sqlmap, hydra, nuclei, etc.) inside an isolated Kali Linux Docker container, with allowlist, rate limiting, and audit logging.

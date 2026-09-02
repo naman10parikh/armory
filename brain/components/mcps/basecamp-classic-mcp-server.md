@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T17:50:38Z"
 ---
 ## What it is
 Enables interaction with Basecamp Classic (the original Basecamp) through its API, providing tools for managing projects, to-do lists, messages, comments, people, milestones, and time entries.

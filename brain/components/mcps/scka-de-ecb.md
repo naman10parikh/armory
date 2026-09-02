@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-31T18:15:20Z"
 ---
 ## What it is
 MCP server `ECB Data`, catalogued on PulseMCP. European Central Bank data including exchange rates, yields, inflation, money supply, and 100+ datasets.

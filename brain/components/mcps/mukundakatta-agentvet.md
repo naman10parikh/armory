@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-01T02:15:27Z"
 ---
 ## What it is
 MCP server `AgentVet`, catalogued on PulseMCP. Validates LLM-generated tool arguments before execution to prevent malformed calls.

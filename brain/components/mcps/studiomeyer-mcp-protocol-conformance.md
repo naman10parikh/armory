@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T23:03:28Z"
 ---
 ## What it is
 MCP server `MCP Protocol Conformance`, catalogued on PulseMCP. Validate MCP server implementations against JSON-RPC 2.0 wire compliance, OAuth 2.1 PKCE, tool schemas, and capability advertisement across spec versions.

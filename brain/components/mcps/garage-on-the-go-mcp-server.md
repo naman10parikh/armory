@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T11:45:10Z"
 ---
 ## What it is
 Provides tools for vehicle service search, mechanic matching, and booking generation as part of a multi-agent AI system for roadside assistance.

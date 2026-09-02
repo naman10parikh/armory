@@ -8,11 +8,13 @@ source_url: https://github.com/Aiyakami/PWN-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T03:29:38Z"
 ---
 ## What it is
 A CTF Pwn AI-assisted debugging platform based on MCP, enabling AI to directly interact with remote GDB and CTF services for automated heap exploitation.

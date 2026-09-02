@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-07T07:12:09Z"
 ---
 ## What it is
 MCP server `Grafana Tempo`, catalogued on PulseMCP. Integrates with Grafana Tempo for distributed tracing analysis, enabling conversational access to trace searches and detailed trace information for debugging microservices and investigating performance bottlenecks.

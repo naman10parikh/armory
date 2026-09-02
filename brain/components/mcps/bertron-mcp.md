@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-17T16:44:19Z"
 ---
 ## What it is
 MCP server providing access to the BERtron API for aggregating genomic and environmental data from multiple BER data sources, enabling geospatial search and health checks.

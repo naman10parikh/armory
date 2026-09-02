@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-22T16:33:54Z"
 ---
 ## What it is
 MCP server `Backstage`, catalogued on PulseMCP. Enables AI systems to interact with Backstage developer portal for listing templates and instantiating new projects through Quarkus-based API communication.

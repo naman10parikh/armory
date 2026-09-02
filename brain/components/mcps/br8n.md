@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:12:55Z"
 ---
 ## What it is
 MCP server that captures and resumes coding context, saving snapshots of branch, open files, diff, and the user's hypothesis, with searchable journal and gap-filling exploration.

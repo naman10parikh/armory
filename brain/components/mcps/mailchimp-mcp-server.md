@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-09T16:28:21Z"
 ---
 ## What it is
 Integrates Mailchimp with GenAI applications via the Model Context Protocol, enabling email marketing automation through natural language interactions.

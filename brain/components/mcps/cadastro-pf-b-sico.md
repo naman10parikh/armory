@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:46:24Z"
 ---
 ## What it is
 Enables querying basic Brazilian CPF registration data (name, status, birth date) via a hosted MCP server with a single read-only tool, usable from any MCP client.

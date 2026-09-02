@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-28T09:58:34Z"
 ---
 ## What it is
 Provides access to Victoria, Australia's public holidays and important dates via an MCP server.

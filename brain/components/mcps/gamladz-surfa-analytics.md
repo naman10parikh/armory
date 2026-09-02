@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-23T08:14:18Z"
 ---
 ## What it is
 MCP server `Surfa Analytics`, catalogued on PulseMCP. Queries Surfa Analytics traffic data using natural language for session metrics, event filtering, latency analysis, and performance insights.

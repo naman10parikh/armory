@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T14:28:17Z"
 ---
 ## What it is
 Enables secure, authenticated access to Nomai's tools via Google OAuth 2.1, with email allowlisting for access control.

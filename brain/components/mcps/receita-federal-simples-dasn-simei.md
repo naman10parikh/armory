@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:42Z"
 ---
 ## What it is
 Permite consultar dados oficiais da Receita Federal sobre DASN SIMEI por meio de uma ferramenta somente leitura, hospedada sem credenciais e com pagamento por consulta.

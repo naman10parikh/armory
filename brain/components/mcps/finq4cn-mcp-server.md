@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2025-07-10T03:24:54Z"
 ---
 ## What it is
 Provides free, open-source access to China A-share financial data for quantitative analysis, including stock metrics, news, and backtesting.

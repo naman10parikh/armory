@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:44:22Z"
 ---
 ## What it is
 MCP server `Blockstream Esplora`, catalogued on PulseMCP. Explore the Bitcoin blockchain using Blockstream's Esplora API, covering addresses, transactions, blocks, and mempool data on mainnet and testnet.

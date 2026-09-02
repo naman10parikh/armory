@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-06T09:23:54Z"
 ---
 ## What it is
 MCP server `AXLE Lean Engine`, catalogued on PulseMCP. Wraps the AXLE (Axiom Lean Engine) CLI for Lean 4 proof checking, repair, simplification, counterexample finding, and code transformation.

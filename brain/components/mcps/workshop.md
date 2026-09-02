@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T02:50:32Z"
 ---
 ## What it is
 Enables LLM clients to query current weather and temperature for a city and simulate sending invitations with confirmation and per-item progress.

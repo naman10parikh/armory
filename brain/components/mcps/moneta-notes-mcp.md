@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T20:11:59Z"
 ---
 ## What it is
 MCP server exposing fast full-text and semantic search over an Obsidian vault, plus safe structured note read and write access for Claude.

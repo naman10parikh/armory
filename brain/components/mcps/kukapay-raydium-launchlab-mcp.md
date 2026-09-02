@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 4
+forks: 6
+pushed_at: "2025-05-21T06:22:24Z"
 ---
 ## What it is
 An MCP server that enables AI agents to launch, buy, and sell tokens on the Raydium Launchpad(aka LaunchLab).

@@ -12,6 +12,8 @@ stars: 65
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-02-27T17:15:14Z"
 ---
 ## What it is
 MCP server `Claude History`, catalogued on PulseMCP. Indexes and searches Claude Code conversation history using hybrid BM25 + TF-IDF search with automatic knowledge extraction and proactive context injection.

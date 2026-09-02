@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-19T06:17:28Z"
 ---
 ## What it is
 MCP server `xmorf`, catalogued on PulseMCP. Integrates the xmorf AI image editing and generation API for AI-powered image manipulation through MCP tools.

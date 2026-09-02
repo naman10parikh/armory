@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T12:28:38Z"
 ---
 ## What it is
 AI-powered pipeline that analyzes user stories and PRDs for gaps, ambiguities, and missing acceptance criteria before coding, with MCP tools for requirement analysis and risk reporting.

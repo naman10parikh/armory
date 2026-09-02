@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T10:49:40Z"
 ---
 ## What it is
 An ultra-fast native MCP server for macOS desktop automation, enabling visual OCR, text-based clicking, window management, and keyboard/mouse control without hijacking the physical cursor.

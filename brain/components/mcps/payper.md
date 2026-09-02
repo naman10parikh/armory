@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T03:55:20Z"
 ---
 ## What it is
 MCP server — AI agents rent GPUs & pay in USDG over x402 on Robinhood Chain.

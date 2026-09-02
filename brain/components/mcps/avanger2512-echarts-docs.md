@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T17:35:26Z"
 ---
 ## What it is
 MCP server `ECharts Docs`, catalogued on PulseMCP. Provides ECharts documentation and knowledge resources for chart configuration assistance.

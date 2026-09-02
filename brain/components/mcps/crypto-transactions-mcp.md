@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:17:26Z"
 ---
 ## What it is
 MCP server for tracking crypto transactions (trades, swaps, transfers) with exact Decimal precision, allowing LLM agents to log and query historical records with JSON or Notion persistence.

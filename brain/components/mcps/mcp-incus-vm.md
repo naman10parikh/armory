@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:34:14Z"
 ---
 ## What it is
 Enables AI agents to control and automate Incus/QEMU virtual machines via SSH, supporting mouse/keyboard, screenshots, commands, and lifecycle management.

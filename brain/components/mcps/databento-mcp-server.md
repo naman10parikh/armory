@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-25T00:44:18Z"
 ---
 ## What it is
 Provides professional market data access via DataBento API, including real-time futures quotes, historical timeseries, batch downloads, symbol resolution, metadata discovery, and reference data.

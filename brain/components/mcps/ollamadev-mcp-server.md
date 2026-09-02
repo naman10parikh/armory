@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T04:57:04Z"
 ---
 ## What it is
 Companion MCP server for the OllamaDev Android app, providing 36 tools for SDLC phases including filesystem, code intelligence, build, sprint workflow, and agentic self-prompt via a local Ollama model.

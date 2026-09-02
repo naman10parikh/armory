@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T16:22:19Z"
 ---
 ## What it is
 Enables AI assistants to present interactive spreadsheets within conversations, allowing users to view, edit, import, and export Excel/CSV data directly through the chat interface.

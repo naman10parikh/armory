@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T16:45:59Z"
 ---
 ## What it is
 Enables saving structured development ideas as HTML files from Claude Code CLI or claude.ai, capturing titles, summaries, features, tech stacks, phases, and other planning details using provided tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:15:26Z"
 ---
 ## What it is
 MCP server for managing support tickets on Concrete CMS sites via REST API. Enables listing, reading, replying to tickets, and handling projects, attachments, and moderation.

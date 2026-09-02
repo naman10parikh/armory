@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-24T04:16:57Z"
 ---
 ## What it is
 MCP server `Sprout`, catalogued on PulseMCP. Model-tiered content pipeline where cheap models seed drafts and expensive models verify quality.

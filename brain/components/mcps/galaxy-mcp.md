@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T18:02:37Z"
 ---
 ## What it is
 Live MCP server for the Galaxy vault. Lets Claude (mobile/web) and other chat interfaces query your Obsidian vault in real time via GitHub.

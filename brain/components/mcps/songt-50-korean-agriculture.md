@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-08T23:59:33Z"
 ---
 ## What it is
 MCP server `Korean Agriculture Market`, catalogued on PulseMCP. Korean wholesale agriculture market auction data covering real-time prices, trends, and market comparisons across 32+ markets.

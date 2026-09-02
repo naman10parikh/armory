@@ -8,10 +8,12 @@ source_url: https://github.com/wh0am123/mcp-kali-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 700
+stars: 808
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 160
+pushed_at: "2026-03-17T21:13:13Z"
 ---
 ## What it is
 MCP server `Kali Linux Penetration Testing Tools`, catalogued on PulseMCP. Provides a bridge to Kali Linux penetration testing tools including nmap, gobuster, and metasploit for security scanning, vulnerability assessment, and password cracking operations

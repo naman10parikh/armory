@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-01T21:57:35Z"
 ---
 ## What it is
 MCP server `Google Analytics 4`, catalogued on PulseMCP. Manage GA4 properties, data streams, conversions, and run reports via Admin and Data APIs.

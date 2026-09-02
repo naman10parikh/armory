@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-15T06:37:54Z"
 ---
 ## What it is
 Enables conversational querying of structured, source-linked datasets about investing in Saudi Arabia, including fees, sectors, and SEZs, through 8 MCP tools.

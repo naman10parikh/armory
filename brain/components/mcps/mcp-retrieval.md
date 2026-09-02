@@ -8,11 +8,13 @@ source_url: https://github.com/Role1776/mcp-retrieval
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T22:40:07Z"
 ---
 ## What it is
 An MCP server providing web search, image search, and page scraping tools to LLMs without requiring API keys.

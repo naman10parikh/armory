@@ -8,10 +8,12 @@ source_url: https://github.com/jackkuo666/biorxiv-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-03-18T13:21:12Z"
 ---
 ## What it is
 MCP server `bioRxiv`, catalogued on PulseMCP. Provides a specialized interface for searching and retrieving bioRxiv scientific articles through keyword-based searching, advanced parameter filtering, and DOI metadata retrieval using Python's asyncio for asynchronous processing.

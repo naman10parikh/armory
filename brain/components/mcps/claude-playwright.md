@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-10T06:07:44Z"
 ---
 ## What it is
 Enables browser automation and web interaction control through Playwright, allowing Claude Code to navigate, click, fill forms, take screenshots, and manage sessions.

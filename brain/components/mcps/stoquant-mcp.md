@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T19:15:18Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for StoQuant that gives Claude and any MCP-compatible agent direct, read-only access to StoQuant's quant signals, ML predictions, screening, ownership, and macro data.

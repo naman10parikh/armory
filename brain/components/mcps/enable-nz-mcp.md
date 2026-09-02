@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T08:05:39Z"
 ---
 ## What it is
 Enables full-text search and retrieval of public content from enable.co.nz via MCP tools.

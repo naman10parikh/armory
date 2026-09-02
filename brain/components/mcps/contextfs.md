@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-25T09:48:47Z"
 ---
 ## What it is
 MCP server for OpenCode that manages context with structured injection, progressive retrieval, and layered storage to keep Agent stable and traceable.

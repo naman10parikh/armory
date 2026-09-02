@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-28T13:41:10Z"
 ---
 ## What it is
 MCP server `Docusign Navigator`, catalogued on PulseMCP. Enables natural language queries to access and analyze DocuSign agreement data

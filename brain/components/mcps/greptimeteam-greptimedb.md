@@ -8,10 +8,12 @@ source_url: https://github.com/greptimeteam/greptimedb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-08-16T15:14:04Z"
 ---
 ## What it is
 MCP server `GreptimeDB`, catalogued on PulseMCP. Enables AI interaction with GreptimeDB time-series databases through MySQL protocol for data exploration, analysis, and SQL query execution with built-in security protections.

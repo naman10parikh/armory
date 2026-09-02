@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 28
+pushed_at: "2025-07-28T16:56:09Z"
 ---
 ## What it is
 A step-by-step guide and complete working example for building and running an MCP server with streamable HTTP transport using Python, mcp, and FastAPI, enabling AI assistants to access tools over HTTP.

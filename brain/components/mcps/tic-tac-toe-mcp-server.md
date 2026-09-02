@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:16:04Z"
 ---
 ## What it is
 Enables two Claude Code sessions to play tic-tac-toe against each other by providing tools to join a game, view the board, and make moves, with turn notifications pushed over channels.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T01:11:46Z"
 ---
 ## What it is
 Enables AI assistants to control Adobe InDesign on Windows via the Model Context Protocol, allowing document inspection, text and style editing, and exports to formats like PDF, images, and EPUB.

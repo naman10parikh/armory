@@ -8,11 +8,13 @@ source_url: https://github.com/Epochal-dev/open-notebook-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 42
+stars: 43
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-12-22T11:32:45Z"
 ---
 ## What it is
 Enables AI assistants to manage notebooks, sources, notes, search content, and interact with AI models through Open Notebook.

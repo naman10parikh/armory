@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T07:10:48Z"
 ---
 ## What it is
 Exposes health segmentation data from the Pathways platform, enabling natural language queries about population segments, metrics, and geographic distributions across countries like Senegal and Kenya.

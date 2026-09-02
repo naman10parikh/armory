@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T13:35:00Z"
 ---
 ## What it is
 Enables AI agents to create and manage Convyy boards, including diagrams, kanban boards, journey maps, and more, through MCP tools like convyy_run_prompt.

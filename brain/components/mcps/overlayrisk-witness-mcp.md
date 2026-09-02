@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T22:46:14Z"
 ---
 ## What it is
 Runs the free, independent before/after accessibility-overlay witness on any public URL to test if accessibility overlay widgets actually work.

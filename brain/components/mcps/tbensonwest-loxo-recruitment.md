@@ -8,10 +8,12 @@ source_url: https://github.com/tbensonwest/loxo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-05-04T18:57:51Z"
 ---
 ## What it is
 MCP server `Loxo Recruitment`, catalogued on PulseMCP. Integrates with Loxo's recruitment platform API to streamline hiring processes through automated candidate tracking, job matching, and task management.

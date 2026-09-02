@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T21:31:50Z"
 ---
 ## What it is
 MCP server that enables searching and reading binary document files (PDF, DOCX, PPTX, XLSX, ODT, ODS, ODP, RTF, EPUB) using regex patterns and retrieving content by sections.

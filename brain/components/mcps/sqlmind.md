@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T11:39:46Z"
 ---
 ## What it is
 An MCP server that provides SQL generation, validation, transpilation, and schema introspection across 10 SQL dialects, using a property graph schema and phase-locked reasoning to convert natural language to accurate SQL.

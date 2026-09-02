@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T07:26:52Z"
 ---
 ## What it is
 Enables AI agents to transcribe audio and video with speaker labels, timestamps, and captions via Pepys API.

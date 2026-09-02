@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T20:20:50Z"
 ---
 ## What it is
 Enables fully local retrieval over a personal document corpus via hybrid search, cross-encoder reranking, RAPTOR summaries, and knowledge graph queries, served to AI agents over MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T15:35:50Z"
 ---
 ## What it is
 Wraps the Eclipse JDT Language Server to enable AI assistants to understand Java codebases, search symbols, navigate definitions/references, and read third-party .class files.

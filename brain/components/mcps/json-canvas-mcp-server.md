@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T14:09:09Z"
 ---
 ## What it is
 Create, validate, read, edit, export, and search JSON Canvas files with an interactive inline viewer, stored privately per user.

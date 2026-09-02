@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T12:13:11Z"
 ---
 ## What it is
 Read-only MCP server for ISPKeeper ISP management software, enabling querying of clients, invoices, collections, internet connections, support tickets, network status, and FTTx infrastructure through MCP-compatible clients.

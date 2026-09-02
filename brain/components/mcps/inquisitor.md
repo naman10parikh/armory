@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T23:50:27Z"
 ---
 ## What it is
 Enables AI agents to efficiently solve problems by estimating complexity, pruning unnecessary paths, and focusing search through web search, code analysis, and persistent investigation tracking.

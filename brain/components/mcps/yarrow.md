@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T11:35:45Z"
 ---
 ## What it is
 An I-Ching oracle MCP server for casting hexagrams, looking up bilingual classical sources, and generating grounded Wilhelm/Baynes-style reflections.

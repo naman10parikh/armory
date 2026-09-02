@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T12:51:40Z"
 ---
 ## What it is
 MCP server `OWS Mesh`, catalogued on PulseMCP. Decentralized marketplace for AI agents to discover and pay for MCP tools via cryptocurrency micropayments.

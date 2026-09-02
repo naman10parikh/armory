@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-17T06:32:17Z"
 ---
 ## What it is
 MCP server for Clash Verge Rev that lets AI agents control your proxy — switch nodes, change modes, reload config, test latency — directly from conversation.

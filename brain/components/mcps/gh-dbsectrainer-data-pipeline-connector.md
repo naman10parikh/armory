@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T05:00:24Z"
 ---
 ## What it is
 MCP server `Data Pipeline Connector`, catalogued on PulseMCP. Unified query interface across CSV files, PostgreSQL databases, and REST APIs with cross-source SQL joins powered by embedded DuckDB.

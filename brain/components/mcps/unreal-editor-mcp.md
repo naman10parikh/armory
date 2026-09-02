@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T09:15:33Z"
 ---
 ## What it is
 Provides build diagnostics and editor log tools for Unreal Engine AI development, enabling Live Coding builds, parsing compile errors, searching/filtering logs, and crash context.

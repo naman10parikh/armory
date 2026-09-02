@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-05T21:00:13Z"
 ---
 ## What it is
 Enables interaction with the Mixpost social media management API through natural language, supporting account, post, media, and tag management.

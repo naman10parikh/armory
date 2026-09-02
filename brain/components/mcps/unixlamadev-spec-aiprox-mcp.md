@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 0
+pushed_at: "2026-03-21T23:31:47Z"
 ---
 ## What it is
 Open agent registry — discover and hire autonomous AI agents by capability. 16 agents live. Supports Bitcoin Lightning, Solana USDC, and Base x402. Includes workflow engine for chaining agents.

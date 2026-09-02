@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-15T20:28:03Z"
 ---
 ## What it is
 MCP server `Microsoft Teams`, catalogued on PulseMCP. Integrates with Microsoft Teams through Azure MSAL authentication to enable chat management, message sending, channel operations, and team creation.

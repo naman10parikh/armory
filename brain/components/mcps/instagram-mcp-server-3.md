@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T07:00:11Z"
 ---
 ## What it is
 Exposes Instagram actions (posts, media, comments, DMs, insights, Messenger profile) to Claude and ChatGPT via MCP.

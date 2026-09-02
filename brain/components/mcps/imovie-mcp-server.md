@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T21:54:59Z"
 ---
 ## What it is
 An MCP server that enables AI-powered video editing with iMovie on macOS.

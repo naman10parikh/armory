@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T13:15:35Z"
 ---
 ## What it is
 An MCP server for managing Proton Mail, Pass, Drive, and Calendar through local IMAP/SMTP, pass-cli, and Proton Drive CLI, enabling AI agents to operate the mailbox, manage passwords, sync files, and classify emails.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T02:04:25Z"
 ---
 ## What it is
 AgentPay VN — an MCP server that lets your AI agent collect real (fiat) payments over VietQR

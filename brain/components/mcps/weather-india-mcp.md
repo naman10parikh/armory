@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T12:56:13Z"
 ---
 ## What it is
 Provides real-time weather forecasts and alerts for Indian metro cities using Open-Meteo, with support for named city queries and email sharing of weather summaries.

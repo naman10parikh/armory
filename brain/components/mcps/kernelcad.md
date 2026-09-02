@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-28T23:04:23Z"
 ---
 ## What it is
 Enables agent-driven CAD design through deterministic source files (.kcad.ts), including model evaluation, validation, and export to STEP/STL via MCP tools for review and introspection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T04:00:40Z"
 ---
 ## What it is
 Enables AI agents to interact with Coalesce and Snowflake to perform data transformations, run operations, and manage Coalesce resources via natural language.

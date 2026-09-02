@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:05:47Z"
 ---
 ## What it is
 Enables resolving a company domain to its Instagram, Threads, and Facebook accounts with follower and post counts.

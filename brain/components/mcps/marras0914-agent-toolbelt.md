@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 1
+forks: 0
+pushed_at: "2026-08-21T19:17:37Z"
 ---
 ## What it is
 20 focused API tools for AI agents: schema generation, text extraction, token counting, regex/cron building, prompt optimization, web summarization, document comparison, and more. TypeScript SDK + LangChain wrappers included.

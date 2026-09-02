@@ -8,11 +8,13 @@ source_url: https://github.com/xinyi-eng/damai-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-12T08:26:24Z"
 ---
 ## What it is
 MCP server enabling AI to control Android devices via ADB for automated ticket grabbing from Damai, Maoyan, and Fliggy.

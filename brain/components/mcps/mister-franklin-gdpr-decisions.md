@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T22:09:51Z"
 ---
 ## What it is
 MCP server `GDPR Decisions`, catalogued on PulseMCP. Semantic search across EU GDPR enforcement decisions, DPA rulings, and EDPB guidelines.

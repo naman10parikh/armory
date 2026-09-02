@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-09T19:24:43Z"
 ---
 ## What it is
 MCP server `Trail`, catalogued on PulseMCP. Capture stdout and stderr from any process into per-session JSONL files and expose those logs to AI coding agents for real-time debugging assistance.

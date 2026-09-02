@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T22:20:08Z"
 ---
 ## What it is
 Provides full-text search and context retrieval from university course materials (PDF, PPTX, DOCX) offline after indexing.

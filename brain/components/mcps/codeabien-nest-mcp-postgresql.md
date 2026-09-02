@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-05T23:54:18Z"
 ---
 ## What it is
 Enables interaction with a PostgreSQL database via MCP, using Docker and NestJS for AI-powered database operations.

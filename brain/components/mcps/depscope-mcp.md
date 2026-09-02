@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-05T02:00:47Z"
 ---
 ## What it is
 Validates and checks packages across 19 ecosystems to prevent AI agents from installing hallucinated, deprecated, or malicious packages.

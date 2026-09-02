@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T06:22:07Z"
 ---
 ## What it is
 An AI-native governance control plane for GitHub portfolios that enables inventory sync, provenance analysis, classification, and policy enforcement across multiple repositories with strong security boundaries.

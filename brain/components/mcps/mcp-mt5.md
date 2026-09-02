@@ -8,11 +8,13 @@ source_url: https://github.com/PHUICMT/mcp-mt5
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-04T16:48:36Z"
 ---
 ## What it is
 Model Context Protocol server for the MetaTrader 4/5 build pipeline, enabling LLM-driven compilation, deployment, backtesting, and log tailing without UI interaction.

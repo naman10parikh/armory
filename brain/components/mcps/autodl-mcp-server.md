@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T04:56:40Z"
 ---
 ## What it is
 Manages AutoDL GPU cloud instances, including lifecycle management, SSH operations, file transfer, and GPU monitoring.

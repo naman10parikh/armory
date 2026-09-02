@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-30T07:01:46Z"
 ---
 ## What it is
 Local MCP server providing project cognition capabilities for AI coding agents, including context packs, impact analysis, and git diff review through stdio communication.

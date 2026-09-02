@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T21:47:56Z"
 ---
 ## What it is
 Searches US colleges and scholarships using government data, enabling comparisons of tuition, debt, earnings, and program-specific outcomes.

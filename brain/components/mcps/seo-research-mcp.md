@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T07:39:18Z"
 ---
 ## What it is
 Enables AI-powered IDEs to perform SEO research including backlink analysis, keyword generation, traffic estimation, and keyword difficulty using Ahrefs data and CapSolver for CAPTCHA solving.

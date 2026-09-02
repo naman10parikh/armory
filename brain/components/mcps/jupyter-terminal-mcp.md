@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T16:44:09Z"
 ---
 ## What it is
 Enables an agent to run shell commands through a JupyterLab/JupyterHub-hosted terminal, using REST API and WebSocket via Selenium for session handling, when SSH is not available.

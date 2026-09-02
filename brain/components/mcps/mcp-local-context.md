@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-22T03:03:43Z"
 ---
 ## What it is
 A simple MCP server for local documentation with RAG capabilities, enabling AI assistants to access and search local documents.

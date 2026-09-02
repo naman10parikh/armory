@@ -8,10 +8,12 @@ source_url: https://github.com/rryan/tiddly-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-04T05:41:44Z"
 ---
 ## What it is
 MCP server `TiddlyWiki`, catalogued on PulseMCP. Integrates with TiddlyWiki instances to enable reading, writing, searching, and managing tiddlers for wiki management and documentation tasks.

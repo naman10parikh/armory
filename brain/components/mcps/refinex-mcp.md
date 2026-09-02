@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T15:49:15Z"
 ---
 ## What it is
 Enables querying live AWS spot price arbitrage signals and suppression logs directly in Claude Code or any MCP-compatible AI tool.

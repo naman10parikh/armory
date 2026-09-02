@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:13:56Z"
 ---
 ## What it is
 An MCP server that provides todo management tools (add, list, complete, clear, summarize) and a resource for reading all todos, enabling Codex or other MCP clients to organize and track tasks via natural language.

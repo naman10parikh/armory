@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:13:41Z"
 ---
 ## What it is
 MCP server that connects Claude to the Hevy fitness app, enabling AI-driven personalized strength coaching by reading lifting history and programming workouts.

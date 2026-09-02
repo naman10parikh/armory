@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T10:25:53Z"
 ---
 ## What it is
 A repo-native stdio MCP server that helps AI agents and human users make better use of existing CE-RISE Digital Passport components, services, schemas, documentation, and deployment workflows.

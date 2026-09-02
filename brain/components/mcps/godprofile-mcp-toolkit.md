@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-29T12:57:46Z"
 ---
 ## What it is
 An MCP server that generates stunning animated SVGs, glassmorphic widgets, and bento-grid layouts to enhance your GitHub profile README.

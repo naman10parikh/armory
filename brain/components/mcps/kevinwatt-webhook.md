@@ -8,10 +8,12 @@ source_url: https://github.com/kevinwatt/mcp-webhook
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-01-08T10:01:30Z"
 ---
 ## What it is
 MCP server `Webhooks`, catalogued on PulseMCP. Enables sending customizable messages to external webhook endpoints, facilitating automated notifications and workflow integrations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T08:25:10Z"
 ---
 ## What it is
 Enables IT helpdesk automation by classifying support tickets, estimating priority, generating troubleshooting steps, and predicting resolution times through MCP tools.

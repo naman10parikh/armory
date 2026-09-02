@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:38Z"
 ---
 ## What it is
 MCP server for consulting official first-degree court certificates from Tribunal TJMT for individuals, read-only and pay-per-use via prepaid credits.

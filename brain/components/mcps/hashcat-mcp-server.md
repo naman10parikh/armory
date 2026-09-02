@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T20:06:42Z"
 ---
 ## What it is
 Enables AI assistants to perform password hash auditing locally via Hashcat, with automatic attack escalation and plain-English results.

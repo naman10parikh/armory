@@ -8,10 +8,12 @@ source_url: https://github.com/oakenai/mcp-edit-file-lines
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2024-12-19T05:16:26Z"
 ---
 ## What it is
 MCP server `Edit Files`, catalogued on PulseMCP. Provides precise line-based editing tools for text files within allowed directories, enabling safe and controlled bulk modifications across multiple files.

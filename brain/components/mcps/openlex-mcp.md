@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T04:55:31Z"
 ---
 ## What it is
 MCP Server for Canton Zurich legislation (ZH-Lex) — full-text search, article extraction, and education law tools for ~970 cantonal laws.

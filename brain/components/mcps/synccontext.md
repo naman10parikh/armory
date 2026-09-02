@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T14:04:15Z"
 ---
 ## What it is
 MCP server that provides a shared semantic memory layer for AI coding agents, enabling teams to store, search, and sync context, decisions, and knowledge across projects with project-based isolation and multi-backend support.

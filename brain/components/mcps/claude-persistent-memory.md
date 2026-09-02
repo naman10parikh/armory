@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-25T10:57:03Z"
 ---
 ## What it is
 Gives Claude Code long-term memory that persists across sessions via hybrid BM25 and vector semantic search, with multi-project isolation.

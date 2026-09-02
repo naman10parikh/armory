@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-13T02:52:24Z"
 ---
 ## What it is
 Enables AI to efficiently analyze and extract structured data from complex documents, especially Excel files, by providing tools like section reading and field mapping to reduce token usage and improve success rates.

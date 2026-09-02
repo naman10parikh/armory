@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T16:00:39Z"
 ---
 ## What it is
 MCP server `Businys`, catalogued on PulseMCP. 221 MCP tools across 26 practice areas for independent professionals covering clients, invoices, and contracts.

@@ -8,10 +8,12 @@ source_url: https://github.com/rfingadam/mcp-remote-access
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-09-01T03:08:17Z"
 ---
 ## What it is
 MCP server `Remote Access (SSH & UART)`, catalogued on PulseMCP. Provides SSH and UART/serial remote access tools for executing commands on remote hosts, transferring files through SFTP, and communicating with embedded devices through serial interfaces.

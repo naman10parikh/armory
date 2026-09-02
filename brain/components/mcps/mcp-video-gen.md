@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T19:37:19Z"
 ---
 ## What it is
 Multi-provider AI video, speech, music, and transcription MCP server enabling video generation, image-to-video, TTS, music creation, and speech-to-text via a unified interface.

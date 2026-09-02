@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T08:55:22Z"
 ---
 ## What it is
 Enables fetching sports odds from The Odds API and removing bookmaker margin (vig) to compute fair probabilities, with tools for today's MLB games, processed odds, and consensus lines.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T21:54:42Z"
 ---
 ## What it is
 Bridges browser-based AI assistants with coding agents like Claude Code and Cursor via MCP, enabling chat relay, browser automation, and skill installation.

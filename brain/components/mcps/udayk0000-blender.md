@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T09:49:02Z"
 ---
 ## What it is
 MCP server `Blender`, catalogued on PulseMCP. Connects Blender to Claude for natural language 3D modeling and scene manipulation.

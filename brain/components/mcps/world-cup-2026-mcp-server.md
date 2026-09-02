@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T10:24:26Z"
 ---
 ## What it is
 Free MCP server for the World Cup 2026 Tour public schedule API. It enables AI assistants to fetch the 2026 FIFA World Cup schedule, next match, match by ID, and dataset JSON-LD without an API key.

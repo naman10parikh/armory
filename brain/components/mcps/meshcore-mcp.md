@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-01T23:10:59Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes a MeshCore node and the mesh reachable through it as a clean, high-signal interface for AI agents or tools.

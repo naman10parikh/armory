@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-19T22:22:33Z"
 ---
 ## What it is
 MCP server `Solidity Contract Analyzer`, catalogued on PulseMCP. Analyzes Solidity smart contracts through AST parsing to trace function execution flows, variable interactions, state changes, and external contract calls for debugging and security auditing.

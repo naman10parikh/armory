@@ -8,11 +8,13 @@ source_url: https://github.com/idleprocesscc/co-reading-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 108
+stars: 111
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 28
+pushed_at: "2026-08-28T07:50:23Z"
 ---
 ## What it is
 A local MCP server that gives Claude a durable reading room for EPUB and plain text books, enabling chunk-by-chunk navigation, annotations, progress tracking, and shared margin cards.

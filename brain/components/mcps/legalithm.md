@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T06:11:12Z"
 ---
 ## What it is
 EU AI Act compliance in your editor.Classify risk, cite obligations, draft Article 50 disclosures. Offline, no API key.

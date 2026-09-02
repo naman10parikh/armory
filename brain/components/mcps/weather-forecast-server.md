@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-21T11:30:06Z"
 ---
 ## What it is
 Provides current weather and multi-day forecasts for any location worldwide, integrable with MCP clients like Claude.

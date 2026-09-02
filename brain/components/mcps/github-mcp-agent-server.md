@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T10:51:36Z"
 ---
 ## What it is
 MCP server that exposes GitHub operations as tools for AI agents, enabling code search, issue management, and PR review.

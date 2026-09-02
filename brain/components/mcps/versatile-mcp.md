@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T01:11:00Z"
 ---
 ## What it is
 A modular MCP server that provides AI agents with cognitive memory, local system access, and secure remote execution capabilities through three integrated layers (Brain, Master, Remote).

@@ -8,10 +8,12 @@ source_url: https://github.com/jacksteamdev/obsidian-mcp-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 816
+stars: 832
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 118
+pushed_at: "2026-05-13T16:13:25Z"
 ---
 ## What it is
 MCP server `Obsidian Tools`, catalogued on PulseMCP. Integrates AI-powered tools with Obsidian for enhanced note-taking, linking, and knowledge management workflows.

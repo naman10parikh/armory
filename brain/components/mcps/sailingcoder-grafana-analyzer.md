@@ -8,10 +8,12 @@ source_url: https://github.com/sailingcoder/grafana-mcp-analyzer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-08-01T02:34:34Z"
 ---
 ## What it is
 MCP server `Grafana`, catalogued on PulseMCP. Connects to Grafana instances via API to enable natural language querying of metrics and dashboard data with intelligent analysis, monitoring capabilities, and conversation management for streamlined DevOps troubleshooting and performance insights.

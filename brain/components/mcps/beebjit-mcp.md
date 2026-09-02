@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T20:46:02Z"
 ---
 ## What it is
 Lets an AI application instantiate, connect to, drive, capture output from, and interrogate a real BBC Micro emulator.

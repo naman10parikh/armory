@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T01:46:34Z"
 ---
 ## What it is
 A local MCP server that scans repository dependencies for known vulnerabilities (CVEs) using OSV.dev, enriches findings with NVD and CISA KEV data, and supports triage, remediation, and accepted risk management directly from an AI coding assistant.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T05:54:10Z"
 ---
 ## What it is
 Local CLI and MCP server that redacts secrets from logs, files, and diffs before sending them to AI agents, with stable placeholders and token-budgeted truncation.

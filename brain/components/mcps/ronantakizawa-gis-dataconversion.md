@@ -8,10 +8,12 @@ source_url: https://github.com/ronantakizawa/gis-dataconversion-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-30T19:37:51Z"
 ---
 ## What it is
 MCP server `GIS Data Conversion`, catalogued on PulseMCP. Provides a bridge between geographic data formats, enabling seamless conversion between WKT, GeoJSON, CSV, TopoJSON, and KML with support for reverse geocoding and topology preservation.

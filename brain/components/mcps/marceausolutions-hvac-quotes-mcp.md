@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 2
+forks: 2
+pushed_at: "2026-01-14T15:02:17Z"
 ---
 ## What it is
 HVAC equipment RFQ management for contractors - submit quotes to distributors, track responses, and compare pricing

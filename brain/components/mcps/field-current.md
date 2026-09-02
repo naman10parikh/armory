@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T04:23:57Z"
 ---
 ## What it is
 A self-hosted research library with a read-only MCP endpoint for querying paper metadata, abstracts, and BibTeX entries.

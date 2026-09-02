@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-14T15:02:52Z"
 ---
 ## What it is
 Enables natural language control of live ArcGIS Pro sessions through the Model Context Protocol, allowing inspection of projects, layers, and attributes, and execution of geoprocessing tasks.

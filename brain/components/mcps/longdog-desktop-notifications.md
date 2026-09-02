@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-08T15:28:22Z"
 ---
 ## What it is
 MCP server `Desktop Notifications`, catalogued on PulseMCP. Provides desktop notification capabilities through notify-send command, enabling system alerts with custom titles and messages via D-Bus integration.

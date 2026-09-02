@@ -8,11 +8,13 @@ source_url: https://github.com/davidmosiah/polar-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-29T10:27:53Z"
 ---
 ## What it is
 Local-first MCP server that connects AI agents to your Polar training, sleep, Nightly Recharge and continuous-sample data.

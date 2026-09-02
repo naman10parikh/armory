@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-06T12:36:39Z"
 ---
 ## What it is
 MCP server for the Travelpayouts (Aviasales) API. It provides 13 tools for flight search, price calendars, hotel search, and airport/airline/city lookup.

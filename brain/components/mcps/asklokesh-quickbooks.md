@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-31T01:07:36Z"
 ---
 ## What it is
 MCP server `QuickBooks`, catalogued on PulseMCP. Integrates with QuickBooks API for accounting and financial management tasks.

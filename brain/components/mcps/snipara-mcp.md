@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:59:57Z"
 ---
 ## What it is
 Lightweight MCP connector that provides persistent project memory and context optimization for AI agents via Snipara's hosted APIs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-22T06:25:31Z"
 ---
 ## What it is
 MCP server for FreeIPA identity management. Provides 36 tools for managing users, groups, sudo rules, HBAC rules, certificates, hosts, and SSSD cache.

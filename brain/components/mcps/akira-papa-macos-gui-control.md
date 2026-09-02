@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-01-20T12:47:31Z"
 ---
 ## What it is
 MCP server `macOS GUI Control`, catalogued on PulseMCP. Provides complete macOS system automation through mouse operations, keyboard input, screen capture, window management, and AppleScript execution with safety-focused command filtering.

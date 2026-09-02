@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-23T21:05:27Z"
 ---
 ## What it is
 Enterprise-grade Chrome automation for AI agents with compliance-ready logging, post-quantum encryption, and SIEM integration.

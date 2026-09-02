@@ -8,10 +8,12 @@ source_url: https://github.com/stass/exif-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-11-14T05:59:15Z"
 ---
 ## What it is
 MCP server `EXIF Metadata`, catalogued on PulseMCP. Extracts and analyzes image metadata offline from JPEG, PNG, TIFF, and HEIC formats, providing tools for reading EXIF, GPS, XMP, and other data segments without external dependencies.

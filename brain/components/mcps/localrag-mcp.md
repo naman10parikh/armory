@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:33:56Z"
 ---
 ## What it is
 Enables local document semantic search and retrieval for DeepSeek Harness agents, with source citations and fully local embedding without external APIs.

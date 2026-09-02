@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-24T07:02:26Z"
 ---
 ## What it is
 Enables reviewing and managing AI research paper candidates from arXiv, Semantic Scholar, and Hugging Face Daily Papers, scored against personal interests, via MCP tools in Claude Desktop or Cowork.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T19:08:49Z"
 ---
 ## What it is
 Enables LLMs like Claude to bidirectionally chat with diffusion-based LLMs (e.g., DiffusionGemma, LLaDA) via a persistent llama-diffusion-cli process, with support for restarting sessions and full configuration.

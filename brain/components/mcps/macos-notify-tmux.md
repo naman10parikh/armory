@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-20T04:46:04Z"
 ---
 ## What it is
 MCP server `macOS Notifications with tmux`, catalogued on PulseMCP. Provides native macOS notifications with intelligent tmux session integration that automatically detects terminal environments and enables click-to-navigate functionality for returning to specific tmux sessions, windows, and panes.

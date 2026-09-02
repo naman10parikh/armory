@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:53:38Z"
 ---
 ## What it is
 Enables AI agents to interact with ActiveNet OpenAPI services for managing organizations, activities, customers, facilities, and more.

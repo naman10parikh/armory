@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-01T14:10:20Z"
 ---
 ## What it is
 MCP server `GoldenFlow`, catalogued on PulseMCP. Data transformation toolkit for standardizing, reshaping, and normalizing messy data.

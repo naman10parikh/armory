@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:40:57Z"
 ---
 ## What it is
 Standalone TypeScript MCP server for filesystem operations with robust security, encoding support, and cross-platform path handling.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T08:44:06Z"
 ---
 ## What it is
 Governs and automates WhatsApp messaging for AI agents with security controls like recipient allowlisting, secret scanning, rate limiting, and audit logging.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-31T10:05:42Z"
 ---
 ## What it is
 MCP server for Sticky Rice - interact with your notes from Claude.

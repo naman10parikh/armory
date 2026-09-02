@@ -8,10 +8,12 @@ source_url: https://github.com/jen6/ticktick-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2025-07-23T01:20:00Z"
 ---
 ## What it is
 MCP server `TickTick`, catalogued on PulseMCP. Provides a bridge between TickTick task management platform and conversational interfaces, enabling creation, updating, filtering, and completion of tasks without navigating the TickTick UI directly.

@@ -8,10 +8,12 @@ source_url: https://github.com/awslabs/mcp-server-for-oscal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-06-23T20:40:08Z"
 ---
 ## What it is
 MCP server `AWS OSCAL`, catalogued on PulseMCP. Provides AI assistants with tools to work with NIST's Open Security Controls Assessment Language. Includes OSCAL schema access, resource discovery, documentation queries, and component definition tools for security compliance workflows.

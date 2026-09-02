@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:31:19Z"
 ---
 ## What it is
 An AI-judged options trading practice game with a dealer LLM that generates scenarios and a judge LLM that evaluates pitches. It includes red herrings, difficulty modes, options math, and monetization via Tollbooth-DPYC Bitcoin Lightning.

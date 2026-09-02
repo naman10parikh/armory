@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T10:01:22Z"
 ---
 ## What it is
 MCP server `Frenchie`, catalogued on PulseMCP. Processes PDFs, images, audio, and video, and generates images from text prompts.

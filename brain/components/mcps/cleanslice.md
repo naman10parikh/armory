@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-20T20:09:30Z"
 ---
 ## What it is
 MCP server `CleanSlice`, catalogued on PulseMCP. Architecture documentation and patterns for building NestJS and Nuxt full-stack applications.

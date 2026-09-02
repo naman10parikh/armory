@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-07T23:18:00Z"
 ---
 ## What it is
 MCP server `GitHub Pull Request Activity`, catalogued on PulseMCP. Integrates with GitHub's API to retrieve and format pull request activity as structured XML output for performance reviews, eliminating manual searching through repository history.

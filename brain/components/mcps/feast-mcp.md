@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T06:19:28Z"
 ---
 ## What it is
 MCP server that proxies to a Feast feature server, exposing tools for online feature retrieval, vector search, push, and materialization while forwarding bearer tokens for authentication.

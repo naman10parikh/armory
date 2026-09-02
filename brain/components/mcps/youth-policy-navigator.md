@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T08:39:38Z"
 ---
 ## What it is
 MCP server that searches and matches youth policies and subsidies, checks eligibility conditions against user profiles, and returns detailed reasons (eligible/ineligible/needs_more_info) to drive an agentic question-answer loop.

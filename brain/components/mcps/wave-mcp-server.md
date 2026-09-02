@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-28T17:07:36Z"
 ---
 ## What it is
 Enables Wave invoicing operations including listing invoices, retrieving details, and generating branded PDFs directly from AI assistants.

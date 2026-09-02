@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T05:39:45Z"
 ---
 ## What it is
 A read-only MCP server that provides verified WordPress block definitions and markup across product environments, enabling search, comparison, generation, and validation of blocks.

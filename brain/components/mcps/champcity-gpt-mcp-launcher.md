@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:34:07Z"
 ---
 ## What it is
 ChatGPT-compatible MCP server and Electron launcher for controlled local project-file access, providing read-only and approval-gated write tools over STDIO or HTTP with optional OAuth and HTTPS tunneling.

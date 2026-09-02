@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T13:31:09Z"
 ---
 ## What it is
 Human-in-the-loop approvals and notifications for AI agents via WhatsApp. Enables Cursor, Claude Code, and autonomous AI agents to reach users away from their computers.

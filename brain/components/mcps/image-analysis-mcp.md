@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T01:11:43Z"
 ---
 ## What it is
 FastMCP server for image analysis providing OCR, metadata, and EXIF extraction.

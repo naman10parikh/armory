@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T17:36:42Z"
 ---
 ## What it is
 Syncs CLAUDE.md files across repos, builds a semantic index, and exposes search, list, context, and status tools to Claude via MCP.

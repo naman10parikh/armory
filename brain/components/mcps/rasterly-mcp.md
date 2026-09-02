@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T11:08:45Z"
 ---
 ## What it is
 Enables AI agents to read, screenshot, or convert web pages to PDF using a real headless browser, turning any URL into clean Markdown, a visual image, or a print-ready document.

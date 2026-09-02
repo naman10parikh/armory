@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:25:40Z"
 ---
 ## What it is
 MCP server `Nominatim`, catalogued on PulseMCP. Geocode addresses and reverse-geocode coordinates using the Nominatim OpenStreetMap API.

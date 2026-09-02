@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T12:26:53Z"
 ---
 ## What it is
 Provides live cryptocurrency market data including current prices, 24h stats, and top movers, accessible via MCP with a pay-per-call model.

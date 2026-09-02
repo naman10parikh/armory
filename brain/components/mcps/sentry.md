@@ -13,6 +13,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, observability]
 mentions: 6
+forks: 5
+pushed_at: "2025-03-18T23:39:43Z"
 ---
 
 ## What it is

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T01:19:15Z"
 ---
 ## What it is
 MCP server `Sandbox Bash`, catalogued on PulseMCP. Executes bash commands in sandboxed Docker containers with network isolation, capability dropping, and command blocklisting.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-15T01:16:18Z"
 ---
 ## What it is
 MCP server `Minecraft Bot Control`, catalogued on PulseMCP. Provides complete control over Minecraft bots through the Mineflayer library, enabling autonomous gameplay with 40+ skills including mining, crafting, building, combat, farming, and social interactions.

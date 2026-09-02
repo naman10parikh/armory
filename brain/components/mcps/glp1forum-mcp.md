@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:52:04Z"
 ---
 ## What it is
 MCP server that searches and reads https://glp1forum.com (a XenForo forum) via system curl, providing tools for full-text search, thread reading, image downloads, and forum browsing without any API keys.

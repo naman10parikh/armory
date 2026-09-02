@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-19T03:13:46Z"
 ---
 ## What it is
 Effortlessly orchestrate and oversee Docker environments from anywhere, using natural, conversational commands.

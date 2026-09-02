@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-07-25T17:29:43Z"
 ---
 ## What it is
 A unified MCP server that integrates Zoho CRM and Zoho Books, enabling AI assistants to manage CRM records, Books customers/invoices, synchronize data, and search across both systems.

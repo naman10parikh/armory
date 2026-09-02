@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T18:38:27Z"
 ---
 ## What it is
 An MCP server that retrieves documentation from official sources (LangChain, LlamaIndex, OpenAI, uv) using Serper API, extracts page content, and provides context for LLM-based answers.

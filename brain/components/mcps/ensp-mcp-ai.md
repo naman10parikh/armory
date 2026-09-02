@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-26T11:04:10Z"
 ---
 ## What it is
 Enables AI clients to manage Huawei eNSP simulated network devices, execute CLI commands, apply configurations, and perform network diagnostics through natural language, with topology upload and visualization via a web UI.

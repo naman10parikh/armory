@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-30T09:31:53Z"
 ---
 ## What it is
 MCP server `PowerPoint Generator`, catalogued on PulseMCP. Generates professional PowerPoint presentations with modern design, SVG icons, and Japanese language support.

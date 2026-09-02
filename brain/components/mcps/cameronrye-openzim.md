@@ -8,10 +8,12 @@ source_url: https://github.com/cameronrye/openzim-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 125
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-09-02T02:48:36Z"
 ---
 ## What it is
 MCP server `OpenZIM`, catalogued on PulseMCP. Provides offline access to ZIM format knowledge bases with search capabilities, content retrieval, and smart fallback mechanisms for accessing Wikipedia dumps and educational archives without internet connectivity.

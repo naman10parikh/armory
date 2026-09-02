@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-08T10:02:42Z"
 ---
 ## What it is
 Enables discovering channels and sending messages with optional title, content, action, and image via the FastAlert API.

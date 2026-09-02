@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T19:40:39Z"
 ---
 ## What it is
 Open-source CLI + MCP server that asks real AI engines (ChatGPT, Claude, Gemini, Perplexity) real buyer questions and scores whether a brand or its products get recommended (AI visibility / GEO / AEO). Runs locally with your own API keys.

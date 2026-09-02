@@ -8,10 +8,12 @@ source_url: https://github.com/openfort-xyz/-deprecated-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-27T12:00:22Z"
 ---
 ## What it is
 MCP server `Openfort`, catalogued on PulseMCP. Enhances AI assistants by enabling them to create projects, manage configurations, and query data automatically when building applications on Openfort's infrastructure.

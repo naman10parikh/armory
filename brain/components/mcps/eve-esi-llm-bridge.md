@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-29T10:03:26Z"
 ---
 ## What it is
 MCP server that connects EVE Online's ESI API to LLM clients, enabling reading private and public EVE data, resolving names and IDs, and optionally executing a small allowlist of write actions.

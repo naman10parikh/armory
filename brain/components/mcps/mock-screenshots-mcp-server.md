@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T07:38:48Z"
 ---
 ## What it is
 Enables AI agents to compose fake chat conversations and generate deep links to a pre-filled mock screenshot generator for parody, education, and design mockups.

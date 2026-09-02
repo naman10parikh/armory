@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T19:49:52Z"
 ---
 ## What it is
 A personal MCP server that enables Claude to interact with Jira, Confluence, Gmail, Google Drive, and Slack via natural language from any device.

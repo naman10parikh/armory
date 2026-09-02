@@ -8,10 +8,12 @@ source_url: https://github.com/thomasxm/crowdsentinels-ai-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 204
+stars: 206
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-07-19T21:09:49Z"
 ---
 ## What it is
 MCP server `CrowdSentinel`, catalogued on PulseMCP. AI-powered threat hunting and incident response framework for Elasticsearch and OpenSearch with detection rules, EVTX analysis, and PCAP inspection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T13:19:44Z"
 ---
 ## What it is
 MCP server that removes article paywalls by searching internet archives (Wayback Machine, archive.is, Memento) and returns clean article text. It also learns from success rates per domain to optimize archive searches.

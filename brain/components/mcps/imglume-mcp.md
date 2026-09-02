@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T12:07:44Z"
 ---
 ## What it is
 An open-source MCP server that connects AI clients to ImgLume for visual inspiration, prompt improvement, image generation and editing, and video generation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T13:25:24Z"
 ---
 ## What it is
 Enables natural language interaction with Teradata databases through Claude, allowing data exploration, profiling, and in-database KMeans clustering via MCP.

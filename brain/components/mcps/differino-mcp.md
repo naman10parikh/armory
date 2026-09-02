@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T13:45:24Z"
 ---
 ## What it is
 MCP server for Differino that lets AI agents compare PDF, DOCX, and TXT documents, with tools for visual and text diffs, summaries, exports, and account balance checks.

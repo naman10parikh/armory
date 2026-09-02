@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-10T16:45:27Z"
 ---
 ## What it is
 MCP server `FastSkills`, catalogued on PulseMCP. Standalone skill engine that gives any MCP-compatible agent discovery and execution of SKILL.md playbooks without framework lock-in.

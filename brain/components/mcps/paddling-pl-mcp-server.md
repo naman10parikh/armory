@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T09:23:44Z"
 ---
 ## What it is
 MCP server for paddling.pl, a Polish kayaking-trip marketplace, enabling users to search trips, check availability, and access equipment resources through natural language.

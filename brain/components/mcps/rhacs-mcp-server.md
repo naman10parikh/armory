@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T17:32:53Z"
 ---
 ## What it is
 MCP server for the Red Hat Advanced Cluster Security for Kubernetes API, providing LLM access to all 69 API services and 361 endpoints through six meta-tools for discovery, inspection, and direct API calls.

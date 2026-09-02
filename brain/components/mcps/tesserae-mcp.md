@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T04:05:51Z"
 ---
 ## What it is
 Enables AI agents to build freeform dashboards for e-ink panels by listing widgets and devices, laying out a canvas, rendering a preview, and pushing to the panel.

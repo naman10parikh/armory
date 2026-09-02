@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-26T06:54:45Z"
 ---
 ## What it is
 为DeepSeek、Claude Desktop等AI助手提供本地视觉能力，支持图片描述和视频帧分析，数据不出机。

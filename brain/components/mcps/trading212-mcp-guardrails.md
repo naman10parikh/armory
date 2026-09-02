@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T18:14:09Z"
 ---
 ## What it is
 An MCP server that exposes the Trading 212 API with a hard-enforced safety layer—including idempotency ledger, circuit breaker, and position limits—to enable safe live and paper trading through natural language.

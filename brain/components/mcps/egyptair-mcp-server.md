@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T19:55:01Z"
 ---
 ## What it is
 Enables safe interaction with EgyptAir's operational data for managing flights, bookings, and compensation requests.

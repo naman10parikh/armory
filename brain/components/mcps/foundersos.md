@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:08:05Z"
 ---
 ## What it is
 Give your AI the full context of how your business runs: CRM, finances, tasks, and memory in one self-hosted MCP server." Short + long descriptions lead with cross-domain reasoning ("which customers are behind on payment and what did we last promise them" reads the ledger and CRM in one answer) and 

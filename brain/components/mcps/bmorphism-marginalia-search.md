@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-06T05:47:24Z"
 ---
 ## What it is
 MCP server `Marginalia Search`, catalogued on PulseMCP. Integrates Marginalia Search to discover non-commercial and independent web content for research, trend analysis, and alternative perspectives.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-30T08:52:59Z"
 ---
 ## What it is
 MCP server for managing Ruckus vSZ wireless controllers, providing 52 tools across 12 modules to query and manage APs, WLANs, zones, clients, alarms, and more, enabling LLM-driven network operations.

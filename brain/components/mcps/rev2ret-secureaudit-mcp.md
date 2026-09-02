@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 1
+forks: 0
+pushed_at: "2026-05-25T20:54:37Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for static C/C++ memory-safety scanning and compiled PE/ELF binary protections auditing (ASLR, DEP/NX, SafeSEH, PIE) with secure templates remediation.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T02:33:05Z"
 ---
 ## What it is
 MCP server `Aeonos`, catalogued on PulseMCP. AI search visibility optimizer — audit, schema generation, and GEO tactics to get cited by ChatGPT, Perplexity, Claude, and Google AI Overviews.

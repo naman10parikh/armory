@@ -8,10 +8,12 @@ source_url: https://github.com/mythos-agent/mythos-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-05-23T09:18:11Z"
 ---
 ## What it is
 MCP server `Mythos Agent`, catalogued on PulseMCP. Open-source AI security agent with SAST, DAST, and policy-as-code capabilities over MCP.

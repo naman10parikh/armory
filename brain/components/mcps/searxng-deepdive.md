@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T05:52:39Z"
 ---
 ## What it is
 An MCP server for SearXNG that provides LLM agents with advanced search tools, including engine and category targeting, multi-page fanout, and dynamic descriptions from the live engine pool.

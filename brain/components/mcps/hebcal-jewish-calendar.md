@@ -8,10 +8,12 @@ source_url: https://github.com/hebcal/hebcal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-05T16:25:45Z"
 ---
 ## What it is
 MCP server `Hebcal (Jewish Calendar)`, catalogued on PulseMCP. Integrates with Hebrew calendar libraries to provide date conversions, yahrzeit calculations, and Torah portion information for Jewish religious observances.

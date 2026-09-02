@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T12:22:36Z"
 ---
 ## What it is
 MCP server `Elnora`, catalogued on PulseMCP. AI-powered bioprotocol optimization platform for generating, searching, and managing lab protocols.

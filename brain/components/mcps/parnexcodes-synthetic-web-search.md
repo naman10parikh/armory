@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-23T06:38:34Z"
 ---
 ## What it is
 MCP server `Synthetic Web Search`, catalogued on PulseMCP. Integrates with the Synthetic API to perform real-time web searches and retrieve structured results containing URLs, titles, text snippets, and publication dates.

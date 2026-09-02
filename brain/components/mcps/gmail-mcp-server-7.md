@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T00:31:21Z"
 ---
 ## What it is
 Multi-account Gmail integration for AI assistants via the Model Context Protocol (MCP).

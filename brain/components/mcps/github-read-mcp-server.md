@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T15:46:12Z"
 ---
 ## What it is
 Read-only MCP server for the GitHub REST API that enables agents to query repositories, issues, files, and users without any write access.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T05:30:10Z"
 ---
 ## What it is
 Provides code intelligence by indexing source code into SQLite and offering MCP tools for symbol search, flow tracing, and context retrieval to assist with code navigation and understanding.

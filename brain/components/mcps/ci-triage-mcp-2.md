@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T16:06:40Z"
 ---
 ## What it is
 Exposes a Ci-mvp security-triage pipeline as chat tools for Claude Desktop, enabling on-demand queries of Trivy/Semgrep scan results stored in S3.

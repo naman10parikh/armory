@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T10:55:35Z"
 ---
 ## What it is
 Local MCP server that signs and records agent actions into a tamper-evident log using Ed25519 keys for frictionless integration with Touchstone.

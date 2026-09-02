@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T18:14:38Z"
 ---
 ## What it is
 A comprehensive MCP server that demonstrates Bob's capabilities through 9 specialized tools for file operations, code analysis, and git operations.

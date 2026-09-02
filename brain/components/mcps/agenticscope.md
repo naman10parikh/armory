@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T06:17:00Z"
 ---
 ## What it is
 A read-only MCP server that provides AI agents with live, structured workspace awareness, including project listing, git status, and budgeted context packing, minimizing token usage.

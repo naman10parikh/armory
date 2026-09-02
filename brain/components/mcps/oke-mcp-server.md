@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-14T11:41:16Z"
 ---
 ## What it is
 MCP server for Oracle Container Engine for Kubernetes (OKE) that enables inspection, querying, and troubleshooting of OKE clusters through safe, composable tools.

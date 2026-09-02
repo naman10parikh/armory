@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-24T21:15:26Z"
 ---
 ## What it is
 Enables read-only integration with GitHub, Jenkins, and Artifactory for DevOps monitoring, analysis, and troubleshooting. Provides repository inspection, build log retrieval, and artifact management through natural language.

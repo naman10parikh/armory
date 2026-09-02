@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-30T04:51:36Z"
 ---
 ## What it is
 MCP server `ZenMemory (Solana)`, catalogued on PulseMCP. Provides a bridge between personal memory storage and Solana blockchain for storing, validating, and retrieving memory blocks with emotional context and tags, enabling trusted verification and persistence.

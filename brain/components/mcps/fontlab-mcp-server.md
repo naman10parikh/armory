@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-15T15:15:34Z"
 ---
 ## What it is
 Enables AI assistants to interact with FontLab for font design and manipulation, including querying font metadata, creating/modifying glyphs, applying transformations, and exporting fonts.

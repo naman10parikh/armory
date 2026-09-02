@@ -8,11 +8,13 @@ source_url: https://github.com/joinly-ai/joinly
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 563
+stars: 564
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 92
+pushed_at: "2026-09-01T11:27:36Z"
 ---
 ## What it is
 Enables AI agents to join and actively participate in video calls, providing real-time interaction and meeting tools through an MCP server.

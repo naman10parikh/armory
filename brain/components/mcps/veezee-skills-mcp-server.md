@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T14:18:42Z"
 ---
 ## What it is
 Enables AI agents to enrich LinkedIn prospect data with current role, company, and experience through MCP or REST, with credit-metered access and free credits.

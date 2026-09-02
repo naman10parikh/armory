@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-22T14:34:45Z"
 ---
 ## What it is
 MCP server `Docker Code Runner`, catalogued on PulseMCP. Executes Python and bash code in isolated Docker containers with configurable timeouts, environment variables, and pre-installed security tools for secure sandboxed code execution.

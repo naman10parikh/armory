@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-22T15:18:34Z"
 ---
 ## What it is
 MCP server `GitHub`, catalogued on PulseMCP. Integrates with GitHub APIs to enable repository searching, issue management, pull request creation, and settings control directly within Claude Desktop conversations, eliminating the need to switch to the GitHub web interface.

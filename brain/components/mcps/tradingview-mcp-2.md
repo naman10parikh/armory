@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T15:35:20Z"
 ---
 ## What it is
 The most complete AI-powered trading toolkit for Claude and MCP clients, offering backtesting, live sentiment, Yahoo Finance, and 30+ technical analysis tools in one MCP server.

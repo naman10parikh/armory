@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T03:34:19Z"
 ---
 ## What it is
 Provides verified NFL stats (2016–2025) and Sleeper league context through an MCP server, with tools for querying metrics, comparing entities, verifying claims, and accessing league data.

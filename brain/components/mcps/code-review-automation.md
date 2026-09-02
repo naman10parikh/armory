@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T07:32:35Z"
 ---
 ## What it is
 MCP server for automated code review using AI agents. It analyzes code diffs or file paths for bugs, security issues, and style violations.

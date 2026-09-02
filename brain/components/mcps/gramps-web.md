@@ -8,10 +8,12 @@ source_url: https://github.com/cabout-me/gramps-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-07-29T17:19:47Z"
 ---
 ## What it is
 MCP server `Gramps Web`, catalogued on PulseMCP. Integrates with Gramps Web API to provide genealogy research and management through 24 specialized tools for family tree exploration, relationship analysis, timeline generation, and full CRUD operations on genealogical records including people, families, events, places, sources, and media.

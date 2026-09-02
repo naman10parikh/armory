@@ -8,10 +8,12 @@ source_url: https://github.com/pi22by7/in-memoria
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 168
+stars: 172
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2025-12-23T15:59:37Z"
 ---
 ## What it is
 MCP server `In Memoria`, catalogued on PulseMCP. Provides persistent intelligence infrastructure for codebase analysis through hybrid Rust-TypeScript architecture that combines Tree-sitter AST parsing with semantic concept extraction, developer pattern recognition, and SQLite-based persistence to build contextual understanding of codebases over time, learning from developer behavior and architectural decisions.

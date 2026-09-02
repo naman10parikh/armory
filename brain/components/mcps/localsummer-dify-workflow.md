@@ -8,10 +8,12 @@ source_url: https://github.com/localsummer/dify-workflow-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-05-22T11:06:12Z"
 ---
 ## What it is
 MCP server `Dify Workflow`, catalogued on PulseMCP. Integrates with Dify to enable text generation, data analysis, and conversational flow management through Dify's API, streamlining AI-powered application development.

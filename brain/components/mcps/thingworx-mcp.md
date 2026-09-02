@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T02:04:43Z"
 ---
 ## What it is
 MCP server for PTC ThingWorx, the IIoT platform, providing 8 tools for AI agents to read live state and trigger actions across the industrial asset graph with env-gated safety for writes and invocations.

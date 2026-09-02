@@ -8,11 +8,13 @@ source_url: https://github.com/ntunes/netmiko-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-21T22:18:03Z"
 ---
 ## What it is
 Enables management of network devices via SSH using Netmiko, supporting command execution, configuration management, and concurrent operations across multiple vendors.

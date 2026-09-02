@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T13:08:53Z"
 ---
 ## What it is
 Enables searching and retrieving Austrian federal legislation and case law from the official legal information system RIS, with verifiable ELI and ECLI identifiers.

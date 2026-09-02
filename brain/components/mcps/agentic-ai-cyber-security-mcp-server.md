@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T04:48:16Z"
 ---
 ## What it is
 Provides AI agents with 25 security analysis tools including vulnerability scanning, package hallucination detection, prompt injection firewall, and CI/CD integration.

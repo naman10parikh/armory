@@ -8,10 +8,12 @@ source_url: https://github.com/nyxcore-systems/ckb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 97
+stars: 108
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-07-28T08:55:51Z"
 ---
 ## What it is
 MCP server `CodeMCP`, catalogued on PulseMCP. Code intelligence with 80+ tools for navigation, impact analysis, and architecture mapping.

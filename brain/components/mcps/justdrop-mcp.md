@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T11:29:16Z"
 ---
 ## What it is
 Enables AI agents to send and receive files securely via JustDrop, with end-to-end encryption, QR codes, and no server-side storage.

@@ -8,10 +8,12 @@ source_url: https://github.com/negai-ai/agentclaw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 233
+stars: 340
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 33
+pushed_at: "2026-06-08T09:10:25Z"
 ---
 ## What it is
 MCP server `AgentClaw`, catalogued on PulseMCP. Declarative agent workflow framework that publishes workflows as MCP servers and connects to MCP servers as tools.

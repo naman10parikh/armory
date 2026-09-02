@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T23:51:11Z"
 ---
 ## What it is
 MCP server that inspects local codebases and generates source-grounded context packs for coding agents, with tools for repository search, symbols, dependencies, Git analysis, and context generation.

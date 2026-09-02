@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T11:46:14Z"
 ---
 ## What it is
 MCP server for DataHub that detects duplicate datasets across platforms and governance gaps, enabling users to apply governance from one twin to another with dry-run by default.

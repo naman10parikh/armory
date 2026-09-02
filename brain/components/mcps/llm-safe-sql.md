@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T02:42:04Z"
 ---
 ## What it is
 Enables LLMs to propose UPDATE/DELETE SQL that is run in a transaction, measured, and rolled back, requiring human approval before applying to prevent unauthorized changes.

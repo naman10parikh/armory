@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T04:20:25Z"
 ---
 ## What it is
 An MCP server that makes backend API requests and packages request+response pairs as evidence to prove an endpoint works.

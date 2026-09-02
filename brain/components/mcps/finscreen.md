@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T10:51:43Z"
 ---
 ## What it is
 Loan officer assistant that uses Claude AI and Plaid banking API to assess loan applicants by pulling financial data and returning structured eligibility verdicts.

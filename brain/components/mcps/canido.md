@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T13:00:38Z"
 ---
 ## What it is
 MCP server `CanIDo`, catalogued on PulseMCP. Permit and license lookup for construction, business, and municipal projects.

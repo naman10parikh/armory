@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-28T02:05:03Z"
 ---
 ## What it is
 MCP server `Docker Deploy`, catalogued on PulseMCP. Lightweight PaaS for deploying Docker containers to any VPS with automatic SSL, subdomain routing, and MCP-based management from any AI coding agent.

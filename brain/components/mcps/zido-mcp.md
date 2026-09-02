@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T19:33:34Z"
 ---
 ## What it is
 Unified MCP server for place search and geocoding across Kakao, Naver, and Google Maps APIs with automatic provider fallback.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-07T10:23:09Z"
 ---
 ## What it is
 MCP server `Blockchain.com Data and Query`, catalogued on PulseMCP. Integrates with Blockchain.com's Data and Query APIs to enable Bitcoin blockchain data retrieval, analysis, and market monitoring for cryptocurrency applications.

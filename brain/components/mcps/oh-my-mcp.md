@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-14T05:16:38Z"
 ---
 ## What it is
 A powerful MCP server with 116 practical tools across 9 categories including compression, web, file system, data processing, text, system, utilities, subagent AI, and browser automation.

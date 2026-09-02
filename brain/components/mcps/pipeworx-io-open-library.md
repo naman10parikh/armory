@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-02T17:40:16Z"
 ---
 ## What it is
 MCP server `Open Library`, catalogued on PulseMCP. Open Library Internet Archive book metadata for searching titles, authors, subjects, and editions via Pipeworx.

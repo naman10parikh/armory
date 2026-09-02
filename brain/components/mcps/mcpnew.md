@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:04:43Z"
 ---
 ## What it is
 Enables developers to scaffold secure-by-default MCP servers with deny-all permissions, typed tool stubs, and pre-wired audit hooks, while enforcing security posture through CI.

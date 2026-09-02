@@ -8,11 +8,13 @@ source_url: https://github.com/mafaq229/pbirb-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T09:18:28Z"
 ---
 ## What it is
 An MCP server for editing Power BI Report Builder paginated reports (.rdl) through Claude, providing tools for datasets, tablixes, page setup, styling, and more.

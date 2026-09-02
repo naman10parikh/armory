@@ -8,10 +8,12 @@ source_url: https://github.com/bigsy/maven-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-04-24T18:04:08Z"
 ---
 ## What it is
 MCP server `Maven Dependencies`, catalogued on PulseMCP. Integrates with Maven Central Repository to verify and retrieve dependency versions for automated project management and updates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-07T09:21:12Z"
 ---
 ## What it is
 A complete MCP server for Fortinet FortiOS 7.6.x that exposes the entire REST API as typed MCP tools for use with MCP-compatible clients like Claude Desktop.

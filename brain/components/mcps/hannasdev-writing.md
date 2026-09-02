@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-29T09:22:50Z"
 ---
 ## What it is
 MCP server `Writing Assistant`, catalogued on PulseMCP. Structured manuscript management for fiction writers with scene indexing, prose editing with staged diffs, continuity analysis, and git-based rollback.

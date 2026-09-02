@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T16:56:11Z"
 ---
 ## What it is
 MCP server `Contendeo`, catalogued on PulseMCP. Multimodal video analysis — transcription, vision keyframe analysis, and OCR for any video URL.

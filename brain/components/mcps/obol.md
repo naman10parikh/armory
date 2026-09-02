@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T22:07:33Z"
 ---
 ## What it is
 Enables AI agents to access Solana wallet analytics, token data, and DeFi tools via pay-per-request USDC micropayments using the x402 protocol, without API keys or subscriptions.

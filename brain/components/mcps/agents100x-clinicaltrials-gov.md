@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-05T14:55:53Z"
 ---
 ## What it is
 MCP server `ClinicalTrials.gov`, catalogued on PulseMCP. Conversational access to ClinicalTrials.gov with 5 tools for searching, comparing, and retrieving clinical trial data.

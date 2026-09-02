@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-03-20T22:49:04Z"
 ---
 ## What it is
 Enables AI assistants to access Fathom meeting recordings, summaries, transcripts, teams, and webhooks through the Model Context Protocol.

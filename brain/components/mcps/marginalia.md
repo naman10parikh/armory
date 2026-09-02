@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T20:57:49Z"
 ---
 ## What it is
 Renders Markdown into a browser-based, click-to-comment thread; comments are returned to Claude as tool results.

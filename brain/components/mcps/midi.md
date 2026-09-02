@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T03:21:29Z"
 ---
 ## What it is
 Enables audio transcription to multi-instrument MIDI files using MuScriptor, supporting local files and HTTPS URLs with safety controls.

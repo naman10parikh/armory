@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T00:53:39Z"
 ---
 ## What it is
 MCP server `Windy Word`, catalogued on PulseMCP. Control Windy Word voice-to-text dictation from any MCP agent with 60 tools across 12 categories.

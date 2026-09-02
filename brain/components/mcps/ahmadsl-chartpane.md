@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-04T09:53:55Z"
 ---
 ## What it is
 MCP server `ChartPane`, catalogued on PulseMCP. Interactive Chart.js charts and dashboards for AI conversations.

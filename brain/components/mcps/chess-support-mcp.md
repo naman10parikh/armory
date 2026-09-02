@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-13T16:40:06Z"
 ---
 ## What it is
 Manages the state of a chess game for LLMs/agents without suggesting moves, providing tools to create/reset game, add moves, get status, and check legality.

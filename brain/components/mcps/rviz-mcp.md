@@ -8,11 +8,13 @@ source_url: https://github.com/mergeos-bounties/rviz-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-07-15T09:41:43Z"
 ---
 ## What it is
 MCP server enabling AI agents to control RViz2 displays, fixed frames, and views, with offline mock support for CI and demos.

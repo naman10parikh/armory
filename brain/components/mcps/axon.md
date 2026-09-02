@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T09:24:22Z"
 ---
 ## What it is
 Axon is an MCP server that provides root-cause debugging and vulnerability detection for AI coding agents. It enables agents to localize bugs, verify fixes, and find security vulnerabilities with high precision, requiring zero configuration.

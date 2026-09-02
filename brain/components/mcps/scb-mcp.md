@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T07:04:01Z"
 ---
 ## What it is
 Enables querying Statistics Sweden's statistical database via tools like navigate, get_table_metadata, query_table, etc.

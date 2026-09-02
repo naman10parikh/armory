@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-22T22:39:57Z"
 ---
 ## What it is
 MCP server `Character Counter`, catalogued on PulseMCP. Analyzes text by counting total characters, characters without spaces, letters, numbers, and symbols for lightweight text composition statistics.

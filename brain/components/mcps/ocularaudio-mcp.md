@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T12:30:21Z"
 ---
 ## What it is
 An asynchronous Model Context Protocol (MCP) server that gives AI models 'eyes and ears' to process web videos. It extracts transcripts and captures screenshots from YouTube and other video platforms.

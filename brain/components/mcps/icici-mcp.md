@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-27T22:30:37Z"
 ---
 ## What it is
 Enables trading Indian stocks on ICICI Direct through natural conversation with any MCP-compatible AI assistant, featuring automated TOTP login and tools for portfolio monitoring, order placement, and market data.

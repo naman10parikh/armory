@@ -8,11 +8,13 @@ source_url: https://github.com/17861102832/wanyimem
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T06:50:30Z"
 ---
 ## What it is
 Enables AI agents to maintain a local, event-sourced long-term memory with semantic retrieval, decision confidence checks, and proactive recalls, ensuring data never leaves the machine.

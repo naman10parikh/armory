@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:43:11Z"
 ---
 ## What it is
 MCP server `Scam Detector`, catalogued on PulseMCP. Python MCP server for scam detection and fraud analysis.

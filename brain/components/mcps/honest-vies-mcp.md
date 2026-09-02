@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:01:10Z"
 ---
 ## What it is
 Local MCP server for validating EU VAT numbers using the official VIES API. Enables AI to check VAT validity and optionally retrieve consultation numbers for legal proof.

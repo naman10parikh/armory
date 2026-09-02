@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T01:16:47Z"
 ---
 ## What it is
 An MCP server for managing Google Blogger blogs, posts, pages, comments, and media via the Blogger API v3. Includes OAuth authentication, Base64 image embedding, and lightweight listing modes.

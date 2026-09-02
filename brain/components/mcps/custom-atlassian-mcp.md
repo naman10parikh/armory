@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T12:14:56Z"
 ---
 ## What it is
 A self-hosted MCP server that exposes Jira and Confluence Cloud to MCP clients, enabling issue tracking, search, creation, and Confluence page management via natural language.

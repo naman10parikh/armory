@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-25T02:28:29Z"
 ---
 ## What it is
 Enables searching and retrieving Korean disease information and statistics from the Health Insurance Review and Assessment Service (HIRA) using Claude.

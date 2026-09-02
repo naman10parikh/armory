@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T15:23:34Z"
 ---
 ## What it is
 MCP server for answering questions about official statistics from a single publication URL, with tools to check query scope, retrieve overview, text, data files, and search.

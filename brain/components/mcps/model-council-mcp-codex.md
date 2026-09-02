@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T06:12:44Z"
 ---
 ## What it is
 Routes questions to a council of AI models (local and cloud) and synthesizes their answers in five configurable modes: individual, categorized, deconflicted, pooled, and dialectic.

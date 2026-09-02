@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T16:18:05Z"
 ---
 ## What it is
 A local-first MCP server that analyzes research papers, maps citation graphs, and surfaces insights with verbatim-verified contradictions, all while keeping data private on your machine.

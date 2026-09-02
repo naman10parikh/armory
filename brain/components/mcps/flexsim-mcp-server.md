@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-10T11:37:28Z"
 ---
 ## What it is
 Controls FlexSim simulation engine via Model Context Protocol, enabling natural language-driven simulation modeling and automation.

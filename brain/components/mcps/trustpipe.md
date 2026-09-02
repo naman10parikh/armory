@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T14:43:54Z"
 ---
 ## What it is
 Grounds AI answers about a business in real, verified data sourced live when needed or cached for reliability, preventing hallucinations.

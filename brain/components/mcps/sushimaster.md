@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T21:56:05Z"
 ---
 ## What it is
 MCP server for finding deals in food delivery apps (Wolt and Glovo). Enables AI agents to search restaurants and dishes, compare prices, ratings, and delivery options, and get recommendations with direct links.

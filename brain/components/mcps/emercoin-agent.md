@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-06-16T13:21:13Z"
 ---
 ## What it is
 Identity + memory layer for AI agents on the Emercoin blockchain — read open, write via GitHub OAuth

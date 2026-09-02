@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T15:40:39Z"
 ---
 ## What it is
 A local MCP server that acts as a thin proxy to expose Tread's trading data and order tools to a local LLM, fetching tool catalog and forwarding calls to the Tread backend.

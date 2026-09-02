@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-18T10:24:09Z"
 ---
 ## What it is
 Enables free local image generation from Claude Desktop/Claude Code using the Draw Things app on Apple Silicon Macs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T13:48:50Z"
 ---
 ## What it is
 Enables an AI agent to act as a merchant, selling catalog items and issuing USDC invoices with cross-chain payment support via Arcorapay.

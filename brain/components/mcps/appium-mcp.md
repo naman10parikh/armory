@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-25T08:34:54Z"
 ---
 ## What it is
 Professional mobile test automation framework with AI-powered test generation, Page Object Model support, and AWS Bedrock integration.

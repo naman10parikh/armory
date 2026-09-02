@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T20:07:28Z"
 ---
 ## What it is
 A three-layer MCP server that filters false positives from static analysis tools like Semgrep, Bandit, and Gosec using rule-based, context-aware, and ML-based filtering to reduce false positives in code audit results.

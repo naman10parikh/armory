@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:40Z"
 ---
 ## What it is
 Consulta oficial de certidões do Tribunal de Justiça do Rio de Janeiro (TJRJ) em fonte oficial, com ferramenta de leitura única e pagamento por uso via créditos pré-pagos.

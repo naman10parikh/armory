@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:09:19Z"
 ---
 ## What it is
 Enables AI assistants to query Microsoft SQL Server safely through natural language, with an iron-clad read-only guarantee enforced at both database and application levels.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T23:45:30Z"
 ---
 ## What it is
 A Model Context Protocol server for Internet.bs domain registrar API. Enables checking availability, registering, renewing, and managing domains and DNS from Claude or any MCP client.

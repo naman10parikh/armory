@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T00:47:32Z"
 ---
 ## What it is
 Provides project-aware context for coding agents by selecting relevant AGENTS.md, docs, module paths, and decision records based on task, reducing redundant context loading via MCP stdio.

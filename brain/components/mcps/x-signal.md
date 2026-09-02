@@ -8,11 +8,13 @@ source_url: https://github.com/anotb/x-signal
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T19:51:58Z"
 ---
 ## What it is
 Let ChatGPT or Codex research X (Twitter) through an existing account: search Top and Latest, follow threads, compare feeds, find accounts, and link posts. Read-only, local Docker service.

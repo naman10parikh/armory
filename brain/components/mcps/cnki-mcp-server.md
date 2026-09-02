@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T06:55:00Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve paper information from CNKI (China National Knowledge Infrastructure), supporting 15 search types, pagination, sorting, and detailed metadata extraction.

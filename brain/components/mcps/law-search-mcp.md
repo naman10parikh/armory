@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T06:04:44Z"
 ---
 ## What it is
 Enables searching and retrieving Korean Supreme Court precedents from the law.go.kr Open API, with support for keyword search and detailed judgment text.

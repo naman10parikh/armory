@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-29T00:28:04Z"
 ---
 ## What it is
 MCP server `Hive Barter`, catalogued on PulseMCP. Autonomous arbitrage agent scanning MCP registries for 402-gated endpoints and counter-offering below asking prices on Base L2.

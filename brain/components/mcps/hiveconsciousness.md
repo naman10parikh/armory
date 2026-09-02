@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T22:57:51Z"
 ---
 ## What it is
 MCP server `HiveConsciousness`, catalogued on PulseMCP. System self-awareness, health monitoring, and autonomous self-repair for agent infrastructure.

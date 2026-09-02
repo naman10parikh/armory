@@ -8,11 +8,13 @@ source_url: https://github.com/nduckmink/arkon
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1238
+stars: 1256
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 270
+pushed_at: "2026-06-03T18:41:48Z"
 ---
 ## What it is
 Self-hosted enterprise knowledge hub that compiles organizational docs into a structured wiki and serves it to AI clients via MCP with fine-grained access control.

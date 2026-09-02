@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:23:38Z"
 ---
 ## What it is
 Crypto compliance tools for AI-agent payments: screen any address for sanctions, frozen-stablecoin and hacker/mixer exposure across 8+ chains, trace fund taint, and get an allow/review/decline decision before settlement. Free keyless address checks; deeper endpoints are x402-payable.

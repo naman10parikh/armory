@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-10T11:28:15Z"
 ---
 ## What it is
 MCP server `Image Placeholder`, catalogued on PulseMCP. Generates customizable placeholder images from placehold.co and Lorem Picsum for rapid development and UI testing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T21:21:32Z"
 ---
 ## What it is
 Enables automated scraping of Naukri.com job listings, extracting structured data such as job titles, companies, salaries, locations, skills, and descriptions for use in AI-driven workflows.

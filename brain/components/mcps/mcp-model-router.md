@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T19:51:27Z"
 ---
 ## What it is
 Routes each prompt to the best-fitting Claude model via a local, zero-cost classifier, exposing a single smart_prompt tool for MCP clients.

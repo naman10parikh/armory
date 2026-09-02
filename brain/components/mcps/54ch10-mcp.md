@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:34:42Z"
 ---
 ## What it is
 Provides the brief tool, letting MCP clients query the 54ch10 Brief API for analytics on addresses, tokens, or URLs and receive a JSON summary with score, flags, sources, and disclaimer.

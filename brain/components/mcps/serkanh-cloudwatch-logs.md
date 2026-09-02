@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-30T00:02:40Z"
 ---
 ## What it is
 MCP server `CloudWatch Logs`, catalogued on PulseMCP. Provides direct access to AWS CloudWatch logs with tools for listing log groups and retrieving filtered log entries through a Python-based server using FastMCP and boto3.

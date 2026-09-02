@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-07-22T09:04:53Z"
 ---
 ## What it is
 A Jenkins MCP server for multi-instance build management, log inspection, failure diagnostics, and optional vector search.

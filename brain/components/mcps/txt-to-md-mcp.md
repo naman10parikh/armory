@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-19T07:26:24Z"
 ---
 ## What it is
 Enables writing text content to Markdown files with folder organization and overwrite control, and listing recent Markdown files.

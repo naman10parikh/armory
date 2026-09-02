@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T06:55:46Z"
 ---
 ## What it is
 A FastMCP (Python) server for Rocket.Chat with 28 tools covering channels, messages, threads, DMs, files, users, and analytics, plus AI governance, observability, and security features.

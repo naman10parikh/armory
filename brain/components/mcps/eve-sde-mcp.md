@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-18T21:07:17Z"
 ---
 ## What it is
 MCP server providing read-only access to Eve Online's Static Data Export (SDE), including ship stats, module attributes, universe data, blueprints, and more. Enables queries via tools like search_types, get_type, and compare_types.

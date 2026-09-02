@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-07T18:16:00Z"
 ---
 ## What it is
 A Python-based MCP server for Microsoft 365 Outlook email operations using OAuth 2.0 Client Credentials Flow, enabling automated email management for autonomous agents.

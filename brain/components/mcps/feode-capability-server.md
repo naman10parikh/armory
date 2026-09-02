@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T09:07:58Z"
 ---
 ## What it is
 Offshore oilfield services: query FEODE's well plug & abandonment, subsea wellhead (BV+CCS classed), continuous circulation drilling, and a NOV Grant Prideco drill-string spec reference.

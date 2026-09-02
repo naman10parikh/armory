@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-10T21:39:39Z"
 ---
 ## What it is
 Integrates with EasyProject API to manage projects, tasks, users, time tracking, and reporting via MCP protocol in editors like Cursor AI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-09T11:06:01Z"
 ---
 ## What it is
 An MCP server that builds a semantic graph memory from a project directory, indexing documentation and code into graph structures and exposing 70+ MCP tools for search, knowledge management, task management, and more.

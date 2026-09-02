@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-30T02:38:43Z"
 ---
 ## What it is
 Transform data structure definitions into queryable MCP servers, enabling natural language queries about field meanings, data lineage, and structure.

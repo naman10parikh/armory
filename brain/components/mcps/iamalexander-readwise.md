@@ -8,10 +8,12 @@ source_url: https://github.com/iamalexander/readwise-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-01-12T15:38:36Z"
 ---
 ## What it is
 MCP server `Readwise`, catalogued on PulseMCP. Integrates with Readwise to provide access to saved articles, books, highlights, and documents, enabling users to reference, analyze, and search across their personal knowledge collection during conversations.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-14T22:07:12Z"
 ---
 ## What it is
 MCP server `Roblox Studio Bridge`, catalogued on PulseMCP. Bridges Roblox Studio with external systems through a Node.js server and Lua plugin architecture, enabling real-time game object manipulation, script management, lighting control, and Luau code execution for AI-assisted game development and automated level design workflows.

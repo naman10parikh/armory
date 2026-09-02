@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T12:31:29Z"
 ---
 ## What it is
 AI-first WebGL 1/2 debugging MCP server that attaches to Chrome via CDP, enables frame capture and diagnostic analysis, and collaborates with Chrome DevTools MCP for agent-driven debugging workflows.

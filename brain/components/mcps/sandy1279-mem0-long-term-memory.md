@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-26T07:06:25Z"
 ---
 ## What it is
 MCP server `Mem0 Long-Term Memory`, catalogued on PulseMCP. Integrates with Mem0 AI's backend to provide persistent memory storage across conversations with episodic, semantic, and procedural memory types, namespace organization, confidence scoring, and tagging capabilities.

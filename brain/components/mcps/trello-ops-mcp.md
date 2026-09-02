@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T23:42:37Z"
 ---
 ## What it is
 A read-only MCP server that gives LLM agents deterministic operational facts about Trello boards, including structural history, card movement, workflow flow, staleness, and due-date information.

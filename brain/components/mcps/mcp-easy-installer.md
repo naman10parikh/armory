@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-26T23:31:32Z"
 ---
 ## What it is
 A robust MCP server with tools to search, install, configure, repair, and uninstall MCP servers, automating setup and maintenance across multiple AI and developer tools.

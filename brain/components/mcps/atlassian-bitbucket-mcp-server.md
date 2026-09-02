@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-24T18:52:21Z"
 ---
 ## What it is
 Enables AI systems to interact with Atlassian Bitbucket Server/Data Center for accessing projects, repositories, branches, files, and managing pull requests.

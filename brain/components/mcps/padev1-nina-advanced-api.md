@@ -8,10 +8,12 @@ source_url: https://github.com/padev1/nina_advanced_api_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-28T07:57:22Z"
 ---
 ## What it is
 MCP server `NINA Advanced API`, catalogued on PulseMCP. Provides a bridge between natural language commands and N.I.N.A. astronomical software, enabling control of cameras, mounts, focusers, filter wheels, and domes for automated imaging sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T00:13:44Z"
 ---
 ## What it is
 Connect AI assistants to the FrancoLabs UX research platform to create and manage studies, browse templates, read participant responses and analytics, and turn insights into product opportunities.

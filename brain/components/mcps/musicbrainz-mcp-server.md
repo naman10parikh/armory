@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-15T08:44:38Z"
 ---
 ## What it is
 A comprehensive MCP server for querying the MusicBrainz database, providing tools to search for artists, releases, recordings, and browse music metadata.

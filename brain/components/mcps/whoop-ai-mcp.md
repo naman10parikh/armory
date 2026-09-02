@@ -8,11 +8,13 @@ source_url: https://github.com/shashankswe2020-ux/whoop-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 143
+stars: 149
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 52
+pushed_at: "2026-08-30T22:49:45Z"
 ---
 ## What it is
 MCP server that connects AI assistants like Claude to WHOOP health data, enabling natural language queries about recovery, sleep, workouts, and more.

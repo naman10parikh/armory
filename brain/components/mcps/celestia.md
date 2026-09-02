@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T10:48:12Z"
 ---
 ## What it is
 A persona-driven AI assistant that reads, searches, and writes an Obsidian Markdown knowledge vault using a typed MCP filesystem core.

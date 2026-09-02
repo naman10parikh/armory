@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-10T02:18:35Z"
 ---
 ## What it is
 MCP server `BMAD (Business-Minded Agile Development)`, catalogued on PulseMCP. Orchestrates agile development workflows by integrating business requirements with development processes to streamline project management and delivery for teams bridging business stakeholders with technical implementation.

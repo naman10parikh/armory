@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T07:11:41Z"
 ---
 ## What it is
 MCP server `Transkribus`, catalogued on PulseMCP. Integrates with Transkribus REST API for handwritten text recognition, OCR, and document management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:06:42Z"
 ---
 ## What it is
 Enables file uploads to AWS S3 buckets with automatic MIME type detection.

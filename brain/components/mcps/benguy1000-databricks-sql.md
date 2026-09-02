@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-12T21:53:49Z"
 ---
 ## What it is
 MCP server `Databricks SQL`, catalogued on PulseMCP. Databricks Unity Catalog SQL query execution and schema exploration.

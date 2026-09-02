@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-26T00:25:05Z"
 ---
 ## What it is
 Enables AI-driven SOC investigations by providing automated Splunk querying, threat intelligence enrichment, and response actions through natural language. Includes tools for IP pivoting, lateral movement detection, and label harvesting.

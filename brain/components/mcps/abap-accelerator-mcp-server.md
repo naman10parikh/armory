@@ -8,11 +8,13 @@ source_url: https://github.com/aws-solutions-library-samples/guidance-for-deploy
 license: MIT No Attribution
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 56
+stars: 57
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 21
+pushed_at: "2026-08-11T17:09:28Z"
 ---
 ## What it is
 Enterprise-grade MCP server for SAP ABAP development, enabling AI-powered coding assistance through Amazon Q Developer and Kiro with 15 SAP development tools.

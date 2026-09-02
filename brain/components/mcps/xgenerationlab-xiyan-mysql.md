@@ -8,10 +8,12 @@ source_url: https://github.com/xgenerationlab/xiyan_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 236
+stars: 242
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 48
+pushed_at: "2026-02-11T09:41:44Z"
 ---
 ## What it is
 MCP server `XiYanSQL (MySQL)`, catalogued on PulseMCP. Enables natural language interaction with MySQL databases through XiYanSQL, providing secure table listing, data reading, and query execution capabilities without direct SQL access.

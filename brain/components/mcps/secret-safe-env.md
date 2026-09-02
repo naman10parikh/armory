@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-07T17:57:49Z"
 ---
 ## What it is
 An MCP server that enables AI agents to securely add secrets to .env files by prompting the user to input the value through a local masked dialog, ensuring the agent never sees the secret.

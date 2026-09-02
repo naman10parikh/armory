@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-05-05T11:51:03Z"
 ---
 ## What it is
 Enables LLMs to create, modify, and analyze ArchiMate architecture models using the ArchiMate 3.2 specification, supporting coArchi2 repositories and multiple export formats.

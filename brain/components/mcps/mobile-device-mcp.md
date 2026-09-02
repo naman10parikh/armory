@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-02T08:09:06Z"
 ---
 ## What it is
 An MCP server that lets AI agents control iOS and Android devices (tap, scroll, type, take screenshots, read UI trees, and run code). Works with multiple devices at the same time.

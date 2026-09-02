@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T14:33:00Z"
 ---
 ## What it is
 MCP server `Kabu Stock Market`, catalogued on PulseMCP. Provides real-time stock quotes, search, and historical data for Japanese JPX/TSE, US, and crypto markets.

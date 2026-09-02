@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 1042
+stars: 1039
+forks: 141
+pushed_at: "2026-04-19T21:28:04Z"
 ---
 ## What it is
 Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.

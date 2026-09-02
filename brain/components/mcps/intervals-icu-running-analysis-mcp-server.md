@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:04:26Z"
 ---
 ## What it is
 MCP server for analyzing running data from Intervals.icu, offering tools for athlete profiles, activity details, fitness trends, and running summaries.

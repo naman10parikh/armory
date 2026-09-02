@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T03:46:02Z"
 ---
 ## What it is
 MCP server for deploying and managing Erebrus decentralized VPN nodes, API keys, and file uploads.

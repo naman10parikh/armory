@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T08:31:41Z"
 ---
 ## What it is
 Enables auditors to scan cloud IAM policies for privilege-escalation paths, wildcards, and risky grants directly within Cursor or Claude Code, using a deterministic rule engine that runs entirely on local infrastructure.

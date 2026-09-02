@@ -8,10 +8,12 @@ source_url: https://github.com/lyledean1/strava-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-24T00:19:32Z"
 ---
 ## What it is
 MCP server `Strava`, catalogued on PulseMCP. Provides cached access to Strava fitness data with rate limit management, enabling retrieval of activities with date filtering, detailed sensor streams including GPS and heart rate metrics, and configurable data refresh from the Strava API.

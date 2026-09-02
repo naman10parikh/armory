@@ -8,10 +8,12 @@ source_url: https://github.com/scriptedalchemy/devtools-debugger-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 342
+stars: 348
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2025-10-02T19:59:07Z"
 ---
 ## What it is
 MCP server `DevTools Debugger`, catalogued on PulseMCP. Provides full Chrome DevTools Protocol debugging capabilities for Node.js applications with breakpoint management, stepping controls, call stack inspection, variable evaluation, and console output capture through a clean API interface.

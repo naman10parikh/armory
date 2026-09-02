@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-28T02:03:30Z"
 ---
 ## What it is
 MCP server `SQLite HR Management`, catalogued on PulseMCP. SQLite-based HR management system that handles employee lifecycle management, organizational structure, leave tracking, salary administration, and performance monitoring with automated workflows for onboarding, leave calculations, and audit logging.

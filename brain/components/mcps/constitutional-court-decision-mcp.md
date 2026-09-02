@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T10:47:03Z"
 ---
 ## What it is
 Enables searching and retrieving Korean Constitutional Court decisions using the official Open API, with search filters and full-text retrieval.

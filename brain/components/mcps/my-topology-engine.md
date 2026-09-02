@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T05:01:34Z"
 ---
 ## What it is
 A deterministic MCP server that executes 10-step topology pipelines on Cloudflare Workers, providing structured progress snapshots and adaptive JSON templates for AI agents.

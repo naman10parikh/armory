@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:49:20Z"
 ---
 ## What it is
 Connects Obsidian to coding agents like Claude Code and Codex by exposing tools to access vault context (active file, selection, open editors, workspace folders), and includes a built-in terminal to run agents directly inside Obsidian.

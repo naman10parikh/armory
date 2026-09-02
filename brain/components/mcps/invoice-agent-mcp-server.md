@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T19:32:01Z"
 ---
 ## What it is
 Create German invoices (§14 UStG) via Claude or any MCP-compatible AI by describing the invoice in natural language.

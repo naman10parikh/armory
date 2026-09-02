@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-02-15T03:47:26Z"
 ---
 ## What it is
 Persistent semantic memory for AI agents, enabling storage, semantic search, knowledge graph connections, and inter-instance messaging across conversations using local models via Ollama.

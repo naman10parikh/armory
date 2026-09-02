@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-10T07:58:28Z"
 ---
 ## What it is
 MCP server `Asymptote Geometry Renderer`, catalogued on PulseMCP. Renders precise geometric images using Asymptote vector graphics language, converting mathematical code into SVG or PNG formats for technical diagrams and visualizations.

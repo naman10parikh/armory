@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-06T03:41:48Z"
 ---
 ## What it is
 MCP server `Transcode`, catalogued on PulseMCP. Media transcoding tool that converts audio and video files between formats.

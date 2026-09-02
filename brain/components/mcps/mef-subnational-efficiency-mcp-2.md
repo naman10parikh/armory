@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T02:27:35Z"
 ---
 ## What it is
 Multi-agent MCP server for auditing public spending execution of Peruvian regional and local governments, providing tools for CSV inspection, data pipeline orchestration, and historical PDF OCR processing.

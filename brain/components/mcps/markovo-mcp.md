@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T10:33:15Z"
 ---
 ## What it is
 Enables converting supported files and explicitly authorized public HTTPS pages into clean, structured Markdown through the Markovo service, with file access restricted to a configured root directory.

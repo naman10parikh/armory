@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T02:08:23Z"
 ---
 ## What it is
 Remote MCP server for AI-powered competitor intelligence, enabling real-time analysis of any product URL through tools like analyze_competitor and report retrieval.

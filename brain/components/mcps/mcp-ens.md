@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:03:50Z"
 ---
 ## What it is
 Enables resolving ENS names to Ethereum addresses and profile records, and reverse-resolving addresses to ENS names, all without requiring an API key.

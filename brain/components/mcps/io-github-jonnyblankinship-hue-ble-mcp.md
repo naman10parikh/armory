@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T21:23:59Z"
 ---
 ## What it is
 Enables control of Philips Hue lights via Bluetooth LE directly from Claude, without requiring a Hue Bridge or internet connection.

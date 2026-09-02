@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T14:38:05Z"
 ---
 ## What it is
 Enables an LLM client to scan Windows event log files (EVTX) for suspicious activity using Hayabusa, and browse its detection rules directly in conversation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T10:11:25Z"
 ---
 ## What it is
 A simple MCP server that exposes a createUser tool to add users to a local JSON file via stdio transport.

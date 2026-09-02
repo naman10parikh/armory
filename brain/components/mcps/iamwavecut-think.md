@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-27T15:16:11Z"
 ---
 ## What it is
 MCP server `Think Tool`, catalogued on PulseMCP. Go-based server that provides LLMs with tools to record, retrieve, and analyze their reasoning processes during complex problem-solving tasks, enabling structured thinking and improved context management.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T21:13:20Z"
 ---
 ## What it is
 MCP server `RAG Document Q&A`, catalogued on PulseMCP. RAG-powered document question-answering using FAISS vector search, Sentence Transformers, and Groq LLM for grounded answers from private documents.

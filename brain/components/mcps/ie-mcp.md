@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T16:05:58Z"
 ---
 ## What it is
 Enables LLMs to drive Edge in IE mode for automating legacy IE-only web applications, supporting tasks like clicking, filling forms, and data extraction via Selenium.

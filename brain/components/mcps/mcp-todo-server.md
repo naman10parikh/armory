@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T15:54:51Z"
 ---
 ## What it is
 A CRUD todo list server that exposes tools to create, list, and conclude tasks, compatible with any MCP host.

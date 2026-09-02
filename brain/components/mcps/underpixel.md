@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T06:38:49Z"
 ---
 ## What it is
 Records, replays, and correlates visual and API events in the browser, enabling AI assistants to understand which API calls feed which UI elements.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T22:56:49Z"
 ---
 ## What it is
 Truss MCP Server enables cross-organization evidence coordination via the Model Context Protocol, allowing multiple organizations to join, list, and verify cryptographically signed evidence packages.

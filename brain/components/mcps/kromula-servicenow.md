@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-18T15:13:07Z"
 ---
 ## What it is
 MCP server `ServiceNow`, catalogued on PulseMCP. Integrates with ServiceNow's REST Table API to enable CRUD operations on incidents, UI actions, business rules, and custom tables with specialized story management and build notes tracking.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T23:17:01Z"
 ---
 ## What it is
 Bridges Claude Code to local OpenAI-compatible vision models, enabling image analysis, comparison, and OCR via three tools.

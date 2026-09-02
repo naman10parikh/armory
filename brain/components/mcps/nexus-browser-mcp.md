@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:47:44Z"
 ---
 ## What it is
 A browser-automation MCP server built on Playwright that provides deterministic snapshots via MutationObserver/requestAnimationFrame, HITL governance, multi-task isolation, and self-healing browser sessions for LLM-driven browsing.

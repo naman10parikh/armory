@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T13:40:06Z"
 ---
 ## What it is
 Prepares unsigned App/PWA handoffs for creating positions in Denaria markets, returning QR codes for user review and signing in the Denaria app, without signing or executing transactions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:35:23Z"
 ---
 ## What it is
 Enables AI assistants to drive Microsoft Word for Windows via COM automation, including opening and creating documents, editing text, managing paragraphs, tables, images, styles, tracked changes, and exporting to PDF.

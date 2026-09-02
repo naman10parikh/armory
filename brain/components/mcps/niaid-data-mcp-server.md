@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T03:47:51Z"
 ---
 ## What it is
 Enables searching the NIAID Data Ecosystem for biomedical research resources including datasets, clinical studies, and publications using Elasticsearch queries.

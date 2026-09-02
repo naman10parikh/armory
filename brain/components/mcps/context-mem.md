@@ -8,10 +8,12 @@ source_url: https://github.com/jubakitiashvili/context-mem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-19T18:35:43Z"
 ---
 ## What it is
 MCP server `Context Mem`, catalogued on PulseMCP. Persistent memory system for AI agents with 44 tools and 98%+ retrieval accuracy.

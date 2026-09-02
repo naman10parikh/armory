@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T14:57:40Z"
 ---
 ## What it is
 Provides current Unix timestamp in seconds, milliseconds, and ISO 8601 format to LLMs via a simple MCP tool.

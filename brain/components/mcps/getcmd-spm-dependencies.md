@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-13T03:21:19Z"
 ---
 ## What it is
 MCP server `Swift Package Manager Dependencies`, catalogued on PulseMCP. Provides access to Swift Package Manager dependencies in Xcode and SPM projects with tools to search dependency source code, browse files, and list packages with their versions and locations.

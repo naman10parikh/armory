@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T08:37:15Z"
 ---
 ## What it is
 A security-hardened, read-only MCP server that authenticates service and user identities, enforces factory-level access grants, and audit-logs every tool call before dispatching read-only plant overview queries.

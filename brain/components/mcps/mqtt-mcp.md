@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T14:10:48Z"
 ---
 ## What it is
 MCP server that bridges MQTT sensor data to MCP, allowing clients to query cached sensor readings and send commands via tools like list_topics, read_topic, and publish.

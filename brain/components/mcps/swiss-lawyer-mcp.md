@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T20:33:32Z"
 ---
 ## What it is
 A production-minded Agentic RAG backend for informational guidance about Swiss immigration and administrative procedures, using only official Swiss government sources with evidence metadata.

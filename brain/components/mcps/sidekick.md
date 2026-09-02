@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:37:05Z"
 ---
 ## What it is
 Enables persistent remote VPS collaboration with MCP tools, live dashboard, and autonomous AI agent for code execution, memory, and task automation.

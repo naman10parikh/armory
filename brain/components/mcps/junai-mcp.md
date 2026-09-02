@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T04:49:46Z"
 ---
 ## What it is
 Enables deterministic multi-agent pipelines in VS Code and GitHub Copilot, with 25 specialized AI agents and a 9-stage state machine that prevents hallucinated routing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-24T17:33:18Z"
 ---
 ## What it is
 Monitors and analyzes Precision Time Protocol (PTP) systems in OpenShift clusters, enabling configuration analysis, real-time log monitoring, and health checks.

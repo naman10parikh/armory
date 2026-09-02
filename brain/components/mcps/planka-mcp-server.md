@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-11T09:30:24Z"
 ---
 ## What it is
 Enables AI assistants to interact with Planka, a real-time Kanban board application, for managing projects, boards, lists, cards, and more.

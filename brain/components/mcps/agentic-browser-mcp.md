@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T07:44:26Z"
 ---
 ## What it is
 Enables MCP clients to automate a real Chrome browser via Playwright, supporting session sharing and tools for navigation, clicking, typing, and more.

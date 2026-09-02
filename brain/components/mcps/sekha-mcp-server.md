@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T23:28:09Z"
 ---
 ## What it is
 This MCP server exposes Sekha memory tools (store, search, update, etc.) to any MCP-compatible client, enabling persistent conversation memory across Claude Desktop, Claude Code, and other applications.

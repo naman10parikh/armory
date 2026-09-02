@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T05:30:16Z"
 ---
 ## What it is
 Read-only MCP server exposing the Construction Intelligence Platform's project discovery interface via search_projects and fetch_project tools, returning Pydantic business objects from the ci_market_state DuckDB table without requiring SQL.

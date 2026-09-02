@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:00:44Z"
 ---
 ## What it is
 MCP server `Discogs`, catalogued on PulseMCP. Discogs music database — releases, artists, labels, and pressing-level details via the Pipeworx gateway.

@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-19T19:06:05Z"
 ---
 ## What it is
 MCP server `Advanced Reasoning`, catalogued on PulseMCP. Provides advanced reasoning capabilities through simulated algorithms including Monte Carlo Tree Search, Beam Search, and Hybrid Reasoning, delivering structured JSON responses with complete reasoning traces for complex problem-solving in software development.

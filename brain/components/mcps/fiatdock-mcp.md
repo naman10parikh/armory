@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T16:35:34Z"
 ---
 ## What it is
 Non-custodial USDC <-> bank for AI agents. Free quotes; $0.05 USDC per session via x402; 1% commission itemised in every quote. Own funds only. PT + EU/EEA (not UK). 18+.

@@ -8,10 +8,12 @@ source_url: https://github.com/gluneau/hive-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-08T21:37:50Z"
 ---
 ## What it is
 MCP server `Hive`, catalogued on PulseMCP. Integrates with the Hive blockchain to enable querying data, posting content, and managing accounts for content creation, social media automation, and blockchain analysis tasks.

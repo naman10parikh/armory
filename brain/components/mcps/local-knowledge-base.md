@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T13:38:26Z"
 ---
 ## What it is
 Provides cited retrieval over local-first knowledge sources (TXT, CSV, Google Sheets, Zoho Mail, MBOX) via SQLite FTS5, with tools for searching and checking source status, returning evidence links instead of generated answers.

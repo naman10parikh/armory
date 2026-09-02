@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-05T17:13:16Z"
 ---
 ## What it is
 Connects Claude Desktop to Windows Calculator, enabling accurate mathematical calculations using Windows' native PowerShell calculation engine.

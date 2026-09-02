@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-23T00:23:52Z"
 ---
 ## What it is
 Enables AI agents and autonomous bots to interact programmatically with the GrowiHFVault smart contract on Arbitrum.

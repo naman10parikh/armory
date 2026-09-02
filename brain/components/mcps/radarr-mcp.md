@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T11:15:12Z"
 ---
 ## What it is
 MCP server exposing Radarr's v3 REST API as tools, enabling LLMs to read and manage movies, downloads, history, indexers, and more.

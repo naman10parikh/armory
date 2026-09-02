@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T07:07:04Z"
 ---
 ## What it is
 An MCP server that enables AI agents to read, edit, analyze, procedurally generate, and preview Celeste .bin map files without the Lönn editor.

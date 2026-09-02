@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T17:27:40Z"
 ---
 ## What it is
 MCP server that adds Qwen3-VL vision capabilities to Claude Code or any MCP client, enabling OCR, UI/screenshot recognition, and chart understanding. It provides tools for analyzing single or batch images via DashScope's OpenAI-compatible API, with caching and fast mode.

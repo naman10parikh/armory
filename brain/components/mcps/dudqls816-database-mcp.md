@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T08:39:00Z"
 ---
 ## What it is
 MCP server for Microsoft SQL Server that lets LLMs explore schema and execute read-only SELECT queries, with optional stored procedure execution when explicitly enabled.

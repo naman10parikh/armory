@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T01:58:10Z"
 ---
 ## What it is
 MCP server `Logbook of The World`, catalogued on PulseMCP. Query ARRL LoTW confirmations, uploaded QSOs, DXCC credits, and user activity.

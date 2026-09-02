@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-12T08:27:48Z"
 ---
 ## What it is
 Lets AI draw technical analysis markup (support/resistance, trendlines, Fibonacci) directly onto Yahoo Finance's live chart via the ChartIQ engine, with 30 MCP tools and a built-in design system.

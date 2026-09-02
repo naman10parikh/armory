@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-08-25T08:32:03Z"
 ---
 ## What it is
 Enables AI assistants to extract and structure content from documents (PDFs, images, Office files) via Upstage AI's APIs, with seamless Claude Desktop integration.

@@ -8,10 +8,12 @@ source_url: https://github.com/heizaheiza/charles-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 239
+stars: 303
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2026-06-23T13:38:18Z"
 ---
 ## What it is
 MCP server `Charles Proxy`, catalogued on PulseMCP. Integrates Charles Proxy with MCP clients for real-time network traffic inspection, structured analysis, and historical recording review.

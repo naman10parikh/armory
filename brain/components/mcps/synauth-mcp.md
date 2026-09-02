@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T02:11:41Z"
 ---
 ## What it is
 Biometric authorization for AI agent actions via Face ID on iPhone, enabling secure approval of sensitive actions and credential-safe API calls through vault execution.

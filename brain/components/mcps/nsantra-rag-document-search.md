@@ -8,10 +8,12 @@ source_url: https://github.com/nsantra/rag-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-30T15:08:29Z"
 ---
 ## What it is
 MCP server `RAG Document Search`, catalogued on PulseMCP. Provides document embedding, semantic search, and citation generation using ChromaDB vector storage with PDF ingestion, configurable chunking, cross-encoder reranking, and automatic source attribution for building knowledge bases and research assistants.

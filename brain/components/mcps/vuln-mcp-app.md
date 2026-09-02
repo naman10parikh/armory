@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T21:34:49Z"
 ---
 ## What it is
 An intentionally vulnerable, locally-runnable MCP security laboratory (a 'DVWA for MCP') used to evaluate a separate FYP security scanner.

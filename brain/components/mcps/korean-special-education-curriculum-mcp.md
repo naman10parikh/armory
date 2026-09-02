@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T06:42:10Z"
 ---
 ## What it is
 Read-only MCP server for searching and retrieving the 2022 revised Korean special education curriculum for middle and high schools, with official source references, filters, and achievement standards.

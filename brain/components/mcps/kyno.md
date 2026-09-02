@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:43:17Z"
 ---
 ## What it is
 A coherence control plane that provides a versioned source of truth for an agent system's mission and principles over MCP, enabling agents to pull the current direction and receive change notifications.

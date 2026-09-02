@@ -8,10 +8,12 @@ source_url: https://github.com/garoth/wolframalpha-llm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-02-25T23:30:33Z"
 ---
 ## What it is
 MCP server `WolframAlpha LLM`, catalogued on PulseMCP. Integrates with WolframAlpha's LLM API to enable complex mathematical and scientific queries, offering tools for asking questions and getting simplified answers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-10T03:11:49Z"
 ---
 ## What it is
 Enables YouTube video search and audio download via web scraping, requiring no API key.

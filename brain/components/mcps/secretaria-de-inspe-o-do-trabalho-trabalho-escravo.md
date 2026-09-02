@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:26Z"
 ---
 ## What it is
 MCP server for querying official data on slave labor inspections from Brazil's Secretariat of Labor Inspection. Provides read-only access to official sources via a single tool, usable with any MCP-compatible client.

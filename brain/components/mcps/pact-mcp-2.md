@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:06:28Z"
 ---
 ## What it is
 MCP server for Pact, an escrow protocol for agent-to-agent commerce, enabling agents to create pacts, fund escrow, deliver work, and settle with an LLM evaluator as dispute backstop.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T11:18:22Z"
 ---
 ## What it is
 Enables local Draw.io diagram creation, editing, and export via MCP tools, using the desktop app.

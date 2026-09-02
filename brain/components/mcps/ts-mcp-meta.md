@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-08T05:56:29Z"
 ---
 ## What it is
 Aggregates tools from multiple MCP servers, generates TypeScript definitions, and executes custom TypeScript scripts to orchestrate cross-server tool calls.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-24T05:58:17Z"
 ---
 ## What it is
 MCP server `Source Relation`, catalogued on PulseMCP. Integrates source relation functionality to simplify connecting and organizing diverse data inputs, enabling efficient retrieval and processing.

@@ -8,10 +8,12 @@ source_url: https://github.com/tuckerschreiber/need
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-18T17:37:29Z"
 ---
 ## What it is
 MCP server `Need`, catalogued on PulseMCP. Semantic CLI tool discovery and installation with community-driven ranking from usage feedback.

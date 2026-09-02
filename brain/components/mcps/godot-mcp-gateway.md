@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T16:50:24Z"
 ---
 ## What it is
 A local control plane that lets multiple AI coding agents share one Godot editor through independent MCP sessions, with ordered writes, playtest access, and LSP routing.

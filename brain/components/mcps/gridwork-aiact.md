@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T11:32:19Z"
 ---
 ## What it is
 Scans codebases for AI system usage and generates EU AI Act compliance reports.

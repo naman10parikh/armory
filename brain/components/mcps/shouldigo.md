@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-10T14:39:05Z"
 ---
 ## What it is
 MCP server `Should I Go`, catalogued on PulseMCP. Real-time surf conditions and forecasts for 5,000+ beaches worldwide.

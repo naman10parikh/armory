@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T05:44:29Z"
 ---
 ## What it is
 A pure-AI cognitive extension that forces standard 3-Layer Validation to prevent hallucination in academic research.

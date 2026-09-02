@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T09:11:34Z"
 ---
 ## What it is
 Lets Claude read and manage your iCloud Reminders and Calendar through a custom MCP connector, enabling natural language queries and actions.

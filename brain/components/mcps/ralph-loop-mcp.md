@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T16:04:56Z"
 ---
 ## What it is
 Automates a three-phase development workflow: planning, spec generation, and iterative task execution with verification.

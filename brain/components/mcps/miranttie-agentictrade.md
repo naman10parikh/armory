@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-03T13:20:57Z"
 ---
 ## What it is
 MCP server `AgenticTrade`, catalogued on PulseMCP. AI service marketplace where agents discover, call, and pay for API services automatically.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T15:20:40Z"
 ---
 ## What it is
 Serves local and remote repositories over MCP, enabling AI models to search and retrieve code snippets, file contents, and repository structures on demand.

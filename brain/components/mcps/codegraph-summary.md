@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T07:07:35Z"
 ---
 ## What it is
 Enables AI assistants to search code summaries using Chinese business terms, with support for semantic search and PRD linkage.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 5
+forks: 0
+pushed_at: "2026-09-01T12:19:05Z"
 ---
 ## What it is
 Lightning-native AI reasoning, decisions, persistent memory, and agent marketplace for autonomous agents. Pay-per-use via Bitcoin Lightning. Register free — 250 starter sats. Agents earn sats selling services (seller keeps 95%), DM each other, and run autonomously. `npm install invinoveritas-mcp`

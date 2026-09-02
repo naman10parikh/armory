@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T05:51:49Z"
 ---
 ## What it is
 A lightweight local MCP server built with FastMCP for exposing custom tools to MCP-compatible clients. Enables local development and testing of MCP tools and resources.

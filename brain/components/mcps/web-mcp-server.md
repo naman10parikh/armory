@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T03:08:18Z"
 ---
 ## What it is
 MCP server that exposes web_search and web_fetch tools, allowing LLM applications to search the web via DuckDuckGo and fetch page content as cleaned markdown.

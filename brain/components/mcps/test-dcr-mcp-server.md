@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T20:52:04Z"
 ---
 ## What it is
 A spec-compliant remote MCP server with built-in OAuth 2.1 and Dynamic Client Registration, enabling Notion Custom Agents to connect via 'Sign in with OAuth' without bearer tokens. It supports SSO federation to Google and Microsoft Entra, and includes basic tools like whoami, echo, and slow_task.

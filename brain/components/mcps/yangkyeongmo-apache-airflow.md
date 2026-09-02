@@ -8,10 +8,12 @@ source_url: https://github.com/yangkyeongmo/mcp-server-apache-airflow
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 165
+stars: 177
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 46
+pushed_at: "2026-03-03T13:24:59Z"
 ---
 ## What it is
 MCP server `Apache Airflow`, catalogued on PulseMCP. Provides a bridge to Apache Airflow for managing and monitoring workflows through natural language, enabling DAG management, task execution, and resource administration without leaving your assistant interface.

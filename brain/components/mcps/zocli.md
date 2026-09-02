@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T13:43:15Z"
 ---
 ## What it is
 MCP server `Zoho CLI`, catalogued on PulseMCP. CLI and MCP server for Zoho Mail, Calendar, and WorkDrive with HTTP transport and embedded dashboard.

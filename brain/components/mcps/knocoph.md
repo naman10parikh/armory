@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:05:21Z"
 ---
 ## What it is
 Transforms TypeScript and JavaScript codebases into a persistent code knowledge graph in SQLite, enabling structural codebase navigation via deterministic graph queries without reading source files.

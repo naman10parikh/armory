@@ -8,10 +8,12 @@ source_url: https://github.com/pyroprompts/any-chat-completions-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 151
+stars: 160
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2025-05-01T02:39:27Z"
 ---
 ## What it is
 MCP server `LLM Completions`, catalogued on PulseMCP. Connect to OpenAI-compatible chat completion APIs.

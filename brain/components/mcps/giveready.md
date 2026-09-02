@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-22T11:16:03Z"
 ---
 ## What it is
 MCP server `GiveReady`, catalogued on PulseMCP. Verified youth nonprofit directory — search charities, impact data, and donation links with USDC payment support.

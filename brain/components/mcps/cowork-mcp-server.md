@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-24T08:49:59Z"
 ---
 ## What it is
 Adds trust, handoffs, and accountability to any AI agent via 14 MCP tools implementing the COWORK Protocol.

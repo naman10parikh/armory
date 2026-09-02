@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T05:18:05Z"
 ---
 ## What it is
 An MCP server that provides vision capabilities to DeepSeek by forwarding image analysis requests to supported vision models. It offers tools for professional image analysis, OCR, and image comparison.

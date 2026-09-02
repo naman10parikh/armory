@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T22:56:34Z"
 ---
 ## What it is
 Enables searching the Rijksmuseum collection by keyword and retrieving full artwork details by ID.

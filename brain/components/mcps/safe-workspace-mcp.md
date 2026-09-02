@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:59:05Z"
 ---
 ## What it is
 A minimal, security-focused MCP server that provides structured read/write access to exactly one local workspace, with built-in local Git checkpoints and rollback.

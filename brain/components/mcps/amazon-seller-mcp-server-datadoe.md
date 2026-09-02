@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:09:35Z"
 ---
 ## What it is
 Hosted Amazon Seller Central & Vendor Central MCP server. Connect Claude, ChatGPT, Cursor, Codex, Gemini, and GitHub Copilot to live Amazon SP-API and Amazon Ads API data.

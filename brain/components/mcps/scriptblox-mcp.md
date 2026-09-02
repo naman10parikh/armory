@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T01:31:04Z"
 ---
 ## What it is
 Bridges Cursor with ScriptBlox via a Chrome extension, enabling search, read, upload, edit, and delete of Roblox scripts.

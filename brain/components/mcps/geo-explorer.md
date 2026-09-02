@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T18:17:22Z"
 ---
 ## What it is
 MCP server for a fictional learning platform, providing tools to list technologies, search learning tracks, generate coding challenges, and issue certificates.

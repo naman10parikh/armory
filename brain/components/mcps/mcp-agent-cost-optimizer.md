@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T07:37:15Z"
 ---
 ## What it is
 Enables precise financial analysis of AI agent costs, including token pricing, multi-step run estimates, model comparison, and ROI versus human labor, with deterministic decimal math.

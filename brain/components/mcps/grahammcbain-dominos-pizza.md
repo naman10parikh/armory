@@ -8,10 +8,12 @@ source_url: https://github.com/grahammcbain/mcpizza
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-11T19:21:21Z"
 ---
 ## What it is
 MCP server `MCPizza (Domino's Pizza)`, catalogued on PulseMCP. Integrates with Domino's Pizza API to enable pizza ordering through store location, menu browsing, cart management, customer setup, coupon application, and payment processing with both cash and card options.

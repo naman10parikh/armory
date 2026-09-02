@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T19:58:56Z"
 ---
 ## What it is
 Enables AI agents to read-only query an online store's SQLite database, listing tables, inspecting schemas, and running SELECT queries over customers, products, orders, and order items.

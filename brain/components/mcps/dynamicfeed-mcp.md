@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:35:17Z"
 ---
 ## What it is
 62 live, cryptographically signed data tools for AI agents and robots: weather, natural hazards, flights, shipping, space, CVEs, sanctions, software versions, sea ice and more. Every datapoint carries source, licence, timestamp and an Ed25519 signature.

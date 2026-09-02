@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-30T03:50:15Z"
 ---
 ## What it is
 MCP server `StudentVue`, catalogued on PulseMCP. Integrates with StudentVue information systems to provide access to grades, attendance, schedules, messages, and documents through SOAP protocol endpoints for building educational dashboards and automated grade monitoring systems.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-19T16:18:03Z"
 ---
 ## What it is
 Enables natural language interaction with Allure TestOps API for managing test cases, launches, and test plans with full CRUD support and 56+ controller endpoints.

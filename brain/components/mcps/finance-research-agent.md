@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T21:19:48Z"
 ---
 ## What it is
 AI equity-research analyst for Indian NSE/BSE markets with 28 MCP tools enabling sector screens, valuations, SWOTs, and forensic audits using Claude Agent SDK.

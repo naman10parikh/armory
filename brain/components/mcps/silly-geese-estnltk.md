@@ -8,10 +8,12 @@ source_url: https://github.com/silly-geese/estonian-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-09-01T21:00:38Z"
 ---
 ## What it is
 MCP server `EstNLTK`, catalogued on PulseMCP. Hosted MCP server exposing the EstNLTK Estonian NLP toolkit with 20 tools for morphology, NER, lemmatization, and spell-checking.

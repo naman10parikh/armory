@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T10:22:26Z"
 ---
 ## What it is
 A small MCP server that lets an LLM query PostgreSQL, MySQL, MariaDB, SQL Server, or SQLite databases safely — read-only, role-restricted, and with sensitive data blacked out.

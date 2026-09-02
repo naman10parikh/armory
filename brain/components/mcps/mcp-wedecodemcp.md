@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-01T20:03:17Z"
 ---
 ## What it is
 A WeChat Mini Program decompilation MCP server that enables scanning, decompiling, and analyzing local WeChat mini program packages through MCP clients like Cherry Studio.

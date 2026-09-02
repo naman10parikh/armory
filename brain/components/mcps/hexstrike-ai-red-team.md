@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-27T06:46:27Z"
 ---
 ## What it is
 Advanced AI-powered penetration testing MCP server with 127 security tools, 12+ autonomous AI agents, and BOAZ red team payload evasion for automated security assessments.

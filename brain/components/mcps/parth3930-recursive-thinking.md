@@ -8,10 +8,12 @@ source_url: https://github.com/parth3930/recursive-thinking-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T12:06:08Z"
 ---
 ## What it is
 MCP server `Recursive Thinking`, catalogued on PulseMCP. Token-efficient recursive thinking engine that guides iterative refinement through focused prompts and context compression.

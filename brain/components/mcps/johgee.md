@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:50:20Z"
 ---
 ## What it is
 Enables users to produce explainable UK garden watering recommendations as deterministic millimetres, litres and runtime from self-reported garden details or an optional postcode, without controlling irrigation hardware.

@@ -8,10 +8,12 @@ source_url: https://github.com/maksimsarychau/mcp-zebrunner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-21T13:11:54Z"
 ---
 ## What it is
 MCP server `Zebrunner`, catalogued on PulseMCP. Connects Zebrunner Test Case Management with AI assistants for managing test cases, suites, and execution data through natural language

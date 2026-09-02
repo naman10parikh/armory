@@ -8,10 +8,12 @@ source_url: https://github.com/davidkingzyb/scast
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-05-08T16:14:38Z"
 ---
 ## What it is
 MCP server `SCAST`, catalogued on PulseMCP. Static Code Analysis and Visualization. Convert Code to UML and Flow Diagram and explain by AI.

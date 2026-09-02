@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:45:20Z"
 ---
 ## What it is
 Enables AI agents to manage live Firefox tabs and native tab groups via MCP tools over stdio, with exact-match verification and safety constraints. It does not read page content or send browser data remotely.

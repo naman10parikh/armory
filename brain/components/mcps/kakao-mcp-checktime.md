@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T12:58:53Z"
 ---
 ## What it is
 MCP server for real estate checktime, providing pre/post-contract checklists, required documents, and timeline generation as MCP tools.

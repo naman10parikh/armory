@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T13:46:51Z"
 ---
 ## What it is
 Enables working with and exporting live Claude Design projects and prototypes through a local bridge that handles OAuth authentication and adds tools to download files and export projects.

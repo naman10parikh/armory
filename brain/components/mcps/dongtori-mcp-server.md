@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T07:25:04Z"
 ---
 ## What it is
 Searches for children's programs at public facilities like libraries and cultural centers in South Korea, answering natural language queries about schedules, fees, and registration.

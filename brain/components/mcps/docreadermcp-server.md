@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T06:25:55Z"
 ---
 ## What it is
 Enables reading and streaming of organization document formats (PDF, DOCX, Excel, CSV, TSV, TXT) as Markdown, with support for page ranges and sheet selection.

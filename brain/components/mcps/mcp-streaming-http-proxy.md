@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-31T14:01:51Z"
 ---
 ## What it is
 Proxies STDIO-based MCP clients to streaming HTTP MCP servers, enabling local clients to connect to remote servers.

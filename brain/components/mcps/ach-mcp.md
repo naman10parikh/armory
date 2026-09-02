@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T05:13:58Z"
 ---
 ## What it is
 An in-editor MCP server that exposes Unity convenience tools to AI assistants, allowing them to read console logs, execute menu items, dump scene hierarchies, and take screenshots.

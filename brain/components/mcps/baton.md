@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T11:29:08Z"
 ---
 ## What it is
 Connect any AI session to any other across models, machines, and people with one code. Enables relay, handoff, and verification of session contexts.

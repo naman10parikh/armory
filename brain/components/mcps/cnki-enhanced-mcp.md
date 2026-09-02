@@ -8,11 +8,13 @@ source_url: https://github.com/ChengDSYJ-Studio/CNKI-Enhanced-MCP
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-08T19:01:14Z"
 ---
 ## What it is
 Enables AI to search, filter, and process CNKI academic literature through natural language, including structured search, metadata retrieval, full-text reading, citation export, and PDF/CAJ download.

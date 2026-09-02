@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-31T13:27:08Z"
 ---
 ## What it is
 MCP server for Google Search Console, enabling querying search analytics, URL inspection, sitemap management, and more via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T07:50:17Z"
 ---
 ## What it is
 Bridges JLCPCB/Lichuang EDA Pro with MCP clients to export and analyze schematic/PCB DRC, netlists, and BOMs, enabling automated diagnostics and data queries.

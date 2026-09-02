@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-17T09:21:42Z"
 ---
 ## What it is
 An MCP server for the Billingo invoicing API (v3) that enables AI assistants like Claude to manage invoices, partners, products, expenses, and more through natural language.

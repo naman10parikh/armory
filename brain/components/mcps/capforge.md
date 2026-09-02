@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T20:05:29Z"
 ---
 ## What it is
 MCP server that makes AI agents get SAP CAP/CDS right by providing curated knowledge and a feedback loop with real validation against cds compile.

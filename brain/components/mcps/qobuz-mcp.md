@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T17:37:54Z"
 ---
 ## What it is
 Connects your Qobuz account to Claude for music search, playlist management, favorites browsing, and streaming URL retrieval through natural conversation.

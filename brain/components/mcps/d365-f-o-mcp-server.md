@@ -8,11 +8,13 @@ source_url: https://github.com/dynamics365ninja/d365fo-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 132
+stars: 136
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 51
+pushed_at: "2026-09-01T11:59:07Z"
 ---
 ## What it is
 Enables AI-assisted X++ development for Dynamics 365 Finance and Operations by pre-indexing the entire codebase and providing 54 specialized tools for metadata lookup, code generation, and best practice validation.

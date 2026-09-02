@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T05:04:36Z"
 ---
 ## What it is
 A dual-path web search MCP server for Claude Code that cross-validates results via Tavily/Firecrawl and Google, explicitly returning sources to reduce hallucinations.

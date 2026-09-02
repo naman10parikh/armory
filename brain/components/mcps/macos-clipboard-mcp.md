@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-06T10:03:29Z"
 ---
 ## What it is
 Provides MCP tools to copy text to and paste text or images from the macOS clipboard using AppleScript.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T02:40:33Z"
 ---
 ## What it is
 MCP server `PhyMCP`, catalogued on PulseMCP. Lightweight physical MCP protocol for nearby IoT devices, enabling LLM agents to discover and control ESP32 microcontrollers via ESP-NOW with a Python MCP wrapper.

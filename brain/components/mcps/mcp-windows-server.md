@@ -8,11 +8,13 @@ source_url: https://github.com/mukul975/mcp-windows-automation
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 49
+stars: 50
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-06-03T22:11:54Z"
 ---
 ## What it is
 Enables AI assistants to control Windows systems through natural language commands, providing 200+ automation tools for system control, file operations, web automation, and more.

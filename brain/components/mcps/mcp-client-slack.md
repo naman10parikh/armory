@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T18:34:22Z"
 ---
 ## What it is
 Listens for Slack @mentions and publishes them as real-time events to the KĀDI event bus, enabling event-driven architectures with low latency.

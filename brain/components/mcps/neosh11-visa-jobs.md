@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-20T11:42:11Z"
 ---
 ## What it is
 MCP server `Visa Jobs`, catalogued on PulseMCP. Searches LinkedIn for job listings and cross-references DOL disclosure data to identify employers with H-1B, E-3, and green card sponsorship history.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-03-12T17:45:16Z"
 ---
 ## What it is
 An MCP server that enables AI agents to manage a TODO list with user authentication via Stytch. It provides tools for creating, reading, updating, and deleting TODO items while handling identity and authorization.

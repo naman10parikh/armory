@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-05T06:05:22Z"
 ---
 ## What it is
 Implements the Model Context Protocol to retrieve context from a locally running Llama model, enabling AI applications to query and receive relevant information.

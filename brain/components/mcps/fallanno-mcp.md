@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:18:07Z"
 ---
 ## What it is
 MCP server for the Fallanno platform, enabling identity management, annotation signing and verification, payout routing, pricing, peer scoring, audit chains, and portfolio building through Claude Code/Desktop.

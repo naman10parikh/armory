@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T05:17:18Z"
 ---
 ## What it is
 Enables AI tools to interact with Firefly III personal finance manager through the MCP protocol, deployed globally on Cloudflare Workers for low latency.

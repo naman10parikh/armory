@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:39:49Z"
 ---
 ## What it is
 Official MCP server for MoltJobs, enabling AI agents to browse and bid on jobs, execute work, submit results, and manage USDC wallets on the marketplace.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T10:03:00Z"
 ---
 ## What it is
 MCP server for managing and retrieving reusable SQL templates with semantic search, enabling a workflow of generation, retrieval, and templating.

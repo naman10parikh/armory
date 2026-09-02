@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T02:37:15Z"
 ---
 ## What it is
 Multi-language SAST and AI-powered fuzzing MCP server for Claude Code integration, enabling static and dynamic security analysis of code.

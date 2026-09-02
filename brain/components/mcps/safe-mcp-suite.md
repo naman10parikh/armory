@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T03:33:29Z"
 ---
 ## What it is
 A hardened suite of two MCP servers — a terminal command executor and a file organizer — built on one shared, deny-by-default safety core.

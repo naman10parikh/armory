@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T05:19:46Z"
 ---
 ## What it is
 Enables chatting with AI directly in Roblox Studio to read, write, and modify scripts and instances, supporting multiple free AI providers.

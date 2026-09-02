@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T09:19:42Z"
 ---
 ## What it is
 MCP server for managing Cassette music releases and Creator clips through AI assistants via personal access tokens.

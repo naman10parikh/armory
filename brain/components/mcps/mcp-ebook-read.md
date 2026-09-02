@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T06:23:05Z"
 ---
 ## What it is
 A local MCP server that lets LLM agents read EPUB books and PDF documents with outline-first navigation, precise node reads, and local SQLite persistence.

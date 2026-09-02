@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:06:43Z"
 ---
 ## What it is
 MCP server `Feodo Tracker`, catalogued on PulseMCP. Access abuse.ch's Feodo Tracker botnet intelligence for querying C&C server IP blocklists and threat data for Feodo, Dridex, and TrickBot malware.

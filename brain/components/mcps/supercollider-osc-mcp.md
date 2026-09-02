@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-05-14T20:55:27Z"
 ---
 ## What it is
 Enables AI assistants to control SuperCollider audio synthesis via OSC, supporting melody, rhythm, and soundscape generation through MCP tools.

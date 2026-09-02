@@ -8,10 +8,12 @@ source_url: https://github.com/imphillip/gbrain-openclaw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-05T17:57:00Z"
 ---
 ## What it is
 MCP server `gBrain OpenClaw`, catalogued on PulseMCP. Personal knowledge graph storing entities with compiled truth sections and append-only timeline evidence.

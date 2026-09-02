@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-25T05:31:56Z"
 ---
 ## What it is
 eu-verify lets AI agents verify any European business partner: company existence (official French SIREN registry), insolvency records (BODACC), EU VAT validation before invoicing (VIES), SIRET/IBAN/LEI checks, address and email verification, French business-day deadlines and EU public tenders. 10 pa

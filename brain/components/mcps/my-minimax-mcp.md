@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T19:59:42Z"
 ---
 ## What it is
 Wraps MiniMax AI as an autonomous code executor for Claude Code, offloading coding tasks to save Claude subscription tokens.

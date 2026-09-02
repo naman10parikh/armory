@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T03:37:56Z"
 ---
 ## What it is
 Enables any MCP-compatible AI agent to send WhatsApp messages, SMS, OTP codes, and email through a single REST API.

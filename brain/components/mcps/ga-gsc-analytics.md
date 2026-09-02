@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:44:35Z"
 ---
 ## What it is
 Enables read-only access to Google Analytics 4 and Google Search Console data, allowing users to run reports, query search analytics, and generate combined snapshots for reporting.

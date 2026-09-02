@@ -8,10 +8,12 @@ source_url: https://github.com/claytono/go-unifi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-09-02T03:42:04Z"
 ---
 ## What it is
 MCP server `Go UniFi`, catalogued on PulseMCP. Manage UniFi sites, devices, clients, networks, port forwarding, DNS, and firewall rules.

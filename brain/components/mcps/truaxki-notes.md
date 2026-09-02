@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-31T00:24:40Z"
 ---
 ## What it is
 MCP server `Notes`, catalogued on PulseMCP. Provides a simple interface for reading and writing notes, enabling quick information capture and basic note management tasks.

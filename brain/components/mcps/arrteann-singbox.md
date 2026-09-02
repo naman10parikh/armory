@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T07:15:35Z"
 ---
 ## What it is
 MCP server `Sing-box Docs`, catalogued on PulseMCP. RAG-based MCP server for querying sing-box proxy software documentation using semantic search to prevent AI hallucinations.

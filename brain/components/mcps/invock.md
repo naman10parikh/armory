@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:05:48Z"
 ---
 ## What it is
 Invock is a deterministic execution-trust layer for AI agents that authorizes tool calls against policy, intent, data lineage, and containment before execution. It integrates with MCP to provide secure, auditable action gating.

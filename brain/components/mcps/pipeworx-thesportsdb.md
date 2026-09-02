@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:28:59Z"
 ---
 ## What it is
 MCP server `TheSportsDB`, catalogued on PulseMCP. Sports catalog data — teams, players, and events via the TheSportsDB API through Pipeworx's managed gateway.

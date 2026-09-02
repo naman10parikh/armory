@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:05:29Z"
 ---
 ## What it is
 A production-quality Telegram MCP server that sends messages via Telegram API, fixing bugs in the reference implementation. Provides tools to list dialogs, read messages, send messages, and mark chats as read.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-10T06:48:57Z"
 ---
 ## What it is
 A Python-based MCP server for integrating Blender and 3D modeling capabilities with OpenClaw AI agents.

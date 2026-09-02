@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T03:56:04Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve French legislation, case law, and EU law integrations from official sources via MCP.

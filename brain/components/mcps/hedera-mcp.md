@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T18:25:55Z"
 ---
 ## What it is
 Comprehensive MCP server for Hedera (Hashgraph) covering 73 tools across all core services, building unsigned transactions for AI agents to propose. Never holds keys; reads via public Mirror Node.

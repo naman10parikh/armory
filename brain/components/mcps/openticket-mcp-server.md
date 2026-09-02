@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T23:47:59Z"
 ---
 ## What it is
 Enables agents to discover events, purchase tickets, and set reminders through MCP tools.

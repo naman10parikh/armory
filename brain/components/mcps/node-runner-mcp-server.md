@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-06T12:46:34Z"
 ---
 ## What it is
 Enables running Node.js scripts and npm commands with permission prompts via node-notifier, including server management, script execution with stdin, and npm package documentation fetching.

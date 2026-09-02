@@ -8,10 +8,12 @@ source_url: https://github.com/7majesty-m/terminal-guardian-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-28T07:22:04Z"
 ---
 ## What it is
 MCP server `Terminal Guardian`, catalogued on PulseMCP. Provides secure sandboxed terminal access with risk analysis and deny-by-default security controls.

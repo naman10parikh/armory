@@ -8,10 +8,12 @@ source_url: https://github.com/renandadalte/wpdev-pro-extended
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-20T07:57:41Z"
 ---
 ## What it is
 MCP server `Cornerstone Pro Extended`, catalogued on PulseMCP. WordPress plugin that provides direct access to Cornerstone page builder layouts, elements, schemas, and site configuration for reading, creating, and managing layouts programmatically.

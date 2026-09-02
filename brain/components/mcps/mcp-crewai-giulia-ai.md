@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:32:52Z"
 ---
 ## What it is
 MCP server enabling text-to-SQL on PostgreSQL databases using a CrewAI multi-agent system. It generates and executes read-only SQL queries from natural language, with security layers against prompt injection.

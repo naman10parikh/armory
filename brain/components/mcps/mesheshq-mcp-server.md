@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T04:47:27Z"
 ---
 ## What it is
 Enables emitting product events, managing workspaces, routing rules, and integration connections for the Meshes universal integration layer.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-28T14:25:25Z"
 ---
 ## What it is
 An MCP server for headless mobile QA automation that controls real Safari, Flutter, and native iOS apps on Xcode Simulators via WebKit Remote Debugging Protocol, enabling parallel multi-device testing and persistent login sessions.

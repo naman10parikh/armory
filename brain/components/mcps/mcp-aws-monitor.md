@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T06:26:19Z"
 ---
 ## What it is
 Monitors AWS infrastructure including EC2, RDS, S3, SQS, CloudWatch, and more through 19 tools, enabling natural language queries for infrastructure status.

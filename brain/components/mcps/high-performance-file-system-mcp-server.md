@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T20:15:01Z"
 ---
 ## What it is
 A secure, Dockerized MCP server enabling AI assistants to perform file and directory CRUD operations like read, write, edit, search, and manage local files via natural language.

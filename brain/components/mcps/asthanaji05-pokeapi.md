@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-02T07:20:53Z"
 ---
 ## What it is
 MCP server `PokeAPI`, catalogued on PulseMCP. Access comprehensive Pokémon data from PokeAPI

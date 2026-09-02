@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T20:49:47Z"
 ---
 ## What it is
 Capture, index, and search your Claude Code conversation history. Provides an MCP server for Claude Code to query its own past conversations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-07T18:00:57Z"
 ---
 ## What it is
 Enables AI agents to interact with the Advbox legal management system, supporting operations on clients, lawsuits, tasks, and financial transactions.

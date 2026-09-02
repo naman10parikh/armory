@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T18:36:21Z"
 ---
 ## What it is
 A local MCP server that wraps the Impact.com partner REST API for querying and acting on affiliate/partnership data, with focus on diagnosing publisher tracking problems.

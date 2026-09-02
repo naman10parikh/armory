@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T09:38:59Z"
 ---
 ## What it is
 A self-hosted semantic code retrieval MCP server that enables natural language queries to find relevant code snippets using Tree-sitter AST parsing, embedding, and hybrid search with reranking.

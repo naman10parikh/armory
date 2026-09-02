@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T23:05:49Z"
 ---
 ## What it is
 Model Context Protocol server for RosalindDB, enabling AI clients to create datasets, ingest vectors, run similarity queries, and check usage on a cost-optimized vector search database.

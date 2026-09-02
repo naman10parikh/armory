@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-16T10:05:21Z"
 ---
 ## What it is
 MCP server `MCPEz (Proxy Aggregator)`, catalogued on PulseMCP. Python-based proxy server that aggregates multiple MCP-compatible services into a unified endpoint, enabling dynamic tool discovery and execution through a web UI and JSON-RPC communication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T14:59:24Z"
 ---
 ## What it is
 An MCP server for AI-agent web scraping that enforces robots.txt compliance and requires user confirmation of scrape plans, packaging scraped data with provenance evidence.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T10:22:52Z"
 ---
 ## What it is
 MCP server that turns WhatsApp into agent-callable tools, enabling search contacts, send/receive messages, read chats, handle media, and monitor calls via the WhatsApp Web multi-device protocol.

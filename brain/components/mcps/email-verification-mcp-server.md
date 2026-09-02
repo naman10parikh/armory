@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:20:28Z"
 ---
 ## What it is
 Provides an MCP tool to verify email addresses, returning valid, invalid, risky, or error statuses via the InboxValid API. It includes a mock API and retry logic for robust, type-safe verification.

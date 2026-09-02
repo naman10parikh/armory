@@ -8,10 +8,12 @@ source_url: https://github.com/tayler-id/social-media-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-06T23:58:19Z"
 ---
 ## What it is
 MCP server `Social Media Sync`, catalogued on PulseMCP. Enables cross-platform social media content creation by integrating Twitter, Mastodon, and LinkedIn through a unified server that leverages multiple AI models for generating and posting content with robust platform-specific formatting and research capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T07:16:33Z"
 ---
 ## What it is
 Catalogues skills and agents into a queryable graph, exposing MCP tools for reference counting, usage scanning, and overlay notes with a built-in visual viewer.

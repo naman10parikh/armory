@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T15:47:00Z"
 ---
 ## What it is
 MCP server that generates images via multiple AI models (GPT Image, Gemini, Recraft, Seedream, Grok, Arrow) and returns usable file paths, including editable SVG output.

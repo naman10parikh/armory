@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:55:23Z"
 ---
 ## What it is
 Dynamically converts any Swagger 2.0 or OpenAPI 3.x specification into callable MCP tools, enabling AI clients to interact with API endpoints.

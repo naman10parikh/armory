@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:38:33Z"
 ---
 ## What it is
 Enables querying Linn County, Iowa open geospatial data (parcels, addresses, zoning) through ArcGIS services, with tools to search datasets, query layers, and retrieve schema info.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T21:47:19Z"
 ---
 ## What it is
 Connects Claude to your MercadoLibre seller account, enabling natural language management of listings, orders, and shipments.

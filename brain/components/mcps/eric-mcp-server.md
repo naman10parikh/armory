@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T05:19:45Z"
 ---
 ## What it is
 An MCP server for searching the ERIC education research database, enabling keyword search, record retrieval, thesaurus lookup, author search, and citation export.

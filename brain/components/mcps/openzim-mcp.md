@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T11:27:52Z"
 ---
 ## What it is
 MCP server for reading and searching ZIM archives, optimized for single-user deployments with a persistent Wikipedia archive.

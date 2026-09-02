@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T22:54:13Z"
 ---
 ## What it is
 UK property area intelligence: validated trajectory scores, gentrification early-warning and area screening for 2,292 England & Wales postcode districts, from 30+ government data sources.

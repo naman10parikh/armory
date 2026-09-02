@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T08:16:29Z"
 ---
 ## What it is
 A fully local, persistent memory layer for AI agents that runs as an MCP stdio server and provides an AI SDK adapter for seamless integration with generateText/streamText agents.

@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
-stars: 573
+stars: 584
+forks: 74
+pushed_at: "2026-08-01T22:29:53Z"
 ---
 ## What it is
 Premium MCP server for Godot game engine with 84 tools for scene editing, scripting, animation, tilemap, shader, input simulation, and runtime debugging.

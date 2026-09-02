@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
 stars: 13
+forks: 4
+pushed_at: "2026-08-11T12:26:41Z"
 ---
 ## What it is
 Comprehensive DevOps and networking MCP server providing standardized access to essential infrastructure tools. Features network monitoring, system diagnostics, automation workflows, and infrastructure management with AI-powered operational insights.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T22:24:20Z"
 ---
 ## What it is
 Enables simulated multi-table No-Limit Texas Hold'em study and decision-support, allowing users to practice against bots and get equity/pot-odds/preflop-chart advice.

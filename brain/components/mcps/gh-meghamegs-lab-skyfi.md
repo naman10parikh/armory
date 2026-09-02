@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T00:11:48Z"
 ---
 ## What it is
 MCP server `SkyFi Satellite Imagery`, catalogued on PulseMCP. Search, price, order, and monitor satellite imagery through the SkyFi platform API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T08:13:37Z"
 ---
 ## What it is
 Serves documentation for Git repositories via MCP, providing tools to search docs, retrieve feature details, WIP status, and full context. Enables LLM agents to access human and LLM-optimized documentation through stdio or SSE transports.

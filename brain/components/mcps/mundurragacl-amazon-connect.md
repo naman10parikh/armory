@@ -8,10 +8,12 @@ source_url: https://github.com/mundurragacl/amazon-connect-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-28T21:41:31Z"
 ---
 ## What it is
 MCP server `Amazon Connect`, catalogued on PulseMCP. Integrates with Amazon Connect contact center services to manage configuration, cases, contacts, analytics, profiles, campaigns, and AI features with multi-region support and industry-specific templates.

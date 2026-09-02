@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-22T09:43:58Z"
 ---
 ## What it is
 Enables AI assistants to programmatically create, manipulate, and analyze Microsoft PowerPoint presentations with advanced formatting and template management.

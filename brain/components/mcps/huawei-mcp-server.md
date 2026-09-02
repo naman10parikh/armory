@@ -8,11 +8,13 @@ source_url: https://github.com/HuaweiCloudDeveloper/mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 45
+stars: 46
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 23
+pushed_at: "2026-02-11T02:48:20Z"
 ---
 ## What it is
 A Model Context Protocol server that provides secure, controlled access to Huawei Cloud services (ECS, OBS, GaussDB, etc.) for AI assistants, enabling cloud resource management through conversational workflows.

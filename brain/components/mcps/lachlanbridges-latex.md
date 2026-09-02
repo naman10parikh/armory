@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-22T14:28:47Z"
 ---
 ## What it is
 MCP server `LaTeX Document Compiler`, catalogued on PulseMCP. Provides complete LaTeX document compilation and generation capabilities through a Docker-containerized TeXLive environment, offering tools for compiling LaTeX source to PDF using multiple engines, managing reusable document templates, and rendering LaTeX snippets with parameter substitution for educators, researchers, and developers building document generation workflows.

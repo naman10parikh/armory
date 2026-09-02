@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 25
+pushed_at: "2026-05-03T02:10:24Z"
 ---
 ## What it is
 A Model Context Protocol server that integrates Futu OpenAPI, enabling AI models to query real-time market data and execute trades across Hong Kong, US, and A-share markets.

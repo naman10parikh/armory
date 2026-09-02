@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T16:46:58Z"
 ---
 ## What it is
 MCP server `ChainPulse`, catalogued on PulseMCP. Cryptocurrency analysis and portfolio tracking with on-chain data, token security checks, and DeFi insights.

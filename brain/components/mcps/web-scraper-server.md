@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-03T15:17:21Z"
 ---
 ## What it is
 Provides browser automation and web scraping as MCP tools, enabling autonomous URL ingestion, crawling, extraction, and anti-bot handling with interactive browser control.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T13:21:49Z"
 ---
 ## What it is
 Enables AI assistants to inspect React Native app performance including memory, rendering, frames, and network requests, providing plain-language summaries and shareable reports.

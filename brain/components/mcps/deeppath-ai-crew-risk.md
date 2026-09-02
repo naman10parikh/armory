@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-17T11:09:31Z"
 ---
 ## What it is
 MCP server `Crew Risk`, catalogued on PulseMCP. Evaluates websites for crawling compliance and safety by analyzing robots.txt files, detecting anti-crawling mechanisms, identifying sensitive data, checking copyright restrictions, and scanning for exposed endpoints to provide three-tier risk ratings with specific recommendations for compliant web scraping strategies.

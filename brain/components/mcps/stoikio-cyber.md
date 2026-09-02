@@ -8,10 +8,12 @@ source_url: https://github.com/stoikio/cyber-mcp-public
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-13T15:32:19Z"
 ---
 ## What it is
 MCP server `Stoiki`, catalogued on PulseMCP. Secure MCP gateway for Gmail, Slack, Google Calendar, and Notion with JWT auth and audit logging.

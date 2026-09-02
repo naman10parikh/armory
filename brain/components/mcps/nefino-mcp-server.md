@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-02-24T13:17:57Z"
 ---
 ## What it is
 Provides LLMs with access to news and information about renewable energy projects and planning in Germany via the Nefino API, enabling location-based queries with topic and date filtering.

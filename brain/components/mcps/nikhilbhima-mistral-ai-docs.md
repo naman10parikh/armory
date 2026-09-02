@@ -8,10 +8,12 @@ source_url: https://github.com/nikhilbhima/mistral-ai-docs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T18:45:44Z"
 ---
 ## What it is
 MCP server `Mistral AI Docs`, catalogued on PulseMCP. Unofficial MCP server providing BM25 search over Mistral AI developer documentation and API reference.

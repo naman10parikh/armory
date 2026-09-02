@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-03T13:55:52Z"
 ---
 ## What it is
 MCP server `TunaPay Solana TX Classifier`, catalogued on PulseMCP. Classifies Solana on-chain transactions for tax reporting and compliance with IRS-aligned categories and CSV exports.

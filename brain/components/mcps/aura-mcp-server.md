@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T19:07:09Z"
 ---
 ## What it is
 Provides tools to cache answers, run local compute, and retrieve stats, reducing LLM calls by answering prompts for free when possible.

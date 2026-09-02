@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T02:37:33Z"
 ---
 ## What it is
 A portable memory server for AI agents, built for the Model Context Protocol (MCP). It stores durable memories as plain markdown files with YAML frontmatter.

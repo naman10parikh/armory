@@ -8,10 +8,12 @@ source_url: https://github.com/aaronontheweb/mssql-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 147
+stars: 156
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-01-22T18:15:12Z"
 ---
 ## What it is
 MCP server `SQL Server`, catalogued on PulseMCP. Provides robust SQL Server database access with T-SQL validation, connection management, and cross-platform Docker support for executing queries, discovering schemas, and exploring table structures.

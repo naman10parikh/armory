@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:55:07Z"
 ---
 ## What it is
 Maps corporate relationships from CPF/CNPJ, revealing participations and related partners for people and companies via a read-only, hosted MCP server.

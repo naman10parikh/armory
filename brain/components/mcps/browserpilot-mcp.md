@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T15:31:59Z"
 ---
 ## What it is
 A local browser automation bridge that connects AI agents like Claude to Chromium-based browsers, enabling web navigation, clicking, input, screenshots, and tab management.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 25
+forks: 7
+pushed_at: "2025-04-05T16:29:23Z"
 ---
 ## What it is
 [Codex API](https://www.codex.io) integration for real-time enriched blockchain and market data on 60+ networks

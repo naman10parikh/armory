@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:11:49Z"
 ---
 ## What it is
 A supervisor MCP server that starts, stops, and restarts local agents as child processes over HTTP, allowing agents to restart themselves and evolve without human intervention.

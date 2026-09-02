@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-12T10:00:19Z"
 ---
 ## What it is
 Provides a Python-based interface to the Perplexity API for querying responses, maintaining chat history, and managing conversations. It enables models to ask questions, continue conversations, and list chats through Perplexity AI.

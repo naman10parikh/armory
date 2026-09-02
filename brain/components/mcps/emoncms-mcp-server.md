@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T13:32:38Z"
 ---
 ## What it is
 MCP server for EmonCMS energy monitoring API, enabling AI assistants to query energy feeds, inputs, and historical data.

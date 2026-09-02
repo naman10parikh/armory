@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T04:35:47Z"
 ---
 ## What it is
 Provides programmatic access to Mimikatz for credential extraction, Kerberos attacks, SAM/LSA dumping, and other Windows security assessment tasks through natural language.

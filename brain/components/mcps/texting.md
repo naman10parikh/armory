@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T01:01:37Z"
 ---
 ## What it is
 Enables Claude to send and read iMessages on macOS, with human approval required for sending and no auto-replies.

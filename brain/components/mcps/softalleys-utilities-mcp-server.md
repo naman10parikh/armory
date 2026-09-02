@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-29T16:52:43Z"
 ---
 ## What it is
 Enables generation of UUIDs (v4, v7) and ULIDs, UTC time retrieval, and customizable random string creation with options for length, case, numbers, and special characters.

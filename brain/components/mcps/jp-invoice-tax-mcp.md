@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T18:41:55Z"
 ---
 ## What it is
 Enables AI assistants to perform Japanese invoice and tax calculations, including consumption tax, withholding tax, invoice number validation, and invoice data generation, all locally without external APIs.

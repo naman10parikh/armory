@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-06T20:14:53Z"
 ---
 ## What it is
 MCP server `Claude Army`, catalogued on PulseMCP. Orchestrates multiple Claude Code agents across different projects in parallel from a single chat interface.

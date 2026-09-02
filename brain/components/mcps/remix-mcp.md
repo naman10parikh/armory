@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-13T00:28:19Z"
 ---
 ## What it is
 A Rust MCP server that enables AI assistants to control Ableton Live via OSC, offering 266 tools for transport, tracks, clips, scenes, devices, and more.

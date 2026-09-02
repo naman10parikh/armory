@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T05:24:22Z"
 ---
 ## What it is
 A discovery tool for AI agents to search, evaluate, and install MCP servers from multiple registries.

@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-08T15:30:51Z"
 ---
 ## What it is
 MCP server `Zaragoza Tram`, catalogued on PulseMCP. Provides real-time tram arrival estimations and station listings for Zaragoza's public transportation system through the DNDzgz API.

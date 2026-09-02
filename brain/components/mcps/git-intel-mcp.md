@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:40:52Z"
 ---
 ## What it is
 A lightweight MCP server that analyzes Git repository history and provides insights through AI-compatible tools. It supports hotspot detection, contributor analysis, and code churn tracking.

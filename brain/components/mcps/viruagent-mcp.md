@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T09:23:28Z"
 ---
 ## What it is
 MCP server that exposes Tistory blog posting functionality, enabling AI agents to write, upload, and publish posts (public/private) via Playwright and Tistory API.

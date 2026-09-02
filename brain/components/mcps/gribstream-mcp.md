@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T00:01:34Z"
 ---
 ## What it is
 Hosted MCP server for weather forecast data. Enables AI agents to discover datasets, build validated API requests, and execute live weather queries after OAuth.

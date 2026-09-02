@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-19T05:09:48Z"
 ---
 ## What it is
 MCP server `Checkstyle`, catalogued on PulseMCP. Code linting and auto-fixing for Go, Java, and Lua projects.

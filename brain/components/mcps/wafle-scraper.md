@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T03:21:26Z"
 ---
 ## What it is
 Enables AI agents to scrape web pages safely with incognito browsing, rate limiting, and ethical CAPTCHA handling.

@@ -12,6 +12,8 @@ stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-10-05T19:33:48Z"
 ---
 ## What it is
 MCP server `Grasshopper 3D`, catalogued on PulseMCP. Integrates with Rhino/Grasshopper 3D modeling software to enable parametric design and geometric analysis through natural language commands for architects, designers, and engineers.

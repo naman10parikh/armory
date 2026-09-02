@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T11:33:35Z"
 ---
 ## What it is
 Enables CRUD operations on notes stored in PostgreSQL, with tools to list, create, update, delete notes and tags. The server provides both REST API and MCP endpoints via a single FastAPI process.

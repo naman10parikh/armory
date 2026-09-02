@@ -8,10 +8,12 @@ source_url: https://github.com/spiritherb/mcp-research-router
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-27T00:57:02Z"
 ---
 ## What it is
 MCP server `Research Router`, catalogued on PulseMCP. Intelligently routes research queries across multiple remote MCP servers by analyzing language, complexity, and time sensitivity to recommend optimal tools and execute them in parallel.

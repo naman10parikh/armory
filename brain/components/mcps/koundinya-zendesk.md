@@ -8,10 +8,12 @@ source_url: https://github.com/koundinya/zd-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-06-02T02:06:54Z"
 ---
 ## What it is
 MCP server `Zendesk Support`, catalogued on PulseMCP. Integrates with Zendesk to enable ticket retrieval, creation, updating, and searching directly from conversation interfaces for streamlined customer support workflows.

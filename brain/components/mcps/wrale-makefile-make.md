@@ -8,10 +8,12 @@ source_url: https://github.com/wrale/mcp-server-make
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-12T12:49:20Z"
 ---
 ## What it is
 MCP server `Makefile make`, catalogued on PulseMCP. Integrates with make to enable execution of Makefile targets, automating build processes and development tasks for software projects.

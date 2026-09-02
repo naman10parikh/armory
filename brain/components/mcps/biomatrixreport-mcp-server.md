@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T06:08:06Z"
 ---
 ## What it is
 Exposes BioMatrixReport APIs as MCP tools for querying employee details, sending WFO attendance report emails, and syncing biometric attendance data via natural language.

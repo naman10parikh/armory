@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-01T09:44:15Z"
 ---
 ## What it is
 MCP server `Dataiku`, catalogued on PulseMCP. MCP server for Dataiku DSS APIs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:59:59Z"
 ---
 ## What it is
 MCP server that securely writes confirmed parking reservations to a file with bearer-token auth and input validation.

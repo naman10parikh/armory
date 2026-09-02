@@ -8,10 +8,12 @@ source_url: https://github.com/vmandic/searchconsole-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-10T14:41:17Z"
 ---
 ## What it is
 MCP server `Google Search Console`, catalogued on PulseMCP. Read-only access to Google Search Console analytics and URL inspection tools.

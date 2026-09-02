@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-15T16:07:26Z"
 ---
 ## What it is
 MCP server `FreshDeps`, catalogued on PulseMCP. Live npm and PyPI dependency health verdicts to help AI coding agents avoid recommending stale or vulnerable packages.

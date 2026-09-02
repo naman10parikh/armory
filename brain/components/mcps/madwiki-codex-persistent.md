@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-15T08:53:37Z"
 ---
 ## What it is
 MCP server `Codex Persistent`, catalogued on PulseMCP. Proxy interface to OpenAI's Codex CLI with persistent session management, enabling conversational context preservation across multiple interactions through automatic session tracking and role cards.

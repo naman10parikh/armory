@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T05:00:36Z"
 ---
 ## What it is
 Connect Printify to Claude to create, update, and publish print-on-demand products directly from chat.

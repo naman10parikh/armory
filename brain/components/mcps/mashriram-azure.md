@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-13T06:30:24Z"
 ---
 ## What it is
 MCP server `Azure`, catalogued on PulseMCP. Integrates with Azure Blob Storage and Cosmos DB to enable secure reading, manipulation, and querying of cloud data resources.

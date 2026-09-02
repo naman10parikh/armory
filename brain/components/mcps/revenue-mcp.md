@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T18:16:08Z"
 ---
 ## What it is
 Enables querying MRR, churn, and revenue from Stripe, Gumroad, and Lemon Squeezy directly inside Claude, allowing natural language questions about business metrics.

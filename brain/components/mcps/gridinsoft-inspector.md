@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-19T02:50:56Z"
 ---
 ## What it is
 MCP server `GridinSoft Website Inspector`, catalogued on PulseMCP. Website safety and trust analysis. Verify domain reputation and detect phishing.

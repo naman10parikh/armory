@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:31:37Z"
 ---
 ## What it is
 A local MCP server for Windows that securely connects a professional Instagram Creator/Business account to AI clients via Meta Graph API, with safety features like OAuth PKCE and explicit confirmation for direct messages.

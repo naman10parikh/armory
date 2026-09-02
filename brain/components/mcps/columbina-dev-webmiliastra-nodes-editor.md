@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-04T08:50:19Z"
 ---
 ## What it is
 MCP server `WebMiliastra Nodes Editor`, catalogued on PulseMCP. Manages WebMiliastra Nodes Editor graph documents and projects with tools for reading, writing, and validating JSON files containing nodes and edges.

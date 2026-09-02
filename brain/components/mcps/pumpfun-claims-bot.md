@@ -8,11 +8,13 @@ source_url: https://github.com/nirholas/pumpfun-claims-bot
 license: Inno Setup License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-17T03:00:59Z"
 ---
 ## What it is
 Monitors Solana PumpFun on-chain activity and broadcasts rich, intelligence-enriched Telegram cards for GitHub social fee claims and token graduations, including credibility scores, dev track records, and influencer tiers.

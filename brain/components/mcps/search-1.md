@@ -8,10 +8,12 @@ source_url: https://github.com/airweave-ai/airweave
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6359
+stars: 6563
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 818
+pushed_at: "2026-06-05T09:52:19Z"
 ---
 ## What it is
 MCP server `Airweave Search`, catalogued on PulseMCP. Search Airweave collections with natural language queries.

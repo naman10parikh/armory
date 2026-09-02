@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T15:02:06Z"
 ---
 ## What it is
 Unofficial MCP and CLI server to read a user's current E.Leclerc Drive catalog through a persistent Camoufox browser session, enabling product search, product and cart reading, and confirmed cart add/remove operations without placing orders or making payments.

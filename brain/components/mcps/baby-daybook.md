@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T17:54:21Z"
 ---
 ## What it is
 Enables interaction with Baby Daybook data through Firebase, allowing users to manage babies, activities, growth, sleep predictions, and more via natural language commands.

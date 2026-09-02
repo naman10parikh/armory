@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T23:15:36Z"
 ---
 ## What it is
 MCP server `SquadCo`, catalogued on PulseMCP. Provides AI coding assistants with structured access to SquadCo's payment API documentation for Nigerian fintech integration.

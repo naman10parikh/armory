@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-02T03:26:52Z"
 ---
 ## What it is
 MCP server `TaskMate`, catalogued on PulseMCP. Enables dynamic task creation, tracking, and organization across multiple agents and projects using FastAPI and LangChain, with robust JSON-based task management and flexible operational capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T16:22:54Z"
 ---
 ## What it is
 A TypeScript SDK for building MCP servers with HMAC authentication, manifest generation, and tool scaffolding.

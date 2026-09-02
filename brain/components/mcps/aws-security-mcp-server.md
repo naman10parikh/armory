@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-26T17:45:06Z"
 ---
 ## What it is
 Enables management and analysis of AWS security groups, S3 buckets, and VPC connections via MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T00:56:29Z"
 ---
 ## What it is
 Provides programmatic access to Trello's API to manage boards, lists, cards, and organizations via MCP.

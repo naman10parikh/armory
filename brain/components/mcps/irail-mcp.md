@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T18:18:00Z"
 ---
 ## What it is
 Provides Belgian railway travel information via the iRail API, including station search, live departures/arrivals, route planning, and network disturbances.

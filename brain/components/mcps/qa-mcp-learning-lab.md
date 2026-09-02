@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:04:35Z"
 ---
 ## What it is
 Showcases principal-level QA architecture using MCP tools and Playwright for validating security, business workflows, contract safety, and cross-layer consistency.

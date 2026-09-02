@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2025-04-05T11:01:10Z"
 ---
 ## What it is
 Enables AI agents to programmatically interact with a Miro board through the Miro API, supporting operations like creating items, updating positions, and managing connectors.

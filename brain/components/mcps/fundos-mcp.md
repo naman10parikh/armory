@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-14T19:38:59Z"
 ---
 ## What it is
 AI-native MCP server for fund managers — deal pipeline, LP management, covenant monitoring, VDR document intelligence, fund accounting (K-1, waterfall, audit packs), and HF ops (DTCC CTM, OMS, FIX). 47 tools.

@@ -8,10 +8,12 @@ source_url: https://github.com/ahmedxuhri/bigindexer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-21T11:02:07Z"
 ---
 ## What it is
 MCP server `Big Indexer`, catalogued on PulseMCP. Architecture-aware MCP context for large codebases — behavioral boundaries, coupling seams, impact scope, and BGI-TWIN guidance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T20:45:54Z"
 ---
 ## What it is
 Enables natural language management of a Trello board for Fortis robotics, including card creation, moving, blocking, weekly recurring tasks, and more.

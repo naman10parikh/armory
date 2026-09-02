@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-01T02:15:27Z"
 ---
 ## What it is
 MCP server `AgentGuard`, catalogued on PulseMCP. Network-egress firewall for AI agents that evaluates URLs against security policies before requests.

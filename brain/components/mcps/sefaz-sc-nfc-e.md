@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:55Z"
 ---
 ## What it is
 Provides read-only consultation of official SEFAZ SC NFC-e tax data via a single tool, with prepaid per-query credits and works with any MCP client.

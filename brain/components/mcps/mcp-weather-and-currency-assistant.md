@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:59:25Z"
 ---
 ## What it is
 A local MCP server that integrates FastMCP with OpenAI to enable natural language queries for current weather, forecasts, and currency conversion using ExchangeRate-API and Open-Meteo.

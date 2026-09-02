@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-04T08:34:13Z"
 ---
 ## What it is
 Automatically converts OpenAPI specifications into a Model Context Protocol (MCP) server instance.

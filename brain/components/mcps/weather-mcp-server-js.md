@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T06:26:40Z"
 ---
 ## What it is
 A remote MCP server that exposes a get_weather tool for real-time current weather queries of any city via the free wttr.in API, supporting Streamable HTTP transport.

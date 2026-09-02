@@ -8,10 +8,12 @@ source_url: https://github.com/dahliyaal/justicelibre
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-30T14:09:53Z"
 ---
 ## What it is
 MCP server `Justice Libre`, catalogued on PulseMCP. Provides access to open legal data and justice-related information through a hosted MCP endpoint.

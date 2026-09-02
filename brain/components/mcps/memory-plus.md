@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T05:52:38Z"
 ---
 ## What it is
 Provides persistent, searchable structured memory management for AI agents, with keyword matching, bidirectional Zettelkasten sync, and six MCP tools.

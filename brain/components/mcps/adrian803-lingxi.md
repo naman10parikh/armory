@@ -12,6 +12,8 @@ stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-30T01:45:18Z"
 ---
 ## What it is
 MCP server `Lingxi`, catalogued on PulseMCP. Autonomous penetration testing framework with MCP tool bridges for Kali Linux container management and CTF workflows.

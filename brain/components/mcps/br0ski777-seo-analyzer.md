@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:01Z"
 ---
 ## What it is
 MCP server `SEO Analyzer`, catalogued on PulseMCP. Audit any URL for SEO: meta tags, headings, links, images, Schema.org, and a 0–100 quality score.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-04T15:25:55Z"
 ---
 ## What it is
 Enables AI assistants to manage Cloudways infrastructure, including servers, applications, monitoring, and security via the Cloudways API.

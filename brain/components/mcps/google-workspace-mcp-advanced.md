@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T17:15:38Z"
 ---
 ## What it is
 Production-ready MCP server for Google Workspace providing broad coverage across Gmail, Drive, Calendar, Docs, Sheets, and more, with safe-by-default write operations and markdown-to-Google-Docs support.

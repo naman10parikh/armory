@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T13:38:43Z"
 ---
 ## What it is
 GUI automation MCP server that enables AI agents to see and control the Windows desktop using a local Vision LLM (Ollama), supporting screenshot analysis, mouse/keyboard actions, and autonomous task execution.

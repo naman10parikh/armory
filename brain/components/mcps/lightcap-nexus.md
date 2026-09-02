@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T18:35:00Z"
 ---
 ## What it is
 MCP server `Lightcap Nexus`, catalogued on PulseMCP. DevOps server management with 163 tools for terminal, files, git, databases, and deployment via hosted gateway.

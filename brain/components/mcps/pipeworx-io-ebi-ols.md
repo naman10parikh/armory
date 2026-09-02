@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:02:08Z"
 ---
 ## What it is
 MCP server `EBI Ontology Lookup`, catalogued on PulseMCP. Searches 250+ biomedical ontologies via the EBI Ontology Lookup Service.

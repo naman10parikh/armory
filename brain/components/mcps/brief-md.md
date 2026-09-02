@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-24T11:33:54Z"
 ---
 ## What it is
 MCP server `BRIEF.md`, catalogued on PulseMCP. MCP server for managing BRIEF.md project context files across AI sessions.

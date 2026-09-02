@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T18:50:00Z"
 ---
 ## What it is
 A YouTube MCP server that enables AI agents to search videos, fetch transcripts, comments, and channel info, with optional API key for extra features and local semantic search via corpora.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-13T14:20:03Z"
 ---
 ## What it is
 MCP server `Anki Leech Cards`, catalogued on PulseMCP. Connects Claude Desktop to Anki via AnkiConnect API, enabling retrieval and analysis of 'leech' cards to improve spaced repetition study habits.

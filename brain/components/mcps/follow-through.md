@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T07:53:02Z"
 ---
 ## What it is
 Tracks meeting commitments, verifies completion via Slack/email/Linear, and sends escalating nudges with manager escalation when deadlines slip.

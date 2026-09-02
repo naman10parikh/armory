@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-29T16:58:57Z"
 ---
 ## What it is
 MCP server `Slunk (Slack Conversation Search)`, catalogued on PulseMCP. Captures and indexes Slack conversations in real-time using accessibility APIs and provides intelligent search capabilities including natural language conversation search, precise message filtering, thread context retrieval, and semantic similarity matching through local SQLite storage with vector embeddings.

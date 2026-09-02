@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T00:12:32Z"
 ---
 ## What it is
 An evidence-first investment research MCP server that combines official disclosures, market data, and domain-specific evidence for Korean biotech companies like Samsung Biologics, Daewoong Pharmaceutical, and Lunit.

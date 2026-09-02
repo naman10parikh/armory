@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:26Z"
 ---
 ## What it is
 Provides read-only consultation of Brazilian TSE donor and supplier data via official source, with pay-per-use prepaid credits.

@@ -8,10 +8,12 @@ source_url: https://github.com/iamr0s/ruto-phone-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-14T08:12:47Z"
 ---
 ## What it is
 MCP server `Ruto Phone`, catalogued on PulseMCP. Automates Android devices via ADB with vision-based agent, touch controls, and skill-driven task execution.

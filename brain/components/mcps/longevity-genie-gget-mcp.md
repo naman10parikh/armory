@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
-stars: 30
+stars: 31
+forks: 9
+pushed_at: "2025-10-27T14:48:14Z"
 ---
 ## What it is
 MCP server providing a powerful bioinformatics toolkit for genomics queries and analysis, wrapping the popular `gget` library.

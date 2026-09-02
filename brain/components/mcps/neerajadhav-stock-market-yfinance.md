@@ -8,10 +8,12 @@ source_url: https://github.com/neerajadhav/kai-stock-market-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-10T15:20:22Z"
 ---
 ## What it is
 MCP server `Stock Market (yfinance)`, catalogued on PulseMCP. Integrates with yfinance to provide real-time stock quotes, historical price data, market indices tracking, technical analysis tools, and portfolio management capabilities with specialized support for Indian markets including NIFTY 50, SENSEX, and NSE stocks.

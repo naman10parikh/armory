@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T12:39:56Z"
 ---
 ## What it is
 Secure MCP wrapper for Cal.com integration, exposing calendar booking tools to Hermes/Helios.

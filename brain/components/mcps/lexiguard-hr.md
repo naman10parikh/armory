@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T14:10:17Z"
 ---
 ## What it is
 Enables Cursor AI to query a local MySQL HR database in natural language using read-only SQL tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T08:02:46Z"
 ---
 ## What it is
 Enables AI agents to perform compensating-control lifecycle operations on Check Point firewalls, including adding access rules, publishing sessions, and installing policies.

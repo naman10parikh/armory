@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T06:07:38Z"
 ---
 ## What it is
 Converts Chanjet T+ OpenAPI into MCP endpoints, enabling AI clients to query inventory, archives, and sales/purchase orders from T+ systems.

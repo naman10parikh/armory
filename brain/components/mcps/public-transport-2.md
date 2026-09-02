@@ -8,11 +8,13 @@ source_url: https://github.com/mirodn/mcp-server-public-transport
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1206
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 4
+pushed_at: "2026-08-31T10:02:48Z"
 ---
 ## What it is
 Access real-time public transport across Europe with live departures, connections, and vehicle details. Plan door-to-door trips, search stations and places, and find nearby stops with up-to-the-minute results. Benefit from coverage in the UK, Switzerland, Belgium, and Norway.

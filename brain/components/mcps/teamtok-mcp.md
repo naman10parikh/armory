@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T09:30:20Z"
 ---
 ## What it is
 카톡 팀플방의 대화를 팀원별 역할, 마감, 미정 항목, 제출 체크리스트, 공지 메시지로 정리해주는 대학생용 MCP 서버.

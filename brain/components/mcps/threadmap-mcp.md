@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T00:44:36Z"
 ---
 ## What it is
 Tracks conversation drift in Claude, providing visual indicators and the ability to fork conversations from any point to maintain original intent.

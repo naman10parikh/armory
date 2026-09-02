@@ -8,11 +8,13 @@ source_url: https://github.com/funkyfunc/terminal-driver-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T15:20:39Z"
 ---
 ## What it is
 Enables AI agents to spawn persistent terminal sessions, send keystrokes, read screen state, and assert output, allowing them to interact with stateful terminal applications like vim, htop, and gdb.

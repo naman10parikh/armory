@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-01T06:04:33Z"
 ---
 ## What it is
 Enables querying, exploring, and interacting with Azure SQL databases through MCP-compatible clients like Claude Desktop.

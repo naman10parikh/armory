@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T13:34:27Z"
 ---
 ## What it is
 MCP server for e-invoice platforms. Enables natural language querying of invoices, partners, company data, and financial reports.

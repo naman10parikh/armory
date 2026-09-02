@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 26
+forks: 7
+pushed_at: "2025-05-08T00:27:29Z"
 ---
 ## What it is
 When your LLM needs human assistance (through AWS Mechanical Turk)

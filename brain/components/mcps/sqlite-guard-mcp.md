@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T04:18:31Z"
 ---
 ## What it is
 Enables AI agents to safely work with SQLite databases by enforcing read/write separation, dry-run writes with confirmation, automatic backups, and an audit trail.

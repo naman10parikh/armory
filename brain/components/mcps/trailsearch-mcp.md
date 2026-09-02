@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:08:07Z"
 ---
 ## What it is
 Enables MCP clients to perform Tavily-compatible search and extract operations against a self-hosted TrailSearch/open-tavily API by using a custom base URL instead of the default Tavily endpoint.

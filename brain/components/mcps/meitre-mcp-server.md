@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T13:09:50Z"
 ---
 ## What it is
 Connects AI assistants to the Meitre restaurant reservation platform, enabling operations like checking availability, searching reservations, booking, rescheduling, and canceling through natural language.

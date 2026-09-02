@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T11:05:55Z"
 ---
 ## What it is
 Enables Turkish tax research, calculation, and document management using official GİB resources, including legislation search, tax computation, invoice validation, and circular drafting.

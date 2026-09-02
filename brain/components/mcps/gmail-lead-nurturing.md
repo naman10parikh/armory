@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-19T16:49:45Z"
 ---
 ## What it is
 MCP server `Gmail Lead Nurturing`, catalogued on PulseMCP. Automates Gmail-based lead nurturing campaigns for dental practices with multi-stage follow-up sequences, intelligent response tracking, and lead scoring to provide 24/7 hands-off email outreach automation.

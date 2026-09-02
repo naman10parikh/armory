@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T08:54:35Z"
 ---
 ## What it is
 A local bridge that lets MCP clients inspect, export, and modify Figma files through a development Figma plugin.

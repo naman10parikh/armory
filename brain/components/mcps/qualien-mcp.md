@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T19:52:02Z"
 ---
 ## What it is
 A composite MCP gateway that aggregates multiple MCP servers into one endpoint for SDET/QE workflows, with curated tool namespacing, central safety guardrails, and composite tools like API-vs-DB verification.

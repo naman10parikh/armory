@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-17T19:00:03Z"
 ---
 ## What it is
 Enables AI assistants to perform real-time web and academic searches using Perplexity's Sonar API.

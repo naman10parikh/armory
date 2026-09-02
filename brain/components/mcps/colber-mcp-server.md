@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T21:01:58Z"
 ---
 ## What it is
 Exposes Colber's five integrated services (Reputation, Memory, Observability, Negotiation, Insurance) as 27 MCP tools for AI agents, enabling trust, coordination, and continuity.

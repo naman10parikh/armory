@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:09:30Z"
 ---
 ## What it is
 MCP server providing on-chain price oracle data from Chainlink and Pyth Network, with tools for latest and historical prices, feed discovery, and staleness flags. No API keys required; uses free public RPCs and Hermes API.

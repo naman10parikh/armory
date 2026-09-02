@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
 stars: 15
+forks: 4
+pushed_at: "2025-05-23T11:42:19Z"
 ---
 ## What it is
 Oorlogsbronnen (War Sources) API integration for accessing historical WWII records, photographs, and documents from the Netherlands (1940-1945)

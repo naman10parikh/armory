@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-01T18:13:15Z"
 ---
 ## What it is
 MCP server `ROS 2`, catalogued on PulseMCP. Control ROS 2 robotic systems by publishing messages, calling services, and monitoring topics.

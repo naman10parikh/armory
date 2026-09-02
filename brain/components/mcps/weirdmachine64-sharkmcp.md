@@ -8,10 +8,12 @@ source_url: https://github.com/weirdmachine64/sharkmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 74
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-28T18:19:01Z"
 ---
 ## What it is
 MCP server `SharkMCP`, catalogued on PulseMCP. MCP server exposing Wireshark's sharkd interface for AI-driven network traffic analysis from PCAP files.

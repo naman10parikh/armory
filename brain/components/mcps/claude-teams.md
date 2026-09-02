@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 41
+pushed_at: "2026-02-21T13:21:31Z"
 ---
 ## What it is
 MCP server that enables multi-agent collaboration with task lists, inter-agent messaging, and tmux-based spawning, making Claude Code's agent teams protocol available to any MCP client.

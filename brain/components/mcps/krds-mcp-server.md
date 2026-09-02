@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-04T20:32:06Z"
 ---
 ## What it is
 Provides Korean government design system (KRDS) guidelines to AI models via MCP, enabling AI assistants to comply with KRDS standards when developing government websites and digital services.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-05T18:41:50Z"
 ---
 ## What it is
 Allows you to search for hiking routes on Wikiloc using geographic and textual queries.

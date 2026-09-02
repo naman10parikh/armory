@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-08T12:59:48Z"
 ---
 ## What it is
 Enables AI agents to connect to Databend databases safely with a session sandbox that keeps production read-only while agents experiment.

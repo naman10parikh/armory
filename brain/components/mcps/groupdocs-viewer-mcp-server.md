@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T21:19:49Z"
 ---
 ## What it is
 Enables AI agents to render document pages as images and retrieve document info (file type, page count) via tools like RenderPage and GetViewInfo.

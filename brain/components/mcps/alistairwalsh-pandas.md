@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2024-12-20T01:03:07Z"
 ---
 ## What it is
 MCP server `Pandas Data Analysis`, catalogued on PulseMCP. Leverages pandas, numpy, and matplotlib to enable powerful data manipulation, statistical analysis, and visualization for data-driven projects.

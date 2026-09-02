@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T11:27:33Z"
 ---
 ## What it is
 A configurable MCP gateway that runs multiple Streamable HTTP MCP servers and exposes all their tools through a single endpoint, enabling tool aggregation and routing for MCP clients.

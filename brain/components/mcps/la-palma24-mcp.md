@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-18T15:56:31Z"
 ---
 ## What it is
 Search and discover vacation rental properties across La Palma, Canary Islands.

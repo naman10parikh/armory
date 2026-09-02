@@ -8,11 +8,13 @@ source_url: https://github.com/listen-hai/bazi-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T16:40:10Z"
 ---
 ## What it is
 Enables calculation of Four Pillars of Destiny (BaZi) charts using true solar time and a global geographic database, providing pillars, Da Yun, and branch interactions for any location and time.

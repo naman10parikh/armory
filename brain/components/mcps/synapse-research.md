@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-27T20:56:43Z"
 ---
 ## What it is
 A deep-research MCP server exposing a single task-augmented tool that runs GPT-Researcher with Tavily search, Anthropic Claude, and OpenAI embeddings, streaming progress via MCP tasks and Upjack entity stream.

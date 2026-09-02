@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:38:41Z"
 ---
 ## What it is
 56 tools for nutritionists to manage patients, meal plans, prescriptions, clinical records, and anthropometry via MCP clients like Claude and Cursor.

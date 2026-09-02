@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T03:42:35Z"
 ---
 ## What it is
 Enables crypto intelligence, GitHub trends, prediction market signals, token analysis, and AI content advisory via 23 MCP tools, with free options and paid tools through x402 micropayments.

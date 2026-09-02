@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-07-16T20:47:24Z"
 ---
 ## What it is
 Serves as a universal interface between AI Agents and AnalyticDB PostgreSQL databases, enabling metadata retrieval and SQL execution, with additional capabilities for knowledge graph and LLM memory management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T16:13:18Z"
 ---
 ## What it is
 Enables AI assistants to provide information about Bequall's services for real estate, construction, and modular development, including company overview, use cases, and fit assessment.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T09:22:03Z"
 ---
 ## What it is
 MCP server for interacting with NexBank API v2, providing six business tools and supporting Bearer Token or OAuth authentication.

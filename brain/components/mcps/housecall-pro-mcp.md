@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T00:35:29Z"
 ---
 ## What it is
 A local MCP server that wraps the Housecall Pro Public API, enabling Claude to read and write Housecall Pro data (customers, jobs, estimates, invoices, etc.) via natural language.

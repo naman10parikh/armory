@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T08:49:58Z"
 ---
 ## What it is
 Enables users to interact with a Salesforce org through a web AI assistant powered by a configurable AI provider, supporting read-only queries and gated write operations with audit logging.

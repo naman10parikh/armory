@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T19:18:00Z"
 ---
 ## What it is
 Exposes SAP HANA Cloud operational data and controlled business actions as MCP tools for natural-language enterprise assistants.

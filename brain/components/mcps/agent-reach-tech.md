@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T23:59:50Z"
 ---
 ## What it is
 MCP server providing 9 tools for coding agents to search technology, development, open source, and cybersecurity topics, with support for multiple channels.

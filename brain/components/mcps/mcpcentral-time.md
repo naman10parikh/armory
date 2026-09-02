@@ -8,10 +8,12 @@ source_url: https://github.com/mcpcentral-io/mcp-time
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-18T13:58:05Z"
 ---
 ## What it is
 MCP server `Time`, catalogued on PulseMCP. Provides time and date utilities with timezone conversion

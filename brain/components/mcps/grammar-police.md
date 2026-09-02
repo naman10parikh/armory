@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T12:43:42Z"
 ---
 ## What it is
 Provides automated grammar checking by intercepting user input and returning correction instructions for MCP-compatible clients like Claude Desktop and Claude Code.

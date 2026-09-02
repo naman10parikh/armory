@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T09:54:12Z"
 ---
 ## What it is
 Enables AI assistants to perform CRUD operations, search, batch operations, and commenting on iSpace Wiki documents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:49:26Z"
 ---
 ## What it is
 Persistent, self-curating memory for coding agents. It enables local, zero-cost context recall through MCP tools with hybrid retrieval and autonomous consolidation.

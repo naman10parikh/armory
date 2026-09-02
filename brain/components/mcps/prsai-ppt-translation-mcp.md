@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-09T07:45:37Z"
 ---
 ## What it is
 MCP server `PrsAi PPT Translation MCP`, catalogued on PulseMCP. MCP server for PrsAi intelligent PPT translation with file upload and translation tools.

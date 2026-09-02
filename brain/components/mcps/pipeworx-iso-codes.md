@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:16:54Z"
 ---
 ## What it is
 MCP server `ISO Codes`, catalogued on PulseMCP. Looks up ISO country, language, currency, and script codes from the Debian iso-codes dataset.

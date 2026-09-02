@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T19:52:12Z"
 ---
 ## What it is
 Vets MCP servers, Claude Code skills, or plugins for unsafe behavior like shell execution, secret access, data exfiltration, prompt injection, and remote code before installation, returning a graded verdict with findings.

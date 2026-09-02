@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T08:50:59Z"
 ---
 ## What it is
 MCP server exposing a RAG knowledge base as read-only tools (search_knowledge_base, ask_knowledge_base, kb_stats, kb_diagnostic) for AI clients like Claude Desktop and Cursor, enabling token-efficient document retrieval and Q&A.

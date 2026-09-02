@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T16:50:34Z"
 ---
 ## What it is
 Enables CSS layout verification and debugging by extracting deterministic, diffable rendered layout from a browser, allowing agents to inspect, explain, and diff CSS changes.

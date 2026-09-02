@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T15:05:30Z"
 ---
 ## What it is
 MCP server `MegaLaunch`, catalogued on PulseMCP. Community wrapper for launching meme tokens on Solana via the MegaLaunch platform, with bundled buys and Jito speed optimization.

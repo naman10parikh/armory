@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T02:49:22Z"
 ---
 ## What it is
 Zero context compaction for Claude Code & LLM agents. Persistent memory powered by OS primitives (demand paging, kswapd eviction, mlock pinning). Single SQLite file, MCP-native, multi-agent shared.

@@ -8,10 +8,12 @@ source_url: https://github.com/tim-y-boy/excel-parser-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T09:59:06Z"
 ---
 ## What it is
 MCP server `Excel Parser`, catalogued on PulseMCP. Universal Excel parsing MCP server for AI agents, supporting reading and processing Excel files in agent workflows.

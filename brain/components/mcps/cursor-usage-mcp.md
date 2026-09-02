@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T14:19:28Z"
 ---
 ## What it is
 Monitors your Cursor usage and provides a conserve flag to the agent, helping you manage request quota by batching questions, preferring defaults, and cutting unnecessary confirmations.

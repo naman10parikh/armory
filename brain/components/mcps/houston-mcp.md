@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T16:48:42Z"
 ---
 ## What it is
 A unified Model Context Protocol server for Houston-area civic, transit, and flood data, joining incompatible public data systems behind workflow-oriented tools. It enables AI assistants to answer questions like 'is my route flooding right now?' by integrating sources such as TranStar, HCFWS, and th

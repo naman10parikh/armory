@@ -8,10 +8,12 @@ source_url: https://github.com/gunnargrosch/doom-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-13T23:21:11Z"
 ---
 ## What it is
 MCP server `DOOM`, catalogued on PulseMCP. Embeds the DOOM game engine via FFI, enabling AI clients to play DOOM with real-time game state, enemy detection, and frame rendering.

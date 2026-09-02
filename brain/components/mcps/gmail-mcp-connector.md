@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T04:51:44Z"
 ---
 ## What it is
 Enables reading, searching, sending, and drafting Gmail emails via MCP tools, with support for multiple accounts and background notifications.

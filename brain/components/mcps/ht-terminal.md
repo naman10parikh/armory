@@ -8,10 +8,12 @@ source_url: https://github.com/memextech/ht-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 213
+stars: 216
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-02-02T11:26:04Z"
 ---
 ## What it is
 MCP server `HT Terminal`, catalogued on PulseMCP. Provides direct access to headless terminal sessions through a high-performance Rust implementation, enabling terminal automation, command execution with output capture, session management, and optional live preview for server administration workflows without manual console interaction.

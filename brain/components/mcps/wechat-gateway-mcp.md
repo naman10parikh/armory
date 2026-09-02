@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T11:38:26Z"
 ---
 ## What it is
 MCP server that lets AI agents manage WeChat Work customer relations via a self-hosted gateway, supporting contact/tag/content queries, group messaging previews and creation, and moment SOP rules with confirm-before-send safety.

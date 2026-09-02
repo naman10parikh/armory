@@ -8,10 +8,12 @@ source_url: https://github.com/deiviidsito/mcp_packet_tracer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-05-04T22:48:28Z"
 ---
 ## What it is
 MCP server `Packet Tracer`, catalogued on PulseMCP. Creates, configures, validates, and deploys network topologies in Cisco Packet Tracer with 22 MCP tools for automated network lab building.

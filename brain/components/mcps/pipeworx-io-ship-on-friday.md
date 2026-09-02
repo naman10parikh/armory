@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:40:58Z"
 ---
 ## What it is
 MCP server `Ship on Friday`, catalogued on PulseMCP. Checks whether you should ship on Friday — the answer is always no, with rotating catastrophic reasons and risk levels.

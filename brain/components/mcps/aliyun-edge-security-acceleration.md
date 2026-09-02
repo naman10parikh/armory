@@ -12,6 +12,8 @@ stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-05-18T17:04:38Z"
 ---
 ## What it is
 MCP server `Alibaba Cloud Edge Security Acceleration`, catalogued on PulseMCP. Provides a bridge to Alibaba Cloud's Edge Security Acceleration service for managing edge routines, deployments, routes, and sites through authenticated API operations.

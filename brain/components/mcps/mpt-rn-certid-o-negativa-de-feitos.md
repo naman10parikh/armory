@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:53Z"
 ---
 ## What it is
 MCP server for querying MPT RN (Ministério Público do Trabalho do Rio Grande do Norte) labor court certificates (Certidão Negativa de Feitos) from official sources. It provides a single read-only tool for consultation via MCP over HTTP.

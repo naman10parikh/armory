@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T08:25:18Z"
 ---
 ## What it is
 Enables users to describe their LLM fine-tuning job once and get the cheapest, fastest, and most balanced GPU options across a dozen cloud providers in seconds.

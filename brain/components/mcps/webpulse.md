@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T09:07:15Z"
 ---
 ## What it is
 Enables live web retrieval through MCP, allowing Claude to fetch and extract current web information with validations, SSRF protections, and structured results for grounded responses.

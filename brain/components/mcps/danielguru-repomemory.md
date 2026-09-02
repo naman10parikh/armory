@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-15T21:36:58Z"
 ---
 ## What it is
 MCP server `RepoMemory`, catalogued on PulseMCP. Persistent, searchable knowledge base for AI coding agents with hybrid keyword and semantic search across project context.

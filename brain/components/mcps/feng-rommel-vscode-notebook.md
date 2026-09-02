@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-09T04:20:07Z"
 ---
 ## What it is
 MCP server `VS Code Notebook`, catalogued on PulseMCP. Enables AI agents to operate Jupyter notebooks in VS Code through a bridge server architecture supporting cell management, code execution, and kernel control.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T09:06:58Z"
 ---
 ## What it is
 Local-first MCP server that extracts structured knowledge from markdown notes into SQLite with full-text search, enabling AI coding tools to retrieve relevant context offline at zero cost.

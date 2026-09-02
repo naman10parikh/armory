@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:25:03Z"
 ---
 ## What it is
 Enables LLM agents to manage structured sprint-based development workflows following the Sprint Protocol, including sprint initialization, status checking, and manifest generation.

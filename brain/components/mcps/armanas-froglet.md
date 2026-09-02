@@ -8,10 +8,12 @@ source_url: https://github.com/armanas/froglet
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-05T13:50:54Z"
 ---
 ## What it is
 MCP server `Froglet`, catalogued on PulseMCP. Protocol and node implementation for a bot economy enabling bots to create, publish, discover, and transact remote resources.

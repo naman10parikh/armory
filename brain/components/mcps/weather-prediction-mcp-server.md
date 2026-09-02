@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T02:53:38Z"
 ---
 ## What it is
 An MCP server that provides weather forecast tools (current weather, forecast, travel recommendations, and city comparison) powered by Open-Meteo, designed for Databricks Agent Bricks.

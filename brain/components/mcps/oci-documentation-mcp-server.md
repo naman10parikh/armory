@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-20T09:55:02Z"
 ---
 ## What it is
 Enables searching and reading OCI documentation using the Oracle Help Center Search API. Provides tools for finding relevant documentation URLs and reading page content.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:37:45Z"
 ---
 ## What it is
 Exposes a focused widget workflow for agents, enabling search, inspect, install, create, validate, checkin, and configuration of Cartograph widgets without mirroring the full CLI.

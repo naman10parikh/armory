@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-22T16:00:51Z"
 ---
 ## What it is
 Provides seamless access to UniProtKB protein data, enabling querying of protein entries, sequences, Gene Ontology annotations, and ID mappings through a typed, resilient interface.

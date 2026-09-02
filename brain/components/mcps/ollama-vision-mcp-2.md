@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T04:36:14Z"
 ---
 ## What it is
 A minimal local vision bridge for text-only VS Code Copilot, enabling it to see images by sending them to a local Ollama vision model and returning text descriptions. It provides MCP tools for image description, listing, OCR, and status checks.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-07T06:45:13Z"
 ---
 ## What it is
 MCP server `KBDB`, catalogued on PulseMCP. PostgreSQL-backed RAG server that provides semantic search across document embeddings using pgvector, supporting multiple search modalities including question-answer pairs, similarity matching, style clustering, and code search with optimized distance metrics for knowledge base applications and content discovery workflows.

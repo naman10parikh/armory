@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-14T12:56:20Z"
 ---
 ## What it is
 Enables Brave Search and web content fetching via MCP, and integrates as LangChain tools for AI agents.

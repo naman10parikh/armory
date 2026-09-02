@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-26T11:18:10Z"
 ---
 ## What it is
 MCP server `Guardian (OSV Security Scanner)`, catalogued on PulseMCP. Proactively scans project dependencies for security vulnerabilities using the OSV database with configurable severity filtering, automated detection across multiple package managers, and structured reporting with remediation guidance for maintaining secure codebases.

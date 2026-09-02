@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-11T18:11:43Z"
 ---
 ## What it is
 MCP server that checks if today is a good day to deploy using the shouldideploy.today API, with timezone support.

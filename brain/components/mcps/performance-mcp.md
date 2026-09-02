@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T01:24:35Z"
 ---
 ## What it is
 An MCP server that enables querying performance review periods, records, details, and saving self-assessment drafts without final submission.

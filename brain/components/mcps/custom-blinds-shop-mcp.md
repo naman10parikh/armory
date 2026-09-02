@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T06:55:16Z"
 ---
 ## What it is
 Enables AI agents to search, configure, get live ZAR pricing, and purchase made-to-measure blinds from Custom Blinds, generating Yoco or Ozow payment links directly.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T05:05:16Z"
 ---
 ## What it is
 Enables agentic video editing and composition via MCP, allowing creation and manipulation of multi-track timelines with clips, transitions, filters, and text overlays, then rendering to MP4 using the melt-7 CLI.

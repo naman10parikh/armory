@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T13:35:53Z"
 ---
 ## What it is
 An Agentic RAG MCP Server that transforms Paperless-ngx into a conversational document assistant, enabling LLMs to search, filter, and summarize documents using natural language.

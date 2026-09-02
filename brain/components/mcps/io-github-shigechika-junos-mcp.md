@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:40:08Z"
 ---
 ## What it is
 MCP server for Juniper networks, enabling AI assistants to execute CLI commands, manage configuration, perform upgrades, and run diagnostics on Junos devices via STDIO transport.

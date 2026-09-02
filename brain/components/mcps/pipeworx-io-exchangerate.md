@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:05:22Z"
 ---
 ## What it is
 MCP server `Exchange Rate`, catalogued on PulseMCP. Retrieve current and historical currency exchange rates via the ExchangeRate-API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-04T21:00:33Z"
 ---
 ## What it is
 An MCP server for managing DNS records and domains via the Namecheap API. Works with Claude.ai and other MCP clients.

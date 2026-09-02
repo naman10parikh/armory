@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T15:11:46Z"
 ---
 ## What it is
 Provides grounded investment decisions with evidence links and invalidation conditions, enabling users to review their portfolio through a structured decision process.

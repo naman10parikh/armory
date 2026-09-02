@@ -8,10 +8,12 @@ source_url: https://github.com/gokmengokhan/endnote-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-06-07T07:27:39Z"
 ---
 ## What it is
 MCP server `EndNote MCP`, catalogued on PulseMCP. Search, cite, and read PDFs from your EndNote library.

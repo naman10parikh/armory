@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T04:53:54Z"
 ---
 ## What it is
 MCP server exposing CATAPA's HR & payroll APIs as tools, with auto-generated public API tools and generic private API tools, plus OAuth support and optional remote deployment.

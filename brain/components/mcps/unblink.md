@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-31T06:54:09Z"
 ---
 ## What it is
 Turns any web page into clean, token-budgeted Markdown for AI agents, with no browser installation required.

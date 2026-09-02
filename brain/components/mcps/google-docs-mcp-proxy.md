@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T04:53:02Z"
 ---
 ## What it is
 Local stdio MCP server that handles Google OAuth2 locally and proxies authenticated requests to Google Docs and Google Drive REST APIs, enabling document and file operations from Cursor or other MCP clients.

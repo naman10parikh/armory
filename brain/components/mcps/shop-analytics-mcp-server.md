@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T18:33:51Z"
 ---
 ## What it is
 Enables AI agents to answer analytical questions about an online store's SQLite database through specialized read-only tools, without any risk of modifying the underlying data.

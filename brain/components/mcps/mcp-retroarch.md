@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T15:38:22Z"
 ---
 ## What it is
 An MCP server for controlling RetroArch via its Network Control Interface, enabling memory read/write, save states, screenshots, emulator control, and gamepad input through the Network RetroPad protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T12:49:54Z"
 ---
 ## What it is
 Unified MCP server for Stremio enabling search, metadata, catalogs, and stream listings via Stremio's addon APIs, plus Android TV playback control over adb.

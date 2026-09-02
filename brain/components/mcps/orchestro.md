@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-10-13T08:05:24Z"
 ---
 ## What it is
 Transforms product ideas into production code by orchestrating AI-assisted development with task decomposition, dependency tracking, and real-time progress visualization.

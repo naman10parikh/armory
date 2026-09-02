@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T05:58:33Z"
 ---
 ## What it is
 An MCP server for the IndexNow protocol that lets AI agents instantly submit URLs to Bing, Yandex, Seznam and Naver for fast indexing.

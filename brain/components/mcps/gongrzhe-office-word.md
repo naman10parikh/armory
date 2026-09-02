@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-22T07:07:01Z"
 ---
 ## What it is
 MCP server `Office Word`, catalogued on PulseMCP. Integrates with Microsoft Word documents to create, read, manipulate content including headings, paragraphs, tables, images, apply rich formatting, manage document protection with password encryption, extract comments, and convert to PDF format.

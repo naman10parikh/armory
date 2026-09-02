@@ -8,10 +8,12 @@ source_url: https://github.com/apeyroux/mcp-xmind
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 94
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-07-15T08:30:24Z"
 ---
 ## What it is
 MCP server `XMind Mind Maps`, catalogued on PulseMCP. Analyze Xmind mind maps on your local machine using fuzzy search and hierarchical navigation.

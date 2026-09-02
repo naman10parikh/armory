@@ -8,10 +8,12 @@ source_url: https://github.com/lzmw/mcp-aurai-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-28T05:13:10Z"
 ---
 ## What it is
 MCP server `Aurai Advisor`, catalogued on PulseMCP. Provides advisory capabilities through specialized AI-powered consultation and guidance functions with enterprise-grade operational support.

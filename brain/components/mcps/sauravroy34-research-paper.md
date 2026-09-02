@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-09T11:06:16Z"
 ---
 ## What it is
 MCP server `Research Paper`, catalogued on PulseMCP. Searches academic databases including Semantic Scholar and OpenAlex, resolves paper identifiers, and discovers related research via a FastMCP server hosted on Hugging Face.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-01T22:02:35Z"
 ---
 ## What it is
 MCP server `Redshift Utils`, catalogued on PulseMCP. Provides Amazon Redshift database administration tools for cluster health monitoring, query performance analysis, workload management, and diagnostic operations through AWS Data API integration with over 40 curated SQL scripts for production database maintenance.

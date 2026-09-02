@@ -8,10 +8,12 @@ source_url: https://github.com/phialsbasement/mcp-puppeteer-linux
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-05-05T11:42:00Z"
 ---
 ## What it is
 MCP server `Puppeteer Linux`, catalogued on PulseMCP. Enables browser automation on Linux systems for web interactions, screenshots, and JavaScript execution using Puppeteer

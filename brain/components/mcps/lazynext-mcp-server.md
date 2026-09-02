@@ -8,11 +8,13 @@ source_url: https://github.com/Lazynext-Platform/Lazynext
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:11:07Z"
 ---
 ## What it is
 Enables AI agents to read, edit, and export real video projects with a full multitrack timeline, effects, captions, and export capabilities.

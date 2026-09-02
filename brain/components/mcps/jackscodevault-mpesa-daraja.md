@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-28T18:45:18Z"
 ---
 ## What it is
 MCP server `M-Pesa Daraja`, catalogued on PulseMCP. Provides access to Safaricom's Daraja API documentation for M-Pesa payment processing, enabling search, retrieval, and comparison of Kenya's mobile money platform APIs.

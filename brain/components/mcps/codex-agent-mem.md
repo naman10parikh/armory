@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-05-07T22:03:01Z"
 ---
 ## What it is
 Portable, auditable, local-first MCP memory for MCP-compatible AI agents and coding workflows. It keeps durable project memory outside the model runtime, compresses continuity into smaller working packs, and carries forward operational state so agents can resume with less repetition.

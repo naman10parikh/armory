@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T03:04:48Z"
 ---
 ## What it is
 An MCP chatbot server that answers questions about a Reinforcement Learning graduate project by dynamically selecting and calling structured tool functions to retrieve precise project data, including training rounds, hyperparameters, and infrastructure details.

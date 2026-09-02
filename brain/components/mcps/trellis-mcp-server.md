@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-06T12:58:17Z"
 ---
 ## What it is
 Enables AI assistants to generate 3D assets from text descriptions using Trellis and import them into Blender, with local deployment for fast and free 3D generation.

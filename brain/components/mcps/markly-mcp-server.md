@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-10T09:24:46Z"
 ---
 ## What it is
 Enables AI agents to add text or logo watermarks to images via URL, batch watermark up to 20 images, and check usage, with a free tier available.

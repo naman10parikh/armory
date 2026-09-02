@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T22:39:57Z"
 ---
 ## What it is
 Enables users to build and manage a complete retrieval-augmented generation pipeline through conversation, including file ingestion, collection management, hybrid search, reranking, citations, and a guided setup wizard.

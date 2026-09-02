@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T09:27:19Z"
 ---
 ## What it is
 Headless browser automation for LLM agents via REST API or MCP tools. Enables navigating pages, reading structured content, clicking elements, filling forms, and executing JavaScript.

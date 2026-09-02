@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T02:48:26Z"
 ---
 ## What it is
 An MCP server that fetches live trends from X, Google News, GitHub, and Hugging Face, and generates a self-contained HTML dashboard displaying top 20 lists for AI news, coding repositories, and models.

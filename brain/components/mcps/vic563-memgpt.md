@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-01-03T21:04:15Z"
 ---
 ## What it is
 MCP server `MemGPT`, catalogued on PulseMCP. Implements a multi-provider memory system for LLMs, enabling conversation history management and seamless model switching across OpenAI, Anthropic, OpenRouter, and Ollama.

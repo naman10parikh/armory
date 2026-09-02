@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-30T19:50:33Z"
 ---
 ## What it is
 MCP server `Arch Deterministic`, catalogued on PulseMCP. Validates system architecture specifications, performs linting, and generates FastAPI or Express applications with OpenAPI specs and Docker configs.

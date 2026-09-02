@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:42:24Z"
 ---
 ## What it is
 Enables querying Brazilian public transparency data for companies by CNPJ, returning indicators like sanctions, agreements, and contracts. Read-only and works with any MCP client over HTTP.

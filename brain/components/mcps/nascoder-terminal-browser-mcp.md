@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-13T03:48:18Z"
 ---
 ## What it is
 Ultimate Standalone Terminal Browser & Web Scraper - Browse any website, extract content & links directly in your terminal.

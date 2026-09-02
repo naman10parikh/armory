@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T12:32:49Z"
 ---
 ## What it is
 An MCP server for aggregating multi-domain intelligence feeds, performing 80:20 crossover analysis, and publishing structured insights to multiple channels.

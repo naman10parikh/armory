@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T17:17:36Z"
 ---
 ## What it is
 MCP server for Yandex AppMetrica analytics, enabling Claude to access reports, raw event logs, crash data, and push notification campaigns.

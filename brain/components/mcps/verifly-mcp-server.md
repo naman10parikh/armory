@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:59:55Z"
 ---
 ## What it is
 Enables AI agents to verify email addresses, clean lists, run bulk verification jobs, and manage a Verifly account through natural language, without writing HTTP calls.

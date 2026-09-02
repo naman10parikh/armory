@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-08T12:50:16Z"
 ---
 ## What it is
 Enables AI assistants to query Wise account balances, exchange rates, transfers, and recipients via the Wise API.

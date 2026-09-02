@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T20:07:00Z"
 ---
 ## What it is
 Percival Ubuntu is a security-focused MCP server for safe Ubuntu operations, optimized for the Nanobot agent. It enables file management and command execution under strict security policies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T00:44:07Z"
 ---
 ## What it is
 Enables read-only, bounded access to UniFi Network appliance health, devices, and active clients through three safe MCP tools with TLS verification and redirect rejection.

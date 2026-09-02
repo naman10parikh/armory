@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-15T22:53:46Z"
 ---
 ## What it is
 MCP server `Spring Boot Bridge`, catalogued on PulseMCP. Automatically converts Spring Boot REST applications into MCP servers, enabling AI tools to interact with existing Spring APIs without rewriting backend services.

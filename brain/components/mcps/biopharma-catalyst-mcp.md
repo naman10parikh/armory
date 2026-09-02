@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T03:33:18Z"
 ---
 ## What it is
 Enables biopharma catalyst research by aggregating signals from ClinicalTrials.gov, PubMed, SEC EDGAR, openFDA, and Yahoo Finance, with a single tool to audit a ticker/drug combination and return a forensic verdict.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T03:45:35Z"
 ---
 ## What it is
 Local electronics tools for MCP-capable assistants, enabling static analysis of CRUMB save files and Logisim-evolution projects, including net tracing, BOM building, electrical rule checks, and optional truth table generation.

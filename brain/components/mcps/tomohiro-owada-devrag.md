@@ -8,10 +8,12 @@ source_url: https://github.com/tomohiro-owada/devrag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-04-15T22:43:14Z"
 ---
 ## What it is
 MCP server `DevRag`, catalogued on PulseMCP. Lightweight RAG system for semantic vector search across markdown documentation files

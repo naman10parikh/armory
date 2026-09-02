@@ -8,10 +8,12 @@ source_url: https://github.com/theyahia/planfix-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-23T12:23:03Z"
 ---
 ## What it is
 MCP server `Planfix`, catalogued on PulseMCP. Integrates with Planfix for task, contact, and project management.

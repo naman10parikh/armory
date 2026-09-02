@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T11:57:44Z"
 ---
 ## What it is
 A governed context layer for internal data exposed over MCP, enabling agents to query governed definitions, retrieve grounded data, and execute scoped actions with citations and auditing.

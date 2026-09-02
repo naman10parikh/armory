@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T12:58:08Z"
 ---
 ## What it is
 Turns a recruitment database into an AI-queryable pipeline, enabling natural language queries to search contractors, build shortlists, draft outreach, and book engagements.

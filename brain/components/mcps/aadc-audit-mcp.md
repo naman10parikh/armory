@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T20:16:18Z"
 ---
 ## What it is
 A local MCP server that audits software projects against the UK ICO Age Appropriate Design Code (Children's Code) entirely on the user's machine.

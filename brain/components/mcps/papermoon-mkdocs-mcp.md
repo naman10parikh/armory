@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T15:29:53Z"
 ---
 ## What it is
 Enables searching, reading, and navigating MkDocs documentation sites through MCP tools for keyword, semantic, or hybrid search, document browsing, and project metadata.

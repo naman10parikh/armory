@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T20:28:18Z"
 ---
 ## What it is
 A scheduled MCP server that monitors Auth0 users by periodically collecting summaries, detecting suspicious admins, and auto-blocking them; it provides instant reports via SQLite and exposes tools for on-demand collection and configuration.

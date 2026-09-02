@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-03-22T11:18:23Z"
 ---
 ## What it is
 Mechanistic interpretability MCP server wrapping chuk-lazarus, enabling model loading, activation extraction, probe training, steering, and ablation via MCP tools.

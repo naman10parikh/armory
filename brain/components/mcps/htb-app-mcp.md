@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T14:42:00Z"
 ---
 ## What it is
 Enables interaction with Hack The Box App services including machines, challenges, sherlocks, and more through the HTB API v4.

@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-07T10:25:33Z"
 ---
 ## What it is
 MCP server `YFinance Trader`, catalogued on PulseMCP. Provides real-time stock market data and trading capabilities using yfinance, offering tools for quotes, company information, historical prices, symbol search, analyst recommendations, and insider transactions.

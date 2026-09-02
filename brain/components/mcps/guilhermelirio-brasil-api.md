@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-18T22:29:12Z"
 ---
 ## What it is
 MCP server `Brasil API`, catalogued on PulseMCP. Integrates with Brasil API to provide access to Brazilian data services including postal codes, company information, banking data, geographic information, and domain registration checks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T11:15:18Z"
 ---
 ## What it is
 MCP bridge for PDF Content Search — full-text PDF search with Apple Vision OCR across thousands of documents in under a second from Claude, Cursor, or any MCP client. Advanced filters (date, category, sender, amount), wildcards, boolean operators. Bridge open-source (MIT), PDF Content Search app is 

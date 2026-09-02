@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-27T10:42:44Z"
 ---
 ## What it is
 Enables LLMs to define Prolog facts and rules and execute queries via SWI-Prolog for logical reasoning.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T06:51:44Z"
 ---
 ## What it is
 Local-first, MCP-first cross-agent cognitive asset layer that enables agents to store, retrieve, govern, and migrate memory, roles, and verified skills as portable assets via MCP tools and SQLite.

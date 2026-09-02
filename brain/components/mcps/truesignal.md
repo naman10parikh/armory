@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T15:45:54Z"
 ---
 ## What it is
 MCP server wrapping the truesignal CLI as a single generic run tool for threat/connector status checks.

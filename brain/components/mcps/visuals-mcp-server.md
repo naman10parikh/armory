@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T10:41:52Z"
 ---
 ## What it is
 An MCP server that provides interactive visualizations including tables, charts, image previews, master-detail views, tree views, and customizable lists for AI agents.

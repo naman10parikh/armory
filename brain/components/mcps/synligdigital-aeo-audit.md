@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-15T05:04:46Z"
 ---
 ## What it is
 MCP server `AEO Audit`, catalogued on PulseMCP. Answer Engine Optimization audit tool that scores websites 0-100 for AI visibility across schema, meta, content, and crawler access.

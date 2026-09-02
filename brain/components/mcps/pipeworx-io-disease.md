@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:00:48Z"
 ---
 ## What it is
 MCP server `Disease Statistics`, catalogued on PulseMCP. COVID-19 and global disease statistics via the disease.sh API, with case counts by country, vaccination data, and historical trends.

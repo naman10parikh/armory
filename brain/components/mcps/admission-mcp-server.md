@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T00:53:48Z"
 ---
 ## What it is
 Enables searching 2027 Korean university early admissions information (types, quotas, methods, minimum SAT scores) and checking if given SAT grades meet the minimum requirements.

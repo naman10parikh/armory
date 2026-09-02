@@ -8,11 +8,13 @@ source_url: https://github.com/runeape-sats/unreal-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 46
+stars: 47
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-03-31T01:39:21Z"
 ---
 ## What it is
 Enables Claude Desktop to interact with Unreal Engine 5.3 via Remote Control API, creating and manipulating 3D objects from text prompts for scene building and editor control.

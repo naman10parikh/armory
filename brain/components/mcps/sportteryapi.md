@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-24T02:48:06Z"
 ---
 ## What it is
 Cloudflare Worker REST API + local MCP server for China Sports Lottery football odds, providing live odds, derived probabilities, Kelly value, and parlay calculation.

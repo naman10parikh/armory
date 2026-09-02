@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T07:23:08Z"
 ---
 ## What it is
 A demo MCP server protected by OAuth (DCR), enabling hands-on exploration of OAuth flow for local MCP servers.

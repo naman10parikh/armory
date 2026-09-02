@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T19:59:03Z"
 ---
 ## What it is
 A simple MCP server that turns a JSON file into a todo list, letting users add, list, complete, delete, and clear tasks through natural language in MCP-compatible clients.

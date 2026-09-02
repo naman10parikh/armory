@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T13:20:27Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve used and new car listings from carsales.com.au, with support for various filters and detailed listing information including images. It uses a real browser to bypass bot protection and integrates with MCP-compatible clients like Claude Desktop and Claude C

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:11:51Z"
 ---
 ## What it is
 Enables coding agents to generate AI images directly through MCP tools, handling payment via the x402 protocol with USDC on Base and no API keys.

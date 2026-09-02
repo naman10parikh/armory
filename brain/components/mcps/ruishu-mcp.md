@@ -8,11 +8,13 @@ source_url: https://github.com/xuange520/ruishu-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 86
+stars: 88
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 34
+pushed_at: "2026-07-13T05:19:29Z"
 ---
 ## What it is
 An MCP server that bridges LLMs with dynamic real-world data by leveraging Chrome DevTools Protocol to intercept and reconstruct network traffic, enabling AI agents to extract high-quality structured data from complex web environments.

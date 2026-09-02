@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-31T19:50:03Z"
 ---
 ## What it is
 MCP server for elaborated SystemVerilog and gate-level netlists. Agents query design structure against a real elaboration - what drives this net, what a module instantiates, what registers are in a fanin cone - instead of reading RTL files. Answers come from najaeda's netlist engine, so they reflect

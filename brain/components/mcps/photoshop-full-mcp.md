@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:13:07Z"
 ---
 ## What it is
 Enables natural-language control of Adobe Photoshop 2026 through a local, capability-gated MCP server and UXP bridge, supporting document editing, command execution, and safe automation with automatic approvals and validation.

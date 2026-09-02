@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:04:05Z"
 ---
 ## What it is
 MCP server `ENTSO-E`, catalogued on PulseMCP. Pan-European electricity grid data — load, generation, day-ahead pricing, and cross-border flows via the Pipeworx gateway.

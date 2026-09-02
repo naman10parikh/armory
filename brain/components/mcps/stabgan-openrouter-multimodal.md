@@ -8,10 +8,12 @@ source_url: https://github.com/stabgan/openrouter-mcp-multimodal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 85
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2026-09-01T08:38:31Z"
 ---
 ## What it is
 MCP server `OpenRouter`, catalogued on PulseMCP. Provides seamless access to OpenRouter's diverse AI models, enabling multimodal interactions across vision and language models with intelligent model selection, caching, and robust error handling.

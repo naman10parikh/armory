@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T06:27:12Z"
 ---
 ## What it is
 Enables AI agents to crawl and audit websites for SEO issues, returning structured JSON reports with errors, warnings, and key statistics.

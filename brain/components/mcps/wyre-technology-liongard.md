@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T10:09:20Z"
 ---
 ## What it is
 MCP server `Liongard`, catalogued on PulseMCP. Enables AI assistants to manage inspectors, systems, metrics, alerts, and users in the Liongard platform.

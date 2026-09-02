@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-04T12:49:05Z"
 ---
 ## What it is
 MCP server `PDF2MD`, catalogued on PulseMCP. Converts PDF files to Markdown format with incremental processing that resumes from existing page markers, supporting both local files and URLs with fallback handling for various content extraction scenarios.

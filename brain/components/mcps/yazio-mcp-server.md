@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-08T21:49:29Z"
 ---
 ## What it is
 MCP server over the YAZIO food diary that lets a model read what you've eaten today, log meals, build recipes from tracked products, track water, weight and exercise, and query nutrition summaries, goals and profiles.

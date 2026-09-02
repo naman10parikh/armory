@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T02:16:09Z"
 ---
 ## What it is
 MCP server `GreenCore CPG`, catalogued on PulseMCP. Exposes CPG procurement rails to AI agents for product discovery, GTIN resolution, and procurement signals.

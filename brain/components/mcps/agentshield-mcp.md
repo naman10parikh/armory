@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T13:10:18Z"
 ---
 ## What it is
 Real-time smart contract security for autonomous AI agents, offering tools for contract verification, wallet monitoring, drain detection, threat reporting, and leaderboards.

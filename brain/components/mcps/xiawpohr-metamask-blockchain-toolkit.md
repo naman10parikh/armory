@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-28T02:13:47Z"
 ---
 ## What it is
 MCP server `MetaMask Blockchain Toolkit`, catalogued on PulseMCP. Integrates with blockchain technologies like MetaMask, ERC20 tokens, and smart contracts, enabling wallet connections, contract deployment, transaction verification, and token management across Celo and Polygon networks.

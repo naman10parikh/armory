@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-14T20:13:58Z"
 ---
 ## What it is
 MCP server `HTMX Debugger`, catalogued on PulseMCP. Chrome DevTools-based server for debugging and interacting with HTMX-powered web applications.

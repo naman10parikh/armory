@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T05:49:42Z"
 ---
 ## What it is
 MCP server `OpenWeather`, catalogued on PulseMCP. Fetches current weather and forecasts from the OpenWeatherMap API via MCP.

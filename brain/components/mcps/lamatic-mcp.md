@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T11:24:44Z"
 ---
 ## What it is
 Unified MCP server combining dev, graph, docs, and kit tools for Lamatic.ai. Enables managing orgs/projects/flows, executing flows, querying docs via RAG, and browsing AgentKit contributions.

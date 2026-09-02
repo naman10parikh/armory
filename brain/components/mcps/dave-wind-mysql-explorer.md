@@ -8,10 +8,12 @@ source_url: https://github.com/dave-wind/mysql-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-05-18T14:28:04Z"
 ---
 ## What it is
 MCP server `MySQL Database Explorer`, catalogued on PulseMCP. Provides read-only access to MySQL databases, enabling schema inspection and SELECT query execution with strict security measures to protect underlying data while allowing meaningful analysis.

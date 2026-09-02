@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T10:13:28Z"
 ---
 ## What it is
 Provides tools and guides for Spring Boot development including code generation, security audit, and query optimization.

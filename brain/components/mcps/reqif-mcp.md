@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T14:11:40Z"
 ---
 ## What it is
 An MCP server for requirements engineering that allows loading ReqIF baselines and querying requirements, tracing links, detecting orphans, and diffing baselines using natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T09:20:58Z"
 ---
 ## What it is
 Aggregates 12 types of legal data services (judicial cases, laws, contracts, etc.) from Jufa platform into a single MCP server for AI clients.

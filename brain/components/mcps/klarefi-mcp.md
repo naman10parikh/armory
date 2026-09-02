@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:34:18Z"
 ---
 ## What it is
 Enables applicants and agents to complete regulated intake work by guiding applicants, reading cited case files, managing workflow drafts, and running approved connector actions. It does not decide a case.

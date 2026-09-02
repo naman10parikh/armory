@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T16:56:57Z"
 ---
 ## What it is
 Auction house analytics, market intelligence, crafting optimization, inventory valuation, farming routes, guild analytics, and token tracking — all through the Model Context Protocol.

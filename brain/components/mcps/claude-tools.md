@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:14:54Z"
 ---
 ## What it is
 Local MCP servers that give Claude Code access to other tools mid-session.

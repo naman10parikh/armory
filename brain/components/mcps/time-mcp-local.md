@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-03-05T10:54:06Z"
 ---
 ## What it is
 Provides current time and timezone conversion using IANA timezone names, with automatic system timezone detection.

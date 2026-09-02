@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-13T12:59:43Z"
 ---
 ## What it is
 MCP server `PitchLense`, catalogued on PulseMCP. Analyzes startup risk across 9 categories (market, product, team, financial, customer, operational, competitive, legal, exit) by processing unstructured data like pitch decks and financial reports to return structured JSON assessments with numerical scores, risk levels, and actionable recommendations.

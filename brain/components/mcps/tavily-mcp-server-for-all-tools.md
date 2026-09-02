@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T03:12:05Z"
 ---
 ## What it is
 MCP server exposing 8 Tavily tools (web search, fetch, crawl, map, QnA, context, and deep research) via Streamable HTTP for AI assistants to perform live web retrieval and research.

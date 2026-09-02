@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-07-14T19:50:51Z"
 ---
 ## What it is
 Validates the physical and chemical plausibility of ligand–protein docking poses using the PoseBusters tool.

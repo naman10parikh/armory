@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-10T23:29:44Z"
 ---
 ## What it is
 A comprehensive Model Context Protocol (MCP) server for Arduino CLI interactions, built with FastMCP. This server enables AI agents to seamlessly interact with Arduino CLI for development, debugging, code verification, and more.

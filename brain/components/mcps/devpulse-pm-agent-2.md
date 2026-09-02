@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T09:33:34Z"
 ---
 ## What it is
 MCP server providing tools for product management decision-making including backlog prioritization, feedback analysis, capacity assessment, and dependency mapping.

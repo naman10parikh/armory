@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T03:25:22Z"
 ---
 ## What it is
 Enables AI clients like Codex, Claude Code, and Kimi Code to analyze public video URLs by downloading media, uploading it to Gemini, and returning timestamped production breakdowns covering shots, visual design, animation, motion, narration, music, sound effects, and editing, with follow-up Q&A and 

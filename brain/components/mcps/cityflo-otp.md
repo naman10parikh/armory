@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T06:50:33Z"
 ---
 ## What it is
 Provides auditable Mumbai route lateness metrics, including route ranking, performance summaries, and trip-level evidence, derived from a reloadable CSV dataset.

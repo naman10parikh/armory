@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T13:02:09Z"
 ---
 ## What it is
 MCP server `Luna`, catalogued on PulseMCP. Local development server providing file system operations, git workflows, search, command execution, and migration snapshots with built-in safety guardrails.

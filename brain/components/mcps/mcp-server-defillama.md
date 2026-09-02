@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-03-17T22:20:54Z"
 ---
 ## What it is
 Enables Claude to access DeFi data via DefiLlama API, including protocol TVL, chain TVL, token prices, and stablecoin information.

@@ -8,10 +8,12 @@ source_url: https://github.com/jfrog/jfrog-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-17T05:39:07Z"
 ---
 ## What it is
 MCP server `JFrog Artifactory`, catalogued on PulseMCP. Integrates with JFrog's Artifactory and platform ecosystem to manage binary artifacts, container images, build information, and security scanning results across repository types and deployment pipelines for DevOps automation and CI/CD optimization.

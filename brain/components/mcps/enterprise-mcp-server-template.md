@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T13:20:20Z"
 ---
 ## What it is
 A production-ready, transport-independent foundation for building enterprise MCP servers in Python. Provides infrastructure, configuration, DI, logging, and tooling so downstream projects can focus on domain capabilities.

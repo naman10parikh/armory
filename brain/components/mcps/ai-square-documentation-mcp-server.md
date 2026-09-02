@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T09:25:31Z"
 ---
 ## What it is
 Enables MCP clients to retrieve authoritative AI Square documentation, API references, SDK examples, guides, and troubleshooting information through citation-safe hybrid search and static resources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-09T12:12:58Z"
 ---
 ## What it is
 A FastMCP server that provides weather-related tools using the QWeather API, enabling language models to query real-time weather, forecasts, warnings, and indices.

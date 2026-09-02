@@ -8,10 +8,12 @@ source_url: https://github.com/nayshins/mcp-server-ccxt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-02-17T18:45:06Z"
 ---
 ## What it is
 MCP server `CCXT Cryptocurrency Exchange`, catalogued on PulseMCP. Integrates with major cryptocurrency exchanges via CCXT to provide real-time and historical market data for analysis, trading, and portfolio tracking.

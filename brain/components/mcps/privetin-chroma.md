@@ -12,6 +12,8 @@ stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-01-01T18:51:52Z"
 ---
 ## What it is
 MCP server `ChromaDB`, catalogued on PulseMCP. Integrates ChromaDB vector database capabilities for efficient semantic document search, storage, and retrieval in natural language processing and information retrieval applications.

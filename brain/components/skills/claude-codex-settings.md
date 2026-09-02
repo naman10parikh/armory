@@ -14,7 +14,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [skill]
-stars: 1100
+stars: 1117
+forks: 107
+pushed_at: "2026-09-01T09:34:09Z"
 ---
 ## What it is
 A community agent skill by fatih akyon, catalogued in awesome-claude-code. A well-organized, well-written set of plugins covering core developer activities, such as working with common cloud platforms like GitHub, Azure, MongoDB, and popular services such as Tavily, Playwright, and more. Clear, not overly-opinionated, and compatible with a few other providers.

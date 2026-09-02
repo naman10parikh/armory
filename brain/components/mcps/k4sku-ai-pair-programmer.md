@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-16T13:52:44Z"
 ---
 ## What it is
 MCP server `AI Pair Programmer`, catalogued on PulseMCP. Ruby-based pair programming assistant providing five specialized tools for code review, brainstorming, performance analysis, and security audits through configurable AI model integration via OpenRouter.

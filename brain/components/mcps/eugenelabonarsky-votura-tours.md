@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-24T07:44:07Z"
 ---
 ## What it is
 MCP server `Votura Tours`, catalogued on PulseMCP. Searches and retrieves AI-powered audio tours, stops, and landmarks for walking, cycling, and driving routes by city.

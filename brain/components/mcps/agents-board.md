@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:36:37Z"
 ---
 ## What it is
 MCP server that provides a real-time project management board with cards, sprints, comments, and docs, enabling coding agents to query and edit project state.

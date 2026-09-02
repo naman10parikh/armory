@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T18:50:18Z"
 ---
 ## What it is
 Enables quantitative trading research by providing tools to backtest strategies, list market datasets, review forward-test logs, and search previously rejected hypotheses, all through an MCP interface.

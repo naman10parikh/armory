@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T14:36:32Z"
 ---
 ## What it is
 A campaign and task management MCP server for AI coding assistants, enabling dependency tracking, acceptance criteria, testing strategies, and progress monitoring for projects.

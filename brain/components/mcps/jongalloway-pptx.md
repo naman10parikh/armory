@@ -8,10 +8,12 @@ source_url: https://github.com/jongalloway/pptx-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-24T19:37:59Z"
 ---
 ## What it is
 MCP server `PowerPoint PPTX`, catalogued on PulseMCP. Reads, creates, and updates PowerPoint presentations with slide content extraction, text updates, and image insertion.

@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-03-02T19:10:57Z"
 ---
 ## What it is
 MCP server `Qdrant Knowledge Graph`, catalogued on PulseMCP. Integrates a knowledge graph with semantic search capabilities, enabling efficient storage, retrieval, and querying of structured information for context-aware applications.

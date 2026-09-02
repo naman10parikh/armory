@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T16:15:30Z"
 ---
 ## What it is
 A referee for self-improving AI agent loops that mines past sessions for working workflows, improves them, and never stops until you stop it.

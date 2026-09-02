@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 1
+forks: 1
+pushed_at: "2026-08-09T05:16:24Z"
 ---
 ## What it is
 An MCP server that gives AI agents hands to make phone calls, send messages, and handle CRM/task workflows. It runs with a simulated provider for zero-cost testing and can switch to real providers like Twilio and ElevenLabs.

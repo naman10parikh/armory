@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T17:02:14Z"
 ---
 ## What it is
 Lets an LLM client monitor devices, services, disk usage, and uptime in a home network and home lab.

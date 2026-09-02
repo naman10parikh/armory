@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T13:22:36Z"
 ---
 ## What it is
 A local, private hybrid-search MCP server for searching markdown notes using BM25 + vector fusion with local embeddings via Ollama.

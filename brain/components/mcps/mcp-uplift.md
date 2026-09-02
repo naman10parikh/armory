@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T12:47:21Z"
 ---
 ## What it is
 Wraps a legacy MCP stdio server and presents it as a modern stateless 2026-07-28 protocol server, translating the legacy handshake and server-initiated requests.

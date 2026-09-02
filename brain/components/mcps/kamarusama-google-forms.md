@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-19T21:07:17Z"
 ---
 ## What it is
 MCP server `Google Forms`, catalogued on PulseMCP. MCP server for creating, editing, and managing Google Forms with 19 tools via the Google Forms API.

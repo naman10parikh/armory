@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T04:06:58Z"
 ---
 ## What it is
 Enables agents to fetch specifications from the public ProveSpec catalog, search and retrieve specs, and grade their own implementations against capability checklists, returning parity scores and gap lists.

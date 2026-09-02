@@ -8,10 +8,12 @@ source_url: https://github.com/ceorkm/reactbits-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-07-28T03:04:53Z"
 ---
 ## What it is
 MCP server `ReactBits`, catalogued on PulseMCP. Provides access to 135+ animated React components from ReactBits.dev with intelligent caching, quality scoring, and dependency detection for building modern UI applications with animations, backgrounds, text effects, and interactive elements.

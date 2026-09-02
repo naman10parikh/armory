@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T14:56:09Z"
 ---
 ## What it is
 Free and open-source MCP server for managing n8n workflows, executions, and tags via n8n's API. Enables workflow creation, activation, debugging, and deletion from any MCP client.

@@ -8,10 +8,12 @@ source_url: https://github.com/cdrn/sigil
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-19T12:25:41Z"
 ---
 ## What it is
 MCP server `Sigil`, catalogued on PulseMCP. Local keystore enabling AI agents to sign EVM transactions without exposing private keys.

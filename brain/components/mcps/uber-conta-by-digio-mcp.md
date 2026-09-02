@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:31Z"
 ---
 ## What it is
 Connects AI agents to Uber Conta by Digio via Open Finance Brazil, enabling read-only queries on balances, transactions, credit card bills, and investments.

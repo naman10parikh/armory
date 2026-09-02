@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-03T10:02:35Z"
 ---
 ## What it is
 MCP server `Prompt Auto-Optimizer`, catalogued on PulseMCP. Optimizes prompts through genetic algorithms that automatically evolve and improve prompt performance across multiple generations using multi-objective optimization, trajectory recording, and reflection-based failure diagnosis for production environments requiring high-quality prompt outputs.

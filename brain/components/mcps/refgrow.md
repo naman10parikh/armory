@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-12T08:37:58Z"
 ---
 ## What it is
 MCP server `Refgrow`, catalogued on PulseMCP. Manages affiliate programs, referrals, conversions, and coupon codes through the Refgrow API for tracking and automating referral marketing workflows.

@@ -8,10 +8,12 @@ source_url: https://github.com/kennyckk/mcp_hkbus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-29T09:02:23Z"
 ---
 ## What it is
 MCP server `Hong Kong Bus`, catalogued on PulseMCP. Provides real-time Hong Kong bus information through KMB API integration, enabling users to find routes, locate stops, and check arrival times through conversational queries.

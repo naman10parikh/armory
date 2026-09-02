@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-10T09:30:37Z"
 ---
 ## What it is
 Enables full-text search for code declarations across multiple languages using SQLite FTS5 and universal ctags, allowing users to search for functions, classes, and other code elements.

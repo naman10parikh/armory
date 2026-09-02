@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T01:59:49Z"
 ---
 ## What it is
 Parses Swagger 2.0 and OpenAPI 3.x specifications, exposing API endpoints, schemas, and authentication through MCP tools with local caching to reduce token usage.

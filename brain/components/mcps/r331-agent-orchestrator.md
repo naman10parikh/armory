@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-05T21:48:03Z"
 ---
 ## What it is
 MCP server `Agent Orchestrator`, catalogued on PulseMCP. Multi-strategy orchestration system providing four distinct coordination models for autonomous agent teams through separate MCP servers.

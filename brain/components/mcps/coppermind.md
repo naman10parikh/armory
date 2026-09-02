@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-21T20:09:16Z"
 ---
 ## What it is
 Enables AI assistants to design PCBs in KiCAD through natural language, with transactional preview-verify-commit workflow, undo/redo, and an engineering knowledge base.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-11T00:03:50Z"
 ---
 ## What it is
 Enables AI assistants to interact seamlessly with self-hosted GitLab instances, supporting repository operations, issue management, merge requests, CI/CD pipelines, and more.

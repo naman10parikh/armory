@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T22:06:10Z"
 ---
 ## What it is
 MCP server that exposes an Italian textbook's OCR content, structured exercises, and progress tracking, enabling chatbot agents to interact with the book for language learning.

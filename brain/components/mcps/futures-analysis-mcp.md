@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T14:24:34Z"
 ---
 ## What it is
 MCP server for domestic futures analytics, providing tools to fetch OHLCV data, check data quality, analyze market metrics, and generate markdown reports via the Model Context Protocol.

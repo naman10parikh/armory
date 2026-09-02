@@ -8,10 +8,12 @@ source_url: https://github.com/fgforrest/mcp-jdwp-java
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-12T07:14:48Z"
 ---
 ## What it is
 MCP server `Java JDWP Debugger`, catalogued on PulseMCP. Gives AI agents full Java debugger control via JDWP with 40 tools for breakpoints, expression evaluation, and value mutation.

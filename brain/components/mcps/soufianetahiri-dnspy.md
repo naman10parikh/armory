@@ -8,10 +8,12 @@ source_url: https://github.com/soufianetahiri/dnspy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-03-25T17:11:29Z"
 ---
 ## What it is
 MCP server `dnSpy`, catalogued on PulseMCP. Enables .NET reverse engineering workflows through the dnSpy and ILSpy ecosystem with type listing, method decompilation, IL inspection, string reference search, and binary patching capabilities.

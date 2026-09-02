@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T04:02:40Z"
 ---
 ## What it is
 A Python MCP server that allows ChatGPT to execute commands on your local PC via a secure Cloudflare tunnel.

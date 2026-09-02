@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T18:14:08Z"
 ---
 ## What it is
 Enables Claude Code to read Google Search Console and GA4 data locally with read-only access, and provides combined SEO analysis tools for comparing datasets and identifying opportunities.

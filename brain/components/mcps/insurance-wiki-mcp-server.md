@@ -8,11 +8,13 @@ source_url: https://github.com/sluyasu/OpenInsurance
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T14:20:36Z"
 ---
 ## What it is
 A read-only MCP server providing tools to search and retrieve insurance product information, coverage details, and compare policies from a pre-built knowledge graph of Belgian insurance products, with verbatim citations from source PDFs.

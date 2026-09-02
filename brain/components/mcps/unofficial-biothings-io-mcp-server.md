@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-21T10:03:02Z"
 ---
 ## What it is
 Provides access to BioThings.io APIs for comprehensive gene and variant annotations, enabling seamless integration of biological data into workflows.

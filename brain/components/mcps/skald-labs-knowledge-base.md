@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-12T19:30:01Z"
 ---
 ## What it is
 MCP server `Skald Labs Knowledge Base`, catalogued on PulseMCP. Integrates with Skald Labs' knowledge base platform to enable AI-generated responses with inline citations, semantic search for memos, and automated content creation and indexing for research and documentation workflows.

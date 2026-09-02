@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T11:04:46Z"
 ---
 ## What it is
 Security-hardened MCP server that gives AI assistants full control over your real browser session, supporting 36 tools for navigation, data extraction, monitoring, and more.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-04T17:57:34Z"
 ---
 ## What it is
 MCP server `DSR`, catalogued on PulseMCP. Provides tools for interacting with Deep State Representation graphs used in robotics

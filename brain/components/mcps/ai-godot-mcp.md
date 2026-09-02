@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T07:17:02Z"
 ---
 ## What it is
 Enables AI-driven game development by providing MCP tools to interact with the Godot editor, including scene editing, node manipulation, script attachment, and scene execution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-04-23T12:51:00Z"
 ---
 ## What it is
 Enables full CRUD control of Ontology items in Microsoft Fabric, including entity types, relationships, data bindings, and workspace discovery through natural language.

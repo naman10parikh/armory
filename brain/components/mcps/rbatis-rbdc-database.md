@@ -8,10 +8,12 @@ source_url: https://github.com/rbatis/rbdc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-27T15:37:15Z"
 ---
 ## What it is
 MCP server `RBDC Database`, catalogued on PulseMCP. Provides SQL database access through the RBDC framework, supporting SQLite, MySQL, PostgreSQL, and MSSQL with connection pooling for executing queries, data modifications, and monitoring database connections.

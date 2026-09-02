@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T10:19:40Z"
 ---
 ## What it is
 A free MCP server that renders bar, line, and area charts from structured data into clean, hand-designed SVG. No API key or payment needed, with colorblind-safe palettes and light/dark theme support.

@@ -12,6 +12,8 @@ stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-20T00:28:03Z"
 ---
 ## What it is
 MCP server `Tana`, catalogued on PulseMCP. Integrates with Tana's Input API, enabling creation and manipulation of structured data in Tana workspaces for enhanced note-taking and automated data input tasks.

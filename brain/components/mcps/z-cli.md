@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T09:54:55Z"
 ---
 ## What it is
 Z-CLI provides NAS operations like file management, pool queries, search, and file operations through CLI and MCP Server, enabling AI assistants to interact with zspace private cloud.

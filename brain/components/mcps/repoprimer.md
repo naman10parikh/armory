@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:12:19Z"
 ---
 ## What it is
 Provides fresh project context to coding agents by combining Markdown documentation and live Git state, enabling deterministic startup briefs and bounded document retrieval for MCP-compatible tools.

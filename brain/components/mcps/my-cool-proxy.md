@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-04-30T01:15:17Z"
 ---
 ## What it is
 A Model Context Protocol server gateway that reduces context bloat through progressive tool discovery and Lua-based tool chaining, while centralizing multiple MCP servers into a single endpoint.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T16:17:27Z"
 ---
 ## What it is
 Hosts T1 MRI skull-strip and MUSE ROI segmentation as an MCP server, enabling Claude Code to run segmentations on a remote GPU instance via SSH tunnel with async job processing.

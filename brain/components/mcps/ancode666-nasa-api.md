@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-01-13T16:05:58Z"
 ---
 ## What it is
 MCP server `NASA API`, catalogued on PulseMCP. Integrates with NASA APIs to provide real-time astronomical data, space weather information, Earth imagery, and exoplanet research capabilities without requiring technical knowledge of NASA's API structure.

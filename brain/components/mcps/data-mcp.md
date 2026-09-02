@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:12:01Z"
 ---
 ## What it is
 MCP server generated from an OpenAPI Specification, exposing tools via HTTP. It allows clients to invoke API operations using JSON-RPC 2.0 requests.

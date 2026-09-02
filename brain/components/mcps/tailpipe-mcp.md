@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-26T17:06:35Z"
 ---
 ## What it is
 Connects AI assistants to cloud and SaaS logs via Tailpipe, enabling natural language querying and analysis of log data.

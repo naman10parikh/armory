@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:17Z"
 ---
 ## What it is
 Enables text translation between 50+ languages with automatic source language detection. Uses x402 micropayments for pay-per-call without API keys or signup.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-20T05:37:25Z"
 ---
 ## What it is
 MCP server `Twitch Smithery`, catalogued on PulseMCP. Integrates with Twitch's IRC and Helix API to provide real-time chat moderation with smart user targeting, automated timeout management, and stream control features including polls, predictions, and content updates.

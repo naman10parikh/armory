@@ -12,6 +12,8 @@ stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-08-18T12:43:16Z"
 ---
 ## What it is
 MCP server `Server Notify`, catalogued on PulseMCP. Provides a cross-platform notification service that displays alerts and plays sounds when triggered by HTTP requests, enabling applications to send customizable notifications with configurable timeouts for important events without requiring constant monitoring.

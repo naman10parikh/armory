@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T21:36:15Z"
 ---
 ## What it is
 A minimal MCP server that exposes health-check and server information tools over stdio or HTTP, and can be containerized and deployed to IBM Code Engine.

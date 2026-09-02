@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T07:21:14Z"
 ---
 ## What it is
 MCP server `SkyPilot`, catalogued on PulseMCP. Manages Bluesky social media accounts through the SkyPilot platform, supporting post scheduling, queue management, analytics, automation rules, and list operations.

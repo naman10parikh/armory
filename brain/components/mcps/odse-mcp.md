@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T06:46:20Z"
 ---
 ## What it is
 MCP server for converting OEM energy telemetry payloads into ODS-E records and validating them via the odse Python package.

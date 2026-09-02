@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-08-21T15:47:27Z"
 ---
 ## What it is
 MCP server `Text Editor`, catalogued on PulseMCP. Provides a secure Python-based text editing interface with two-step verification and syntax validation for collaborative code file manipulation

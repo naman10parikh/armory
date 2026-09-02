@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-06-22T11:11:02Z"
 ---
 ## What it is
 MCP server `AEM`, catalogued on PulseMCP. Interact with Adobe Experience Manager for content, component, and asset operations.

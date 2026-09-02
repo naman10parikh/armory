@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-21T09:21:21Z"
 ---
 ## What it is
 Enables coding agents to request, track, and verify independent cross-model reviews with structured findings, attachment hashes, and provenance receipts via Chrome Bridge, Codex, or Responses transports.

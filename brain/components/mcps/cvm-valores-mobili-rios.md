@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:32:46Z"
 ---
 ## What it is
 Enables querying the Brazilian Securities Commission (CVM) registry for individuals or companies using CPF or CNPJ. Provides a single read-only MCP tool, cvm_consultar.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-08T02:50:22Z"
 ---
 ## What it is
 MCP server for YApi that enables LLMs to manage API interfaces, projects, and categories through natural language, supporting multiple projects and path fuzzy matching.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T17:38:03Z"
 ---
 ## What it is
 MCP server `Fizzy`, catalogued on PulseMCP. Manages Fizzy kanban boards, cards, columns, comments, and tags for Basecamp's task tracking tool.

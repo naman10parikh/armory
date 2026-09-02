@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-25T11:19:15Z"
 ---
 ## What it is
 MCP server `Pattern Language`, catalogued on PulseMCP. Provides structured coding instructions and testing guidelines by dynamically combining general programming principles with language-specific rules through a tool-based interface that processes markdown instruction files into executable patterns.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T11:21:02Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to a Neo4j graph database, enabling querying of movie data through tools like graph statistics, genre-based search, and movie details, along with advanced features such as LLM sampling and completions.

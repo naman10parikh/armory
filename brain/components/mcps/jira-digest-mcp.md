@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T03:23:12Z"
 ---
 ## What it is
 MCP server for querying resolved Jira tickets across multiple Atlassian Cloud sites, enabling executive summarization of development activity.

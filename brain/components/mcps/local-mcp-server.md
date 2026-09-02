@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-27T12:33:56Z"
 ---
 ## What it is
 Enables tool-calling LLMs to search the internet, capture website images, extract webpage text, and more via a local MCP server.

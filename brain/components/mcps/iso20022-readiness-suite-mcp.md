@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T04:51:07Z"
 ---
 ## What it is
 An MCP server that provides a readiness gateway for ISO 20022 payments, offering readiness checks, automated remediation, clearing-profile linting, and bank-response simulation through a single orchestration interface.

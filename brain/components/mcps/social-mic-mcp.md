@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T09:40:17Z"
 ---
 ## What it is
 Enables generating, scheduling, and publishing social media posts via Claude or an agent through the MCP protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-02T19:13:49Z"
 ---
 ## What it is
 An MCP server that brings the Ikejime philosophy to coding, helping eliminate technical debt by killing ambiguity, purging dead code, isolating dependencies, and more.

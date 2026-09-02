@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T12:25:36Z"
 ---
 ## What it is
 Enables stdio-only MCP clients to connect to IFTTT's remote MCP server by handling OAuth authentication, SSE streaming, and response transformation.

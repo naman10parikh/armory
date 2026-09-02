@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-25T18:52:54Z"
 ---
 ## What it is
 MCP server `Star Wars Planetary Data`, catalogued on PulseMCP. Integrates with Couchbase and Nebius AI to provide fast, scalable access to Star Wars planetary data with vector search capabilities and generated planet images.

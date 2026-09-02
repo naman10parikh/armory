@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-01-29T06:31:36Z"
 ---
 ## What it is
 Provides intelligent assistance for Azure Terraform development, including documentation retrieval, code validation, security scanning, and best practices guidance.

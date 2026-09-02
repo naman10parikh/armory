@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-31T17:34:57Z"
 ---
 ## What it is
 MCP server `Flashduty`, catalogued on PulseMCP. Integrates with Flashduty's incident management platform to create, acknowledge, resolve, and manage incidents with severity assignment, timeline retrieval, responder management, and custom field updates for automated incident response workflows.

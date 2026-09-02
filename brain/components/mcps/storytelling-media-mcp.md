@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T20:31:25Z"
 ---
 ## What it is
 Provides tools for agent-driven video creation, including image generation via Google's GenAI, video generation, and local video stitching with FFmpeg.

@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-07-30T15:17:30Z"
 ---
 ## What it is
 MCP server `Skrape`, catalogued on PulseMCP. Converts HTML pages into clean, structured Markdown for feeding web content into language models, enabling use cases like content analysis and information extraction.

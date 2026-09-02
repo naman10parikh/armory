@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T08:25:54Z"
 ---
 ## What it is
 Read-only MCP server for Google Search Console, with browser-based OAuth flow and local token storage, enabling querying search analytics, site lists, and URL inspection.

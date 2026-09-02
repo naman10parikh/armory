@@ -12,6 +12,8 @@ stars: 65
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-05-19T14:24:37Z"
 ---
 ## What it is
 MCP server `Universal Solver (Z3, CVXPY, OR-Tools)`, catalogued on PulseMCP. Integrates Z3, CVXPY, and Google OR-Tools to solve constraint satisfaction, convex optimization, and scheduling problems with support for solver chaining where results from one solver feed into another for complex multi-stage optimization workflows.

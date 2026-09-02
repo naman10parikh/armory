@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-28T08:56:35Z"
 ---
 ## What it is
 MCP server `Obsidian iCloud`, catalogued on PulseMCP. Connects Obsidian vaults stored in iCloud Drive to enable direct interaction with markdown notes and files through comprehensive search, reading, writing, and editing capabilities across multiple vaults.

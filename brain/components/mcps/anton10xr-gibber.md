@@ -8,10 +8,12 @@ source_url: https://github.com/antonpk1/gibber-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 210
+stars: 215
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2025-03-03T13:59:25Z"
 ---
 ## What it is
 MCP server `Gibber`, catalogued on PulseMCP. Provides cryptographic tools for secure communication, including key generation, shared secret derivation, and message encryption/decryption using SJCL P-256 and AES-CCM, enabling end-to-end encrypted data exchange via server-sent events.

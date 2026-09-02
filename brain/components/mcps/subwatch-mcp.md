@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T07:46:08Z"
 ---
 ## What it is
 Enables reading public Reddit posts and comments on demand, with tools to search, get recent posts, post details, top comments, and server status. Runs on Cloudflare Workers for use with Claude and Open WebUI.

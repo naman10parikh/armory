@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
 stars: 32
+forks: 9
+pushed_at: "2026-02-11T07:23:13Z"
 ---
 ## What it is
 Practical exercises for Claude Code Agent Teams - 6 exercises + 2 capstones covering team creation, task coordination, quality hooks, and parallel code review - good learning resource.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 3
+forks: 1
+pushed_at: "2026-03-11T13:11:33Z"
 ---
 ## What it is
 Mercado Pago payments for AI agents — create payment links, search payments, and issue refunds. Built for LATAM merchants.

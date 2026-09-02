@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T08:51:04Z"
 ---
 ## What it is
 Enables AI assistants to retrieve Rally work items by FormattedID using HTTP Basic Authentication.

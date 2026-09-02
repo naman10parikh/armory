@@ -8,10 +8,12 @@ source_url: https://github.com/jovanipink/mcp-browser-use
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-08-22T18:27:51Z"
 ---
 ## What it is
 MCP server `Browser Use`, catalogued on PulseMCP. Integrates browser automation with natural language commands for web scraping, form filling, and visual interaction tasks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-08-31T00:06:11Z"
 ---
 ## What it is
 A comprehensive MCP server providing OpenStack project management and monitoring capabilities with built-in safety controls and single-project scope.

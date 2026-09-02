@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T00:29:17Z"
 ---
 ## What it is
 Enables agents to create AI music videos and audio-reactive visuals from songs through MCP, including style discovery, music search, rendering, webhook registration, and media management.

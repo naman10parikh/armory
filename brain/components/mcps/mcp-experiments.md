@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-24T17:27:04Z"
 ---
 ## What it is
 Provides tools for executing Bash and AppleScript commands from LLMs on macOS, with safety modes.

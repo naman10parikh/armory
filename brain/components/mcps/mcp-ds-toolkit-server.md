@@ -8,11 +8,13 @@ source_url: https://github.com/Yasserelhaddar/MCP-DS-Toolkit-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-21T00:05:46Z"
 ---
 ## What it is
 A standalone MCP server that brings complete data science capabilities to AI assistants, enabling them to load data, train models, and track experiments through natural language.

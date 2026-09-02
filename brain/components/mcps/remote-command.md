@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-25T06:42:56Z"
 ---
 ## What it is
 MCP server `Remote Command`, catalogued on PulseMCP. Enables direct execution of shell commands on the host machine with cross-platform compatibility, automatically handling OS-specific differences for system administration, development, and automation tasks.

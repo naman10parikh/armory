@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:52:48Z"
 ---
 ## What it is
 A local MCP server that provides tools to query Element Plus component documentation, enabling listing, retrieval, and search of component docs.

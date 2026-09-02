@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-26T07:13:53Z"
 ---
 ## What it is
 MCP server `Atomic Computer`, catalogued on PulseMCP. Provides low-level desktop automation with screen capture, window inspection, and mouse/keyboard input.

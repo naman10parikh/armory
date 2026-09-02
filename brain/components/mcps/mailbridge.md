@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T14:03:14Z"
 ---
 ## What it is
 MCP server that gives an AI assistant access to IMAP/SMTP mailboxes to read, search, organize, draft, and send email, with local mirroring and full-text search, no third-party data path, and credentials stored only in the macOS Keychain.

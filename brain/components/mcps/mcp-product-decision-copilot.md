@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T20:40:19Z"
 ---
 ## What it is
 Provides Claude with tools to make Ship/Delay/Kill recommendations on feature requests using product metrics, roadmap, and OKRs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-07T03:55:26Z"
 ---
 ## What it is
 MCP server providing access to Polish law statutes, provisions, case law, and EU law integrations, enabling natural language legal research, citation validation, and cross-referencing.

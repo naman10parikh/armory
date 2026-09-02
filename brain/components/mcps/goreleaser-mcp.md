@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-31T09:16:56Z"
 ---
 ## What it is
 MCP server for GoReleaser that enables AI assistants to validate, fix, and modernize GoReleaser configurations.

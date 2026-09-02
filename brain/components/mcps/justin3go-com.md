@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
+forks: 20
+pushed_at: "2026-08-14T17:15:36Z"
 ---
 ## What it is
 A fully-featured modern blog based on VitePress

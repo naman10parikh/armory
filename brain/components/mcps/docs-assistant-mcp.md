@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T14:09:45Z"
 ---
 ## What it is
 Generates and maintains grounded, enterprise-grade documentation for any codebase by analyzing real project artifacts, ensuring every claim is traceable to actual findings.

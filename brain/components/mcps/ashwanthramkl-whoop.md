@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-13T03:15:14Z"
 ---
 ## What it is
 MCP server `WHOOP`, catalogued on PulseMCP. Read-only access to WHOOP fitness data including recoveries, sleep, workouts, and health metrics via OAuth.

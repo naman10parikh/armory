@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T02:48:59Z"
 ---
 ## What it is
 A local, privacy-first MCP server that automatically tracks entry-level tech job openings and upcoming USA tech conferences and emails you a clean HTML digest on a smart schedule.

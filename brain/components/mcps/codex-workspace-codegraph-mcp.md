@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T14:21:59Z"
 ---
 ## What it is
 A local MCP server for code operations that provides file editing, Git, command execution, and codebase analysis via CodeGraph, with a built-in feedback web UI. It operates entirely offline without any external API dependencies.

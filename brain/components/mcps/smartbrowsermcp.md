@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-12T07:17:23Z"
 ---
 ## What it is
 A Model Context Protocol server for web automation that enables browser control, element interaction, content extraction, and monitoring using Playwright.

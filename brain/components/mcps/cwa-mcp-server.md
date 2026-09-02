@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T09:13:53Z"
 ---
 ## What it is
 Provides access to Taiwan's Central Weather Administration data for weather forecasts, earthquake reports, warnings, and typhoon alerts, and generates evacuation recommendations.

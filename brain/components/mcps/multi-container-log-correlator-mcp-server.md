@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T06:49:18Z"
 ---
 ## What it is
 Enables debugging of distributed transactions by continuously ingesting Docker container logs, indexing them by trace/request ID, and exposing MCP tools to search, tail, and correlate logs across services.

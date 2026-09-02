@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T16:51:40Z"
 ---
 ## What it is
 Enables AI agents to query live sports betting data including odds, edges, arbitrage opportunities, player/team stats, and reference data using the SportWizzard API.

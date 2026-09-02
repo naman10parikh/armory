@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:10:55Z"
 ---
 ## What it is
 Exposes professional SEO tools (content briefs, keyword research, SERP analysis, backlink profiles, and on-page audits) to MCP-compatible AI agents with automatic x402 micropayment handling on Base.

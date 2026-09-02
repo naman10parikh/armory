@@ -8,10 +8,12 @@ source_url: https://github.com/cigarliu/ssh-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-21T04:38:58Z"
 ---
 ## What it is
 MCP server `SSH`, catalogued on PulseMCP. Provides secure SSH connectivity and remote server management with command execution, SFTP file transfers, interactive shell sessions, and multiple concurrent connections.

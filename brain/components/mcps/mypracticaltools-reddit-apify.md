@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-13T08:51:07Z"
 ---
 ## What it is
 MCP server `Reddit via Apify`, catalogued on PulseMCP. Search Reddit and find leads by delegating scraping to Apify cloud actors.

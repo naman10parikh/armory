@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T03:14:30Z"
 ---
 ## What it is
 A thin MCP server wrapper that automatically audits all tool calls via Attestive's AuditClient, logging decisions and enabling verification of the hash chain. It provides an example server with audited tools and demonstrates end-to-end recording and verification through the MCP protocol.

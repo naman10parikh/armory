@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-30T22:34:03Z"
 ---
 ## What it is
 Enables natural language interaction with SimplyBook.me API to manage bookings, services, and performers through MCP.

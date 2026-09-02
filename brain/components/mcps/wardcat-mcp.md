@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T15:34:55Z"
 ---
 ## What it is
 MCP server providing on-prem PII detection and anonymization tools (scan and is_sensitive) for AI agents, ensuring data stays local.

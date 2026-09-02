@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T03:28:43Z"
 ---
 ## What it is
 An MCP server that allows Pebble Index to capture notes, enqueue tasks, create follow-ups, and launch visible Codex threads on a Windows PC. It uses a remote server with token-based access and a local runner that executes only explicit execution requests.

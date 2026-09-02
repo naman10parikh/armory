@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T14:24:27Z"
 ---
 ## What it is
 Enables citation-audited deep research with tools for web-grounded answers, source conflict detection, and per-claim citation auditing.

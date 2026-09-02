@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-07T16:22:26Z"
 ---
 ## What it is
 MCP server `Image Generator`, catalogued on PulseMCP. Enables AI assistants to create images using Replicate or Together AI's image generation models through a flexible tool that accepts parameters like prompt, width, height, and can be run locally or deployed as a Docker container.

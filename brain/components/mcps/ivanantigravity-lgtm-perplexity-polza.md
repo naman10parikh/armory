@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-22T11:03:14Z"
 ---
 ## What it is
 MCP server `Perplexity via Polza.ai`, catalogued on PulseMCP. Access Perplexity AI search and research models through the Polza.ai API aggregator.

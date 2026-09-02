@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T21:40:22Z"
 ---
 ## What it is
 Exposes your todo-tree task list as MCP tools for reading and managing tasks via MCP-compatible AI clients like Claude Desktop.

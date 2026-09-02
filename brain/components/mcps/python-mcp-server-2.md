@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-10T13:58:03Z"
 ---
 ## What it is
 A simple note-taking MCP server that allows adding notes and summarizing them via a prompt.

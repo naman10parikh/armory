@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-19T19:09:16Z"
 ---
 ## What it is
 MCP server `Basis Stablecoin Risk`, catalogued on PulseMCP. Provides risk scores for stablecoins, wallet risk profiles, and transaction risk assessment through the Stablecoin Integrity Index.

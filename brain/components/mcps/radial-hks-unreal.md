@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-12T14:30:02Z"
 ---
 ## What it is
 MCP server `Unreal Engine Remote Execution`, catalogued on PulseMCP. Bridges AI tools with Unreal Engine through remote execution protocols, enabling Python command execution for game development, automated testing, and content creation workflows.

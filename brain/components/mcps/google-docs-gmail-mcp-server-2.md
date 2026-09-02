@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T02:20:52Z"
 ---
 ## What it is
 A lightweight MCP server that integrates with Google Docs and Gmail, allowing AI workflows to append to Google Docs and create Gmail drafts with human approval.

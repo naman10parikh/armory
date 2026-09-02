@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T14:21:31Z"
 ---
 ## What it is
 MCP server `NuGet Package Browser`, catalogued on PulseMCP. Browse the actual API surface of NuGet packages in .NET projects to prevent hallucinated APIs and surface real type definitions.

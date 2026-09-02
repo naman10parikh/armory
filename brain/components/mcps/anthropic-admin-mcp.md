@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T03:40:39Z"
 ---
 ## What it is
 Full coverage of Anthropic Admin API to manage organization, workspaces, members, API keys, usage, and costs via natural language from any MCP client.

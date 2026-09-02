@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:59:57Z"
 ---
 ## What it is
 MCP server that exposes Cloudbeds occupancy, check-ins/check-outs, and reservations as natural language tools, with read-only access and secure credential storage.

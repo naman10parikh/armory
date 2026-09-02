@@ -8,10 +8,12 @@ source_url: https://github.com/yourtablecloth/windowssandboxmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-22T08:27:16Z"
 ---
 ## What it is
 MCP server `Windows Sandbox`, catalogued on PulseMCP. Provides complete lifecycle management of Windows Sandbox instances on Windows 11 24H2+ with customizable configurations, command execution, and shared directory management for automated testing, secure code execution, and isolated development workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T21:07:30Z"
 ---
 ## What it is
 Enables fetching weather forecasts for the USA via NWS API and for Israel via browser automation using Playwright.

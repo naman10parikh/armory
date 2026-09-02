@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T08:20:47Z"
 ---
 ## What it is
 MCP server for auditing infrastructure-as-code attack paths, finding multi-hop chains from public internet to sensitive resources.

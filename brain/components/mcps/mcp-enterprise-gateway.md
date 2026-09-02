@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:32:46Z"
 ---
 ## What it is
 A secure MCP proxy server with JWT authentication, SQL guardrails, rate limiting, and Kafka audit logging, enabling enterprise-grade access control for MCP clients like Cursor and Claude Desktop.

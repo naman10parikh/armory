@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T05:01:16Z"
 ---
 ## What it is
 MCP server that provides tools for retrieving transaction context and recording AI decisions or creating human reviews for payment risk exceptions. Enables LLM agents to handle exception transactions in a hybrid payment-decisioning workflow.

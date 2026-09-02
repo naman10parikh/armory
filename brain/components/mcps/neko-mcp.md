@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-28T03:26:45Z"
 ---
 ## What it is
 Enables AI agents to control a neko virtual browser via WebSocket and REST APIs, while allowing live viewing through a WebRTC stream.

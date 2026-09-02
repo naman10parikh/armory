@@ -8,10 +8,12 @@ source_url: https://github.com/jx-codes/codemode-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 119
+stars: 123
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-10-09T09:41:05Z"
 ---
 ## What it is
 MCP server `Codemode`, catalogued on PulseMCP. Replaces traditional tool calling with a code execution approach where assistants write TypeScript/JavaScript that makes HTTP requests to MCP servers through a local proxy, enabling natural operation chaining and complex multi-step workflows.

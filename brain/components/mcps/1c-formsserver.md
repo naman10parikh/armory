@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-03-28T12:08:48Z"
 ---
 ## What it is
 MCP server for generating, validating, converting, and searching managed 1C:Enterprise forms in three formats: Configurator, Managed, and EDT.

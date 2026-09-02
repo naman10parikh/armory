@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-07T18:18:33Z"
 ---
 ## What it is
 MCP server `Shaderc-VkRunner (GPU Shader Sandbox)`, catalogued on PulseMCP. Provides a secure local sandbox for developing, compiling, and visualizing GPU shaders using Vulkan without requiring physical GPU hardware.

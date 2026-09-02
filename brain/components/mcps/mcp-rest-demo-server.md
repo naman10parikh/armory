@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T11:15:01Z"
 ---
 ## What it is
 A minimal demo MCP server exposing user management tools (list, get, create, update, delete users) over both stdio and HTTP/SSE transports, wrapping an Express REST API to illustrate local vs remote MCP connectivity.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T08:54:31Z"
 ---
 ## What it is
 Enables natural-language sales queries against a SQLite database, generating and executing read-only SQL through a secure MCP server with table listing, schema description, and query execution.

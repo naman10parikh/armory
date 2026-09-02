@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2025-04-04T23:20:05Z"
 ---
 ## What it is
 Enables AI-powered search and querying of the Vercel AI SDK documentation using natural language questions, with tools for direct similarity search and agent-based answers.

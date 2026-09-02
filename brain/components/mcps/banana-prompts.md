@@ -8,10 +8,12 @@ source_url: https://github.com/banana-prompts/banana-prompts-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-08T05:23:35Z"
 ---
 ## What it is
 MCP server `Banana Prompts`, catalogued on PulseMCP. Search and discover high-quality Nano Banana AI art prompts from bananaprompts.fun.

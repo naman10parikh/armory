@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T18:29:13Z"
 ---
 ## What it is
 MCP server for Interactive Brokers that enables account monitoring, order preview, trade execution, and basket trading with human-in-the-loop approval via Telegram and SQLite-backed audit.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-07-15T04:59:28Z"
 ---
 ## What it is
 Self-hosted AI Agent Memory + Code Intelligence Platform providing persistent memory, AST-aware code search, and quality enforcement via a single MCP endpoint.

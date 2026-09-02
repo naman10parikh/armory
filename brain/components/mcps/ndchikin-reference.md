@@ -8,10 +8,12 @@ source_url: https://github.com/ndchikin/reference-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-18T03:29:40Z"
 ---
 ## What it is
 MCP server `CiteAssist (Citation Retrieval)`, catalogued on PulseMCP. Integrates with CiteAs and Google Scholar to retrieve BibTeX-formatted citation data using DOIs, URLs, or keywords for seamless research citation workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T08:27:00Z"
 ---
 ## What it is
 Web search API for comprehensive event retrieval: find every relevant event across the open web â not just top results.

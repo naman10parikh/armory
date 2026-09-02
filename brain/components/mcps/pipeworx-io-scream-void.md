@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:59:55Z"
 ---
 ## What it is
 MCP server `Scream Void`, catalogued on PulseMCP. Scream into the void — it listens, and returns a number unaffected by your scream.

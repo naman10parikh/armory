@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T12:39:03Z"
 ---
 ## What it is
 Provides read-only SQL query access to PostgreSQL mirrors of Vizru spreadsheets on Neon, exposing REST endpoints and MCP tools for relational filtering and schema discovery.

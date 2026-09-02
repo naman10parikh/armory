@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-12-13T11:15:47Z"
 ---
 ## What it is
 MCP server `UNHCR Refugee Statistics`, catalogued on PulseMCP. Access UNHCR data on forcibly displaced persons, including population statistics and refugee status determinations

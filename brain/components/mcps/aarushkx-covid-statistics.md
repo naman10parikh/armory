@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-19T15:40:21Z"
 ---
 ## What it is
 MCP server `COVID-19 Statistics`, catalogued on PulseMCP. Provides real-time COVID-19 statistics by connecting to the disease.sh API, delivering case counts, deaths, recoveries, and testing data for any country.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-12-06T05:51:44Z"
 ---
 ## What it is
 MCP server `GitHub Repository Browser`, catalogued on PulseMCP. Integrates with the GitHub API to provide file browsing, content retrieval, and directory navigation capabilities for analyzing and accessing repository contents.

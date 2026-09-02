@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T06:17:08Z"
 ---
 ## What it is
 Enables AI assistants to query your local browsing history using keyword search, RAG Q&A, and activity stats.

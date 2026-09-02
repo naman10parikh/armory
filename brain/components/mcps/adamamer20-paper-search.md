@@ -8,10 +8,12 @@ source_url: https://github.com/adamamer20/paper-search-mcp-openai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-09-18T16:51:36Z"
 ---
 ## What it is
 MCP server `Paper Search`, catalogued on PulseMCP. Aggregates academic paper search and retrieval across arXiv, PubMed, bioRxiv, medRxiv, Google Scholar, IACR ePrint Archive, Semantic Scholar, and CrossRef with PDF download capabilities, text extraction, intelligent caching, and asynchronous processing for streamlined research workflows and literature reviews.

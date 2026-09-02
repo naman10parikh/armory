@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T10:59:03Z"
 ---
 ## What it is
 Enables generating PDFs from DOCX/ODT templates using MCP with support for OpenAI or local Ollama models.

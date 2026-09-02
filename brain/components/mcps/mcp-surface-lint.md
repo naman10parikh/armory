@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T03:59:43Z"
 ---
 ## What it is
 Static checks over an MCP tool surface to find where a caller could do the wrong thing and get no error back.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-19T16:51:49Z"
 ---
 ## What it is
 MCP server `n0s1`, catalogued on PulseMCP. Secret scanner for collaboration platforms including Slack, Jira, Confluence, Asana, and GitHub.

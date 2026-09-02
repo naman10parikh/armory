@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T14:38:00Z"
 ---
 ## What it is
 Scans MCP tools for trust drift, composition risks, and runtime policy violations, with optional LLM explanations.

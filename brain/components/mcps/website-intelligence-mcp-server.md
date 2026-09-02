@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T19:17:41Z"
 ---
 ## What it is
 Website Intelligence MCP Server exposes 10 tools for web scraping and analysis, enabling AI agents to convert URLs to Markdown, extract metadata, detect technologies, find contacts, and perform SEO checks. It wraps a REST API and supports optional API keys.

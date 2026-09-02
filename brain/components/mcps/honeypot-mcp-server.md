@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T04:21:57Z"
 ---
 ## What it is
 Enables querying a honeypot threat-intelligence database via natural language to analyze attacker activity, without writing SQL. Provides read-only tools for overview, top attackers, credentials, commands, and more.

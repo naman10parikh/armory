@@ -8,10 +8,12 @@ source_url: https://github.com/psalzman/mcp-openfec
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-20T07:38:54Z"
 ---
 ## What it is
 MCP server `OpenFEC`, catalogued on PulseMCP. Provides access to Federal Election Commission campaign finance data through the OpenFEC API, enabling searches for candidates, committees, contributions, and expenditures with comprehensive error handling and rate limiting.

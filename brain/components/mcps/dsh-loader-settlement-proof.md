@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T07:12:26Z"
 ---
 ## What it is
 Enables verification of content-addressed settlement receipts for DSH Loader activation, injection closure, and tool schema settlement.

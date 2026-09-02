@@ -8,10 +8,12 @@ source_url: https://github.com/dubnium0/ffmpeg-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-09T16:55:01Z"
 ---
 ## What it is
 MCP server `FFmpeg`, catalogued on PulseMCP. Video and audio processing through FFmpeg with tools for conversion, editing, effects, streaming, and advanced media operations.

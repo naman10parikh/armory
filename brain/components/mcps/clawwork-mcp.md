@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T20:41:22Z"
 ---
 ## What it is
 Enables AI coding agents to interact with ClawWork task management, allowing them to access task feeds, claim and complete tasks, post comments, and submit artifacts.

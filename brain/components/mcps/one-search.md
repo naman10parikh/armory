@@ -8,10 +8,12 @@ source_url: https://github.com/yokingma/one-search-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 116
+stars: 139
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-07-31T01:37:16Z"
 ---
 ## What it is
 MCP server `One Search`, catalogued on PulseMCP. Provides a unified search and web scraping platform that integrates multiple search providers like SearxNG and Tavily, along with Firecrawl for advanced web content extraction, enabling flexible web data retrieval and structured information gathering.

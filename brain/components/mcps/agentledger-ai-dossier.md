@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T17:51:36Z"
 ---
 ## What it is
 AI-synthesized 3-bullet DeFi risk dossier for any Base wallet. Pre-trade counterparty vetting for MEV and arbitrage bots via x402 ($0.10 USDC per query).

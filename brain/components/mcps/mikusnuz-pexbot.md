@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-30T11:07:12Z"
 ---
 ## What it is
 MCP server `PexBot`, catalogued on PulseMCP. Simulated crypto trading with real-time Upbit prices and autonomous trading modes.

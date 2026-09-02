@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T07:35:39Z"
 ---
 ## What it is
 Calculates ROI, break-even, and cost projections for AI agents and automation projects, providing instant answers without external APIs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-29T15:33:11Z"
 ---
 ## What it is
 Enables Claude to generate speech from text and express it through a 3D VRM avatar via the AgentVRM engine.

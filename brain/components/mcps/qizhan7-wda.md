@@ -8,10 +8,12 @@ source_url: https://github.com/qizhan7/wda-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-29T09:16:16Z"
 ---
 ## What it is
 MCP server `WebDriverAgent iPhone Control`, catalogued on PulseMCP. MCP server for remote iPhone control via Apple WebDriverAgent with 22 tools and optional Tailscale network support.

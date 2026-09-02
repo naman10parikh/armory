@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T12:55:10Z"
 ---
 ## What it is
 MCP server for searching, verifying, and managing game ROM collections. Enables Internet Archive ROM search, checksum verification, save file parsing, and ROM downloads.

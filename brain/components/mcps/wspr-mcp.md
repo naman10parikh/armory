@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T21:38:16Z"
 ---
 ## What it is
 Enables querying WSPR beacon data including live spots, band activity, top beacons, propagation paths, and SNR trends through any MCP-compatible AI assistant.

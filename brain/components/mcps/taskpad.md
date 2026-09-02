@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T19:01:57Z"
 ---
 ## What it is
 A Windows system-tray task manager with MCP server integration, enabling Claude Code, Claude Desktop, and claude.ai to read and write tasks via stdio or SSE.

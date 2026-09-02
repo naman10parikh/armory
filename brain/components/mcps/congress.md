@@ -8,10 +8,12 @@ source_url: https://github.com/amurshak/congressmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-27T01:21:11Z"
 ---
 ## What it is
 MCP server `Congress.gov`, catalogued on PulseMCP. Integrates with the Congress.gov API to provide access to US legislative data including bills, voting records, member activities, committee proceedings, and CRS reports through organized tools for policy analysis and government transparency research.

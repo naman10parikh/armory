@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:50:13Z"
 ---
 ## What it is
 MCP server `Pipeworx World Bank`, catalogued on PulseMCP. Wraps the World Bank Data API v2 for querying development indicators, country data, and economic statistics.

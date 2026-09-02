@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-27T14:12:32Z"
 ---
 ## What it is
 MCP server `Jensenify`, catalogued on PulseMCP. Injects 2.9M tokens of canonical Western literature into AI interactions to provide humanistic context for engineering decisions.

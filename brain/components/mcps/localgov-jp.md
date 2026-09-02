@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-11T03:39:52Z"
 ---
 ## What it is
 MCP server `LocalGov.jp`, catalogued on PulseMCP. Japan's comprehensive municipal subsidy database covering 20,000+ grants across 1,627 municipalities not available through the official J-Grants API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-05T20:23:20Z"
 ---
 ## What it is
 Enables management of VMware ESXi hosts and virtual machines through standardized MCP interfaces, supporting host operations, VM lifecycle, resource monitoring, and security management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T20:47:22Z"
 ---
 ## What it is
 MCP server to temporarily add a global Codex directive requiring Claude Code usage until a configured expiry date, with guardrails and cleanup.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T06:02:46Z"
 ---
 ## What it is
 On-chain Solana token safety MCP — screens SPL / Token-2022 tokens for rug-pull and honeypot patterns (mint/freeze authority, liquidity, holders, sellability), then executes MEV-protected swaps.

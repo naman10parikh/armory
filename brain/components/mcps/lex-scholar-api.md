@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T13:33:25Z"
 ---
 ## What it is
 Single-endpoint MCP server federating nine open-access legal scholarship indexes, enabling federated search, multi-jurisdiction comparison, and full-text retrieval via tools like search_legal_scholarship and compare_jurisdictions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T01:56:53Z"
 ---
 ## What it is
 Enables conversational low cycle fatigue analysis with standardized reduction, material constants fitting, and life predictions from strain-controlled test data.

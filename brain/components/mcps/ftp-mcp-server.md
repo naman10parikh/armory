@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T01:20:47Z"
 ---
 ## What it is
 Enables managing files across multiple FTP servers through a single MCP interface, supporting upload, listing, deletion, and public URL generation.

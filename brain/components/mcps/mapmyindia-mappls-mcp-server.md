@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:20:44Z"
 ---
 ## What it is
 Enables AI assistants to query geographic data, perform geocoding, get directions, calculate distance matrices, discover POIs, and look up place details across India using MapmyIndia (Mappls) REST APIs.

@@ -8,10 +8,12 @@ source_url: https://github.com/inventer-dev/mcp-internet-speed-test
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-03-09T03:28:52Z"
 ---
 ## What it is
 MCP server `Internet Speed Test`, catalogued on PulseMCP. Measures network performance metrics including download speed, upload speed, latency, and jitter through configurable test endpoints that adapt to different testing scenarios and environments.

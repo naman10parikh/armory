@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-11T07:05:13Z"
 ---
 ## What it is
 MCP server `Spotify`, catalogued on PulseMCP. Integrates with Spotify Web API for music search, playback control, and playlist management via OAuth 2.0 PKCE authentication.

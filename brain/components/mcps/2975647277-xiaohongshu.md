@@ -8,10 +8,12 @@ source_url: https://github.com/2975647277/xiaohongshu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T07:34:18Z"
 ---
 ## What it is
 MCP server `Xiaohongshu`, catalogued on PulseMCP. Automates content creation and publishing on Xiaohongshu (Little Red Book) including AI-generated posts and cover images.

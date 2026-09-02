@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-03-16T20:51:21Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for interacting with the DNSDumpster API, enabling AI assistants to perform detailed DNS reconnaissance through natural language requests.

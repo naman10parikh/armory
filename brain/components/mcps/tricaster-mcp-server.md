@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T23:36:59Z"
 ---
 ## What it is
 An MCP server that lets Claude control a Vizrt TriCaster via its HTTP API, enabling natural language control of sources, transitions, recording, streaming, audio, and macros.

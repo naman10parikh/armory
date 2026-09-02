@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-23T04:15:15Z"
 ---
 ## What it is
 MCP server `Android Debug Bridge (ADB)`, catalogued on PulseMCP. Integrates with Android Debug Bridge (ADB) to enable device management, app installation, file operations, and debugging tasks across Android devices and emulators through standard ADB commands.

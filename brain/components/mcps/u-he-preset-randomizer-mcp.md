@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-10T10:03:44Z"
 ---
 ## What it is
 Enables AI assistants to search, generate, and manipulate u-he synth presets through natural language, including browsing libraries, randomizing presets, and merging multiple presets.

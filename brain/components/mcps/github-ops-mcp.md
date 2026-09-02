@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T17:52:48Z"
 ---
 ## What it is
 An MCP server that provides operational tooling over the GitHub API — issue triage, PR review monitoring, repo health audits, and team access reviews.

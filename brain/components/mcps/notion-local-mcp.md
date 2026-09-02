@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T01:03:52Z"
 ---
 ## What it is
 Reads the local SQLite cache of the Notion desktop app to enable fast, offline search and retrieval of Notion pages from Claude.

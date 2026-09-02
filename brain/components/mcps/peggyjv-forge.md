@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-02-18T14:16:48Z"
 ---
 ## What it is
 MCP server `Forge (Ethereum Smart Contract Development)`, catalogued on PulseMCP. Rust-based interface for Ethereum smart contract development with Foundry, enabling file management, compilation, and simulation through a JSON-RPC API over Server-Sent Events.

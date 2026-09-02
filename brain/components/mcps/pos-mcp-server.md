@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T23:17:08Z"
 ---
 ## What it is
 An MCP server that lets restaurants operate their point-of-sale through an LLM agent — edit menus, 86 items, check sales, restock inventory, monitor voids, and more via twenty tools over both stdio and Streamable HTTP transports with per-request tenancy from API keys.

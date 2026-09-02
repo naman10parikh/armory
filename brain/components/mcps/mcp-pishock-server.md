@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-31T09:21:54Z"
 ---
 ## What it is
 Enables controlling PiShock devices (shock, vibrate, beep) via the MCP protocol with API key authentication.

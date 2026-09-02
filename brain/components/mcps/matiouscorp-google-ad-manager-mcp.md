@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
-stars: 17
+stars: 18
+forks: 10
+pushed_at: "2026-05-29T10:30:31Z"
 ---
 ## What it is
 Google Ad Manager API integration for managing campaigns, orders, line items, creatives, and advertisers with bulk upload support.

@@ -8,11 +8,13 @@ source_url: https://github.com/DebugBase/glance
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 152
+stars: 151
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 23
+pushed_at: "2026-04-16T13:41:39Z"
 ---
 ## What it is
 An MCP server that gives Claude Code real browser control for web automation, testing, and screenshots.

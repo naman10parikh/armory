@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:01:07Z"
 ---
 ## What it is
 Local MCP server for querying Polish socioeconomic statistics from the GUS Bank Danych Lokalnych (BDL), letting AI find variables and units and pull data.

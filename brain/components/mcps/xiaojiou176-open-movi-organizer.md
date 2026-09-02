@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T16:18:52Z"
 ---
 ## What it is
 MCP server `Movi Organizer`, catalogued on PulseMCP. Review-first local file organizer for photos, screenshots, documents, and audio with AI-assisted drafting.

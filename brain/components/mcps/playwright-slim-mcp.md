@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T17:35:20Z"
 ---
 ## What it is
 A proxy MCP server that summarizes Playwright accessibility snapshots using Claude Haiku, reducing context usage for efficient browser automation.

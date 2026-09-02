@@ -8,10 +8,12 @@ source_url: https://github.com/pgedge/pgedge-postgres-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 168
+stars: 221
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-08-26T09:14:11Z"
 ---
 ## What it is
 MCP server `pgEdge Postgres`, catalogued on PulseMCP. Enterprise PostgreSQL server with natural language queries, hybrid search using pgvector and BM25, and a web UI.

@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-25T14:35:14Z"
 ---
 ## What it is
 MCP server `Inspector APM`, catalogued on PulseMCP. Integrates with Inspector APM to provide direct access to production errors, transaction performance data, and detailed execution timelines for debugging and performance analysis.

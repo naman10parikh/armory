@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:35:31Z"
 ---
 ## What it is
 Enables LLMs to load tabular data from CSV/Excel/JSON, clean and analyze it, generate charts, and write a report with conclusions.

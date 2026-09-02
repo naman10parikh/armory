@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-15T23:58:14Z"
 ---
 ## What it is
 MCP server `Hex`, catalogued on PulseMCP. Integrates with the Hex API to enable retrieval of project details, management of project runs, and execution of Hex workflows for automated data analysis and report generation.

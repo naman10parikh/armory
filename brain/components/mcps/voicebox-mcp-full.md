@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T08:18:22Z"
 ---
 ## What it is
 Provides full control over the locally-hosted Voicebox TTS/voice-cloning app, exposing 102 tools for speech generation, voice cloning, audio project management, and system operations.

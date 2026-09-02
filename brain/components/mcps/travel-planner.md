@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-13T23:44:26Z"
 ---
 ## What it is
 Enables travel planning through natural language, providing weather forecasts, attraction search, itinerary generation, and distance calculations using free APIs.

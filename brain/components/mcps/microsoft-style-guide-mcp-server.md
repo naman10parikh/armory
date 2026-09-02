@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-21T16:20:23Z"
 ---
 ## What it is
 A professional MCP server for analyzing content against the official Microsoft Writing Style Guide, enabling style, grammar, terminology, and accessibility checks via AI tools like VS Code and GitHub Copilot.

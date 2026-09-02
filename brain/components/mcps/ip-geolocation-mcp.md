@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T07:53:24Z"
 ---
 ## What it is
 MCP server for IP geolocation lookups using ipinfo.io, with single, own, and batch queries.

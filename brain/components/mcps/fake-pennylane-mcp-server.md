@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T10:02:07Z"
 ---
 ## What it is
 A fake MCP server that emulates the Pennylane MCP experience for local development, testing, demos, and CI pipelines, providing deterministic fixtures and authentication modes without needing a real Pennylane account.

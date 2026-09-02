@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T08:58:39Z"
 ---
 ## What it is
 This MCP server enables any MCP client to perform web searches over HTTP using just an endpoint URL and API key, abstracting away AWS SigV4 signing and Bedrock AgentCore protocol translation entirely server-side.

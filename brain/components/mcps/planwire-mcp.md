@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T11:49:01Z"
 ---
 ## What it is
 UK planning application data for AI agents. Search, look up, and geo-query every UK planning application from Claude, Cursor, or any MCP client — conversationally.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T03:38:57Z"
 ---
 ## What it is
 Bolor Brain MCP gives Claude Code structured reasoning, persistent memory, and learning through 11 MCP tools, enabling complex problem-solving, knowledge storage, and experience-based recall.

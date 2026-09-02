@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T23:48:04Z"
 ---
 ## What it is
 Persistent semantic memory MCP server for AI agents with hybrid search, LLM scoring, and decay engine, fully local.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:28:37Z"
 ---
 ## What it is
 An MCP server that analyzes SQL schemas, generates realistic test data, benchmarks queries, and provides optimization recommendations to improve database performance.

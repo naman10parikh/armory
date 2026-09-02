@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T11:37:26Z"
 ---
 ## What it is
 Experimental MCP server built with NestJS and LangGraph, enabling tool execution and agent workflows via stdio transport. Supports OpenAI and Ollama models for flexible agent orchestration.

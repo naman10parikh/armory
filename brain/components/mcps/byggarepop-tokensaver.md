@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-07T11:55:51Z"
 ---
 ## What it is
 MCP server `Tokensaver`, catalogued on PulseMCP. Reduces token usage when working with AI coding assistants by serving only relevant file contents.

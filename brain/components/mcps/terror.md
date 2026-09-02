@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T23:52:38Z"
 ---
 ## What it is
 Terror is an agentic Terraform replacement that lets you provision and manage cloud infrastructure through natural language, using a stateless, plan-then-apply architecture with built-in rollback.

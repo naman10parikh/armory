@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-21T17:42:06Z"
 ---
 ## What it is
 MCP server `Qiniu Cloud Storage`, catalogued on PulseMCP. Provides a bridge to Qiniu Cloud Storage services for uploading files and retrieving public URLs through authenticated API calls

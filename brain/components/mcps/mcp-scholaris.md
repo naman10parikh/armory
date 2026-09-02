@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T19:45:43Z"
 ---
 ## What it is
 Searches and retrieves academic papers from open access sources like arXiv, Semantic Scholar, and PubMed, with full text access via arXiv PDFs, PubMed Central, and Unpaywall.

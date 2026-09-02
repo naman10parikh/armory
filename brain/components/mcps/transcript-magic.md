@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T23:58:59Z"
 ---
 ## What it is
 MCP server `Transcript Magic`, catalogued on PulseMCP. Generates transcripts from YouTube, TikTok, Instagram, and Facebook videos via hosted MCP endpoints.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:09Z"
 ---
 ## What it is
 MCP server `Binance (by Junct)`, catalogued on PulseMCP. Hosted proxy for Binance exchange APIs with 340 auto-generated tools for trading and market data.

@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-05-20T19:04:32Z"
 ---
 ## What it is
 MCP server `Crypto Pro APIs (DefiLlama, CoinGecko, Arkham)`, catalogued on PulseMCP. Integrates with professional cryptocurrency data APIs from DefiLlama Pro, CoinGecko Pro, and Arkham Intelligence to provide real-time token prices, market data, blockchain analytics, and on-chain intelligence for crypto researchers and traders.

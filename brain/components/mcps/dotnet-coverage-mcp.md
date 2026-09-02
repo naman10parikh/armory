@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T20:55:04Z"
 ---
 ## What it is
 An MCP server that gives AI assistants direct access to .NET test-coverage tooling, enabling them to run tests, parse Cobertura XML, identify uncovered branches, diff coverage between runs, and append test code.

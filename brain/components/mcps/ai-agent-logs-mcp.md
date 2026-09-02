@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T21:16:48Z"
 ---
 ## What it is
 Enables AI agents to manage prompts and sessions via the ai-agent-logs API, with tools for health checks, login, listing/creating prompts, and retrieving sessions.

@@ -8,10 +8,12 @@ source_url: https://github.com/qualixar/slm-mcp-hub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-31T05:45:25Z"
 ---
 ## What it is
 MCP server `SLM Hub`, catalogued on PulseMCP. Federated MCP gateway that consolidates multiple MCP servers into a single local HTTP endpoint with intelligent caching, cost tracking, and cross-session learning.

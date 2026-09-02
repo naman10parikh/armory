@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-24T22:10:30Z"
 ---
 ## What it is
 Self-hosted MCP server for indexing and searching code repositories via hybrid search and deep code understanding.

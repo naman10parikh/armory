@@ -8,10 +8,12 @@ source_url: https://github.com/bolnet/attestor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-30T15:47:19Z"
 ---
 ## What it is
 MCP server `Memwright`, catalogued on PulseMCP. Embedded memory for AI agents with SQLite, pgvector semantic search, and Neo4j graph traversal fused via Reciprocal Rank Fusion.

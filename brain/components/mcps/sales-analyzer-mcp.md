@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T01:44:53Z"
 ---
 ## What it is
 Sales anomaly detection for a sample café dataset. Enables analyzing weekly sales, product history, and detecting anomalies like closures or pricing glitches.

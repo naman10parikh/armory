@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T15:09:50Z"
 ---
 ## What it is
 Enables tracking and monitoring of Capillus Bluetooth caps for treatment sessions, adherence, and device status using local BLE data, without requiring cloud APIs.

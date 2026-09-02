@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T04:14:18Z"
 ---
 ## What it is
 MCP server for Facebook Pages organic analytics and management using Meta Graph API v25.0. Enables AI assistants to read page insights, posts, comments, and publish content via natural language.

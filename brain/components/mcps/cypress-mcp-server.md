@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-14T21:42:57Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that integrates Cypress with Cursor AI, enabling AI-powered test automation, debugging, and script generation for Cypress tests.

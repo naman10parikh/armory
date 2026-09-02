@@ -8,10 +8,12 @@ source_url: https://github.com/theyahia/qsearch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-09-01T17:24:14Z"
 ---
 ## What it is
 MCP server `QSearch`, catalogued on PulseMCP. Anti-hallucination web search providing full content retrieval, multi-engine attribution, and persistent local corpus building.

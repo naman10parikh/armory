@@ -8,10 +8,12 @@ source_url: https://github.com/gefsikatsinelou/metasearchmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-02T01:24:10Z"
 ---
 ## What it is
 MCP server `Metasearch`, catalogued on PulseMCP. Unified search across 40+ providers including web, academic, and code search engines.

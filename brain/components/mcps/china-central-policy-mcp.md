@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-19T09:01:36Z"
 ---
 ## What it is
 Facilitates retrieval and parsing of Chinese central government policies from gov.cn, offering structured search results and full-text extraction.

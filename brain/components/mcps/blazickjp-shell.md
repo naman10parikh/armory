@@ -8,10 +8,12 @@ source_url: https://github.com/blazickjp/shell-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-08-19T03:12:54Z"
 ---
 ## What it is
 MCP server `Shell`, catalogued on PulseMCP. Integrates with the local shell environment to enable execution of system commands, file operations, and retrieval of system information for task automation and system management.

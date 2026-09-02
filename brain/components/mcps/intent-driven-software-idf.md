@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T09:06:20Z"
 ---
 ## What it is
 MCP server `IDF`, catalogued on PulseMCP. Intent-driven framework that turns an IDF domain model into an MCP server with invariants and role scopes enforced on every tool call.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T09:52:47Z"
 ---
 ## What it is
 A minimal MCP server that stores JSON documents in TinyDB, exposing tools to insert, retrieve, and delete all data.

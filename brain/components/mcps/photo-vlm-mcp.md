@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T09:59:45Z"
 ---
 ## What it is
 A local Ollama-backed MCP server that gives coding assistants a portable photo-understanding toolset including photo analysis, OCR, scene inspection, comparison, and metadata extraction.

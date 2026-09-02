@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T09:06:37Z"
 ---
 ## What it is
 Partuno is a local-first MCP server for electronic component research, BOM analysis, and sourcing comparisons across DigiKey and Mouser, with evidence-based recommendations and controlled distributor workflows.

@@ -8,11 +8,13 @@ source_url: https://github.com/HealthyApps/health-auto-export-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 62
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-05-04T14:27:19Z"
 ---
 ## What it is
 Enables querying health data from the Health Auto Export app on iPhone/iPad via MCP, allowing LLMs like Claude to access and analyze personal health metrics.

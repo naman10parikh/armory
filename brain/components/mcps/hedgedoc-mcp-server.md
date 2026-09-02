@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T21:39:16Z"
 ---
 ## What it is
 Enables creating, reading, and managing HedgeDoc 1.x notes and Mermaid diagrams from AI agents via the MCP protocol.

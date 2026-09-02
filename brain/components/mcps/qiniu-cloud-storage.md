@@ -8,10 +8,12 @@ source_url: https://github.com/qiniu/qiniu-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-11-27T02:08:57Z"
 ---
 ## What it is
 MCP server `Qiniu Cloud Storage`, catalogued on PulseMCP. Integrates with Qiniu Cloud to provide object storage management, CDN operations, and image processing capabilities for applications that need to handle cloud-stored assets or perform on-the-fly image transformations

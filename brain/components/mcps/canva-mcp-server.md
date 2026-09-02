@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T23:25:34Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Canva integration. Connect Claude Code or any MCP-compatible AI client to your Canva account to search designs, generate AI designs, edit content, manage folders, and collaborate through comments.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-29T12:34:37Z"
 ---
 ## What it is
 MCP server for Krea.ai enabling AI image and video generation using models like Flux, Hailuo, Runway, Kling, and others via natural language prompts.

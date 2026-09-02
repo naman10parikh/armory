@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T01:19:47Z"
 ---
 ## What it is
 Enables voice-controlled, confirmed actions on Android notifications via a bridge to Convex. Exposes eleven tools with no immediate-send operation, requiring explicit confirmation for reply, dismiss, and snooze.

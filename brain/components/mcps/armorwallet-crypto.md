@@ -8,10 +8,12 @@ source_url: https://github.com/armorwallet/armor-crypto-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 182
+stars: 178
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2025-07-29T15:53:53Z"
 ---
 ## What it is
 MCP server `Armor Wallet`, catalogued on PulseMCP. Enables direct blockchain operations, crypto trading, and wallet management through the Armor Wallet API with JWT authentication and detailed logging for portfolio monitoring and trading strategy execution.

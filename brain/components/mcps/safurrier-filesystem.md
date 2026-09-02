@@ -8,10 +8,12 @@ source_url: https://github.com/safurrier/mcp-filesystem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-08-12T23:26:57Z"
 ---
 ## What it is
 MCP server `Filesystem`, catalogued on PulseMCP. Provides secure, token-efficient access to local filesystems with advanced capabilities including line-targeted reading/editing, powerful search through ripgrep, and intelligent context management for large files and codebases.

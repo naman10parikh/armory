@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-21T03:55:01Z"
 ---
 ## What it is
 MCP server `Home Assistant`, catalogued on PulseMCP. Bridges Home Assistant with smart home devices, enabling status checks, entity control, and service calls through natural language interactions.

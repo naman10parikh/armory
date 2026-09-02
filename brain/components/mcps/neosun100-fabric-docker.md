@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-03T15:03:50Z"
 ---
 ## What it is
 MCP server `Fabric Docker`, catalogued on PulseMCP. Containerized Fabric deployment with MCP server, REST API, and web UI for executing crowdsourced AI prompt patterns across multiple providers.

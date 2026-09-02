@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-02T10:18:17Z"
 ---
 ## What it is
 MCP server `Browser Scraping & Search`, catalogued on PulseMCP. Enables web scraping, internet searching, and local file interactions through Playwright, Firecrawl, and Tavily integrations for comprehensive content retrieval and manipulation.

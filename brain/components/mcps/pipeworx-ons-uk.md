@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-02T17:26:14Z"
 ---
 ## What it is
 MCP server `UK Office for National Statistics`, catalogued on PulseMCP. Queries the UK Office for National Statistics dataset catalogue and Beta JSON API.

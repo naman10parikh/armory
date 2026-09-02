@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T18:54:30Z"
 ---
 ## What it is
 A remote MCP server that exposes the ServiceTitan API as tools, enabling Claude and other clients to manage customers, jobs, pricebook, invoicing, and more with write safety and built-in observability.

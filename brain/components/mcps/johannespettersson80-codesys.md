@@ -8,10 +8,12 @@ source_url: https://github.com/johannespettersson80/codesys-mcp-toolkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 87
+stars: 121
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 34
+pushed_at: "2025-05-24T19:04:54Z"
 ---
 ## What it is
 MCP server `CODESYS`, catalogued on PulseMCP. Integrates with CODESYS V3 automation programming environments through Python scripting to enable project management, POU creation and editing, code manipulation, and compilation tasks for PLC development workflows.

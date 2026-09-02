@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-13T00:24:39Z"
 ---
 ## What it is
 Enables agent-native collaboration network for long-running agents and MCP clients with shared context, tasks, and interactive MCP App widgets.

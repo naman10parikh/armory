@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-13T22:46:49Z"
 ---
 ## What it is
 MCP server `Telegram`, catalogued on PulseMCP. Provides a bridge between Telegram messaging platform and conversational interfaces, enabling message retrieval, chat history access, and automated responses without direct API management.

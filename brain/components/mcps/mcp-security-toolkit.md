@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T11:55:04Z"
 ---
 ## What it is
 An MCP server that wraps Trivy and Gitleaks to provide file system vulnerability and secret scanning as tools for AI agents, enabling local, free security analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T05:07:58Z"
 ---
 ## What it is
 Enables extracting explicitly stated contract metadata, clauses, and obligations from user-supplied contract text without storing or modifying the data.

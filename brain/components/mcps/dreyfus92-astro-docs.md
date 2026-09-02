@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-23T06:10:21Z"
 ---
 ## What it is
 MCP server `Astro Docs`, catalogued on PulseMCP. Provides direct access to Astro documentation through searchable, categorized resources and curated prompts for helping developers with component architecture, content management, and deployment tasks.

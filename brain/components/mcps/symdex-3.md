@@ -8,11 +8,13 @@ source_url: https://github.com/symdex-100/symdex
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 953
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-03-26T08:40:02Z"
 ---
 ## What it is
 Index and search codebases using structured schemas for deep code analysis. Audit specific domains or security-related functions to ensure code quality and safety. Explore complex codebases with high-level overviews to understand structure and patterns quickly.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T18:30:37Z"
 ---
 ## What it is
 Pay-per-call web search for AI agents, settled in USDC on Base via the x402 protocol. No API key or subscription required; users fund a wallet and get a web_search tool.

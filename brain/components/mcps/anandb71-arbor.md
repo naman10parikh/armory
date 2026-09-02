@@ -8,10 +8,12 @@ source_url: https://github.com/anandb71/arbor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 118
+stars: 156
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-08-14T04:18:55Z"
 ---
 ## What it is
 MCP server `Arbor`, catalogued on PulseMCP. Graph-native code intelligence that builds complete dependency graphs for impact analysis and code understanding.

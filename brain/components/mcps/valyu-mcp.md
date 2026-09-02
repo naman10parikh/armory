@@ -8,11 +8,13 @@ source_url: https://github.com/valyuAI/valyu-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-04-04T10:30:18Z"
 ---
 ## What it is
 Enables AI models to retrieve high-quality context from Valyu's API, including search over Wikipedia, arXiv papers, and the web.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T01:31:16Z"
 ---
 ## What it is
 MCP server `Bug Bounty Tools`, catalogued on PulseMCP. Provides bug bounty hunting tools including subdomain enumeration, vulnerability scanning, and recon automation.

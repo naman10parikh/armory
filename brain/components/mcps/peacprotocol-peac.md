@@ -8,10 +8,12 @@ source_url: https://github.com/peacprotocol/peac
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-22T23:52:04Z"
 ---
 ## What it is
 MCP server `PEAC Protocol`, catalogued on PulseMCP. Privacy-enhanced authentication and credential management protocol.

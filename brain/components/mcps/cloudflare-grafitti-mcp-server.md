@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-15T21:56:54Z"
 ---
 ## What it is
 A serverless proxy for the Graphiti MCP server, enabling AI agents to maintain memory and context through Neo4j knowledge graphs, deployed on Cloudflare Workers.

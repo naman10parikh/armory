@@ -8,10 +8,12 @@ source_url: https://github.com/abdelhakrazi/trustmrr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-04T19:03:45Z"
 ---
 ## What it is
 MCP server `TrustMRR`, catalogued on PulseMCP. Provides access to the TrustMRR startup marketplace API for browsing, filtering, and analyzing SaaS startups available for acquisition.

@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-18T07:00:33Z"
 ---
 ## What it is
 MCP server `Repository to LLM Context`, catalogued on PulseMCP. Transform code repositories into LLM-friendly formats.

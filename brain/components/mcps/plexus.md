@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-27T11:37:06Z"
 ---
 ## What it is
 MCP server `Plexus`, catalogued on PulseMCP. Persistent typed knowledge graph for AI agents with full-text search, entity relationships, and temporal history.

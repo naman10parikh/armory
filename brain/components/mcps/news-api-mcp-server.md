@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-30T18:41:42Z"
 ---
 ## What it is
 Enables AI assistants to search news articles, get top headlines, and browse sources via the NewsAPI.org service.

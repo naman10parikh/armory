@@ -12,6 +12,8 @@ stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-07-18T15:20:26Z"
 ---
 ## What it is
 MCP server `Random Number Generator`, catalogued on PulseMCP. Provides random number generation utilities including pseudorandom and cryptographically secure operations for integers, floats, weighted selections, list shuffling, and secure token generation.

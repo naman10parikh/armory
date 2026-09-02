@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-25T23:56:27Z"
 ---
 ## What it is
 Enables querying sensors, devices, groups, channels, historical data, and system status from a PRTG Network Monitor instance via the classic PRTG HTTP API.

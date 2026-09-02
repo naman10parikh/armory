@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T11:38:24Z"
 ---
 ## What it is
 A step-by-step workshop for building an MCP server that provides weather tools to AI agents, enabling secure API key usage.

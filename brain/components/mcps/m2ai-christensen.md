@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-19T16:19:51Z"
 ---
 ## What it is
 MCP server `Christensen Strategy Advisor`, catalogued on PulseMCP. Clayton Christensen persona agent for strategic advisory using disruption theory.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T09:14:11Z"
 ---
 ## What it is
 Remote MCP server allowing Claude to interact with the Upvote.club API through 7 tools, supporting per-user authentication via X-API-Key header.

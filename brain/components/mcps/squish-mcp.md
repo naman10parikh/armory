@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-05-19T17:45:38Z"
 ---
 ## What it is
 Enables AI agents to run and create Squish test scripts and test suites and analyze the results.

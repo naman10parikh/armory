@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-06T15:52:48Z"
 ---
 ## What it is
 MCP server `CSV and Excel Processor`, catalogued on PulseMCP. Integrates with Spring Boot to process CSV and Excel files, enabling data extraction and manipulation for analysis, reporting, or system integration tasks.

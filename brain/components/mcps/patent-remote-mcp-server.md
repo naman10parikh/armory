@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T07:47:29Z"
 ---
 ## What it is
 Enables Claude to search and retrieve patent data from EPO OPS and Google Patents via natural language, supporting patent search, details, claims, and family information with OAuth authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T16:15:06Z"
 ---
 ## What it is
 A local MCP server providing web search, page extraction, and safe browser automation tools for Hermes, Claude Code, and other MCP clients.

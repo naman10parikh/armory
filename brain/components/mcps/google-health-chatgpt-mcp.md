@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T01:24:56Z"
 ---
 ## What it is
 Self-hosted MCP server that provides read-only access to Google Health API v4, enabling analysis of personal health data via OpenAI Responses API or ChatGPT.

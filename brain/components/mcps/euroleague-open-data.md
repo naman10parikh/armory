@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T19:59:59Z"
 ---
 ## What it is
 An MCP server that lets an LLM query a DuckDB warehouse of EuroLeague and EuroCup basketball data in natural language, offering tools for player and team stats, shot charts, boxscores, and fantasy draft analysis without contacting upstream APIs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T14:09:48Z"
 ---
 ## What it is
 Enables MCP clients to connect to miyoushe and HoYoLAB accounts with QR login, encrypted credential storage, multi-account and game role discovery, daily notes for Star Rail, Genshin Impact, and Zenless Zone Zero, plus stamina alert checks with deduplication.

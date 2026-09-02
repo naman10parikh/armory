@@ -8,10 +8,12 @@ source_url: https://github.com/qbt-labs/openmm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-26T20:04:56Z"
 ---
 ## What it is
 MCP server `OpenMM`, catalogued on PulseMCP. AI-native crypto trading server providing market data, orders, grid strategies, and DeFi integration across multiple exchanges.

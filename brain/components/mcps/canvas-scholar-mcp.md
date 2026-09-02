@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:38:27Z"
 ---
 ## What it is
 Enables students to ask an AI assistant about their Canvas LMS data, including assignments, grades, missing submissions, discussions, and upcoming items, while keeping access read-only and private.

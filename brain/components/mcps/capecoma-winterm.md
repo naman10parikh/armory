@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-02-24T19:06:03Z"
 ---
 ## What it is
 MCP server `Windows Terminal`, catalogued on PulseMCP. Enables interaction with the Windows command line interface, allowing for writing commands, reading terminal output, and sending control characters for automation tasks and integrations.

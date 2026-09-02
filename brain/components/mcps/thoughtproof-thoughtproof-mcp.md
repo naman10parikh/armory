@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 0
+pushed_at: "2026-08-18T21:59:06Z"
 ---
 ## What it is
 Adversarial multi-model reasoning verification for AI agents before trades execute. Claude, Grok, and DeepSeek challenge each decision — returns ALLOW or HOLD with JWKS-signed attestation. x402-gated on Base (USDC). Part of the 4-issuer Combined Attestation Standard with InsumerAPI, RNWY, and Maiat.

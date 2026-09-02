@@ -8,10 +8,12 @@ source_url: https://github.com/forge-space/branding-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-20T20:26:19Z"
 ---
 ## What it is
 MCP server `Forge Space Branding`, catalogued on PulseMCP. AI-powered brand identity generation with design tokens, color systems, and multi-format export.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T19:30:24Z"
 ---
 ## What it is
 Enables AI agents to query Fangorn subgraph schemas and conformant data from published data sources via the Model Context Protocol.

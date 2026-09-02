@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T05:37:48Z"
 ---
 ## What it is
 MCP server that lets an AI agent delegate tasks to Claude Code on a remote Mac via SSH over Tailscale. Persistent sessions, 200k context, full Mac filesystem access.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-07T14:16:38Z"
 ---
 ## What it is
 A Model Control Protocol (MCP) server that allows Claude to communicate with locally running LLM models via LM Studio.

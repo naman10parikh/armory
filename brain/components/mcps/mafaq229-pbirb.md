@@ -8,10 +8,12 @@ source_url: https://github.com/mafaq229/pbirb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-20T09:18:28Z"
 ---
 ## What it is
 MCP server `Power BI Report Builder`, catalogued on PulseMCP. Edits Power BI paginated reports (.rdl files) via atomic MCP tools for charts, datasets, layout, and parameters.

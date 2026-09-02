@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T15:34:44Z"
 ---
 ## What it is
 Provides utility tools for temperature conversion, percentage calculation, and news fetching from NewsAPI.

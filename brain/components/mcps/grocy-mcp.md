@@ -8,11 +8,13 @@ source_url: https://github.com/rusty4444/grocy-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T16:16:01Z"
 ---
 ## What it is
 Enables AI assistants to manage household operations including groceries, inventory, chores, recipes, and shopping lists through the Grocy self-hosted ERP system.

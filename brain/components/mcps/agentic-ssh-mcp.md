@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T01:57:32Z"
 ---
 ## What it is
 Enables secure SSH command execution and log retrieval with intelligent summarization using local LLM (Ollama) and Model Context Protocol (MCP) standards.

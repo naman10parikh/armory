@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-21T09:19:50Z"
 ---
 ## What it is
 MCP server `Codex JetBrains`, catalogued on PulseMCP. MCP server bridging OpenAI Codex and JetBrains IDEs, enabling AI-assisted code generation within JetBrains development environments.

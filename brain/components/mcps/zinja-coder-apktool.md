@@ -8,10 +8,12 @@ source_url: https://github.com/zinja-coder/apktool-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 451
+stars: 643
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 67
+pushed_at: "2026-07-02T14:20:56Z"
 ---
 ## What it is
 MCP server `APKTool`, catalogued on PulseMCP. Provides a bridge to the APKTool utility for analyzing and modifying Android applications, enabling decoding, editing, searching, rebuilding, and signing APK files for reverse engineering and security analysis.

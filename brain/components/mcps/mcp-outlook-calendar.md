@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T23:04:47Z"
 ---
 ## What it is
 Enables interaction with Outlook / Microsoft 365 calendar, allowing users to list events, get event details, find meeting times, and access calendar and profile information.

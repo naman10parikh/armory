@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T04:47:25Z"
 ---
 ## What it is
 Enables management of Zadig CI/CD workflows, builds, services, environments, and webhooks through the Zadig OpenAPI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-26T18:14:41Z"
 ---
 ## What it is
 Enables AI assistants to save and search bookmarks with semantic search using OpenAI, allowing storage of URLs with metadata and intelligent retrieval across collections.

@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-23T11:07:00Z"
 ---
 ## What it is
 MCP server `JSON Skeleton`, catalogued on PulseMCP. Creates lightweight skeleton representations of large JSON files by truncating strings, deduplicating arrays, and optionally showing only data types to dramatically reduce file size while preserving complete structure for understanding schemas and API responses.

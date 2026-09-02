@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T06:41:10Z"
 ---
 ## What it is
 Provides AI coding agents with persistent architectural memory of codebases, enabling impact analysis, test generation, and code generation with reduced token usage.

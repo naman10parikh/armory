@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T22:38:49Z"
 ---
 ## What it is
 Enables AI assistants to search JLCPCB's 450K+ electronic component catalog with real-time stock levels and pricing, supporting keyword search, filtering, and detailed component information.

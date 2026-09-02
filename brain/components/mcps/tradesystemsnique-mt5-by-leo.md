@@ -8,10 +8,12 @@ source_url: https://github.com/tradesystemsnique/fullmt5mcpbyleo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-28T17:44:09Z"
 ---
 ## What it is
 MCP server `MT5 by Leo`, catalogued on PulseMCP. Accesses MetaTrader 5 trades, logs, and compilation functions via a full MCP server integration.

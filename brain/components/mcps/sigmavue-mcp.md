@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T19:33:14Z"
 ---
 ## What it is
 MCP server for controlling SigmaVue trading accounts from the terminal or MCP-speaking assistants. Provides tools for account status, journal, portfolio, simulated trade execution, and copy-trading group management.

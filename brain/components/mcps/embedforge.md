@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T02:52:02Z"
 ---
 ## What it is
 Enables AI-driven embedded development: generate, build, flash, and debug firmware using natural language commands through MCP.

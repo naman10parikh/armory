@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-16T08:56:45Z"
 ---
 ## What it is
 MCP server `Alephant`, catalogued on PulseMCP. AI cost control and BYO-key routing across 50+ LLM providers and 320+ models.

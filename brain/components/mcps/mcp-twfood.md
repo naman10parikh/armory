@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T17:13:23Z"
 ---
 ## What it is
 MCP server for Taiwan's agricultural wholesale market real-time price data, providing 6 tools to search products and query trade data at daily, weekly, monthly, yearly granularities, plus cross-market comparisons.

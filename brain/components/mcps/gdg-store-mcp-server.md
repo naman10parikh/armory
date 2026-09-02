@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T20:43:32Z"
 ---
 ## What it is
 MCP server for the fictional GDG Store, providing tools, resources, and prompts to interact with the store's REST API and enable AI assistants to access product data.

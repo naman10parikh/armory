@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-05T01:40:11Z"
 ---
 ## What it is
 Provides real-time stock data, historical analysis, and stock comparisons using the Yahoo Finance API.

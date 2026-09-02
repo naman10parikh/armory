@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:16:26Z"
 ---
 ## What it is
 Provides weather, UV, sea state, and earthquake data from IPMA Portugal through an MCP gateway, enabling natural language queries for Portuguese meteorological and seismic information.

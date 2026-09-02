@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T18:50:03Z"
 ---
 ## What it is
 Enables AI assistants to securely read, search, draft, and send Outlook emails, manage calendar events, and access mailbox folders through a local MAPI connection to Windows Outlook, with human-in-the-loop safeguards.

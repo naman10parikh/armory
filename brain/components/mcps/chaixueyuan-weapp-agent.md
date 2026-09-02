@@ -8,10 +8,12 @@ source_url: https://github.com/chaixueyuan/weapp-agent-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-01T08:00:15Z"
 ---
 ## What it is
 MCP server `WeChat Mini-Program Agent`, catalogued on PulseMCP. Automate and test WeChat Mini Programs via DevTools with navigation, screenshots, element interaction, and DOM inspection.

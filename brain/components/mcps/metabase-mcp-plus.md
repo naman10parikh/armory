@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T01:45:58Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to query databases, execute SQL, and manage Metabase resources like dashboards, cards, and collections through natural language.

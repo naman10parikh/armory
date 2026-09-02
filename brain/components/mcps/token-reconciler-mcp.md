@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:24:29Z"
 ---
 ## What it is
 Enables AI agents to compare design tokens from multiple sources, retrieve prior reconciliation runs, and get detailed per-conflict breakdowns with confidence factors and alias chains.

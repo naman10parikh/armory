@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T05:24:27Z"
 ---
 ## What it is
 Enables code analysis of JavaScript, TypeScript, TSX, Python, and Rust files using Tree-sitter, providing symbol listing, definition/reference lookup, AST queries, LSP-style features, and SQLite indexing for efficient cross-file searches.

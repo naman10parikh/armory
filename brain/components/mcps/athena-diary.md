@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T21:38:57Z"
 ---
 ## What it is
 Provides a SQLite-backed off-context diary for Letta agents with MCP tools for journaling and retrieval, keeping core memory uncluttered. Supports embedding summaries and FTS fallback for semantic search.

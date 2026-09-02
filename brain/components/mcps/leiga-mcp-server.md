@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-22T08:50:44Z"
 ---
 ## What it is
 Enables interaction with Leiga issue tracking system through MCP, allowing searching, creating, updating issues, and managing projects.

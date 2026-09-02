@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T16:20:00Z"
 ---
 ## What it is
 MCP server for reading Excel files (.xlsx, .xls) without requiring an API key. It returns row/column counts, column names, and a preview of the first five rows via the read_excel tool.

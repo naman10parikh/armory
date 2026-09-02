@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T15:25:46Z"
 ---
 ## What it is
 An MCP server for logging time entries locally and synchronizing them with OpenProject, enabling natural language time tracking and upload to OpenProject.

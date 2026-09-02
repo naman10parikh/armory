@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T22:41:09Z"
 ---
 ## What it is
 Provides agent-readiness audits of public websites via Cloudflare's scanner, enabling users to run scans, save reports, and enforce safety boundaries from natural language.

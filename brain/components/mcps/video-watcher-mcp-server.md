@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T00:16:10Z"
 ---
 ## What it is
 MCP server exposing claude-video functionality for claude.ai web UI via HTTP+SSE, enabling video watching and analysis from claude.ai.

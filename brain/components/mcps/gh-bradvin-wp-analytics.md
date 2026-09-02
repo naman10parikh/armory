@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-12T10:35:26Z"
 ---
 ## What it is
 MCP server `WP Analytics`, catalogued on PulseMCP. WordPress plugin exposing Google Search Console and Google Analytics 4 data through a REST endpoint.

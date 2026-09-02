@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:34:55Z"
 ---
 ## What it is
 Read-only bridge that lets DeepSeek Harness audit Baidu Netdisk directories via official MCP, blocking downloads and writes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T09:54:24Z"
 ---
 ## What it is
 Gorgon Scout is a Windows web-application and API security scanner (DAST). This connector exposes it as MCP tools, so your AI assistant can record a target you are authorised to test, run the scan, stream findings, and produce a report. Capture needs no proxy or certificate setup, and it intercepts 

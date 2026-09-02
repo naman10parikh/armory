@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T13:30:38Z"
 ---
 ## What it is
 An MCP server delivering Alberta tax accounting and law expertise, with 47 tools across 10 domains including corporate tax, GST/HST, payroll, and a self-learning layer for dynamic rate and rule updates.

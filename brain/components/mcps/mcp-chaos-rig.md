@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T11:12:43Z"
 ---
 ## What it is
 A local MCP server that breaks on demand, allowing you to test your client against auth failures, disappearing tools, flaky responses, and token expiry from a web UI.

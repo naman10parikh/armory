@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-17T20:15:19Z"
 ---
 ## What it is
 MCP server `RunwayML + Luma AI`, catalogued on PulseMCP. Integrates with RunwayML and Luma AI to generate, manage, and enhance videos and images with features like text-to-video conversion, image animation, and content upscaling through asynchronous progress tracking.

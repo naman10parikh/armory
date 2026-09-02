@@ -8,10 +8,12 @@ source_url: https://github.com/henryhawke/mcp-titan
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 89
+stars: 91
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-06-25T14:27:22Z"
 ---
 ## What it is
 MCP server `Titan Memory`, catalogued on PulseMCP. Integrates neural network-based memory encoding for enhanced long-term information storage and contextually-aware interactions across multiple conversations.

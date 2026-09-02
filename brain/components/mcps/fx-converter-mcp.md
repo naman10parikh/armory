@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T13:54:06Z"
 ---
 ## What it is
 Enables currency conversion and exchange rate lookups using real ECB reference rates, free and without an API key. Supports natural language queries like 'convert 100 USD to EUR' or 'what's the exchange rate between GBP and JPY?'.

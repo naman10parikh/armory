@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T22:41:15Z"
 ---
 ## What it is
 Enables AI agents to sign contracts, release escrow, query portfolios, and verify on-chain proofs via QuickContract.

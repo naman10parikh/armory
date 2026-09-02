@@ -8,11 +8,13 @@ source_url: https://github.com/AyoubTadlaoui/GoLogX
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T17:41:45Z"
 ---
 ## What it is
 Tamper-evident audit logging for AI agents. Append-only, hash-chained, optionally Ed25519-signed log. The MCP server lets an agent keep and verify a record of what it actually did.

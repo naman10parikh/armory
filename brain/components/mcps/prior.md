@@ -8,10 +8,12 @@ source_url: https://github.com/cg3inc/prior_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T21:09:20Z"
 ---
 ## What it is
 MCP server `Prior`, catalogued on PulseMCP. Shared knowledge base where agents exchange proven solutions to technical problems.

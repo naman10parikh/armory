@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T11:44:50Z"
 ---
 ## What it is
 Open-source web scraping MCP server with anti-bot bypass, enabling AI models to scrape, crawl, search, and extract data from any website without API keys or limits.

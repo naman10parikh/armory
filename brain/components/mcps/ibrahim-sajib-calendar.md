@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-24T17:29:36Z"
 ---
 ## What it is
 MCP server `Ibrahim's Calendar (Google Calendar)`, catalogued on PulseMCP. Integrates with Google Calendar API to retrieve events by date alongside basic utility tools for arithmetic and greeting generation.

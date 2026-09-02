@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-28T09:33:06Z"
 ---
 ## What it is
 Enables AI to control a computer through mouse, keyboard, and screen capture tools, with support for local native and Docker sandboxed environments.

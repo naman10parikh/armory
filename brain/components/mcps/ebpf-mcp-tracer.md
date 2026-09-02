@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T10:39:12Z"
 ---
 ## What it is
 Enables LLMs to safely write and run bpftrace scripts against the Linux kernel for observability, with explicit probe allowlists and execution timeout.

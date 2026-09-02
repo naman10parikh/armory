@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T10:14:45Z"
 ---
 ## What it is
 An MCP server that gives AI assistants safe, read-only visibility into a host: CPU, memory, disk, processes, network, ports, and logs.

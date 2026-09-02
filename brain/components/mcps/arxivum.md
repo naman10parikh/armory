@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:34:45Z"
 ---
 ## What it is
 An MCP server that enables searching arXiv, importing papers, enriching with citation data, generating summaries and research ideas, and querying a local library using local LLMs and embeddings.

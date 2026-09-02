@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:42Z"
 ---
 ## What it is
 MCP server to query official court certificates from TJSC (Brazil) via read-only API with prepaid per-query credits.

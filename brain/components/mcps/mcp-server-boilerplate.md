@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2025-08-28T17:35:21Z"
 ---
 ## What it is
 Provides a simple addition tool and an API key retrieval tool, serving as a boilerplate for building MCP servers with Node.js.

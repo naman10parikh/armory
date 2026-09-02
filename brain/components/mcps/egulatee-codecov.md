@@ -8,10 +8,12 @@ source_url: https://github.com/egulatee/mcp-server-codecov
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-20T12:09:11Z"
 ---
 ## What it is
 MCP server `Codecov`, catalogued on PulseMCP. Query Codecov coverage data for repositories, commits, and individual files.

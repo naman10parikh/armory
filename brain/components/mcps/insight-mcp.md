@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T10:14:32Z"
 ---
 ## What it is
 Enables hybrid document search (BM25 and dense) over a configurable corpus via MCP tools, returning passages and sources for AI agents to cite in answers.

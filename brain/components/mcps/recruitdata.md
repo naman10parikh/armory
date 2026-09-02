@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T20:57:04Z"
 ---
 ## What it is
 Unified job search MCP server that aggregates live listings from multiple job boards with deduplication, enabling AI agents to find and filter jobs by keyword and location.

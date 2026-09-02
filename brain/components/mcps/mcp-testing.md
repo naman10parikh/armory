@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-10T13:46:20Z"
 ---
 ## What it is
 Demonstrates a simple MCP client-server setup using fastmcp, with an advanced blog server featuring dynamic resources, tools for post creation and publishing workflows, caching, and async operations.

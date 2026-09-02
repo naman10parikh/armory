@@ -8,10 +8,12 @@ source_url: https://github.com/chriscarrollsmith/taskqueue-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-04-12T16:32:50Z"
 ---
 ## What it is
 MCP server `TaskQueue`, catalogued on PulseMCP. Structured task management system that breaks down complex projects into manageable tasks with progress tracking, user approval checkpoints, and support for multiple LLM providers.

@@ -8,10 +8,12 @@ source_url: https://github.com/hrmeetsingh/mcp-browser-automation
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2024-12-31T21:42:50Z"
 ---
 ## What it is
 MCP server `Browser Automation`, catalogued on PulseMCP. Integrates Playwright with MCP to enable automated web interactions, scraping, and testing across browsers.

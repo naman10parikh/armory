@@ -8,10 +8,12 @@ source_url: https://github.com/veithly/rss-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-12-12T14:25:53Z"
 ---
 ## What it is
 MCP server `RSS Feed Parser`, catalogued on PulseMCP. Provides RSS feed parsing and retrieval with RSSHub integration, automatically trying multiple instances when one fails and supporting custom rsshub:// protocol URLs for accessing current content from websites, social platforms, and news sources that don't natively provide RSS feeds.

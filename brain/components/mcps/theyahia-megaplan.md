@@ -8,10 +8,12 @@ source_url: https://github.com/theyahia/megaplan-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-23T12:07:08Z"
 ---
 ## What it is
 MCP server `Megaplan`, catalogued on PulseMCP. Integrates with Megaplan for task, deal, and project management.

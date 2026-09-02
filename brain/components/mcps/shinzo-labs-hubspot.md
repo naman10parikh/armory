@@ -8,10 +8,12 @@ source_url: https://github.com/shinzo-labs/hubspot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2025-11-25T09:52:42Z"
 ---
 ## What it is
 MCP server `HubSpot`, catalogued on PulseMCP. Integrates with HubSpot CRM API for managing companies, contacts, deals, and other CRM objects through natural language, enabling sales teams to query, create, and update records without leaving their assistant interface.

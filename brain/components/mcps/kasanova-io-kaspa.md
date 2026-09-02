@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-14T06:45:05Z"
 ---
 ## What it is
 MCP server `Kaspa`, catalogued on PulseMCP. Integrates with the Kaspa cryptocurrency network for wallet operations including balance checking, fee estimation, token transfers, and transaction details across mainnet and testnet environments.

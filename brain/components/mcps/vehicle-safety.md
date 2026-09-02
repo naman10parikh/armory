@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T16:29:27Z"
 ---
 ## What it is
 Connects Claude to NHTSA vehicle safety data, enabling VIN decoding, recall checks, crash-test ratings, and consumer complaints via natural language.

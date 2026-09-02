@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T09:27:08Z"
 ---
 ## What it is
 MCP server for automating Microsoft Dynamics 365 Business Central web and mobile interfaces using Playwright and Android emulator.

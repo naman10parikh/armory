@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T22:41:55Z"
 ---
 ## What it is
 An MCP server for the Chit Chats shipping API that enables shipment management, tracking, rate comparison, and batch operations.

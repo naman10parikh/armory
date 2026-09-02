@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-02T14:28:02Z"
 ---
 ## What it is
 MCP server `IDA Pro Binary Analysis`, catalogued on PulseMCP. Integrates with IDA Pro for automated vulnerability scanning including buffer overflows, format strings, and command injection detection with specialized support for embedded device and IoT firmware analysis.

@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-08T11:57:31Z"
 ---
 ## What it is
 MCP server `CK-ASK`, catalogued on PulseMCP. Pauses AI coding assistant conversations to collect human feedback before continuation, supporting both terminal and dialog input modes.

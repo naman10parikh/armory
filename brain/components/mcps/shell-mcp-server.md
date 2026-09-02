@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-10T15:36:35Z"
 ---
 ## What it is
 Enables safe shell command execution with configurable directory and command restrictions, allowing Claude Desktop to run shell commands securely.

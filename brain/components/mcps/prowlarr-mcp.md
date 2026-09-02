@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T07:34:10Z"
 ---
 ## What it is
 MCP server exposing Prowlarr's API v1 as tools for managing indexers, applications, download clients, and more, including cross-indexer searches and system commands.

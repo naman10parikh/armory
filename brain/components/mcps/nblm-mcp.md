@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T10:21:23Z"
 ---
 ## What it is
 A multi-account MCP server for NotebookLM that maintains sticky account and notebook per session. It uses the internal RPC to avoid logout issues and adds tools for account switching, notebook selection, and health checks.

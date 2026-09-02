@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T21:46:44Z"
 ---
 ## What it is
 Generates logos, social media posts, app-store screenshots, comic panels, and visual-novel assets from natural-language prompts using 119 templates.

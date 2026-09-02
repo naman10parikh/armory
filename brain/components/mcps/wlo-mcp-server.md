@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T17:08:11Z"
 ---
 ## What it is
 MCP server for WirLernenOnline.de that enables searching and retrieving educational materials, collections, topic pages, and metadata through natural language, compatible with OpenAI and Claude.

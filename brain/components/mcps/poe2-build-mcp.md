@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-23T09:28:40Z"
 ---
 ## What it is
 An MCP server for Path of Exile 2: a queryable game corpus plus Path-of-Building-faithful calculations, so an LLM can import your build, answer questions, and theorycraft against real numbers (not invented ones).

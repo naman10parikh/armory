@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:41:37Z"
 ---
 ## What it is
 Verificate combines 17 applications each designed to address a separate issue with AI Coding supported with a Frontier AI Model. This allows you to Vibe Code with confidence and even dropped down to a more basic model with a better outcome.

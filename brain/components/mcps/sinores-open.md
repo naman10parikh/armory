@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T20:48:32Z"
 ---
 ## What it is
 A self-hosted WhatsApp gateway that exposes messaging capabilities via MCP, allowing AI agents to send, receive, and manage WhatsApp messages through a single-command setup with SQLite storage.

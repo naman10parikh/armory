@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-23T05:59:19Z"
 ---
 ## What it is
 Enables AI assistants to manage Azure AI Search services, including indexes, documents, indexers, and skillsets, via the Model Context Protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T07:27:31Z"
 ---
 ## What it is
 Enables AI agents to analyze images via user-configured cloud vision APIs (Gemini or OpenAI-compatible), returning structured results such as summaries, OCR text, and objects.

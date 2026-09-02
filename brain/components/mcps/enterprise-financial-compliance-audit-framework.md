@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T23:12:52Z"
 ---
 ## What it is
 A production-grade MCP server that automates financial compliance audits by combining LLMs with structured analysis, enabling policy validation, risk profiling, and automated reporting.

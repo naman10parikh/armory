@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T14:00:33Z"
 ---
 ## What it is
 A Model Context Protocol server that uses Git as a backend for a collaborative todo system, enabling natural language interaction with Claude Desktop/Claude Code. It features a web-based Kanban board and Telegram bot for multi-interface todo management.

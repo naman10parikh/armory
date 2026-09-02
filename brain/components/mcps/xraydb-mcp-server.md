@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T12:36:19Z"
 ---
 ## What it is
 Prototype of a Model Context Protocol (MCP) server that provides access to X-ray properties of elements via the XrayDB library.

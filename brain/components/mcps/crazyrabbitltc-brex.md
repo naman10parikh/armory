@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-27T16:58:23Z"
 ---
 ## What it is
 MCP server `Brex`, catalogued on PulseMCP. Provides secure access to Brex financial platform data, enabling account information retrieval, transaction analysis, and budget monitoring through read-only operations with proper rate limiting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T11:23:41Z"
 ---
 ## What it is
 Enables read-only interaction with the FakturaXL API for querying invoices, clients, products, and stock levels with pagination, date chunking, and rate limiting.

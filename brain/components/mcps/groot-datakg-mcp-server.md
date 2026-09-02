@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T01:17:07Z"
 ---
 ## What it is
 MCP server for enabling data extraction and context retrieval for agents, storing information in a knowledge graph using Amazon Neptune or FalkorDB.

@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [agentbench, harness-rubric, test-writer]
 tags: [eval, golden-tasks, regression, benchmark, fixtures]
+forks: 0
+pushed_at: "2026-06-10T03:29:08Z"
 ---
 
 ## What it is

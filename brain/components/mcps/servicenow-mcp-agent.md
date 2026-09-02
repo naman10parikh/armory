@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T02:14:42Z"
 ---
 ## What it is
 Provides ServiceNow ITSM tools (incidents, knowledge, CMDB, user lookups) to AI agents, with an evaluation harness that measures tool-selection accuracy, task completion, and latency.

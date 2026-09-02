@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:24Z"
 ---
 ## What it is
 Provides read-only consultation of INMETRO cronotacograph details from official sources via a single tool, requiring prepaid credits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-12T05:31:13Z"
 ---
 ## What it is
 Loads CSV files into a temporary SQLite database and provides comprehensive data analysis tools via MCP, enabling AI assistants to query, analyze, and export data using natural language.

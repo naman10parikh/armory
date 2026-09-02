@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T23:27:35Z"
 ---
 ## What it is
 MCP server for searching and managing AI agent skills from skills.sh, including search, popular skills, details, and install commands.

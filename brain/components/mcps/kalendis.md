@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-01T20:13:23Z"
 ---
 ## What it is
 MCP server `Kalendis`, catalogued on PulseMCP. Kalendis is a scheduling backend API that provides an MCP server for generating TypeScript clients and framework-specific API route handlers (Next.js, Express, Fastify, NestJS).

@@ -8,11 +8,13 @@ source_url: https://github.com/Pangu-Immortal/qflow
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-17T06:28:58Z"
 ---
 ## What it is
 qflow is an MCP server that transforms AI editors into project managers with 50 built-in tools, requiring no API keys.

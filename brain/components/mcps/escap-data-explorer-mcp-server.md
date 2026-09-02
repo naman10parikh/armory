@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-13T11:11:13Z"
 ---
 ## What it is
 An MCP server that provides official statistical data for development indicators in Asia-Pacific. It wraps the ESCAP Data Explorer API, letting any MCP-compatible host query SDG and thematic data through natural language.

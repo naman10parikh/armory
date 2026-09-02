@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T08:31:58Z"
 ---
 ## What it is
 Constitutional MCP server enforcing 13 Floors of governance for AI agents, providing tools for session anchoring, reasoning, safety critique, and audit logging.

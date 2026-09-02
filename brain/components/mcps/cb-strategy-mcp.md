@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T05:26:26Z"
 ---
 ## What it is
 An MCP server offering six strategies to filter and analyze Chinese convertible bonds, including dual-low, triple-low, YTM ranking, redemption monitoring, and revision analysis.

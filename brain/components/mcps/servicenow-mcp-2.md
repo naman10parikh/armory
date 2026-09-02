@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T19:25:46Z"
 ---
 ## What it is
 A ServiceNow MCP server that enables natural language management of incidents via the Table API, with tools to create, read, update, search, comment on, and resolve incidents.

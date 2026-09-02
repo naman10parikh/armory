@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T06:02:52Z"
 ---
 ## What it is
 Transcribe any video URL to text with one command, supporting 1000+ sites via yt-dlp and multiple ASR providers.

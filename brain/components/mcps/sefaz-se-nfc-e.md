@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:57Z"
 ---
 ## What it is
 Enables consulting SEFAZ SE NFC-e tax documents from official source via a read-only MCP tool, with support for any MCP client over HTTP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T18:49:02Z"
 ---
 ## What it is
 Enables Grok Build to attach to the user's active Chrome profile via MCP, leveraging the profile's tabs, cookies, and logins instead of launching an isolated browser.

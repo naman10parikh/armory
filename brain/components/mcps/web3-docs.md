@@ -8,11 +8,13 @@ source_url: https://github.com/dioptx/web3-docs
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-01T11:45:59Z"
 ---
 ## What it is
 Unifies 11 protocol specification repositories (EIPs, BIPs, CIPs, etc.) and canonical contract addresses across 10 chains into a local FTS5 index, enabling coding agents to retrieve exact spec text and contract addresses via natural language queries.

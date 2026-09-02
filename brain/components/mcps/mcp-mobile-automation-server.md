@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-15T12:08:13Z"
 ---
 ## What it is
 Enables AI assistants to execute mobile automation tests using Cucumber.js, including device management, test scenarios, and APK uploads.

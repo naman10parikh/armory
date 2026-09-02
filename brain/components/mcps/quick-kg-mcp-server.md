@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:45:21Z"
 ---
 ## What it is
 Enables AI agents to automatically crawl online documentation, build local knowledge graphs, and semantic indexes to quickly establish a project knowledge base for Amazon Q Developer.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T20:54:16Z"
 ---
 ## What it is
 Two MCP servers demonstrating tool visibility scoping and ui/update-model-context for stage magic on language models.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T19:58:06Z"
 ---
 ## What it is
 Enables AI agents to programmatically edit Scratch .sb3 projects and preview changes live in TurboWarp Desktop via MCP tools and a live-reload bridge.

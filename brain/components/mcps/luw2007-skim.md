@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-17T06:56:59Z"
 ---
 ## What it is
 MCP server `Skim`, catalogued on PulseMCP. Code compression tool that reduces code size 60-95% for LLM context optimization

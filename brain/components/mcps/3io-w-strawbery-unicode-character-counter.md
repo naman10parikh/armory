@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-13T14:47:30Z"
 ---
 ## What it is
 MCP server `Strawbery Unicode Character Counter`, catalogued on PulseMCP. Provides Unicode character counting and position tracking for text analysis with support for CJK and multilingual content.

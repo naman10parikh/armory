@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T08:34:11Z"
 ---
 ## What it is
 Enables local MCP server for reading, writing, creating Google Sheets and charts via OAuth, acting as the logged-in user without manual sharing.

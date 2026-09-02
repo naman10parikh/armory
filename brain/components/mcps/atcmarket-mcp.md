@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T19:59:33Z"
 ---
 ## What it is
 Remote MCP server (Streamable HTTP) that reads and parses the public catalog website atcmarket.cz (AT Computers) to enable product search, category-filtered search, supported filter listing, product detail lookup, and cross-product comparison — without login or state.

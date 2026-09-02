@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T18:10:16Z"
 ---
 ## What it is
 Detects brittle Playwright selectors and provides healing suggestions, action receipts, human approvals, and failure exports.

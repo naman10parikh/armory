@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-04-05T16:29:23Z"
 ---
 ## What it is
 Provides enriched blockchain data from Codex for use with MCP-compatible clients like Claude Desktop.

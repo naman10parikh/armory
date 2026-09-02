@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2024-12-01T15:35:44Z"
 ---
 ## What it is
 MCP server `Screen Capture`, catalogued on PulseMCP. Provides screen capture capabilities using PyAutoGUI to take, compress, and serve screenshots for analysis of the user's current screen content.

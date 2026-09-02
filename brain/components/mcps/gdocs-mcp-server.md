@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T16:54:31Z"
 ---
 ## What it is
 Enables reading, editing, and rewriting Google Docs documents with tools that support full content replacement, appending, heading-based insertion, and style-preserving rewrites.

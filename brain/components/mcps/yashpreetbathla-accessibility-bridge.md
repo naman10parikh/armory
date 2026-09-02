@@ -8,10 +8,12 @@ source_url: https://github.com/yashpreetbathla/mcp-accessibility-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-21T23:19:05Z"
 ---
 ## What it is
 MCP server `Accessibility Bridge`, catalogued on PulseMCP. Exposes browser accessibility trees via Chrome DevTools Protocol for generating test selectors across Playwright, Selenium, Cypress, and WebdriverIO.

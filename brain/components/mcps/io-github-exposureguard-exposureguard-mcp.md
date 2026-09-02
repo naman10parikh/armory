@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-18T14:25:29Z"
 ---
 ## What it is
 MCP server that connects AI assistants to the ExposureGuard domain security scanning API, enabling security scans, grade lookups, remediation suggestions, and dependency checks for domains.

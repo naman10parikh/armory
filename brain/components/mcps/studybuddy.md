@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T11:50:14Z"
 ---
 ## What it is
 An educational MCP server demonstrating the MCP protocol with simple tools like rolling dice and returning vocabulary words.

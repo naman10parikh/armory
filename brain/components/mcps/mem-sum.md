@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T21:18:03Z"
 ---
 ## What it is
 Mem·Sum is a shared memory workspace for small groups accessible via AI assistants, enabling agents to read, draft, and publish atomic updates to a shared workspace with version control and security.

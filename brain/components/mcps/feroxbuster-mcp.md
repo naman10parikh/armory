@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T04:26:28Z"
 ---
 ## What it is
 Enables AI assistants to perform web content discovery scans using feroxbuster on a remote system via SSH, with support for recursive scanning, filtering, and background execution.

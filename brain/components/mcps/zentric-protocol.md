@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-09T23:13:01Z"
 ---
 ## What it is
 MCP server `Zentric Protocol`, catalogued on PulseMCP. Deterministic prompt injection detection and PII anonymization for LLM applications, sub-25ms latency.

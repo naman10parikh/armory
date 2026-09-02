@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-21T23:01:17Z"
 ---
 ## What it is
 Enables AI assistants to discover and interact with local Power BI Desktop instances, including inspecting table/column schema and executing DAX queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-06-28T12:56:45Z"
 ---
 ## What it is
 Enables interaction with Wekan kanban boards through the Wekan REST API, supporting board, list, and card operations via natural language.

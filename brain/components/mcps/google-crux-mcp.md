@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T13:36:10Z"
 ---
 ## What it is
 Enables natural language queries of the Chrome UX Report API to fetch Core Web Vitals (LCP, INP, CLS, FCP, TTFB), compare form factors, benchmark pages against site averages, and analyze up to 40 weeks of performance trends.

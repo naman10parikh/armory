@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T08:04:12Z"
 ---
 ## What it is
 Enables querying Google Analytics 4 properties through natural language, supporting historical and real-time reports, metadata discovery, and property listing via a Vercel-deployed MCP server.

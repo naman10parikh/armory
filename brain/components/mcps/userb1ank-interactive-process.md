@@ -8,10 +8,12 @@ source_url: https://github.com/userb1ank/interactive-process-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-06T02:14:05Z"
 ---
 ## What it is
 MCP server `Interactive Process`, catalogued on PulseMCP. MCP server for managing long-running interactive processes like SSH sessions, REPLs, and installers with PTY support.

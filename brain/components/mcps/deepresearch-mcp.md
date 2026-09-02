@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T14:29:52Z"
 ---
 ## What it is
 A powerful MCP server that enables AI agents to perform structured, multi-step internet research and generate comprehensive reports automatically.

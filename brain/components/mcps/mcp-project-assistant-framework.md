@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T16:22:16Z"
 ---
 ## What it is
 Generates project features (HTML pages, backend APIs) from prompts and project-specific business rules stored as resources, with support for interchangeable LLM providers (local Ollama or cloud Gemini).

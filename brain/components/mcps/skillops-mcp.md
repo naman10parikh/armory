@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T08:13:30Z"
 ---
 ## What it is
 An AI-powered MCP server for EdTech teams that automates support triage, re-engagement outreach, feedback analysis, progress reporting, and course design using Gemini.

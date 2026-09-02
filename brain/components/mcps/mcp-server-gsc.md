@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T14:16:42Z"
 ---
 ## What it is
 Enables AI assistants to query and manage Google Search Console data, including search analytics, URL indexing status, and sitemap management, for SEO and LLMO analysis directly from a conversation.

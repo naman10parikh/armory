@@ -8,10 +8,12 @@ source_url: https://github.com/alikarami/mikromcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-23T06:49:23Z"
 ---
 ## What it is
 MCP server `MikroMCP`, catalogued on PulseMCP. Manage MikroTik RouterOS devices with typed tools, dry-run mode, RBAC, audit logs, and rollback.

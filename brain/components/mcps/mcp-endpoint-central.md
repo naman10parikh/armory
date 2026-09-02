@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T03:30:18Z"
 ---
 ## What it is
 An MCP server for ManageEngine Endpoint Central that enables querying managed computers, inventory, patches, vulnerabilities, and more via its REST API, with read-only mode by default and optional write capabilities.

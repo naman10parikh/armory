@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T13:47:57Z"
 ---
 ## What it is
 Enables self-reflective retrieval-augmented generation with LLM-driven retrieval decisions, document relevance grading, answer grounding verification, and automatic retries, exposed through MCP tools over SSE.

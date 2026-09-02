@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-12-31T16:48:10Z"
 ---
 ## What it is
 Artifact-first sub-agent delegation for Codex CLI, enabling multi-step parallel work with durable logging via specialized sub-agents.

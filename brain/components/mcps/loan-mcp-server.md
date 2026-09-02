@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T17:04:18Z"
 ---
 ## What it is
 A production-grade MCP server for a Loan Management System backed by Microsoft Dataverse, exposing read and analytics tools for loan applications.

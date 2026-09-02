@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T15:29:00Z"
 ---
 ## What it is
 MCP server for searching and downloading from Anna's Archive for free via slow channels like LibGen and Sci-Net, without an API key.

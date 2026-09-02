@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T15:42:37Z"
 ---
 ## What it is
 MCP server for generating and editing images using Amazon Nova Canvas, Stable Diffusion 3.5 Large, and Stability AI services through Amazon Bedrock.

@@ -8,10 +8,12 @@ source_url: https://github.com/dalahmasdev/odoo-sh-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-11T22:05:54Z"
 ---
 ## What it is
 MCP server `Odoo.sh`, catalogued on PulseMCP. Connects to Odoo.sh development environments through SSH to enable Git workflow operations, file management, project builds, and Odoo shell execution for streamlined custom app development and deployment automation.

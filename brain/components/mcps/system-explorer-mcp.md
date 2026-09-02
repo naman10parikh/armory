@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T18:16:39Z"
 ---
 ## What it is
 Read-only MCP server for observing Linux hosts (systemd, ZFS, Docker, VMs, network, hardware, NixOS) as a graph of objects with provenance. Provides seven tools to list hosts, get status, collections, objects, evidence, lookup, and changes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T20:05:17Z"
 ---
 ## What it is
 MCP server for CPFHub.io that enables AI agents to retrieve identity data (full name, gender, date of birth) from Brazilian CPF numbers and check API quota.

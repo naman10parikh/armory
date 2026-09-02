@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-20T16:04:08Z"
 ---
 ## What it is
 A sample MCP server built with C# that demonstrates creating and packaging MCP servers, providing a random number generation tool.

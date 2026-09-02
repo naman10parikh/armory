@@ -8,10 +8,12 @@ source_url: https://github.com/browser-use/browser-use
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 95555
+stars: 111989
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12312
+pushed_at: "2026-09-02T02:25:43Z"
 ---
 ## What it is
 MCP server `Browser Use`, catalogued on PulseMCP. Enables LLMs, agents, and apps to access, search, and extract web data in real-time using the browser-use.com API.

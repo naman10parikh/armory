@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-13T08:08:56Z"
 ---
 ## What it is
 Enables AI agents to manage Trading212 brokerage accounts, including portfolio analysis, order placement (demo mode), and investment pie management.

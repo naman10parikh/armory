@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-25T13:27:26Z"
 ---
 ## What it is
 MCP server `Snowflake`, catalogued on PulseMCP. Provides secure access to Snowflake databases with robust connection management, supporting both password and key pair authentication for SQL query execution and data analysis workflows.

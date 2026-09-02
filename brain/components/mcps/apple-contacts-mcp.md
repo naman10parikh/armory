@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-29T21:24:05Z"
 ---
 ## What it is
 Local-first MCP server for safely searching and editing Apple Contacts on macOS via AppleScript automation, with dry-run writes and explicit confirmation.

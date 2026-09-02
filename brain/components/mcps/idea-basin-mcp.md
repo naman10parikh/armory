@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T12:58:28Z"
 ---
 ## What it is
 Enables AI assistants to search, browse, and save to a semantic knowledge graph with vector search and hierarchical organization.

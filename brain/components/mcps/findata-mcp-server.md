@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2025-05-09T03:44:04Z"
 ---
 ## What it is
 Provides professional financial data access for LLMs via MCP, supporting providers like Tushare, Wind, and DataYes.

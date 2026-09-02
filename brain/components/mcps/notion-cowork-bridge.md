@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T23:43:05Z"
 ---
 ## What it is
 Gives Notion Custom Agents real file tools and a real terminal over the Model Context Protocol, enabling them to read, edit, and run commands directly on the user's machine.

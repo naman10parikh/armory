@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T15:07:59Z"
 ---
 ## What it is
 Persistent code-knowledge memory across AI chat sessions, caching code understanding in a SQLite brain and providing MCP tools for code analysis, search, and documentation.

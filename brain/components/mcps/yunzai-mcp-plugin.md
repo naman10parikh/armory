@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T02:23:46Z"
 ---
 ## What it is
 MCP server for Yunzai Bot that enables LLM-driven automated testing and debugging through mock messages, bot management, and system monitoring tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T00:59:08Z"
 ---
 ## What it is
 Provides mortgage calculation tools, including monthly payment, amortization schedules, lump sum payments, and extra monthly payments for real estate agents and AI assistants.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-26T21:23:59Z"
 ---
 ## What it is
 MCP server `Philips Hue BLE`, catalogued on PulseMCP. Controls Philips Hue smart lights directly via Bluetooth Low Energy without requiring a Hue Bridge or internet connection.

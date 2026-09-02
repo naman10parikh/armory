@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-16T09:11:23Z"
 ---
 ## What it is
 An MCP server that enables academic research by searching Google Scholar, fetching paper content, and converting web pages to clean Markdown.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-07T01:00:57Z"
 ---
 ## What it is
 MCP server exposing Montevideo public transportation data (STM) as tools for AI assistants, enabling natural language queries about routes, stops, arrivals, and trip planning.

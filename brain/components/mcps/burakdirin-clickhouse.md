@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-17T23:46:29Z"
 ---
 ## What it is
 MCP server `ClickHouse`, catalogued on PulseMCP. Integrates with ClickHouse databases to execute SQL queries and retrieve results in JSON format, enabling data analysis and exploration directly within conversation interfaces.

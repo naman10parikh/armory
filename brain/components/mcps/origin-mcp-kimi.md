@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T06:45:41Z"
 ---
 ## What it is
 A local MCP server that enables AI assistants to control Origin/OriginPro on Windows via Python automation, with adaptive path detection to resolve import errors.

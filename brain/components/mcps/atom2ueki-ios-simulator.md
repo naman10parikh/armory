@@ -8,10 +8,12 @@ source_url: https://github.com/atom2ueki/mcp-server-ios-simulator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-24T13:33:32Z"
 ---
 ## What it is
 MCP server `iOS Simulator`, catalogued on PulseMCP. Provides a TypeScript-based server for dynamically creating, booting, and controlling iOS simulators using the Appium iOS Simulator library, enabling flexible device and OS version interactions for testing and development scenarios.

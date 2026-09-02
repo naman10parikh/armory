@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-10T07:12:03Z"
 ---
 ## What it is
 Enables AI clients like Claude Code, Cursor, or VS Code to drive the Unreal Editor: execute Python, capture screenshots, tail logs, check status, and run VERA commands.

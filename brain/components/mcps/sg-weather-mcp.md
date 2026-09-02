@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T07:08:49Z"
 ---
 ## What it is
 Wraps NEA's 2-hour weather forecast API to provide rain alerts for central Singapore areas, enabling automations for rain detection.

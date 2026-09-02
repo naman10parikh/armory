@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T11:13:02Z"
 ---
 ## What it is
 Enables sending transactional emails, managing templates, suppression lists, sending domains, webhooks, subaccounts, and retrieving account metrics via the SparkPost API.

@@ -8,10 +8,12 @@ source_url: https://github.com/gauravfs-14/lit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-14T19:39:48Z"
 ---
 ## What it is
 MCP server `Lit`, catalogued on PulseMCP. Academic literature search across arXiv and DBLP databases

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T23:09:08Z"
 ---
 ## What it is
 A depth-first lead discovery server that finds and qualifies custom webshops, resolves the single best decision-maker contact via Prospeo, and stores qualified leads for human follow-up.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T12:10:37Z"
 ---
 ## What it is
 MCP server for creating and managing VPS in RUVDS via API v2. Provides tools for Cursor and other MCP clients: server list, catalog, create/change VPS, balance, actions, SSH keys, notifications, payments.

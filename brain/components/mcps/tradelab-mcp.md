@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T19:49:18Z"
 ---
 ## What it is
 Quantitative research MCP server that lets AI define strategies and uses MetaTrader 5's official Strategy Tester to execute backtests, managing experiments and results via tools like run_backtest, get_run, and compare_runs.

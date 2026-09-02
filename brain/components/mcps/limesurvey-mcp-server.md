@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T14:44:15Z"
 ---
 ## What it is
 MCP server that exposes LimeSurvey's RemoteControl 2 JSON-RPC API as tools, enabling survey creation, activation, response export, and participant management through natural language.

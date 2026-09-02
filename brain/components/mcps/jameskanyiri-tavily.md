@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-09T19:00:05Z"
 ---
 ## What it is
 MCP server `Tavily`, catalogued on PulseMCP. Integrates with Tavily's web intelligence platform to provide real-time web search, URL content extraction, structured website crawling, and site architecture mapping with configurable filtering and depth controls.

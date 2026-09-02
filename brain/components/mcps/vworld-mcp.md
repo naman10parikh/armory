@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T04:29:56Z"
 ---
 ## What it is
 Enables to query South Korean cadastral and land information (parcel boundaries, land use zones, official land prices) via VWorld Open API, supporting geocoding, reverse geocoding, and location search for real estate feasibility reviews.

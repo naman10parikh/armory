@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T07:13:50Z"
 ---
 ## What it is
 Allows invoking Claude in Telegram chats via inline mentions or business bot, with context from chat history and media transcription.

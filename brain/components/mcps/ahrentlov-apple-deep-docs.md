@@ -8,10 +8,12 @@ source_url: https://github.com/ahrentlov/appledeepdoc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-15T09:11:30Z"
 ---
 ## What it is
 MCP server `Apple Deep Docs`, catalogued on PulseMCP. Integrates with Apple's complete development documentation ecosystem including Xcode's local documentation with Liquid Glass design patterns, official developer docs via JSON APIs, Swift Evolution proposals, and Apple/SwiftLang GitHub repositories with intelligent caching and relevance-based search scoring.

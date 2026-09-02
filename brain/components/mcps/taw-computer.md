@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-05-16T01:11:59Z"
 ---
 ## What it is
 An MCP server that provides AI agents with a full Ubuntu desktop environment inside Docker, enabling them to perform complex computer tasks like browsing, coding, testing, and GUI automation.

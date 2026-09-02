@@ -8,10 +8,12 @@ source_url: https://github.com/catherinedparnell/mcp-finnhub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-01-10T19:37:27Z"
 ---
 ## What it is
 MCP server `Finnhub`, catalogued on PulseMCP. Integrates with Finnhub's financial API to provide streamlined access to market news, stock quotes, financials, and recommendation trends.

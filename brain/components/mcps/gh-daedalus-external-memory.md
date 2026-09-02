@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T19:26:29Z"
 ---
 ## What it is
 MCP server `External Memory`, catalogued on PulseMCP. Persistent, searchable semantic memory for LLMs with namespace and tag support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T18:51:42Z"
 ---
 ## What it is
 Exposes Azure AI Foundry agents, workflows, and AI Search vector-database capabilities as MCP tools, enabling natural language interaction with agents, semantic search, and index management.

@@ -8,11 +8,13 @@ source_url: https://github.com/wellkilo/RepoPilot
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T08:45:29Z"
 ---
 ## What it is
 MCP server for auditable repository self-maintenance, turning GitHub issues and failed CI into independently verified pull requests with full audit trails, human approvals, and runbook archival.

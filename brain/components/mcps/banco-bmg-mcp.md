@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:08Z"
 ---
 ## What it is
 Conecta sua conta do Banco Bmg ao Claude, ChatGPT e agentes de IA via Open Finance Brasil, permitindo consultar saldos, extratos, faturas e investimentos em linguagem natural, somente leitura.

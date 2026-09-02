@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T01:19:47Z"
 ---
 ## What it is
 An MCP server that provides AI agents with direct read/write access to Sitecore CMS through 100+ tools across Item Service, GraphQL, and PowerShell APIs.

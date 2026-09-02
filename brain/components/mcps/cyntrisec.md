@@ -8,10 +8,12 @@ source_url: https://github.com/cyntrisec/cyntrisec-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-06T16:49:37Z"
 ---
 ## What it is
 MCP server `Cyntrisec`, catalogued on PulseMCP. AWS security analysis with attack path discovery, compliance checking, and remediation planning.

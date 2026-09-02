@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T06:38:09Z"
 ---
 ## What it is
 MCP server `FindTime`, catalogued on PulseMCP. Proxies the findtime.io Time API for timezone lookups, time conversion, DST schedules, and meeting time optimization.

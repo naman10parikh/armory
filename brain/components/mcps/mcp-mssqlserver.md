@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-18T18:43:11Z"
 ---
 ## What it is
 Production-oriented MCP server for Microsoft SQL Server, enabling query execution, database discovery, schema introspection, and metadata inspection via MCP clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T20:43:15Z"
 ---
 ## What it is
 MCP server for the ESRU-EMOVI 2023 social mobility survey in Mexico. Enables AI assistants to query weighted statistics, transition matrices, and explore variables from the survey using natural language.

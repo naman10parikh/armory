@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-30T03:21:29Z"
 ---
 ## What it is
 Telnet-based MCP server for H3C network device CLI, enabling connection, command execution, and device mode detection via natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/jordan-horner/symbols
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-22T03:06:00Z"
 ---
 ## What it is
 MCP server `Symbols`, catalogued on PulseMCP. Fast polyglot source code intelligence for symbol extraction, import parsing, dependency tracing, and impact analysis.

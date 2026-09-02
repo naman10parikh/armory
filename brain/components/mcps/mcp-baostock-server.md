@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-01T07:48:49Z"
 ---
 ## What it is
 提供股票数据查询的MCP服务器，支持股票信息、K线历史、财务指标等市场数据获取。

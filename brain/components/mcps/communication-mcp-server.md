@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T10:44:10Z"
 ---
 ## What it is
 MCP server that provides email communication tools (send email, health check, list providers) via SMTP, accessible over HTTP/SSE for remote AI clients like Claude Desktop.

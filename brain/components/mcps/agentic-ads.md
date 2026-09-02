@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-16T16:39:45Z"
 ---
 ## What it is
 Google AdSense for AI agents, enabling MCP server monetization by serving privacy-respecting contextual ads and earning 70% revenue share on clicks.

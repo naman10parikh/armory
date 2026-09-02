@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T19:57:54Z"
 ---
 ## What it is
 A Model Context Protocol server that connects AI agents to IBM Concert, enabling autonomous workflow health monitoring, incident diagnosis, auto-remediation, CVE triage, and Slack alerting through natural language.

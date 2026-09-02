@@ -8,10 +8,12 @@ source_url: https://github.com/redis/mcp-redis-cloud
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2025-05-05T06:09:05Z"
 ---
 ## What it is
 MCP server `Redis Cloud`, catalogued on PulseMCP. Integration with Redis Cloud's API, allowing you to manage your Redis Cloud resources using natural language.

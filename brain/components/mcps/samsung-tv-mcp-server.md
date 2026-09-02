@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T00:00:26Z"
 ---
 ## What it is
 A Model Context Protocol server that lets AI assistants control Samsung Smart TVs (Tizen OS, 2016+) over the local network. No cloud, no SmartThings account required.

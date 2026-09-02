@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:50Z"
 ---
 ## What it is
 MCP server `PII Detector`, catalogued on PulseMCP. Detect PII in text: emails, phones, SSNs, credit cards, IPs. Regex + Luhn. x402.

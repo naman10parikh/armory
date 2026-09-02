@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T19:57:29Z"
 ---
 ## What it is
 SWMF MCP Server enables AI agents to work with the Space Weather Modeling Framework (SWMF) through tools for context, evidence, artifact inspection, and comparison. It includes task-specific skills for explanation, configuration, building, running, debugging, and analysis.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-06T12:36:39Z"
 ---
 ## What it is
 MCP server `Travelpayouts`, catalogued on PulseMCP. Integrates with Travelpayouts API for flight search, popular routes, and price calendar data.

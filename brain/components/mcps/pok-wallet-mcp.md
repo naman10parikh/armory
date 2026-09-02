@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T03:41:31Z"
 ---
 ## What it is
 Vision-guided Pokémon TCG card identification server that matches exact printings using visual evidence and marketplace data.

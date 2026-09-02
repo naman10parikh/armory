@@ -8,11 +8,13 @@ source_url: https://github.com/marioluciofjr/mcp-dados-brasil
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T19:24:55Z"
 ---
 ## What it is
 MCP server that provides real-time access to Brazilian public data from 6 official sources via 11 read-only tools, including Pix, IBGE, Câmara dos Deputados, Senado Federal, Diário Oficial da União, and Agência Brasil, with no API key required.

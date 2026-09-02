@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T01:15:05Z"
 ---
 ## What it is
 Provides governed retrieval over MCP with hybrid search, strict confidence gating, and access control, exposing three read-only tools.

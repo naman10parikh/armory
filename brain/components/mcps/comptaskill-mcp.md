@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T19:29:11Z"
 ---
 ## What it is
 Enables searching, installing, and proposing Claude skills from the Comptaskill catalogue directly within Claude Chat, with tools for skill discovery and installation.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-16T17:38:37Z"
 ---
 ## What it is
 MCP server `BotIndex`, catalogued on PulseMCP. DeFi intelligence and sports analytics API with crypto signals, sports odds, and x402 micropayments.

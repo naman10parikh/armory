@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T05:10:34Z"
 ---
 ## What it is
 Provides Android device and Termux capabilities to RikkaHub via a local MCP server, enabling device info, battery, power sampling, package installs, proot-distro management, brightness/volume control, and optional command execution.

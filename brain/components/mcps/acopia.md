@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T00:01:49Z"
 ---
 ## What it is
 MCP server for querying and simulating the dispatch plan of a solar PV + battery system in the Chilean electricity market, using deterministic optimization and optional DRL.

@@ -8,10 +8,12 @@ source_url: https://github.com/hushaudio/puppeteermcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-08T04:11:12Z"
 ---
 ## What it is
 MCP server `Puppeteer`, catalogued on PulseMCP. Captures full-page screenshots at multiple viewport breakpoints using Puppeteer with error monitoring, responsive design testing, and image optimization for web development and QA workflows.

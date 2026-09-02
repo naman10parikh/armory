@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
-stars: 84
+stars: 85
+forks: 13
+pushed_at: "2026-01-12T15:27:26Z"
 ---
 ## What it is
 An MCP server lets AI assistants use the Wolfram Alpha API for real-time access to computational knowledge and data.

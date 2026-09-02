@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T14:56:40Z"
 ---
 ## What it is
 Enables Google Developer Experts, Docker Captains, and Microsoft MVPs to submit professional activity reports via conversational AI, with support for multiple programs and rate-limited API access.

@@ -8,10 +8,12 @@ source_url: https://github.com/zengwenliang416/banana-image-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-27T12:24:18Z"
 ---
 ## What it is
 MCP server `Banana Image (Gemini)`, catalogued on PulseMCP. Integrates with Google's Gemini models for intelligent image generation, automatically routing between speed-optimized and quality-optimized models while supporting up to 4K resolution, Google Search grounding for factual accuracy, and comprehensive file management.

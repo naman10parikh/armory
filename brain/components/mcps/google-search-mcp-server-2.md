@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 98
+pushed_at: "2025-04-06T06:05:15Z"
 ---
 ## What it is
 Provides real-time Google search capabilities to AI assistants like Claude, bypassing anti-scraping mechanisms.

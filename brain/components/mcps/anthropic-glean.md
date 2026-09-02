@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-08T06:15:37Z"
 ---
 ## What it is
 MCP server `Glean`, catalogued on PulseMCP. Integrates Glean's search and chat APIs to enable natural language interactions with organizational knowledge bases and chatbots.

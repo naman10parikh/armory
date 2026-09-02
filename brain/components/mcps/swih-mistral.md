@@ -8,10 +8,12 @@ source_url: https://github.com/swih/mistral-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-29T11:00:08Z"
 ---
 ## What it is
 MCP server `Mistral`, catalogued on PulseMCP. Access Mistral AI models for chat, embeddings, vision, audio, and OCR via MCP.

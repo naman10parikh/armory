@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:35:30Z"
 ---
 ## What it is
 Validates regex, cron, and SQL expressions by executing them in real runtimes, with payments via x402 USDC on Base.

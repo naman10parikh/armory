@@ -8,10 +8,12 @@ source_url: https://github.com/apology-is-policy/hyades
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-25T10:48:35Z"
 ---
 ## What it is
 MCP server `Hyades`, catalogued on PulseMCP. Render LaTeX math as pure Unicode text art for terminals, code comments, and emails.

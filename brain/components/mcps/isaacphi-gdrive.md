@@ -8,10 +8,12 @@ source_url: https://github.com/isaacphi/mcp-gdrive
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 280
+stars: 283
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 105
+pushed_at: "2025-05-07T14:03:09Z"
 ---
 ## What it is
 MCP server `Google Drive & Sheets`, catalogued on PulseMCP. Integrates Google Drive and Sheets functionality for file operations and spreadsheet data manipulation.

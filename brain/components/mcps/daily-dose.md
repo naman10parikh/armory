@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T08:01:09Z"
 ---
 ## What it is
 Provides persistent local memory of Claude Code sessions with TODO management and searchable activity logs via MCP tools.

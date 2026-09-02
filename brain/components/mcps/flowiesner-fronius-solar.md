@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T13:31:06Z"
 ---
 ## What it is
 MCP server `Fronius Solar`, catalogued on PulseMCP. Real-time solar inverter data from Fronius devices via the local Solar API.

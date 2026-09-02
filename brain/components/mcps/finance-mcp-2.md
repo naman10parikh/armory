@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T04:38:38Z"
 ---
 ## What it is
 Personal finance MCP server providing loan simulation, budgeting, investment comparison, retirement planning, French tax optimization, and inflation calculation through natural language.

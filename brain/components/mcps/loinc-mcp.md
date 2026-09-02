@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T12:57:40Z"
 ---
 ## What it is
 Enables searching LOINC codes and retrieving detailed information including panel members and answer options via the LOINC Search API.

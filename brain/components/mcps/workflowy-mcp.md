@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T21:24:45Z"
 ---
 ## What it is
 Lets humans, scripts, and AI agents safely read, search, organize, and edit a WorkFlowy account.

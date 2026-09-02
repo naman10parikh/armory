@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T01:23:55Z"
 ---
 ## What it is
 MCP server for the Splunk On-Call (VictorOps) API providing comprehensive incident management, on-call schedules, team administration, and alert reporting through natural language.

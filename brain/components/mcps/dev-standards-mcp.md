@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T09:37:57Z"
 ---
 ## What it is
 MCP server that provides a searchable knowledge base of internal development standards, enabling AI coding agents to consistently reference and comply with them.

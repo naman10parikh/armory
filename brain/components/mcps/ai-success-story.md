@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T19:40:24Z"
 ---
 ## What it is
 Enables AI agents to search and fetch first-person success stories from AI coding sessions, providing transferable patterns and lessons to improve performance on similar tasks.

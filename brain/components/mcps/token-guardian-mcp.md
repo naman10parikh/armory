@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T18:35:08Z"
 ---
 ## What it is
 A read-only MCP server that reports token usage by agents and models, and recommends the cheapest safe model and effort level for a given task, helping to reduce token waste.

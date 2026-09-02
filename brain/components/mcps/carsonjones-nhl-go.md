@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-28T05:21:48Z"
 ---
 ## What it is
 MCP server `NHL`, catalogued on PulseMCP. Integrates with NHL data sources to provide real-time game updates, player stats, and league standings for sports analysis and fantasy hockey applications.

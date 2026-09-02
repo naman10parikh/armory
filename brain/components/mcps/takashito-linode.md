@@ -8,10 +8,12 @@ source_url: https://github.com/takashito/linode-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-05-20T10:05:28Z"
 ---
 ## What it is
 MCP server `Linode`, catalogued on PulseMCP. Integrates with Linode's cloud infrastructure API to manage compute instances, volumes, networking, domains, databases, Kubernetes clusters, and support operations across 19 tool categories with over 100 individual operations.

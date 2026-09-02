@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T22:24:45Z"
 ---
 ## What it is
 Enables querying FIFA World Cup player and team statistics for 2010, 2014, 2018, and 2022 through natural language, providing tools for top scorers, player comparisons, team summaries, and more via a Claude-powered CLI.

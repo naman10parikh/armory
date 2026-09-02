@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-27T23:17:14Z"
 ---
 ## What it is
 Enables AI agents to generate static Pix QR codes for Brazilian payments using natural language, with EMV 4.0 compliance and no external API required.

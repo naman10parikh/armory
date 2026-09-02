@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T15:29:48Z"
 ---
 ## What it is
 Enables Claude Desktop to read and search through PDF technical manuals, answering questions in natural language with citations.

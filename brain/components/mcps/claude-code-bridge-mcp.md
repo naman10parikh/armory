@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T05:13:13Z"
 ---
 ## What it is
 Bridges Claude Code terminal sessions with Claude Chat by exposing session logs as tools, enabling seamless context transfer and two-way communication via a cooperative inbox and optional Google Drive sync.

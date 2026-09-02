@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T15:36:36Z"
 ---
 ## What it is
 Connect AI assistants to Unfold It -- create goals with AI-generated plans, agent-assisted clarification, plan import with enrichment, individual progress tracking, cohort analytics, and skill assessments.

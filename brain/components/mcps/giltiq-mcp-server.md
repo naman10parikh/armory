@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T20:02:01Z"
 ---
 ## What it is
 Validates EU VAT IDs using VIES and Germany's BZSt with automatic failover and legally binding qualified confirmations per §18e UStG, ensuring reliability even when VIES is down.

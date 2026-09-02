@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [test-before-build, qa-zero-tolerance, design-systems]
 tags: [testing, browser, playwright, e2e, screenshots]
+forks: 0
+pushed_at: "2026-06-10T03:59:01Z"
 ---
 
 ## What it is

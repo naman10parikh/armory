@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-16T07:12:46Z"
 ---
 ## What it is
 MCP server `ShipSmart`, catalogued on PulseMCP. Shipping tools for address validation and rate quote previews with pluggable provider support for UPS, FedEx, DHL, and USPS.

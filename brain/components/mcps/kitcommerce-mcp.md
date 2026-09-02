@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T05:16:58Z"
 ---
 ## What it is
 A standalone MCP server that exposes the admin side of kitcommerce-api as tools, enabling AI assistants to manage products, categories, collections, coupons, orders, inventory, customers, and the dashboard.

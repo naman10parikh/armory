@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T07:37:43Z"
 ---
 ## What it is
 MCP server `URL Safety Validator`, catalogued on PulseMCP. URL safety assessment with SAFE/SUSPICIOUS/DANGEROUS verdicts using Google Web Risk, URLhaus, and PhishTank.

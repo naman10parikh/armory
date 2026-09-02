@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:54:21Z"
 ---
 ## What it is
 Checks documents against international standards (e.g., ICAO, Hague-Visby) to verify internal consistency and completeness, returning a machine-readable verdict for agent decision-making.

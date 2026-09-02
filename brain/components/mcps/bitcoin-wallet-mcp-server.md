@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T16:13:15Z"
 ---
 ## What it is
 Provides Bitcoin and Stacks wallet operations including sending, receiving, balance checks, and transaction management via MCP tools.

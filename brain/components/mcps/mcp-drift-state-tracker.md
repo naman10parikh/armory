@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T19:16:09Z"
 ---
 ## What it is
 MCP server that scans multi-language codebases to detect stubs, missing imports, and structural incompleteness, assigning drift scores to quantify LLM context erosion.

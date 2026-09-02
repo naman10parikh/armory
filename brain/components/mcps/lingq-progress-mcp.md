@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T19:09:41Z"
 ---
 ## What it is
 A read-only MCP server that lets ChatGPT inspect your LingQ progress without exposing your password. It exposes tools for listing languages, checking progress capabilities, and retrieving progress summaries and charts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-09T01:53:30Z"
 ---
 ## What it is
 Provides five utility tools: weather information, calculator, currency converter, timezone information, and unit converter.

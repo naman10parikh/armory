@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
 stars: 3
+forks: 2
+pushed_at: "2026-08-11T01:49:04Z"
 ---
 ## What it is
 Create, read, validate, and save Stella system dynamics models (.stmx files in XMILE format) for scientific simulation and modeling.

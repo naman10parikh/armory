@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T18:28:48Z"
 ---
 ## What it is
 MCP server `DealSync`, catalogued on PulseMCP. Shared deal room for Loan Officers and Realtors to track leads from conversation to closing.

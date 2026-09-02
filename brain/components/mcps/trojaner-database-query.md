@@ -8,10 +8,12 @@ source_url: https://github.com/trojaner/mcp-database-query-app
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-13T11:13:18Z"
 ---
 ## What it is
 MCP server `Database Query`, catalogued on PulseMCP. PostgreSQL and SQL Server query tool with interactive grid UI and Chart.js visualizations.

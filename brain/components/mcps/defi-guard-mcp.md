@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T08:41:42Z"
 ---
 ## What it is
 The safety layer that checks a DeFi transaction or token before your agent (or you) signs — on Base L2.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T21:52:08Z"
 ---
 ## What it is
 A read-only MCP server for the Logitech Sync Cloud API, providing tools to inspect rooms, desks, devices, health, occupancy, coverage, environmental readings, and network information.

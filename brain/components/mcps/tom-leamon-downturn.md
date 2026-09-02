@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T06:54:53Z"
 ---
 ## What it is
 MCP server `Downturn`, catalogued on PulseMCP. Web page to clean Markdown converter with zero runtime dependencies, deployable as an MCP server, HTTP API, or standalone browser app.

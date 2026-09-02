@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T16:30:58Z"
 ---
 ## What it is
 DescriptiShared knowledge cache for AI agents — cache-first search saves tokens and avoids redundant web searches. Cross-agent deduplication with trust scoring. Human Bridge for blocked/paywalled content. MCP-native (FastMCP), ChromaDB-backed. 3 tools: agenthive_search, agenthive_contribute, agenthi

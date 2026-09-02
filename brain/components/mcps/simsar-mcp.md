@@ -8,11 +8,13 @@ source_url: https://github.com/miratcan/simsar-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-01T22:05:30Z"
 ---
 ## What it is
 Enables AI assistants to access comprehensive cryptocurrency market analysis, including real-time prices, 35+ technical indicators, market sentiment, futures data, and economic events.

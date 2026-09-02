@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T15:54:16Z"
 ---
 ## What it is
 A lightweight local MCP server that runs axe-core accessibility audits via Playwright and returns compressed, actionable results optimized for Claude's context window.

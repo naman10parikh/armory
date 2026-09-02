@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T18:20:00Z"
 ---
 ## What it is
 MCP server for querying your local Google Takeout activity (Search/YouTube history) via SQLite/FTS5. Provides tools for keyword search, activity stats, and database info, enabling AI assistants to cite your personal history.

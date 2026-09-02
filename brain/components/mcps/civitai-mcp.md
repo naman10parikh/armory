@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T05:58:54Z"
 ---
 ## What it is
 A model context protocol server for Civitai that enables searching models by various filters, viewing previews, downloading model files, reading image generation parameters from local or Civitai images, and generating images via the Civitai Orchestration API.

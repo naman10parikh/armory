@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-03T22:48:30Z"
 ---
 ## What it is
 MCP server `Cloud Regions`, catalogued on PulseMCP. Cloud region data for AWS, Azure, GCP, OCI, and 10 more providers. Query 267 regions by location, compliance, GPU availability, and sustainability.

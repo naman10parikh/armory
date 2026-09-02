@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T19:45:05Z"
 ---
 ## What it is
 Calculates 3D printing cost, time, material weight and build-plate fit from plain dimensions given in the conversation, with no STL upload and no API key. Covers PLA, PETG, ABS, ASA, TPU, Nylon, PC and PLA-CF, plus build volumes for Bambu Lab, Prusa, Creality, Voron and Elegoo printers.

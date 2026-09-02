@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T20:00:10Z"
 ---
 ## What it is
 A local MCP server for PostgreSQL that provides tools for SQL execution, metadata inspection, performance diagnostics, and database management through natural language.

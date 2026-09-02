@@ -8,10 +8,12 @@ source_url: https://github.com/strowk/mcp-k8s-go
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 382
+stars: 386
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 57
+pushed_at: "2025-12-22T20:12:06Z"
 ---
 ## What it is
 MCP server `Kubernetes`, catalogued on PulseMCP. Control and monitor K8s clusters for management and debugging.

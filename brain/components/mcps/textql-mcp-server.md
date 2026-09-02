@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-24T22:16:05Z"
 ---
 ## What it is
 Translates natural language to SQL/GraphQL queries and executes them, enabling AI agents to interact with databases through the Model Context Protocol.

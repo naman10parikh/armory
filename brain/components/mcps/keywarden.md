@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:40:33Z"
 ---
 ## What it is
 Enables AI agents to make authenticated API calls and run commands with secrets injected, while keeping credentials completely hidden from the model, with policy enforcement, grants, and audit logging.

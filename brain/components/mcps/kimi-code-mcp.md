@@ -8,11 +8,13 @@ source_url: https://github.com/howardpen9/kimi-code-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 60
+stars: 61
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-07-28T02:23:53Z"
 ---
 ## What it is
 Connects Kimi Code with Claude Code, enabling Claude to delegate bulk codebase reading to Kimi (256K context) for cost savings, while Claude focuses on reasoning and code edits.

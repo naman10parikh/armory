@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T07:12:31Z"
 ---
 ## What it is
 MCP server for managing Google Ads campaigns through the official Google Ads API, covering accounts, campaigns, budgets, keywords, search terms, and keyword ideas. It provides tools for both reading and mutating live ads data, such as pausing campaigns, updating budgets, and adding keywords.

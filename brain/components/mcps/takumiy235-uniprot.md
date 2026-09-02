@@ -8,10 +8,12 @@ source_url: https://github.com/takumiy235/uniprot-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-05-29T16:23:16Z"
 ---
 ## What it is
 MCP server `UniProt`, catalogued on PulseMCP. Integrates with UniProt API to provide cached protein information for bioinformatics applications and protein research.

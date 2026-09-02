@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-30T22:07:47Z"
 ---
 ## What it is
 MCP server `NBA Stats`, catalogued on PulseMCP. Provides real-time NBA game data including scores, player statistics, and play-by-play information through the nba_api package for accessing current basketball information not in Claude's training data.

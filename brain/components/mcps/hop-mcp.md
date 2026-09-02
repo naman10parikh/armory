@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-13T11:33:53Z"
 ---
 ## What it is
 Manages parallel Git worktrees, enabling work on multiple branches simultaneously without stashing or context switching.

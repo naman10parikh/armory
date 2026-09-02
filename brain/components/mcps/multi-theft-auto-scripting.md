@@ -8,10 +8,12 @@ source_url: https://github.com/multitheftauto/mta-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-31T13:48:20Z"
 ---
 ## What it is
 MCP server `Multi Theft Auto Scripting`, catalogued on PulseMCP. Official MCP server for Multi Theft Auto providing 8 tools for MTA Wiki docs, function lookups, and scripting reference.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-13T11:36:04Z"
 ---
 ## What it is
 Enables LLMs to access Blackbird AI's services through the Model Context Protocol, using Blackbird API credentials for authentication.

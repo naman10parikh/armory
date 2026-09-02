@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T21:21:03Z"
 ---
 ## What it is
 Forwards Instagram reels to Claude with timestamped transcripts and video frames, enabling Claude to watch, research, and build based on shared content.

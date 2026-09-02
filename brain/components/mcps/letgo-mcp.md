@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T16:57:08Z"
 ---
 ## What it is
 Enables searching, viewing details, and filtering listings on Letgo.com by using Playwright to bypass Akamai anti-bot protection.

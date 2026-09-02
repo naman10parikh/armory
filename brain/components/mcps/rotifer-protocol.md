@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T13:46:47Z"
 ---
 ## What it is
 MCP server `Rotifer Protocol`, catalogued on PulseMCP. Searches, compares, and ranks AI Genes in the Rotifer Protocol ecosystem for autonomous agent capability evolution.

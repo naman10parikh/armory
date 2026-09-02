@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-04T18:43:56Z"
 ---
 ## What it is
 Enables querying Plaud AI recordings, transcripts, and summaries through the Plaud Desktop app's authenticated session via Chrome DevTools Protocol.

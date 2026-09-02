@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-27T15:09:40Z"
 ---
 ## What it is
 Enables AI assistants to manage SSH connections, execute commands, and transfer files via SFTP over the Model Context Protocol.

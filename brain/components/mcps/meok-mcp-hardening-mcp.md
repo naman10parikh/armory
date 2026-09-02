@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T05:46:01Z"
 ---
 ## What it is
 Automated security red-team for any MCP server that scans manifests against OWASP LLM Top 10 and MCP-specific risks, returning a 0-100 hardening score and HMAC-signed report.

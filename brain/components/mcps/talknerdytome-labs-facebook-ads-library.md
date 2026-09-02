@@ -8,10 +8,12 @@ source_url: https://github.com/proxy-intell/facebook-ads-library-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 229
+stars: 295
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 38
+pushed_at: "2026-08-12T10:17:36Z"
 ---
 ## What it is
 MCP server `Facebook Ads Library`, catalogued on PulseMCP. Integrates with Meta's Facebook Ad Library through ScrapeCreators API to search brands and retrieve their running advertisements with image and video analysis for competitive research and marketing insights.

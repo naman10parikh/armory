@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T14:41:46Z"
 ---
 ## What it is
 MCP server for solo business founders to route painpoints, generate execution assets, and maintain control through approval workflow.

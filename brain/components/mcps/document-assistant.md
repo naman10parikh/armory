@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T04:56:57Z"
 ---
 ## What it is
 Enables natural language search and analysis of uploaded PDF, CSV, and Excel documents using retrieval-augmented generation and MCP tools, providing contextual answers to user queries.

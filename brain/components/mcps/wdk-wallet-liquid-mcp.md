@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:27:21Z"
 ---
 ## What it is
 Enables AI agents to interact with a Liquid network wallet, including balance checks, transaction history, and sending L-BTC or Liquid assets. Backed by an in-process LWK wallet, requiring only a mnemonic, with both stdio and HTTP support.

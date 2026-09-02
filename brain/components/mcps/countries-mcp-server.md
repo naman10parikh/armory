@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:51:03Z"
 ---
 ## What it is
 Provides world country data from the REST Countries API, enabling search by name, ISO code, region, language, or currency, with details like capital, population, and languages.

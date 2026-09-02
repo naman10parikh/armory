@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T07:19:29Z"
 ---
 ## What it is
 This MCP server provides a tool to analyze git repository hotspots, returning a sorted list of files with risk scores based on change frequency and author count.

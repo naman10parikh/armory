@@ -8,10 +8,12 @@ source_url: https://github.com/lyuboslavlyubenov/search-solodit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-06-30T16:42:13Z"
 ---
 ## What it is
 MCP server `Solodit`, catalogued on PulseMCP. Integrates with Solodit's vulnerability database to search smart contract security audit findings and retrieve detailed vulnerability reports including impact levels, audit firm details, and technical descriptions for security research and analysis workflows.

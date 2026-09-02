@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:22:12Z"
 ---
 ## What it is
 Small diagnostic MCP server for checking what MCP clients actually support, including tools, resources, prompts, and transport behavior.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T19:50:53Z"
 ---
 ## What it is
 Enables to create notebooks and notes with tags, and perform full-text search across notes using FTS5 syntax, all stored locally in SQLite.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T18:08:29Z"
 ---
 ## What it is
 MCP server `Copilot Connector Ledger`, catalogued on PulseMCP. Copilot Studio connector permission audits, owner signoff routing, and tamper-evident audit receipts.

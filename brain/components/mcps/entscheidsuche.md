@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-17T01:39:58Z"
 ---
 ## What it is
 MCP server `Entscheidsuche`, catalogued on PulseMCP. Full-text search and retrieval of Swiss court decisions across all federal and cantonal courts in German, French, and Italian.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T13:34:43Z"
 ---
 ## What it is
 Enables provisioning and managing PostgreSQL databases, running SQL queries, and evolving schemas with tracked migrations, with automatic account creation and no configuration needed.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T21:36:47Z"
 ---
 ## What it is
 Provides 22 tools for Shariah-compliant stock and ETF screening across 5 methodologies, portfolio auditing, zakat calculation, and live market data for AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T11:10:24Z"
 ---
 ## What it is
 A quantitative finance MCP server providing 24 tools for option pricing, portfolio optimization, risk measurement, fixed income analysis, and utility functions, enabling AI clients to perform professional financial calculations.

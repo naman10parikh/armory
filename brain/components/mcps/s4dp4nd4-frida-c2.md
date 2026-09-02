@@ -8,10 +8,12 @@ source_url: https://github.com/s4dp4nd4/frida-c2-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-03-18T18:48:39Z"
 ---
 ## What it is
 MCP server `Frida C2`, catalogued on PulseMCP. Enables dynamic mobile application security testing by running Frida instrumentation directly on rooted Android devices through Termux for real-time method hooking and security bypass techniques.

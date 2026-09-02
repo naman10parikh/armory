@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T04:52:28Z"
 ---
 ## What it is
 This MCP server provides unified read/write access to Jira Cloud tickets and Confluence Cloud pages, enabling search, retrieval, and updates. It automatically downloads log attachments from tickets into a shared directory for the companion Log Intelligence MCP to ingest.

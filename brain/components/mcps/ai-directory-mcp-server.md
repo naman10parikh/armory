@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-19T17:52:21Z"
 ---
 ## What it is
 Enables AI assistants to query the Voxie AI Phone Number Directory, list AI services, and obtain webchat URLs to interact with Voxie AI personas.

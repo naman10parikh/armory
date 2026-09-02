@@ -12,6 +12,8 @@ stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2025-03-27T22:59:59Z"
 ---
 ## What it is
 MCP server `Crypto Sentiment (Santiment)`, catalogued on PulseMCP. Delivers cryptocurrency sentiment analysis by leveraging Santiment's social media and news data, enabling traders to retrieve sentiment metrics, monitor mentions, detect volume shifts, identify trending topics, and measure asset dominance in real-time.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:58:53Z"
 ---
 ## What it is
 MCP server for Bloom Growth that allows users to update metrics, check scorecards, and manage rocks directly from Claude.

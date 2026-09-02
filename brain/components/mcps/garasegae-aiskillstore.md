@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 3
+stars: 4
+forks: 0
+pushed_at: "2026-05-14T04:39:30Z"
 ---
 ## What it is
 Agent-first skill marketplace where AI agents discover, purchase, and integrate skills via MCP protocol. Supports 7+ platforms including Claude, hGPT, and Gemini.

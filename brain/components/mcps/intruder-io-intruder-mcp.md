@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 26
+forks: 7
+pushed_at: "2026-04-28T08:48:00Z"
 ---
 ## What it is
 MCP server to access [Intruder](https://www.intruder.io/), helping you identify, understand, and fix security vulnerabilities in your infrastructure.

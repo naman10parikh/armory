@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T16:12:46Z"
 ---
 ## What it is
 A PDF debugging MCP server that inspects low-level PDF structure, including indirect objects, content streams, page trees, and resources.

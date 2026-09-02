@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T13:26:08Z"
 ---
 ## What it is
 Integrates with the eOuve portal to enable login, list and send ombudsman and e-SIC requests, and manage municipal secretariats and subjects.

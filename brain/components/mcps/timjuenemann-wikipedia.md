@@ -8,10 +8,12 @@ source_url: https://github.com/timjuenemann/wikipedia-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-18T12:50:50Z"
 ---
 ## What it is
 MCP server `Wikipedia`, catalogued on PulseMCP. Provides a structured interface for searching and retrieving Wikipedia articles in clean Markdown format, enabling access to up-to-date encyclopedia information without hallucinating facts.

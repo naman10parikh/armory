@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T14:48:13Z"
 ---
 ## What it is
 Eyebrowse is an MCP server that gives AI agents eyes and hands in your real Chrome browser, allowing them to see screenshots, read page structure, and interact with pages like clicking, typing, scrolling, and navigating.

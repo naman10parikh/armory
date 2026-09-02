@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T20:20:28Z"
 ---
 ## What it is
 MCP server for Scribefy — extract YouTube transcripts from Claude Desktop, Cursor, Windsurf, ChatGPT custom GPTs, or any other MCP-compatible client.

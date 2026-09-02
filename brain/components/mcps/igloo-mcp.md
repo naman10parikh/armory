@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-10T11:07:27Z"
 ---
 ## What it is
 MCP server for searching and retrieving content from Igloo digital workplace instances. Enables AI assistants to search, fetch pages as Markdown, and look up member profiles via the Igloo API.

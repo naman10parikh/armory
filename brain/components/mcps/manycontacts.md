@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-15T10:08:53Z"
 ---
 ## What it is
 MCP server `ManyContacts`, catalogued on PulseMCP. WhatsApp Business CRM for managing contacts, sending messages, running campaigns, and configuring AI agents.

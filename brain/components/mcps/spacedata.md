@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T16:10:45Z"
 ---
 ## What it is
 Aggregated public space data — satellite orbits, catalogs and launches — as a single AI-friendly CLI.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T03:03:45Z"
 ---
 ## What it is
 MCP server `GetKin Agent Infrastructure`, catalogued on PulseMCP. Provides agent infrastructure tools including LLM model routing, availability monitoring, and memory compression.

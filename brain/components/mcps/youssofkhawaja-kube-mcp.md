@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-03T19:02:28Z"
 ---
 ## What it is
 MCP server `Kube MCP`, catalogued on PulseMCP. Multi-cluster Kubernetes management via natural language using a central server and lightweight per-cluster agents over WebSocket.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-07T17:40:26Z"
 ---
 ## What it is
 Provides LLM context on U.S. national parks by integrating National Park Service, Recreation.gov, and weather APIs, enabling queries about park info, trails, alerts, events, weather forecasts, and more via tool calls.

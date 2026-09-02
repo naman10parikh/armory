@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T11:18:41Z"
 ---
 ## What it is
 A shared working-state layer for AI coding tools that keeps a persistent notebook for context, decisions, and task handoffs, enabling coordination across multiple assistants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T01:22:34Z"
 ---
 ## What it is
 Enables scanning Windows EVTX event log files with Hayabusa, returning structured detection results through an MCP tool.

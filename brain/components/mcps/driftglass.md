@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:20:49Z"
 ---
 ## What it is
 MCP server that maintains cited, current answers to standing research questions by tracking chosen sources, consolidating repeated coverage, and providing evidence-based briefs with change signals.

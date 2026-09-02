@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-16T06:16:07Z"
 ---
 ## What it is
 MCP server `Indian Stock Market`, catalogued on PulseMCP. Provides NSE and BSE stock data including price lookups, company search, and batch queries

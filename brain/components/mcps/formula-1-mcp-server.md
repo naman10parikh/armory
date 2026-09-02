@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-22T23:01:11Z"
 ---
 ## What it is
 Provides easy access to Formula 1 data including championship standings, event info, season calendars, track visualizations, session results, and driver/constructor info via FastF1 and OpenF1 API.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T11:23:21Z"
 ---
 ## What it is
 MCP server `CAN-TAP Verified`, catalogued on PulseMCP. Canadian business directory MCP server for finding free dofollow backlink opportunities, claiming listings, and tracking NFC tap analytics.

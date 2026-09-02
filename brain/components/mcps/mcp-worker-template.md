@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T18:48:08Z"
 ---
 ## What it is
 An MCP server template for Cloudflare Workers with zero runtime dependencies, providing a hand-rolled Streamable HTTP transport that lets you easily define and deploy tools with static bearer token auth.

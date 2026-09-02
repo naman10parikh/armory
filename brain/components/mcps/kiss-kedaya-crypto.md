@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-23T08:59:36Z"
 ---
 ## What it is
 MCP server `Crypto`, catalogued on PulseMCP. Provides cryptographic operations including encryption, decryption, hashing, and digital signatures using the PyCryptodome library for secure data handling in applications.

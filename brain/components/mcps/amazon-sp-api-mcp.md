@@ -8,11 +8,13 @@ source_url: https://github.com/ailumia/amazon-sp-api-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T13:29:43Z"
 ---
 ## What it is
 A production-grade MCP server for the Amazon Selling Partner API that provides a complete registry of 353 operations across 49 API domains, enabling discovery, description, and invocation of SP-API operations with version awareness and safety controls.

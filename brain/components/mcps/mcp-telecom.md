@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-07T04:25:46Z"
 ---
 ## What it is
 Bridges AI agents with network infrastructure, enabling secure read-only access to multiple vendor routers via SSH for natural language queries and troubleshooting.

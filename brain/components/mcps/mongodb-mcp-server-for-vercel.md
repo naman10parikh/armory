@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-11T22:02:55Z"
 ---
 ## What it is
 A read-only MongoDB MCP server designed for serverless deployment on Vercel, providing secure, limited access to MongoDB databases for AI assistants.

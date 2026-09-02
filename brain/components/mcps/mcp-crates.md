@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:51:20Z"
 ---
 ## What it is
 Wraps the crates.io REST API v1 to enable AI agents to query Rust crate registry data without authentication.

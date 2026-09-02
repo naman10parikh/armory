@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-29T04:48:28Z"
 ---
 ## What it is
 Headless reverse engineering MCP server integrating IDA Pro for static analysis and x64dbg for dynamic debugging via controlled MCP tools.

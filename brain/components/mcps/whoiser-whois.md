@@ -8,10 +8,12 @@ source_url: https://github.com/modelcontextprotocol-servers/whois-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-07T10:13:19Z"
 ---
 ## What it is
 MCP server `Whoiser`, catalogued on PulseMCP. Provides a lightweight server for performing WHOIS lookups using the whoiser library, enabling retrieval of domain registration and ownership information through TypeScript-based type-safe queries.

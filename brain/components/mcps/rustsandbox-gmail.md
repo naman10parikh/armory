@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-24T13:13:03Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. Provides a clean interface for accessing Gmail emails through OAuth2 authentication, automatically handling authentication flows and processing HTML content into plain text for better readability.

@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
-stars: 86
+stars: 87
+forks: 10
+pushed_at: "2025-04-04T09:10:29Z"
 ---
 ## What it is
 This is a TypeScript-based MCP server that provides DuckDuckGo search functionality.

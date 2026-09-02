@@ -8,10 +8,12 @@ source_url: https://github.com/brutus-gr/stratint-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-21T15:00:46Z"
 ---
 ## What it is
 MCP server `OSINT`, catalogued on PulseMCP. Real-time OSINT intelligence platform for global security monitoring.

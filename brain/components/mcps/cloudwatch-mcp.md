@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T05:15:25Z"
 ---
 ## What it is
 Provides AI assistants with read-only access to AWS CloudWatch Logs for production debugging and log analysis, enabling error searching and bug report generation.

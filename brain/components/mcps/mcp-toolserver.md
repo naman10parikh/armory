@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T03:21:52Z"
 ---
 ## What it is
 Enables document search, read-only SQL querying, arithmetic calculation, and corpus introspection through MCP tools, allowing Claude to dynamically discover and chain these tools together to answer multi-step questions.

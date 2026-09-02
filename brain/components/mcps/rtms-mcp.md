@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T12:18:28Z"
 ---
 ## What it is
 Queries Korean apartment sale transaction data (RTMS) by region code and contract date. Optimized for token efficiency with compressed JSON and Korean field names.

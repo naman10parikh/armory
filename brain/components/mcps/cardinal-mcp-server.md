@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T12:12:35Z"
 ---
 ## What it is
 Enables AI-powered manipulation of Cardinal/VCV Rack modular synthesizer patches, allowing users to create, analyze, modify, and connect modules and cables through natural language.

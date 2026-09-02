@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-21T08:38:14Z"
 ---
 ## What it is
 MCP server `Local Ollama File Operations`, catalogued on PulseMCP. Delegates file read, write, edit, delete, and rename operations to a local Ollama model to keep file contents out of Claude's context.

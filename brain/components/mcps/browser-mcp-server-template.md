@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T01:37:46Z"
 ---
 ## What it is
 A browser automation MCP server with stealth mode, profile management, and multi-browser support, enabling LLMs to control browsers for tasks like navigation, data extraction, and form filling.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-04T19:48:05Z"
 ---
 ## What it is
 MCP server `GitHub PR Reviewer (Notion)`, catalogued on PulseMCP. Integrates with GitHub's API to fetch, analyze, and document pull request changes, enabling automated code reviews and maintaining documentation of code changes in Notion.

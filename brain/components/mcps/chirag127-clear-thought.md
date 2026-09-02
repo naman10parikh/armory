@@ -8,10 +8,12 @@ source_url: https://github.com/chirag127/clear-thought-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-27T21:44:35Z"
 ---
 ## What it is
 MCP server `Clear Thought`, catalogued on PulseMCP. Provides 11 specialized cognitive tools including mental models, design patterns, debugging approaches, and scientific reasoning frameworks for systematic problem-solving and enhanced analytical thinking.

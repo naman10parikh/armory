@@ -8,11 +8,13 @@ source_url: https://github.com/nveil-ai/nveil-toolkit
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T14:26:14Z"
 ---
 ## What it is
 AI-powered data visualization MCP server that generates publication-ready charts from natural language descriptions while keeping data local.

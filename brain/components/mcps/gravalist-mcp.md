@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T06:22:15Z"
 ---
 ## What it is
 Enables querying high-end gravel routes with micro-elevation maps, weather pacing, and MCP integration for AI agents to scout route gaps and identify locked gates.

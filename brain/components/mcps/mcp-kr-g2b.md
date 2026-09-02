@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T12:53:59Z"
 ---
 ## What it is
 Enables AI assistants to query and analyze Korean public procurement data from the Korea Public Procurement Service (G2B/Nuri) via 14 services and 156 operations, including bid announcements, contracts, prices, and statistics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:16:08Z"
 ---
 ## What it is
 An MCP server that gives an agent terminal and file-management capabilities, including running shell/Python commands, searching and reading files, and creating/editing/deleting files and folders.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:07:48Z"
 ---
 ## What it is
 MCP server `Football-Data`, catalogued on PulseMCP. Football-Data.org soccer statistics — competitions, standings, teams, and matches across 12 major leagues via Pipeworx.

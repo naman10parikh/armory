@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T03:01:28Z"
 ---
 ## What it is
 Enables automatic generation of structured meeting minutes from Feishu meeting links, date ranges, or arbitrary meeting transcripts, with summaries and action items organized by department.

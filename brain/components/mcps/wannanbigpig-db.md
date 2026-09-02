@@ -8,10 +8,12 @@ source_url: https://github.com/wannanbigpig/db-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-26T03:59:50Z"
 ---
 ## What it is
 MCP server `DB`, catalogued on PulseMCP. Provides secure database connectivity for MySQL, Redis, and MongoDB with configurable security modes, connection pooling, and comprehensive error handling across all database types.

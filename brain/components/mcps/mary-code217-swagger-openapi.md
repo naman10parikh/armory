@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-02T05:15:45Z"
 ---
 ## What it is
 MCP server `Swagger/OpenAPI`, catalogued on PulseMCP. Parses Swagger/OpenAPI specifications to dynamically generate callable tools for REST API integration with support for multiple APIs and authentication methods.

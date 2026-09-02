@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T03:20:45Z"
 ---
 ## What it is
 Enables ChatGPT to queue validated embroidery designs, compile constrained one-color designs, describe Brother SE700 limits, list queued jobs, and request phone-side transfers to a Brother SE700 after explicit user approval.

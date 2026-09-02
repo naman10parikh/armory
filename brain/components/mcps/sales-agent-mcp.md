@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T20:29:48Z"
 ---
 ## What it is
 Enables natural language sales analysis by connecting to a SQLite database, generating charts, and exporting results to CSV/Excel.

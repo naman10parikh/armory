@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T09:15:57Z"
 ---
 ## What it is
 Enables users to search and analyze academic papers from multiple sources, fetch metadata and full text, and build structured outputs like literature maps and paper comparisons.

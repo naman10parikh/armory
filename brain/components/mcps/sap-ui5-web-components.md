@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-31T11:17:34Z"
 ---
 ## What it is
 MCP server `SAP UI5 Web Components`, catalogued on PulseMCP. Development assistance for building applications with SAP UI5 Web Components.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T12:32:51Z"
 ---
 ## What it is
 Provides live network stats, supported AI tools, and guidance for earning USDC from your own MCP server or CLI tool via OpenCrater's monetization network.

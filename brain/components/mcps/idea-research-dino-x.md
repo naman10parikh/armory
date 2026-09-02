@@ -8,10 +8,12 @@ source_url: https://github.com/idea-research/dino-x-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 111
+stars: 109
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-06-17T07:43:06Z"
 ---
 ## What it is
 MCP server `DINO-X`, catalogued on PulseMCP. Empower LLMs with fine-grained visual understanding — detect, localize, and describe anything in images with natural language prompts.

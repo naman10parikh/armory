@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T19:25:27Z"
 ---
 ## What it is
 Generates JSON for Roblox Studio 3D models from natural language prompts using the Anthropic API, allowing creation and modification of objects.

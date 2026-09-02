@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T16:26:43Z"
 ---
 ## What it is
 A lightweight MCP server that enables any MCP client to execute Python code safely in a sandboxed environment, with automatic matplotlib inline image return and temporary file isolation.

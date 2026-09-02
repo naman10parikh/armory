@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T03:23:49Z"
 ---
 ## What it is
 Enables AI to manage whistle mock rules, values, and inspect network sessions, facilitating API mocking and debugging through natural language.

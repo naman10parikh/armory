@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-13T08:33:54Z"
 ---
 ## What it is
 MCP server `Magic: The Gathering`, catalogued on PulseMCP. Integrates Magic: The Gathering data sources to provide unified access for card searches, rules lookup, and set information retrieval.

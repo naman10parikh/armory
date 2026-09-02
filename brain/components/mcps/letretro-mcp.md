@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T15:42:44Z"
 ---
 ## What it is
 Enables AI coding tools to access LetRetro retrospectives, boards, cards, and team data through MCP.

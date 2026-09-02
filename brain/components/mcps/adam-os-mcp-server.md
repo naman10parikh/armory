@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T19:29:04Z"
 ---
 ## What it is
 Enables restaurant management through natural language, allowing import of Toast CSV data, labor/sales analysis, tip pool calculations, task management, and note-taking.

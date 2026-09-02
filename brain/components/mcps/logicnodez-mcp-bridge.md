@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T18:40:43Z"
 ---
 ## What it is
 Connects MCP-compatible AI agents to LogicNodes for deterministic, pay-per-call infrastructure on Base, exposing 8 service tools (e.g., gas oracle, identity registration) and marketplace tools for agent discovery and invocation.

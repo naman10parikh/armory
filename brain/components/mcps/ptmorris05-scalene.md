@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-17T06:44:41Z"
 ---
 ## What it is
 MCP server `Scalene`, catalogued on PulseMCP. Provides structured access to Scalene's CPU, GPU, and memory profiling capabilities for Python scripts and code snippets.

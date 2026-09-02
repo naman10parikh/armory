@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T13:55:52Z"
 ---
 ## What it is
 Classifies Solana on-chain transactions into tax categories (e.g., swap, stake, NFT) and exports CSV reports compatible with TurboTax and CoinTracker.

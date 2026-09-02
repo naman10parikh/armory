@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T17:11:02Z"
 ---
 ## What it is
 MCP server for searching and reading notes captured with the Compy Chrome extension, allowing AI agents to access local highlights and tasks on demand.

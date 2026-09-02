@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-27T23:31:23Z"
 ---
 ## What it is
 MCP server `now.presso/presso`, catalogued on PulseMCP. Connect e-commerce and marketing data to AI assistants via MCP.

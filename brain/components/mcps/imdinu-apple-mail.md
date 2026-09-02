@@ -8,10 +8,12 @@ source_url: https://github.com/imdinu/apple-mail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-08-23T14:51:34Z"
 ---
 ## What it is
 MCP server `Apple Mail`, catalogued on PulseMCP. Fast Apple Mail integration with batch JXA and FTS5 search index.

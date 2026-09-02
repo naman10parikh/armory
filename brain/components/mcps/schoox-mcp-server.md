@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T15:04:18Z"
 ---
 ## What it is
 Enables querying Schoox LMS data (users, courses, enrollments, etc.) via natural language using AI assistants, without writing API code.

@@ -8,11 +8,13 @@ source_url: https://github.com/2428424081cn/mcp-system-monitor
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T14:59:03Z"
 ---
 ## What it is
 A secure, read-only MCP server for AI-powered system monitoring. It provides real-time OS metrics, config discovery, and safe log tailing to enable autonomous infrastructure audits without shell access risks.

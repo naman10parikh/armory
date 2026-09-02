@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-29T20:41:11Z"
 ---
 ## What it is
 Enables AI models to manage Robinhood portfolios, execute trades, and run automated trading bots with stop-loss/take-profit monitoring.

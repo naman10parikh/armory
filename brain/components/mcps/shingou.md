@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T12:24:11Z"
 ---
 ## What it is
 Hourly news sentiment and typed market events (hack, regulation, listing, delisting, legal) for 30 crypto pairs, with source links on every signal. Four tools cover the latest score per symbol, history, classified events and the symbol list, and a free API key works out of the box

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-09-04T21:47:28Z"
 ---
 ## What it is
 Turn any CLI tool into an MCP server by leveraging its --help output, enabling natural language interaction with tools like gh, az, git, etc.

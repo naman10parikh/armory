@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T12:02:46Z"
 ---
 ## What it is
 MCP server for CIcash, a budget system that lets AI agents spend within bounded, expiring, revocable budgets. Provides tools for budget checks, quotes, payments, delegation, and receipts, with the private key kept server-side.

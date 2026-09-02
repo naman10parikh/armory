@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T22:42:16Z"
 ---
 ## What it is
 MCP server `Transmit`, catalogued on PulseMCP. Email platform integration with 18 tools for sending, templates, campaigns, and contact management.

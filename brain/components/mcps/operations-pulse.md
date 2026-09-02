@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T16:08:07Z"
 ---
 ## What it is
 Enables AI assistants to run local-first operations checks, review evidence, and manage durable tickets in a SQLite-backed ledger through self-describing MCP tools.

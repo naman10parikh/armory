@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T13:43:58Z"
 ---
 ## What it is
 Provides structured financial market data (stocks, ETFs, mutual funds, fundamentals, market indicators) to AI systems via MCP, enabling natural language access to financial datasets with both hosted and local deployment options.

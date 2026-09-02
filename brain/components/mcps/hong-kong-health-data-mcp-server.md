@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-10T05:42:58Z"
 ---
 ## What it is
 Enables querying of current A\&E waiting times, specialist outpatient waiting times, and general outpatient clinic quotas in Hong Kong using natural language through MCP.

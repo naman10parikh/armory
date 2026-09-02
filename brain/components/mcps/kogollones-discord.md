@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-11T03:59:39Z"
 ---
 ## What it is
 MCP server `Discord Extended`, catalogued on PulseMCP. Comprehensive Discord server with role, channel, message, and moderation features.

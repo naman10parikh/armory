@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T11:23:34Z"
 ---
 ## What it is
 Standalone MCP server for the Mangools API with 82 tools covering keyword research, SERP analysis, rank tracking, backlinks, competitor research, and AI search visibility. Enables natural language interaction with Mangools SEO capabilities.

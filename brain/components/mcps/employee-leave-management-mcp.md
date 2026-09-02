@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:56:21Z"
 ---
 ## What it is
 Enables managing employee leave records through natural language, including adding employees, listing employees, adding/deleting leave entries, and viewing leave history.

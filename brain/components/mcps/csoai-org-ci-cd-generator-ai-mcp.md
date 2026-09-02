@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T14:39:30Z"
 ---
 ## What it is
 MCP server `CI/CD Generator AI`, catalogued on PulseMCP. AI-powered CI/CD pipeline generation and configuration tools.

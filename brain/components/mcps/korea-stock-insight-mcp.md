@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T12:05:19Z"
 ---
 ## What it is
 Enables LLM agents to access Korean stock market data including DART disclosures, financial statements, and KOSPI/KOSDAQ prices, with an English-first interface designed for non-Korean speaking analysts.

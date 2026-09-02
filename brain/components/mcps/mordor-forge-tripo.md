@@ -8,10 +8,12 @@ source_url: https://github.com/mordor-forge/trident-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-09T11:36:17Z"
 ---
 ## What it is
 MCP server `Tripo 3D`, catalogued on PulseMCP. 3D model generation via Tripo API supporting text-to-3D, image-to-3D, retopology, and format conversion.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-01T22:51:03Z"
 ---
 ## What it is
 MCP server `Optimized Memory`, catalogued on PulseMCP. Integrates with SQLite to provide a persistent knowledge graph for efficient memory management and relationship modeling across conversations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T04:21:55Z"
 ---
 ## What it is
 Enables AI assistants to access YouTube organic analytics, including channel stats, video performance, watch time, and audience engagement, via the YouTube Data API v3 and Analytics API v2.

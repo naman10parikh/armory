@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T06:25:47Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that exposes tools for exploring and querying SQLite and PostgreSQL databases. It allows Large Language Models (LLMs) to inspect table structures, perform statistical profiling, generate entity-relationship diagrams, and execute queries safely.

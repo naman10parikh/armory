@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [browser, devops, mcp]
+forks: 6
+pushed_at: "2025-03-12T23:39:18Z"
 ---
 
 ## What it is

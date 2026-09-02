@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T04:18:21Z"
 ---
 ## What it is
 An MCP server for counting tokens in text or files using model-specific tokenizers, and reporting file metrics like lines, characters, and size.

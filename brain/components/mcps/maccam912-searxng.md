@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-19T19:19:22Z"
 ---
 ## What it is
 MCP server `SearXNG`, catalogued on PulseMCP. Integrates with SearXNG instances to provide unified search capabilities across multiple engines for tasks like information gathering and fact-checking.

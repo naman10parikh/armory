@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T04:38:09Z"
 ---
 ## What it is
 A read-only MCP server for fitness tracking, providing public app info and protected weight entries from Supabase.

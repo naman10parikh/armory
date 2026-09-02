@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T10:58:07Z"
 ---
 ## What it is
 Provides AI-powered subsurface scan analysis and plain-English bid drafting tools, helping certified technicians assess hazards and trades build estimates.

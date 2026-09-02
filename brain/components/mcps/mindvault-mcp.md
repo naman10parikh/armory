@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T11:58:57Z"
 ---
 ## What it is
 A privacy-first MCP server that converts messy multi-turn conversations into structured, durable knowledge cards, targeting non-programming agent workflows.

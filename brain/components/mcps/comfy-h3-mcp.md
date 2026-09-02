@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T20:09:11Z"
 ---
 ## What it is
 Enables MiniMax-H3 video+audio generation on a local ComfyUI via five simple tools, including image/reference-to-video, job polling/cancelling, and asset listing, with stateless prompt_id-based job handling.

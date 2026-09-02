@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T15:17:31Z"
 ---
 ## What it is
 Shared, versioned memory and governance control plane for AI coding agents. Compiler pipeline resolves architectural decision conflicts across Claude Code, Cursor, and custom agent fleets.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-07T05:29:58Z"
 ---
 ## What it is
 Enables carbon emission calculations for Australian electricity and gas consumption using official National Greenhouse Accounts 2024 data, supporting all states and territories.

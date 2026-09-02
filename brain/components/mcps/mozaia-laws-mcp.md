@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T23:25:34Z"
 ---
 ## What it is
 MCP server for real-time access to Mozambican legislation, enabling search, status checks, article retrieval, historical versions, and citation resolution via the Mozaia platform.

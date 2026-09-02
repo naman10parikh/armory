@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:06Z"
 ---
 ## What it is
 MCP server for querying the Central Bank of Brazil's 'Valores a Receber' (amounts to receive) service, providing read-only access to official data through natural language with a hosted server and prepaid credits.

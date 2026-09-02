@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-25T08:10:47Z"
 ---
 ## What it is
 Enables Claude to read, search, and analyze your entire knowledge vault locally via MCP tools like search, drafting, and linting.

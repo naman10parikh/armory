@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T23:37:16Z"
 ---
 ## What it is
 Connects AI agents to the Outset research platform for creating studies, managing recruitment, and querying results via the Model Context Protocol.

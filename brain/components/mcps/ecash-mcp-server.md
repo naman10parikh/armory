@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T00:44:22Z"
 ---
 ## What it is
 Enables AI agents to interact with the eCash ecosystem on Base mainnet, providing tools for mining, wallet operations, job marketplace, and reputation management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T06:42:55Z"
 ---
 ## What it is
 Enables ChatGPT to answer questions about sound healing, self-healing, energy work, and Om Sacred Space's offerings through a minimal MCP server.

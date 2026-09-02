@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T05:23:18Z"
 ---
 ## What it is
 Enables semantic search over the CCI Black Book, a scanned grow manual, retrieving both text and visual content with cited evidence packs for AI assistants.

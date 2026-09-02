@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T14:45:06Z"
 ---
 ## What it is
 A Claude Code plugin and MCP server for end-to-end clinical trial design.

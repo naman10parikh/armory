@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T13:38:08Z"
 ---
 ## What it is
 Enables AI assistants and agents to search and retrieve validated customer insights from a Condens research repository, grounding their outputs in real customer knowledge.

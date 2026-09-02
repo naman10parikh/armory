@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T16:37:47Z"
 ---
 ## What it is
 MCP server `GlobalPulse`, catalogued on PulseMCP. Provides real-world macroeconomic, climate, disaster, trade, aviation, and country data from institutional sources.

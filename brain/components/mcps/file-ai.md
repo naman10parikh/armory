@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-24T08:36:08Z"
 ---
 ## What it is
 A read-only MCP server that provides document awareness for agents by parsing local files into structured profiles, blocks, chunks, and search results, enabling agents to understand and cite document content without dealing with raw file formats.

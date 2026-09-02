@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T13:23:49Z"
 ---
 ## What it is
 A remote MCP server that serves versioned Enterprise & Architecture guidelines (security, architecture, compliance) to LLM clients via Streamable HTTP with Bearer-token authentication.

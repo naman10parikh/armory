@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T06:53:30Z"
 ---
 ## What it is
 Enables AI assistants to manage Seedbox torrents, unlock premium download links, and create transcoding streams via the Debrid-Link API v2.

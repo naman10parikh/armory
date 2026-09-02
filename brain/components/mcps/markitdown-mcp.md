@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T10:38:09Z"
 ---
 ## What it is
 Converts documents (PDF, DOCX, XLSX, PPTX, HTML, TXT, MD) to Markdown and stores them locally with search and retrieval capabilities.

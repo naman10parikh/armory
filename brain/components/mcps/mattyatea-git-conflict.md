@@ -8,10 +8,12 @@ source_url: https://github.com/mattyatea/git-conflict-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-19T15:37:03Z"
 ---
 ## What it is
 MCP server `Git Conflict Manager`, catalogued on PulseMCP. Streamlines Git merge conflict resolution by providing structured tools for identifying conflicted files, reading conflict content, and marking conflicts as resolved without direct command-line interaction.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-29T09:20:18Z"
 ---
 ## What it is
 提供多品类优惠券查询和推广链接生成功能，涵盖外卖、美食、休闲娱乐、酒店、旅游和医药等类目。

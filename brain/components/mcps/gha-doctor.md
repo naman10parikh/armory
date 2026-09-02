@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T13:59:33Z"
 ---
 ## What it is
 CI health reports for GitHub Actions: flaky tests named from logs, wasted compute priced in dollars, zombie crons, PR feedback time, plus 21 lint rules with safe auto-fixes. Read-only MCP tools wrap the same Go binary.

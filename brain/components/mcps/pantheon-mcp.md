@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-09-27T11:32:30Z"
 ---
 ## What it is
 Enables AI agents to access a collection of specialized agent instructions on demand, covering categories like tech, business, growth, and product.

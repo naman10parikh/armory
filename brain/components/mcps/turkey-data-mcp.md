@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T22:36:00Z"
 ---
 ## What it is
 MCP server for live Turkey data — gold & silver prices, official TCMB exchange rates, fuel pump prices, prayer times and the Kandilli earthquake feed.

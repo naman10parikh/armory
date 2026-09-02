@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T18:19:39Z"
 ---
 ## What it is
 Provides access to Medplum FHIR healthcare data, enabling Claude and other MCP clients to read, search, and query FHIR resources from one or more Medplum environments.

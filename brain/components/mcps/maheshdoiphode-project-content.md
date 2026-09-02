@@ -8,10 +8,12 @@ source_url: https://github.com/maheshdoiphode/mcp-cline-project-content-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-12T14:07:17Z"
 ---
 ## What it is
 MCP server `Coding Project Structure`, catalogued on PulseMCP. Provides a single interface for retrieving entire project structures, enabling efficient code analysis and manipulation tasks.

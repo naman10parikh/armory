@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-01T15:00:55Z"
 ---
 ## What it is
 Provides AI agents with secure, read-only file system access to analyze and understand project codebases, enabling multi-repository context aggregation and cross-project code tracing.

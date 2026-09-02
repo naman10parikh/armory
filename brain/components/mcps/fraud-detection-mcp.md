@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T08:15:51Z"
 ---
 ## What it is
 AI-powered fraud detection and investigation platform that exposes tools for querying, scoring, and investigating financial applications using LangGraph, MLflow, and SQLite in-memory.

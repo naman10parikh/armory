@@ -8,10 +8,12 @@ source_url: https://github.com/sivan22/mcp-sefaria-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-06-17T15:57:34Z"
 ---
 ## What it is
 MCP server `Sefaria Jewish Library`, catalogued on PulseMCP. Integrates with the Sefaria Jewish Library API to provide access to Jewish texts and commentaries for textual analysis and religious study.

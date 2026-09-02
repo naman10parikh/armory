@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T03:07:19Z"
 ---
 ## What it is
 Japanese postal code ⇄ address lookup with bundled official data — fully offline, no API key.

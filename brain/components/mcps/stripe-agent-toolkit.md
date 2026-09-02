@@ -8,10 +8,12 @@ source_url: https://github.com/stripe/ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1573
+stars: 1785
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 329
+pushed_at: "2026-09-02T00:50:08Z"
 ---
 ## What it is
 MCP server `Stripe`, catalogued on PulseMCP. Integrates with Stripe's API to enable payment processing, customer management, and financial operations for e-commerce and billing workflows.

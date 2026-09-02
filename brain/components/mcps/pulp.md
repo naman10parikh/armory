@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T10:23:57Z"
 ---
 ## What it is
 Enables AI agents to collaboratively design and edit web pages on an infinite canvas using real HTML/CSS, with tools for reading, mutating, and exporting documents.

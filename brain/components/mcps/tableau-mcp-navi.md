@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-08T11:27:31Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Tableau Server. Enables AI assistants to interact with Tableau workbooks, views, datasources, and metadata.

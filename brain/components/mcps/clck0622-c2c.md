@@ -8,10 +8,12 @@ source_url: https://github.com/clck0622/c2c-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-18T14:24:59Z"
 ---
 ## What it is
 MCP server `C2C`, catalogued on PulseMCP. LAN-based Claude Code agent collaboration via mDNS discovery and WebSocket messaging.

@@ -8,10 +8,12 @@ source_url: https://github.com/mem0ai/mem0-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 653
+stars: 658
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 150
+pushed_at: "2026-03-24T23:36:56Z"
 ---
 ## What it is
 MCP server `Mem0`, catalogued on PulseMCP. Integrates with mem0.ai to store, retrieve, and semantically search coding preferences, snippets, and programming knowledge through a persistent FastMCP server using SSE connections.

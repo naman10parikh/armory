@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T18:17:33Z"
 ---
 ## What it is
 An air-gapped, edge-native, deterministic translation layer that ingests raw Dell OpenAPI endpoints, clusters them into high-level workflows using a local offline LLM, and executes them deterministically at runtime via FastMCP and HTTPX.

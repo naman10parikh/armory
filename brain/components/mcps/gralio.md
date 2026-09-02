@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-05T08:23:21Z"
 ---
 ## What it is
 MCP server `Gralio`, catalogued on PulseMCP. Access 3+ million SaaS reviews, detailed pricing data, alternatives, ratings, funding information, growth metrics, user sentiment analysis, and functional feature data for over 30,000 software products.

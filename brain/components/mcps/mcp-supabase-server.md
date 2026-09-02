@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T04:49:49Z"
 ---
 ## What it is
 MCP server for Supabase database and storage operations, enabling querying, inserting, updating, deleting rows, schema introspection, and file storage management.

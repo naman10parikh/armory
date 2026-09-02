@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T16:48:33Z"
 ---
 ## What it is
 Enables whole-codebase code search using natural language queries by leveraging DeepSeek's 1M context window. Automatically shards large projects and utilizes prefix caching for cost-effective repeated searches.

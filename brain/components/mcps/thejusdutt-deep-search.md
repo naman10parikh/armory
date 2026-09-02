@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-06T14:02:45Z"
 ---
 ## What it is
 MCP server `Deep Search`, catalogued on PulseMCP. Performs web searches by combining Google search results with full page content extraction using Mozilla's Readability algorithm, supporting web, news, and image search types with domain filtering capabilities.

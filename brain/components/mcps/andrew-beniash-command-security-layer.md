@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-30T00:14:34Z"
 ---
 ## What it is
 MCP server `Command Security Layer`, catalogued on PulseMCP. Implements a robust security layer for command processing, utilizing multi-step verification and auditing to enable high-security use cases like critical infrastructure management.

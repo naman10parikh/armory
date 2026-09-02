@@ -8,10 +8,12 @@ source_url: https://github.com/noblabs/lit-forge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-01T22:42:34Z"
 ---
 ## What it is
 MCP server `Lit Forge`, catalogued on PulseMCP. Financial planning tools for Japanese investors with NISA, retirement, and compound interest calculators.

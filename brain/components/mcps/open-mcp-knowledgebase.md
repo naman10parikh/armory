@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T05:37:16Z"
 ---
 ## What it is
 A zero-database MCP knowledgebase template for Vercel that exposes static Markdown content to AI agents through clean MCP surfaces.

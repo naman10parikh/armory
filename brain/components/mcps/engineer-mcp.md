@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T10:49:42Z"
 ---
 ## What it is
 MCP server for mechanical engineering calculations, giving coding agents verified answers for beams, bolts, shafts, bearings, stress, sections, and units with formulas and citations.

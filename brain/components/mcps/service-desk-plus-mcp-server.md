@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-07-09T20:47:07Z"
 ---
 ## What it is
 Integrates with Service Desk Plus Cloud API to enable AI assistants perform CRUD operations on service desk entities, including request management, technician management, and email communication.

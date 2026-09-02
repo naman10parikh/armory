@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T17:35:16Z"
 ---
 ## What it is
 Enables fetching weather forecasts for Israeli cities by controlling a headless browser via Playwright, instead of using a conventional weather API.

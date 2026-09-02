@@ -8,11 +8,13 @@ source_url: https://github.com/Evgenzh2007/tableau-local-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-07T14:22:28Z"
 ---
 ## What it is
 Enables AI assistants to programmatically read, modify, and query Tableau workbook files (.twb and .twbx) on the local filesystem via 80 tools.

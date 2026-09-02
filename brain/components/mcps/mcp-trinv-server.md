@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-17T08:27:46Z"
 ---
 ## What it is
 Recherche des communes françaises et des parcelles cadastrales dans une commune via TRINV.

@@ -8,11 +8,13 @@ source_url: https://github.com/noaahh/estv-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T11:07:15Z"
 ---
 ## What it is
 MCP server for the Swiss federal tax calculator, providing income, wealth, inheritance, and corporate tax figures for all Swiss municipalities and tax years 2010-2026.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-26T12:35:42Z"
 ---
 ## What it is
 MCP server `Open Agent Search`, catalogued on PulseMCP. Privacy-first metasearch engine providing text, image, video, news, and book search via DDGS library with both HTTP API and stdio transport.

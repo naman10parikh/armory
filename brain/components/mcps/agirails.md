@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-03T15:50:30Z"
 ---
 ## What it is
 MCP server `AGI Rails`, catalogued on PulseMCP. Payment rails for AI agents, enabling autonomous agents to initiate and manage financial transactions from any context window.

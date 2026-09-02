@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-04T12:13:53Z"
 ---
 ## What it is
 MCP server `PySqlit`, catalogued on PulseMCP. Provides complete SQLite database operations including table creation, data manipulation, querying, and schema management through the FastMCP framework and PySqlit library integration.

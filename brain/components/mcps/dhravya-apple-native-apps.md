@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-02T22:32:32Z"
 ---
 ## What it is
 MCP server `Apple Native Apps`, catalogued on PulseMCP. Enables native macOS integration with Apple applications like Contacts, Notes, Messages, Mail, Reminders, Calendar, and Maps through JXA and AppleScript for performing tasks without leaving conversation context.

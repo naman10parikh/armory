@@ -8,11 +8,13 @@ source_url: https://github.com/mstfbysl/remote-mcp-oauth-template
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:09:29Z"
 ---
 ## What it is
 A production-ready template for building remote MCP servers with OAuth 2.1 authentication and JWT passthrough. It enables per-user authorization and proxies tool calls to existing backend APIs.

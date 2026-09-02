@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T12:51:31Z"
 ---
 ## What it is
 Provides an MCP server that guides AI agents through a mandatory three-stage SOP to compress prompts and report token costs, reducing token usage by up to 40%.

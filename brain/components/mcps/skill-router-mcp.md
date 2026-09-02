@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T10:46:32Z"
 ---
 ## What it is
 Routes SKILL.md libraries to any MCP client, enabling task matching and skill loading with embedding-based scoring, keyword fallback, and context-window discipline.

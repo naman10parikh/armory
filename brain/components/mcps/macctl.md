@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T17:02:17Z"
 ---
 ## What it is
 macctl is an accessibility-first macOS desktop automation MCP server that lets AI clients see the screen, inspect app accessibility trees, control mouse/keyboard, manage windows, and run commands, all behind tiered permissions and audit logging.

@@ -8,10 +8,12 @@ source_url: https://github.com/markswendsen-code/mcp-delta
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-11T04:10:31Z"
 ---
 ## What it is
 MCP server `Delta Airlines`, catalogued on PulseMCP. Automates Delta Airlines interactions through browser automation for flight search, status checking, and trip management.

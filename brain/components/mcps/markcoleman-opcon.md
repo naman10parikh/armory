@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-03T05:41:30Z"
 ---
 ## What it is
 MCP server `OpCon`, catalogued on PulseMCP. Integrates with SMA Technologies' OpCon workload automation platform with 257 auto-generated tools for job scheduling and monitoring

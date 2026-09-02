@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:22:18Z"
 ---
 ## What it is
 MCP server for FirstHandAPI that enables AI agents to create and manage human-in-the-loop data collection jobs (photos, audio, video, screen recordings) with automated AI quality scoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:56Z"
 ---
 ## What it is
 Enables querying official TRF5 Brazilian court records for negative civil and criminal certificates through a read-only MCP tool. Supports natural language consultation with pay-per-use prepaid credits across MCP-compatible clients.

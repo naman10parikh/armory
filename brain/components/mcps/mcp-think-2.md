@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T03:09:57Z"
 ---
 ## What it is
 A remote MCP server for structured sequential thinking, enabling users to create, revise, and manage sequences of steps with persistent state via Cloudflare Workers and Durable Objects.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T18:25:31Z"
 ---
 ## What it is
 Enables AI clients to safely read and configure Zyxel GS1900 smart-managed switches via typed MCP tools with guardrails like dry-run, auto-backup, and protected ports.

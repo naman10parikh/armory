@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T22:13:28Z"
 ---
 ## What it is
 Exposes Django REST Framework APIs as MCP tools for AI agents via the Model Context Protocol, with automatic discovery and security.

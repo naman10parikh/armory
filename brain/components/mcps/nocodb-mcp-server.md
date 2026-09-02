@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-04-14T09:30:22Z"
 ---
 ## What it is
 Provides CRUD operations (Create, Read, Update, Delete) for Nocodb tables through the Model Context Protocol.

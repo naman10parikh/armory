@@ -8,10 +8,12 @@ source_url: https://github.com/z23cc/midjourney-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-28T19:00:09Z"
 ---
 ## What it is
 MCP server `Midjourney`, catalogued on PulseMCP. Integrates with Midjourney's image generation API to create, blend, upscale, and describe images with support for aspect ratios, variations, and reference inputs.

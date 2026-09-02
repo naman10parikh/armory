@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T18:22:14Z"
 ---
 ## What it is
 MCP server `SQLite Access Control`, catalogued on PulseMCP. Query SQLite databases with fine-grained column-level access control in Rust.

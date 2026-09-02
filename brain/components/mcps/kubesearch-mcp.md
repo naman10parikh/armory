@@ -8,11 +8,13 @@ source_url: https://github.com/perfectra1n/kubesearch-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:35:23Z"
 ---
 ## What it is
 Enables LLMs to search Flux HelmReleases and Argo Applications from kubesearch.dev, and temporarily clone repos to review actual manifests.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T11:18:55Z"
 ---
 ## What it is
 A neutral verification court for AI tools that ranks MCP servers by executing them against ground truth and recording results. Enables agents to consult execution records, contribute verdicts, and challenge claims.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T13:54:14Z"
 ---
 ## What it is
 Provides fast static embedding, similarity, and search capabilities via MCP tools and an OpenAI-compatible HTTP API using a tiny 16M-parameter English embedding model.

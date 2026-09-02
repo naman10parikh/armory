@@ -8,10 +8,12 @@ source_url: https://github.com/prateekg7/context-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-12T18:09:23Z"
 ---
 ## What it is
 MCP server `Context Bridge`, catalogued on PulseMCP. Context portability server for compressing and formatting AI conversation handoffs across Claude, ChatGPT, Gemini, and other platforms.

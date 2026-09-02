@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T12:37:20Z"
 ---
 ## What it is
 A local MCP server that guards outbound payloads by deciding to ALLOW, REWRITE, or REFUSE them, ensuring sensitive data is redacted and failures close the gate.

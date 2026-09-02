@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T16:55:39Z"
 ---
 ## What it is
 95 free financial intelligence tools for AI agents covering Indian and global markets, options analytics, AI-driven stock debates, portfolio analysis, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T10:39:14Z"
 ---
 ## What it is
 MCP server for managing i18n JSON translation files. Provides Claude with structured read/write access to translation files for adding keys, checking coverage, and finding duplicates.

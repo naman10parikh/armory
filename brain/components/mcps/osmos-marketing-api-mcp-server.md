@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T13:59:32Z"
 ---
 ## What it is
 Exposes the OSMOS Marketing API registry as callable MCP tools, enabling AI agents to discover endpoints and make real API calls with authentication headers and campaign hierarchy support.

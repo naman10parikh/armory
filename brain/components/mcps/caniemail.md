@@ -8,11 +8,13 @@ source_url: https://github.com/shbernal/caniemail-ai-tooling
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T11:22:17Z"
 ---
 ## What it is
 MCP server providing email client compatibility data from caniemail.com, enabling agents to lint HTML/CSS for email client support, check feature support across clients, and search for features by keyword, with verdicts including supported, unsupported, mitigated, and untested.

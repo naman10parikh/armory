@@ -8,10 +8,12 @@ source_url: https://github.com/jane-xiaoer/skill-vision-control
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 64
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-21T08:54:21Z"
 ---
 ## What it is
 MCP server `Skill Vision Control`, catalogued on PulseMCP. Provides safe version management for MCP skills with automatic update detection and three-way merging.

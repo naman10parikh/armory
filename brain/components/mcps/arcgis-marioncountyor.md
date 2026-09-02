@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:38:57Z"
 ---
 ## What it is
 Enables access to Marion County, Oregon open geospatial data (parcels, addresses, zoning, public works) via ArcGIS Feature Services, allowing search, query, and schema inspection through natural language.

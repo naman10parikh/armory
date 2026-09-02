@@ -8,10 +8,12 @@ source_url: https://github.com/jesuscurreripa/api-mcp-trenitalia
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T10:07:39Z"
 ---
 ## What it is
 MCP server `Trenitalia`, catalogued on PulseMCP. Searches for Italian train connections via the unofficial Trenitalia API.

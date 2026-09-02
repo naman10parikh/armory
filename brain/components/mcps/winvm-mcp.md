@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T20:19:44Z"
 ---
 ## What it is
 An MCP server that gives an LLM full control over a VMware-hosted Windows VM: lifecycle, snapshots, remote execution, file transfer, and kernel debugging.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T05:01:46Z"
 ---
 ## What it is
 Provides 35 MCP tools for Chinese metaphysical divination, including BaZi, ZiWei, QiMen, and daily fortune subscriptions, enabling AI agents to perform complex fortune-telling and calendar predictions.

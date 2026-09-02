@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T11:21:34Z"
 ---
 ## What it is
 MCP server for querying Destiny 2 game data from Bungie's manifest. Provides tools for item lookup, search, filtering, perk rolls, and relationship traversal.

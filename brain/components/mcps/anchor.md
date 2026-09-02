@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T08:43:37Z"
 ---
 ## What it is
 An MCP server that records AI coding agent attempts, runs your test suite against each in isolated git worktrees, and reports pass/fail verdicts to help you choose the fix that actually works.

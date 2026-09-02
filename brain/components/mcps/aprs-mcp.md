@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T15:22:15Z"
 ---
 ## What it is
 MCP server that exposes APRS-IS network tools to LLM agents, enabling sending APRS messages, querying positions, finding nearby stations, and listening to live packet streams.

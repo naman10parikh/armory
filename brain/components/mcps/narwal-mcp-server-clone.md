@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-29T07:32:16Z"
 ---
 ## What it is
 A TypeScript MCP server for querying React component documentation, searching articles, and managing development rules, designed to work with Cursor or other MCP clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T12:28:25Z"
 ---
 ## What it is
 Enables natural language querying of healthcare claims data by exposing a SQLite database with read-only SQL tools, allowing users to ask questions in plain English and get answers backed by real database queries.

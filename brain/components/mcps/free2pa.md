@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T13:42:57Z"
 ---
 ## What it is
 Enables verification of agent control file provenance (signature, integrity, certificate, and trust group) via MCP tools before loading.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T07:20:03Z"
 ---
 ## What it is
 Principled social-choice aggregation as MCP tools — with a benchmark that measures the accuracy lift over naive majority vote.

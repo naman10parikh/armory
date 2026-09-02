@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T20:51:13Z"
 ---
 ## What it is
 A minimal MCP server that lets an MCP client run shell commands on remote hosts over SSH, with host, key, user, and port chosen per call.

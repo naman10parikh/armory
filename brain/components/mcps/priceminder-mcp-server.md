@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T07:52:12Z"
 ---
 ## What it is
 Real-time Shopee competitor price monitoring, powered by AI agents through the Model Context Protocol (MCP). Enables AI agents to track, analyze, and alert on price movements across Shopee Southeast Asia.

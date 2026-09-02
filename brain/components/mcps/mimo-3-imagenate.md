@@ -8,10 +8,12 @@ source_url: https://github.com/mimo-3/mcp-imagenate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-09T13:50:00Z"
 ---
 ## What it is
 MCP server `Imagenate`, catalogued on PulseMCP. Multi-provider image generation supporting Google Gemini, OpenAI gpt-image, and BFL FLUX models with configurable resolution and aspect ratios.

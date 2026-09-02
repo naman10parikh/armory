@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-23T03:36:43Z"
 ---
 ## What it is
 MCP server `Shell Command Runner`, catalogued on PulseMCP. Enables AI systems to execute shell commands and scripts securely with proper output handling for system automation, file manipulation, and command-line tool integration.

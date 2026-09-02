@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:53:44Z"
 ---
 ## What it is
 Captures an agentic asset's foundational record as a single asset-record.json, including creation facts and author-only confirmed metadata. Provides MCP tools to record, read, and finalize provenance during asset development.

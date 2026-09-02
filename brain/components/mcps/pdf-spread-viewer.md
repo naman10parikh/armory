@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T13:24:56Z"
 ---
 ## What it is
 A simple MCP server that converts PDF double-page spreads into single images with black borders, simulating book binding/gutter for reviewing book layouts.

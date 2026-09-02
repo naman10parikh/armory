@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-07T12:19:13Z"
 ---
 ## What it is
 MCP server for interacting with Bazos.cz, Bazos.sk, Bazos.at, and Bazos.pl. Supports searching ads, retrieving ad details, and fetching user ratings.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T06:55:18Z"
 ---
 ## What it is
 An MCP server that enables asynchronous task submission and execution through a local worker daemon, decoupled from specific providers and models, with tasks continuing even after the client disconnects.

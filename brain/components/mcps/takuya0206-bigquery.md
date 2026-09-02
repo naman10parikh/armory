@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-02T00:36:30Z"
 ---
 ## What it is
 MCP server `BigQuery`, catalogued on PulseMCP. Enables secure, read-only access to Google BigQuery databases for data exploration and SQL query execution with built-in safeguards for cost control and performance optimization.

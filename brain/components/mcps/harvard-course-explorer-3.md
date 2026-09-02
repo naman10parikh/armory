@@ -8,11 +8,13 @@ source_url: https://github.com/minitim222/harvard-mit-course-recommendation
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 622
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2025-10-01T23:06:16Z"
 ---
 ## What it is
 Discover and search Harvard's course catalog by code, title, or instructor. Explore random course picks to spark inspiration and uncover new subjects. View detailed course info and catalog insights to plan your schedule.

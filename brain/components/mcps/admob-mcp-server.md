@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-11T03:50:24Z"
 ---
 ## What it is
 Exposes the Google AdMob API as MCP tools for managing AdMob accounts, generating network and mediation reports, and listing apps and ad units.

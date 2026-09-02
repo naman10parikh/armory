@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-28T09:19:42Z"
 ---
 ## What it is
 A secure PostgreSQL MCP server with built-in SSH tunneling that enables AI assistants to connect to databases through bastion hosts automatically, supporting both STDIO and Streamable HTTP transports.

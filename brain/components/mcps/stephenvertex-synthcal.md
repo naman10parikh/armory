@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-23T17:29:09Z"
 ---
 ## What it is
 MCP server `SynthCal (Supabase Calendar)`, catalogued on PulseMCP. Provides a bridge between natural language and calendar management through Supabase, enabling event creation, updating, deletion, and listing without switching contexts.

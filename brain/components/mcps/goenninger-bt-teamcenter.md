@@ -8,10 +8,12 @@ source_url: https://github.com/goenninger-b-t/tc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T12:50:59Z"
 ---
 ## What it is
 MCP server `Teamcenter`, catalogued on PulseMCP. Integrates with Siemens Teamcenter PLM for search, BOM operations, change management, and workflow automation.

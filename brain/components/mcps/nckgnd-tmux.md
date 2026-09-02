@@ -8,10 +8,12 @@ source_url: https://github.com/nickgnd/tmux-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 281
+stars: 300
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 55
+pushed_at: "2026-02-14T07:24:57Z"
 ---
 ## What it is
 MCP server `Tmux MCP`, catalogued on PulseMCP. Interact with and view tmux session content.

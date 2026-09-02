@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T03:38:42Z"
 ---
 ## What it is
 AI-powered MCP server for analyzing UI designs and bug reports from Lanhu and Zentao platforms.

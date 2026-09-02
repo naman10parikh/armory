@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-08-22T14:46:26Z"
 ---
 ## What it is
 MCP server `Box`, catalogued on PulseMCP. Integrates with Box cloud storage to enable searching, reading, and processing of PDF and Word documents for applications like automated document analysis and content extraction.

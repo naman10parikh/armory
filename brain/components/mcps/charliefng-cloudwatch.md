@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-06T23:33:57Z"
 ---
 ## What it is
 MCP server `AWS CloudWatch`, catalogued on PulseMCP. Provides direct access to AWS CloudWatch resources for monitoring application health, investigating logs, and analyzing metrics through tools for listing log groups, retrieving alarms, executing queries, and accessing saved queries.

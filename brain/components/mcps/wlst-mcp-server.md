@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-04T01:33:17Z"
 ---
 ## What it is
 Enables management of Oracle WebLogic Server domains using WLST, including server lifecycle, application deployment, monitoring, and diagnostics.

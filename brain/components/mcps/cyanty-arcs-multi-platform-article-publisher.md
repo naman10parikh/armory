@@ -8,10 +8,12 @@ source_url: https://github.com/cyanty/arcs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-16T06:12:18Z"
 ---
 ## What it is
 MCP server `Arcs Multi-Platform Article Publisher`, catalogued on PulseMCP. Automates article publishing across Chinese tech platforms including CSDN, JueJin, Zhihu, WeChat, Halo, and CNBlogs with markdown content processing, platform-specific tag management, and concurrent multi-platform distribution for content creators and technical bloggers.

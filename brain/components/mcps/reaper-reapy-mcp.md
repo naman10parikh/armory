@@ -8,11 +8,13 @@ source_url: https://github.com/wegitor/reaper-reapy-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 79
+stars: 82
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-07-07T19:14:39Z"
 ---
 ## What it is
 Enables AI assistants to control REAPER DAW via the Model Context Protocol, including track, FX, MIDI, and audio operations.

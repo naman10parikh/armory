@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T15:57:37Z"
 ---
 ## What it is
 Enables creating storage buckets and uploading media files to Supabase Storage through natural language, with no delete or overwrite capabilities.

@@ -8,11 +8,13 @@ source_url: https://github.com/geovicco-dev/bhoonidhi-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:16:17Z"
 ---
 ## What it is
 An MCP server that lets AI agents search, save, preview, download, and cart satellite scenes from ISRO's Bhoonidhi portal in natural language, with search and saved queries requiring no login and downloads/cart operations using an out-of-band session.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T16:55:03Z"
 ---
 ## What it is
 A local MCP server that gives Claude (or any MCP-compatible AI client) access to Formula 1 race data. Load any session from 2018 onwards, ask questions in natural language, and get answers backed by real telemetry, timing, and strategy data.

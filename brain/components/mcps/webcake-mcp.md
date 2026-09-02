@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T16:59:22Z"
 ---
 ## What it is
 Receives Webcake webhooks to store orders/leads in SQLite and exposes MCP tools for Claude to list, search, and retrieve order details.

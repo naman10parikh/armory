@@ -8,10 +8,12 @@ source_url: https://github.com/mika-f/umcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-27T13:38:15Z"
 ---
 ## What it is
 MCP server `uMCP (Unity Editor)`, catalogued on PulseMCP. Enables Unity Editor automation through HTTP interface for asset management, GUID generation, input testing, and development workflow operations with real-time command processing and extensible tool registration.

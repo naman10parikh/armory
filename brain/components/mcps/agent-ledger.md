@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:11:06Z"
 ---
 ## What it is
 Double-entry accounting ledger MCP server for autonomous agents that enables creating accounts, posting journal entries, and generating financial reports.

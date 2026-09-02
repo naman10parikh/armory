@@ -8,10 +8,12 @@ source_url: https://github.com/ching-chiang/comsol-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-14T14:21:23Z"
 ---
 ## What it is
 MCP server `COMSOL Multiphysics`, catalogued on PulseMCP. MCP server for AI-driven automation of COMSOL Multiphysics Desktop simulations via attachment to a running COMSOL instance.

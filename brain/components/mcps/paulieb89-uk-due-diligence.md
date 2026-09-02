@@ -8,10 +8,12 @@ source_url: https://github.com/paulieb89/uk-due-diligence-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-27T10:54:40Z"
 ---
 ## What it is
 MCP server `UK Due Diligence`, catalogued on PulseMCP. UK due diligence covering Companies House, Charity Commission, Land Registry, Gazette, and HMRC VAT.

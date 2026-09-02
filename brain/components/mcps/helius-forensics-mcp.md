@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T18:44:25Z"
 ---
 ## What it is
 Enables Solana wallet forensics via MCP, including tracing funds, identifying entities, scoring risk, and comparing wallets using Helius APIs.

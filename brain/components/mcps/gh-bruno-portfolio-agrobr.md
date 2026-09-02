@@ -8,10 +8,12 @@ source_url: https://github.com/bruno-portfolio/agrobr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-12T22:28:58Z"
 ---
 ## What it is
 MCP server `AgroBR`, catalogued on PulseMCP. Brazilian agricultural data — commodity prices, crop statistics, climate data, and deforestation tracking.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T03:15:45Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Gobuster that enables AI assistants to perform directory/file, DNS, virtual host, S3 bucket, and TFTP enumeration on a remote Kali Linux host via SSH.

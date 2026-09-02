@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T15:12:50Z"
 ---
 ## What it is
 Enables control of MHS-5200A series signal generators via serial connection, including frequency, amplitude, waveform, and sweep settings.

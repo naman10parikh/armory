@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-20T21:50:47Z"
 ---
 ## What it is
 MCP server `InvoiceFlow`, catalogued on PulseMCP. AI-powered invoice automation for creating invoices, tracking payments, and managing cash flow.

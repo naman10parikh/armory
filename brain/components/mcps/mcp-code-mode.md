@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-27T04:53:02Z"
 ---
 ## What it is
 Universal Python code execution MCP server that lets LLMs write and run Python for any task, with auto-install packages, streaming output, and automatic file display.

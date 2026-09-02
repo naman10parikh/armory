@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T17:31:34Z"
 ---
 ## What it is
 A governed MCP server exposing 37 risk-checked tools with signed Ed25519 receipts on a Bitcoin-anchored ledger, failing closed if governance or receipt writing fails.

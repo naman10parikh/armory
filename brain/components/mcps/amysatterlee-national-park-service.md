@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-02-03T22:32:25Z"
 ---
 ## What it is
 MCP server `National Park Service`, catalogued on PulseMCP. Integrates with the National Park Service API to provide structured park information for trip planning, exploration, and research applications.

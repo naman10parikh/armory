@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:44:29Z"
 ---
 ## What it is
 MCP server `Sunrise Sunset`, catalogued on PulseMCP. Calculates sunrise, sunset, and twilight times for any location.

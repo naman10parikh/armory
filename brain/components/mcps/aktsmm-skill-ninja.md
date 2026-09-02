@@ -8,10 +8,12 @@ source_url: https://github.com/aktsmm/skill-ninja-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-20T23:29:26Z"
 ---
 ## What it is
 MCP server `Skill Ninja`, catalogued on PulseMCP. Enables discovery, installation, and management of reusable agent skills from GitHub repositories with a curated skill index and workspace analysis for personalized recommendations.

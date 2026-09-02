@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T06:13:09Z"
 ---
 ## What it is
 Enables control of Cisco Packet Tracer 9.0 via natural language, allowing creation of network topologies, device configuration, and simulation launches through an MCP interface.

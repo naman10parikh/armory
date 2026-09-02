@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T18:35:58Z"
 ---
 ## What it is
 This server allows AI assistants to interact directly with your Booqable rental management system, providing tools to manage inventory, orders, and more.

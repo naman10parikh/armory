@@ -8,10 +8,12 @@ source_url: https://github.com/devizor/macos-notification-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-09T17:51:48Z"
 ---
 ## What it is
 MCP server `macOS Notification`, catalogued on PulseMCP. Enables macOS system notifications, banner alerts, and text-to-speech capabilities with customizable parameters like voice selection and speech rate.

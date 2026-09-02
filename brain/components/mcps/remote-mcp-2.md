@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:39:06Z"
 ---
 ## What it is
 An MCP server that lets you execute commands, manage files, run persistent shell sessions, transfer large files, and control background processes on remote machines via a lightweight HTTP agent, useful when SSH/WinRM/SMB are unavailable.

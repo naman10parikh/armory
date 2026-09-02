@@ -8,11 +8,13 @@ source_url: https://github.com/BetaBots-LLC/callimachus
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-14T01:32:13Z"
 ---
 ## What it is
 Local index and hybrid search (SQLite FTS5 + on-device vector KNN) over your AI coding-agent conversation history across 11 tools (Claude Code, Codex, Cursor, and more). Exposes search_threads, search_current_project, recent_threads, get_thread, list_tags, and list_open_todos so any agent can recall

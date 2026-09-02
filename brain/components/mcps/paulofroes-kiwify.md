@@ -8,10 +8,12 @@ source_url: https://github.com/paulofroes/mcp-kiwify
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-29T13:36:34Z"
 ---
 ## What it is
 MCP server `Kiwify`, catalogued on PulseMCP. Wraps the Kiwify public API for managing digital product sales, affiliate programs, financial operations, and event tracking on the Brazilian e-commerce platform.

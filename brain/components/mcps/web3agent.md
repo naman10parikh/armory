@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T15:15:49Z"
 ---
 ## What it is
 Web3 MCP proxy server for AI agents: EVM execution, DeFi swaps, bridges, advanced orders, market data, wallet management, and confirmation-gated writes.

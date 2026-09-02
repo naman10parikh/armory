@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T16:38:40Z"
 ---
 ## What it is
 MCP server for Speckle that enables AI-powered AEC interoperability, letting users manage Speckle projects, models, and versions through natural language, with guidance for data push/pull via native connectors.

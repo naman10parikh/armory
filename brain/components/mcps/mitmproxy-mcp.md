@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-29T05:48:17Z"
 ---
 ## What it is
 A lightweight MCP server built on mitmproxy that lets LLMs capture, inspect, replay, and modify HTTP traffic through a set of focused tools.

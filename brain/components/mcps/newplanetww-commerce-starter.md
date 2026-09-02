@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-24T00:43:38Z"
 ---
 ## What it is
 MCP server `Commerce Starter`, catalogued on PulseMCP. Boilerplate Python MCP server with e-commerce capabilities — product catalog browsing, keyword search, and checkout initiation, deployable to Vercel.

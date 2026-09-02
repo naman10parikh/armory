@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-21T17:50:55Z"
 ---
 ## What it is
 An MCP server that provides DeFi data tools (crypto prices, whale concentration, funding rates) for AI agents via the x402 protocol.

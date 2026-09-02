@@ -8,10 +8,12 @@ source_url: https://github.com/dsers/dsers-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-31T07:55:46Z"
 ---
 ## What it is
 MCP server `DSers`, catalogued on PulseMCP. Import, edit, price, and publish products to Shopify and Wix stores via the DSers dropshipping platform.

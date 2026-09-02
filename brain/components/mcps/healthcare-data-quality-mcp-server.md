@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T20:31:49Z"
 ---
 ## What it is
 Enables AI assistants to run healthcare data quality checks (completeness, integrity, consistency, temporal accuracy) on claims and EHR data files, returning severity-scored findings for governance reporting.

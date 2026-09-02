@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-29T08:06:22Z"
 ---
 ## What it is
 Provides AI assistants with direct access to Red Hat OpenShift AI observability data, enabling querying of Prometheus metrics, Alertmanager alerts, Loki logs, Grafana dashboards, and Kubernetes cluster state to troubleshoot vLLM inference workloads.

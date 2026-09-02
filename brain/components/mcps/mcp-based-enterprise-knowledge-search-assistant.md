@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T18:41:44Z"
 ---
 ## What it is
 Enables enterprise knowledge search through a chat interface, comparing traditional RAG with MCP-driven retrieval using hybrid BM25 and dense vector search, Ollama-powered answer generation, and question routing to domain-specific retrieval tools.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-09T08:54:48Z"
 ---
 ## What it is
 MCP server `Cryptocurrency Technical Analysis`, catalogued on PulseMCP. Provides real-time cryptocurrency technical analysis through FastMCP, calculating 12 and 26-period EMAs for Binance trading pairs using MongoDB-stored OHLCV data and Server-Sent Events.

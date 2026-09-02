@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T16:34:04Z"
 ---
 ## What it is
 Provides keyless, privacy-focused web search through DuckDuckGo and SearxNG via MCP, with token-efficient tool discovery and caching.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:49:10Z"
 ---
 ## What it is
 Provides Wisconsin DMV (WisDOT) customer service center data including address, hours, services, and payment methods for each counter. Enables querying by city, county, zip, name, or service type.

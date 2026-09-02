@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:35:05Z"
 ---
 ## What it is
 Enables AI assistants to search, view details, and check availability of tool rental listings from Toolzy's peer-to-peer marketplace.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T01:08:02Z"
 ---
 ## What it is
 Standalone browser automation MCP server supporting both BrowserOS and standard Chrome. Enables 16 MCP tools for browser control including navigation, interaction, and content extraction.

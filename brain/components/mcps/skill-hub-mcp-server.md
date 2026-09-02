@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T10:35:01Z"
 ---
 ## What it is
 Enables AI assistants to discover, search, and install Claude Code Skills from SkillHub, with tools for semantic search, browsing, recommendations, and installation.

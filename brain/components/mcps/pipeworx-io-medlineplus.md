@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:21:49Z"
 ---
 ## What it is
 MCP server `MedlinePlus`, catalogued on PulseMCP. Retrieve health topic summaries, medication information, and lab test descriptions from MedlinePlus, the National Library of Medicine's patient health resource.

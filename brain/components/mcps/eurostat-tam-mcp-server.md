@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T15:43:24Z"
 ---
 ## What it is
 Pulls enterprise counts by NACE Rev.2 activity and size class from Eurostat and buckets them into SME and 250+ categories for the DTM TAM model, with tools to fill TAM spreadsheets directly.

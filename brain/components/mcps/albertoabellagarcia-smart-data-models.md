@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T00:19:25Z"
 ---
 ## What it is
 MCP server `Smart Data Models`, catalogued on PulseMCP. Provides AI assistants with access to Smart Data Models schemas for querying, validating, and discovering data models across domains.

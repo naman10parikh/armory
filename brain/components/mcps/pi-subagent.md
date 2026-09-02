@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T22:04:35Z"
 ---
 ## What it is
 Enables MCP hosts to delegate coding tasks to Pi CLI as a programmable sub-agent with session tracking and process management.

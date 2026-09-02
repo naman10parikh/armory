@@ -8,10 +8,12 @@ source_url: https://github.com/dandeliongold/mcp-decent-sampler-drums
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-16T16:04:35Z"
 ---
 ## What it is
 MCP server `Decent Sampler Drums`, catalogued on PulseMCP. Integrates with DecentSampler to generate drum kit configurations by analyzing WAV samples and creating XML-based presets with velocity layers and muting groups.

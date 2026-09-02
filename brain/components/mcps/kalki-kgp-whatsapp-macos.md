@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-20T20:15:23Z"
 ---
 ## What it is
 MCP server `WhatsApp macOS`, catalogued on PulseMCP. Read WhatsApp messages from the local macOS database and send replies via WhatsApp Web.

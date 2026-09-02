@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:10:51Z"
 ---
 ## What it is
 Paid remote MCP for scanning developer endpoints, providing tools for exposure scanning, package hit explanation, receipt issuance, and scan history.

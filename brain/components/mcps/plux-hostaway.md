@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T21:27:32Z"
 ---
 ## What it is
 MCP server `Hostaway`, catalogued on PulseMCP. Manage Hostaway PMS reservations, listings, calendars, financials, and guest messaging.

@@ -12,6 +12,8 @@ stars: 78
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-04-20T12:14:52Z"
 ---
 ## What it is
 MCP server `ChotuRobo (Arduino)`, catalogued on PulseMCP. Connects Claude AI with physical hardware through a TypeScript server that translates natural language commands into robotic control actions for LEDs, motors, and sensors via WiFi communication.

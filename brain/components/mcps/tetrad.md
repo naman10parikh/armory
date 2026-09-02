@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-29T00:08:05Z"
 ---
 ## What it is
 Orchestrates three AI code evaluation tools to validate and approve code via a quadruple consensus protocol, ensuring high-quality code generation.

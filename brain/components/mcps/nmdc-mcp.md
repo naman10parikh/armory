@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-22T17:01:04Z"
 ---
 ## What it is
 A fastmcp-based tool for writing prompts against data in the NMDC database.

@@ -8,10 +8,12 @@ source_url: https://github.com/openarx-ai/openarx-core
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T00:19:20Z"
 ---
 ## What it is
 MCP server `OpenArx`, catalogued on PulseMCP. Open scientific knowledge MCP for AI agents with three access profiles: search, publish, and govern.

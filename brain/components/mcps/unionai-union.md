@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-12T00:57:23Z"
 ---
 ## What it is
 MCP server `Union`, catalogued on PulseMCP. Connects AI assistants to Union's tasks, workflows, and apps, enabling access to distributed computing capabilities through customizable tools and resources.

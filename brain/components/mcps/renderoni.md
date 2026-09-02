@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T19:07:01Z"
 ---
 ## What it is
 A batteries-included 3D engine for Three.js and Rapier that enables AI agents and humans to build, inspect, and control deterministic game simulations through a built-in Model Context Protocol (MCP) server.

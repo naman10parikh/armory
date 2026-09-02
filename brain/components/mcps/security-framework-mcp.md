@@ -8,11 +8,13 @@ source_url: https://github.com/zer0-kr/security-framework-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-26T13:53:33Z"
 ---
 ## What it is
 Unified MCP server integrating NIST and OWASP security frameworks with live vulnerability data, enabling security searches, compliance mapping, threat modeling, and checklist generation.

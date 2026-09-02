@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T07:03:37Z"
 ---
 ## What it is
 Transforms job descriptions into behavioral measurement briefs with evidence-based behavioral dimensions and interview questions.

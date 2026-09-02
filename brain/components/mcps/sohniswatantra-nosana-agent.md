@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T13:00:35Z"
 ---
 ## What it is
 MCP server `Nosana Agent`, catalogued on PulseMCP. AI agent combining ElizaOS, MCP tools, and Qwen3.5 on Nosana decentralized GPU infrastructure.

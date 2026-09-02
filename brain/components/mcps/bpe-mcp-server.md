@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T17:17:26Z"
 ---
 ## What it is
 Enables querying consolidated Bitcoin pricing, ML signals, funding skew, and market briefings via the BPE API, without HTTP boilerplate.

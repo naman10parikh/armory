@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-21T22:57:38Z"
 ---
 ## What it is
 This MCP server enables AI agents to search, discover, and install skills from the SkillsMP marketplace, with support for keyword and semantic search, skill content retrieval, and installation to various coding agents.

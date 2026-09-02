@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-13T12:46:01Z"
 ---
 ## What it is
 MCP server `Postgres Connector`, catalogued on PulseMCP. Connects to PostgreSQL databases for SQL query execution, table schema inspection, and database connection management through environment-based configuration

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-29T05:21:40Z"
 ---
 ## What it is
 MCP server `Venice Browser`, catalogued on PulseMCP. Provides web navigation capabilities through Playwright with support for multiple browsers, persistent session state, and configurable timeouts for automated testing, data extraction, and interactive web tasks.

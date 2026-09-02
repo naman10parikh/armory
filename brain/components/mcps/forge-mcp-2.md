@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T14:57:26Z"
 ---
 ## What it is
 A production-grade, LLM-agnostic local development engine over MCP, providing structured code intelligence and shared language server processes for AI coding agents.

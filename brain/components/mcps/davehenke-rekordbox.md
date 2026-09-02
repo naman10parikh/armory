@@ -8,10 +8,12 @@ source_url: https://github.com/davehenke/rekordbox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 94
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-04-15T10:56:13Z"
 ---
 ## What it is
 MCP server `Rekordbox`, catalogued on PulseMCP. Integrates with rekordbox DJ software databases through real-time SQLite connections, enabling track searching with BPM/key/genre filters, playlist management, DJ history analysis, and library statistics with automatic backup protection.

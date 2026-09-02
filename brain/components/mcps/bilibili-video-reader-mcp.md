@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T13:13:40Z"
 ---
 ## What it is
 Enables retrieving Bilibili video metadata, part lists, and timestamped official/AI subtitle transcripts through MCP tools, without downloading videos.

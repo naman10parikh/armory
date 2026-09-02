@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-26T08:42:29Z"
 ---
 ## What it is
 Enables AI assistants to manage Backendless applications, including databases, users, files, and API services, through natural language commands, with support for OAuth2 authentication and hosted endpoints.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-17T05:04:16Z"
 ---
 ## What it is
 Enables notes management, weather and news search, document ingestion and RAG-based semantic search using GroundX, with OpenAI GPT integration for summarization and completions.

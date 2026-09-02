@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T14:55:09Z"
 ---
 ## What it is
 MCP server `Code Remote`, catalogued on PulseMCP. Enables secure remote command execution on your local machine through a cloud-hosted relay architecture with WebSocket connections and token-based authentication.

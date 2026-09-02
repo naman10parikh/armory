@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-21T21:33:22Z"
 ---
 ## What it is
 A full-featured MCP server providing seamless access to CustomGPT.ai APIs, enabling agent and conversation management through MCP-compatible clients.

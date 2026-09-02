@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:50:26Z"
 ---
 ## What it is
 Provides access to UN Comtrade international bilateral trade data via an MCP server, enabling AI agents to query trade statistics through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:00Z"
 ---
 ## What it is
 Enables querying Brazilian toll payment information (Pedágio Digital) from an official source through a hosted, read-only MCP server, with pay-per-use prepaid credits and no platform credentials required.

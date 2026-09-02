@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-02T10:05:30Z"
 ---
 ## What it is
 A Model Context Protocol server providing file search and question tools for AI models. Enables keyword search in files with line numbers and integration with external chat services.

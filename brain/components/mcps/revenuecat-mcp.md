@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T02:44:35Z"
 ---
 ## What it is
 MCP server for RevenueCat that lets AI agents query subscriber data, check entitlements, fetch offerings, and manage subscriptions via natural language.

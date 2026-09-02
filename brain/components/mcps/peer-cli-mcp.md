@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T21:54:44Z"
 ---
 ## What it is
 MCP bridge for calling local coding-agent CLIs (Codex, Claude) from another agent, enabling bounded tasks like code review, verification, and bug hunting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:47:51Z"
 ---
 ## What it is
 Enables searching live myScheme.gov.in schemes by eligibility, keyword, and detail lookup through MCP tools.

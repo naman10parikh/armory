@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:35:45Z"
 ---
 ## What it is
 A lightweight local MCP server that enables users to add, list, edit, and delete expenses via SQLite database through natural language in MCP-compatible clients.

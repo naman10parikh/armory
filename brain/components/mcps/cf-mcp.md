@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T15:18:11Z"
 ---
 ## What it is
 Read-only Cloudflare MCP server for SOC investigation, exposing Cloudflare services like WAF, bot management, analytics, and Zero Trust for querying and discovery.

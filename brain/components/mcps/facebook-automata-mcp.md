@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:44:07Z"
 ---
 ## What it is
 Enables interaction with the official Facebook Graph API, providing tools for managing Pages, Posts, Comments, Reactions, Media, Events, Insights, and credential storage/validation.

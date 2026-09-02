@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T03:44:04Z"
 ---
 ## What it is
 Connects Claude to GitHub activity to generate standup summaries of commits, PRs, reviews, and issues for individuals or teams.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-28T11:56:51Z"
 ---
 ## What it is
 Integrates with Claude to enable LinkedIn post creation, profile optimization, content generation, and analytics through natural language.

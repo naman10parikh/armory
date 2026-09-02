@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-31T13:34:51Z"
 ---
 ## What it is
 A remote MCP server for searching arXiv papers, extracting paper details, and generating structured prompts for LLM agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T04:56:41Z"
 ---
 ## What it is
 Enables searching all US sex-offender registries from any MCP client, returning scored, de-duplicated records with provenance and per-registry status.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T07:17:41Z"
 ---
 ## What it is
 MCP server for VNDLY inventory and order management, enabling AI assistants to search products, list orders, and get low stock alerts.

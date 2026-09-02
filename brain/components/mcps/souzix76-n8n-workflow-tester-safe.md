@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 1
+forks: 1
+pushed_at: "2026-03-30T01:08:35Z"
 ---
 ## What it is
 Test, score, and inspect n8n workflows via MCP. Config-driven test suites with two-tier scoring, lightweight execution traces, and a built-in node catalog with 436+ nodes.

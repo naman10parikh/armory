@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T09:57:33Z"
 ---
 ## What it is
 MCP server providing Nordic harness racing data (Swedish, Norwegian, Danish, Finnish) with upcoming races, startlists, betting pool percentages, and model-derived win probabilities for AI agents.

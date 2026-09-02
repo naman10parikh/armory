@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T03:15:22Z"
 ---
 ## What it is
 Enables to extract project handover evidence and check material completeness against requirements without making approval decisions.

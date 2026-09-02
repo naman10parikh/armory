@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T20:18:02Z"
 ---
 ## What it is
 Provides stealth web browsing using dual browser engines (Chromium and Firefox) with automatic bot-detection bypass, enabling AI agents to browse, interact, and extract content from websites without being blocked.

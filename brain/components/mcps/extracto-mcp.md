@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T10:29:39Z"
 ---
 ## What it is
 Enables Claude and any MCP client to turn a URL plus a schema into validated, typed JSON without HTML parsing or hallucinated fields.

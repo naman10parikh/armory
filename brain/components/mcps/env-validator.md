@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T00:53:34Z"
 ---
 ## What it is
 An MCP (Model Context Protocol) server that inspects your local development environment and reports missing dependencies, version mismatches, and misconfigured environment variables to any MCP-compatible AI assistant. Works with Claude Desktop, Cursor, Gemini CLI, and any other client that supports 

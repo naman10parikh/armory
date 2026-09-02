@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-02T16:39:28Z"
 ---
 ## What it is
 MCP server `Brat`, catalogued on PulseMCP. Dart-based server providing web search, HTTP request, and web content extraction capabilities.

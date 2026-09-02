@@ -8,10 +8,12 @@ source_url: https://github.com/lumile/mercadolibre-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-05-28T17:28:35Z"
 ---
 ## What it is
 MCP server `MercadoLibre`, catalogued on PulseMCP. Integrates with MercadoLibre's e-commerce platform to simplify product and seller data retrieval, enabling functions like price monitoring, inventory management, and market analysis.

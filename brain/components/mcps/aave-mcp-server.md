@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-29T14:15:35Z"
 ---
 ## What it is
 Free, no-auth MCP server for Aave, enabling AI agents to interact with Aave's DeFi protocol via a deterministic mapping of API endpoints to tools.

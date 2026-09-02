@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T01:28:04Z"
 ---
 ## What it is
 Exposes digital twin device data capabilities as MCP tools, allowing MCP clients to query device status, read real-time metrics, fetch time-series data, and check alerts. Includes a simulated PLC driver with a clean interface for connecting real devices via OPC-UA, Modbus, or gateway APIs.

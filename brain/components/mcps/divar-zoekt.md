@@ -8,10 +8,12 @@ source_url: https://github.com/najva-ai/zoekt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-11-25T10:07:22Z"
 ---
 ## What it is
 MCP server `Zoekt`, catalogued on PulseMCP. Integrates with Zoekt search engine to provide fast code search capabilities across repositories using query language with language filters, file path patterns, and repository scoping for discovering code patterns and retrieving file contents.

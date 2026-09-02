@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:22:22Z"
 ---
 ## What it is
 Calculates total landed cost of international payments including FX spread, transfer fees, and settlement time across multiple payment methods, and provides free currency conversion and ECB exchange rates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T14:37:52Z"
 ---
 ## What it is
 Local stdio MCP server that provides tools for calculating averages, evaluating scores into grades, and retrieving student names by student ID. It logs every call to JSONL files with timestamps and performance metrics.

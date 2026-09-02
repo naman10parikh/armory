@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T20:19:34Z"
 ---
 ## What it is
 This MCP server requires user authentication via Auth0 and then enables calling protected APIs (e.g., a Todos API) on behalf of the user.

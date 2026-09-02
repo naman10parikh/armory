@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T19:46:45Z"
 ---
 ## What it is
 Enables LLMs to query real-time Indian bank branch details, postal PIN codes, validate GSTIN/PAN structures, check e-commerce serviceability, and compute GST breakdowns using free public APIs and offline verification logic.

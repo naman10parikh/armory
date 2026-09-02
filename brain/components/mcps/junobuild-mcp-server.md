@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-05T23:34:22Z"
 ---
 ## What it is
 Manage satellites, hosting, serverless functions, changes and more through any MCP-compatible client. Includes a built-in documentation tool to access Juno's official guides and references.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-06T05:11:48Z"
 ---
 ## What it is
 MCP server for managing Bazzite Linux hosts, enabling system administration, desktop control, and gaming tasks through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T05:28:19Z"
 ---
 ## What it is
 An MCP server that gives AI agents hands-on control of a live React Native app, enabling UI taps, screenshots, UI/component trees, native logs, and JS/React profiling to debug, verify fixes, and diagnose performance issues.

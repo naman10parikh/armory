@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:39:40Z"
 ---
 ## What it is
 Enables agents to use many MCP servers without context bloat by exposing meta-tools (search, load, call, run_code) that reduce token usage via progressive disclosure and result trimming.

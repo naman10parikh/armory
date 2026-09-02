@@ -8,10 +8,12 @@ source_url: https://github.com/rinardnick/mcp-terminal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-01-20T15:59:00Z"
 ---
 ## What it is
 MCP server `Terminal`, catalogued on PulseMCP. Provides a secure terminal server for executing whitelisted shell commands with strict resource controls and security boundaries.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-18T14:00:50Z"
 ---
 ## What it is
 MCP server `Git & Code Analysis`, catalogued on PulseMCP. Integrates with Git to provide version control, project management, and code analysis capabilities for TypeScript projects.

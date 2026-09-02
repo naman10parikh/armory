@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:05:03Z"
 ---
 ## What it is
 A plugin-oriented Jira capability kernel for AI models, providing 24+ tools for Jira operations including issue search, comments, transitions, and project analysis via a dispatcher and HTTP service.

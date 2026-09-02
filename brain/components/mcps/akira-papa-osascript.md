@@ -8,10 +8,12 @@ source_url: https://github.com/akira-papa/osascript-mcp-1
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-01-20T04:36:41Z"
 ---
 ## What it is
 MCP server `osascript`, catalogued on PulseMCP. Enables macOS automation through AppleScript and JavaScript for Automation execution with security filtering that blocks destructive operations while allowing application control, system commands, and workflow automation.

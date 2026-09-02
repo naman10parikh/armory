@@ -8,10 +8,12 @@ source_url: https://github.com/sachitrafa/yourmemory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 263
+stars: 265
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-08-29T23:52:56Z"
 ---
 ## What it is
 MCP server `YourMemory`, catalogued on PulseMCP. Ebbinghaus-based persistent memory with decay and recall strengthening, backed by PostgreSQL and pgvector.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T17:51:53Z"
 ---
 ## What it is
 Scans code strings for hardcoded secrets (AWS keys, tokens, private keys, etc.) and returns redacted findings, helping AI coding agents catch secrets before writing or committing code.

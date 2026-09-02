@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/http-headers-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4473
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:25Z"
 ---
 ## What it is
 HTTP header security analysis API for AI agents. Analyze response headers for any URL: HSTS, Content-Security-Policy, X-Frame-Options, Referrer-Policy, Permissions-Policy, server detection, and caching config. Security score 0-100. Tools: network_analyze_headers. Use this for security audits, websit

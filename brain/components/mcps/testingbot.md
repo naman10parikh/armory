@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-27T11:56:49Z"
 ---
 ## What it is
 MCP server `TestingBot`, catalogued on PulseMCP. Automated web and mobile testing integration

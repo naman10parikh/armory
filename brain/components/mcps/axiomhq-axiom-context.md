@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-05T15:13:44Z"
 ---
 ## What it is
 MCP server `Axiom Context`, catalogued on PulseMCP. Integrates Axiom's context-aware AI capabilities with Zed workflows through a customizable command interface for enhanced flexibility and seamless deployment.

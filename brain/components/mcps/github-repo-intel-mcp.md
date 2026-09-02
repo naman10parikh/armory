@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T08:26:02Z"
 ---
 ## What it is
 Provides AI coding agents with structured intelligence about any GitHub repository including overview, PRs, contributors, hot files, CI status, and dependencies via a hosted MCP endpoint.

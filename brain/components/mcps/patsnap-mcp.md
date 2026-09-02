@@ -8,11 +8,13 @@ source_url: https://github.com/patsnap/mcp-for-patent-literature
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 111
+stars: 110
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-20T07:53:05Z"
 ---
 ## What it is
 PatSnap hosted MCP servers for patent, pharmaceutical, life sciences, scientific literature, and R&D innovation intelligence.

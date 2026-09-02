@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-12T03:35:16Z"
 ---
 ## What it is
 Provides real-time cross-chain bridge metrics, enabling AI agents to analyze liquidity, transaction flows, and performance across blockchain networks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T14:39:38Z"
 ---
 ## What it is
 Exposes simulated Salesforce CRM data as MCP tools for Claude Desktop, enabling customer success managers to prioritize at-risk accounts, review opportunities, cases, and Gong notes via natural language.

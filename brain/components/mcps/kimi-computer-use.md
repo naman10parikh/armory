@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T06:44:57Z"
 ---
 ## What it is
 Bridges Kimi Code CLI to OpenAI Computer Use, enabling Kimi to control local macOS applications via MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T05:09:38Z"
 ---
 ## What it is
 MCP server that provides AI-native access to BeVigil's OSINT API, enabling mobile app security research and asset discovery through tools for hosts, subdomains, S3 buckets, URLs, wordlists, and multi-step investigations.

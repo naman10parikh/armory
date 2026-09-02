@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:50:52Z"
 ---
 ## What it is
 Exposes industrial motor telemetry data to AI agents via MCP and REST, enabling natural-language queries about motor status, health, and alerts. Provides a single tool and resource for retrieving real-time motor metrics and escalating critical conditions.

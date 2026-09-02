@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T12:33:06Z"
 ---
 ## What it is
 Espacio compartido y persistente por repositorio para sesiones de Claude Code: cada sesión registra su actividad vía hooks, ves qué hicieron/hacen las demás, te avisa si vas a pisar trabajo ajeno, y podés dejar notas. Sin daemon.

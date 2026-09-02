@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:35:00Z"
 ---
 ## What it is
 MCP server for cleaning messy CSV data via a single clean_csv tool. Uses an agentic workflow with rule-based or LLM planners to transform data safely.

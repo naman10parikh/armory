@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-03-27T16:21:52Z"
 ---
 ## What it is
 A demonstration server implementing the Model Context Protocol with Server-Sent Events for streaming content production and management.

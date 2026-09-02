@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T17:01:34Z"
 ---
 ## What it is
 Live liquidity-pool scores for Solana + EVM: Enter/Hold/Exit verdicts and a composite 0-100 Wealthville Score, backed by a public, immutable track record that includes misses. Read-only, free, no key required. Data product, not financial advice.

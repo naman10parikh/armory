@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T18:17:43Z"
 ---
 ## What it is
 Enables AI agents to prepare floor plans for Ritn3D and interpret 3D outputs by providing tools for validation, complexity estimation, pricing, and failure analysis.

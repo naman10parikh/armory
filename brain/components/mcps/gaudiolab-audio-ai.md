@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-27T05:22:15Z"
 ---
 ## What it is
 MCP server `Gaudio Lab Audio AI`, catalogued on PulseMCP. Separate audio stems, extract dialogue from video, and sync lyrics with timestamps.

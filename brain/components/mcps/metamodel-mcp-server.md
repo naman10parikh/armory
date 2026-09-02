@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T05:48:07Z"
 ---
 ## What it is
 Lets AI assistants use MetaModel's formula engine for certified computation, turning published calculators, pricing tools, and engineering models into AI-callable tools with no hallucinated math.

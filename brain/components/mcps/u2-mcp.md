@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-09T19:31:55Z"
 ---
 ## What it is
 Enables AI assistants like Claude to query and interact with Rocket Universe and UniData MultiValue databases using natural language.

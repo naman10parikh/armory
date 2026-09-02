@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T15:46:57Z"
 ---
 ## What it is
 Node.js MCP server for ChatGPT with OAuth 2.0 authorization code flow + PKCE, refresh token rotation, and Supabase-backed persistence. Includes sample tools like calculator, get_weather, and search_web.

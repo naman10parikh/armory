@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T14:04:35Z"
 ---
 ## What it is
 Provides tools for newsletter growth loops, welcome sequences, subject line audits, list metric interpretation, and monetization readiness based on engagement.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T05:12:58Z"
 ---
 ## What it is
 A deterministic preflight checker for outbound SMS/iMessage that catches silent filtering, segment blowups, and dropped iMessage features before sending.

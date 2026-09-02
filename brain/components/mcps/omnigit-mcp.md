@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-30T03:43:53Z"
 ---
 ## What it is
 MCP server `Omnigit`, catalogued on PulseMCP. Fork of the official GitHub MCP server with local git operations, comment management, and body filtering.

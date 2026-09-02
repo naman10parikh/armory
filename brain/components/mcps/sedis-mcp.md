@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T06:34:37Z"
 ---
 ## What it is
 An MCP server that provides read-only access to Sedis Bolagsanalys and Fastighetsbenchmark data via natural language, enabling AI assistants to query Swedish listed-company financials and real-estate comparables.

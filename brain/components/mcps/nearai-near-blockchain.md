@@ -8,10 +8,12 @@ source_url: https://github.com/nearai/near-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-05-04T07:32:50Z"
 ---
 ## What it is
 MCP server `NEAR Blockchain`, catalogued on PulseMCP. Integrates with the NEAR blockchain to enable account management, balance checking, transaction signing, and key handling directly within conversation interfaces.

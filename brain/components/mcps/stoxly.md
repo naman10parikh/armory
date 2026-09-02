@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T21:39:48Z"
 ---
 ## What it is
 Free stock & ETF fundamental analysis: 10-criteria scoring with a clear verdict and key metrics for any ticker. Two tools (analyze_stock, analyze_etf), no auth, no API keys.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T04:22:01Z"
 ---
 ## What it is
 MCP server for CUBRID databases that enables schema exploration and read-only SQL queries with policy controls.

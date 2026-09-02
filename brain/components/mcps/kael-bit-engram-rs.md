@@ -8,10 +8,12 @@ source_url: https://github.com/kael-bit/engram-rs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-03T05:02:31Z"
 ---
 ## What it is
 MCP server `Engram RS`, catalogued on PulseMCP. Hierarchical memory system for AI agents with three-layer architecture and decay promotion.

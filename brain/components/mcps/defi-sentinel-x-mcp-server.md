@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T21:00:22Z"
 ---
 ## What it is
 Autonomous AI agent monitoring X Layer DeFi protocols via real RPC calls, providing MCP tools for pool scanning, anomaly detection, risk scoring, alerts, position health checks, and audit trails.

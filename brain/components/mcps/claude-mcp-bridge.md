@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T02:22:06Z"
 ---
 ## What it is
 MCP server that lets any agent or MCP host delegate tasks to Claude Code running headless, with tools for review, validation, analysis, and autonomous work.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:34:13Z"
 ---
 ## What it is
 A system-level MCP protocol stack for OpenHarmony that provides unified tool discovery, caching, security, and statistics for agents, reducing context overhead and improving throughput via a user-space daemon (mcpd).

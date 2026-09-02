@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-30T15:33:50Z"
 ---
 ## What it is
 MCP server `Auxen`, catalogued on PulseMCP. Private dedicated GPU instances running open-source AI models with pay-per-minute billing.

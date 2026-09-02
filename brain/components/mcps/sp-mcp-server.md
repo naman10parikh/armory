@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T10:49:26Z"
 ---
 ## What it is
 Enables publishing images with captions to connected Instagram accounts and listing those accounts, allowing Claude to manage Instagram posts for Sp platform users.

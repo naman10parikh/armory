@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-03-24T04:14:40Z"
 ---
 ## What it is
 Enables web search on Chinese internet content using Bocha AI, returning results as Markdown or JSON with configurable freshness and summary options.

@@ -8,10 +8,12 @@ source_url: https://github.com/dpineer/asc_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-10T06:35:12Z"
 ---
 ## What it is
 MCP server `PADS Logic Schematic Editor`, catalogued on PulseMCP. Parses, modifies, and saves PADS Logic V3.0 schematic files with component management, position adjustment, and network connection editing.

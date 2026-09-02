@@ -8,10 +8,12 @@ source_url: https://github.com/saucelabs/sauce-api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-21T08:47:15Z"
 ---
 ## What it is
 MCP server `Sauce Labs`, catalogued on PulseMCP. Basic functionality of the Sauce Labs API, allowing you to query data, analyze test results, and get help with platform usage and debugging!

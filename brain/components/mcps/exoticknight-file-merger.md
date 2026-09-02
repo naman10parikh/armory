@@ -8,10 +8,12 @@ source_url: https://github.com/exoticknight/mcp-file-merger
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-08-08T08:36:44Z"
 ---
 ## What it is
 MCP server `File Merger`, catalogued on PulseMCP. Merge multiple files into one.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T00:03:11Z"
 ---
 ## What it is
 Enables AI coding tools like Claude Code, Codex, and Cursor to register with ControlBoard boards, providing 44 tools for task management, agent coordination, and a live local mirror of board state via WebSocket.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T13:22:56Z"
 ---
 ## What it is
 A paid remote MCP server for routing code search queries, providing structured receipts, audit logs, and reviewer-ready evidence.

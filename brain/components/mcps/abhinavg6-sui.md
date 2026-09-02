@@ -8,10 +8,12 @@ source_url: https://github.com/abhinavg6/sui-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T15:30:00Z"
 ---
 ## What it is
 MCP server `Sui`, catalogued on PulseMCP. Queries the Sui blockchain via 29 tools spanning gRPC fullnode, GraphQL RPC, and archival endpoints with LLM-friendly responses.

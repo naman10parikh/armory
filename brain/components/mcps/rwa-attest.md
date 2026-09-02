@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T17:14:59Z"
 ---
 ## What it is
 Provides cryptographically verifiable RWA trust attestations and multi-chain DeFi data (TVL, top protocols, positioning scorecards) via MCP tools for AI assistants.

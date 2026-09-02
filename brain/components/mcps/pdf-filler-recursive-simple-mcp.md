@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-17T05:52:18Z"
 ---
 ## What it is
 Provides PDF analysis, data extraction, form filling, and comparison capabilities for Claude and Cursor, supporting both text and scanned documents with OCR.

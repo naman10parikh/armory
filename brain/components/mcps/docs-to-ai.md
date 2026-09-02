@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T21:06:05Z"
 ---
 ## What it is
 Enables LLMs to query documents using semantic search, supporting PDFs, Word, Excel, and more. Organizes documents by topics from folder structure and provides advanced search features like phrase matching and date filtering.

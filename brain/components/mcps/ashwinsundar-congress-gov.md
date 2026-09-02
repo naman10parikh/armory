@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-06-30T20:26:29Z"
 ---
 ## What it is
 MCP server `Congress.gov`, catalogued on PulseMCP. Integrates with the Congress.gov API to retrieve US legislative data including bills, amendments, voting records, committee information, member details, and congressional communications for political research and policy analysis workflows.

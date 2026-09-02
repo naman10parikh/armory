@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T04:47:12Z"
 ---
 ## What it is
 Ephemeral mailboxes and a mock OAuth IdP for testing email and auth flows — 39 API-driven tools covering mailboxes, mails, attachments, domains, teams, and mock identities.

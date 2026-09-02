@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-18T23:58:13Z"
 ---
 ## What it is
 Enables agents to discover OP-verified merchants accepting Bitcoin Lightning, BOLT12, L402, or USDT payments, with tools for search, merchant details, and payment endpoint verification.

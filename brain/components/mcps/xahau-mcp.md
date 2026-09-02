@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-21T05:43:52Z"
 ---
 ## What it is
 Offline MCP server for the Xahau network that simulates Hooks smart contracts by running their real WebAssembly bytecode, performs static analysis, and provides read-only ledger access and unsigned transaction builders.

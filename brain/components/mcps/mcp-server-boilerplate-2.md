@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-13T19:06:19Z"
 ---
 ## What it is
 A basic MCP server that provides an addition tool and an API key retrieval tool, designed as a boilerplate for integration with Cursor AI.

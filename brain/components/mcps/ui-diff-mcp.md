@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T22:01:22Z"
 ---
 ## What it is
 Enables comparison of mobile app screenshots against design mockups, with Calorix as the first integration target.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T18:17:30Z"
 ---
 ## What it is
 Enables Claude to operate and reconfigure a Discord server through a registry-based system, using 60 REST tools to manage actions, components, scheduling, and safety without code changes or bot restarts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T19:37:17Z"
 ---
 ## What it is
 Connects AI assistants to Bloghunch publications for automating content creation, analytics, and distribution.

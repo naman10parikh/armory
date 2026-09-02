@@ -8,11 +8,13 @@ source_url: https://github.com/morinokami/astro-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 60
+stars: 61
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-01T03:28:58Z"
 ---
 ## What it is
 Enables AI models to interact with Astro projects by providing runtime information, documentation search, route listing, and integration details.

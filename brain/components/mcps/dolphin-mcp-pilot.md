@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-08-31T08:28:55Z"
 ---
 ## What it is
 Production-ready MCP server for Apache DolphinScheduler. Enables AI agents to operate data workflows end-to-end with 58 tools covering DAG creation, schedule management, instance control, guided troubleshooting, serial backfills, and version rollback.

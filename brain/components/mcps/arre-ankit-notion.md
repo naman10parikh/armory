@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-06T06:41:45Z"
 ---
 ## What it is
 MCP server `Notion`, catalogued on PulseMCP. Integrates with Notion to enable creating, reading, updating, and deleting pages and databases for automated note-taking, task management, and knowledge base maintenance.

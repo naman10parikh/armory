@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T22:18:10Z"
 ---
 ## What it is
 An MCP server that wraps Apache Tika to extract text, metadata, and more from documents. It supports local files and optional remote URLs with SSRF protections.

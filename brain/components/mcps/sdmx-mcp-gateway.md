@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T10:33:31Z"
 ---
 ## What it is
 An MCP server providing progressive discovery tools for SDMX statistical data, enabling AI agents to explore and access SDMX-compliant repositories through interactive tools, resources, and prompts.

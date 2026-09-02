@@ -8,10 +8,12 @@ source_url: https://github.com/hide-org/hide-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-07T11:05:06Z"
 ---
 ## What it is
 MCP server `Hide (Headless IDE)`, catalogued on PulseMCP. Integrates Hide's capabilities to enable agentic work on code in a headless environment.

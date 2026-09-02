@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-26T09:53:46Z"
 ---
 ## What it is
 A production-ready admin bundle for the n8n-mcp server, featuring a web GUI, token-authenticated reverse proxy, and tool management to let AI assistants interact with n8n workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-13T04:04:26Z"
 ---
 ## What it is
 Validates legal citations against the CourtListener database to detect hallucinated citations in legal documents.

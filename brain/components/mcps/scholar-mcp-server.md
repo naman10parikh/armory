@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-05T05:57:53Z"
 ---
 ## What it is
 Unified MCP server for scientific literature search and extraction, integrating databases like Scopus, OpenAlex, Semantic Scholar, and Unpaywall to enable AI agents to discover papers, track citations, and analyze content.

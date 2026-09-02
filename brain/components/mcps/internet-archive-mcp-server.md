@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:00:26Z"
 ---
 ## What it is
 Provides tools to query the Internet Archive, including enumerating historical captures, listing revisions, reading snapshots as clean text, diffing captures, and searching archived items.

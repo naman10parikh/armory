@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-07T23:58:27Z"
 ---
 ## What it is
 MCP server `One Piece & Geolocation`, catalogued on PulseMCP. Multi-server collection providing One Piece anime/manga information and geolocation services through a configurable architecture that allows users to select which specialized server to run at startup.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-04T20:34:33Z"
 ---
 ## What it is
 Enables read-only access to Neo4j databases via the Model Context Protocol, allowing safe Cypher queries, schema exploration, and database statistics.

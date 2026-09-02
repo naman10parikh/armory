@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T07:26:36Z"
 ---
 ## What it is
 MCP server `Gemini Token Usage`, catalogued on PulseMCP. Queries Google Cloud and Gemini API token usage via Cloud Monitoring API and BigQuery billing exports.

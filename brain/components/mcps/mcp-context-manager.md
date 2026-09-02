@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T06:16:28Z"
 ---
 ## What it is
 This MCP server provides tools to manage, score, compress, and prune AI agent conversation context, helping keep agents focused and reduce token costs. It is a free, local, pure Python solution for any MCP client.

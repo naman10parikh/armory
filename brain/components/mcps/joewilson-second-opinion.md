@@ -8,10 +8,12 @@ source_url: https://github.com/joewilsonai/second-opinion-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-05-10T22:51:14Z"
 ---
 ## What it is
 MCP server `Second Opinion (Code Assistant)`, catalogued on PulseMCP. Synthesizes insights from multiple AI sources to provide enhanced coding assistance with automatic language detection and git-aware context gathering.

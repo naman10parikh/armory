@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-22T14:21:59Z"
 ---
 ## What it is
 MCP server `Simple Commands`, catalogued on PulseMCP. Enables execution of predefined developer commands and management of long-running processes through JSON configuration with automatic daemon control tools and cross-platform process monitoring.

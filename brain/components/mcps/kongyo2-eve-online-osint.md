@@ -8,10 +8,12 @@ source_url: https://github.com/kongyo2/eve-online-osint-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-14T00:03:37Z"
 ---
 ## What it is
 MCP server `EVE Online OSINT`, catalogued on PulseMCP. Integrates with EVE Online APIs including ESI, EveWho, and zKillboard to provide comprehensive intelligence gathering on characters, corporations, and alliances through automated entity resolution, killmail analysis, member activity tracking, and security reconnaissance reporting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T19:59:17Z"
 ---
 ## What it is
 Enables AI agents to interact with the Netdisco network management platform through its complete REST API, supporting device inspection, port queries, VLAN searches, and job management.

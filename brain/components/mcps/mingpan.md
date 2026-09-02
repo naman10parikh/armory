@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 39
+pushed_at: "2026-09-01T07:20:20Z"
 ---
 ## What it is
 Provides traditional Chinese astrology (Bazi, Ziwei) and divination (Liuyao, Meihua, Qimen, etc.) calculations as MCP tools for AI assistants.

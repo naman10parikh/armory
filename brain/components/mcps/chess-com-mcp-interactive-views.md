@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T07:56:41Z"
 ---
 ## What it is
 Chess.com player, game, and daily-puzzle tools where each tool ships its own interactive React view — board replays and a playable puzzle widget, not just text. Built with Skybridge for ChatGPT & Claude.

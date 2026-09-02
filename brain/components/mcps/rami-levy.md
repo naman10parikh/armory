@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-02-08T12:44:14Z"
 ---
 ## What it is
 MCP server `Rami Levy`, catalogued on PulseMCP. Provides a bridge to the Rami Levy online grocery shopping platform in Israel, enabling product searches, shopping cart management, and checkout functionality through TypeScript-based API integration.

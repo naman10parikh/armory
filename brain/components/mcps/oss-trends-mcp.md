@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T09:09:41Z"
 ---
 ## What it is
 Enables AI builders to discover trending open-source projects for a given task by ranking repos based on GitHub momentum, npm/PyPI growth, and Hacker News buzz, with tools to recommend, search, assess health, and compare repositories.

@@ -8,10 +8,12 @@ source_url: https://github.com/ksimback/hermes-atlas-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-09T16:36:01Z"
 ---
 ## What it is
 MCP server `Hermes Atlas`, catalogued on PulseMCP. Search and fetch tools, skills, plugins, and integrations from the Hermes Atlas catalog.

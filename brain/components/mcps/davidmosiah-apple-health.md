@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T10:30:15Z"
 ---
 ## What it is
 MCP server `Apple Health`, catalogued on PulseMCP. Unofficial local-first MCP server for reading Apple Health export data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T17:46:14Z"
 ---
 ## What it is
 MCP server that pings 130+ free coding LLM models across 17 providers in real-time, ranks them by latency, and helps AI agents pick the fastest available model.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-31T21:39:21Z"
 ---
 ## What it is
 MCP server `Schematic`, catalogued on PulseMCP. SchematicHQ management for companies, plans, features, and billing.

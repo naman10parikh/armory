@@ -8,11 +8,13 @@ source_url: https://github.com/ZiAn-Su/OCC-ForAgent
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T05:36:07Z"
 ---
 ## What it is
 MCP server for OpenChatCut, enabling AI agents to create, edit, and export fully editable video projects through a real multitrack timeline and agent-native tools.

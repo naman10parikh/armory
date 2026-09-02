@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T13:57:10Z"
 ---
 ## What it is
 A lightweight MCP server that bridges Claude AI with local Python execution, enabling personalized greetings and demonstrating local tool integration.

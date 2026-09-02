@@ -8,10 +8,12 @@ source_url: https://github.com/carlos-dominguez-faber/n8n-automation-kit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-30T19:11:16Z"
 ---
 ## What it is
 MCP server `n8n Automation Kit`, catalogued on PulseMCP. Connect Claude Code to n8n workflows and Coolify deployments via MCP.

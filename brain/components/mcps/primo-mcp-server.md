@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-04-08T09:05:15Z"
 ---
 ## What it is
 MCP server for searching Ex Libris Primo library catalogues and subscribed databases, enabling search, record retrieval, autocomplete, citation generation, and export to BibTeX, RIS, or CSV.

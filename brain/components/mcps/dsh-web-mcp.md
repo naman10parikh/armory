@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T15:00:11Z"
 ---
 ## What it is
 An MCP bridge that exposes DeepSeek Harness (DSH) web UI's cordis RPC API as stdio tools, enabling any MCP client to manage workspaces, create/resume sessions, send messages, and fetch session stats.

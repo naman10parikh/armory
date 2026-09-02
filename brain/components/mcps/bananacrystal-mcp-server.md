@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T16:31:15Z"
 ---
 ## What it is
 Provides AI agents with a wallet and autonomous payment capabilities using stablecoins, enabling seamless micropayments and financial operations with under 5-second settlement on Hedera.

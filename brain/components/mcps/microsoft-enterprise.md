@@ -8,10 +8,12 @@ source_url: https://github.com/microsoft/enterprisemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-06-04T23:33:45Z"
 ---
 ## What it is
 MCP server `Microsoft Enterprise`, catalogued on PulseMCP. Query Microsoft Entra identity data using natural language

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T09:27:17Z"
 ---
 ## What it is
 Enables Claude Code to request independent code reviews and second opinions from other AI models (like Gemini, GPT-OSS) via the Antigravity CLI, directly from the chat.

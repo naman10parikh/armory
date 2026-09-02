@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T08:09:09Z"
 ---
 ## What it is
 MCP server for US stock quant research that provides explainable ratings, support/stop levels, and reasoning for any ticker. It enables AI assistants to analyze and discuss stocks inline within the same chat.

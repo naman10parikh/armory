@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-01T12:13:42Z"
 ---
 ## What it is
 MCP server `N3MemoryCore Lite`, catalogued on PulseMCP. Ephemeral hybrid vector and BM25 working memory with multilingual support backed by Redis Stack.

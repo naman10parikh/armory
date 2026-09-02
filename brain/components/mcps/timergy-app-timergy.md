@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 1
+forks: 0
+pushed_at: "2026-03-21T22:54:02Z"
 ---
 ## What it is
 Create scheduling polls (like Doodle/When2Meet) from AI agents. No auth required. Tools: `create_poll`, `get_poll`, `vote_on_poll`, `get_results`, `finalize_poll`.

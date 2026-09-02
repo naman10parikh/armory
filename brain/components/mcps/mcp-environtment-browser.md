@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T18:18:37Z"
 ---
 ## What it is
 MCP server acting as a credential vault and browser execution broker, letting AI agents perform browser tasks (login, scraping, etc.) without exposing raw credentials, with per-tab billing and a monitoring UI.

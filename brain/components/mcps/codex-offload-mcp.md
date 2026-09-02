@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:48:31Z"
 ---
 ## What it is
 An MCP server for running Claude Code and the Codex CLI as a pair: Claude drives, and hands self-contained tasks to Codex as background jobs.

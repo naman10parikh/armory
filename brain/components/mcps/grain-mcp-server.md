@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-13T14:19:39Z"
 ---
 ## What it is
 Enables browsing, retrieving, and downloading meeting recordings and transcripts from Grain via browser automation, bypassing the need for enterprise API access.

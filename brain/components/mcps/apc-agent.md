@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T04:08:12Z"
 ---
 ## What it is
 MCP server for AWS Payment Cryptography that gives AI coding assistants direct access to the APC control plane and data plane, with embedded knowledge of payment standards, HSM vendor command sets, and PCI PIN v3.1 compliance requirements.

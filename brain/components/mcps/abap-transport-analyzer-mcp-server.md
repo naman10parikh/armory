@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T20:49:40Z"
 ---
 ## What it is
 Enables AI-driven analysis of SAP transport requests, including metadata retrieval, code diff analysis, and risk detection for ABAP objects.

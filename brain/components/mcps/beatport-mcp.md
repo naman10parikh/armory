@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T11:13:45Z"
 ---
 ## What it is
 An MCP server that lets Claude search the Beatport catalog and manage your Beatport playlists, including adding tracks to playlists by name.

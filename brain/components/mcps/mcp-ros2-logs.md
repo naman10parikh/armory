@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-22T22:57:08Z"
 ---
 ## What it is
 Enables AI agents to analyze ROS2 log files across multiple nodes by merging them into a unified timeline and providing smart query tools, without requiring ROS2 installation.

@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-04T14:35:33Z"
 ---
 ## What it is
 MCP server `Nexus (VSCode)`, catalogued on PulseMCP. Integrates Claude Desktop with VSCode, enabling file access and manipulation within specified workspace directories for seamless AI-assisted development workflows.

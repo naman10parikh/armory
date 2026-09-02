@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T10:35:42Z"
 ---
 ## What it is
 Provides pairwise test generation for AI assistants using the PICT algorithm, running locally via WebAssembly.

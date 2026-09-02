@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-20T07:00:52Z"
 ---
 ## What it is
 Enables interaction with a telecalling-first sales CRM, providing 13 JSON-RPC MCP tools for lead management, actions, WhatsApp, and telephony, with multi-tenant RLS.

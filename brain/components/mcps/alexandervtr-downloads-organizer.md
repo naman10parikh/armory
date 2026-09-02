@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-11T14:44:02Z"
 ---
 ## What it is
 MCP server `Downloads Organizer`, catalogued on PulseMCP. Automatically organizes files in your Downloads folder based on configurable rules, sorting by file type and date while handling duplicates through a RESTful API with real-time updates.

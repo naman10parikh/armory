@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T03:42:00Z"
 ---
 ## What it is
 MCP server `Pipeline Orchestrator`, catalogued on PulseMCP. Pipeline orchestration with DAG resolution and JSON Schema artifact validation.

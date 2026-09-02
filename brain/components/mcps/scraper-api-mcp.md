@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T09:29:23Z"
 ---
 ## What it is
 Enables AI assistants to access structured public web data (profiles, posts, videos, etc.) from social networks and directories via natural language, by forwarding tool calls to the scraper-api.com API.

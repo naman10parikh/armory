@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T22:38:01Z"
 ---
 ## What it is
 Automatic personal finance tracker MCP server that reads transaction notification emails from Gmail, extracts transaction data, and records them to Google Sheets, enabling AI clients to query spending and drive syncs.

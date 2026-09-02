@@ -8,10 +8,12 @@ source_url: https://github.com/j04n-f/woodpecker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-23T16:28:33Z"
 ---
 ## What it is
 MCP server `Woodpecker CI`, catalogued on PulseMCP. Connects AI assistants to Woodpecker CI for debugging pipeline failures, analyzing build logs, and troubleshooting CI/CD configurations.

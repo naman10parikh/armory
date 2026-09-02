@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T10:01:30Z"
 ---
 ## What it is
 A standalone MCP server for exploring the weclapp REST API v2, providing offline knowledge about entities, endpoints, and relationships, plus optional live GET probes against a tenant.

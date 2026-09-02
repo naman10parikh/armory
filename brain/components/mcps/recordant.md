@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T04:01:18Z"
 ---
 ## What it is
 Patent-pending diagnostic + decisions-ledger engine for any host software system — operator briefs and a severity-gated MCP console.

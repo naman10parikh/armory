@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T21:41:15Z"
 ---
 ## What it is
 A read-only MCP server for querying Los Angeles City legislative data - Council Files, votes, member activity, and Neighborhood Council engagement - through parameterized tools without raw SQL.

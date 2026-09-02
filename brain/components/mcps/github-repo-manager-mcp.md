@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T05:33:37Z"
 ---
 ## What it is
 This MCP server lets an AI client manage GitHub repositories through the GitHub REST and GraphQL APIs, enabling repository CRUD, topic/label management, and file operations.

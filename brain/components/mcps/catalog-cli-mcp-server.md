@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T13:56:59Z"
 ---
 ## What it is
 Agent-native Amazon catalog auditing tool that enables AI agents to scan, check, and diff Category Listing Reports and live Seller Central listings via MCP tools.

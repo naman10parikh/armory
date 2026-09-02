@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T19:58:45Z"
 ---
 ## What it is
 A defensive gateway and firewall for AI agents using MCP servers, scanning tool calls, responses, and manifests for prompt injection, secrets, dangerous commands, and drift before allowing execution.

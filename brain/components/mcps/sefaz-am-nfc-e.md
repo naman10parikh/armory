@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:54Z"
 ---
 ## What it is
 Provides a single read-only tool to consult NFC-e (electronic invoice) data from SEFAZ Amazonas via MCP over HTTP, with prepaid credits.

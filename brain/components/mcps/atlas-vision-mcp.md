@@ -8,11 +8,13 @@ source_url: https://github.com/QuangThai/vision-bridge-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-17T09:07:58Z"
 ---
 ## What it is
 Enables text-only coding agents to analyze local images using a dedicated vision provider, returning markdown and structured JSON evidence for screenshots, diagrams, UI mockups, and error captures.

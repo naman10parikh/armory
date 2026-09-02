@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-01T19:47:26Z"
 ---
 ## What it is
 MCP server `Salesforce, Atlassian, Supabase`, catalogued on PulseMCP. Integrates Salesforce CRM, Atlassian Jira/Confluence, and Supabase to enable unified CRUD operations across customer data, issue tracking, knowledge base management, and document storage with analytics logging.

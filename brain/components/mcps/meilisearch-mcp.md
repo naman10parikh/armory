@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T13:39:30Z"
 ---
 ## What it is
 MCP server for MeiliSearch that enables searching indexes, managing documents and indexes, checking health/stats, and managing API keys. Perfect for AI agents to interact with MeiliSearch through natural language.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T16:56:49Z"
 ---
 ## What it is
 MCP server `MacWhisper`, catalogued on PulseMCP. Local MacWhisper speech-to-text integration for on-device audio transcription.

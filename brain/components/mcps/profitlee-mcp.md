@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:46:06Z"
 ---
 ## What it is
 ProfitLee MCP is an MCP server for analyzing ecommerce and marketplace profitability. It helps users calculate net profit, profit margin, ROI, breakeven price, and fee-adjusted outcomes from product cost, selling price, shipping, ads, platform fees, and tax inputs. It also supports reusable profit s

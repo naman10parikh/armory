@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T18:08:18Z"
 ---
 ## What it is
 An AI-powered QA automation tool that crawls web pages, generates Playwright-based pytest tests using an LLM, runs them, and automatically heals failing tests.

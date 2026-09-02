@@ -8,11 +8,13 @@ source_url: https://github.com/Casperjuel/abrp-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-09T21:08:00Z"
 ---
 ## What it is
 An unofficial MCP server for A Better Routeplanner that enables EV route planning with charging stops, charger search, vehicle models, and live telemetry using the ABRP API.

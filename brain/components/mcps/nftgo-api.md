@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-24T14:09:49Z"
 ---
 ## What it is
 MCP server `NFTGo API`, catalogued on PulseMCP. Provides a bridge to the NFTGo Developer API for accessing Ethereum NFT data including collections, assets, market trends, and wallet information through authenticated HTTP requests.

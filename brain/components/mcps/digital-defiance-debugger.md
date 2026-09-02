@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-28T20:24:11Z"
 ---
 ## What it is
 MCP server `Digital Defiance Debugger`, catalogued on PulseMCP. Enterprise-grade debugging for Node.js and TypeScript applications

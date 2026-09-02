@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T05:38:19Z"
 ---
 ## What it is
 Enables agentic retrieval over governed enterprise documents via a knowledge graph, with cross-silo orchestration, conflict detection, and audit trails. Exposes MCP tools like query_knowledge_graph, list_detected_conflicts, and get_audit_trail for use by other agents.

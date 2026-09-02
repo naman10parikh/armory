@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:48:14Z"
 ---
 ## What it is
 Provides detailed credit operation records from the Brazilian Central Bank's SCR system for individuals or companies, filterable by reference month and year. Enables read-only queries through a single hosted tool.

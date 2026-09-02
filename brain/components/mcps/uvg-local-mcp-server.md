@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T00:25:26Z"
 ---
 ## What it is
 Enables local text analysis, statistical calculations, and system information retrieval via the Model Context Protocol over stdio.

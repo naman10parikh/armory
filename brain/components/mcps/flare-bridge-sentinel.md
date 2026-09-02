@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T23:11:29Z"
 ---
 ## What it is
 MCP server for monitoring Flare's interoperable asset ecosystem, providing real-time on-chain data for FAssets, FTSOv2 prices, and bridge states. It exposes 8 MCP tools for anomaly detection, risk scoring, and automated alerts.

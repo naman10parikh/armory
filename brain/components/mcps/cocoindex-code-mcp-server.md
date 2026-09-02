@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-04-14T13:23:39Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides a RAG (Retrieval Augmented Generation) tool with hybrid search capabilities combining vector similarity and keyword metadata search for code retrieval.

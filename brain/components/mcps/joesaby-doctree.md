@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-12T17:38:46Z"
 ---
 ## What it is
 MCP server `DocTree`, catalogued on PulseMCP. BM25 search and tree navigation over markdown documentation for structured, token-efficient document retrieval.

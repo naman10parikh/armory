@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-03T13:33:14Z"
 ---
 ## What it is
 Executes SQL queries via ConnectorX and streams results to CSV or Parquet files, supporting multiple databases and optional token counting for CSV output.

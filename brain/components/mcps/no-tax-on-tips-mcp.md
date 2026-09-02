@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T06:51:53Z"
 ---
 ## What it is
 MCP server that exposes the OBBBA No Tax on Tips federal deduction logic as callable tools, enabling users to check eligibility and estimate tip deductions.

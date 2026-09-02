@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T15:42:26Z"
 ---
 ## What it is
 Enables sudo-free management of /etc/hosts entries for Hack The Box and lab work, with a zero-dependency MCP server for AI coding agents.

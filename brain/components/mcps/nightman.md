@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T19:03:44Z"
 ---
 ## What it is
 MCP server for hunting bugs in Python functions via adversarial input generation and minimized regression tests.

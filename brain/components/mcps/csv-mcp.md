@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T12:12:24Z"
 ---
 ## What it is
 A stdio MCP server for safely reading, analyzing, validating, and transforming CSV/TSV files, with sandboxed file system access and configurable parsing options.

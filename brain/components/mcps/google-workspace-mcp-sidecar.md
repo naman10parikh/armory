@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T22:43:28Z"
 ---
 ## What it is
 A policy-enforcing MCP sidecar that provides Gmail and Google Calendar tools, enabling email drafting, thread management, calendar event retrieval, and time suggestions with server-side recipient and visibility policies.

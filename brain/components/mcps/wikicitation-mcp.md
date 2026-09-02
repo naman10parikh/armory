@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T17:26:16Z"
 ---
 ## What it is
 Provides 40 tools to Claude for Wikipedia citation analysis, edit history, and DOI/ISBN annotation, enabling citation quality scoring and metadata enrichment without leaving the chat.

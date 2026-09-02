@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T18:49:25Z"
 ---
 ## What it is
 Enables users to scan any website for AI search visibility, producing AEO, GEO, agent readiness, and mention-readiness scores along with AI identity and business profile insights. Paid tools extend this to competitive comparisons, detailed audits, and generated fixes.

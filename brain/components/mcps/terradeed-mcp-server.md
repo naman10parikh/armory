@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T08:53:21Z"
 ---
 ## What it is
 Enables web scraping and structured data extraction via x402-powered USDC payments on Base mainnet, with tools for scraping URLs into markdown, extracting schema-defined JSON, and checking wallet balances.

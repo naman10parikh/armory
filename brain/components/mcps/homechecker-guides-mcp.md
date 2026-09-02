@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T03:04:51Z"
 ---
 ## What it is
 Provides read-only access to Homechecker's Australian residential-building guidance corpus, with tools for listing, searching, retrieving guides, and generating buyer checklists.

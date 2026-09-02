@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-05T13:47:36Z"
 ---
 ## What it is
 Controls KakaoTalk PC via Win32 API, enabling message sending, reading, and chat room management through MCP clients like Claude Desktop.

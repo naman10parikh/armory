@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-28T21:38:16Z"
 ---
 ## What it is
 A Vite plugin that provides MCP server capabilities, enabling MCP clients to interact with browser environments through adapters for console, cookies, storage, performance, and component tree inspection.

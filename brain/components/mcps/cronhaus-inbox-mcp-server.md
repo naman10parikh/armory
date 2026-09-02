@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T15:31:49Z"
 ---
 ## What it is
 Enables AI-powered invoice analysis and reasoning: given invoice fields, it detects missing data, inconsistencies, duplicates, and proposes actions (register, request data, mark duplicate, review) using deterministic rules.

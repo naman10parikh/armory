@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T23:11:41Z"
 ---
 ## What it is
 A human-gated customer-support agent that provides MCP servers for read-only account lookup and write actions (refund, escalate, close) that require human approval before execution.

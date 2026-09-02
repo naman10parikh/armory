@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-04-03T19:13:22Z"
 ---
 ## What it is
 Provides real-time stock quotes, market indices, historical data, and financial visualizations from Yahoo Finance without API keys, enabling users to analyze and visualize market data through Claude.

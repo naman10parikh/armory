@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 7
+forks: 7
+pushed_at: "2026-02-01T21:07:14Z"
 ---
 ## What it is
 MCP server for interacting with NetBox API.

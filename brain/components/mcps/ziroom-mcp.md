@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T08:47:42Z"
 ---
 ## What it is
 MCP server for Ziroom rental that supports stateful session-based filtering and scraping individual listing detail pages. Enables agents to search, filter, sort, and retrieve listing details from Ziroom via natural language.

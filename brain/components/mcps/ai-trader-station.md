@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:19:13Z"
 ---
 ## What it is
 MCP server exposing Bill Williams trading signal analysis, market data, and order execution capabilities from MetaTrader 5, enabling AI assistants to run analyses and execute trades through natural language.

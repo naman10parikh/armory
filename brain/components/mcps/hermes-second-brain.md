@@ -8,11 +8,13 @@ source_url: https://github.com/andrihakim146/hermes-second-brain
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-05T03:14:22Z"
 ---
 ## What it is
 Enables capturing, searching, and organizing Obsidian notes from Telegram via Hermes Agent (MCP).

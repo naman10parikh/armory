@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T12:32:10Z"
 ---
 ## What it is
 A hands-on lab for learning the Model Context Protocol (MCP) in TypeScript, providing example tools, resources, and prompts.

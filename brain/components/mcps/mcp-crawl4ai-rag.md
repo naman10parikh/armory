@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T12:03:54Z"
 ---
 ## What it is
 A database-agnostic MCP server that integrates web crawling with Retrieval Augmented Generation, supporting multiple AI providers and vector database backends for flexible and intelligent content retrieval.

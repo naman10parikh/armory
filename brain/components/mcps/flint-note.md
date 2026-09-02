@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-12T05:27:13Z"
 ---
 ## What it is
 MCP server `Flint Note`, catalogued on PulseMCP. Agent-first note-taking application that provides complete access to a structured note management system with wikilink support, hybrid search capabilities, and vault organization for building knowledge bases and research workflows.

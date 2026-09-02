@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:06:12Z"
 ---
 ## What it is
 A production-grade MCP server for Windows developer environments, providing AI assistants with secure terminal, filesystem, git, Docker, SQLite, browser, and GitHub capabilities through 12 providers and 40+ tools.

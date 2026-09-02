@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T05:54:29Z"
 ---
 ## What it is
 Cross-stack MCP server that scans frontend and backend code together, detects mismatches like phantom calls, dead endpoints, and field drift, and provides a full-stack health audit.

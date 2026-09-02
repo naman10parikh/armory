@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-12T12:58:20Z"
 ---
 ## What it is
 MCP server `ENS`, catalogued on PulseMCP. Resolves ENS domains to Ethereum addresses and retrieves comprehensive domain information including ownership, registration history, and resolver changes through The Graph's ENS subgraph integration.

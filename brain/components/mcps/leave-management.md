@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T13:06:19Z"
 ---
 ## What it is
 Enables employees to check leave balance, apply for leave, and view leave history through natural language using Claude Desktop.

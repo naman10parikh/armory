@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-25T00:02:36Z"
 ---
 ## What it is
 Integrates Everything file search with Claude Desktop, enabling instant Windows filesystem search via natural language queries.

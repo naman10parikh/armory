@@ -8,10 +8,12 @@ source_url: https://github.com/siqiliu-tsinghua/mma-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-04T02:15:09Z"
 ---
 ## What it is
 MCP server `Wolfram Engine`, catalogued on PulseMCP. Bridges AI assistants to a local Wolfram Engine for symbolic mathematics, numerical analysis, and data visualization via Wolfram Language evaluation.

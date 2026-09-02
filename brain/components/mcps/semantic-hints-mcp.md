@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:00:49Z"
 ---
 ## What it is
 A local stdio MCP server that exposes compact semantic observations from UI elements annotated with data-agent-* hints, designed to work alongside the official Playwright MCP for browser automation.

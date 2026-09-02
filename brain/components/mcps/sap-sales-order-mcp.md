@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T19:58:11Z"
 ---
 ## What it is
 MCP server for SAP S/4HANA Sales Order Management that enables natural language queries for sales orders, order details, and line items using SAP's public sandbox API. Built with offline testing, structured errors, and retry policies.

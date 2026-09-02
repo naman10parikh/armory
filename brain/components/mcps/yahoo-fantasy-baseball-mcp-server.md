@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-14T15:45:46Z"
 ---
 ## What it is
 Enables interaction with Yahoo Fantasy Sports API for fantasy baseball, providing tools to manage rosters and player stats via Claude.

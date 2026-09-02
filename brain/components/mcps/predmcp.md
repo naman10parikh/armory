@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T23:10:30Z"
 ---
 ## What it is
 Safe, read-only market data for AI trading agents, offering 44 tools to query prediction markets, perpetuals, and cross-venue signals without the ability to execute trades.

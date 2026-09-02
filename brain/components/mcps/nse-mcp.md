@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T09:03:09Z"
 ---
 ## What it is
 Exposes live Indian stock market data from the National Stock Exchange (NSE) via 17 tools covering bulk/block deals, institutional flows, market data, corporate events, and short selling.

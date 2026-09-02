@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T00:21:01Z"
 ---
 ## What it is
 Enables an AI assistant to run guarded, read-only SQL queries against a Postgres database with enforced limits and validation.

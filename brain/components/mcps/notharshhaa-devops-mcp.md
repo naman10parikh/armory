@@ -8,10 +8,12 @@ source_url: https://github.com/notharshhaa/devops-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-01T16:08:12Z"
 ---
 ## What it is
 MCP server `DevOps Tools`, catalogued on PulseMCP. Unified MCP for Kubernetes, ArgoCD, Prometheus, and PagerDuty DevOps platform management.

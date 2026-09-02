@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-26T15:39:49Z"
 ---
 ## What it is
 Enables AI agents to create publication-quality scientific diagrams, flowcharts, and architecture diagrams in OmniGraffle via natural language commands.

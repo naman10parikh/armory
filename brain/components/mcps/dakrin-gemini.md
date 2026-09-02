@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-28T00:38:27Z"
 ---
 ## What it is
 MCP server `Gemini 2.5 Pro`, catalogued on PulseMCP. Enables Claude Desktop to interact with Google's Gemini 2.5 Pro model through a TypeScript server with Google Search integration for grounded responses and detailed token usage reporting.

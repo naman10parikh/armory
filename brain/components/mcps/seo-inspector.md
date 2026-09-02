@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-07T20:30:33Z"
 ---
 ## What it is
 MCP server `SEO Inspector`, catalogued on PulseMCP. Automates web page SEO analysis by scanning HTML files and websites to identify critical optimization issues like missing titles, meta descriptions, and heading structures using Node.js and Cheerio.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T17:02:09Z"
 ---
 ## What it is
 Enforces authorize-before-execute for any MCP-compatible AI agent. Exposes atlasent_evaluate and atlasent_verify_permit tools so a protected tool call only runs after AtlaSent issues and verifies a signed, single-use permit — fail-closed on any error, timeout, or malformed response.

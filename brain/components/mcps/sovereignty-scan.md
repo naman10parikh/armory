@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-04T11:45:43Z"
 ---
 ## What it is
 MCP server `Sovereignty Scan`, catalogued on PulseMCP. EU AI Act compliance tool that scans vendor data processing locations, legal jurisdictions, and US CLOUD Act exposure.

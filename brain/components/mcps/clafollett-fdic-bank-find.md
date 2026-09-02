@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-07T21:12:34Z"
 ---
 ## What it is
 MCP server `FDIC BankFind`, catalogued on PulseMCP. Provides a Rust-based proxy for the FDIC BankFind API, enabling access to detailed financial institution data including institutions, locations, failures, and demographics for financial analysis, banking research, and regulatory compliance workflows.

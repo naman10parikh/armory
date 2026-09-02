@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T05:46:30Z"
 ---
 ## What it is
 Enables GUI automation by executing Python code with instrumented pyautogui, providing MCP-friendly output and inline screenshot delivery.

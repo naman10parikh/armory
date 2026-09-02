@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T18:59:08Z"
 ---
 ## What it is
 Enables AI to query a business database for customers, orders, and revenue using natural language through safe, well-defined tools.

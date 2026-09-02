@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T05:05:56Z"
 ---
 ## What it is
 Provides a unified context layer for AI agents, enabling ranked search, file management, context bundles, database queries, and connected source access through MCP, all scoped to organizational permissions with citations.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T18:37:19Z"
 ---
 ## What it is
 MCP server `Audiobookshelf`, catalogued on PulseMCP. Inspect and operate Audiobookshelf media server libraries, including audiobooks and podcasts, over MCP.

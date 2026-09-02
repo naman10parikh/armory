@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-08T02:28:05Z"
 ---
 ## What it is
 Comprehensive MCP server for analyzing GitHub pull requests, detecting security vulnerabilities, assessing code quality, and providing risk ratings across multiple languages.

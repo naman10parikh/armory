@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T17:52:23Z"
 ---
 ## What it is
 An MCP server that enforces explicit task ownership through acceptance and mandatory provenance tagging (Observed/Reviewed/Reported) on all completion claims, providing six tools for task creation, acceptance, completion reporting, handoff, and status/history queries backed by PostgreSQL.

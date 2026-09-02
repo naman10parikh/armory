@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T16:43:18Z"
 ---
 ## What it is
 Exposes product catalog and semantic search as tools for an LLM agent, enabling natural language product recommendations based on intent rather than keyword matching.

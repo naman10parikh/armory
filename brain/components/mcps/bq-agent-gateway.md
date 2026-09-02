@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T12:25:35Z"
 ---
 ## What it is
 Enables safe, read-only interaction with Google BigQuery through Claude, with layered guardrails preventing dangerous or expensive queries. Exposes tools for listing datasets, tables, estimating costs, and running queries.

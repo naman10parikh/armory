@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T08:47:38Z"
 ---
 ## What it is
 A shared communication bus for multiple agents using NATS and MCP, enabling MCP clients to list, message, and query agents.

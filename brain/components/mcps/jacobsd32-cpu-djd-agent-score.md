@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-06T04:01:03Z"
 ---
 ## What it is
 MCP server `DJD Agent Score`, catalogued on PulseMCP. Agent performance scoring and benchmarking with task completion metrics.

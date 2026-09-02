@@ -8,10 +8,12 @@ source_url: https://github.com/webcoderz/mcp-geo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-01-21T01:42:33Z"
 ---
 ## What it is
 MCP server `Geo`, catalogued on PulseMCP. Integrates multiple geocoding services to provide flexible location-based operations including forward/reverse geocoding and address information retrieval.

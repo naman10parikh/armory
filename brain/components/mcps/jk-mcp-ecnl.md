@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T09:57:26Z"
 ---
 ## What it is
 An MCP server for ECNL and ECRL youth soccer, providing schedules, standings, and RPI for both boys and girls.

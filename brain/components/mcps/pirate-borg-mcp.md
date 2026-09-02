@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T16:06:12Z"
 ---
 ## What it is
 An MCP server for generating Pirate Borg NPCs with procedurally rolled stats, allowing LLMs to create stat-accurate characters using the rulebook's tables.

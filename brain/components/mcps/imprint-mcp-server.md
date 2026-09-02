@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T12:41:41Z"
 ---
 ## What it is
 Enables querying local meeting notes, calendar events, email metadata, and daily digests from Imprint's database via natural language through Claude Desktop and other MCP clients.

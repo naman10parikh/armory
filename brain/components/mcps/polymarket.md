@@ -8,11 +8,13 @@ source_url: https://github.com/ozgureyilmaz/polymarket-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [crypto, mcp]
 mentions: 22
+forks: 13
+pushed_at: "2026-01-11T19:48:19Z"
 ---
 
 ## What it is

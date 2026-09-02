@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T21:12:42Z"
 ---
 ## What it is
 Enables AI agents to programmatically create and manage LetsGal Studio visual novel projects via a story DSL, supporting project initialization, story compilation, dialogue/narration addition, validation, and asset registration through MCP tools.

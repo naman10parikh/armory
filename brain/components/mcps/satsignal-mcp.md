@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T14:53:20Z"
 ---
 ## What it is
 Enables tamper-evident anchoring of file, text, or JSON hashes to the BSV blockchain via MCP tools, with verification and lookup capabilities.

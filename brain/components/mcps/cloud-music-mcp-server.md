@@ -8,11 +8,13 @@ source_url: https://github.com/Code-MonkeyZhang/cloud-music-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-02T12:27:07Z"
 ---
 ## What it is
 Enables AI agents to control NetEase Cloud Music playback, login, search, and get personalized recommendations through official APIs.

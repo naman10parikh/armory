@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-26T18:38:26Z"
 ---
 ## What it is
 Syncs and retrieves daily nutrition data (meals and macros) from Fitatu via MCP tools, with SQLite caching and HTTP Streamable transport.

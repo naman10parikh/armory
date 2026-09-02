@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T12:13:13Z"
 ---
 ## What it is
 Exposes a SQLite database as MCP tools for Dify Cloud, ensuring LLM responses are based on real database records rather than generated data.

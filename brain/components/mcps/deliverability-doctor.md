@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T04:39:11Z"
 ---
 ## What it is
 Enables assessing and comparing domains for email spoofing risk by evaluating SPF, DMARC, MX, and DKIM records from public DNS, providing A-F grades and concrete remediation steps.

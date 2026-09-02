@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T05:49:38Z"
 ---
 ## What it is
 Enables AI agents to check balances and send transactions across multiple blockchains with automatic spending limit protection and policy enforcement.

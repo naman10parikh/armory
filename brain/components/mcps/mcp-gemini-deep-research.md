@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T05:19:03Z"
 ---
 ## What it is
 MCP server that runs Google Gemini Deep Research using live Chrome session cookies, enabling autonomous web research and cited report generation without an API key.

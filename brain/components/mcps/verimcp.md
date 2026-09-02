@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T07:26:01Z"
 ---
 ## What it is
 A transparent MCP proxy that independently re-verifies tool-call claims instead of trusting them, paired with devmcp — the git/CI server it's proven against.

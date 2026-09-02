@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-31T11:07:54Z"
 ---
 ## What it is
 MCP server `CodeAtlas`, catalogued on PulseMCP. Exposes CodeAtlas code analysis data — project structure, dependencies, insights, and entity search — to AI assistants.

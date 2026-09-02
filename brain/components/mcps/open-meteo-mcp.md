@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T07:50:36Z"
 ---
 ## What it is
 Enables users to get weather forecasts, snow conditions, air quality, and location search via the Open-Meteo API, with guided prompts for ski trips and outdoor activities.

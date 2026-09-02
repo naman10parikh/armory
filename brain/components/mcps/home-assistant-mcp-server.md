@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T00:52:19Z"
 ---
 ## What it is
 Enables AI agents to control Home Assistant smart home devices via MCP, with zero external dependencies. Supports calling services, getting states, and looking up service parameters.

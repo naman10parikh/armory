@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-23T05:44:17Z"
 ---
 ## What it is
 MCP server `Investment Portfolio Manager`, catalogued on PulseMCP. Reads in JSON-formatted Investment portfolio and performs web searches and stock price searches to provide meaningful evaluations and recommendations.

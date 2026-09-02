@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-22T12:35:57Z"
 ---
 ## What it is
 MCP server `Browserless`, catalogued on PulseMCP. Browser automation via Browserless.io for PDF generation, screenshots, content extraction, scraping, performance audits, and bot detection bypass.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-13T16:45:00Z"
 ---
 ## What it is
 Provides chess-related tools via the Model Context Protocol, integrating with the Chess.com API to fetch daily puzzles, live streamers, player information, and more for AI assistants.

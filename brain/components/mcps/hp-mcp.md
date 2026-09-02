@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T23:18:11Z"
 ---
 ## What it is
 Exposes the kotoragk homepage public API as read-only tools, enabling users to fetch news, company info, and news details via natural language.

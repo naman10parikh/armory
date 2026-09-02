@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-15T23:41:20Z"
 ---
 ## What it is
 MCP server `SEAL Frameworks`, catalogued on PulseMCP. Read-only access to Security Alliance (SEAL) security framework documentation for Web3 builders.

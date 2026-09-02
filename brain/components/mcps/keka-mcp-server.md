@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T12:17:05Z"
 ---
 ## What it is
 MCP server for the Keka HRM API, enabling HR operations like employee management, leave, attendance, payroll, recruitment, and PSA.

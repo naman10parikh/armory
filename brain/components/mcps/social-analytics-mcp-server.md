@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-09T18:47:52Z"
 ---
 ## What it is
 Enables Instagram and Facebook analytics via the Meta Graph API, offering account insights, media analytics, and post engagement data.

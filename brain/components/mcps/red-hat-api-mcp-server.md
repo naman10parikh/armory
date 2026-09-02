@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-14T06:20:01Z"
 ---
 ## What it is
 Integrates with Red Hat APIs to enable searching Knowledge Centered Support (KCS) solutions, retrieving solution details, searching support cases, and obtaining case details through LLM applications.

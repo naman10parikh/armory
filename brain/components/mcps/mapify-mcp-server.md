@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-28T02:48:25Z"
 ---
 ## What it is
 Enables AI assistants to generate interactive mind maps from text, YouTube videos, and web content using Mapify's API.

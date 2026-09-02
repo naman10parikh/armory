@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:29:13Z"
 ---
 ## What it is
 Integrates public APIs from the Brazilian Compras.gov.br procurement ecosystem to support price research, supplier sanctions, contract analysis, and procurement planning.

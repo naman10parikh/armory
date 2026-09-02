@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T16:57:29Z"
 ---
 ## What it is
 Connects Claude Desktop to the OAPT MCP server for natural-language queries across Dynamics CRM, AWS ACE, Partner Central, and more via a hosted endpoint, with per-user API key authentication.

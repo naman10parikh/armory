@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T18:56:02Z"
 ---
 ## What it is
 Enables fetching any web page's HTML by bypassing anti-bot protection, and also provides AI-parsed structured data and Google search results.

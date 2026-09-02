@@ -8,11 +8,13 @@ source_url: https://github.com/gamzadongza/danbooru-tags-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3394
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2025-10-13T13:04:06Z"
 ---
 ## What it is
 Extract tags from any Danbooru post and explore categories at a glance. Analyze character-specific tag frequencies to surface top traits and clothing patterns. Look up tag and character details from the Danbooru Wiki to add context.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-03-16T21:55:02Z"
 ---
 ## What it is
 A Three.js MCP server for designing 3D brick constructions, enabling AI or interactive placement of bricks through natural language and providing tools to manage and export scenes.

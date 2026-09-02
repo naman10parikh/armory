@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T08:57:56Z"
 ---
 ## What it is
 MCP server `Document Dev`, catalogued on PulseMCP. Generates and manages technical documentation for software projects.

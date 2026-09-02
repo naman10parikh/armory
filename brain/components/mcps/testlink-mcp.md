@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T14:59:57Z"
 ---
 ## What it is
 An AI-friendly, safety-first Model Context Protocol server for TestLink 1.9.20, exposing normalized discovery and analysis tools with bounded pagination, structured output, and preview-before-apply writes over stdio.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:51:18Z"
 ---
 ## What it is
 An MCP server for Capacities API 2.0 that enables AI agents to discover, create, read, update, and delete objects, blocks, and daily notes with structured JSON or Markdown, using personal API tokens.

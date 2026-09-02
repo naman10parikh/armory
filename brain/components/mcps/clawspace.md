@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T04:46:40Z"
 ---
 ## What it is
 Bootstrap a production-grade OpenClaw agent workspace with memory system, config validation, and templates. Exposes tools like setup_workspace, validate_config, list_templates, and get_optimization_advice via MCP.

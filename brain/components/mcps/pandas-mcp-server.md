@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-12-24T14:16:02Z"
 ---
 ## What it is
 Enables LLMs to safely execute pandas code for data analysis and generate interactive visualizations through the Model Context Protocol.

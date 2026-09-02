@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-05T10:36:45Z"
 ---
 ## What it is
 MCP server `Frogeye`, catalogued on PulseMCP. Zero-config security scanner for AI-generated apps with 25K+ vulnerability patterns.

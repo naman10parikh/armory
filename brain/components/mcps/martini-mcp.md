@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T06:39:26Z"
 ---
 ## What it is
 Enables AI assistants to manage Martini video production projects, including creating and browsing scenes, assets, and generation jobs.

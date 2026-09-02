@@ -8,10 +8,12 @@ source_url: https://github.com/thuupx/memory-mcp-lite
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-19T05:21:22Z"
 ---
 ## What it is
 MCP server `Memory Lite`, catalogued on PulseMCP. Stores durable knowledge for AI coding assistants including technical decisions, architecture notes, and command references in local persistent storage.

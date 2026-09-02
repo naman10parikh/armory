@@ -8,11 +8,13 @@ source_url: https://github.com/Asem-D/arcgis-portal-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-25T18:00:35Z"
 ---
 ## What it is
 Enables AI assistants to search, query, and manage ArcGIS Portal and Online content, feature layers, users, and groups via the Model Context Protocol.

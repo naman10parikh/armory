@@ -8,11 +8,13 @@ source_url: https://github.com/mnemom/mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:17:30Z"
 ---
 ## What it is
 Provides trust infrastructure for AI agents by enabling reputation lookup, website trust scanning, and identity verification via MCP tools.

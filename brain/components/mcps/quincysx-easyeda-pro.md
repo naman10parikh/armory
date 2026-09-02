@@ -8,10 +8,12 @@ source_url: https://github.com/quincysx/easyeda-agent-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-02-12T04:25:29Z"
 ---
 ## What it is
 MCP server `EasyEDA Pro`, catalogued on PulseMCP. Bridges EasyEDA Pro with Claude through WebSocket for PCB design automation, schematic editing, component library management, and manufacturing export.

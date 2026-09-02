@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T10:32:15Z"
 ---
 ## What it is
 Enables AI agents to manage Meetergo calendars by finding slots, booking, rescheduling, and canceling appointments.

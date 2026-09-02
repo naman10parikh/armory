@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T21:36:13Z"
 ---
 ## What it is
 A local MCP server that acts as a secure credential-holding gateway to Google APIs (Gmail, Calendar, Drive), with deny-by-default policy enforcement so agents never see OAuth tokens.

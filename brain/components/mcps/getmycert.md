@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T22:43:08Z"
 ---
 ## What it is
 13,000+ IT certification practice questions for AI agents (AWS, Azure, GCP, CompTIA, CISSP, PMP, Kubernetes, Terraform, Cisco, Salesforce). Pay-per-call via x402 USDC on Base, or a prepaid API key. Tools: get_cert_questions, list_certifications.

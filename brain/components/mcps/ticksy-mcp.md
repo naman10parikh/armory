@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T16:18:07Z"
 ---
 ## What it is
 MCP server for the Ticksy support ticket API, enabling AI agents to read and write support tickets.

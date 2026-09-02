@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-15T19:02:42Z"
 ---
 ## What it is
 MCP server `Fetch`, catalogued on PulseMCP. Enables web content retrieval in multiple formats including HTML, JSON, plain text, and Markdown through four specialized fetch tools for seamless content extraction and transformation.

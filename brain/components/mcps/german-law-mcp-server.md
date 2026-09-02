@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T06:46:03Z"
 ---
 ## What it is
 Enables querying 6,870 German federal statutes, case law, and legislative preparatory works directly from AI assistants and MCP-compatible clients.

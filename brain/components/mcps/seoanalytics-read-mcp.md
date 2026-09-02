@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T14:44:08Z"
 ---
 ## What it is
 Read-only MCP server that retrieves SEO analytics data from WordPress, Google Search Console, and Google Analytics 4, enabling users to fetch posts, search performance, page metrics, and more via natural language.

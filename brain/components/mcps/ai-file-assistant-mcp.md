@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:27:53Z"
 ---
 ## What it is
 MCP server providing AI-powered file operations including read, write, edit, search, and file management via Model Context Protocol. Also includes a Flask web app with file manager and user admin.

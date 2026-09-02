@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2025-09-16T20:07:13Z"
 ---
 ## What it is
 AI-optimized MCP server for PineScript v6 development, providing comprehensive documentation access, style guide adherence, and code review capabilities.

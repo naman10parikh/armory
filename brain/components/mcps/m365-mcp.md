@@ -8,11 +8,13 @@ source_url: https://github.com/StuMason/m365-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:12:51Z"
 ---
 ## What it is
 MCP server for Microsoft 365 via the Microsoft Graph API, providing read-only access to profile, calendar, email, Teams chats, OneDrive files, and meeting transcripts from any MCP client.

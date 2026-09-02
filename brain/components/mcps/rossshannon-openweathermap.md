@@ -8,10 +8,12 @@ source_url: https://github.com/rossshannon/weekly-weather-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-01-16T15:12:45Z"
 ---
 ## What it is
 MCP server `OpenWeatherMap (Weekly Weather)`, catalogued on PulseMCP. Integrates with OpenWeatherMap API to provide global weather forecasts and current conditions for location-specific planning and alerts.

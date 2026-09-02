@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-12-13T12:52:17Z"
 ---
 ## What it is
 Enables natural language command and control of remote systems across multiple platforms through Claude AI using the Model Context Protocol.

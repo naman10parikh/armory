@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-05T22:56:05Z"
 ---
 ## What it is
 MCP server `Nativ`, catalogued on PulseMCP. AI-powered localization with translation memory and style guide management.

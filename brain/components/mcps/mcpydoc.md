@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-29T15:13:09Z"
 ---
 ## What it is
 Provides real-time access to Python package documentation, source code, and symbol search to prevent AI hallucinations.

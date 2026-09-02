@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T01:55:38Z"
 ---
 ## What it is
 Provides social intelligence tools for AI agents to analyze competitor sentiment, trends, and brand mentions from X/Twitter data.

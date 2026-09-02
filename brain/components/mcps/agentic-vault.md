@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T15:14:32Z"
 ---
 ## What it is
 MCP server that lets AI agents call APIs without ever seeing the credentials, using a local encrypted vault and per-secret allowlist policies for HTTP requests and subprocess environment variables.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-17T20:50:15Z"
 ---
 ## What it is
 Enables semantic search across documentation stored in Gemini FileSearchStores, returning AI-generated answers with source citations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:17:20Z"
 ---
 ## What it is
 Visual memory for computer-use agents — stores UI screenshots as semantic scene nodes and queries them by intent across sessions.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T20:02:57Z"
 ---
 ## What it is
 MCP server `Itcons`, catalogued on PulseMCP. Business operations management for work reports, work orders, projects, clients, and users via the Itcons.app API.

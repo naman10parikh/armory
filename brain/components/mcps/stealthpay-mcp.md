@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T11:25:15Z"
 ---
 ## What it is
 Enables AI agents to make contextual, private crypto payments using ENS identity and stealth addresses, with stealth-address privacy and agent spend policy controls.

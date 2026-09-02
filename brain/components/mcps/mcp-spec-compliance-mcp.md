@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T05:45:06Z"
 ---
 ## What it is
 Audits any MCP server against the official spec, providing HMAC-signed conformity reports.

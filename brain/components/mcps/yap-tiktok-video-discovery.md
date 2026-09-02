@@ -8,10 +8,12 @@ source_url: https://github.com/yap-audio/tiktok-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 74
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-03T13:03:28Z"
 ---
 ## What it is
 MCP server `TikTok Video Discovery`, catalogued on PulseMCP. Automates TikTok video discovery through hashtag searches and trending content retrieval with anti-detection measures for content analysis and social media research.

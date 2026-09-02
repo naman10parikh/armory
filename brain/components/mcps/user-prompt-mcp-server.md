@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T00:52:58Z"
 ---
 ## What it is
 A server that lets AI agents ask users clarifying questions mid-task via a pop-up terminal window, enabling interactive context gathering.

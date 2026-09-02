@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T13:39:31Z"
 ---
 ## What it is
 Enables Hermes to query NAVER WORKS calendar, contacts, and organization directory through natural language, with read-only MCP tools supporting stdio and HTTP connections.

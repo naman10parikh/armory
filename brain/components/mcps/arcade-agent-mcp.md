@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T12:46:06Z"
 ---
 ## What it is
 Lets MCP-capable AI agents interact with the Arcade DEX and launchpad on Circle's Arc L1 to discover markets, get quotes, and execute trades via contract-call descriptors.

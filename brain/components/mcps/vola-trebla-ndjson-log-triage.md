@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T16:47:55Z"
 ---
 ## What it is
 MCP server `NDJSON Log Triage`, catalogued on PulseMCP. Streams NDJSON log triage: query patterns, detect anomalies, and summarize timelines without full file loading.

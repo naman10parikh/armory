@@ -8,10 +8,12 @@ source_url: https://github.com/sparesparrow/mcp-project-orchestrator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-06-30T00:22:55Z"
 ---
 ## What it is
 MCP server `Project Orchestrator`, catalogued on PulseMCP. Streamlines software project creation by analyzing user input to select appropriate structures, generate documentation with Mermaid diagrams, and provide tools for setup and management.

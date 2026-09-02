@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T15:44:48Z"
 ---
 ## What it is
 A production-ready MCP server that injects a team of subagent interns, web search, and image generation capabilities into Claude Code using the Agy engine.

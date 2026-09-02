@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:30Z"
 ---
 ## What it is
 MCP server for querying official Brazilian federal revenue (Cafir) data, providing a single read-only tool for consulting rural property records via natural language.

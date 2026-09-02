@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:27:21Z"
 ---
 ## What it is
 MCP server for managing Microsoft Intune and Entra ID via the Microsoft Graph API, offering 34 tools for device, app, compliance, security, identity, and reporting operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T01:45:36Z"
 ---
 ## What it is
 Exposes the five Enternovate security tools as 23 Model Context Protocol tools, enabling agents to scan attack surfaces, query knowledge graphs, audit websites, check email security, and run POPIA compliance assessments via a single MCP connection.

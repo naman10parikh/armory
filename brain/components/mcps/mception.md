@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T12:51:04Z"
 ---
 ## What it is
 MCP server `Mception`, catalogued on PulseMCP. Audits MCP servers for security vulnerabilities including tool poisoning, remote code execution, SSRF, and credential exfiltration risks.

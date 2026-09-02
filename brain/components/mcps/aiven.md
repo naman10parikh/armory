@@ -8,10 +8,12 @@ source_url: https://github.com/aiven-open/mcp-aiven
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-08-30T07:09:40Z"
 ---
 ## What it is
 MCP server `Aiven`, catalogued on PulseMCP. Provides direct access to Aiven's cloud database and messaging services, enabling management of PostgreSQL, Kafka, ClickHouse, Valkey, and OpenSearch infrastructure through the Aiven API.

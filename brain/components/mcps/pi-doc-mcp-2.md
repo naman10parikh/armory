@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T09:42:31Z"
 ---
 ## What it is
 MCP server that gives AI assistants direct access to live AVEVA PI System documentation, eliminating hallucination on PI-specific topics by fetching real answers from the official docs.

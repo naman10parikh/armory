@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T13:07:37Z"
 ---
 ## What it is
 A local MCP server that auto-injects relevant context into file reads when an agent accesses specified paths, ensuring agents have necessary knowledge before interacting with code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T12:59:19Z"
 ---
 ## What it is
 Remote MCP host for Rakuten RMS, providing Streamable HTTP endpoint with OAuth 2.1/PKCE and Bearer auth. It enables MCP clients like ChatGPT and Claude to access Rakuten RMS tools via natural language.

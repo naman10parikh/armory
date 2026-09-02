@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-11T09:26:47Z"
 ---
 ## What it is
 MCP server `TinyDB Emcipi`, catalogued on PulseMCP. Provides lightweight JSON database management with schema validation, case-insensitive search, and multi-database switching for file-based data storage without traditional database overhead.

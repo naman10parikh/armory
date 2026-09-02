@@ -8,10 +8,12 @@ source_url: https://github.com/xiaolai/codex-octopus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-09-02T00:00:57Z"
 ---
 ## What it is
 MCP server `Codex Octopus`, catalogued on PulseMCP. MCP server that spawns multiple specialized OpenAI Codex agents with distinct personalities and constraints for multi-agent coding workflows.

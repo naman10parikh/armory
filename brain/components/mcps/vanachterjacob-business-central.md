@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-27T21:30:46Z"
 ---
 ## What it is
 MCP server `Business Central`, catalogued on PulseMCP. Provides standardized development rules and real-time guidance for Business Central projects, offering rule validation, architectural suggestions, and component structure optimization for consistent coding standards and best practices.

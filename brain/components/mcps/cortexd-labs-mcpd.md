@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-27T02:29:03Z"
 ---
 ## What it is
 MCP server `mcpd Linux`, catalogued on PulseMCP. Exposes 100+ Linux system administration tools covering processes, services, networking, containers, packages, storage, security, and desktop integration.

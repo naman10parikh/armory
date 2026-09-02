@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:46:19Z"
 ---
 ## What it is
 Enables creating, editing, running, and inspecting small Three.js games inside a DeepSeek Harness chat card via an MCP server and bundled app.

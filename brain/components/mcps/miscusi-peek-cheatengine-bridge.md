@@ -8,10 +8,12 @@ source_url: https://github.com/miscusi-peek/cheatengine-mcp-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 755
+stars: 1363
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 204
+pushed_at: "2026-08-14T08:14:14Z"
 ---
 ## What it is
 MCP server `Cheat Engine Bridge`, catalogued on PulseMCP. Bridge Cheat Engine memory analysis to AI workflows via named pipes

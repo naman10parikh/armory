@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-21T10:08:00Z"
 ---
 ## What it is
 MCP server `Claude Context Sync`, catalogued on PulseMCP. Summarizes and shares context across parallel Claude Code sessions so each session can see what others are working on.

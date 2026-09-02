@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T15:12:45Z"
 ---
 ## What it is
 Enables AI assistants to manage WordPress sites via the MainWP Dashboard REST API, providing tools for site health monitoring, updates, plugin/theme management, and client/cost tracking.

@@ -8,11 +8,13 @@ source_url: https://github.com/weileyao2005/cnki-deepsearch
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T04:45:09Z"
 ---
 ## What it is
 MCP server for deep CNKI academic search, retrieving multi-dimensional data (abstracts, keywords, references, citations, similar papers, keyword weights) and enabling citation network traversal via Playwright-based API interception.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T03:27:46Z"
 ---
 ## What it is
 Provides post-deploy Solana threat intelligence, enabling AI agents to check operators, tokens, and network stats for detecting rug pulls and malicious activity.

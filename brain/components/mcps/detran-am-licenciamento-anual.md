@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:09Z"
 ---
 ## What it is
 A hosted, read-only MCP server that queries official DETRAN Amazonas annual licensing data via natural language, works with any MCP client, and is paid per consultation with prepaid credits.

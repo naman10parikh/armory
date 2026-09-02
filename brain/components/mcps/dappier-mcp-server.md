@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-29T14:54:09Z"
 ---
 ## What it is
 Enables fast real-time web search and access to premium data from trusted sources including news, financial markets, sports, and more. Supports AI agents with live data and curated content from various domains.

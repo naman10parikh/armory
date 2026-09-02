@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:27:36Z"
 ---
 ## What it is
 A local-only MCP bridge that connects an MCP client to an open Figma file via a Figma plugin, enabling direct document editing, inspection, export, and audit without using the Figma REST API.

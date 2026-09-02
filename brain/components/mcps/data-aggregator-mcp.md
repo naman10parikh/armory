@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T10:15:19Z"
 ---
 ## What it is
 Searches and fetches research datasets across Zenodo, DataCite (Dryad/Figshare/Dataverse/OSF), NCBI omics archives (GEO/SRA/BioProject), and the literature (PubMed/OpenAIRE) through one normalized model — deduplicating by DOI, expanding organism queries with NCBI Taxonomy synonyms, and bridging pape

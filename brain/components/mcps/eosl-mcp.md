@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T21:34:47Z"
 ---
 ## What it is
 Source-backed hardware end-of-life (EOL/EOSL) lookups by part number for enterprise gear — support status, end-of-sale and end-of-support dates, with the vendor's own bulletin URL on every answer. Unknown parts return found:false, never a guess.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T15:14:03Z"
 ---
 ## What it is
 Enables access to high-value US public data sources via MCP, including federal agencies, state portals, and platforms like Socrata, ArcGIS, and CKAN, with tools for searching, querying, and geographic resolution.

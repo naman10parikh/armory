@@ -8,10 +8,12 @@ source_url: https://github.com/jovanhsu/mcp-neo4j-memory-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-15T11:40:15Z"
 ---
 ## What it is
 MCP server `Neo4j Knowledge Graph`, catalogued on PulseMCP. Provides a Neo4j-powered knowledge graph storage solution for maintaining complex relationships between data points with persistent memory across conversations and efficient fuzzy search capabilities.

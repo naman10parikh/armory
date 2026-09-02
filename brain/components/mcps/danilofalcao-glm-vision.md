@@ -8,10 +8,12 @@ source_url: https://github.com/danilofalcao/mcp-server-glm-vision
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-17T18:01:53Z"
 ---
 ## What it is
 MCP server `GLM Vision`, catalogued on PulseMCP. Integrates Z.AI's GLM-4.5V vision model to analyze images from local files or URLs with configurable parameters including temperature control, thinking mode for model reasoning exposure, and token limits up to 64K.

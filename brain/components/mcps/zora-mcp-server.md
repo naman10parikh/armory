@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-27T17:21:47Z"
 ---
 ## What it is
 An MCP server that enables AI-driven on-chain interactions with the Zora Protocol on Base, supporting token queries, swaps, and transfers via natural language.

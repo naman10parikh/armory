@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-24T05:43:19Z"
 ---
 ## What it is
 Enables AI assistants to read and create Fantastical calendar events on macOS using local database access and URL schemes, working entirely offline without API keys or network access.

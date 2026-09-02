@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:30:13Z"
 ---
 ## What it is
 MCP server that reads DBeaver database configurations and provides SQL execution via existing JDBC drivers — no extra driver downloads needed.

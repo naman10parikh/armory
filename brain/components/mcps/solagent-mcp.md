@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T06:29:55Z"
 ---
 ## What it is
 Enables AI agents to interact with the Solana blockchain through MCP, supporting wallet queries, token swaps via Jupiter, token transfers, and market data.

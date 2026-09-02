@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T16:29:39Z"
 ---
 ## What it is
 Verifies AI agent actions by exercising public web surfaces and returning evidence-based pass/fail verdicts on real outcomes, rather than trusting self-reported success messages.

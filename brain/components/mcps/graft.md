@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T01:26:00Z"
 ---
 ## What it is
 Enables building agent-ready APIs that expose tools as both HTTP and MCP endpoints from a single server definition, with automatic OpenAPI, discovery docs, and interactive API reference.

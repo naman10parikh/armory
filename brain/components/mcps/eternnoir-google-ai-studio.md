@@ -8,10 +8,12 @@ source_url: https://github.com/eternnoir/aistudio-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-15T15:27:45Z"
 ---
 ## What it is
 MCP server `Google AI Studio`, catalogued on PulseMCP. Integrates with Google AI Studio/Gemini API to process multimodal content including images, videos, audio, PDFs, and text files for content generation, analysis, and document conversion tasks.

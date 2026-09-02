@@ -8,10 +8,12 @@ source_url: https://github.com/chrisdoc/hevy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 246
+stars: 450
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 80
+pushed_at: "2026-09-01T20:16:52Z"
 ---
 ## What it is
 MCP server `Hevy Fitness`, catalogued on PulseMCP. Integrates with the Hevy Fitness API to enable workout tracking, routine management, exercise template searching, and webhook notifications for comprehensive fitness data access and modification.

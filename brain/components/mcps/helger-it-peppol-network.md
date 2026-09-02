@@ -8,10 +8,12 @@ source_url: https://github.com/helger-it/phoss-peppol-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-30T16:31:07Z"
 ---
 ## What it is
 MCP server `Peppol Network`, catalogued on PulseMCP. Look up Peppol network participants, document types, SMP endpoints, and validate e-procurement identifiers via AI assistants.

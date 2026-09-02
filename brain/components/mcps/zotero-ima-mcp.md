@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:56:41Z"
 ---
 ## What it is
 Local MCP server for research workflows that integrates Zotero for source management, MinerU for PDF full-text extraction, and Tencent ima as a knowledge base, providing 34 tools and 7 skills for AI agents to conduct traceable literature analysis.

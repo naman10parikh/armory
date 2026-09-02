@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-11T22:26:01Z"
 ---
 ## What it is
 Remote MCP server that exposes Notion as tools (search, get, create pages, append blocks, query databases) via Streamable HTTP with bearer auth, designed for deployment on Railway.

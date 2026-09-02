@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-07T04:35:43Z"
 ---
 ## What it is
 Enables AI assistants to search, create, and manage knowledge graphs in Aiqbee brains for architecture, portfolio, and digital strategy.

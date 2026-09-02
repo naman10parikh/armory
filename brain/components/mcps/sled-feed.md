@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T03:07:50Z"
 ---
 ## What it is
 MCP server for US (Mississippi) and UK government procurement feeds. Search live bids and tenders and track what changed over time: deadline moves, new awards, and added documents. Tools: search_opportunities, get_opportunity, list_recent_changes.

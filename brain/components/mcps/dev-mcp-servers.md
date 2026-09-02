@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:35:04Z"
 ---
 ## What it is
 Provides MCP servers for ElevenLabs (text-to-speech and sound effects) and Meshy.ai (3D generation), with a request preview mode to inspect API calls without incurring costs.

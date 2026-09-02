@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T13:23:43Z"
 ---
 ## What it is
 Enables AI assistants to generate realistic, synthetic test data on demand, including valid PESELs, NIPs, addresses, and more across 27 EU countries, through two tools: list_generators and generate.

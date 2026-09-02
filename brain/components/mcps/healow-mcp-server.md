@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T03:40:24Z"
 ---
 ## What it is
 An MCP server that wraps the eClinicalWorks / healow FHIR R4 API so an MCP client (e.g. Claude Desktop) can read patient clinical data from one or more practices.

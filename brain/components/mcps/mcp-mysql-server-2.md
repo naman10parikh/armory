@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T01:19:04Z"
 ---
 ## What it is
 Enables read-only MySQL database connectivity, allowing execution of SELECT queries, listing tables, and describing table structures via natural language.

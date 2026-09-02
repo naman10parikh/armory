@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T21:04:34Z"
 ---
 ## What it is
 An MCP server that gives AI agents the ability to profile a CSV, define an ML task, tune XGBoost and LightGBM with Optuna, and produce a markdown report with feature importance, all from natural language.

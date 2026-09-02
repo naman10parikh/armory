@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T09:38:37Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that gives Claude direct, read-only access to the cxdb PostgreSQL database. This lets you query production data in plain English — no SQL knowledge required — straight from Claude Code or the Claude desktop app.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T01:23:21Z"
 ---
 ## What it is
 A read-only MCP server that lets Claude Desktop interact with Apple Mail on macOS via AppleScript. It enables listing mailboxes, searching emails, and reading email content without making network calls.

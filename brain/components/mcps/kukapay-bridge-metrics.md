@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-12T03:35:16Z"
 ---
 ## What it is
 MCP server `Bridge Metrics (DeFiLlama)`, catalogued on PulseMCP. Integrates with DeFiLlama's bridge APIs to provide real-time cross-chain bridge metrics, transaction volumes, and liquidity flow analytics across blockchain networks for DeFi analysis and trading insights.

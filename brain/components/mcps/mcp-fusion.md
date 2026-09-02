@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T05:13:15Z"
 ---
 ## What it is
 Multi-model fusion analysis tool that sends queries to multiple AI models in parallel and returns structured analysis from a judge model.

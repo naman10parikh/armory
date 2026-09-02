@@ -8,10 +8,12 @@ source_url: https://github.com/lharries/whatsapp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5689
+stars: 6218
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1284
+pushed_at: "2025-07-13T17:22:00Z"
 ---
 ## What it is
 MCP server `WhatsApp Bridge`, catalogued on PulseMCP. Provides a secure bridge to your WhatsApp account, enabling message search, contact management, and sending capabilities while keeping all data stored locally on your device.

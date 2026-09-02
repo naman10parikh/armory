@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-24T15:33:55Z"
 ---
 ## What it is
 Enables text-to-image generation using Agnes Image 2.1 Flash via OpenAI-compatible API, supporting aspect ratios, custom resolution, and multi-image generation.

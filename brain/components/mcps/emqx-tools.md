@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-08T03:20:02Z"
 ---
 ## What it is
 MCP server `EMQX Tools`, catalogued on PulseMCP. Provides health monitoring and troubleshooting tools for EMQX MQTT broker clusters, enabling cluster status checks, connector management, authentication source inspection, and network connectivity testing across distributed nodes.

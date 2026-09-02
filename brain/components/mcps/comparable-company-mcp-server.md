@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:03:02Z"
 ---
 ## What it is
 Automatically selects comparable peer companies for unlisted valuation targets using the DART OpenAPI, and verifies business similarity through natural language interface.

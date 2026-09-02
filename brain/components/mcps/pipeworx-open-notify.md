@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:27:48Z"
 ---
 ## What it is
 MCP server `Open Notify`, catalogued on PulseMCP. Real-time ISS position and astronaut count via the Open Notify API through Pipeworx's managed gateway.

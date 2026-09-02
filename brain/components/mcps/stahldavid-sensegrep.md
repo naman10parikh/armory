@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-16T11:20:17Z"
 ---
 ## What it is
 MCP server `Sensegrep`, catalogued on PulseMCP. Semantic and structural code search for AI-native development.

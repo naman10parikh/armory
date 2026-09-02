@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T19:57:58Z"
 ---
 ## What it is
 Integrates Claude with ERPNext v16, enabling CRUD operations, queries, and method calls through a secure MCP interface.

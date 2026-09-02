@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:03:02Z"
 ---
 ## What it is
 Persistent sticky notes for Claude Code. You pin a note — a decision, a blocker, a todo — and it survives session resets, /clear, and closing the terminal. Next time you open Claude in that project, the notes that still matter are handed back to it automatically.

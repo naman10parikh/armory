@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-06-16T12:04:28Z"
 ---
 ## What it is
 MCP server `Discord`, catalogued on PulseMCP. Integrates with Discord through Discord.js to provide comprehensive bot capabilities including message management, channel operations, forum posts, reactions, webhooks, and server administration with automatic reconnection and rate limiting protection.

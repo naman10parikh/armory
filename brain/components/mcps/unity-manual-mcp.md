@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T11:00:02Z"
 ---
 ## What it is
 Local MCP server that serves a local Unity documentation install to AI assistants, enabling full-text search and retrieval of Unity Manual and Script Reference pages through tools like search_unity_docs and get_page.

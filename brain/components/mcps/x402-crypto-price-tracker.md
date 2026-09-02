@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T19:29:39Z"
 ---
 ## What it is
 Enables agents to pay per call in USDC for live crypto prices and revenue intelligence via HTTP 402, with no API keys required.

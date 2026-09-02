@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:29Z"
 ---
 ## What it is
 Enables querying Brazilian SEFAZ NFC-e electronic invoice data from official sources via a read-only MCP server, with pay-per-use prepaid credits and compatibility with any MCP client.

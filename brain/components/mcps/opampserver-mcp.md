@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:18:14Z"
 ---
 ## What it is
 Enables managing OpAMP agents via natural language, allowing listing agents, viewing details, and setting or deleting configuration overrides.

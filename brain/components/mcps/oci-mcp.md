@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-15T11:15:26Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server exposing Oracle Cloud Infrastructure tools, resources and prompts.

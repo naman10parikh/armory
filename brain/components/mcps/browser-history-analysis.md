@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-20T04:40:13Z"
 ---
 ## What it is
 MCP server `Browser History Analysis`, catalogued on PulseMCP. Analyzes local Firefox and Chrome browser history to provide productivity insights, browsing pattern analysis, and session categorization across 12+ domains with focus scoring and research session detection.

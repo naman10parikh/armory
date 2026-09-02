@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-31T00:32:36Z"
 ---
 ## What it is
 MCP server `Amazon S3`, catalogued on PulseMCP. Provides a bridge to Amazon S3 storage services for listing buckets, browsing objects, retrieving file contents, uploading, downloading, and deleting files directly from conversations.

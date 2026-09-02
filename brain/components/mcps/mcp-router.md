@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T10:30:02Z"
 ---
 ## What it is
 Enables AI clients to manage multiple accounts per provider (e.g., Notion workspaces, GitHub identities) through a single MCP endpoint, with sticky account selection and context switching.

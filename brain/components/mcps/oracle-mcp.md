@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:07:07Z"
 ---
 ## What it is
 Provides AI assistants with secure, structured access to Oracle Database through MCP, enabling SQL execution, metadata exploration, and stored procedure execution.

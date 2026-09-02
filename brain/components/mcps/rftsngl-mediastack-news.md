@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-26T14:30:17Z"
 ---
 ## What it is
 MCP server `Mediastack`, catalogued on PulseMCP. Integrates with Mediastack API to provide real-time news retrieval with filtering by keywords, sources, countries, languages, and categories, plus news source discovery capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-18T19:28:14Z"
 ---
 ## What it is
 Enables AI assistants like Cursor or Claude Desktop to fully manage a Shopify store using the Model Context Protocol, with tools for products, orders, customers, inventory, discounts, and analytics.

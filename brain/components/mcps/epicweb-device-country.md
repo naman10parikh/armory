@@ -8,10 +8,12 @@ source_url: https://github.com/epicweb-dev/device-country-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-24T15:24:21Z"
 ---
 ## What it is
 MCP server `Device Country`, catalogued on PulseMCP. Provides instant access to a user's country location using Cloudflare's IP geolocation headers, enabling geography-based content customization without additional API integrations.

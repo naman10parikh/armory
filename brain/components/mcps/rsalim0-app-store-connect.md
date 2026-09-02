@@ -8,10 +8,12 @@ source_url: https://github.com/rsalim0/asc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-24T15:01:53Z"
 ---
 ## What it is
 MCP server `App Store Connect`, catalogued on PulseMCP. Comprehensive MCP server for Apple App Store Connect API with 191 tools covering apps, builds, TestFlight, subscriptions, certificates, and reports.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-01T06:44:24Z"
 ---
 ## What it is
 MCP server `HumanSurvey`, catalogued on PulseMCP. Feedback collection infrastructure for AI agents to create surveys, distribute them to human respondents, and retrieve structured results.

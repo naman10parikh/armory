@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-27T11:58:00Z"
 ---
 ## What it is
 MCP server `FreeAgent`, catalogued on PulseMCP. FreeAgent accounting integration for bank reconciliation, expense tracking, mileage claims, and receipts.

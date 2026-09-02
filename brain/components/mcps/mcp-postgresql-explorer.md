@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T14:22:24Z"
 ---
 ## What it is
 Enables AI clients to explore a PostgreSQL database schema and run read-only queries, including listing tables, describing columns, executing SELECT queries, and retrieving foreign key relationships.

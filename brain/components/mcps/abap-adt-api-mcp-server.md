@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T07:20:27Z"
 ---
 ## What it is
 Enables interaction with SAP ABAP systems via ADT APIs, allowing management of ABAP objects, transport requests, and code analysis through MCP clients.

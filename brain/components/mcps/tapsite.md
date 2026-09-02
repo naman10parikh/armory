@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:56:09Z"
 ---
 ## What it is
 An MCP server for web intelligence extraction that provides 55 tools for extracting structured data, design systems, accessibility audits, and more from websites.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-10-27T20:01:59Z"
 ---
 ## What it is
 Enables local LLMs to search the web and fetch clean content from URLs without API keys, using SearxNG and Mozilla Readability.

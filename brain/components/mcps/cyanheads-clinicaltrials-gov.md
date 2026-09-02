@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/clinicaltrialsgov-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 76
+stars: 91
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2026-08-21T22:39:13Z"
 ---
 ## What it is
 MCP server `ClinicalTrials.gov`, catalogued on PulseMCP. Integrates with ClinicalTrials.gov REST API to search clinical trials by conditions, interventions, locations, and status, plus retrieve detailed study information by NCT ID with automatic data cleaning and local backup storage.

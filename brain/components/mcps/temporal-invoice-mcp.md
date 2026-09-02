@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-14T17:28:39Z"
 ---
 ## What it is
 Enables managing invoice workflows using Temporal, allowing submission, approval, rejection, and status checking of invoices through MCP tools.

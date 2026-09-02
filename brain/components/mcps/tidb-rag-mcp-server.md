@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-24T07:05:12Z"
 ---
 ## What it is
 A Model Context Protocol server for reading TiDB RAG knowledge base, enabling browsing, searching, and vector search of knowledge entries.

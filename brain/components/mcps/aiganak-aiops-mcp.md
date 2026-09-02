@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T09:43:39Z"
 ---
 ## What it is
 Enables autonomous infrastructure diagnostics, log root-cause analysis, and safe code patching via tools for querying logs, inspecting Python AST, and applying git-safe patches.

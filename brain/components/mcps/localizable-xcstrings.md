@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-29T21:27:32Z"
 ---
 ## What it is
 MCP server `Localizable XCStrings`, catalogued on PulseMCP. Manages iOS/macOS localization workflows with Xcode String Catalog files, providing automated translation using OpenAI with intelligent chunking, batch processing, and placeholder preservation for multi-language app development.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T06:26:06Z"
 ---
 ## What it is
 Enables retrieval-augmented question answering over a private podcast archive with hybrid search (BM25 + dense embeddings), returning ranked passages with timestamps and citations.

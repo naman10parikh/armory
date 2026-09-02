@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T20:08:36Z"
 ---
 ## What it is
 MCP server `Drupal Best Practices`, catalogued on PulseMCP. Provides access to curated Drupal development standards and security guidelines through searchable CSV-based knowledge covering coding conventions, OWASP vulnerabilities, accessibility requirements, and API design patterns with category filtering and severity prioritization.

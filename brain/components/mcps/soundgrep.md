@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-22T18:35:29Z"
 ---
 ## What it is
 Enables semantic search of local audio samples by describing sounds, MIDI generation, stem separation, and other music production tools from Claude Desktop.

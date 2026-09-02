@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T01:27:58Z"
 ---
 ## What it is
 MCP server `CloudScope`, catalogued on PulseMCP. Azure cloud cost management with spending analysis, forecasts, anomalies, and budgets.

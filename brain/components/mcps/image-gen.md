@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T01:11:20Z"
 ---
 ## What it is
 MCP server that gives AI coding agents a paintbrush for image generation via ChatGPT in the browser, requiring no OpenAI API key.

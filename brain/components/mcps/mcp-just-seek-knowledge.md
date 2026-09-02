@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T23:47:21Z"
 ---
 ## What it is
 Stores and searches AI-generated knowledge about software projects, enabling Cursor to access project structures, design patterns, best practices, and technical documentation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T15:19:07Z"
 ---
 ## What it is
 Enables natural language control of a simulated drone for search missions, with tools for takeoff, movement, scanning, and landing via MCP.

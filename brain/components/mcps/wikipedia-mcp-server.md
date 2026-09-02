@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-18T13:39:28Z"
 ---
 ## What it is
 Provides structured access to Wikipedia content including search, summaries, images, links, and more via MCP tools.

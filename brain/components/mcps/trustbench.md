@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T22:39:10Z"
 ---
 ## What it is
 MCP server `TrustBench`, catalogued on PulseMCP. Rank x402 providers and generate Ed25519-signed payment receipts for AI agent transactions.

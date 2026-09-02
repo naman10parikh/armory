@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T03:29:31Z"
 ---
 ## What it is
 提供基于阿里云函数计算的MCP远程网页搜索服务，支持Exa、Tavily、豆包和Bocha多个搜索引擎的自动回退。

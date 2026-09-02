@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T15:35:14Z"
 ---
 ## What it is
 Enables AI agents to access real-time crypto market data, volatility alerts, sentiment analysis, risk scores, and market reports through micropayment-gated MCP tools with on-chain settlement.

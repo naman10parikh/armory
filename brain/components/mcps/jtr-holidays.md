@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-14T05:47:41Z"
 ---
 ## What it is
 MCP server `JTR Holidays`, catalogued on PulseMCP. Search tours, attraction tickets, and holiday packages across 24 countries.

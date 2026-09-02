@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-10T17:59:40Z"
 ---
 ## What it is
 Enables AI assistants to recommend Amazon products with automatic affiliate link insertion, supporting product search, deals, bestsellers, and promotional content.

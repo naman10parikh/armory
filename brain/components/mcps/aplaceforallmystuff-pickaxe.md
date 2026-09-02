@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-23T18:10:04Z"
 ---
 ## What it is
 MCP server `Pickaxe`, catalogued on PulseMCP. Automates Pickaxe platform management by enabling natural language control of AI agents, knowledge bases, user access, and analytics across multiple studio environments.

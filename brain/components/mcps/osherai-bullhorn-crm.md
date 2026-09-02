@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-01-15T05:42:56Z"
 ---
 ## What it is
 MCP server `Bullhorn CRM`, catalogued on PulseMCP. Connects directly to Bullhorn CRM's REST API using OAuth 2.0 authentication, enabling queries of recruiting data including jobs, candidates, and placements through tools supporting both Lucene and SQL-like query syntax.

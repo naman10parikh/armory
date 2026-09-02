@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T07:23:41Z"
 ---
 ## What it is
 An MCP server that wraps the Google PageSpeed Insights API to analyse web performance, providing tools for scores, Core Web Vitals, opportunities, diagnostics, and batch analysis.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-25T08:17:04Z"
 ---
 ## What it is
 MCP server `YouTube Subtitles`, catalogued on PulseMCP. Integrates YouTube subtitle retrieval for natural language queries about video content.

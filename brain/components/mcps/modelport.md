@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T22:37:28Z"
 ---
 ## What it is
 Turns any ML model into an MCP tool with auto-inferred schemas, input/output validation, and structured error handling.

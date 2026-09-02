@@ -8,10 +8,12 @@ source_url: https://github.com/ks-gen-ai/jira-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-10-23T07:53:30Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Integrates with Jira to enable automated ticket management, project oversight, and streamlined communication through JQL queries and comprehensive API operations.

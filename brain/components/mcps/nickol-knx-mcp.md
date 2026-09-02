@@ -8,11 +8,13 @@ source_url: https://github.com/NickoScope/nickol-knx-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-29T13:30:17Z"
 ---
 ## What it is
 Reads .knxproj files, analyzes group addresses/DPTs/topology, generates Home Assistant KNX YAML and ETS-importable group-address files (XML/CSV), and produces human-readable reports without touching the live KNX bus.

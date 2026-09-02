@@ -8,10 +8,12 @@ source_url: https://github.com/imark21/aeat-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-29T07:16:01Z"
 ---
 ## What it is
 MCP server `AEAT Spanish Tax Data`, catalogued on PulseMCP. Provides Spanish tax data from official AEAT and BOE sources including IRPF brackets, VAT rates, fiscal calendar, and autonomous community deductions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T08:57:54Z"
 ---
 ## What it is
 MCP server for Phantom Resume that enables cross-device AI session portability with TIBET provenance, allowing users to seal an AI session on one device and resume it on another.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:06Z"
 ---
 ## What it is
 Consulta o andamento de processos ECRVSP em fonte oficial, com uma ferramenta de leitura e pagamento por uso.

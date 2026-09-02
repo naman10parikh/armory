@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T04:27:30Z"
 ---
 ## What it is
 Query Estonian cybersecurity data -- regulations, decisions, and requirements from RIA/CERT-EE -- directly from any MCP-compatible client.

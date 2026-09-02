@@ -8,10 +8,12 @@ source_url: https://github.com/paulieb89/pinescript-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-27T10:55:20Z"
 ---
 ## What it is
 MCP server `Pine Script`, catalogued on PulseMCP. Provides Pine Script v6 documentation, function lookup, and syntax validation tools for AI coding assistants.

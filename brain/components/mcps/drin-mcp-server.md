@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T11:53:48Z"
 ---
 ## What it is
 Enables MCP-capable agents to send, receive, and manage email, including domains, inboxes, contacts, templates, webhooks, and delivery metrics, through the Drin API.

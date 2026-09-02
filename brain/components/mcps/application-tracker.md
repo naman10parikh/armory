@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T05:51:04Z"
 ---
 ## What it is
 Enables AI agents to manage job applications, documents, and contacts via the Application Tracker workspace, with read-only or write access controlled by administrator settings.

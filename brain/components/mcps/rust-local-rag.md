@@ -8,10 +8,12 @@ source_url: https://github.com/ksaritek/rust-local-rag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-06-11T00:44:49Z"
 ---
 ## What it is
 MCP server `Rust Local RAG`, catalogued on PulseMCP. Provides local document search and retrieval using Rust for high-performance PDF processing and semantic search with Ollama embeddings, automatically indexing PDF documents from a specified directory for fast retrieval without external services.

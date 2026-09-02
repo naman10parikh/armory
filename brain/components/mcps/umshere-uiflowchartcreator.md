@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-01-05T19:15:30Z"
 ---
 ## What it is
 MCP server `UI Flowchart Creator`, catalogued on PulseMCP. Generates UI flowcharts based on input specifications, enabling visual representation of user interfaces and interactions for design communication and workflow analysis.

@@ -8,11 +8,13 @@ source_url: https://github.com/wfbcargo/wfbcargo_spawn_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T17:46:13Z"
 ---
 ## What it is
 Local MCP server for the Spawn Games agent API, enabling LLMs to manage game projects, push updates, and interact with live games via a Playwright Chromium client.

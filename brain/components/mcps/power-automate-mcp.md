@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T14:42:16Z"
 ---
 ## What it is
 Enables AI assistants to edit Power Automate cloud flows live, including reading/writing flow definitions, managing connectors, and syncing changes, with no admin rights or app registration required.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T18:06:17Z"
 ---
 ## What it is
 MCP server `LakeXpress`, catalogued on PulseMCP. Automated database-to-cloud data pipeline exporting to Parquet with sync management and data lake publishing.

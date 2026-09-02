@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T13:22:32Z"
 ---
 ## What it is
 A template for building MCP servers with automatic tool discovery using TypeScript and Zod schemas, supporting HTTP and STDIO transports.

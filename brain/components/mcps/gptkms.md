@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T11:14:59Z"
 ---
 ## What it is
 Local-first Knowledge Management System that exposes markdown-based durable memory as MCP tools for Codex and ChatGPT, enabling search, read, write, and promotion workflows with project and global scopes.

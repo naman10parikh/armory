@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-15T08:16:51Z"
 ---
 ## What it is
 MCP server `NixOS Search`, catalogued on PulseMCP. Integrates with NixOS search API to find configuration options and packages with detailed metadata including types, defaults, descriptions, versions, and maintainer information.

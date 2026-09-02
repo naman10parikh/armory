@@ -8,11 +8,13 @@ source_url: https://github.com/lalitsuryan/lightragmcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-23T03:18:18Z"
 ---
 ## What it is
 Enables AI assistants to manage documents, query knowledge graphs, and perform retrieval-augmented generation using LightRAG with 30 tools and multiple query modes.

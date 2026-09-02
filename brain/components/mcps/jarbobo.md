@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-07T15:57:45Z"
 ---
 ## What it is
 Enables LLMs to draw interactive diagrams (architecture, sequence, class) inside the editor, with clickable nodes that jump to source code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T04:41:15Z"
 ---
 ## What it is
 A secure MCP server that wraps ERPNext with five narrow tools and layered safety gates (identity passthrough, risk grading, approvals, isolation), enabling agents to safely interact with ERPNext data.

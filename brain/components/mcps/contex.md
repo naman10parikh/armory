@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-18T15:51:24Z"
 ---
 ## What it is
 Converts any OpenAPI 3.x specification into a fully functional MCP server with OAuth 2.1 support and a purely functional architecture.

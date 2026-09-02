@@ -8,10 +8,12 @@ source_url: https://github.com/dividduang/uiautomation_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-24T01:33:58Z"
 ---
 ## What it is
 MCP server `UIAutomation for Windows`, catalogued on PulseMCP. Provides Windows UI automation capabilities through the Python UIAutomation library, enabling control finding, interaction, screenshots, and window management across Win32, WPF, UWP, and Electron applications.

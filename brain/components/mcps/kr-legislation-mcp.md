@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-04-28T08:12:32Z"
 ---
 ## What it is
 Integrates 132 tools from the Korean Ministry of Legislation OPEN API to provide comprehensive access to Korean legal documents, including statutes, precedents, treaties, administrative rules, and local ordinances.

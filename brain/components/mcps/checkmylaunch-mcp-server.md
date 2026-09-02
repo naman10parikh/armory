@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T07:16:53Z"
 ---
 ## What it is
 Enables AI coding tools to run CheckMyLaunch scans on GitHub repos or live URLs and retrieve findings and repair prompts directly within the chat.

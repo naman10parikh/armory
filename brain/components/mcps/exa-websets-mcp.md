@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T21:46:07Z"
 ---
 ## What it is
 Unified gateway to Exa, Websets, and Deep Search for code search, deep research, and structured citations via any MCP client.

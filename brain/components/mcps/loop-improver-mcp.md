@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T17:43:07Z"
 ---
 ## What it is
 MCP server that inspects older repos, identifies stale guidance, and installs a managed foundation for better Copilot work including instructions, objectives, specialist agents, and insights.

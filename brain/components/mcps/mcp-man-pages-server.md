@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-09-22T15:30:45Z"
 ---
 ## What it is
 Provides AI assistants with access to Linux man pages for searching, retrieving, and exploring system documentation.

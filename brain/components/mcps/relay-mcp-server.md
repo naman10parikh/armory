@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-06-29T12:23:31Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Relay Protocol — cross-chain bridge and swap tools for AI agents.

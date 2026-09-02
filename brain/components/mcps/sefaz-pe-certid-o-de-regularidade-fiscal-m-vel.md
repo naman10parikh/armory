@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:33Z"
 ---
 ## What it is
 Enables querying official SEFAZ PE fiscal regularity certificates (Certidão de Regularidade Fiscal) via MCP, using a single read-only tool. Works with any MCP-compatible client over HTTP.

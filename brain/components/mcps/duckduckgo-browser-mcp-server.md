@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T10:28:19Z"
 ---
 ## What it is
 Enables real-time internet searches via DuckDuckGo Lite with automatic retry, smart caching, and category detection for reliable results.

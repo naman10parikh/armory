@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-03-09T15:57:35Z"
 ---
 ## What it is
 Enables AI assistants to securely interact with MySQL databases, including listing tables, viewing schemas, and executing read-only SQL queries through natural language.

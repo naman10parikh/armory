@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-01T13:25:55Z"
 ---
 ## What it is
 MCP server `Xenarch Agent`, catalogued on PulseMCP. Make x402 micropayments in USDC on Base from AI coding environments.

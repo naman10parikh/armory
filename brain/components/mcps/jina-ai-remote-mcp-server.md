@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T13:25:14Z"
 ---
 ## What it is
 This MCP server provides access to Jina Reader, Embeddings, and Reranker APIs, enabling URL-to-markdown extraction, web and image search, and embeddings/reranking tools.

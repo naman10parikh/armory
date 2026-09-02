@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, end-to-end-rag-platforms]
 stars: 5
+forks: 2
+pushed_at: "2025-10-21T21:33:22Z"
 ---
 ## What it is
 An MCP server for accessing all of CustomGPT.ai's anti-hallucination RAG-as-a-service API endpoints.

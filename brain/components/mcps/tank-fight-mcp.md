@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T06:19:31Z"
 ---
 ## What it is
 Serves the canonical Tank Fight specification, enabling clients to query game parameters, maze layouts, and rules via MCP tools.

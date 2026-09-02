@@ -8,10 +8,12 @@ source_url: https://github.com/kanren3/windbg-mcp-rs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-09T10:20:26Z"
 ---
 ## What it is
 MCP server `WinDbg`, catalogued on PulseMCP. Exposes WinDbg debugging sessions as an MCP server for command execution, documentation lookup, and target interruption.

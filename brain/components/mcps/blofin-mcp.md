@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-12T06:38:06Z"
 ---
 ## What it is
 Provides 40 tools for BloFin cryptocurrency exchange, enabling market data, account management, and trading operations via MCP.

@@ -8,10 +8,12 @@ source_url: https://github.com/swonixs/weatherapi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-21T00:43:39Z"
 ---
 ## What it is
 MCP server `WeatherAPI`, catalogued on PulseMCP. Provides current weather and air quality data for any city through WeatherAPI.com, requiring only an API key for temperature, humidity, wind speed, and optional air quality metrics.

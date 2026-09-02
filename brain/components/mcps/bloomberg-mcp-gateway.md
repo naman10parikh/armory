@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:40:52Z"
 ---
 ## What it is
 Production-grade MCP gateway that provides controlled access to the Bloomberg Desktop API on a Windows terminal via Tailscale, with policy, quotas, and audit safety.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-08-28T01:33:27Z"
 ---
 ## What it is
 Enables running multiple AI CLI tools (Claude, Codex, Gemini, Forge, OpenCode) as background processes with automatic permission handling, allowing LLMs to execute async multitasking and combine different AI models.

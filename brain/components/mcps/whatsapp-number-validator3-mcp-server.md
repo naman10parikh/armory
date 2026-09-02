@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-04T05:42:10Z"
 ---
 ## What it is
 Validates whether phone numbers are registered on WhatsApp, supporting single and bulk (up to 10) number checks.

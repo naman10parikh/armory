@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T04:06:53Z"
 ---
 ## What it is
 Local MCP server for searching a voidtools Everything 1.5a index from Codex, Claude, and other MCP clients.

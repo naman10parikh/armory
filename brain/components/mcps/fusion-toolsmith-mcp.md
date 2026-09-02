@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T20:01:48Z"
 ---
 ## What it is
 A safety-first Autodesk Fusion 360 MCP add-in that enables agents to inspect, plan, validate, and package CAD changes without blindly running raw scripts, with structured tools and preflight checks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T03:39:37Z"
 ---
 ## What it is
 MCP server for MoltAd, enabling AI agents to register, manage ad campaigns, buy credits, and report ad events through the MoltAd API.

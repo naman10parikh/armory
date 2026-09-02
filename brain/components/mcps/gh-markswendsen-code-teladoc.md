@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-18T01:24:10Z"
 ---
 ## What it is
 MCP server `Teladoc`, catalogued on PulseMCP. Connector for Teladoc telehealth platform enabling provider search, appointment booking, prescription history, and secure messaging.

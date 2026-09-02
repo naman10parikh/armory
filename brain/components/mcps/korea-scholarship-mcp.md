@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T18:28:29Z"
 ---
 ## What it is
 Exposes KCI and OAK Korean bibliographic services as MCP tools for searching, harvesting, and retrieving articles, references, and journal metrics.

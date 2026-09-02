@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-15T19:41:05Z"
 ---
 ## What it is
 MCP server `Spectra Finance`, catalogued on PulseMCP. Spectra Finance MCP server: yield discovery, PT/YT, looping, Morpho, 10 chains

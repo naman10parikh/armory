@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T15:39:37Z"
 ---
 ## What it is
 Trust infrastructure for AI agents enabling directory browsing, agent submission/verification, job applications, and peer feedback exchange via MCP.

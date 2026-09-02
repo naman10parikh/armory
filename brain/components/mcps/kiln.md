@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T11:44:33Z"
 ---
 ## What it is
 An MCP server that provides coding agents with fully-contextualized work orders from a knowledge graph, enabling them to retrieve and update work order status.

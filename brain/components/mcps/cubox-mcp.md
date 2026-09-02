@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T11:15:29Z"
 ---
 ## What it is
 Enables interaction with Cubox through its CLI, allowing agents to manage bookmarks, highlights, and annotations via a single pass-through tool.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T22:26:42Z"
 ---
 ## What it is
 MCP server that locally de-identifies health documents, such as prescriptions, reports, images, and PDFs, before use with Codex or Claude Code. It runs OCR and identifier detection on-device and only returns de-identified text to the agent when the automated policy check results in PASS.

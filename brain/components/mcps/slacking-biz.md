@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T16:47:57Z"
 ---
 ## What it is
 24 MCP tools for SEC financials, FRED economics, US Census demographics, and World Bank data via Streamable HTTP.

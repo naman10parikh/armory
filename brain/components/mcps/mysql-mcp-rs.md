@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T18:15:02Z"
 ---
 ## What it is
 MCP server `MySQL Read-Only (Rust)`, catalogued on PulseMCP. Lightweight Rust server providing read-only MySQL access with multi-database support and HTTP transport.

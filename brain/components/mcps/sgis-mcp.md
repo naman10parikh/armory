@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:10:16Z"
 ---
 ## What it is
 Enables users to query Korean demographic statistics (population, households, housing) and view them as choropleth maps via MCP tools.

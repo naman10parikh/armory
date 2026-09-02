@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T11:43:31Z"
 ---
 ## What it is
 MCP server `Pharma`, catalogued on PulseMCP. Pharmaceutical data access for ClinicalTrials.gov, PubMed, FDA drug labels, FAERS, and ICH guidelines.

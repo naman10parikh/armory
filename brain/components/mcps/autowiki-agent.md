@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T06:21:13Z"
 ---
 ## What it is
 An MCP server that compiles any text into a verifiable, graph-based knowledge base using deterministic chunking and parallel extraction of epistemology primitives.

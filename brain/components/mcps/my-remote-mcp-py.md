@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T09:27:26Z"
 ---
 ## What it is
 A remote MCP Server demo using FastMCP and Streamable HTTP, offering tools (add, now, fetch_url_title, long_task with progress), resources, prompts, and autocomplete for remote client connections.

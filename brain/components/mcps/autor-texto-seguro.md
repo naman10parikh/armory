@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T00:36:03Z"
 ---
 ## What it is
 Enables secure text authoring and privacy-focused document processing through MCP. Provides tools for style analysis, conservative text revision, comparison with author samples, and removal of metadata from DOCX/PDF files.

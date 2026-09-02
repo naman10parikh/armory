@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-10T08:10:13Z"
 ---
 ## What it is
 MCP server with example tools for arithmetic and greeting, designed for deployment on Amazon Bedrock AgentCore Runtime with OAuth authentication.

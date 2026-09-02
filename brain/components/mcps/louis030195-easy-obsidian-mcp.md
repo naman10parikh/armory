@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 18
+forks: 4
+pushed_at: "2025-10-20T23:30:18Z"
 ---
 ## What it is
 Interact with Obsidian vaults for knowledge management. Create, read, update, and search notes. Works with local Obsidian vaults using filesystem access.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T10:10:56Z"
 ---
 ## What it is
 An MCP server for 7-Zip archive operations (list, extract, create) with dual-engine architecture and sandbox security features. Note: currently a learning project and not yet functional.

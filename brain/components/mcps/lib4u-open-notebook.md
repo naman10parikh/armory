@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-23T17:44:32Z"
 ---
 ## What it is
 MCP server `Open Notebook`, catalogued on PulseMCP. Connects to an Open Notebook instance for managing notebooks, sources, notes, and chat sessions with vector and text search capabilities.

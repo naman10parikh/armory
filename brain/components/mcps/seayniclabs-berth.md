@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T23:27:10Z"
 ---
 ## What it is
 MCP server `Seayniclabs Berth`, catalogued on PulseMCP. Database management MCP server for querying, inspecting schemas, running migrations, and backing up PostgreSQL, MySQL, and SQLite.

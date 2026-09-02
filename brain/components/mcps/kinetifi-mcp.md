@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T22:16:06Z"
 ---
 ## What it is
 Cross-chain MCP server that coordinates operations between Casper and Mantle networks, enabling yield scanning, portfolio aggregation, and intent-based strategy generation.

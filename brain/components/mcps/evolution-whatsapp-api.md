@@ -8,10 +8,12 @@ source_url: https://github.com/aiteks-ltda/mcp-evolution-whatsapp-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-10-15T07:10:44Z"
 ---
 ## What it is
 MCP server `Evolution WhatsApp API`, catalogued on PulseMCP. Connects AI systems to WhatsApp through the Evolution API, enabling message management, media sharing, and contact operations for automated customer service and messaging workflows.

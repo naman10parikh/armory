@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T08:25:53Z"
 ---
 ## What it is
 Unofficial Notion MCP server built on Notion's private API (token_v2 cookie). Gives LLM agents full read/write access to the entire workspace — no integration token and no per-page sharing.

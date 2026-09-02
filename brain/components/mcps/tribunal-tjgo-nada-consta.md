@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:36Z"
 ---
 ## What it is
 MCP server for consulting official 'Nada Consta' certificates from the Tribunal de Justiça de Goiás (TJGO), providing read-only legal status checks via natural language.

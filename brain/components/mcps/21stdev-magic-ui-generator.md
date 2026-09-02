@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-13T19:44:56Z"
 ---
 ## What it is
 MCP server `Magic (21st.dev UI Generator)`, catalogued on PulseMCP. Bridges to 21st.dev's Magic API for generating UI components from descriptions, fetching existing components for inspiration, and searching for company logos in various formats.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 23
+pushed_at: "2026-06-30T01:32:59Z"
 ---
 ## What it is
 An MCP server that transforms codebases into intelligent, queryable knowledge bases, enabling AI assistants to perform semantic search, explore architecture, and analyze code relationships.

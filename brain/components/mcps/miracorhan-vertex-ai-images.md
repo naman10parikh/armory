@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-01T20:00:00Z"
 ---
 ## What it is
 MCP server `Vertex AI Images`, catalogued on PulseMCP. Generates and analyzes images using Google Cloud Vertex AI's Imagen 3 model.

@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-09T21:13:30Z"
 ---
 ## What it is
 MCP server `AlsoAsked`, catalogued on PulseMCP. Integrates with Google's AlsoAsked API to retrieve hierarchical "People Also Ask" question data for SEO research and content optimization with configurable language, region, depth, and freshness parameters.

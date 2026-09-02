@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:38:54Z"
 ---
 ## What it is
 An MCP server for querying your Pricempire CS2 trader portfolio, providing total value, category breakdowns, top holdings, cross-marketplace price comparison, and price history.

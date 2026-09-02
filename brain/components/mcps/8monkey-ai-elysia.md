@@ -8,10 +8,12 @@ source_url: https://github.com/8monkey-ai/elysia-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-27T03:43:33Z"
 ---
 ## What it is
 MCP server `Elysia`, catalogued on PulseMCP. Turn existing Elysia framework routes into MCP tools automatically, with no schema duplication or handler rewrites.

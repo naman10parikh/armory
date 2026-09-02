@@ -8,10 +8,12 @@ source_url: https://github.com/clawd800/pumpclaw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-20T10:31:31Z"
 ---
 ## What it is
 MCP server `PumpClaw`, catalogued on PulseMCP. ERC-20 token launcher on Base via Uniswap V4.

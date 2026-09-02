@@ -8,10 +8,12 @@ source_url: https://github.com/neo1228/spring-boot-starter-swagger-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-02T11:03:47Z"
 ---
 ## What it is
 MCP server `Swagger Bridge`, catalogued on PulseMCP. Spring Boot example that exposes SpringDoc OpenAPI operations as MCP tools via a containerized bridge.

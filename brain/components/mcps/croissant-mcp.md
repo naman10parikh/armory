@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T18:41:38Z"
 ---
 ## What it is
 MCP server that gives Claude programmatic access to a local En Croissant chess opening trainer, enabling conversational opening prep by reading its SQLite database, PGN files, and Lichess API. It supports repertoire review, due cards, and opponent statistics directly from chat.
