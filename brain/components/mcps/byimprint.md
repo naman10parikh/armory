@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-28T06:32:27Z"
 ---
 ## What it is
 MCP server `Byimprint`, catalogued on PulseMCP. Provides agent-callable access to 952+ scored YouTube creators across 180 niches.

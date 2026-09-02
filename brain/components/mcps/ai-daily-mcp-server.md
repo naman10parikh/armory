@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T07:04:16Z"
 ---
 ## What it is
 Enables fetching daily AI news summaries aggregated from multiple sources including GitHub, Hacker News, Product Hunt, YouTube, Twitter, and Chinese AI sites.

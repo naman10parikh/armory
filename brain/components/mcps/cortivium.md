@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-03T03:07:15Z"
 ---
 ## What it is
 Enables reliable AI behavior control by registering Ghost Skills as MCP tools that the model reads before every action, providing enforceable behavioral rules with ~95% reliability.

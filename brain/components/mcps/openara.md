@@ -8,11 +8,13 @@ source_url: https://github.com/Aradotso/OpenAra
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T10:14:09Z"
 ---
 ## What it is
 An open-source local MCP server for macOS that provides desktop control tools (click, type, scroll, etc.) callable from any MCP-aware client.

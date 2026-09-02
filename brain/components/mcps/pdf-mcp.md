@@ -8,11 +8,13 @@ source_url: https://github.com/jztan/pdf-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 116
+stars: 129
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-09-01T22:56:13Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI agents to read, search, and extract content from PDF files.

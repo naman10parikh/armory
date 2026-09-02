@@ -8,10 +8,12 @@ source_url: https://github.com/kevin-weitgenant/linkedin-posts-hunter-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-03T20:14:46Z"
 ---
 ## What it is
 MCP server `LinkedIn Posts Hunter`, catalogued on PulseMCP. Automates LinkedIn job post discovery and tracking through browser automation with persistent authentication, local SQLite storage, and a React dashboard for systematic opportunity management.

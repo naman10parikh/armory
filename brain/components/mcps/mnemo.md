@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T20:59:43Z"
 ---
 ## What it is
 A persistent, local memory layer for AI coding agents that remembers decisions, bugs, and rules across sessions with three core MCP verbs (recall, remember, search).

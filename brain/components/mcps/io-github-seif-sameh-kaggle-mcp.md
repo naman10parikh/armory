@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T00:20:13Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides seamless integration with the Kaggle API, enabling interaction with competitions, datasets, kernels, and models through MCP-compatible clients.

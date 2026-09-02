@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T21:13:11Z"
 ---
 ## What it is
 Zero-config SQL profiler for slow Python/SQLAlchemy jobs, built for agents: returns the exact call site, query count, and fix as compact machine-readable fields instead of raw query logs~55× fewer tokens per diagnosis (≈10k → ≈180) and the matching drop in API cost.

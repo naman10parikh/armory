@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T15:04:23Z"
 ---
 ## What it is
 Read-only MCP server that exposes Fathom meetings and transcripts as tools for use by skills in the TICKETS workspace.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T09:50:52Z"
 ---
 ## What it is
 MCP server that manages in-memory SVG path canvases and provides preview URLs for rendering in a sandbox iframe via AIRI's surface contract.

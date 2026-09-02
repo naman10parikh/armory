@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-19T16:46:55Z"
 ---
 ## What it is
 MCP server `GitHub Integration Hub`, catalogued on PulseMCP. Provides GitHub OAuth authentication and API access through REST endpoints, CLI tools, and MCP server capabilities with SQLite-based token storage.

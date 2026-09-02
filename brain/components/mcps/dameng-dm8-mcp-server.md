@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T02:14:49Z"
 ---
 ## What it is
 达梦数据库 DM8 的 MCP 服务器，为 AI 助手提供只读 SQL 查询、表结构自动发现和样本数据查看功能。

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T14:31:52Z"
 ---
 ## What it is
 Provides image understanding via Volcano Ark's doubao-seed-2.1-turbo multimodal model, offering tools to describe images and extract text (OCR) from image URLs or local paths.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-22T18:32:33Z"
 ---
 ## What it is
 Enables AI assistants to search, manage, and analyze data in Splunk instances through the Model Context Protocol. Supports SPL queries, index management, alerts, dashboards, and more.

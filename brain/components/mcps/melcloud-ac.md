@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T15:57:23Z"
 ---
 ## What it is
 An MCP server that enables LLMs to control Mitsubishi Electric AC units through MELCloud, supporting device listing, power on/off, temperature changes, and smart auto comfort mode.

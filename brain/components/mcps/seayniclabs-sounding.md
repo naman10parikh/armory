@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T15:13:23Z"
 ---
 ## What it is
 MCP server `Sounding`, catalogued on PulseMCP. Network diagnostics tools — ping, traceroute, DNS, port scanning, and connectivity testing for AI assistants.

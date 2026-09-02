@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T10:10:43Z"
 ---
 ## What it is
 Enables AI agents to manage a task board by investigating needs, creating well-specified tasks, and executing them end-to-end.

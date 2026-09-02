@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T16:10:31Z"
 ---
 ## What it is
 Compiles any software into an API by learning from user demonstrations, providing a deterministic, low-latency MCP server with zero token cost at runtime.

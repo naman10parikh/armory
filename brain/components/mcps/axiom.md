@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:55:06Z"
 ---
 ## What it is
 Enables autonomous agents to discover, quote, and purchase paid APIs on Base by describing capabilities in natural language, with automatic provider ranking, validation, and direct non-custodial x402 payments.

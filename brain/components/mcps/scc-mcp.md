@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:37:00Z"
 ---
 ## What it is
 Exposes boyter/scc code counting and complexity analysis to LLM agents via read-only tools like counting lines, finding top files, and cost estimation.

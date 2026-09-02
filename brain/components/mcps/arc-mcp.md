@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-04T03:01:28Z"
 ---
 ## What it is
 Enables semantic browser automation for the Arc browser, allowing users to perform web tasks like searching, shopping, and data extraction through natural language commands.

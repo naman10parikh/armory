@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:10:03Z"
 ---
 ## What it is
 Official MCP server for Weft, an agent-first Scrumban task manager. Gives AI agents 24 tools to manage tasks, sprints, and projects on your board, with OAuth 2.1 authentication and a hosted remote endpoint.

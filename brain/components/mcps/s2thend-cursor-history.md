@@ -12,6 +12,8 @@ stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-08T09:13:04Z"
 ---
 ## What it is
 MCP server `Cursor History`, catalogued on PulseMCP. Browse, search, export, and back up Cursor AI chat history from local SQLite database.

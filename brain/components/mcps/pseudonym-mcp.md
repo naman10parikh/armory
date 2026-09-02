@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T12:01:33Z"
 ---
 ## What it is
 Local pseudonymisation MCP server that detects PII in text, replaces it with opaque tokens before sending to cloud LLMs, and restores tokens afterward.

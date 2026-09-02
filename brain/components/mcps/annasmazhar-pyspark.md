@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T21:17:40Z"
 ---
 ## What it is
 MCP server `PySpark`, catalogued on PulseMCP. MCP server for running PySpark SQL queries and data transformations against Spark clusters.

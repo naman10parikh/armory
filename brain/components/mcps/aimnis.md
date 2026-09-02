@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T17:31:45Z"
 ---
 ## What it is
 A collaborative search gateway for coding agents that provides instant, cited answers from a shared knowledge pool, with semantic caching and live search fallback.

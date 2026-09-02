@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T09:49:20Z"
 ---
 ## What it is
 Enables Claude to transcribe Bilibili videos, search by intent, and analyze local video files, returning structured summaries with key points and verdicts.

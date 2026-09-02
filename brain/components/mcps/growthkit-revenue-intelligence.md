@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:40:39Z"
 ---
 ## What it is
 Sales intelligence for DACH & EU SMEs — lead scoring, ICP fit, CRM enrichment & writeback.

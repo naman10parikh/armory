@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-21T16:26:06Z"
 ---
 ## What it is
 MCP server for automating AFIP/ARCA electronic invoicing, certificate management, and Web Service authorization in Argentina.

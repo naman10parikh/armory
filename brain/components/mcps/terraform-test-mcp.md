@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-05T05:21:50Z"
 ---
 ## What it is
 Generates structured prompts for Claude Code to create comprehensive Terraform test cases including unit, integration, and mock tests.

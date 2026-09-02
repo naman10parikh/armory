@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-03T08:26:24Z"
 ---
 ## What it is
 Enables image processing operations such as resizing, format conversion, cropping, rotating, and retrieving image metadata through the Sharp library.

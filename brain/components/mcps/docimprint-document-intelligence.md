@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T09:02:50Z"
 ---
 ## What it is
 Verifiable document intelligence for AI agents. Extract text, tables, and structured data from PDFs and URLs. Summarize, answer questions, check claims, and translate — all with cited evidence. Store tamper-evident evidence bundles with cryptographic signatures and on-chain attestation via Base L2. 

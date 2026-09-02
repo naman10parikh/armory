@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T10:27:28Z"
 ---
 ## What it is
 Enables browsing recipes, searching by category, and viewing detailed recipe information from the Gousto cookbook API via natural language.

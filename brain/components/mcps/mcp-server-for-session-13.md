@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-28T02:07:57Z"
 ---
 ## What it is
 Enables web search via Tavily API, dice rolling, and marketing/company news retrieval through MCP tools.

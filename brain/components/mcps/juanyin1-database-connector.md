@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-16T03:01:06Z"
 ---
 ## What it is
 MCP server `Database Connector`, catalogued on PulseMCP. Provides multi-database connectivity for SQLite, PostgreSQL, MySQL, and SQL Server through unified adapters that enable query execution, schema management, data export, and business memo tracking with safety validations for destructive operations.

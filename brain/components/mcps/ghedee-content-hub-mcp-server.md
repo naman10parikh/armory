@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T00:40:28Z"
 ---
 ## What it is
 Enables managing a social media calendar workflow with AI-generated images/videos, including generating media, uploading to Google Drive, and downloading the latest calendar draft.

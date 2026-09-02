@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T13:09:35Z"
 ---
 ## What it is
 Enables AI assistants to control digital signage networks by managing device groups, presentations, schedules, and emergency alerts.

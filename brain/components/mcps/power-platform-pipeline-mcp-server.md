@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T21:35:26Z"
 ---
 ## What it is
 Exposes Power Platform Pipeline operations as MCP tools for Copilot Studio agents, enabling pipeline discovery, deployments, approvals, and configuration management.

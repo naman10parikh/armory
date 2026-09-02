@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:22:27Z"
 ---
 ## What it is
 Token-optimized multi-agent orchestration MCP server that owns session state, compacts context between agent hops, routes work to smaller models when safe, and reports estimated token savings.

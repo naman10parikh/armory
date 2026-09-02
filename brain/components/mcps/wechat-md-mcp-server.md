@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T06:10:30Z"
 ---
 ## What it is
 Converts Markdown to inline-styled HTML for WeChat official accounts, with theme selection and browser preview for easy copying.

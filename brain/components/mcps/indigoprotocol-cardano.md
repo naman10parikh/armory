@@ -8,10 +8,12 @@ source_url: https://github.com/indigoprotocol/cardano-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-29T18:13:57Z"
 ---
 ## What it is
 MCP server `Cardano`, catalogued on PulseMCP. Provides Cardano blockchain wallet operations including transaction submission, address management, UTxO retrieval, token balances, ADAHandle resolution, and stake delegation.

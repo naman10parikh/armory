@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T11:58:09Z"
 ---
 ## What it is
 Delivers rutter — organizational, team, and personal knowledge bundles — to AI coding agents via CLI and stdio MCP, providing context and search tools.

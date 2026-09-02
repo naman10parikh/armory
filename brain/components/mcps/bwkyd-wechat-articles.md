@@ -8,10 +8,12 @@ source_url: https://github.com/bwkyd/wexin-read-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 394
+stars: 448
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 59
+pushed_at: "2026-04-19T08:05:54Z"
 ---
 ## What it is
 MCP server `WeChat Articles`, catalogued on PulseMCP. Extracts content from WeChat public account articles using browser automation and HTML parsing.

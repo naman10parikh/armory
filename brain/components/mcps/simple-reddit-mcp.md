@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T06:08:43Z"
 ---
 ## What it is
 A read-only Reddit MCP server that fetches threads, comments, and subreddits from the Arctic Shift archive over HTTP, requiring no Reddit account or API key.

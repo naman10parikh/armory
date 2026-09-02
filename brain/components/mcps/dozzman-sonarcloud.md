@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-02T23:14:05Z"
 ---
 ## What it is
 MCP server `SonarCloud`, catalogued on PulseMCP. Integrates with SonarCloud API to fetch and analyze code quality issues for pull requests, providing detailed issue data with filtering by severity, type, assignee, and status plus high-level summaries with metrics for automated code review workflows.

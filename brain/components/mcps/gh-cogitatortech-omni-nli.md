@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-23T12:25:59Z"
 ---
 ## What it is
 MCP server `Omni NLI by CogitatorTech`, catalogued on PulseMCP. Natural language inference engine for textual entailment, contradiction, and neutral relationship detection.

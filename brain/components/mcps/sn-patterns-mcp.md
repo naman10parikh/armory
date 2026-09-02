@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-23T23:41:54Z"
 ---
 ## What it is
 Pattern-intelligence MCP server for ServiceNow Discovery that enables AI agents to read, search, validate, author, surgically edit, and reason about Discovery patterns, including NDL grammar, SNMP OIDs, data sources, and emulator blueprints.

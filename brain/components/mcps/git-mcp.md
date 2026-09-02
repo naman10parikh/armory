@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T11:21:25Z"
 ---
 ## What it is
 Standalone MCP server for GitHub that enables repository management, branch operations, pull request handling, and commit retrieval via tools listed in the README.

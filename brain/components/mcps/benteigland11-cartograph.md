@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-21T12:37:45Z"
 ---
 ## What it is
 MCP server `Cartograph`, catalogued on PulseMCP. Geospatial data analysis and map generation from natural language queries.

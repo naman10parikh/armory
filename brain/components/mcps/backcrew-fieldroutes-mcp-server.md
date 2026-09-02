@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T15:31:58Z"
 ---
 ## What it is
 Enables AI assistants like Claude to read and optionally write data in FieldRoutes (formerly PestRoutes) using plain English, with read-only mode by default and granular safety profiles.

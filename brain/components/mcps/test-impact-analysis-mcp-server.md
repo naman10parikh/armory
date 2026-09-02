@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T14:06:56Z"
 ---
 ## What it is
 An intelligent MCP toolset for software testers that monitors code changes, analyzes test impact, recommends tests, and assesses risk, supporting multiple AI coding frameworks via dual transport modes.

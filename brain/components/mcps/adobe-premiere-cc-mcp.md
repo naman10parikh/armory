@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T04:33:00Z"
 ---
 ## What it is
 An MCP server for controlling Adobe Premiere Pro from an AI assistant, with a small set of self-verifying tools for editing, grading, and exporting.

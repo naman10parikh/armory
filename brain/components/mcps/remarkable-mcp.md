@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T10:03:56Z"
 ---
 ## What it is
 An MCP server that gives Claude direct access to your reMarkable tablet's notebooks, enabling document search, PDF rendering, handwriting transcription, and diagram conversion, all locally without API keys.

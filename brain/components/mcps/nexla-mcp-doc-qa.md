@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T04:53:26Z"
 ---
 ## What it is
 An MCP server that exposes grounded, source-attributed question-answering over a collection of PDF documents.

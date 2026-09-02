@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T09:42:08Z"
 ---
 ## What it is
 MCP server for Unitrends Backup — appliances, jobs, recovery points, replication, alerts

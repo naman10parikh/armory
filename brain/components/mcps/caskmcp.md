@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-22T08:43:42Z"
 ---
 ## What it is
 Turns any web API into a governed, agent-ready MCP server with lockfile-based approval, fail-closed enforcement, and full audit trail.

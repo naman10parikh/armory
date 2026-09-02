@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T00:38:01Z"
 ---
 ## What it is
 MCP server that provides Forza Horizon 5 telemetry tools (session listing, summaries, telemetry windows, tuning recommendations) to AI assistants, enabling natural language queries about driving sessions.

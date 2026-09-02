@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-21T15:36:39Z"
 ---
 ## What it is
 MCP server `Easy Model Deployer`, catalogued on PulseMCP. Bridges Claude with the Easy Model Deployer tool to enable listing, deploying, managing, and invoking machine learning models on AWS services through simple conversational commands.

@@ -8,10 +8,12 @@ source_url: https://github.com/samuelmoraesf/mcp-nfse-nacional
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-12T12:20:46Z"
 ---
 ## What it is
 MCP server `NFSe Nacional`, catalogued on PulseMCP. Query Brazilian electronic invoices (NFSe) from the national portal nfse.gov.br.

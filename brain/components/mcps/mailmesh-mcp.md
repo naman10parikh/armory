@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T15:24:48Z"
 ---
 ## What it is
 A private, single-user MCP server that unifies Gmail, Microsoft 365/Outlook, and IMAP mailboxes for LLMs to search and read emails live, without storing or caching mailbox contents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T21:42:28Z"
 ---
 ## What it is
 Schedule and analyze social media posts from Claude, ChatGPT, or Cursor. Remote OAuth server, 17 tools across 9 platforms, free on every plan. Server URL: https://socialrobot.io/api/mcp

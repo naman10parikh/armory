@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:41:22Z"
 ---
 ## What it is
 Indian HSN/GST code lookup by description (4,676 entries)

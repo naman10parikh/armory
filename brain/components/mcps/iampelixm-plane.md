@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T13:07:02Z"
 ---
 ## What it is
 MCP server `Plane`, catalogued on PulseMCP. MCP server for syncing and managing issues with the Plane project management platform.

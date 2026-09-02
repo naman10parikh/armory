@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-18T21:58:45Z"
 ---
 ## What it is
 Enables browsing your Coursera courses, viewing library maps and course outlines, and downloading transcripts and readings as text via MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T08:41:36Z"
 ---
 ## What it is
 Geekflare MCP server connects your AI agents to the live web for scraping, search, screenshots, DNS lookup, site uptime and more.

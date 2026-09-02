@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:56:29Z"
 ---
 ## What it is
 Enables AI tools to instantly scaffold eGovFrame projects using official templates, with configurable project name, groupId, database type, and template selection.

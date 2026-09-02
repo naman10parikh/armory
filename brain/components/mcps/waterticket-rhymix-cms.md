@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-18T10:19:11Z"
 ---
 ## What it is
 MCP server `Rhymix CMS`, catalogued on PulseMCP. Integrates with the Rhymix CMS platform to expose CMS functionality and custom business logic through streamable HTTP transport with automatic tool discovery and caching support.

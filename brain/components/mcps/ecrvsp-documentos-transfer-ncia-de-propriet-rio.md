@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:03Z"
 ---
 ## What it is
 Provides read-only access to official property transfer documents from ECRVSP, allowing AI agents to query document information via natural language.

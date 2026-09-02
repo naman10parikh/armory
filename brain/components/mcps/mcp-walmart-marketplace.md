@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T02:18:13Z"
 ---
 ## What it is
 This MCP server enables interaction with Walmart Marketplace APIs, offering tools for managing items, orders, inventory, prices, promotions, feeds, and more, with automatic OAuth2 authentication and spec-driven endpoint discovery.

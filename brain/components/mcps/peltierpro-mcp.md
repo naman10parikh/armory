@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T23:06:28Z"
 ---
 ## What it is
 OAuth-enabled read-only MCP server for Odoo 19 ERP that allows Claude to search and retrieve CRM opportunities, sales orders, products, and inventory data via the Odoo JSON-2 API.

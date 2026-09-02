@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T17:52:37Z"
 ---
 ## What it is
 A Strapi v5 backend that exposes MCP endpoints for Google Search Console and Meta Ads, enabling AI agents to automate SEO and marketing workflows.

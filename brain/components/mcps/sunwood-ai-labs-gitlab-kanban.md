@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-16T13:10:35Z"
 ---
 ## What it is
 MCP server `GitLab Kanban`, catalogued on PulseMCP. Integrates with GitLab's API to enable Kanban-style project management and issue tracking for streamlined software development workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-23T20:50:52Z"
 ---
 ## What it is
 A TradingView-style market research and charting MCP server that provides tools for market data, indicators, watchlists, and local HTML chart rendering without scraping TradingView.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T01:48:16Z"
 ---
 ## What it is
 Exposes an observability REST API as MCP tools, enabling incident investigation through automated correlation of deploys with errors, log and metrics queries.

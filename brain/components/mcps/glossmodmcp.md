@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-27T02:24:07Z"
 ---
 ## What it is
 为Claude和其他LLM应用提供3DM Mod网站的数据访问能力，让用户可以通过自然语言查询和获取Mod信息。

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:06Z"
 ---
 ## What it is
 Enables users to query official SEFAZ DF IPTU (Distrito Federal property tax) information and issue tax payment guides directly from AI assistants like Claude and ChatGPT. A read-only MCP server with one tool, hosted for any MCP-enabled client, using a prepaid, pay-per-query model.

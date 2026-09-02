@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-24T15:51:53Z"
 ---
 ## What it is
 基于Model Context Protocol (MCP) 的A股实时行情查询服务器，支持查询A股实时价格、历史K线数据、财务信息及市场概况。

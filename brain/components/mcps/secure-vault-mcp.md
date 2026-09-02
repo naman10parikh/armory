@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T13:41:01Z"
 ---
 ## What it is
 MCP server for agent-native secrets management that stores encrypted secrets with AES-256-GCM, issues short-lived scoped tokens, and injects secrets into requests server-side so agents never handle plaintext credentials.

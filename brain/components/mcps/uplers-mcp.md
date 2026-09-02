@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T12:48:18Z"
 ---
 ## What it is
 Enables searching and analyzing Uplers talent board opportunities with market insights, as well as tracking applications and shortlists locally; optionally with authenticated access, it can manage a user's Uplers account, profile, and job applications.

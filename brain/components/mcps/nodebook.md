@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T09:50:39Z"
 ---
 ## What it is
 Enables to interact with a issue-native wiki workspace, providing scoped tools to manage issues, search, plan tasks, handle reminders, and attach files, all through the MCP server on /mcp.

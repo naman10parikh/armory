@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T23:18:08Z"
 ---
 ## What it is
 A local CLI and MCP server enabling an LLM to control GarageBand on macOS via AppleScript, accessibility automation, and MIDI workflows.

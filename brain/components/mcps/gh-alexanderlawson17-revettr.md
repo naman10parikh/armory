@@ -8,10 +8,12 @@ source_url: https://github.com/alexanderlawson17/revettr-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-02T20:38:34Z"
 ---
 ## What it is
 MCP server `Revettr`, catalogued on PulseMCP. Counterparty risk scoring for agentic commerce via x402 micropayments.

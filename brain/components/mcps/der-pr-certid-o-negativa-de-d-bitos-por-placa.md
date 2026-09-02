@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:03Z"
 ---
 ## What it is
 Enables querying negative debt certificates (Certidão Negativa de Débitos) from DER PR by vehicle license plate, using an official source. It's a read-only, hosted MCP server that works with any MCP client.

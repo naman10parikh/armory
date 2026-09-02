@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T02:21:47Z"
 ---
 ## What it is
 Provides technical SEO tools for AI agents, including structured data generation, meta tag creation, robots.txt validation, and SERP previews, all offline with no API key or account.

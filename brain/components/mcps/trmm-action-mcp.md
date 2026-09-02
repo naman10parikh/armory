@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T03:31:16Z"
 ---
 ## What it is
 Enables approved senior engineers to run vetted, read-only audit scripts on Tactical RMM agents from Claude, using a fixed catalog of tools to inspect things like local admins, disk space, and installed software without permitting arbitrary code execution or destructive actions.

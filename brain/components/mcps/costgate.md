@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T12:07:58Z"
 ---
 ## What it is
 Reduces AI token consumption by optimizing MCP tool definitions and responses, with a probe for measurement and a gate for filtered tool exposure and cost reduction.

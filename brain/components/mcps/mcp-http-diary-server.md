@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T15:44:59Z"
 ---
 ## What it is
 Enables writing and reading diary entries via MCP, with optional mood tags, using Supabase for storage and supporting streamable HTTP for public access.

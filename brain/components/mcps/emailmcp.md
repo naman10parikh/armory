@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T06:08:42Z"
 ---
 ## What it is
 Enables unified email management across Gmail, Outlook, iCloud, and IMAP providers with tools for search, send, organize, and batch operations via natural language.

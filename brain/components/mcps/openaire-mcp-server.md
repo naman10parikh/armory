@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T16:07:32Z"
 ---
 ## What it is
 Enables AI assistants to explore the OpenAIRE Research Graph and ScholExplorer citation index, discovering citation relationships and retrieving metadata for publications, datasets, and software.

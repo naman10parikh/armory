@@ -8,10 +8,12 @@ source_url: https://github.com/aj-geddes/toon-context-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-23T00:30:30Z"
 ---
 ## What it is
 MCP server `TOON Context`, catalogued on PulseMCP. Converts verbose JSON structures to compact TOON format, achieving 40-60% token reduction while maintaining complete data integrity through intelligent pattern detection and automatic compression strategy selection.

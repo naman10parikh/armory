@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T13:45:49Z"
 ---
 ## What it is
 cc98-mcp enables AI assistants to search, read, and aggregate posts from the Zhejiang University campus forum CC98, using official read-only API tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T14:56:35Z"
 ---
 ## What it is
 A minimal MCP server that provides a single 'hello' tool returning a greeting message, deployable on Render.

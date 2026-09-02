@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T07:12:26Z"
 ---
 ## What it is
 MCP server `SQL Server Semantic`, catalogued on PulseMCP. Semantic intelligence layer for SQL Server with 29 tools for schema discovery, FK join-path analysis, and policy-gated query execution.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-08T21:13:54Z"
 ---
 ## What it is
 MCP server `GraphQL`, catalogued on PulseMCP. Enables LLMs to interact with GraphQL APIs through schema introspection and query execution, with security measures like disabled mutations by default.

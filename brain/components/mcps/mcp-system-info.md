@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-10T03:43:39Z"
 ---
 ## What it is
 Provides system hardware information (CPU, memory, storage, etc.) and system status (OS, network, resource usage) via MCP tools.

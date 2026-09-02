@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T09:55:53Z"
 ---
 ## What it is
 Enables AI assistants to interact with Microsoft Teams, users, chats, files, and organizational data via Microsoft Graph APIs, with added support for creating, updating, listing, and inspecting Teams meetings and calendar events.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-28T02:22:57Z"
 ---
 ## What it is
 A MCP server for Xiaohongshu that enables account login, copywriting generation, and automatic publishing with AI-generated images via conversation.

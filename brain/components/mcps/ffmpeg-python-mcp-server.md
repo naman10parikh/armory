@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-23T13:32:22Z"
 ---
 ## What it is
 Enables AI assistants to perform video and audio processing tasks such as format conversion, cutting, merging, and adding effects via FFmpeg, with hardware acceleration support.

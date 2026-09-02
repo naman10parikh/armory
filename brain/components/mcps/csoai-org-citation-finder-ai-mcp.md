@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T22:23:45Z"
 ---
 ## What it is
 MCP server `Citation Finder AI`, catalogued on PulseMCP. Tools for finding and formatting academic citations and bibliographic references.

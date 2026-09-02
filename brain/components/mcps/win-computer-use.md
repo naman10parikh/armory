@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T02:35:42Z"
 ---
 ## What it is
 MCP server that gives Claude human-like control of a Windows PC with its own virtual cursor, an emergency stop, and a manager UI.

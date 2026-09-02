@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-22T13:52:04Z"
 ---
 ## What it is
 MCP server `Calculator by cyanheads`, catalogued on PulseMCP. Evaluate, simplify, and differentiate math expressions with configurable precision and variable scoping.

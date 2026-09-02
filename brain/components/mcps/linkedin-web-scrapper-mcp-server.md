@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-21T11:39:21Z"
 ---
 ## What it is
 Provides tools for searching LinkedIn profiles and extracting names, URLs, and headlines via Playwright-based web scraping. Supports location and network filters with automatic login and cookie persistence.

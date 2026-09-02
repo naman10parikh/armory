@@ -8,10 +8,12 @@ source_url: https://github.com/writingmate/imagegen-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-09-09T17:39:07Z"
 ---
 ## What it is
 MCP server `ImageGen`, catalogued on PulseMCP. Provides image generation across multiple AI providers (OpenAI DALL-E, Google Gemini, Replicate Flux) with unified parameter handling, automatic file saving, and provider-specific features like transparent backgrounds and seed control for flexible visual content creation.

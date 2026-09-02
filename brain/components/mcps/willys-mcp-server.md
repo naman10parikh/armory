@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-02-01T05:46:16Z"
 ---
 ## What it is
 An MCP server for Sweden's largest grocery chain Willys. Enables controlling your shopping cart, browsing orders, searching products, and getting AI-powered recommendations from any MCP client.

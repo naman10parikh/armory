@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T02:02:56Z"
 ---
 ## What it is
 A TypeScript MCP server delivering a vendored 'dangerous skills' corpus and adversarial fixtures over MCP for security-research testing, supporting SEP-2640 skill delivery with archive-safety hardening.

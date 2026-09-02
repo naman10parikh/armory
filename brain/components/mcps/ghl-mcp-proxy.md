@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T06:31:42Z"
 ---
 ## What it is
 A minimal multi-sub-account MCP proxy for GoHighLevel that allows listing configured accounts and making authenticated REST API calls on behalf of any account.

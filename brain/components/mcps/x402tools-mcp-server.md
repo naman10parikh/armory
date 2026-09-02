@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T16:32:59Z"
 ---
 ## What it is
 Provides AI agents with 10 pay-per-call utility tools (QR generation, DNS lookup, OCR, etc.) using USDC on Base via the x402 protocol, with agent's private key never leaving the agent.

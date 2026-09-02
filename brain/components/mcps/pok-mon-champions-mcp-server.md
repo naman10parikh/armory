@@ -8,11 +8,13 @@ source_url: https://github.com/Emieeel/poke-mcp-tool
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T16:03:52Z"
 ---
 ## What it is
 Provides accurate competitive Pokémon information for Pokémon Champions, including damage calculation, type effectiveness, Pokémon data, and regulation legality checks.

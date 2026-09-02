@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T22:28:38Z"
 ---
 ## What it is
 Stop grepping. Start knowing. EdgeHop turns a codebase into a queryable graph and serves it over MCP — find where a symbol lives, who calls a function, the type hierarchy, and the shortest path between two symbols, resolved from the compiler's semantic model instead of text search. Language support 

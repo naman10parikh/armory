@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-19T06:12:55Z"
 ---
 ## What it is
 A local MCP server that enables Claude to manage Acuity Scheduling appointments, check availability, list appointment types, and handle multiple accounts, all via natural language.

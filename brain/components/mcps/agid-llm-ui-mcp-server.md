@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T16:57:01Z"
 ---
 ## What it is
 MCP server to help AI assistants generate Italian PA user interfaces by providing components, recipes, accessibility rules, and validation for Bootstrap Italia and Web Components.

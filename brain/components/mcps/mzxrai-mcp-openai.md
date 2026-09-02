@@ -8,10 +8,12 @@ source_url: https://github.com/mzxrai/mcp-openai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 76
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2024-12-06T18:15:23Z"
 ---
 ## What it is
 MCP server `OpenAI Chat`, catalogued on PulseMCP. Generate text using OpenAI's language models.

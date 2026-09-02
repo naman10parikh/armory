@@ -8,10 +8,12 @@ source_url: https://github.com/saintdoresh/weather-mcp-claudedesktop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-16T01:28:56Z"
 ---
 ## What it is
 MCP server `Weather`, catalogued on PulseMCP. Integrates with OpenWeatherMap API to provide real-time weather conditions, forecasts, air quality information, historical data, location search, and weather alerts for seamless access to accurate weather information during conversations.

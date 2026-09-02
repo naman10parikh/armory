@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T13:54:15Z"
 ---
 ## What it is
 Bridges AI agents to 1C:Enterprise via OData, enabling natural language queries of business entities like counterparties and invoices with read-only access.

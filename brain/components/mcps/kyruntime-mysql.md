@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-15T12:39:53Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. MCP server for MySQL database interaction with 10 tools and SQL injection detection, published on npm as @kyruntime/mysql-mcp.

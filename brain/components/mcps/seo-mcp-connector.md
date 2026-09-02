@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T10:48:31Z"
 ---
 ## What it is
 Local management console and permission wrapper for integrating Google Search Console, GA4, Bing Webmaster Tools, PageSpeed, and SEO analysis through a controlled MCP endpoint.

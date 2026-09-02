@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:16:10Z"
 ---
 ## What it is
 MCP server for Plex Media Server, focused on media discovery, search, library management, and playback control.

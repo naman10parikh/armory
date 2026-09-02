@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-19T07:14:49Z"
 ---
 ## What it is
 Enables interaction with Odoo instances via XML-RPC, supporting CRUD operations and custom model queries through natural language.

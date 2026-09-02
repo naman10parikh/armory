@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T02:35:16Z"
 ---
 ## What it is
 Local-first MCP server for governed AI memory where agents propose memories and humans approve them, with optional cloud sync.

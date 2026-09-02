@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T00:16:08Z"
 ---
 ## What it is
 MCP server for Android app security auditing that integrates ADB, VirusTotal, and MobSF to extract, analyze, and recommend actions on apps for ethical hacking learning.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T12:52:24Z"
 ---
 ## What it is
 MCP server exposing all major Swiss official public APIs as native tools for any MCP-compatible AI agent.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T19:25:01Z"
 ---
 ## What it is
 A local MCP server that parses Robot Framework output.xml files, scores and groups failures, and exposes structured triage data to Claude Desktop and Claude Code.

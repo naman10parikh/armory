@@ -8,11 +8,13 @@ source_url: https://github.com/flamexnreal/davinci-resolve-ai-bridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T01:30:02Z"
 ---
 ## What it is
 Lets AI clients inspect and control DaVinci Resolve projects via MCP tools.

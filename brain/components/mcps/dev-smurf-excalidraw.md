@@ -8,10 +8,12 @@ source_url: https://github.com/dev-smurf/excaliclaude
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-28T10:05:23Z"
 ---
 ## What it is
 MCP server `Excalidraw`, catalogued on PulseMCP. Draw shapes and elements on an Excalidraw canvas in real-time via the native collaboration protocol.

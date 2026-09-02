@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-05T16:45:11Z"
 ---
 ## What it is
 MCP server `Electronics Tools`, catalogued on PulseMCP. Provides resistor color code decoding, capacitor impedance calculations, and GPIO pin reference for ESP32, Arduino, and STM32 microcontrollers.

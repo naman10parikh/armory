@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T15:51:58Z"
 ---
 ## What it is
 Provides a web_search MCP tool for cc-switch, backed by a self-hosted SearXNG instance, enabling AI assistants like Claude Code to perform web searches without a premium API key.

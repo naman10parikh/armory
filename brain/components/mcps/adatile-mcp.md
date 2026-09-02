@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T15:11:11Z"
 ---
 ## What it is
 Enables high-resolution image adaptive tiling preprocessing for the DeepSeek vision model, allowing analysis of large images via a six-stage pipeline that optimizes performance and handles degradation scenarios.

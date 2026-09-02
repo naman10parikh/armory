@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-17T14:28:44Z"
 ---
 ## What it is
 MCP server `Revenue Enablement`, catalogued on PulseMCP. Deal strategy and sales enablement with 12 revenue acceleration tools.

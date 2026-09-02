@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T18:46:37Z"
 ---
 ## What it is
 A TypeScript MCP server that provides secure, read-only access to a locally hosted MySQL database for AI-agent workflows, with configurable policies and support for multiple MCP clients.

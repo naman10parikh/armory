@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T17:03:12Z"
 ---
 ## What it is
 Agent-native SSH control plane with a local Web Terminal, human-in-the-loop secret input, keychain-backed profiles, and user-confirmed uploads for Codex, Claude Code, and MCP-compatible coding agents.

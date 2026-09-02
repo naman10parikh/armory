@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T20:35:25Z"
 ---
 ## What it is
 Unified MCP server for browser automation (Playwright + CDP + CLI) and bookmark management across Chrome, Firefox, Edge, and Brave, including cross-browser sync, deduplication, and a React dashboard.

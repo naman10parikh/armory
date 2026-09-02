@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:50:05Z"
 ---
 ## What it is
 MCP server `Pipeworx Comic Vine`, catalogued on PulseMCP. Search Comic Vine's database of characters, issues, volumes, creators, and publishers.

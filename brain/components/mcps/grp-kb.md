@@ -8,11 +8,13 @@ source_url: https://github.com/Arvindh95Censof/grp-kb
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T09:23:19Z"
 ---
 ## What it is
 Semantic search MCP server for an Acumatica knowledge base, indexing markdown notes with multilingual embeddings to enable search across English and Bahasa Malaysia content.

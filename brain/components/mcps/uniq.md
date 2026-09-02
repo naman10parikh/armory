@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T05:05:10Z"
 ---
 ## What it is
 Uniq generates personalized emails, HTML pitch pages, and hosted proposal pages in the prospect's branding from seller and prospect URLs. It provides MCP tools for agents to create, retrieve, and track proposals.

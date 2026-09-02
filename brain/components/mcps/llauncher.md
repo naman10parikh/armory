@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T18:29:11Z"
 ---
 ## What it is
 Manages llama.cpp llama-server instances with tools for lifecycle management, configuration CRUD, and orphan detection, enabling LLM agents to control local or remote inference servers.

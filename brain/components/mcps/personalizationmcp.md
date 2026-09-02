@@ -8,11 +8,13 @@ source_url: https://github.com/YangLiangwei/PersonalizationMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 58
+stars: 60
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-03-24T05:02:11Z"
 ---
 ## What it is
 Enables AI assistants to access and interact with personal data from platforms like Steam, YouTube, Bilibili, Spotify, and Reddit for personalized, context-aware interactions.

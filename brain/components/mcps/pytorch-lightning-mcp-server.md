@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-05T16:35:43Z"
 ---
 ## What it is
 A minimal integration layer exposing PyTorch Lightning via a structured, machine-readable API for tools, agents, and orchestration systems.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-21T19:42:36Z"
 ---
 ## What it is
 Enables CRUD operations on MongoDB databases and collections, including listing databases and collections, via MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T13:51:15Z"
 ---
 ## What it is
 Enables contextual insurance recommendation and quoting for e-commerce deals through natural language, with tools to classify deal intents, retrieve quotes, and generate promotional copy.

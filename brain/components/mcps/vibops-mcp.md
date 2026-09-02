@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T20:01:55Z"
 ---
 ## What it is
 VibOps MCP is the control plane between your AI agents and your GPU infrastructure. 74 tools covering: GPU fleet management (deploy, scale, monitor across NVIDIA, AMD, Intel, AWS, Google, Groq), Agent Infrastructure Control Plane (per-agent GPU cost, budget enforcement, model policies, dependency gr

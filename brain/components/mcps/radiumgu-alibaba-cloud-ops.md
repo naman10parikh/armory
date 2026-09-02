@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-24T14:42:45Z"
 ---
 ## What it is
 MCP server `Alibaba Cloud Operations`, catalogued on PulseMCP. Integrates with Alibaba Cloud services to manage ECS instances, OSS storage buckets, OOS automation workflows, and CloudMonitor metrics with enhanced timeout handling and error recovery mechanisms.

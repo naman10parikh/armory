@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T23:29:32Z"
 ---
 ## What it is
 The secret vault coding agents use - store, rotate, and share credentials via CLI or MCP. Claim tokens let one agent hand a secret to another, one-time and scoped, even across tenants; every access is AES-256-GCM encrypted and audit-logged.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-19T07:25:19Z"
 ---
 ## What it is
 MCP server `Binance`, catalogued on PulseMCP. Provides cryptocurrency market data from Binance including real-time prices, 24-hour statistics, candlestick data, technical indicators, and order book depth

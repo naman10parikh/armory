@@ -8,10 +8,12 @@ source_url: https://github.com/portertech/filesystem-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-15T07:52:12Z"
 ---
 ## What it is
 MCP server `Filesystem`, catalogued on PulseMCP. Secure filesystem operations with sandboxed directory access, atomic writes, and path traversal protection.

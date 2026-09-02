@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-21T13:39:01Z"
 ---
 ## What it is
 MCP server `Element Selector`, catalogued on PulseMCP. Chrome extension that enables developers to interactively select, capture, and store web page DOM elements with their HTML structure, computed styles, and screenshots for design analysis and debugging.

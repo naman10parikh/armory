@@ -8,11 +8,13 @@ source_url: https://github.com/street1983nk/infranode
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T13:21:43Z"
 ---
 ## What it is
 Keyless remote MCP server for German public-infrastructure open data: weather, air quality, traffic, public transit, parking and roadworks across 84+ German cities (DWD, Umweltbundesamt, Mobilithek, GovData). 38 read-only tools.

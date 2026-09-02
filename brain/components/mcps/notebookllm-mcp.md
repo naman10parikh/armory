@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-18T17:17:58Z"
 ---
 ## What it is
 Converts Jupyter notebooks to a simplified plain text format to reduce token usage for LLMs, and can convert back. Enables loading, editing, and saving notebooks via MCP tools.

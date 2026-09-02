@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:28:15Z"
 ---
 ## What it is
 Enables normalization of musical piece and composer names by searching the Pitina Piano Piece Encyclopedia, returning official titles, composer names, opus numbers, and performance times.

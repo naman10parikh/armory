@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T13:07:57Z"
 ---
 ## What it is
 Offline MCP server with runbooks for high-volume logs, metrics, traces, and event streams. Search and diagnose symptoms without external dependencies.

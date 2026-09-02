@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 27
+forks: 12
+pushed_at: "2025-04-15T07:38:42Z"
 ---
 ## What it is
 Bitget API to fetch cryptocurrency price.

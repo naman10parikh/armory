@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T02:56:24Z"
 ---
 ## What it is
 MCP server for personal finance management that connects a SQLite database to any MCP client, allowing users to register, query, and analyze financial transactions through natural language.

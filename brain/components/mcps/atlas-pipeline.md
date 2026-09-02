@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-28T10:11:17Z"
 ---
 ## What it is
 MCP server `Atlas Pipeline`, catalogued on PulseMCP. AI development pipeline providing code analysis, refactoring, security scanning, and optimization tools.

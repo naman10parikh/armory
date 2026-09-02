@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-16T20:25:06Z"
 ---
 ## What it is
 Enables LLMs to retrieve Israeli weather forecasts by controlling a browser via Playwright and scraping data from an Israeli weather website.

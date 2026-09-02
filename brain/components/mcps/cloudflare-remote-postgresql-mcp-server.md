@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T21:23:05Z"
 ---
 ## What it is
 Enables natural language interaction with PostgreSQL databases through MCP tools, with GitHub OAuth authentication and role-based access control.

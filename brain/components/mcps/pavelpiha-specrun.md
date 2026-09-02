@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-27T07:10:13Z"
 ---
 ## What it is
 MCP server `SpecRun`, catalogued on PulseMCP. Converts OpenAPI specifications into callable tools for querying API endpoints.

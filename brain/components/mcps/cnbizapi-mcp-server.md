@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T13:28:15Z"
 ---
 ## What it is
 Enables AI agents to query detailed information on 77M+ Chinese companies, including basic data, shareholders, legal risks, and more, through a pay-per-query MCP server.

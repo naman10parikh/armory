@@ -8,10 +8,12 @@ source_url: https://github.com/dshein-alt/crawly-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T07:27:52Z"
 ---
 ## What it is
 MCP server `Crawly`, catalogued on PulseMCP. Browser-backed web search and content retrieval using Playwright, supporting DuckDuckGo, Google, and Yandex with SSRF protection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T06:10:23Z"
 ---
 ## What it is
 An MCP server that works with Mobbin — 600k+ real app screens and flows from 1,100+ apps. Search screens, browse flows, grab palettes, build better UI without leaving Claude.

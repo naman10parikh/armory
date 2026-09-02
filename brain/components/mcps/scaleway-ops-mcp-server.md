@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T05:55:02Z"
 ---
 ## What it is
 Enables management of Scaleway IAM (applications, API keys, policies, permission sets) and Object Storage bucket policies through an MCP server.

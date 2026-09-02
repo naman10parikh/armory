@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T09:54:30Z"
 ---
 ## What it is
 Connects Claude to SAP's public S/4HANA Cloud sandbox via MCP, enabling natural-language queries against real SAP OData structures like sales and purchase orders.

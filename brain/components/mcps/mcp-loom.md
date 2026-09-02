@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T23:53:25Z"
 ---
 ## What it is
 An MCP proxy server that intercepts large tabular tool results, ingests them into an embedded DuckDB, and provides a compact envelope with schema and query capabilities, enabling efficient cross-server data analysis.

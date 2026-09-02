@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T13:25:45Z"
 ---
 ## What it is
 An MCP server that wraps the Universal Commerce Protocol (UCP) Discovery and Catalog capabilities, letting you search and compare products across UCP merchants directly from Claude.

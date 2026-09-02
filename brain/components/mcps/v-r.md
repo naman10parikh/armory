@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-30T19:16:19Z"
 ---
 ## What it is
 Provides LLM-friendly weather tools and Norwegian place name resolution via MCP, enabling weather forecasts, air quality, marine conditions, and activity planning.

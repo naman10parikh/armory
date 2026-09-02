@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T02:41:57Z"
 ---
 ## What it is
 Hardened MCP server providing controlled access to PowerShell, CMD, Git Bash, and SSH from MCP clients like Claude Desktop.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T10:11:14Z"
 ---
 ## What it is
 Let AI agents create interactive visualizations that render live inside your chat — no code required.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T03:16:47Z"
 ---
 ## What it is
 An MCP server that scores the credit health of public energy companies using public data, providing a 0-100 score and factor breakdown. Enables agents to assess financial soundness of utilities, generators, and energy marketers.

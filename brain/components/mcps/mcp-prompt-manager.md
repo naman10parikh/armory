@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-12-15T08:21:52Z"
 ---
 ## What it is
 Enables AI models like Claude to manage local prompt files with CRUD operations, fuzzy search, categorization, templates, version control, and favorites.

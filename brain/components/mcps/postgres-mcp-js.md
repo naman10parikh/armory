@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T07:09:48Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for PostgreSQL that provides safe, structured access to your database for AI assistants, enabling health checks, index tuning, lock analysis, and more.

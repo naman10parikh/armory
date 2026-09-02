@@ -8,10 +8,12 @@ source_url: https://github.com/jhuntinfosec/mcp-opencti
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-07T18:25:39Z"
 ---
 ## What it is
 MCP server `OpenCTI`, catalogued on PulseMCP. Connects to OpenCTI threat intelligence platforms with specialized tools for querying malware, threat actors, attack patterns, vulnerabilities, and campaigns, enabling sector-based threat analysis and relationship traversal between STIX entities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-23T13:46:26Z"
 ---
 ## What it is
 Enables AI agents to search foods, get nutritional breakdowns, and estimate exercise calories using the Nutritionix API through natural language input.

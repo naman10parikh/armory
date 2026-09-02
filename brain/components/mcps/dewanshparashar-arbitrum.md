@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-21T13:30:22Z"
 ---
 ## What it is
 MCP server `Arbitrum`, catalogued on PulseMCP. Provides natural language access to Arbitrum blockchain networks including core chains and Orbit chains, enabling batch posting monitoring, assertion tracking, gas price analysis, node health checks, transaction tracing, and account operations for developers building applications that require real-time visibility into sequencer performance and validator operations.

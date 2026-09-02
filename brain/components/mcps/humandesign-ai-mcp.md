@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T08:54:05Z"
 ---
 ## What it is
 Enables AI assistants to generate and render individual and composite Human Design charts, explore authorized chart and library data, and manage account usage and Website Builder projects with secure OAuth and entitlement filtering.

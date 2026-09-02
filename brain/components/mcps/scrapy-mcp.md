@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T05:04:54Z"
 ---
 ## What it is
 A headless web-scraping MCP server built on Scrapy, providing tools for polite fetching, CSS/XPath extraction, link/table extraction, sitemap and robots.txt reading, and bounded asynchronous crawls.

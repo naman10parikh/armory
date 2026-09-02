@@ -8,10 +8,12 @@ source_url: https://github.com/whdrnr2583-cmd/koreanpulse
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-26T13:22:34Z"
 ---
 ## What it is
 MCP server `KoreanPulse`, catalogued on PulseMCP. Korean equity intelligence with DART filings, activist disclosures, and KRX news in English.

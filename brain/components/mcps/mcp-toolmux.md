@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T06:23:31Z"
 ---
 ## What it is
 Proxy-style MCP tool multiplexer that aggregates multiple downstream stdio MCP servers into one, offering meta-tools for status, search, call, parallel, batch, and pipeline operations with concurrency control and caching.

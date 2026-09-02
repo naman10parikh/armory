@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-08T02:23:03Z"
 ---
 ## What it is
 Enables AI agents to manage Hotmart products, sales, and other operations through a standardized Model Context Protocol interface, integrating with Claude and other LLMs.

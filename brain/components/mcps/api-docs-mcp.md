@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T06:58:22Z"
 ---
 ## What it is
 An MCP server that gives AI coding assistants access to up-to-date API documentation via RAG by crawling documentation sites, indexing them into a vector store, and enabling semantic queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-24T11:13:50Z"
 ---
 ## What it is
 Enables document-driven development by automatically detecting Markdown spec changes, generating implementation plans, and syncing code and tests through MCP tools.

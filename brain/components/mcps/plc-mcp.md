@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:08:09Z"
 ---
 ## What it is
 An MCP server that connects a local LLM to an industrial PLC via Modbus TCP, enabling process reading, alarm correlation, and safe diagnosis with restricted write access through an allowlist. Includes a simulated PLC with real physics for local testing.

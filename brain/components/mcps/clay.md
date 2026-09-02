@@ -8,10 +8,12 @@ source_url: https://github.com/clay-inc/clay-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-07-17T13:59:49Z"
 ---
 ## What it is
 MCP server `Clay`, catalogued on PulseMCP. Provides a bridge to Clay's personal CRM platform for searching, retrieving, and managing contact information, interactions, and professional relationships through natural language queries.

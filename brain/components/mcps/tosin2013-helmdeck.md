@@ -8,10 +8,12 @@ source_url: https://github.com/tosin2013/helmdeck
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-24T09:19:07Z"
 ---
 ## What it is
 MCP server `HelmDeck`, catalogued on PulseMCP. Self-hosted AI agent platform with native MCP support for open-weight local language models.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T21:36:29Z"
 ---
 ## What it is
 A configuration-driven framework for building MCP servers that expose domain-oriented tools (e.g., get_customer, get_database_sizes) instead of generic SQL interfaces, by loading tool metadata and SQL queries from declarative packs.

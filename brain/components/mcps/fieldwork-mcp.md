@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T18:14:21Z"
 ---
 ## What it is
 Enables pest control business owners using Fieldwork to ask plain-English questions about customers, invoices, product usage, schedules, and technicians, returning clear answers from the Fieldwork API. Read-only access with no ability to modify jobs, customers, or payments.

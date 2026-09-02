@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T00:15:51Z"
 ---
 ## What it is
 Verifies contractor license status mid-task, returning normalized JSON with active/expired/suspended/revoked status, bond details, and insurance for WA (reliable) and CA (beta) jurisdictions.

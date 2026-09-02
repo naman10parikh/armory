@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T18:15:10Z"
 ---
 ## What it is
 Enables AI agents to discover and query live model information from OpenRouter, HuggingFace, and Ollama Cloud, ensuring recommendations are based on current data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T09:04:54Z"
 ---
 ## What it is
 Provides lightweight documentation review tools including issue detection, readability scoring, style checking, and document summarization for integration with MCP-compatible clients.

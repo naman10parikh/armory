@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T13:45:26Z"
 ---
 ## What it is
 Provides MCP tools to create and query SigNoz trace funnels, enabling agents to measure their own step conversion rates from within the agent loop.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T19:40:10Z"
 ---
 ## What it is
 A comprehensive OpenCV image-processing MCP server offering ~40 tools for webcam capture, image I/O, transforms, color manipulation, filtering, edge detection, object detection, and more.

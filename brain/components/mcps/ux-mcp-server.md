@@ -8,11 +8,13 @@ source_url: https://github.com/elsahafy/ux-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-01T21:35:54Z"
 ---
 ## What it is
 An MCP server that provides comprehensive UX best practices covering accessibility, usability, UI patterns, design systems, performance, and more, enabling clients to analyze and generate UX-optimized code and recommendations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T23:32:31Z"
 ---
 ## What it is
 A privacy-first MCP server for locally managing job, fellowship, and graduate-school applications. It offers tools for tracking application status, analyzing role fit, generating LaTeX CV/cover letters, interview prep, and discovering public jobs from ATS APIs.

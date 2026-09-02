@@ -8,11 +8,13 @@ source_url: https://github.com/Cloud-Temple/live-memory
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-29T10:45:47Z"
 ---
 ## What it is
 MCP server providing shared working memory for collaborative AI agents, with real-time notes and LLM-consolidated structured memory bank.

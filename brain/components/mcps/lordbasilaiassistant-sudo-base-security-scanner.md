@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-07T16:31:15Z"
 ---
 ## What it is
 MCP server `Base Security Scanner`, catalogued on PulseMCP. Scans smart contracts on Base for honeypots, rug pulls, hidden mints, and proxy patterns with read-only bytecode analysis.

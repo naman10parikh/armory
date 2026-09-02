@@ -8,10 +8,12 @@ source_url: https://github.com/nguyenvanduocit/jira-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 89
+stars: 97
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-04-18T10:47:29Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Integrates with the Jira API to enable searching, creating, updating, and transitioning issues through conversational interactions, streamlining project management workflows.

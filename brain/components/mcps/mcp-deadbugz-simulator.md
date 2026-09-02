@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:00:55Z"
 ---
 ## What it is
 Simulates the Deadbugz MCP supply-chain attack for educational and research purposes, demonstrating a 3-call gate evasion where tool descriptions mutate to steal credentials.

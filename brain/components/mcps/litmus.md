@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T22:20:09Z"
 ---
 ## What it is
 An MCP server that lets an AI agent backtest, risk-check, and audit trading strategies, determining if a strategy is overfit or actually works.

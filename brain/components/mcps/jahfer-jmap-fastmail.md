@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-06T10:59:10Z"
 ---
 ## What it is
 MCP server `JMAP (Fastmail)`, catalogued on PulseMCP. Connects to Fastmail servers via JMAP protocol to enable email reading, searching with advanced filters, and content retrieval for conversational email management.

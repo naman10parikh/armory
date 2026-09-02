@@ -8,11 +8,13 @@ source_url: https://github.com/andykair55-byte/baidunetdisk-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T15:13:30Z"
 ---
 ## What it is
 Enables intelligent organization and retrieval of Baidu Netdisk files through semantic scanning, event clustering, and structured queries. Adds safety with protected moves, undo history, and customizable profiles, building on the official Baidu Netdisk MCP data layer.

@@ -8,10 +8,12 @@ source_url: https://github.com/shy2593666979/mcp-server-email
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 77
+stars: 80
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-04-27T14:25:02Z"
 ---
 ## What it is
 MCP server `Email Sender`, catalogued on PulseMCP. Enables language models to compose and send emails with attachments through SMTP servers, supporting multiple providers and secure transmission for automated email workflows.

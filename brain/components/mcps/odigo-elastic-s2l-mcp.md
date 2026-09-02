@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T08:23:14Z"
 ---
 ## What it is
 Connects LLMs to Elasticsearch with a Semantic-to-Lexical layer that translates technical field names into business knowledge, enabling autonomous querying without hardcoded domain logic.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T16:32:54Z"
 ---
 ## What it is
 MCP server `HEU Legal`, catalogued on PulseMCP. Manages HEU Legal e-signature documents, prompts signers, and downloads signed PDFs via API.

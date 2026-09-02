@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T15:09:23Z"
 ---
 ## What it is
 A content-blind MCP server for RPG Maker MZ that enables applying, validating, diffing, and managing event structures from EventSpec files without accessing sensitive story text or images.

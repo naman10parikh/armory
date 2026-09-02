@@ -8,10 +8,12 @@ source_url: https://github.com/shinzo-labs/coinmarketcap-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-11-25T09:51:49Z"
 ---
 ## What it is
 MCP server `CoinMarketCap`, catalogued on PulseMCP. Integrates with CoinMarketCap API to provide tiered access to cryptocurrency market data, exchange information, and blockchain metrics for financial analysis and crypto-related applications.

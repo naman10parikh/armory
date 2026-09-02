@@ -8,10 +8,12 @@ source_url: https://github.com/family-it-guy/perplexity-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-28T19:27:47Z"
 ---
 ## What it is
 MCP server `Perplexity AI`, catalogued on PulseMCP. Connects Claude Desktop to Perplexity AI's language models through a lightweight proxy, offering web search capabilities with llama-3.1-sonar-small-128k-online and multi-turn conversations with mixtral-8x7b-instruct.

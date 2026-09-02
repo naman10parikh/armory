@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T08:51:52Z"
 ---
 ## What it is
 Generates professional client proposals including timeline, tech stack, price estimate, and milestone breakdown from client requirements.

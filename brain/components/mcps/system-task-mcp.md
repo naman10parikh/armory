@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T13:32:19Z"
 ---
 ## What it is
 Enables Claude to interact with System Task projects, teams, and tasks, providing daily briefs, project reports, team load, and risk identification, as well as creating and updating tasks and demands.

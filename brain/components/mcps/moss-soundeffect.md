@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T23:18:42Z"
 ---
 ## What it is
 Exposes text-to-audio sound effect generation as an MCP tool, allowing clients like Claude Desktop to generate sound effects locally using a diffusion model, with support for AMD ROCm and Apple Silicon.

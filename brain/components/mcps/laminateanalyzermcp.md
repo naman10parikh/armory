@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T05:14:10Z"
 ---
 ## What it is
 Computes neutral surface, ABD stiffness, and evaluation metrics for laminated composites, allowing LLM agents to perform deterministic laminate analysis without direct calculation.

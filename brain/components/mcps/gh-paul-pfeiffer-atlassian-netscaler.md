@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-15T17:50:38Z"
 ---
 ## What it is
 MCP server `Atlassian NetScaler`, catalogued on PulseMCP. Jira and Confluence access for instances protected by Citrix NetScaler SSO, with automated browser-based authentication.

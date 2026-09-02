@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:35:16Z"
 ---
 ## What it is
 A read-only MCP server for investigating Amazon OpenSearch Service domains using natural language, with tools for cluster health, index management, search, and diagnostics, secured by allowed profiles and regions.

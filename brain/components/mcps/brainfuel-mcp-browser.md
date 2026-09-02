@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-24T06:29:01Z"
 ---
 ## What it is
 MCP server `MCP Browser`, catalogued on PulseMCP. Native macOS browser that exposes a local MCP server for AI agents to drive a WKWebView.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T06:47:13Z"
 ---
 ## What it is
 An MCP server that provides AI-powered, governed access to Microsoft Fabric data assets with 16 tools for querying, schema discovery, knowledge retrieval, and export.

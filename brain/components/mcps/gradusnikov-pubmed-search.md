@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-06T21:27:51Z"
 ---
 ## What it is
 MCP server `PubMed Search`, catalogued on PulseMCP. Integrates with PubMed database via NCBI E-utilities API to search and retrieve academic papers, including titles, authors, journals, abstracts, and DOIs for biomedical research.

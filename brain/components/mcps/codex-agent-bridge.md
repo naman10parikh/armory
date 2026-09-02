@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T08:14:57Z"
 ---
 ## What it is
 MCP server that lets Codex supervise Claude Code or DeepSeek Harness as workers in isolated Git worktrees, with a bridge_run/bridge_respond/bridge_apply workflow for task delegation and safe cherry-pick integration.

@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2024-12-24T15:50:04Z"
 ---
 ## What it is
 MCP server `OpenHue`, catalogued on PulseMCP. Integrates with Philips Hue smart lighting systems to enable automated control of light states, scenes, and schedules for complex home automation scenarios.

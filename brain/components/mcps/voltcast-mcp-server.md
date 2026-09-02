@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T20:16:56Z"
 ---
 ## What it is
 Enables access to European electricity data including day-ahead prices, probabilistic forecasts, carbon intensity, and cheapest-window optimization for 43 bidding zones.

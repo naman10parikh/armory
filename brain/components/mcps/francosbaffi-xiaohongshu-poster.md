@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-07T01:44:49Z"
 ---
 ## What it is
 MCP server `Xiaohongshu Poster`, catalogued on PulseMCP. Automates Xiaohongshu (RedNote) photo note publishing using Playwright browser automation with session persistence and human-like typing.

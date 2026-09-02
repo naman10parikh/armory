@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T09:35:15Z"
 ---
 ## What it is
 Gives an agent a real browser. Turns any url into clean markdown, takes a screenshot of a url, and converts a url or raw html to pdf. It runs javascript, so it works on pages that a plain fetch returns empty. Respects robots.txt and refuses sites that block automation instead of trying to defeat the

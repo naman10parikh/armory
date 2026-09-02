@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-07T19:22:09Z"
 ---
 ## What it is
 MCP server `Image Edit RMCP`, catalogued on PulseMCP. Rust-based image editing server integrating with ModelScope APIs for cropping, rotation, OCR, object detection, and image generation.

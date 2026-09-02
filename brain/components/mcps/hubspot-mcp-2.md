@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T21:57:37Z"
 ---
 ## What it is
 A read-only MCP server that exposes HubSpot CRM data (contacts, deals, companies, quotes) to AI agents, enabling natural language queries.

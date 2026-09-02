@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-02T09:19:52Z"
 ---
 ## What it is
 Provides seamless access to 32 Acceleronix PaaS OpenAPIs for device management, data storage, and more, with intelligent tool management and Bearer token authentication.

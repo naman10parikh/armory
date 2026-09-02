@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-23T16:47:51Z"
 ---
 ## What it is
 Enables managing AI personas, avatars, voices, and sessions from any MCP client, for integration with Anam AI.

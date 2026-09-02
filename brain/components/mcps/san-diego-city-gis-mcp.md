@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T16:47:52Z"
 ---
 ## What it is
 Enables querying and spatial analysis of City of San Diego GIS layers (zoning, habitats, land use, etc.) via ArcGIS REST services, with tools for search, metadata, and spatial queries.

@@ -8,10 +8,12 @@ source_url: https://github.com/amgadabdelhafez/dbx-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-07-16T06:21:08Z"
 ---
 ## What it is
 MCP server `Dropbox`, catalogued on PulseMCP. Integrates with Dropbox to enable file management operations like listing, uploading, downloading, and sharing files for cloud storage workflows.

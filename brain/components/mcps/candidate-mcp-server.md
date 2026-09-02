@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-06-10T04:38:56Z"
 ---
 ## What it is
 Enables LLMs to access candidate information including resume, LinkedIn, GitHub, and contact via email.

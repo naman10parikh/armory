@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T03:07:57Z"
 ---
 ## What it is
 A standalone MCP server for Ubersuggest that runs entirely locally using SQLite and Playwright, providing tools to query subscription status, projects, domain overview, keyword research, site audit, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T11:41:27Z"
 ---
 ## What it is
 Enables AI agents to inspect and control a live Chromium browser for frontend debugging, providing console logs, network requests, DOM snapshots, and accessibility analysis.

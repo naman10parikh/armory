@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-30T21:40:48Z"
 ---
 ## What it is
 MCP server `MongoDB Read-Only`, catalogued on PulseMCP. Provides secure read-only access to MongoDB databases with support for Kubernetes deployments and direct connections.

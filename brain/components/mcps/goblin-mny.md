@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T07:04:10Z"
 ---
 ## What it is
 A local MCP server that syncs New Zealand bank accounts from Akahu into a local SQLite cache, offering tools for transaction search, spending summaries, cashflow, recurring charges, and more for natural language money queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-05-09T16:32:49Z"
 ---
 ## What it is
 Enables Claude to interact with Things 3 task management, allowing natural language task creation, project analysis, and GTD workflow automation.

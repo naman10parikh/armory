@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T05:06:40Z"
 ---
 ## What it is
 A MCP server that queries financial website tables using Playwright, enabling automated data retrieval from sources like Tonghuashun and East Money, and exposing the results via MCP tools.

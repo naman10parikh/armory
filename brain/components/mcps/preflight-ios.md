@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-27T16:11:01Z"
 ---
 ## What it is
 MCP server `Preflight iOS`, catalogued on PulseMCP. 82-tool suite for AI-powered iOS Simulator automation — tap, swipe, type, screenshots, accessibility inspection, and more.

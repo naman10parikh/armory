@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 2
+forks: 1
+pushed_at: "2026-04-23T16:36:18Z"
 ---
 ## What it is
 Third-party certifying proxy — sign any HTTP call (AI agents, webhooks, microservices) with an independent Ed25519 signature, RFC 3161 timestamp, and Sigstore Rekor anchor. Works with Claude, GPT-4, Mistral, LangChain, AutoGen, or any HTTP client.

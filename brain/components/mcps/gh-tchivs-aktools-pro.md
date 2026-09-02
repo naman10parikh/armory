@@ -8,10 +8,12 @@ source_url: https://github.com/tchivs/aktools-pro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-02T11:27:44Z"
 ---
 ## What it is
 MCP server `AkTools Pro by tchivs`, catalogued on PulseMCP. Enhanced Chinese financial data server with strategy backtesting, simulated trading, and real-time market alerts.

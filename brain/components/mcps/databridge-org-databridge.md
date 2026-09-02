@@ -8,10 +8,12 @@ source_url: https://github.com/morphik-org/morphik-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-11-14T21:39:51Z"
 ---
 ## What it is
 MCP server `DataBridge`, catalogued on PulseMCP. Integrates with DataBridge to enable ingestion and retrieval of contextual information from a local database, supporting persistent storage for AI applications.

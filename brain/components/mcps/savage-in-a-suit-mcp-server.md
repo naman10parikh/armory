@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T17:37:38Z"
 ---
 ## What it is
 Enables Claude to directly manage the Savage in a Suit website through 31 tools for pages, events, members, testimonials, podcast episodes, and site content, with all changes logged.

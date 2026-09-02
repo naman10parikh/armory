@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T08:54:27Z"
 ---
 ## What it is
 Enables natural language interaction with computational chemistry tools including molecule building, electronic structure calculations, geometry optimization, vibrational spectroscopy, and molecular dynamics, powered by RDKit, PySCF, and ASE.

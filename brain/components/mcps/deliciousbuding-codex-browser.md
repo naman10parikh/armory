@@ -8,10 +8,12 @@ source_url: https://github.com/deliciousbuding/codex-browser-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-09-01T23:08:58Z"
 ---
 ## What it is
 MCP server `Codex Browser Bridge`, catalogued on PulseMCP. Bridges Claude Code and other MCP agents to Codex Desktop's Chrome extension for tab management, navigation, DOM inspection, and browser interaction on Windows.

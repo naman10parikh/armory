@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-01T16:15:34Z"
 ---
 ## What it is
 MCP server `Cortex XSIAM SDK`, catalogued on PulseMCP. Integrates with Cortex XSIAM SDK to provide command execution and semantic search over security automation content.

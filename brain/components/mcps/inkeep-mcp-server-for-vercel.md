@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-25T05:18:11Z"
 ---
 ## What it is
 Enables asking questions and performing semantic searches against an Inkeep knowledge base. Deployable to Vercel with Next.js.

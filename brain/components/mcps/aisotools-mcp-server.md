@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T05:35:55Z"
 ---
 ## What it is
 A hosted Model Context Protocol server that enables searching, retrieving, comparing, and finding alternatives for over 1,100 AI tools from the AISOTools catalog, with pricing, ratings, and source links.

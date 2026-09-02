@@ -8,10 +8,12 @@ source_url: https://github.com/corytodd/civ5-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-16T20:13:08Z"
 ---
 ## What it is
 MCP server `Civ5 Bridge`, catalogued on PulseMCP. Bridges Civilization V gameplay with real-time game state data export through a Lua mod and Python server, enabling strategic analysis of cities, units, technologies, diplomacy, and resources.

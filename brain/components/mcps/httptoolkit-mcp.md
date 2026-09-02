@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T07:50:14Z"
 ---
 ## What it is
 MCP server for intercepting and mocking HTTP(S) traffic via a Mockttp proxy, with tools for Android emulator setup, traffic inspection, protobuf analysis, and rule-based manipulation.

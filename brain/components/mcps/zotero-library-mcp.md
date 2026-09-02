@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-09T11:42:38Z"
 ---
 ## What it is
 An MCP server that lets AI assistants add papers and books to your Zotero library by DOI, arXiv ID, or ISBN, and manage your collections, tags, and items.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-27T00:21:19Z"
 ---
 ## What it is
 Wraps Unreal Editor as an MCP server, enabling AI agents to automate editor tasks through Python scripts.

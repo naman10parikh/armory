@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T19:05:35Z"
 ---
 ## What it is
 Provides real-time water temperature and tide predictions for any lake, river, ocean, bay, or beach using NOAA, USGS, and other sources.

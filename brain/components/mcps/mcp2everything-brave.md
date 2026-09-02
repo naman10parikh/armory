@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-11T01:55:55Z"
 ---
 ## What it is
 MCP server `Brave Browser`, catalogued on PulseMCP. Integrates with Brave browser to enable web automation tasks like opening tabs, navigating pages, and extracting content.

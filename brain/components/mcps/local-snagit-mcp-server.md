@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T18:16:45Z"
 ---
 ## What it is
 Lets GitHub Copilot record demo videos using locally installed TechSmith Snagit, capturing displays, windows, or regions to MP4 and controlling the recording flow through MCP tools.

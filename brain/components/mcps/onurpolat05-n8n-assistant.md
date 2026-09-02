@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-01T21:53:57Z"
 ---
 ## What it is
 MCP server `n8n Assistant`, catalogued on PulseMCP. Enables searching and retrieving n8n documentation, example workflows, and community forum content through a single tool that fetches relevant information with source URLs.

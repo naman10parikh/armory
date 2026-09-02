@@ -8,10 +8,12 @@ source_url: https://github.com/tencentedgeone/edgeone-pages-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 419
+stars: 433
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 60
+pushed_at: "2026-07-07T03:39:06Z"
 ---
 ## What it is
 MCP server `EdgeOne Pages`, catalogued on PulseMCP. Enables rapid deployment of HTML content to Tencent's EdgeOne Pages service with integrated Functions and KV store support for edge hosting

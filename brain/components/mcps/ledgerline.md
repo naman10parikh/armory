@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T09:24:56Z"
 ---
 ## What it is
 An MCP server that integrates with DataHub to track and score the reliability of AI agent actions. It provides a trust gateway that stamps every piece of context with its author's settled trust score.

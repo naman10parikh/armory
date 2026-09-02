@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:27:06Z"
 ---
 ## What it is
 A local-first personal knowledge daemon that syncs Gmail, Drive, and Calendar into a SQLite store for search and context retrieval via Claude Desktop over MCP.

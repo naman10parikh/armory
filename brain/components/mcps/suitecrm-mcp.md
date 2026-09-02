@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-25T21:22:50Z"
 ---
 ## What it is
 Open-source MCP gateway connecting AI agents like Claude Desktop and Claude Code to SuiteCRM. 24 CRM tools over SSE with OAuth2/OIDC auth, multi-entity support, ACL enforcement, and Prometheus/Grafana observability.

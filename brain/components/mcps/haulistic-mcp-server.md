@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T13:44:37Z"
 ---
 ## What it is
 Enables reading public product catalogs for a single Haulistic organization, with prompts for browsing, searching, and comparing products via MCP endpoints.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T05:31:20Z"
 ---
 ## What it is
 Enables analyzing Salesforce deployment logs, validating metadata manifests, assessing permission risks, and generating remediation plans through deterministic, local-only rules.

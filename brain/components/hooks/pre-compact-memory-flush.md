@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [stop-verify, session-start-context, four-layer-memory]
 tags: [hook, precompact, memory, handoff, persistence]
+forks: 0
+pushed_at: "2026-06-10T03:59:01Z"
 ---
 
 ## What it is

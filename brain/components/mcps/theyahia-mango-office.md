@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T16:38:18Z"
 ---
 ## What it is
 MCP server `Mango Office`, catalogued on PulseMCP. Integrates with Mango Office telephony API for call history and user management.

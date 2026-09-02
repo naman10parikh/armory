@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-22T15:43:34Z"
 ---
 ## What it is
 Live X (Twitter) and web search for any coding agent through your existing Grok subscription. Exposes a grok_search MCP tool, so no X API key or X developer account is needed.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:40:29Z"
 ---
 ## What it is
 Enables AI agents to explain regex patterns in plain English and statically assess ReDoS risk before shipping, without executing the pattern or requiring an API key.

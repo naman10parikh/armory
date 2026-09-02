@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T10:59:02Z"
 ---
 ## What it is
 Provides an AI agent with regulatory compliance tools for the French/European market based on the AI Act and GDPR, including system classification, obligation listing, deadline schedules, legal reference lookup, and GDPR crosschecks.

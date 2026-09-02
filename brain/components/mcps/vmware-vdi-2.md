@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T07:22:46Z"
 ---
 ## What it is
 MCP server for managing VMware Horizon VDI environments via the Horizon 8 REST API, enabling AI agents to monitor sessions, manage pools, and perform operations like logoff, reset, and image push with safety previews and audit logging.

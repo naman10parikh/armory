@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T07:25:21Z"
 ---
 ## What it is
 Exposes the official lark-cli as an MCP server, enabling agents to execute arbitrary CLI commands, query API schemas, and manage authentication.

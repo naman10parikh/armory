@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:09:18Z"
 ---
 ## What it is
 Read-only MCP connector for querying the Protheus (TOTVS) system, exposing 10 GET endpoints as MCP tools with OAuth2 authentication and friendly error handling.

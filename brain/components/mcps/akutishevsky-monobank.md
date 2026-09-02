@@ -8,10 +8,12 @@ source_url: https://github.com/akutishevsky/monobank-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-02T08:16:20Z"
 ---
 ## What it is
 MCP server `Monobank`, catalogued on PulseMCP. Access Monobank API for currency rates, client info, and account statements.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T15:52:01Z"
 ---
 ## What it is
 Enables AI agents to manage a fictional B2B workspace SaaS (Tessera) with tools for ticketing, invoicing, customer management, and trial extensions, featuring a human-in-the-loop confirm pattern for safety.

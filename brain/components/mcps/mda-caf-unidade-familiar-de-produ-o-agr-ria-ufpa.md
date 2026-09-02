@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:38Z"
 ---
 ## What it is
 MCP server for consulting official data on family farming production units (CAF) from the Brazilian MDA. Provides read-only access to official records via natural language.

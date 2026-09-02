@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:45:45Z"
 ---
 ## What it is
 Consulta o quadro societário de uma empresa e a participação societária dos sócios em outras empresas a partir do CNPJ, com acesso somente leitura.

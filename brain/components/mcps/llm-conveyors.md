@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T23:35:39Z"
 ---
 ## What it is
 MCP server `LLM Conveyors`, catalogued on PulseMCP. Connects to the LLM Conveyors platform for job hunting, B2B sales outreach, resume management, and ATS scoring with pay-per-action pricing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T13:16:37Z"
 ---
 ## What it is
 Local round table enabling multiple agents and a user to share topics, history, and requests with @agent, with persistent conversations and task management.

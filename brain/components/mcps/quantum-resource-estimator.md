@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T13:05:46Z"
 ---
 ## What it is
 Estimates physical quantum resources (qubit count, runtime) for quantum algorithms on fault-tolerant hardware through natural language queries.

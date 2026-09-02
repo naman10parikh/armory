@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T11:21:59Z"
 ---
 ## What it is
 A lightweight Garmin Model Context Protocol server with 12 curated endpoints for endurance athletes, enabling natural-language queries of activity, training, health, device, and goal data from Garmin Connect.

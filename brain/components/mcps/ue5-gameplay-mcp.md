@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:39:57Z"
 ---
 ## What it is
 Enables playing and observing a running Unreal Engine 5 game through virtual gamepad, keyboard, and mouse input, plus screen capture, log streaming, and UMG UI inspection and control.

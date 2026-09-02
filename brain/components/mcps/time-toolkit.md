@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T18:49:40Z"
 ---
 ## What it is
 Enables interaction with Time Messenger and Mattermost-compatible servers via their REST API, supporting reading, writing, and event streaming with configurable write policies for safety.

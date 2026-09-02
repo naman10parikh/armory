@@ -8,10 +8,12 @@ source_url: https://github.com/shariqriazz/vertex-ai-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 88
+stars: 87
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-08-11T20:54:46Z"
 ---
 ## What it is
 MCP server `Vertex AI Gemini`, catalogued on PulseMCP. Provides a bridge to Google Cloud's Vertex AI Gemini models with web search grounding, direct knowledge answering, and documentation-based responses through configurable tools and streaming support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T21:56:32Z"
 ---
 ## What it is
 Provides a curated technical glossary with search, lookup, and category listing tools, enabling AI assistants to answer tech concept questions via MCP.

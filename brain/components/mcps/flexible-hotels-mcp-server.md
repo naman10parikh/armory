@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T20:10:47Z"
 ---
 ## What it is
 Enables AI assistants to search hotel rooms by number of nights within a flexible date range, returning real prices and the cheapest deals with booking links. It also supports city resolution, hotel listing, and offer details for external booking completion.

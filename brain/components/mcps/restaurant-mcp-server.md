@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T03:56:14Z"
 ---
 ## What it is
 MCP server exposing restaurant tools including search by cuisine, price, rating, and open status, restaurant details, user preferences stored in Neon Postgres, and RAG knowledge search covering 50 mock restaurants across Scottsdale and Phoenix.

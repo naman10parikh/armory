@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:27:41Z"
 ---
 ## What it is
 Access Federal Election Commission campaign finance data through MCP tools. Enables querying OpenFEC data using natural language via ask_pipeworx or direct tool calls.

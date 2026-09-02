@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:58:20Z"
 ---
 ## What it is
 Enables AI agents to assess credit default risk, run what-if scenarios, and evaluate portfolios through natural language, backed by an explainable XGBoost model.

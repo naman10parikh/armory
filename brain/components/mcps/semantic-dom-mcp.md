@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T01:31:31Z"
 ---
 ## What it is
 Drives a real Chromium browser to extract a page's DOM into compact Semantic JSON with Playwright-native locators, enabling AI agents to generate consistent, accurate Playwright tests.

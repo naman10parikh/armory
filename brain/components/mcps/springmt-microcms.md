@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-19T01:52:34Z"
 ---
 ## What it is
 MCP server `MicroCMS`, catalogued on PulseMCP. Connects Claude to MicroCMS headless content management system, enabling direct content retrieval, creation, and management operations within conversations.

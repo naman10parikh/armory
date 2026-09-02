@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T16:24:09Z"
 ---
 ## What it is
 This server exposes a Microsoft Fabric Data Agent as a native MCP tool, allowing clients to query the agent for KPIs, financial data, and other quantified project intelligence via natural language.

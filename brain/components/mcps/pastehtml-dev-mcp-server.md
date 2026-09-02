@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-19T01:54:54Z"
 ---
 ## What it is
 Enables agents to publish and manage HTML/Markdown pastes, folders, and paste configuration via Model Context Protocol, with OAuth-based authentication and paste analytics.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-10T18:12:49Z"
 ---
 ## What it is
 MCP server `Home Assistant (jarahkon)`, catalogued on PulseMCP. Home Assistant smart home control with 66 tools covering devices, automations, scenes, climate, and energy management.

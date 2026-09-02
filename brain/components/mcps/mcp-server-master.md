@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-20T06:39:33Z"
 ---
 ## What it is
 This repository provides a template for creating MCP servers with Python, including installation instructions and tools for testing with the MCP Inspector.

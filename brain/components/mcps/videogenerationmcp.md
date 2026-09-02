@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T20:07:00Z"
 ---
 ## What it is
 An MCP server for video generation using Kling Omni and Seedance 2 via PiAPI, with ElevenLabs voiceovers and Hebrew BVAC lipsync, featuring local validation before API calls.

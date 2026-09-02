@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-11T16:41:19Z"
 ---
 ## What it is
 A starter template with ready-to-use tools for job searching (analyze descriptions, fetch posts, search jobs) and image processing (convert to black & white), featuring bearer token authentication for use with Puch AI.

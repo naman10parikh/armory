@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T04:09:31Z"
 ---
 ## What it is
 OpenSCAD wrapped as an MCP server. Render .scad with parameter overrides, run parametric sweeps, validate syntax, compute STL metrics. Curated by Archimedes Market with a verified Trust Report.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T11:34:21Z"
 ---
 ## What it is
 An MCP server that gives AI coding agents structured port intelligence — finding free ports, identifying port hogs, and killing zombie processes without leaving the chat.

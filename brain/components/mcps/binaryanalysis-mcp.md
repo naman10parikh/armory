@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-06T21:43:26Z"
 ---
 ## What it is
 Enables analysis of binary files (PE, ELF, Mach-O, COFF) by providing tools to retrieve info, headers, sections, imports, exports, libraries, security hardening, signatures, and COFF object file details.

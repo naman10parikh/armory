@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:33:57Z"
 ---
 ## What it is
 Provides a Caesar cipher encoding tool as a remote MCP server, enabling prompt agents to encode plaintext messages.

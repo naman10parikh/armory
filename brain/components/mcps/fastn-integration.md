@@ -8,10 +8,12 @@ source_url: https://github.com/fastnai/fastn-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-06-07T10:13:08Z"
 ---
 ## What it is
 MCP server `Fastn`, catalogued on PulseMCP. Dynamically registers and executes tools across multiple services, enabling seamless integration and real-time operations through a flexible, API-driven platform with robust logging and error handling.

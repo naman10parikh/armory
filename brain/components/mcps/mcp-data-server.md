@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-21T17:48:37Z"
 ---
 ## What it is
 An MCP server that connects AI agents to cloud-native geospatial data via STAC metadata and DuckDB with H3 spatial indexing, enabling zero-configuration SQL queries on terabyte-scale datasets over S3.

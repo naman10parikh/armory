@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T04:44:21Z"
 ---
 ## What it is
 MCP server for Japanese public transit journey planning with interactive map UI, enabling station search, route planning, and departure lookups via natural language.

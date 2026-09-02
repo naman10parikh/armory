@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T15:17:09Z"
 ---
 ## What it is
 Connects AI agents to 2,800+ APIs via x402 micropayments on Base, enabling automated API calls for $0.01 each without signup or API keys.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-30T16:40:48Z"
 ---
 ## What it is
 Minimal MCP server built with H3 v2 enabling tool registration, resource management, and streaming responses.

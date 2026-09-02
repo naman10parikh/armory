@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T07:39:51Z"
 ---
 ## What it is
 MCP server `Amazon Nova Reel`, catalogued on PulseMCP. Integrates with Amazon Nova Reel 1.1 through AWS Bedrock to generate videos from text prompts with configurable duration, frame rate, and dimensions, including job tracking, S3 storage, and detailed prompting guidelines for camera control and narrative structure.

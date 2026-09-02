@@ -8,10 +8,12 @@ source_url: https://github.com/laplaceyoung/ansys-aedt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-05-21T22:28:18Z"
 ---
 ## What it is
 MCP server `Ansys AEDT`, catalogued on PulseMCP. Controls Ansys Electronics Desktop electromagnetic simulation tools via Claude.

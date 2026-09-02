@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T20:16:39Z"
 ---
 ## What it is
 Analyzes startup ideas against 6 sources (GitHub, HN, npm, PyPI, Google, Reddit) with LLM-powered intent parsing to assess competition, demand, and gaps.

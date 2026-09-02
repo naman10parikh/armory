@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:40:56Z"
 ---
 ## What it is
 Sarpy County GIS — Sarpy County, Nebraska open geospatial data (ArcGIS).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:10:48Z"
 ---
 ## What it is
 Retrieves captured bug context and evidence for coding agents, enabling progressive disclosure of sessions, manifests, and window correlations to diagnose and fix issues.

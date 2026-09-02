@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T04:41:06Z"
 ---
 ## What it is
 MCP server `Margins`, catalogued on PulseMCP. Local MCP server for Claude to read, search, and propose edits to your Obsidian vault using your existing subscription.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T19:21:39Z"
 ---
 ## What it is
 MCP server `SiteHealth`, catalogued on PulseMCP. Full website health audit covering SSL, DNS, DMARC/SPF/DKIM, performance, uptime, and links.

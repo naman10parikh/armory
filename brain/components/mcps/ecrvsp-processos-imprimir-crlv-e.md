@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:06Z"
 ---
 ## What it is
 Enables querying the official Brazilian vehicle registration (CRLV-e) system with a single read-only tool. Works with any MCP client, featuring prepaid pay-per-use pricing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T01:35:23Z"
 ---
 ## What it is
 MCP server for Oracle Cloud Infrastructure Vault secrets, enabling secret retrieval, listing, creation, updates, deletion, and rotation with OCI authentication.

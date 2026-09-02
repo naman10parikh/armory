@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-07T06:20:33Z"
 ---
 ## What it is
 MCP server `Pop Pay`, catalogued on PulseMCP. Local MCP server for secure AI agent payments — prevents card leaks and hallucinated purchases with configurable guardrails.

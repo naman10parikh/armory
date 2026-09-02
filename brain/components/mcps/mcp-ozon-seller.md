@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-17T12:42:24Z"
 ---
 ## What it is
 MCP server for Ozon Seller API that enables AI clients to manage products, prices, stocks, orders, analytics, and finances on Ozon marketplace.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T16:04:28Z"
 ---
 ## What it is
 A Selenium-based MCP server that exposes browser automation tools for navigation, interaction, form filling, and assertions, enabling AI agents to control web browsers through natural language.

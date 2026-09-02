@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-07-02T18:57:37Z"
 ---
 ## What it is
 A pyRevit extension and Python server that enables AI clients to interact with a live Autodesk Revit session through tools for project info, view management, element operations, and schedule management.

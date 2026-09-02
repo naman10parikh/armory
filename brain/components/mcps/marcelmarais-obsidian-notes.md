@@ -8,10 +8,12 @@ source_url: https://github.com/marcelmarais/obsidian-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-05-10T12:05:29Z"
 ---
 ## What it is
 MCP server `Obsidian Notes`, catalogued on PulseMCP. Enables direct filesystem access to Obsidian vaults for retrieving file lists, reading content, managing todos, and creating or updating markdown files without requiring the Obsidian application to be running.

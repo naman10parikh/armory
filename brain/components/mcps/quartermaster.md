@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T17:10:22Z"
 ---
 ## What it is
 Offline, zero-dependency tool-router for MCP that funnels N tools down to a ranked shortlist for a natural-language query, so the model reads ~8 tools instead of 200.

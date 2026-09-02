@@ -8,10 +8,12 @@ source_url: https://github.com/msftnadavbh/azurepricingmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-06-23T17:44:15Z"
 ---
 ## What it is
 MCP server `Azure Pricing`, catalogued on PulseMCP. Integrates with Microsoft Azure's retail pricing API to provide real-time price searching, regional comparisons, cost estimation, SKU discovery, and intelligent service name matching with fuzzy matching capabilities for cloud cost optimization and budget planning.

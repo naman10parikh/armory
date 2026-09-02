@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T15:53:04Z"
 ---
 ## What it is
 Witness is an MCP server that integrates with Obsidian to allow AI assistants like Claude to read, write, and organize notes in your vault. It supports file operations, semantic search, and remote access via Cloudflare tunnels.

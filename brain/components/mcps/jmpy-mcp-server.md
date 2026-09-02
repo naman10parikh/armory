@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T01:06:21Z"
 ---
 ## What it is
 User can create short urls, edit short urls, get click analytics, generate qr codes and much more.

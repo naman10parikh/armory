@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-12T17:37:55Z"
 ---
 ## What it is
 A boilerplate MCP server built with Python and FastMCP, ready for deployment on Render, with example tools and logging.

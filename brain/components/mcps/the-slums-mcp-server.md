@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T07:52:54Z"
 ---
 ## What it is
 MCP server that lets AI agents manage an AzerothCore WoW server, providing tools for status checks, character/account lookups, account creation, announcements, GM commands, bans, and events.

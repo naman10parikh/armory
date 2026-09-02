@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T02:53:55Z"
 ---
 ## What it is
 MCP server `PowForge L402 Gate`, catalogued on PulseMCP. Combines Lightning Network L402 payments with Depth-of-Identity reputation scoring to gate MCP tool access, requiring callers to pay and prove identity before accessing protected tools.

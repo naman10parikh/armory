@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, embedded-system]
 stars: 48
+forks: 11
+pushed_at: "2026-08-15T11:31:03Z"
 ---
 ## What it is
 An MCP server for GNU Radio that enables LLMs to autonomously create and modify RF `.grc` flowcharts.

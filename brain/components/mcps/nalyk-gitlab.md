@@ -8,10 +8,12 @@ source_url: https://github.com/yoda-digital/mcp-gitlab-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-08-12T20:15:47Z"
 ---
 ## What it is
 MCP server `GitLab`, catalogued on PulseMCP. GitLab MCP Server provides robust integration with the GitLab API, enabling developers to interact with repositories, issues, merge requests, and project events through natural language commands via stdio and Server-Sent Events (SSE) transports.

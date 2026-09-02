@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T05:15:04Z"
 ---
 ## What it is
 Enables local AI agents to search, read, and manage a user's saved X likes and bookmarks, sync them from a local browser, and attach notes and tags.

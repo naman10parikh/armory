@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T21:42:39Z"
 ---
 ## What it is
 Enables interaction with SuperScalar Bitcoin Lightning channel factories, providing protocol overviews, savings estimations, and deep dives into components like invalidation trees and MuSig2.

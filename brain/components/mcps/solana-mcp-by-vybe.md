@@ -8,11 +8,13 @@ source_url: https://github.com/vybenetwork/solana-mcp-vybe
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1232
+stars: 1226
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 96
+pushed_at: "2026-08-24T18:00:23Z"
 ---
 ## What it is
 Enables browsing Solana schemas and making live Solana API calls through a public MCP server.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T19:29:16Z"
 ---
 ## What it is
 Define one master style once (lighting, mood, composition, colour) and generate unlimited matching images with different subjects. Hosted remote MCP at https://imag8.art/api/v1/mcp with tools imag8_generate_image, imag8_suggest_variations, imag8_get_account_status. Works with Claude, Cursor, ChatGPT

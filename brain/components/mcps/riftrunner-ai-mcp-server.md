@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:41:02Z"
 ---
 ## What it is
 Exposes Riftrunner AI's knowledge surface—models, pricing, FAQ, and links—to MCP-compatible clients. Read-only, zero-config, and requires no API keys.

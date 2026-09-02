@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T10:53:43Z"
 ---
 ## What it is
 An MCP server for designing, sculpting, optimizing, and shipping NetRadiant-custom levels for Urban Terror, exposing map editing, validation, rendering, and compilation through 47 tools and 5 resources.

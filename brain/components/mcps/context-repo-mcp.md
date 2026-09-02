@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T00:18:23Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to manage Context Repo prompts, documents, and collections with semantic search and progressive disclosure navigation.

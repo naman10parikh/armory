@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/crypto-rss-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-07-24T13:17:13Z"
 ---
 ## What it is
 MCP server `Crypto RSS`, catalogued on PulseMCP. Aggregates real-time cryptocurrency news from multiple RSS feeds with keyword filtering and Markdown formatting to help analyze market trends and sentiment.

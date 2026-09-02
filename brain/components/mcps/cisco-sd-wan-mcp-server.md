@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-23T06:37:43Z"
 ---
 ## What it is
 Enables natural language automation of Cisco SD-WAN vManage, including device management, template deployment, policy configuration, monitoring, and software upgrades.

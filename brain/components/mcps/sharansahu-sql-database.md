@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-15T09:09:29Z"
 ---
 ## What it is
 MCP server `SQL Database Assistant`, catalogued on PulseMCP. Provides intelligent SQL querying capabilities across SQLite, MySQL, and Oracle databases with schema introspection, text matching with Unicode normalization, and cross-database compatibility for natural language database interactions.

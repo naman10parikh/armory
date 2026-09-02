@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T12:06:19Z"
 ---
 ## What it is
 Provides filesystem, web search, SQLite, and system tools for AI assistants like Claude, enabling secure access to local resources and the web.

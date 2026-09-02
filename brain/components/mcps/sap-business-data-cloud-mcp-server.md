@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-05-02T13:54:43Z"
 ---
 ## What it is
 Enables AI assistants to manage SAP Business Data Cloud operations including data shares, Delta Sharing, and data product publishing through an MCP interface.

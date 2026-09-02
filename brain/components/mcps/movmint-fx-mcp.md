@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T20:01:35Z"
 ---
 ## What it is
 Exposes two tools (get_fx_quote, capture_fx_quote) that LLM clients can call to get live FX rates and execute trades.

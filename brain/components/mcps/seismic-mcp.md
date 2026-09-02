@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T00:04:36Z"
 ---
 ## What it is
 A unified MCP server that queries 20 seismic agencies in parallel, reconciles cross-agency earthquake reports, and surfaces discrepancies for AI agents.

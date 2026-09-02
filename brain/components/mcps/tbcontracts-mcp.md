@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T23:15:52Z"
 ---
 ## What it is
 MCP server for priority-weighted token budget management in multi-agent LLM systems, enabling dynamic reallocation of unused tokens between agents based on priority and current spend.

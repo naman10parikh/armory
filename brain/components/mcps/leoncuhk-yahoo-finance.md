@@ -8,10 +8,12 @@ source_url: https://github.com/leoncuhk/mcp-yahoo-finance
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-28T02:10:03Z"
 ---
 ## What it is
 MCP server `Yahoo Finance`, catalogued on PulseMCP. Provides real-time financial data and visualization tools through Yahoo Finance API for stock prices, company information, and market analysis with interactive charts and dashboards.

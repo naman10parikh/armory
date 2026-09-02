@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T13:46:52Z"
 ---
 ## What it is
 Cited Q&A and drift detection over your own markdown notes: answers cite exact passages, cited passages are hashed at citation time, and a scheduled verify flags when a source changed under a conclusion already drawn from it. Local-first, zero runtime dependencies (node:sqlite); tools: chamber_ask, 

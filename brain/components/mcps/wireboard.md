@@ -8,10 +8,12 @@ source_url: https://github.com/wireboard/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-27T19:00:30Z"
 ---
 ## What it is
 MCP server `WireBoard`, catalogued on PulseMCP. Official WireBoard MCP server for querying real-time and historical website analytics data.

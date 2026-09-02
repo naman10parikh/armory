@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:00Z"
 ---
 ## What it is
 Enables querying SEFAZ's centralized taxpayer registration (CCC) from the official source via a read-only tool. Pay-per-use with prepaid credits.

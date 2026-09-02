@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T20:21:28Z"
 ---
 ## What it is
 Provides a selective persistent memory layer for AI companions, enabling structured recall, reinforcement, and time-decayed retrieval through an MCP interface.

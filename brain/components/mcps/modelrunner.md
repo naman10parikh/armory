@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T14:39:12Z"
 ---
 ## What it is
 ModelRunner is a hosted remote MCP server that lets AI assistants run 100+ AI models. One connection exposes every model as a callable tool: search the catalog, inspect a model's input schema, run inference with run_model, and get results back as hosted URLs directly in the conversation.

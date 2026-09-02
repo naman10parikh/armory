@@ -13,7 +13,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [hook]
-stars: 43
+stars: 45
+forks: 1
+pushed_at: "2026-07-28T05:52:32Z"
 ---
 ## What it is
 A community hook by Dmytro Onypko, catalogued in awesome-claude-code. Prompt injection scanner for Claude Code hooks. Scans tool inputs and outputs for injection attacks, secrets, and data exfiltration attempts. [NOTE: Early development phase but worth a look.]

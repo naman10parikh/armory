@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T21:16:48Z"
 ---
 ## What it is
 A Model Context Protocol server for Zoho Site24x7 that uses a JavaScript sandbox to execute API calls, enabling management of monitors, accounts, and MSP/BU tenancy through natural language.

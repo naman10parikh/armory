@@ -8,11 +8,13 @@ source_url: https://github.com/wisflux/docmost-local-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-12T03:03:11Z"
 ---
 ## What it is
 Built in rust, feature complete MCP server for self-hosted Docmost (Community Edition) — read & write your wiki from Claude, Cursor & VS

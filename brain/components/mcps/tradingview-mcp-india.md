@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T19:52:38Z"
 ---
 ## What it is
 Enables Indian stock-market (NSE/BSE) analysis via TradingView data, including top gainers, technical analysis, and backtesting tools.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 9
+forks: 0
+pushed_at: "2026-04-19T15:36:43Z"
 ---
 ## What it is
 Shared research cache across AI agents. Hit → instant answer from verified sources. Miss → your research saves the next dev's tokens. `npx wellread`, free.

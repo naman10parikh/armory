@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:11:29Z"
 ---
 ## What it is
 Provides structured access to Swedish national budget data, including allocations, tax revenue, and fiscal data. Enables queries on budget overviews, expenditure areas, revenue timeseries, and voting results via MCP tools.

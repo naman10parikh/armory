@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T12:24:59Z"
 ---
 ## What it is
 Enables secure task CRUD operations on SQLite or MySQL databases with input validation, parameterized queries, audit events, transactions, and signed delete confirmation.

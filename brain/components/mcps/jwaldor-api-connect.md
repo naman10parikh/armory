@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2024-12-13T20:33:36Z"
 ---
 ## What it is
 MCP server `REST APIs`, catalogued on PulseMCP. Integrates any REST API by dynamically connecting to APIs using provided documentation and keys, enabling rapid prototyping of applications with real-time external data.

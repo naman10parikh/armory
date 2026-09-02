@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-29T06:37:29Z"
 ---
 ## What it is
 Provides JavaScript reverse engineering capabilities including static analysis, dynamic execution, and bypassing anti-bot protections like Cloudflare 5-second challenge.

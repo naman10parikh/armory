@@ -8,10 +8,12 @@ source_url: https://github.com/symgraph/binassistmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-31T18:11:20Z"
 ---
 ## What it is
 MCP server `BinAssist (Binary Ninja)`, catalogued on PulseMCP. Integrates with Binary Ninja to expose decompilation, IL analysis, symbol management, type system manipulation, and cross-reference analysis tools for reverse engineering workflows including vulnerability research, code understanding, and automated documentation generation.

@@ -8,10 +8,12 @@ source_url: https://github.com/mirno-ehf/ue5-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-05-27T10:09:57Z"
 ---
 ## What it is
 MCP server `Unreal Engine 5 Blueprint`, catalogued on PulseMCP. Enables AI-assisted Unreal Engine 5 Blueprint development through tools for node management, connection handling, variable operations, and flow control within Blueprint visual scripting graphs.

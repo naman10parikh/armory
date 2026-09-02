@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-07T03:56:23Z"
 ---
 ## What it is
 Enables querying over 3,200 Dutch statutes (AVG, Wetboek van Strafrecht, Burgerlijk Wetboek, etc.) with verbatim, citation-grounded text from official sources, directly from MCP-compatible AI assistants.

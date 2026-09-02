@@ -8,10 +8,12 @@ source_url: https://github.com/open-and-sustainable/alembica
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-19T06:51:15Z"
 ---
 ## What it is
 MCP server `Alembica`, catalogued on PulseMCP. Validation, extraction, cost estimation, and schema queries for the Alembica framework.

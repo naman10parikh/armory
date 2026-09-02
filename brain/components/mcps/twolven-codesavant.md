@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-15T19:45:30Z"
 ---
 ## What it is
 MCP server `CodeSavant Coding Assistant`, catalogued on PulseMCP. Provides a robust code management and execution interface for reading, writing, versioning, and running code across multiple projects and languages.

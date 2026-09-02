@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-25T00:43:33Z"
 ---
 ## What it is
 Generates images from text prompts using ElevenLabs' image generation API via browser automation, with support for multiple models and persistent authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T04:55:51Z"
 ---
 ## What it is
 Enables AI assistants to read and search Proton Mail inbox through Proton Mail Bridge, providing tools to list mailboxes, list messages, search messages, and fetch full message bodies. Read-only, with secure certificate pinning.

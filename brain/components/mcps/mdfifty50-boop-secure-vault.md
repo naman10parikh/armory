@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T13:41:01Z"
 ---
 ## What it is
 MCP server `Secure Vault`, catalogued on PulseMCP. Encrypted secrets and credential management for AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-07T02:54:08Z"
 ---
 ## What it is
 Provides a standardized interface for interacting with Cal-com-v2's tools and services through a unified API.

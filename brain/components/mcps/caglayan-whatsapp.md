@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T21:10:58Z"
 ---
 ## What it is
 MCP server `WhatsApp`, catalogued on PulseMCP. Local-first WhatsApp integration for searching chats, reading history, downloading media, and sending messages via HTTP transport.

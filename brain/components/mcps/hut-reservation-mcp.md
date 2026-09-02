@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T20:53:57Z"
 ---
 ## What it is
 Enables searching SAC huts, checking availability, and preparing booking or cancellation handoffs on hut-reservation.org with a safety model for writes.

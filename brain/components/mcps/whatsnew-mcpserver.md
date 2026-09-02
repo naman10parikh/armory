@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-10T11:49:50Z"
 ---
 ## What it is
 Fetches AWS What's New announcements by month, allowing users to query announcements for a specific year/month via MCP tools.

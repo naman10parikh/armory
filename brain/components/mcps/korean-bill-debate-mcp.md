@@ -8,11 +8,13 @@ source_url: https://github.com/epoko77-ai/korean-bill-debate-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-24T14:16:32Z"
 ---
 ## What it is
 Enables exploration of Korean National Assembly data by connecting bills, committee reviews, and official records. Allows users to ask natural language questions and receive structured answers with citations to original documents.

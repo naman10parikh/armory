@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-13T11:55:00Z"
 ---
 ## What it is
 Enables local control of an LED weather display, allowing users to manage weather data and LED settings through natural language.

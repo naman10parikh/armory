@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-08T14:20:53Z"
 ---
 ## What it is
 MCP server `Orthanc DICOM`, catalogued on PulseMCP. Access Orthanc DICOM servers for querying patients, studies, series, and instances with PDF text extraction.

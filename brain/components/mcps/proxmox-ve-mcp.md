@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T18:19:51Z"
 ---
 ## What it is
 Exposes Proxmox VE hosts as MCP tools for inventory, status, and VM/container management, running as a standalone Streamable HTTP service.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T04:10:30Z"
 ---
 ## What it is
 A comprehensive MCP server and client implementation in Python exposing tools (calculator, string utilities, simulated weather), resources (file reader, system info), and prompts (code review, summarization) with security hardening and full configuration management.

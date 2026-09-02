@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-01-19T07:15:09Z"
 ---
 ## What it is
 Production-grade financial data infrastructure for AI assistants, providing reliable market data from Yahoo Finance with enterprise resilience patterns.

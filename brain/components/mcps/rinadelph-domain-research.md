@@ -8,10 +8,12 @@ source_url: https://github.com/rinadelph/domain-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-06-28T08:04:57Z"
 ---
 ## What it is
 MCP server `Domain Checker`, catalogued on PulseMCP. Provides domain research capabilities through multiple free APIs for domain availability checks, WHOIS lookups via RDAP protocol, DNS record retrieval, SSL certificate analysis, and expired domain discovery from sources like DomainsDB and SnapNames.

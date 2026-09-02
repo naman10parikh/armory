@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T04:38:59Z"
 ---
 ## What it is
 Provides structured MCP tools for local runtime observability and debugging of React Native/Expo apps on Android, enabling evidence-first diagnostics such as screenshots, UI trees, per-request network capture, performance metrics, and CDP-based console/heap/profiling exports.

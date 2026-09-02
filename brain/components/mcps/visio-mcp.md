@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:46:10Z"
 ---
 ## What it is
 Drives Microsoft Visio desktop via COM automation to create, style, and layout diagrams such as flowcharts and cloud architecture, then exports PNGs for visual feedback and iteration.

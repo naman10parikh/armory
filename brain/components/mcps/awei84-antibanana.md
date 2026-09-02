@@ -8,10 +8,12 @@ source_url: https://github.com/awei84/antibanana-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-09T02:28:00Z"
 ---
 ## What it is
 MCP server `Antibanana`, catalogued on PulseMCP. Generates images using Google's Antigravity API with prompt-based creation and editing workflows.

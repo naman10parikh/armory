@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-06T06:43:00Z"
 ---
 ## What it is
 MCP server `Agent Knowledge`, catalogued on PulseMCP. Provides knowledge management capabilities through Elasticsearch integration, file system operations, and Git/SVN version control with 31 specialized tools for document indexing, sandboxed file operations, and automated version control workflows.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-03T17:30:01Z"
 ---
 ## What it is
 MCP server `Agency`, catalogued on PulseMCP. On-demand access to 150+ specialist AI agent templates with search and browse capabilities.

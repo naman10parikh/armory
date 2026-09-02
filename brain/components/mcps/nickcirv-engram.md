@@ -8,10 +8,12 @@ source_url: https://github.com/nickcirv/engram
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 127
+stars: 141
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-06-22T10:34:32Z"
 ---
 ## What it is
 MCP server `Engram`, catalogued on PulseMCP. Context caching layer for AI coding agents, integrating any MCP server as a short plugin.

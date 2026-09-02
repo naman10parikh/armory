@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T22:19:56Z"
 ---
 ## What it is
 An MCP server for ReciPal's nutrition-label API that lets AI assistants read and edit recipes, ingredients, and subrecipes, including bulk operations like cloning and swapping ingredients, with safety guards for destructive actions.

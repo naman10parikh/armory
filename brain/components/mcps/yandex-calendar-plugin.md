@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T08:36:59Z"
 ---
 ## What it is
 Unofficial local MCP plugin for interacting with Yandex Calendar from Codex. Enables calendar listing, event CRUD, and Telemost meeting creation via CalDAV.

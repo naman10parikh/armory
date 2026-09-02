@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T21:20:26Z"
 ---
 ## What it is
 Enables LLMs to access SEC EDGAR data: search filings, extract sections, pull structured financials, and track insider transactions.

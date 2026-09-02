@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T05:23:03Z"
 ---
 ## What it is
 An MCP server that exposes a runner's own training data — computed training load, race-time predictions, and generated plans — as tools an LLM can call for grounded coaching advice.

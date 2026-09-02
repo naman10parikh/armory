@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T11:52:28Z"
 ---
 ## What it is
 Scrapes the official Telegram Bot API documentation and provides tools for querying methods, types, fields, and relationships.

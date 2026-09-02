@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-23T09:10:07Z"
 ---
 ## What it is
 MCP server `x402 Tools`, catalogued on PulseMCP. 16 x402 pay-per-call tools for web scraping, validation, notifications, conversion, and synthesis on Base.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T10:20:01Z"
 ---
 ## What it is
 Enables Laravel API integration with Cursor, providing tools for routes, models, Artisan commands, configuration, and Redis cache management through Docker.

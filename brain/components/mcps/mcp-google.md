@@ -8,11 +8,13 @@ source_url: https://github.com/klemensgc/modular-context-obsidian-plugin
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 95
+stars: 97
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-06T19:56:30Z"
 ---
 ## What it is
 Exposes 25 tools for Claude Code across Gmail, Calendar, Drive, Docs, Sheets, and Slides. Supports multi-account, local-first, encrypted OAuth tokens.

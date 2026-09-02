@@ -8,10 +8,12 @@ source_url: https://github.com/stayker-com/1stay-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-03T11:23:29Z"
 ---
 ## What it is
 MCP server `1Stay by Stayker`, catalogued on PulseMCP. Search and book hotels across 100k+ properties with real reservation capabilities.

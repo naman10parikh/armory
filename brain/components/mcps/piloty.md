@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-04-23T11:58:58Z"
 ---
 ## What it is
 PiloTY is an MCP server that provides AI agents with a persistent, interactive terminal, enabling long-running commands, log monitoring, and stateful shell interactions across tool calls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T20:27:03Z"
 ---
 ## What it is
 Provides a secure, job-oriented MCP connector for NetBox device lookup, enabling retrieval of device identity, status, site, role, and primary IP by name or ID without write access or bulk enumeration.

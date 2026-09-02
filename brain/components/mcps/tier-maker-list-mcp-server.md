@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:41:40Z"
 ---
 ## What it is
 Exposes the Tier Maker List browser editing workflows, local processing boundaries, FAQ, and official links to MCP-compatible AI clients like Claude Desktop and Cursor. Read-only, no API keys, ~50 ms cold start.

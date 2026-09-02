@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T16:55:20Z"
 ---
 ## What it is
 Enables AI agents to inspect, test, validate, compare, and debug HTTP APIs through a structured toolkit, with features such as secret redaction, response contract validation, regression comparison, health checks, and incident investigation workflows.

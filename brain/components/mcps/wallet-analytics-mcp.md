@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T06:15:04Z"
 ---
 ## What it is
 Fetches and parses on-chain swap transactions from blockchain wallets for LLM-based analysis, supporting Solana with DEX detection and token classification.

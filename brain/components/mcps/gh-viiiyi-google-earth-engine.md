@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T15:46:54Z"
 ---
 ## What it is
 MCP server `Google Earth Engine`, catalogued on PulseMCP. Fetch and process remote sensing imagery using Google Earth Engine.

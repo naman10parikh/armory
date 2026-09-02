@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-12T14:51:44Z"
 ---
 ## What it is
 MCP server `Organic Web Checker`, catalogued on PulseMCP. USDA NOP organic compliance checks — compare operation websites against live OID certificate data to surface verified or flagged products.

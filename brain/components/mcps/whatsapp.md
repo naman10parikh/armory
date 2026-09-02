@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 4
+forks: 0
+pushed_at: "2026-06-13T01:01:38Z"
 ---
 ## What it is
 MCP server for sending and reading WhatsApp messages through Claude, with human approval on sends and no auto-replies.

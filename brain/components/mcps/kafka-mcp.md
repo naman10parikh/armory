@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T15:10:27Z"
 ---
 ## What it is
 Exposes Kafka administration operations as MCP tools, enabling AI agents to inspect Kafka clusters using natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T03:31:59Z"
 ---
 ## What it is
 Enables querying and managing RetroAchievements data, including user profiles, achievements, game info, and site rankings through natural language.

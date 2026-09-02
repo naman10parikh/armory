@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T19:20:36Z"
 ---
 ## What it is
 Provides coding agents with hybrid semantic and exact-identifier search across VHDL source, documentation, and general code, with cross-referencing and exact source attribution.

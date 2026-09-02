@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T19:48:49Z"
 ---
 ## What it is
 Provides AI agents with instant access to 10M+ OMOP medical vocabulary concepts for searching, mapping, and navigating clinical codes across SNOMED, ICD-10, RxNorm, LOINC, and more.

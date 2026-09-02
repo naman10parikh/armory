@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T04:42:59Z"
 ---
 ## What it is
 MCP server for read-only network traffic incident response and forensics using tshark, offering 18 tools for pcap analysis, threat hunting, and artifact extraction.

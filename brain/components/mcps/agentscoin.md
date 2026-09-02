@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T15:48:04Z"
 ---
 ## What it is
 Give your AI agent its own money. AgentsCoin MCP lets an agent create a wallet, mine the native coin $AGENT in-browser (no stake, no captcha, no human), check its balance, and send it — on AgentsCoin, an EVM chain built for agents. Tools: create_wallet, mine, balance, send, network_info.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T20:02:25Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to execute NetExec network penetration testing commands via SSH to a Kali Linux machine, supporting protocols like SMB, WinRM, SSH, LDAP, and more.

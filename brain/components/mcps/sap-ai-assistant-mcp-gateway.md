@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T07:29:03Z"
 ---
 ## What it is
 Enables natural-language interaction with SAP BTP destinations and OData services through MCP tools, allowing users to discover and query OData endpoints and get AI-generated answers.

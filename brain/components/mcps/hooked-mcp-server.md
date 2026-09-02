@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T15:56:56Z"
 ---
 ## What it is
 Enables AI agents to create videos programmatically using the Hooked Video API, with tools for avatar selection, voice, music, and various video creation styles.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-05T08:43:40Z"
 ---
 ## What it is
 MCP server `Mistral Codestral`, catalogued on PulseMCP. Integrates with Mistral's code-related APIs to enable code completion, bug fixing, and test generation across multiple programming languages.

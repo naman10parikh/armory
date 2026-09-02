@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T13:49:27Z"
 ---
 ## What it is
 Read-only SQL Server MCP server enabling safe database queries, table listing, and schema inspection with built-in security protections.

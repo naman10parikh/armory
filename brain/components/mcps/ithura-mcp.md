@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T13:30:58Z"
 ---
 ## What it is
 MCP server for Ithura, enabling AI assistants to read and write tasks, sprints, projects, modules, wiki pages, and intake via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T14:03:06Z"
 ---
 ## What it is
 Local governance layer for AI-assisted development, providing human authorization gates, policy enforcement, change approval workflow, and rollback capabilities through a universal MCP server.

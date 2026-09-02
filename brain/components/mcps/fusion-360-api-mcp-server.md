@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-19T12:53:05Z"
 ---
 ## What it is
 Provides comprehensive access to Autodesk Fusion 360 Python API documentation, code generation, and API querying, with automatic index updates.

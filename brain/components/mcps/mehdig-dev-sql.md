@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T20:13:07Z"
 ---
 ## What it is
 MCP server `SQL Database`, catalogued on PulseMCP. Secure SQL database connectivity for PostgreSQL, SQLite, and MySQL with read-only safety.

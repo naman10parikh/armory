@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:01:25Z"
 ---
 ## What it is
 MCP server wrapping Boxzooka's bxz-api to provide 33 tools for managing products, inbound orders, orders, inventory, shipments, and returns.

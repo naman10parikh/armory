@@ -8,11 +8,13 @@ source_url: https://github.com/yoruuuchan/akari-pulse
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T06:21:03Z"
 ---
 ## What it is
 MCP server exposing self-hosted health data from a vivo WATCH GT via 14 tools for querying metrics like heart rate, SpO2, stress, and sleep over stdio and Streamable HTTP.

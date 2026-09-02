@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-04-27T03:28:54Z"
 ---
 ## What it is
 Enables LLMs to manage organizational metadata (projects, missions, activities, programs) via a file-based registry, providing CRUD operations and search capabilities through the Model Context Protocol.

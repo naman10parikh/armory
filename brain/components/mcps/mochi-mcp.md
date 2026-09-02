@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-09T22:33:46Z"
 ---
 ## What it is
 Enables creating, managing, and reviewing Mochi flashcards via the Model Context Protocol, supporting card CRUD, deck organization, and spaced repetition review.

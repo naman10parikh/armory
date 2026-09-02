@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-11T19:47:02Z"
 ---
 ## What it is
 MCP server `ApogeoAPI`, catalogued on PulseMCP. Geographic data MCP providing country info, states, cities, IP geolocation, and live currency rates.

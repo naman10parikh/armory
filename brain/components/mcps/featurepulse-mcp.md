@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T16:49:10Z"
 ---
 ## What it is
 A Model Context Protocol server for FeaturePulse feedback management, enabling AI assistants to query feature requests, analyze MRR impact, and manage product roadmaps through natural language.

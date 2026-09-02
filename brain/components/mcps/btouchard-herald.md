@@ -8,10 +8,12 @@ source_url: https://github.com/kolapsis/herald
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-09T11:54:55Z"
 ---
 ## What it is
 MCP server `Herald`, catalogued on PulseMCP. Bridge between Claude Chat and Claude Code for seamless context sharing.

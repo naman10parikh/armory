@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T04:29:59Z"
 ---
 ## What it is
 MCP server enabling AI assistants to autonomously manage HR tasks including employee onboarding, leave tracking, IT provisioning, meeting scheduling, and policy lookup via natural language.

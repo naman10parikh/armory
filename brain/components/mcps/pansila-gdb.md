@@ -8,10 +8,12 @@ source_url: https://github.com/pansila/mcp_server_gdb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-09-17T01:11:47Z"
 ---
 ## What it is
 MCP server `GDB`, catalogued on PulseMCP. GDB/MI protocol integration providing remote application debugging capabilities.

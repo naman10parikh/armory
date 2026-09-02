@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T21:06:48Z"
 ---
 ## What it is
 MCP server that allows AI agents to read and update project progress across different AI coding tools and sessions, maintaining a single source of truth in a PROGRESS.md file.

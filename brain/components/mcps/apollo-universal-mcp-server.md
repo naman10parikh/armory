@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T05:35:49Z"
 ---
 ## What it is
 Enables access to Apollo's tools and services through a standardized MCP interface, compatible with MCP-compliant clients.

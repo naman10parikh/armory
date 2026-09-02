@@ -8,11 +8,13 @@ source_url: https://github.com/q32llc/ipogrid-ipo-research-skill
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 465
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-04-13T03:57:23Z"
 ---
 ## What it is
 Hosted MCP server for filing-driven IPO research, market snapshots, SEC filing signals, deal terms, comparable IPO deals, and post-listing outcomes. No auth by default; OAuth 2.0 unlocks richer tools.

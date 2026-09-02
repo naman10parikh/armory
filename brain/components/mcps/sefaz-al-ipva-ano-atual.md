@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:51Z"
 ---
 ## What it is
 Enables querying current-year IPVA (Brazilian vehicle property tax) for Alagoas state from the official SEFAZ AL source. Read-only MCP server that works with any MCP client over HTTP.

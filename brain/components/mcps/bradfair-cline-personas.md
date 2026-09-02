@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-01-07T05:19:06Z"
 ---
 ## What it is
 MCP server `Cline Personas`, catalogued on PulseMCP. Implements a persona management system for dynamic AI behavior adjustment using reusable components and templates defined in .clinerules files.

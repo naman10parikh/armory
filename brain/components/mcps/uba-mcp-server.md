@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T08:03:16Z"
 ---
 ## What it is
 Provides AI agents with a real browser environment for web automation, memory, and secure credential management through 15 MCP tools.

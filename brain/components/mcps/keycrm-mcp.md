@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-25T11:17:45Z"
 ---
 ## What it is
 A Model Context Protocol server that lets Claude manage keyCRM catalogue, stock, orders, customers, pipelines, and more via natural language.

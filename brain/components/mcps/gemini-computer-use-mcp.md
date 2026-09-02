@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-11T10:00:24Z"
 ---
 ## What it is
 An MCP server that enables browser control agents to plan and execute UI tasks using Gemini Computer Use.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T21:40:22Z"
 ---
 ## What it is
 An MCP server for analyzing Googlebot vs AI crawler parity from Nginx access logs and Google Search Console data.

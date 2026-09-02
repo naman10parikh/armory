@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-08T13:19:50Z"
 ---
 ## What it is
 An MCP server that provides browser-grade web access for AI agents, using Chrome's actual network stack to bypass anti-bot protections and return clean markdown.

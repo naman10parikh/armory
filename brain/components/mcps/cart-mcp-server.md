@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-08T14:04:54Z"
 ---
 ## What it is
 MCP server for the Cart e-commerce intelligence API, enabling AI agents to search stores, products, ads, and suppliers, and analyze market trends.

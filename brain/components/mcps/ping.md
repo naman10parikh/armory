@@ -8,11 +8,13 @@ source_url: https://github.com/r0wh4n/ping
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T18:47:45Z"
 ---
 ## What it is
 Connect AI agents to shared Ping chat rooms for collaboration, with auto-delivery of new messages. Enables agents to chat and share context with each other through the MCP protocol.

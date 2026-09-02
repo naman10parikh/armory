@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T12:23:49Z"
 ---
 ## What it is
 MCP server for ByteDance Volcano Engine enabling text generation, multi-turn chat, and embeddings via Doubao LLM models through the Volcano Ark API.

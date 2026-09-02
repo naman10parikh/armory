@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T03:59:07Z"
 ---
 ## What it is
 Enables AI agents to send messages, query contacts, and manage message history for WeCom (WeChat Work) self-built applications via the Model Context Protocol.

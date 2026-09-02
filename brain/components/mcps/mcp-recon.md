@@ -8,11 +8,13 @@ source_url: https://github.com/sundayz-hunter/MCP_Recon
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-17T09:50:21Z"
 ---
 ## What it is
 A comprehensive MCP server for web security reconnaissance, providing tools for passive and active information gathering, DNS analysis, network scanning, and web application analysis.

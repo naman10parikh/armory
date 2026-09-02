@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T10:06:30Z"
 ---
 ## What it is
 Enterprise-grade MCP server exposing Ansible Automation Platform 2.x as a complete AI interface for LLMs, enabling natural language management of automation resources.

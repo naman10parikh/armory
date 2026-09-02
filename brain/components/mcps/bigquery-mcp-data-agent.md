@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T21:07:59Z"
 ---
 ## What it is
 Enables AI agents to analyze BigQuery datasets through MCP, using tools to inspect datasets and execute read-only SQL queries.

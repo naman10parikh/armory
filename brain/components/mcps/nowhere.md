@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:15:53Z"
 ---
 ## What it is
 Enables AI to explore real-world coordinates by simulating physical presence with sensory details like terrain, weather, sounds, and local knowledge through MCP tools.

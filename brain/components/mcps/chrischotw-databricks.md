@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-04T07:35:26Z"
 ---
 ## What it is
 MCP server `Databricks`, catalogued on PulseMCP. Read-only Databricks workspace access for SQL querying, job management, pipeline monitoring, and Unity Catalog metadata browsing.

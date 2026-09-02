@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-13T20:31:47Z"
 ---
 ## What it is
 MCP server `HackerNews`, catalogued on PulseMCP. Integrates with HackerNews Algolia API to provide comprehensive search, trending stories, latest posts, detailed item retrieval with comment trees, and user profile access for content analysis and research applications.

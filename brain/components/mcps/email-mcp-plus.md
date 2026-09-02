@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T20:22:49Z"
 ---
 ## What it is
 An MCP server for Microsoft Graph email that uses $filter instead of $search, allowing filtered email searches with sorting. It reuses the existing email-mcp authentication and provides tools for searching, listing folders, and retrieving email content.

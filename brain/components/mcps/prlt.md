@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-09T02:43:43Z"
 ---
 ## What it is
 Enables AI agents to orchestrate development tasks by creating tickets, spawning isolated worker agents, and managing multi-agent workflows through the Proletariat platform.

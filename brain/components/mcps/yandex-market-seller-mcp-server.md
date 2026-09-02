@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T13:31:58Z"
 ---
 ## What it is
 Integrates with Yandex Market Partner API, providing search and execute tools for managing orders, returns, shipments, offers, prices, and other seller operations via natural language.

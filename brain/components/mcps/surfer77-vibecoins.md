@@ -8,10 +8,12 @@ source_url: https://github.com/surfer77/vibecoins-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-10T16:36:11Z"
 ---
 ## What it is
 MCP server `Vibecoins`, catalogued on PulseMCP. Enables token creation on Ethereum through the Vibecoins platform with automated wallet management, Uniswap v4 liquidity integration, and perpetual trading fee collection.

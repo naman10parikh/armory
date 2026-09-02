@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:04:52Z"
 ---
 ## What it is
 Exposes the Maimemo (墨墨背单词) Open API as MCP tools, enabling AI assistants to look up words, manage mnemonics and study plans, and maintain cloud notepads.

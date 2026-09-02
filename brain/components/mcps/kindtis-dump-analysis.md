@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-15T09:28:23Z"
 ---
 ## What it is
 MCP server `Dump Analysis`, catalogued on PulseMCP. Analyzes Windows crash dumps with structured thread inspection, source context, and safe patching workflows.

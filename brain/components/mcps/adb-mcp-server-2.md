@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-12T03:02:59Z"
 ---
 ## What it is
 Enables MCP-compatible agents to control an Android device over the network via ADB, providing tools for shell commands, screen capture, UI inspection, file operations, and input simulation.

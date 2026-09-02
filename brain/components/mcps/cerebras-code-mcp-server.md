@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-28T20:48:01Z"
 ---
 ## What it is
 Enables planning with Claude Code and high-speed code generation using Cerebras, avoiding API limits while producing quality code with visual diffs.

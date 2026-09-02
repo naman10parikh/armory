@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T02:10:25Z"
 ---
 ## What it is
 A Model Context Protocol server that gives AI assistants direct access to Green Party political programs from Germany and Austria.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
 stars: 2
+forks: 6
+pushed_at: "2025-06-19T06:39:56Z"
 ---
 ## What it is
 An MCP server implementation for 4EVERLAND Hosting enabling instant deployment of AI-generated code to decentralized storage networks like Greenfield, IPFS, and Arweave.

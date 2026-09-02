@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T13:07:38Z"
 ---
 ## What it is
 Enables coding agents to interact with the Reactome pathway database, including search, lookup, hierarchy traversal, SBML/SBGN export, and gene-set enrichment analysis.

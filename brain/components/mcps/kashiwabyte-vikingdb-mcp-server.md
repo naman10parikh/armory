@@ -8,10 +8,12 @@ source_url: https://github.com/kashiwabyte/vikingdb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-18T16:22:11Z"
 ---
 ## What it is
 MCP server `VikingDB`, catalogued on PulseMCP. Store and search data using VikingDB vector database.

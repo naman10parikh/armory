@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-01T08:39:11Z"
 ---
 ## What it is
 Enables cybersecurity training, purple-team collaboration, and executive readiness through tools for scenario generation, attack simulation, telemetry analysis, incident investigation, forensics, and reporting with an immutable audit trail.

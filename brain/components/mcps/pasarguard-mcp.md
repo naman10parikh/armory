@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T00:42:19Z"
 ---
 ## What it is
 Local MCP server for managing PasarGuard panels via their REST APIs, supporting read operations and a two-step plan/apply workflow for safe writes. It handles nodes, cores, hosts, groups, and users with confirmation-based changes and rollback plans.

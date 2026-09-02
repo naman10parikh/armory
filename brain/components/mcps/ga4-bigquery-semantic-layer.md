@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-28T11:13:14Z"
 ---
 ## What it is
 Exposes a semantic layer on GA4 event data in BigQuery via an MCP server for consistent querying.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T10:26:38Z"
 ---
 ## What it is
 MCP server `Kotlin LSP Bridge`, catalogued on PulseMCP. Bridge LLMs to the Kotlin language server for Go to Definition, Find References, and Workspace Symbol Search.

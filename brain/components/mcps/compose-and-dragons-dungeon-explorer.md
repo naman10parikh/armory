@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-29T04:11:59Z"
 ---
 ## What it is
 MCP server `Dungeon Explorer`, catalogued on PulseMCP. Text-based RPG system that loads dungeon layouts from YAML files and maintains player state for exploring procedurally-defined dungeons, fighting monsters, collecting treasures, and creating interactive storytelling experiences.

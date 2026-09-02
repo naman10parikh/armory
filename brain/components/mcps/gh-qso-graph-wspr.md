@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-15T21:38:16Z"
 ---
 ## What it is
 MCP server `WSPR Beacon Analytics`, catalogued on PulseMCP. Analyze WSPR beacon data for HF band openings, propagation paths, SNR trends, and solar correlation using wspr.live's public database.

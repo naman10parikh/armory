@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T11:51:35Z"
 ---
 ## What it is
 Enables AI clients to fetch, crawl, and screenshot web pages using Crawlee, supporting multiple URLs and stealth mode for JavaScript-rendered sites.

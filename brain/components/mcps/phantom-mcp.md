@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T04:54:19Z"
 ---
 ## What it is
 Exposes all PHANTOM security testing capabilities as MCP tools, enabling reconnaissance, vulnerability scanning, red teaming, and report generation through natural language interactions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:16:42Z"
 ---
 ## What it is
 Enables AI agents to manage Google Business Profile reviews, including a filterable review inbox, per-location stats, and honest review-request campaigns.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T19:04:37Z"
 ---
 ## What it is
 Live .NET runtime diagnostics for AI assistants. Ask Claude to diagnose memory leaks, GC pressure, LOH fragmentation, and thread starvation in any running .NET process — no code changes required.

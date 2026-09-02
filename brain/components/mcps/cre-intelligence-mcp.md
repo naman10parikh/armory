@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T17:46:46Z"
 ---
 ## What it is
 Provides live commercial real estate data (rates, demographics) and analysis tools (DCF, rent roll parsing, lease abstraction, IC memo generation) within Claude Desktop.

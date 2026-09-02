@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T16:31:24Z"
 ---
 ## What it is
 Enables conversational triage of ServiceNow incidents via Claude Desktop, automatically classifying and routing them based on company knowledge.

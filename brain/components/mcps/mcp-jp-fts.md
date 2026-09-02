@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T02:53:15Z"
 ---
 ## What it is
 Enables Japanese full-text search on local text files using SQLite FTS5 and SudachiPy. Supports indexing directories, searching with morphological analysis, and retrieving ranked results with snippets.

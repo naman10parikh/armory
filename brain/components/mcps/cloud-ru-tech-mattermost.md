@@ -8,10 +8,12 @@ source_url: https://github.com/cloud-ru-tech/mcp-server-mattermost
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-09-01T09:46:18Z"
 ---
 ## What it is
 MCP server `Mattermost`, catalogued on PulseMCP. Integrates with Mattermost team collaboration platform to manage channels, messages, reactions, threads, users, teams, files, and bookmarks across workspaces for automated notifications, team management, and workflow integration.

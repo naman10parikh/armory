@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:13Z"
 ---
 ## What it is
 Provides read-only access to official Brazilian labor court (TRT21) process information via a single MCP tool, with prepaid credit-based pricing and compatibility with any MCP over HTTP client.

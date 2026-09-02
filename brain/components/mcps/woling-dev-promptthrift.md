@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-11T08:05:44Z"
 ---
 ## What it is
 MCP server `PromptThrift`, catalogued on PulseMCP. Reduces LLM API costs by 70-90% through intelligent conversation history compression and model optimization.

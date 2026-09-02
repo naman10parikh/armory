@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T19:10:27Z"
 ---
 ## What it is
 MCP server that exposes a read-only knowledge base of verified math lecture material, enabling AI agents to quiz students using active recall via list_topics and query_annuma tools.

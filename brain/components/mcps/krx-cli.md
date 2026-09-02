@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T07:17:02Z"
 ---
 ## What it is
 Enables AI agents to query real-time and historical Korean stock market data from KRX (Korea Exchange) including indices, stocks, ETFs, bonds, derivatives, and commodities via MCP tools and resources.

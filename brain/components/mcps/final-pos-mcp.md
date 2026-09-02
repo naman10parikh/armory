@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T00:20:31Z"
 ---
 ## What it is
 Enables AI agents to build, preview, validate, and deploy custom point-of-sale, kiosk, self-checkout, KDS, and in-person payment applications using Final's platform.

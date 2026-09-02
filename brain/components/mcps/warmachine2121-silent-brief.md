@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-10T07:31:17Z"
 ---
 ## What it is
 MCP server `Silent Brief`, catalogued on PulseMCP. AI document generation tools for browsing services, submitting jobs, and managing credits.

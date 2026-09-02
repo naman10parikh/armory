@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T00:44:21Z"
 ---
 ## What it is
 Enables Slack integration with tools to list channels, read messages, and post messages using a bot token.

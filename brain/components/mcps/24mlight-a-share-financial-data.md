@@ -12,6 +12,8 @@ stars: 646
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 111
+pushed_at: "2025-12-25T08:54:00Z"
 ---
 ## What it is
 MCP server `A-Share Financial Data (Baostock)`, catalogued on PulseMCP. Provides financial data tools for Chinese stock market analysis through the Baostock API, enabling retrieval of historical prices, financial reports, industry classifications, index constituents, and macroeconomic indicators.

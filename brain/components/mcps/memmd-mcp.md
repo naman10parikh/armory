@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T18:03:49Z"
 ---
 ## What it is
 A shared memory layer for AI agents — one memory.md synced across Claude Desktop, Cursor, Claude Code, OpenAI Codex, and any MCP client.

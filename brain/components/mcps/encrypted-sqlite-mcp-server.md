@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T14:00:32Z"
 ---
 ## What it is
 An MCP server for working with encrypted SQLite databases (SQLCipher), enabling database exploration, SQL queries, and CRUD operations through natural language.

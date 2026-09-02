@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T13:49:03Z"
 ---
 ## What it is
 MCP server for searching treks (hiking, mountain biking, horse riding, snowshoeing, etc.) on a GeoTrek instance via its public API, with geocoding via Nominatim. Exposes tools to search treks by duration, elevation, regulation labels, activity type, and proximity to a place or coordinates.

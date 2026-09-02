@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T23:15:56Z"
 ---
 ## What it is
 MCP server `American Airlines AAdvantage`, catalogued on PulseMCP. Read-only access to American Airlines AAdvantage frequent flyer account data.

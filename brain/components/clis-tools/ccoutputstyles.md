@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [awesome-claude-code, output-styles]
+forks: 4
+pushed_at: "2025-09-02T19:09:26Z"
 ---
 ## What it is
 CLI tool and template gallery for customizing Claude Code output styles with pre-built templates. Features over 15 templates at the time of writing!

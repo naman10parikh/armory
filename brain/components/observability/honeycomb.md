@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, opentelemetry, tracing]
+forks: 6
+pushed_at: "2025-08-13T20:22:38Z"
 ---
 ## What it is
 Honeycomb's OpenTelemetry-native observability platform — high-cardinality event store ideal for tracing LLM pipelines and debugging slow agent traces.

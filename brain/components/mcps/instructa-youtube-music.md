@@ -8,10 +8,12 @@ source_url: https://github.com/instructa/mcp-youtube-music
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-09T20:16:59Z"
 ---
 ## What it is
 MCP server `YouTube Music`, catalogued on PulseMCP. Enables searching and playing music tracks through YouTube Music with automatic browser launching for seamless playback requests.

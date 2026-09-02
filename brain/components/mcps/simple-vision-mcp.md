@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T11:12:07Z"
 ---
 ## What it is
 A lightweight MCP server for image analysis using any OpenAI-compatible API endpoint, enabling AI agents to analyze images via a single tool.

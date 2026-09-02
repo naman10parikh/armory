@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T04:20:20Z"
 ---
 ## What it is
 Bridges a local mcporter registry into a single MCP server, enabling clients like Codex and Claude to list, inspect, and call tools from multiple MCPs with lazy loading.

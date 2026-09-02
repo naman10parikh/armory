@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T04:38:48Z"
 ---
 ## What it is
 Provides local cross-session memory for Codex by importing transcripts, indexing in SQLite, and exposing search, context, and memory management through MCP tools.

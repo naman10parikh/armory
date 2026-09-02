@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T19:37:08Z"
 ---
 ## What it is
 Connects MCP-compatible coding agents to VMware vCenter to query information about virtual machines, hosts, clusters, datastores, datacenters, and networks.

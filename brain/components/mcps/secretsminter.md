@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T16:48:24Z"
 ---
 ## What it is
 A self-hosted MCP server that mints, places, and rotates cloud secrets (e.g., Cloudflare, GitHub, Supabase) without exposing secret values to the agent, using a signed destination allow-list and self-maintaining rotation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T01:54:58Z"
 ---
 ## What it is
 Connects your personal Althea AI assistant to MCP-compatible tools like Codex and Claude, allowing you to send messages and retrieve conversation history.

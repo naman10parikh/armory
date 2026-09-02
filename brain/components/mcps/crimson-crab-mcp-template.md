@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T18:47:01Z"
 ---
 ## What it is
 A ready-to-clone Rust MCP server template that calls Anthropic's Claude API. Built on the crimson-crab SDK and rmcp, it exposes an ask_claude tool over stdio so agents can send prompts to Claude.

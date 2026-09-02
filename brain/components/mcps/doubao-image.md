@@ -8,10 +8,12 @@ source_url: https://github.com/suibin521/doubao-image-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-24T05:22:57Z"
 ---
 ## What it is
 MCP server `Doubao Image Generation`, catalogued on PulseMCP. Integrates with ByteDance's Doubao API to generate images from text prompts with configurable dimensions and quality settings for automated visual content creation and design workflows.

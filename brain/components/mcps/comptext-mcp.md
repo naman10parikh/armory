@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T18:56:43Z"
 ---
 ## What it is
 Pip-installable MCP bridge for OpenCode that provides safe tools to call the CompText Rust CLI for context packing, replay digests, and deterministic context packs, with read-only defaults.

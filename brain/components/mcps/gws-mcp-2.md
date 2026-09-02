@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T08:04:57Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to manage Google Workspace (Gmail and Calendar) through natural language, including reading/sending emails, managing events, and checking availability.

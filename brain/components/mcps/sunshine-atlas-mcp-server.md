@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T15:36:17Z"
 ---
 ## What it is
 Provides climate data for 3,833 destinations including sunshine scores, temperatures, rainfall, and sea temperature, enabling users to find sunny destinations and compare climates via three tools.

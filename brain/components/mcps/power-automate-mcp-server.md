@@ -8,11 +8,13 @@ source_url: https://github.com/user-vik/power-automate-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T17:55:25Z"
 ---
 ## What it is
 Enables MCP clients to manage and troubleshoot Power Automate cloud flows, including listing environments, flows, and runs, with optional write capabilities for triggering, enabling, disabling, and deleting flows.

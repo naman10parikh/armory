@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T09:43:26Z"
 ---
 ## What it is
 MCP server `Browser Spend Guard`, catalogued on PulseMCP. Approval receipts and budget alerts for AI agent browser purchases.

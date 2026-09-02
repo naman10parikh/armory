@@ -8,10 +8,12 @@ source_url: https://github.com/lzsheng/yapi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 92
+stars: 118
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 31
+pushed_at: "2025-07-04T07:29:25Z"
 ---
 ## What it is
 MCP server `YApi`, catalogued on PulseMCP. Integrates with YApi for API management, enabling seamless access to API documentation for tasks like code generation, testing, and integration planning.

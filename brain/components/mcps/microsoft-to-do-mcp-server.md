@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T01:59:32Z"
 ---
 ## What it is
 Enables AI clients like Claude to read and manage Microsoft To Do task lists and tasks via the Microsoft Graph API, running locally over stdio with secure token storage.

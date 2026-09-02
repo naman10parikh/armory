@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:13Z"
 ---
 ## What it is
 MCP server that enables read-only consultation of SINTEGRA (Amazonas state tax registration) data from official sources, usable with any MCP client over HTTP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T18:20:35Z"
 ---
 ## What it is
 Scans bank statements for zombie subscriptions and drafts cancellation, renegotiation, or data deletion letters.

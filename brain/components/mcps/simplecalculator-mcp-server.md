@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-24T11:37:14Z"
 ---
 ## What it is
 Enables arithmetic operations (add, subtract, multiply, divide) through a custom Model Context Protocol implementation, containerized with Docker for easy deployment.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T11:17:22Z"
 ---
 ## What it is
 MCP server that exposes the complete Delphi 7 RTL/VCL index as tools for AI agents, enabling precise lookups for symbols, class members, unit interfaces, and source contexts to generate accurate legacy Delphi 7 code.

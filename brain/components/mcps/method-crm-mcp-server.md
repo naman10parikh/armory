@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-22T16:59:33Z"
 ---
 ## What it is
 A production-ready MCP server for Method CRM API integration. It enables LLMs to interact with Method CRM data through tools for tables, files, users, events, and API key management.

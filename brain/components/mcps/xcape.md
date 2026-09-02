@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T00:16:10Z"
 ---
 ## What it is
 Vacation-quoting MCP server for travel agents that turns plain-language client briefs into priced, bookable proposals with live hotel rates, activities, and dining, plus an assistant skill for building branded, printable quotes.

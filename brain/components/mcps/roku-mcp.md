@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T05:53:43Z"
 ---
 ## What it is
 Enables AI agents to inspect and control Roku devices—query UI elements, send remote input, launch channels, and run tests—using the Model Context Protocol or a CLI.

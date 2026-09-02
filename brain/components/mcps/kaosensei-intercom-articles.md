@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-18T05:32:34Z"
 ---
 ## What it is
 MCP server `Intercom Articles`, catalogued on PulseMCP. Provides read-only access to Intercom Help Center articles, enabling retrieval and reference of customer support documentation for automation and knowledge base integration workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T08:05:28Z"
 ---
 ## What it is
 Enables querying train and high-speed rail schedules, durations, and seat availability between Chinese stations using 12306 data, with automatic fallback to simulated data when the API is rate-limited.

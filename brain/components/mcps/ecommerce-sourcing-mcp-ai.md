@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T19:55:34Z"
 ---
 ## What it is
 Automates cross-platform e-commerce sourcing between JD and Taobao using AI-driven browser automation to search, extract product details, compare prices, and identify profitable arbitrage opportunities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-06-24T16:16:07Z"
 ---
 ## What it is
 Gives coding agents structured code understanding via tree-sitter with 23 tools and 10 languages, enabling precise queries instead of reading entire files.

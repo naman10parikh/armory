@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T18:35:43Z"
 ---
 ## What it is
 A read-only MCP server that exposes NetBox IPAM data over HTTP, allowing engineers to query subnets, IPs, and VLANs using natural language through AI assistants.

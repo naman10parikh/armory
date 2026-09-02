@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T21:32:02Z"
 ---
 ## What it is
 Centralized MCP server that provides standardized development workflow commands to Cursor AI, auto-detecting project type (Laravel, Next.js, Flutter, Architecture) and offering relevant commands for implementation, testing, and commits.

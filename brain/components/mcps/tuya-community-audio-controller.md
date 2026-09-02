@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-18T05:45:11Z"
 ---
 ## What it is
 MCP server `Tuya Audio Controller`, catalogued on PulseMCP. Controls audio playback on Tuya IoT devices using FastMCP with 9 playback intents including play, stop, resume, and loop modes.

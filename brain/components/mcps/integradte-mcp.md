@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T18:14:36Z"
 ---
 ## What it is
 MCP server for querying Chilean electronic invoicing data via the IntegraDTE API. Enables language models to retrieve tax documents, folios, statistics, and more.

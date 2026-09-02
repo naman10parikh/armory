@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T08:54:14Z"
 ---
 ## What it is
 Enables NSE stock market research with screening, quotes, peer comparison, watchlists, alerts, and strategies using natural language.

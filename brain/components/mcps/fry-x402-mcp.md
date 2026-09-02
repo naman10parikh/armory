@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T15:47:33Z"
 ---
 ## What it is
 MCP server exposing fry.farm's x402 API as tools, enabling non-custodial blockchain interactions with pay-per-call endpoints on Algorand.

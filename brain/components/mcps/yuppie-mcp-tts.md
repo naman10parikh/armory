@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T06:08:50Z"
 ---
 ## What it is
 Provides text-to-speech synthesis using Microsoft Edge's free TTS engine, supporting multiple voices, languages, and audio output options (base64 or file).

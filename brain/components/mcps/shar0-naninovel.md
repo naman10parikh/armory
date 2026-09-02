@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-22T13:01:09Z"
 ---
 ## What it is
 MCP server `Naninovel`, catalogued on PulseMCP. Unity C# plugin that exposes Naninovel visual novel engine controls, enabling direct script editing, playback testing, and visual verification through screenshot capture.

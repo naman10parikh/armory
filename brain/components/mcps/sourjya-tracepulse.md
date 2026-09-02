@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-18T12:52:29Z"
 ---
 ## What it is
 MCP server `TracePulse`, catalogued on PulseMCP. Monitors dev server runtime output and parses errors into structured events for AI coding agents.

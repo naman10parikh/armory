@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T08:10:43Z"
 ---
 ## What it is
 Provides a single tool to query a knowledge base of the Land Rover Discovery II maintenance manual, using RAG with LLAMA 3 and ChromaDB.

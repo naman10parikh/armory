@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T09:47:52Z"
 ---
 ## What it is
 A safe, structured Model Context Protocol server for the local Apple Music app on macOS. It lets an MCP client inspect a library, analyze and manage playlists, control playback, edit supported metadata, and keep a local audit trail.

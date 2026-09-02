@@ -8,10 +8,12 @@ source_url: https://github.com/kevinwatt/ffmpeg-mcp-lite
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-08T15:55:54Z"
 ---
 ## What it is
 MCP server `FFmpeg Lite`, catalogued on PulseMCP. Provides video and audio processing capabilities through FFmpeg, offering format conversion, compression, trimming, audio extraction, file merging, frame extraction, subtitle addition, and metadata retrieval.

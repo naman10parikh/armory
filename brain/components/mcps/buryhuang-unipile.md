@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-01-07T07:39:31Z"
 ---
 ## What it is
 MCP server `Unipile`, catalogued on PulseMCP. Integrates with Unipile to provide unified access to messages across LinkedIn, WhatsApp, Instagram, Messenger, and Telegram, enabling efficient multi-platform communication management.

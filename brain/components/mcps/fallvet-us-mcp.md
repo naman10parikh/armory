@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T09:12:02Z"
 ---
 ## What it is
 Sovereign, MIT-licensed MCP server wrapping the fallvet-us SDK for offline-capable professional workflow tools.

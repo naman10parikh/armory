@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tutorials-learning-resources]
+forks: 3
+pushed_at: "2026-01-16T23:22:10Z"
 ---
 ## What it is
 A one-stop hub with 100+ Azure OpenAI sample code organized by topic for quick reference

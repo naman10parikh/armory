@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-13T14:42:50Z"
 ---
 ## What it is
 A secure MCP server with a workspace sandbox for AI agents to manage prompts, save HTML, and render HTML to images.

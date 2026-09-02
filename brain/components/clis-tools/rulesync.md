@@ -14,7 +14,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-code-ide-el, claude-code-nvim]
 tags: [tooling, cli]
-stars: 1341
+stars: 1373
+forks: 143
+pushed_at: "2026-09-02T03:18:45Z"
 ---
 ## What it is
 A community CLI tool by dyoshikawa, catalogued in awesome-claude-code. A Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Claude Code and other AI agents in both directions.

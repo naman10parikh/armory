@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T00:49:00Z"
 ---
 ## What it is
 Enables scanning any website for AI agent compatibility and marketing health, returning interactive dashboard reports with scores and revenue impact estimates.

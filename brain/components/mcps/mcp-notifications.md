@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-03T18:57:58Z"
 ---
 ## What it is
 Enables sending real-time and webhook notifications when AI agents complete tasks, with support for Discord, Slack, Teams, Feishu, Ntfy, and custom webhooks.

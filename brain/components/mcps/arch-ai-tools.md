@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T05:04:33Z"
 ---
 ## What it is
 Provides 63 production-ready API tools for AI agents, including web scraping, AI generation, crypto data, OCR, image generation, audio transcription, text-to-speech, email, and domain lookup.

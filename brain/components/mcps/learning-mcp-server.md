@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T11:20:51Z"
 ---
 ## What it is
 A minimal MCP server with three toy tools (add, echo, current_time) for learning deployment on SAP BTP Cloud Foundry.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-04T12:37:18Z"
 ---
 ## What it is
 A RAG-based knowledge base system supporting document processing, semantic search, and intelligent Q\&A with multiple AI model integrations.

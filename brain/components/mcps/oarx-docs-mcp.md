@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T10:56:28Z"
 ---
 ## What it is
 MCP server for semantic search across the complete ObjectARX 2026 documentation set. Indexes 89,715 text chunks from 22 guides in ChromaDB with hybrid BM25 + dense retrieval.

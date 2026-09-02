@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-24T21:42:02Z"
 ---
 ## What it is
 Enables searching and retrieving detailed product specifications from McMaster-Carr using part numbers or search queries.

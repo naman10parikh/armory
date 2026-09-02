@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:32:02Z"
 ---
 ## What it is
 MCP server `ACLED`, catalogued on PulseMCP. Armed Conflict Location and Event Data Project connector providing global conflict event data through the Pipeworx MCP gateway.

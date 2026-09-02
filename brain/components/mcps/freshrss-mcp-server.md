@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-05-19T14:04:13Z"
 ---
 ## What it is
 Enables AI assistants to interact with FreshRSS feeds via the Fever API, allowing listing feeds, fetching unread items, marking items as read/unread, and managing feed subscriptions.

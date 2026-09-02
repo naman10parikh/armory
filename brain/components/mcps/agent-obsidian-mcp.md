@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T00:25:13Z"
 ---
 ## What it is
 Local MCP servers for the Agent-Obsidian workflow, providing vault file I/O, todo management, and arXiv paper fetching with zero-dependency single-file Node.js scripts.

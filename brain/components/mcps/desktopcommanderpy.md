@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-29T19:40:42Z"
 ---
 ## What it is
 A Python MCP server that provides controlled access to local filesystem, terminal, processes, and SAP HANA Cloud, enabling Claude to interact with your machine and databases securely.

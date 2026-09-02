@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T02:44:50Z"
 ---
 ## What it is
 Enables full control of an Apple TV over the local network, including playback, remote navigation, app launching, deep links, and power management.

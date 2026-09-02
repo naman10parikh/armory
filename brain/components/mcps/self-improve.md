@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T06:36:04Z"
 ---
 ## What it is
 Captures user corrections and improvements during interactions, logs them, finds recurring patterns, and prescribes preventive fixes like CLAUDE.md rules, skills, scripts, or MCP tools to avoid repeating mistakes.

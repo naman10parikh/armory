@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:18:54Z"
 ---
 ## What it is
 Hosted remote MCP for AI agent browser approval. Provides structured tools for page approval workflows, session management, and audit receipts.

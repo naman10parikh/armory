@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T15:11:22Z"
 ---
 ## What it is
 MCP server `VerifiMind PEAS`, catalogued on PulseMCP. Multi-agent AI validation with RefleXion Trinity for ethical and secure application development.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T10:34:37Z"
 ---
 ## What it is
 A multi-source MCP literature search server for geoscience and well-logging workflows, supporting unified search across CNKI, GEOPHYSICS, Petrophysics, OnePetro, SPE, SPWLA, EAGE, AAPG, Wanfang, and CQVIP with metadata enrichment and compliance-first downloading.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T18:57:29Z"
 ---
 ## What it is
 MCP server `MCP Skill Server`, catalogued on PulseMCP. Skill directory mounting with deterministic deployment.

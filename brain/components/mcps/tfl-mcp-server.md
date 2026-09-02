@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-22T11:47:29Z"
 ---
 ## What it is
 Provides real-time Transport for London data including line status, journey planning, and disruption information via the TfL Unified API.

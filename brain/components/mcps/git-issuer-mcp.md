@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T10:37:36Z"
 ---
 ## What it is
 Enables AI agents to create GitHub issues on explicitly allow-listed repositories using GitHub App authentication, with input validation, rate limiting, and no token exposure.

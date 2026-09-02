@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-05-24T21:34:07Z"
 ---
 ## What it is
 Enables AI assistants to build, inspect, and modify Oracle APEX 24.2 applications via natural language, providing 86 tools across 15 categories.

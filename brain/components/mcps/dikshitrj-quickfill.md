@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-29T13:45:25Z"
 ---
 ## What it is
 MCP server `Quickfill`, catalogued on PulseMCP. Render interactive browser-based UIs instantly for rapid prototyping and data visualization.

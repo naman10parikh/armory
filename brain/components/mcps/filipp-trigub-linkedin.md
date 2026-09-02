@@ -8,10 +8,12 @@ source_url: https://github.com/filipptrigub/linkedin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-05-26T07:48:59Z"
 ---
 ## What it is
 MCP server `LinkedIn`, catalogued on PulseMCP. Integrates with LinkedIn to enable direct posting of text and media content with customizable visibility settings through OAuth2 authentication and secure token management.

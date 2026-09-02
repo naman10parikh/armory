@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T00:20:10Z"
 ---
 ## What it is
 An MCP server that enables AI agents to execute terminal commands and Python code on the host system, leveraging Agent Zero's battle-tested implementation with session management and smart output handling.

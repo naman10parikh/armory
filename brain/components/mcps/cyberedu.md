@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-28T13:34:17Z"
 ---
 ## What it is
 MCP server `CyberEdu`, catalogued on PulseMCP. Integrates with the CyberEdu CTF platform to provide access to cybersecurity challenges, contests, file downloads, service deployment, flag submission, and leaderboard tracking.

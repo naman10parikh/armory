@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T10:48:59Z"
 ---
 ## What it is
 Market-intelligence MCP: 18 detection engines over 9,200+ instruments with calibrated uncertainty and outcome-verified provenance. Informational only, not financial advice.

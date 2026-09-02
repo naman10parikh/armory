@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T12:10:22Z"
 ---
 ## What it is
 An MCP server for Yandex 360 that provides 28 tools for Disk, Telemost, and Messenger, plus an escape hatch for undocumented endpoints.

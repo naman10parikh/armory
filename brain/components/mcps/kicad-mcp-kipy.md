@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T18:35:19Z"
 ---
 ## What it is
 MCP server for KiCad 10 that enables AI assistants to inspect and control schematics and PCB layouts in real-time using the official kipy Python bindings.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-19T13:23:37Z"
 ---
 ## What it is
 A shared memory MCP server for AI agents that provides persistent, semantic memory across sessions and tools, enabling long-term recall and context sharing.

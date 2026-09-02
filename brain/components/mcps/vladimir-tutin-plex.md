@@ -8,10 +8,12 @@ source_url: https://github.com/vladimir-tutin/plex-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 112
+stars: 144
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-02-08T08:53:02Z"
 ---
 ## What it is
 MCP server `Plex Media Server`, catalogued on PulseMCP. Integrates with Plex media servers to enable browsing, searching, and managing media libraries, including content querying, metadata editing, poster management, and playback control.

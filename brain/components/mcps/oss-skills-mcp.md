@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T08:21:13Z"
 ---
 ## What it is
 Guides AI agents through open-source contribution workflows, from finding issues to submitting PRs, while keeping decision-making and coding with the human contributor.

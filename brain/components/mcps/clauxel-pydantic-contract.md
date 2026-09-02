@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T06:41:39Z"
 ---
 ## What it is
 MCP server `Pydantic Contract`, catalogued on PulseMCP. Validates Pydantic AI structured output with verdicts, receipts, usage logs, and audit-ready records.

@@ -8,10 +8,12 @@ source_url: https://github.com/freema/mcp-jira-stdio
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-09-01T21:48:26Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Manages Jira issues, projects, and boards via the Atlassian Jira REST API.

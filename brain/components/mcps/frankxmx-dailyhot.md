@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T08:59:59Z"
 ---
 ## What it is
 MCP server `DailyHot`, catalogued on PulseMCP. Trending content aggregated from 55+ platforms including Weibo, Zhihu, Bilibili, and GitHub.

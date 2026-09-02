@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T17:34:39Z"
 ---
 ## What it is
 MCP server for live US software-engineering job search from public ATS boards, with tools to search jobs and list sources.

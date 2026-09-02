@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T09:01:03Z"
 ---
 ## What it is
 Personal workout coach MCP server that logs exercises in natural language, tracks progress with SQLite, and provides coaching signals like estimated 1RM and volume trends.

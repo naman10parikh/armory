@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-06T12:32:44Z"
 ---
 ## What it is
 MCP server `WeGene`, catalogued on PulseMCP. Integrates with WeGene's genetic testing API to access and analyze users' genetic reports for personalized health and ancestry insights.

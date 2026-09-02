@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T20:19:09Z"
 ---
 ## What it is
 Enables AI assistants to discover and explore university research, researchers, academic programs, and institutional data from OpenAlex and the U.S. College Scorecard, returning source-linked results without fabricating facts.

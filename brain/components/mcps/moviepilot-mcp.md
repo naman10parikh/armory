@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-07-29T03:40:25Z"
 ---
 ## What it is
 Enables natural language interaction with MoviePilot media library automation, supporting search, discovery, subscription management, download control, and media status queries.

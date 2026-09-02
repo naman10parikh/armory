@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-20T01:46:05Z"
 ---
 ## What it is
 MCP server `Crossref Citation`, catalogued on PulseMCP. Resolves academic paper citations via the Crossref API.

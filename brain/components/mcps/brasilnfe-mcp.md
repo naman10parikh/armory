@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T19:57:34Z"
 ---
 ## What it is
 MCP server that exposes Brazilian tax infrastructure as tools, resources, and prompts, enabling AI agents to emit and manage fiscal documents (NF-e, NFC-e, NFS-e, CT-e, MDF-e, DC-e) through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T02:26:17Z"
 ---
 ## What it is
 Provides tools for El Salvador electronic invoicing (DTE), including IVA calculation, document-type catalog, and DUI/NIT validation.

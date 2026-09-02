@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T14:52:42Z"
 ---
 ## What it is
 An unofficial Model Context Protocol server for Board Game Arena Studio development, providing structured access to BGA project inspection, validation, documentation, and safe Studio operations.

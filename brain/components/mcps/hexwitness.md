@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:15:04Z"
 ---
 ## What it is
 Enables AI agents to query persistent, build-scoped evidence memory for reverse engineering, combining static analysis, runtime captures, and claims with honest uncertainty. Provides read-only access to an evidence graph and MCP prompts for structured investigations.

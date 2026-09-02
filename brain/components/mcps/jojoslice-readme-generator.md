@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-23T09:10:35Z"
 ---
 ## What it is
 MCP server `README Generator`, catalogued on PulseMCP. Automatically analyzes project directories to generate professional README.md files with badges, project structure visualization, technology detection, and comprehensive documentation sections including installation instructions and usage examples.

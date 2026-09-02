@@ -8,10 +8,12 @@ source_url: https://github.com/dmontgomery40/meta-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-23T19:56:56Z"
 ---
 ## What it is
 MCP server `Generate Custom MCPs`, catalogued on PulseMCP. Enables dynamic creation of customized MCP servers using the MCP SDK to automate setup and manage tools and resources for specialized AI applications.

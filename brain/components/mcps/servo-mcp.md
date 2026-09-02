@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T15:38:47Z"
 ---
 ## What it is
 Enables AI agents to see and control your desktop with tools for screenshots, clicks, typing, and more, all locally on macOS and Windows.

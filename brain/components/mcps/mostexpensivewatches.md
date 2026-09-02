@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T22:26:33Z"
 ---
 ## What it is
 MCP server providing tools to search luxury watch inventory, auction records, market estimates, and brand info from mostexpensivewatches.net. Enables AI agents to access documented ultra-luxury watch data without an API key.

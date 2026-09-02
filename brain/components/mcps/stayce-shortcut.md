@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-29T01:14:32Z"
 ---
 ## What it is
 MCP server `Shortcut`, catalogued on PulseMCP. Shortcut project management. Create, update, search stories and manage workflows.

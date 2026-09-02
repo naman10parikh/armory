@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T18:04:31Z"
 ---
 ## What it is
 MCP server exposing insurance terms and conditions from the NN SOAP API, enabling querying, searching, comparing, and retrieving document text.

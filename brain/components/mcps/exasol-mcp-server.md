@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-31T09:10:19Z"
 ---
 ## What it is
 Provides an LLM access to the Exasol database via MCP tools, enabling reading of database metadata and execution of data reading queries.

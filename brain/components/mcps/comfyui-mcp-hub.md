@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T07:32:37Z"
 ---
 ## What it is
 Give AI agents full control over your local ComfyUI by exposing 77 tools for workflow management, image generation, model handling, and real-time canvas control.

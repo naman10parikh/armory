@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-22T14:38:13Z"
 ---
 ## What it is
 MCP server `Cursor Task Tracker`, catalogued on PulseMCP. Task management system for AI coding agents with kanban dashboard and role-based workflows.

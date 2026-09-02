@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-20T14:41:03Z"
 ---
 ## What it is
 MCP server `TriliumNext`, catalogued on PulseMCP. TriliumNext knowledge base MCP for reading and writing notes, managing hierarchies, and searching content via ETAPI.

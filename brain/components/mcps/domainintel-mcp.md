@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T18:12:16Z"
 ---
 ## What it is
 An MCP server for domain intelligence — WHOIS, DNS records, SSL certificate inspection, SPF/DMARC validation, security-header audits, and blacklist/reputation checks, callable by AI agents. Powered by domainintel.app; runs server-side, no local setup.

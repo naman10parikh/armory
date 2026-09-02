@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T08:38:43Z"
 ---
 ## What it is
 MCP server that exposes the credit scoring model's deterministic tools (probability of default, SHAP explanations, typicality check, financial ratios) to AI agents, enabling natural language credit risk assessment.

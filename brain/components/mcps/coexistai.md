@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T17:20:24Z"
 ---
 ## What it is
 A modular research assistant framework that enables web, Reddit, YouTube, map, and codebase exploration via MCP and FastAPI, with support for multiple LLMs and embedders.

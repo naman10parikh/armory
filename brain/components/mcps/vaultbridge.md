@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T15:58:50Z"
 ---
 ## What it is
 Secret management MCP server for AI coding agents that prevents secrets from entering the LLM context window by returning metadata only and using side-channel injection. Integrates with Bitwarden and offers hooks for auto-capture and leak prevention.

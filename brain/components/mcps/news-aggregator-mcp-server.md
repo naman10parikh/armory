@@ -8,11 +8,13 @@ source_url: https://github.com/AiAgentKarl/news-aggregator-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-03T16:05:47Z"
 ---
 ## What it is
 Enables AI agents to fetch and search news from multiple sources including RSS/Atom feeds, HackerNews, and GDELT global news intelligence without requiring an API key.

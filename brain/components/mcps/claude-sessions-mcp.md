@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-30T13:44:37Z"
 ---
 ## What it is
 Browse, search, rename, split, and clean up Claude Code sessions via MCP, Web UI, or VSCode extension.

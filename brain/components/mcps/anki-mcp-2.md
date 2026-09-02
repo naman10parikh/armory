@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T16:34:40Z"
 ---
 ## What it is
 MCP server for Anki via AnkiConnect, enabling creation, search, and management of flashcards directly from Claude Code or any MCP client.

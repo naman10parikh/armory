@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-06-19T22:32:12Z"
 ---
 ## What it is
 MCP server `MLflow`, catalogued on PulseMCP. Provides a natural language interface to MLflow tracking servers for querying and managing machine learning experiments and models through standardized tools for listing models, exploring experiments, and retrieving detailed information.

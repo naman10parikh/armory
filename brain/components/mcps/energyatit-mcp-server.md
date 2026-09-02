@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T15:17:35Z"
 ---
 ## What it is
 Connects AI agents to energy infrastructure with 30+ tools for managing sites, assets, dispatch, settlements, compliance, and carbon tracking.

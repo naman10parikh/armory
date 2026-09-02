@@ -8,10 +8,12 @@ source_url: https://github.com/yzfly/mcp-excel-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 90
+stars: 94
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-07-02T08:06:36Z"
 ---
 ## What it is
 MCP server `Excel Data Manager`, catalogued on PulseMCP. Enables Excel file operations and data analysis with tools for statistical analysis, data filtering, pivot table creation, and visualization through charts and plots.

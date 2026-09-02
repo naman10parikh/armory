@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-26T05:23:11Z"
 ---
 ## What it is
 MCP server `Doc Fetcher (Dash)`, catalogued on PulseMCP. Fetches documentation from local Dash docsets or any URL and converts it to clean markdown for quick lookups and reference.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T20:59:41Z"
 ---
 ## What it is
 Enables natural language booking and management of rooms in Nexudus coworking spaces, including listing rooms, checking availability, booking, viewing/cancelling bookings, and schedules.

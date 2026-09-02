@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-22T16:46:39Z"
 ---
 ## What it is
 Enables AI-powered document editing, drafting, searching, summarizing, and exporting styled documents (docx, PDF, HTML, Markdown) across large files via 38 MCP tools.

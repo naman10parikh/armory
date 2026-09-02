@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T08:36:57Z"
 ---
 ## What it is
 A search-first MCP server that queries multiple public asset sources and optional local libraries for game development, unifying results with Chinese keyword expansion, license normalization, and cursor pagination.

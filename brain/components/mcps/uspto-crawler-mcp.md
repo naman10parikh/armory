@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-28T13:19:58Z"
 ---
 ## What it is
 A specialized web crawler and scraper for the US Patent and Trademark Office (USPTO) website, built with Crawl4AI and MCP integration, enabling patent and trademark search, extraction, and status checking.

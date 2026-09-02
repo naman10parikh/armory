@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-25T21:38:05Z"
 ---
 ## What it is
 MCP server `is.k01/synthetic-health-data`, catalogued on PulseMCP. Privacy-preserving synthetic health data generation. FHIR R4/R5 compliant.

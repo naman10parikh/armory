@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T14:56:59Z"
 ---
 ## What it is
 Enables full CRUD operations on calendar events, free/busy queries, and availability slot finding via CalDAV, supporting Nextcloud, Radicale, iCloud, and other RFC 4791-compliant servers.

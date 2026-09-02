@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T10:04:51Z"
 ---
 ## What it is
 Enables Claude to control a running BricsCAD session via COM automation. Users can create and modify Effluent Treatment Plant (ETP) layouts through natural language, including tank sizing and drawing.

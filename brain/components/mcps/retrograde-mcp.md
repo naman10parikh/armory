@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T20:14:53Z"
 ---
 ## What it is
 A Model Context Protocol server that provides real astronomical data (planetary positions, lunar phases, space weather) with astrological interpretations to help users make decisions about deployments, incident analysis, and scheduling.

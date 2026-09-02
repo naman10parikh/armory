@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:50:51Z"
 ---
 ## What it is
 Exposes ACR's memory, skill, web, and GitHub search tools to any MCP client, enabling task execution and tool access via the MCP protocol.

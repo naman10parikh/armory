@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-02T14:53:44Z"
 ---
 ## What it is
 MCP server `LangGraph4j PlantUML`, catalogued on PulseMCP. Converts diagram images into PlantUML code through vision model analysis, structured validation, and automatic syntax generation with error correction and iterative refinement.

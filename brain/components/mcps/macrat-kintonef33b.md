@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-28T11:39:54Z"
 ---
 ## What it is
 MCP server `Kintone`, catalogued on PulseMCP. Enables interaction with Kintone's low/no code platform for listing apps, reading app info, and performing CRUD operations.

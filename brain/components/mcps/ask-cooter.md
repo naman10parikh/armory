@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T01:57:03Z"
 ---
 ## What it is
 MCP server that turns any scanned or digital PDF into a private knowledge expert, letting you ask questions and get cited answers with page-level sources. Provides tools for semantic search, page retrieval, torque spec lookup, and section navigation.

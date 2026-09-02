@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:27:53Z"
 ---
 ## What it is
 An MCP server that exposes the python-bitcoinlib API. It provides tools for Bitcoin key management, address generation, transaction building, script operations, and cryptography.

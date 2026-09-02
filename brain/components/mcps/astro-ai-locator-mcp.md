@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T06:43:49Z"
 ---
 ## What it is
 Resolves a UI element hash from an Astro dev server to its source file, line, and column, enabling AI agents to edit the exact code.

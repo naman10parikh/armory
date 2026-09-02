@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T09:50:04Z"
 ---
 ## What it is
 Hosted MCP server for Novence, a static site hosting platform for AI agents. It enables users to deploy and manage static sites through natural language using a streamable HTTP endpoint.

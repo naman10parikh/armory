@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T11:18:54Z"
 ---
 ## What it is
 Generates personalised 12-week wellbeing planners for Australian near-retirees, integrating ABS statistics and providing an interactive journey visualization.

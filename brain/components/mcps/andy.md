@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T14:40:38Z"
 ---
 ## What it is
 Enables AI agents to learn from their sessions by inspecting history, proposing rules or skills, and automatically persisting them to configuration files.

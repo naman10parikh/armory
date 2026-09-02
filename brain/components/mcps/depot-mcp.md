@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:13:11Z"
 ---
 ## What it is
 Gives LLMs structured access to Warhammer 40,000 (10th edition) game data: faction lists, unit datasheets, stratagems, detachments and enhancements.

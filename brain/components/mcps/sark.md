@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T12:52:39Z"
 ---
 ## What it is
 Enables Slack-driven coding agents in isolated cloud sandboxes per thread, with thread-scoped MCP tokens and fail-closed allowlists.

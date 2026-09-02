@@ -8,10 +8,12 @@ source_url: https://github.com/mrwyndham/pocketbase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 136
+stars: 151
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 34
+pushed_at: "2026-02-01T07:06:50Z"
 ---
 ## What it is
 MCP server `PocketBase`, catalogued on PulseMCP. Provides a bridge between AI systems and PocketBase databases, enabling direct interaction with collections, records, and user authentication for applications that need to manipulate database data within conversations.

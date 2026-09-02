@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-02-28T08:43:30Z"
 ---
 ## What it is
 MCP server `Confluence Wiki`, catalogued on PulseMCP. Bridges VSCode/Cursor with Confluence Wiki, enabling direct access and automatic conversion of wiki content to markdown format within AI conversations.

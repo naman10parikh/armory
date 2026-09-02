@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-24T21:19:47Z"
 ---
 ## What it is
 Enables creating and managing ElevenLabs conversational AI agents with an interactive UI, voice selection, and configuration of agent behavior.

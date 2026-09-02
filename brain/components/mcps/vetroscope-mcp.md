@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T08:05:24Z"
 ---
 ## What it is
 A read-only Model Context Protocol server for Vetroscope that provides LLMs with detailed time-tracking data, including reports, app/project breakdowns, goals progress, and activity status, all from a local SQLite database.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:34:51Z"
 ---
 ## What it is
 Enables AI clients to search Xiaohongshu notes by brand and category, batch extract comments, and perform keyword/sentiment/heat analysis, with results exported as Excel and JSON reports.

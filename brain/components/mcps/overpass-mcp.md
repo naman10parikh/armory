@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T00:40:03Z"
 ---
 ## What it is
 MCP server providing structured access to OpenStreetMap data through Overpass and Nominatim APIs, enabling geocoding, nearby place searches, element queries, and tag counting without API keys.

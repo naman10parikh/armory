@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-09-10T13:35:37Z"
 ---
 ## What it is
 Provides offline access to complete Garmin Connect IQ SDK 8.2.3 documentation with enhanced search, device reference, programming guides, and FAQ for AI assistants.

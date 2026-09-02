@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T04:47:24Z"
 ---
 ## What it is
 MCP server that gives AI agents direct access to Google services including Gmail, Calendar, Drive, and more, with multi-account OAuth support. Enables reading and sending email, managing calendar events, and interacting with Google files through natural language.

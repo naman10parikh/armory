@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-24T11:39:15Z"
 ---
 ## What it is
 MCP server `Stimulus Docs`, catalogued on PulseMCP. Provides direct access to Stimulus JavaScript framework documentation, fetching content from GitHub with fallback mechanisms for reliable retrieval of handbook tutorials and technical reference materials.

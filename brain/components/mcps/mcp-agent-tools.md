@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T21:26:10Z"
 ---
 ## What it is
 Enables AI agents to execute tools securely with Docker isolation, tier-based permissions, and feature flags, providing a centralized tool registry and MCP server.

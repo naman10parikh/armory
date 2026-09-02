@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T03:44:23Z"
 ---
 ## What it is
 A conversational chat interface that uses RAG over a synthetic test corpus and a domain-knowledge corpus, exposing retrieval via MCP.

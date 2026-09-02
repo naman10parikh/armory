@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T18:54:28Z"
 ---
 ## What it is
 Enables smart contract security auditing using Slither, Aderyn, and custom pattern analysis through the Model Context Protocol, allowing AI assistants to run static analysis and vulnerability checks on Solidity and Vyper contracts.

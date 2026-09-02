@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-21T21:38:53Z"
 ---
 ## What it is
 A minimal starter template for building Model Context Protocol (MCP) servers using TypeScript and FastMCP, including an example weather tool for demonstration.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T21:13:57Z"
 ---
 ## What it is
 MCP server `Churn Predictor AI`, catalogued on PulseMCP. Customer churn prediction and retention analysis tools using machine learning.

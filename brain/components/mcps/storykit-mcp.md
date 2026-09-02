@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T23:32:30Z"
 ---
 ## What it is
 MCP server for the StoryKit asset library — search and embed free, generated design blocks (charts, widgets, illustrations, themes) straight from your editor.

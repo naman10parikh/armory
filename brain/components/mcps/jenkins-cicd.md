@@ -8,10 +8,12 @@ source_url: https://github.com/ashwinighuge3012/jenkins-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-08-10T09:28:42Z"
 ---
 ## What it is
 MCP server `Jenkins CI/CD`, catalogued on PulseMCP. Integrates with Jenkins CI/CD infrastructure to provide complete job management, build monitoring, pipeline execution, and artifact handling with intelligent caching and CSRF protection for DevOps automation workflows.

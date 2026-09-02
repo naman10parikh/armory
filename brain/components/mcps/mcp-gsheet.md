@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-12T16:25:36Z"
 ---
 ## What it is
 MCP server for interacting with Google Sheets, providing tools to list sheets, read data from cell ranges, and write data to cell ranges.

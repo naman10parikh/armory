@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T20:41:11Z"
 ---
 ## What it is
 Checks whether a number is real or just noise: peek-safe A/B tests you can look at as often as you like without inflating false positives, two-sided change detection, and a guard for when a metric moved only because its sample size did. Zero dependencies, standard library only.

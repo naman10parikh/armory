@@ -8,10 +8,12 @@ source_url: https://github.com/paulnegz/manim-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-02-25T06:22:59Z"
 ---
 ## What it is
 MCP server `Manim`, catalogued on PulseMCP. Generates mathematical animation videos from natural language prompts using multi-agent orchestration.

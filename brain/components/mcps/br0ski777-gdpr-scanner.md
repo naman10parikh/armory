@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:55:24Z"
 ---
 ## What it is
 MCP server `GDPR Scanner`, catalogued on PulseMCP. Scans websites for GDPR compliance issues including cookie consent, privacy policies, and tracking scripts with a 0–100 score.

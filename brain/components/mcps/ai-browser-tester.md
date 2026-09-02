@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T16:12:06Z"
 ---
 ## What it is
 MCP-first browser-control toolkit enabling AI agents to safely automate browser actions using redacted snapshots and ref-based interactions.

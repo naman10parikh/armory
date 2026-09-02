@@ -8,11 +8,13 @@ source_url: https://github.com/whoisqwerz/pocket_disasm
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-12T13:37:45Z"
 ---
 ## What it is
 Enables coding agents to manage multiple isolated IDA Pro analysis sessions concurrently through a single MCP endpoint, allowing them to open, inspect, save, and close binary analysis sessions without launching multiple IDA windows.

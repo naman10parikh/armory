@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-06T07:01:42Z"
 ---
 ## What it is
 Enables AI agents to overcome context loops by extracting and packaging code for external AI consultation or automated multi-agent collaboration, with optional ChatGPT Desktop integration.

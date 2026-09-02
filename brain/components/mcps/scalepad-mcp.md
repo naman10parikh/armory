@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T05:19:44Z"
 ---
 ## What it is
 MCP server for the ScalePad platform, enabling access to Core, Lifecycle Manager, ControlMap, Backup Radar, and Quoter tools with dual-era protocol support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T00:56:18Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve structured merchant data, check availability, manage bookings, and submit feedback against an open commerce registry with real restaurant data for LA, Hong Kong, and Tokyo.

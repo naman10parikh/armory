@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T21:47:05Z"
 ---
 ## What it is
 workbench-mcp is a Python FastMCP server for controlled local workspace inspection, bounded file reads/searches, guarded text patching, allowlisted test execution, read-only Git status, approved artifact collection, and workspace diagnostics.

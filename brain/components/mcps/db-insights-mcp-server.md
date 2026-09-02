@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T13:19:33Z"
 ---
 ## What it is
 Enables AI assistants to query SQL databases safely with read-only access, allowing schema discovery and SELECT queries while blocking writes and DDL operations.

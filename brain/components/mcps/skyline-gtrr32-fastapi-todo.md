@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-04T07:09:29Z"
 ---
 ## What it is
 MCP server `FastAPI Todo List`, catalogued on PulseMCP. Bridges FastAPI REST endpoints with MCP tools for complete CRUD task management, providing formatted responses with emoji status indicators and in-memory storage.

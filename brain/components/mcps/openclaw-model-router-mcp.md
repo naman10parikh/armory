@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T01:58:08Z"
 ---
 ## What it is
 Routes model requests to Sol, Terra, or Luna via OpenClaw Gateway's Codex auth profile, with strict validation and no fallback.

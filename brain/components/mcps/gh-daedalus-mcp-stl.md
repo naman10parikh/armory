@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T14:51:51Z"
 ---
 ## What it is
 MCP server `STL Editor`, catalogued on PulseMCP. MCP server for parsing, transforming, and generating STL 3D model files with tools for mesh manipulation and shape creation.

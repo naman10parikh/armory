@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T18:10:41Z"
 ---
 ## What it is
 Read-only MCP server for extracting data across multiple CallTrackingMetrics sub-accounts using a single parent API key. Enables cross-account call data, reports, numbers, contacts, and configuration analysis for resellers and agencies via Claude.

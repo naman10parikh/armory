@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T16:06:27Z"
 ---
 ## What it is
 MCP server for AI agents to execute the complete NevioServiceCenter flight booking flow. It provides 10 tools for flight search, cart management, passenger details, seat selection, ancillaries, and booking confirmation with automatic JWT token management.

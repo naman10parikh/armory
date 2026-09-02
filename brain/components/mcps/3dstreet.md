@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T16:17:21Z"
 ---
 ## What it is
 MCP server `3DStreet`, catalogued on PulseMCP. AI-driven control of 3DStreet 3D scene editing via MCP.

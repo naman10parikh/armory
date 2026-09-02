@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T07:11:27Z"
 ---
 ## What it is
 MCP server providing LLMs with safe, read-only access to the Chinook SQLite sample database, including schema exploration and SQL query execution.

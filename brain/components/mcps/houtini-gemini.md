@@ -8,10 +8,12 @@ source_url: https://github.com/houtini-ai/gemini-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-17T14:20:16Z"
 ---
 ## What it is
 MCP server `Gemini`, catalogued on PulseMCP. Professional integration with Google's Gemini AI models featuring Google Search grounding and deep research capabilities

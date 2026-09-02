@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T17:10:08Z"
 ---
 ## What it is
 A local MCP server for managing SaaS projects with planning, operations, and secrets, designed to work with Claude Code via stdio. It provides tools for kanban, health monitoring, and secure secrets management, all logged for AI transparency.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T09:32:32Z"
 ---
 ## What it is
 Enables AI agents to add decision drafts, evidence, and counterarguments to a shared local decision state, while users confirm or reopen decisions in a web console. Prevents unverified agent answers from being silently turned into code.

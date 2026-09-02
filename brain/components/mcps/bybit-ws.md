@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T18:48:53Z"
 ---
 ## What it is
 An MCP server that enables AI agents to scan the market, manage positions, and retrieve trading metrics for Bybit through natural language commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T00:12:09Z"
 ---
 ## What it is
 A server for Korean lease and moving safety guidance using official public data. It helps users convert region names, compare deposits, detect contract red flags, and plan move-in protection steps.

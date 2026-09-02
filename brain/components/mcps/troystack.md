@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-01T17:56:10Z"
 ---
 ## What it is
 MCP server `TroyStack`, catalogued on PulseMCP. Real-time precious metals market data and portfolio analytics covering gold, silver, and other metals.

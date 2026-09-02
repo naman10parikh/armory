@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-31T03:03:29Z"
 ---
 ## What it is
 MCP server `Wasl Arabic Tools`, catalogued on PulseMCP. Arabic-language Islamic tools, linguistic utilities, and financial calculators for AI assistants.

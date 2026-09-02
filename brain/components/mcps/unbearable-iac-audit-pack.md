@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T09:38:45Z"
 ---
 ## What it is
 Provides IaC auditing across Docker Compose, Dockerfile, and GitHub Actions with 64 checks, plus HU postcode validation, via a single MCP endpoint with pay-per-event billing.

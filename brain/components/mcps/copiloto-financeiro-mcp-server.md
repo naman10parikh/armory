@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T22:53:37Z"
 ---
 ## What it is
 Enables AI agents to manage personal finances for Brazilian users through MCP tools, including categorizing transactions, reconciling debts, checking cash-flow projections, and adjusting budgets, with integration to Open Finance Brasil via Pluggy.

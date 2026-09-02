@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:12:58Z"
 ---
 ## What it is
 A reliable, cross-platform MCP server for Apple iCloud Calendar that provides guarded CalDAV CRUD operations, idempotent writes, ETag concurrency control, and recurrence expansion via stdio or HTTP.

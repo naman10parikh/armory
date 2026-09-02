@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T14:43:25Z"
 ---
 ## What it is
 Helps parents of multicultural or North Korean background primary school children translate and understand school notices, converting them into actionable tasks like preparing items and meeting deadlines.

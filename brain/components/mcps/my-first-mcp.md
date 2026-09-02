@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-16T14:25:42Z"
 ---
 ## What it is
 A basic MCP server implementing a weather tool using Next.js and the Vercel MCP adapter.

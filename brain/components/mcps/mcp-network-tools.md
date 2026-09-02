@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-01T15:57:04Z"
 ---
 ## What it is
 A secure MCP server for network diagnostics, providing tools like ping, traceroute, whois, nslookup, dig, nmap, curl, and netstat through natural language interfaces.

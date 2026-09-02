@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T06:32:13Z"
 ---
 ## What it is
 A local-first MCP server that builds compact voice profiles from writing samples, then compares, rewrites, or generates new text in that voice.

@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-10T18:25:51Z"
 ---
 ## What it is
 MCP server `Dataverse DevTools`, catalogued on PulseMCP. Integrates with Microsoft Power Platform Dataverse environments to provide user administration, security role management, entity metadata exploration, custom action discovery, and plugin trace log analysis with support for both interactive and service principal authentication.

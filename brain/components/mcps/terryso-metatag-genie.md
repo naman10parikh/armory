@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-11T16:59:03Z"
 ---
 ## What it is
 MCP server `MetaTag Genie`, catalogued on PulseMCP. Enables AI to write standardized metadata to various image file formats including HEIC and PNG for automated tagging, photo organization, and copyright embedding without switching contexts.

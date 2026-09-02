@@ -8,10 +8,12 @@ source_url: https://github.com/joshuarileydev/mac-apps-launcher
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2024-12-13T19:08:00Z"
 ---
 ## What it is
 MCP server `Mac Apps Launcher`, catalogued on PulseMCP. Launch and control macOS applications.

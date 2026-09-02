@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:42:07Z"
 ---
 ## What it is
 MCP server `Art Institute of Chicago`, catalogued on PulseMCP. Artworks, artists, and exhibitions from the Art Institute of Chicago via the ARTIC public API.

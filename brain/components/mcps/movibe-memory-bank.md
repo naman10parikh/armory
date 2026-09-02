@@ -12,6 +12,8 @@ stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-03-24T23:49:59Z"
 ---
 ## What it is
 MCP server `Memory Bank`, catalogued on PulseMCP. TypeScript-based server for tracking project context across sessions, enabling persistent knowledge sharing through modular, markdown-based memory management with support for multiple development modes.

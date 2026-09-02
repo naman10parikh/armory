@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T00:02:51Z"
 ---
 ## What it is
 Enables you to audit your AI agent skills by running each one against an agent that cannot see it, diffing the resulting artifacts, and grading whether each skill genuinely improves, changes nothing, or worsens the output.

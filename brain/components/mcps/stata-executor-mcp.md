@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T02:21:34Z"
 ---
 ## What it is
 Enables an agent to execute Stata do scripts or inline commands locally and retrieve structured results including status, error diagnostics, and output text for consumption by the model.

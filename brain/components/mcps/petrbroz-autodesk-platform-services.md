@@ -8,10 +8,12 @@ source_url: https://github.com/petrbroz/aps-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-10-29T16:09:03Z"
 ---
 ## What it is
 MCP server `Autodesk Platform Services`, catalogued on PulseMCP. Provides secure access to Autodesk Platform Services API for architecture, engineering, and construction workflows, enabling interaction with projects, documents, and construction issues through a Node.js-based server with fine-grained access control.

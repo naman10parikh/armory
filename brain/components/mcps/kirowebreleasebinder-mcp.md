@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T08:25:57Z"
 ---
 ## What it is
 MCP server `Kiro Web Release Binder`, catalogued on PulseMCP. Kiro release readiness binder with evidence compilation, signoff tracking, and CI approval receipts.

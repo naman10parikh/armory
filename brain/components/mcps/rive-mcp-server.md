@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-23T07:53:45Z"
 ---
 ## What it is
 Orchestrates Rive animations by enabling discovery, integration, and composition across frameworks like React and Vue, with code generation and multi-backend storage.

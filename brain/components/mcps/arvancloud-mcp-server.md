@@ -8,11 +8,13 @@ source_url: https://github.com/dwin-gharibi/arvancloud-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T06:12:03Z"
 ---
 ## What it is
 Enables AI agents to manage the entire ArvanCloud platform (compute, networking, storage, CDN, DNS, etc.) plus a cloud-DevOps toolbox for provisioning, Kubernetes, IaC, security, and networking through natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/marmelab/atomic-crm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-08T10:09:56Z"
 ---
 ## What it is
 MCP server `Atomic CRM`, catalogued on PulseMCP. Enables secure querying of Atomic CRM data including contacts, companies, deals, and tasks through Supabase with OAuth 2.1 authentication and Row Level Security enforcement.

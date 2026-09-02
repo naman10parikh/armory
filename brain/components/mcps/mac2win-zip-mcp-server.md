@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-11T15:18:01Z"
 ---
 ## What it is
 Creates Windows-compatible ZIP files from macOS by normalizing Unicode filenames and removing forbidden characters, ensuring seamless file sharing.

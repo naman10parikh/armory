@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T23:10:19Z"
 ---
 ## What it is
 A local, read-only MCP bridge that lets OpenAI Codex ask your authenticated Grok Build CLI for a second opinion without copying API keys into Codex.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T10:35:49Z"
 ---
 ## What it is
 Comprehensive MCP server for Mastodon integration, enabling AI assistants to read timelines, post statuses, manage accounts, search, and more on any Mastodon instance.

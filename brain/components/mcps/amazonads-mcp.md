@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-03T11:43:22Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Amazon Advertising API to manage campaigns, keywords, product ads, and retrieve performance metrics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T17:57:17Z"
 ---
 ## What it is
 Enables querying sales data, identifying out-of-stock products, viewing top sellers, and receiving restock suggestions through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T11:29:13Z"
 ---
 ## What it is
 A suite of developer primitives that enable AI applications to integrate with Tableau, including tools to query data, explore content, and get views.

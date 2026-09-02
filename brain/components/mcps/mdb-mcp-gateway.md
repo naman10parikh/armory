@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T22:23:38Z"
 ---
 ## What it is
 A smart MCP gateway that routes AI agents to the right tools using hybrid search (vector + full-text) on MongoDB Atlas, collapsing the retrieval infrastructure into a single query.

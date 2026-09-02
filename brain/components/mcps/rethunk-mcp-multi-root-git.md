@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T05:46:23Z"
 ---
 ## What it is
 Provides comprehensive git tooling via MCP, including status, diffs, commits, branches, stashes, and multi-root inventory, enabling AI agents to manage repositories.

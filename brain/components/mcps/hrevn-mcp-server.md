@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T18:20:43Z"
 ---
 ## What it is
 Minimal stdio MCP server that exposes HREVN compliance and audit tools as structured MCP tools, enabling baseline checks, profile validation, and bundle generation via a managed runtime.

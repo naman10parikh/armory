@@ -8,10 +8,12 @@ source_url: https://github.com/isaac-levine/forage
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-21T23:02:09Z"
 ---
 ## What it is
 MCP server `Forage`, catalogued on PulseMCP. Self-improving tool discovery for AI agents that finds, installs, and uses new servers automatically.

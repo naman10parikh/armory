@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T04:33:26Z"
 ---
 ## What it is
 Builds piano-friendly iReal Pro chord charts with deterministic layout, harmonic analysis, and a standalone HTML export. Provides tools to create, preview, list, and delete charts, and serves them over LAN for easy import into iReal Pro.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T19:42:22Z"
 ---
 ## What it is
 MCP server `DBHub Analytics`, catalogued on PulseMCP. Multi-database MCP server supporting PostgreSQL, MySQL, SQL Server, SQLite, Databricks, and BigQuery for AI-powered database exploration and querying.

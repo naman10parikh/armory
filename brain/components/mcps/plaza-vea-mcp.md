@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T04:12:39Z"
 ---
 ## What it is
 MCP server for querying Plaza Vea's public catalog via VTEX APIs, enabling product search, price comparison, image display, and cart link generation.

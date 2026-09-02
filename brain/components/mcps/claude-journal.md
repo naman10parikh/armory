@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-31T22:36:23Z"
 ---
 ## What it is
 A lightweight journal/memory system for Claude Code with no ML dependencies, using SQLite for fast local storage.

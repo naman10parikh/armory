@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-04T03:41:39Z"
 ---
 ## What it is
 MCP server `PDF Reader`, catalogued on PulseMCP. Extracts text from PDF files using Docling for document conversion, providing tools to list available PDFs and convert them to clean Markdown format for quick text extraction and document querying.

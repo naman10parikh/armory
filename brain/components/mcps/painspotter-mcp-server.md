@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T13:51:06Z"
 ---
 ## What it is
 Query PainSpotter to discover validated business opportunities and trending pain points mined from Reddit, Hacker News, and Product Hunt.

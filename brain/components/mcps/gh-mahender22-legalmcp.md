@@ -8,10 +8,12 @@ source_url: https://github.com/mahender22/legal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 65
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-06-19T04:47:43Z"
 ---
 ## What it is
 MCP server `LegalMCP`, catalogued on PulseMCP. US legal research server with case law search, citation tracing, Clio practice management, and PACER federal filings.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T15:37:14Z"
 ---
 ## What it is
 A safe, read-only MCP server that gives Codex structured access to engineering operations evidence, with validated queries, secret redaction, and audit logging. Provides a search_logs tool for filtering logs by service, environment, severity, and time range.

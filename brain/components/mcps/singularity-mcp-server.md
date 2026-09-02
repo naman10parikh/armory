@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T18:09:39Z"
 ---
 ## What it is
 Connects Claude AI to TradingView Desktop for multi-angle market analysis using 10 specialized agents, delivering verdicts, confidence scores, and trade levels for symbols like Nifty 50.

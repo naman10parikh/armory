@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T02:00:46Z"
 ---
 ## What it is
 Finds YouTube outlier videos on small channels with high views-to-subs ratio, and provides tools to analyze video structure and comments to verify replicable formats.

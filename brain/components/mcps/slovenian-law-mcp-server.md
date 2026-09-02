@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:37:50Z"
 ---
 ## What it is
 Enables querying 40 Slovenian statutes with full-text search, provision retrieval, and EU law integration, providing verified references from official PISRS sources.

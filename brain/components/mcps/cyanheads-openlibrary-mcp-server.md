@@ -8,11 +8,13 @@ source_url: https://github.com/cyanheads/openlibrary-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T02:36:10Z"
 ---
 ## What it is
 An MCP server that enables searching books and authors, fetching editions, browsing subjects, and resolving cover images from Open Library.

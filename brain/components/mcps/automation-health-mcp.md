@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T08:44:47Z"
 ---
 ## What it is
 An MCP server for auditing automation health, finding failures, stale logs, and non-functional endpoints that report success while quietly failing.

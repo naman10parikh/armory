@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T15:52:27Z"
 ---
 ## What it is
 Turns approved contracts into runnable code, sandboxes it, caches it, and serves the result as MCP tools. It executes tool names and arguments without making decisions.

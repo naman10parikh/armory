@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-18T23:06:29Z"
 ---
 ## What it is
 An experimental MCP server that enables Claude Code to execute DevOps tasks such as Docker, Git, and testing commands.

@@ -8,10 +8,12 @@ source_url: https://github.com/kvadratni/speech-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 82
+stars: 83
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-10-23T22:51:19Z"
 ---
 ## What it is
 MCP server `Speech Interface (Faster Whisper)`, catalogued on PulseMCP. Integrates voice interaction capabilities using faster-whisper and PyAudio for speech recognition and synthesis, enabling natural language voice interfaces for AI models.

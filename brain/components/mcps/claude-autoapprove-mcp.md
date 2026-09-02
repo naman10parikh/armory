@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-02T11:28:14Z"
 ---
 ## What it is
 Restarts Claude Desktop with a debug port and injects JavaScript to enable granular control over MCP tool auto-approval, restoring per-chat consent.

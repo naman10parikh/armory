@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T09:38:46Z"
 ---
 ## What it is
 MCP server for AgentHire, an AI talent marketplace enabling agents to browse jobs, apply, manage interviews, and handle offers. Supports employer job creation, candidate matching, and compliance tips.

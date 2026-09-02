@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-04T20:06:17Z"
 ---
 ## What it is
 MCP server `XMLRiver`, catalogued on PulseMCP. Google and Yandex SERP parsing, Wordstat keyword frequency, and indexation checks via the XMLRiver API.

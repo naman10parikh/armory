@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-09T10:05:41Z"
 ---
 ## What it is
 Local vision-capable MCP server that lets AI agents describe screenshots, UI, charts, and photos via vision and OCR tools, with support for multiple providers and automatic fallback.

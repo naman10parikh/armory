@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T07:21:05Z"
 ---
 ## What it is
 Enables Claude to query Korean public financial, economic, and statistical data (OpenDART, ECOS, KOSIS, and data.go.kr) via real API calls, providing factual answers instead of guesses.

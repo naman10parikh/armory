@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T14:17:54Z"
 ---
 ## What it is
 Windows desktop-control MCP server: screenshot, window mgmt, mouse/keyboard input, recording.

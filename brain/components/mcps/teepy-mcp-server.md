@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T13:26:00Z"
 ---
 ## What it is
 Enables the Theopy AI assistant to interact with the Teepy pharmacy management ERP via the MCP protocol, with role-based access to customers, invoices, plannings, sessions, and reminders.

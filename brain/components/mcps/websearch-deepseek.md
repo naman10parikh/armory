@@ -8,11 +8,13 @@ source_url: https://github.com/lyumeng/websearch-deepseek
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-14T14:36:10Z"
 ---
 ## What it is
 A general MCP server providing web search capabilities using DeepSeek's native online search API.

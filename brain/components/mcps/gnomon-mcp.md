@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T12:21:04Z"
 ---
 ## What it is
 A small MCP server for the boring-but-essential utilities every model needs: dates, calendars, arithmetic, unit conversion. Use it so your assistant stops "next-token guessing" math and date math.

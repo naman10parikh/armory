@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-08T21:53:06Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server providing human-like memory dynamics for AI assistants, where memories naturally fade over time unless reinforced through use.

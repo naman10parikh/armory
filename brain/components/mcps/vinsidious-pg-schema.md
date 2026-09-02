@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-02-14T04:02:12Z"
 ---
 ## What it is
 MCP server `PostgreSQL Schema Inspector`, catalogued on PulseMCP. Provides read-only access to PostgreSQL databases for schema inspection and data exploration without modifying content.

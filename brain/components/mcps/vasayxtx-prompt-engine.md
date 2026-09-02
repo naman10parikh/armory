@@ -8,10 +8,12 @@ source_url: https://github.com/vasayxtx/mcp-prompt-engine
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-30T07:54:38Z"
 ---
 ## What it is
 MCP server `Prompt Engine`, catalogued on PulseMCP. Provides dynamic prompt template management with Go template engine support, file system watching for real-time updates, and CLI tooling for template rendering, validation, and listing with support for partials, environment variables, and automatic reloading.

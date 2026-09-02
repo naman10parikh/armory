@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-19T18:19:40Z"
 ---
 ## What it is
 MCP server `TypeScript Prompt Development`, catalogued on PulseMCP. Provides a TypeScript-based development environment for creating, testing, and refining structured prompts locally before production deployment.

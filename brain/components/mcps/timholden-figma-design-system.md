@@ -8,10 +8,12 @@ source_url: https://github.com/timholden/figma-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 148
+stars: 150
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-03-09T06:51:19Z"
 ---
 ## What it is
 MCP server `Figma REST API`, catalogued on PulseMCP. Integrates with the Figma REST API to manage design system elements, enabling variable handling, file operations, and collaborative workflows.

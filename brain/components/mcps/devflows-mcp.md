@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T18:59:39Z"
 ---
 ## What it is
 Enables AI coding agents to drive developer workflows as BPMN processes on a local CIB seven engine, including starting releases, inspecting runs, and approving human-decision gates via MCP tools.

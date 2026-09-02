@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T15:39:36Z"
 ---
 ## What it is
 Enables hybrid code audits using MCP tools across 12 domains, producing structured, scored, and actionable code quality reports.

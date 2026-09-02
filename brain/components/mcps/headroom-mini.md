@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T11:48:28Z"
 ---
 ## What it is
 Local MCP server for token optimization, providing tools to compress code/JSON, optimize prompts, and manage placeholder-based content redaction and hydration to reduce LLM token usage.

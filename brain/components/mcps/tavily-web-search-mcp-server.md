@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-12T15:03:53Z"
 ---
 ## What it is
 An experimental MCP server that provides web search capabilities using the Tavily API. Still in progress, not production-ready.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-03T19:25:08Z"
 ---
 ## What it is
 MCP server `Remote Terminal`, catalogued on PulseMCP. SSH terminal enabling Claude to execute commands on remote Linux servers

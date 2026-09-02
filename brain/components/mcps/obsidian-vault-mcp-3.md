@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T16:52:54Z"
 ---
 ## What it is
 Enables Claude to read, write, search, and manage an Obsidian vault with tools for notes, tags, folders, and full-text search.

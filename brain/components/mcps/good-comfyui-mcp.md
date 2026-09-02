@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T07:51:39Z"
 ---
 ## What it is
 MCP server for generating AI images with local ComfyUI, featuring a reference-image-to-replication toolchain including Danbooru tag lookup, local Ollama vision, deobfuscation, and Civitai LoRA search/download.

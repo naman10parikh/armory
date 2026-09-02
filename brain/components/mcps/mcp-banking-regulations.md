@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:43:10Z"
 ---
 ## What it is
 Provides access to US banking and consumer-finance rules (12 CFR) via MCP, enabling AI agents to query regulatory data. Part of the Pipeworx gateway.

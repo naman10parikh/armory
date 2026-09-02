@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T08:52:04Z"
 ---
 ## What it is
 Installs a NEXT-native customer persona into Claude Code, grounded in live AI customer feedback and callable via / or @.

@@ -8,10 +8,12 @@ source_url: https://github.com/jmerelnyc/mcp-deepcontext
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T12:12:01Z"
 ---
 ## What it is
 MCP server `Deep Context`, catalogued on PulseMCP. Analyzes TypeScript and JavaScript codebases using the compiler API to build a complete symbol graph for semantic code navigation and cross-reference discovery.

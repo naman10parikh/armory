@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T10:44:19Z"
 ---
 ## What it is
 Enables AI assistants to interact with PostgreSQL databases, providing tools for querying, table listing, schema exploration, and multi-environment management with write protection and schema scoping.

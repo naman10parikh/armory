@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T16:25:36Z"
 ---
 ## What it is
 An MCP server that exposes iTerm2 tab control as native tools, designed for the conductor pattern where one Claude/Codex session drives sibling tabs.

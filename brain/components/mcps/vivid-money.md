@@ -8,10 +8,12 @@ source_url: https://github.com/vivid-money/vivid-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-24T16:30:29Z"
 ---
 ## What it is
 MCP server `Vivid Money`, catalogued on PulseMCP. Open a Vivid Business account from your AI chat.

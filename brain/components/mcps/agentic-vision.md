@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T10:13:55Z"
 ---
 ## What it is
 Enables LLMs to autonomously analyze camera images for occupational safety violations, generate risk reports per ISG regulations, and log violations to a database.

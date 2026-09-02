@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-25T12:36:09Z"
 ---
 ## What it is
 MCP server `TextEdit`, catalogued on PulseMCP. Integrates with macOS TextEdit to enable rich text document creation, editing, and formatting operations through RTF manipulation without manual TextEdit interaction.

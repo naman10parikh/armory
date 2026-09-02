@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-04T22:02:29Z"
 ---
 ## What it is
 MCP server `IBM Code Engine`, catalogued on PulseMCP. Connect AI assistants to IBM Code Engine for project, app, build, job, and runtime management.

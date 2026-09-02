@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:44:56Z"
 ---
 ## What it is
 MCP server `Bored Activity Ideas`, catalogued on PulseMCP. Random activity suggestions via the Bored API — filter by type, participant count, and price range.

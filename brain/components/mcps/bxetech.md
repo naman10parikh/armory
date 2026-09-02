@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T17:17:26Z"
 ---
 ## What it is
 MCP server `bxetech Bitcoin Market Data`, catalogued on PulseMCP. Consolidated Bitcoin market data for AI agents: BBO pricing, ML signals, funding skew, and market briefings across 36 venues.

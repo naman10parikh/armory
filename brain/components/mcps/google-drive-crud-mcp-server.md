@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T17:06:38Z"
 ---
 ## What it is
 MCP server that gives Claude full read-write access to Google Drive, Docs, Sheets, and Slides using your own Google OAuth credentials and hosted server.

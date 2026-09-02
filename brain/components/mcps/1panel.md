@@ -8,10 +8,12 @@ source_url: https://github.com/1panel-dev/mcp-1panel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 147
+stars: 167
 verified_at: 2026-05-26
 related: []
 tags: [database, devops, mcp]
+forks: 26
+pushed_at: "2026-08-14T10:01:18Z"
 ---
 
 ## What it is

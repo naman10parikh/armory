@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-28T01:36:17Z"
 ---
 ## What it is
 A comprehensive Model Context Protocol (MCP) server for SQLite database operations. This server enables AI assistants to interact with SQLite databases through a standardized interface.

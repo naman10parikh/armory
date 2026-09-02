@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:41:27Z"
 ---
 ## What it is
 Local MCP server that adds a widget with 3–5 editable next-step suggestions to Codex desktop responses. Supports configurable language, persona, and suggestion count, running entirely on-device.

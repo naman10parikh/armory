@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T10:09:21Z"
 ---
 ## What it is
 Enables Claude to access a Zerodha trading account for historical candles, weekly/monthly zone levels and CPR pivots, EMA crossover detection, and option chain data.

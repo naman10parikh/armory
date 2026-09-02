@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-12T03:38:33Z"
 ---
 ## What it is
 Bridges Claude Code CLI with Cursor IDE to use your existing Claude subscription without separate API costs.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T12:33:59Z"
 ---
 ## What it is
 MCP server `MailDev`, catalogued on PulseMCP. Local email testing tool integration for inspecting SMTP-captured messages.

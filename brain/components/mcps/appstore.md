@@ -8,10 +8,12 @@ source_url: https://github.com/appreply-co/mcp-appstore
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-08-03T18:42:45Z"
 ---
 ## What it is
 MCP server `App Store Scraper`, catalogued on PulseMCP. Integrates with App Store and Google Play Store APIs to extract app metadata, reviews, rankings, and developer details for competitive analysis, market research, and ASO strategy development.

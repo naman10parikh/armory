@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T09:37:16Z"
 ---
 ## What it is
 Enables chat and image analysis through OpenRouter.ai models. Supports text chat, image generation, and analysis with multiple images and custom questions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-19T17:07:48Z"
 ---
 ## What it is
 Enables AI coding tools to build models, run jobs, track experiments, and perform data analysis on the Domino Data Lab platform.

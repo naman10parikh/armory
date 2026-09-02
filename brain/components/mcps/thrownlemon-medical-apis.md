@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-22T17:28:26Z"
 ---
 ## What it is
 MCP server `Medical APIs`, catalogued on PulseMCP. Integrates with FDA drug databases, WHO health indicators, RxNorm classifications, PubMed research, Google Scholar, and Australia's PBS to provide drug information lookup, health data queries, academic research retrieval, and pharmaceutical pricing analysis for medical research and clinical decision support.

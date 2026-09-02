@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T15:29:36Z"
 ---
 ## What it is
 A focused MCP server for FiveM teams to scaffold resources, generate NUI templates, and perform safe file edits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:44:58Z"
 ---
 ## What it is
 MCP server that enables LLMs to create and edit draw.io diagrams using high-level intent commands, with automatic layout and styling.

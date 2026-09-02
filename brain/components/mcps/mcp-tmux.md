@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T04:00:04Z"
 ---
 ## What it is
 A comprehensive MCP server for driving tmux sessions, windows, panes, sending keystrokes, and reading pane output locally or over SSH, enabling real-time collaborative pairing with AI.

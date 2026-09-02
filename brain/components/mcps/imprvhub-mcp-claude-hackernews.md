@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 10
+forks: 8
+pushed_at: "2026-07-24T04:44:03Z"
 ---
 ## What it is
 An integration that allows Claude Desktop to interact with Hacker News using the Model Context Protocol (MCP).

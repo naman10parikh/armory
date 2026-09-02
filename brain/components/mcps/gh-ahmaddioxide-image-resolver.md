@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-05T09:44:38Z"
 ---
 ## What it is
 MCP server `Image Resolver`, catalogued on PulseMCP. Context-aware royalty-free image search from Pexels and Unsplash stock photo libraries.

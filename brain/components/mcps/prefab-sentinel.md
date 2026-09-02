@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T22:17:46Z"
 ---
 ## What it is
 MCP server for safely inspecting and editing Unity/VRChat prefabs, scenes, and assets. It diagnoses override collisions, broken references, and runtime exceptions, with read-only YAML analysis and write operations via an Editor Bridge.

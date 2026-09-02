@@ -8,11 +8,13 @@ source_url: https://github.com/camshaft/cargo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 3
+forks: 1
+pushed_at: "2025-11-21T07:24:24Z"
 ---
 ## What it is
 MCP server `Cargo`, catalogued on PulseMCP. Provides access to Rust crate documentation, version information, and workspace metadata through rustdoc JSON generation, crates.io API integration, and cargo metadata parsing for dependency management, API exploration, and project structure analysis.

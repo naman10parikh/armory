@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:02:09Z"
 ---
 ## What it is
 Enables a voice-enabled AI assistant to call 7 built-in MCP tools including calculator, web search (DuckDuckGo), weather (wttr.in), date/time, and local file read/write/list operations, integrating with Gemini 2.0 Flash for tool-calling conversations.

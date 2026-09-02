@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T02:46:02Z"
 ---
 ## What it is
 Read-only diagnostic MCP server that exposes system stats, Docker status, OOM events, container logs, Sidekiq queues, and local Chatwoot health checks for Claude to review a Hetzner server.

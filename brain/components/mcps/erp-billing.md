@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T02:58:59Z"
 ---
 ## What it is
 MCP server that enables AI platforms to search products, customers, and warehouses, and prepare and submit sales orders to a fixed ERP endpoint with per-session bearer authentication.

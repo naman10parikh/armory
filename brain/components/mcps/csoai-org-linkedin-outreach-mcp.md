@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-26T18:42:44Z"
 ---
 ## What it is
 MCP server `LinkedIn Outreach`, catalogued on PulseMCP. Python MCP server for LinkedIn outreach message generation.

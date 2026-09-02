@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T13:15:40Z"
 ---
 ## What it is
 Connects to Ubuntu servers over SSH to manage, maintain, and secure them through natural language conversation.

@@ -8,10 +8,12 @@ source_url: https://github.com/pvliesdonk/markdown-vault-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-09-01T22:40:25Z"
 ---
 ## What it is
 MCP server `Markdown Vault`, catalogued on PulseMCP. Generic markdown collection server with full-text search, semantic vector search, frontmatter indexing, and incremental reindexing.

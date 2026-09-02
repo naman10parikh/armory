@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T23:20:57Z"
 ---
 ## What it is
 Enables AI assistants to manage issues, pull requests, and projects on Pagure instances (pagure.io and self-hosted).

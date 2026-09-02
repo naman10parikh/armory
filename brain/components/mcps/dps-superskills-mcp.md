@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T03:47:01Z"
 ---
 ## What it is
 Exposes 31 high-assurance agentic coding skills as MCP tools and resources, enabling AI agents to invoke structured workflows across DISCIPLINE, TECHNIQUE, KNOWLEDGE LAYER, and REFERENCE registers.

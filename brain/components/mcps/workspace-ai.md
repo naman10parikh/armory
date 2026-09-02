@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T10:13:46Z"
 ---
 ## What it is
 Enables AI assistants to interact with Gmail accounts via MCP, providing tools for listing labels, searching, reading, drafting, and sending emails with OAuth2 authentication.

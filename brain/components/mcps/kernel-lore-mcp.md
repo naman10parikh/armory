@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-30T23:07:01Z"
 ---
 ## What it is
 MCP server enabling structured search and querying over Linux kernel mailing list archives (lore.kernel.org) for LLM-powered developer tools.

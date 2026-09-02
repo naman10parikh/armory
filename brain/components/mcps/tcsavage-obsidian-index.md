@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2024-12-12T17:22:19Z"
 ---
 ## What it is
 MCP server `Obsidian Index`, catalogued on PulseMCP. Integrates Obsidian vaults with semantic search capabilities, enabling context-aware retrieval of personal knowledge.

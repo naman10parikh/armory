@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-04T06:15:12Z"
 ---
 ## What it is
 A safe, configurable MCP server enabling AI agents to sync, deploy, diagnose, and compare remote servers via structured tools like rsync and SSH.

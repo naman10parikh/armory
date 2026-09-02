@@ -8,11 +8,13 @@ source_url: https://github.com/ARMeeru/vps-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-23T03:08:54Z"
 ---
 ## What it is
 Enables LLMs to securely manage Virtual Private Servers via SSH, with features including command execution, file operations, system monitoring, and service management.

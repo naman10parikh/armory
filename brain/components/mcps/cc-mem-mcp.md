@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T23:49:45Z"
 ---
 ## What it is
 Lossless, categorized long-term memory for Claude Code (and any MCP client), backed by Qdrant, capturing compaction summaries across generations.

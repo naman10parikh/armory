@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T20:18:02Z"
 ---
 ## What it is
 Supercharge Claude Desktop with bulk analysis of 1500+ user research calls, validation workflows, and Signal export capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T07:20:02Z"
 ---
 ## What it is
 Validates and calculates Korean capital gains tax on real estate transactions with explanation. Supports multiple ownership types, exemptions, and detailed tax breakdowns.

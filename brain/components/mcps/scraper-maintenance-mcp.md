@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-23T18:29:29Z"
 ---
 ## What it is
 MCP server for automating web scraper maintenance via browser inspection, selector generation, and code updates.

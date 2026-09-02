@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-04T11:21:54Z"
 ---
 ## What it is
 A MCP server for integrating with self-hosted Jira Server, enabling issue search and management via JQL and other commands through natural language.

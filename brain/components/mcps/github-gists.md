@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-01-03T03:50:54Z"
 ---
 ## What it is
 MCP server `GitHub Gists`, catalogued on PulseMCP. Provides a bridge to GitHub Gists for creating, retrieving, updating, listing, and deleting code snippets directly through conversational interfaces.

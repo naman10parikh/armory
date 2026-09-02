@@ -8,10 +8,12 @@ source_url: https://github.com/mushroomfleet/deeplucid3d-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-07T16:36:50Z"
 ---
 ## What it is
 MCP server `DeepLucid3D (Unified Cognitive Processing Framework)`, catalogued on PulseMCP. Implements the Unified Cognitive Processing Framework for structured problem analysis, creative exploration, and contextual state management across three dimensions of knowledge categorization.

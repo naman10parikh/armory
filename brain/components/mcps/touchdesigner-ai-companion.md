@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T00:40:28Z"
 ---
 ## What it is
 Enables users to capture TouchDesigner node network screenshots and ask Claude for context-aware analysis, diagnosis, and suggestions via MCP tools.

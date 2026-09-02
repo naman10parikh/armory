@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-11T09:27:23Z"
 ---
 ## What it is
 Enables AI assistants to create, read, update, delete, and list memos via the MCP protocol.

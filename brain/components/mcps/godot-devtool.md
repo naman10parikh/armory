@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-06-29T02:39:30Z"
 ---
 ## What it is
 A Godot 4 MCP server for AI-assisted project inspection, editing, validation, and runtime automation via stdio and optional WebSocket bridge.

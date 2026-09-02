@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T13:05:11Z"
 ---
 ## What it is
 An MCP server for US electricity demand and weather data that provides tools, resources, and prompts to query hourly demand, daily demand, peak demand, and demand vs temperature across regions, all running locally with a bundled SQLite database.

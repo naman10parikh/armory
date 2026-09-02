@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-09T02:56:02Z"
 ---
 ## What it is
 Enables agents to search and inspect live service offerings, generate x402 payment snippets, and understand blockchain-only balance policies.

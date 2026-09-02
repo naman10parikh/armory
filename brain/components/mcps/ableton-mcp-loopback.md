@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T22:33:32Z"
 ---
 ## What it is
 A loopback-bound MCP server that enables MCP clients to control Ableton Live (set tempo, create tracks/clips, add MIDI notes, start/stop playback) over a secure local-only connection.

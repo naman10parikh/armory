@@ -8,11 +8,13 @@ source_url: https://github.com/lcbcFoo/heimdall-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 105
+stars: 104
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2025-09-21T23:44:18Z"
 ---
 ## What it is
 Provides AI coding assistants with persistent, context-rich memory of a codebase, including documentation and git history, enabling recall across sessions.

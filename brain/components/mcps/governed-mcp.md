@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T21:40:49Z"
 ---
 ## What it is
 MCP server that enforces governance on agentic decisions with auditable evidence records, providing tools for understanding, calibrating confidence, and navigating handoffs based on policy.

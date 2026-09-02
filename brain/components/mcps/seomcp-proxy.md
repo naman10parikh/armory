@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T19:32:31Z"
 ---
 ## What it is
 Local MCP proxy for seo-mcp — 39 SEO tools in your AI assistant.

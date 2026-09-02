@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T01:33:34Z"
 ---
 ## What it is
 A default-deny SQL firewall sidecar for AI agents that enforces per-agent policies on database queries, provides safe rewrites, and maintains a tamper-evident audit chain.

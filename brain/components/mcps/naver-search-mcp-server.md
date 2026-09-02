@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-08T03:24:39Z"
 ---
 ## What it is
 Provides tools to search Naver services (web, news, blog, etc.) and analyze search trends using Naver DataLab, with all required MCP protocol methods implemented for compatibility with Cursor and Claude Desktop.

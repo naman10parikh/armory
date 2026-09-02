@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T18:26:25Z"
 ---
 ## What it is
 An MCP server for controlling Rigol oscilloscopes from an AI assistant. It translates MCP tool calls into SCPI commands over PyVISA.

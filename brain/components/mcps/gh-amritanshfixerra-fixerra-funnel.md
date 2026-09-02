@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T21:29:37Z"
 ---
 ## What it is
 MCP server `Fixerra Funnel`, catalogued on PulseMCP. Query booking funnel metrics and compare periods from the Fixerra admin API.

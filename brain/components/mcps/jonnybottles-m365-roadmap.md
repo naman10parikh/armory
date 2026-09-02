@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-04T21:30:14Z"
 ---
 ## What it is
 MCP server `Microsoft 365 Roadmap`, catalogued on PulseMCP. Query the Microsoft 365 Roadmap programmatically, filtering by product, status, cloud instance, release phase, and platform.

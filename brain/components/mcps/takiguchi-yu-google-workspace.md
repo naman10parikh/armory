@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T10:56:47Z"
 ---
 ## What it is
 MCP server `Google Workspace`, catalogued on PulseMCP. Integrates with Google Sheets, Slides, and Drive for spreadsheet operations, presentation management, and file search via OAuth2.

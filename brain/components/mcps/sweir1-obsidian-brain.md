@@ -8,10 +8,12 @@ source_url: https://github.com/sweir1/obsidian-brain
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-12T20:32:59Z"
 ---
 ## What it is
 MCP server `Obsidian Brain`, catalogued on PulseMCP. Obsidian vault search, knowledge graph, and editing via MCP — no plugin required.

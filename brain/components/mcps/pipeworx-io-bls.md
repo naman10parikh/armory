@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:44:25Z"
 ---
 ## What it is
 MCP server `Bureau of Labor Statistics`, catalogued on PulseMCP. US Bureau of Labor Statistics employment, wage, and economic data via the BLS public data API v2.

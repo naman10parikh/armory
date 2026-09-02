@@ -8,11 +8,13 @@ source_url: https://github.com/dvcrn/mcp-server-tripit
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-18T08:12:47Z"
 ---
 ## What it is
 Enables interaction with TripIt travel planning service, allowing users to manage trips, hotel reservations, flights, transport, activities, and documents via natural language.

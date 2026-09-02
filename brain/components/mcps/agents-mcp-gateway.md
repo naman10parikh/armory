@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T17:35:39Z"
 ---
 ## What it is
 Secure localhost MCP gateway that exposes project-scoped file/Git/search tools and controlled CLI agent adapters (Codex, Claude) with fixed argv for safe Windows-native agent work.

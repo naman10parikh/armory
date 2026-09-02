@@ -8,11 +8,13 @@ source_url: https://github.com/avi892nash/bfxr2-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T13:21:44Z"
 ---
 ## What it is
 Generates music and sound effects using Bfxr2, with preset or custom parameter control.

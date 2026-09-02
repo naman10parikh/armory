@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T02:02:24Z"
 ---
 ## What it is
 MCP server `Subgraph Registry`, catalogued on PulseMCP. Pre-computed index of 15,500+ subgraphs on The Graph Network with domain classification, protocol type detection, schema fingerprinting, and reliability scoring.

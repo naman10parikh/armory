@@ -8,10 +8,12 @@ source_url: https://github.com/nikomatsakis/zulook
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-28T01:09:30Z"
 ---
 ## What it is
 MCP server `Zulook`, catalogued on PulseMCP. Read-only access to Zulip conversations with CLI, MCP, and ACP proxy modes.

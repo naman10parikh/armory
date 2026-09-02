@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-08T18:44:01Z"
 ---
 ## What it is
 MCP server `VS Code Button Generator`, catalogued on PulseMCP. Generates VS Code install buttons and markdown badges for MCP servers and GitHub Copilot extensions, providing one-click installation experiences through automated redirect URL creation with support for NPX-based servers, environment variables, and chat instructions.

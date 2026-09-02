@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T10:01:34Z"
 ---
 ## What it is
 MCP server `Commune Email`, catalogued on PulseMCP. Provides email and SMS capabilities for agents including inbox management, threaded conversations, domain verification, delivery tracking, and structured data extraction.

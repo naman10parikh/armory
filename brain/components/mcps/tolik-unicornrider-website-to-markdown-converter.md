@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-10T03:59:47Z"
 ---
 ## What it is
 MCP server `Website to Markdown Converter`, catalogued on PulseMCP. Converts web content to high-quality Markdown using Mozilla's Readability and TurndownService, enabling clean extraction of meaningful content from URLs or HTML files for analysis and document conversion.

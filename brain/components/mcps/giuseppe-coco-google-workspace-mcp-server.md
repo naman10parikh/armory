@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 30
+forks: 11
+pushed_at: "2025-07-11T14:20:33Z"
 ---
 ## What it is
 MCP server that seamlessly interacts with your Google Calendar, Gmail, Drive and so on.

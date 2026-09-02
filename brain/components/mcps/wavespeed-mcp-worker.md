@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:30:55Z"
 ---
 ## What it is
 Remote MCP server that integrates WaveSpeed's image and video generation into Claude, supporting text-to-image, image editing, video generation, and job status polling via custom connector.

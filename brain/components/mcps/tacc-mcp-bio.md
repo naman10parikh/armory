@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T17:57:49Z"
 ---
 ## What it is
 Enables Claude Code to interact with a TACC or SLURM HPC cluster for bioinformatics pipelines, allowing job management, log reading, file browsing, remote script execution, and job submission through natural language.

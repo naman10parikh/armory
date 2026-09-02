@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T00:32:37Z"
 ---
 ## What it is
 A read-only MCP server for observing registered local and SSH hosts, providing system, service, container, Git, and GPU status/log inspection through a closed-world registry without arbitrary shell access.

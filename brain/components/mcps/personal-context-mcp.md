@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T03:44:38Z"
 ---
 ## What it is
 A portable, Markdown-based memory system for Claude Desktop that separates durable context, working memory, and low-trust notes so AI assistants can stay useful without trapping memory inside one product.

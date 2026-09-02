@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T14:05:30Z"
 ---
 ## What it is
 MCP server for interacting with the Zscaler AIRT platform, enabling management of targets, test runs, probes, and vulnerability sweeps.

@@ -8,11 +8,13 @@ source_url: https://github.com/zish-rob-crur/nucleus-apple-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-06-21T04:30:16Z"
 ---
 ## What it is
 A macOS MCP server that provides AI agents with secure access to Calendar, Reminders, Notes, and Health data via native Apple APIs.

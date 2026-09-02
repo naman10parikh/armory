@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T01:56:32Z"
 ---
 ## What it is
 MCP server providing direct access to StillOS's signed, x402-paid verification and screening tools, including claim notarization, claim verdicts, OFAC sanctions screening, and corporate distress scoring.

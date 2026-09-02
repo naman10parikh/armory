@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T08:37:32Z"
 ---
 ## What it is
 AI-powered git diff analysis with human-readable explanations, risk flags, and review checklists. Enables to explain any diff text or currently staged git changes through an MCP server.

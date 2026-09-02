@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-19T08:45:09Z"
 ---
 ## What it is
 MCP server `IP Address Lookup`, catalogued on PulseMCP. Provides a simple API endpoint for retrieving the current machine's public IP address through ipify.org.

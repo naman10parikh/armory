@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T13:37:45Z"
 ---
 ## What it is
 MCP server for running deterministic Godot game scenarios, listing available scenarios, running single or soak tests, and reading test reports.

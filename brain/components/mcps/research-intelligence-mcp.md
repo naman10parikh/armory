@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T12:21:37Z"
 ---
 ## What it is
 A unified MCP server for academic paper discovery, citation exploration, and research intelligence workflows over multiple scientific knowledge sources.

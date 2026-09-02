@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-27T01:28:26Z"
 ---
 ## What it is
 MCP server `Kiro Investigation`, catalogued on PulseMCP. Orchestrates parallel multi-agent investigation workflows using kiro-cli.

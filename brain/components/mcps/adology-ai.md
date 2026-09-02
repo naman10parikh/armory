@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-05T17:30:46Z"
 ---
 ## What it is
 Perplexity for social: ask what competitors are running across social and get answers grounded in real ad and creative data, not guesses.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T20:49:25Z"
 ---
 ## What it is
 Provides tools to list vehicle models, fetch official UV templates, generate AI paint designs, and verify or flatten the resulting wrap files for custom vehicle styling.

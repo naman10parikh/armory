@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-25T11:57:47Z"
 ---
 ## What it is
 MCP server `MemProcFS`, catalogued on PulseMCP. Provides a bridge to memory forensics capabilities through MemProcFS for analyzing process attributes, registry hives, and keys from Windows memory dumps

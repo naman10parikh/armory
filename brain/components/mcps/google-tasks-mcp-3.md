@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T15:23:30Z"
 ---
 ## What it is
 Provides an MCP interface to Google Tasks, enabling reading, creating, updating, and completing tasks and task lists, with support for date filtering to generate weekly reports.

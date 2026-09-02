@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:47:48Z"
 ---
 ## What it is
 Enables text-only agents to process images by accepting image files, base64 data, or URLs, sending them to multimodal models, and returning structured text results via MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T05:06:59Z"
 ---
 ## What it is
 Multi-user MCP gateway for WeKnora v0.7.1 that accepts per-request WeKnora API keys, enabling client-scoped access to spaces and knowledge bases through a single Streamable HTTP MCP endpoint.

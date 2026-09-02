@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-17T04:27:41Z"
 ---
 ## What it is
 Provides access to Roman Catholic Liturgical Calendar data, enabling retrieval of liturgical calendars for any year, nation, or diocese via MCP tools.

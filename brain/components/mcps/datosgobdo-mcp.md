@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T02:50:14Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes the Dominican Republic's open government data (datos.gob.do) as tools consumable by any AI assistant.

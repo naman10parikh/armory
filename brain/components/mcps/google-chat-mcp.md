@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T20:07:41Z"
 ---
 ## What it is
 An MCP server that connects Claude to your Google Chat workspace, enabling search of messages, spaces, and DMs with automatic resolution of real display names.

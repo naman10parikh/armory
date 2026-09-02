@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:32:58Z"
 ---
 ## What it is
 MCP server `CSV to JSON`, catalogued on PulseMCP. Parse CSV to a JSON array with auto-detected delimiters and headers.

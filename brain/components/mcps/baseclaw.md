@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-04T19:50:15Z"
 ---
 ## What it is
 Manages Yahoo Fantasy Baseball teams via AI, allowing natural language queries for roster updates, trade analysis, waiver wire, and league insights.

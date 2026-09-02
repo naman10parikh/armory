@@ -8,10 +8,12 @@ source_url: https://github.com/06ketan/slideshot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-03T07:08:07Z"
 ---
 ## What it is
 MCP server `Slideshot`, catalogued on PulseMCP. Convert HTML to PDF, PNG, WebP, and PPTX slide carousels with 11 presentation themes.

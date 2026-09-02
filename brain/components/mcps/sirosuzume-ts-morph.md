@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-06-11T22:35:42Z"
 ---
 ## What it is
 MCP server `TypeScript Refactoring`, catalogued on PulseMCP. Enables AI to perform complex TypeScript/JavaScript refactoring operations like renaming symbols, moving code between files, and updating import paths through ts-morph's powerful code transformation capabilities.

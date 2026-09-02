@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T17:52:23Z"
 ---
 ## What it is
 An MCP server that enforces explicit task ownership acceptance and requires a provenance tag (observed, reviewed, or reported) on every completion claim, preventing silent inheritance and unverified assertions in multi-agent systems.

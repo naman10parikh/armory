@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T16:58:39Z"
 ---
 ## What it is
 A lightweight MCP server for Apple Calendar on macOS that uses a Swift helper to access EventKit directly, enabling event queries without AppleScript or Calendar.app dependency.

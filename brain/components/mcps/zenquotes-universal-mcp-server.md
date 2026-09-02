@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T05:36:30Z"
 ---
 ## What it is
 Enables interaction with Zenquotes's tools and services through a unified API, allowing users to access quotes and related functionality via natural language.

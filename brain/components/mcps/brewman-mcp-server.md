@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T15:23:11Z"
 ---
 ## What it is
 Wraps the Brewman Web (V7) API to read and write Brewman data (orders, outlets, stock, config) via tools, with the API token stored securely as an environment variable.

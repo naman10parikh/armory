@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T23:06:06Z"
 ---
 ## What it is
 Audits spacing, gaps, and element sizes in AI-generated UIs and returns fix hints the agent applies. Tailwind-first, with accessibility fallback.

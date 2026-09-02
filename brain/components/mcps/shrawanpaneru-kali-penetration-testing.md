@@ -8,10 +8,12 @@ source_url: https://github.com/shrawanpaneru/kalimcp-
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-28T15:54:31Z"
 ---
 ## What it is
 MCP server `Kali Linux Penetration Testing`, catalogued on PulseMCP. Combines Kali Linux penetration testing tools in Docker containers with Windows host system access for authorized security testing scenarios.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-07T00:22:50Z"
 ---
 ## What it is
 MCP server `URDB`, catalogued on PulseMCP. Search the URDB product integrity database for enshittification events, integrity scores, and change tracking.

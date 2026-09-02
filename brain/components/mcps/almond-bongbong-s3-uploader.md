@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-11T13:31:00Z"
 ---
 ## What it is
 MCP server `S3 Uploader`, catalogued on PulseMCP. Uploads images to Amazon S3 from local files or macOS clipboard and generates presigned URLs for sharing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:03:40Z"
 ---
 ## What it is
 Unofficial open-source MCP bridge that gives Cursor agents hands in your real Chrome browser. Enables navigation, clicking, filling, screenshots, and other browser actions with permission modes.

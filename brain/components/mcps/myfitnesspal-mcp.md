@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-09T14:30:19Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that connects AI assistants to your MyFitnessPal data, enabling reading food diaries, nutrition goals, weight measurements, and more via MFP's web scraping.

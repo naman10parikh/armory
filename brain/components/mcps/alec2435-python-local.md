@@ -8,10 +8,12 @@ source_url: https://github.com/alec2435/python_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2024-12-04T18:12:20Z"
 ---
 ## What it is
 MCP server `Python REPL`, catalogued on PulseMCP. Provides an interactive Python REPL environment for executing code within conversations, maintaining separate state for each session and supporting both expressions and statements.

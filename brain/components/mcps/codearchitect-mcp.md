@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-01T11:24:44Z"
 ---
 ## What it is
 Automatically saves and retrieves AI conversation sessions to maintain context continuity, preventing re-explaining architecture decisions.

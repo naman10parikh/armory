@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-06-24T13:17:24Z"
 ---
 ## What it is
 Music MCP WebSocket server enabling multi-platform music search and playable URL retrieval via Meting for XiaoZhi AI.

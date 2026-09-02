@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-31T05:30:07Z"
 ---
 ## What it is
 MCP server `Gemini`, catalogued on PulseMCP. Integrates with Google's Gemini AI models including the 2.5 series with thinking capabilities, vision models, and embedding generation, featuring JSON mode with schema validation, Google Search grounding, conversation memory, and safety settings for complex reasoning, coding assistance, image analysis, and structured data generation.

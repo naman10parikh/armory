@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T20:00:37Z"
 ---
 ## What it is
 MCP server for managing Juniper Mist networks with AI assistants. Monitor, troubleshoot, and configure customer networks through natural language.

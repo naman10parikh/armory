@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:53:23Z"
 ---
 ## What it is
 MCP server that provides AI-powered tools including YouTube search, trip planning, notes management, web search, product price comparison, and clock/alarm/reminder features with email notifications.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-01T06:51:36Z"
 ---
 ## What it is
 MCP server `YouTube Player`, catalogued on PulseMCP. Integrates with YouTube Data API v3 to search for videos and play them in the browser, enabling music discovery and entertainment recommendations through conversational interfaces.

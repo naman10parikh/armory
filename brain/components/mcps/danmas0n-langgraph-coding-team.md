@@ -8,10 +8,12 @@ source_url: https://github.com/danmas0n/multi-agent-with-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-02-19T03:25:43Z"
 ---
 ## What it is
 MCP server `LangGraph Coding Team`, catalogued on PulseMCP. Create coding agents to generate implementation options.

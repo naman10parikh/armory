@@ -8,10 +8,12 @@ source_url: https://github.com/viktor-ferenczi/se-mcp-for-plugin-dev
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-20T16:23:54Z"
 ---
 ## What it is
 MCP server `Space Engineers Code Index`, catalogued on PulseMCP. Decompiles Space Engineers game assemblies and indexes C# source code for AI-assisted mod and plugin development

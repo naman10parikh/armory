@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 4
+forks: 1
+pushed_at: "2025-07-09T08:32:24Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for interacting with Confluence Data Center via REST API.

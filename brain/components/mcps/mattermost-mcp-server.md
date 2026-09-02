@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-12-20T09:29:32Z"
 ---
 ## What it is
 MCP Server for the Mattermost API, enabling Claude and other MCP clients to interact with Mattermost workspaces.

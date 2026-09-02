@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:27:56Z"
 ---
 ## What it is
 Consulta o Cadastro Nacional da Agricultura Familiar (CAF) de uma pessoa física a partir do CPF, com uma ferramenta somente leitura.

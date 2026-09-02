@@ -8,10 +8,12 @@ source_url: https://github.com/mastadoonprime/sylex-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T18:03:52Z"
 ---
 ## What it is
 MCP server `Agent Memory`, catalogued on PulseMCP. Persistent, client-side encrypted memory for AI agents with shared knowledge commons and agent messaging.

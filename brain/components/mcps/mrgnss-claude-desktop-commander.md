@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-23T20:47:58Z"
 ---
 ## What it is
 MCP server `Claude Desktop Commander`, catalogued on PulseMCP. Enables Claude Desktop to execute terminal commands and manage files on the user's computer with security measures like command blacklisting and path validation for cross-platform development workflows.

@@ -8,10 +8,12 @@ source_url: https://github.com/perspective-ai/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T10:14:08Z"
 ---
 ## What it is
 MCP server `Perspective AI`, catalogued on PulseMCP. Design, deploy, and analyze AI-powered conversational agents that replace static forms.

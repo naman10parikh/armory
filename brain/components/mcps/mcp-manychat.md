@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-04T16:56:13Z"
 ---
 ## What it is
 MCP server for ManyChat API integration that enables Claude and other AI assistants to manage subscribers, tags, custom fields, flows, and send messages through natural language.

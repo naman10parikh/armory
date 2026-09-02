@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:25:17Z"
 ---
 ## What it is
 MCP server `Pipeworx NIST Beacon`, catalogued on PulseMCP. NIST Randomness Beacon v2 signed public random pulses every 60 seconds via the Pipeworx gateway.

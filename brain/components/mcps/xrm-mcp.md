@@ -8,11 +8,13 @@ source_url: https://github.com/jukkan/xrm-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T11:50:26Z"
 ---
 ## What it is
 A minimal MCP server that gives AI coding agents clean read and write access to Microsoft Dataverse environments via the Dataverse Web API v9.2. It works as a drop-in alternative to Microsoft's own MCP server, without requiring Copilot Credits or managed environments.

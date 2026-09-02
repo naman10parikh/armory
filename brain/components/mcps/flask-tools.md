@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-09-01T15:01:10Z"
 ---
 ## What it is
 Provides a collection of MCP servers for computational chemistry tasks including molecular generation and retrosynthesis. Also offers property prediction and molecule pricing capabilities.

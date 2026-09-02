@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T21:13:11Z"
 ---
 ## What it is
 Tour and excursion search on supertours.ru — destinations across Russia and abroad.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-19T14:32:34Z"
 ---
 ## What it is
 MCP server `JavaScript WebAssembly Tools`, catalogued on PulseMCP. Provides a WebAssembly-based server component with ready-to-use tools like echo, knowledge graph querying, and HTTP requests, while offering a developer-friendly SDK for creating custom tools in WebAssembly-compatible environments.

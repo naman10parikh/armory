@@ -8,10 +8,12 @@ source_url: https://github.com/kitakitsune0x/bigbossbot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-17T06:04:45Z"
 ---
 ## What it is
 MCP server `Big Boss Bot`, catalogued on PulseMCP. stdio MCP server providing read-only access to a self-hosted OSINT intelligence dashboard aggregating news, Telegram channels, military tracking, and market data.

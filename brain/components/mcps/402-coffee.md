@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T20:05:54Z"
 ---
 ## What it is
 Non-custodial x402 tip jars for the agentic web, enabling USDC tips via a hosted MCP tool for agents.

@@ -8,10 +8,12 @@ source_url: https://github.com/mrgoonie/vnstock-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 95
+stars: 102
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 45
+pushed_at: "2026-04-01T10:59:13Z"
 ---
 ## What it is
 MCP server `VNStock`, catalogued on PulseMCP. Vietnamese stock market data with 21 tools via the vnstock library.

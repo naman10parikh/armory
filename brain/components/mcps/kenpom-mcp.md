@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T16:06:16Z"
 ---
 ## What it is
 Provides access to KenPom basketball analytics through MCP tools. Enables querying ratings, efficiency, player stats, and more using natural language.

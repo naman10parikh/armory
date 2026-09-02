@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-16T09:59:50Z"
 ---
 ## What it is
 Enables AI agents to list FastAlert channels and send rich notifications via the FastAlert API.

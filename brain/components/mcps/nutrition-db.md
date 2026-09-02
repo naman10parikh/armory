@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T12:49:05Z"
 ---
 ## What it is
 Generates personalized 7-day meal plans based on user profile and goals, and provides daily calorie catch-up suggestions when intake falls short.

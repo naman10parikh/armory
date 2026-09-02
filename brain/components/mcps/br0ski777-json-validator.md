@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:31Z"
 ---
 ## What it is
 MCP server `JSON Validator`, catalogued on PulseMCP. JSON syntax validation and JSON Schema checking, with structural statistics and detailed error messages.

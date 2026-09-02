@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T00:58:03Z"
 ---
 ## What it is
 Enables AI agents to use 我好牛AI智投 for checking brand visibility in Chinese AI chatbots and generating ad hooks and scripts directly in chat.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T21:46:52Z"
 ---
 ## What it is
 MCP server enabling AI assistants to write and run WorldEdit CraftScripts on a Minecraft server as specific players, using live selections and undo history. Supports local stdio and remote HTTPS access with in-game code verification.

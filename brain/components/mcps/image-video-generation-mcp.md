@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-22T07:53:24Z"
 ---
 ## What it is
 Enables image and video generation using BigModel AI's CogView and CogVideoX models via MCP, supporting batch image generation and various configuration options.

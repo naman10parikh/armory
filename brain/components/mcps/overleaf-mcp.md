@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T09:06:34Z"
 ---
 ## What it is
 Enables editing Overleaf projects from Claude, with tools to list, read, edit, and sync files via Git.

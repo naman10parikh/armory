@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T05:33:09Z"
 ---
 ## What it is
 MCP server for driving Cavalry's 2D motion-graphics engine from LLMs, enabling scene creation and animation via natural language.

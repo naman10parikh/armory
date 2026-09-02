@@ -8,10 +8,12 @@ source_url: https://github.com/dimitrovakulenko/dwg-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-28T21:05:55Z"
 ---
 ## What it is
 MCP server `DWG`, catalogued on PulseMCP. MCP server for inspecting AutoCAD DWG files, providing read-only access to drawing contents as queryable objects.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-12T03:58:09Z"
 ---
 ## What it is
 A self-evolving RAG system that enables AI agents to autonomously read and write memory, continuously learning and adapting user preferences, daily logs, and knowledge graphs across applications.

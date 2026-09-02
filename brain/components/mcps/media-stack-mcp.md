@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T21:15:03Z"
 ---
 ## What it is
 Enables control and management of a self-hosted media stack (Radarr, Sonarr, Prowlarr, SABnzbd, qBittorrent) through natural language via MCP.

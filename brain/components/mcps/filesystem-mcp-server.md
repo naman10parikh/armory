@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T17:24:03Z"
 ---
 ## What it is
 Enables file system operations (read, write, list, search, watch, batch process) via MCP over JSON-RPC 2.0, used by a resume matching agent.

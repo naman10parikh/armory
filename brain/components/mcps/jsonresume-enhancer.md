@@ -8,10 +8,12 @@ source_url: https://github.com/jsonresume/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-06-12T15:28:24Z"
 ---
 ## What it is
 MCP server `JSON Resume Enhancer`, catalogued on PulseMCP. Enhances JSON Resumes with GitHub project information by analyzing codebases, fetching existing resumes, and intelligently updating profiles with relevant project details using OpenAI's API.

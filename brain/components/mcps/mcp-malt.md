@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:36:15Z"
 ---
 ## What it is
 Enables access to the documented Malt API for back-office tasks, including retrieving invoices, payments, and commission invoices, as well as SCIM user provisioning for organization accounts.

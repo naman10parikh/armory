@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T22:36:53Z"
 ---
 ## What it is
 HTTP MCP server enabling LLMs to search, create, read, update, and delete BookStack entities (books, chapters, pages, shelves) using API tokens.

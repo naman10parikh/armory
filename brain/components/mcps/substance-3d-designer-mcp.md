@@ -8,11 +8,13 @@ source_url: https://github.com/MikeLi-28/Substance-3D-Designer-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T07:36:11Z"
 ---
 ## What it is
 Provides a secure interface to Adobe Substance 3D Designer, enabling read and write operations on graphs, nodes, and packages through the MCP protocol.

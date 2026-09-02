@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:22Z"
 ---
 ## What it is
 MCP server `Hyperliquid Vaults`, catalogued on PulseMCP. Retrieves Hyperliquid vault summaries with APR, TVL, PnL, and follower counts, sorted by performance.

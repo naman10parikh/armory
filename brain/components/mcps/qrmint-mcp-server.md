@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T08:45:03Z"
 ---
 ## What it is
 Enables AI assistants to generate styled QR codes with customizable colors, styles, gradients, and frames, as well as typed QR codes for WiFi, vCard, etc., using the QRMint API without requiring an API key.

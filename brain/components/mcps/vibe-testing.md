@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T19:39:06Z"
 ---
 ## What it is
 Code-aware browser testing agent — reads your codebase, understands functionality, tests every element, reports with screenshots. Works as MCP server for Cursor/Claude Code or standalone CLI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T19:20:09Z"
 ---
 ## What it is
 Remote MCP server exposing the CounselStack citation engine as nine legal research tools, enabling read-only citation lookup, statute search, and case text retrieval through Claude.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-07T12:19:13Z"
 ---
 ## What it is
 MCP server `Bazos`, catalogued on PulseMCP. Searches listings, retrieves ad details, and fetches seller ratings across Czech and Slovak classified ad platforms Bazos.cz and Bazos.sk.

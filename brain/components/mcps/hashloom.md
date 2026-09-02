@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:08:07Z"
 ---
 ## What it is
 Treats software units as content-addressed contracts, enabling efficient agent regeneration loops with cached verification and tiny context packets.

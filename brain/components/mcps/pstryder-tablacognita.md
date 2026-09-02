@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-05T19:33:36Z"
 ---
 ## What it is
 MCP server `TablaCognita`, catalogued on PulseMCP. Collaborative markdown editor with real-time AI document editing.

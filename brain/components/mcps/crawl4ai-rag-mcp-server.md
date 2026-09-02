@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-06-21T07:06:58Z"
 ---
 ## What it is
 An MCP server that integrates Crawl4AI with Supabase to enable AI agents to crawl websites, store content in a vector database, and perform RAG queries.

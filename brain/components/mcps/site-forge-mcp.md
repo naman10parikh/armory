@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T13:30:08Z"
 ---
 ## What it is
 An MCP server that accepts payments via Stripe and publishes websites on Netlify only after payment is confirmed, enforcing a strict paywall.

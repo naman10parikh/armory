@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:50:20Z"
 ---
 ## What it is
 Enables to simulate EVM transactions (dry-run) to preview results, gas usage, and state changes before broadcasting on supported blockchains.

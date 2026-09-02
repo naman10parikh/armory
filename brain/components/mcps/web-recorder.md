@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T11:10:46Z"
 ---
 ## What it is
 Records Chrome network requests and responses for LLM knowledge bases, and exposes query and browser control capabilities via MCP tools like list_sessions, navigate, and evaluate.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-10T20:22:58Z"
 ---
 ## What it is
 MCP server `Pyppeteer Browser Automation`, catalogued on PulseMCP. Enables AI assistants to control headless browsers for web automation tasks including navigation, screenshot capture, element interaction, and dynamic page information access.

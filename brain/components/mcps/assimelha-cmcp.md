@@ -8,10 +8,12 @@ source_url: https://github.com/assimelha/cmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-26T11:07:51Z"
 ---
 ## What it is
 MCP server `CMCP`, catalogued on PulseMCP. Aggregates multiple MCP servers behind two unified tools, enabling TypeScript-based tool discovery and cross-server workflow orchestration.

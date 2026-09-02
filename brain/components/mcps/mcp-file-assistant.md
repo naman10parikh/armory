@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T17:10:12Z"
 ---
 ## What it is
 MCP server that allows AI agents to read, search, summarize, and answer questions about local PDF, DOCX, XLSX, and TXT files through five tools.

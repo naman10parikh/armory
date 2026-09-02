@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:13:58Z"
 ---
 ## What it is
 Provides 13 tools for AI agents to manage tasks, calendar, and goals in TaskPilot, a local-first desktop task manager with a permissioned agent runner and review workflows.

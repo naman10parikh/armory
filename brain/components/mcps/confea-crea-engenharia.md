@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:31:21Z"
 ---
 ## What it is
 This MCP server enables querying the professional registration of engineers and agronomists in Brazil's CONFEA/CREA system using CPF and national registration number, with a single read-only tool.

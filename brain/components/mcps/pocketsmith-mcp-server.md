@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T10:58:29Z"
 ---
 ## What it is
 An MCP server that enables Claude and other clients to manage personal finances through the PocketSmith API, including accounts, transactions, budgets, categories, and financial analysis.

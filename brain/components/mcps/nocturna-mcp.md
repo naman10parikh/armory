@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-29T13:11:51Z"
 ---
 ## What it is
 MCP server for Nocturna astrology APIs, providing 20 tools for natal charts, transits, synastry, progressions, returns, and chart image rendering.

@@ -8,10 +8,12 @@ source_url: https://github.com/adhikasp/mcp-youtube
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-12-02T09:35:44Z"
 ---
 ## What it is
 MCP server `YouTube Transcript`, catalogued on PulseMCP. Fetch and analyze YouTube video transcripts.

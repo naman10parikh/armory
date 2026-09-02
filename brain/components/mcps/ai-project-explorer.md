@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T19:29:52Z"
 ---
 ## What it is
 Enables AI assistants to discover and interact with GitHub repositories through standardized MCP tools, allowing exploration and retrieval of project information without direct API calls.

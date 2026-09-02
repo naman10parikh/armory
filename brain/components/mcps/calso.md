@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T08:03:56Z"
 ---
 ## What it is
 MCP server for Calso, a local Persian calendar and task manager. It provides 17 tools enabling AI to create tasks, read schedules, and plan days with Solar Hijri dates.

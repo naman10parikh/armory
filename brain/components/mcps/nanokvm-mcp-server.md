@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T13:33:23Z"
 ---
 ## What it is
 MCP server for controlling Sipeed NanoKVM devices, enabling remote hardware control via keyboard, mouse, power, and screenshots. It allows AI assistants like Claude to manage headless machines at the BIOS level.

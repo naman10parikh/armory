@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-22T15:46:26Z"
 ---
 ## What it is
 MCP server `ICD-10-CM Medical Coding`, catalogued on PulseMCP. Provides ICD-10-CM medical coding tools with a RAG pipeline for clinical note analysis.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-25T13:59:44Z"
 ---
 ## What it is
 MCP server `Datadog`, catalogued on PulseMCP. Integrates with Datadog's monitoring platform to provide access to metrics, logs, and observability data through API authentication for DevOps teams managing incident response and infrastructure monitoring workflows.

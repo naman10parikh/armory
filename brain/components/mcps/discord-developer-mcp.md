@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T18:48:50Z"
 ---
 ## What it is
 Enables AI agents to interact with a Discord test bot to verify bot behavior by sending messages, managing channels and roles, and observing gateway events.

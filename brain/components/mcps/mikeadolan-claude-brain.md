@@ -8,10 +8,12 @@ source_url: https://github.com/mikeadolan/claude-brain
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-27T02:16:31Z"
 ---
 ## What it is
 MCP server `Claude Brain`, catalogued on PulseMCP. Persistent SQLite memory for Claude Code with cross-project search and email digests.

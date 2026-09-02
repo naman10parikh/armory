@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:14:18Z"
 ---
 ## What it is
 Exposes tools for fold operations and κ-band analysis, enabling interaction with the 7-prime spine and fold operations in any MCP client.

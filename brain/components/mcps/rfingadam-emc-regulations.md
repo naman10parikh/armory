@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T03:08:02Z"
 ---
 ## What it is
 MCP server `EMC Regulations`, catalogued on PulseMCP. Provides EMC/RF regulatory compliance data including FCC Part 15/18, CISPR standards, automotive EMC limits, immunity testing requirements, and frequency band information for electronic device certification and pre-compliance testing.

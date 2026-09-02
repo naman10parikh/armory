@@ -8,11 +8,13 @@ source_url: https://github.com/fastly/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-18T19:19:18Z"
 ---
 ## What it is
 Enables assistants to interact with the Fastly API, allowing them to manage services, domains, TLS settings, traffic, dictionaries, ACLs, purge content, and make configuration changes.

@@ -8,10 +8,12 @@ source_url: https://github.com/akash-network/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-06-24T11:55:25Z"
 ---
 ## What it is
 MCP server `Akash Network`, catalogued on PulseMCP. Bridges AI agents with the Akash Network, enabling deployment and management of decentralized applications on blockchain-based cloud computing infrastructure.

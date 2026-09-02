@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T22:36:11Z"
 ---
 ## What it is
 Analyzes World of Warcraft TBC Classic character gear and talents in real time, enabling natural language queries about hit caps, BiS items, and slot upgrades.

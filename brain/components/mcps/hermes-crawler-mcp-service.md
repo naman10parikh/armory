@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T07:14:30Z"
 ---
 ## What it is
 A single-process MCP server that crawls web pages, handles anti-bot challenges, converts HTML to Markdown, and caches results in PostgreSQL, providing tools to fetch and read web content.

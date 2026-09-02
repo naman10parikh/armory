@@ -8,10 +8,12 @@ source_url: https://github.com/andeya/ide-relay-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-04-27T14:58:56Z"
 ---
 ## What it is
 MCP server `IDE Relay`, catalogued on PulseMCP. Provides a native desktop feedback window for pausing AI agent requests and collecting human input.

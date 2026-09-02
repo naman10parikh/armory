@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T21:42:44Z"
 ---
 ## What it is
 MCP server that fetches ServiceNow Community events for a date range and returns them as structured data, optionally writing a CSV. No login or credentials required.

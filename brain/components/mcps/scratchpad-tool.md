@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-02T06:06:56Z"
 ---
 ## What it is
 A Model Context Protocol server that provides a scratchpad tool for LLMs to organize thoughts, take notes, and plan approaches to complex problems.

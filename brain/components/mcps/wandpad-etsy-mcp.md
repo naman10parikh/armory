@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:35:38Z"
 ---
 ## What it is
 Enables Claude to read shop data, listings, inventory, and orders from the WandPad Etsy shop using the official Etsy API v3, with optional write capabilities for listings when explicitly enabled and confirmed.

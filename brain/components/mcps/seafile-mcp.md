@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T14:41:37Z"
 ---
 ## What it is
 An MCP server that connects to Seafile, enabling file management, search, and library operations with per-user token authentication and configurable safety modes (read-only, safe-write, full).

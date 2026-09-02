@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-07-13T13:02:38Z"
 ---
 ## What it is
 Enables AI assistants to manage Microsoft Outlook email and calendar through the Microsoft Graph API, including reading, sending, searching emails, and handling calendar events.

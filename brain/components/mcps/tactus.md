@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T09:26:50Z"
 ---
 ## What it is
 A content-agnostic MCP server that lets any AI agent control intimate hardware through a clean, safe tool interface.

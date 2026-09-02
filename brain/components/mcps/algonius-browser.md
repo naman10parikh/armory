@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-06-25T14:30:54Z"
 ---
 ## What it is
 An open-source MCP server that provides browser automation capabilities to external AI systems, enabling navigation, DOM interaction, and web content extraction.

@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-11T11:58:13Z"
 ---
 ## What it is
 MCP server `DevTap`, catalogued on PulseMCP. Captures build and dev process output and feeds structured error data to AI coding tools.

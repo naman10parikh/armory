@@ -8,10 +8,12 @@ source_url: https://github.com/robithyusuf/mcp-stealth-chrome
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-19T06:05:33Z"
 ---
 ## What it is
 MCP server `Stealth Chrome Browser`, catalogued on PulseMCP. MCP server providing 133 browser automation tools with Cloudflare Turnstile bypass and reCAPTCHA solving capabilities.

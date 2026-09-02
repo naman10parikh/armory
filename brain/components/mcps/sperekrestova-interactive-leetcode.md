@@ -8,10 +8,12 @@ source_url: https://github.com/sperekrestova/interactive-leetcode-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-21T03:55:56Z"
 ---
 ## What it is
 MCP server `Interactive LeetCode`, catalogued on PulseMCP. Enables interactive LeetCode problem solving with AI-guided authentication, solution submission, and learning-mode hints.

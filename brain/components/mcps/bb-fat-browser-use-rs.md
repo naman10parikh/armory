@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 42
+forks: 11
+pushed_at: "2025-11-20T08:36:40Z"
 ---
 ## What it is
 Lightweight browser automation MCP server in Rust with zero dependencies.

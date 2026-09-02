@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T04:14:48Z"
 ---
 ## What it is
 Enables AI assistants to manage Namecheap domains, DNS, contacts, registrar locks, and view SSL certificates and pricing through safe read and configuration tools.

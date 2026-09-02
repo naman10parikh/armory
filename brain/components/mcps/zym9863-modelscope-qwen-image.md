@@ -8,10 +8,12 @@ source_url: https://github.com/zym9863/modelscope-image-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-26T15:28:29Z"
 ---
 ## What it is
 MCP server `ModelScope Qwen-Image`, catalogued on PulseMCP. Integrates with ModelScope's Qwen-Image model to generate images from text prompts, returning base64-encoded results with automatic format detection and error handling for multilingual content creation.

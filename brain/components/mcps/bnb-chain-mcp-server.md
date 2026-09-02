@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-08T12:13:31Z"
 ---
 ## What it is
 Enables AI assistants to interact with BNB Chain, including wallet creation, balance queries, token transfers, swaps via PancakeSwap V3, and price data from Binance Oracle.

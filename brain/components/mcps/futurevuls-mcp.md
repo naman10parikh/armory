@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-02T09:10:33Z"
 ---
 ## What it is
 MCP server for FutureVuls vulnerability management service, enabling AI assistants to search CVEs, manage tasks, and generate reports.

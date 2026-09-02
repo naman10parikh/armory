@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-02-08T00:12:42Z"
 ---
 ## What it is
 MCP server `Code Analysis`, catalogued on PulseMCP. Integrates code analysis with scraping capabilities to enable code review, static analysis, and automated refactoring suggestions for development teams.

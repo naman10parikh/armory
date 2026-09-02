@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-02T09:43:48Z"
 ---
 ## What it is
 An MCP server that gives Claude Code and Cursor the ability to generate and edit images using RunPod's Seedream V4 and Nano Banana Pro APIs.

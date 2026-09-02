@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:08:20Z"
 ---
 ## What it is
 MCP server that analyzes codebases to provide dependency graphs, impact analysis, and file insights across 15+ programming languages, enabling AI assistants to understand project structure and navigate code efficiently.

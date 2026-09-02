@@ -8,10 +8,12 @@ source_url: https://github.com/longportapp/longport-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-29T04:57:59Z"
 ---
 ## What it is
 MCP server `Longport OpenAPI`, catalogued on PulseMCP. Integrates with Longport's financial OpenAPI services to enable market data retrieval, trade execution, order management, and account information access across multiple platforms.

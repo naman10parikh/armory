@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-15T15:19:37Z"
 ---
 ## What it is
 Exposes Kubernetes microservice APIs as MCP services by injecting a sidecar into annotated deployments.

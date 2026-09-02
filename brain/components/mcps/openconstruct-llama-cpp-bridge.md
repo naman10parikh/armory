@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-16T06:18:39Z"
 ---
 ## What it is
 MCP server `Llama.cpp Bridge`, catalogued on PulseMCP. Bridges local llama-server instances with MCP clients, providing chat interface, health monitoring, and configurable generation parameters for integrating llama.cpp models with desktop applications

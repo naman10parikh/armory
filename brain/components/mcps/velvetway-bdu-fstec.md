@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T23:01:48Z"
 ---
 ## What it is
 MCP server `BDU FSTEC Vulnerability Database`, catalogued on PulseMCP. Query Russia's official FSTEC vulnerability database with 86,000+ records via full-text search, CVE mapping, and BDU identifier lookup.

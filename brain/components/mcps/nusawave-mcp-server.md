@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T04:14:58Z"
 ---
 ## What it is
 Provides tools to read local git repositories and fetch public web pages without external APIs, configurable via environment variables or JSON files.

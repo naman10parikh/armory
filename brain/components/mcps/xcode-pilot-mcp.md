@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T15:22:12Z"
 ---
 ## What it is
 A comprehensive MCP server for iOS/macOS development that gives AI assistants full control over Xcode build, test, simulator management, and app deployment.

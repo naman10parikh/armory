@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:32:40Z"
 ---
 ## What it is
 A safety-gated Python MCP server for Metabase that lets MCP clients and agents inspect Metabase, run governed queries, and create or maintain dashboards, cards/questions, collections, snippets, permissions, and other Metabase assets through the Metabase REST API.

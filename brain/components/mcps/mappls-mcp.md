@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-05T04:35:36Z"
 ---
 ## What it is
 Enables AI agents to perform geocoding, routing, nearby search, and other location-based tasks for Indian addresses using the Mappls (MapMyIndia) platform.

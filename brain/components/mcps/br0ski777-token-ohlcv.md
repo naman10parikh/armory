@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-19T00:55:09Z"
 ---
 ## What it is
 MCP server `Token OHLCV`, catalogued on PulseMCP. Historical OHLCV candlestick data for any crypto token via CoinGecko and GeckoTerminal on-chain data.

@@ -8,10 +8,12 @@ source_url: https://github.com/hjlarry/dify-plugin-mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-06-19T00:29:24Z"
 ---
 ## What it is
 MCP server `Dify Workflow`, catalogued on PulseMCP. Transforms Dify workflow applications into function-enabled endpoints, allowing AI tools to interact with custom functions through a simple setup process that bridges Dify's capabilities with external systems.

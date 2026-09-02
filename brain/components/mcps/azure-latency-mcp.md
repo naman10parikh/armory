@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T15:08:13Z"
 ---
 ## What it is
 Measures TCP connection latency to Azure blob storage endpoints across regions, enabling AI-assisted region selection for optimal performance.

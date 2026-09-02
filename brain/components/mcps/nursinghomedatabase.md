@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-31T20:29:02Z"
 ---
 ## What it is
 MCP server `NursingHomeDatabase`, catalogued on PulseMCP. Searches US nursing facility data including inspection ratings, staffing levels, and ownership records sourced from CMS federal releases.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T19:32:16Z"
 ---
 ## What it is
 Provides basic greeting, math, and date utilities for AI assistants via the Model Context Protocol.

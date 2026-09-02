@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 8
+forks: 2
+pushed_at: "2026-02-19T23:09:34Z"
 ---
 ## What it is
 Enterprise AI coding usage analytics — track spend, model usage, and costs across Cursor/Claude Code sessions via MCP server

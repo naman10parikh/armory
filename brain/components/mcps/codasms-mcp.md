@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T17:18:29Z"
 ---
 ## What it is
 Enables AI agents to purchase phone numbers and retrieve one-time SMS/OTP verification codes via the CODASMS API, with support for 700+ services and 180+ countries including automatic refunds if no code arrives.

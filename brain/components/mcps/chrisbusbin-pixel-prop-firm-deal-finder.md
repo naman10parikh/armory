@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-29T08:41:45Z"
 ---
 ## What it is
 MCP server `Prop Firm Deal Finder`, catalogued on PulseMCP. Enables AI assistants to query live discount codes and compare funded trading challenges across 19+ prop firms.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T13:15:05Z"
 ---
 ## What it is
 Enables AI assistants to answer questions about and log a user's FitTrack fitness data after validating a short-lived personal access token, with tools like recent_workouts and today_nutrition.

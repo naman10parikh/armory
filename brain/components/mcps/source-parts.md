@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-16T09:38:32Z"
 ---
 ## What it is
 MCP server `Source Parts`, catalogued on PulseMCP. Enables AI assistants to search millions of electronic components, compare prices, check availability, and process bills of materials from major EDA tools.

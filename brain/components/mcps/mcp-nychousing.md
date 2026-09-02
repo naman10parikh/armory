@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T16:15:51Z"
 ---
 ## What it is
 MCP server for NYC housing data, enabling tenant organizers and legal-aid intakes to pull building violations, complaints, ownership, litigation, and evictions. It wraps six city datasets from NYC Open Data.

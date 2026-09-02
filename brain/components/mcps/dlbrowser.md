@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T18:19:08Z"
 ---
 ## What it is
 MCP server that gives AI agents reliable web access with self-healing, anti-bot bypass and clean content extraction. It provides 11 tools like fetch, scrape, and search, metered by credit with cost transparency.

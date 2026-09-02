@@ -8,11 +8,13 @@ source_url: https://github.com/0xDAEF0F/job-searchoor
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 66
+stars: 65
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2025-04-08T22:17:50Z"
 ---
 ## What it is
 Enables searching for jobs with filtering by keywords, excluded keywords, remote preference, and time range.

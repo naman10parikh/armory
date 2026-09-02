@@ -8,10 +8,12 @@ source_url: https://github.com/imouiche/complete-mitre-attack-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-22T01:21:44Z"
 ---
 ## What it is
 MCP server `MITRE ATT&CK`, catalogued on PulseMCP. Comprehensive threat intelligence framework access with techniques, groups, and software entries

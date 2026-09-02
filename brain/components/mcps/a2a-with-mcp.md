@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, experimental-implementations]
+forks: 3
+pushed_at: "2025-06-15T13:43:21Z"
 ---
 ## What it is
 Integration of A2A with MCP

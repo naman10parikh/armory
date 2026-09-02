@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:30:14Z"
 ---
 ## What it is
 Checks whether software dependencies (npm packages, GitHub Actions, MCP servers, Docker images) are alive, dormant, abandoned, archived, or deleted using dated observations from lastseen.dev.

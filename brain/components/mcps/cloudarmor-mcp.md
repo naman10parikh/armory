@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T21:24:24Z"
 ---
 ## What it is
 MCP server for Google Cloud Armor WAF log patrol. Enables daily_brief summaries of enforced denies, home-region false-positive checks, and preview rule review from Cloud Logging.

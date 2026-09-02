@@ -8,11 +8,13 @@ source_url: https://github.com/accentist/buyking-mcp
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T08:20:13Z"
 ---
 ## What it is
 Enables AI assistants to search Saleplaza's hot deals using semantic search and recommend products with a distinctive 'BuyKing' persona.

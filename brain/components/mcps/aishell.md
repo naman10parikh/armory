@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T04:48:07Z"
 ---
 ## What it is
 A macOS-native MCP server that provides AI hosts with fresh workspace state, bounded context, and retained execution evidence, avoiding collapsing operations into shell strings.

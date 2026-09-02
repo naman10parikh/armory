@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T04:34:04Z"
 ---
 ## What it is
 Search transcribed painting lessons from mypaintingclub.com using natural-language questions, returning relevant passages with links to lessons and timestamped video deep links.

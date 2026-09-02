@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T03:06:02Z"
 ---
 ## What it is
 MCP server for GitLab REST API enabling AI agents to manage pipelines, merge requests, diffs, and local reviews.

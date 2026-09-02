@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-16T02:53:07Z"
 ---
 ## What it is
 MCP server `Oracle SQL Explorer`, catalogued on PulseMCP. Provides a Spring Boot-based interface to Oracle databases for executing SQL queries, listing tables, and describing table structures with built-in security measures that prevent non-SELECT statements in production.

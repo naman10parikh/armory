@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-01-22T06:54:57Z"
 ---
 ## What it is
 Enables to read, write, format cells, create charts, use formulas, and manage Google Sheets spreadsheets directly from Claude, Cursor, or any MCP-compatible client.

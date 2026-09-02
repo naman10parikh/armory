@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T23:23:39Z"
 ---
 ## What it is
 MCP server for managing event spaces, hotels, and party venues in Saga Prefecture, Japan. Enables searching, creating, updating, and deleting venues, announcements, release notes, and performing administrative tasks via natural language.

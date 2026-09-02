@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:56:33Z"
 ---
 ## What it is
 Connects Obsidian Markdown notes as searchable knowledge chunks via MCP tools, enabling semantic vector search and CRUD operations through a layered service architecture.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T15:29:52Z"
 ---
 ## What it is
 Free geospatial MCP server for AI agents, providing geocoding, reverse geocoding, POI search, and route planning using OpenStreetMap data via Nominatim, Overpass, and OSRM.

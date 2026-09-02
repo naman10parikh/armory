@@ -8,10 +8,12 @@ source_url: https://github.com/i-can-hack/pdf-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-07-30T09:07:06Z"
 ---
 ## What it is
 MCP server `PDF Tools`, catalogued on PulseMCP. Reads, renders, and searches PDF files using PyMuPDF.

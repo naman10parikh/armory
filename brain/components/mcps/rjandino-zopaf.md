@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T18:08:49Z"
 ---
 ## What it is
 MCP server `Zopaf`, catalogued on PulseMCP. Negotiation math engine exposing MILP-based Pareto frontier and counteroffer generation as tools for AI agents.

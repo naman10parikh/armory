@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-21T05:42:12Z"
 ---
 ## What it is
 This MCP server provides authentication via wallet sign-in (SIWE) and authorization with scoped access to read and trade portfolios, enabling secure portfolio management through natural language.

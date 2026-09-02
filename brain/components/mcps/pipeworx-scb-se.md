@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:38:03Z"
 ---
 ## What it is
 MCP server `Statistics Sweden`, catalogued on PulseMCP. Queries Statistics Sweden's PxWeb JSON-stat statistical database via MCP.

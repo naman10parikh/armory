@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-07-20T14:00:38Z"
 ---
 ## What it is
 Enables browser automation with zero-webdriver, supporting tab management, element finding, navigation, and intelligent search via MCP, with captcha bypass and Windows compatibility.

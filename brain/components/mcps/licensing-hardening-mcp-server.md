@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T22:28:57Z"
 ---
 ## What it is
 A deliberately vulnerable MCP server for local authority licensing, designed to demonstrate and fix native MCP weaknesses such as SQL injection and tool poisoning.

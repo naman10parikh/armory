@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T13:48:04Z"
 ---
 ## What it is
 MCP server for Circle's Agent Stack. Create wallets, set spend policies, send USDC, and pay x402-priced endpoints — all from a tool call.

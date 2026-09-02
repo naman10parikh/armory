@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T06:34:22Z"
 ---
 ## What it is
 Audits Ethereum/Solidity smart contracts using the Cysic Minimax model, providing automated vulnerability detection, gas optimization suggestions, and markdown report generation.

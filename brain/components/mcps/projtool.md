@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T07:09:55Z"
 ---
 ## What it is
 Enables ML researchers to manage experiments across local and remote AutoDL GPU instances, including experiment creation, training launch, run polling, and report writing via Claude Code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T14:23:16Z"
 ---
 ## What it is
 An MCP server for searching and downloading stock images from Unsplash, Pexels, Pixabay, Freepik, StockVault, and Burst, enabling AI agents to source images for content creation via tool calls.

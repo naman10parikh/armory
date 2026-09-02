@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-05-18T11:13:20Z"
 ---
 ## What it is
 A Telegram MCP server that connects agents to a real Telegram user account via MTProto, enabling reading, searching, sending, moderating, and managing Telegram chats through natural language or automated tool calls.

@@ -8,10 +8,12 @@ source_url: https://github.com/dvcrn/mcp-server-siri-shortcuts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 189
+stars: 192
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-08-29T06:08:53Z"
 ---
 ## What it is
 MCP server `Siri Shortcuts`, catalogued on PulseMCP. Integrates with macOS Shortcuts to dynamically expose and execute user-defined automation workflows through generated tools.

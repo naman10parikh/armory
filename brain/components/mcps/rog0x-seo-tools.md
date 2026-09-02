@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-21T20:21:32Z"
 ---
 ## What it is
 MCP server `SEO Tools (rog0x)`, catalogued on PulseMCP. SEO analysis suite for meta tags, heading hierarchy, broken links, keyword density, page speed, and sitemap validation.

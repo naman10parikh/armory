@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T09:23:02Z"
 ---
 ## What it is
 CheapestInference — unlimited flat-rate API for frontier open-source LLMs

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T00:15:43Z"
 ---
 ## What it is
 An append-only research operations framework and read-only MCP that tracks research plans, approvals, observations, claims, failures, revisions, and contributions with source-grounded evidence, providing search, evidence fetch, and audit capabilities without direct ledger writes.

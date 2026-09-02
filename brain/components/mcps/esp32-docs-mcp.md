@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T00:41:59Z"
 ---
 ## What it is
 An MCP server providing semantic search over ESP32 documentation, including ESP-IDF guides, API references, and Technical Reference Manuals, enabling coding agents to look up ESP32 facts locally with accurate, chip-specific results.

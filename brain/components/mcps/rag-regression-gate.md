@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T08:37:17Z"
 ---
 ## What it is
 MCP server that diagnoses RAG pipeline regression by detecting which failure modes (e.g., retrieval miss, hallucination) significantly regressed, not just score drops, using statistical methods to avoid false alarms.

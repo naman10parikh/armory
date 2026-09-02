@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-14T20:45:11Z"
 ---
 ## What it is
 An MCP server that gives Claude Desktop persistent memory, self-awareness, epistemic hygiene, and genuine agency across conversations with a typed memory system, embedding-based semantic search, a 3-judge memory jury, and a real-time dashboard.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T08:41:30Z"
 ---
 ## What it is
 Provides MCP tools for lead qualification, enabling evidence gathering from CRM, scoring, and knowledge base with role-based access and deterministic decision gating.

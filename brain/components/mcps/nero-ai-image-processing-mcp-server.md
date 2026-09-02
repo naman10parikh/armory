@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T05:27:46Z"
 ---
 ## What it is
 Enables AI-powered image editing such as upscaling, background removal, restoration, colorization, denoising, and compression through a simple API.

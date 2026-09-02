@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T05:44:04Z"
 ---
 ## What it is
 A minimal MCP server that exposes web search via Synthetic's API, providing a single search tool for local MCP clients.

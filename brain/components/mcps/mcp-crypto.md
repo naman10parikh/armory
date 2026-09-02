@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:51:45Z"
 ---
 ## What it is
 Provides cryptocurrency market data (top coins by market cap) and fiat currency exchange rates.

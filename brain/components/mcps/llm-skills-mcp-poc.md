@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T05:13:10Z"
 ---
 ## What it is
 MCP server exposing a shared pr-review skill with tools to list, get, run, and evaluate skills, enabling AI assistants to perform code review tasks.

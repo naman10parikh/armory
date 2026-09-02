@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-27T14:33:19Z"
 ---
 ## What it is
 MCP server `Base Multi Wallet`, catalogued on PulseMCP. Manages multiple wallets with coordinated trading and batch operations on Base.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T01:48:16Z"
 ---
 ## What it is
 Enables querying Kiwoom Securities account information and portfolio evaluation through MCP tools, supporting account balance and holdings analysis.

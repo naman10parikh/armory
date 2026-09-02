@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T20:39:21Z"
 ---
 ## What it is
 Enables AI agents to find vetted, daily-scored US residential real-estate investment deals with pay-per-request via USDC on Base.

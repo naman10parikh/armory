@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-09-01T15:18:02Z"
 ---
 ## What it is
 Enables AI agents to safely interact with external services (HTTP, GraphQL, gRPC, Bash, SQL) using HCL templates and OS keychain secrets, preventing prompt injection by keeping request details from the LLM.

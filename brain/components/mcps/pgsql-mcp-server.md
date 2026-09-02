@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-21T22:19:54Z"
 ---
 ## What it is
 Enables interaction with PostgreSQL databases through MCP, supporting queries, DDL, DML, and schema inspection.

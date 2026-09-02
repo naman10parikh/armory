@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T11:18:08Z"
 ---
 ## What it is
 This MCP server provides current weather, 1-16 day forecasts, travel recommendations, and city comparisons using Open-Meteo. It requires no API key and includes a transparent agent-friendly interface.

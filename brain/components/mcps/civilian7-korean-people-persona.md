@@ -8,10 +8,12 @@ source_url: https://github.com/civilian7/korean-people-persona
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-11T14:28:34Z"
 ---
 ## What it is
 MCP server `Korean People Persona`, catalogued on PulseMCP. MCP server for searching and analyzing NVIDIA's Korean demographic persona dataset with SQLite full-text search.

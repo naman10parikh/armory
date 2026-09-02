@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T07:37:18Z"
 ---
 ## What it is
 MCP server that exposes tools for monitoring supply chain disruptions, including vessel positions, port weather, congestion, and news. Includes an AI agent that synthesizes these sources to assess route risks.

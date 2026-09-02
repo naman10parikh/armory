@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T11:36:46Z"
 ---
 ## What it is
 Validates SQL queries via AST parsing, ensuring they are single read-only SELECTs on allowed tables with enforced LIMITs, and masks PII columns based on user roles. Provides a tamper-evident audit log and runs fully offline.

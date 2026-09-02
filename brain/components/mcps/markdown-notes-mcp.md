@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-13T23:24:35Z"
 ---
 ## What it is
 Enables managing and searching markdown notes with semantic search, question answering, and note generation, and provides an MCP server for GitHub Copilot integration.

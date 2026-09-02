@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T11:07:32Z"
 ---
 ## What it is
 Multi-model AI code review with structured debate. OpenAI, Gemini, Grok, and Claude review your code in parallel, then an anonymized arbitration produces a single consensus summary.

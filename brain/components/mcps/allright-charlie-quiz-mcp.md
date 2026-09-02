@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T02:23:46Z"
 ---
 ## What it is
 MCP server for adaptive, agent-driven testing of the AllRight Charlie registration quiz, observing UI after every action and handling dynamic steps.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T20:51:53Z"
 ---
 ## What it is
 MCP server for interacting with the CleanJobData Job API, enabling job searches, company lookups, location suggestions, and candidate profile prompts.

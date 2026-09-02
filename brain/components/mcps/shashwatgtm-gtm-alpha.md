@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-30T17:42:16Z"
 ---
 ## What it is
 MCP server `GTM Alpha Consultant`, catalogued on PulseMCP. Professional Go-To-Market strategy consultation with EPIC framework analysis

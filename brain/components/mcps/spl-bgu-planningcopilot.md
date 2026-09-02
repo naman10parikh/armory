@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 4
+forks: 1
+pushed_at: "2026-03-08T10:12:25Z"
 ---
 ## What it is
 A tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.

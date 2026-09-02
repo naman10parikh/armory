@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T09:09:31Z"
 ---
 ## What it is
 Enables users to access five astrology tools via JSON-RPC, including natal chart, sun sign, market pulse, weather, and combined celestial conditions, integrating Free Astrology API, CoinGecko, and Open-Meteo.

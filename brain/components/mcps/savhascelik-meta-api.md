@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-09T03:37:24Z"
 ---
 ## What it is
 MCP server `Meta API Gateway`, catalogued on PulseMCP. Generic API gateway enabling connection to any REST API through configuration files

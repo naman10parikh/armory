@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T19:07:57Z"
 ---
 ## What it is
 A code-intelligence MCP server for coding agents that combines a static repository map (via tree-sitter) with precise live navigation (via LSP), providing structured, token-budgeted responses anchored to file:line.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T23:40:57Z"
 ---
 ## What it is
 Enables AI agents to read and analyze PDF documents for natural language Q\&A. Supports multiple LLM providers including Google Gemini, Anthropic Claude, and OpenAI.

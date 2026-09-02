@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-08T03:58:32Z"
 ---
 ## What it is
 MCP server `UE5 Blueprint`, catalogued on PulseMCP. Bridges Unreal Engine 5 Blueprint visual scripting with natural language for programmatic creation and manipulation of Blueprints, widgets, and input systems.

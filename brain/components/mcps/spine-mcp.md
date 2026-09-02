@@ -8,11 +8,13 @@ source_url: https://github.com/1425sd/spine-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-03T15:15:45Z"
 ---
 ## What it is
 Local MCP server for automating Spine projects via the official CLI, enabling AI tools to inspect, export, import, and add animations to .spine files.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T08:45:08Z"
 ---
 ## What it is
 MCP server that exposes a single tool to execute SQL queries directly against Microsoft SQL Server via pyodbc, returning result sets as JSON. It forwards queries without parsing or filtering, relying on database permissions for security.

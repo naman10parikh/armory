@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T07:32:39Z"
 ---
 ## What it is
 MCP server for querying US federal contracts and public company financial data from USAspending and SEC EDGAR. Enables searching expiring contracts, screening companies by metrics, and retrieving financial histories.

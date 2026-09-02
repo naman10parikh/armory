@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-14T12:09:28Z"
 ---
 ## What it is
 Deprecated MCP server for Prismic; users are advised to use the new Prismic CLI-based approach or Prismic's server-side MCP server instead.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T05:05:48Z"
 ---
 ## What it is
 Validates and rewrites AI-generated text to match brand voice, supporting REST API, MCP, CLI, and GitHub Actions.

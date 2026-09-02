@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T14:22:17Z"
 ---
 ## What it is
 Semantic compression MCP server that reduces document token usage by 60-80% using structured symbolic notation, enabling Claude to efficiently store, retrieve, diff, and summarise documents across PRD, CODE, PAPER, and MEETING domains.

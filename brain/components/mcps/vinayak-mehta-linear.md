@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-30T14:16:01Z"
 ---
 ## What it is
 MCP server `Linear`, catalogued on PulseMCP. Integrates with Linear's issue tracking platform, enabling creation, updating, and searching of issues, retrieval of assigned tasks, and comment addition through five specialized tools.

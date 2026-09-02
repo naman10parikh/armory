@@ -12,6 +12,8 @@ stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-14T03:15:56Z"
 ---
 ## What it is
 MCP server `Design System Analyzer`, catalogued on PulseMCP. Analyzes React component files and design tokens to provide accurate component properties and styling information for precise UI code generation and design recommendations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T12:40:57Z"
 ---
 ## What it is
 MCP server for controlling Android devices over ADB, using direct commands and semantic accessibility selectors with a Kotlin helper APK.

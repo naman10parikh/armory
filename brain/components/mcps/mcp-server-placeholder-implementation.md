@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-02T10:05:34Z"
 ---
 ## What it is
 An MCP server implementation in Python with placeholder tools, deployable to Azure Web App via GitHub Actions. Supports STDIO, HTTP REST, and WebSocket interfaces.

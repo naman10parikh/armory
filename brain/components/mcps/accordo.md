@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-10-27T20:12:15Z"
 ---
 ## What it is
 A YAML-driven workflow guidance MCP server that enables AI coding agents to follow structured development workflows with real-time state tracking and progression control.

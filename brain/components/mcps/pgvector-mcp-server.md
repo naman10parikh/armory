@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-30T09:52:12Z"
 ---
 ## What it is
 Enables AI assistants to manage vector collections and perform similarity search using PostgreSQL and pgvector, with integration to DashScope text embedding.

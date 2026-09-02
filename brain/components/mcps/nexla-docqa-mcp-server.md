@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T21:10:47Z"
 ---
 ## What it is
 Enables natural-language question answering over financial annual reports with source-attributed answers, supporting hybrid retrieval and grounded abstention.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:07:19Z"
 ---
 ## What it is
 MCP stdio server wrapping the fallelder SDK for sovereign, offline-capable, cryptographically signed operations, accessible via autonomous agents.

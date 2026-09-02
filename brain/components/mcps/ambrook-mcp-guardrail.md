@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:51:01Z"
 ---
 ## What it is
 Deterministic pre-flight ledger validator that treats AI agent proposed financial writes as untrusted input, validating them against ledger invariants before commit, ensuring invalid transactions result in zero ledger mutation.

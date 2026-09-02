@@ -8,10 +8,12 @@ source_url: https://github.com/ravisharma46/leak-canary-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-11T15:18:48Z"
 ---
 ## What it is
 MCP server `LeakCanary`, catalogued on PulseMCP. Detect and analyze Android memory leaks via LeakCanary with tools for leak listing, root cause analysis, and fix suggestions.

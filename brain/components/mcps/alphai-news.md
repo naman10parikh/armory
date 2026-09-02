@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T18:49:35Z"
 ---
 ## What it is
 Real-time financial news for AI agents and trading bots — AI-enriched stories with per-ticker analysis, a 1–10 relevance score, SEC Form-4 insider transactions, plus trending and "actionable-now" feeds. Free tier, OAuth, no API key to paste.

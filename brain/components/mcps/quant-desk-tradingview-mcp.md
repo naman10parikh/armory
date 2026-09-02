@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T13:33:15Z"
 ---
 ## What it is
 Analyzes the instrument currently open on your TradingView chart using 311 published quantitative models and free market data, returning a confidence-scored verdict with position sizing. Supports universe scanning and verified Pine Script export.

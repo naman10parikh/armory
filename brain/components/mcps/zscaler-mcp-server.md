@@ -8,11 +8,13 @@ source_url: https://github.com/zscaler/zscaler-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 46
+stars: 50
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 27
+pushed_at: "2026-08-24T06:13:36Z"
 ---
 ## What it is
 Connects AI agents to the Zscaler Zero Trust Exchange platform via the Model Context Protocol, enabling read-only operations by default with optional write capabilities.

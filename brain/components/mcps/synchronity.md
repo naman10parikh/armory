@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T19:25:52Z"
 ---
 ## What it is
 Enables AI assistants to search, compare, and buy products across connected WooCommerce stores with human-in-the-loop approval.

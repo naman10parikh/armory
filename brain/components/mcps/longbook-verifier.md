@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T18:59:09Z"
 ---
 ## What it is
 An MCP server that evaluates whether retrieval methods and AI outputs are grounded in long narrative manuscripts by retrieving evidence and scoring coverage deterministically, without external model APIs. It provides tools for chunking, indexing, retrieval, and evaluation.

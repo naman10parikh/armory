@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T06:08:51Z"
 ---
 ## What it is
 Community MCP wrapper for Easypaisa public APIs, enabling interaction with payment and account operations via natural language (current scaffold provides only ping tool).

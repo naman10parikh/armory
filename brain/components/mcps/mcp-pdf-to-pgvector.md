@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T16:58:02Z"
 ---
 ## What it is
 MCP server that ingests PDF documents into pgvector for semantic search and RAG pipelines. It handles extraction, chunking, local embeddings, and storage, enabling agents to make PDFs searchable via natural language.

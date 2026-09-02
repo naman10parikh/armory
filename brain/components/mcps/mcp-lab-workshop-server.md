@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:07:23Z"
 ---
 ## What it is
 Enables real-time control of an interactive dashboard through MCP tools, allowing toggling features, updating stats, setting messages, and simulating traffic. Built on Cloudflare Workers with KV storage for educational purposes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T09:01:49Z"
 ---
 ## What it is
 Enables LLMs to efficiently navigate large codebases by providing surgical access to specific code symbols via semantic search and call-graph queries.

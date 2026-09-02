@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T10:02:12Z"
 ---
 ## What it is
 Enables turning any company URL into a vertical brand film with script, voiceover, city backgrounds, and MP4 output via 7 MCP tools.

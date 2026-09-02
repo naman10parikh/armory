@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-06T11:34:00Z"
 ---
 ## What it is
 MCP server `Feishu Markdown`, catalogued on PulseMCP. Uploads local Markdown files to Feishu cloud documents by converting Markdown to Feishu block format.

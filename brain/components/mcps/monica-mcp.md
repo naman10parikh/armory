@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T21:17:53Z"
 ---
 ## What it is
 A self-hosted, multi-user gateway that exposes Monica personal CRM to AI agents via authenticated remote MCP endpoint, handling per-user authentication and implementing CRM resources as tools.

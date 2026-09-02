@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-31T16:38:39Z"
 ---
 ## What it is
 MCP server `YaraFlux`, catalogued on PulseMCP. Provides YARA-based malware scanning capabilities with support for local and MinIO storage backends, enabling security professionals to manage rules, scan files/URLs, and analyze results for threat detection.

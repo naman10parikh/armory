@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T14:05:15Z"
 ---
 ## What it is
 A custom MCP server that lets Claude Code read, search, and manipulate Adobe InDesign documents. macOS only.

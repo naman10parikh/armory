@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-14T13:45:34Z"
 ---
 ## What it is
 Enables browser automation, including navigation, form filling, login with CAPTCHA handling, and element manipulation, using a Chrome-based MCP server.

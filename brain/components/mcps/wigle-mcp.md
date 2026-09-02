@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-05T07:32:58Z"
 ---
 ## What it is
 An MCP server that exposes WiGLE.net wardriving lookups as tools for LLMs, enabling searches and details for WiFi networks, Bluetooth devices, and cell towers.

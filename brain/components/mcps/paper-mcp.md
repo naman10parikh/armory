@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-25T05:30:50Z"
 ---
 ## What it is
 Enables retrieval of academic paper metadata, PDFs, full text, citations, and references by title via Semantic Scholar, arXiv, and other sources.

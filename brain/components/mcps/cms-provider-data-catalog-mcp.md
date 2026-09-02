@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T22:39:39Z"
 ---
 ## What it is
 A remote MCP server that lets an LLM explore, query, aggregate, and benchmark the ~234 datasets in the CMS Provider Data Catalog — hospitals, dialysis facilities, nursing homes, home health, hospice, physicians, and more — in plain language.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-01T08:40:57Z"
 ---
 ## What it is
 MCP server `Quality QR`, catalogued on PulseMCP. Create and manage trackable QR codes with dynamic URLs, scan analytics, and 12 QR types via a remote MCP server.

@@ -8,10 +8,12 @@ source_url: https://github.com/madnessengineering/omnispindle
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-21T17:47:39Z"
 ---
 ## What it is
 MCP server `FastMCP Todo`, catalogued on PulseMCP. Integrates with MongoDB and MQTT to enable real-time task management, distribution, and updates for collaborative workflows and automation.

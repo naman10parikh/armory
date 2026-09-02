@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:17:13Z"
 ---
 ## What it is
 MCP server that lets AI agents discover, inspect, install, and run DeepSeek Harness plugins via MCP, bridging the gap between the MCP protocol and Cordis-based plugin bundles.

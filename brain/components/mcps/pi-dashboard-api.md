@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-04T01:26:39Z"
 ---
 ## What it is
 MCP server `PI Dashboard API`, catalogued on PulseMCP. Integrates with PI Dashboard API to enable interaction with categories, charts, and dashboard elements for data analysis, comparison, and optimization workflows.

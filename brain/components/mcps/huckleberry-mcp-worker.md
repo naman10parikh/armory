@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T00:09:50Z"
 ---
 ## What it is
 An always-on MCP server that lets AI assistants read and write sleep, feeding, diaper, and growth records for the Huckleberry baby-tracking app through a Cloudflare Worker using the Firebase REST API.

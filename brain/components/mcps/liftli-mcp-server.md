@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T10:41:11Z"
 ---
 ## What it is
 Acts as a head of content for LinkedIn, X (Twitter), and Substack, enabling voice extraction, content ideation, drafting, critiquing, and approved publishing/scheduling through official APIs.

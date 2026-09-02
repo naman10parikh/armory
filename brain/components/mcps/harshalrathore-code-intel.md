@@ -8,10 +8,12 @@ source_url: https://github.com/harshalrathore/code-intel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-04T09:48:36Z"
 ---
 ## What it is
 MCP server `Code Intelligence`, catalogued on PulseMCP. MCP server providing 20 code analysis tools including symbol search, call graphs, data flow, and impact analysis powered by ArangoDB.

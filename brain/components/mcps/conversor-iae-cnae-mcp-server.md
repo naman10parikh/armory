@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T08:50:35Z"
 ---
 ## What it is
 The first fiscal MCP server for Spain, connecting AI agents to live IAE, CNAE 2025, AEAT tax-form, and RETA data from official sources.

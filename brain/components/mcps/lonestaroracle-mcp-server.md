@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T14:11:48Z"
 ---
 ## What it is
 38 AI data tools for Claude and any MCP-compatible agent covering crypto, DeFi, equities, commodities, energy, real estate, government intelligence, security audits, and more.

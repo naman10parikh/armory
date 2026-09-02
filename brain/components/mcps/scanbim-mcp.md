@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-21T03:44:31Z"
 ---
 ## What it is
 An AI hub for AEC that enables upload, conversion, viewing, analysis, and sharing of BIM models via 46 tools across 5 workers, integrating with Autodesk Platform Services.

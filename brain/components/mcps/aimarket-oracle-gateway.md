@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T20:54:22Z"
 ---
 ## What it is
 MCP server exposing AIMarket's verifiable oracle capabilities (Platon VRF, Chronos VDF, LUMEN reputation) as agent-callable tools with pay-per-call.

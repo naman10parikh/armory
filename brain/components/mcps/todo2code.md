@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:05:01Z"
 ---
 ## What it is
 MCP server that extracts and links code, tasks, documentation, and git history into a graph, then diagnoses discrepancies and generates reports.

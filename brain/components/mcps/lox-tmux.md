@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-16T11:37:53Z"
 ---
 ## What it is
 MCP server `Tmux`, catalogued on PulseMCP. Enables terminal session management through tmux with tools for creating sessions, sending commands and keystrokes, capturing screen content, and managing session lifecycles for system administration, development workflows, and terminal-based application interactions.

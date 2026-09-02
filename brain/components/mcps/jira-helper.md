@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:38:42Z"
 ---
 ## What it is
 MCP server providing tools to read and write Jira Cloud issues, including a bridge to GitHub commits for tracing issues to code.

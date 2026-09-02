@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-07T16:44:33Z"
 ---
 ## What it is
 Enables interaction with SharePoint Online and OneDrive content via Microsoft Graph, supporting device-code authentication for multi-account environments.

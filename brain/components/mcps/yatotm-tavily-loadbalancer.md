@@ -8,10 +8,12 @@ source_url: https://github.com/yatotm/tavily-mcp-loadbalancer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-07-24T04:49:11Z"
 ---
 ## What it is
 MCP server `Tavily Load Balancer`, catalogued on PulseMCP. Manages multiple Tavily API keys through intelligent load balancing and rotation to prevent rate limiting while providing reliable access to web search, content extraction, crawling, and mapping capabilities.

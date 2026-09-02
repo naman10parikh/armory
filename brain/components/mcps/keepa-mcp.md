@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T03:44:37Z"
 ---
 ## What it is
 Enables AI assistants to access Amazon price history, sales rank trends, product details, best-sellers, and deals via the Keepa API for product research and deal hunting.

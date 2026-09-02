@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-04-27T14:58:56Z"
 ---
 ## What it is
 Adds a human-in-the-loop checkpoint to MCP-capable AI coding agents, enabling them to pause and request user feedback before executing actions.

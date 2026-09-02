@@ -8,11 +8,13 @@ source_url: https://github.com/kostikpenzin/mcp_iva_mcu
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T07:04:47Z"
 ---
 ## What it is
 Enables AI agents to manage video conferencing through the IVA MCU platform, including conferences, chats, users, and integrations via Clients, Integration, and Bot APIs.

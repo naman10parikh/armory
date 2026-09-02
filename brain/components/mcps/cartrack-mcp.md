@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T13:52:15Z"
 ---
 ## What it is
 A read-only MCP server for Cartrack fleet management, enabling listing vehicles and checking their last-known status and location.

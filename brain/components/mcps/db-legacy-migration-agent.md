@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T16:51:33Z"
 ---
 ## What it is
 MCP server that parses legacy relational database schemas (Oracle, DB2, MySQL, MSSQL) and transpiles them to PostgreSQL with generated Prisma schema and TypeScript query helpers.

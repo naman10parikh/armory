@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-26T09:14:58Z"
 ---
 ## What it is
 Enables Claude to control AutoCAD—draw, edit, query, layers, blocks, annotations, screenshots, plot to PDF—using plain language.

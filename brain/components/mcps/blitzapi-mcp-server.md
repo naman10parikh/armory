@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T10:12:14Z"
 ---
 ## What it is
 Enables Claude to access BlitzAPI's B2B data endpoints, allowing sales reps to find contacts, companies, and enriched data using natural language.

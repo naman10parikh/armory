@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-02-27T01:34:01Z"
 ---
 ## What it is
 MCP server `Data Extractor`, catalogued on PulseMCP. Extracts data from TypeScript/JavaScript code into JSON configuration files, facilitating code refactoring and improved maintainability.

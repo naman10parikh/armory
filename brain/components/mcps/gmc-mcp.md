@@ -8,11 +8,13 @@ source_url: https://github.com/kiwoongeom/gmc-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-02T20:51:15Z"
 ---
 ## What it is
 MCP server for Google Merchant Center, providing 126 tools to manage Google Shopping feed, products, inventory, reports, promotions, returns, and account configuration via natural language.

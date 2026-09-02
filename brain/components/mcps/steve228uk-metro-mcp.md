@@ -8,10 +8,12 @@ source_url: https://github.com/steve228uk/metro-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-08T10:12:21Z"
 ---
 ## What it is
 MCP server `Metro`, catalogued on PulseMCP. React Native and Expo runtime debugging, inspection, and automation via Metro and Chrome DevTools Protocol.

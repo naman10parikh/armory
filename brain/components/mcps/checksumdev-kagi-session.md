@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-28T08:06:43Z"
 ---
 ## What it is
 MCP server `Kagi Session Search`, catalogued on PulseMCP. Searches Kagi using an existing browser session cookie without an API key, supporting web, FastGPT, news, images, videos, and podcast searches via stdio.

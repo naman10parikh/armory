@@ -12,6 +12,8 @@ stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-07-26T21:50:25Z"
 ---
 ## What it is
 MCP server `Archy`, catalogued on PulseMCP. Generates architectural diagrams from text descriptions or GitHub repositories using Mermaid syntax, supporting flowcharts, class diagrams, sequence diagrams, and repository evolution tracking.

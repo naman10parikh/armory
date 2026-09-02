@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-04T06:32:46Z"
 ---
 ## What it is
 Provides access to the APIs.guru directory of 3,000+ OpenAPI specs and supports custom spec import, enabling API discovery, analysis, and integration via natural language.

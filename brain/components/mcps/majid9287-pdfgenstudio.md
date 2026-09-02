@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-16T12:53:12Z"
 ---
 ## What it is
 MCP server `PDF Gen Studio`, catalogued on PulseMCP. Integrates with PDF Gen Studio API to generate PDFs and images from templates, JSON documents, HTML/CSS content, and webpage screenshots.

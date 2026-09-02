@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T02:09:37Z"
 ---
 ## What it is
 MCP server with tools for Brazilian data like CPF, CNPJ, CEP validation and generation, and currency quotes.

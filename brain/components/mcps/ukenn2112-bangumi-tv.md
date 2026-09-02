@@ -8,10 +8,12 @@ source_url: https://github.com/ukenn2112/bangumimcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-04-22T13:58:25Z"
 ---
 ## What it is
 MCP server `Bangumi TV`, catalogued on PulseMCP. Integrates with Bangumi TV API to retrieve anime information, user data, and media details for tracking and discovering anime and manga collections

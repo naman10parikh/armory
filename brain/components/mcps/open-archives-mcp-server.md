@@ -8,11 +8,13 @@ source_url: https://github.com/coret/openarchieven-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-31T21:16:01Z"
 ---
 ## What it is
 Enables querying genealogical records, archive statistics, historical weather, and full-text transcriptions from Open Archives via natural language.

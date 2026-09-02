@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T02:50:56Z"
 ---
 ## What it is
 An MCP-native journaling server that prompts one question per day and captures your responses verbatim, with no AI rewriting or analysis. It integrates with Claude Desktop, Cline, or cron scripts, storing everything as markdown in your vault.

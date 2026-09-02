@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-28T06:12:32Z"
 ---
 ## What it is
 MCP server `GEO Agent`, catalogued on PulseMCP. AI search engine optimization platform for automated SEO landing page creation and product knowledge injection.

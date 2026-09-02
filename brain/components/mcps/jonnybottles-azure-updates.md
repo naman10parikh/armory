@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-02T17:07:41Z"
 ---
 ## What it is
 MCP server `Azure Updates`, catalogued on PulseMCP. Search, filter, and summarize Azure service updates through natural language queries.

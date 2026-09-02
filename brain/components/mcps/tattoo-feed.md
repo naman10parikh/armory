@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T13:48:24Z"
 ---
 ## What it is
 An MCP server that lets an LLM client browse and curate posts from a hand-picked list of Instagram tattoo artists via Instagram's Business Discovery API.

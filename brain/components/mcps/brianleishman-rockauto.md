@@ -8,10 +8,12 @@ source_url: https://github.com/brianleishman/rockauto-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-23T13:36:56Z"
 ---
 ## What it is
 MCP server `RockAuto`, catalogued on PulseMCP. Search and browse the RockAuto auto parts catalog with pricing and vehicle compatibility.

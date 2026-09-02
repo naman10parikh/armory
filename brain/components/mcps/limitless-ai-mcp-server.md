@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-10T15:58:32Z"
 ---
 ## What it is
 Enables AI assistants to interact with Limitless AI Pendant recordings, search, retrieve, and analyze lifelogs via the Model Context Protocol.

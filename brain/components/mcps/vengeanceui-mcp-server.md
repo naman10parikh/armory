@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-30T10:06:22Z"
 ---
 ## What it is
 Enables AI assistants to browse, search, and retrieve source code of 129 VengeanceUI components from their GitHub repository.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-23T18:36:12Z"
 ---
 ## What it is
 Enables Claude to interact with LifeUp Cloud API on your local network for task management, achievements, and user information. Supports 20 tools including creating, editing, and querying tasks, achievements, and shop items.

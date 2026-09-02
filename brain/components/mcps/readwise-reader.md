@@ -8,10 +8,12 @@ source_url: https://github.com/edricgsh/readwise-reader-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-16T01:39:10Z"
 ---
 ## What it is
 MCP server `Readwise Reader`, catalogued on PulseMCP. Integrates with Readwise Reader API for saving URLs and HTML content, organizing documents across locations, performing topic-based searches, and managing tags with automatic content conversion to LLM-friendly text.

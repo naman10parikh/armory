@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T05:34:27Z"
 ---
 ## What it is
 MCP server `Zen Browser`, catalogued on PulseMCP. Docker-first MCP server for headless browser automation via Playwright with HTTP/SSE transport and browser-use agent flows.

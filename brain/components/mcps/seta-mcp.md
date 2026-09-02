@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-14T06:25:13Z"
 ---
 ## What it is
 Enables Salesforce developers to create code and configuration using local documentation, with optional semantic search.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-03T15:33:22Z"
 ---
 ## What it is
 MCP server `dVersum`, catalogued on PulseMCP. Manage clients, projects, tasks, invoices, time tracking, and calendar in dVersum.

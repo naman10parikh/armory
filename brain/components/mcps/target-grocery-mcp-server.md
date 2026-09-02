@@ -8,11 +8,13 @@ source_url: https://github.com/ishita199615/MCP_Server_PersonalShopping
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T17:35:15Z"
 ---
 ## What it is
 Enables AI agents to search Target for groceries, compare unit prices, and manage a shopping cart, stopping short of checkout to keep the human in control.

@@ -8,10 +8,12 @@ source_url: https://github.com/yugabyte/yugabytedb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-09-01T13:30:54Z"
 ---
 ## What it is
 MCP server `YugabyteDB`, catalogued on PulseMCP. Enables read-only database exploration and analysis through secure query execution and schema summarization for YugabyteDB instances

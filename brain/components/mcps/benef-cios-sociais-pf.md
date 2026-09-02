@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:22:40Z"
 ---
 ## What it is
 MCP server to consolidate social benefits received by a Brazilian individual (CPF) via a single read-only tool. Works with any MCP client over HTTP, with pay-per-use pricing and no credentials.

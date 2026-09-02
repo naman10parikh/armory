@@ -8,10 +8,12 @@ source_url: https://github.com/leap-laboratories/discovery-engine
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T02:18:11Z"
 ---
 ## What it is
 MCP server `Discovery Engine`, catalogued on PulseMCP. Hypothesis-free pattern discovery in tabular data with statistical validation.

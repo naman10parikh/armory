@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:14:02Z"
 ---
 ## What it is
 Paid remote MCP endpoint for AI SDK data queries, offering structured JSON tools, token-based access, usage receipts, and audit-ready workflow evidence.

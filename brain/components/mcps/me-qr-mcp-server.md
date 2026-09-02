@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T10:34:07Z"
 ---
 ## What it is
 Cloud-hosted MCP server that enables AI assistants to create, update, and manage QR codes on me-qr.com via OAuth, supporting types like URLs, Wi-Fi, vCards, PDFs, and images.

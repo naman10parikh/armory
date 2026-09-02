@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T00:54:07Z"
 ---
 ## What it is
 Enables AI agents to generate real Office documents (.pptx, .docx, .xlsx) and source code from natural language via MCP protocol.

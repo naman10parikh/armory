@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-18T10:19:01Z"
 ---
 ## What it is
 Enables Electron app automation via Chrome DevTools Protocol (CDP), allowing MCP clients like Cursor or Claude Desktop to interact with Electron apps.

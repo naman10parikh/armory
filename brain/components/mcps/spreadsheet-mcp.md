@@ -8,11 +8,13 @@ source_url: https://github.com/PSU3D0/spreadsheet-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 53
+stars: 54
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-09-02T00:13:55Z"
 ---
 ## What it is
 A stateful MCP server for agent-based Excel workbook interaction, enabling safe reading, mutation, recalculation, verification, and automation of spreadsheets via deterministic JSON contracts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-02T09:01:44Z"
 ---
 ## What it is
 Provides AI coding agents with persistent, graph-connected memory across projects, enabling cross-project context retrieval via synaptic connections and hybrid search.

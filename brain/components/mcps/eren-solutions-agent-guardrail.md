@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-21T20:04:57Z"
 ---
 ## What it is
 MCP server `Agent Guardrail`, catalogued on PulseMCP. Action-level governance for AI agents with policy enforcement, spend caps, and flight recording.

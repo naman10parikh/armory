@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T03:48:27Z"
 ---
 ## What it is
 Local MCP server for GPU-backed TimesFM 2.5 forecasting, enabling zero-shot time-series forecasting, covariate forecasting, anomaly detection, and CSV forecasting via MCP tools.

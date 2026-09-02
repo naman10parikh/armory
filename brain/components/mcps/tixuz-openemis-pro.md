@@ -8,10 +8,12 @@ source_url: https://github.com/tixuz/openemis-mcp-pro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-16T18:55:29Z"
 ---
 ## What it is
 MCP server `OpenEMIS Pro`, catalogued on PulseMCP. Query and modify OpenEMIS v5 education management data via natural language with read and write tools.

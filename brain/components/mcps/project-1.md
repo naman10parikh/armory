@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T16:38:30Z"
 ---
 ## What it is
 MCP server offering tools to add numbers and fetch GitHub repos, a resource for apartment rules, and a prompt to explain SQL queries.

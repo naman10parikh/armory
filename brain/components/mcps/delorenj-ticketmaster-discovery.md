@@ -8,10 +8,12 @@ source_url: https://github.com/delorenj/mcp-server-ticketmaster
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-07-01T23:37:50Z"
 ---
 ## What it is
 MCP server `Ticketmaster`, catalogued on PulseMCP. Integrates with Ticketmaster's Discovery API to search and retrieve detailed event, venue, and attraction data for entertainment planning and ticketing assistance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T06:15:18Z"
 ---
 ## What it is
 A medical MCP server for agents that diagnoses tracebacks, provides exact fixes, and converts verified solutions into reusable prescriptions, plus a guard for destructive shell commands.

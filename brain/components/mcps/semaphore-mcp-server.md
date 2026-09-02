@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T11:04:19Z"
 ---
 ## What it is
 Enables AI assistants to interact with Semaphore UI for managing Ansible, Terraform, and other automation workflows through project, task, template, and inventory management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T16:44:33Z"
 ---
 ## What it is
 An MCP-native CRM backend for AI agents, enabling customer, opportunity, note, follow-up, and pipeline health management through 15 MCP tools.

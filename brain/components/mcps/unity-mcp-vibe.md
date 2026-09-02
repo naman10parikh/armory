@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-29T13:45:33Z"
 ---
 ## What it is
 A native C# MCP server that gives AI agents real-time control and visual analysis of the Unity Editor, enabling dynamic code execution, scene manipulation, and debugging without external dependencies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T14:49:44Z"
 ---
 ## What it is
 Enables AI agents to browse product catalogs and make purchases through a policy engine that enforces spending limits, requires human approval for certain amounts, and logs all actions to an audit trail.

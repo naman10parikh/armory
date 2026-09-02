@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-21T06:19:48Z"
 ---
 ## What it is
 MCP server `Baidu Content Safety`, catalogued on PulseMCP. Integrates with Baidu Cloud's content safety APIs to screen text and other content for potentially harmful, inappropriate, or illegal material before processing or displaying it.

@@ -8,10 +8,12 @@ source_url: https://github.com/houtini-ai/fmp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-17T14:20:08Z"
 ---
 ## What it is
 MCP server `Financial Modeling Prep`, catalogued on PulseMCP. Access financial data and market information through the Financial Modeling Prep API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T12:47:56Z"
 ---
 ## What it is
 Provides Claude with direct access to the Open Porous Media (OPM) reservoir simulation stack, enabling running simulations, inspecting results, and automating workflows via natural language.

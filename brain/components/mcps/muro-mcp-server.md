@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T07:30:32Z"
 ---
 ## What it is
 The official hosted MCP server for muro.chat, enabling AI agents to manage customer support conversations, send replies, triage tickets, and configure the live chat widget.

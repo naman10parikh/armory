@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-21T20:03:01Z"
 ---
 ## What it is
 MCP server `Cisco ACI`, catalogued on PulseMCP. Integrates with Cisco ACI fabrics through APIC REST API to automate network infrastructure management including tenant configuration, policy creation, endpoint group management, and health monitoring with support for both username/password and certificate authentication.

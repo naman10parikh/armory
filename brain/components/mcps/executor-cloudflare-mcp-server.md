@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T18:28:15Z"
 ---
 ## What it is
 Deploys an open-source integration layer for AI agents (Executor) to Cloudflare, providing a private MCP endpoint secured by Cloudflare Access, with D1 database, R2 storage, and Durable Objects for session management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T07:23:39Z"
 ---
 ## What it is
 Unifies fast on-disk read and search with complete AppleScript writes, behind a mandatory safety layer with read-only mode, batch caps, dry-run, and undo for reversible operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-05-16T07:50:23Z"
 ---
 ## What it is
 Enables AI assistants to manage SAP Cloud Integration (CPI) landscapes through natural language by exposing CPI OData APIs as MCP tools.

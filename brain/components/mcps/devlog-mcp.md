@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T06:01:33Z"
 ---
 ## What it is
 Enables AI coding agents to publish development logs to a Notion blog database via a single tool, handling input validation and Notion storage.

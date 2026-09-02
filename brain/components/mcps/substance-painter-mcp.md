@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T23:22:11Z"
 ---
 ## What it is
 Enables conversational control of Adobe Substance 3D Painter for look-dev iteration, including baking, smart materials, and generator parameter tuning.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-20T17:54:25Z"
 ---
 ## What it is
 Provides a persistent Python REPL session as a tool for executing code, managing files, installing packages, and initializing projects via the MCP protocol.

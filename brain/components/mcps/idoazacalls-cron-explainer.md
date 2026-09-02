@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T19:05:58Z"
 ---
 ## What it is
 MCP server `Cron Explainer`, catalogued on PulseMCP. Cron expression parser that explains schedules and returns the next N fire times with timezone support.

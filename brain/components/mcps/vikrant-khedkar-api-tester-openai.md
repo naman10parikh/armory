@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-02T20:04:40Z"
 ---
 ## What it is
 MCP server `API Tester (OpenAI)`, catalogued on PulseMCP. Integrates with OpenAI's APIs to provide tools for API testing, text generation, image creation, and HTTP request handling within applications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-09T15:47:13Z"
 ---
 ## What it is
 A secure email gateway MCP server that protects AI agents from prompt injection attacks by scanning emails for malicious instructions before they reach the agent.

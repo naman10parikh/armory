@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:28:53Z"
 ---
 ## What it is
 Enables search and discourse analysis over Xi Jinping's publicly available speeches and official statements, including full-text retrieval, phrase-trend tracking, and verbatim quotes with source-linked citations.

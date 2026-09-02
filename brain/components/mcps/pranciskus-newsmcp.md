@@ -8,10 +8,12 @@ source_url: https://github.com/pranciskus/newsmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-06T15:24:03Z"
 ---
 ## What it is
 MCP server `NewsMCP`, catalogued on PulseMCP. Real-time world news aggregation with region and topic filtering.

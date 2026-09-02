@@ -8,11 +8,13 @@ source_url: https://github.com/elara-labs/code-context-engine
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 401
+stars: 408
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 62
+pushed_at: "2026-08-23T19:54:42Z"
 ---
 ## What it is
 Indexes your codebase so AI coding agents can search instead of re-reading files, saving up to 94% of tokens.

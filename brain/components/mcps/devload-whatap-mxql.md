@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-11T06:22:30Z"
 ---
 ## What it is
 MCP server `WhaTap MXQL`, catalogued on PulseMCP. Analyze WhaTap APM, browser, and infrastructure metrics through MXQL queries with secure session management

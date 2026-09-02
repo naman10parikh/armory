@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-26T15:02:24Z"
 ---
 ## What it is
 MCP server `DTC Ecommerce`, catalogued on PulseMCP. Context-optimized analytics for DTC e-commerce brands, connecting Klaviyo and Shopify data with pre-aggregated campaign, sales, and subscriber insights.

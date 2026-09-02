@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T12:04:04Z"
 ---
 ## What it is
 Enables place search and discovery via the Foursquare Places API v3, allowing AI assistants to find venues, search near locations, look up place details, and get location context.

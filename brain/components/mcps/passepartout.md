@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T21:27:22Z"
 ---
 ## What it is
 Enables AI assistants to manage content on self-hosted WordPress sites via the WordPress REST API, supporting multiple sites with custom key authentication and tools for posts, pages, media, and taxonomies.

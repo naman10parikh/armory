@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-16T05:45:55Z"
 ---
 ## What it is
 An unofficial MCP server that connects AI agents to Horoshop e-commerce stores, providing tools for managing orders, products, and store operations via the Horoshop API.

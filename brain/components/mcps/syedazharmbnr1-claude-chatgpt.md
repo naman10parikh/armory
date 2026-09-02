@@ -8,10 +8,12 @@ source_url: https://github.com/syedazharmbnr1/claude-chatgpt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 783
+stars: 795
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 101
+pushed_at: "2025-11-20T12:04:45Z"
 ---
 ## What it is
 MCP server `Claude ChatGPT`, catalogued on PulseMCP. Integrates Claude with the ChatGPT desktop app on macOS using AppleScript, enabling cross-assistant interactions for prompt sending, response retrieval, and conversation management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-08-22T20:05:54Z"
 ---
 ## What it is
 AI-powered project management with persistent memory, encrypted P2P sharing, and 20+ integrations, enabling your AI assistant to manage projects, share memories, and collaborate securely across platforms.

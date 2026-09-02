@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T05:14:02Z"
 ---
 ## What it is
 MCP server providing on-chain monitoring reads such as ENS expiry, gas prices, token unlocks, and oracle health via the FabTally Chain API. It supports stdio and streamable-http transports, is read-only and keyless, with pay-per-call tools.

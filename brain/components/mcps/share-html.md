@@ -8,11 +8,13 @@ source_url: https://github.com/lifeodyssey/share-html
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T13:53:19Z"
 ---
 ## What it is
 Enables sharing self-contained HTML files via public or access-key-protected private links. Provides MCP tools to create shares, retrieve public share metadata, and describe the service.

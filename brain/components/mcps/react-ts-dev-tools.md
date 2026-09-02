@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:56:09Z"
 ---
 ## What it is
 An MCP server that provides tools for React and TypeScript development, including generating typed form components, explaining TypeScript compiler errors, and producing Shadcn UI installation commands.

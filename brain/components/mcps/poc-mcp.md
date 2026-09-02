@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T13:34:56Z"
 ---
 ## What it is
 A proof-of-concept MCP server that enables LLMs to read local text files and fetch real-time weather data through external tools.

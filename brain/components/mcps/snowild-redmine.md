@@ -8,10 +8,12 @@ source_url: https://github.com/snowild/redmine-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-11T08:05:30Z"
 ---
 ## What it is
 MCP server `Redmine`, catalogued on PulseMCP. Integrates with Redmine project management systems through REST API to enable issue creation, updates, querying, and project coordination through conversational interfaces.

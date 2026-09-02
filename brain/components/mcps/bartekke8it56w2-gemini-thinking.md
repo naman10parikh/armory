@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-04-12T02:40:11Z"
 ---
 ## What it is
 MCP server `Gemini Thinking`, catalogued on PulseMCP. Integrates with Google's Gemini API to provide analytical thinking capabilities for complex problem-solving, codebase analysis, and architectural decision-making in software development contexts.

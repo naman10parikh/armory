@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T23:57:46Z"
 ---
 ## What it is
 Provides unified semantic search across all Plesk documentation sources (Admin Guide, REST API, CLI, PHP SDK, JS SDK) for extension developers, with sub-second latency and AI-synthesized answers.

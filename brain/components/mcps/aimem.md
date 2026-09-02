@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T12:39:23Z"
 ---
 ## What it is
 A local-first MCP server that gives AI coding assistants persistent, project-scoped memory across sessions, storing facts and decisions in a SQLite database under .aimem/ and exposing tools for searching, storing, and conflict-resolving memories.

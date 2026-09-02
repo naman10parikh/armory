@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T15:26:54Z"
 ---
 ## What it is
 AST-aware semantic code search engine for AI agents, enabling code retrieval by intent with call-graph context and optional LLM enrichment.

@@ -12,6 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-07-29T16:28:07Z"
 ---
 ## What it is
 MCP server `New Relic Logs`, catalogued on PulseMCP. Bridges New Relic's log querying capabilities with a Python-based server, enabling execution of NRQL queries for performance monitoring and log analysis.

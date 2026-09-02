@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T17:58:33Z"
 ---
 ## What it is
 Comprehensive MCP server for the Sui blockchain with 53 tools covering wallets, DeFi (Cetus, DeepBook), SuiNS, staking, validators, Move introspection, and full RPC. Enables natural language interaction with the entire Sui ecosystem.

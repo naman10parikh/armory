@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T09:11:38Z"
 ---
 ## What it is
 MCP server for currency conversion with real-time exchange rates via the Frankfurter API. Enables agents to retrieve latest currency data and perform conversions.

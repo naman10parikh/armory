@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-23T02:05:45Z"
 ---
 ## What it is
 MCP server `HexDocs`, catalogued on PulseMCP. Enables AI systems to search and retrieve Elixir documentation from HexDocs across multiple packages with formatted results including titles, references, types, and content.

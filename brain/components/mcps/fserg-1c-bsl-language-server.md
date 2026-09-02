@@ -8,10 +8,12 @@ source_url: https://github.com/fserg/1c-lsp-mcp-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-14T22:36:48Z"
 ---
 ## What it is
 MCP server `1C:Enterprise BSL Language Server`, catalogued on PulseMCP. Bridges bsl-language-server for 1C:Enterprise code diagnostics, navigation, and multi-project management.

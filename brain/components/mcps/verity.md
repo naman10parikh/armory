@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-24T22:45:17Z"
 ---
 ## What it is
 A multi-agent verification MCP server that uses cross-family LLM critics, NLI, and consistency checks to minimize hallucinations and false claims in LLM outputs.

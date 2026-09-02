@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T03:00:39Z"
 ---
 ## What it is
 AST-aware TypeScript/JavaScript codebase exploration for AI agents, providing high-precision symbol resolution, reference finding, and structural analysis via MCP tools.

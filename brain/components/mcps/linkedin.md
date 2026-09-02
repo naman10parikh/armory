@@ -8,11 +8,13 @@ source_url: https://github.com/alinaqi/mcp-linkedin-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [browser, mcp, search, social]
 mentions: 6
+forks: 18
+pushed_at: "2025-02-18T22:31:30Z"
 ---
 
 ## What it is

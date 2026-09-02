@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T20:35:08Z"
 ---
 ## What it is
 Enables interaction with Metasploit Framework via the msfrpc protocol, exposing tools for module management, session control, and exploitation through MCP.

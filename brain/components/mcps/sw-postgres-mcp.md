@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T21:53:09Z"
 ---
 ## What it is
 Safe-write Postgres MCP server enabling secure read and write access to PostgreSQL databases with role-based separation and allowlist controls, allowing agents to query and modify data without risk of unrecoverable accidents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:57:51Z"
 ---
 ## What it is
 MCP server for Exit1 uptime monitoring. Enables AI assistants to create and manage uptime checks, configure alerts, and query status via natural language.

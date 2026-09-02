@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T22:50:01Z"
 ---
 ## What it is
 Enables natural-language analysis of insurance customer migration data through CrewAI agents, providing tools for querying renewals, churn, competitor returns, and feature adoption.

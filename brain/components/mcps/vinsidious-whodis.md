@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-24T12:38:37Z"
 ---
 ## What it is
 MCP server `Whodis (Domain Availability Checker)`, catalogued on PulseMCP. Provides domain availability checking through WHOIS lookups, enabling users to verify multiple domain names simultaneously for new projects or bulk status verification.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T20:25:48Z"
 ---
 ## What it is
 MCP server `YouTube Video Analyzer`, catalogued on PulseMCP. Analyzes YouTube videos using Google Gemini with support for short clips, long videos via Files API, and follow-up session queries.

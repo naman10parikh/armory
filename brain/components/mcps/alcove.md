@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:17:10Z"
 ---
 ## What it is
 A local-first personal information manager for knowledge, pins, tasks, and mounted sources, with MCP tools for agent-friendly access.

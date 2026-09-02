@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, integration-services]
+forks: 0
+pushed_at: "2025-04-20T23:36:02Z"
 ---
 ## What it is
 Demonstrates how Google's A2A protocol works with Anthropic's MCP protocol for AWS EC2 creation

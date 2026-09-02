@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T18:20:02Z"
 ---
 ## What it is
 Enables safe interaction with Juniper Junos devices (SRX firewalls) via MCP, providing operational read tools and a configuration change flow with device-side diff preview and automated rollback.

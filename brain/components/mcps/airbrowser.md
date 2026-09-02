@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-19T14:03:00Z"
 ---
 ## What it is
 Open-source browser automation API with anti-detection for AI agents, web scraping, and automation, providing undetectable Chrome via MCP and REST API with Cloudflare bypass.

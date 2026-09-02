@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-30T18:52:31Z"
 ---
 ## What it is
 A simple MCP server that exposes datetime information to agentic systems and chat REPLs

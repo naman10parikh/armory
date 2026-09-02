@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T22:40:58Z"
 ---
 ## What it is
 A document intelligence MCP server that extracts text and structured fields from business documents, routes low-confidence extractions to a human review queue, and enables searching across processed documents.

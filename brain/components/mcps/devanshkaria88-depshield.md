@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-03T22:49:15Z"
 ---
 ## What it is
 MCP server `DepShield`, catalogued on PulseMCP. Security checkpoint that intercepts package installations to block vulnerable dependencies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-31T18:44:19Z"
 ---
 ## What it is
 Enables stock analysis by fetching company details, profit data, and shareholding patterns from Screener.in using local LLM tools.

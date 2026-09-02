@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:09:39Z"
 ---
 ## What it is
 Governed MCP gateway for Claude Desktop providing workspace, document, sandbox, profile, reflection, and audit controls through a single visible server.

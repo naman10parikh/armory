@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:01:53Z"
 ---
 ## What it is
 Converts any MCP server into simple HTTP endpoints, enabling AI agents that only support HTTP (like ChatGPT Custom GPT or web_fetch) to use MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T06:31:38Z"
 ---
 ## What it is
 A TypeScript boilerplate for building MCP servers using the official SDK, with a layered architecture for easy adaptation to different APIs.

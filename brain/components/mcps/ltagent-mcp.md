@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T09:56:13Z"
 ---
 ## What it is
 Generates, simulates, and inspects LTspice circuits via MCP tools and resources, providing structured JSON interfaces for AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T13:49:24Z"
 ---
 ## What it is
 Enables publishing and unpublishing model-authored HTML plans through a dependency-free MCP server with publish_plan and unpublish_plan tools.

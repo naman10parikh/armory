@@ -8,10 +8,12 @@ source_url: https://github.com/roomi-fields/rtfm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-09-01T07:51:12Z"
 ---
 ## What it is
 MCP server `RTFM by roomi-fields`, catalogued on PulseMCP. Open retrieval layer for indexing code, documentation, and data with semantic search.

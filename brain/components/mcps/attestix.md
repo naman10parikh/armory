@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-27T00:37:18Z"
 ---
 ## What it is
 MCP server for compliance automation of AI agents, enabling EU AI Act compliance, verifiable credentials, and decentralized identity management with 47 tools across 9 modules.

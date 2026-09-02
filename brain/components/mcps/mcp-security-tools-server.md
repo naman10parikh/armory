@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T21:34:40Z"
 ---
 ## What it is
 A production-ready HTTP API server for security testing and reconnaissance, integrating nmap, cariddi, paramspider, metasploit, and web scraping via FastAPI. It supports optional ngrok tunneling and exposes tools through REST endpoints.

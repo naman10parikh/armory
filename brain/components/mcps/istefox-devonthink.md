@@ -8,10 +8,12 @@ source_url: https://github.com/istefox/istefox-dt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-26T18:14:58Z"
 ---
 ## What it is
 MCP server `DEVONthink`, catalogued on PulseMCP. MCP server for DEVONthink 4 enabling AI assistants to search, retrieve, file, and batch-process documents with vector-based RAG search.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T22:39:07Z"
 ---
 ## What it is
 Exposes tools for AI agents to access honest economic data, including purchasing power comparisons, M2 vs CPI divergence, Bitcoin vs dollar performance, and current monetary stats.

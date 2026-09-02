@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T18:34:19Z"
 ---
 ## What it is
 Listens for Discord @mentions via Gateway and queues them for processing by an agent, exposing a tool to retrieve pending mentions for automated responses.

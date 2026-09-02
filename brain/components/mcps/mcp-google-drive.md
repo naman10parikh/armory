@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-25T12:47:20Z"
 ---
 ## What it is
 MCP server for Google Drive integration with file management, search, sharing, and full CRUD operations.

@@ -8,10 +8,12 @@ source_url: https://github.com/kiransth77/aionmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-30T00:56:35Z"
 ---
 ## What it is
 MCP server `AionMCP`, catalogued on PulseMCP. Dynamic API tool generator for OpenAPI, GraphQL, and AsyncAPI specifications

@@ -8,11 +8,13 @@ source_url: https://github.com/andreahaku/github_wiki_mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-15T14:28:18Z"
 ---
 ## What it is
 MCP server for managing GitHub wiki pages programmatically, enabling create, read, update, delete, and list operations via git cloning and pushing.

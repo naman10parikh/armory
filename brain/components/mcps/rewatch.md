@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-04T09:59:48Z"
 ---
 ## What it is
 MCP server `Rewatch`, catalogued on PulseMCP. Manages long-running development processes like Next.js and Convex servers with tools for starting, stopping, restarting, and monitoring processes while ensuring proper cleanup and preventing orphaned processes during development workflows.

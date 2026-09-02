@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T09:23:26Z"
 ---
 ## What it is
 Enables AI assistants to explore, search, and read codebase repositories and API specifications efficiently, with support for file searching, content search via ripgrep, and reading API specs.

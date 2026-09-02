@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T04:25:34Z"
 ---
 ## What it is
 Read-only MCP server for IKEA product search and in-store stock lookup.

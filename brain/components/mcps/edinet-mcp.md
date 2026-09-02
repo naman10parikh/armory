@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T14:50:00Z"
 ---
 ## What it is
 Lets AI assistants query normalized financial statements (P/L, B/S, C/F) of 3,634 Japanese listed companies from official EDINET filings, unified across J-GAAP, IFRS, and US GAAP with English keys. Zero setup: npx -y edinet-mcp.

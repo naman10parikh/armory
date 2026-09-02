@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-29T15:12:01Z"
 ---
 ## What it is
 Enables AI agents to interact with a persistent knowledge graph backend using MCP tools for reading, searching, and analyzing wiki pages with vector search and graph algorithms.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-30T19:38:35Z"
 ---
 ## What it is
 Enables querying public Brazilian court proceedings metadata and movements via the CNJ/DataJud API, covering multiple courts.

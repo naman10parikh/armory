@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T17:08:26Z"
 ---
 ## What it is
 MCP server that checks AI-generated CSS against design tokens, flagging off-brand values and suggesting the closest matching tokens for colors, spacing, radii, and typography.

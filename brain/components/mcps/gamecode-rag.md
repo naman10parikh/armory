@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T04:19:27Z"
 ---
 ## What it is
 Enables semantic search and call-graph exploration over decompiled Unity Mono C# codebases, with hybrid retrieval, LLM re-ranking, and lazy-loaded project indexes.

@@ -8,11 +8,13 @@ source_url: https://github.com/1Cyrvox/manim-mcpweb
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T22:35:52Z"
 ---
 ## What it is
 MCP server for creating math animations with manim, enabling AI-driven real-time interactive creation and browser preview.

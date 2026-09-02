@@ -8,11 +8,13 @@ source_url: https://github.com/neuroglia-io/a2a-net
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 54
+stars: 55
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, libraries]
+forks: 9
+pushed_at: "2026-03-06T17:49:41Z"
 ---
 ## What it is
 .NET implementation of the A2A protocol to enable secure, interoperable communication

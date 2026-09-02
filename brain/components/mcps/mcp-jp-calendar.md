@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:33:35Z"
 ---
 ## What it is
 Provides accurate Japanese business day utilities including holiday checks, settlement day calculations, and fiscal period determination, all with embedded holiday data from 2020-2030.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-04T12:40:36Z"
 ---
 ## What it is
 Connects to the Stakpak API to generate infrastructure code for projects.

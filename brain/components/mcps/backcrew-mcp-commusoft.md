@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T15:32:01Z"
 ---
 ## What it is
 Enables AI assistants to interact with Commusoft CRM for tasks like customer lookups, supplier management, and more, with read-only access by default and optional write permissions.

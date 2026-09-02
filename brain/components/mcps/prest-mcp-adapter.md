@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-10T02:01:33Z"
 ---
 ## What it is
 Bridges MCP clients that require stdio to a running pREST HTTP MCP endpoint, enabling database interaction via natural language.

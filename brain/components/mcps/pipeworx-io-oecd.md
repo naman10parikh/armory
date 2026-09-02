@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:27:05Z"
 ---
 ## What it is
 MCP server `OECD`, catalogued on PulseMCP. OECD economic and statistical data for querying international development indicators via the Pipeworx gateway.

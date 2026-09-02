@@ -8,11 +8,13 @@ source_url: https://github.com/aydincan/turk-hukuku-ictihat-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:10:10Z"
 ---
 ## What it is
 Statute & article text (mevzuat.gov.tr) and court decisions (UYAP Emsal, Council of State, Constitutional Court), with their citation, source, live. It works as long as the official sources remain reachable.

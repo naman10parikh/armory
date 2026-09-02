@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:47Z"
 ---
 ## What it is
 Generates PDF documents from HTML or Markdown content with customizable page size, margins, and orientation, supporting pay-per-call payments via x402.

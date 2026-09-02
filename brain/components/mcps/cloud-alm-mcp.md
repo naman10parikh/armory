@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T21:44:47Z"
 ---
 ## What it is
 Enables local or HTTP-based MCP interactions with a mock SAP Cloud ALM environment, enforcing read/write capability separation and fail-closed security policies for future SAP Cloud ALM connectivity.

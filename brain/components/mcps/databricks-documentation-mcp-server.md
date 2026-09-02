@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-16T21:17:20Z"
 ---
 ## What it is
 Enables AI assistants to search and explore Databricks AWS documentation through semantic search and 10 MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T14:45:04Z"
 ---
 ## What it is
 MCP server that exposes llm-tldr code analysis tools (tree, structure, context, search, impact, etc.) to MCP clients like Claude Code for project understanding and debugging.

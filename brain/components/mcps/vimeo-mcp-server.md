@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-21T15:36:06Z"
 ---
 ## What it is
 An MCP server that provides tools for interacting with the Vimeo API, enabling management of videos, transcripts, and retrieval of video statistics through a standardized interface.

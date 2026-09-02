@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T08:36:54Z"
 ---
 ## What it is
 An MCP server that enforces runtime authorization for tool calls using Stage0 policy validation, preventing AI agents from executing unauthorized actions before they happen.

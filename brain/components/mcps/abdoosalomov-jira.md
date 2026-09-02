@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T09:49:05Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Connects to self-hosted Jira instances for issue management and project tracking.

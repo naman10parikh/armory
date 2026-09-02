@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-09T03:33:39Z"
 ---
 ## What it is
 An intelligent game assistant for Red Alert, based on LangGraph and MCP, providing asynchronous architecture and multimodal AI control for game strategy, production, and combat management.

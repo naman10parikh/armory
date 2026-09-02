@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T16:34:21Z"
 ---
 ## What it is
 Exposes any project wiki to AI assistants with features like fuzzy search, content search, lazy loading, and auto-reload.

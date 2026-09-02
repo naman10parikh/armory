@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T06:39:25Z"
 ---
 ## What it is
 MCP server that converts informal issue descriptions into structured, developer-ready bug reports using Groq, with automatic classification into bug, feature request, question, or unclear. Enables agents to generate bug reports directly without the web form.

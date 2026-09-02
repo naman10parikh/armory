@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T12:52:28Z"
 ---
 ## What it is
 Enables AI agents to directly create, read, edit, and save Excel (.xlsx) spreadsheets using natural language through the Model Context Protocol, supporting cells, sheets, formatting, and formulas without writing Python code.

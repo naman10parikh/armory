@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T08:07:39Z"
 ---
 ## What it is
 Read-only MCP server for JFrog Artifactory repository intelligence, enabling listing repositories and paths, fetching metadata, properties, and stats, and performing bounded file searches without mutation.

@@ -8,10 +8,12 @@ source_url: https://github.com/stass/lldb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 99
+stars: 112
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-03-26T21:41:30Z"
 ---
 ## What it is
 MCP server `LLDB`, catalogued on PulseMCP. Enable disassembly, debugging and analysis of native apps via LLDB on macOS and Linux.

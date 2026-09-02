@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T20:48:56Z"
 ---
 ## What it is
 MCP server for Karrito - the digital catalog builder for WhatsApp sellers in LATAM, enabling AI assistants to manage store operations like products, orders, discounts, reviews, shipping, and analytics.

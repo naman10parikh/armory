@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T16:12:39Z"
 ---
 ## What it is
 Open-source operational brain that fuses an AI system's agents, memory, knowledge and automations into one rooted, privacy-walled graph, served over MCP with stats, search, node dossiers, neighbors and pathfinding. The same snapshot also renders up to a million nodes in a 3D browser view.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T18:33:42Z"
 ---
 ## What it is
 Normalizes heterogeneous trade data (FIX, JSON, CSV) into a unified schema and exposes query tools via MCP for natural language access.

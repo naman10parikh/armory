@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-26T18:34:04Z"
 ---
 ## What it is
 Enables managing incident response workflows including incidents, on-call, postmortems, and more through the Runframe platform using MCP tools.

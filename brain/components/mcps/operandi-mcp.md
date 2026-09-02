@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T16:10:57Z"
 ---
 ## What it is
 Enables agents to identify appliances and retrieve grounded, robot-executable operation packages, reducing hallucinations from 24% to nearly 0%.

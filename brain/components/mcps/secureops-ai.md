@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T20:47:06Z"
 ---
 ## What it is
 Local security auditing powered by LLMs via Model Context Protocol (MCP) — keep your codebase private, catch flaws locally.

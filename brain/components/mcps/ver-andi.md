@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T01:06:14Z"
 ---
 ## What it is
 Context compiler for AI coding agents that indexes TypeScript codebases to extract and serve only the relevant symbols and files for a task, reducing token usage and search overhead.

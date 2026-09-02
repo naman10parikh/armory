@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-10T16:56:06Z"
 ---
 ## What it is
 MCP server `DAKB`, catalogued on PulseMCP. Enables multi-agent collaboration and knowledge sharing across machines with semantic search, cross-agent messaging, session handoffs, and institutional memory.

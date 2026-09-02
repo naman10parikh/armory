@@ -8,10 +8,12 @@ source_url: https://github.com/prodlint/prodlint
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-30T16:32:45Z"
 ---
 ## What it is
 MCP server `ProdLint`, catalogued on PulseMCP. Production readiness checks for vibe-coded apps with 52 security and performance rules.

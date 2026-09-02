@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T19:30:47Z"
 ---
 ## What it is
 The webslinger-mcp server enables users to execute scripts to perform web-based tasks via the webSlinger browser extension. webSlinger is an automation tool where a user demonstrates a task to perform and records a session map which is used to create a script. Such scripts can be run demand, on a sc

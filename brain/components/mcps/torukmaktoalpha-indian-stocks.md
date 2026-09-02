@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-24T16:50:04Z"
 ---
 ## What it is
 MCP server `Indian Stocks`, catalogued on PulseMCP. Integrates with the Indian stock market API to provide financial data including trending stocks, IPO information, financial statements, historical statistics, mutual funds, and corporate actions for financial analysis and research.

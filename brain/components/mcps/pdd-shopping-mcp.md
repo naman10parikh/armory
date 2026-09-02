@@ -8,11 +8,13 @@ source_url: https://github.com/princeofscale/pdd-shopping-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T19:25:29Z"
 ---
 ## What it is
 Enables searching, normalizing, and signal-analyzing products on Pinduoduo, with built-in fraud signals to help Claude reason about product authenticity.

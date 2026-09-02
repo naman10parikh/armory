@@ -8,10 +8,12 @@ source_url: https://github.com/hugoduncan/mcp-clj
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-02-13T18:19:24Z"
 ---
 ## What it is
 MCP server `Clojure REPL`, catalogued on PulseMCP. Exposes Clojure REPL functionality over SSE transport, enabling remote code execution and interactive data analysis.

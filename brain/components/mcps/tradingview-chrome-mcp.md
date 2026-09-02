@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T12:53:32Z"
 ---
 ## What it is
 Enables AI assistants to remotely control TradingView charts in Chrome, including reading charts, writing and fixing Pine Script, managing watchlists and alerts, and capturing screenshots, all through natural language commands.

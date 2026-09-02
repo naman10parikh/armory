@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T12:38:47Z"
 ---
 ## What it is
 A hosted remote MCP server that provides tool deprecation checking, replacement suggestions, and receipt issuance for MCP tools.

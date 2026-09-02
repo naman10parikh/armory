@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-05T22:05:28Z"
 ---
 ## What it is
 MCP server `Delete File`, catalogued on PulseMCP. File deletion capabilities to safely delete files when needed, with support for both relative and absolute paths.

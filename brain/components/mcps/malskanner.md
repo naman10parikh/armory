@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T13:53:28Z"
 ---
 ## What it is
 MCP server to scan a repository for hidden prompt injection payloads and return a REFUSE/WARN/OK verdict, allowing AI agents to gate their own trust.

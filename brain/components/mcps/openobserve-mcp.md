@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T17:56:17Z"
 ---
 ## What it is
 MCP server that enables querying an OpenObserve instance for logs, traces, and metrics via tools like search_logs, search_traces, get_trace, and query_metrics, supporting natural-language-driven observability workflows.

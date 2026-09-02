@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T10:58:48Z"
 ---
 ## What it is
 Hosted MCP server for Exact Online. Ask questions, pull reports, and prepare bookings you approve first.

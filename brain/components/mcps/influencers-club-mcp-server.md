@@ -8,11 +8,13 @@ source_url: https://github.com/Influencers-Club/influencers-club-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T01:23:42Z"
 ---
 ## What it is
 MCP server for the Influencers Club API — creator enrichment, discovery, audience analysis, content data, batch operations, and account management.

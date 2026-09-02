@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-03T03:19:25Z"
 ---
 ## What it is
 MCP server `Consulting Agents`, catalogued on PulseMCP. Enables Claude Code to consult with multiple expert coding agents powered by OpenAI's o3-mini and Claude 3.7 Sonnet for enhanced problem analysis and diverse model perspectives

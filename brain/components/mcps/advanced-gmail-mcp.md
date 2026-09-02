@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-02-18T02:24:04Z"
 ---
 ## What it is
 A Gmail MCP server for Claude Code that enables full email management across multiple Gmail accounts, including tools for listing, searching, reading, sending, and organizing emails with OAuth2 authentication.

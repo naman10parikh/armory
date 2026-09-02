@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T14:24:53Z"
 ---
 ## What it is
 Converts LaTeX math expressions to SVG. Enables AI assistants to render mathematical formulas as scalable vector graphics.

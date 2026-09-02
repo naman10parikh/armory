@@ -8,10 +8,12 @@ source_url: https://github.com/chrisgleissner/c64bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-31T03:35:07Z"
 ---
 ## What it is
 MCP server `C64 Bridge`, catalogued on PulseMCP. Control and program Commodore 64 Ultimate hardware and VICE emulator via MCP.

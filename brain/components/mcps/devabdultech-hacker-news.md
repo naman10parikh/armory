@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-05T04:26:27Z"
 ---
 ## What it is
 MCP server `Hacker News`, catalogued on PulseMCP. Integrates with the Hacker News API to provide real-time access to stories, comments, and user data for news aggregation, trend analysis, and custom client development.

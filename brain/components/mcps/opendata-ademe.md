@@ -8,11 +8,13 @@ source_url: https://github.com/data-fair/mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1137
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-07-08T08:44:34Z"
 ---
 ## What it is
 Access to ADEME datasets (French ecological transition agency) - data on energy, environment, waste, transport, housing

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-27T01:03:47Z"
 ---
 ## What it is
 Provides comprehensive access to Ethereum blockchain data through the Etherscan API, including account, block, contract, transaction, token, gas, statistics, logs, and RPC proxy tools.

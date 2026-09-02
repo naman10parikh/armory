@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T17:02:34Z"
 ---
 ## What it is
 Hosted MCP server to manage a restaurant menu from AI agents - 39 tools over the DuckHub API (menu, categories, modifiers, prices, images, translations, promotions, and orders).

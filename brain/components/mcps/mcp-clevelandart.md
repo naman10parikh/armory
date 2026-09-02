@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:48:20Z"
 ---
 ## What it is
 Enables querying the Cleveland Museum of Art's open access API to search artworks by filters like type, artist, and CC0 status, retrieve details by accession number, find creators, and explore exhibitions.

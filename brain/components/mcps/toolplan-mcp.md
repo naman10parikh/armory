@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T20:49:53Z"
 ---
 ## What it is
 Turns raw project ideas into polished, cost-aware first prompts for AI coding agents by recommending high-leverage open-source tools and cost-saving techniques.

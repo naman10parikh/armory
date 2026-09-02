@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T05:47:43Z"
 ---
 ## What it is
 A local MCP server that gives a cloud AI agent hands on a real machine, enabling file operations, command execution, and screen capture via a secure tunnel with path whitelisting, command guards, and audit logging.

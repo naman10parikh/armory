@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T10:29:43Z"
 ---
 ## What it is
 Enables publishing posts to a Telegram channel via an MCP tool, designed for scheduled content delivery and integration with Claude.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T07:27:18Z"
 ---
 ## What it is
 Provides read-only MCP tools for market snapshots, position risk, order reconciliation, and daily report previews with deterministic financial calculations, evidence chains, and audit trails.

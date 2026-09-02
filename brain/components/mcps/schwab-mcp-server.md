@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-27T09:24:37Z"
 ---
 ## What it is
 A read-only Model Context Protocol server that connects your Schwab brokerage account to LLM applications for portfolio monitoring and market data retrieval.

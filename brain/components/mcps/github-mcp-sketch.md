@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T11:58:46Z"
 ---
 ## What it is
 Proxies the GitHub MCP server, returns compact schema instead of raw JSON, and enables agents to extract specific fields locally via query_response, reducing context size and cost.

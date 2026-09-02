@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T03:22:37Z"
 ---
 ## What it is
 This MCP server enables AI models to interact with ESP32 devices, providing built-in tools for web search, note management, calculator, and custom tools like todo lists and timers.

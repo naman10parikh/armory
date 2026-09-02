@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T09:59:31Z"
 ---
 ## What it is
 A remote MCP server exposing two read-only tools (get_available_stocks, get_latest_quarter_details) backed by data stored in Cloudflare R2.

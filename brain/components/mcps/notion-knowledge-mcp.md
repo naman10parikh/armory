@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T20:10:44Z"
 ---
 ## What it is
 A Cloudflare Workers-based MCP server for Notion knowledge base management, enabling intelligent search, automatic recording of code snippets, and statistics analysis through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T21:14:01Z"
 ---
 ## What it is
 Enables AI assistants to search media catalogs and request movies and shows on Overseerr or Jellyseerr, with automatic approval and availability checks. It runs as a Cloudflare Worker and integrates with Radarr/Sonarr for seamless media requests.

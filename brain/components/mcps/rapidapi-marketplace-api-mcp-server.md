@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:08:33Z"
 ---
 ## What it is
 Enables searching and retrieving structured data from the RapidAPI marketplace, including API details like pricing, popularity, and ratings, without requiring a RapidAPI account.

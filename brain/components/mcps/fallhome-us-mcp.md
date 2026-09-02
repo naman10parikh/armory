@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:08:33Z"
 ---
 ## What it is
 A sovereign, MIT-licensed MCP server wrapping the fallhome-us-sdk, enabling autonomous agents and developers to interact with the FallMarket ecosystem through Ed25519-signed operations.

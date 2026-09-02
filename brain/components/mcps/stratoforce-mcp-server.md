@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T00:52:43Z"
 ---
 ## What it is
 Enables AI assistants to query and analyze Salesforce pipeline data, including pipeline health, deal details, and risk alerts, through natural language.

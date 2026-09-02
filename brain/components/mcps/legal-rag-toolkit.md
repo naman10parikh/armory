@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T00:52:58Z"
 ---
 ## What it is
 Enables semantic search over Turkish legal contracts and emails via an MCP server integrated with Claude Desktop and Claude Code, providing tools for document ingestion, hybrid vector search, and full-text retrieval.

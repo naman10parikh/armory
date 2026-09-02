@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T18:06:54Z"
 ---
 ## What it is
 A local-first MCP server that snapshots project working state into a structured context object, enabling agents to share and resume sessions seamlessly without leaving your machine.

@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-29T03:37:14Z"
 ---
 ## What it is
 MCP server `LetsBonk (Solana Token Launcher)`, catalogued on PulseMCP. Enables token creation and management on the Solana blockchain through the LetsBonk launchpad, handling IPFS metadata, image uploads, and Raydium integration for seamless meme token launches.

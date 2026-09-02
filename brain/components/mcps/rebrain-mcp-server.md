@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T11:43:39Z"
 ---
 ## What it is
 Enables developers to check system service status, retrieve project documentation, search files, and run whitelisted commands (git, pytest, etc.) securely via natural language.

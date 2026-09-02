@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/bridge-routes-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3748
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:53:10Z"
 ---
 ## What it is
 Cross-chain bridge route finder API for AI agents. Compare best bridging routes across 60+ chains and 18+ bridges (Stargate, Across, Hop, Connext, etc.) via LI.FI aggregator. Fees, estimated time, and security rating for each route. Tools: bridge_find_best_route. Use this BEFORE bridging tokens betw

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T14:17:13Z"
 ---
 ## What it is
 MCP server for estimating LLM token consumption and costs from project documents, code, and materials. Provides 8 tools including project budget planning, token/cost estimation, GitHub repo analysis, and pricing refresh.

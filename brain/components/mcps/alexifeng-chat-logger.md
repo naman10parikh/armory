@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-22T08:40:00Z"
 ---
 ## What it is
 MCP server `Chat Logger`, catalogued on PulseMCP. Saves chat conversations as formatted Markdown files with timestamps and role information for record-keeping and analysis.

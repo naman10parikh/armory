@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-31T09:41:21Z"
 ---
 ## What it is
 MCP server `CIT MCP`, catalogued on PulseMCP. Git-style conversation branching MCP server for Claude Code context management.

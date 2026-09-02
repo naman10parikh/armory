@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
 stars: 8
+forks: 5
+pushed_at: "2026-03-31T02:00:01Z"
 ---
 ## What it is
 93-tool Spotify server with smart shuffle, natural language song search, vibe analysis, artist network mapping, taste evolution, and playlist power tools. Works after Spotify's Feb 2026 API changes.

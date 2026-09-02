@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-23T12:39:01Z"
 ---
 ## What it is
 A minimal MCP server deployed on AWS Lambda and API Gateway using AWS CDK, enabling tool execution via JSON-RPC (e.g., an add tool).

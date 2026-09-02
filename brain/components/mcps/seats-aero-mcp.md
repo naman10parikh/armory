@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T00:33:05Z"
 ---
 ## What it is
 Enables MCP clients to query the Seats.aero partner API for seat availability, trips, routes, and destinations, including cached and live search options.

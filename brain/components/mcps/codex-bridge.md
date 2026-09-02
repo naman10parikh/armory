@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T16:15:27Z"
 ---
 ## What it is
 MCP server that lets Claude Code ask GPT Codex for adversarial planning, code review, debugging, research, and risk triage without leaving your project workflow.

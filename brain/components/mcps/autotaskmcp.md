@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-21T23:32:16Z"
 ---
 ## What it is
 Enables interaction with Autotask REST API for ticket management and querying through natural language.

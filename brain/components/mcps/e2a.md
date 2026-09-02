@@ -8,10 +8,12 @@ source_url: https://github.com/mnexa-ai/e2a
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 140
+stars: 184
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2026-09-01T20:54:45Z"
 ---
 ## What it is
 MCP server `e2a`, catalogued on PulseMCP. Authenticated email gateway for AI agents with per-agent inboxes, human-in-the-loop approval, and SPF/DKIM verification.

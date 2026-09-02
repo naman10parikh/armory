@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T08:27:08Z"
 ---
 ## What it is
 A wrapper around chrome-devtools-mcp that adds dynamic multi-browser routing, allowing connection to and switching between multiple Chrome instances at runtime.

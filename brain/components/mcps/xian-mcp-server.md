@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T20:22:26Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Xian blockchain, including wallet management, token transfers, smart contract operations, DEX trading, and indexed blockchain data queries through a unified MCP and HTTP interface.

@@ -8,10 +8,12 @@ source_url: https://github.com/xiaojiou176-open/apple-notes-forensics
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-04T16:04:44Z"
 ---
 ## What it is
 MCP server `NoteStoreLab`, catalogued on PulseMCP. Local-first Apple Notes recovery and review for forensics case investigation.

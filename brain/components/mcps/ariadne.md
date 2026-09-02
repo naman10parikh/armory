@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-02T18:28:42Z"
 ---
 ## What it is
 Semantic code index and gatekeeper that exposes 14 read-only MCP tools for AI agents, enabling symbol search, definition lookup, reference finding, and impact analysis via static analysis of codebases.

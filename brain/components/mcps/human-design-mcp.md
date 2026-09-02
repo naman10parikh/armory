@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:36:00Z"
 ---
 ## What it is
 Compute Human Design charts, cycle returns, transits, synthesis, and chart comparison natively inside AI assistants.

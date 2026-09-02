@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T13:21:31Z"
 ---
 ## What it is
 Enables agents to create interactive dashboards from natural language queries, returning both text results and portable dashboard resources for MCP Apps-compatible hosts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T18:54:17Z"
 ---
 ## What it is
 Bridges AI coding assistants with website codebases, local git repositories, and shared hosting via FTP/SFTP, enabling code discovery, file management, git operations, smart deployments, backups, and rollbacks.

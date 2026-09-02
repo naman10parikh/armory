@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T09:48:36Z"
 ---
 ## What it is
 An MCP server for Danish accounting via Billy.dk API, enabling natural-language control over invoices, bank lines, reports, and more, with a write-guard for safety.

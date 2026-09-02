@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T21:36:36Z"
 ---
 ## What it is
 Claude, Codex, or ChatGPT builds it. Revdoku puts it online: turn an AI-generated report, dashboard, or prototype into a real website, public, password-protected, or on your own domain. Regenerate anytime; the URL never changes.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
 stars: 3
+forks: 1
+pushed_at: "2026-07-06T21:51:39Z"
 ---
 ## What it is
 ThinkNEO Control Plane — Enterprise AI governance MCP server with runtime guardrails, observability, AI FinOps, and agent lifecycle control.

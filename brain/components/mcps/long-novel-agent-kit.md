@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-07T05:23:57Z"
 ---
 ## What it is
 Provides local desktop agents with durable project memory and safety gates for writing long novels, enabling continuity management, chapter drafting, and state-aware handoffs.

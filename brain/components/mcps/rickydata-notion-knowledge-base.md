@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-09T14:25:39Z"
 ---
 ## What it is
 MCP server `Notion (via Dify)`, catalogued on PulseMCP. Bridges Cline and Notion knowledge bases via Dify API, enabling direct querying of Notion databases for seamless documentation access during coding.

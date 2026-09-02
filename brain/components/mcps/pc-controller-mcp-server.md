@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T05:21:06Z"
 ---
 ## What it is
 Enables AI assistants to control Windows PCs by executing shell commands, managing files, capturing screenshots, and monitoring system information through a comprehensive set of MCP tools.

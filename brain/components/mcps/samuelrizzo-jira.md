@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-06T19:07:59Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Integrates with Atlassian Jira to enable listing projects, retrieving issue details, searching by project and assignee, and checking user assignments through authenticated API requests with markdown-formatted responses.

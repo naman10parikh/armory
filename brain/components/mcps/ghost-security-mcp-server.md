@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T22:31:41Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for the Ghost Security API, providing secure access to security findings and repository data through standardized tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-31T02:12:05Z"
 ---
 ## What it is
 Local-first bitemporal memory for AI agents with deterministic supersession, point-in-time recall, erasure proofs, and tamper-evident audit history.

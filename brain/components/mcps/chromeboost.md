@@ -8,11 +8,13 @@ source_url: https://github.com/lordamdal/chromeboost
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T15:19:35Z"
 ---
 ## What it is
 Lets Claude Code drive your own Chrome browser with human-like clicks, drags, and typing. It uses your real sessions and logins, and pauses for your confirmation on anything irreversible.

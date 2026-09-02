@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T07:33:42Z"
 ---
 ## What it is
 A security-first MCP server that enables AI clients to read and write Google Ad Manager data through the Ad Manager API, with least-privilege defaults, gated writes, and per-user OAuth support.

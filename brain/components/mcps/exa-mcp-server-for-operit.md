@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T08:13:07Z"
 ---
 ## What it is
 An Operit-compatible adapter of the Exa MCP server, enabling web search, code search, and company research capabilities in AI assistants. It fixes MCP handshake compatibility issues, allowing tools like web_search_exa and web_fetch_exa to load and run reliably.

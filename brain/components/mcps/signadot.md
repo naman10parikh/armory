@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-09-02T01:03:59Z"
 ---
 ## What it is
 MCP server `Signadot`, catalogued on PulseMCP. Manage Signadot sandboxes, route groups, and ephemeral environments through natural language prompts.

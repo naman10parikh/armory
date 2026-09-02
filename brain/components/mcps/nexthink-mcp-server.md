@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:46:18Z"
 ---
 ## What it is
 An MCP server that exposes Nexthink Digital Employee Experience (DEX) telemetry and automation to LLM agents, enabling execution of saved NQL queries, bulk async data exports, remote actions, and workflow triggers against Nexthink Infinity via secure OAuth2/bearer/basic authentication.

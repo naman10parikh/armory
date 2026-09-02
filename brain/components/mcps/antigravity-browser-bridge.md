@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T21:59:12Z"
 ---
 ## What it is
 Enables MCP-compatible agents to securely control the user's already authenticated Chrome browser via explicit tab authorization and DOM-based actions.

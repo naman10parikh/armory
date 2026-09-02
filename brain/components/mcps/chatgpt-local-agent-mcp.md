@@ -8,11 +8,13 @@ source_url: https://github.com/XxYouDeaDPunKxX/chatgpt-local-agent-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T22:22:32Z"
 ---
 ## What it is
 This MCP server gives ChatGPT controlled access to your Windows PC, enabling it to inspect files, run commands, apply patches, and interact with the desktop under your supervision.

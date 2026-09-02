@@ -8,10 +8,12 @@ source_url: https://github.com/ckanthony/gin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 77
+stars: 84
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-08-11T20:25:02Z"
 ---
 ## What it is
 MCP server `Gin-MCP`, catalogued on PulseMCP. Automatically exposes existing Gin API endpoints as tools with zero configuration, requiring just a single line of code to bridge your Go application with AI assistants.

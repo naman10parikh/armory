@@ -8,11 +8,13 @@ source_url: https://github.com/Servation/job-search-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T01:40:36Z"
 ---
 ## What it is
 A personal job-search assistant for Claude Desktop that searches real job boards, scores each job 0–100 for fit, and displays a ranked board for fast triage.

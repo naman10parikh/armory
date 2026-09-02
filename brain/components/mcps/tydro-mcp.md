@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T20:27:29Z"
 ---
 ## What it is
 MCP server for the Tydro lending protocol on Ink blockchain, enabling AI agents to interact with lending reserves including supply, borrow, repay, and withdraw operations.

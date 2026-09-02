@@ -8,11 +8,13 @@ source_url: https://github.com/zuohuiyang/dump-analyzer-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T02:55:13Z"
 ---
 ## What it is
 MCP server for remote Windows Crash Dump analysis. Enables AI agents to analyze crash dumps via CDB commands through standard MCP interfaces.

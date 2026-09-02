@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T16:14:57Z"
 ---
 ## What it is
 Enables interaction with WordPress sites through the WordPress REST API, supporting content management and post operations with safety confirmations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T12:06:13Z"
 ---
 ## What it is
 An MCP server that enables Claude Desktop to search and read local documents via full-text and fuzzy search, providing direct access to indexed files without chunking.

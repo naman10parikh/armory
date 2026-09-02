@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T09:14:10Z"
 ---
 ## What it is
 IoT firmware CVE intelligence and PoC auto-download MCP server for AI agents, enabling vulnerability lookup, EPSS risk ranking, and PoC retrieval by firmware/component.

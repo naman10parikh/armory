@@ -8,10 +8,12 @@ source_url: https://github.com/rubenaguir/clickup-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-27T04:25:30Z"
 ---
 ## What it is
 MCP server `ClickUp`, catalogued on PulseMCP. Integrates with ClickUp's task management platform to retrieve, create, update, and track tasks with support for due dates, assignees, and status changes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:03:30Z"
 ---
 ## What it is
 Provides normalized search over public-sector tender notices from TED, covering Spain and the rest of the EU. Supports filtering by country, keyword, CPV prefix, and publication recency, returning tender details and related links.

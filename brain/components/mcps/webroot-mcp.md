@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T04:21:16Z"
 ---
 ## What it is
 MCP server for Webroot (OpenText) endpoint security that exposes GSM console APIs for managing sites, endpoints, groups, policies, threats, and DNS protection via the Unity API.

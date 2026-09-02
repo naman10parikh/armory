@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T14:13:09Z"
 ---
 ## What it is
 An MCP server providing policy-gated Solana access for AI agents, with read-only operations and guarded transfers that require policy checks and simulation, returning unsigned transactions.

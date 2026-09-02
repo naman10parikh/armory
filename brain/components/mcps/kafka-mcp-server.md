@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-07T06:01:17Z"
 ---
 ## What it is
 Enables interaction with Kafka clusters via MCP, supporting topic management (list, create, delete, inspect), connection initialization, and more through natural language.

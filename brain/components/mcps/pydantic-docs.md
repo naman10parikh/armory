@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T22:57:01Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server providing local-first access to Pydantic and Pydantic AI documentation with BM25-powered full-text search.

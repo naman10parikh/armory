@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T13:34:26Z"
 ---
 ## What it is
 Frontend Design Loop MCP enables coding agents to improve web page designs through screenshot-grounded iteration and proof artifacts, making pages materially better.

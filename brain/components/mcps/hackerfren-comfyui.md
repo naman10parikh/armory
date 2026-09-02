@@ -8,10 +8,12 @@ source_url: https://github.com/0xhackerfren/comfy-ui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-30T21:12:48Z"
 ---
 ## What it is
 MCP server `ComfyUI`, catalogued on PulseMCP. MCP server for controlling ComfyUI through natural language with 57 tools covering node discovery, workflow building, image generation, asset management, and queue monitoring.

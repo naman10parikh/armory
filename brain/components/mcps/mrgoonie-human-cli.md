@@ -12,6 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-15T06:41:25Z"
 ---
 ## What it is
 MCP server `Human CLI`, catalogued on PulseMCP. Multimodal CLI and MCP server for vision, image generation, text-to-speech, and reasoning via Google Gemini.

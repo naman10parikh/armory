@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T01:58:49Z"
 ---
 ## What it is
 Interactive, streaming SSH tool for LLM agents that enables spawning long-running remote commands with live line-by-line output, signal handling, stdin input, and SFTP file transfer.

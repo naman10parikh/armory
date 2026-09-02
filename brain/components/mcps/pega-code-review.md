@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T12:00:27Z"
 ---
 ## What it is
 MCP server for exploring Pega branches and fetching full rule XML for LSA-style code reviews.

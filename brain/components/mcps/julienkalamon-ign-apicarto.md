@@ -8,10 +8,12 @@ source_url: https://github.com/julienkalamon/ign-apicarto-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-02T13:47:28Z"
 ---
 ## What it is
 MCP server `IGN API Carto`, catalogued on PulseMCP. Access French geographic data including cadastral parcels, postal codes, agricultural land use, protected natural areas, urban planning documents, wine appellations, and administrative boundaries.

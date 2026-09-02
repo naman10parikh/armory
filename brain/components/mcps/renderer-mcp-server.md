@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-29T17:47:13Z"
 ---
 ## What it is
 AI-powered assistant for the Renderer portfolio framework. Enables users to explore documentation, validate TOML configurations, generate templates, and customize portfolios through natural language.

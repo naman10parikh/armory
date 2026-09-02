@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T21:47:04Z"
 ---
 ## What it is
 A provider-neutral MCP server that provides tools for managing skills, agents, references, and artifact memory in a local workspace.

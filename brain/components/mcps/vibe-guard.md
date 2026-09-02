@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T03:39:47Z"
 ---
 ## What it is
 MCP server that provides project guardrails including prior art research, project status checks, next task retrieval, and quality gate enforcement for AI-assisted development.

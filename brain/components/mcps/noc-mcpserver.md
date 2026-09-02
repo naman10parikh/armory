@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T06:46:35Z"
 ---
 ## What it is
 Exposes a tool to convert JSON samples into equivalent C# class definitions using NiceOneCode's converter. AI assistants can call directly without pasting JSON into a web form.

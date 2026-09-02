@@ -8,10 +8,12 @@ source_url: https://github.com/hannesj/mcp-graphql-schema
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-05-26T08:10:01Z"
 ---
 ## What it is
 MCP server `GraphQL Schema`, catalogued on PulseMCP. Enables AI models to explore and understand GraphQL schemas through specialized tools for querying operations, looking up type definitions, pattern matching, and retrieving simplified field information.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T13:41:28Z"
 ---
 ## What it is
 MCP server `Accrue SEO`, catalogued on PulseMCP. Audits websites across 15 SEO checks including Core Web Vitals, E-E-A-T signals, structured data, and AI search visibility.

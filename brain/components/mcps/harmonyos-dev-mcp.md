@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-29T08:34:50Z"
 ---
 ## What it is
 Enables HarmonyOS device discovery, app build and deployment, UI automation, E2E inspection, and log validation through MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T10:40:37Z"
 ---
 ## What it is
 Exposes the UniFi Network Integration API as MCP tools, dynamically loaded from JSON manifests, with read-only mode by default.

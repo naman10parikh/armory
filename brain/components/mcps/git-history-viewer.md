@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:09:15Z"
 ---
 ## What it is
 A local-first MCP server that provides read-only access to Git repository history, exposing commit metadata and optionally content patches via configurable policies, with optional AI-powered analysis while never modifying Git state.

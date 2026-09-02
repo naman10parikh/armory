@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T16:09:14Z"
 ---
 ## What it is
 Enables AI agents to test Unity scenes and return review-ready receipts via a hosted remote MCP with tools for playmode checks and method invocation.

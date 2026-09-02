@@ -8,11 +8,13 @@ source_url: https://github.com/kitewright/kitewright
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-27T03:02:02Z"
 ---
 ## What it is
 A lightweight MCP server for browser automation that gives AI agents navigate, screenshot, and extract tools via a single small binary, without needing Node.js or Playwright. It provides CDP-based browser control with efficient startup and resource usage.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T18:23:37Z"
 ---
 ## What it is
 Enables SRE operations through natural language, providing tools to query SLO status, fetch runbooks, query alerts, and manage incidents with audit logging and latency tracking.

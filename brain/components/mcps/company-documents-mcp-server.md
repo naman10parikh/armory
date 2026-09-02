@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T06:34:48Z"
 ---
 ## What it is
 Manages company document metadata and URLs in a local SQLite database, with automatic summarization via Mistral OCR and Chat Completions API.

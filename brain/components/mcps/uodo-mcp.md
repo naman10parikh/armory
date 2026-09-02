@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T09:59:35Z"
 ---
 ## What it is
 Enables searching and analyzing decisions from the Polish Data Protection Authority (UODO) directly within AI clients, allowing full-text search, filtering, and retrieval of GDPR enforcement decisions.

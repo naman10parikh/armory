@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-21T11:05:06Z"
 ---
 ## What it is
 MCP server `YouTube Knowledge`, catalogued on PulseMCP. Transforms YouTube into a queryable knowledge source with video search, content analysis, trending discovery, channel research, and transcript extraction using intelligent quota management and multi-tier caching to optimize API usage.

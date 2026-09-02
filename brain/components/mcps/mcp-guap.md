@@ -8,11 +8,13 @@ source_url: https://github.com/ehlvg/mcp-guap
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-11T17:31:16Z"
 ---
 ## What it is
 MCP server for ГУАП's student portal enabling AI agents to manage tasks, materials, and reports.

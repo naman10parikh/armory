@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T23:04:58Z"
 ---
 ## What it is
 Enables searching pub.dev for Dart and Flutter packages by keyword, returning matching package names and pagination URLs.

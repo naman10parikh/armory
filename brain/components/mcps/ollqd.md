@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T05:03:16Z"
 ---
 ## What it is
 Enables indexing and semantic search of codebases and documents via MCP, using Ollama embeddings and Qdrant vector store.

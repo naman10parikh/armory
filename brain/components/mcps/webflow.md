@@ -8,10 +8,12 @@ source_url: https://github.com/webflow/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 130
+stars: 138
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 34
+pushed_at: "2026-06-09T05:00:48Z"
 ---
 ## What it is
 MCP server `Webflow`, catalogued on PulseMCP. AI-powered design and management for Webflow sites via the Data API and Designer API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T06:40:01Z"
 ---
 ## What it is
 MCP server for translating JSON localization files via DeepL API or local LLMs, enabling agents to estimate, check, and run translations.

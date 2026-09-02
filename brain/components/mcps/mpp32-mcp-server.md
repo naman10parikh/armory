@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:09:03Z"
 ---
 ## What it is
 MCP server that allows AI agents to discover and pay for thousands of APIs (x402 on Solana/Base) using a single key, with automatic payment handling and a federated catalog of machine-payable endpoints.

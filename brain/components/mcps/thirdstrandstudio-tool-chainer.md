@@ -8,10 +8,12 @@ source_url: https://github.com/thirdstrandstudio/mcp-tool-chainer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-08-04T16:44:02Z"
 ---
 ## What it is
 MCP server `Tool Chainer`, catalogued on PulseMCP. Chains multiple MCP tools together in sequence, passing results between tools without sending large intermediate data back to the LLM, reducing token usage for complex workflows.

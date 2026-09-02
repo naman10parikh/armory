@@ -8,11 +8,13 @@ source_url: https://github.com/dreamrec/TDPilot
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-23T16:01:33Z"
 ---
 ## What it is
 An MCP server for TouchDesigner that lets AI agents inspect, build, wire, optimize, and stabilize live TD networks with 106 tools, plus a technique memory system for reusable patterns.

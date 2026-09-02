@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-12-15T09:36:28Z"
 ---
 ## What it is
 A validation layer for AI coding assistants that enforces explicit LLM evaluations on plans, code diffs, and tests to ensure safer and higher-quality code.

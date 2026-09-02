@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-16T07:00:05Z"
 ---
 ## What it is
 MCP server `Tenzir`, catalogued on PulseMCP. Integrates with Tenzir data pipelines and OCSF schema framework to execute cybersecurity data processing workflows and retrieve structured security event definitions for threat hunting and security analysis.

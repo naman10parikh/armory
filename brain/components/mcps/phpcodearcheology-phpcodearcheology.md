@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 88
+stars: 89
+forks: 8
+pushed_at: "2026-08-29T07:42:54Z"
 ---
 ## What it is
 PHP static analysis MCP server for architecture and maintainability. 11 tools exposing 60+ code quality metrics, problem detection, refactoring priorities, dependency graphs, git hotspots, test coverage, and impact analysis. Installable via Composer.

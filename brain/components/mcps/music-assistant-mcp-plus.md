@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T14:03:54Z"
 ---
 ## What it is
 A comprehensive MCP server that enables AI assistants to control music playback, manage users and access, configure providers, and administer a Music Assistant setup through natural language commands.

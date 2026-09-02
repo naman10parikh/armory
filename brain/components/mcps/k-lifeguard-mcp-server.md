@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T10:45:38Z"
 ---
 ## What it is
 An intelligent emergency medical coordinator that provides symptom-based hospital recommendations, real-time ETA, and guardian alerts.

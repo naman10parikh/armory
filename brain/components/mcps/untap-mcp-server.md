@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T08:33:49Z"
 ---
 ## What it is
 Enables AI assistants to help users claim refunds for UK travel (train Delay Repay, flight compensation, TfL overcharges) and parking fines through Untap's detection and deeplink tools.

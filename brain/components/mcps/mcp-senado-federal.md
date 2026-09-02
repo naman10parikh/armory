@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T15:16:33Z"
 ---
 ## What it is
 Enables AI assistants to query Brazilian Senate data including senators, bills, voting records, committees, and plenary sessions through natural language.

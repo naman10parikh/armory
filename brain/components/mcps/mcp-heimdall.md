@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:19:06Z"
 ---
 ## What it is
 Security scanner for MCP servers — vet an MCP before you wire it into an agent. Detects prompt-injection, credential exfiltration (via taint analysis), RCE, and supply-chain risks, and catches cross-server exfil chains no single server reveals. Zero-dependency local CLI, SARIF output, CI-gateable, n

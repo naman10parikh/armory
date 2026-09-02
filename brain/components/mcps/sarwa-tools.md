@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T11:24:28Z"
 ---
 ## What it is
 An unofficial, read-only MCP server for Sarwa Odyssey that provides portfolio, holdings, transactions, watchlists, and agent snapshots via deterministic JSON documents.

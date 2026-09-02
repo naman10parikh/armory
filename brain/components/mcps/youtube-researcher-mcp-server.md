@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T16:44:00Z"
 ---
 ## What it is
 An MCP server for researching YouTube niches. It searches videos, fetches metadata, calculates engagement metrics, downloads thumbnails, and produces aggregate niche statistics for analysis.

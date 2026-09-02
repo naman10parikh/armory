@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T08:50:19Z"
 ---
 ## What it is
 Enables Claude Code to use GLM (Zhipu) as a cheap, full-capability subagent for file editing, code generation, and bash commands, with automatic routing between Opus and GLM based on task complexity.

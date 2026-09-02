@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T02:16:53Z"
 ---
 ## What it is
 Enables AI assistants to answer DFW civic and property questions using official data sources without API keys.

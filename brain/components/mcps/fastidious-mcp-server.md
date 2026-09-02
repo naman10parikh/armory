@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-21T23:40:05Z"
 ---
 ## What it is
 Enables to manage notes and collections in Fastidious AI application through natural language, supporting CRUD operations and search via MCP protocol.

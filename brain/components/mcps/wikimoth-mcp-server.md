@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T20:38:35Z"
 ---
 ## What it is
 Enables deterministic, token-minimal multi-hop retrieval from a vault of [[wikilink]] notes via the Model Context Protocol, allowing LLMs to answer questions by following authored links without vector databases or LLM calls during retrieval.

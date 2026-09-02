@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T07:38:48Z"
 ---
 ## What it is
 MCP server that analyzes AI agent execution logs to calculate reliability scores, detect failure patterns, and suggest concrete improvements for making AI agents more reliable.

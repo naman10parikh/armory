@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T13:53:55Z"
 ---
 ## What it is
 Enables coding agents to search local notes via BM25 keyword ranking, returning relevant passages with file paths and line numbers, fully offline with zero dependencies.

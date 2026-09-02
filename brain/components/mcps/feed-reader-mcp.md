@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T14:00:36Z"
 ---
 ## What it is
 Fetches and reads RSS/Atom feeds, enabling MCP clients to pull latest items from blogs, news sites, and release feeds and build digests.

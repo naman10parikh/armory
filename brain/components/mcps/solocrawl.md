@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T13:56:32Z"
 ---
 ## What it is
 Enables web search, scraping, and live package version lookup for local LLMs, with no API keys required.

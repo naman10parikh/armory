@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T19:25:32Z"
 ---
 ## What it is
 Enables fast semantic code search using FSQ embeddings, with zero-config indexing and support for multiple programming languages via the Model Context Protocol.

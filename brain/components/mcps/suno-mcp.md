@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-09-27T22:58:28Z"
 ---
 ## What it is
 Enables AI music generation via Suno AI, allowing users to generate tracks with prompts and styles, and download them as MP3.

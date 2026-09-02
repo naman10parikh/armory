@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T04:12:30Z"
 ---
 ## What it is
 Enables analyzing Nix flakes to identify which inputs are actually used and to detect locked-input drift, including unportable or orphaned inputs, through MCP tools.

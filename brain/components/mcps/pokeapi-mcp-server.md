@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-02T07:20:53Z"
 ---
 ## What it is
 Empowers AI assistants to fetch and explore comprehensive Pokémon data from PokeAPI via 47 tools covering Pokémon, moves, items, game mechanics, and more.

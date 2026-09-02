@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-03T09:56:44Z"
 ---
 ## What it is
 LFWin Payment MCP Server is a payment capability service for AI Agents. Adhering to the standard MCP protocol, it exposes capabilities including creating payment orders, checking payment status, initiating refunds and querying refund status for Cursor, Cline, Claude Desktop, enterprise intelligent a

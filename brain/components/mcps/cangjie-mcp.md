@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-13T15:23:27Z"
 ---
 ## What it is
 MCP server for the Cangjie programming language, providing documentation search and LSP-based code intelligence.

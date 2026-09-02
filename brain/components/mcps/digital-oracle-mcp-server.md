@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T08:47:17Z"
 ---
 ## What it is
 Provides 14 financial market price data tools, including Polymarket events, Yahoo Finance history, crypto prices, and more.

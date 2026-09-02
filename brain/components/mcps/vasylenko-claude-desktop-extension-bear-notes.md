@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 206
+forks: 21
+pushed_at: "2026-07-09T00:11:35Z"
 ---
 ## What it is
 Search, read, create, and update Bear Notes directly from Claude. Local-only with complete privacy.

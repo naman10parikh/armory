@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T17:38:44Z"
 ---
 ## What it is
 Enables AI agents to draft, format, and manage LinkedIn posts through a review pipeline, with human approval via a web UI before publication.

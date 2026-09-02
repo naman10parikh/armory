@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T11:05:10Z"
 ---
 ## What it is
 Provides manufacturing demo data across procurement, production, quality, warehouse, and finance categories via MCP Streamable HTTP, enabling LLMs to retrieve mock datasets.

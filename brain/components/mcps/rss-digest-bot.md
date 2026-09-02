@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-17T19:21:48Z"
 ---
 ## What it is
 Fetches RSS feeds from tech blogs and news sites and returns AI-generated summaries via Claude.

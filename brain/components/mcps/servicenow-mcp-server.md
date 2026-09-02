@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T19:44:32Z"
 ---
 ## What it is
 Enables interaction with ServiceNow ITSM through browser-based SSO authentication, providing 80+ tools for incidents, changes, catalog, CMDB, and more via natural language.

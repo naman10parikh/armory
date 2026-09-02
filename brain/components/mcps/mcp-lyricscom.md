@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:49:29Z"
 ---
 ## What it is
 MCP server for lyrics.com that enables searching songs by lyrics or title and retrieving full lyrics, with no API key required.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-07T12:11:03Z"
 ---
 ## What it is
 MCP server `Rust Documentation`, catalogued on PulseMCP. Rust crate documentation from docs.rs and crates.io metadata.

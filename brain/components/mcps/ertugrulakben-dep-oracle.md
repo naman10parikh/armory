@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T23:36:50Z"
 ---
 ## What it is
 MCP server `dep-oracle`, catalogued on PulseMCP. Calculates trust scores for npm and Python dependencies, detecting zombie packages, typosquatting attempts, and supply chain risks.

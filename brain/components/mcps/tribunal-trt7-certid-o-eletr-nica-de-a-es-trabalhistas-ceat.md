@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:20Z"
 ---
 ## What it is
 MCP server for consulting Brazilian labor court certificates (CEAT) from Tribunal Regional do Trabalho da 7ª Região, with a single read-only tool. Enables querying official labor lawsuit certificates via natural language in any MCP-compatible client.

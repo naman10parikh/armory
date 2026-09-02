@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T22:05:15Z"
 ---
 ## What it is
 Self-hosted retrieval router for AI agents: one MCP/REST endpoint that routes web search across Brave, Tavily, Exa, Firecrawl, and Crossref (BYOK) with per-request cost ceilings, deadlines, and an auditable route receipt on every response.

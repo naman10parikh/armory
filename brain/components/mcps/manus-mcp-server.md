@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T08:34:54Z"
 ---
 ## What it is
 Enables Claude to generate images by wrapping the Manus API through a remote MCP server with OAuth authentication.

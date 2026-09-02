@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T17:25:25Z"
 ---
 ## What it is
 Turns your running Outlook Desktop into an MCP server, enabling email, calendar, tasks, and attachment management through your existing Outlook session without any cloud APIs.

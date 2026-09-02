@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:30:58Z"
 ---
 ## What it is
 Enables AI agents to play crypto prediction games on BattleGrid by managing accounts, submitting entries, and accessing market data through MCP tools and prompts.

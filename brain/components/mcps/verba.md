@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-11T22:24:20Z"
 ---
 ## What it is
 MCP server `Verba`, catalogued on PulseMCP. Translation management platform integration for i18n workflows.

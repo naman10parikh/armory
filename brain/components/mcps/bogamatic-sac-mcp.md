@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T18:26:33Z"
 ---
 ## What it is
 Enables interaction with the Argentine judiciary system (SAC - Justicia Cordoba) via Claude Desktop, supporting case searches, notifications, and procedural deadlines.

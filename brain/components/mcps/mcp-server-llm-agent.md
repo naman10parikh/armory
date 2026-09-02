@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T04:33:58Z"
 ---
 ## What it is
 Enables users to interact with a set of tools via an LLM agent, allowing natural language requests to be processed and executed through the MCP server.

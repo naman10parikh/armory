@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T19:43:17Z"
 ---
 ## What it is
 This MCP server integrates GitHub issues, academic deadlines (LMS), and a personal task tracker to help AI assistants answer questions like 'What should I work on today?' with a prioritized overview.

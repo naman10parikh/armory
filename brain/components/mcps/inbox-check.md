@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T15:58:02Z"
 ---
 ## What it is
 MCP server `Inbox Check`, catalogued on PulseMCP. Tests email inbox placement across Gmail, Outlook, Yahoo, and more with SPF, DKIM, and DMARC analysis.

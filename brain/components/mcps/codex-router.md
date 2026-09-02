@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T16:16:02Z"
 ---
 ## What it is
 A durable MCP control plane for starting, observing, steering, continuing, cancelling, and handing off long-running coding agents, with bounded MCP calls and persistent worktrees.

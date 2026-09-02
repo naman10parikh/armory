@@ -8,10 +8,12 @@ source_url: https://github.com/ybouhjira/claude-code-tts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-01-25T17:58:49Z"
 ---
 ## What it is
 MCP server `OpenAI Text-to-Speech`, catalogued on PulseMCP. Converts text to speech using OpenAI's TTS API with configurable voices and cross-platform audio playback.

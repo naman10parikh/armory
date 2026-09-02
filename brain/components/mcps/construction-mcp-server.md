@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-20T10:49:09Z"
 ---
 ## What it is
 Ultra-lightweight MCP server for construction calculations and material estimation, enabling material calculator and cost estimator tools for structures like foundations, walls, slabs, and beams.

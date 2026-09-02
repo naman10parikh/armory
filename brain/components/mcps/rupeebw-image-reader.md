@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-17T17:20:54Z"
 ---
 ## What it is
 MCP server `Image Reader`, catalogued on PulseMCP. Provides advanced image processing capabilities using TypeScript and Sharp, enabling users to list, analyze, resize, and convert images through flexible metadata extraction, thumbnail generation, and format conversion tools.

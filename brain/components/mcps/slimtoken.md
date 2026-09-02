@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:43:55Z"
 ---
 ## What it is
 An MCP server that exposes token-optimization pipeline functions as tools, enabling MCP-compatible hosts to reduce token usage in requests before they are forwarded to an Anthropic-compatible backend.

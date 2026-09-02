@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T21:17:20Z"
 ---
 ## What it is
 Enables AI agents to send push notifications to your phone through ntfy, with built-in security controls to prevent data exfiltration. It exposes a single tool notify_user for notifying when tasks complete or need attention.

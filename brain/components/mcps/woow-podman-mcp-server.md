@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T05:45:52Z"
 ---
 ## What it is
 MCP server that exposes Podman host management as tools, allowing natural language control of containers, images, volumes, networks, and pods. Includes an administrative console with safety profiles for gated access.

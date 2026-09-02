@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T19:38:20Z"
 ---
 ## What it is
 MCP server for querying procurement and inventory documents (invoices, purchase orders, etc.) via structured lookups, precomputed comparisons, and full-text search.

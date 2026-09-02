@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 167
+forks: 33
+pushed_at: "2026-01-13T05:34:37Z"
 ---
 ## What it is
 Connect to Perplexity Comet browser for agentic web browsing, deep research, and real-time task monitoring.

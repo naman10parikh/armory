@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T20:31:49Z"
 ---
 ## What it is
 AI safety guardrails for any LLM in ~10 seconds: constitutional-AI content evaluation over MCP, with six configurable personas.

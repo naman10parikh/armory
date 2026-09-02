@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T02:14:03Z"
 ---
 ## What it is
 Downloads YouTube audio and transcribes it locally using faster-whisper, saving transcripts as Markdown and JSON files for Obsidian and Hermes ingestion.

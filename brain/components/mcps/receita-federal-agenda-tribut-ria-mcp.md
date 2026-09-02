@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:29Z"
 ---
 ## What it is
 MCP server for consulting the Brazilian Federal Revenue tax calendar (Agenda Tributária) from the official source. Provides a read-only tool to query tax schedule information via natural language in any MCP-compatible client.

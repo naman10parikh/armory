@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T08:35:31Z"
 ---
 ## What it is
 Provides a set of MCP tools (file, database, GitHub, Slack, browser, calendar, email, vector search, Python execution) with safety constraints and OpenAI integration for enterprise architecture automation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T04:15:25Z"
 ---
 ## What it is
 Exposes the Telegram Bot API as tools for Claude Code or any MCP client, enabling message sending, chat management, file handling, and bot information retrieval.

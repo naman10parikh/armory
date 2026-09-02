@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T22:28:25Z"
 ---
 ## What it is
 Enables LLMs to interact with FIT CTU course materials, including listing subjects, navigating subpages, reading content as Markdown, and performing keyword searches.

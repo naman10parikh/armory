@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-18T08:37:16Z"
 ---
 ## What it is
 An enterprise workflow intelligence MCP server that reconstructs events into live workflow state, detects bottlenecks with deterministic rules, and provides evidence-based explanations and actions.

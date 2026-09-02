@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-16T16:19:13Z"
 ---
 ## What it is
 An MCP server for Dead Man's Snitch that enables AI assistants to manage monitoring snitches, including creating, updating, checking in, and pausing monitors for scheduled tasks and cron jobs.

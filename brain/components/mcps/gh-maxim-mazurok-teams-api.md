@@ -8,10 +8,12 @@ source_url: https://github.com/maxim-mazurok/teams-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-28T00:39:10Z"
 ---
 ## What it is
 MCP server `Microsoft Teams API`, catalogued on PulseMCP. AI-native Microsoft Teams integration for reading conversations and sending messages.

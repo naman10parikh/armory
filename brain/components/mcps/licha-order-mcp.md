@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:44:55Z"
 ---
 ## What it is
 An MCP server for ordering tea from Licas Tea, allowing AI to find stores, view menus, build orders, and estimate prices in conversation. Currently read-only: no real orders or payments.

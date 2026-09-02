@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:50Z"
 ---
 ## What it is
 Read-only MCP server for querying official dental professional registry data from the Regional Council of Dentistry of Maranhão, Brazil. Enables natural-language lookups via a single consult tool.

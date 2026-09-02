@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T08:19:03Z"
 ---
 ## What it is
 Enables semantic code search over local repositories, providing tools like semantic_search and list_indexed_repos to Claude Code, so users can find relevant code sections via natural language instead of grep.

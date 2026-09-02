@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T17:24:42Z"
 ---
 ## What it is
 Remote MCP server that connects the Siigo Colombia API to any standard MCP client, exposing 28 tools for managing customers, products, invoices, purchases, quotations, receipts, accounting, and business analytics while keeping Siigo credentials secure in Cloudflare Secrets.

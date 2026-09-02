@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T05:21:18Z"
 ---
 ## What it is
 Provides a retired compatibility stub for legacy AgentCanary MCP tools, returning retirement notices and directing users to current briefs on X and Telegram.

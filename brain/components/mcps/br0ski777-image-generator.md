@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T09:40:14Z"
 ---
 ## What it is
 MCP server `Image Generator`, catalogued on PulseMCP. AI image generation from text prompts via Google Gemini, returning results as base64-encoded data.

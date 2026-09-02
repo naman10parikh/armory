@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T03:43:32Z"
 ---
 ## What it is
 Enables managing Samsung SmartThings devices, scenes, notifications, and routines through full CRUD operations on rules via the MCP protocol.

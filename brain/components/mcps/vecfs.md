@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-23T20:59:22Z"
 ---
 ## What it is
 VecFS is a lightweight, local-first vector storage specification and implementation for AI agent long-term memory. It provides an MCP server enabling agents to search, memorize, and manage context.

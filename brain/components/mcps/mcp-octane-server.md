@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T17:50:51Z"
 ---
 ## What it is
 Enables LLMs to interact with OpenText ALM Octane for querying, creating, and updating defects, stories, tests, and work items through natural language.

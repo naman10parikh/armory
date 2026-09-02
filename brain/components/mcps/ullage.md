@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T12:46:06Z"
 ---
 ## What it is
 Manage your wine cellar through natural language with your AI agent, including adding wines from label or receipt photos, updating inventory, logging consumption with ratings, and exporting data.

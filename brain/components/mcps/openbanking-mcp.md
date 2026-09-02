@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T16:56:49Z"
 ---
 ## What it is
 Enables read-only access to personal bank accounts via the TrueLayer API, allowing querying of accounts, balances, transactions, and generating financial analytics such as spending by category, subscriptions, and monthly summaries.

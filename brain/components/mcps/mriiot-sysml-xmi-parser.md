@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-16T02:58:42Z"
 ---
 ## What it is
 MCP server `SysML XMI Parser`, catalogued on PulseMCP. Parses SysML XMI exports to enable querying of model structures, class relationships, inheritance hierarchies, and documentation through searchable indexes and navigation tools.

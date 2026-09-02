@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T13:31:34Z"
 ---
 ## What it is
 Acts as a proxy/router for multiple downstream MCP servers, exposing only meta-tools to the host to reduce token usage, enabling efficient search and invocation of tools from a fleet of servers.

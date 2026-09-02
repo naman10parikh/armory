@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T00:23:59Z"
 ---
 ## What it is
 Plans a week of meals from a local recipe library, optimizing for shared ingredients and avoiding repeats, then generates a consolidated shopping list and Markdown plan.

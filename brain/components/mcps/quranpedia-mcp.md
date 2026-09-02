@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T02:04:02Z"
 ---
 ## What it is
 Provides AI clients with fast, hallucination-free access to the Quran through 13 MCP tools, covering search, navigation, morphology, tafsir, translations, and surah background over stdio and Streamable HTTP.

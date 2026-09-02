@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T04:11:35Z"
 ---
 ## What it is
 Provides a Model Context Protocol interface for secure, multi-agent collaboration on Git repositories, offering isolated workspaces, change requests, reviews, and approval workflows with Git as the source of truth.

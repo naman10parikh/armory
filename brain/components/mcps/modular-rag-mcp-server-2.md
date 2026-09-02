@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T02:48:12Z"
 ---
 ## What it is
 A fully modular RAG system with MCP protocol integration, enabling hybrid retrieval, multimodal support, and dual-mode transport for connecting to AI assistants like GitHub Copilot and Claude Desktop.

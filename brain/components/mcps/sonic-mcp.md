@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T18:36:00Z"
 ---
 ## What it is
 MCP server that connects Claude Code to Sonic Pi for AI-assisted beat making, enabling live code execution and pattern management.

@@ -8,10 +8,12 @@ source_url: https://github.com/clm-cloud-solutions/uptimebolt-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-05T15:37:51Z"
 ---
 ## What it is
 MCP server `UptimeBolt`, catalogued on PulseMCP. AI-powered infrastructure monitoring with health checks, incident tracking, predictions, and deploy safety.

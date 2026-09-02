@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-20T08:52:51Z"
 ---
 ## What it is
 MCP server `CMDB CVE`, catalogued on PulseMCP. Correlates CMDB asset inventory with NIST NVD CVE data to identify vulnerabilities and generate email reports.

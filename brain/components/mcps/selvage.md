@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-07-19T02:44:33Z"
 ---
 ## What it is
 Enables AI-powered code review of Git diffs through natural language, supporting multiple AI models and Git workflows.

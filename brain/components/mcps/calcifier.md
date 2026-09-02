@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-25T19:20:50Z"
 ---
 ## What it is
 MCP server for the Calcifier smart camping lamp, enabling control of lamp state, brightness, color temperature, mode, and battery charging via natural language with Claude.

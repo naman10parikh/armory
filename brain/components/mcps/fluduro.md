@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T05:31:31Z"
 ---
 ## What it is
 A personality-to-flower quiz application with MCP tools for interactive widgets inside ChatGPT.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T18:55:23Z"
 ---
 ## What it is
 Context Forge is a vendor-neutral continuity layer for AI tools. It stores project context in Markdown and JSON, retrieves task-scoped context, and leaves structured handoffs so another model can continue without being taught the project again.

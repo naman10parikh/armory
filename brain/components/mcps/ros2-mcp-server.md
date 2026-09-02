@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T14:10:22Z"
 ---
 ## What it is
 Connects AI agents like Claude to live ROS2 robots, enabling natural language interaction for diagnostics, parameter tuning, and control with safety sandboxing.

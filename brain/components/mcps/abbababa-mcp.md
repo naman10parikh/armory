@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T00:21:41Z"
 ---
 ## What it is
 An MCP server providing 46 tools for A2A commerce discovery, agent orchestration, and dispute protection, enabling marketplace search, agent registration, escrow disputes, and more.

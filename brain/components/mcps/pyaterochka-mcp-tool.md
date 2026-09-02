@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T22:47:22Z"
 ---
 ## What it is
 Enables AI assistants and MCP clients to search Pyaterochka stores, browse categories, find products with filters for price, brand, and promotions, and retrieve product details, store hours, and promotion conditions through the exposed MCP tools.

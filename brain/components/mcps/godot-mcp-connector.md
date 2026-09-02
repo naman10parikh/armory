@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T11:01:46Z"
 ---
 ## What it is
 An out-of-the-box, zero-dependency Model Context Protocol (MCP) server integration designed specifically for the Godot Engine (4.x).Once connected, your AI agents (Claude, Cursor, Trae, ChatGPT) gain access to a powerful set of tools to interact with your active Godot project directory.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-02T21:39:06Z"
 ---
 ## What it is
 MCP server `Wishfinity`, catalogued on PulseMCP. Save any product URL to your Wishfinity wishlist

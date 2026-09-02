@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T07:55:22Z"
 ---
 ## What it is
 Provides access to EraseText's AI text removal for images, enabling erasing text from photos and retrieving account details.

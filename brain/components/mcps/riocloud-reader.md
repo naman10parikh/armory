@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-25T04:44:17Z"
 ---
 ## What it is
 Enables AI agents to fetch and digest content from 30+ platforms (Twitter, YouTube, Reddit, etc.) via a unified API. Supports multi-format output, transcription, and direct Obsidian sync.

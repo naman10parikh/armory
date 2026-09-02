@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-15T06:11:03Z"
 ---
 ## What it is
 MCP server `Skills`, catalogued on PulseMCP. Transforms structured markdown skill files with YAML frontmatter into discoverable tools that provide expert knowledge, best practices, and procedural guidance by automatically scanning directories and exposing each skill as an individual tool.

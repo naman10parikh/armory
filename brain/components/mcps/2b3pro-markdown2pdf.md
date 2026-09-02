@@ -8,10 +8,12 @@ source_url: https://github.com/2b3pro/markdown2pdf-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-10-08T05:46:12Z"
 ---
 ## What it is
 MCP server `Markdown to PDF`, catalogued on PulseMCP. Converts Markdown to PDF using Puppeteer, offering syntax highlighting, custom styling, and watermarking capabilities for document generation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-01T11:06:19Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI assistants to create, control, and interact with virtual desktop environments through E2B's secure cloud sandboxes.

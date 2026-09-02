@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T21:32:09Z"
 ---
 ## What it is
 Real-time pet travel data for AI assistants. Connect Claude, ChatGPT, or any MCP-compatible AI to Pawgo's database of airline pet policies and country import requirements.

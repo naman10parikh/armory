@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-12T06:45:20Z"
 ---
 ## What it is
 MCP server `Ganger (GitHub Stars)`, catalogued on PulseMCP. Terminal file manager for GitHub starred repositories with ranger-style TUI and MCP tools for AI-assisted organization

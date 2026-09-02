@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T21:52:20Z"
 ---
 ## What it is
 Enables retrieval-augmented generation by allowing LLMs to search documents in a local folder using vector similarity, supporting multiple file formats.

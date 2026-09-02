@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-18T17:28:13Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Doccler documentation platform, allowing users to query, create, search, generate, publish, and organize documents directly from their IDE.

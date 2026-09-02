@@ -8,11 +8,13 @@ source_url: https://github.com/dtwang/line-desktop-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 110
+stars: 111
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 28
+pushed_at: "2026-05-25T13:16:07Z"
 ---
 ## What it is
 Enables AI tools to read and send messages through LINE Desktop via MCP, supporting manual or automatic sending without official LINE API tokens.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T16:27:14Z"
 ---
 ## What it is
 MCP server for electronic consignment notes (eCMR). Create, sign, manage, and track electronic transport documents with QR codes, PDF generation, and digital signatures through the Cargoffer ECMR API. Designed for AI agents like Claude Desktop, Cursor, and Cline.

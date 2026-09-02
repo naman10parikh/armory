@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T12:57:02Z"
 ---
 ## What it is
 Enables AI clients to access virome datasets and external bioinformatics APIs through MCP tools, including Wikipedia, PubMed, NCBI Taxonomy, read-only SQL over S3 Parquet, pandas/Plotly analyses, and map visualizations, while keeping the client decoupled from data and business logic.

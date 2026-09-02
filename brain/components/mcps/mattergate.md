@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T21:17:16Z"
 ---
 ## What it is
 A self-hostable MCP permissions gateway for legal-tech systems that connects legal apps once and exposes only the tools each team member should use, enforcing a thin policy and audit layer over vendor APIs.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-11T02:51:44Z"
 ---
 ## What it is
 MCP server `Pictify`, catalogued on PulseMCP. Generate images, GIFs, and PDFs from HTML, URLs, or templates via MCP.

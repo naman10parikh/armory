@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-04-04T16:42:00Z"
 ---
 ## What it is
 MCP server `Zoom API`, catalogued on PulseMCP. Integrates with Zoom's API to enable scheduling meetings, managing participants, retrieving recordings, and automating administrative tasks through OAuth 2.0 authentication and structured tools.

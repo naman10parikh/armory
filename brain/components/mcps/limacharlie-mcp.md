@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T03:14:03Z"
 ---
 ## What it is
 A local MCP server for the LimaCharlie security platform that provides investigation, administration, and content-review workflows via a broad read-only tool surface with explicit organization scoping and audit logging.

@@ -8,10 +8,12 @@ source_url: https://github.com/pipeworx-io/mcp-bis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:44:04Z"
 ---
 ## What it is
 MCP server `BIS`, catalogued on PulseMCP. Bank for International Settlements statistics — central bank rates, FX, banking, and credit data via the Pipeworx gateway.

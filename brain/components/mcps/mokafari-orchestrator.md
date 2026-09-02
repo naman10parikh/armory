@@ -8,10 +8,12 @@ source_url: https://github.com/mokafari/orchestrator-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-29T08:44:59Z"
 ---
 ## What it is
 MCP server `Orchestrator`, catalogued on PulseMCP. Orchestrates distributed task management by coordinating workflows, enforcing dependencies, and tracking execution across instances for complex data processing and computing jobs.

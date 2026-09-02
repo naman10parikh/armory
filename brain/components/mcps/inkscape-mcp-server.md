@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T21:48:49Z"
 ---
 ## What it is
 Enables AI agents to create, inspect, validate, and export SVG designs using Inkscape CLI through MCP tools.

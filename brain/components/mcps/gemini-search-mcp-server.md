@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-01-05T06:02:16Z"
 ---
 ## What it is
 An MCP server that generates answers using Gemini 2.0 and Google Search, providing relevant search results alongside the response.

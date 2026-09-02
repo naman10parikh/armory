@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T20:43:18Z"
 ---
 ## What it is
 Create invoices from any MCP client via the Invovate API — compute totals and generate PDF, JSON, or UBL invoices in 11 languages. Exposes four tools: calculate_invoice_totals (no API key needed), generate_invoice_pdf, generate_invoice_ubl, and get_invoice_capabilities.

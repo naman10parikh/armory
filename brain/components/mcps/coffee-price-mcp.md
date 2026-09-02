@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T17:32:37Z"
 ---
 ## What it is
 A read-only MCP server that wraps the coffee.pryzm.gg public API to calculate effective prices of coffee drinks after discounts, enabling users to find the cheapest coffee deals, search for discounts, and verify receipt prices.

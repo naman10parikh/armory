@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-21T16:05:16Z"
 ---
 ## What it is
 MCP server `Azure Omni Tool`, catalogued on PulseMCP. Bridges natural language requests to Azure CLI execution with plan-and-review workflows and safety validation for managing Azure resources.

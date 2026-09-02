@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T00:43:35Z"
 ---
 ## What it is
 Enables MCP hosts to read Garmin training data and write structured workouts to a calendar, with tools for listing activities, summarizing training, computing athlete zones, building and scheduling workout plans, syncing data, and checking cache status.

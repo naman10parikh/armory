@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-29T08:27:28Z"
 ---
 ## What it is
 MCP server `MySQL Database Query`, catalogued on PulseMCP. Enables AI systems to execute and retrieve data from MySQL databases through a Spring Boot server that translates natural language requests into SQL queries.

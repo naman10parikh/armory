@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
 stars: 36
+forks: 14
+pushed_at: "2026-09-01T18:00:16Z"
 ---
 ## What it is
 Official MCP server for InfluxDB 3 Core/Enterprise/Cloud Dedicated

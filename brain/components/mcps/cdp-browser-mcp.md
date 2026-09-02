@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T07:08:07Z"
 ---
 ## What it is
 MCP server that attaches to already-running Chromium browsers via CDP, enabling agents to control multiple browser sessions for navigation, input, network capture, and automation while avoiding anti-bot detection with Patchright.

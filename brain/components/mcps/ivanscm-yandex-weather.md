@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T18:40:48Z"
 ---
 ## What it is
 MCP server `Yandex Weather`, catalogued on PulseMCP. Access Yandex Weather SmartHome API for current conditions, daily forecasts, and hourly weather data by geographic coordinates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-10T03:46:54Z"
 ---
 ## What it is
 Enables AI assistants to read Confluence Cloud pages as markdown, browse page trees, download image attachments, and diff content against local documentation.

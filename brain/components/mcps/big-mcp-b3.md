@@ -8,11 +8,13 @@ source_url: https://github.com/danielvm-git/big-mcp-b3
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T04:34:42Z"
 ---
 ## What it is
 MCP server for B3 (Brazilian stock exchange) data, offering tools for real-time quotes, historical prices, dividends, FIIs, fundamental analysis, options, and indices via natural language.

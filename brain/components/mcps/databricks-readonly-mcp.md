@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T07:17:59Z"
 ---
 ## What it is
 Read-only MCP server for Databricks, exposing Unity Catalog browsing and SQL execution with robust write protection via SQL AST analysis.

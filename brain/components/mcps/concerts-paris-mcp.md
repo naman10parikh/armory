@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T21:00:28Z"
 ---
 ## What it is
 A free public MCP server for searching concerts at the Philharmonie de Paris and Cité de la musique, with filters for genre, price, availability, and more. It provides factual concert details and links to the official booking page.

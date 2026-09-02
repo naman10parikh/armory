@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T04:01:55Z"
 ---
 ## What it is
 Provides AI agents with live, grounded sports data including model probabilities, track records, and European soccer and tennis arbitrage opportunities, so they answer from real numbers instead of stale guesses.

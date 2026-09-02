@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:54:19Z"
 ---
 ## What it is
 Self-hosted MCP gateway that applies deterministic, compiled policy to tool discovery, invocation, and outbound data flow, with no model in the enforcement path. Every decision emits a hash-chained receipt sealed with Ed25519 and verifiable using public keys only.

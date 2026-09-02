@@ -8,10 +8,12 @@ source_url: https://github.com/jshmllr/sketch-context-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-02-05T21:58:24Z"
 ---
 ## What it is
 MCP server `Sketch Context`, catalogued on PulseMCP. Bridges Sketch design files with development workflows through dual-component architecture, enabling file parsing, component extraction, layer management, and real-time design element creation directly from natural language commands.

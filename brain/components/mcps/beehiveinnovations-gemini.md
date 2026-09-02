@@ -8,10 +8,12 @@ source_url: https://github.com/beehiveinnovations/pal-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11562
+stars: 11731
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1032
+pushed_at: "2025-12-15T17:07:31Z"
 ---
 ## What it is
 MCP server `Zen`, catalogued on PulseMCP. Give your development workflow access to all state of the art AI models for enhanced code analysis, problem-solving, and collaborative development.

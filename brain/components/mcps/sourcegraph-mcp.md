@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-07T09:23:20Z"
 ---
 ## What it is
 MCP server for searching code via SourceGraph's GraphQL API, enabling fast symbol and text search across local or cloud SourceGraph instances.

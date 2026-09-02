@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T05:25:37Z"
 ---
 ## What it is
 Read-only MCP server for the PlayMetrics youth-sports club management platform, enabling AI agents to query clubs, teams, players, schedules, registrations, and payments.

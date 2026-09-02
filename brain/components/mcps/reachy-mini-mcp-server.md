@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-15T14:06:22Z"
 ---
 ## What it is
 Control a Reachy Mini robot through natural language, with tools for head/antenna movement, gestures, emotions, camera, and command sequences.

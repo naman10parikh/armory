@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-01T20:26:04Z"
 ---
 ## What it is
 Sweden's B2B intelligence infrastructure MCP server providing 21 tools across 5 products for procurement, credit, company lifecycle, website pipeline, and property intelligence.

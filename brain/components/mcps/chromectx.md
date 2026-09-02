@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T19:44:02Z"
 ---
 ## What it is
 Search and retrieve content from all open Chrome tabs, and provide them as context for AI tools via MCP.

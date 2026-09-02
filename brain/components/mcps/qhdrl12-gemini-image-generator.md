@@ -8,10 +8,12 @@ source_url: https://github.com/qhdrl12/mcp-server-gemini-image-generator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-03-15T15:36:43Z"
 ---
 ## What it is
 MCP server `Gemini Image Generator`, catalogued on PulseMCP. Enables AI image generation using Google's Gemini 2.0 Flash model with intelligent prompt engineering, automatic filename creation, and configurable local storage.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T05:37:41Z"
 ---
 ## What it is
 Enables AI assistants like Claude to directly debug microcontrollers via JLink, supporting breakpoints, single-step, memory/register access, variable inspection, RTT logging, and firmware flashing.

@@ -8,10 +8,12 @@ source_url: https://github.com/hardware-mcp/arduino-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-22T22:33:08Z"
 ---
 ## What it is
 MCP server `Arduino CLI`, catalogued on PulseMCP. Wraps arduino-cli for complete Arduino development workflows including board detection, sketch compilation and upload, serial monitoring, and electrical safety checks.

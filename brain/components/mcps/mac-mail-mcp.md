@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T16:47:29Z"
 ---
 ## What it is
 Provides read-only access to Apple Mail.app emails, accounts, and folders by directly reading the local SQLite database.

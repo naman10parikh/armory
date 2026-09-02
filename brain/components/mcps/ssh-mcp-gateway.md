@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T08:05:48Z"
 ---
 ## What it is
 Provides SSH access to a remote machine with manual session approval, automatic termination, and inactivity timeouts, enabling secure command execution via Claude.

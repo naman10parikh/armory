@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T21:00:44Z"
 ---
 ## What it is
 Resolves TypeScript config inheritance chains to reveal effective compiler options, resolves path aliases to physical files, and validates project references for AI agents.

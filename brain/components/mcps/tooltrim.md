@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:55:52Z"
 ---
 ## What it is
 tooltrim reduces the tokens agents spend re-reading bloated tool results. Run it as an MCP server exposing compress and expand_tool_output, or as a gateway in front of any upstream MCP server: it re-exposes the upstream tools unchanged and shrinks each result (HTML/JSON/logs/tables) before it reache

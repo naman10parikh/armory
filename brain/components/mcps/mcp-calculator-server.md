@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T13:40:36Z"
 ---
 ## What it is
 A simple MCP server that provides an add_numbers tool for addition operations, with setup instructions for VSCode extensions like Roo Code or Cline.

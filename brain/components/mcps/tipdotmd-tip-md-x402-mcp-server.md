@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 9
+forks: 5
+pushed_at: "2025-09-11T12:09:33Z"
 ---
 ## What it is
 MCP server for cryptocurrency tipping through AI interfaces using x402 payment protocol and CDP Wallet.

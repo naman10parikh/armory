@@ -8,10 +8,12 @@ source_url: https://github.com/nirholas/universal-crypto-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-19T22:14:01Z"
 ---
 ## What it is
 MCP server `Universal Crypto`, catalogued on PulseMCP. Integrates with EVM-compatible blockchain networks including BSC, Ethereum, Arbitrum, Polygon, Base, and Optimism to enable DeFi operations, security analysis, cross-chain bridging, NFT management, and portfolio tracking.

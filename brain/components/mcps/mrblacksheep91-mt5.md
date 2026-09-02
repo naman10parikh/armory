@@ -8,10 +8,12 @@ source_url: https://github.com/mrblacksheep91/mt5-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-06T16:01:13Z"
 ---
 ## What it is
 MCP server `MetaTrader 5`, catalogued on PulseMCP. MCP server bridging MetaTrader 5 terminals to AI tools with 28 tools covering market data, account info, technical indicators, and trading execution.

@@ -8,10 +8,12 @@ source_url: https://github.com/t8y2/dbx
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1975
+stars: 17714
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1736
+pushed_at: "2026-09-02T03:33:24Z"
 ---
 ## What it is
 MCP server `DBX`, catalogued on PulseMCP. Query databases from AI agents using connections configured in the DBX database client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T12:39:48Z"
 ---
 ## What it is
 A hosted remote MCP server for C2PA disclosure policy, enabling AI governance teams to check disclosure policies, validate C2PA status, issue AI media receipts, explain region rules, and export disclosure logs.

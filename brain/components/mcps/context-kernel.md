@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:17:51Z"
 ---
 ## What it is
 Enables Claude to pull curated context from self-hosted Markdown files via a remote MCP connector, with an append-only journal for agent notes manually promoted by the owner.

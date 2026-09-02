@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T10:06:05Z"
 ---
 ## What it is
 AI Agent Instruction Hub that orchestrates context-aware instruction packs for MCP-compatible agents.

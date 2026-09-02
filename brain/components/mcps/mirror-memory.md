@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T15:31:24Z"
 ---
 ## What it is
 MCP server `Mirror Memory`, catalogued on PulseMCP. Personal knowledge base with semantic search, auto-categorization, and metadata extraction.

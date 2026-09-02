@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T13:52:18Z"
 ---
 ## What it is
 A high-performance, polyglot code-analysis graph for coding agents that enables cross-language and cross-process code relationship queries in sub-millisecond time.

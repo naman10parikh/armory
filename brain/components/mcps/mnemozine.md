@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T17:47:45Z"
 ---
 ## What it is
 Mnemozine is a self-hosted unified conversational memory layer that ingests conversations from AI tools, distills them into a temporal knowledge graph, and serves that memory to agents via a single MCP server.

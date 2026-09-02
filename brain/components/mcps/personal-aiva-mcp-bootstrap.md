@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T20:28:23Z"
 ---
 ## What it is
 A self-hosted MCP server that gives ChatGPT controlled access to a user's Oracle Cloud Ubuntu VM through tools for shell commands, file operations, and personal skills.

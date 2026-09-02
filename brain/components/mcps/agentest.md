@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-24T18:51:57Z"
 ---
 ## What it is
 AI-driven mobile app testing via MCP, enabling AI coding agents to test Android apps without test frameworks or testIDs.

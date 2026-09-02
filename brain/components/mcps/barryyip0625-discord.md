@@ -8,10 +8,12 @@ source_url: https://github.com/barryyip0625/mcp-discord
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 86
+stars: 103
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 64
+pushed_at: "2026-08-05T04:34:27Z"
 ---
 ## What it is
 MCP server `Discord`, catalogued on PulseMCP. Integrates with Discord to enable channel management, forum post creation, message sending, and reaction handling through secure authentication and permissions

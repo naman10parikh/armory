@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T15:16:40Z"
 ---
 ## What it is
 MCP server for portfolio rotation analysis. Score holdings and candidates across 5 dimensions, identify optimal swaps, validate with risk checks and backtests.

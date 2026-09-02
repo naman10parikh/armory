@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-22T05:09:43Z"
 ---
 ## What it is
 Enables AI agents to self-govern by scanning code for hardcoded secrets, structural violations, and AI drift in real-time, providing fix packets for automatic remediation.

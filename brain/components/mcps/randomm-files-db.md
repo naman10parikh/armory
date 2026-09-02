@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-17T07:25:08Z"
 ---
 ## What it is
 MCP server `Files-DB`, catalogued on PulseMCP. Provides a local vector database system for semantic code search with zero-configuration setup, real-time file monitoring, and incremental indexing to help developers navigate large codebases efficiently.

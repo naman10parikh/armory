@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T06:08:26Z"
 ---
 ## What it is
 MCP server for NBA live data and stats, providing read-only tools to query live scores, box scores, player info, standings, and more from NBA.com.

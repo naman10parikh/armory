@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-25T07:44:00Z"
 ---
 ## What it is
 Enables peer-to-peer communication, discovery, shared state, and file coordination between AI coding agents across machines and sessions.

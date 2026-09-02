@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T19:35:44Z"
 ---
 ## What it is
 Track LLM token costs across Claude, GPT and Gemini. MCP server + CLI with optimization hints and $ savings estimates.

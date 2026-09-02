@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-01-05T03:41:21Z"
 ---
 ## What it is
 MCP servers for querying Brick and 223P ontologies, enabling abbreviation expansion, term/property lookup, and definition retrieval.

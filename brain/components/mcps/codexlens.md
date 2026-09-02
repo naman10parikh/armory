@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-04-11T15:48:51Z"
 ---
 ## What it is
 Semantic code search engine for Claude Code with hybrid search combining vector, FTS, AST graph, and ripgrep regex, with RRF fusion and reranking.

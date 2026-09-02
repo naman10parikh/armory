@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-10T22:24:30Z"
 ---
 ## What it is
 MCP server `Request Tracker by crunchtools`, catalogued on PulseMCP. Manages Request Tracker (RT) tickets with search, creation, updates, time tracking, and workflow automation.

@@ -8,10 +8,12 @@ source_url: https://github.com/bezata/kobsidian
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-26T07:56:06Z"
 ---
 ## What it is
 MCP server `kObsidian`, catalogued on PulseMCP. Access and search Obsidian vaults through an MCP interface.

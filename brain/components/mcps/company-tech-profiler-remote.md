@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:34:21Z"
 ---
 ## What it is
 Remote MCP server for company tech profiling. It exposes tools for DNS, domain registration, SSL, website fingerprinting, IP/cloud provider, subdomains, and company analysis using public data without API keys.

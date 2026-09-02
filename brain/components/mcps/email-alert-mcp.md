@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T13:16:05Z"
 ---
 ## What it is
 A lightweight MCP server that lets agents send email alerts for notifying humans when scheduled jobs fail, data is missing, or attention is needed.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T13:07:06Z"
 ---
 ## What it is
 Provides an MCP interface for publication-quality chemical structure and reaction rendering from SMILES/InChI/molblock, with validation and name parsing. Enables AI agents to draw molecules and reactions as images.

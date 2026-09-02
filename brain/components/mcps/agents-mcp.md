@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T10:03:19Z"
 ---
 ## What it is
 Enables running AI agents via OpenAI-compatible APIs with custom system prompts, models, and queries. Supports persistent memory, preset agents, and multi-step workflows like pipelines and swarms.

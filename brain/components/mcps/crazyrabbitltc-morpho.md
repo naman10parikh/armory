@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-01-28T04:50:22Z"
 ---
 ## What it is
 MCP server `Morpho`, catalogued on PulseMCP. Integrates with Morpho DeFi protocol's GraphQL API to enable querying market data, vaults, positions, and historical APY information for portfolio management and yield optimization.

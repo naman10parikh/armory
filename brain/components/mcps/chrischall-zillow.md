@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T23:33:26Z"
 ---
 ## What it is
 MCP server `Zillow`, catalogued on PulseMCP. Provides 15 tools for Zillow property listings, Zestimate history, saved homes, market reports, and mortgage calculations via browser proxy authentication.

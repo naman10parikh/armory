@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T18:45:51Z"
 ---
 ## What it is
 An AI investment-analysis MCP server that analyzes companies (Indian NSE/BSE or global) by gathering public financial data and producing a comprehensive report including financials, ratios, DCF valuation, economic moat, risks, and a 0-100 investment rating.

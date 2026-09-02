@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T07:16:06Z"
 ---
 ## What it is
 MCP server `Nowledge Mem`, catalogued on PulseMCP. Persistent memory and knowledge management with semantic search

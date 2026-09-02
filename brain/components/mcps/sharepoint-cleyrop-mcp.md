@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T11:49:59Z"
 ---
 ## What it is
 Enables users to access SharePoint files via Microsoft Graph and transfer them to Cleyrop project work data, supporting multi-tenant authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:39:10Z"
 ---
 ## What it is
 Enables Bonus Pink sub-accounts to manage loyalty programs via AI agents, offering 84 tools for card issuance, points, stamps, visits, rewards, and communications.

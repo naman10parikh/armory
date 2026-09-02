@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T20:55:08Z"
 ---
 ## What it is
 Live intercity bus-trip search across Ukraine and Europe — real-time prices, seats, carriers, cheapest-day-of-month calendar, and trip details with passenger discounts. Read-only, no API key; also available as a hosted remote endpoint at https://mcp.soloway.com.ua/mcp.

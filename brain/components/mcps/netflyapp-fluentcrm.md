@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-25T05:36:46Z"
 ---
 ## What it is
 MCP server `FluentCRM`, catalogued on PulseMCP. Integrates with FluentCRM WordPress plugin to provide complete email marketing automation including contact management, campaign creation, tag and list operations, automation workflows, and webhook management through over 30 specialized tools.

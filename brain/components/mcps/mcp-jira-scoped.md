@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-01T02:20:03Z"
 ---
 ## What it is
 Enables AI assistants to manage Jira tasks, issues, and projects using Atlassian's modern scoped API tokens, with safety features like read-only default and delete confirmation.

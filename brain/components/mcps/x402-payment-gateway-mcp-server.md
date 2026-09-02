@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:55Z"
 ---
 ## What it is
 Enables AI agents to make micropayments using USDC on Solana via the x402 protocol, supporting payment requests, on-chain verification, and revenue tracking.

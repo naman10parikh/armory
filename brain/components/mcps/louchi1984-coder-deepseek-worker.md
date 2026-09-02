@@ -8,10 +8,12 @@ source_url: https://github.com/louchi1984-coder/deepseek-claude-code-worker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 99
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-05-29T03:02:09Z"
 ---
 ## What it is
 MCP server `DeepSeek Code Worker`, catalogued on PulseMCP. MCP server that delegates coding tasks to DeepSeek V4 via Claude Code, operating as a background worker to reduce token consumption on the main AI client.

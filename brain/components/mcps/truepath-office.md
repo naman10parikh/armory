@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T04:41:54Z"
 ---
 ## What it is
 A local MCP server that lets Claude, Cursor, Codex, or any MCP client work with Office documents on your Mac: evaluate spreadsheet formulas, read/write XLSX and PPTX, extract structured DOCX content, and merge/split/protect PDFs. 100% local, no network calls, no account. 14 tools.

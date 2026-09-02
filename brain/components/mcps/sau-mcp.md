@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:05:32Z"
 ---
 ## What it is
 MCP server wrapping social-auto-upload CLI for AI clients to verify cookies and publish videos/notes to Chinese social platforms (Douyin, Kuaishou, Xiaohongshu, Bilibili).

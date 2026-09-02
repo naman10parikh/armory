@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T04:46:30Z"
 ---
 ## What it is
 MCP server for SSH and local terminal access. Supports interactive commands, long-running processes, and TUI apps like tmux/zellij

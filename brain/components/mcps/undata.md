@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T19:19:12Z"
 ---
 ## What it is
 A CLI and MCP server for querying UN statistical data via the SDMX REST API, providing tools to list datasets, retrieve WDI and MDG data, search series, and compare countries without requiring an API key.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T14:26:46Z"
 ---
 ## What it is
 Deterministic context compression for MCP agents, reducing token usage via 11 tools for prompts, history, shell output, file deltas, and code navigation without ML or GPU.

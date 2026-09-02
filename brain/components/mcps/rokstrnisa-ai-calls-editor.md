@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-20T13:58:23Z"
 ---
 ## What it is
 MCP server `AI Calls Editor`, catalogued on PulseMCP. VS Code extension that exposes an HTTP server enabling intelligent symbol renaming across multiple files using the editor's built-in LSP-backed rename provider with automatic workspace edit handling and saving.

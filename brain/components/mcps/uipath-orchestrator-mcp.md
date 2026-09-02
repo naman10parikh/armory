@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T21:59:02Z"
 ---
 ## What it is
 Enables AI assistants to interact with UiPath Orchestrator through 23 tools, including managing jobs, queues, schedules, robots, and assets.

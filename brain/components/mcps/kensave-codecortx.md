@@ -8,10 +8,12 @@ source_url: https://github.com/kensave/roberto-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-06T02:32:45Z"
 ---
 ## What it is
 MCP server `CodeCortX`, catalogued on PulseMCP. Provides lightning-fast code analysis with real-time symbol extraction, semantic search, and code outline generation across 15+ programming languages using Tree-sitter parsing and BM25 search.

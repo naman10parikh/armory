@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T12:09:11Z"
 ---
 ## What it is
 Enables querying Codecov coverage data including file, commit, repository, and pull request coverage.

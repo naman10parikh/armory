@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T17:09:57Z"
 ---
 ## What it is
 Enables AI assistants to remotely control Sony DSC cameras via the Camera Remote API, supporting live view, shooting, exposure adjustment, zoom, and content management.

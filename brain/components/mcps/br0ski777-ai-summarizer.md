@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:32:44Z"
 ---
 ## What it is
 MCP server `Text Summarizer`, catalogued on PulseMCP. Summarizes text or URLs into key points with compression ratio and estimated reading time.

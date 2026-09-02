@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T08:27:42Z"
 ---
 ## What it is
 MCP server for Google's Gemini API, enabling text, image, video, speech, embeddings, and deep research capabilities through a single tool set.

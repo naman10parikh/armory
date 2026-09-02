@@ -8,11 +8,13 @@ source_url: https://github.com/luisrodriguesphd/mcp-rag-agent
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-23T19:51:11Z"
 ---
 ## What it is
 Enables hybrid search over policies using Reciprocal Rank Fusion and provides grounded, context-aware answers via a LangGraph agent with COSTAR prompting.

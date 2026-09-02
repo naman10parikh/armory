@@ -8,10 +8,12 @@ source_url: https://github.com/bromoket/x64dbg_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 125
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2026-06-08T22:41:50Z"
 ---
 ## What it is
 MCP server `x64dbg`, catalogued on PulseMCP. AI-powered reverse engineering and debugging interface for the x64dbg debugger with breakpoints, memory analysis, and tracing.

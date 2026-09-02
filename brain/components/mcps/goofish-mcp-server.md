@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T13:18:44Z"
 ---
 ## What it is
 Enables searching and monitoring of Goofish (闲鱼) items via Playwright automation, providing structured item details and keyword-based monitoring.

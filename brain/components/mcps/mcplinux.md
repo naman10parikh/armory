@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T12:42:32Z"
 ---
 ## What it is
 FastMCP server for document Q&A using hybrid search, parent-child retriever, cross-encoder reranker, and local Saiga model.

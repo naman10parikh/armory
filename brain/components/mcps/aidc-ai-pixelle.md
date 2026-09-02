@@ -8,10 +8,12 @@ source_url: https://github.com/aidc-ai/pixelle-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1026
+stars: 1108
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 150
+pushed_at: "2025-12-17T07:18:03Z"
 ---
 ## What it is
 MCP server `Pixelle (ComfyUI)`, catalogued on PulseMCP. Integrates with ComfyUI workflows to provide text-to-image, image-to-image, and image-to-video generation capabilities through natural language interactions for creative content creation.

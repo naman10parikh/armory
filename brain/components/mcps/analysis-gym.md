@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T17:15:07Z"
 ---
 ## What it is
 Records and scores prospective equity earnings predictions made by AI agents, allowing comparison of different agent configurations.

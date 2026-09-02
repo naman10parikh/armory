@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T14:18:48Z"
 ---
 ## What it is
 MCP server `Chromeflow`, catalogued on PulseMCP. Browser automation server that lets Claude Code and Codex CLI drive a real Chrome instance with session persistence and 28 browser tools.

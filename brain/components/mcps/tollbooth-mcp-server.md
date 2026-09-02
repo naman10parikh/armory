@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:57:10Z"
 ---
 ## What it is
 Enables AI agents to resolve tokens, get quotes, check for honeypots/rug pulls, build swaps, and retrieve receipts via x402 micropayments.

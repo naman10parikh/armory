@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T12:05:12Z"
 ---
 ## What it is
 Integrates 7 security tools (nmap, nuclei, dirsearch, sqlmap, hydra, Acunetix, Metasploit) via MCP protocol for AI-assisted penetration testing with enterprise-grade safety features.

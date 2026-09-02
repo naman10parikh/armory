@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-10T21:54:18Z"
 ---
 ## What it is
 A collection of MCP servers for chemical engineering and chemistry applications, enabling AI assistants to perform thermodynamic calculations, equation of state modeling, and phase equilibrium computations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T06:18:15Z"
 ---
 ## What it is
 A headless, disposable email inbox that an AI agent drives over MCP, enabling temporary email addresses and email receipt for testing signup flows.

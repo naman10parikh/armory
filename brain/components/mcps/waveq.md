@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T20:48:45Z"
 ---
 ## What it is
 Local MCP server for querying VCD waveform files via SQLite; enables AI agents to ask precise questions about signal values, transitions, and clock cycles without dumping raw VCD text.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T15:47:21Z"
 ---
 ## What it is
 Enables Claude to screen studies in Covidence by reading the live page and casting votes based on stored criteria, with all browser navigation handled by Claude itself.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T03:31:29Z"
 ---
 ## What it is
 Provides a local long-term memory layer for AI coding tools like Cursor and Claude Code, enabling cross-session, cross-tool sharing of project facts, user preferences, decisions, and workflows.

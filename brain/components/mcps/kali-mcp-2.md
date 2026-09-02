@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:39:07Z"
 ---
 ## What it is
 Enables AI assistants to perform penetration testing by running real Kali Linux security tools and returning structured, verified findings instead of raw terminal output.

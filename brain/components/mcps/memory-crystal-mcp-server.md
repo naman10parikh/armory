@@ -8,11 +8,13 @@ source_url: https://github.com/memorycrystal/memorycrystal
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T10:46:34Z"
 ---
 ## What it is
 Enables AI agents to maintain persistent memory across sessions by capturing conversations, extracting durable knowledge, and injecting relevant context, supporting various MCP-compatible platforms.

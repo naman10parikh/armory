@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:12:46Z"
 ---
 ## What it is
 Enables managing cron jobs, maintenance windows, and settings through natural language by exposing the Cronmanager REST API as MCP tools for LLM clients like Claude.

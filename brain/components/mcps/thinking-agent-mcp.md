@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T08:51:48Z"
 ---
 ## What it is
 Enables thinking models to extend their reasoning by outsourcing parts of the chain of thought to a non-thinking model via the chat_agent tool, with configurable parameters.

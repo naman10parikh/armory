@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T14:29:25Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to YNAB budgets, enabling natural language queries about finances backed by full API coverage and built-in YNAB methodology knowledge.

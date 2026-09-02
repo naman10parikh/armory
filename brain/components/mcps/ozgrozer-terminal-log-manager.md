@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-20T21:33:17Z"
 ---
 ## What it is
 MCP server `Terminal Log Manager`, catalogued on PulseMCP. Retrieves and manages terminal logs from a specified directory, offering functionality to read recent entries and clear log contents for efficient monitoring and debugging.

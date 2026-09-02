@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:29:36Z"
 ---
 ## What it is
 DocSift converts PDFs and Office files into clean Markdown once, then returns only the passages that answer a question, with page numbers and section headings so answers can be cited. It runs entirely on your machine, using Docling for PDFs and MarkItDown for everything else, with no cloud APIs, acc

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T05:57:54Z"
 ---
 ## What it is
 Provides read-only MCP tools to diagnose customer billing disputes by analyzing billing records, identifying contradictions, citing evidence, and scoring confidence to auto-resolve or escalate.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-30T04:38:34Z"
 ---
 ## What it is
 Enables AI agents to manage and query a temporally-aware knowledge graph memory, supporting episode tracking, entity relationships, and semantic search via MCP tools.

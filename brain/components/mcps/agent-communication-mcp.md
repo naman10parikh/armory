@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-08T08:29:41Z"
 ---
 ## What it is
 Facilitates autonomous AI agent collaboration on software projects through file-based task management and inter-agent communication via the Model Context Protocol.

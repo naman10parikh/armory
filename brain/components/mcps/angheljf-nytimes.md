@@ -8,10 +8,12 @@ source_url: https://github.com/angheljf/nyt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-07-23T12:36:51Z"
 ---
 ## What it is
 MCP server `New York Times`, catalogued on PulseMCP. Access and analyze recent news articles from the NYT API.

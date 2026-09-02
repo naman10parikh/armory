@@ -8,10 +8,12 @@ source_url: https://github.com/nosmoht/talos-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T08:20:49Z"
 ---
 ## What it is
 MCP server `Talos`, catalogued on PulseMCP. Manages Talos Linux clusters via native gRPC API with read-only and mutating tools plus RBAC support.

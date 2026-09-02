@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T20:49:17Z"
 ---
 ## What it is
 Provides live meeting context to an AI assistant during Google Meet or Zoom calls, enabling real-time transcript reading, decision tracking, and actionable advice in a side panel.

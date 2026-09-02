@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T10:05:35Z"
 ---
 ## What it is
 Gives AI agents full control of VS Code's debugging engine — set breakpoints, launch/attach sessions, step through code, inspect call stacks and variables, and evaluate expressions in the paused frame.

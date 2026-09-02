@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-20T21:01:52Z"
 ---
 ## What it is
 MCP server `Survey`, catalogued on PulseMCP. Conduct dynamic conversational surveys with conditional logic and structured data collection

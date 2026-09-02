@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:12Z"
 ---
 ## What it is
 Enables querying official data from Brazil's Transparency Portal for the Child Labor Eradication Program (PETI) via a read-only, pay-per-use MCP tool compatible with any MCP client.

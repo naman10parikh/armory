@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T14:50:30Z"
 ---
 ## What it is
 Enables Claude to generate images on demand using the FLUX.1-schnell model, supporting multiple aspect ratios and saving locally.

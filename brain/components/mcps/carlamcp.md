@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T18:56:23Z"
 ---
 ## What it is
 Enables natural language-driven creation and execution of autonomous-vehicle scenarios in the CARLA simulator, with validated primitives and replay support.

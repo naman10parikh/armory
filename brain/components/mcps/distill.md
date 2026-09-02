@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T04:33:06Z"
 ---
 ## What it is
 MCP server that provides a shared team knowledge base by transforming raw input into anonymous, factual knowledge via a local LLM before storage, enabling cross-session recall of team decisions and corrections.

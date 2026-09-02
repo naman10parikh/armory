@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T16:14:14Z"
 ---
 ## What it is
 A lightweight MCP server that provides long-term memory for LLMs by storing and retrieving important facts, decisions, and preferences through smart semantic search and automatic organization.

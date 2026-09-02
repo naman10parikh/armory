@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-10T22:21:02Z"
 ---
 ## What it is
 MCP server `Tuya Smart Home`, catalogued on PulseMCP. Integrates with Tuya smart home devices using tinytuya, enabling control and monitoring for home automation scenarios like voice commands and energy optimization.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T16:43:49Z"
 ---
 ## What it is
 MCP server implementing visual vocabulary and structural parameters for brassiere/lingerie design. Maps professional design taxonomy to image-generation-ready specifications with zero LLM cost for composition.

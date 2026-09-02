@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T08:42:56Z"
 ---
 ## What it is
 This MCP server enables collaborative planning and task management on a shared Markdown-based blackboard, allowing multiple LLMs and humans to create, claim, update, and track tasks with audit events and role-based access.

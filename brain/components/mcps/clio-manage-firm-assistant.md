@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T22:05:00Z"
 ---
 ## What it is
 An MCP server that connects Clio Manage to ChatGPT/Codex, enabling authorized firm users to check calendar availability, review tasks, and confirm user identity via natural language, with event names kept private.

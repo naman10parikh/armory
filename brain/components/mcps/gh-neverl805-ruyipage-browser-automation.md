@@ -8,10 +8,12 @@ source_url: https://github.com/neverl805/ruyipage_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-16T06:27:20Z"
 ---
 ## What it is
 MCP server `RuyiPage Browser Automation`, catalogued on PulseMCP. Firefox BiDi browser automation server exposing 34 tools for navigation, DOM manipulation, screenshots, and JavaScript execution.

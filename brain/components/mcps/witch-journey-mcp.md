@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T13:50:37Z"
 ---
 ## What it is
 Enables AI assistants to control the game 'Witch's Apocalyptic Journey' through in-game automation, providing tools for UI interaction, state inspection, and decision planning.

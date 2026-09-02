@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-18T15:35:15Z"
 ---
 ## What it is
 An interactive feedback MCP server with a web UI, enabling AI-driven development workflows where AI can prompt users for feedback before taking actions, supporting platforms like Cursor, Cline, and Windsurf.

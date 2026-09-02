@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T17:28:47Z"
 ---
 ## What it is
 MCP server exposing thermodynamic and transport properties of refrigerants and ~130 other fluids via CoolProp, enabling queries of state points, saturation, fluid info, and humid air properties through natural language.

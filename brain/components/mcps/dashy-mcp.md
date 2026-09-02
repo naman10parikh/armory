@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:42:42Z"
 ---
 ## What it is
 MCP server exposing Dashy's REST API as tools, enabling an LLM to read and edit dashboard config, including sections, items, and top-level config keys.

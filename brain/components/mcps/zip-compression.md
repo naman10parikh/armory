@@ -8,10 +8,12 @@ source_url: https://github.com/7gugu/zip-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp]
+forks: 4
+pushed_at: "2026-07-30T02:17:30Z"
 ---
 
 ## What it is

@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-09T19:05:51Z"
 ---
 ## What it is
 MCP server `Gemini Code Analysis (OpenRouter)`, catalogued on PulseMCP. Provides codebase analysis through OpenRouter's API integration, offering code quality assessment, security vulnerability scanning with OWASP Top 10 mapping and CVE database integration, performance profiling, and automated fix suggestions for JavaScript/TypeScript projects.

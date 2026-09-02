@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T15:25:18Z"
 ---
 ## What it is
 Enables MCP clients to query and export KoboToolbox field data using natural language, allowing users to ask questions about submissions and export data without manual logins.

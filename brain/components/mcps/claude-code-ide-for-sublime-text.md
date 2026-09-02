@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-16T06:08:34Z"
 ---
 ## What it is
 Enables Sublime Text to integrate with Claude Code via the IDE protocol, providing in-editor diff review, selection context sharing, and @-mentions through a local WebSocket/MCP server.

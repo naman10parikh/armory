@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-21T17:27:17Z"
 ---
 ## What it is
 MCP server `SPARQL`, catalogued on PulseMCP. Integrates with SPARQL servers to enable querying and manipulation of RDF data sources, facilitating semantic web integration for knowledge graph exploration and linked data analysis.

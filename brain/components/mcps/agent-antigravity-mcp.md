@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T21:07:16Z"
 ---
 ## What it is
 MCP server for Google Gemini Antigravity Agent, enabling autonomous code execution, web browsing, and GitHub PR workflows in remote sandboxes.

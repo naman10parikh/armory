@@ -8,11 +8,13 @@ source_url: https://github.com/sanshanjianke/scicompute-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T23:03:01Z"
 ---
 ## What it is
 MCP server for scientific computing with multiple backends (Mathematica, Octave, Python, R, SageMath, etc.) enabling mathematical computation and visualization through AI coding assistants.

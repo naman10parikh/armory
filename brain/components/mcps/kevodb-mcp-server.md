@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T23:24:53Z"
 ---
 ## What it is
 Enables AI agents to interact with KevoDB, a key-value database, through MCP tools for CRUD operations, transactions, and scans.

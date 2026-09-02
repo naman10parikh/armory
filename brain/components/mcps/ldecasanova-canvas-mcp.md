@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-02T23:04:45Z"
 ---
 ## What it is
 MCP server `Canvas MCP`, catalogued on PulseMCP. Provides read-only access to Canvas LMS courses, assignments, announcements, and deadline prioritization for AI assistants.

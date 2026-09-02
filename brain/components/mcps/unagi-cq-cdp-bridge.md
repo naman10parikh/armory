@@ -8,10 +8,12 @@ source_url: https://github.com/unagi-cq/cdp-bridge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 153
+stars: 296
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 37
+pushed_at: "2026-08-09T16:39:28Z"
 ---
 ## What it is
 MCP server `CDP Bridge`, catalogued on PulseMCP. MCP server bridging AI clients to real browser sessions via Chrome DevTools Protocol with a companion browser extension.

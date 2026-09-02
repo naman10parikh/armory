@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T17:10:17Z"
 ---
 ## What it is
 MCP server that wraps the Evolution API (WhatsApp) as semantic tools for LLM agents, enabling messaging, chat management, group operations, and instance control via natural language.

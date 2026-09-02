@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-02T06:22:14Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for ZeroDrive file management. It enables AI assistants like Claude to interact with ZeroDrive cloud storage through a standardized interface.

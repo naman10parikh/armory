@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T17:18:42Z"
 ---
 ## What it is
 Enables natural language data analysis on uploaded CSV files by converting them to SQLite and exposing read-only database tools via MCP. Integrates with Ollama LLM to translate user questions into safe SQL queries.

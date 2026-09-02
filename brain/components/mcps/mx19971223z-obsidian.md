@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-30T10:21:34Z"
 ---
 ## What it is
 MCP server `MXManage Obsidian`, catalogued on PulseMCP. MCP server for Obsidian vault management with Git sync, semantic search, and AI interaction journaling.

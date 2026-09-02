@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T13:49:00Z"
 ---
 ## What it is
 Enables AI assistants to apply letterhead templates to PDF and Markdown documents, converting Markdown to professionally formatted PDFs with letterhead overlays.

@@ -8,10 +8,12 @@ source_url: https://github.com/jayzeedesign/figma-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-04-03T23:53:48Z"
 ---
 ## What it is
 MCP server `Figma`, catalogued on PulseMCP. Integrates with Figma's API to enable direct access to design files and prototypes for generating code and answering UI implementation queries.

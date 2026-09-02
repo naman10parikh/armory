@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:00:59Z"
 ---
 ## What it is
 Enables live-web research by providing stateless browsing, link extraction, and page search capabilities via Playwright, allowing agents to fetch and analyze web content without session management.

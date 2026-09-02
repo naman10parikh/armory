@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T10:31:26Z"
 ---
 ## What it is
 An MCP server that lets coding agents drive and verify mobile apps on iOS Simulator and Android Emulator, providing blocking wait primitives and semantic UI diffs to replace screenshot polling.

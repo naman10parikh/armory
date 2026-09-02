@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-06T13:17:10Z"
 ---
 ## What it is
 Provides four GitHub superpowers (repo-scorecard, compare-repos, commit-heatmap, trending-mcp) as MCP tools with React widgets for repository health analysis, comparison, commit activity visualization, and trending MCP servers.

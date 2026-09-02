@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-23T08:14:38Z"
 ---
 ## What it is
 MCP server `note.com`, catalogued on PulseMCP. Integrates with note.com Japanese blogging platform for creating, editing, and retrieving posts

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-06-02T13:03:02Z"
 ---
 ## What it is
 An MCP server to retrieve train schedules from National Rail using the Realtime Trains API, providing tools for live departures and arrivals.

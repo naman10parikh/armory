@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-06T16:10:33Z"
 ---
 ## What it is
 Enables management of GNOME Boxes virtual machines through libvirt/virsh with lifecycle and snapshot operations.

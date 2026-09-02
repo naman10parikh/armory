@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T11:23:04Z"
 ---
 ## What it is
 Persistent memory for AI coding tools, enabling AI assistants to store and recall project decisions, conventions, and context across sessions.

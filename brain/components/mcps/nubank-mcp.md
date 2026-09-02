@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:38:55Z"
 ---
 ## What it is
 Connects Nubank accounts to Claude, ChatGPT, and AI agents via Open Finance Brasil, enabling natural language queries about balances, statements, credit card bills, and investments in read-only mode.

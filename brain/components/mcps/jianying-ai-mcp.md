@@ -8,11 +8,13 @@ source_url: https://github.com/Xanthus-Sanslab/jianying-ai-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T08:27:55Z"
 ---
 ## What it is
 MCP server for Jianying (CapCut) AI-assisted editing, enabling natural language-driven draft generation, reference reuse, and batch template creation with safety checks.

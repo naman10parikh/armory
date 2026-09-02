@@ -8,10 +8,12 @@ source_url: https://github.com/patdolitse/piia-engram
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 106
+stars: 157
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-09-01T18:00:50Z"
 ---
 ## What it is
 MCP server `Engram`, catalogued on PulseMCP. Provides a persistent identity layer for AI tools with tools for user profiles, lessons, and decisions.

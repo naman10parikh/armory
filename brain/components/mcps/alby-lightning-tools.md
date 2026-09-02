@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-20T09:17:17Z"
 ---
 ## What it is
 MCP server `Lightning Tools`, catalogued on PulseMCP. Integrates with the Bitcoin Lightning Network to enable cryptocurrency payment capabilities and lightning address interactions for conversational workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T06:06:02Z"
 ---
 ## What it is
 An out-of-the-box multi-tenant MCP server that lets MCP clients access knowledge retrieval, task dispatch, deliverable management, and multi-agent consultation services via SSE or stdio.

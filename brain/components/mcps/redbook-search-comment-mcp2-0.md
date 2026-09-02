@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-05T06:40:49Z"
 ---
 ## What it is
 Enables automated searching and commenting on Xiaohongshu with AI-generated comments via MCP clients like Claude, supporting login persistence, note analysis, and four comment types.

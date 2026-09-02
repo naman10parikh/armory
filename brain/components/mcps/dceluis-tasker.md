@@ -8,10 +8,12 @@ source_url: https://github.com/dceluis/tasker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-10T18:59:31Z"
 ---
 ## What it is
 MCP server `Tasker`, catalogued on PulseMCP. Bridges Android's Tasker automation platform with conversational interfaces through HTTP API integration, enabling voice-controlled device automation, smart home routines, and custom workflow execution.

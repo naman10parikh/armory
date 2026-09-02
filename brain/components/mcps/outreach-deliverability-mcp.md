@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T14:06:09Z"
 ---
 ## What it is
 Provides rules, checklists, and audits for cold outreach deliverability across email, LinkedIn, Instagram, and X, helping ensure messages land in inboxes rather than spam folders.

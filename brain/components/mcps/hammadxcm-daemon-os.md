@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-20T16:37:46Z"
 ---
 ## What it is
 MCP server `Daemon OS`, catalogued on PulseMCP. Gives AI agents full computer-use control on macOS through the native accessibility tree, with a recipe system for repeatable workflows.

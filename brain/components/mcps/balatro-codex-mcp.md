@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T00:38:54Z"
 ---
 ## What it is
 Allows Codex desktop to control the Steam game Balatro via local STDIO MCP tools, exposing only constrained normal game actions without debugging or cheat capabilities.

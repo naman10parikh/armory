@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-22T23:22:08Z"
 ---
 ## What it is
 A remote MCP server that exposes Gemini image generation/editing as a custom connector for Claude, enabling image creation and editing from any chat interface.

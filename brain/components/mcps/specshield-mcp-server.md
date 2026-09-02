@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T15:37:15Z"
 ---
 ## What it is
 A read-only API change deploy gate for AI coding agents that analyzes OpenAPI specs to determine if changes are safe to deploy. It provides tools for comparing specs, explaining breaking changes, and generating migration guides.

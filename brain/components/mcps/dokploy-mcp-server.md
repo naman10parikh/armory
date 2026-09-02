@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-05-10T12:25:43Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to manage Dokploy infrastructure (Docker, projects, applications, databases, etc.) through natural language, acting as a universal translator between AI and cloud systems.

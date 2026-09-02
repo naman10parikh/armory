@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:45:54Z"
 ---
 ## What it is
 An AI-powered travel planning assistant that fetches live weather, generates packing suggestions, and provides travel recommendations.

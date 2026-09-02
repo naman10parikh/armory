@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T21:26:11Z"
 ---
 ## What it is
 MCP server for managing Youfiliate Smart Links from AI assistants like Claude Desktop, enabling creation of geo-targeted affiliate links, analytics, and YouTube description migrations.

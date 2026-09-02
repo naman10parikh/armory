@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-15T00:40:11Z"
 ---
 ## What it is
 MCP server `Monarch Money`, catalogued on PulseMCP. Node.js client for Monarch Money with 30 MCP tools covering accounts, transactions, budgets, cashflow, and investments.

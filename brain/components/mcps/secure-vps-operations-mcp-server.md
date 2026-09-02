@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T07:14:44Z"
 ---
 ## What it is
 Enables secure, read-only inspection of a VPS over SSH through approved operations such as system health, disk usage, container logs, and service status, without giving the AI unrestricted shell access.

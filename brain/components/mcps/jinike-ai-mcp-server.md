@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T07:48:16Z"
 ---
 ## What it is
 Connects Claude to email, calendar, and tasks via Jinike AI, enabling inbox reading, email sending, event creation, task management, and daily briefings through Gmail, Outlook, and Google Calendar integration.

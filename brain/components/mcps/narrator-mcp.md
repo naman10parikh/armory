@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-13T17:59:32Z"
 ---
 ## What it is
 Captures screenshots, analyzes changes with Gemini, generates humorous narrations with sound effects, and plays them as speech via ElevenLabs, optionally integrating with a Minecraft mod for in-game events.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-01T06:01:57Z"
 ---
 ## What it is
 MCP server `Codebase Analyser`, catalogued on PulseMCP. Analyzes TypeScript codebases for health issues including large files, missing type annotations, circular dependencies, and incident remediation planning.

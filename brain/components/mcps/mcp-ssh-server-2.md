@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-08T08:13:20Z"
 ---
 ## What it is
 Bridges VS Code on Windows with remote Linux servers via SSH, enabling AI assistants to interact with remote development environments.

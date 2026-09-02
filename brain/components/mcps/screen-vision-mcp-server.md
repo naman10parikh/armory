@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T23:05:56Z"
 ---
 ## What it is
 Enables Claude to capture screenshots, watch your screen in real-time, read text via OCR, and analyze video files, all running locally as an MCP server.

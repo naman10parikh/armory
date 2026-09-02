@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T02:07:04Z"
 ---
 ## What it is
 Enables AI agents to perform unit and live currency conversions using Toolalize's free, multilingual conversion API, with tools for converting units, currencies, and listing available categories.

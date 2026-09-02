@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-12T20:24:05Z"
 ---
 ## What it is
 MCP server for Amazon product monitoring via the Keepa API, providing 18 tools for prices, BSR trends, buy box changes, variation families, sales estimates, coupon/deal tracking, seller stats, category lookup, and promotion impact analysis.

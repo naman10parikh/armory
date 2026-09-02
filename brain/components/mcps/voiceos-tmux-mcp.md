@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T00:58:57Z"
 ---
 ## What it is
 Enables voice control of local Claude Code sessions running in tmux, allowing users to list, read, send messages to, and manage sessions via nine MCP tools.

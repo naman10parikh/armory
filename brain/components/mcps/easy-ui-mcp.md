@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T08:42:11Z"
 ---
 ## What it is
 Enables AI agents to drive Playwright-based browser automation for UI testing, returning JSON/HTML reports with screenshots without server-side LLM or test scripts.

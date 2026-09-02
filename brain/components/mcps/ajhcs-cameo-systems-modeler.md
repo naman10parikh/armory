@@ -8,10 +8,12 @@ source_url: https://github.com/ajhcs/cameo-mcp-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-05-05T13:46:00Z"
 ---
 ## What it is
 MCP server `Cameo Systems Modeler`, catalogued on PulseMCP. Bridges AI assistants to CATIA Magic / Cameo Systems Modeler through an embedded JVM plugin, enabling full SysML v1 model creation, querying, and manipulation via 26 tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T22:09:00Z"
 ---
 ## What it is
 A local-first MCP server and toolkit for Japanese healthcare reference data, enabling lookup and search without bundling official datasets.

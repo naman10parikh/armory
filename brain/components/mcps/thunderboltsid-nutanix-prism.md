@@ -8,10 +8,12 @@ source_url: https://github.com/thunderboltsid/mcp-nutanix
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-01-29T09:57:21Z"
 ---
 ## What it is
 MCP server `Nutanix Prism Central`, catalogued on PulseMCP. Bridges to Nutanix's Prism Central API, enabling infrastructure teams to query and monitor virtualized resources like VMs, clusters, hosts, and networks without switching to the Prism web interface.

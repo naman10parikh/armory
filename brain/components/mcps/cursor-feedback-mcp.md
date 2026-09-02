@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-09T16:30:32Z"
 ---
 ## What it is
 Enables interactive feedback with image support in Cursor, allowing users to paste images for visual context and feedback.

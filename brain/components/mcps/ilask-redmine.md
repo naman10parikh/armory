@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-23T15:14:14Z"
 ---
 ## What it is
 MCP server `Redmine`, catalogued on PulseMCP. Integrates with Redmine to enable project management tasks like accessing project details and creating issues through a custom API built on the node-redmine library.

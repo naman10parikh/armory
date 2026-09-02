@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T11:16:22Z"
 ---
 ## What it is
 ZXKOL transforms tasks like "finding Douyin beauty influencers with 100k–500k followers" into simple tool calls—eliminating the need to write web scrapers or integrate platform-specific SDKs.

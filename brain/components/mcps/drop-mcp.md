@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T18:45:46Z"
 ---
 ## What it is
 A tiny remote MCP server with a single tool, drop, that saves a file from local content or a URL into a mounted directory, acting as a file dropper for watch-folder importers.

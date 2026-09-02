@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T02:19:00Z"
 ---
 ## What it is
 Read-only MCP server for Kan's FxTwitter API proxy, enabling public X/Twitter search and retrieval.

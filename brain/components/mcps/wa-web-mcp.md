@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T15:31:38Z"
 ---
 ## What it is
 MCP server that lets Claude read and send WhatsApp messages using a genuine WhatsApp Web client behind a code-enforced human-behavior middleware for safety.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-09-01T22:36:39Z"
 ---
 ## What it is
 Call OpenAI Codex from Claude Code for independent second opinions, structured code review, and delegated coding tasks through a FastMCP plugin that drives the codex CLI safely.

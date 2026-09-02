@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-16T13:56:16Z"
 ---
 ## What it is
 MCP server `Giskard Oasis`, catalogued on PulseMCP. Contextual guidance for AI agents in fog states, backed by Lightning micropayments.

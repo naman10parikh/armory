@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-26T15:27:32Z"
 ---
 ## What it is
 MCP server `Strava`, catalogued on PulseMCP. Integrates with Strava API to provide direct access to athlete activities, detailed performance metrics, segment data, and leaderboards for training analysis and progress tracking.

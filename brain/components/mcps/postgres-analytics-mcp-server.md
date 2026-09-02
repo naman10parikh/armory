@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T04:33:08Z"
 ---
 ## What it is
 Enables AI assistants to safely inspect and query PostgreSQL databases with read-only enforcement, row/timeout limits, and audit logging, providing tools for schema/table listing, read-only queries, query explanations, and table statistics.

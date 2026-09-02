@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T00:18:52Z"
 ---
 ## What it is
 Market knowledge layer for AI agents. Aim monitors millions of sources — news, podcasts, social, competitor moves and regulatory filings — and surfaces the signal shaping your market. Hosted remote MCP server (streamable HTTP, OAuth).

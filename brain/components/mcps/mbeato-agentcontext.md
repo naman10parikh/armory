@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-22T20:20:11Z"
 ---
 ## What it is
 MCP server `Agent Context`, catalogued on PulseMCP. Normalizes agent-context files from different coding agents into a unified intermediate representation.

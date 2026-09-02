@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:12:17Z"
 ---
 ## What it is
 Local voice and AI platform for macOS offering speech recognition, speech synthesis, MLX-based inference, OpenAI-compatible APIs, and MCP tools for use as an assistant or integration gateway.

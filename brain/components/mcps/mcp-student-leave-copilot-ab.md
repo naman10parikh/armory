@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-26T03:20:06Z"
 ---
 ## What it is
 Manages student leave requests and approvals, integrated with GitHub Copilot for natural language interaction.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T05:44:29Z"
 ---
 ## What it is
 Analyzes government support program announcements and business profiles to determine eligibility, identify missing information, detect risks, and generate application plans for small business owners.

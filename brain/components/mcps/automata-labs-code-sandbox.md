@@ -8,10 +8,12 @@ source_url: https://github.com/automata-labs-team/code-sandbox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 322
+stars: 327
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 36
+pushed_at: "2025-03-23T12:15:50Z"
 ---
 ## What it is
 MCP server `Code Sandbox`, catalogued on PulseMCP. Provides a sandboxed code execution environment for secure, multi-language code running with resource limits and network restrictions.

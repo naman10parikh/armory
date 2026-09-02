@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-08T18:30:04Z"
 ---
 ## What it is
 MCP server `MCP Gateway`, catalogued on PulseMCP. Aggregates multiple MCP servers into a single unified endpoint with intelligent tool search, asynchronous job execution, and hot-reloading configuration management.

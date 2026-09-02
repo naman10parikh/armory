@@ -8,10 +8,12 @@ source_url: https://github.com/sylphxai/filesystem-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-07-31T21:38:59Z"
 ---
 ## What it is
 MCP server `Filesystem`, catalogued on PulseMCP. Provides secure, controlled filesystem operations within a project's root directory, enabling safe file listing, reading, writing, and searching with robust path validation.

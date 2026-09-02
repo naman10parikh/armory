@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-10T18:38:49Z"
 ---
 ## What it is
 Exposes PyAutoGUI desktop automation functions as MCP tools, enabling mouse control, keyboard input, and screenshot capture.

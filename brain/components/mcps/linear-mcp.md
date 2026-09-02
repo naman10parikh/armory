@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 1
+forks: 10
+pushed_at: "2025-04-21T15:14:25Z"
 ---
 ## What it is
 Enables AI agents to manage Linear issues, projects, teams, and more via the Model Context Protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T15:30:17Z"
 ---
 ## What it is
 Enables AI assistants to interact with Microsoft 365 services (users, mail, calendar, files) via Microsoft Graph API.

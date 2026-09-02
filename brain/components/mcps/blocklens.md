@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-09T15:38:25Z"
 ---
 ## What it is
 MCP server `BlockLens`, catalogued on PulseMCP. Bitcoin on-chain analytics with 127 metrics covering valuation, profitability, coin days, ETF flows, and cycle performance.

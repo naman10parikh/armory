@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:34:47Z"
 ---
 ## What it is
 Enables querying and analysis of thermal power plant defects and work orders through fixed, parameterized SQL tools. Provides 8 core tools plus extensions for equipment search, defect/work order details, summaries, and failure analysis, with strict data boundaries and security.

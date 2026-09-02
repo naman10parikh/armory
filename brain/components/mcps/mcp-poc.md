@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T04:16:06Z"
 ---
 ## What it is
 A minimal MCP server with four tools (add, greet, text_stats, divide) demonstrating typed parameters, structured outputs, and error handling over stdio transport.

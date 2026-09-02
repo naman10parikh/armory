@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T15:15:11Z"
 ---
 ## What it is
 Connects Claude Desktop to a Google Colab runtime via ngrok for remote Python execution, enabling GPU/CPU code execution with smart timeouts and file management.

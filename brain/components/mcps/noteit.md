@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-13T02:28:56Z"
 ---
 ## What it is
 MCP server `NoteIt`, catalogued on PulseMCP. Manage AI agent profiles and structured notes

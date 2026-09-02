@@ -8,10 +8,12 @@ source_url: https://github.com/ktanaka101/mcp-server-duckdb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 177
+stars: 178
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-05-05T11:02:57Z"
 ---
 ## What it is
 MCP server `DuckDB`, catalogued on PulseMCP. Execute SQL queries and analyze data in DuckDB databases.

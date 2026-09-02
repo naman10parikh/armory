@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-24T01:21:55Z"
 ---
 ## What it is
 The simplest and most stable MCP server for Anki, enabling LLMs to perform core Anki operations (CRUD) directly without addons.

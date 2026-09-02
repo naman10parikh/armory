@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:51:28Z"
 ---
 ## What it is
 Computes CRC-32 and Adler-32 checksums for UTF-8 text. Enables error-detection checksum calculations without any keys or network.

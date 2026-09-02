@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T15:02:50Z"
 ---
 ## What it is
 A small filesystem MCP server that reads and writes files under one confined root over stdio, with paginated tools and strict change-detection. It enables safe, deterministic file access for agentic runtimes and MCP clients.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-12T20:16:26Z"
 ---
 ## What it is
 MCP server `Esa.io`, catalogued on PulseMCP. Integrates with esa.io knowledge management platform to enable searching, reading, creating, updating, and deleting posts and comments with support for advanced query parameters and content management features.

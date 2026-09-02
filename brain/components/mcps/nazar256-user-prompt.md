@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-02T11:13:30Z"
 ---
 ## What it is
 MCP server `User Prompt`, catalogued on PulseMCP. Enables Cursor users to provide additional input during AI generation through interactive dialog boxes, creating a more dynamic experience without interrupting the workflow.

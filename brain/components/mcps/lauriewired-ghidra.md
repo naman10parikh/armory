@@ -8,10 +8,12 @@ source_url: https://github.com/lauriewired/ghidramcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9021
+stars: 9912
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1023
+pushed_at: "2025-06-23T04:18:18Z"
 ---
 ## What it is
 MCP server `Ghidra`, catalogued on PulseMCP. Decompile and analyze binaries in Ghidra.

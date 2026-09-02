@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T04:17:35Z"
 ---
 ## What it is
 Bridges a Discord bot with the agy CLI, enabling inbound messages to be relayed to agy and allowing agy to interact with Discord through MCP tools, including sending messages and files.

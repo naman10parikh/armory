@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-11T20:05:38Z"
 ---
 ## What it is
 MCP server `Gorev`, catalogued on PulseMCP. Task management system with bilingual support for Turkish and English

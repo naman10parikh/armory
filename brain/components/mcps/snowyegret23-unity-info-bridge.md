@@ -8,10 +8,12 @@ source_url: https://github.com/snowyegret23/unityinfomcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-09T12:45:17Z"
 ---
 ## What it is
 MCP server `Unity Info Bridge`, catalogued on PulseMCP. Bridges running Unity games for runtime inspection with scene hierarchy, component analysis, text discovery, and snapshot tools for modding and localization.

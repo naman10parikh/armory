@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-09T09:39:58Z"
 ---
 ## What it is
 Enables AI agents to communicate, coordinate, and collaborate on complex tasks through a local MCP server.

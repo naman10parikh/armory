@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T18:40:45Z"
 ---
 ## What it is
 Analyzes Amazon products with comprehensive insights including pricing, features, specifications, delivery options, and customer reviews, displayed through an interactive React widget.

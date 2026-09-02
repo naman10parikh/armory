@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T09:17:28Z"
 ---
 ## What it is
 Enables LLMs to interact with Zvec vector database through tools for collection management, document operations, vector search, and AI-powered embeddings.

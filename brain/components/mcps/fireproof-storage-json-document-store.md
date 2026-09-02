@@ -8,10 +8,12 @@ source_url: https://github.com/fireproof-storage/mcp-database-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2024-12-19T23:12:00Z"
 ---
 ## What it is
 MCP server `Fireproof JSON Document Store`, catalogued on PulseMCP. Fireproof database integration for a flexible JSON document store with CRUD operations.

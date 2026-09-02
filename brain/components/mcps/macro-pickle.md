@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-24T01:02:18Z"
 ---
 ## What it is
 A local AI toolkit for generating brand-aware images and videos through Claude, with a typed prompt engine and support for multiple backends (Gemini, Imagen, fal.ai, etc.)

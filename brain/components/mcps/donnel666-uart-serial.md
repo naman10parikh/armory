@@ -8,10 +8,12 @@ source_url: https://github.com/donnel666/uart-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-12-18T08:18:32Z"
 ---
 ## What it is
 MCP server `UART Serial Communication`, catalogued on PulseMCP. Direct access to UART/serial interfaces for hardware devices, microcontrollers, and embedded systems

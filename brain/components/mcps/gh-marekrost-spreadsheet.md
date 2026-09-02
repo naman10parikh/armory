@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-11T11:47:39Z"
 ---
 ## What it is
 MCP server `Spreadsheet`, catalogued on PulseMCP. Read and write spreadsheet files with cell-level operations and DuckDB SQL engine.

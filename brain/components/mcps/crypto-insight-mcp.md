@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T11:39:05Z"
 ---
 ## What it is
 MCP server for accessing crypto market data (prices, portfolio analytics) from CoinGecko and performing RAG-based search over internal documents with responsible-AI guardrails.

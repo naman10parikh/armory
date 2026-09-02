@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T13:53:54Z"
 ---
 ## What it is
 Reads A5:SQL Mk-2 ER diagrams and SQL files locally, making them accessible to AI tools via the MCP protocol without executing SQL or writing to databases.

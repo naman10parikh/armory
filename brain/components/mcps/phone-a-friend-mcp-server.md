@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-01T09:08:37Z"
 ---
 ## What it is
 Enables AI-to-AI consultation for critical thinking and complex reasoning via OpenRouter, allowing one AI to delegate tasks to another AI model.

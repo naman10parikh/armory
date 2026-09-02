@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T06:26:12Z"
 ---
 ## What it is
 Enables AI assistants to interact with local documents (PDF, Markdown, TXT) through tools for discovery, reading, extraction, summarization, comparison, keyword extraction, search, and analysis, ensuring privacy and offline capability.

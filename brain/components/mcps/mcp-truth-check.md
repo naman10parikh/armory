@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-06T16:23:46Z"
 ---
 ## What it is
 truth is a deterministic fact-checker for the claims an AI coding agent makes about its own work.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-25T22:06:14Z"
 ---
 ## What it is
 Enables AI agents to trigger on-chain minting of $SHIT tokens via EIP-7702 delegation and MCP, with the user retaining full custody and the contract ensuring tokens go to the caller's own wallet.

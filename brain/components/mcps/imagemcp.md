@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T20:29:51Z"
 ---
 ## What it is
 A full-featured image processing MCP server for AI assistants, exposing ~55 tools across 11 categories for editing, layers, conversion, AI segmentation/cleanup/generation, design analysis, and screenshot-to-code.

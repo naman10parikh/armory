@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-25T09:08:48Z"
 ---
 ## What it is
 MCP server `Agent Browser`, catalogued on PulseMCP. Wraps Vercel's agent-browser CLI for Playwright-based browser automation with 44 tools, token-efficient element referencing, and session persistence.

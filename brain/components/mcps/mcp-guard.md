@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T15:38:12Z"
 ---
 ## What it is
 Adds security capabilities like port scanning, TLS inspection, DNS enumeration, process monitoring, secrets scanning, HTTP header auditing, and CVE checking to Claude Code and Cursor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T21:51:18Z"
 ---
 ## What it is
 MCP server that enables AI agents to instantly understand, generate pattern-aware code, search across repos, and validate changes in the Dealership AI codebase.

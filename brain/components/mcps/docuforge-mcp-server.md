@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T17:39:36Z"
 ---
 ## What it is
 Enables AI agents to create, edit, and export IEEE research papers as PDFs, with citation management and cloud hosting capabilities via MCP.

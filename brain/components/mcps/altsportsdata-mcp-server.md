@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T06:59:23Z"
 ---
 ## What it is
 MCP-compatible server that gives AI agents access to alternative sports data across 30+ leagues — odds, events, probabilities, settlement, and futures for prediction markets, DFS platforms, and sportsbooks.

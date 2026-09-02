@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T09:57:25Z"
 ---
 ## What it is
 Provides job search, employer profiling, talent demand analysis, salary lookup, and recruitment trend analysis to assist with talent market research, employer analysis, and hiring decisions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T16:32:23Z"
 ---
 ## What it is
 Enables querying hardware manuals (PDF/HTML) using local RAG with ChromaDB and embeddings, allowing Claude Code to look up pinouts, registers, and specifications.

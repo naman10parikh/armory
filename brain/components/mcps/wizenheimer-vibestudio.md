@@ -8,10 +8,12 @@ source_url: https://github.com/wizenheimer/vibestudio
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-05T19:02:51Z"
 ---
 ## What it is
 MCP server `VibeStudio (FFmpeg)`, catalogued on PulseMCP. Provides video and audio editing capabilities through FFmpeg integration with 14 tools for media information extraction, format conversion, trimming, merging, subtitle addition, resizing, filtering, frame extraction, thumbnail generation, and audio normalization.

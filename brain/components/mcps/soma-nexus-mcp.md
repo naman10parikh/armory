@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T11:12:39Z"
 ---
 ## What it is
 MCP server that fetches Figma data (file trees, nodes, images, components, styles, variables) and serves as a foundation for Flutter code generation.

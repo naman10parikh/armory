@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 1
+forks: 0
+pushed_at: "2026-05-05T22:40:54Z"
 ---
 ## What it is
 Package Intelligence for AI agents. 22 tools across 17 ecosystems (npm/pypi/cargo/go/maven/nuget/rubygems/composer/pub/hex/swift/cocoapods/cpan/hackage/cran/conda/homebrew) — check health, vulnerabilities (OSV + CISA KEV + EPSS), typosquats, malicious flags, alternatives, known bugs, breaking changes, stack compatibility and error-to-fix. 31k+ packages, 2.2k+ CVEs enriched. Zero auth, MIT. Remote URL https://mcp.depscope.dev/mcp or stdio `npx depscope-mcp`.

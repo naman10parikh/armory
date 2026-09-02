@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T13:57:12Z"
 ---
 ## What it is
 Enables AI agents to interact with Odoo ERP as the authenticated user, with tools for discovery, planning, and mutations bounded by user permissions.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-21T12:07:36Z"
 ---
 ## What it is
 MCP server `TrueNAS SCALE by drewid74`, catalogued on PulseMCP. Manages TrueNAS SCALE systems via WebSocket JSON-RPC with FastMCP and SSE transport.

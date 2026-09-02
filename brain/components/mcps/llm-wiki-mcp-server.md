@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:50:40Z"
 ---
 ## What it is
 Provides a lightweight personal knowledge base MCP server that compiles raw materials into interconnected Wiki pages, with hybrid search (BM25, optional vector, link expansion) and tools for querying, reading, writing, and ingesting content.

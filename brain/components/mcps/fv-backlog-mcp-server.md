@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T19:22:49Z"
 ---
 ## What it is
 An MCP server for interacting with the Backlog API, enabling AI agents to manage projects, issues, wikis, and more, with support for restricting access to a subset of Backlog projects.

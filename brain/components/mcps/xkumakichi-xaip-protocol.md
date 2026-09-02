@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-30T21:07:14Z"
 ---
 ## What it is
 MCP server `XAIP Protocol`, catalogued on PulseMCP. On-chain identity, credentials, reputation, escrow, and persistent memory for AI agents on XRPL.

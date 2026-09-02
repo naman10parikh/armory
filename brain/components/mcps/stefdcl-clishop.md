@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T12:17:06Z"
 ---
 ## What it is
 MCP server `CLIShop`, catalogued on PulseMCP. Terminal-based marketplace for searching, comparing, and purchasing products across multiple stores.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T19:25:18Z"
 ---
 ## What it is
 Read-only MCP server for investigating Polymarket wallets, markets, and cross-wallet patterns using 21 tools backed by public APIs and an optional SQLite cache.

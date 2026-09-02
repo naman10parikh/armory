@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-05T17:42:28Z"
 ---
 ## What it is
 Enables AI-powered educational content generation, including multiple-choice questions and lesson plans, through a modular command platform.

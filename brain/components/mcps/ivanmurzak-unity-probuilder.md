@@ -8,10 +8,12 @@ source_url: https://github.com/ivanmurzak/unity-ai-probuilder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-24T07:10:41Z"
 ---
 ## What it is
 MCP server `Unity ProBuilder`, catalogued on PulseMCP. Integrates with Unity's ProBuilder package to enable 3D mesh creation, editing, and manipulation including shape generation, face extrusion, edge beveling, geometry bridging, and material assignment for level design and procedural content generation workflows.

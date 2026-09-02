@@ -8,10 +8,12 @@ source_url: https://github.com/shinzo-labs/heimdall
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-02T18:00:29Z"
 ---
 ## What it is
 MCP server `Heimdall`, catalogued on PulseMCP. Manage your agent tools and MCP server configs with ease.

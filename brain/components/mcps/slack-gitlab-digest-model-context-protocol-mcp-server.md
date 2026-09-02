@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-12T03:02:37Z"
 ---
 ## What it is
 Summarizes Slack activity and GitLab merge requests with OpenAI to help generate daily standups, weekly reports, or quarterly check-ins.

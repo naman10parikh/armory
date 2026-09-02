@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:01:28Z"
 ---
 ## What it is
 Caches Telegram channel posts locally in SQLite and exposes them via MCP tools for querying and management.

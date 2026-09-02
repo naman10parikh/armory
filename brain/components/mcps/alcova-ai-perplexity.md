@@ -8,10 +8,12 @@ source_url: https://github.com/alcova-ai/perplexity-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-20T05:49:55Z"
 ---
 ## What it is
 MCP server `Perplexity`, catalogued on PulseMCP. Connects AI assistants to Perplexity's API for real-time web search and specialized reasoning capabilities through perplexity_ask and perplexity_reason tools.

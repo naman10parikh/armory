@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T21:46:14Z"
 ---
 ## What it is
 Enables Claude.ai to access and retrieve Bible verses, passages, chapters, and lists of books or translations from public domain versions like KJV, using the free bible-api.com.

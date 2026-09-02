@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-26T07:39:56Z"
 ---
 ## What it is
 MCP server `System Info`, catalogued on PulseMCP. Provides real-time system information including CPU, memory, disk, and GPU statistics through a simple API endpoint for monitoring and diagnostic purposes.

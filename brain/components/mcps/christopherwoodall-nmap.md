@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-17T19:00:52Z"
 ---
 ## What it is
 MCP server `Nmap Network Scanner`, catalogued on PulseMCP. Provides a bridge to Nmap network scanning tool for performing reconnaissance, port scanning, and service identification with customizable options and proper security handling.

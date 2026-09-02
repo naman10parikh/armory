@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-12T10:21:58Z"
 ---
 ## What it is
 MCP server `Excel to JSON`, catalogued on PulseMCP. Converts Excel files and CSV data to JSON format with automatic data type detection, multi-sheet support, and serverless processing for data analysis and web development workflows.

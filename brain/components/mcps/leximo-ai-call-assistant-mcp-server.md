@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-18T10:13:51Z"
 ---
 ## What it is
 An MCP server that lets you schedule AI phone calls and manage Leximo assignments directly from Claude Desktop or Claude Code.

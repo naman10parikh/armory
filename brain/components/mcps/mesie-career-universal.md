@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T22:10:01Z"
 ---
 ## What it is
 Universal MCP hub providing 1,000 compressed careers across enterprise, cybersecurity, business, engineering, and architecture pillars, accessible via HTTP endpoint for AI clients.

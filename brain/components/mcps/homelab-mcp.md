@@ -8,11 +8,13 @@ source_url: https://github.com/Nainounen/homelab-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T19:36:45Z"
 ---
 ## What it is
 MCP server giving AI assistants full control of a Proxmox homelab, enabling management of VMs, containers, Docker projects, media stack, and monitoring via natural language.

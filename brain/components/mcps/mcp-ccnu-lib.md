@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T05:23:56Z"
 ---
 ## What it is
 封装华中师范大学图书馆空间预约系统（包括登录、查座位、预约、取消、暂离等操作）为一组MCP工具，供LLM调用执行。

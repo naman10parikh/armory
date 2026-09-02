@@ -8,11 +8,13 @@ source_url: https://github.com/hjxxlogic/fsdb-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-09T07:36:15Z"
 ---
 ## What it is
 An MCP server for reading and querying FSDB waveform files, enabling AI assistants to browse hierarchy, search signals, and extract waveform data with value changes.

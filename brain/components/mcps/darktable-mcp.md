@@ -8,11 +8,13 @@ source_url: https://github.com/Caleb68864/darktable-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T00:46:47Z"
 ---
 ## What it is
 Enables Claude to edit photos in darktable via natural language, adjusting sliders, applying styles, and organizing the library in real time through the MCP protocol.

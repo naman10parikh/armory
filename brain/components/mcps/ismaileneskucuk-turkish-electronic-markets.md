@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T22:50:29Z"
 ---
 ## What it is
 MCP server `Turkish Electronic Markets`, catalogued on PulseMCP. Searches Turkish electronic component marketplaces for real-time pricing, stock availability, and product comparisons across four stores.

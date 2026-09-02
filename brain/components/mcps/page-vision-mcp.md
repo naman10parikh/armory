@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T09:08:04Z"
 ---
 ## What it is
 Provides structured visual analysis tools for coding agents, enabling UI analysis, screenshot comparison, OCR, and crop-based refinement through VLM.

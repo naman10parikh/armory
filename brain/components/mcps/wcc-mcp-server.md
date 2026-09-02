@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T22:54:07Z"
 ---
 ## What it is
 Exposes the WCC event, mentorship, and analytics pipeline tools as MCP endpoints with per-group authentication and dry-run support, enabling agents to manage events, mentors, and analytics.

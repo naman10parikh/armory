@@ -8,10 +8,12 @@ source_url: https://github.com/huaqiu-electronics/kicad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-20T10:48:22Z"
 ---
 ## What it is
 MCP server `Huaqiu KiCad`, catalogued on PulseMCP. Exposes KiCad PCB and schematic editor capabilities as tools through a custom IPC API integration.

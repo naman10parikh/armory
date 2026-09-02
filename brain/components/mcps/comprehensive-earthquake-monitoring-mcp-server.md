@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-17T23:55:53Z"
 ---
 ## What it is
 Integrates multiple earthquake data sources (IRIS, USGS, GNSS) for comprehensive seismic monitoring, analysis, and risk assessment via natural language queries.

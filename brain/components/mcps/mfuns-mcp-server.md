@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:20:13Z"
 ---
 ## What it is
 Enables AI agents to browse, interact with, and manage Mfuns community content through 17 standardized MCP tools, including feeds, threads, posts, comments, reactions, and video publishing.

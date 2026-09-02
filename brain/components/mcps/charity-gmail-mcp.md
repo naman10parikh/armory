@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:58:44Z"
 ---
 ## What it is
 Enables accessing Gmail tools (search, read, draft) for a specific Google account via MCP, designed as a custom connector for Claude/Cowork to use alongside a different Google account.

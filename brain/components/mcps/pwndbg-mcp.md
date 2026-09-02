@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-07T07:00:21Z"
 ---
 ## What it is
 An MCP tool that enables AI agents to debug ELF binaries, particularly for CTF pwn challenges.

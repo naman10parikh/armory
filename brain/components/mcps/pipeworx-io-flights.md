@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:07:19Z"
 ---
 ## What it is
 MCP server `Aviation Edge`, catalogued on PulseMCP. Track live flight data, schedules, and airline route information via the Aviation Edge API.

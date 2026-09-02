@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-12T06:35:38Z"
 ---
 ## What it is
 MCP server `Pokepaste`, catalogued on PulseMCP. Converts Pokemon team compositions into shareable Pokepaste URLs by accepting detailed Pokemon configurations including stats, moves, abilities, items, and competitive metadata, then automatically uploading the formatted team data to pokepast.es for easy collaboration among competitive players and team builders.

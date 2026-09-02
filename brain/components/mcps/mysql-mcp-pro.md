@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T04:53:55Z"
 ---
 ## What it is
 A production-grade MySQL MCP Server that enables AI assistants to securely and efficiently operate MySQL databases through a standardized protocol.

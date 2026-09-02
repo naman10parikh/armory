@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-05T17:41:18Z"
 ---
 ## What it is
 A stdio-based MCP server that wraps Supermemory's REST API, providing persistent memory, semantic search, and user profiles via stdio transport for universal compatibility with MCP clients.

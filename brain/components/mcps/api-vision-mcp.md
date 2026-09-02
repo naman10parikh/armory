@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T12:35:00Z"
 ---
 ## What it is
 Enables image recognition using vision models via OpenAI-compatible APIs, supporting multiple platforms like OpenAI, DeepSeek, and Ollama.

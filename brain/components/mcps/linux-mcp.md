@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T21:58:10Z"
 ---
 ## What it is
 A Linux system monitoring MCP server that provides real-time information on CPU, memory, disk, network, processes, Docker, security, and more via MCP tools.

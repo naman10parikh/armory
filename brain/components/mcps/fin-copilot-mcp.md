@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:19:48Z"
 ---
 ## What it is
 An enterprise-grade, deterministic multi-agent financial analytics engine that processes natural language financial queries, generates dialect-validated SQL, pulls live market data, and executes a self-healing verification loop before presenting synthesized results.

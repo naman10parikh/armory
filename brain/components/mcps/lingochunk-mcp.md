@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T20:29:16Z"
 ---
 ## What it is
 Turns a coding agent into a language tutor grounded in your LingoChunk listening history, providing tools to access vocabulary, transcripts, audio clips, and create lessons.

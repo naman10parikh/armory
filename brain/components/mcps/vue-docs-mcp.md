@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T16:03:25Z"
 ---
 ## What it is
 Provides AI assistants with up-to-date Vue ecosystem documentation through the Model Context Protocol, enabling semantic search, API lookup, and cross-framework references.

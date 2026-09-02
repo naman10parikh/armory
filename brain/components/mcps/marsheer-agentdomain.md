@@ -8,10 +8,12 @@ source_url: https://github.com/marsheer/agentdomain-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-24T23:25:06Z"
 ---
 ## What it is
 MCP server `AgentDomain`, catalogued on PulseMCP. Community MCP server for AgentDomain's domain registration API, enabling AI agents to search, purchase, and manage internet domains with DNS control.

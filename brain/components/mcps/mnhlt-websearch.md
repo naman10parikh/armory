@@ -8,10 +8,12 @@ source_url: https://github.com/mnhlt/websearch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-04-30T18:04:26Z"
 ---
 ## What it is
 MCP server `WebSearch (Google)`, catalogued on PulseMCP. Provides real-time web search capabilities via a dedicated crawler service with configurable result limits, language filtering, and domain rules

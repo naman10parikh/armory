@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:44:07Z"
 ---
 ## What it is
 Provides intelligent access to PowerPlatform/Dataverse entities and records, enabling entity metadata exploration, OData querying, relationship mapping, and AI-assisted query building through MCP.

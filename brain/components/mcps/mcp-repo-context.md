@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T20:33:14Z"
 ---
 ## What it is
 A Weaviate-backed MCP server that gives Claude Code agents semantic search over your repository's PR review comments and source code.

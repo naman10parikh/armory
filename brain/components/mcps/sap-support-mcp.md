@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T08:20:41Z"
 ---
 ## What it is
 An MCP server over Streamable HTTP that exposes two SAP help-desk operations to an AI agent: sap_reset_password and sap_unlock_users.

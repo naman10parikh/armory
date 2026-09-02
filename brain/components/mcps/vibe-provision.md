@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T05:47:36Z"
 ---
 ## What it is
 Enables AI agents to provision and manage external SaaS services (Clerk, Stripe, Resend, etc.) by authenticating and creating resources via YAML configuration.

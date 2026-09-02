@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-11T13:30:30Z"
 ---
 ## What it is
 A local-first, zero-LLM memory system and MCP server that gives AI assistants a searchable, structured persistent memory using a spatial metaphor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:33:33Z"
 ---
 ## What it is
 Blueprint is an MCP server that enables AI assistants to create C4 software architecture diagrams from structured data.

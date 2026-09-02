@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T18:44:53Z"
 ---
 ## What it is
 Bridges local MCP hosts to A2A v1-compatible agents, exposing A2A client operations as MCP tools.

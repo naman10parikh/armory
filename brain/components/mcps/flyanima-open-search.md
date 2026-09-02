@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-16T12:32:05Z"
 ---
 ## What it is
 MCP server `Open Search`, catalogued on PulseMCP. Aggregates multiple search engines, academic databases, and content sources with intelligent load balancing and failover mechanisms to provide web search, research capabilities, and PDF processing with OCR support as a free alternative to paid search APIs.

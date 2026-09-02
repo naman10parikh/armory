@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-15T20:57:20Z"
 ---
 ## What it is
 MCP server `Doxa`, catalogued on PulseMCP. Bible lookup and Christian encouragement tools from the Doxa app.

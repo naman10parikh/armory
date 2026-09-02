@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T10:29:19Z"
 ---
 ## What it is
 Exposes Ripper CRM tools (contacts, listings, tasks, notes, timeline, search) to any MCP client via a dynamic tool catalog.

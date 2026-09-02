@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-05T20:05:09Z"
 ---
 ## What it is
 MCP server `PinchTab`, catalogued on PulseMCP. Bridges browser automation through PinchTab's accessibility-tree snapshots and element references for web navigation, form filling, clicking, scrolling, and screenshot capture.

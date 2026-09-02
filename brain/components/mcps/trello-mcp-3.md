@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T09:35:56Z"
 ---
 ## What it is
 Enables AI assistants to interact with Trello boards, cards, lists, and more through a secure local connection, supporting search, card management, collaboration, and organization features.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T12:25:06Z"
 ---
 ## What it is
 MCP server `Solesonic`, catalogued on PulseMCP. Spring Boot-based MCP server implementation with OAuth2 JWT authentication through AWS Cognito that provides a simple echo tool for returning user messages, serving as a foundation for building secure MCP servers with Spring's dependency injection and security features.

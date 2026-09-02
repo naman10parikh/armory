@@ -8,10 +8,12 @@ source_url: https://github.com/dedeveloper23/codebase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 84
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-02-28T17:19:30Z"
 ---
 ## What it is
 MCP server `Codebase Retrieval (RepoMix)`, catalogued on PulseMCP. Integrates with RepoMix to enable codebase retrieval and analysis for tasks like code review, dependency tracking, and automated documentation generation.

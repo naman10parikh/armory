@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-16T10:14:06Z"
 ---
 ## What it is
 MCP server `GitHub Repository Inspector`, catalogued on PulseMCP. Integrates with GitHub repositories to enable repository searching, issue management, and pull request handling through authenticated API endpoints that format data for easy access within conversations.

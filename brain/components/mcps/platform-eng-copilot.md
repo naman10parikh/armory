@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-14T20:37:26Z"
 ---
 ## What it is
 Enables platform engineering workflows via GitHub Copilot, including creating repositories from templates and provisioning Azure deployment environments.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T00:54:45Z"
 ---
 ## What it is
 Enables managing Runrun.it tasks and comments via the Model Context Protocol, including creating, updating, moving, and tracking tasks, as well as commenting and Discord integration.

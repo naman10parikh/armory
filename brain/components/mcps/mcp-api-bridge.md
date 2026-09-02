@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T19:37:52Z"
 ---
 ## What it is
 An MCP server that translates natural-language queries into structured catalog searches using Amazon Bedrock, enabling MCP clients to query existing in-house APIs.

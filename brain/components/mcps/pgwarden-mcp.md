@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T06:57:48Z"
 ---
 ## What it is
 A Postgres MCP server that enables AI agents to safely access production databases through deny-by-default YAML policies, PII masking, row limits, and required predicates. It also provides DBA capabilities like index tuning, health checks, and EXPLAIN plans, with support for multiple databases.

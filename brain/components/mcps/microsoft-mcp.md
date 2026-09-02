@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-08T14:09:17Z"
 ---
 ## What it is
 Model Context Protocol servers for Microsoft 365, enabling AI assistants to interact with Calendar, Contacts, OneDrive, Outlook, and SharePoint via the Microsoft Graph API.

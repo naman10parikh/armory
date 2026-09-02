@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T08:38:56Z"
 ---
 ## What it is
 Enables AI agents to read real Excel files with messy layouts, auto-detecting header rows and handling merged cells to extract clean tabular data via MCP tools.

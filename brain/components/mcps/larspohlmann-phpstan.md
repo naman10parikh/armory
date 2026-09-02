@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-09T07:29:20Z"
 ---
 ## What it is
 MCP server `PHPStan`, catalogued on PulseMCP. Integrates PHPStan static analysis with two specialized tools for generating human-readable reports and raw JSON output, enabling automated code quality assessment and integration into development workflows.

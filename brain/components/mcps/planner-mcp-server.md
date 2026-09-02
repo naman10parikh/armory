@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-21T09:58:59Z"
 ---
 ## What it is
 A server for creating and managing plans with steps, enabling users to break down complex tasks into manageable steps and track progress.

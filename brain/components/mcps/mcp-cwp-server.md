@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-28T22:23:06Z"
 ---
 ## What it is
 Enables management of CentOS Web Panel hosting accounts, SSL certificates, FTP users, MySQL databases, and packages through natural language commands via the Model Context Protocol.

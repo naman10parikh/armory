@@ -8,11 +8,13 @@ source_url: https://github.com/Junfei-Z/overleaf-claude-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-03T06:33:46Z"
 ---
 ## What it is
 An MCP server that lets Claude read, write, and push Overleaf LaTeX projects from the chat, with token-efficient features like sparse checkout and smart diffs.

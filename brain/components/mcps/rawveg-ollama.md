@@ -8,10 +8,12 @@ source_url: https://github.com/rawveg/ollama-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 160
+stars: 170
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 34
+pushed_at: "2026-08-13T23:18:19Z"
 ---
 ## What it is
 MCP server `Ollama`, catalogued on PulseMCP. Integrates Ollama's local LLM models with MCP-compatible applications, enabling on-premise AI processing and custom model deployment while maintaining data control.

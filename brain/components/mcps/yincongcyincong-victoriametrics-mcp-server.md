@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
 stars: 8
+forks: 8
+pushed_at: "2025-11-13T08:47:47Z"
 ---
 ## What it is
 An MCP server for interacting with VictoriaMetrics database.

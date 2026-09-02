@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-14T13:39:51Z"
 ---
 ## What it is
 TypeScript MCP server that enables AI agents to manage LangSmith traces, prompts, datasets, experiments, and billing through natural language.

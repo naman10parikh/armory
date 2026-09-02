@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-16T21:10:36Z"
 ---
 ## What it is
 A simple MCP server in Python, configurable via environment variables and database, designed for integration with Claude Desktop.

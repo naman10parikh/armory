@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-08T04:11:02Z"
 ---
 ## What it is
 MCP server `ADC Enterprise Orchestration`, catalogued on PulseMCP. Enterprise orchestration system that intelligently routes queries to specialized servers for text analysis, code review, sentiment analysis, and knowledge management

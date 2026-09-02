@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T19:07:08Z"
 ---
 ## What it is
 MCP server for controlling the mpv media player, enabling playback control, music library browsing, YouTube streaming and downloading, and metadata editing from within an MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T07:13:06Z"
 ---
 ## What it is
 Enables AI assistants to plan container and truck loads from plain-English shipment descriptions, returning fitted containers, utilization, non-fitting items, and interactive 3D load plans.

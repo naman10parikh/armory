@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-09T09:41:52Z"
 ---
 ## What it is
 Fetches revenue and download data for Apple App Store apps using the Sensor Tower API.

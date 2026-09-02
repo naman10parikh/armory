@@ -8,10 +8,12 @@ source_url: https://github.com/aringadre76/mcp-for-research
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-12T04:15:30Z"
 ---
 ## What it is
 MCP server `PubMed Research`, catalogued on PulseMCP. Integrates with PubMed's biomedical literature database to search academic papers, retrieve detailed metadata and abstracts, generate formatted citations in multiple styles, and track citation metrics for research and literature review workflows.

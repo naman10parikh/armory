@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-24T07:15:17Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to interact with Tenzir, a data pipeline engine for security operations, including executing pipeline queries, managing OCSF schemas, and generating parsers.

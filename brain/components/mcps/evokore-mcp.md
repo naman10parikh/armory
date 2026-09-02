@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T02:43:42Z"
 ---
 ## What it is
 Multi-server MCP aggregator with 266 skills, an orchestration runtime, fleet/claims coordination, and hook-driven session governance for autonomous Claude/Cursor/Gemini agent runs.

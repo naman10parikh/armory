@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-31T05:44:58Z"
 ---
 ## What it is
 MCP server `Huntress`, catalogued on PulseMCP. Connects AI assistants to the Huntress cybersecurity platform for managing agents, incidents, organizations, and signals.

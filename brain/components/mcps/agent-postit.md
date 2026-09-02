@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T10:45:08Z"
 ---
 ## What it is
 A local MCP server that provides AI agents with persistent sticky-note memory, storing Markdown notes on disk and offering tools for creating, reading, updating, deleting, searching, and listing notes across sessions.

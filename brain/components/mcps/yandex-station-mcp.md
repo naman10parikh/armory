@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T18:26:19Z"
 ---
 ## What it is
 MCP server to control Yandex Station speakers with Alice: manage music, radio, volume, playback, TTS, timers, alarms, reminders, and smart home scenarios via text commands or predefined tools.

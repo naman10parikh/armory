@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T13:59:55Z"
 ---
 ## What it is
 A browser research MCP server that emphasizes evidence-centric workflows, secure browser automation, and deterministic data extraction, with structured responses and artifact-based screenshots.

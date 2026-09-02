@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2025-03-26T19:49:23Z"
 ---
 ## What it is
 MCP server `Dan Vega Courses`, catalogued on PulseMCP. Lightweight Spring Boot server for retrieving and searching course details from Dan Vega's YouTube tutorials, providing easy access to educational content metadata.

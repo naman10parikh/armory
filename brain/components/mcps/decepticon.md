@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T15:57:26Z"
 ---
 ## What it is
 Enables autonomous bug bounty hunting with H1 auto-submit, profit tracking, and a live dashboard. Coordinates real-time state, credential vault, session management, and payload generation for MCP-compatible AI agents.

@@ -8,10 +8,12 @@ source_url: https://github.com/wyre-technology/cipp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-31T19:57:06Z"
 ---
 ## What it is
 MCP server `CIPP`, catalogued on PulseMCP. AI interface to CIPP for M365 multi-tenant management — users, tenants, policies, compliance, licensing, and alerts across 37 tools.

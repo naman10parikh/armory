@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-03-31T07:20:36Z"
 ---
 ## What it is
 A FastMCP-based server that provides a natural language interface to Terraform operations, enabling infrastructure management via simple English commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T02:05:35Z"
 ---
 ## What it is
 A production-ready stateless MCP server template implementing the 2026-07-28 specification, enabling horizontal scaling and easy migration from session-based servers.

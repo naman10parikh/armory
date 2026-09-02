@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
 stars: 16
+forks: 9
+pushed_at: "2026-08-31T17:12:24Z"
 ---
 ## What it is
 This project implements an MCP (Model Context Protocol) server for the Stape platform. It allows interaction with the Stape API using AI assistants like Claude or AI-powered IDEs like Cursor.

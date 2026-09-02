@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T05:56:31Z"
 ---
 ## What it is
 A Windows MCP server that gives ChatGPT permission-controlled tools for troubleshooting software, working with files, running diagnostics, and operating the visible desktop.

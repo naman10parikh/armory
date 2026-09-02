@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T18:52:11Z"
 ---
 ## What it is
 Generate videos, images, audio, and 3D models from any MCP-compatible AI agent — Claude, Cursor, ChatGPT, and more.

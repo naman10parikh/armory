@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:38:54Z"
 ---
 ## What it is
 Enables querying extrajudicial investigative procedures from the Ministério Público de Mato Grosso for individuals or companies via CPF/CNPJ. It is a read-only, hosted MCP server with prepaid credits.

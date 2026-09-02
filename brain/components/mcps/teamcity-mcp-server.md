@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-25T09:34:40Z"
 ---
 ## What it is
 Enables management of TeamCity CI/CD operations through natural language commands, including builds, projects, tests, artifacts, and more.

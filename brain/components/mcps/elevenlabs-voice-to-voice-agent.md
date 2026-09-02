@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T05:31:25Z"
 ---
 ## What it is
 An MCP server that enables voice-to-voice AI conversations using ElevenLabs for speech synthesis and recognition, with tools for voice management, text-to-speech, and speech-to-text.

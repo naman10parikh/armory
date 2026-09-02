@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T17:33:07Z"
 ---
 ## What it is
 A read-only MCP server that enables agents to simulate spending against TickLogic gates on Solana devnet, returning exact policy reasons for denial.

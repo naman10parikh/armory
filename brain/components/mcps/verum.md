@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:34:30Z"
 ---
 ## What it is
 Verum's MCP server turns any codebase into a deterministic, queryable fact layer — an agent can ask who calls a function, what a change impacts, where the dead code and duplicates are, which client calls hit which routes, and run a full security/quality audit. It returns byte-identical answers in a 

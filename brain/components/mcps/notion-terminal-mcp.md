@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T09:25:38Z"
 ---
 ## What it is
 Enables Notion Custom Agents to execute terminal commands and manage files on a Windows host via MCP, with restricted mode for safety.

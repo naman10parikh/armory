@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-17T23:15:54Z"
 ---
 ## What it is
 XP-MCP provides 40+ specialized AI agents trained on real API documentation, enabling AI assistants to accurately interact with APIs like Binance, Polymarket, and Stripe without hallucination.

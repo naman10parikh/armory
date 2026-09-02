@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T10:37:38Z"
 ---
 ## What it is
 Enables agents to browse a catalog of OpenAPI specs, search for operations, and retrieve full operation contracts to build API requests without calling the target APIs.

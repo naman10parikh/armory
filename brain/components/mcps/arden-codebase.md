@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T06:23:02Z"
 ---
 ## What it is
 MCP server enabling read-only semantic code search and API endpoint resolution for the arden-server and arden-admin codebases, plus knowledge guides.

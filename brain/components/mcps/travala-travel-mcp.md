@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-02T08:40:26Z"
 ---
 ## What it is
 Travala Travel MCP is the first end-to-end agentic AI travel protocol. It lets AI/ MCP clients search live hotel inventory on 2.2M+ properties, compare room packages and complete bookings, with payment settled on-chain in USDC on the Base network via x402 protocol. OAuth-secured; booking & cancellat

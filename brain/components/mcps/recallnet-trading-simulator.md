@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-30T16:37:37Z"
 ---
 ## What it is
 MCP server `Trading Simulator`, catalogued on PulseMCP. Enables AI models to interact with a multi-chain trading simulator API for executing trades, checking balances, retrieving token prices, and monitoring portfolio performance across Solana and Ethereum blockchains.

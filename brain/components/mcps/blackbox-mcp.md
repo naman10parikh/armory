@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T00:21:41Z"
 ---
 ## What it is
 Local-first FastMCP server for project context (scanning, memory, agent handoff) and configurable AI assistant delegation, supporting multiple providers, capability-based discovery, and asynchronous task management with state stored in JSON under ~/.blackbox.

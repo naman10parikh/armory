@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T06:12:24Z"
 ---
 ## What it is
 Security-hardened MCP server that runs only allowlisted commands with no shell, jailed to a single directory, and bounded execution.

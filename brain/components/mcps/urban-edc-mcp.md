@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T20:45:32Z"
 ---
 ## What it is
 Federated MCP server that routes K-12 education data requests to public sources like Urban Institute, EDC/Zelma, NAEP, and MA E2C, handling comparability and provenance automatically.

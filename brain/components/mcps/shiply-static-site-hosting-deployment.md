@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T15:43:19Z"
 ---
 ## What it is
 Instant web hosting for AI agents. Publish a live site in one call, no account needed.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T01:59:41Z"
 ---
 ## What it is
 Enables secure, natural language access to private Cloud SQL PostgreSQL data for catering CRM management, exposing database CRUD operations as MCP tools via Cloud Run.

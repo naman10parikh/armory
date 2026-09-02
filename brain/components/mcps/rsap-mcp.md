@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T05:05:26Z"
 ---
 ## What it is
 Enables Claude to control Autodesk Robot Structural Analysis Professional via COM API for modeling, loads, analysis, and results retrieval.

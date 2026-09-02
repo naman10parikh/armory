@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:37:57Z"
 ---
 ## What it is
 An MCP server that enables Claude to research across NotebookLM notebooks as closed corpora, preserving evidence provenance and providing tools for evidence retrieval, comparison, and verification.

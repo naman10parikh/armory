@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T03:03:04Z"
 ---
 ## What it is
 Interactive algorithm coach MCP server that provides guided practice, local code execution, and real-world engineering case mapping for 45 algorithm topics.

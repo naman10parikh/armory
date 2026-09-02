@@ -8,11 +8,13 @@ source_url: https://github.com/ShellyDeng08/youtube-connector-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 72
+stars: 71
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-19T02:34:19Z"
 ---
 ## What it is
 Enables AI assistants to search videos, channels, and playlists, retrieve video metadata, transcripts, and comments via the YouTube Data API v3.

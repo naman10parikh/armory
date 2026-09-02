@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T21:45:59Z"
 ---
 ## What it is
 MCP server for WorkOS User Management API. Enables Claude to manage users, organizations, memberships, invitations, and sessions in WorkOS.

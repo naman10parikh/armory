@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T14:52:05Z"
 ---
 ## What it is
 Enables AI assistants to query YouTube search trends, including rising topics, growth metrics, and historical search demand, using natural language.

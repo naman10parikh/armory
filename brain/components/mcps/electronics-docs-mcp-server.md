@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T16:31:53Z"
 ---
 ## What it is
 Provides LLMs with direct access to official vendor PDF documentation for electronics components (TI, ST, ADI) via a local SQLite full-text index and PDF retrieval tools.

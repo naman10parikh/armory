@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-12T09:18:29Z"
 ---
 ## What it is
 Enables AI coding tools to manage Neural Draft's CMS, blog, social, booking, and commerce features through natural language, bridging AI-generated frontends with backend business logic.

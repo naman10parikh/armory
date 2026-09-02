@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:23:08Z"
 ---
 ## What it is
 MCP server `Monarch Initiative`, catalogued on PulseMCP. Query the Monarch biomedical knowledge graph for diseases, phenotypes, genes, and variants.

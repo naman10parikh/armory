@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T07:31:10Z"
 ---
 ## What it is
 The most comprehensive signal intelligence on Swiss businesses — 800K+ companies with people, FINMA/SRO regulatory data, building permits, procurement tenders, and AI-enriched profiles from the official commercial register.

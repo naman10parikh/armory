@@ -8,10 +8,12 @@ source_url: https://github.com/markburgess/mcp-sst
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-17T11:42:31Z"
 ---
 ## What it is
 MCP server `SSTorytime`, catalogued on PulseMCP. Connects to a local SSTorytime semantic knowledge graph for natural language queries and relationship visualization.

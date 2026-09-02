@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:02:20Z"
 ---
 ## What it is
 Enables natural language search over business knowledge notes (Markdown files) via the Model Context Protocol, using Cloudflare AI Search for retrieval.

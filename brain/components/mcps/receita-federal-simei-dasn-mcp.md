@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:39Z"
 ---
 ## What it is
 Read-only MCP server for querying Brazilian federal SIMEI annual declarations from the official source, hosted with pay-per-use credits and no credentials.

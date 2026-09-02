@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T09:31:49Z"
 ---
 ## What it is
 Exposes 23 AdTech tools as REST endpoints for AI agents to discover and call via HTTP.

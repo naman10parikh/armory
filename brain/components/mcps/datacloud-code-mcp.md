@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T01:31:34Z"
 ---
 ## What it is
 A Salesforce Data Cloud MCP server using Cloudflare Code Mode, enabling agents to discover and execute Data Cloud operations via a two-step search-and-execute loop with JavaScript code.

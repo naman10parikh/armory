@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T17:48:10Z"
 ---
 ## What it is
 MCP-native co-founder directory. Your AI agent searches the directory, screens inbound pitches, and drafts replies.

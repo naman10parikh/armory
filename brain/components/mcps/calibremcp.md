@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:24:47Z"
 ---
 ## What it is
 FastMCP 3.2 MCP server for Calibre e-book library management — AI-assisted search, RAG, and agentic workflows.

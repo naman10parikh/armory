@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T19:02:39Z"
 ---
 ## What it is
 A service that lets readers chat with fictional characters from novels, where the AI adopts the character's personality, memory, and knowledge for immersive roleplay.

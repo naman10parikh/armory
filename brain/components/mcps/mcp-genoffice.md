@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:28:02Z"
 ---
 ## What it is
 An MCP server for byte-preserving, surgical editing of Office documents (docx, pptx) via the GenOffice engine, enabling extraction, patching, creation, deletion, watermarking, and app/CDP-driven operations without breaking layout.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T05:42:35Z"
 ---
 ## What it is
 An unofficial Model Context Protocol server that connects MCP-compatible clients to Karbon practice management, enabling natural language interaction with contacts, work items, notes, timesheets, and more.

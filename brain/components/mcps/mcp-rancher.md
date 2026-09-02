@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T18:46:20Z"
 ---
 ## What it is
 Operates Rancher-managed Kubernetes through any MCP client with capability detection, generic resource access, and curated workflows, wrapped in an audit-logged, rate-limited, confirmation-guarded safety model.

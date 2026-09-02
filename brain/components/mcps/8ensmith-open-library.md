@@ -8,10 +8,12 @@ source_url: https://github.com/8ensmith/mcp-open-library
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 91
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-08-29T23:38:03Z"
 ---
 ## What it is
 MCP server `Open Library`, catalogued on PulseMCP. Search and retrieve book and author information from the Internet Archive's Open Library

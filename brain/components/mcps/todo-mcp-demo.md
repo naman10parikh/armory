@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T03:40:24Z"
 ---
 ## What it is
 A demo MCP server exposing an in-memory todo list via tools (add_task, list_tasks, complete_task), a resource, and a prompt, over both stdio and HTTP transports.

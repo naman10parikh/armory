@@ -8,10 +8,12 @@ source_url: https://github.com/angrysky56/mcp-windows-website-downloader
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-05-05T19:56:39Z"
 ---
 ## What it is
 MCP server `Website Downloader (Windows)`, catalogued on PulseMCP. Windows-compatible website downloader for efficient web content retrieval and storage, leveraging asynchronous processing and concurrent downloads for tasks like web scraping and content archiving.

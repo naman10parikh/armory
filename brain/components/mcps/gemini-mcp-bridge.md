@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-21T04:33:36Z"
 ---
 ## What it is
 MCP server that wraps Gemini CLI as a subprocess, exposing its capabilities as Model Context Protocol tools.

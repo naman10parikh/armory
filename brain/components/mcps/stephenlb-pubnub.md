@@ -8,10 +8,12 @@ source_url: https://github.com/pubnub/pubnub-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-07-22T13:33:03Z"
 ---
 ## What it is
 MCP server `PubNub`, catalogued on PulseMCP. Enables AI assistants to interact with PubNub's realtime communication platform for retrieving documentation, accessing SDK information, and utilizing messaging APIs without leaving their conversation context.

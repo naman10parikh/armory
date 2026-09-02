@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:02:29Z"
 ---
 ## What it is
 Provides AI assistants with full read/write access to AppFlowy Cloud, enabling management of workspaces, pages, databases, trash, and favorites, plus conversion of Markdown into formatted AppFlowy document blocks.

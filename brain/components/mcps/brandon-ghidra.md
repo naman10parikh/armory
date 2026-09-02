@@ -8,10 +8,12 @@ source_url: https://github.com/13bm/ghidramcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 115
+stars: 135
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-08-19T08:21:30Z"
 ---
 ## What it is
 MCP server `Ghidra`, catalogued on PulseMCP. Integrates with Ghidra's binary analysis capabilities to enable decompiled code retrieval, function analysis, and security assessment of binaries through natural language queries

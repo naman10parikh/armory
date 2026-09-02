@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-23T01:02:28Z"
 ---
 ## What it is
 MCP server `Google Sheets Full`, catalogued on PulseMCP. Full Google Sheets integration with 26 tools, OAuth-based user authentication, and a script escape hatch.

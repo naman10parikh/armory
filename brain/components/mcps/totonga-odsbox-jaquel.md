@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T20:45:11Z"
 ---
 ## What it is
 MCP server `ODSBox Jaquel`, catalogued on PulseMCP. Query and manage ASAM ODS automotive testing measurement databases

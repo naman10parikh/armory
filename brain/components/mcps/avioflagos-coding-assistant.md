@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-15T09:18:31Z"
 ---
 ## What it is
 MCP server `Coding Assistant`, catalogued on PulseMCP. Enhances coding capabilities by providing context-aware suggestions and documentation integration through code analysis, technology detection, and intelligent completion.

@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-10T14:14:38Z"
 ---
 ## What it is
 MCP server `Backlog`, catalogued on PulseMCP. Integrates with Backlog project management API to enable issue creation and project management operations through TypeScript/Node.js endpoints that handle authentication and API communication.

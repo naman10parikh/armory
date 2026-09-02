@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-30T21:39:11Z"
 ---
 ## What it is
 MCP server `Cruncher`, catalogued on PulseMCP. Scientific calculator with 43 tools covering arithmetic, trigonometry, statistics, and unit conversion.

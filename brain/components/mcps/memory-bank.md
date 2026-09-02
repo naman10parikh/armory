@@ -12,6 +12,8 @@ stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-05-07T07:47:50Z"
 ---
 ## What it is
 MCP server `Memory Bank`, catalogued on PulseMCP. Provides a structured documentation system for preserving context in complex projects through templates, project summaries, and consistent knowledge management across sessions.

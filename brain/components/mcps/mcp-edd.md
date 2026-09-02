@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T15:40:31Z"
 ---
 ## What it is
 MCP server for Easy Digital Downloads REST API, enabling access to sales data, customers, products, and analytics from your EDD store.

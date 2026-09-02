@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T19:51:57Z"
 ---
 ## What it is
 Enables AI assistants to run reproducible bioinformatics pipelines over MCP, with verifiable provenance via checksums and Workflow Run RO-Crate metadata.

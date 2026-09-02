@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-07T15:34:14Z"
 ---
 ## What it is
 Enables AI assistants to manage Docker containers and images, including starting, stopping, listing, and building operations.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T09:36:35Z"
 ---
 ## What it is
 MCP server `Polymarket Intel`, catalogued on PulseMCP. MCP server classifying Polymarket trading wallets as human or bot, scoring edge quality, and streaming open positions for copy-trading signal following.

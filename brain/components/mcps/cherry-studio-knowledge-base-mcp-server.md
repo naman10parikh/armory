@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T15:37:48Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to access and search Cherry Studio knowledge bases, supporting operations like listing, searching, and retrieving details.

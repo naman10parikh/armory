@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:17:28Z"
 ---
 ## What it is
 Agent trajectory scorer for human-likeness — flags bot-like patterns in automated workflows before they reach production.

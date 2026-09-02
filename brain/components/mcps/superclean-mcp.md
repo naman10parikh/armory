@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T02:37:03Z"
 ---
 ## What it is
 MCP server that wraps Daniel M Karlsson's SuperClean SC pattern engine, enabling control of Pdefs, tempo, and hushing via Claude Code through an OSC bridge.

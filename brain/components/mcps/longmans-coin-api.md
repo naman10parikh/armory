@@ -12,6 +12,8 @@ stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-02-14T15:00:05Z"
 ---
 ## What it is
 MCP server `CoinMarketCap`, catalogued on PulseMCP. Integrates with CoinMarketCap's API to fetch and analyze cryptocurrency market data, supporting customizable queries for real-time information.

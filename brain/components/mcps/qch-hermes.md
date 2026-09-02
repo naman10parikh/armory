@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T11:10:29Z"
 ---
 ## What it is
 Self-hosted Gmail gateway MCP server that enables searching and fetching emails from multiple authorized Gmail mailboxes via a single backend authorization boundary.

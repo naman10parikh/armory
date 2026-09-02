@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T08:34:37Z"
 ---
 ## What it is
 A comprehensive MCP server that enables Claude to read, create, edit, and generate code from Figma designs. Supports design tokens, code generation to multiple frameworks, and accessibility checks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T23:45:30Z"
 ---
 ## What it is
 Provides full Google Analytics 4 management and reporting capabilities via MCP, including property management, custom dimensions, audiences, events, data streams, and real-time reporting.

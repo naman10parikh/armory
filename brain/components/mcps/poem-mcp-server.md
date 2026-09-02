@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T19:08:58Z"
 ---
 ## What it is
 Enables parsing, validating, and translating POEM pseudo-code specifications into code in any programming language via natural language.

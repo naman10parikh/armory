@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-10T22:11:27Z"
 ---
 ## What it is
 Enables AI agents to interact with the Courier notification API, allowing them to send messages, manage profiles, debug deliveries, configure lists, and more through 60 tools.

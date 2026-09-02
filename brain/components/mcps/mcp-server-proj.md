@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-24T09:36:00Z"
 ---
 ## What it is
 A Model Context Protocol server for coordinate system transformations and map projections, supporting EPSG codes, WKT, and Proj formats.

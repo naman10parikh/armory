@@ -8,10 +8,12 @@ source_url: https://github.com/miapre/mimic-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-15T13:38:27Z"
 ---
 ## What it is
 MCP server `HTML to Figma Design System`, catalogued on PulseMCP. Translate HTML prototypes into Figma using real design system components and tokens.

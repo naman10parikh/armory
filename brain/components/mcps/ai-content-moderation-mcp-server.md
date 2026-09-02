@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-29T01:06:22Z"
 ---
 ## What it is
 Enables content moderation by checking user input against OpenAI's moderation API via Google ADK, with dual SSE/STDIO transport support and integration with local LLMs.

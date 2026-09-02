@@ -8,10 +8,12 @@ source_url: https://github.com/thevibepreneur/gapbase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T10:03:03Z"
 ---
 ## What it is
 MCP server `GapBase`, catalogued on PulseMCP. Search 474 validated startup gaps by industry, role, or keyword.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:58:50Z"
 ---
 ## What it is
 An MCP server that gives any agent read/write access to office documents and Jupyter notebooks, with stable cell and shape addresses, bounded windows, and safety safeguards.

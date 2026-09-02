@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T21:19:26Z"
 ---
 ## What it is
 Exposes Microsoft BCQuality repository (Business Central development best practices) as structured tools for AI agents, enabling rule discovery, search, and application via MCP protocol.

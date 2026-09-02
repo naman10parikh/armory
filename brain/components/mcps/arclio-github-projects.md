@@ -8,10 +8,12 @@ source_url: https://github.com/arclio/github-projects-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-05-22T23:47:57Z"
 ---
 ## What it is
 MCP server `GitHub Projects V2`, catalogued on PulseMCP. Integrates with GitHub Projects V2 to enable direct management of project boards, issues, and field values through natural language commands without switching contexts.

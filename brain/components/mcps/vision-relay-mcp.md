@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T16:19:50Z"
 ---
 ## What it is
 A tiny MCP server that lets text-only coding models analyze images via vision relay APIs, supporting single image analysis and side-by-side comparison.

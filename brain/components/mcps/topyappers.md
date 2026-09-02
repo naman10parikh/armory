@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-04T07:54:24Z"
 ---
 ## What it is
 MCP server `TopYappers`, catalogued on PulseMCP. Discovers viral content, trending songs, and influencers across TikTok, Instagram, and YouTube through the TopYappers API.

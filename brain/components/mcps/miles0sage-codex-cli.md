@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-31T06:02:56Z"
 ---
 ## What it is
 MCP server `Codex CLI`, catalogued on PulseMCP. Wraps OpenAI Codex CLI to provide code generation, review, codebase Q&A, session management, and reusable task templates.

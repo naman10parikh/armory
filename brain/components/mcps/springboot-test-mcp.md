@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T01:44:54Z"
 ---
 ## What it is
 A Spring Boot REST API testing server that supports functional testing with assertions, database queries, and performance testing with configurable concurrency and stress testing.

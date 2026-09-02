@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-10T18:50:59Z"
 ---
 ## What it is
 Enables AI assistants to make phone calls via CallZero service, with tools for call management, templates, and memory.

@@ -8,10 +8,12 @@ source_url: https://github.com/codeturion/unreal-api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 94
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-07-19T19:09:12Z"
 ---
 ## What it is
 MCP server `Unreal Engine API Documentation`, catalogued on PulseMCP. Accurate UE5 C++ API documentation for AI agents to prevent hallucinated signatures.

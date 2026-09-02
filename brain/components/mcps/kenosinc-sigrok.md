@@ -8,10 +8,12 @@ source_url: https://github.com/kenosinc/sigrok-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-17T06:44:14Z"
 ---
 ## What it is
 MCP server `Sigrok`, catalogued on PulseMCP. Signal analysis and hardware debugging via the sigrok open-source measurement suite.

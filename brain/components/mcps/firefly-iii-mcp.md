@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:07:53Z"
 ---
 ## What it is
 Deploy a Firefly III MCP server on Cloudflare Workers to let AI assistants interact with your Firefly III personal finance data, including accounts, transactions, budgets, and reports, with configurable tool presets.

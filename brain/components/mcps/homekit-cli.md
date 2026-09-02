@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T12:29:52Z"
 ---
 ## What it is
 An MCP server that provides tools for inspecting and controlling Apple HomeKit accessories, scenes, automations, and more via the HomeClaw app, enabling natural language interaction with your smart home.

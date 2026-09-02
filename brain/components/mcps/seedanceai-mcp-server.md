@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:43:23Z"
 ---
 ## What it is
 Enables AI clients to access SeedanceAI's video generation platform information, including styles, pricing, docs, and FAQ, without requiring API keys.

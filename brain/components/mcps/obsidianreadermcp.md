@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-27T21:00:09Z"
 ---
 ## What it is
 Enables AI assistants to manage Obsidian vaults via the local REST API, supporting CRUD operations, batch processing, templates, and vault analytics.

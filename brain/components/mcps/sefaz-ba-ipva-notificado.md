@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:59Z"
 ---
 ## What it is
 MCP server for consulting SEFAZ BA IPVA Notificado (vehicle tax) data from official sources. Read-only, works with any MCP client, pay-per-use with prepaid credits.

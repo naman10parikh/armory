@@ -8,10 +8,12 @@ source_url: https://github.com/samik081/mcp-adguard-home
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-13T09:08:04Z"
 ---
 ## What it is
 MCP server `AdGuard Home`, catalogued on PulseMCP. Manage AdGuard Home DNS filtering, clients, DHCP, and rewrites.

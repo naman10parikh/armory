@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-28T02:41:16Z"
 ---
 ## What it is
 MCP server `GitWhy`, catalogued on PulseMCP. AI context engine for git that saves, searches, and shares the reasoning behind code changes.

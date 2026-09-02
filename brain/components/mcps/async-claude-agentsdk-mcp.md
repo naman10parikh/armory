@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T19:01:07Z"
 ---
 ## What it is
 An MCP server that enables coding agents to run Claude Agent SDK sessions as asynchronous sub-agents, with tools for starting, continuing, and checking status of Claude sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T10:03:37Z"
 ---
 ## What it is
 Enables clipping web pages to Markdown with local images, supporting CSS selectors and content analysis.

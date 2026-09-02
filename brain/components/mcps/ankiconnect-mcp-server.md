@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:47:16Z"
 ---
 ## What it is
 Enables users to review Anki decks card by card, identify gaps such as missing verb forms or declensions, and apply approved edits through natural language conversation.

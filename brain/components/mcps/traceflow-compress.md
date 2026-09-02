@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T21:48:26Z"
 ---
 ## What it is
 Serverless MCP connector for compressing prompts with TraceFlow metrics (tokens, cost, latency, compute, energy, carbon). Provides compression, analysis, routing, and caching tools.

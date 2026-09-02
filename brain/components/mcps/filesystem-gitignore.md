@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-20T16:03:10Z"
 ---
 ## What it is
 A professional MCP server that provides filesystem operations while automatically respecting .gitignore patterns, enabling efficient and token-friendly file access for Claude.

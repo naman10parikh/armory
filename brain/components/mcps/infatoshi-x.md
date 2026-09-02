@@ -8,10 +8,12 @@ source_url: https://github.com/infatoshi/x-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-03-24T09:16:39Z"
 ---
 ## What it is
 MCP server `X`, catalogued on PulseMCP. Full X API access for posting, searching, reading, engagement, media upload, and analytics.

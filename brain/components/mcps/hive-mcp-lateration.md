@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T23:23:33Z"
 ---
 ## What it is
 A remote MCP server for Structural Lateration that provides tools to price, mint, and verify ML-DSA-65 signed receipts based on avoided costs from referencing prior attested shapes.

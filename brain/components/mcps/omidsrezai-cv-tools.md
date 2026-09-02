@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-13T03:41:00Z"
 ---
 ## What it is
 MCP server `Computer Vision Tools`, catalogued on PulseMCP. Provides computer vision capabilities including image generation, OCR text extraction, and object detection through containerized Docker services with MinIO integration for image storage and retrieval.

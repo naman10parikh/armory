@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-25T23:42:18Z"
 ---
 ## What it is
 Enables AI agents to manage Google NotebookLM notebooks, sources, and generate podcasts/videos through the MCP protocol, with support for multiple Google accounts.

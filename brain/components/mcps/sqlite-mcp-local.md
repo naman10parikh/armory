@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T17:30:47Z"
 ---
 ## What it is
 Enables read-only querying of a local SQLite database via MCP, with tools to list tables, retrieve schema, and execute SELECT/WITH/EXPLAIN queries.

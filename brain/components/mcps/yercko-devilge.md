@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T22:16:10Z"
 ---
 ## What it is
 MCP server `Devilge`, catalogued on PulseMCP. MCP server providing 33 tools for end-to-end Android and KMM application development, including building, testing, and UI automation.

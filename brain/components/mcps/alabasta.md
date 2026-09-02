@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T17:33:55Z"
 ---
 ## What it is
 Connects coding agents (Claude Code, Codex, Cursor) to Alabasta tasks, enabling agents to read tasks, start work, and submit structured resolutions for human review.

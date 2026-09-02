@@ -8,10 +8,12 @@ source_url: https://github.com/conechoai/nano-banana-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 193
+stars: 228
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 93
+pushed_at: "2025-11-04T09:50:10Z"
 ---
 ## What it is
 MCP server `Nano-Banana (Gemini 2.5 Flash Image)`, catalogued on PulseMCP. Integrates with Google's Gemini 2.5 Flash to generate and edit images from text prompts, supporting iterative workflows with reference images and automatic cross-platform file management.

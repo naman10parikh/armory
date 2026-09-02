@@ -8,11 +8,13 @@ source_url: https://github.com/lkathke/Comma-Panda-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T14:51:08Z"
 ---
 ## What it is
 Turns a comma.ai Panda into a conversational CAN reverse-engineering rig, allowing users to record, diff, find signals, and send frames through natural language with Claude.

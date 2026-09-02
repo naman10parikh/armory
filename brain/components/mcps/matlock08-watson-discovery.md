@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-17T23:31:19Z"
 ---
 ## What it is
 MCP server `Watson Discovery`, catalogued on PulseMCP. Integrates with IBM Watson Discovery to search and retrieve information from enterprise knowledge bases and documentation repositories through natural language queries.

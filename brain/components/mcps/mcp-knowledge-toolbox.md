@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T03:14:34Z"
 ---
 ## What it is
 A local knowledge-base MCP toolbox for Agent workflows, exposing 11 tools for document ingest, retrieval, context reading, citation checking, and evaluation-report reading.

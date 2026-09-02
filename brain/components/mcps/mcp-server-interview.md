@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-24T19:37:46Z"
 ---
 ## What it is
 Enables managing todo lists and tasks through natural language, supporting creation, status changes, and deletion.

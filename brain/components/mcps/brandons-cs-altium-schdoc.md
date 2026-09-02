@@ -8,10 +8,12 @@ source_url: https://github.com/brandons-cs/altium-schdoc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-09T09:20:03Z"
 ---
 ## What it is
 MCP server `Altium Schematic Parser`, catalogued on PulseMCP. Parses Altium Designer binary .SchDoc schematic files without requiring Altium software, extracting components, nets, and pins.

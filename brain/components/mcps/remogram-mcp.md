@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T21:19:39Z"
 ---
 ## What it is
 MCP server that provides forge facts (git-resolved refs and forge-reported PR SHAs) for PR reconciliation, viewing, and merge planning via JSON output.

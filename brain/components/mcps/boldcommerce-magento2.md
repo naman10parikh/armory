@@ -8,10 +8,12 @@ source_url: https://github.com/boldcommerce/magento2-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2025-04-22T07:23:04Z"
 ---
 ## What it is
 MCP server `Magento 2`, catalogued on PulseMCP. Connects Claude to Magento 2 e-commerce platforms for querying product information, customer data, order statistics, and revenue metrics using natural language date expressions and geographical filtering.

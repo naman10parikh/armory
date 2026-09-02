@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T22:23:57Z"
 ---
 ## What it is
 Connects AI agents to Sparkient's Decision Intelligence API for sub-100ms structured decisions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-15T13:49:46Z"
 ---
 ## What it is
 Aidress is a discovery and coordination layer for autonomous AI agents — find, verify, and transact with unknown counterparts

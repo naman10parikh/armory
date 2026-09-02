@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-14T17:28:26Z"
 ---
 ## What it is
 Enables AI assistants to access and work with Radix UI libraries (Themes, Primitives, Colors) by retrieving components, documentation, and installation guides through the Model Context Protocol.

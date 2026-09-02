@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T20:31:53Z"
 ---
 ## What it is
 Remote-first, model-independent Windows execution MCP for ChatGPT, Claude, Gemini, and other MCP-compatible AI clients.

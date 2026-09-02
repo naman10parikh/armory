@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T11:23:11Z"
 ---
 ## What it is
 An MCP server that lets an AI coding agent pause on human-only tasks, request structured input via a form, and resume with the answer, all locally without cloud dependencies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:40:05Z"
 ---
 ## What it is
 Enables Kakao Tools users to get comprehensive travel preparation information for Japan, including visa requirements, exchange rates, safety alerts, flight seasons, and curated tourist destinations, directly in KakaoTalk conversations.

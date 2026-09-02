@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T12:17:20Z"
 ---
 ## What it is
 Enables AI assistants to interact with peer-to-peer networks (libp2p) and DeFi protocols, including oracle networks, cross-chain communication, and intent-based execution.

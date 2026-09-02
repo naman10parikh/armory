@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-04-26T03:48:54Z"
 ---
 ## What it is
 A behavioral threat hunting MCP server that focuses on adversary TTPs rather than atomic indicators, with MITRE ATT\&CK integration, advanced cognitive capabilities, and community hunt hypotheses.

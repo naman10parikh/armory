@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-04-04T10:57:52Z"
 ---
 ## What it is
 MCP server `Knowledge Graph Memory`, catalogued on PulseMCP. Provides a knowledge graph management system for storing, retrieving, and querying information to build and maintain long-term memory across conversations.

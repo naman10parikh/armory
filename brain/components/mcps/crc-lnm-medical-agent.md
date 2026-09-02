@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T11:37:12Z"
 ---
 ## What it is
 Provides a six-tool research-assistance workflow for CRC-LNM cases using precomputed CT, pathology features, and clinical values. Enables multimodal analysis and research queries on deidentified cases.

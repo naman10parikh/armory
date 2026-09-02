@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T17:42:17Z"
 ---
 ## What it is
 Exposes OMIE ERP's financial API as MCP tools, enabling AI agents to query bills, process payments, generate boletos/PIX, and read cash flow via natural language.

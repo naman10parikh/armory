@@ -8,11 +8,13 @@ source_url: https://github.com/EMahmoudNabil/slnmap
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-29T10:36:12Z"
 ---
 ## What it is
 A semantic map of your .NET solution for AI coding agents. Analyzes a solution with Roslyn into a queryable code graph exposing 11 read-only tools (find_symbol, impact_analysis, find_implementations, etc.) over MCP. 100% local, no telemetry, MIT licensed.

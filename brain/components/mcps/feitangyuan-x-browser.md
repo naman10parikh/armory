@@ -8,10 +8,12 @@ source_url: https://github.com/feitangyuan/x-browser-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-15T06:05:57Z"
 ---
 ## What it is
 MCP server `X Browser`, catalogued on PulseMCP. Access X (Twitter) via a local browser session to read timelines and search discussions without API credentials.

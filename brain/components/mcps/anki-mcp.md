@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-03-16T03:40:44Z"
 ---
 ## What it is
 Enables intelligent Anki vocabulary management with automatic TTS audio generation, batch card creation, and advanced search and analysis.

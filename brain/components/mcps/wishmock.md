@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-28T16:12:58Z"
 ---
 ## What it is
 Provides an MCP server for automation via Server-Sent Events (SSE) to manage mock gRPC and Connect RPC services.

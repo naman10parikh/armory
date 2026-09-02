@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-28T14:27:47Z"
 ---
 ## What it is
 A Claude Code MCP server that connects to Laravel Clockwork to provide insights into application performance, database queries, errors, and request flow.

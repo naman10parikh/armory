@@ -8,10 +8,12 @@ source_url: https://github.com/sonpiaz/hidrix-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-04-23T20:41:31Z"
 ---
 ## What it is
 MCP server `Hidrix Tools`, catalogued on PulseMCP. Web search, social media scraping, and content analysis toolkit.

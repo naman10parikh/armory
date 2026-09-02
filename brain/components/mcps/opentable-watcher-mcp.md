@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T03:43:54Z"
 ---
 ## What it is
 A watch-and-alert tool for OpenTable availability that polls for open slots and sends alerts, allowing users to manage watches through natural language via Claude MCP.

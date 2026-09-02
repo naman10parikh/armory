@@ -8,10 +8,12 @@ source_url: https://github.com/lmwharton/sieve-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T21:28:07Z"
 ---
 ## What it is
 MCP server `Sieve`, catalogued on PulseMCP. Venture capital due diligence with startup screening across seven investment dimensions.

@@ -8,10 +8,12 @@ source_url: https://github.com/hainanzhao/mcp-gitlab-jira
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-09-05T03:49:18Z"
 ---
 ## What it is
 MCP server `GitLab & Jira`, catalogued on PulseMCP. Integrates GitLab and Jira APIs to enable merge request reviews, pipeline management, issue tracking, and ticket operations with unified search capabilities and intelligent fuzzy matching for cross-platform project coordination.

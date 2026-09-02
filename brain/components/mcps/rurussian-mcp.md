@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T11:46:32Z"
 ---
 ## What it is
 MCP server for rurussian.com that enables multi-agent learning workflows with tools for sentence parsing, lesson generation, and learner modeling.

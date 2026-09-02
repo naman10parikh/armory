@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T08:13:24Z"
 ---
 ## What it is
 A local MCP adapter collection for social media channels, currently supporting Douyin with tools for channel startup, login assistance, messaging, and notifications.

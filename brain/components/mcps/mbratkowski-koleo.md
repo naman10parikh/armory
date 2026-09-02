@@ -8,10 +8,12 @@ source_url: https://github.com/mbratkowski/koleo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-01T16:45:57Z"
 ---
 ## What it is
 MCP server `Koleo`, catalogued on PulseMCP. Searches Polish train stations, departures, arrivals, connections, routes, and seat availability through the Koleo timetable API.

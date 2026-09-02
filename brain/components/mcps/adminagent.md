@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T06:57:00Z"
 ---
 ## What it is
 AI-powered Shopify Admin via Claude + MCP, enabling full store management through conversation including products, collections, analytics, and bulk operations.

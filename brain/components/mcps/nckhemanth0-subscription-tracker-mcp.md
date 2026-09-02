@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 0
+forks: 0
+pushed_at: "2026-01-23T19:47:21Z"
 ---
 ## What it is
 MCP server for intelligent subscription management with Gmail + MySQL integration.

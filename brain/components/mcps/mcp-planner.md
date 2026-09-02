@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T11:54:33Z"
 ---
 ## What it is
 MCP server for Microsoft Planner via the Microsoft Graph API, enabling users to find groups and plans, manage buckets and tasks (create, update, assign, complete, delete) with automatic ETag handling.

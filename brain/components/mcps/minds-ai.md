@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T11:47:11Z"
 ---
 ## What it is
 MCP server `Minds AI`, catalogued on PulseMCP. Integrates with Minds AI platform to create, train, and interact with specialized AI personas and digital twins through keyword-based expertise, person cloning, or website learning modes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T16:31:11Z"
 ---
 ## What it is
 Provides full-text search and reading capabilities over Radius documentation and source code, enabling AI assistants to answer questions about the Radius project.

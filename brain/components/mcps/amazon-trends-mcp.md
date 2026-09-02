@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T14:51:52Z"
 ---
 ## What it is
 Provides Amazon search volume trends and growth signals to measure real consumer purchase intent, queryable by AI assistants.

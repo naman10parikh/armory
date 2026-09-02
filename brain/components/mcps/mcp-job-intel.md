@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T13:45:55Z"
 ---
 ## What it is
 This MCP server enables job intelligence retrieval and ranking, providing tools to list jobs, fetch details, access corpus statistics, and score candidates against job descriptions using staged retrieval to optimize LLM context usage.

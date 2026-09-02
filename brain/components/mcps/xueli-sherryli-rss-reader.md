@@ -8,10 +8,12 @@ source_url: https://github.com/xueli-sherryli/rss-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-13T11:16:17Z"
 ---
 ## What it is
 MCP server `RSS Reader (Google Reader API)`, catalogued on PulseMCP. Integrates with Google Reader-compatible RSS services like FreshRSS to provide comprehensive feed management, article organization, and content curation through subscription handling, folder management, tagging, and bulk operations.

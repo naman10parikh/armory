@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T05:03:42Z"
 ---
 ## What it is
 MCP server `Clinical Trials AI`, catalogued on PulseMCP. Tools for searching and analyzing clinical trial data and outcomes.

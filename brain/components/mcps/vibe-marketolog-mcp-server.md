@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T11:30:45Z"
 ---
 ## What it is
 MCP server providing tools to interact with Vibe Marketolog agent API for landing page audit, cost tracking, and account status, with call logging and caching.

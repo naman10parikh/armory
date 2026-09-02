@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T00:49:01Z"
 ---
 ## What it is
 A lean MCP server giving LLM agents full access to the ShotGrid / Autodesk Flow Production Tracking API through 15 curated tools, including generic CRUD, schema discovery, and safe writes with a dry_run flag.

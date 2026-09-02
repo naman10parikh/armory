@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T11:29:48Z"
 ---
 ## What it is
 Fetches glasz-style spec files (product.md, tech.md, test-plan.md, and INDEX.md) from GitHub repositories, enabling LLMs to answer questions about features, stories, and acceptance criteria without cloning or pasting files.

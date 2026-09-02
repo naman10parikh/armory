@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T00:57:17Z"
 ---
 ## What it is
 MCP server that bridges Claude Code to Google Antigravity's CLI, enabling Claude to orchestrate Gemini workers in parallel for reading, writing, verifying, and autonomous tasks. It provides tools for single dispatch, parallel fan-out, background jobs, and handles permission, cwd, and shell pitfalls.

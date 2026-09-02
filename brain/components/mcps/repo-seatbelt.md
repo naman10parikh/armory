@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-31T10:32:45Z"
 ---
 ## What it is
 Runtime safety guardrails for AI coding agents. Checks file access, validates shell commands, and scores your repo's AI safety — all via MCP.

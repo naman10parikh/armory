@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-04T04:02:34Z"
 ---
 ## What it is
 Enables Claude to execute predefined MacOS Shortcuts for extracting recipe ingredients, adding them to a Groceries list in Reminders, summarizing chat conversations into notes, and creating calendar events.

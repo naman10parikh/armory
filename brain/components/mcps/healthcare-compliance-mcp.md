@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T01:38:50Z"
 ---
 ## What it is
 Enables AI agents to access FDA and ClinicalTrials.gov data for medical device compliance, adverse event monitoring, and regulatory due diligence.

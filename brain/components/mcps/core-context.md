@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T08:54:15Z"
 ---
 ## What it is
 A local MCP server that semantically searches Markdown context files and extension context links, providing tools for context_search, context_read, and context_status.

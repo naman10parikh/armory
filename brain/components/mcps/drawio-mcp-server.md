@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T09:20:27Z"
 ---
 ## What it is
 Enables creating and editing draw.io diagrams from structured descriptions, rendering them as interactive inline SVGs, and providing access to the full draw.io editor for further modification and export.

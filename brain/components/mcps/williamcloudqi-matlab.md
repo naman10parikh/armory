@@ -12,6 +12,8 @@ stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-05-23T03:02:45Z"
 ---
 ## What it is
 MCP server `MATLAB`, catalogued on PulseMCP. Integrates with MATLAB to execute code, generate scripts from natural language, and access documentation, enabling complex mathematical operations and data analysis using MATLAB's toolsets.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T09:33:33Z"
 ---
 ## What it is
 Validates agent outputs in multi-agent systems to prevent coordination failures, with tools for schema verification, hallucination detection, and freshness checks, all with zero LLM cost.

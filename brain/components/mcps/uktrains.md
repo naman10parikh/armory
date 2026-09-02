@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T22:09:49Z"
 ---
 ## What it is
 MCP server for UK train journeys that resolves station names, builds journey intents, and generates pre-filled booking links, with optional fare-aware ranking.

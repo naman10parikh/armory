@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-25T16:10:01Z"
 ---
 ## What it is
 MCP server that integrates Google's Gemini 2.5 Pro with real-time Google Search grounding for current information retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T19:26:26Z"
 ---
 ## What it is
 Enables managing adaptive HTTP jobs with AI-driven scheduling, auto-recovery, and multi-endpoint coordination via MCP.

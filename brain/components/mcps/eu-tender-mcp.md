@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T09:16:40Z"
 ---
 ## What it is
 Enables searching for EU public-procurement tenders, analyzing cross-border risk, and understanding tender details through tools for CPV code lookup, EU threshold checks, red-flag scanning, and SME fit scoring.

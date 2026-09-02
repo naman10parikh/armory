@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:24:53Z"
 ---
 ## What it is
 Enables checking if a person or company appears in the Brazilian CEIS registry using CPF or CNPJ. It's a hosted, read-only MCP server that works with any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T02:56:08Z"
 ---
 ## What it is
 Orchestrates multiple LLM agents to perform parallel code review, then synthesizes and votes on suggestions to rank improvements by consensus.

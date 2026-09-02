@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:37:27Z"
 ---
 ## What it is
 Enables LLMs to retrieve verified macronutrient data (calories, protein, carbs, fat) for real ingredients and quantities from USDA FoodData Central, with structured caveats for uncertain matches.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T09:49:25Z"
 ---
 ## What it is
 Generates podcast audio from scripts using Google Gemini TTS, supporting single-host monologue and dual-host dialogue with optional intro/outro music and EBU R128 loudness normalization.

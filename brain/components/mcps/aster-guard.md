@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T19:27:50Z"
 ---
 ## What it is
 Enables scanning MCP server configurations for security risks like prompt injection, hardcoded secrets, and dangerous commands, providing risk scores and detailed reports before connecting to an AI coding assistant.

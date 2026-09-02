@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T12:51:50Z"
 ---
 ## What it is
 A multi-agent AI security layer that protects LLMs from prompt injection, jailbreaks, and policy violations via MCP tools.

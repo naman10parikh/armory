@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T01:35:45Z"
 ---
 ## What it is
 MCP server wrapping the GNU Backgammon neural network evaluation engine. Provides 18 tools for position analysis, move evaluation, rollouts, and board conversion.

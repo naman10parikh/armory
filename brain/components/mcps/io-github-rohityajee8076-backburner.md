@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T14:27:20Z"
 ---
 ## What it is
 Enables AI assistants to run long shell commands as background tasks, with survival across restarts, live progress peeking, and command allow/deny policies.

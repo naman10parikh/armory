@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-26T16:03:26Z"
 ---
 ## What it is
 MCP server for the Wasabi WACM Connect API, enabling management of account hierarchy, storage, and billing data through Claude with 18 read-only and 12 opt-in write tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-05T08:10:16Z"
 ---
 ## What it is
 MCP server that enables AI agents to run fully interactive SSH sessions (via tmux) and execute commands like a human operator, with persistent sessions and multiple concurrent connections.

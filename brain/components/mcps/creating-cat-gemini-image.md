@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-22T08:13:57Z"
 ---
 ## What it is
 MCP server `Gemini Image Generation`, catalogued on PulseMCP. Integrates with Google's Gemini API to generate images with built-in Sharp-based resizing, format conversion, and imagemin optimization for streamlined visual content creation workflows.

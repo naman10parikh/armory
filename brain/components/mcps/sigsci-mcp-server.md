@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-08T00:49:48Z"
 ---
 ## What it is
 MCP server for Signal Sciences (Fastly NGWAF) API, providing progressive disclosure and 40+ read-only tools for managing corporations and sites.

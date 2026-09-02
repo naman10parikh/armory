@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T17:39:17Z"
 ---
 ## What it is
 Turns plain-language descriptions into animated SVGs with a live preview and conversational editing.

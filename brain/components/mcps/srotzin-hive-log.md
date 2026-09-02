@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-29T04:59:56Z"
 ---
 ## What it is
 MCP server `Hive Log`, catalogued on PulseMCP. Metered NDJSON log ingestion and retrieval for autonomous agents with tiered retention and USDC micropayment settlement.

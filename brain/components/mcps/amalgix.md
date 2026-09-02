@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-01T00:03:43Z"
 ---
 ## What it is
 MCP server `Amalgix`, catalogued on PulseMCP. AI-powered platform providing intelligent automation and data integration capabilities for business workflows.

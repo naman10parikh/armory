@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2025-08-06T12:12:47Z"
 ---
 ## What it is
 Enables conversion of OpenAPI specifications into MCP servers and remixing multiple MCP servers into one. Works with stdio and sse transports and integrates with major chat clients.

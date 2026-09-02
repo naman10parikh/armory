@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-06T18:43:48Z"
 ---
 ## What it is
 MCP server `Obsidian Notes`, catalogued on PulseMCP. Integrates with Obsidian vaults through the Local REST API plugin for reading, creating, updating, and searching notes with comprehensive note management, frontmatter queries, periodic note handling, and batch operations optimized for token efficiency.

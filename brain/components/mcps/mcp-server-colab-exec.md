@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-11T18:31:38Z"
 ---
 ## What it is
 MCP server that allocates Google Colab GPU runtimes (T4/L4) and executes Python code on them. Lets any MCP-compatible AI assistant run GPU-accelerated code without local GPU hardware.

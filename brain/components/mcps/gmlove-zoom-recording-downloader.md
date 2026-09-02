@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-11T15:26:30Z"
 ---
 ## What it is
 MCP server `Zoom Recording Downloader`, catalogued on PulseMCP. Downloads Zoom meeting recordings in bulk with resume capability and automatic organization by meeting topic.

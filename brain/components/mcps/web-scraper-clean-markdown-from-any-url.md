@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/web-scraper-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4573
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:39Z"
 ---
 ## What it is
 Web content extraction API for AI agents. Scrape any URL and get clean, structured Markdown content with navigation, ads, and scripts stripped. Full JavaScript rendering via headless Chromium. Single and batch (10 URLs) modes. Built for RAG pipelines and AI research. Tools: web_scrape_to_markdown (s

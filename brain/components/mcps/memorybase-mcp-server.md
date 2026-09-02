@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-27T22:18:51Z"
 ---
 ## What it is
 MCP server that logs insights from Claude sessions and sends them via HTTP to a server for Telegram notification and storage in memoryBase.

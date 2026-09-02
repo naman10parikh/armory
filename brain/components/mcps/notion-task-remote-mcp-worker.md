@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T04:35:39Z"
 ---
 ## What it is
 MCP server that creates tasks in a Notion database via a Cloudflare Worker, exposing a create_task tool through Streamable HTTP. Enables ChatGPT/Claude to add structured to-dos to Notion without natural language parsing.

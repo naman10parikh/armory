@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:23:01Z"
 ---
 ## What it is
 Automates BE AMSA review by validating EFF folders, driving AMSA 5.1 to generate reports and graphs, and producing a PowerPoint summary. Designed to not hang with worker threads and timeouts.

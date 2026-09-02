@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T10:57:37Z"
 ---
 ## What it is
 Enables AI agents to compare database tables using read-only tools, with credentials managed locally and never exposed to the model.

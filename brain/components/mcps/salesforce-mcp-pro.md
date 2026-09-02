@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T07:11:34Z"
 ---
 ## What it is
 A Model Context Protocol server for Salesforce development workflows, enabling org lookup, metadata deploy/retrieve, SOQL queries, Apex tests, and permission set assignment.

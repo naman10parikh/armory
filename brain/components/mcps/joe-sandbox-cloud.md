@@ -8,10 +8,12 @@ source_url: https://github.com/joesecurity/joesandboxmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-10T07:22:27Z"
 ---
 ## What it is
 MCP server `Joe Sandbox Cloud`, catalogued on PulseMCP. Integrates with Joe Sandbox Cloud API to provide malware analysis capabilities including file and URL submission, threat intelligence extraction, behavioral analysis reporting, and artifact downloads for security research and incident response workflows.

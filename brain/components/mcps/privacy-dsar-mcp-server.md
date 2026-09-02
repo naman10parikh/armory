@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T08:58:21Z"
 ---
 ## What it is
 Enables GDPR privacy compliance and DSAR management, including creating, tracking, and updating Data Subject Access Requests, checking GDPR compliance, and maintaining a data processing inventory through MCP tools.

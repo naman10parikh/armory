@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T08:04:06Z"
 ---
 ## What it is
 MCP server that enables AI workflows to query on-chain AI Scout agents, leaderboards, and prediction markets on X Layer for the World Cup.

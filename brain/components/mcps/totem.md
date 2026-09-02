@@ -8,11 +8,13 @@ source_url: https://github.com/thebriangao/totem
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 107
+stars: 112
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 26
+pushed_at: "2026-08-29T06:51:40Z"
 ---
 ## What it is
 Totem provides Claude with full read and write access to wearable device data, starting with Whoop, through its private iOS API.

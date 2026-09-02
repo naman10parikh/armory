@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T18:53:53Z"
 ---
 ## What it is
 Secure, agent-driven web data extraction MCP server that extracts structured data from websites using APIs, RSS, and HTML without requiring a browser.

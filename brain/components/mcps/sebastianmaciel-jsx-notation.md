@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-25T22:09:01Z"
 ---
 ## What it is
 MCP server `JSX Notation`, catalogued on PulseMCP. Compresses React, Next.js, HTML, and SVG files into compact notation optimized for LLM token consumption.

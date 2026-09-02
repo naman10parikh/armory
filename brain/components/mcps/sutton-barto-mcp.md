@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:18:59Z"
 ---
 ## What it is
 MCP server exposing the full text of Sutton & Barto's Reinforcement Learning book, enabling LLMs to search, retrieve pages, and read chapters.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T11:46:34Z"
 ---
 ## What it is
 A knowledge graph MCP server providing persistent, structured memory for AI assistants with multi-agent isolation, tiered search, and index navigation.

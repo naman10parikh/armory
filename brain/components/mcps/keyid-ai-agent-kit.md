@@ -8,10 +8,12 @@ source_url: https://github.com/keyid-ai/agent-kit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 698
+stars: 660
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-03-13T02:31:10Z"
 ---
 ## What it is
 MCP server `KeyID Agent Kit`, catalogued on PulseMCP. Provides AI agents with full email capabilities including send, receive, reply, search, contacts, and auto-reply through KeyID.ai infrastructure.

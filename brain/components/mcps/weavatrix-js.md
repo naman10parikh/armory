@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T22:33:37Z"
 ---
 ## What it is
 Local repository intelligence MCP server that builds a reusable graph of code structure for AI coding agents, providing 34 network-free tools for understanding, searching, and analyzing repositories without data leaving the machine.

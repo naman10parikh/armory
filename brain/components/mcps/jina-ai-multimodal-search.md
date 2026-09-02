@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-08T04:10:02Z"
 ---
 ## What it is
 MCP server `Jina AI`, catalogued on PulseMCP. Integrates with Jina's AI services to provide efficient handling of language and multimodal AI requests for applications requiring natural language processing and image analysis.

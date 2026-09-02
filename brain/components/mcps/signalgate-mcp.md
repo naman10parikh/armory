@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T22:35:19Z"
 ---
 ## What it is
 Provides real-time crypto market sentiment analysis for BTC, ETH, and SOL using Google Gemini 2.0, enabling AI agents to get actionable alpha.

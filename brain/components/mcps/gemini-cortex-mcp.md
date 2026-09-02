@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T09:51:40Z"
 ---
 ## What it is
 An MCP server that delegates tasks to Google Gemini, enabling live web search, video/audio understanding, and summarizing large files.

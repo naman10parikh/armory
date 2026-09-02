@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T03:43:59Z"
 ---
 ## What it is
 Enables AI assistants to send, read, search, and organize Proton Mail email via SMTP and IMAP through the Model Context Protocol.

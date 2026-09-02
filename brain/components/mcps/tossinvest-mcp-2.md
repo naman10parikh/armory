@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T14:47:38Z"
 ---
 ## What it is
 MCP server wrapping Toss Securities Open API, enabling stock price queries and trading for Korean and US stocks via natural language.

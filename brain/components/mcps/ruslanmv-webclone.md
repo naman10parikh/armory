@@ -8,10 +8,12 @@ source_url: https://github.com/ruslanmv/webclone
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-21T10:10:17Z"
 ---
 ## What it is
 MCP server `WebClone`, catalogued on PulseMCP. Website cloning engine with intelligent crawling, asset downloading, PDF generation, authentication support, and dynamic content rendering for website archival, offline browsing, and data extraction workflows

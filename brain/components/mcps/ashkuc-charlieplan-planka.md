@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-03T11:39:02Z"
 ---
 ## What it is
 MCP server `CharliePlan Planka`, catalogued on PulseMCP. Integrates with Planka kanban boards for project management with board operations, card manipulation, custom fields, labels, and OAuth authentication.

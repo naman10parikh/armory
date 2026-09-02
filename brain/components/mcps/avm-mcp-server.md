@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-29T12:59:10Z"
 ---
 ## What it is
 MCP server for discovering and exploring Azure Verified Modules (AVM) from the Bicep Public Registry, enabling AI agents to search, retrieve module details, and access documentation.

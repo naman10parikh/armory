@@ -8,10 +8,12 @@ source_url: https://github.com/andy5090/central-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-11T16:04:44Z"
 ---
 ## What it is
 MCP server `Central`, catalogued on PulseMCP. Orchestrates multiple AI coding agents in parallel across projects with non-blocking dispatch to Claude, Codex, Gemini, and others.

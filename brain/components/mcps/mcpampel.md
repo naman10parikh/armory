@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T20:32:27Z"
 ---
 ## What it is
 MCP server `MCPAmpel`, catalogued on PulseMCP. MCP server that scans other MCP servers for security vulnerabilities using 16 scanning engines, returning aggregated trust scores.

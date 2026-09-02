@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T15:53:50Z"
 ---
 ## What it is
 MCP server `ASTGL Knowledge`, catalogued on PulseMCP. Search and cite ASTGL articles on local AI and automation.

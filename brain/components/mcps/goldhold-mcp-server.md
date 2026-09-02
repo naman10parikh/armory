@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T07:51:59Z"
 ---
 ## What it is
 Persistent memory for AI agents with 29 MCP tools for search, storage, plans, context, messaging, tasks, agent network, and memory management.

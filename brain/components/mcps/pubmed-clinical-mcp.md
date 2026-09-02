@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T19:20:47Z"
 ---
 ## What it is
 A lightweight MCP server for clinical biomedical literature retrieval, enabling PubMed search, article metadata, full-text access, and evidence summarization through MCP-compatible clients.

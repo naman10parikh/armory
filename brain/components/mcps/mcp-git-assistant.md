@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T12:22:56Z"
 ---
 ## What it is
 Enables AI-powered git assistance including commit message generation, branch naming, and branch analysis using conventional commits and git status/diff/log.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T07:55:20Z"
 ---
 ## What it is
 Local-first MCP server for Yandex Webmaster that exposes tools for SEO operations including search query analytics, sitemap management, indexing history, recrawl quota, and diagnostics.

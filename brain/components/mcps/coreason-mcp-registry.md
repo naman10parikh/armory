@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T07:28:14Z"
 ---
 ## What it is
 Enables discovering and managing MCP servers through a registry, supporting listing, searching, and configuration.

@@ -8,10 +8,12 @@ source_url: https://github.com/rustfs/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-24T00:08:30Z"
 ---
 ## What it is
 MCP server `RustFS`, catalogued on PulseMCP. AI agent access to RustFS S3-compatible object storage with tools for buckets, objects, uploads, and downloads.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:46:08Z"
 ---
 ## What it is
 Enables agents to send structured notifications to recipients via configurable channels (initial SMTP provider) without exposing delivery addresses or credentials, with tools for listing recipients, listing channels, and sending notifications.

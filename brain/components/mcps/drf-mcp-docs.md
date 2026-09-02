@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-09T15:14:06Z"
 ---
 ## What it is
 Exposes Django REST Framework API documentation via MCP for AI coding agents to read, understand, and write frontend integration code.

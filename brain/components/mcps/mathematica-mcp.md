@@ -8,11 +8,13 @@ source_url: https://github.com/AbhiRawat4841/mathematica-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 46
+stars: 48
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-06T11:07:56Z"
 ---
 ## What it is
 Enables AI agents to run Mathematica code, control live notebooks, and verify results through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T15:25:10Z"
 ---
 ## What it is
 Paid remote MCP server for crypto research workflows: onchain token screening, new-pool case reviews, Twitter/X content analysis, and KOL historical tweet distillation.

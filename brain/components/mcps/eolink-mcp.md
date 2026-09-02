@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T06:28:55Z"
 ---
 ## What it is
 Enables AI assistants to query API documentation from Eolink Apikit instances via the Eolink Open API, supporting listing projects, groups, searching APIs by keyword/path, and retrieving detailed API definitions.

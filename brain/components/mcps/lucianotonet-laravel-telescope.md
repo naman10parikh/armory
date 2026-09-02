@@ -8,10 +8,12 @@ source_url: https://github.com/lucianotonet/laravel-telescope-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-21T19:43:17Z"
 ---
 ## What it is
 MCP server `Laravel Telescope`, catalogued on PulseMCP. Extends Laravel Telescope by exposing application telemetry data for natural language querying of logs, slow queries, HTTP requests, exceptions, and jobs directly within your coding environment.

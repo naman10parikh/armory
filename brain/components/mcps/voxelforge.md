@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T16:17:33Z"
 ---
 ## What it is
 A voxel editor with MCP bridge enabling AI agents to create and edit 3D models, supporting .vox/.obj formats, layers, and a web editor.

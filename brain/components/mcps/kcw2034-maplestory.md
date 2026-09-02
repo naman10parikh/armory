@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-26T08:09:53Z"
 ---
 ## What it is
 MCP server `MapleStory`, catalogued on PulseMCP. Query Nexon MapleStory game data including character stats, equipment, rankings, union info, guild details, and official notices.

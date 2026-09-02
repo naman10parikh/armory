@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-27T05:10:04Z"
 ---
 ## What it is
 MCP server for MariaDB that exposes database schema as resources and provides a read-only query tool to retrieve data.

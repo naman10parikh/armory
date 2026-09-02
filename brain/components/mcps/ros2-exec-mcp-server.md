@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-21T08:57:52Z"
 ---
 ## What it is
 Enables execution of ROS 2 CLI commands through the Model Context Protocol, supporting configurable timeouts, working directories, and secure command whitelisting.

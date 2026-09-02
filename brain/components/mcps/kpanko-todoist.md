@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-12T01:21:32Z"
 ---
 ## What it is
 MCP server `Todoist`, catalogued on PulseMCP. Safe Todoist task management with recurring-pattern-preserving rescheduling, reminder retention, and comprehensive read/write operations via REST and Sync APIs.

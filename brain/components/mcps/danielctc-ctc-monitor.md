@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T13:53:23Z"
 ---
 ## What it is
 MCP server `CTC Monitor`, catalogued on PulseMCP. Aggregates global technology news from 500+ sources across China, Southeast Asia, India, MENA, Africa, and Latin America with relevance scoring.

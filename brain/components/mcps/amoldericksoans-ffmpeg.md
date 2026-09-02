@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-04T11:25:00Z"
 ---
 ## What it is
 MCP server `FFmpeg`, catalogued on PulseMCP. Enables multimedia processing operations using FFmpeg, allowing direct manipulation of audio and video files for tasks like trimming, conversion, extraction, and watermarking without leaving the conversation interface.

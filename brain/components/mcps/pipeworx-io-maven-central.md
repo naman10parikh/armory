@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:21:18Z"
 ---
 ## What it is
 MCP server `Maven Central`, catalogued on PulseMCP. Search Maven Central for Java and JVM ecosystem packages by group ID, artifact ID, version, or class name.

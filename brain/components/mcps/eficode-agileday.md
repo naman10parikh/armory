@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-09T07:09:34Z"
 ---
 ## What it is
 MCP server `Agileday`, catalogued on PulseMCP. Connects Agileday's talent and skills platform with natural language queries to find employees by competency, retrieve profiles, and explore organizational skill taxonomy.

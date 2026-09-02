@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T10:38:08Z"
 ---
 ## What it is
 MCP server for loading and querying public data from the Brazilian National Registry of Health Establishments (CNES). It enables natural language searches for health facilities by municipality, CNES code, or state, along with statistics and data loading.

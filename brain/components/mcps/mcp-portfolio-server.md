@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:05:11Z"
 ---
 ## What it is
 Fetches and normalizes investment portfolio data from eToro and Interactive Brokers (IBKR), enabling AI agents to consolidate, aggregate, and visualize holdings across brokers.

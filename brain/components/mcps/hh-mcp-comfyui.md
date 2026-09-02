@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-11-30T13:28:08Z"
 ---
 ## What it is
 通过Model Context Protocol调用本地ComfyUI实例生成图片，支持动态替换工作流中的提示词和尺寸等参数。

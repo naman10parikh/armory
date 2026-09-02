@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T14:15:19Z"
 ---
 ## What it is
 A read-only MCP server for the Cisco Meraki Dashboard API that exposes 50 GET endpoints for understanding network topology from organization down to individual devices and ports.

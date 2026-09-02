@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T08:14:23Z"
 ---
 ## What it is
 Enables social media creators to pull TikTok, Instagram, Facebook, and YouTube analytics into a persistent vault, receive weekly digests, review scripts, build media kits, and draft brand outreach using official APIs only.

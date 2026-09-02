@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-27T07:22:44Z"
 ---
 ## What it is
 Enables posting content, sharing articles, and managing your LinkedIn profile through Claude using the official LinkedIn API with OAuth 2.0.

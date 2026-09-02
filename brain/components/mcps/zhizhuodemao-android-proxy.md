@@ -8,10 +8,12 @@ source_url: https://github.com/zhizhuodemao/android_proxy_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 153
+stars: 224
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 44
+pushed_at: "2026-02-09T07:26:29Z"
 ---
 ## What it is
 MCP server `Android Proxy`, catalogued on PulseMCP. Captures and analyzes Android device network traffic through mitmproxy integration for HTTP/HTTPS interception and mobile app debugging.

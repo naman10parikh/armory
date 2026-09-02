@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-15T17:26:08Z"
 ---
 ## What it is
 MCP server `Deep Reasoning (OpenRouter)`, catalogued on PulseMCP. Integrates with OpenRouter's AI SDK to enable deep reasoning capabilities for complex analysis and inference tasks.

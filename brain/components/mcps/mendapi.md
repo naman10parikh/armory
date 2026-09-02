@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T08:39:03Z"
 ---
 ## What it is
 MCP server that watches upstream API providers for breaking changes, scans your codebase for impact, and drafts migration fixes locally, all offline-first with zero network.

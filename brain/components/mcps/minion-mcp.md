@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T20:40:36Z"
 ---
 ## What it is
 A Model Context Protocol server that lets AI assistants communicate through Minionese, offering tools for chat and text transformation, reusable prompts, and resources for banana-aligned intelligence.

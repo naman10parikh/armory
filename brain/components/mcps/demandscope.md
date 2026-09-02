@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T14:13:46Z"
 ---
 ## What it is
 MCP server that provides demand-signal scanning tools from GitHub, Hacker News, npm, and PyPI to validate digital-product and dev-tool ideas. Enables agents to query repo signals, trends, and download counts via stdio JSON-RPC.

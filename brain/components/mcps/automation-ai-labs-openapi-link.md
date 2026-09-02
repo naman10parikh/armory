@@ -8,10 +8,12 @@ source_url: https://github.com/automation-ai-labs/mcp-link
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 606
+stars: 623
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 66
+pushed_at: "2025-04-03T15:48:57Z"
 ---
 ## What it is
 MCP server `OpenAPI Link`, catalogued on PulseMCP. Transforms OpenAPI specifications into tool endpoints, enabling seamless interaction with any API described in OpenAPI format without custom adapter development.

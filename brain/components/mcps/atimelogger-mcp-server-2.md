@@ -8,11 +8,13 @@ source_url: https://github.com/zaplitny/atimelogger-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-20T19:52:50Z"
 ---
 ## What it is
 Enables Claude to manage ATimeLogger time tracking: start/stop/pause activities, log intervals, and get reports via natural language.

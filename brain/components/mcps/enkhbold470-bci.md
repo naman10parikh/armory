@@ -8,10 +8,12 @@ source_url: https://github.com/enkhbold470/bci-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-10T10:03:58Z"
 ---
 ## What it is
 MCP server `BCI-MCP (Brain-Computer Interface)`, catalogued on PulseMCP. Enables AI systems to receive and process neural signals from multiple EEG devices through real-time signal processing, providing brain activity data for more intuitive human-AI interactions.

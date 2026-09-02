@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-13T19:28:15Z"
 ---
 ## What it is
 Enables AI assistants to interact with ECOUNT ERP through natural language, providing tools for products, inventory, sales, purchases, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T15:27:29Z"
 ---
 ## What it is
 A minimal Model Context Protocol server template deployable on Render, providing Streamable HTTP transport, bearer token authentication, and a pattern for adding custom tools.

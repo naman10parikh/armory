@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:49:13Z"
 ---
 ## What it is
 MCP server `Codeforces`, catalogued on PulseMCP. Query Codeforces competitive programming platform data including user profiles, contest results, problem statements, and submission history.

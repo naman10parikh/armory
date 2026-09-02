@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:42Z"
 ---
 ## What it is
 MCP server for querying official first-instance court certificates from the Tribunal de Justiça do Rio Grande do Sul (TJRS) in a read-only manner. It provides one tool to perform consultation via official sources, works with any MCP-compatible client, and charges per-use with prepaid credits.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T08:24:13Z"
 ---
 ## What it is
 MCP server `Database CRUD`, catalogued on PulseMCP. Permission-based CRUD MCP server for SQLite and PostgreSQL with YAML allowlist, audit logging, and soft deletes.

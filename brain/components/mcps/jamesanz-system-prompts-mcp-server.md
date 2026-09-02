@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 8
+forks: 3
+pushed_at: "2025-12-10T04:29:54Z"
 ---
 ## What it is
 Exposes a large catalog of coding assistant prompts as MCP tools with model-aware suggestions and persona activation to emulate agents like Cursor or Devin.

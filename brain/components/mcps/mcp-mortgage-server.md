@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-29T16:23:12Z"
 ---
 ## What it is
 Enables AI assistants to parse and analyze mortgage documents (Loan Estimates & Closing Disclosures), converting them into structured MISMO-compliant JSON and checking for TRID compliance violations.

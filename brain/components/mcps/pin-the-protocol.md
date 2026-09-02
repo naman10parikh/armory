@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T05:26:30Z"
 ---
 ## What it is
 A verifying MCP gateway that pins approved tool manifests and skill files to content addresses, blocking tampered descriptions before they reach model context.

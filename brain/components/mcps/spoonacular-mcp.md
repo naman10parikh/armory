@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-04T12:25:45Z"
 ---
 ## What it is
 Enables AI assistants to search for recipes, get nutritional information, find ingredients, and more through the Spoonacular Food API using natural language.

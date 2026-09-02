@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T09:58:21Z"
 ---
 ## What it is
 Enables AI coding assistants to analyze codebases locally before generating code, reducing duplication and enforcing architecture boundaries.

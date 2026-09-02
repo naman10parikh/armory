@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T19:40:16Z"
 ---
 ## What it is
 Imagine you could hand Claude a filing cabinet of your documents and say "remember all of this." Later you just ask questions, and Claude answers from what it remembers — citing which document each fact came from. That's Memorised them All. It's a small add-on (an MCP server) for Claude Desktop and 

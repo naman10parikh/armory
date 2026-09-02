@@ -8,10 +8,12 @@ source_url: https://github.com/bazinga012/mcp_code_executor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 216
+stars: 212
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 44
+pushed_at: "2025-05-24T19:17:06Z"
 ---
 ## What it is
 MCP server `Conda Executor`, catalogued on PulseMCP. Executes Python code within isolated Conda environments, enabling secure and flexible code generation and execution for tasks like data analysis and algorithm testing.

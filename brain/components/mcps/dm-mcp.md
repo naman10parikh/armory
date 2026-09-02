@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-25T20:52:22Z"
 ---
 ## What it is
 Provides secure SELECT queries and table structure retrieval for Dameng database via Model Context Protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-01T04:35:47Z"
 ---
 ## What it is
 Enables controlling a Transmission torrent daemon, allowing adding, listing, controlling torrents and checking free space, with support for SOCKS5 proxy for remote access.

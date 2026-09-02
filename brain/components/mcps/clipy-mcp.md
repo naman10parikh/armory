@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-17T18:18:00Z"
 ---
 ## What it is
 Enables AI agents to search and read screen recordings from Clipy, including transcripts, AI summaries, and key moments with frames.

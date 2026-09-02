@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T20:30:09Z"
 ---
 ## What it is
 Enables AI assistants to analyze hardware simulation VCD waveforms and GTKWave save files, providing access to signal values, bus definitions, and groupings without loading entire files.

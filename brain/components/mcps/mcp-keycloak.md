@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T04:42:46Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides a natural language interface for managing Keycloak identity and access management through its REST API.

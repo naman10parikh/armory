@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T18:34:14Z"
 ---
 ## What it is
 An MCP server that exposes the Symbols/DOMQL v3 AI assistant capabilities to any MCP-compatible platform. Enables generating components, pages, projects, and more from natural language, as well as searching documentation and reviewing code.

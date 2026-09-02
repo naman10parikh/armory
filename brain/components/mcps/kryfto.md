@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-21T19:34:23Z"
 ---
 ## What it is
 Provides 42+ MCP tools for browser automation, web scraping, and search, enabling AI agents like Claude and Cursor to browse, extract data, and run research agents on the live web.

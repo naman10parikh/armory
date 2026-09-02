@@ -8,10 +8,12 @@ source_url: https://github.com/vast-ai-research/tripo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 182
+stars: 197
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2025-04-14T09:59:12Z"
 ---
 ## What it is
 MCP server `Tripo 3D`, catalogued on PulseMCP. Bridges AI systems with the Tripo 3D generation API, enabling text-to-3D model creation and manipulation through Blender addon integration for seamless 3D content creation workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T14:17:30Z"
 ---
 ## What it is
 MCP server for AI governance — push compliance evidence to Mima from any agent, any stack, 4 lines of config. One tool call maps to EU AI Act, ISO 42001, SOC 2, and NIST AI RMF simultaneously. Your readiness score updates automatically.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T09:08:26Z"
 ---
 ## What it is
 Enables searching Google Scholar papers with year filtering, deduplication, and proxy support. Also provides paper detail retrieval, TF-IDF relevance analysis, and chart generation via MCP tools.

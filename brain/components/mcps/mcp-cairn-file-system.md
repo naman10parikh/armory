@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T03:40:18Z"
 ---
 ## What it is
 A local-first, open-source harness for organizing your files with an AI agent.

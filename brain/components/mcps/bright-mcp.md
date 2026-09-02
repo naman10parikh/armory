@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T08:17:38Z"
 ---
 ## What it is
 An MCP server that wraps Bright Data's API to provide web search, data extraction, and dataset discovery tools for AI agents.

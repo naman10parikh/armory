@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:05:58Z"
 ---
 ## What it is
 Enables AI coding agents to reserve unique AL object IDs via the ALRM database in Business Central, ensuring consistent ID allocation across team members.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T22:39:19Z"
 ---
 ## What it is
 A Claude-powered MCP tool suite for interacting with a Wazuh SIEM manager, enabling triage, health monitoring, threat hunting, rule management, and active response execution.

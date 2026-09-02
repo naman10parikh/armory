@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T12:44:48Z"
 ---
 ## What it is
 Enables AI assistants to fetch intrinsic valuations and screen US equities using CirclFi's institutional-grade valuation models.

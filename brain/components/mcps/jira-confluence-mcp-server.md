@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T11:29:10Z"
 ---
 ## What it is
 Enables AI assistants to interact with Jira and Confluence via natural language, supporting 37 Jira tools and 16 Confluence tools.

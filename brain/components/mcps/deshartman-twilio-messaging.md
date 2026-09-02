@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-07T19:45:17Z"
 ---
 ## What it is
 MCP server `Twilio Messaging`, catalogued on PulseMCP. Enables sending SMS messages through the Twilio API with a simple tool that handles authentication and message delivery using provided Twilio credentials and sender phone number.

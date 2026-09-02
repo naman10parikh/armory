@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:28:48Z"
 ---
 ## What it is
 Verifica se um nome consta na lista de sanções internacionais do Canadá (SEMA), para diligência de compliance e AML. Funciona com qualquer cliente MCP via HTTP.

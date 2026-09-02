@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-03T03:54:15Z"
 ---
 ## What it is
 MCP server `PipeCD`, catalogued on PulseMCP. Connects Claude to PipeCD's continuous delivery platform, enabling monitoring of Kubernetes application deployments, configurations, and status without leaving the conversation context.

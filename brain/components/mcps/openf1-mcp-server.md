@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-10T18:17:27Z"
 ---
 ## What it is
 Enables AI assistants to query real-time and historical Formula 1 data through the OpenF1 API, providing tools for driver info, lap times, telemetry, race events, and more.

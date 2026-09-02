@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-02T18:26:58Z"
 ---
 ## What it is
 MCP server `ComfyUI`, catalogued on PulseMCP. Integrates ComfyUI's stable diffusion interface to enable programmatic image generation through customizable node-based workflows.

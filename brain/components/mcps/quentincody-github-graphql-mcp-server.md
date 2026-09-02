@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, version-control]
 stars: 13
+forks: 6
+pushed_at: "2025-08-17T17:35:03Z"
 ---
 ## What it is
 Unofficial GitHub MCP server that provides access to GitHub's GraphQL API, enabling more powerful and flexible queries for repository data, issues, pull requests, and other GitHub resources.

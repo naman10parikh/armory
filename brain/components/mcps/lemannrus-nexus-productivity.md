@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-02T16:34:47Z"
 ---
 ## What it is
 MCP server `Nexus (Multi-Platform Productivity)`, catalogued on PulseMCP. Integrates Google Calendar, Obsidian, Trello, web parsing, and Google News through a unified interface with semantic search capabilities for managing digital workspaces across multiple productivity platforms.

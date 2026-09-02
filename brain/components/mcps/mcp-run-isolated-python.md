@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T13:38:45Z"
 ---
 ## What it is
 Enables LLMs to execute Python code securely in a sandboxed environment. Supports configurable restrictions like no network access and returns results including files.

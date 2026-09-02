@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T12:32:03Z"
 ---
 ## What it is
 Enables searching, retrieving, and managing prompts for Claude Code through natural language, with tools for adding, updating, and deleting prompts.

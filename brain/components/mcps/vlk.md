@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T13:51:05Z"
 ---
 ## What it is
 Temporal state machine for AI agents that detects and breaks repetitive error loops across languages by fingerprinting errors and injecting preventive constraints, running as an MCP server with SQLite backend.

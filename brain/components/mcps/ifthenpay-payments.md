@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T16:17:49Z"
 ---
 ## What it is
 Enables AI assistants to securely create payment references and requests for Multibanco, MB WAY, Payshop, Credit Card, PinPay, Cofidis Pay, PIX, and retrieve payment reports.

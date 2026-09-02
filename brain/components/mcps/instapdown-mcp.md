@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T11:00:00Z"
 ---
 ## What it is
 16 Instagram creator tools as an MCP server — Reels/Story/carousel downloaders, engagement audit, hashtag search, Reels hook generator, best-time-to-post and content calendar. Wraps instapdown.com public API — no auth required.

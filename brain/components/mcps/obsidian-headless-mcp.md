@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T16:34:12Z"
 ---
 ## What it is
 MCP server that provides tools and resources for AI models to interact with an Obsidian vault, enabling file operations, search, and management via the Model Context Protocol.

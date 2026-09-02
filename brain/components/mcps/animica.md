@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T21:06:21Z"
 ---
 ## What it is
 Read-only chain data, AI inference, verifiable quantum randomness, and mining stats for the Animica post-quantum L1 — 15 tools, no private keys.

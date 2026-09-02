@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T01:09:19Z"
 ---
 ## What it is
 MCP server exposing a parametric policy engine for evaluating, simulating, and managing rules, with dynamic plugin support for domain-specific calculations.

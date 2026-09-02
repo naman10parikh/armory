@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T01:44:39Z"
 ---
 ## What it is
 Local explicit memory vault exposing MCP tools for storing, searching, and managing memories, providing a shared memory layer for agents like Codex and ChatGPT.

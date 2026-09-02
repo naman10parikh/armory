@@ -8,10 +8,12 @@ source_url: https://github.com/diaaaj/a-mem-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-17T02:58:03Z"
 ---
 ## What it is
 MCP server `A-Mem`, catalogued on PulseMCP. Self-evolving memory system with dynamic knowledge graph for AI agents.

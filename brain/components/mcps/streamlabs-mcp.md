@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:31:11Z"
 ---
 ## What it is
 MCP server that gives AI assistants direct control over Streamlabs Desktop, enabling scene switching, source/audio management, and streaming/recording controls through natural language.

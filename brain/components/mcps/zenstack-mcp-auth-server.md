@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-06-08T12:40:16Z"
 ---
 ## What it is
 Enables auto-generated CRUD operations with authentication and authorization for database models defined in ZenStack schema.

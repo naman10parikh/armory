@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T22:31:00Z"
 ---
 ## What it is
 Enables Cursor's AI agent to perform supercharged local file search on Windows by connecting to Agent Ransack via MCP, supporting content and filename searches, regex, and deep folder scans.

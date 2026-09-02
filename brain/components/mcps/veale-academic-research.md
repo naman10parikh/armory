@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-16T15:03:14Z"
 ---
 ## What it is
 MCP server `Academic Research`, catalogued on PulseMCP. Searches and retrieves academic papers across Zotero, Semantic Scholar, OpenAlex, and institutional catalogs with full-text extraction and semantic search.

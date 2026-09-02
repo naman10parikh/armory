@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T12:41:16Z"
 ---
 ## What it is
 Implements 41 tools from Claude Code, including bash, file operations, web search, task management, and more, all accessible via MCP protocol.

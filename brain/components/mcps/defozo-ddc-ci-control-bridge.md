@@ -8,10 +8,12 @@ source_url: https://github.com/defozo/ddc-ci-control-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-02T09:51:49Z"
 ---
 ## What it is
 MCP server `DDC/CI Control Bridge`, catalogued on PulseMCP. Control monitor brightness, contrast, power and input via DDC/CI protocol

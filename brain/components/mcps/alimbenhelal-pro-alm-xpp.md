@@ -8,10 +8,12 @@ source_url: https://github.com/alimbenhelal-pro/alm-xpp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T09:39:37Z"
 ---
 ## What it is
 MCP server `ALM X++`, catalogued on PulseMCP. Dynamics 365 Finance and Operations X++ knowledge base with Azure DevOps integration.

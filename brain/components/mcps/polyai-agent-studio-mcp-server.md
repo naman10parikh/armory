@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T23:18:31Z"
 ---
 ## What it is
 Enables access to PolyAI Agent Studio Cursor rules via MCP tools for listing, retrieving, and searching rules, making them usable by any MCP-compatible client.

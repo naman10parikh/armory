@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-17T01:02:51Z"
 ---
 ## What it is
 MCP server `FlexOffers`, catalogued on PulseMCP. Accesses the FlexOffers affiliate marketing network to search advertisers, links, and commissions.

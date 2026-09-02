@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-05-22T09:56:25Z"
 ---
 ## What it is
 MCP server `Kafka Streaming`, catalogued on PulseMCP. Enables seamless Kafka message streaming for AI models by providing publish and consume functionalities through a configurable Python server with stdio and SSE transport support.

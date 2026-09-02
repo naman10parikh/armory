@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-21T15:42:27Z"
 ---
 ## What it is
 MCP server with session-based authentication for AI assistants, providing secure access to a books database and currency conversion tools.

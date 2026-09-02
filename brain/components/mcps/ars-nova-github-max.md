@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T05:30:54Z"
 ---
 ## What it is
 Gloves-off GitHub MCP server providing full REST and GraphQL passthrough, enabling branch deletion, release creation, and asset uploads beyond the stock GitHub MCP server.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T15:00:06Z"
 ---
 ## What it is
 A single-user MCP server that exposes your GitHub activity to Claude via three read-only tools: recent commits, open pull requests, and repository summaries. Deployed as a Vercel function using Streamable HTTP.

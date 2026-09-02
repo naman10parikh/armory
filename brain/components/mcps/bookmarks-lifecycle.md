@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T12:16:59Z"
 ---
 ## What it is
 A local MCP server that gives saved bookmarks a lifecycle with time-based layers (pending, watching, kept, lapsed), so they get decided on instead of accumulating. It aggregates bookmarks from your browsers, drips them into a daily queue, and supports keep/watch/drop decisions, restore, and undo.

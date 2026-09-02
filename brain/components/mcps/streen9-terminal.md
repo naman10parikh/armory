@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-16T09:18:36Z"
 ---
 ## What it is
 MCP server `Terminal`, catalogued on PulseMCP. Provides a secure interface for executing commands, managing processes, and retrieving outputs in terminal or PowerShell environments, with robust logging and error handling for system administration and development tasks.

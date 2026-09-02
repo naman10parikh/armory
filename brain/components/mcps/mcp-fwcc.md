@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T03:22:47Z"
 ---
 ## What it is
 Enables semantic search, AST exploration, and relationship graph analysis for the cc-common Slot Framework SDK in Cocos Creator 2.4 via Model Context Protocol.

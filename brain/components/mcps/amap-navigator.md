@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-05-22T09:29:39Z"
 ---
 ## What it is
 MCP server `Amap Navigator`, catalogued on PulseMCP. Integrates with Amap API to provide location-based services including geocoding, weather information, driving routes, and location suggestions for applications requiring real-time geographic data in the Chinese market.

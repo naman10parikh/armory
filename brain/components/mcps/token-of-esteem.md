@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T17:12:11Z"
 ---
 ## What it is
 Write and mail personalized funny booklets via an AI agent. Allows agents to commission custom 16-page print gifts for users.

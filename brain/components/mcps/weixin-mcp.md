@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-04T00:20:14Z"
 ---
 ## What it is
 Enables AI assistants to send and receive WeChat messages through the official ClawBot API, supporting text, images, files, and videos.

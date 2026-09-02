@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-17T18:54:58Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides tools for extracting images from PDF and Word documents.

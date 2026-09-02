@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-01-03T09:31:57Z"
 ---
 ## What it is
 Enables natural language queries to search, retrieve, and explore Wikipedia and other Wikimedia project content, including featured articles and historical events.

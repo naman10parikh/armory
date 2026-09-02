@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T14:17:19Z"
 ---
 ## What it is
 Builds searchable SQLite databases from PDFs, preserving inline image locations for AI agents to discover and caption visual content. Supports full-text search over text, image placeholders, and saved captions.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T15:12:37Z"
 ---
 ## What it is
 MCP server `Markdown for Agents`, catalogued on PulseMCP. Fetches URLs with full JavaScript rendering and converts pages to token-efficient markdown for AI agents.

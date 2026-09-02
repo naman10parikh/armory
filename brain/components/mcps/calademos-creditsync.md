@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-02T17:16:51Z"
 ---
 ## What it is
 MCP server `CreditSync`, catalogued on PulseMCP. MCP server for CreditSync credit card benefit tracking with 34 tools for managing accounts, transactions, and rewards.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-09-03T20:05:42Z"
 ---
 ## What it is
 Enables interaction with Apache Flink clusters via the SQL Gateway, allowing query execution, session management, and job control through MCP tools.

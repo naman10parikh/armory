@@ -8,10 +8,12 @@ source_url: https://github.com/bitscorp-mcp/mcp-ffmpeg
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 59
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-02-22T21:40:17Z"
 ---
 ## What it is
 MCP server `FFmpeg Video Processor`, catalogued on PulseMCP. Enables video manipulation through FFmpeg, offering capabilities to resize videos to different resolutions and extract audio in various formats without leaving the conversation interface.

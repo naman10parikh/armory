@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-15T16:44:43Z"
 ---
 ## What it is
 MCP server `Serper Search`, catalogued on PulseMCP. Integrates with the Serper API to provide web search capabilities including web, news, images, shopping, and YouTube searches for real-time information retrieval and content research.

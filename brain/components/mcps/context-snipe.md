@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T19:47:54Z"
 ---
 ## What it is
 Deterministic dependency + CVE context for AI coding tools, over the Model Context Protocol. A ~0.85 MB pure-Rust MCP server.

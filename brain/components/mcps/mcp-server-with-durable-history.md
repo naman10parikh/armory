@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T09:08:07Z"
 ---
 ## What it is
 An MCP server that provides a chat tool with stateless instances and external session state, enabling durable conversation history and concurrent client handling.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T15:11:40Z"
 ---
 ## What it is
 Allows LLMs to explore CSV datasets through statistics without loading raw data, offering tools for dataset inspection, column description, and filtered queries while enforcing safety by restricting file access to a specified directory.

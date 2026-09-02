@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T10:42:10Z"
 ---
 ## What it is
 MCP server that provides 8 local RAG tools using LlamaIndex and Ollama, enabling AI-powered document querying, summarization, analysis, and comparison over PDFs, DOCX, XLSX, and CSV files.

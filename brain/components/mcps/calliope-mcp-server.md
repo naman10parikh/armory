@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T00:29:56Z"
 ---
 ## What it is
 Provides MCP tools to read, write, append, and edit prose sections of nodes, backed by an in-memory or substrate-direct (Urania) backend.

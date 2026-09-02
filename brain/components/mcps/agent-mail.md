@@ -8,11 +8,13 @@ source_url: https://github.com/salimfadhley/agent-inbox
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T18:13:49Z"
 ---
 ## What it is
 A NATS-backed mailbox for local LLM agents. Provides a simple way for AI coding agents to message and notify each other via a hostable MCP server.

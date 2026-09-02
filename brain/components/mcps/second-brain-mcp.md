@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T06:48:25Z"
 ---
 ## What it is
 MCP server `Second Brain`, catalogued on PulseMCP. Bridges a personal knowledge vault with AI for bidirectional knowledge retrieval and capture.

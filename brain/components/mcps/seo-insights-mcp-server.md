@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-11-24T18:08:38Z"
 ---
 ## What it is
 Connects AI assistants to SEO APIs for backlinks analysis, keyword research, and traffic analysis.

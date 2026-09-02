@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 3
+forks: 2
+pushed_at: "2026-07-02T14:06:27Z"
 ---
 ## What it is
 Trust infrastructure for the machine economy — non-custodial ERC-4337 smart accounts, x402 payments, on-chain reputation via ERC-8004, and service discovery for AI agents.

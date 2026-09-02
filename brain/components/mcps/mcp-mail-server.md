@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-03T08:16:29Z"
 ---
 ## What it is
 Automates email handling for a hardware store, enabling classification, response generation, and escalation using AI.

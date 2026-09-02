@@ -8,10 +8,12 @@ source_url: https://github.com/antonytm/mcp-sitecore-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-09-01T20:01:37Z"
 ---
 ## What it is
 MCP server `Sitecore`, catalogued on PulseMCP. Enables AI interaction with Sitecore CMS instances

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-16T15:21:49Z"
 ---
 ## What it is
 Intelligent PR boundary detection and recommendation system that analyzes git changes to generate atomic, logically-grouped pull request suggestions with titles, descriptions, and rationale.

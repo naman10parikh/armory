@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:26:19Z"
 ---
 ## What it is
 MCP server for Qi-An Xin CodeSafe, enabling retrieval of scan tasks, defect details, source code context, and taint propagation paths, with secure write-back of audit conclusions.

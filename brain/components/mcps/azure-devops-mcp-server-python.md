@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-04T16:12:06Z"
 ---
 ## What it is
 Enables AI assistants to interact with Azure DevOps projects, including work items, test results, Git repositories, and dependency analysis via the Model Context Protocol.

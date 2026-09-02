@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-06-05T09:04:14Z"
 ---
 ## What it is
 An MCP server that adds image recognition to AI coding tools, enabling them to analyze images, extract text, and perform OCR via multimodal APIs and traditional OCR engines.

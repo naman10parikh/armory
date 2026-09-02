@@ -8,10 +8,12 @@ source_url: https://github.com/icloudza/algokiller-plugin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-05-14T06:56:12Z"
 ---
 ## What it is
 MCP server `AlgoKiller`, catalogued on PulseMCP. ARM64 binary trace analysis plugin with 25 tools for cryptographic algorithm detection and execution pattern recovery in mobile security research.

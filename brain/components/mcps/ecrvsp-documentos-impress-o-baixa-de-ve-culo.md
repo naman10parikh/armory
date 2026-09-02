@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:01Z"
 ---
 ## What it is
 Provides a read-only tool to query official vehicle documentation for printing low vehicle certificates, with pay-per-use prepaid credits and no platform credentials required.

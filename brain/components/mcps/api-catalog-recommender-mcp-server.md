@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T18:11:26Z"
 ---
 ## What it is
 Enables semantic search over OpenAPI endpoint catalogs using FAISS and LangGraph, returning grounded technical recommendations for natural-language API queries.

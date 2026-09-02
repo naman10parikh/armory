@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-26T20:08:13Z"
 ---
 ## What it is
 MCP server `Variance Log`, catalogued on PulseMCP. Analyzes statistical variations in conversation structures and logs unusual events to a SQLite database for monitoring AI behavior and detecting anomalies.

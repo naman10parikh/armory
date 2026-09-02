@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T06:37:16Z"
 ---
 ## What it is
 Enables to precheck landing pages and Figma frames for readiness to be cited in AI Overviews, providing audit scores, grades, and improvement actions.

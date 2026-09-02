@@ -8,10 +8,12 @@ source_url: https://github.com/joshuarileydev/app-store-connect-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 325
+stars: 331
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 58
+pushed_at: "2025-09-02T10:27:03Z"
 ---
 ## What it is
 MCP server `App Store Connect`, catalogued on PulseMCP. Manage iOS app distribution and testing workflows.

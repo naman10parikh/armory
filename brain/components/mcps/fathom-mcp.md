@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T12:55:29Z"
 ---
 ## What it is
 A Model Context Protocol server that provides AI assistants with direct access to local document collections through full-text search, supporting multiple formats and hierarchical collections.

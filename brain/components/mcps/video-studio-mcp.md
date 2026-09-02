@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T05:00:17Z"
 ---
 ## What it is
 MCP server enabling AI agents to generate AI videos and images, analyze video content, and download videos from Douyin and Xiaohongshu.

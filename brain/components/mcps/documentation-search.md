@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-14T13:11:22Z"
 ---
 ## What it is
 MCP server `Documentation Search`, catalogued on PulseMCP. Provides a documentation search tool that retrieves the latest Python library documentation from LangChain, LlamaIndex, and OpenAI through targeted Google searches and content extraction.

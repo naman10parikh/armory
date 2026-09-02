@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T18:16:21Z"
 ---
 ## What it is
 MCP server providing read-only operational tools (logs, metrics, traces, service health, config) for troubleshooting an environment, with one exception for toggling chaos scenarios.

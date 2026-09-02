@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-28T20:40:52Z"
 ---
 ## What it is
 MCP server for log file analysis. Gives LLMs the ability to efficiently analyze large log files without loading them into context.

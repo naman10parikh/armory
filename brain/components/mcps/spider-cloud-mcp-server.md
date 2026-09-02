@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-09T00:38:45Z"
 ---
 ## What it is
 Enables AI assistants to scrape, crawl, search, and extract data from websites via the Spider Cloud API, with anti-bot bypass and JavaScript rendering.

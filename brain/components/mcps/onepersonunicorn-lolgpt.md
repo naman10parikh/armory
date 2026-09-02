@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-14T01:13:25Z"
 ---
 ## What it is
 MCP server `lolGPT (League of Legends Esports)`, catalogued on PulseMCP. Provides League of Legends professional esports match prediction and summoner analysis capabilities using statistical modeling for predicting outcomes involving pro players and teams across major tournaments like LCK, LCS, Worlds, and MSI, while offering summoner comparison and mock match simulation features.

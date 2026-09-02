@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:46:45Z"
 ---
 ## What it is
 An MCP server that wraps the Reportia REST API, exposing 66 tools for health, companies, accounting movements, mappings, reports, third parties, salesperson invoices, cost centers, and operations. It handles authentication via token or credentials and enables operations like listing, exporting to Ex

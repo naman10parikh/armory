@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-31T19:15:32Z"
 ---
 ## What it is
 MCP server for accessing statistical data via the PxWeb API v2.

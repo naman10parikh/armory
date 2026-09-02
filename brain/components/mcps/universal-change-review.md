@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T08:09:25Z"
 ---
 ## What it is
 A local, read-only Git change review tool that provides total workspace diffs, staged/unstaged views, file-level inspection, and task-scoped snapshots for MCP-compatible clients like Codex, Claude Code, and Cursor.

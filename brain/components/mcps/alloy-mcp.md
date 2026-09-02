@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T11:01:45Z"
 ---
 ## What it is
 Bonds AI agents to your existing Chrome profile with 73 tools for tabs, DOM, input, screenshots, network, and more, leveraging live sessions and extensions for authenticated, no-setup browser automation.

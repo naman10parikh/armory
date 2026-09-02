@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-11T09:37:32Z"
 ---
 ## What it is
 MCP server `CBETA Buddhist Texts`, catalogued on PulseMCP. Provides access to Chinese Buddhist Electronic Text Association (CBETA) resources for text retrieval, metadata access, and content analysis of Buddhist texts through catalog browsing, search functionality, and work manipulation tools.

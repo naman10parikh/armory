@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T05:41:32Z"
 ---
 ## What it is
 Enables seamless interaction with the IBM Instana observability platform, allowing access to real-time observability data directly within development workflows.

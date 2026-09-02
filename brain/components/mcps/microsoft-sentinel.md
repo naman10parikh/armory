@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-14T06:09:26Z"
 ---
 ## What it is
 MCP server `Microsoft Sentinel`, catalogued on PulseMCP. Query and analyze security data, incidents, and threat intelligence from Microsoft Sentinel's data lake using natural language.

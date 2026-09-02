@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T03:23:21Z"
 ---
 ## What it is
 Enables managing tasks, projects, schedules, users, comments, and more in Motion via natural language through the Model Context Protocol.

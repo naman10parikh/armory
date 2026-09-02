@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T02:47:46Z"
 ---
 ## What it is
 MCP server for HarmonyOS/OpenHarmony ArkWeb that enables browser automation using playwright-core over CDP, providing tools for navigation, input, network, cookies, and more.

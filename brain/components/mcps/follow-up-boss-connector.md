@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T05:59:01Z"
 ---
 ## What it is
 A self-hosted MCP server that connects a Follow Up Boss CRM account to Claude, enabling CRM operations through natural language via 25 curated tools and a raw API tool.

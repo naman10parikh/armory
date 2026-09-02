@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T08:40:20Z"
 ---
 ## What it is
 Connects Claude.ai to Google Sheets, allowing read, append, and update operations on spreadsheets directly from chat.

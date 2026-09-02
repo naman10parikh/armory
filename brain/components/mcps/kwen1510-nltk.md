@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-08T06:16:52Z"
 ---
 ## What it is
 MCP server `NLTK`, catalogued on PulseMCP. Provides a lightweight word-finding tool for word games, efficiently filtering and returning the longest valid word from a local corpus based on given letter constraints.

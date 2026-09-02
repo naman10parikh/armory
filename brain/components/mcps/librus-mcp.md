@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T11:30:47Z"
 ---
 ## What it is
 Enables read-only access to a Librus Portal account, letting users list linked Synergia accounts and retrieve grades, attendance, timetable, homework, notices, and school information.

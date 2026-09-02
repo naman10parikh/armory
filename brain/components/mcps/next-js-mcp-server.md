@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T18:01:37Z"
 ---
 ## What it is
 Enables MCP-compatible clients to inspect Next.js codebases, analyze App Router and Pages Router structure, discover API routes, and audit build performance through controlled tools.

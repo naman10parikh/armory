@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T15:37:48Z"
 ---
 ## What it is
 Provides read-only, real-time access to TON blockchain data including wallet balances, token holdings, transactions, prices, NFTs, DNS resolution, and address validation, without requiring private keys.

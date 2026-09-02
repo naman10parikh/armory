@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T17:48:28Z"
 ---
 ## What it is
 A privacy-conscious MCP server that enables image analysis via Google Gemini with safety features like two-step confirmation and SSRF defenses.

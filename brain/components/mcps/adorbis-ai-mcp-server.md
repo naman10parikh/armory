@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T20:00:06Z"
 ---
 ## What it is
 Enables AI assistants to access 40+ models via one API key with automatic routing for chat, code, reasoning, and writing tasks.

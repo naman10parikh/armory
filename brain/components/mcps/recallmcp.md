@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T23:27:30Z"
 ---
 ## What it is
 Provides persistent semantic memory for AI agents via MCP, enabling them to remember, recall, list, update, and forget memories with vector-based similarity search.

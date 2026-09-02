@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-08-27T14:51:59Z"
 ---
 ## What it is
 Enables LLMs like Claude to query the official Spanish BOE API for consolidated legislation, daily summaries, and auxiliary government tables.

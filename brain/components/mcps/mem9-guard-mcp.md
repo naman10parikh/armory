@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T17:13:22Z"
 ---
 ## What it is
 An MCP server that provides a guarded interface to the mem9 persistent memory backend, protecting AI agents against prompt injection, secret leakage, and memory poisoning.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:15Z"
 ---
 ## What it is
 Enables querying DETRAN Ceará traffic fine issuance data from official sources via a read-only MCP tool, with pay-per-use prepaid credits and magic-link login.

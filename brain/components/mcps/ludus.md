@@ -8,10 +8,12 @@ source_url: https://github.com/badsectorlabs/ludus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-16T01:40:29Z"
 ---
 ## What it is
 MCP server `Ludus`, catalogued on PulseMCP. Manages Ludus cyber range infrastructure from AI coding assistants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T04:32:13Z"
 ---
 ## What it is
 Enables Claude to query user-curated, dated memory entries stored locally, giving users direct control over what the AI remembers about them.

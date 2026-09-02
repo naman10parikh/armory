@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-04T20:37:01Z"
 ---
 ## What it is
 Flask-based server that exposes callable tools via HTTP endpoints for AI agents like Gemini CLI, enabling agent orchestration, tool introspection, and workflow automation with a centralized tool registry.

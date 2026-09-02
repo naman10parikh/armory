@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-18T10:20:47Z"
 ---
 ## What it is
 MCP server for semantic search of 1C (BSL) code templates with 2262+ community templates, CRUD web interface, and ChromaDB + embeddings for meaning-based search.

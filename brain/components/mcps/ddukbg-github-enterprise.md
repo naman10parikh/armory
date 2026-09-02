@@ -12,6 +12,8 @@ stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-09-14T03:39:33Z"
 ---
 ## What it is
 MCP server `GitHub Enterprise`, catalogued on PulseMCP. Bridges GitHub Enterprise with natural language interaction, enabling repository management, issue tracking, and code access for streamlined development workflows without leaving your assistant interface.

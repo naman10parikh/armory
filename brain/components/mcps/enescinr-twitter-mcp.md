@@ -8,10 +8,12 @@ source_url: https://github.com/enescinr/twitter-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 395
+stars: 401
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 57
+pushed_at: "2025-07-17T18:49:11Z"
 ---
 ## What it is
 MCP server `X (Twitter)`, catalogued on PulseMCP. Interact with X (Twitter) by posting tweets and searching for tweets through the X API.

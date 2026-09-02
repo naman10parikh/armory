@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-12T00:22:27Z"
 ---
 ## What it is
 MCP server `Google Contacts`, catalogued on PulseMCP. Integrates with Google Contacts through OAuth 2.1 to provide secure read-only access for contact listing, searching, and retrieval while storing only tokens with automatic cleanup.

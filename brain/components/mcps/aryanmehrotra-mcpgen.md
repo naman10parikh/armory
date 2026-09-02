@@ -8,10 +8,12 @@ source_url: https://github.com/aryanmehrotra/mcpgen
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-30T11:45:44Z"
 ---
 ## What it is
 MCP server `MCPGen`, catalogued on PulseMCP. Converts OpenAPI/Swagger specs into MCP servers at runtime without code generation.

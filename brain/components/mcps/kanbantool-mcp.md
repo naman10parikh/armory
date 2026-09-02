@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T01:15:26Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to Kanban Tool for reading and managing boards, tasks, and workflows via natural language.

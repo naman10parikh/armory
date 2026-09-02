@@ -8,10 +8,12 @@ source_url: https://github.com/veerps57/memento
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T16:01:19Z"
 ---
 ## What it is
 MCP server `Memento`, catalogued on PulseMCP. Local-first, LLM-agnostic memory layer for AI assistants using a local SQLite database.

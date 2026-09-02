@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T10:32:28Z"
 ---
 ## What it is
 An MCP server for SAP HANA that enables listing tables, columns, running SQL queries, and looking up SAP table descriptions, all through natural language via AI assistants.

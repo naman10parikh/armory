@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T23:16:09Z"
 ---
 ## What it is
 An MCP server that answers questions over insurance and regulatory documents using retrieval-augmented generation, returning grounded, cited passages via local embeddings and OpenSearch.

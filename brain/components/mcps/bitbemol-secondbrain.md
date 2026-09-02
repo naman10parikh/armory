@@ -8,10 +8,12 @@ source_url: https://github.com/bitbemol/secondbrainmcp-public
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T01:45:13Z"
 ---
 ## What it is
 MCP server `SecondBrain`, catalogued on PulseMCP. Local Markdown note vault and PDF reference library with Git auto-commit, full-text search, image-based PDF reading, and soft deletes.

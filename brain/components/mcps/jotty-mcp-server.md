@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T02:32:03Z"
 ---
 ## What it is
 Provides programmatic access to notes, checklists, and Kanban task boards via the Model Context Protocol, with multi-user support through per-call API keys.

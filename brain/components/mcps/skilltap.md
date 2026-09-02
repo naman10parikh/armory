@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:40:30Z"
 ---
 ## What it is
 Exposes MCP tools to list, search, and load Markdown skills from a local folder, enabling coding agents to discover and reuse procedural knowledge.

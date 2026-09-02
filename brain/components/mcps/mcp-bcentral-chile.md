@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T00:03:32Z"
 ---
 ## What it is
 MCP server for accessing Chilean Central Bank economic data (UF, UTM, IPC, exchange rates, IMACEC, GDP) via official APIs, including series lookup and metadata tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T12:36:14Z"
 ---
 ## What it is
 Enables AI agents to perform semantic search over React Native documentation, retrieve specific pages, and manage doc versions locally without API keys.

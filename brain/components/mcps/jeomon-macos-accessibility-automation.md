@@ -8,10 +8,12 @@ source_url: https://github.com/cursortouch/macos-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 165
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-08-27T07:38:54Z"
 ---
 ## What it is
 MCP server `macOS Automation`, catalogued on PulseMCP. Automates macOS desktop interactions using the Accessibility API for UI control and task execution.

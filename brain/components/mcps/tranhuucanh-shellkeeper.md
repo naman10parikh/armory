@@ -8,10 +8,12 @@ source_url: https://github.com/tranhuucanh/mcp-shellkeeper
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-10T16:53:53Z"
 ---
 ## What it is
 MCP server `ShellKeeper`, catalogued on PulseMCP. Provides persistent terminal sessions with SSH support that maintain stateful shell connections across multiple command executions, enabling complex workflows like remote server administration, multi-step operations, and interactive applications that require session continuity.

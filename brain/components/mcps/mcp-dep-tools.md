@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T20:22:09Z"
 ---
 ## What it is
 MCP server providing dependency and package management tools for AI agents. Analyze licenses, find outdated packages, visualize dependency trees, estimate bundle sizes, and audit security vulnerabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T04:50:15Z"
 ---
 ## What it is
 Generates hand-drawn Excalidraw diagrams from natural language prompts or structured descriptions, with tools for creating, listing, and opening diagrams directly in the browser.

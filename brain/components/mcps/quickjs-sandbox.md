@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-04T18:00:43Z"
 ---
 ## What it is
 MCP server `QuickJS Sandbox`, catalogued on PulseMCP. Provides a secure JavaScript execution environment using QuickJS in WebAssembly, enabling safe execution of arbitrary JavaScript code without security risks.

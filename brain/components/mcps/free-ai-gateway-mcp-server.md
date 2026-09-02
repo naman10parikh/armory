@@ -8,11 +8,13 @@ source_url: https://github.com/zaber-dev/free-ai-gateway
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-24T09:27:48Z"
 ---
 ## What it is
 Exposes free-tier AI APIs as MCP tools for AI agents, enabling text generation, web search, embeddings, and vision analysis with automatic failover and capability routing.

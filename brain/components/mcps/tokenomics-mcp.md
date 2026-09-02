@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T06:05:00Z"
 ---
 ## What it is
 Counts LLM prompt tokens and estimates API costs across OpenAI and Anthropic models directly inside MCP-compatible chat clients. Supports exact tokenization for OpenAI models and fallback approximation for Claude when no API key is present.

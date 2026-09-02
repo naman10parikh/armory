@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-27T23:06:13Z"
 ---
 ## What it is
 MCP server `Prefect`, catalogued on PulseMCP. Integrates with Prefect workflow orchestration platform to enable natural language control over flow management, deployment operations, task monitoring, and infrastructure management with complete CRUD operations across flows, deployments, task runs, work queues, variables, and blocks.

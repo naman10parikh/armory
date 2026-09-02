@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-15T09:34:04Z"
 ---
 ## What it is
 Provides tools for searching Agent8 game development code examples and system prompts to assist in Agent8 SDK development.

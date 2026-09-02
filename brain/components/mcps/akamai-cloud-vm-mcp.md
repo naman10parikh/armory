@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T05:51:31Z"
 ---
 ## What it is
 Enables managing Akamai Cloud (Linode) Compute Instances via MCP, with tools to list, create, view, update, delete, boot, reboot, shutdown, resize, and clone VMs. Each connecting client brings its own Linode Personal Access Token, which is passed through without being stored.

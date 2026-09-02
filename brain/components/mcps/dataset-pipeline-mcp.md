@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T19:16:51Z"
 ---
 ## What it is
 An MCP server that searches HuggingFace/Kaggle for datasets, detects their domain, and generates a matching preprocessing script. It turns natural-language dataset queries into runnable, domain-aware preprocessing pipelines.

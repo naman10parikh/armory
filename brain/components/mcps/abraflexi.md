@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T17:31:53Z"
 ---
 ## What it is
 MCP server `AbraFlexi`, catalogued on PulseMCP. Integration with AbraFlexi ERP for managing invoices, contacts, products, and bank transactions.

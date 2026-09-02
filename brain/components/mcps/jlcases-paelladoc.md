@@ -8,10 +8,12 @@ source_url: https://github.com/jlcases/paelladoc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 341
+stars: 337
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 54
+pushed_at: "2026-05-19T16:14:36Z"
 ---
 ## What it is
 MCP server `Paelladoc`, catalogued on PulseMCP. Generates structured documentation for software projects through code analysis, template management, and specialized commands for consistent documentation practices across diverse project types.

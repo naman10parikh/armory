@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T01:23:27Z"
 ---
 ## What it is
 MCP server for the WHO International Classification of Functioning, Disability and Health (ICF) with tools for code lookup, search, and clinical instrument scoring, deployed on Cloudflare Workers.

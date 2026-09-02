@@ -8,10 +8,12 @@ source_url: https://github.com/waldzellai/clearthought-onepointfive
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-10-20T23:53:44Z"
 ---
 ## What it is
 MCP server `Clear Thought`, catalogued on PulseMCP. Provides 38 structured reasoning operations across core thinking patterns, collaborative reasoning, and advanced patterns like tree-of-thought and MCTS with session-based state management for systematic problem-solving workflows and educational applications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-23T03:48:29Z"
 ---
 ## What it is
 An MCP server enabling AI agents to interact with the 0G blockchain, including balance checks, transaction details, block info, and network statistics.

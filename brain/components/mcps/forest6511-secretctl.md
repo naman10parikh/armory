@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
-stars: 8
+stars: 9
+forks: 6
+pushed_at: "2026-01-22T16:07:35Z"
 ---
 ## What it is
 AI-safe secrets manager with MCP integration. Run commands with credentials injected as environment variables - AI agents never see plaintext secrets. Features output sanitization, AES-256-GCM encryption, and Argon2id key derivation.

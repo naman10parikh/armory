@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T09:02:23Z"
 ---
 ## What it is
 An MCP server that lets an LLM build, inspect and drive a running BrowserCard deck live in the browser.

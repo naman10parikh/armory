@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T09:37:44Z"
 ---
 ## What it is
 MCP server that routes natural language requests to structured tool calls using a LoRA-tuned small language model, with built-in validation, retry, and fallback recovery.

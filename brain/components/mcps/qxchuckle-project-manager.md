@@ -8,10 +8,12 @@ source_url: https://github.com/qxchuckle/qcqx-project-manage
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-08T12:42:10Z"
 ---
 ## What it is
 MCP server `QCQX Project Manager`, catalogued on PulseMCP. Project management capabilities for AI agents via Cursor, Claude Desktop, and other MCP clients.

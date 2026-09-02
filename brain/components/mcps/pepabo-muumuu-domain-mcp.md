@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 1
+forks: 0
+pushed_at: "2026-08-04T10:26:37Z"
 ---
 ## What it is
 Official remote MCP server for Muumuu Domain (GMO Pepabo). Search and register domains, manage owned domains and contracts, and configure DNS records via natural language.

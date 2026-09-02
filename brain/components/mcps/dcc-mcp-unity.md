@@ -8,11 +8,13 @@ source_url: https://github.com/dcc-mcp/dcc-mcp-unity
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:45:46Z"
 ---
 ## What it is
 Unity Editor adapter for the DCC MCP ecosystem, providing tools to inspect and modify Unity projects, scenes, builds, and diagnostics through a WebSocket bridge.

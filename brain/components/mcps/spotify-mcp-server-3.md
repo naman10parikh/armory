@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-24T11:58:35Z"
 ---
 ## What it is
 An unofficial MCP server that provides access to Spotify's Web API through the Model Context Protocol, enabling AI assistants to search music, manage playlists, and control playback.

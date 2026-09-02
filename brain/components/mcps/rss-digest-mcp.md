@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T04:42:41Z"
 ---
 ## What it is
 A stateless RSS competitive-intelligence MCP server that fetches and filters RSS/Atom feeds by keywords, deduplicates, and sorts by recency to return a focused digest.

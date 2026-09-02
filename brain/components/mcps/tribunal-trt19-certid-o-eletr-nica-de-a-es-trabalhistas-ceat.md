@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:09Z"
 ---
 ## What it is
 Provides a read-only tool to consult official labor court (TRT19) electronic certificates of labor actions (CEAT), with pay-per-use credits and support for any MCP client.

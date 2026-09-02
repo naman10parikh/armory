@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T21:54:35Z"
 ---
 ## What it is
 An enterprise-grade MCP server that enables AI coding assistants to securely connect with external tools, APIs, databases, and cloud services through a unified interface, offering structured engineering workflows and multi-client support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-03T11:21:30Z"
 ---
 ## What it is
 Access 400+ generative AI models directly from your AI assistant — generate images (FLUX, Midjourney, GPT-4o), create videos (Veo3, Kling), make music (Suno), and enhance photos, all via a single MCP server.

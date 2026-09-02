@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:22:08Z"
 ---
 ## What it is
 Enables compliance due diligence by identifying the ultimate beneficiary of a Brazilian company or individual from CNPJ or CPF. It is a read-only MCP server that works with any MCP client, using prepaid credits per query.

@@ -8,10 +8,12 @@ source_url: https://github.com/mmorris35/devplan-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-17T20:26:36Z"
 ---
 ## What it is
 MCP server `DevPlan`, catalogued on PulseMCP. Transform project ideas into structured development plans with phases, tasks, and subtasks

@@ -8,11 +8,13 @@ source_url: https://github.com/mailgun/mailgun-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 1
+forks: 21
+pushed_at: "2026-07-24T16:31:37Z"
 ---
 ## What it is
 MCP server `Mailgun`, catalogued on PulseMCP. Integrates with Mailgun's email service API to enable sending emails and retrieving delivery statistics through over 30 endpoints including message sending, domain information, and analytics

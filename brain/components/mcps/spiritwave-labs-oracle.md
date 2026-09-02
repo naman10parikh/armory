@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T01:05:26Z"
 ---
 ## What it is
 Divination for AI agents: Hafez, Tarot, I Ching, Runes, and Geomancy. Plus the Pentamancy Council, all five oracles consulted in parallel and synthesized into one unified counsel. For when you need a new perspective on a current problem: a unique and pointed randomness for the stuck ones, genuine gu

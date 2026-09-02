@@ -8,11 +8,13 @@ source_url: https://github.com/Ghost11777/x402-farm
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T13:55:05Z"
 ---
 ## What it is
 MCP server providing 10 pay-per-call APIs for web scraping, DNS, email validation, and French business data, with autonomous micropayments via the x402 protocol (USDC on Base).

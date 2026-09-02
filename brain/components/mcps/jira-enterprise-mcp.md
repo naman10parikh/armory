@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T14:57:56Z"
 ---
 ## What it is
 Small MCP server for connecting to enterprise Jira using a personal access token. It enables issue operations, project listing, JQL searches, and attachment handling.

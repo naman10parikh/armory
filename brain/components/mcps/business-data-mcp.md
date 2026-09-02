@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T10:36:48Z"
 ---
 ## What it is
 An evidence-first Model Context Protocol server for private business documents and structured datasets, preserving original files and source lineage.

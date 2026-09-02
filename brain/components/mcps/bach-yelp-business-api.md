@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-04T05:42:15Z"
 ---
 ## What it is
 Enables accessing Yelp Business API to search businesses, get reviews, menus, and business details.

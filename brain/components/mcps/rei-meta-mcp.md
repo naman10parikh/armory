@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T00:56:55Z"
 ---
 ## What it is
 A meta-layer MCP server that treats connectors as objects and access paths as morphisms, enabling automated coherence checks across multiple data sources to detect inconsistencies. It provides tools to list sources, compare fingerprints for coherence, and identify divergent or unreachable sources.

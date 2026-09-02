@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:16:37Z"
 ---
 ## What it is
 Enables hybrid retrieval-augmented generation with semantic and keyword search over documents, supporting multiple formats and providing MCP integration for Claude Desktop.

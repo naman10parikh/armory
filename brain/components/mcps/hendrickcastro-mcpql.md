@@ -8,10 +8,12 @@ source_url: https://github.com/hendrickcastro/mcpql
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-01-30T08:37:09Z"
 ---
 ## What it is
 MCP server `MCPQL (SQL Server)`, catalogued on PulseMCP. Connects to SQL Server databases through 10 specialized tools for table analysis, stored procedure inspection, data preview with filtering, column statistics, query execution, and database object search with support for multiple authentication methods and connection pooling.

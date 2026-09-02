@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-03-28T06:05:36Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to access and manage Cucumber Studio testing platform data, including test scenarios, action words, test runs, and project information.

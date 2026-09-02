@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-14T00:11:17Z"
 ---
 ## What it is
 Provides AI assistants with instant access to comprehensive Medusa.js v2 documentation, enabling smart search, precise section retrieval, and complete browsing through 2,105+ documentation sections.

@@ -8,10 +8,12 @@ source_url: https://github.com/chrisguidry/you-need-an-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-20T18:05:21Z"
 ---
 ## What it is
 MCP server `YNAB`, catalogued on PulseMCP. Integrates with YNAB's official API to provide read-only access to budget data including accounts, categories, and monthly budget information with automatic currency formatting and pagination support.

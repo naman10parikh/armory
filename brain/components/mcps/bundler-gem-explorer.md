@@ -8,10 +8,12 @@ source_url: https://github.com/subelsky/bundler_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-29T22:11:55Z"
 ---
 ## What it is
 MCP server `Bundler Gem Explorer`, catalogued on PulseMCP. Provides detailed information about Ruby gem dependencies in a project's Gemfile, including versions, descriptions, installation paths, documentation locations, and source code files.

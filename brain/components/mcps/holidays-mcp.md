@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T13:54:47Z"
 ---
 ## What it is
 Provides real, official public holiday data for ~100 countries with tools to list holidays for a year and check if a specific date is a holiday. Free, no API key required, powered by Nager.Date.

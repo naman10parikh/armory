@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-08T11:29:49Z"
 ---
 ## What it is
 MCP server for managing developer escalation (Batman system) to resolve incidents during sprints, with tools for developer CRUD, unavailability, authentication, and Batman assignment.

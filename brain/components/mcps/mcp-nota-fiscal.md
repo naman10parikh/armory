@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T13:45:19Z"
 ---
 ## What it is
 Enables AI assistants to interact with Brazilian electronic invoices (NF-e, NFC-e, NFS-e) via Nuvem Fiscal API, including CNPJ lookup, invoice issuance, cancellation, and PDF generation.

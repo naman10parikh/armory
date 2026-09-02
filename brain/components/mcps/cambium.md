@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:17:52Z"
 ---
 ## What it is
 Knowledge-lifecycle MCP: turn agent work into memory, recall it across projects

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T00:13:12Z"
 ---
 ## What it is
 Verifies legal case citations against real court records to detect hallucinated or misattributed citations.

@@ -8,10 +8,12 @@ source_url: https://github.com/guoling2008/go-mcp-postgres
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-08-27T02:09:03Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. Enables secure interaction with PostgreSQL databases for schema management and CRUD operations with safety features like read-only mode and query plan validation

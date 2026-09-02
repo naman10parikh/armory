@@ -8,10 +8,12 @@ source_url: https://github.com/spences10/mcp-jinaai-reader
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-05T11:39:33Z"
 ---
 ## What it is
 MCP server `JinaAI`, catalogued on PulseMCP. Extracts and processes web content for efficient parsing and analysis of online information

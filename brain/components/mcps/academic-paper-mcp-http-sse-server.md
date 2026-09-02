@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-11T06:37:16Z"
 ---
 ## What it is
 A MCP server for academic literature retrieval, aggregating multiple data sources like arXiv, Crossref, OpenAlex, PubMed, and Semantic Scholar to provide search, details, citations, trends, and recommendations.

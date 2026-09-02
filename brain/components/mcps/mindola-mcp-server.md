@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:41:03Z"
 ---
 ## What it is
 MCP server for creating and managing Mindola lenses, which are grounded AI pages that answer questions from your own material with citations. Enables AI assistants to create lenses, add knowledge, and monitor status through natural language.

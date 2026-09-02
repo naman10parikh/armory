@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T02:41:17Z"
 ---
 ## What it is
 An MCP server that returns motivational quotes matched to the task you're working on, with tools to list topics and explain matches. It also includes a hook for receiving a quote on every prompt submission.

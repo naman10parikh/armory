@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T21:23:42Z"
 ---
 ## What it is
 Converts ECU Master EMU Black binary logs to MegaLogViewer HD format. Allows AI assistants to inspect channel summaries and perform analysis.

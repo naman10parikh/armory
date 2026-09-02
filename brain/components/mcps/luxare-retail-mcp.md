@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T11:30:36Z"
 ---
 ## What it is
 An MCP server that exposes Diaspark retail reporting APIs for searching customers, sales history, and inventory through tools compatible with Claude Desktop and Claude Code.

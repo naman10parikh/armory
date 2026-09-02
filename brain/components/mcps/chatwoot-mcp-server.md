@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T08:56:48Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that connects AI assistants like Claude to your Chatwoot instance. Manage customer conversations, read messages, send replies, and filter by date ranges -- all through natural language.

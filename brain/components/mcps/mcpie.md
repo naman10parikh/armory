@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T01:51:09Z"
 ---
 ## What it is
 An MCP server that lets you order your usual pizza from Domino's with a single tool call, using cash at pickup. It supports checking store status, menus, coupons, and dry-run pricing, with a hard confirmation gate before placing real orders.

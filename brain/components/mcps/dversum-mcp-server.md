@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T15:33:22Z"
 ---
 ## What it is
 Official MCP server for the dVersum business management API. Lets AI assistants like Claude Desktop, Cursor, and Windsurf interact with your dVersum workspace — managing clients, projects, tasks, invoices, time tracking, and more.

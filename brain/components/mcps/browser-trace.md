@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T15:37:57Z"
 ---
 ## What it is
 MCP server that lets agents drive a browser and record every action into a replayable trace, then replay it deterministically with network request assertions. It exposes tools for navigating, clicking, filling, and verifying requests.

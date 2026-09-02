@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T09:46:14Z"
 ---
 ## What it is
 Audits public websites for AI crawler access, public technical signals, and deployment readiness. Includes a focused path to the full readiness report when deeper remediation guidance is needed.

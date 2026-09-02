@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-05T18:31:36Z"
 ---
 ## What it is
 MCP server `Go Documentation`, catalogued on PulseMCP. Exposes Go documentation and package listing capabilities through 'go doc' and 'go list' commands, enabling efficient querying of official Go documentation and codebase understanding.

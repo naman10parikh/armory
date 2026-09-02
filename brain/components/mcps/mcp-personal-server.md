@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T10:57:53Z"
 ---
 ## What it is
 Enables AI models to securely read, write, and query metadata of local files through a controlled file system interface, with support for local and Azure deployment.

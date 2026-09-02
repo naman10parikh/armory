@@ -8,10 +8,12 @@ source_url: https://github.com/guillochon/mlb-api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-08-01T23:50:45Z"
 ---
 ## What it is
 MCP server `MLB Stats API`, catalogued on PulseMCP. Integrates with MLB Stats API and pybaseball to provide real-time baseball statistics, game schedules, player data including sabermetrics, team rosters, live scores, highlights, and Statcast analytics for sports research and fantasy baseball applications.

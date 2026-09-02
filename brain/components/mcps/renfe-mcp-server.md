@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-24T08:55:47Z"
 ---
 ## What it is
 Enables querying Renfe train schedules, checking prices, and finding stations across Spain using official GTFS data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T17:33:56Z"
 ---
 ## What it is
 MCP server for scraping product prices, offers, reviews, and details from Amazon, Google Shopping, Bol.com, and Coolblue via natural language commands, with spend-cap protections.

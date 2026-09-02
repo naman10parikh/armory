@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:54:51Z"
 ---
 ## What it is
 Enables checking liquidity depth for Solana DEX pools (Raydium, Orca, Meteora) via pay-per-call x402 micropayments. Returns TVL, slippage estimates, volume, and fee tier for a given token mint.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T17:52:07Z"
 ---
 ## What it is
 Drives Lumen's data-to-SQL-to-chart-to-report loop from any MCP client, supporting keyless SQL and charting or keyed agentic data analysis.

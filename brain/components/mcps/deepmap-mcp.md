@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T19:21:42Z"
 ---
 ## What it is
 Enables LLMs to directly access and analyze cancer dependency data from the DepMap, including gene search, dependency summaries, and top cell line dependencies, for therapeutic target evidence collection.

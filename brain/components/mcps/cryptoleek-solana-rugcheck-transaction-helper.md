@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-14T04:43:06Z"
 ---
 ## What it is
 MCP server `Solana RugCheck & Transaction Helper`, catalogued on PulseMCP. Integrates with Solana blockchain to enable token security analysis and transaction execution through RugCheck for scam detection and TransactionHelper for retrieving transaction history.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:45:46Z"
 ---
 ## What it is
 MCP server `Bundestag`, catalogued on PulseMCP. Query German Bundestag parliamentary data including bills, plenary protocols, drucksachen, and committee activities via the official DIP API.

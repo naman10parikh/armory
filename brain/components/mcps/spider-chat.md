@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-26T21:04:38Z"
 ---
 ## What it is
 MCP server `Spider Chat`, catalogued on PulseMCP. Integrates with Spider Chat's nonlinear conversation platform to retrieve flows, search memories with importance filtering, and access user facts

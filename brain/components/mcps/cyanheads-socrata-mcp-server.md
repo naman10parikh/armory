@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T21:40:50Z"
 ---
 ## What it is
 Search and query government open-data portals (Socrata SODA API) via MCP.

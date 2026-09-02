@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, location-services]
 stars: 4
+forks: 2
+pushed_at: "2026-07-08T00:28:34Z"
 ---
 ## What it is
 Geospatial tools for AI agents: geocoding, routing, elevation, spatial analysis, and file I/O (Shapefile, GeoJSON, GeoPackage)

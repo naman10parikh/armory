@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-21T17:44:11Z"
 ---
 ## What it is
 MCP server `Twitter NoAuth`, catalogued on PulseMCP. Provides Twitter API access without local credential setup through a decoupled architecture where clients handle OAuth flows independently and pass credentials as context for core Twitter operations.

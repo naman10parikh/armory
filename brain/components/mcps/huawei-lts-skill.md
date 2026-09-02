@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T05:34:04Z"
 ---
 ## What it is
 Enables interaction with Huawei Cloud Log Tank Service (LTS) through natural language, supporting log group listing, log search, and other LTS operations.

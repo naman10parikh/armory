@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-06T11:33:01Z"
 ---
 ## What it is
 A unified knowledge retrieval tool for MCP-compatible LLMs, enabling structured external knowledge access from local files and future integrations.

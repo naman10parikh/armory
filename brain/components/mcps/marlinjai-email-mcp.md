@@ -8,11 +8,13 @@ source_url: https://github.com/marlinjai/email-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-08-31T21:05:10Z"
 ---
 ## What it is
 A unified MCP server for email access across Gmail, Outlook, iCloud, and generic IMAP providers, enabling search, send, organize, and batch operations.

@@ -8,10 +8,12 @@ source_url: https://github.com/catoncat/notion-local-ops-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 85
+stars: 105
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 38
+pushed_at: "2026-07-25T04:25:11Z"
 ---
 ## What it is
 MCP server `Notion Local Operations`, catalogued on PulseMCP. Gives Notion's custom AI agent access to local file operations, shell commands, and Git workflows through 18+ tools via a cloudflared HTTPS tunnel.

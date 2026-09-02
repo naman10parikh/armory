@@ -8,11 +8,13 @@ source_url: https://github.com/baochaofan0404/gpt-dsh-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T06:18:56Z"
 ---
 ## What it is
 MCP server bridging ChatGPT to DeepSeek Harness, exposing 13 tools for task submission, status tracking, result retrieval, project/session management, and human-in-the-loop approvals.

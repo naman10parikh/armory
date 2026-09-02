@@ -8,10 +8,12 @@ source_url: https://github.com/sammcj/mcp-package-version
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 121
+stars: 122
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-01-28T12:14:12Z"
 ---
 ## What it is
 MCP server `Package Version Checker`, catalogued on PulseMCP. Get package version data from npm and PyPI registries to assist with dependency management.

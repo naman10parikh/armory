@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T22:56:29Z"
 ---
 ## What it is
 Provides cloud architecture analysis, recommendations, and artifacts (diagrams, ADRs, deployment comparisons) for any project, supporting AWS, GCP, and Azure.

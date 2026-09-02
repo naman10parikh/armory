@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T06:31:15Z"
 ---
 ## What it is
 MCP server that gives an AI agent a throwaway test identity — a real disposable email address and a real UK phone number — so it can sign up for something it's testing and read back the verification email/SMS itself, without a human in the loop.

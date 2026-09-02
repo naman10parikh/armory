@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T08:36:29Z"
 ---
 ## What it is
 MCP server `WealthGuard`, catalogued on PulseMCP. Manage personal finances through natural language by connecting Claude to a Google Sheets spreadsheet for budget tracking, forecasting, and transaction logging.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-24T08:42:18Z"
 ---
 ## What it is
 MCP server `Boltwork`, catalogued on PulseMCP. Pay-per-call AI services including PDF summarization, code review, and translation via Bitcoin Lightning.

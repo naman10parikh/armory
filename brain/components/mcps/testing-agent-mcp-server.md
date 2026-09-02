@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-14T09:00:01Z"
 ---
 ## What it is
 Provides self-healing UI/API test automation via Plan-Generate-Run-Heal cycle, exposing MCP tools for test platforms to trigger batches and retrieve reports.

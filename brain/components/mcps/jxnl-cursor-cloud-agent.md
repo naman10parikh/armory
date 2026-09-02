@@ -8,10 +8,12 @@ source_url: https://github.com/jxnl/cursor-cloud-agent-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-25T19:26:03Z"
 ---
 ## What it is
 MCP server `Cursor Cloud Agents`, catalogued on PulseMCP. Integrates with Cursor's Cloud Agents API for automated repository management, code generation, task monitoring, and PR creation across multiple repositories with git context detection.

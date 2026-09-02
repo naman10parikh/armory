@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T05:22:15Z"
 ---
 ## What it is
 Enables Claude Code to interact with Discord servers, including sending messages, reading channels, managing threads, and adding reactions via natural language commands.

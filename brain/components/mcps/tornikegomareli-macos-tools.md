@@ -8,10 +8,12 @@ source_url: https://github.com/tornikegomareli/macos-tools-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-02T21:48:25Z"
 ---
 ## What it is
 MCP server `macOS Tools`, catalogued on PulseMCP. Provides macOS system monitoring with SQLite-based historical data storage and enhanced file search with tagging support, collecting real-time CPU, memory, disk, and network metrics while offering content-based file searching with regex support and macOS file tagging operations through native utilities like Spotlight and extended attributes.

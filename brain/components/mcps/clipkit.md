@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T06:35:15Z"
 ---
 ## What it is
 Author, validate, preview, and render motion-graphics videos from a single JSON document (Clipkit Protocol). 16 tools with in-chat PNG previews, captions, templated promos, and hand-off to a free browser editor by link.

@@ -8,10 +8,12 @@ source_url: https://github.com/pluginslab/wp-blockmarkup-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-13T10:34:59Z"
 ---
 ## What it is
 MCP server `WP Block Markup`, catalogued on PulseMCP. WordPress Gutenberg block schema indexing and validation for 121 core blocks.

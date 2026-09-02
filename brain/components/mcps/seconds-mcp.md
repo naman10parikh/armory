@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T09:52:32Z"
 ---
 ## What it is
 Summarizes tabular data (ambulance dispatch response times) and lets AI agents query it in natural language via MCP tools for aggregates, grouping, and trends.

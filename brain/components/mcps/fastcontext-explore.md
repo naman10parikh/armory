@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-18T06:18:30Z"
 ---
 ## What it is
 An MCP server that wraps Microsoft's FastContext as a read-only repository exploration subagent, enabling coding agents to delegate broad code searches and receive compact file:line citations.

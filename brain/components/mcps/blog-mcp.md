@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T22:32:06Z"
 ---
 ## What it is
 Enables creating draft posts and listing published posts on abelcastro.dev directly from Claude.

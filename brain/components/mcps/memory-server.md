@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T09:48:02Z"
 ---
 ## What it is
 A memory management MCP server that stores and retrieves key-value data with namespaces, enabling agents to persist and query memory.

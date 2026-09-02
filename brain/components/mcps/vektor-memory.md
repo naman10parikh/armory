@@ -8,10 +8,12 @@ source_url: https://github.com/vektor-memory/vektor-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-06T06:31:27Z"
 ---
 ## What it is
 MCP server `Vektor Memory`, catalogued on PulseMCP. Local-first persistent memory MCP server for AI agents with semantic search, graph retrieval, and autonomous memory compression.

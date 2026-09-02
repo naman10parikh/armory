@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T13:05:44Z"
 ---
 ## What it is
 Connects LinkedIn to AI assistants, enabling lead search, profile analysis, messaging, and workflow automation through a cloud browser. Supports sales, recruiting, and market research tasks.

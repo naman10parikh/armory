@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T19:57:03Z"
 ---
 ## What it is
 Lets Claude Code delegate tasks to OpenRouter-backed Claude Code sessions in isolated child processes, keeping Anthropic and OpenRouter credentials separate. It adds a model catalog, per-job cost tracking, and API-key management for running tasks on 400+ OpenRouter models.

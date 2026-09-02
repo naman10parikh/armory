@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-06T20:20:52Z"
 ---
 ## What it is
 MCP server `KaiaFun`, catalogued on PulseMCP. Enables interaction with the KaiaFun memecoin platform for listing, buying, selling, and managing tokens on the Kaia blockchain.

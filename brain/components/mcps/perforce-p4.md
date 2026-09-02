@@ -8,10 +8,12 @@ source_url: https://github.com/perforce/p4mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 93
+stars: 114
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-08-04T06:01:51Z"
 ---
 ## What it is
 MCP server `Perforce P4`, catalogued on PulseMCP. Integrates with Perforce P4 version control system

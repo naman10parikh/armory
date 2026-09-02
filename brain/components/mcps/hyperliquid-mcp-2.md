@@ -8,11 +8,13 @@ source_url: https://github.com/edkdev/hyperliquid-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-10-27T14:30:43Z"
 ---
 ## What it is
 Enables AI assistants to securely trade on Hyperliquid perpetual exchange, including order placement, position management, market data retrieval, and vault operations via natural language.

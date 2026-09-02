@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T13:18:33Z"
 ---
 ## What it is
 Enables MCP sessions to survive ECS Fargate deployments by using Redis-backed tool state and stateless Streamable HTTP transport.

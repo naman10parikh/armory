@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T01:56:45Z"
 ---
 ## What it is
 Minimal MCP server for Kimi-compatible image analysis, allowing local images to be sent as inline base64 to any compatible endpoint.

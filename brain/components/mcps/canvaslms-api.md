@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T17:33:57Z"
 ---
 ## What it is
 A local MCP server that exposes Canvas LMS courses, assignments, grading, discussions, modules, pages, files, messaging, and peer reviews to an AI assistant through about 100 Markdown-returning tools, with preview-then-confirm behavior for any write operations.

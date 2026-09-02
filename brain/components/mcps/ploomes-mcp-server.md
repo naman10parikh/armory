@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T18:14:55Z"
 ---
 ## What it is
 Connects AI agents to the Ploomes CRM REST API, exposing 56 tools for managing contacts, deals, tasks, pipelines, interactions, quotes, orders, products, fields, users, and account information.

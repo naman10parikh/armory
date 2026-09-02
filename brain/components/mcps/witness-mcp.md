@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T14:58:28Z"
 ---
 ## What it is
 Enables to interact with job application workflows through MCP, allowing users to find jobs, generate non-trivial applications with proof-maps, and build offline dashboards, all without auto-submitting.

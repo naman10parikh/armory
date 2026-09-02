@@ -8,10 +8,12 @@ source_url: https://github.com/stevenstavrakis/obsidian-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 711
+stars: 731
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 92
+pushed_at: "2026-08-27T10:07:19Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Integrates with Obsidian to enable natural language-based note creation, editing, and management within vaults.

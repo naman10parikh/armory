@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T11:54:29Z"
 ---
 ## What it is
 A free public MCP server for Web3 data, providing live chain info, token prices, market data, wallet/token lookups, and travel search, with optional pay-per-call tools settled via x402.

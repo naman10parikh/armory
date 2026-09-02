@@ -8,10 +8,12 @@ source_url: https://github.com/anonimus124/fusion-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-14T22:17:55Z"
 ---
 ## What it is
 MCP server `Fusion 360`, catalogued on PulseMCP. Controls Autodesk Fusion 360 CAD operations including sketching, 3D modeling, assemblies, and file export through a local bridge add-in.

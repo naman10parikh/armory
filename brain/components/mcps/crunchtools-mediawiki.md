@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-10T22:24:23Z"
 ---
 ## What it is
 MCP server `MediaWiki by crunchtools`, catalogued on PulseMCP. Searches, reads, creates, and manages MediaWiki pages, categories, files, and recent changes.

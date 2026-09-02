@@ -8,11 +8,13 @@ source_url: https://github.com/reka-ai/reka-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T04:51:13Z"
 ---
 ## What it is
 Enables AI agents to upload, index, search, and analyze videos through the Reka Vision API, supporting natural language search, visual question answering, and extraction of transcripts and captions.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-27T23:50:40Z"
 ---
 ## What it is
 MCP server `DOM Screenshot`, catalogued on PulseMCP. Captures screenshots of specific DOM elements through an interactive browser overlay that allows users to hover and click on webpage elements to generate PNG images using html2canvas.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-13T12:06:25Z"
 ---
 ## What it is
 Free self-hosted web search for AI agents with multi-engine parallel search, semantic re-ranking, and native China network support. Zero API keys.

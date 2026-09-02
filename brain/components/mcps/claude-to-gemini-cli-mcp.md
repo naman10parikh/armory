@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T18:46:54Z"
 ---
 ## What it is
 An MCP server that lets Claude query Google's Gemini CLI as a sub-agent. Get second opinions, verify information, and cross-reference answers between AI models.

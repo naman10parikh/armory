@@ -8,10 +8,12 @@ source_url: https://github.com/powerdrillai/powerdrill-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-11-18T03:41:32Z"
 ---
 ## What it is
 MCP server `Powerdrill`, catalogued on PulseMCP. Provides tools to interact with Powerdrill datasets to perform data work.

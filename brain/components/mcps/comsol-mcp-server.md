@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-11T09:22:29Z"
 ---
 ## What it is
 MCP Server for COMSOL Multiphysics simulation automation via AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-21T02:35:45Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides comprehensive access to Yahoo Finance data through 18 specialized tools for pricing, financials, options, holders, and news.

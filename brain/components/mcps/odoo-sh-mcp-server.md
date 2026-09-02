@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T22:05:54Z"
 ---
 ## What it is
 SSH-based Model Context Protocol server for Odoo.sh - Build custom apps with AI assistance using Git workflow tools.

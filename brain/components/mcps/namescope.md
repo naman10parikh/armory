@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:15:23Z"
 ---
 ## What it is
 MCP server for evaluating software project name availability across package registries, GitHub, domains, and the command line, with scoring and evidence.

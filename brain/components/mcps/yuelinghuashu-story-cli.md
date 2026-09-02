@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T11:39:19Z"
 ---
 ## What it is
 Git-native Markdown content management CLI with a built-in MCP server. Lets AI clients (Claude, Cursor) search, read, write, and govern story/paper/note repositories, auto-generate READMEs, validate configs, and export EPUB or SFT training data.

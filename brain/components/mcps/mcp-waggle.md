@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T22:41:48Z"
 ---
 ## What it is
 An MCP server for planning and overseeing the tecture-graph project, giving coding agents a persistent place to log researches, development activities, test results, and project progress.

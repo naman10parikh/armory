@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T06:14:49Z"
 ---
 ## What it is
 MCP server for programmatic lifecycle management of Claude Code sessions, supporting list, create, read, send, fork, wait, and interrupt operations.

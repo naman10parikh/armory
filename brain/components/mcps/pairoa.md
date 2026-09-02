@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T07:56:10Z"
 ---
 ## What it is
 Enables private, AI-driven matching of needs and offers (e.g., cofounders, jobs, roommates) without public listings. Intents are matched by AI and revealed only to both sides when a real fit is found.

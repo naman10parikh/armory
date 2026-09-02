@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T20:29:15Z"
 ---
 ## What it is
 Policy-as-code gate for AI-SDLC, providing MCP tools to review prompts, diff tool manifests, vet MCP servers, and run evaluation suites for LLM agent repos.

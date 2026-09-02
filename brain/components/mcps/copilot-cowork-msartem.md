@@ -8,10 +8,12 @@ source_url: https://github.com/msartem/copilot_cowork_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-11T22:05:23Z"
 ---
 ## What it is
 MCP server `Copilot Cowork`, catalogued on PulseMCP. Bridges GitHub Copilot CLI with Microsoft 365 Copilot for terminal-based M365 access.

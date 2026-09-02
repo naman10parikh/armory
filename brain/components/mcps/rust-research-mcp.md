@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-10-15T18:56:46Z"
 ---
 ## What it is
 An MCP server for academic research that enables paper search across 14 sources, PDF download with multi-provider fallback, metadata extraction, and bibliography generation.

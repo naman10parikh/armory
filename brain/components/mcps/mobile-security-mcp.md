@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-29T09:44:43Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to analyze Android APK and iOS IPA files for security issues through natural language conversation, including permission auditing, secret detection, and SDK enumeration.

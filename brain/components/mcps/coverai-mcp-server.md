@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T17:56:09Z"
 ---
 ## What it is
 Automates cover letter generation and application question answering from job postings via local AI agents. Manages candidate profile and AI humanization rules to produce tailored, humanized application materials.

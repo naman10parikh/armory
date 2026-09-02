@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T09:06:09Z"
 ---
 ## What it is
 A collection of uncensored, API-free data acquisition tools for AI agents, featuring anti-corporate web search, image scraping, and OSINT framework that bypass filters via alternative indexers and deep web scanning.

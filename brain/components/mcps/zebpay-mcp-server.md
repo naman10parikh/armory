@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T07:56:01Z"
 ---
 ## What it is
 Enables AI assistants to securely access Zebpay's spot and futures APIs for market data, trading, and account management through the Model Context Protocol, supporting clients like Cursor and Claude Desktop.

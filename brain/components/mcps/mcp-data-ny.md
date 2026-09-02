@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:56:13Z"
 ---
 ## What it is
 MCP server for accessing data.ny.gov datasets via the Socrata Open Data API, enabling search, query, metadata retrieval, and column value exploration.

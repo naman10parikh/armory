@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-01T23:50:41Z"
 ---
 ## What it is
 MCP server `Website Scraper and Analyzer`, catalogued on PulseMCP. Enables website analysis and content extraction using Cloudflare Workers, providing tools to scrape, summarize, and answer questions about web pages without requiring authentication.

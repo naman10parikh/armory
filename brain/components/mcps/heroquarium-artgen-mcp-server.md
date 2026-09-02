@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T03:46:49Z"
 ---
 ## What it is
 Enables Claude to generate pixel art procedurally and normalize external images into a canonical palette and tile size.

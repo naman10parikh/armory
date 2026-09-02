@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-12T17:20:35Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides a bridge between MCP-compatible clients and MinIO object storage. It exposes MinIO operations as MCP tools for seamless bucket management and object operations.

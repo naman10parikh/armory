@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-25T17:11:31Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve cryptographic research papers from the IACR Cryptology ePrint Archive. Supports smart search by title, author, or keywords, paper details, and recent papers.

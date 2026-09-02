@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
 stars: 1
+forks: 2
+pushed_at: "2025-09-03T13:33:14Z"
 ---
 ## What it is
 An MCP server that executes SQL via ConnectorX and streams the result to a CSV or Parquet file. Supports PostgreSQL, MariaDB, BigQuery, RedShift, MS SQL Server, etc.

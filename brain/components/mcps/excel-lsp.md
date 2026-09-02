@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T17:59:52Z"
 ---
 ## What it is
 An MCP server that provides a semantic index and 14 bounded tools for AI agents to navigate Excel workbooks by symbols, references, and diagnostics, avoiding the need to read entire rows.

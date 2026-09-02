@@ -8,10 +8,12 @@ source_url: https://github.com/zazencodes/public-apis-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-08T07:09:44Z"
 ---
 ## What it is
 MCP server `Public APIs`, catalogued on PulseMCP. Provides semantic search across a curated catalog of free public APIs using embedding-based natural language queries to help developers discover APIs by use case, retrieve detailed metadata including authentication and CORS requirements, and match requirements to available capabilities.

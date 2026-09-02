@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-22T00:35:35Z"
 ---
 ## What it is
 MCP server `WhatsApp`, catalogued on PulseMCP. Self-hosted WhatsApp integration with QR code login, message history sync, contact management, and full-text search through a Next.js bridge and FastMCP server.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:19:45Z"
 ---
 ## What it is
 Serves reusable SDLC agent roles and review checklists over MCP, enabling AI coding agents to execute structured product analysis, solution architecture, code review, and release management tasks in GitHub-first projects.

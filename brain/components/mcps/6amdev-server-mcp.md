@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-31T19:52:57Z"
 ---
 ## What it is
 MCP server for managing Ubuntu servers with AI integration, enabling system monitoring, Docker control, Gitea repository management, Ollama LLM interaction, workspace file operations, and Claude Code assistant via natural language.

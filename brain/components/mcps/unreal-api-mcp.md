@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-07-19T19:09:12Z"
 ---
 ## What it is
 Provides accurate Unreal Engine C++ API documentation to AI agents, preventing hallucinated signatures and incorrect includes.

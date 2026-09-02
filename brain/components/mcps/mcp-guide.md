@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:13:03Z"
 ---
 ## What it is
 Enables AI agents to access and manage project guidelines, documentation, and context through a structured content system with template support and workflow management.

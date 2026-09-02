@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T05:14:04Z"
 ---
 ## What it is
 Decodes raw EVM bytes into human-readable JSON via tools for logs, calldata, selectors, and ABIs across multiple chains. Read-only, keyless, and stateless, with optional x402 payment settlement.

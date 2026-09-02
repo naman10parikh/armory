@@ -8,10 +8,12 @@ source_url: https://github.com/file-kiwi/filekiwi-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-28T14:51:57Z"
 ---
 ## What it is
 MCP server `File Kiwi`, catalogued on PulseMCP. Instant file sharing via file.kiwi with automatic download link generation.

@@ -8,10 +8,12 @@ source_url: https://github.com/tatumio/blockchain-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-06-01T21:00:37Z"
 ---
 ## What it is
 MCP server `Tatum Blockchain`, catalogued on PulseMCP. Integrates with Tatum's blockchain infrastructure to provide multi-chain data access across 130+ networks including Bitcoin, Ethereum, Polygon, and Solana for retrieving NFT metadata, wallet portfolios, transaction histories, token ownership verification, and exchange rates.

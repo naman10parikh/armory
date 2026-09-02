@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:24:43Z"
 ---
 ## What it is
 Exposes a local RAG document index as MCP tools (ask, search, rebuild_index, status) for MCP clients like Claude Desktop and Claude Code to query your documents over stdio.

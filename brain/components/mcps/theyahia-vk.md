@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T16:38:37Z"
 ---
 ## What it is
 MCP server `VK`, catalogued on PulseMCP. Integrates with VK social network API for accessing wall posts, searching content, retrieving user profiles, and browsing community data.

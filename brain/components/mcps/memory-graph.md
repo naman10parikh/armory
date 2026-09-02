@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-23T05:16:12Z"
 ---
 ## What it is
 MCP server `Memory Graph`, catalogued on PulseMCP. Provides persistent knowledge graph storage through entity-relationship modeling with observations, enabling long-term memory persistence and contextual information retrieval across conversation sessions.

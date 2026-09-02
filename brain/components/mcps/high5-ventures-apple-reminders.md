@@ -8,10 +8,12 @@ source_url: https://github.com/high5-ventures/apple-reminders-for-claude
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-22T11:25:06Z"
 ---
 ## What it is
 MCP server `Apple Reminders`, catalogued on PulseMCP. Native macOS integration for Apple Reminders with full CRUD operations via EventKit.

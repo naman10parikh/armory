@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T06:57:16Z"
 ---
 ## What it is
 Security scanning MCP server that connects Claude to RepoMend findings, enabling vulnerability management and automated fix drafting.

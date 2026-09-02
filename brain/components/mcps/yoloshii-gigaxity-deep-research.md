@@ -8,10 +8,12 @@ source_url: https://github.com/yoloshii/gigaxity-deep-research
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-17T21:33:53Z"
 ---
 ## What it is
 MCP server `Gigaxity Deep Research`, catalogued on PulseMCP. MCP server combining Tongyi DeepResearch 30B reasoning with multi-source web synthesis via SearXNG, Tavily, and LinkUp for deep research.

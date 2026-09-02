@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:30Z"
 ---
 ## What it is
 Enables querying official Brazilian insurance broker registry data from SUSEP through a read-only, hosted MCP server with pre-paid usage.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-14T04:56:46Z"
 ---
 ## What it is
 Enables location-based services such as geocoding, reverse geocoding, finding nearby places, directions, elevation, and basemap tiles using ArcGIS Location Services.

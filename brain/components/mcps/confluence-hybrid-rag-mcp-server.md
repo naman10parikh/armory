@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T17:34:22Z"
 ---
 ## What it is
 Enables hybrid search and agentic retrieval over Confluence pages via MCP tools, allowing Claude Desktop, Cursor, or Claude Code to search and retrieve Confluence content.

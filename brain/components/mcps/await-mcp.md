@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T07:42:28Z"
 ---
 ## What it is
 Provides blocking await tools to poll commands, URLs, or files until a condition is met, eliminating the need for sleep loops in agent workflows.

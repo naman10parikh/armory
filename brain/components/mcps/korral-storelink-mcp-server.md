@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T21:50:41Z"
 ---
 ## What it is
 Enables AI agents to interact with Korral's StoreLink system to check store inventory and sales data, and create replenishment orders to manage stock-outs.

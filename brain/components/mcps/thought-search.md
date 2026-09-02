@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T10:04:52Z"
 ---
 ## What it is
 MCP server for searching files on macOS by name or content using semantic and lexical search, providing file paths and line numbers for agents to read from.

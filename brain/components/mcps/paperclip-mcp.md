@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-28T19:32:09Z"
 ---
 ## What it is
 MCP server that exposes the Paperclip control plane API as tools for Claude Code agents — manage issues, coordinate agents, post comments, and orchestrate work without direct API calls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:43:28Z"
 ---
 ## What it is
 MCP server that authenticates as a teacher and provides tools for question management and lecture recording on the RuoYi platform.

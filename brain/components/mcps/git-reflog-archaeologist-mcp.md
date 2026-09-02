@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T01:36:56Z"
 ---
 ## What it is
 This MCP server analyzes Git reflog and object data to provide recovery signals after accidental resets or deletions, helping assess whether lost commits or branches may still be recoverable without exposing sensitive details.

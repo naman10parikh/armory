@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-01T11:39:22Z"
 ---
 ## What it is
 MCP server `Resend`, catalogued on PulseMCP. Integrates with Resend API for sending single and batch emails, managing domain verification, creating API keys with specific permissions, and handling contact audiences for email marketing workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T02:50:04Z"
 ---
 ## What it is
 Enables AI agents to search restaurants, check availability, and book reservations on OpenTable, including managing booking history and handling multi-factor authentication.

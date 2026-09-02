@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-17T04:11:10Z"
 ---
 ## What it is
 MCP server `JIRA Service Management`, catalogued on PulseMCP. Integrates with Atlassian JIRA through REST API to provide issue creation, customer request management, comment addition, and administrative functions with Docker containerization and web dashboard monitoring.

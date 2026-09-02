@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T03:02:46Z"
 ---
 ## What it is
 MCP server for fetching US Bureau of Labor Statistics data including CPI, unemployment, wages, JOLTS, and more. Provides 7 tools for survey discovery, SeriesID resolution, and data retrieval via STDIO or Streamable HTTP.

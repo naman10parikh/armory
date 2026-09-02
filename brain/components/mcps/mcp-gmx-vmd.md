@@ -8,11 +8,13 @@ source_url: https://github.com/egtai/gmx-vmd-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-03T08:48:25Z"
 ---
 ## What it is
 Integrates GROMACS molecular dynamics simulations with VMD visualization, enabling setup, execution, analysis, and 3D visualization of molecular dynamics workflows through natural language.

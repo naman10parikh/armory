@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T13:30:49Z"
 ---
 ## What it is
 Enables AI agents to profile React applications, detect performance bottlenecks, and automatically apply fixes like memoization and code hoisting.

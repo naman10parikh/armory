@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-17T02:12:41Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to programmatically create and manage use case diagrams (actors, use cases, subjects, relationships) in StarUML via a REST API.

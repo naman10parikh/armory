@@ -8,10 +8,12 @@ source_url: https://github.com/evidai/agent-payment-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-17T20:20:09Z"
 ---
 ## What it is
 MCP server `xStocks`, catalogued on PulseMCP. Buy tokenized US stocks on Solana via Jupiter DEX in USDC with daily cap and dry-run mode.

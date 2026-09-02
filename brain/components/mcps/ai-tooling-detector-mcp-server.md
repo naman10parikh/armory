@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T19:54:14Z"
 ---
 ## What it is
 Enables AI clients to analyze any company domain and determine its AI maturity tier (commercialized, deployed, declared, or none) with supporting evidence, via a single tool backed by an Apify actor.

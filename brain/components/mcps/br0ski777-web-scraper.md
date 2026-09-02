@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:39Z"
 ---
 ## What it is
 MCP server `Web Scraper`, catalogued on PulseMCP. Extract clean Markdown from any URL, removing boilerplate for use in RAG pipelines.

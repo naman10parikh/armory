@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:51:16Z"
 ---
 ## What it is
 A stateless MCP server for mathematical constants, hosted on Cloudflare Workers, enabling listing constants, calculating pi to arbitrary precision, finding primes in a range, and investigating prime gaps.

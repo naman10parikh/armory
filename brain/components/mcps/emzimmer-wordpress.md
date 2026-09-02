@@ -8,10 +8,12 @@ source_url: https://github.com/emzimmer/server-wp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 115
+stars: 116
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2025-01-28T21:36:51Z"
 ---
 ## What it is
 MCP server `WordPress`, catalogued on PulseMCP. Integrates with WordPress REST API to enable secure content management, user administration, and site configuration tasks.

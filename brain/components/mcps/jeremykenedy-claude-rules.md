@@ -8,10 +8,12 @@ source_url: https://github.com/jeremykenedy/claude-rules-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-09T07:22:59Z"
 ---
 ## What it is
 MCP server `Claude Rules`, catalogued on PulseMCP. Reads Claude Code skills and rules from the filesystem and exposes them as queryable MCP tools.

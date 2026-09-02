@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T05:11:25Z"
 ---
 ## What it is
 Provides a search_code tool for coding agents to perform local, offline semantic code search on a tree-sitter AST indexed codebase using GGUF embeddings, with no network calls or API keys.

@@ -8,10 +8,12 @@ source_url: https://github.com/roshan-rb/autodesk_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-15T11:43:32Z"
 ---
 ## What it is
 MCP server `Autodesk Alias Python API`, catalogued on PulseMCP. Provides access to Autodesk Alias Python API documentation through web scraping with keyword-based search, page listing, and full content retrieval.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-20T02:17:02Z"
 ---
 ## What it is
 MCP server `Bridge (Windows PC Control)`, catalogued on PulseMCP. Provides universal Windows PC control through a cloud relay architecture that connects to a local agent for desktop automation, browser control, and remote assistance with safety approval systems for potentially dangerous operations.

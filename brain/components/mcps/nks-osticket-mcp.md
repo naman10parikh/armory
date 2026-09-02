@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T10:08:18Z"
 ---
 ## What it is
 Enables AI agents to manage osTicket support tickets including listing, searching, reading, creating, updating, replying, deleting, managing subtickets, and downloading attachments.

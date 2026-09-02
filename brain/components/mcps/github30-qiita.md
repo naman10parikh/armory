@@ -8,10 +8,12 @@ source_url: https://github.com/github30/qiita-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-21T07:59:35Z"
 ---
 ## What it is
 MCP server `Qiita`, catalogued on PulseMCP. Publish articles to Qiita, Japan's largest technical knowledge sharing platform

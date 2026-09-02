@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T15:40:52Z"
 ---
 ## What it is
 BYOK Reddit/YouTube research CLI with a tamper-evident, hash-chained audit log. Includes an MCP server for agent-native use.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T12:42:45Z"
 ---
 ## What it is
 Enables querying England & Wales baby names data from ONS birth registrations, including top names, popularity trends, geographic breakdowns, and similar names.

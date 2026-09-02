@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-02-06T22:33:46Z"
 ---
 ## What it is
 MCP server `Tally DAO Governance`, catalogued on PulseMCP. Integrates with the Tally API to query and analyze DAO governance data, enabling insights into decentralized decision-making processes.

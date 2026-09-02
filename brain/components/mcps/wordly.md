@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-01T06:06:56Z"
 ---
 ## What it is
 An MCP App that provides an interactive UI for visualizing multiple rewritten variations of text, enabling grammar checking, style adjustments, and text improvements with real-time comparison.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, experimental-implementations]
+forks: 0
+pushed_at: "2025-05-02T22:47:44Z"
 ---
 ## What it is
 A playground repository for A2A protocol implementation with Partially Signed Bitcoin Transactions (PSBT)

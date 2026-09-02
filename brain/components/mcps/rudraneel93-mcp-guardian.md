@@ -8,10 +8,12 @@ source_url: https://github.com/rudraneel93/mcp-guardian
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-07T21:54:02Z"
 ---
 ## What it is
 MCP server `MCP Guardian`, catalogued on PulseMCP. Provides security monitoring and governance for MCP server interactions.

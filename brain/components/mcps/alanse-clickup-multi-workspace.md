@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T07:21:14Z"
 ---
 ## What it is
 MCP server `ClickUp Multi-Workspace`, catalogued on PulseMCP. Integrates with ClickUp workspaces to provide task management, project organization, time tracking, and team collaboration across multiple workspaces with bulk operations and natural language date parsing.

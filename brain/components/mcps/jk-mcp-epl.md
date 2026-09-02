@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:11:57Z"
 ---
 ## What it is
 Enables Claude to access live Premier League data—teams, matches, standings, rosters, player details, and schedule-strength analytics—through natural language.

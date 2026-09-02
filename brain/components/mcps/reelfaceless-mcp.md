@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T20:30:10Z"
 ---
 ## What it is
 Schedule short-form video posts to YouTube and TikTok from Claude Desktop or any MCP client using the ReelFaceless public API.

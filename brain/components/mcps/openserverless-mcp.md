@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-29T08:27:36Z"
 ---
 ## What it is
 An MCP server for OpenServerless that exposes action tools for creating, invoking, and managing API endpoints with integrated services like S3, PostgreSQL, Redis, and Milvus.

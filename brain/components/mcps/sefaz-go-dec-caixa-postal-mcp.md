@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:13Z"
 ---
 ## What it is
 MCP server for consulting SEFAZ GO DEC Caixa Postal from official sources, enabling tax mailbox queries through natural language in MCP-compatible clients.

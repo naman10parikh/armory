@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-04T03:50:27Z"
 ---
 ## What it is
 Enables remote control of Adobe Photoshop on macOS and Windows via MCP, supporting multiple backends including AppleScript, PowerShell, and UXP plugin.

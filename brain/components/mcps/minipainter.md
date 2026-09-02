@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:21:05Z"
 ---
 ## What it is
 Local-first miniature-paint inventory and cross-brand color matching for AI agents. Search 1,607 paints (Citadel, Army Painter, Vallejo, AK), match by hex or description, and track what you own — 7 tools over stdio.

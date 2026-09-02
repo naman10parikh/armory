@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T14:13:03Z"
 ---
 ## What it is
 Enables natural language querying of SQL databases by allowing the agent to explore schema, write SQL, and self-correct errors. It integrates with MCP-compatible assistants like Claude Desktop or Cursor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T12:55:06Z"
 ---
 ## What it is
 Enables AI agents to create, edit, format, and analyze Microsoft Office documents (Excel, Word, PPT, PDF) using natural language, with features like table replication and automated styling.

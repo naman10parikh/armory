@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-18T10:47:44Z"
 ---
 ## What it is
 MCP server `Web Fetch`, catalogued on PulseMCP. Web content fetching, summarizing, comparing, and extracting information

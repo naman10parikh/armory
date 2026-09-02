@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T04:38:02Z"
 ---
 ## What it is
 Indexes Ruby on Rails codebases into a queryable graph of associations, routes, callbacks, jobs, and mailers, providing a token-efficient alternative to grep for navigating Rails code via Claude Code.

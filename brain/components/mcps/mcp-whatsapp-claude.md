@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T21:49:33Z"
 ---
 ## What it is
 A local MCP server that connects WhatsApp to Claude via QR code, enabling chat listing, message retrieval, and sending with automatic rate limiting for anti-ban protection.

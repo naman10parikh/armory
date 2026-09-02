@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T23:08:57Z"
 ---
 ## What it is
 An MCP server that integrates Harvest time tracking and Forecast resource scheduling APIs, enabling AI agents to track time, manage projects, and handle assignments and scheduling.

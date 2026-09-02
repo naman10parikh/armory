@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T18:07:53Z"
 ---
 ## What it is
 Enables a primary Codex agent to inspect images using a separate local vision-language model via an MCP tool, keeping image data off the main model.

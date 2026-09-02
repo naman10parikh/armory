@@ -8,10 +8,12 @@ source_url: https://github.com/bshada/nse-bse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-12-24T11:08:40Z"
 ---
 ## What it is
 MCP server `NSE-BSE India Stock Market`, catalogued on PulseMCP. Integrates with NSE and BSE India stock market APIs to provide real-time quotes, historical data analysis, options chains, corporate actions, IPO information, and document processing for financial analysis and investment research focused on Indian equity markets.

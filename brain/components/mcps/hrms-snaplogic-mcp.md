@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T17:01:23Z"
 ---
 ## What it is
 Enables integration between HRMS systems and Snaplogic through the Model Context Protocol, allowing AI assistants to interact with HR data pipelines.

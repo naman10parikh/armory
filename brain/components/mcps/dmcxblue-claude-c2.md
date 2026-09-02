@@ -8,10 +8,12 @@ source_url: https://github.com/dmcxblue/claude-c2
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 92
+stars: 95
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-05-15T16:26:56Z"
 ---
 ## What it is
 MCP server `Claude-C2`, catalogued on PulseMCP. Command and control framework that enables secure remote system administration through a Python server and PowerShell client, maintaining task tracking in SQLite for efficient execution and reporting.

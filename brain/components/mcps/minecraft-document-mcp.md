@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T02:07:43Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve content from the Chinese Minecraft Wiki, including article introductions, full content, and category lists.

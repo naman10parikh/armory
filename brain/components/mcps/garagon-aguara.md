@@ -8,10 +8,12 @@ source_url: https://github.com/garagon/mcp-aguara
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-01T22:44:47Z"
 ---
 ## What it is
 MCP server `Aguara`, catalogued on PulseMCP. Security scanner for AI agent skills and MCP server configurations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-05T23:55:52Z"
 ---
 ## What it is
 Provides Claude with direct access to Flywheel gear and DICOM documentation, enabling developers to build and debug gears without context overload.

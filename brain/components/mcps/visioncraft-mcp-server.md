@@ -8,11 +8,13 @@ source_url: https://github.com/augmentedstartups/VisionCraft-MCP-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 123
+stars: 124
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-09-19T12:52:33Z"
 ---
 ## What it is
 Delivers up-to-date computer vision and GenAI knowledge to AI assistants via a comprehensive knowledge base and RAVEN engine, enabling accurate and efficient responses.

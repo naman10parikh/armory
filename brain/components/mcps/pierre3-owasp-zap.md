@@ -8,10 +8,12 @@ source_url: https://github.com/pierre3/dotnet-zap-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-31T06:02:49Z"
 ---
 ## What it is
 MCP server `OWASP ZAP`, catalogued on PulseMCP. Integrates with OWASP ZAP to enable web application vulnerability scanning through Docker container management and 14 MCP tools for active scanning, passive analysis, spidering, and alert retrieval.

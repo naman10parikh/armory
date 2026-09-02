@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T15:52:10Z"
 ---
 ## What it is
 MCP server that translates natural-language questions into SQL, validates every query structurally, and executes approved read-only queries against a SQLite database, returning results and rejections.

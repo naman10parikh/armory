@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T03:53:36Z"
 ---
 ## What it is
 MCP server for Pesties.au pest control booking (Gold Coast, Logan, South Brisbane, Australia). 7 tools including signed quote tokens and two-phase booking commit.

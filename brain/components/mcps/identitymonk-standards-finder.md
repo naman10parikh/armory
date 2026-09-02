@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-12T21:26:06Z"
 ---
 ## What it is
 MCP server `Standards Finder`, catalogued on PulseMCP. Provides access to IETF RFCs, Internet Drafts, and OpenID Foundation specifications with tools for document fetching, keyword searching, section extraction, and working group collection retrieval with automatic version detection and smart filtering of expired drafts.

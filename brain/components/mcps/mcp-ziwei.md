@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T08:13:33Z"
 ---
 ## What it is
 Calculates and returns a Ziwei Doushu (Purple Star Astrology) chart based on birth date, time, and gender. Returns both structured text of the 12 palaces and a PNG image of the chart.

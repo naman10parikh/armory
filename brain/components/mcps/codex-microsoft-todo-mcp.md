@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T04:26:53Z"
 ---
 ## What it is
 A local MCP server that lets Codex and other MCP clients manage Microsoft To Do tasks through Microsoft Graph, supporting listing, creating, updating, and completing tasks.

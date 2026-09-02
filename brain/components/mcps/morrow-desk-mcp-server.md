@@ -8,11 +8,13 @@ source_url: https://github.com/codeyogi911/morrow
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T03:39:30Z"
 ---
 ## What it is
 Enables operators to manage support desk operations, including case queues, customer relationships, and communications, through an agent-first MCP interface with exact lifecycle and authorization controls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T07:59:09Z"
 ---
 ## What it is
 Enables Claude to access the Danish school communication platform Aula.dk, allowing users to ask about their child's school day, upcoming events, messages, and more, with real-time data and automatic translation from Danish.

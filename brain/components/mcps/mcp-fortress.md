@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-20T13:24:28Z"
 ---
 ## What it is
 MCP server `MCP Fortress`, catalogued on PulseMCP. Security scanner detecting vulnerabilities, prompt injection, and tool poisoning

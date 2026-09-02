@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-24T11:13:50Z"
 ---
 ## What it is
 A local MCP server for spec-driven development, enabling users to create, review, and manage specs that guide AI code generation and testing.

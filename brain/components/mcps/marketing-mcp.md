@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:09:49Z"
 ---
 ## What it is
 Enables marketing optimization tasks such as copywriting, campaign analysis, social media planning, audience segmentation, and KPI tracking through natural language.

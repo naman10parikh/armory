@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T09:44:32Z"
 ---
 ## What it is
 A paid, hosted MCP server that acts as a witness layer for AI agent tool calls, providing receipt creation, approval evidence, argument redaction, result summaries, and audit exports.

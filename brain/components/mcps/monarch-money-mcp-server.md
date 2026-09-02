@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-01T16:40:17Z"
 ---
 ## What it is
 Enables interaction with Monarch Money data via MCP tools for accounts, budgets, and transactions.

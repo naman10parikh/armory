@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T00:52:02Z"
 ---
 ## What it is
 Local-first, single-file, knowledge-graph memory layer for AI agents.

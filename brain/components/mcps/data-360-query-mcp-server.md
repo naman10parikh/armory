@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-04-20T13:30:43Z"
 ---
 ## What it is
 Enables executing SQL queries against Salesforce Data Cloud from Cursor, with tools to list tables and describe table structure.

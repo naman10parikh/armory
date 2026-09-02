@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T16:11:59Z"
 ---
 ## What it is
 Enables Open WebUI to execute bash commands for coding tasks in a persistent projects workspace, with configurable timeouts and output limits.

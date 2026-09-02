@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T15:12:46Z"
 ---
 ## What it is
 A Cloudflare Worker-based MCP server for playing Sudoku, exposing five tools (start_game, get_game, play_move, check_game, reset_game) that let users start uniquely solvable puzzles, make moves, validate entries against a hidden solution, and reset games via a SQLite-backed Durable Object per game.

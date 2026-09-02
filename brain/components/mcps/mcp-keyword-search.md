@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-02T06:20:16Z"
 ---
 ## What it is
 A Model Context Protocol server that enables keyword search within files, returning matching lines with line numbers.

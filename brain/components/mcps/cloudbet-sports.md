@@ -8,10 +8,12 @@ source_url: https://github.com/cloudbet/sports-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-07T08:57:24Z"
 ---
 ## What it is
 MCP server `Cloudbet Sports`, catalogued on PulseMCP. Integrates with Cloudbet's sports betting API to provide live sports data, betting markets, and odds across multiple sports with fuzzy search capabilities for finding competitions by name.

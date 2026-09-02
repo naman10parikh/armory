@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T18:20:22Z"
 ---
 ## What it is
 MCP server that gives AI assistants real-time access to Stripe business metrics like MRR, churn, and revenue forecasts via natural language queries.

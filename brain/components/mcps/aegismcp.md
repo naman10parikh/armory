@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T06:31:01Z"
 ---
 ## What it is
 A local-first security gateway and visual dashboard for AI agents that enforces cost caps, blocks prompt injections, and requires approval for dangerous actions.

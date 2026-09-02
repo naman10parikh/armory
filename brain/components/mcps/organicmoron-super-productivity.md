@@ -8,10 +8,12 @@ source_url: https://github.com/organicmoron/sp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 75
+stars: 119
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2025-07-15T18:45:45Z"
 ---
 ## What it is
 MCP server `Super Productivity`, catalogued on PulseMCP. Bridges Super Productivity task management with natural language commands, automatically converting conversational scheduling syntax like 'tomorrow' or 'next Friday' into Super Productivity's format while enabling task creation, project assignments, and batch operations through file-based communication.

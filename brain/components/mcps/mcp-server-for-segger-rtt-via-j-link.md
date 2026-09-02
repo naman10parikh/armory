@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T01:03:44Z"
 ---
 ## What it is
 Enables LLMs to interact with embedded devices by reading and writing Segger RTT data through a J-Link debugger.

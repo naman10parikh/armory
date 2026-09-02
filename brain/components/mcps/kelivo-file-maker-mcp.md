@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T02:44:06Z"
 ---
 ## What it is
 Enables Kelivo to generate text files (TXT, HTML, etc.) from code and return HTTPS download links, with files stored temporarily for 24 hours.

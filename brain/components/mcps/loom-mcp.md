@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-03-18T14:40:37Z"
 ---
 ## What it is
 MCP server that exposes 59 tools for Loom's internal GraphQL API, enabling listing, searching, and managing Loom videos, transcripts, comments, tasks, and more.

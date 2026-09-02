@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:39Z"
 ---
 ## What it is
 MCP server for consulting Brazilian court proceedings (TJPR) from the official source, read-only and pay-per-query with prepaid credits. Works with any MCP client over HTTP.

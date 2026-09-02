@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T04:10:03Z"
 ---
 ## What it is
 Enables interaction with IntelliMatch recruiting and iSuite insurance systems through spec-driven MCP tools, allowing natural language queries for candidate search, policy management, claims, and workflows.

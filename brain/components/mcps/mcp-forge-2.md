@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T14:11:20Z"
 ---
 ## What it is
 Provides tools to retrieve deterministic prompts for rewriting any Node.js project to production-quality TypeScript, supporting incremental and single-pass workflows.

@@ -8,10 +8,12 @@ source_url: https://github.com/lownamlee/gpt-image-2-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 92
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-18T13:08:44Z"
 ---
 ## What it is
 MCP server `GPT Image 2`, catalogued on PulseMCP. Generate images via OpenAI API or ChatGPT web automation with selectable backends.

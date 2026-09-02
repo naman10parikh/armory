@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T02:15:13Z"
 ---
 ## What it is
 Provides 17 developer utility tools for AI agents, including free tools like JSON formatting, base64 encoding, UUID generation, and pro tools for regex, JWT, cron, and more.

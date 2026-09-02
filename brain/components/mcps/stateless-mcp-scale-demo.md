@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T05:59:09Z"
 ---
 ## What it is
 Demonstrates a stateless MCP server workflow for purchase requests, using signed request handles to maintain state across load-balanced replicas without session stickiness.

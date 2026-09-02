@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T08:08:27Z"
 ---
 ## What it is
 A boilerplate for building MCP servers using TypeScript, with example tools like calculator and greet, plus resource support.

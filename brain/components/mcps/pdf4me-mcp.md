@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T08:25:12Z"
 ---
 ## What it is
 Enables AI assistants to perform a wide range of PDF processing tasks, including conversion, editing, merging, splitting, OCR, barcode/QR code generation and reading, AI-powered data extraction, and image processing, through the PDF4me API.

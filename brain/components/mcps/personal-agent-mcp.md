@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T05:52:47Z"
 ---
 ## What it is
 A minimal remote MCP server running on Cloudflare Workers, exposing a test tool that echoes a message and returns server metadata.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-11T17:10:14Z"
 ---
 ## What it is
 MCP server `Averra Extract`, catalogued on PulseMCP. URL-to-Markdown conversion API for AI pipelines — clean, structured Markdown with metadata and caching.

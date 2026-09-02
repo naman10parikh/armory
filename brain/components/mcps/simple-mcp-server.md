@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-25T19:04:10Z"
 ---
 ## What it is
 Enables AI tools to query context from a local JSON data source via stdio, demonstrating the Model Context Protocol.

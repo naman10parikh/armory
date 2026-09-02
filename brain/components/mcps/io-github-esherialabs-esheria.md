@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T10:41:42Z"
 ---
 ## What it is
 MCP server for Esheria Regulatory Pack API, enabling regulatory intelligence tools such as health checks, pack discovery, obligations, penalties, and citation-backed compliance workflows.

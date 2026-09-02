@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T03:44:14Z"
 ---
 ## What it is
 A zero-ML-dependency keyword index MCP server for markdown context files, enabling fast search and retrieval of relevant files using RAKE and BM25, with a flat JSON index.

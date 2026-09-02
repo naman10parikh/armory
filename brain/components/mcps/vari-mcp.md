@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T18:44:54Z"
 ---
 ## What it is
 Provides six deterministic, source-attributed hydration calculators (water intake, dehydration check, pregnancy intake, kidney-safe intake, athlete plan, energy optimization) as MCP tools, enabling AI clients to call them via stdio without custom HTTP coding.

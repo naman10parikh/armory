@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T16:53:38Z"
 ---
 ## What it is
 MCP server for manufacturing defect investigation using knowledge graphs and graph analytics. Enables LLM agents to retrieve context, find similar cases, and generate investigation reports from manufacturing data.

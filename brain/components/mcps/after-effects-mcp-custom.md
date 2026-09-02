@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T13:12:57Z"
 ---
 ## What it is
 Local MCP server to control Adobe After Effects from AI clients like Claude and Cursor, supporting project composition, layer editing, animation, masks, and effects.

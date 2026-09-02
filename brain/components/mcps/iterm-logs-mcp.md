@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:26:36Z"
 ---
 ## What it is
 Local MCP server that exposes iTerm2 tab/session logs to MCP-capable agents via AppleScript, enabling tools to list open tabs and retrieve terminal scrollback.

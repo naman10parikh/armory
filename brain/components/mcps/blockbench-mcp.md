@@ -8,11 +8,13 @@ source_url: https://github.com/jasonjgardner/blockbench-mcp-plugin
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 363
+stars: 386
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 47
+pushed_at: "2026-07-03T17:42:23Z"
 ---
 ## What it is
 Enables AI agents to create and edit 3D models in Blockbench via the Model Context Protocol.

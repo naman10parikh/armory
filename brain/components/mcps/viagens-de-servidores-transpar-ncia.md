@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:43:35Z"
 ---
 ## What it is
 Enables querying travel and expense information of Brazilian federal executive servants by CPF via the Transparency Portal. This read-only, hosted MCP server works with any MCP client and uses prepaid credits for consultations.

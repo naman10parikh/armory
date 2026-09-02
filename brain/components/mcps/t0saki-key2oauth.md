@@ -8,10 +8,12 @@ source_url: https://github.com/t0saki/mcp-key2oauth
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-24T09:28:29Z"
 ---
 ## What it is
 MCP server `Key2OAuth`, catalogued on PulseMCP. Cloudflare Worker that wraps API-key MCP servers with OAuth 2.1 compliance for compatibility with Claude.ai and Cursor.

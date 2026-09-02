@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T00:30:40Z"
 ---
 ## What it is
 MCP server for daily payment reconciliation between Razorpay and Odoo, with WhatsApp alerts for anomalies.

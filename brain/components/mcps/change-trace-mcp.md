@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:15:38Z"
 ---
 ## What it is
 A local-first, model-neutral MCP server for collecting and normalizing change-scoped release evidence. It provides deterministic Git change summaries, evidence collection, and review bundles for agent review.

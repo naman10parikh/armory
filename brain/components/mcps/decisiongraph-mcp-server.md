@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-25T15:33:02Z"
 ---
 ## What it is
 Enables preserving, querying, and managing engineering decisions with reasoning and evidence through CLI, HTTP API, and MCP tools.

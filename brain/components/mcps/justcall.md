@@ -8,10 +8,12 @@ source_url: https://github.com/saaslabsco/justcall-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-12T07:29:00Z"
 ---
 ## What it is
 MCP server `JustCall`, catalogued on PulseMCP. Integrates with JustCall's voice communication platform to retrieve and analyze call data with filtering options for date ranges, contact numbers, agent assignments, call directions, and coaching insights.

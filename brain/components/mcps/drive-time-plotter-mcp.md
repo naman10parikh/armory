@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-09T07:14:11Z"
 ---
 ## What it is
 Analyzes traffic patterns throughout the day using Google Maps API and provides visual insights and recommendations for optimal commute times.

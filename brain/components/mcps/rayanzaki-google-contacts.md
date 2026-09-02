@@ -8,10 +8,12 @@ source_url: https://github.com/rayanzaki/mcp-google-contacts-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2025-10-22T01:09:02Z"
 ---
 ## What it is
 MCP server `Google Contacts`, catalogued on PulseMCP. Integrates with Google Contacts to enable listing, searching, creating, updating, and deleting contacts from both personal accounts and Google Workspace directories.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T01:34:46Z"
 ---
 ## What it is
 Resolves messy financial institution records against canonical regulatory identifiers from FDIC, NCUA, and FFIEC public datasets.

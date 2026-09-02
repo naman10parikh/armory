@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T11:23:50Z"
 ---
 ## What it is
 A personal MCP server for managing a folder of markdown notes. It provides tools to search and list notes, resources to access individual notes, and a prompt for weekly summaries.

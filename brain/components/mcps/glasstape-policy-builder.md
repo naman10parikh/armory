@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-02T19:43:37Z"
 ---
 ## What it is
 MCP server `GlassTape Policy Builder`, catalogued on PulseMCP. Transforms natural language policy requirements into production-ready Cerbos YAML policies through automated generation, validation, testing, and security analysis with built-in compliance framework support.

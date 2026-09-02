@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-18T02:36:50Z"
 ---
 ## What it is
 MCP server `NewsHub`, catalogued on PulseMCP. Provides real-time access to news articles from various RSS feeds with tools for listing feeds, retrieving latest news by category, searching across all content, and fetching specific article details.

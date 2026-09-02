@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 2
+forks: 0
+pushed_at: "2026-05-28T20:16:41Z"
 ---
 ## What it is
 MCP server for [Lighter](https://lighter.xyz) — a zero-fee zk-rollup perpetual DEX. Trade ~190 perpetuals (crypto + RWA: PAXG/XAU gold, XAG silver, WTI oil, equity tickers like TSLA/AMZN/ASML) from Claude Desktop, Cursor, Hermes, or any MCP client. Three credential tiers (PUBLIC market data → READ account → TRADE signing), native on-chain stop-loss / take-profit, server-side safety caps (max-quote-USD, slippage, symbol allowlist). `pip install 0xdegenmo-lighter-mcp`.

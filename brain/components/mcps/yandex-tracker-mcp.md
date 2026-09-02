@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T06:17:16Z"
 ---
 ## What it is
 MCP server for Yandex Tracker API, enabling AI assistants to search, read, create, and edit issues, as well as manage comments, attachments, and links in Yandex Tracker.

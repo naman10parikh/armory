@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T08:15:31Z"
 ---
 ## What it is
 MCP server that gives text-only LLMs like DeepSeek vision capabilities by converting images to text via vision APIs, enabling image description, OCR, and generation in MCP clients.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-29T13:56:28Z"
 ---
 ## What it is
 MCP server `Wikidata`, catalogued on PulseMCP. Integrates with Wikidata to search entities, retrieve detailed information, execute SPARQL queries, and explore knowledge graph relationships for fact-checking, research, and structured data access.

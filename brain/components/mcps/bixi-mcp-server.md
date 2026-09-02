@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T19:47:59Z"
 ---
 ## What it is
 Provides real-time access to Montreal's Bixi bike-sharing data through the GBFS API. Enables querying station information, availability, nearby stations, and system alerts.

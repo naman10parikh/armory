@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T11:22:10Z"
 ---
 ## What it is
 Enables autonomous forensic investigation of disk images by mounting evidence, scanning for malware, and generating courtroom-ready reports using SIFT Workstation tools.

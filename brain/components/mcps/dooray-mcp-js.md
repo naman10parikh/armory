@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T06:02:47Z"
 ---
 ## What it is
 Dooray MCP server for interacting with Dooray services such as messenger, calendar, project, and posts. Supports operations like reading, creating, and updating posts, comments, and files.

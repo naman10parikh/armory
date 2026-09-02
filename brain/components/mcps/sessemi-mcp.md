@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T09:45:58Z"
 ---
 ## What it is
 Enables AI agents to scrape websites protected by Cloudflare, DataDome, and Akamai, bypassing anti-bot measures to retrieve page content.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-22T02:24:15Z"
 ---
 ## What it is
 MCP server `Global Sentinel`, catalogued on PulseMCP. Aggregates Polymarket, GDELT, OpenSky, and Cloudflare Radar for real-time global intelligence.

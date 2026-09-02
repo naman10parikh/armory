@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T13:58:42Z"
 ---
 ## What it is
 Model Context Protocol server for managing and diagnosing GlassFlow streaming pipelines, exposing pipeline CRUD, metrics queries, log search, and a composite diagnostic tool as MCP tools that AI agents can call over SSE transport.

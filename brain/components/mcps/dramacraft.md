@@ -8,11 +8,13 @@ source_url: https://github.com/jackyxia918918/dramacraft
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 31
+pushed_at: "2025-07-10T10:51:11Z"
 ---
 ## What it is
 Integrates with Jianying (CapCut) and Chinese LLMs to automate short drama video editing, including commentary generation, remix creation, and draft import.

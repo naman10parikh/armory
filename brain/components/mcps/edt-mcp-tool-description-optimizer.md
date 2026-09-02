@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:01:01Z"
 ---
 ## What it is
 Optimizes EDT MCP tool descriptions by replacing verbose documentation with concise summaries stored in SQLite, reducing context usage while allowing on-demand retrieval of full tool guides.

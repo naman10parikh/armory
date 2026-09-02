@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T00:38:10Z"
 ---
 ## What it is
 Agent-Level Transaction Safety Oracle. Before an AI agent signs a blockchain transaction, it returns a SAFE/UNSAFE verdict with a SENTINEL Score (AAA-D) and risk flags. Pay-per-call $0.005 USDC via x402 on Base.

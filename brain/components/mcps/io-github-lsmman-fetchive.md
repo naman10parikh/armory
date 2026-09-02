@@ -8,11 +8,13 @@ source_url: https://github.com/lsmman/fetchive
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T17:55:53Z"
 ---
 ## What it is
 MCP server for extracting links from text dumps, checking duplicates, extracting YouTube transcripts (with fallbacks including speech-to-text), and preparing workspace-ready page payloads for your note-taking or saving tools. It does not write to your workspace; it hands off prepared content to your

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T05:04:47Z"
 ---
 ## What it is
 A Code Mode MCP server for the e2b API, giving agents three tools (search, execute_read, execute_write) to write and run JavaScript functions inside sandboxed environments for API discovery and calls.

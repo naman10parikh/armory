@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-20T15:57:03Z"
 ---
 ## What it is
 Enables natural-language management of Kubernetes clusters via kubectl-ai and Gemini, providing commands like listing pods, scaling deployments, and retrieving logs through a FastAPI backend.

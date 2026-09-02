@@ -8,11 +8,13 @@ source_url: https://github.com/ozekimasaki/inochi-creator-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T09:58:41Z"
 ---
 ## What it is
 Enables live operation of a patched Inochi Creator through MCP, providing tools for project management, node editing, parameter control, animation, and asset import.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-26T02:41:09Z"
 ---
 ## What it is
 MCP server `Aikido`, catalogued on PulseMCP. Security analysis for Aiken smart contracts on Cardano with 75 vulnerability detectors.

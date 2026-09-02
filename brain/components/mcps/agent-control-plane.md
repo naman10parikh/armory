@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T03:01:26Z"
 ---
 ## What it is
 Enables users to deploy a production-grade control plane for agents, providing a spec-compliant MCP server, scoped tool grants, failure-mode detection, and cost governance.

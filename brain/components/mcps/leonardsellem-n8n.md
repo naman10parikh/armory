@@ -8,10 +8,12 @@ source_url: https://github.com/leonardsellem/n8n-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1620
+stars: 1637
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 293
+pushed_at: "2025-07-09T21:05:08Z"
 ---
 ## What it is
 MCP server `n8n`, catalogued on PulseMCP. Integrates with n8n workflow automation platform to enable workflow management, execution monitoring, and task automation through a bridge that connects AI capabilities with n8n's powerful automation tools.

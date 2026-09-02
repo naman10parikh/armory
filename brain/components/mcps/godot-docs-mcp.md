@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T20:09:54Z"
 ---
 ## What it is
 Enables searching and retrieving Godot documentation pages using fuzzy search, with support for multiple documentation versions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-03-16T14:08:35Z"
 ---
 ## What it is
 Ultra-lean memory system for AI coding tools that stores project knowledge locally with SQLite and enables AI to remember your project across sessions.

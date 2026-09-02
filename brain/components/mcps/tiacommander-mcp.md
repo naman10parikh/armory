@@ -8,11 +8,13 @@ source_url: https://github.com/a4webdev/tiacommander-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-11T06:50:12Z"
 ---
 ## What it is
 MCP server that connects AI assistants to Siemens TIA Portal via the Openness API. AI-assisted PLC programming, project management, hardware configuration, cross-reference analysis, and deployment. 16 tools, 166 actions.

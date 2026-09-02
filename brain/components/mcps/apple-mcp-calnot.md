@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-28T19:02:37Z"
 ---
 ## What it is
 Provides MCP tools to read, search, create, append, and delete iCloud Notes by leveraging the authenticated Notes web app's internal JavaScript API, avoiding OCR or canvas parsing.

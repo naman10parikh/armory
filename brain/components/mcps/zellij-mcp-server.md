@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-17T04:50:16Z"
 ---
 ## What it is
 Enables comprehensive management of Zellij terminal workspace sessions, including session, pane, tab, plugin, layout operations, and LLM completion detection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T08:12:29Z"
 ---
 ## What it is
 Read-only MCP server providing population and age distribution data for Oyama City, Japan, enabling AI clients like Claude to query and analyze open data.

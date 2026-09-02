@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-27T06:59:30Z"
 ---
 ## What it is
 MCP server `SSH Remote Command Execution`, catalogued on PulseMCP. Enables secure remote command execution across Linux and Windows systems through SSH connections with configurable authentication methods, safety restrictions, and multi-machine management for system administration and infrastructure monitoring tasks.

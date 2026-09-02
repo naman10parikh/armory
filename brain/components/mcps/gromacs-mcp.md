@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T08:52:24Z"
 ---
 ## What it is
 Enables running GROMACS molecular dynamics simulations through natural language, with tools for topology building, solvation, simulation management, and trajectory processing via the Model Context Protocol.

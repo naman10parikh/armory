@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-12T16:11:35Z"
 ---
 ## What it is
 Enables AI models to administer personality tests, score responses, and provide personality type assessments, with optional integration with Ollama for personalized AI interactions.

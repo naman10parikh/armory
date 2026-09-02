@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-16T20:23:00Z"
 ---
 ## What it is
 Enables Claude Desktop to search custom knowledge bases using retrieval-augmented generation via a simple MCP tool.

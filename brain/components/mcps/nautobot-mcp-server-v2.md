@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T18:06:26Z"
 ---
 ## What it is
 Enhanced Nautobot 3.1.0 integration for NetClaw with GraphQL reads, REST writes, ITSM-gated changes, and live-vs-SoT reconciliation. Provides 13 tools covering devices, interfaces, VLANs, prefixes, IP addresses, cables, raw GraphQL, write operations, and reconciliation.

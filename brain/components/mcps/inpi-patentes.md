@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:28Z"
 ---
 ## What it is
 MCP server for consulting Brazilian patents (INPI) from official sources. It provides a read-only tool to search patent information via natural language, with pre-paid credit usage.

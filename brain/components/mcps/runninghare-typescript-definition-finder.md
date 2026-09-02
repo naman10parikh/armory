@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-23T05:48:24Z"
 ---
 ## What it is
 MCP server `TypeScript Definition Finder`, catalogued on PulseMCP. Provides TypeScript symbol definition lookup by leveraging the TypeScript Language Service to locate original definitions of imported symbols, classes, interfaces, and functions with precise file locations and code snippets.

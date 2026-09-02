@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T17:20:16Z"
 ---
 ## What it is
 Generate AI images and videos from Claude, Cursor or any MCP client: 48+ models on one account (Flux 2, Nano Banana 2, Seedream 5, Kling V3, Seedance 2.5, Veo 3.1), with the exact cost in credits returned on every call.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-16T02:51:36Z"
 ---
 ## What it is
 Enables MCP clients to speak by running local voice models using Chatterbox Turbo TTS or Kokoro TTS, with support for voice cloning, paralinguistic tags, and multiple voices.

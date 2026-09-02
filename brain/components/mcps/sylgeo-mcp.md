@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T10:12:35Z"
 ---
 ## What it is
 Enables AI assistants to scan brand visibility across ChatGPT, Claude, Gemini & Perplexity, analyze website GEO readiness, compare competitors, and get actionable recommendations.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T17:42:33Z"
 ---
 ## What it is
 MCP server `Can See`, catalogued on PulseMCP. Lets AI agents visualize and control terminal and CLI apps via PNG screenshots, keystrokes, and text input.

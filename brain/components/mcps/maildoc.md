@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:01:25Z"
 ---
 ## What it is
 Lightweight email search, attachment retrieval, and PDF extraction for AI agents via Gmail, exposing MCP tools to search, manage folders, and extract text from PDF attachments.

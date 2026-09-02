@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T03:57:19Z"
 ---
 ## What it is
 A local, zero-dependency MCP server that cuts coding-agent round-trips by aggregating search, read, edit, exec, git, and savings tools into single, validated calls, with cost tracking and no data leaving the machine.

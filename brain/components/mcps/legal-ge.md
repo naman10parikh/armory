@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-09T11:48:05Z"
 ---
 ## What it is
 MCP server `Legal.ge`, catalogued on PulseMCP. Find verified legal specialists in Georgia from natural-language queries in Georgian, English, and Russian.

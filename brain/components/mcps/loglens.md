@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T18:51:05Z"
 ---
 ## What it is
 Enables log analysis through MCP tools for searching logs, retrieving error contexts, and summarizing incidents with self-verified root-cause hypotheses.

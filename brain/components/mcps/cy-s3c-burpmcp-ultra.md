@@ -8,10 +8,12 @@ source_url: https://github.com/cy-s3c/burpmcp-ultra
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 209
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2026-08-05T08:15:11Z"
 ---
 ## What it is
 MCP server `BurpMCP Ultra`, catalogued on PulseMCP. Burp Suite extension with embedded MCP server exposing 137 tools for web security testing via SSE transport.

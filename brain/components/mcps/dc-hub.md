@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:47:29Z"
 ---
 ## What it is
 Description: Data-center, power & gas intelligence MCP server. 33 tools covering 21,000+ data-center facilities (170+ countries), 232 US power markets scored by the DC Hub Power Index (DCPI), 2,000+ tracked M\&A deals, ISO grid telemetry (PJM, ERCOT, CAISO, MISO, SPP, NYISO), fiber routes, energy pr

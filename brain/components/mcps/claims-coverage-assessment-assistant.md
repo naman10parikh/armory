@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T22:12:46Z"
 ---
 ## What it is
 MCP server that reviews insurance claims against policy documents, providing coverage decisions, policy clause retrieval, claim history lookup, coverage rule checks, and fraud risk scoring via four tools.

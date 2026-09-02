@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T21:23:59Z"
 ---
 ## What it is
 A neuro-symbolic agent that turns cryptic CP-SAT INFEASIBLE errors into plain-English diagnoses and only proposes fixes it has re-verified by re-solving the real production solver.

@@ -8,11 +8,13 @@ source_url: https://github.com/kuiralabs/ada-dev-cli
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T06:56:59Z"
 ---
 ## What it is
 Enables AI agents to manage Cardano wallets, check balances, send ADA and native assets, and settle atomic swaps via a built-in MCP server.

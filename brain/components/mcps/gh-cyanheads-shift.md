@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-22T22:10:52Z"
 ---
 ## What it is
 MCP server `Shift`, catalogued on PulseMCP. Lightweight coordination layer for multiple AI agents working on the same codebase simultaneously.

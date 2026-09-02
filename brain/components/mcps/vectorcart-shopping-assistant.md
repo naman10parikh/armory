@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:40:05Z"
 ---
 ## What it is
 MCP server that enables AI shopping assistants to understand customer needs, search products using visual and semantic queries, apply metadata filters, and recommend relevant products from an inventory.

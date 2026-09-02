@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-27T23:15:37Z"
 ---
 ## What it is
 MCP server `WhereAmI (IP Geolocation)`, catalogued on PulseMCP. Provides geolocation data based on user IP addresses through the ipapi.co API, returning location details like country, city, and coordinates in a formatted Markdown table.

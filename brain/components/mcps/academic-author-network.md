@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-19T11:01:53Z"
 ---
 ## What it is
 MCP server `Academic Author Network`, catalogued on PulseMCP. Aggregates academic data from Semantic Scholar, OpenAlex, Crossref, and Google Scholar to discover research collaborators with collaboration frequency counts and extract research keywords from scholar profiles for academic network analysis and collaboration mapping.

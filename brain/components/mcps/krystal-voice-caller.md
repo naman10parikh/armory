@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T20:21:29Z"
 ---
 ## What it is
 MCP server `Krystal Voice Caller`, catalogued on PulseMCP. Controls Krystal Voice Caller tenant operations including call management and telephony automation from AI agents.

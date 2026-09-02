@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T22:58:54Z"
 ---
 ## What it is
 MCP server that enables Google ADK agents to triage solar fault signals, retrieve Salesforce diagnostics via hosted MCP prompt templates, and create WorkOrder records when replacements are needed.

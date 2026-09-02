@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-14T22:57:15Z"
 ---
 ## What it is
 A production-ready MCP server for UberEats automation, featuring Redis-backed sessions, n8n integration, and enterprise-grade security, enabling login, item addition, address setting, and checkout.

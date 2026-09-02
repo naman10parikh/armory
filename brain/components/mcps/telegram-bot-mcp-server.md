@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-08-18T20:24:08Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Telegram Bot API, supporting messaging, user management, and bot configuration with intelligent message splitting and error handling.

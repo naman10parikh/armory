@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T04:32:23Z"
 ---
 ## What it is
 Extracts sponsored products, brand mentions, and affiliate signals from newsletters to generate a shoppable 'Products in this edition' section for affiliate revenue.

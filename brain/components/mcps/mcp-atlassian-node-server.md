@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T12:09:11Z"
 ---
 ## What it is
 Production-ready MCP server for Atlassian Jira and Confluence, providing tools for issue management, page retrieval, and content operations.

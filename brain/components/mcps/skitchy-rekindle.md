@@ -8,10 +8,12 @@ source_url: https://github.com/skitchy/rekindle
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-09T01:14:29Z"
 ---
 ## What it is
 MCP server `Rekindle`, catalogued on PulseMCP. Maintains AI session continuity with structured boot reports, session handoffs, and cross-session memory search using local SQLite storage.

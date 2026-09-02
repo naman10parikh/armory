@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T12:55:46Z"
 ---
 ## What it is
 Enables AI assistants to interact with Rapid7 InsightIDR SIEM for investigating incidents, searching logs with LEQL, managing alerts and assets, analyzing user behavior, and handling threat intelligence.

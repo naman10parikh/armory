@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-03-04T14:14:06Z"
 ---
 ## What it is
 This MCP server fetches and extracts transcripts from YouTube videos, enabling AI language models to access and analyze video content.

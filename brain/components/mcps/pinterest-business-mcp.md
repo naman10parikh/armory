@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T17:00:47Z"
 ---
 ## What it is
 Enables Pinterest Business account management through OAuth, including authorization URL generation, connection status checking, and secure token storage.

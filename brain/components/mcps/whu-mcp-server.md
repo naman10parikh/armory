@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T08:20:50Z"
 ---
 ## What it is
 武汉大学校园服务 MCP 服务器，提供图书馆座位、课表、成绩、考试、天气等工具，通过 SSE 协议供 Claude Code 远程调用。

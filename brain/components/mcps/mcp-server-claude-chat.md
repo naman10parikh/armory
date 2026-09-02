@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:46:00Z"
 ---
 ## What it is
 MCP server enabling Claude chat, image analysis, live web search, and model listing through Anthropic's Messages API. Allows any MCP client to consult Claude as a tool via stdio JSON-RPC.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:51:55Z"
 ---
 ## What it is
 Read-only MCP bridge connecting Claude Desktop to Merlin Project on Mac, allowing natural-language queries about plans, activities, resources, and project data.

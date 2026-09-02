@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-29T10:12:29Z"
 ---
 ## What it is
 Enables predictive maintenance for electric motors by analyzing stator current signals to detect faults like broken rotor bars, bearing defects, and eccentricity, using spectral and envelope analysis techniques.

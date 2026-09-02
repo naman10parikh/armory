@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T11:37:04Z"
 ---
 ## What it is
 An agent-native workflow MCP server that enables AI agents to execute text-defined, versionable workflows with checkpointing and state management.

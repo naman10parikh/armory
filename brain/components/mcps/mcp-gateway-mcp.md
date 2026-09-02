@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T13:52:04Z"
 ---
 ## What it is
 Admin MCP server that exposes Kubernetes CRD state and live broker status as MCP tools and a browser-renderable UI resource, enabling platform engineers to manage the mcp-gateway without kubectl.

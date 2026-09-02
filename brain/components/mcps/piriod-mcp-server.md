@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T23:31:18Z"
 ---
 ## What it is
 Connects Claude with Piriod.com API to manage invoicing and payments, enabling listing/creating invoices, searching customers, and viewing payments through natural language.

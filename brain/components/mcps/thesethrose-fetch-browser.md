@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-02-12T18:38:37Z"
 ---
 ## What it is
 MCP server `Fetch Browser`, catalogued on PulseMCP. Fetch Browser enables headless web content retrieval and Google searching without API keys, supporting multiple output formats for web scraping and content analysis tasks.

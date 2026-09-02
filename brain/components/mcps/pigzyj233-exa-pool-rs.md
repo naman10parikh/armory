@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-11T15:12:56Z"
 ---
 ## What it is
 MCP server `Exa Pool (Rust)`, catalogued on PulseMCP. Rust implementation wrapping the Exa Pool API for semantic web search, content extraction, and research tasks.

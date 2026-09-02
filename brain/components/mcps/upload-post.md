@@ -8,11 +8,13 @@ source_url: https://github.com/Upload-Post/upload-post-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T16:43:01Z"
 ---
 ## What it is
 Upload-Post is the all-in-one social media MCP server the Model Context Protocol server for social media publishing, scheduling and analytics. Connect any MCP-compatible AI agent (Claude, Cursor, ChatGPT, Claude Desktop, n8n, and more) and publish, schedule and analyze content across 13+ social netw

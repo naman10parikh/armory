@@ -8,10 +8,12 @@ source_url: https://github.com/huandu/feishu-markdown
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-01-06T03:06:26Z"
 ---
 ## What it is
 MCP server `Feishu Markdown`, catalogued on PulseMCP. Converts Markdown content into Feishu/Lark document format with support for images and Mermaid flowcharts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T15:46:56Z"
 ---
 ## What it is
 Exposes Marble's open skill taxonomy (ages 4-15) as queryable MCP tools, enabling AI agents to search topics, find prerequisites, and plan learning paths.

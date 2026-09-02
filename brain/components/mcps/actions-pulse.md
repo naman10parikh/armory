@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-08T12:42:12Z"
 ---
 ## What it is
 MCP server `ActionsPulse`, catalogued on PulseMCP. Real-time GitHub Actions observability with DORA Metrics, Cost Analysis, and CI/CD Health dashboards.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T13:04:55Z"
 ---
 ## What it is
 Enables AI assistants to read a user's personal AI-written news briefing and adjust its sources, topics, and settings through natural language, including tuning topic preferences, requesting deep dives, and managing subscriptions.

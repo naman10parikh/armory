@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-03T08:23:38Z"
 ---
 ## What it is
 Coordination layer for AI coding agents working on the same codebase. Adds file locks, shared project memory, and cross-machine file sync so Claude Code, Cursor, Windsurf, and other MCP agents stop overwriting each other.

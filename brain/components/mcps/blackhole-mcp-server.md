@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T16:31:07Z"
 ---
 ## What it is
 Model Context Protocol server for the Blackhole DEX on Avalanche, providing 32 tools for swaps, liquidity, CL positions, voting, locks, gauges, bribes, yield queries, vote leaderboard, epoch state, allowances, pool status, risk flags, and transaction execution.

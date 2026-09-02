@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-05T16:12:48Z"
 ---
 ## What it is
 MCP server `TaiwanEbookSearch`, catalogued on PulseMCP. Searches and compares e-book prices across Taiwan bookstores with 3 tools for book discovery and price comparison.

@@ -8,11 +8,13 @@ source_url: https://github.com/NotNull92/workforge-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-18T09:19:27Z"
 ---
 ## What it is
 WorkForge is a secure Windows MCP gateway that lets ChatGPT inspect local projects, resume Git work, read text and images, apply SHA-guarded edits, and run supervised PowerShell jobs on the user's workstation through OpenAI Secure MCP Tunnel. It exposes twelve bounded tools while keeping profile ide

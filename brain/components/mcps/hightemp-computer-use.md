@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T14:15:18Z"
 ---
 ## What it is
 MCP server `Computer Use`, catalogued on PulseMCP. Local desktop automation for AI agents — mouse, keyboard, screen, window, and process control via Go and robotgo.

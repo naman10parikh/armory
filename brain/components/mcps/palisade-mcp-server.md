@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:40:36Z"
 ---
 ## What it is
 Onchain security scanner for DeFi traders, protecting against rugpulls, honeypots, and dangerous token approvals on Robinhood Chain and other networks.

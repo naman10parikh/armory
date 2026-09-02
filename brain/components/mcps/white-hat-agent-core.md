@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T06:34:22Z"
 ---
 ## What it is
 A model-neutral cyber capability brain for AI agents and human researchers, providing MCP tools for knowledge ingestion, composition, campaign planning, fleet management, evidence binding, and discovery replay.

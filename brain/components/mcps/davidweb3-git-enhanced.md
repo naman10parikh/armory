@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-02T05:17:11Z"
 ---
 ## What it is
 MCP server `Git Enhanced`, catalogued on PulseMCP. Enhanced Git operations for AI coding assistants including code review, commit history analysis, and branch management tools.

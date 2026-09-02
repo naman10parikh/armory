@@ -8,10 +8,12 @@ source_url: https://github.com/bengineer19/digikey_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-06-28T16:54:18Z"
 ---
 ## What it is
 MCP server `DigiKey`, catalogued on PulseMCP. Integrates with DigiKey's Product Search API to enable electronic component discovery, detailed specifications retrieval, pricing information, product substitution finding, and datasheet access for electronics engineers and procurement teams.

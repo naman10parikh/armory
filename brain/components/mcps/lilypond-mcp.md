@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T15:52:34Z"
 ---
 ## What it is
 Enables engraving LilyPond sources into cropped, self-contained EPS, PDF, SVG, and PNG assets for placement in page-layout software, with support for files or inline code and helpful diagnostics on failure.

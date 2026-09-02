@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T15:42:59Z"
 ---
 ## What it is
 Enables monitoring of Namu Wiki real-time search trends, including top keywords, explanations, historical data, and velocity detection.

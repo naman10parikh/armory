@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T14:39:24Z"
 ---
 ## What it is
 A generic MCP (Model Context Protocol) server for any Hugo blog, deployed on Cloudflare Workers. It reads your blog's llms.txt and llms-full.txt files and exposes them as structured tools that AI assistants can query to understand your content.

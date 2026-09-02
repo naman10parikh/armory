@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-18T13:58:05Z"
 ---
 ## What it is
 MCP server providing various date/time functions including current time, timezone conversion, and relative time calculations. Supports both local stdio and remote HTTP access via Cloudflare Workers.

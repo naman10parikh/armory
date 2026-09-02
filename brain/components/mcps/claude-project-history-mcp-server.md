@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T01:44:59Z"
 ---
 ## What it is
 Tracks workflows, tasks, blockers, and decisions locally for Claude Code, using PGlite with no cloud dependencies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T23:49:25Z"
 ---
 ## What it is
 Turns AI coding agents into visual creative assistants by providing a curated prompt gallery, prompt enhancement, and image/video generation via LemGen, with free inspiration tools and optional token-based generation.

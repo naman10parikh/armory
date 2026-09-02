@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T14:49:16Z"
 ---
 ## What it is
 MCP server for controlling a transparent sci-fi cockpit overlay on your desktop, allowing AI agents to spawn, move, configure, and close holographic widgets (clock, system stats, map, etc.) via MCP.

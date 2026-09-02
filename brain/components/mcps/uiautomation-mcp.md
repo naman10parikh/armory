@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-08T14:44:25Z"
 ---
 ## What it is
 Enables AI assistants to inspect and automate Windows desktop UI elements by exploring UI trees, checking properties, performing actions like clicking and typing, and generating Python automation scripts.

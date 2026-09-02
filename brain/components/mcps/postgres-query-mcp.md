@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T06:10:03Z"
 ---
 ## What it is
 A read-only PostgreSQL MCP server that translates natural language queries into SQL, enforcing database routing, table/column whitelists, and safety checks. It offers schema inspection and query tools with optional output as SQL or results.

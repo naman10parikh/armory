@@ -8,10 +8,12 @@ source_url: https://github.com/pavel-kirienko/webcam_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-26T18:58:04Z"
 ---
 ## What it is
 MCP server `Webcam`, catalogued on PulseMCP. Provides direct webcam access for photo capture and video frame recording using OpenCV for cross-platform camera support with configurable quality settings and resolution management.

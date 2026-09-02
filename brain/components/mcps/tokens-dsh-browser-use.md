@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T04:39:35Z"
 ---
 ## What it is
 Enables language models to control a real visible browser with a full set of 24 tools for navigation, clicking, form filling, screenshots, and reading page structure, while preserving login states and supporting configurable browser policies.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T01:49:45Z"
 ---
 ## What it is
 MCP server `Telegram Bot`, catalogued on PulseMCP. Telegram Bot API integration for AI agent messaging automation.

@@ -8,11 +8,13 @@ source_url: https://github.com/magicyuan876/mineru-tianshu
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 763
+stars: 774
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 119
+pushed_at: "2026-08-29T02:22:05Z"
 ---
 ## What it is
 Enables AI assistants to process documents, images, audio, and video via MCP protocol, converting unstructured data into structured Markdown/JSON.

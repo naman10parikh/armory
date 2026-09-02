@@ -8,12 +8,14 @@ source_url: https://github.com/agentmail-to/agentmail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
 mentions: 3
+forks: 18
+pushed_at: "2026-09-02T00:56:41Z"
 ---
 ## What it is
 MCP server `AgentMail`, catalogued on PulseMCP. Provides dedicated email inboxes for AI agents to send, receive, and query messages

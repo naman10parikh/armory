@@ -8,10 +8,12 @@ source_url: https://github.com/deusdata/codebase-memory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2712
+stars: 41746
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3400
+pushed_at: "2026-09-01T23:50:51Z"
 ---
 ## What it is
 MCP server `Codebase Memory`, catalogued on PulseMCP. Persistent codebase knowledge graph that survives session restarts and context compaction.

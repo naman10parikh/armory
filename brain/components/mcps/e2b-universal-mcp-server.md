@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T05:36:19Z"
 ---
 ## What it is
 Enables interaction with E2b's tools and services through a standardized MCP interface, allowing AI agents to use E2b capabilities.

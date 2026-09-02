@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T12:23:47Z"
 ---
 ## What it is
 MCP server `Oracle Cloud Infrastructure`, catalogued on PulseMCP. Manage OCI compute instances, object storage, networking, and IAM resources.

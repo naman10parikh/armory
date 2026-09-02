@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T16:13:10Z"
 ---
 ## What it is
 Converts spoken descriptions into standards-compliant floor plans and furnished 3D models, enabling real-time collaborative editing through a live browser editor with Claude AI.

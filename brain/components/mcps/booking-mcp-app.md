@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T09:35:07Z"
 ---
 ## What it is
 Exposes court-availability data as a read-only panel rendered in MCP hosts (Claude Desktop, VS Code, test host) via a UI resource.

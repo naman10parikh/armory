@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T05:54:10Z"
 ---
 ## What it is
 MCP server `AgentSeal`, catalogued on PulseMCP. Verifiable action logs for AI agents using SHA-256 hash chains to detect tampering.

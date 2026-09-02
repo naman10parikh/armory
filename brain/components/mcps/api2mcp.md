@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T19:55:40Z"
 ---
 ## What it is
 Serves any OpenAPI 3.x/Swagger 2.x API as a local MCP server over stdio, converting every operation into a tool that proxies requests to the upstream API with configurable headers and fixed parameters.

@@ -8,10 +8,12 @@ source_url: https://github.com/swarmwage/swarmwage
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-19T12:02:08Z"
 ---
 ## What it is
 MCP server `Swarmwage`, catalogued on PulseMCP. Protocol and MCP server for hiring and paying specialized AI agents in USDC on Base blockchain using x402.

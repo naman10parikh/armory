@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-13T10:40:46Z"
 ---
 ## What it is
 MCP server `Web Scraper`, catalogued on PulseMCP. Provides web scraping capabilities using Chrome's headless browser with automatic HTTP fallback, handling JavaScript-heavy sites and single-page applications while extracting article content and stripping HTML tags to reduce token count for LLM processing.

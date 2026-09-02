@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T21:50:01Z"
 ---
 ## What it is
 Enables checking cosmetic ingredient safety and multi-jurisdiction compliance across 12 regulatory bodies, backed by a comprehensive dataset of safety opinions and studies.

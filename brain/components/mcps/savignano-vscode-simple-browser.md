@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-07T15:48:52Z"
 ---
 ## What it is
 MCP server `VS Code Simple Browser`, catalogued on PulseMCP. Enables web interaction through VS Code's Simple Browser with tools for opening URLs, navigating pages, executing JavaScript, and monitoring console logs in real-time for web automation and debugging workflows.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-26T11:54:34Z"
 ---
 ## What it is
 MCP server `HelloBooks`, catalogued on PulseMCP. Official public knowledge base for HelloBooks AI accounting platform — query plans, integrations, country support, and compliance frameworks.

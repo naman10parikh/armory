@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T07:09:17Z"
 ---
 ## What it is
 An MCP server that transforms standard LLMs into autonomous investment bankers, enabling live market data retrieval, fundamental ratio calculations, DCF valuations, portfolio diversification assessment, and automated emailing of executive reports.

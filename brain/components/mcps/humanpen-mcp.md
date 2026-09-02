@@ -8,11 +8,13 @@ source_url: https://github.com/humanpen/humanpen-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:18:37Z"
 ---
 ## What it is
 MCP server for HumanPen that lets AI agents work on real documents (.docx, .pptx, .pdf) — humanizing content to lower AI-detection scores, converting citations, condensing, and translating while preserving formatting, tables, images, and citations.

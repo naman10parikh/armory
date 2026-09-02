@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-09T01:23:54Z"
 ---
 ## What it is
 Enables collaborative project planning by connecting an MCP-capable chat app to a generative AI that manages tasks and dependencies, with a live web UI for visualization.

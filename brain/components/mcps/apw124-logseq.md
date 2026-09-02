@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-02T12:00:05Z"
 ---
 ## What it is
 MCP server `Logseq`, catalogued on PulseMCP. Enables AI interaction with Logseq knowledge graphs for capturing notes, organizing information, and retrieving knowledge from personal databases

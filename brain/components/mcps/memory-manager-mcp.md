@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T20:09:49Z"
 ---
 ## What it is
 A local-first persistent memory server for AI coding agents, enabling project context to be shared across different MCP clients. It stores curated memories, task states, decisions, and handoffs as plain files under ~/.agent-memory.

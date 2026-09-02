@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T10:14:19Z"
 ---
 ## What it is
 Cloud-hosted MCP server that connects AI clients to MetaTrader 4/5 for live prices, account state, indicators, and trades with dry-run safety via natural language.

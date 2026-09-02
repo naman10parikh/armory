@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-08T04:43:53Z"
 ---
 ## What it is
 Provides vision capabilities to Reasonix, enabling analysis of images/videos, OCR, and comparisons via OpenAI-compatible vision models.

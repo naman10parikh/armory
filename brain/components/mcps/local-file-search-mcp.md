@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T22:53:19Z"
 ---
 ## What it is
 Provides tools for searching and reading local files, supporting metadata filters, PDF full-text keyword search, and sandboxed file access.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-19T19:37:41Z"
 ---
 ## What it is
 MCP server `Nougat OCR`, catalogued on PulseMCP. Extracts text from scientific PDFs using Meta's Nougat model, preserving mathematical equations, tables, and complex document structures.

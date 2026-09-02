@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-27T11:47:39Z"
 ---
 ## What it is
 FastMCP server with Bearer token authentication mounted on FastAPI, including OAuth 2.1 endpoints for dynamic client registration and metadata discovery.

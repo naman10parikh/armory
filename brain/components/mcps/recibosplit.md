@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T20:52:30Z"
 ---
 ## What it is
 Read-only MCP server for querying group expense splits and balances from a self-hosted receipt splitting app.

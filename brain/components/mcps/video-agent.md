@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T03:01:23Z"
 ---
 ## What it is
 Enables probing, ingesting, transcribing, and searching Bilibili videos with timestamped evidence and frame extraction, without reading browser cookies.

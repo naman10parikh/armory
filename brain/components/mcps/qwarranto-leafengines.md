@@ -8,10 +8,12 @@ source_url: https://github.com/qwarranto/leafengines-claude-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-12T21:29:49Z"
 ---
 ## What it is
 MCP server `LeafEngines`, catalogued on PulseMCP. Agricultural AI for soil analysis, crop recommendations, and weather forecasts.

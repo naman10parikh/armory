@@ -8,10 +8,12 @@ source_url: https://github.com/ish-joshi/leonardo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-15T12:09:33Z"
 ---
 ## What it is
 MCP server `Leonardo AI`, catalogued on PulseMCP. Integrates with Leonardo AI's image generation platform for creating custom images with specific models, checking job status, and managing generation history through the Leonardo API.

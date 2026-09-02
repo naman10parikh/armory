@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-11T17:09:24Z"
 ---
 ## What it is
 A token-efficient MCP server that reduces context window bloat by lazy loading tool descriptions and proxying calls through three simple tools, with a dashboard for managing connections.

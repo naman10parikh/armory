@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T09:14:36Z"
 ---
 ## What it is
 MCP server for Meshbrow that gives AI agents full browser automation capabilities with stealth anti-detection, enabling natural language control of browser sessions, data extraction, and multi-browser fleets.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T19:34:44Z"
 ---
 ## What it is
 JSON repair & validation MCP server for AI agents: fixes malformed JSON (trailing commas, truncation, etc.) and validates/coerces against a JSON Schema, with deterministic free tier and paid LLM-fallback.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-13T09:44:53Z"
 ---
 ## What it is
 MCP server `Web Vulnerabilities Scanner`, catalogued on PulseMCP. AI-powered penetration testing with 30+ security tools and Groq LLM analysis for OWASP Top 10 coverage.

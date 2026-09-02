@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-01-05T18:43:38Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides comprehensive access to Garmin Connect data including sleep analytics, health metrics, activities, and training volume analysis.

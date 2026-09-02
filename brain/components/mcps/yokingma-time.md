@@ -8,10 +8,12 @@ source_url: https://github.com/yokingma/time-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-01-31T05:24:45Z"
 ---
 ## What it is
 MCP server `Time`, catalogued on PulseMCP. Temporal awareness tools for timezone conversion, timestamps, and calendar calculations

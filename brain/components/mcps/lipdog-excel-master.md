@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-06T17:26:31Z"
 ---
 ## What it is
 MCP server `Excel Master`, catalogued on PulseMCP. Integrates with Excel using XLwings to enable automated data manipulation, analysis, and reporting for business workflows.

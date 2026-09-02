@@ -8,10 +8,12 @@ source_url: https://github.com/wonker007/surgicalfs-mcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-29T18:45:56Z"
 ---
 ## What it is
 MCP server `SurgicalFS`, catalogued on PulseMCP. High-performance Rust filesystem server with 47 tools optimizing context efficiency through partial reads and structured format support.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-10T19:51:05Z"
 ---
 ## What it is
 MCP server `DirectPing Escrow`, catalogued on PulseMCP. Agent-to-agent escrow on Base blockchain with ETH and USDC bounty quests settled on-chain.

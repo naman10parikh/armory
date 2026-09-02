@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T04:31:48Z"
 ---
 ## What it is
 MCP server `SkillsSafe`, catalogued on PulseMCP. Security scanner for AI agent skills that detects credential theft, prompt injection, shell injection, and hidden Unicode characters.

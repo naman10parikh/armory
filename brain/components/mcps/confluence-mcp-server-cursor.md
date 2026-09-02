@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:55:27Z"
 ---
 ## What it is
 Enables a Cursor agent to search and read Confluence Server/Data Center pages via Personal Access Token, offering read-only tools for user info, spaces, page search, and page content.

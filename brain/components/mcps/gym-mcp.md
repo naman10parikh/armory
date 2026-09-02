@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-20T14:36:48Z"
 ---
 ## What it is
 Enables AI agents to discover and play games like Tic-Tac-Toe through a standardized interface, with plans to integrate more environments.

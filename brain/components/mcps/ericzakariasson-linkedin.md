@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-19T09:20:54Z"
 ---
 ## What it is
 MCP server `LinkedIn`, catalogued on PulseMCP. Automates LinkedIn posting through browser automation using Playwright, enabling direct content publishing with image attachments by connecting to Chrome in remote debugging mode.

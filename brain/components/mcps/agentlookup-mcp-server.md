@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T14:29:48Z"
 ---
 ## What it is
 Enables search, discovery, lookup, and registration of AI agents from the public agentlookup.dev registry directly from any MCP-compatible client, with tools to find agents by capability or browse by popularity.

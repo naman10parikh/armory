@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-01-28T21:58:50Z"
 ---
 ## What it is
 Enables querying Dota 2 player statistics, match data, and hero information through the OpenDota API using natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-25T00:30:50Z"
 ---
 ## What it is
 An MCP server for first-order logic theorem proving supporting multiple provers like Vampire, E, and Prover9, with built-in simple prover, session management, and TPTP export.

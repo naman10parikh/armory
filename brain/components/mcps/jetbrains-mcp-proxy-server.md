@@ -8,10 +8,12 @@ source_url: https://github.com/jetbrains/mcp-jetbrains
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 956
+stars: 965
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 77
+pushed_at: "2026-01-07T16:21:45Z"
 ---
 ## What it is
 MCP server `JetBrains IDE`, catalogued on PulseMCP. Interact with JetBrains IDEs for code analysis and development tasks.

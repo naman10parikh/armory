@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-08T17:18:23Z"
 ---
 ## What it is
 Caches and serves DDR/DRAM weekly price series from memorys.com and historical memory technology data, with tools for refresh, validation, analytics, forecasting, and chart rendering.

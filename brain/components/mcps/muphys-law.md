@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T22:43:10Z"
 ---
 ## What it is
 A lessons-learned register for AI agent fleets: capture operational lessons, curate them, push-inject the relevant ones into agent context — with the telemetry and blind-trial protocol to prove whether it works.

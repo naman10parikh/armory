@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T05:55:51Z"
 ---
 ## What it is
 MCP server for autonomous satellite telemetry classification, anomaly detection, and fault isolation, with safety envelope arbitration and NitroCloud deployment.

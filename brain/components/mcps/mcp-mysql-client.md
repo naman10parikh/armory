@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T00:24:51Z"
 ---
 ## What it is
 Provides AI agents a secure MCP interface to a single MySQL or MariaDB database, enabling schema inspection, read-only queries, query planning, and guarded write operations with strict safety controls.

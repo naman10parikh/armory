@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T08:59:07Z"
 ---
 ## What it is
 An Obsidian plugin that runs an MCP server, enabling AI agents to read, edit, search notes, and run Dataview queries in your vault.

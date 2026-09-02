@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T21:57:55Z"
 ---
 ## What it is
 A local-first MCP server that enables AI tools to safely inspect and search code repositories, providing indexing, deterministic BM25 search, code outlining, and context bundles without code modification.

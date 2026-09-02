@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T18:38:42Z"
 ---
 ## What it is
 An MCP server for Mobile Money in Francophone West Africa that enables AI agents to make payments via MTN MoMo (sandbox) using tools like request_payment, check_payment_status, and disburse_payment.

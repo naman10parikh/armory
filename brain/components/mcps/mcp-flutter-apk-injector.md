@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T15:21:18Z"
 ---
 ## What it is
 Enables Android APK reverse engineering and Flutter runtime injection through a six-step pipeline of decompile, analyze, synthesize, inject, patch, and repackage. Provides MCP tools for authorized security research and penetration testing.

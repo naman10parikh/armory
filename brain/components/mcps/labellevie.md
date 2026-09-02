@@ -8,11 +8,13 @@ source_url: https://github.com/McCANNParis/MCP_server_labellevie
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T04:33:20Z"
 ---
 ## What it is
 MCP server for La Belle Vie grocery that lets an AI agent search the catalog, manage the basket, reorder past orders, check delivery coverage and slots, and prepare a ready-to-pay checkout summary without automating payment.

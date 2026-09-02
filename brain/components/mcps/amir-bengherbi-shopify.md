@@ -8,10 +8,12 @@ source_url: https://github.com/amir-bengherbi/shopify-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-01-27T22:57:45Z"
 ---
 ## What it is
 MCP server `Shopify`, catalogued on PulseMCP. Integrates with Shopify's GraphQL API to enable comprehensive store management, including product, customer, order, and discount operations.

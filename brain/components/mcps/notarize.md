@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:17:12Z"
 ---
 ## What it is
 Signed AI content provenance with PII scrubbing — timestamps and signs AI-generated outputs for EU AI Act and FTC compliance.

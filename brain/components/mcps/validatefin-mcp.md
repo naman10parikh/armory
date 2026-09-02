@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T23:31:13Z"
 ---
 ## What it is
 Validates financial documents and payment files (SEPA, UBL/Peppol, camt, ACH) entirely locally.

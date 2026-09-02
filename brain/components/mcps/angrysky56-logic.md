@@ -8,10 +8,12 @@ source_url: https://github.com/angrysky56/mcp-logic
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-15T00:20:21Z"
 ---
 ## What it is
 MCP server `Logic (Prover9/Mace4)`, catalogued on PulseMCP. Integrates Prover9/Mace4 for automated reasoning, theorem proving, and logical analysis.

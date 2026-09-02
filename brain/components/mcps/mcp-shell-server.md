@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T07:04:13Z"
 ---
 ## What it is
 A secure MCP server for shell operations, terminal management, and process control, enabling AI assistants to safely execute commands and manage interactive sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T12:34:11Z"
 ---
 ## What it is
 A FastMCP-based proxy server that seamlessly integrates any MCP client with the Devin MCP API, enabling AI-powered repository analysis and question answering.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:07:44Z"
 ---
 ## What it is
 Enables an LLM to interact with a Gmail account via MCP, supporting email listing, sending, profile access, and PDF resource injection for context, with OAuth2 authentication and a Streamlit interface.

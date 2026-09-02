@@ -8,10 +8,12 @@ source_url: https://github.com/provencher/xcodemcpcli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-10T15:21:02Z"
 ---
 ## What it is
 MCP server `XcodeMCPCLI`, catalogued on PulseMCP. Command-line client that serializes Xcode build, test, and launch commands through a shared background daemon.

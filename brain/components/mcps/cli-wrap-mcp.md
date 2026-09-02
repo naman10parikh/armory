@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T10:44:36Z"
 ---
 ## What it is
 Turns any CLI command into an MCP server via a declarative YAML config, enabling safe, typed tool execution with no shell injection.

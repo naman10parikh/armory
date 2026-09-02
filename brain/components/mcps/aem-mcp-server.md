@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-06-22T11:11:02Z"
 ---
 ## What it is
 A full-featured MCP server for Adobe Experience Manager that enables non-technical users to manage AEM content, components, assets, and workflows via natural language through any MCP-compatible client.

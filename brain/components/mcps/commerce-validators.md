@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T16:27:03Z"
 ---
 ## What it is
 Provides real validation and live registry lookups for ecommerce and fintech workflows, including EU VAT, EORI, email domain, IBAN, ABA routing, and GTIN checks.

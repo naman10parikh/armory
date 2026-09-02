@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T13:01:23Z"
 ---
 ## What it is
 An MCP server that gives Claude the tools to help a product manager make sprint decisions grounded in real data.

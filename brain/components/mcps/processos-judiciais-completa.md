@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:44:24Z"
 ---
 ## What it is
 Enables complete judicial process lookup for individuals or companies via CPF/CNPJ, returning detailed case information. Works with any MCP client over HTTP.

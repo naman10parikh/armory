@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-02T18:33:00Z"
 ---
 ## What it is
 MCP server `Shell Access`, catalogued on PulseMCP. Scoped shell access MCP server with allowlist-based command control and TOML-configured safety rules.

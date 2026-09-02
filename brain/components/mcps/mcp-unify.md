@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-17T23:27:08Z"
 ---
 ## What it is
 Unifies multiple MCP servers behind a single endpoint with lazy loading, auto-cleanup, Python plugins, and role-based filtering.

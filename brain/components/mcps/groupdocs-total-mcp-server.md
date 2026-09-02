@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T21:20:18Z"
 ---
 ## What it is
 Unified MCP server that exposes GroupDocs.Total document-processing tools (annotation, comparison, conversion, merging, metadata, parsing, redaction, signing, watermarking, and more) as AI-callable tools for MCP agents.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-05T19:44:27Z"
 ---
 ## What it is
 MCP server `VantaGate`, catalogued on PulseMCP. Human-in-the-loop approval system for AI agents with OpenAPI integration.

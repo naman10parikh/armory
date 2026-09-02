@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-06-19T06:39:56Z"
 ---
 ## What it is
 Enables AI-driven deployment of code to decentralized storage networks like Greenfield, IPFS, and Arweave, providing instantly accessible webpage domains.

@@ -8,10 +8,12 @@ source_url: https://github.com/caiovicentino/hyperliquid-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-11-10T02:19:52Z"
 ---
 ## What it is
 MCP server `Hyperliquid`, catalogued on PulseMCP. Hyperliquid DEX integration with 27 tools for perpetual futures trading, account management, and real-time market data

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:37:45Z"
 ---
 ## What it is
 Official MCP server to integrate Abyss project context into AI apps and terminals, enabling seamless login and project access.

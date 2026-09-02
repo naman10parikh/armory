@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-31T08:25:44Z"
 ---
 ## What it is
 Enables Claude to compile, run, and interact with Pascal/Delphi desktop applications, including GUI automation, IDE observation, and Android device interaction via ADB.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-08T13:02:36Z"
 ---
 ## What it is
 MCP server `EigenLayer Documentation`, catalogued on PulseMCP. Provides structured access to EigenLayer documentation resources including blog articles, overview documentation, middleware, contracts, and developer guides through a Next.js server with Redis-powered connections.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T12:15:38Z"
 ---
 ## What it is
 A shared knowledge graph memory MCP server that multiple AI clients can connect to simultaneously via Streamable HTTP, supporting entity-relation storage and retrieval.

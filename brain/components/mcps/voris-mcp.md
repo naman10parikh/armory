@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T08:43:50Z"
 ---
 ## What it is
 A thin stdio-to-HTTPS proxy that connects local MCP clients to the hosted Voris MCP server, forwarding JSON-RPC messages verbatim.

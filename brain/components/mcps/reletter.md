@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:43:17Z"
 ---
 ## What it is
 Search 7M+ newsletters and full-text archives, with subscriber numbers, contacts, social accounts, rankings, and audience data.

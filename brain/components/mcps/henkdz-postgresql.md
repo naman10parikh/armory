@@ -8,10 +8,12 @@ source_url: https://github.com/henkdz/postgresql-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 185
+stars: 198
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 36
+pushed_at: "2026-06-23T13:25:45Z"
 ---
 ## What it is
 MCP server `PostgreSQL Database Manager`, catalogued on PulseMCP. Integrates with PostgreSQL databases to enable schema management, data migration, performance monitoring, and security configuration through direct database operations without requiring separate management tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T15:12:18Z"
 ---
 ## What it is
 Enables appending content to Google Docs and creating Gmail drafts with human-in-the-loop approval, integrating structured AI tool interfaces via MCP-style endpoints.

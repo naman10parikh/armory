@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T05:17:14Z"
 ---
 ## What it is
 A secure, TypeScript-based MCP gateway that enables AI agents to interact with Jira through controlled, audited tool calls without exposing credentials.

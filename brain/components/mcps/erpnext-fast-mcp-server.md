@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-22T21:44:33Z"
 ---
 ## What it is
 Enables generic CRUD operations on ERPNext/Frappe DocTypes via MCP tools, allowing users to interact with ERPNext data like documents, reports, and schema through natural language commands.

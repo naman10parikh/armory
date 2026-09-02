@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-13T20:44:46Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides tools to query the official MCP Registry.

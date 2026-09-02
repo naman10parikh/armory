@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-09T11:23:04Z"
 ---
 ## What it is
 MCP server `Shackle Memory`, catalogued on PulseMCP. Persistent memory system for AI coding tools with knowledge graph storage and retrieval.

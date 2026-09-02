@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-25T09:07:59Z"
 ---
 ## What it is
 Searches academic references from arXiv, DBLP, Semantic Scholar, and OpenAlex concurrently and generates BibTeX citations.

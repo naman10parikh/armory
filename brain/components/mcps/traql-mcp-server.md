@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:18:29Z"
 ---
 ## What it is
 Enables AI agents to perform AML and compliance risk scoring for crypto addresses and transactions on Ethereum, BSC, TRON, TON, and Bitcoin, returning 0–100 risk scores, bands, flags, and detailed signals.

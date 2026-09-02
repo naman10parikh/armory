@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-03T14:24:50Z"
 ---
 ## What it is
 MCP server `Desktop Automation`, catalogued on PulseMCP. Automates Windows desktop applications using UI Automation APIs for token-efficient window management, element finding, and input control.

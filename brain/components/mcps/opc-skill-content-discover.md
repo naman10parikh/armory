@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T00:16:30Z"
 ---
 ## What it is
 MCP server to read OPC discover content (AI deals/tools) from mrkjai.com using a personal API key, enabling AI assistants to fetch the latest curated AI resources.

@@ -8,10 +8,12 @@ source_url: https://github.com/oleander/home-assistant-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-12-01T19:07:18Z"
 ---
 ## What it is
 MCP server `Home Assistant`, catalogued on PulseMCP. Enables natural language control of Home Assistant smart home systems with tools for querying entity states, executing service calls, and retrieving system information through secure WebSocket or stdio communication.

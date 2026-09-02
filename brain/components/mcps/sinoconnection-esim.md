@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T16:52:28Z"
 ---
 ## What it is
 Search and buy travel eSIMs for 200+ countries, with specialized China plans that deliver uncensored internet without a VPN. Exposes five read-only tools to search plans, check device eSIM compatibility, get plan details, get help, and generate a secure on-site checkout link.

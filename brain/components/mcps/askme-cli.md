@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-17T13:23:19Z"
 ---
 ## What it is
 An MCP server that provides a user confirmation interface for AI assistants via terminal.

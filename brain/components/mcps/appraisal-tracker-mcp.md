@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T22:31:48Z"
 ---
 ## What it is
 Enables tracking annual performance appraisal by logging professional achievements as structured Markdown notes to an Obsidian vault through natural language conversation with VS Code Copilot.

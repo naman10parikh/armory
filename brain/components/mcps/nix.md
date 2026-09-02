@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T12:59:34Z"
 ---
 ## What it is
 Enables AI coding agents to search, read, create, update, and delete notes in a local Obsidian vault through hybrid semantic and lexical retrieval, with all embedding and vector storage running locally.

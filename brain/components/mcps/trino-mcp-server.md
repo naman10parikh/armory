@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-05T04:13:00Z"
 ---
 ## What it is
 Enables executing SQL queries on Trino clusters via MCP, supporting multiple authentication methods and read/write operations with safety controls.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-31T01:07:28Z"
 ---
 ## What it is
 MCP server `FreshBooks`, catalogued on PulseMCP. Integrates with FreshBooks accounting software for invoicing, expenses, and financial management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T10:25:39Z"
 ---
 ## What it is
 MCP server for Clarity AI's upscaler, providing tools to list models and upscale images/videos via a single POST endpoint, with support for local files and multiple processing modes.

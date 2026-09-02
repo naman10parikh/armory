@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T14:48:57Z"
 ---
 ## What it is
 MCP server `Science`, catalogued on PulseMCP. Enables research workflows with paper ingestion, semantic search, citation graph traversal, and knowledge synthesis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T08:46:32Z"
 ---
 ## What it is
 Enables analysis of any GitHub repository to get architecture, file roles, execution flows, system design Q\&A, and structured agent context. Works with MCP-compatible clients like Claude Desktop, Cursor, and Windsurf.

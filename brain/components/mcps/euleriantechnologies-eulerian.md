@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-13T11:00:14Z"
 ---
 ## What it is
 MCP server `Eulerian Marketing Platform`, catalogued on PulseMCP. Access Eulerian Marketing Platform analytics, attribution, and data activation capabilities.

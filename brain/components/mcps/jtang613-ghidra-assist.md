@@ -8,10 +8,12 @@ source_url: https://github.com/symgraph/ghidrassistmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 627
+stars: 732
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 66
+pushed_at: "2026-08-03T12:39:26Z"
 ---
 ## What it is
 MCP server `GhidrAssist (Ghidra)`, catalogued on PulseMCP. Integrates with Ghidra's analysis framework to provide binary reverse engineering capabilities including function decompilation, disassembly, cross-reference analysis, symbol management, and program structure exploration for malware analysis, vulnerability research, and legacy code understanding.

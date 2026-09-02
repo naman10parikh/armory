@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-10T04:26:13Z"
 ---
 ## What it is
 Enables AI-powered music generation and control of Sonic Pi through natural language requests using OSC.

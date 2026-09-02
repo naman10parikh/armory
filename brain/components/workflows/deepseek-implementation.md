@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tutorials-learning-resources]
+forks: 67
+pushed_at: "2025-09-30T02:52:47Z"
 ---
 ## What it is
 DeepSeek application development course companion code

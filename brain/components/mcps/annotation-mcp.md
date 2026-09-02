@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T17:33:10Z"
 ---
 ## What it is
 MCP server for image annotation, supporting bounding boxes, arrows, highlights, callouts, text, and circles, plus barcode and text detection with OCR.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:28:12Z"
 ---
 ## What it is
 Enables connecting any MCP client to a cinematography reference library of 5,489 films. Allows searching film frames by look, mood, or craft attributes, and refining through similar-frame discovery.

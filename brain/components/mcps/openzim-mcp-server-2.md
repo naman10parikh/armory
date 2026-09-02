@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T19:25:56Z"
 ---
 ## What it is
 OpenZIM MCP Server provides AI models structured, offline access to ZIM format knowledge archives (Wikipedia, Wiktionary, Stack Exchange, Kiwix Library) via a Model Context Protocol server with smart namespace navigation, full-text search with suggestions, structure-aware retrieval (sections, tables

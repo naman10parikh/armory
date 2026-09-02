@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:02:54Z"
 ---
 ## What it is
 Enables AI agents to send, read, search, and organize emails via ProtonMail using Proton Bridge. Supports MCP-compatible clients like Claude and Cursor.

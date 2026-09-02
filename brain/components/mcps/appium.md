@@ -8,10 +8,12 @@ source_url: https://github.com/appium/appium-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 369
+stars: 465
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 87
+pushed_at: "2026-09-02T03:23:32Z"
 ---
 ## What it is
 MCP server `Appium`, catalogued on PulseMCP. Mobile automation testing for iOS and Android devices with intelligent test generation

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T17:12:15Z"
 ---
 ## What it is
 MCP server for automating personal Amazon.in and Flipkart accounts via browser sessions, enabling product search, cart management, and guarded checkout.

@@ -8,10 +8,12 @@ source_url: https://github.com/jpazvd/unicefstats-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-08T02:29:36Z"
 ---
 ## What it is
 MCP server `UNICEF Stats`, catalogued on PulseMCP. Queries UNICEF child development statistics across 790+ indicators and 200+ countries via SDMX.

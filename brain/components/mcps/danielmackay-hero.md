@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-15T11:36:09Z"
 ---
 ## What it is
 MCP server `Superhero Team Management`, catalogued on PulseMCP. Provides a .NET-based superhero team management API for creating and managing heroes with various superpowers, forming teams, and executing missions with tracking capabilities.

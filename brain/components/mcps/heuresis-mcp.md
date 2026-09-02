@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T14:24:00Z"
 ---
 ## What it is
 Exposes a Heuresis workspace to MCP clients, enabling concept mapping, ideation, and workspace management through natural language.

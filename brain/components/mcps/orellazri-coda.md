@@ -8,10 +8,12 @@ source_url: https://github.com/orellazri/coda-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 34
+pushed_at: "2026-03-31T02:54:01Z"
 ---
 ## What it is
 MCP server `Coda`, catalogued on PulseMCP. Provides a bridge between AI and Coda documents, enabling listing, creating, reading, updating, and duplicating pages for collaborative document management and content creation.

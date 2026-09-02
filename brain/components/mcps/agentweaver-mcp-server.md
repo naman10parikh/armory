@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:28:02Z"
 ---
 ## What it is
 Exposes Agentweaver runs and outcomes as MCP tools for Claude Desktop and compatible clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-04-07T21:07:49Z"
 ---
 ## What it is
 Enables teams to build custom MCP servers with AI agents, supporting tool definition and Gemini API integration.

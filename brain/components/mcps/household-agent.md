@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T06:36:55Z"
 ---
 ## What it is
 Enables AI-powered household management including inventory tracking, restock predictions, meal planning from available ingredients, and baby supply monitoring through natural language commands.

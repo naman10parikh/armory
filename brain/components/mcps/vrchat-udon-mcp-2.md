@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T02:33:42Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes the agent-skills-vrc-udon repository as an interface for UdonSharp development in VRChat. It provides tools for searching documentation, reading skills, validating code, and more.

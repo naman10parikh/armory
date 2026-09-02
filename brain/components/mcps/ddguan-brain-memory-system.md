@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-29T04:07:16Z"
 ---
 ## What it is
 MCP server `Brain Memory System`, catalogued on PulseMCP. Provides persistent memory and structured reasoning capabilities through dual-layer memory systems (FIFO cache and graph-based storage) with cognitive mode switching, thought chain management, and association-based retrieval for complex problem-solving workflows.

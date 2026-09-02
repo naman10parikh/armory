@@ -8,11 +8,13 @@ source_url: https://github.com/chrisribe/simple-memory-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-17T15:38:08Z"
 ---
 ## What it is
 Provides AI assistants with persistent memory across sessions using local SQLite and keyword search, allowing storage and retrieval of user preferences, project context, and decisions.

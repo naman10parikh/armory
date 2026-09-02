@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T18:15:08Z"
 ---
 ## What it is
 A private, self-hosted RAG service over MCP that enables document ingestion, hybrid retrieval (BM25 + dense vectors fused with RRF), and notebook management through 14 tools, keeping documents on your own hardware.

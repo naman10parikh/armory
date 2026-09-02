@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T11:49:46Z"
 ---
 ## What it is
 Capsule is an MCP server that reduces model I/O by compressing outputs into exact-recoverable capsules, enabling efficient command execution, file editing, project analysis, and evidence expansion with safeguards.

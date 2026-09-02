@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-21T16:29:40Z"
 ---
 ## What it is
 This MCP server enables remote control and management of Claude Code agents, allowing you to execute missions, configure agent personalities, and integrate with other MCP tools.

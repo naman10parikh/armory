@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T18:09:11Z"
 ---
 ## What it is
 Enables review and management of OAuth scopes for remote MCP servers, including risk inspection, approval routing, consent receipts, policy validation, and audit exports.

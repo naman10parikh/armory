@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T14:20:12Z"
 ---
 ## What it is
 MCP server for the DreamHost API that enables DNS management (list, add, remove records) and API metacommands.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-23T23:50:54Z"
 ---
 ## What it is
 MCP server `AWS Cognito`, catalogued on PulseMCP. Integrates with AWS Cognito to provide user authentication flows including sign-up, sign-in, password management, account verification, and multi-factor authentication for secure identity management.

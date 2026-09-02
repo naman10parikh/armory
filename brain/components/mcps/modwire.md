@@ -8,11 +8,13 @@ source_url: https://github.com/modwire/modwire-agent
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:20:25Z"
 ---
 ## What it is
 Provides a tool to inspect and execute actions on a scaffolding API through Siren hypermedia links, enabling management of scaffolding resources without endpoint knowledge.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T16:53:13Z"
 ---
 ## What it is
 Enables AI agents to read, write, and maintain documentation through an MCP server, providing tools for asking questions, generating docs, checking drift, and exploring knowledge graph.

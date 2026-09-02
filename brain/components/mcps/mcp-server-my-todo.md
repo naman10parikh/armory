@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T13:59:16Z"
 ---
 ## What it is
 A minimal MCP server for managing a personal todo list backed by SQLite, allowing users to add, list, complete, and delete todos via natural language.

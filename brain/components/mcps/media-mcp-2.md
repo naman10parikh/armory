@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-02T09:46:37Z"
 ---
 ## What it is
 MCP server for media stack management — movies/TV, audiobooks/ebooks, and music. Integrates with Jellyseerr, Radarr, Sonarr, Jellyfin, Prowlarr, qBittorrent, Audiobookshelf, and Navidrome.

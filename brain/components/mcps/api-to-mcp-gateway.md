@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T15:43:38Z"
 ---
 ## What it is
 Acts as a bridge between standard REST/OpenAPI web APIs and the Model Context Protocol, dynamically converting REST endpoints into MCP tools for LLM clients like Cursor, Claude Desktop, and n8n.

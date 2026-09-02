@@ -8,11 +8,13 @@ source_url: https://github.com/hootandy321/dsh-Agentlink
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-25T06:47:46Z"
 ---
 ## What it is
 A local STDIO MCP server that bridges Codex to the official DeepSeek Harness (DSH) Web Host, enabling supervised DSH collaboration through session management, delegation, and monitoring tools.

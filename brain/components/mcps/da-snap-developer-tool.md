@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-24T21:11:29Z"
 ---
 ## What it is
 MCP server `File System Utilities`, catalogued on PulseMCP. Provides a set of file system utilities for executing shell commands, displaying file contents, searching with regex, and writing to files through a Go-based server that communicates via stdio transport.

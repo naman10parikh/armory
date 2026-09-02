@@ -8,10 +8,12 @@ source_url: https://github.com/aiappsapi/adaptive-recall
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T16:21:36Z"
 ---
 ## What it is
 MCP server `Adaptive Recall`, catalogued on PulseMCP. Provides adaptive memory and recall capabilities for AI workflows.

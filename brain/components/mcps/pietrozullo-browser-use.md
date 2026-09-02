@@ -8,10 +8,12 @@ source_url: https://github.com/pietrozullo/browser-use-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-21T08:40:58Z"
 ---
 ## What it is
 MCP server `Browser Use`, catalogued on PulseMCP. Enables AI to automate web browsing tasks through a unified interface that accepts natural language instructions for navigation, searching, and data extraction across multiple LLM providers.

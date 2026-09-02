@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:02:19Z"
 ---
 ## What it is
 MCP server exposing four task-shaped tools (resolve, pay, verify, disclose) for General Liquidity, enabling agents to normalize counterparties, submit intents, verify disclosures, and produce signed disclosures.

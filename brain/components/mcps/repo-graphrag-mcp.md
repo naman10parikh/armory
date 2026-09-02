@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-07T11:49:10Z"
 ---
 ## What it is
 An MCP server that builds a knowledge graph from code and text documents, enabling Q\&A and implementation planning via tools like graph_create, graph_plan, and graph_query.

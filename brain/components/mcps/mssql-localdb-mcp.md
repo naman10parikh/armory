@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T16:07:42Z"
 ---
 ## What it is
 A Rust MCP server for SQL Server Express LocalDB on Windows, enabling AI agents to create and manage LocalDB instances, run T-SQL scripts, and find/attach loose database files.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:19Z"
 ---
 ## What it is
 Read-only MCP server that queries official Minas Gerais state tax installment information, hosted on api.mcp.ai with pay-per-use credits and magic-link authentication.

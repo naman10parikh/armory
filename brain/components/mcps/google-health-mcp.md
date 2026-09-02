@@ -8,11 +8,13 @@ source_url: https://github.com/leo-pe2/google-health-hermes-agent-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T21:12:09Z"
 ---
 ## What it is
 Read-only MCP server exposing daily health facts, 7/28-day baselines, and deterministic daily pulse from Google Health API data.

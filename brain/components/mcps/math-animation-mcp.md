@@ -8,11 +8,13 @@ source_url: https://github.com/bcefghj/math-animation-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-04-05T23:01:27Z"
 ---
 ## What it is
 Enables creating 3Blue1Brown style math animations from text descriptions, PDFs, or images. Supports rendering educational videos for math and physics topics.

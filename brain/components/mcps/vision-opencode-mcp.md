@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:40:02Z"
 ---
 ## What it is
 MCP server that gives visual reference to MCP clients by calling an OpenAI-compatible vision API, enabling image description with optional auto-selection of the newest pasted image.

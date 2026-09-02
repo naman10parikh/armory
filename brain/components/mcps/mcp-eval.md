@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T18:52:02Z"
 ---
 ## What it is
 Enables deterministic evaluation of coding agents by exposing controlled repository tools and returning structured verification reports with pattern checks and repeat-run comparisons.

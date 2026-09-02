@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T17:04:08Z"
 ---
 ## What it is
 Qencode MCP server that connects AI clients to the Qencode Transcoding API via OAuth, allowing agents to submit, monitor, and reason about video transcoding jobs, including HLS ABR ladders, MP4 encoding, thumbnails, subtitles, transcriptions, and DRM packaging, plus Qencode Media Storage bucket and 

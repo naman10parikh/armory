@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T08:40:52Z"
 ---
 ## What it is
 Enables AI agents to interact with 1С:Enterprise and BAS ERP systems through REST and HTTP services, providing tools for searching catalogs, creating documents, and querying stock balances.

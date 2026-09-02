@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-09T04:48:25Z"
 ---
 ## What it is
 A CLI wrapper that monitors and captures output from any running command and exposes it as an MCP server, providing tools to retrieve and search logs.

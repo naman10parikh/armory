@@ -8,11 +8,13 @@ source_url: https://github.com/ChrystianSchutz/ThreadShelf
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-22T11:30:55Z"
 ---
 ## What it is
 Enables semantic search and retrieval of archived AI conversations from multiple providers via the MCP protocol, allowing thread continuation and integration with MCP-capable tools.

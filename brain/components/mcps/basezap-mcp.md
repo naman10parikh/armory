@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T20:29:40Z"
 ---
 ## What it is
 A read-only MCP server that exposes BaseZap's tipping-agent tools to any MCP client, allowing users to fetch platform info, compute USDC tip quotes, build unsigned ERC-20 transfer calldata, and resolve Farcaster usernames to wallet addresses.

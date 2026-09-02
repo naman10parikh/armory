@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-05T10:13:33Z"
 ---
 ## What it is
 MCP server `Git`, catalogued on PulseMCP. Provides Git operations for local repositories, enabling repository management, tag handling, and repository refreshing without direct shell access.

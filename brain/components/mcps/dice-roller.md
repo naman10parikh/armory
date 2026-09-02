@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T20:13:40Z"
 ---
 ## What it is
 Provides dice rolling tools for tabletop RPGs, including standard dice, custom notation, D&D stat generation, and initiative ordering.

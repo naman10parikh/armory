@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:53:54Z"
 ---
 ## What it is
 Enables AI agents to manage Splitwise expenses through natural language, including reading balances, splitting costs, and handling authentication and rate limits automatically.

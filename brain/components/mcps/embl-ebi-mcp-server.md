@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T20:20:37Z"
 ---
 ## What it is
 Provides access to EMBL-EBI bioinformatics data including InterPro domains, Pfam families, protein features, and taxonomy through a unified tool.

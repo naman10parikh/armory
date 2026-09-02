@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T09:03:38Z"
 ---
 ## What it is
 A remote MCP server that enables AI coding agents to search and retrieve context from imported AI chat history (ChatGPT, Claude, Codex, Claude Code) stored in Google Drive, with zero server-side storage and OAuth-based privacy.

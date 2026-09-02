@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T06:38:00Z"
 ---
 ## What it is
 Governed MCP access to Odoo business data, preserving Odoo permissions via a semantic query layer.

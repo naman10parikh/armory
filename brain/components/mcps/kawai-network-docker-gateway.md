@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-07T11:56:11Z"
 ---
 ## What it is
 MCP server `Docker Gateway`, catalogued on PulseMCP. Docker CLI plugin for discovering, deploying, and managing MCP servers as containers with credential management and multi-client support.

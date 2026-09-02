@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-15T22:19:36Z"
 ---
 ## What it is
 Enables web search using Perplexity AI's API, allowing users to search the web with optional recency filters and integration with Claude, Cursor, and other MCP clients.

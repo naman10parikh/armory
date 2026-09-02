@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:31:58Z"
 ---
 ## What it is
 MCP server for technical research in the TOTVS Protheus ecosystem, enabling AI agents to query official documentation, community knowledge bases, and release notes through structured tools. It supports runtime error debugging and ADVPL code generation.

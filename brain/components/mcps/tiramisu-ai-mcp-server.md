@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:46:08Z"
 ---
 ## What it is
 A read-only MCP server that exposes Tiramisu AI's product information, pricing, and official links to MCP-compatible AI clients.

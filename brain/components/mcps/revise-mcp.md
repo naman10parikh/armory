@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T03:46:31Z"
 ---
 ## What it is
 Provides tools to revise and refactor code via MCP, including moving code, indenting/dedenting, outlining file structure, and optional symbol renaming.

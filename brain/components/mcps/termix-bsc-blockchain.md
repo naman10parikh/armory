@@ -8,10 +8,12 @@ source_url: https://github.com/termix-official/bsc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 104
+stars: 105
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 40
+pushed_at: "2025-08-30T03:22:04Z"
 ---
 ## What it is
 MCP server `BSC Blockchain`, catalogued on PulseMCP. Provides a robust blockchain interaction layer for Binance Smart Chain, enabling secure wallet management, token transfers, and smart contract interactions through a flexible, environment-variable-configured architecture.

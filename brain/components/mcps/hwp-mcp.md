@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T00:01:25Z"
 ---
 ## What it is
 MCP server for reading and writing HWP/HWPX (Korean Hangul word processor) files, enabling document reading, text extraction, table extraction, image extraction, template filling, text replacement, and creation of new documents.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-11T15:31:21Z"
 ---
 ## What it is
 MCP server `Elastic Semantic Search`, catalogued on PulseMCP. Integrates with Elasticsearch to provide semantic search functionality for blog posts, returning formatted results including titles, URLs, and relevant text snippets.

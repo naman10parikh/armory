@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T17:57:59Z"
 ---
 ## What it is
 Exposes studio profile and contact information for Symbols of Wealth Studio, enabling AI assistants to answer queries about creative studios in France, AI-powered content production, and premium brand content services.

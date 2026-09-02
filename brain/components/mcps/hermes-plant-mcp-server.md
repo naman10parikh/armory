@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T17:23:03Z"
 ---
 ## What it is
 Enables AI agents to call deterministic finance and quant APIs (e.g., DCF, Black-Scholes, bond pricing) with per-call payments over x402, no API keys required.

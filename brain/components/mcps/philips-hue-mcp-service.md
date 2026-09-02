@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T07:01:11Z"
 ---
 ## What it is
 Enables control of Philips Hue lights through the Model Context Protocol, providing tools for turning lights on/off, setting brightness and color, and retrieving light status.

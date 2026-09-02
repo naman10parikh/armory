@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-25T01:03:35Z"
 ---
 ## What it is
 Connects Ableton Live to AI through MCP, enabling prompt-assisted music production with extended tools and a 33-personality style system for generating parts in various artist styles.

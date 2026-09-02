@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T04:46:52Z"
 ---
 ## What it is
 An AI-powered QA automation server that integrates Jira, GitHub, Jenkins, AWS, and Webex into a unified interface for QA engineers.

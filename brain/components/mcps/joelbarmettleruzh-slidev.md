@@ -8,10 +8,12 @@ source_url: https://github.com/joelbarmettleruzh/slidev-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-11T16:04:13Z"
 ---
 ## What it is
 MCP server `Slidev`, catalogued on PulseMCP. Generate, render, and host Slidev presentations from markdown.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T06:35:38Z"
 ---
 ## What it is
 An AI-powered native browser that provides 12 MCP tools for AI clients to browse, interact with, and extract data from any website with low token cost and built-in security features.

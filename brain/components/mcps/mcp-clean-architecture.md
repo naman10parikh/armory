@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T16:29:57Z"
 ---
 ## What it is
 Enables building maintainable MCP servers and apps in Python using FastMCP and Clean Architecture, providing e-commerce operations like product search and cart management via MCP.

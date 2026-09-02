@@ -8,11 +8,13 @@ source_url: https://github.com/hedless/onshape-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 128
+stars: 131
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 67
+pushed_at: "2026-03-04T22:21:44Z"
 ---
 ## What it is
 Enables programmatic CAD modeling with Onshape's REST API, offering 45 tools for parametric sketches, feature management, assemblies, analysis, variables, and exports.

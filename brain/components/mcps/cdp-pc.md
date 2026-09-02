@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T14:51:45Z"
 ---
 ## What it is
 Provides read-only access to the Cloudera CDP Public Cloud control plane, allowing users to list and describe environments, datahubs, datalakes, DW clusters, virtual warehouses, DE services, ML workspaces, and IAM users via natural language. It uses the installed cdp CLI and supports profiles.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-27T02:46:43Z"
 ---
 ## What it is
 MCP server `ANY-REST`, catalogued on PulseMCP. Dynamic REST API gateway using ZML configuration language for type-safe endpoint definitions with hot-reloading and flexible authentication

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T17:42:12Z"
 ---
 ## What it is
 MCP server for commerce-operations self-service. Lets an AI agent look up order details and search orders without needing developer or SQL access.

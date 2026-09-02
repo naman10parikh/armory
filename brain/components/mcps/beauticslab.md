@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-05T03:30:53Z"
 ---
 ## What it is
 MCP server `BeauticsLab`, catalogued on PulseMCP. Search Korean cosmetics across major platforms with EWG ingredient safety analysis.

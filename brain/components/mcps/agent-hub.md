@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T04:11:30Z"
 ---
 ## What it is
 A private message hub that allows multiple Claude Code instances to communicate across machines and sessions.

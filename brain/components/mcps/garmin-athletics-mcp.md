@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T12:50:27Z"
 ---
 ## What it is
 A private, read-only MCP server that gives local Codex and Claude Desktop sessions access to athletics and wellness data from a Garmin Forerunner 55. It runs locally over stdio, exposes read-only tools for daily health, recovery, performance, and workouts, and caches data in SQLite.

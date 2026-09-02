@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/web3-jobs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-02T04:17:21Z"
 ---
 ## What it is
 MCP server `Web3 Career`, catalogued on PulseMCP. Integrates with the web3.career API to search and filter cryptocurrency and blockchain job opportunities with parameters like remote work preferences, location, and technology tags, returning structured job listings with company details, descriptions, and application URLs.

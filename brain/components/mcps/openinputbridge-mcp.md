@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:31:30Z"
 ---
 ## What it is
 An MCP server that exposes OpenInputBridge's kernel-level keyboard/mouse driver as tools, enabling AI agents to send synthetic key and mouse input for GUI/native app test automation. It includes safety gates, rate limiting, and an exclusive input mode for CI/test machines.

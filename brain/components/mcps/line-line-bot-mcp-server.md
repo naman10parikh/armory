@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
-stars: 770
+stars: 771
+forks: 148
+pushed_at: "2026-09-01T16:12:13Z"
 ---
 ## What it is
 🎖 📇 ☁️ - MCP Server for Integrating LINE Official Account

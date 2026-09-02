@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:12:43Z"
 ---
 ## What it is
 Helps AI coding agents migrate Angular Reactive Forms to Signal Forms by locating form constructs, distinguishing mechanical renames from judgment calls, and providing verified before/after recipes. It only detects and advises, never edits source code.

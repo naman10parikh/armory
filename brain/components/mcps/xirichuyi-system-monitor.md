@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-19T06:11:48Z"
 ---
 ## What it is
 MCP server `System Monitor`, catalogued on PulseMCP. Provides real-time system metrics and performance data through Go-based tools that monitor CPU usage, memory statistics, disk information, network statistics, and process details with configurable intervals and caching for system administrators and developers analyzing resource usage.

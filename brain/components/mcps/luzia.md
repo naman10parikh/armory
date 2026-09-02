@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T10:47:26Z"
 ---
 ## What it is
 MCP server `Luzia`, catalogued on PulseMCP. Real-time cryptocurrency prices, historical OHLCV data, and cross-exchange comparison from Binance, Coinbase, Kraken, OKX, and Bybit.

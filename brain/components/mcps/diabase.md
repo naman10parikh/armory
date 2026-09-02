@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T14:07:34Z"
 ---
 ## What it is
 Diabase is an MCP server that provides a safe control plane for AI agents to manage Supabase backends, with features like planning, approval workflows, and audit trails.

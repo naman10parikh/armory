@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T14:03:13Z"
 ---
 ## What it is
 Allows users to manage multiple remote AI coding agents from a single Claude Code session, with a controlled execution model where operations require moderator approval.

@@ -8,10 +8,12 @@ source_url: https://github.com/iluxu/llmbasedos
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 288
+stars: 292
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-01-06T02:31:20Z"
 ---
 ## What it is
 MCP server `LLMBasedOS`, catalogued on PulseMCP. Secure Arch Linux gateway that bridges LLMs with local system capabilities through specialized servers for file system, email, sync, and agent operations without exposing sensitive information

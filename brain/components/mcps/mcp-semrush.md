@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:39:24Z"
 ---
 ## What it is
 Enables SEO analytics via the Semrush Analytics API, allowing AI agents to query Semrush data through natural language.

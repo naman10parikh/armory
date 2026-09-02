@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T12:08:44Z"
 ---
 ## What it is
 Generates PowerPoint presentations from POM format JSON, enabling AI agents to create .pptx files directly from natural language instructions.

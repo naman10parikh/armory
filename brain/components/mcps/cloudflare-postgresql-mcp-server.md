@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-11T13:49:54Z"
 ---
 ## What it is
 Enables chatting with PostgreSQL databases via MCP tools, with GitHub OAuth authentication and role-based write access, deployable on Cloudflare Workers.

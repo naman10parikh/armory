@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T21:42:31Z"
 ---
 ## What it is
 Enables Japanese language gap analysis and remediation through adaptive probes, evidence tracking, and prerequisite-aware study queues.

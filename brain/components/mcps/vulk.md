@@ -8,10 +8,12 @@ source_url: https://github.com/vulk-dev/vulk-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-25T23:10:52Z"
 ---
 ## What it is
 MCP server `Vulk`, catalogued on PulseMCP. Build, edit, deploy, and export full-stack web applications from natural language prompts.

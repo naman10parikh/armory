@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T14:56:59Z"
 ---
 ## What it is
 Enables AI coding assistants to automatically validate and fix code against enterprise governance rules using LivecheckAI, supporting platforms like Salesforce and ServiceNow.

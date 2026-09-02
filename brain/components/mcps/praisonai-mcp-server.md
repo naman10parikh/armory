@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-13T13:58:19Z"
 ---
 ## What it is
 An MCP server that exposes PraisonAI AI agents and tools for use with Claude Desktop, Cursor, VS Code, Windsurf, and other MCP clients.

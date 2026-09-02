@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T22:04:25Z"
 ---
 ## What it is
 An MCP server that enables Claude to deploy full-stack web apps to Cloudflare, including databases, authentication, and file storage, directly through natural language.

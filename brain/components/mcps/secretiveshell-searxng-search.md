@@ -8,10 +8,12 @@ source_url: https://github.com/secretiveshell/mcp-searxng
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 118
+stars: 128
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-05-29T20:54:33Z"
 ---
 ## What it is
 MCP server `SearXNG Search`, catalogued on PulseMCP. Perform privacy-preserving web searches via the SearXNG metasearch engine.

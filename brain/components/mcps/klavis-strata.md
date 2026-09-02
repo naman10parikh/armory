@@ -8,10 +8,12 @@ source_url: https://github.com/klavis-ai/klavis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5747
+stars: 5798
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 556
+pushed_at: "2026-06-01T21:21:04Z"
 ---
 ## What it is
 MCP server `Strata`, catalogued on PulseMCP. One MCP server that guides your AI agents use tools reliably progressively at any scale.

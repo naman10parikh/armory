@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T08:01:45Z"
 ---
 ## What it is
 MCP server that provides a local Web production console and HTTP control plane for AI video creation, exposing tools for project/revision management, media analysis, editing, review, and delivery while keeping formal rendering behind explicit approval gates.

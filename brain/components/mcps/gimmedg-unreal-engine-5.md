@@ -8,10 +8,12 @@ source_url: https://github.com/gimmedg/unrealengine5-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-01-16T03:00:36Z"
 ---
 ## What it is
 MCP server `Unreal Engine 5`, catalogued on PulseMCP. Bridges Unreal Engine 5 with AI assistants through a C++ plugin and Python server, enabling real-time manipulation of actors, blueprints, PCG graphs, and Python script execution with RAG-powered documentation assistance.

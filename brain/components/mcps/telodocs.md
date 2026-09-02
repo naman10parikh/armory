@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T20:03:31Z"
 ---
 ## What it is
 Scaffolds a documentation repository that serves as a remote MCP server, providing agentic search tools (glob, grep, read) over markdown docs, with a minimal browser UI.

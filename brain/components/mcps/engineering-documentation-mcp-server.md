@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T07:30:10Z"
 ---
 ## What it is
 Analyzes code repositories and generates comprehensive documentation published to Google Docs with Mermaid diagrams.

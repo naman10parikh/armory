@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-03T12:25:17Z"
 ---
 ## What it is
 MCP server for Polish case-law (SAOS) — Supreme Court, Constitutional Tribunal, common courts and KIO — with ECLI and verifiable citations.

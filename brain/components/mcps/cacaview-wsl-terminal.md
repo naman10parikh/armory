@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T03:38:51Z"
 ---
 ## What it is
 MCP server `WSL Terminal`, catalogued on PulseMCP. Manages persistent terminal sessions in WSL and Docker environments with real-time output polling, log tailing, and file transfer capabilities.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-02T11:12:45Z"
 ---
 ## What it is
 MCP server `ZK Lighter Trading Bot`, catalogued on PulseMCP. Integrates with ZK Lighter protocol for automated cryptocurrency trading on BTC, ETH, SOL, and HYPE markets using technical analysis indicators, position management, and confidence-based trade execution for algorithmic trading strategies and portfolio management on decentralized exchanges.

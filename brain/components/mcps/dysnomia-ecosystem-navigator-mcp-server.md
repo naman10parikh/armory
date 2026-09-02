@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T01:38:51Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Dysnomia blockchain ecosystem on PulseChain, allowing natural language queries for contract state, transaction debugging, minter tracing, and ecosystem graph mapping.

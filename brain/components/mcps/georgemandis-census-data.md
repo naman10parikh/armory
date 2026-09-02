@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-02T19:30:01Z"
 ---
 ## What it is
 MCP server `US Census Data`, catalogued on PulseMCP. Natural language access to US Census Bureau API with 1,700+ demographic and economic datasets.

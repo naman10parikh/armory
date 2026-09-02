@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-06T16:38:00Z"
 ---
 ## What it is
 Enables MCP-compatible agents to interact with Grafana instances for searching, creating, and updating dashboards, exploring logs via Loki, querying datasources, managing alerts, incidents, and on-call shifts, and accessing observability data.

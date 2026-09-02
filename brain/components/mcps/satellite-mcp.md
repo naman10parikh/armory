@@ -8,11 +8,13 @@ source_url: https://github.com/badchars/satellite-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T16:41:02Z"
 ---
 ## What it is
 Full-spectrum GEOINT server with 171 tools covering satellite imagery, aircraft tracking, maritime surveillance, military intelligence, conflict monitoring, environmental analysis, critical infrastructure, sanctions compliance, and cyber-geo intelligence from open-source data.

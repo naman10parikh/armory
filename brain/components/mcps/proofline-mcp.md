@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T11:54:37Z"
 ---
 ## What it is
 Enables AI agents to verify World Cup match evidence, check settlement readiness, purchase proof packets, and anchor results on Injective EVM testnet.

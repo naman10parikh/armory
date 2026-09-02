@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T17:06:31Z"
 ---
 ## What it is
 Agent-grade document production powered by Typst: templates with JSON schemas, deterministic compile/lint/repair, PNG previews and visual QA

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T01:37:17Z"
 ---
 ## What it is
 Provides deterministic tools for querying Rust package API behavior, including signature search, behavior lookup, and cross-implementation comparisons.

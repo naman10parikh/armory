@@ -8,10 +8,12 @@ source_url: https://github.com/taskmaster-ai/insta-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-09T05:49:41Z"
 ---
 ## What it is
 MCP server `Instagram Direct Messages`, catalogued on PulseMCP. Enables reading and sending Instagram direct messages through a Python server that authenticates with Instagram cookies and provides tools for retrieving recent conversations and sending new messages.

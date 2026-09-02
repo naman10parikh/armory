@@ -8,10 +8,12 @@ source_url: https://github.com/jesse-merhi/rag-anything-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-07-10T17:08:33Z"
 ---
 ## What it is
 MCP server `RAG Anything`, catalogued on PulseMCP. Provides RAG capabilities for processing and querying document directories using LightRAG with multimodal content extraction across PDF, DOCX, PPTX, TXT, and MD formats, supporting batch processing, persistent instances, and multiple query modes for research workflows and knowledge base construction.

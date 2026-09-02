@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T20:37:09Z"
 ---
 ## What it is
 Reduces MCP tool schema token overhead by lazy-loading and caching schemas, with response compression and verifiable savings metrics.

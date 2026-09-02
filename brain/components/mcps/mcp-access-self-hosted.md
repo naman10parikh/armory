@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T20:11:20Z"
 ---
 ## What it is
 An MCP server protected by Cloudflare Access as a self-hosted application, validating Access JWT and conditionally exposing tools based on user identity.

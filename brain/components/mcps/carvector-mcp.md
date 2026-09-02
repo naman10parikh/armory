@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T02:07:31Z"
 ---
 ## What it is
 CarVector is a Model Context Protocol server that gives AI agents real vehicle data — specifications and representative images, federal recall campaigns, and OBD-II DTC reference — instead of hallucinating them. Open-source client (npx -y carvector-mcp), authenticated with your own key; free tier, n

@@ -8,10 +8,12 @@ source_url: https://github.com/bsmi021/mcp-server-webscan
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-07-19T21:31:31Z"
 ---
 ## What it is
 MCP server `Web Content Extractor`, catalogued on PulseMCP. Extracts and processes web content using TypeScript, Cheerio, and Turndown for tasks like scraping, summarization, and data transformation.

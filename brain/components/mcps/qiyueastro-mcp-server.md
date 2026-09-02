@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T08:28:44Z"
 ---
 ## What it is
 MCP server for Eastern and Western divination, enabling tarot, Lenormand, I Ching, Meihua, Qi Men, BaZi, Zi Wei Dou Shu, Xiao Liu Ren and Da Liu Ren readings via the free QiyueAstro public API.

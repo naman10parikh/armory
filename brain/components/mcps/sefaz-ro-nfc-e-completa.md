@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:49Z"
 ---
 ## What it is
 Consulta NFC-e em fonte oficial da SEFAZ RO, com ferramenta somente leitura e pagamento por uso via crédito pré-pago.

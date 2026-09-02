@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:10:50Z"
 ---
 ## What it is
 A domain-specific data agent and MCP server for macro-level import sourcing screening for Ukraine, providing tools over UN Comtrade, World Bank Indicators, and WITS TRAINS to analyze supply origins, concentration, landed costs, and rankings.

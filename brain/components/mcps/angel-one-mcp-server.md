@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-04-29T18:14:45Z"
 ---
 ## What it is
 Enables interaction with Angel One trading APIs to retrieve historical market data and portfolio information.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-07T07:44:27Z"
 ---
 ## What it is
 MCP server for the Nado Protocol on the Ink blockchain, enabling AI assistants to query market data, manage positions, place orders, and access historical trading data.

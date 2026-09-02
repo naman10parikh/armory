@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T22:32:09Z"
 ---
 ## What it is
 Provides full administrative control of OpenWRT routers via SSH, with a preview-confirm safety model for mutating operations.

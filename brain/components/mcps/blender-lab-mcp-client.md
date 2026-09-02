@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T10:38:36Z"
 ---
 ## What it is
 MCP server for Blender that connects to the official Blender Lab add-on, exposing 27 tools for scene manipulation, object editing, materials, rendering, and Python execution through the add-on's actual wire protocol.

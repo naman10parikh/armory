@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T09:23:52Z"
 ---
 ## What it is
 Enables searching and reading AWS knowledge from sources the official AWS Knowledge MCP Server does not index, including re:Post community Q&A, kiro.dev documentation, and AWS Builder Center posts.

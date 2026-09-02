@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T14:03:08Z"
 ---
 ## What it is
 Enables AI agents to access Thailand tax, visa, and expat-money tools, including tax calculation, remittance checks, residency counting, and premium rule-engine queries.

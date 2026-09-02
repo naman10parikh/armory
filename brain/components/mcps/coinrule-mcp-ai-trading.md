@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T12:21:04Z"
 ---
 ## What it is
 Enables AI assistants to manage crypto trading through Coinrule via natural language, including portfolio inspection, strategy creation, backtesting, and execution with configurable read/write permissions.

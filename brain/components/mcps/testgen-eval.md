@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T21:27:57Z"
 ---
 ## What it is
 Wraps testgen's test-suite generation as an MCP tool, enabling AI assistants to generate test suites from requirements via a local HTTP endpoint.

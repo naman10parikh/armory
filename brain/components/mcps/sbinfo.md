@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T11:19:01Z"
 ---
 ## What it is
 MCP server for querying Korean school budget, unit projects, and special plans through the School Alert (학교알리미) open data API.

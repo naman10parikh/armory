@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T11:05:08Z"
 ---
 ## What it is
 Unofficial read-only MCP server for Telepizza.es that enables querying menu, prices, offers, stores, loyalty points, and order history using your own account. It cannot make purchases.

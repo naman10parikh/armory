@@ -12,6 +12,8 @@ stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-10-17T19:57:09Z"
 ---
 ## What it is
 MCP server `Ansible Automation Platform`, catalogued on PulseMCP. Integrates with Ansible Automation Platform, OpenShift, and Event-Driven Ansible to enable advanced automation workflows, inventory management, and job template execution for DevOps teams.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T12:30:49Z"
 ---
 ## What it is
 An MCP server that calculates technical analysis indicators for stock tickers using yfinance and pandas-ta, providing real-time financial data and quantitative analysis tools for LLMs.

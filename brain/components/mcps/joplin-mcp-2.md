@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T08:39:43Z"
 ---
 ## What it is
 Enables interaction with Joplin notes through MCP, allowing searching, creating, updating, and deleting notes via the Joplin Web Clipper API.

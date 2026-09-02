@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T19:09:47Z"
 ---
 ## What it is
 Enables SEO page generation with competitor research and Schema.org structured data. Provides tools to search competitors for a keyword and generate high-quality SEO content with FAQPage schema.

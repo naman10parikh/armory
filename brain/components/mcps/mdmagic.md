@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T03:08:11Z"
 ---
 ## What it is
 MCP server `MDMagic`, catalogued on PulseMCP. MCP server for converting Markdown documents into professional DOCX, PDF, and HTML formats using custom or built-in designer templates.

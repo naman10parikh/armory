@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-26T05:12:17Z"
 ---
 ## What it is
 Secure MCP server for querying Google NotebookLM notebooks. Enables AI assistants to list notebooks, read sources, and ask the NotebookLM AI questions about your sources.

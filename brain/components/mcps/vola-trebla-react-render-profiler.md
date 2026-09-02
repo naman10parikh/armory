@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T13:30:49Z"
 ---
 ## What it is
 MCP server `React Render Profiler`, catalogued on PulseMCP. Decodes React DevTools Profiler exports into render summaries and memoization advice.

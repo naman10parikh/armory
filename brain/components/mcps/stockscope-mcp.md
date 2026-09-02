@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-11T15:22:31Z"
 ---
 ## What it is
 Free MCP server for stock and financial intelligence from SEC EDGAR, supporting financials, filings, comparisons, insider trades, historical prices, and sector peers.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-07T13:36:41Z"
 ---
 ## What it is
 MCP server `Base Token Sniper`, catalogued on PulseMCP. Discover and trade new token launches on Base chain through the OBSD LaunchPad.

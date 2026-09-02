@@ -8,10 +8,12 @@ source_url: https://github.com/mxiris-reverse-engineering/ida-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 543
+stars: 547
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 59
+pushed_at: "2025-05-29T09:58:03Z"
 ---
 ## What it is
 MCP server `IDA Pro`, catalogued on PulseMCP. Enables programmatic reading and searching of IDA Pro databases via large language models, providing tools for reverse engineering and binary analysis automation.

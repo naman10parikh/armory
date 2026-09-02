@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-11T02:13:22Z"
 ---
 ## What it is
 MCP server `Coin Daemon (Zcash)`, catalogued on PulseMCP. Integrates with cryptocurrency daemon RPC interfaces to enable secure querying and management of blockchain networks, with initial support for Zcash.

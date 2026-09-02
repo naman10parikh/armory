@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-11T20:40:40Z"
 ---
 ## What it is
 MCP server `Polyglot Translation`, catalogued on PulseMCP. Provides translation services between six languages (Arabic, Chinese, English, French, Russian, and Spanish) with domain-specific context for legal, medical, and general use cases, plus formality controls for professional document translation and cross-cultural communication.

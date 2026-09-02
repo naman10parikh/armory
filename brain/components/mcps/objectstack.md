@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T03:54:55Z"
 ---
 ## What it is
 Connect Gemini CLI to any ObjectStack deployment over the Model Context Protocol to discover objects, query and change records, and run business actions under your own permissions and row-level security.

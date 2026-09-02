@@ -8,10 +8,12 @@ source_url: https://github.com/simonutd/ai-diagram-prototype-generator-mcp-serve
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-09-13T01:49:37Z"
 ---
 ## What it is
 MCP server `AI Diagram Prototype Generator`, catalogued on PulseMCP. Integrates with multiple AI providers (ZhipuAI, OpenAI, Gemini) to automatically generate architecture diagrams, flowcharts, and mobile app prototypes using specialized prompt templates for system architecture, Apple mobile prototypes, WeChat mini-apps, and common UI prototypes.

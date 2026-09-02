@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T08:46:04Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes SFTP file operations as tools, including batch and sync capabilities for efficient remote file management.

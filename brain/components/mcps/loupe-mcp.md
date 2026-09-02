@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:01:46Z"
 ---
 ## What it is
 Turns product feedback pinned to a live UI into an actionable backlog for Claude Code — list comments, open one with its target element's HTML, computed styles and screenshot, and update its status.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:39:43Z"
 ---
 ## What it is
 Enables AI to create ASCII and SVG art through a character canvas, with tools for drawing, previewing, and exporting to multiple formats, as well as composing stop-motion animations with optional voice-over.

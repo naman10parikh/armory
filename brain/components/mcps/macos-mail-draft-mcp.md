@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T14:11:19Z"
 ---
 ## What it is
 Creates email drafts in the macOS Mail app using AppleScript, with support for recipients, subject, body, attachments, and sender selection. No email is sent; drafts are saved locally and synced to the mail server by Mail.

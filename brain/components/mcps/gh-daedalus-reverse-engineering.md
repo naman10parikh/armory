@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T03:46:39Z"
 ---
 ## What it is
 MCP server `Reverse Engineering Toolkit`, catalogued on PulseMCP. Sandboxed reverse engineering tools with multiple framework integrations.

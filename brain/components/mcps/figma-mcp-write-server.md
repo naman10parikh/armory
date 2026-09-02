@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-11-25T16:29:19Z"
 ---
 ## What it is
 An MCP server that provides write access to Figma through the Plugin API, enabling AI agents to create, modify, and manage Figma designs programmatically.

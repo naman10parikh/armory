@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T22:25:50Z"
 ---
 ## What it is
 MCP server that enables video analysis capabilities to Claude, including frame extraction, scene detection, and video metadata retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T03:02:43Z"
 ---
 ## What it is
 MCP server for Outrank that enables AI agents to verify credits, manage website products, queue keyword research, generate SEO articles, and fetch article content.

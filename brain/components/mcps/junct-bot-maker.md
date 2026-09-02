@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:52Z"
 ---
 ## What it is
 MCP server `Maker by Junct`, catalogued on PulseMCP. Hosted integration with Maker (MakerDAO) protocol for DAI stablecoin and vault analytics via Junct platform.

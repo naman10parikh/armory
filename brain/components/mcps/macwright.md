@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T19:04:35Z"
 ---
 ## What it is
 An MCP server for reliable native macOS desktop control from AI agents, providing 72 tools for screenshots, mouse, keyboard, scroll, clipboard, window management, and more.

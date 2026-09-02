@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T09:05:39Z"
 ---
 ## What it is
 Enables startup protection checks directly from your editor, analyzing clone risk, defensibility, and patentable features in about 2 minutes.

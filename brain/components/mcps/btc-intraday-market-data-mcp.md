@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T10:12:10Z"
 ---
 ## What it is
 Read-only MCP server providing BTC intraday quantitative market data via tools like snapshots, timeframes, liquidations, and options surface, designed for Vercel Hobby and ChatGPT custom MCP apps.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T18:09:57Z"
 ---
 ## What it is
 Exposes axe-core accessibility auditing as MCP tools so any MCP-compatible agent can audit HTML for structural and semantic issues.

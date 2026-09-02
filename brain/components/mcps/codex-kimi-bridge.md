@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T04:52:18Z"
 ---
 ## What it is
 Enables Codex to delegate implementation tasks to Kimi Code while managing server lifecycle and authentication automatically.

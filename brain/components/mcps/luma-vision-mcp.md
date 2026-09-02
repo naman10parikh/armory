@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T08:19:00Z"
 ---
 ## What it is
 An MCP server that adds visual understanding to text-only LLMs via image understanding, OCR, and image comparison tools, with multi-provider fallback and context-aware Focus Hint for precise descriptions.

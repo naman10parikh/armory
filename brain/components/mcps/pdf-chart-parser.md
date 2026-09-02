@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:25:03Z"
 ---
 ## What it is
 An MCP server that extracts energy-usage charts from utility-bill PDFs, returning structured time-series data and annotated images.

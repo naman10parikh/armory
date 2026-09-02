@@ -8,11 +8,13 @@ source_url: https://github.com/HumanSecurity/human-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-05T05:28:12Z"
 ---
 ## What it is
 Enables AI applications to access HUMAN Security's cybersecurity intelligence for threat detection, attack analysis, and security monitoring.

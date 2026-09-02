@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:46Z"
 ---
 ## What it is
 Read-only MCP server that enables consulting official account information from the Brazilian registry ARISP, with a single query tool and prepaid credit-based pricing.

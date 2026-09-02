@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:00:10Z"
 ---
 ## What it is
 A minimal MCP server exposing four trivial tools: arithmetic calculation, current time lookup, and in-memory note storage. It serves as a teaching example to demonstrate the complete MCP request/response cycle with a Gemini agent.

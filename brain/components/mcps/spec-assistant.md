@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T10:58:00Z"
 ---
 ## What it is
 Enables natural language queries on technical specifications and automated code compliance checks using local RAG with vector search, integrated via MCP.

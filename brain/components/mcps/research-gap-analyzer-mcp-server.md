@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T07:27:34Z"
 ---
 ## What it is
 Automates literature review, research gap detection, and novelty evaluation for academic research, providing tools to search, summarize, find gaps, generate ideas, and evaluate novelty.

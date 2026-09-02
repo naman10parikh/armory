@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T09:28:00Z"
 ---
 ## What it is
 Connects Claude Desktop to Google Drive to access and analyze IELTS study materials without downloading, supporting PDFs, DOCX, and Google Docs.

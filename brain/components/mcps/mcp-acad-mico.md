@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T21:23:26Z"
 ---
 ## What it is
 Assists in writing academic papers by extracting, organizing, and referencing scientific PDFs with ABNT formatting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T00:19:06Z"
 ---
 ## What it is
 A personal file-indexing MCP server that provides semantic and keyword search over a file index, plus file content lookup and browsing. It enables agents to search and retrieve files from a user's home directory.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T11:14:00Z"
 ---
 ## What it is
 MCP server for agent-maintained memories, allowing creation, reading, updating, deletion, and listing of memories with global or repo scopes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T05:40:41Z"
 ---
 ## What it is
 Enables searching CiNii Research for academic articles, books, grants, and research data, and retrieving metadata for individual items.

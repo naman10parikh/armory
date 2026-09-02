@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-09T02:05:31Z"
 ---
 ## What it is
 MCP server `Ntropy`, catalogued on PulseMCP. Integrates with Ntropy's API to enrich banking data, enabling detailed financial transaction analysis and categorization for AI applications.

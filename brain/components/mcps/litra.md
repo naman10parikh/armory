@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-19T10:07:17Z"
 ---
 ## What it is
 MCP server `Litra`, catalogued on PulseMCP. AI-powered academic paper search with relevance scoring and author lookup via the Litra.ai platform.

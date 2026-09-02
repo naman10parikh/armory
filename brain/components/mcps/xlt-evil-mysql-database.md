@@ -8,10 +8,12 @@ source_url: https://github.com/xlt-evil/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-01T07:03:53Z"
 ---
 ## What it is
 MCP server `MySQL Database`, catalogued on PulseMCP. Go-based MCP server implementation providing MySQL database connectivity and basic greeting functionality through modular architecture with YAML configuration management

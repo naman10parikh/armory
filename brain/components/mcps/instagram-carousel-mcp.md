@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T12:41:46Z"
 ---
 ## What it is
 An MCP server that designs multi-slide Instagram carousels as SVG, provides a live swipeable preview, and exports to PNG. Supports multiple templates, themes, and sizes.

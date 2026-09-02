@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T07:13:01Z"
 ---
 ## What it is
 Enables AI assistants to identify and judge unexplained terms in prose documents by providing differential linting, term context, and ledger management.

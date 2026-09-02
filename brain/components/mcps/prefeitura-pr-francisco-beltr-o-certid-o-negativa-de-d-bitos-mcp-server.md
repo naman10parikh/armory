@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:50Z"
 ---
 ## What it is
 Enables consulting official negative debt certificates from the Prefeitura of Francisco Beltrão, Paraná, through a hosted MCP server with pay-per-use credits and read-only access.

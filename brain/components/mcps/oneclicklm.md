@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T15:58:34Z"
 ---
 ## What it is
 A robust MCP server for NotebookLM that provides auto-healing authentication, zero-config setup, and tools to list, query, create notebooks, and manage sources.

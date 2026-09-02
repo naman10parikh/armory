@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T14:13:04Z"
 ---
 ## What it is
 Provides OAuth-protected remote access to an existing Open Brain, forwarding approved tool calls from Gemini Spark and Perplexity web clients without altering the upstream system.

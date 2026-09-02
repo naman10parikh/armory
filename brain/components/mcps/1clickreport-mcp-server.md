@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T21:18:21Z"
 ---
 ## What it is
 Provides 40 MCP tools to connect AI assistants like Claude to marketing platforms (Google Ads, Meta Ads, GA4, Search Console, Stripe) for reading, analyzing, managing, and monitoring ad campaigns and analytics through natural language.

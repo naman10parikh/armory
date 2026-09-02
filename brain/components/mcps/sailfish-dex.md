@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-08T09:29:59Z"
 ---
 ## What it is
 MCP server `SailFish`, catalogued on PulseMCP. Provides a bridge to the SailFish decentralized exchange on the EDU blockchain, enabling token swaps, liquidity pool queries, and market data analysis through a GraphQL subgraph with optimal routing capabilities.

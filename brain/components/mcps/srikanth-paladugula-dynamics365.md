@@ -8,10 +8,12 @@ source_url: https://github.com/srikanth-paladugula/mcp-dynamics365-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-04-19T18:36:08Z"
 ---
 ## What it is
 MCP server `Dynamics 365`, catalogued on PulseMCP. Integrates with Microsoft Dynamics 365 CRM to retrieve and manage business data including user information, accounts, opportunities, and record creation through Azure AD authentication.

@@ -8,10 +8,12 @@ source_url: https://github.com/twolven/mcp-server-puppeteer-py
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-15T19:45:53Z"
 ---
 ## What it is
 MCP server `Puppeteer Browser Automation`, catalogued on PulseMCP. Integrates with Puppeteer to provide browser automation capabilities for web navigation, interaction, and data extraction.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T09:57:24Z"
 ---
 ## What it is
 A token-efficient web browsing, scraping, and crawling MCP server that provides tools for fetching pages as clean markdown or schema-based JSON, verifying content, monitoring changes, and interacting with web pages via a persistent browser pool, complete with SSRF protection and rate limiting.

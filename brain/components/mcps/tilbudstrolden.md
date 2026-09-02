@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-31T18:07:39Z"
 ---
 ## What it is
 An MCP server for Nordic grocery shopping that finds deals across supermarkets in Denmark, Norway, Sweden, and Finland, plans weekly dinners around cheap ingredients, and generates shopping lists grouped by store.

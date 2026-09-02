@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-06-16T06:01:24Z"
 ---
 ## What it is
 Generates images through ChatGPT's web backend and assembles them into full-bleed, branded PowerPoint decks with slide styling and reference-based design.

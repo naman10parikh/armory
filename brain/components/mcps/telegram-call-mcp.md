@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T17:00:28Z"
 ---
 ## What it is
 MCP server that enables AI agents to place real Telegram voice calls and speak a message aloud via TTS, with configurable repeats and call handling.

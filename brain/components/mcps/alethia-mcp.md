@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-18T21:59:24Z"
 ---
 ## What it is
 MCP bridge that lets any MCP client drive the Alethia runtime for agent-native E2E testing. It provides a per-step policy gate that blocks destructive actions with a cryptographic audit trail.

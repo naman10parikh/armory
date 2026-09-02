@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T17:55:51Z"
 ---
 ## What it is
 Personal MCP hub exposing Tesla, ChargePoint, and Outlook mail as tools, enabling natural-language queries through Gemini.

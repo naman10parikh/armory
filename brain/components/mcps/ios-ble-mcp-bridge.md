@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:10:59Z"
 ---
 ## What it is
 Enables AI agents to control iOS BLE devices through a WebSocket bridge and Safari extension, allowing scanning, connecting, reading, and writing BLE characteristics from an iPhone.

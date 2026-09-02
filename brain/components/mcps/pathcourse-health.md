@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-10T18:29:26Z"
 ---
 ## What it is
 MCP server `PathCourse Health`, catalogued on PulseMCP. MCP server integrating PathCourse Health services for LLM inference, USDC-based agent payments, and agent identity lookup.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T17:51:39Z"
 ---
 ## What it is
 Drive an Android phone over ADB and expose it to AI agents via MCP, enabling natural language-driven interaction for native app testing.

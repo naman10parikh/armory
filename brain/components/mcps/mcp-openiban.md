@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:29:17Z"
 ---
 ## What it is
 Validates IBAN checksums and resolves bank codes via the OpenIBAN API.

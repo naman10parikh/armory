@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:47:42Z"
 ---
 ## What it is
 Enables role-based order management through MCP tools, allowing users to view and refund orders according to their permissions (USER, MANAGER, ADMIN) with audit logging and JWT authentication handled by a FastAPI client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:35:31Z"
 ---
 ## What it is
 Provides read-only Chatty Pi tools via a streamable HTTP MCP endpoint, enabling access to user profile, posts, notifications, and YuvaBucks balance.

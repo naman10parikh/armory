@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 1
+forks: 0
+pushed_at: "2026-05-25T22:10:34Z"
 ---
 ## What it is
 Global reptile & exotic pet knowledge base. 633 species, AI identification, genetics calculator, 12-dimension care, health diagnosis, pricing, and blockchain provenance. Free tier: 9 tools, 10 req/min. MCP: https://api.digeguigui.com/mcp

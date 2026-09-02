@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T05:56:12Z"
 ---
 ## What it is
 MCP server for IBM Z Hardware Management Console Web Services API integration with Bob AI, enabling management of HMC systems and partitions through natural language.

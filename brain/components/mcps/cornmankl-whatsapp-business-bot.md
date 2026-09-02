@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-10T08:38:13Z"
 ---
 ## What it is
 MCP server `WhatsApp Business Bot`, catalogued on PulseMCP. Automates WhatsApp Business messaging with AI-powered chat responses, broadcast management, scheduled messages, auto-responses, chat flows, group management, and analytics through web dashboard integration.

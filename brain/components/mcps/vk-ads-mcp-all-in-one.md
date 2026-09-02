@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T19:14:27Z"
 ---
 ## What it is
 Local MCP server that integrates with VK Ads API and Core VK API, providing 128 tools for managing ad campaigns, audiences, creatives, statistics, and analyzing VK communities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 82
+pushed_at: "2026-08-17T04:39:35Z"
 ---
 ## What it is
 MCP server for semantic search over Oracle philosophy using hybrid search (FTS5 + LanceDB). Integrates with Claude Code for querying wisdom and managing a knowledge vault.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T09:34:54Z"
 ---
 ## What it is
 A download manager for humans and AI with a native MCP server: add_task, list_tasks, wait_for_task with progress notifications from any MCP host. Multi-threaded multi-mirror HTTP, BT/magnet, 1000+ video sites (yt-dlp), RSS, token-secured remote Web UI. ~8MB, open source.

@@ -8,11 +8,13 @@ source_url: https://github.com/mcccsm/x402-list-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 58
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:30:24Z"
 ---
 ## What it is
 Enables AI agents to discover x402 payment services and query on-chain-verified settlement volumes per facilitator through the Model Context Protocol.

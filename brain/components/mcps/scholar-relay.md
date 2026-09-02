@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T07:02:18Z"
 ---
 ## What it is
 An AI-powered research assistant that enables students to discover papers, generate summaries, and build bibliographies with cross-device session continuation using MCP and LangGraph.

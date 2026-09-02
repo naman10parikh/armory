@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T18:51:29Z"
 ---
 ## What it is
 MCP server `Rove`, catalogued on PulseMCP. Hosted Playwright browser automation for AI agents that returns accessibility trees instead of screenshots, reducing token consumption by 77%.

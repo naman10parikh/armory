@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T16:34:10Z"
 ---
 ## What it is
 MCP server `Vibe Check`, catalogued on PulseMCP. Scans projects and files for security vulnerabilities including secrets, injections, and unsafe configurations.

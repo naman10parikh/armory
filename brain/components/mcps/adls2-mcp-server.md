@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-05-31T01:46:12Z"
 ---
 ## What it is
 Enables interaction with Azure Data Lake Storage Gen2, supporting file, directory, and filesystem operations through MCP tools.

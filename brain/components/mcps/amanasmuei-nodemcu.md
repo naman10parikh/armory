@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-28T13:45:46Z"
 ---
 ## What it is
 MCP server `NodeMCU`, catalogued on PulseMCP. Enables remote management and monitoring of ESP8266-based IoT devices through WebSocket connections and REST API endpoints for smart home automation, environmental monitoring, and device fleet management.

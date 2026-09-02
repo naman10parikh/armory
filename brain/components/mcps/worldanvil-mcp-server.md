@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T10:40:23Z"
 ---
 ## What it is
 MCP server for World Anvil that enables browsing, searching, and managing world content, plus exporting complete copies for migrations or backups.

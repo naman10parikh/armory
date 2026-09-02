@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T14:38:23Z"
 ---
 ## What it is
 Provides tools to query Brazilian CNPJ (company registration), CEP (postal codes), and currency exchange rates (USD and EUR) through an MCP server.

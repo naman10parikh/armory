@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T02:51:45Z"
 ---
 ## What it is
 Enables load testing and validation of an order API by generating synthetic orders, previewing them, and sending batches while enforcing guardrails like bounded counts and fixed seeds for replay.

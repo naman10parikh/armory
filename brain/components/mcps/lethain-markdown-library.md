@@ -8,10 +8,12 @@ source_url: https://github.com/lethain/library-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 90
+stars: 92
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-21T13:49:05Z"
 ---
 ## What it is
 MCP server `Markdown Library`, catalogued on PulseMCP. Indexes and serves Markdown knowledge bases with specialized tools for tag-based navigation, text search, and content retrieval across large document collections.

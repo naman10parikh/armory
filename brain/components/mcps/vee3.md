@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T11:50:08Z"
 ---
 ## What it is
 Vee3 connects coding agents to a hosted catalog of live data and action tools through one MCP server at https://mcp.vee3.io/mcp. Use it for market research, due diligence, competitive analysis, and fact-heavy tasks without leaving your editor.

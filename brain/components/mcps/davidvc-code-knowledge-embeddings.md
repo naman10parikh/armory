@@ -8,10 +8,12 @@ source_url: https://github.com/davidvc/code-knowledge-mcptool
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-02-28T03:57:24Z"
 ---
 ## What it is
 MCP server `Code Embeddings`, catalogued on PulseMCP. A knowledge management tool for code repositories using vector embeddings.

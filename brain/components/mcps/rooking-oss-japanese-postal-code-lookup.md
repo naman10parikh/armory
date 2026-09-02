@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-10T10:36:34Z"
 ---
 ## What it is
 MCP server `Japanese Postal Code Lookup`, catalogued on PulseMCP. Converts Japanese postal codes into complete addresses by combining prefecture, city, and district information from the zipcloud.ibsnet.co.jp API service.

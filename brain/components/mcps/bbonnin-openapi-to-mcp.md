@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 7
+forks: 4
+pushed_at: "2025-12-05T15:32:32Z"
 ---
 ## What it is
 MCP server that automatically converts any OpenAPI/Swagger specification into a set of usable MCP tools. Unlike manual tool definition, this approach auto-generates tools directly from the Swagger spec, ensuring consistency, reducing maintenance effort, and preventing mismatches between the tools and the actual API.

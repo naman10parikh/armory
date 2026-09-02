@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T22:23:17Z"
 ---
 ## What it is
 Enables MCP clients to inspect, read, and write Numera workbooks locally without a browser, supporting .numera.json, .json, .csv, and .xlsx files.

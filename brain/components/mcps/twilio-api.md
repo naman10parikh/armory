@@ -8,10 +8,12 @@ source_url: https://github.com/twilio-labs/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 105
+stars: 109
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 41
+pushed_at: "2026-02-14T10:40:21Z"
 ---
 ## What it is
 MCP server `Twilio API`, catalogued on PulseMCP. Integrates with Twilio's API ecosystem to enable messaging, voice, conversations, and serverless functions through authenticated access with automatic AccountSid population and context filtering capabilities.

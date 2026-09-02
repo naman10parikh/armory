@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-08-15T17:02:36Z"
 ---
 ## What it is
 Provides 55 tools for managing QuickBooks entities like customers, invoices, and bills via any MCP-compatible client, built on Cloudflare Workers with OAuth 2.0 authentication.

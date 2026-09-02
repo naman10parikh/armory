@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T20:23:21Z"
 ---
 ## What it is
 A production MCP integration that lets AI agents control Roblox Studio to autonomously build, test, and debug Roblox games. Provides 39 tools for explorer control, script management, terrain generation, and autonomous testing.

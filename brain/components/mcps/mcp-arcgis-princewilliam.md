@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:40:06Z"
 ---
 ## What it is
 MCP server for accessing Prince William County, Virginia geospatial data (ArcGIS). Enables searching datasets, querying layers, and retrieving schema information.

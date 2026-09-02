@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T20:24:45Z"
 ---
 ## What it is
 Enables AI agents to interact with QGIS, supporting project management, layer inspection, spatial queries, styling, and map export in both headless and desktop modes.

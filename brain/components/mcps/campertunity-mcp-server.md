@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, travel-transportation]
 stars: 16
+forks: 4
+pushed_at: "2026-04-15T04:22:05Z"
 ---
 ## What it is
 Search campgrounds around the world on campertunity, check availability, and provide booking links

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T01:57:30Z"
 ---
 ## What it is
 Enables AI agents and MCP clients to securely store, retrieve, and manage encrypted credentials without hardcoding API keys.

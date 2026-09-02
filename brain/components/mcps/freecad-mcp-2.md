@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-07T03:15:00Z"
 ---
 ## What it is
 Enables AI assistants to control FreeCAD 3D modeling software, allowing creation and manipulation of 3D objects, execution of Python code, and interaction with FreeCAD's parts library through natural language.

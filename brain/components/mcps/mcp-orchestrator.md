@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T10:22:52Z"
 ---
 ## What it is
 Manages AI agent workflows through a state machine and Git branches, enforcing isolated phases and audit trails via SPEC, PLAN, and AGENTS files.

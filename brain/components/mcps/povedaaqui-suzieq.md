@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-10T12:17:21Z"
 ---
 ## What it is
 MCP server `SuzieQ MCP`, catalogued on PulseMCP. Interact with a SuzieQ network observability instance via its REST API.

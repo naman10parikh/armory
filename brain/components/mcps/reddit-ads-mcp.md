@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T08:16:35Z"
 ---
 ## What it is
 A self-hosted MCP server for the Reddit Ads API v3, enabling reading ad accounts, campaigns, ad groups, ads, and performance reports, with optional write support for pausing/activating, budgeting, patching, and creating entities.

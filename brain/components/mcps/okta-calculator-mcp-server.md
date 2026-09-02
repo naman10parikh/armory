@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T12:26:48Z"
 ---
 ## What it is
 Exposes basic calculator tools (add, subtract, multiply, divide) and validates Okta access tokens on tool calls for secure access.

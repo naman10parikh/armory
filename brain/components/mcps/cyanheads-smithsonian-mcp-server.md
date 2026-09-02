@@ -8,11 +8,13 @@ source_url: https://github.com/cyanheads/smithsonian-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T02:33:40Z"
 ---
 ## What it is
 Enables searching 14.5M Smithsonian Open Access objects, retrieving CC0 images, and exploring museum collections via MCP with 6 tools.

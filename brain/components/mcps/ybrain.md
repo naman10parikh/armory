@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:19:55Z"
 ---
 ## What it is
 Company knowledge MCP server for discovering prompts, owners, docs, and skills, with open read/suggest access and supervisor-controlled publishing via Git.

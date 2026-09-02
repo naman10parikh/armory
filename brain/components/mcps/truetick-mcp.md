@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T01:13:05Z"
 ---
 ## What it is
 Manage TrueTick Minecraft hosting servers from AI agents: create/start/stop, live TPS/MSPT metrics, RCON console, files, backups, and Modrinth/CurseForge mods.

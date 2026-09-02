@@ -8,10 +8,12 @@ source_url: https://github.com/ergut/mcp-logseq
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 273
+stars: 324
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 47
+pushed_at: "2026-07-19T04:43:31Z"
 ---
 ## What it is
 MCP server `LogSeq`, catalogued on PulseMCP. Integrates with LogSeq API to enable automated note-taking, content searching, and knowledge management tasks.

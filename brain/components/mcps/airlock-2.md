@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T11:11:43Z"
 ---
 ## What it is
 Enables LLM agents to safely search and fetch content from a single configured domain, preventing data exfiltration through deterministic enforcement.

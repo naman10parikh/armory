@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T03:28:01Z"
 ---
 ## What it is
 Provides access to Shodan's IoT search engine API for device search, host intelligence, exploit database, network scanning, and security analysis through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T19:39:41Z"
 ---
 ## What it is
 The on-chain automation layer. Live on Base. Automate your workflows with the CTRL MCP. Sign once. Execute forever.

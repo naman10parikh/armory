@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T13:34:41Z"
 ---
 ## What it is
 Enables conversational exploration of California restaurant data, vibe-based recommendations, and access to structured restaurant details and reviews.

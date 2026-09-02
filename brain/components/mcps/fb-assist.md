@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T10:59:28Z"
 ---
 ## What it is
 Privacy-preserving feedback co-author for Claude Code that redacts sensitive data from session transcripts before submitting bug reports, ensuring only confirmed content is uploaded.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:52:49Z"
 ---
 ## What it is
 Enables querying Austin, TX open data from data.austintexas.gov using the Socrata SODA API, allowing AI agents to access municipal datasets through natural language.

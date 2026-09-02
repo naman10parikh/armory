@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T17:28:37Z"
 ---
 ## What it is
 A unified MCP server aggregating 15 web search and extraction tools across 5 providers (Jina, Tavily, Exa, Firecrawl, Bocha) with automatic API key validation and plugin architecture.

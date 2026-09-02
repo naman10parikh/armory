@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, delivery]
 stars: 3
+forks: 0
+pushed_at: "2026-04-24T12:59:55Z"
 ---
 ## What it is
 Book, label, track and cancel Royal Mail and Parcelforce shipments. 33 UK and international services via friendly keys or raw Service Register codes. `npx royalmail-mcp`.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T05:03:24Z"
 ---
 ## What it is
 A compliance-aware MCP server for YouTube publishing, analytics, and creator insights. Every action is gated, metered, and audited before touching a channel.

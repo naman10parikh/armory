@@ -8,11 +8,13 @@ source_url: https://github.com/riseup-oss/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-20T04:36:33Z"
 ---
 ## What it is
 MCP server for programmatic read-only access to RiseUp cashflow data, allowing AI assistants to retrieve budget information via natural language.

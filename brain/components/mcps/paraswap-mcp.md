@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:37:44Z"
 ---
 ## What it is
 MCP server that builds unsigned Paraswap token swap transactions for self-custody wallets, holding no keys and signing nothing. It returns raw transaction data for a human to review and approve before execution.

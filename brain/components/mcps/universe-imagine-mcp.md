@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T12:16:40Z"
 ---
 ## What it is
 Enables AI image generation from text prompts by wrapping local ComfyUI as a Streamable HTTP MCP server, supporting synchronous generation, queue management, and history tracking.

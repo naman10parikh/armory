@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:39:01Z"
 ---
 ## What it is
 Guides correct disposal methods for confusing household waste items. Provides tools for classifying waste, getting disposal steps, checking confusing items, making cleanup plans, and regional disposal info.

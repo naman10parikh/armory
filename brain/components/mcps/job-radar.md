@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T16:21:56Z"
 ---
 ## What it is
 Searches LinkedIn for job posts, filters out non-vacancies and out-of-market roles, and provides a local dashboard to triage and rate the remaining openings.

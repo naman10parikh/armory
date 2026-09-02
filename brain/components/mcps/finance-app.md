@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T17:48:33Z"
 ---
 ## What it is
 Double-entry accounting service for personal finance with MCP tools, enabling AI agents to manage accounts, transactions, budgets, and analytics via PostgreSQL.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:52:15Z"
 ---
 ## What it is
 MCP server that makes git rebase safe for agents by refusing unsafe operations, presenting conflicts as two intents, and verifying the branch's change against its base.

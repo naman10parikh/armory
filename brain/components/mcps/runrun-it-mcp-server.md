@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-02T19:27:05Z"
 ---
 ## What it is
 Enables interaction with the Runrun.it API for task management, including retrieving task details, listing tasks with filters, and fetching current user information.

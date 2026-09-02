@@ -8,10 +8,12 @@ source_url: https://github.com/jmcentire/kindex
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-09-01T00:20:30Z"
 ---
 ## What it is
 MCP server `Kindex`, catalogued on PulseMCP. Knowledge indexing and retrieval system with document parsing and semantic search.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:18:15Z"
 ---
 ## What it is
 Enables AI clients to perform indicative business valuations, assess sell-readiness, list fixed-price M&A advisory services, and generate secure handoff links for partner applications and deal referrals, with support for English, French, Spanish, and Portuguese.

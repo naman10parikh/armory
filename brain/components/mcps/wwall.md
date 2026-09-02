@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T23:48:02Z"
 ---
 ## What it is
 Enables AI agents to propose wallet payments while a local, human-authored policy decides whether each transaction is approved, requires human confirmation, or is refused, and records every decision in a signed, append-only ledger.

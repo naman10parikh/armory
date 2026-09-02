@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-12T20:42:44Z"
 ---
 ## What it is
 MCP server `Mindvalley Products`, catalogued on PulseMCP. Access Mindvalley's educational catalog of products, masterclasses, programs, and certifications

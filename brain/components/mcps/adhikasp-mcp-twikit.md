@@ -8,10 +8,12 @@ source_url: https://github.com/adhikasp/mcp-twikit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 234
+stars: 235
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 40
+pushed_at: "2025-03-14T14:35:31Z"
 ---
 ## What it is
 MCP server `Twikit`, catalogued on PulseMCP. Integrate with X (Twitter) for social media data analysis.

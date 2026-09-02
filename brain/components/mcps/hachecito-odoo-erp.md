@@ -8,10 +8,12 @@ source_url: https://github.com/hachecito/odoo-mcp-improved
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2025-12-12T12:33:50Z"
 ---
 ## What it is
 MCP server `Odoo ERP`, catalogued on PulseMCP. Integrates with Odoo ERP systems through XML-RPC to enable business process automation across sales, purchasing, inventory, and accounting modules with tools for creating orders, managing invoices, and generating financial reports.

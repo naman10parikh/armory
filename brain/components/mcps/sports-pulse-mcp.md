@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T06:48:29Z"
 ---
 ## What it is
 MCP server that enables Claude Desktop to access real-time sports data including live scores, fixtures, standings, and NBA statistics using free APIs.

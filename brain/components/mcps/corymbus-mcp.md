@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:41:16Z"
 ---
 ## What it is
 Non-official MCP server for the Corymbus CRM, enabling natural language querying and modification of CRM data via MCP clients like Claude.

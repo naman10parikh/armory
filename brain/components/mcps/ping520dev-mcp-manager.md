@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T12:46:24Z"
 ---
 ## What it is
 MCP server `MCP Manager`, catalogued on PulseMCP. Provides a graphical interface for managing and configuring MCP server connections.

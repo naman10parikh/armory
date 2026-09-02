@@ -8,10 +8,12 @@ source_url: https://github.com/lkm1developer/apollo-io-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2025-04-18T03:18:02Z"
 ---
 ## What it is
 MCP server `Apollo.io`, catalogued on PulseMCP. Integrates with Apollo.io's API to enable access to sales intelligence data, including contact enrichment, company information, and job listings for sales teams and recruiters.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T14:17:41Z"
 ---
 ## What it is
 Extracts deterministic architecture maps from codebases for AI agents, enabling queries about blast radius, routes, security findings, and production readiness without sending code anywhere.

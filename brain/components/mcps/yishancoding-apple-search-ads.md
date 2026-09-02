@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-21T09:47:04Z"
 ---
 ## What it is
 MCP server `Apple Search Ads`, catalogued on PulseMCP. Manages Apple Search Ads campaigns via API v5, with 54 tools for campaigns, keywords, reporting, geo targeting, and creatives.

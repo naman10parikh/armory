@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T19:12:04Z"
 ---
 ## What it is
 MCP server for the Ahrefs API v3 that provides live SEO data including keyword research, SERP analysis, backlink profiles, and domain authority to MCP clients like Claude.

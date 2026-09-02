@@ -8,10 +8,12 @@ source_url: https://github.com/acalder-techpm/bamboohr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-09T16:44:00Z"
 ---
 ## What it is
 MCP server `BambooHR`, catalogued on PulseMCP. Full BambooHR API coverage for employees, time off, hiring, benefits, training, goals, reports, webhooks, and file management.

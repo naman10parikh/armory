@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T07:23:56Z"
 ---
 ## What it is
 Double-entry accounting MCP server for Claude Desktop. Supports accounts, transactions, ledgers, profit & loss, balance sheet, IVA summary, and QIF export using SQLite.

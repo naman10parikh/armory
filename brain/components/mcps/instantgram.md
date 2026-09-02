@@ -8,11 +8,13 @@ source_url: https://github.com/Houloude9IOfficial/InstantGram
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T13:35:21Z"
 ---
 ## What it is
 MCP server that enables AI agents to interact with Instagram DMs by managing sessions, sending messages, and configuring webhooks through the InstantGram API.

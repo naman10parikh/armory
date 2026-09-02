@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T19:34:58Z"
 ---
 ## What it is
 MCP server `SitemapKit`, catalogued on PulseMCP. Discovers and extracts sitemaps from any domain, returning structured URL lists with metadata.

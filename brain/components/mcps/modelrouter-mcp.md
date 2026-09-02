@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T12:25:04Z"
 ---
 ## What it is
 Advisory MCP server for intelligent LLM model recommendations in Cursor. Provides tools for task analysis, repository analysis, and model selection guidance.

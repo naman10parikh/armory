@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T18:04:03Z"
 ---
 ## What it is
 Provides an external, validated state database for LLM agents to manage long-horizon tasks, with tools for defining schemas, invariants, actions, procedures, and branching, preventing state drift and compounding errors.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T15:47:34Z"
 ---
 ## What it is
 Paid remote MCP for rendering hyperframe videos with structured receipts and audit logs. Enables rendering, status checking, artifact fetching, and receipt export.

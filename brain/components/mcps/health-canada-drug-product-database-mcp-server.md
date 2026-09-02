@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T22:02:45Z"
 ---
 ## What it is
 Enables querying the Health Canada Drug Product Database for information on approximately 47,000 approved drugs, including human pharmaceuticals, biologics, veterinary drugs, radiopharmaceuticals, and disinfectants.

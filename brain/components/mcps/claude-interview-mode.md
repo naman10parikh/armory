@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-06T12:27:29Z"
 ---
 ## What it is
 Turns Claude into a structured interviewer with a collective evolution system that gets smarter with each conversation.

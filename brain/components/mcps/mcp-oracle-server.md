@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-10T06:51:15Z"
 ---
 ## What it is
 A production-grade Node.js MCP server for Oracle Database with HTTP transport, enabling SQL query execution, table listing, schema retrieval, and natural language to SQL conversion via MCP tools.

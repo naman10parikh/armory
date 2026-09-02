@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T14:39:19Z"
 ---
 ## What it is
 MCP server `ASCII Art AI`, catalogued on PulseMCP. ASCII art generation tools using AI for text-based visual output.

@@ -8,10 +8,12 @@ source_url: https://github.com/j-shelfwood/obsidian-local-rest-api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-09-01T22:40:12Z"
 ---
 ## What it is
 MCP server `Obsidian Local REST API`, catalogued on PulseMCP. Bridges Obsidian vaults through the Local REST API, enabling intelligent note management, knowledge discovery, and conversational access to personal knowledge bases with semantic search, daily note handling, and task-oriented operations designed for knowledge workers.

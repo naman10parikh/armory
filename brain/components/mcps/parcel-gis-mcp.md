@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T20:27:04Z"
 ---
 ## What it is
 Enables querying public ArcGIS REST services for county/state parcel data, GIS layer identification, and USGS elevation without API keys.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-07T15:33:52Z"
 ---
 ## What it is
 MCP server `Enterprise Health & ServiceNow`, catalogued on PulseMCP. Integrates system health monitoring and ServiceNow ITSM platform to provide CPU usage, memory statistics, system uptime tracking, incident management, change request handling, and ticket operations for IT operations workflows and infrastructure automation.

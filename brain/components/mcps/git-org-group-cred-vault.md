@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:02:04Z"
 ---
 ## What it is
 MCP server for securely managing GitHub & GitLab credentials in an encrypted vault, allowing AI agents to retrieve tokens by org or group name automatically.

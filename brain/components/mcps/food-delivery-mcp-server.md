@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-16T17:27:27Z"
 ---
 ## What it is
 Enables users to search restaurants, view menus, place orders, and check order status via a local MCP server using Firestore.

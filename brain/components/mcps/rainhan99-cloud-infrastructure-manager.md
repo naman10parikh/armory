@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-29T02:29:54Z"
 ---
 ## What it is
 MCP server `Cloud Infrastructure Manager`, catalogued on PulseMCP. Provides unified cloud infrastructure management across AWS, DigitalOcean, Vultr, and Alibaba Cloud for creating virtual machines, configuring security groups, and handling DNS records through provider-specific modules that abstract underlying APIs.

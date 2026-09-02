@@ -8,10 +8,12 @@ source_url: https://github.com/ravikant1918/sharepoint-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-15T11:30:25Z"
 ---
 ## What it is
 MCP server `SharePoint`, catalogued on PulseMCP. Microsoft SharePoint folder, document, and metadata management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:37:14Z"
 ---
 ## What it is
 Enables AI agents to download courses from any Moodle site for offline study, supporting authentication, course listing, and syncing via CLI or MCP.

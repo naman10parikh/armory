@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-08T05:23:35Z"
 ---
 ## What it is
 Enables searching for high-quality AI art prompts from Banana Prompts by tags or keyword queries, with direct links to full prompts and images.

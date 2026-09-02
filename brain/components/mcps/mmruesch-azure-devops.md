@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-20T19:09:33Z"
 ---
 ## What it is
 MCP server `Azure DevOps`, catalogued on PulseMCP. Integrates with Azure DevOps API to enable natural language management of work items, pull requests, and wiki content through authenticated access and specialized tools for resource creation and modification.

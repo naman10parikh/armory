@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2025-02-26T20:38:53Z"
 ---
 ## What it is
 Enables interaction with FHIR servers to access, search, and manage FHIR resources, including appointment scheduling and cancellation.

@@ -12,6 +12,8 @@ stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-24T09:21:47Z"
 ---
 ## What it is
 MCP server `Frontend Testing (Jest & Cypress)`, catalogued on PulseMCP. Enables automated frontend testing by analyzing JavaScript/TypeScript code, generating Jest and Cypress tests, and executing them in isolated environments with proper configurations and dependencies.

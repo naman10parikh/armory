@@ -8,10 +8,12 @@ source_url: https://github.com/vibenya/selver-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T09:17:51Z"
 ---
 ## What it is
 MCP server `Selver`, catalogued on PulseMCP. Connects AI agents to Selver.ee, Estonia's largest grocery store, for product search, cart management, and delivery scheduling.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T03:31:07Z"
 ---
 ## What it is
 Connects Claude Code to any ObjectStack deployment, enabling discovery, querying, and updating of objects and records, plus running business actions, all under user permissions and row-level security.

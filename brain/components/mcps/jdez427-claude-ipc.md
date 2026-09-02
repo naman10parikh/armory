@@ -8,10 +8,12 @@ source_url: https://github.com/jdez427/claude-ipc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 132
+stars: 133
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2025-09-25T16:37:11Z"
 ---
 ## What it is
 MCP server `Claude IPC`, catalogued on PulseMCP. Enables secure inter-process communication between multiple AI instances running on the same machine through TCP socket-based message brokering, session authentication, and file sharing for coordinated multi-AI workflows and collaborative problem-solving.

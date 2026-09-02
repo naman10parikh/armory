@@ -8,10 +8,12 @@ source_url: https://github.com/ap425q/cuttermcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-02T17:02:03Z"
 ---
 ## What it is
 MCP server `Cutter (Reverse Engineering)`, catalogued on PulseMCP. Bridges Cutter reverse engineering platform with binary analysis capabilities including function listing, decompilation, segment analysis, and symbol management for enhanced reverse engineering workflows.

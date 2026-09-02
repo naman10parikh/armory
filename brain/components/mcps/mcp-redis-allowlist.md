@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T05:59:49Z"
 ---
 ## What it is
 Read-only Redis MCP server with a configurable command allowlist for safe production diagnostics, enabling exact read-only subcommands like CLIENT LIST and SLOWLOG GET.

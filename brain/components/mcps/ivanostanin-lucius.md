@@ -8,10 +8,12 @@ source_url: https://github.com/ivanostanin/lucius-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-09-01T20:42:47Z"
 ---
 ## What it is
 MCP server `Lucius`, catalogued on PulseMCP. Allure TestOps integration for managing test cases, launches, plans, defects, and metadata via the Model Context Protocol.

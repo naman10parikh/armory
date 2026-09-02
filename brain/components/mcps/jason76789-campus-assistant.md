@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-15T04:17:44Z"
 ---
 ## What it is
 MCP server `Campus Assistant`, catalogued on PulseMCP. Educational management system integrating with school administration for student enrollment, grades, messaging, and scheduling with role-based access control.

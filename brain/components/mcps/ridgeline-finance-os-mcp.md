@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T12:28:54Z"
 ---
 ## What it is
 A Model Context Protocol server exposing the freight accrual pipeline as reusable tools, enabling agents to execute, monitor, sign off, and improve accrual runs.

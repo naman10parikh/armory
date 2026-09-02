@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T17:45:02Z"
 ---
 ## What it is
 Bridges local stdio MCP clients like Codex and OpenCode to Strava's official MCP endpoint, enabling Strava data access via imported OAuth credentials from Claude Code without a developer app.

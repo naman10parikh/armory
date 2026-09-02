@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 7
+forks: 1
+pushed_at: "2026-04-21T10:19:29Z"
 ---
 ## What it is
 Persistent codebase knowledge layer for AI coding agents. Pre-digests codebases into structured knowledge (symbols, dependency graphs, co-change patterns, architectural decisions) via tree-sitter native parsing (28 languages) and serves via MCP. 14 tools, ~85% token reduction. Works with Claude Code, Cursor, Codex, and any MCP client.

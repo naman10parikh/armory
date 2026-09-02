@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T12:46:57Z"
 ---
 ## What it is
 Enables Claude to analyze a player's public FACEIT CS2 data, diagnose strengths and weaknesses, and generate personalized improvement plans.

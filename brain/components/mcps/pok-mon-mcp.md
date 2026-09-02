@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:40:53Z"
 ---
 ## What it is
 Enables querying Pokémon data from PokéAPI, including listing Pokémon, fetching details by name or ID, and getting type matchups.

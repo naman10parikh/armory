@@ -8,10 +8,12 @@ source_url: https://github.com/dynatrace-oss/dynatrace-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 115
+stars: 136
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2026-08-26T09:14:55Z"
 ---
 ## What it is
 MCP server `Dynatrace`, catalogued on PulseMCP. Integrates with Dynatrace to provide real-time observability data, enabling developers to monitor problems, security vulnerabilities, logs, and metrics directly in their development workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-15T00:06:58Z"
 ---
 ## What it is
 An MCP server for EndstoneMC development, enabling module information queries, code search, plugin template generation, event handling guidance, and development tutorials through natural language.

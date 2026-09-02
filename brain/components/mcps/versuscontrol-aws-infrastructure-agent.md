@@ -8,10 +8,12 @@ source_url: https://github.com/versuscontrol/ai-infrastructure-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 210
+stars: 217
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 71
+pushed_at: "2026-03-04T06:42:58Z"
 ---
 ## What it is
 MCP server `AI Infrastructure Agent (AWS)`, catalogued on PulseMCP. Provides autonomous AWS infrastructure management through natural language processing, combining real-time resource discovery with AI-driven planning to execute step-by-step deployments across EC2, VPC, RDS, and security groups while maintaining persistent state tracking and conflict resolution.

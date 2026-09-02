@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T12:00:39Z"
 ---
 ## What it is
 Reads public Telegram channel pages and exposes them as MCP tools over Streamable HTTP/JSON-RPC, enabling retrieval of channel info, latest posts, and search without Telegram API credentials.

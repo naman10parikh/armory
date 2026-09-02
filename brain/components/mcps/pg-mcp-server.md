@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 43
+pushed_at: "2025-09-10T13:01:05Z"
 ---
 ## What it is
 A Model Context Protocol server for PostgreSQL databases that enables AI agents to connect, query, and explore multiple databases with schema discovery and extension context.

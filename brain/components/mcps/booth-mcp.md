@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T21:36:37Z"
 ---
 ## What it is
 An unofficial read-only MCP server for viewing BOOTH seller management pages in MCP clients.

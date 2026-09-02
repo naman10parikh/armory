@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T07:24:50Z"
 ---
 ## What it is
 Provides telemetry tools for retrieving recent logs and system metrics to support root-cause analysis of infrastructure incidents. Enables autonomous incident triage with grounded verification and human-in-the-loop remediation.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-26T05:24:22Z"
 ---
 ## What it is
 MCP server `MCP Finder`, catalogued on PulseMCP. Discover, evaluate, and install MCP servers from the Official Registry, Glama, and Smithery.

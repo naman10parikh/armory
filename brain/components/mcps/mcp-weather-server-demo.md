@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T19:50:28Z"
 ---
 ## What it is
 Demo MCP server that provides weather data for cities, with tools to get weather and list available cities.

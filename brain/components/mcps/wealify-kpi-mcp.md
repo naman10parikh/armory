@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T02:46:29Z"
 ---
 ## What it is
 Read-only MCP server for Wealify KPI dashboard that allows AI agents to query KPI data, scoring status, alerts, member performance, and rubric documents via predefined tools and REST endpoints.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-30T14:56:56Z"
 ---
 ## What it is
 Enables LLM agents to query a bi-temporal property graph using verified temporal operators via MCP, with auditable claims and correction-aware time travel.

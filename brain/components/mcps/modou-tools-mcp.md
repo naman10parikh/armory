@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T15:48:37Z"
 ---
 ## What it is
 An MCP server for global tech intelligence gathering, offering tools for searching Chinese and English web content, GitHub trending, arXiv papers, HN, Exa, SEC filings, Juejin, Zhihu, Bilibili, and A-share financial reports, all without API keys and with direct China access.

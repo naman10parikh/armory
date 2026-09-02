@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-26T13:51:58Z"
 ---
 ## What it is
 MCP server `NSAF (Neuro-Symbolic Autonomy Framework)`, catalogued on PulseMCP. Enables AI systems to evolve and optimize neural network architectures through self-constructing meta-agents that adapt to different problem domains using TensorFlow-powered evolutionary algorithms.

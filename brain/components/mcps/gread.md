@@ -8,11 +8,13 @@ source_url: https://github.com/NitroRCr/gread
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 57
+stars: 61
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-05T10:18:15Z"
 ---
 ## What it is
 Provides AI agents with access to source code of all public GitHub repos, with integration for docs repos and compatibility with coding agents and MCP clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-02-22T19:17:46Z"
 ---
 ## What it is
 An MCP server that connects Claude to video encoding workflows, enabling smart error translation, real-time job analysis, and automated email drafting for troubleshooting encoding issues.

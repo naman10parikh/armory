@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-05T17:53:28Z"
 ---
 ## What it is
 MCP server `Elasticsearch`, catalogued on PulseMCP. Connects to Elasticsearch clusters for natural language log querying, error pattern analysis with root cause identification, performance bottleneck detection, cluster health monitoring, and index optimization recommendations.

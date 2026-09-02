@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T16:21:39Z"
 ---
 ## What it is
 An MCP server for ROS 2 development that enables controlled creation of workspaces, packages, nodes, launch files, and tests within a sandboxed directory, with secure filesystem boundaries.

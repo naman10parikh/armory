@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T06:18:27Z"
 ---
 ## What it is
 Enables AI clients to securely operate isolated coding workspaces with file, command, Git, and deployment tools via authenticated remote MCP.

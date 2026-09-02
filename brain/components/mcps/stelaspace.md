@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T03:23:28Z"
 ---
 ## What it is
 StelaSpace is an HTML-first knowledge base for the artifacts AI agents create. This MCP server lets Claude Code, Claude Desktop, and Codex publish HTML files straight from your editor — it takes a file path and uploads from disk, so even large data-heavy reports work. Free tier available.

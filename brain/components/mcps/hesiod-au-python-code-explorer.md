@@ -8,10 +8,12 @@ source_url: https://github.com/hesiod-au/python-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-05T07:46:32Z"
 ---
 ## What it is
 MCP server `Python Code Explorer`, catalogued on PulseMCP. Builds a graph of Python code relationships to intelligently navigate codebases, prioritize relevant sections, and include README files while staying within token limits.

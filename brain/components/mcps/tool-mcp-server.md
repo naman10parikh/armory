@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T13:59:33Z"
 ---
 ## What it is
 A Model Context Protocol server exposing 58 online tools (crypto, data, image, text, etc.) and workflow execution, enabling MCP clients like Claude Desktop to invoke them via natural language.

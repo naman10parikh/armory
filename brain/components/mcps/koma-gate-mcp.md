@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-02T01:08:03Z"
 ---
 ## What it is
 Blocks prompt injection, jailbreaks, and out-of-scope input before an AI agent acts. classify_input tool, stdio transport.

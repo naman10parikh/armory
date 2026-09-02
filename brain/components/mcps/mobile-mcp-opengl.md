@@ -8,11 +8,13 @@ source_url: https://github.com/antonpinchuk/mobile-mcp-opengl
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T06:38:54Z"
 ---
 ## What it is
 Enables AI coding agents to test and automate Android apps rendering UI in OpenGL/Vulkan/Metal surfaces via screenshot-based vision tools for tapping, swiping, long-pressing, and recording, without accessibility tree dependency.

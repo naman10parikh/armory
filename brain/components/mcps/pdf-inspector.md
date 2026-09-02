@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T15:36:48Z"
 ---
 ## What it is
 Classifies PDFs (text-based vs scanned vs image vs mixed), extracts text, and converts to clean Markdown over Streamable HTTP MCP. Supports remote PDFs via URL or base64, with optional page restriction and OCR fallback detection.

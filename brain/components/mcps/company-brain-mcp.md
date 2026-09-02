@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T18:45:26Z"
 ---
 ## What it is
 Enables AI agents to query and manage company knowledge from a Supabase GraphRAG store, including accounts, meetings, people, org hierarchy, product docs, and call logs.

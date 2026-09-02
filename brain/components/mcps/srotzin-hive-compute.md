@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T22:36:51Z"
 ---
 ## What it is
 MCP server `Hive Compute`, catalogued on PulseMCP. Inference routing platform routing requests to the cheapest qualifying model with per-token USDC billing on Base L2.

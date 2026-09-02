@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T06:52:44Z"
 ---
 ## What it is
 Read-only MCP server for Elasticsearch log querying. Enables natural language search, filtering, context retrieval, and aggregation of logs.

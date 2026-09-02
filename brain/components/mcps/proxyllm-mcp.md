@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T06:05:50Z"
 ---
 ## What it is
 MCP server for ProxyLLM, the OpenAI-compatible LLM gateway, enabling live model catalogs, plan-savings calculations, routing key management, and autonomous account signup.

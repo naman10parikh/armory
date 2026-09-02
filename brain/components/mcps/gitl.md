@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T19:43:18Z"
 ---
 ## What it is
 AI code reviews and git activity digests with machine-readable risk scoring, available as an MCP server for use within an agent session.

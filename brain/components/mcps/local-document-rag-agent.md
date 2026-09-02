@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T06:35:49Z"
 ---
 ## What it is
 MCP server enabling Claude Desktop to answer questions from local Word and PDF documents by searching a vector index built from their contents.

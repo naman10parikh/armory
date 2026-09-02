@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-05-27T04:38:00Z"
 ---
 ## What it is
 AI assistant integration with Logseq knowledge graph: 21 tools to read, write, query, and search notes, enabling seamless interaction with your notes.

@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-12-21T10:08:44Z"
 ---
 ## What it is
 MCP server `Reactome`, catalogued on PulseMCP. Integrates with Reactome's curated biological pathway database to search pathways by keywords, genes, or diseases, retrieve detailed pathway information and biochemical reactions, explore pathway hierarchies, and analyze protein interactions for systems biology research and drug discovery workflows.

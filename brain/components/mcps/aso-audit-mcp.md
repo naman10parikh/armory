@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:42:14Z"
 ---
 ## What it is
 Scans any website and produces an Agent Readiness Report scored on the open ASO framework.

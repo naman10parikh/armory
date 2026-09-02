@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-18T18:08:23Z"
 ---
 ## What it is
 Enables Claude to create 3D-printable CAD models using build123d, with tools for modeling, modification, analysis, and publishing to platforms like Thingiverse and GitHub.

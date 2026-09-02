@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T13:45:28Z"
 ---
 ## What it is
 MCP server `Obsidian Curiosity Engine`, catalogued on PulseMCP. Surface forgotten notes in markdown vaults using DMN-inspired replay cycles and cross-domain connection discovery.

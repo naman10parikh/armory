@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T13:01:10Z"
 ---
 ## What it is
 Enables AI assistants to query event operations data from Humanitix/MQIS exports, including metrics, sales curves, attendee lookups, and loyalty analytics. Provides deterministic data with AI-generated narrative, plus a CLI for ops reports and consent-aware marketing emails.

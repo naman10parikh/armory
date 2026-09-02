@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T04:03:24Z"
 ---
 ## What it is
 Enables LLMs and clients to search for Star Wars characters, planets, and films by exposing SWAPI as MCP tools.

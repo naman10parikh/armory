@@ -8,11 +8,13 @@ source_url: https://github.com/rakutentech/sorify
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T08:37:04Z"
 ---
 ## What it is
 MCP server for Sorify QA testing platform, enabling AI agents to manage test suites, generate and run tests, and receive notifications through natural language commands.

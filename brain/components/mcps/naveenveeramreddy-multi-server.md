@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-15T16:35:12Z"
 ---
 ## What it is
 MCP server `Multi-Server Integration`, catalogued on PulseMCP. Provides weather alerts, stock portfolio data via Kite Connect, MongoDB operations for customer and conversation management, and Elasticsearch document indexing with automatic timestamping.

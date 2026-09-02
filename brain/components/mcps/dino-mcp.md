@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T15:34:42Z"
 ---
 ## What it is
 A production-grade MCP server with interactive HTML dashboard UI for exploring dinosaur facts, data, and filtering, written in Go.

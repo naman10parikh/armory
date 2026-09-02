@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:04:47Z"
 ---
 ## What it is
 Grants AI agents real-time access to the NPM registry, enabling package metadata retrieval, version checks, and dependency auditing for up-to-date code generation.

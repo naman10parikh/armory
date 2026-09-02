@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-10T14:51:19Z"
 ---
 ## What it is
 Enables fetching HuggingFace daily papers for today, yesterday, or a specific date, providing paper details including title, authors, abstract, tags, votes, and links.

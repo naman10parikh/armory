@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-09-01T22:20:38Z"
 ---
 ## What it is
 Enables AI agents to manage Umbraco CMS content through natural language, including documents, media, document types, and data types via the Umbraco Management API.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-19T06:12:29Z"
 ---
 ## What it is
 MCP server `FFmpeg Micro`, catalogued on PulseMCP. Video transcoding via the FFmpeg Micro REST API with job management and signed download URLs.

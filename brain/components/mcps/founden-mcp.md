@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T05:53:16Z"
 ---
 ## What it is
 Enables building and iterating on a software company through natural language, returning live preview URLs, without needing a browser.

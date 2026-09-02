@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-09T15:34:25Z"
 ---
 ## What it is
 Enables AI assistants to query IP Fabric network inventory and snapshots through natural language, using tools to fetch devices, interfaces, routing tables, and more.

@@ -8,10 +8,12 @@ source_url: https://github.com/idealo/mcp-server-guide
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T10:01:31Z"
 ---
 ## What it is
 MCP server `idealo`, catalogued on PulseMCP. Search and compare product prices across 6 European markets with access to price history, shop offers, and 30-day price trends.

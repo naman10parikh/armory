@@ -8,10 +8,12 @@ source_url: https://github.com/shanebrady77/quickbooks-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-09T18:05:52Z"
 ---
 ## What it is
 MCP server `QuickBooks`, catalogued on PulseMCP. Local MCP server for QuickBooks Online with 60 tools covering financial reporting, invoicing, expense management, and write operations.

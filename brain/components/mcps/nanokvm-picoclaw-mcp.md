@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T15:00:59Z"
 ---
 ## What it is
 Enables managing NanoKVM devices via PicoClaw MCP, including status checks, reboots, and macOS recovery key operations, with secure SSH-based relay.

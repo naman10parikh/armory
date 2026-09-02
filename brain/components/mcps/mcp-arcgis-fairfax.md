@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:36:47Z"
 ---
 ## What it is
 Provides access to Fairfax County open geospatial data via ArcGIS, enabling search, query, and schema inspection of datasets like parcels and zoning.

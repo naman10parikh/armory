@@ -8,10 +8,12 @@ source_url: https://github.com/devantler-tech/ksail
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 147
+stars: 165
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-09-01T22:36:11Z"
 ---
 ## What it is
 MCP server `KSail`, catalogued on PulseMCP. SDK for creating, managing, and operating Kubernetes clusters and workloads.

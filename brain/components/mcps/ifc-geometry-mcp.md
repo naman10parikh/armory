@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T14:07:24Z"
 ---
 ## What it is
 MCP server for IFC geometric audit, providing tools to detect space clashes, extract space inventories, compute surface losses, check boundaries, and verify opening correspondences in BIM models.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T01:39:06Z"
 ---
 ## What it is
 MCP server `Barcode Scanner`, catalogued on PulseMCP. Scan and generate barcodes and QR codes.

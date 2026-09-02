@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T03:11:19Z"
 ---
 ## What it is
 MCP server for QC 4.1 Light, enabling analysis of sales-call transcripts to produce structured diagnostic reports with evidence-based quotes, breakpoints, and speakable corrections.

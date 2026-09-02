@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T19:03:02Z"
 ---
 ## What it is
 MCP server for the Recite API, enabling receipt scanning, transaction management, batch processing, and local ledger workflows for agents.

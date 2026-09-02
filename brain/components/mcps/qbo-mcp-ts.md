@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-24T04:41:04Z"
 ---
 ## What it is
 Enables QuickBooks Online integration for financial management with CRUD operations, reporting, real-time updates, and automation.

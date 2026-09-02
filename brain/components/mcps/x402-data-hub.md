@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T17:46:19Z"
 ---
 ## What it is
 An official Model Context Protocol (MCP) server that provides AI agents with native, real-time access to high-value developer datasets. Currently supports SaaS/AI pricing comparisons, trending developer discussions (V2EX), and real-time Base/Arbitrum gas rates. Free Open Beta is active.

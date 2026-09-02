@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T11:33:08Z"
 ---
 ## What it is
 Detects what technologies (CMS, frameworks, analytics, etc.) a website uses by fingerprinting its HTTP response and markup, returning confidence-scored results for single or bulk URL queries.

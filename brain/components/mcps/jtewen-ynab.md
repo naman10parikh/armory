@@ -8,10 +8,12 @@ source_url: https://github.com/jtewen/ynab-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-06-19T16:44:11Z"
 ---
 ## What it is
 MCP server `YNAB`, catalogued on PulseMCP. Integrates with You Need A Budget's API to enable budget inquiries, expense tracking, and financial data analysis through natural language interactions with your YNAB accounts, transactions, and categories.

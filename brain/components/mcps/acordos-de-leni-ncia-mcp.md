@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:18:57Z"
 ---
 ## What it is
 Verifies whether a company has entered into a leniency agreement under the Brazilian Anti-Corruption Law by CNPJ, read-only, hosted without credentials, pay-per-query.

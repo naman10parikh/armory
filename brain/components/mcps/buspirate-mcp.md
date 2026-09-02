@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-24T20:50:04Z"
 ---
 ## What it is
 MCP server for BusPirate 6 hardware security testing. Exposes UART, SPI, I2C, 1-Wire, power supply, GPIO, and logic analyzer operations as tools.

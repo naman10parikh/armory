@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-08T16:34:29Z"
 ---
 ## What it is
 MCP server `Gigapipe`, catalogued on PulseMCP. Integrates with Gigapipe's observability platform to query Prometheus metrics with PromQL, search Loki logs with LogQL, and retrieve Tempo traces by ID through unified HTTP/HTTPS access with optional authentication.

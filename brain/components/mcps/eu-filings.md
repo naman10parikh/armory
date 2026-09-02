@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T14:24:53Z"
 ---
 ## What it is
 Access European company data and financial filings from multiple sources including GLEIF, ESEF, UK Companies House, and curated index lists. Supports search, filing retrieval, and XBRL data extraction.

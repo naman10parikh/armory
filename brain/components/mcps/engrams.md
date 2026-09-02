@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-10T04:41:12Z"
 ---
 ## What it is
 Gives AI assistants persistent, queryable project memory for decisions, patterns, and rules, reducing the need to re-explain context in every prompt.

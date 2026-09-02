@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 3
+forks: 2
+pushed_at: "2026-08-27T12:14:52Z"
 ---
 ## What it is
 Enables AI assistants to access and interact with LinkedIn data—profiles, messaging, jobs, companies, and more—via MCP, with remote or local deployment.

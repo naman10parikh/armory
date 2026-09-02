@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T05:39:59Z"
 ---
 ## What it is
 Enables interaction with Equinix Fabric via MCP protocol, providing 109 tools for managing Fabric resources with client-credentials authentication and governance.

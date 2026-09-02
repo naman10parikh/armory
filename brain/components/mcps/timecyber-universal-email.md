@@ -8,10 +8,12 @@ source_url: https://github.com/timecyber/email-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-06-26T04:24:28Z"
 ---
 ## What it is
 MCP server `Universal Email`, catalogued on PulseMCP. Universal email server that automatically detects provider settings and supports IMAP, POP3, and SMTP protocols for reading and sending emails across Gmail, Outlook, Yahoo, and enterprise systems without manual configuration.

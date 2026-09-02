@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-20T10:06:57Z"
 ---
 ## What it is
 MCP server and CLI for AlmaLinux Build System (ALBS) that enables AI coding assistants to investigate build failures, create builds, sign packages, and manage release plans through natural language.

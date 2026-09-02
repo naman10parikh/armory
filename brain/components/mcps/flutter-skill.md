@@ -8,11 +8,13 @@ source_url: https://github.com/ai-dashboad/flutter-skill
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 358
+stars: 363
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 54
+pushed_at: "2026-09-01T11:56:02Z"
 ---
 ## What it is
 An MCP server that gives AI agents eyes and hands to visually interact with running apps across 10 platforms, enabling natural language-driven testing and automation without test code.

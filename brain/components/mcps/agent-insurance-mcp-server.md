@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:29:20Z"
 ---
 ## What it is
 MCP server for AI agent transaction insurance and escrow — protect agent-to-agent payments with smart escrow, dispute resolution, and risk scoring.

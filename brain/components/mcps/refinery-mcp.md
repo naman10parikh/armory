@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T00:49:12Z"
 ---
 ## What it is
 Cleans HTML from URLs or raw HTML into LLM-ready text, reducing token burn for AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T13:02:11Z"
 ---
 ## What it is
 MCP server for kie.ai providing image, video, and music generation with cost estimation, spending limits, and a transaction ledger.

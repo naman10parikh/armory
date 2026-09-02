@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-07-01T20:29:10Z"
 ---
 ## What it is
 Provides MCP tools to manage Microsoft Fabric capacities, including listing, creating, updating, and deleting them, using Azure authentication.

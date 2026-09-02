@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T20:20:53Z"
 ---
 ## What it is
 Enables LLMs to directly query a Matomo analytics instance, execute reporting methods, fetch historical trends, report metadata, and dynamically generated chart images through typed MCP tools.

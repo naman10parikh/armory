@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T19:59:42Z"
 ---
 ## What it is
 A production-ready MCP server that enables AI assistants to execute shell commands, manage files, monitor system resources, and automate complex workflows with advanced features like stock tracking and web automation.

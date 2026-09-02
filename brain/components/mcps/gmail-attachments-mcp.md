@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T22:50:20Z"
 ---
 ## What it is
 An MCP server for Gmail that enables downloading attachments and creating drafts with file attachments, without the ability to send emails.

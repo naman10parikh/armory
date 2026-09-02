@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, travel-transportation]
 stars: 13
+forks: 10
+pushed_at: "2026-01-26T04:06:57Z"
 ---
 ## What it is
 A MCP server that provides access to AllTrails data, allowing you to search for hiking trails and get detailed trail information

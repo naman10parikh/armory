@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T03:36:33Z"
 ---
 ## What it is
 MCP server `Kaseya VSA`, catalogued on PulseMCP. Manage Kaseya VSA RMM agents, patches, procedures, alarms, and tickets via MCP.

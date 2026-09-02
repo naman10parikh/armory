@@ -8,11 +8,13 @@ source_url: https://github.com/HenryLinyy/local-llm-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T00:26:15Z"
 ---
 ## What it is
 Enables coding agents like Claude Code and Codex to offload boilerplate generation, summarization, and other bounded text tasks to local or cheap cloud LLMs, keeping the frontier agent in charge of judgment and code edits.

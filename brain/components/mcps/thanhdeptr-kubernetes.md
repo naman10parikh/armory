@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-10T07:05:00Z"
 ---
 ## What it is
 MCP server `Kubernetes`, catalogued on PulseMCP. Provides Kubernetes cluster management through kubectl and Helm integration, enabling pod operations, resource deployment, scaling, port forwarding, command execution, and multi-cluster context switching with configurable safety modes for production environments.

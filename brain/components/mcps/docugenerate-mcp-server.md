@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T16:04:07Z"
 ---
 ## What it is
 A local MCP server that wraps the DocuGenerate API to generate documents (invoices, contracts, letters) from templates via natural language commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T00:15:13Z"
 ---
 ## What it is
 Enables natural language querying of SQLite databases through a secure MCP server that writes, runs, and explains SQL with a three-layer read-only guarantee.

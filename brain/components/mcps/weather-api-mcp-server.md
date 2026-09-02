@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-12T22:45:17Z"
 ---
 ## What it is
 Single-file HTTP MCP Server for WeatherAPI.com to get current weather, forecasts, and location data. Supports bearer token authentication and exposes MCP tools for weather data retrieval.

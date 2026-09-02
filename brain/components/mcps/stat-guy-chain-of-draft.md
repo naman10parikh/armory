@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-04T00:57:41Z"
 ---
 ## What it is
 MCP server `Chain of Draft`, catalogued on PulseMCP. Implements Chain of Draft reasoning to generate concise intermediate steps for efficient, token-optimized problem-solving across various domains, offering tools for both CoD and Chain of Thought methods with adaptive complexity estimation and format enforcement.

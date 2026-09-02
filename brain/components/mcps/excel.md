@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 2
+forks: 0
+pushed_at: "2026-08-21T09:45:59Z"
 ---
 ## What it is
 Enables MCP clients to create and manipulate Excel workbooks programmatically, including sheets, cell data, formatting, formulas, charts, and pivot tables.

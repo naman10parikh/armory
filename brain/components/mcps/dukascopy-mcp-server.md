@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T07:12:40Z"
 ---
 ## What it is
 Provides access to Dukascopy's free historical tick and 1-minute OHLC data for FX and CFD, with a calibration pipeline to simulate broker-specific tick characteristics.

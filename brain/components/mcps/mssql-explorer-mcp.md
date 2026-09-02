@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T02:22:15Z"
 ---
 ## What it is
 A read-only MCP server for exploring on-premises, multi-instance Microsoft SQL Server estates from AI clients, with read-only enforcement and Windows authentication support.

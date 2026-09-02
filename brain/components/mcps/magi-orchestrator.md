@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T16:43:31Z"
 ---
 ## What it is
 A task-based AI orchestrator that bridges AI models (Gemini, Claude, OpenAI) with local environments, operating as an interactive CLI and an MCP server for structured autonomous development.

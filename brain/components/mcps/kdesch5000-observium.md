@@ -8,10 +8,12 @@ source_url: https://github.com/kdesch5000/observium-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-05T22:04:57Z"
 ---
 ## What it is
 MCP server `Observium CE`, catalogued on PulseMCP. Provides read-only access to Observium CE network monitoring data for querying device status, port traffic, sensor readings, alerts, and historical trends through natural language queries about network infrastructure health and performance metrics.

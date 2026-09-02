@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-20T12:06:55Z"
 ---
 ## What it is
 MCP server `Shopline`, catalogued on PulseMCP. Manage Shopline e-commerce operations with 143 tools for products, orders, and customers.

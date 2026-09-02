@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T12:42:57Z"
 ---
 ## What it is
 Stdio bridge for editors to connect to the GenieOS MCP server, enabling AI agents to interact with GenieOS via Streamable HTTP transport.

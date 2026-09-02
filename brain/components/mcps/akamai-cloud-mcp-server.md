@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T22:53:32Z"
 ---
 ## What it is
 A read-only MCP server for Akamai Cloud (Linode) that lets users ask plain-language questions about their account, including inventory, pricing, GPU availability, and account limits.

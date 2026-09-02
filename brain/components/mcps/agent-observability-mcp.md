@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T06:55:50Z"
 ---
 ## What it is
 MCP server for AI agent observability, providing trace and span logging, search, latency/tokens/cost metrics, and anomaly detection using an in-memory buffer.

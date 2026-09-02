@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-24T08:50:59Z"
 ---
 ## What it is
 MCP server `Apifox`, catalogued on PulseMCP. Bridges Claude with Apifox API testing platform, enabling direct interaction with API documentation and testing capabilities through environment variable authentication and TypeScript/Express implementation.

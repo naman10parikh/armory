@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-27T21:45:12Z"
 ---
 ## What it is
 An MCP server for the Groww trading platform. This enables LLM applications to interact with your Groww trading account.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:02:03Z"
 ---
 ## What it is
 A read-only MCP server for E-Hentai and ExHentai, enabling gallery search, metadata retrieval, similar-gallery lookup, tag resolution, and authenticated favorites/archive access.

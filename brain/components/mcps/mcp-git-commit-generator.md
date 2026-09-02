@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T20:09:39Z"
 ---
 ## What it is
 Analyzes Git repository changes and generates conventional, context-aware commit messages using the Model Context Protocol.

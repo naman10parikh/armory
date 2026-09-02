@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T13:29:59Z"
 ---
 ## What it is
 Enables querying ERC-8004 AI agent identities from on-chain and IPFS metadata. Supports search, listing, details, feedback, stats, and full metadata retrieval.

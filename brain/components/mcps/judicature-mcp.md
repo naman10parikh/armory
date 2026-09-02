@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-30T20:25:41Z"
 ---
 ## What it is
 Enables searching the ak-vrana.cz website for articles by keywords and extracting webpage content to Markdown format.

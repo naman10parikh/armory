@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-14T07:33:24Z"
 ---
 ## What it is
 MCP server `Resend Email`, catalogued on PulseMCP. Enables AI to compose and send emails through the Resend API with customizable sender addresses, reply-to fields, and scheduled delivery options

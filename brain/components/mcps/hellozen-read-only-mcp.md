@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T13:24:18Z"
 ---
 ## What it is
 A read-only MCP connector for inspecting HelloZen configuration, exposing four tools to list custom fields, pipelines, calendars, and workflows without write access or contact data exposure.

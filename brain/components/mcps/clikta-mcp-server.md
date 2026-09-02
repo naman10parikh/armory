@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T21:06:33Z"
 ---
 ## What it is
 Enables Claude to drive a real browser and automatically turn interactions into Clikta interactive demos, step-by-step guides, and narrated videos.

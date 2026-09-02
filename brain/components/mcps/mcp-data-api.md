@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T15:29:53Z"
 ---
 ## What it is
 A FastMCP-based server that provides tools for API discovery and execution, hierarchical category management, and SQL query execution through the Model Context Protocol.

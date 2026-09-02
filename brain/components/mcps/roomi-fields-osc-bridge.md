@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-20T14:08:10Z"
 ---
 ## What it is
 MCP server `OSC Bridge`, catalogued on PulseMCP. Bridges OSC protocol messages to enable integration with audio and multimedia applications.

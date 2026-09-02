@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-08T00:03:13Z"
 ---
 ## What it is
 Enables transforming text with 23 Unicode styles and creating ASCII art banners with 322+ fonts, deployed globally on Cloudflare Workers.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T04:32:50Z"
 ---
 ## What it is
 MCP server `VAT Validator`, catalogued on PulseMCP. Validates EU, UK, and Australian VAT numbers against official registries with fraud risk analysis.

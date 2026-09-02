@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T18:23:05Z"
 ---
 ## What it is
 A universal 'Ask User Questions' MCP tool for AI coding agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-22T15:47:04Z"
 ---
 ## What it is
 Enables AI agents to monitor website performance by scanning sites, retrieving Core Web Vitals, detecting regressions, and receiving AI-powered optimization recommendations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T20:24:18Z"
 ---
 ## What it is
 A sandboxed, read-only MCP server that safely exposes system metrics, container diagnostics, and logs to AI agents with intelligent context compression and strict security measures.

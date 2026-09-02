@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T12:29:38Z"
 ---
 ## What it is
 A Python-based MCP server that analyzes PostgreSQL query plans, suggests indexes, and checks pagination safety to help optimize database performance.

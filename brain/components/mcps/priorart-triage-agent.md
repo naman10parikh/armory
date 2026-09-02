@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T21:33:39Z"
 ---
 ## What it is
 Enables prior-art searches on granted US patent claims. Given an invention description, it returns a grounded memo with citations, verifying each finding against the source and quarantining unverifiable claims.

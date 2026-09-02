@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-18T18:43:32Z"
 ---
 ## What it is
 Enterprise-grade MCP server providing 102 production-ready tools for Jira, Confluence, and Bitbucket, enabling AI agents to manage issues, pages, repositories, and more via natural language.

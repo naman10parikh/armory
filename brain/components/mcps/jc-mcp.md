@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T11:46:21Z"
 ---
 ## What it is
 Provides live Chinese sports lottery (竞彩) odds for World Cup 2026 matches, including 5 betting markets, and integrates with AI predictions and betting strategies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T11:47:08Z"
 ---
 ## What it is
 An MCP server that provides unified internet access to Western and Indian platforms (e.g., YouTube, GitHub, stocks, news, Discord) through tools like read, search, hot, research, and doctor, with automatic backend routing and setup hints.

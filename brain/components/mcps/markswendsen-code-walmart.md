@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-16T04:04:30Z"
 ---
 ## What it is
 MCP server `Walmart`, catalogued on PulseMCP. Automates Walmart.com shopping through browser automation for product search, cart management, and order tracking.

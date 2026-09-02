@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-31T05:58:39Z"
 ---
 ## What it is
 MCP server `Discord by Oratorian`, catalogued on PulseMCP. Control Discord servers via bot token with channel, role, and message management.

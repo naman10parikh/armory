@@ -8,10 +8,12 @@ source_url: https://github.com/adelpro/quran-search-engine-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-06T22:38:55Z"
 ---
 ## What it is
 MCP server `Quran Search Engine`, catalogued on PulseMCP. Provides Quran search with Arabic normalization, root-based matching, and highlighted results for AI tools to deliver accurate, hallucination-free Quranic text.

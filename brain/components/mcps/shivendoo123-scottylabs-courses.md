@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T17:45:49Z"
 ---
 ## What it is
 MCP server `ScottyLabs CMU Courses`, catalogued on PulseMCP. Query Carnegie Mellon University course data via the ScottyLabs CMU Courses API, including course discovery, instructor lookups, prerequisites, and schedules.

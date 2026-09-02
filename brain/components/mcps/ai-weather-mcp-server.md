@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T08:24:22Z"
 ---
 ## What it is
 Combines real-time weather data with LLM-powered reasoning to deliver intelligent weather insights like clothing recommendations and travel advice.

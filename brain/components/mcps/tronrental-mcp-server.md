@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T14:56:03Z"
 ---
 ## What it is
 Enables AI agents to interact with the TronRental API to register, fund accounts, and purchase TRON energy for reducing USDT transfer fees by up to 80%.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T05:57:25Z"
 ---
 ## What it is
 5 crypto market analysis skills for Claude Code, Codex & OpenClaw — macro, on-chain, sentiment, technical & news. Installer deploys skills and registers the public MCP data server.

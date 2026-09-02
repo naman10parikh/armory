@@ -8,10 +8,12 @@ source_url: https://github.com/verygoodplugins/mcp-evernote
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-13T18:14:55Z"
 ---
 ## What it is
 MCP server `Evernote`, catalogued on PulseMCP. Evernote note management with OAuth authentication and ENML format conversion.

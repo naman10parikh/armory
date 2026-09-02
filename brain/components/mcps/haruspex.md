@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T05:10:31Z"
 ---
 ## What it is
 MCP server exposing the Haruspex stock-analysis API, headline scores (0-100), score history, batched watchlist scores, stock search, and recent news for US-listed

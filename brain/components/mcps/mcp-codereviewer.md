@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T05:49:38Z"
 ---
 ## What it is
 A three-layer funnel AI code review engine that reduces LLM token consumption by 70%+ while providing deep code analysis. It integrates with GitHub PRs via MCP protocol to automate code review with static analysis, RAG, and LLM-based checks.

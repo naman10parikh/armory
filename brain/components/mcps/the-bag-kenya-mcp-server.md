@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T21:00:57Z"
 ---
 ## What it is
 Enables AI assistants to browse, search, and purchase limited-edition fashion from Kenya, with tools for product details, stock checks, styling advice, and cart link generation.

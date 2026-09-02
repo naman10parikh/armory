@@ -8,10 +8,12 @@ source_url: https://github.com/johancodinha/nrepl-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-06-18T22:19:01Z"
 ---
 ## What it is
 MCP server `Clojure nREPL`, catalogued on PulseMCP. Integrates with Clojure nREPL instances to enable code evaluation, namespace listing, and public var inspection for AI-assisted Clojure development.

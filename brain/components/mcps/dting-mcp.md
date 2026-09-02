@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T17:56:36Z"
 ---
 ## What it is
 Enables AI clients to access DTing business functions including company briefs, MCP tool suggestions, support replies, profile prompts, match context analysis, and safety checklists.

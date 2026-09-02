@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T07:34:13Z"
 ---
 ## What it is
 Peer-reviewed (ACM BCB 2026) within-subject physiological deviation scoring. Real-time IHB baseline queries with SHA-256 trust certificates and autonomous x402 USDC payments on Base L2. No population norms. No human required.

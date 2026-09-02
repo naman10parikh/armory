@@ -8,11 +8,13 @@ source_url: https://github.com/sunshinerich/grafana-log-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T09:00:38Z"
 ---
 ## What it is
 A read-only stdio MCP server that provides a generic log-querying layer for Grafana/Loki, enabling discovery, retrieval, and aggregation of logs (raw, slow, errors, volumes) through 15 tools, with hard limits on data volume and no built-in business logic.

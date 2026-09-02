@@ -8,10 +8,12 @@ source_url: https://github.com/api7/apisix-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-06-16T07:53:11Z"
 ---
 ## What it is
 MCP server `Apache APISIX`, catalogued on PulseMCP. Bridge LLMs with the APISIX Admin API to manage and analyze API gateway information.

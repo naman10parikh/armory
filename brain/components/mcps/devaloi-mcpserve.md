@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-19T23:23:06Z"
 ---
 ## What it is
 MCP server `mcpserve`, catalogued on PulseMCP. Filesystem operations and markdown note management with path sandboxing and JSON Schema validation.

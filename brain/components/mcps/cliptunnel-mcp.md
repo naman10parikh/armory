@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T13:56:01Z"
 ---
 ## What it is
 Operate a locked-down remote machine through its clipboard by tunneling shell and file commands over a shared clipboard slot, exposing them as MCP tools like remote_shell and remote_fs_*.

@@ -8,11 +8,13 @@ source_url: https://github.com/blak0p/git-courer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 44
+stars: 43
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-21T19:23:47Z"
 ---
 ## What it is
 An MCP server that gives AI agents a full, safe interface to Git with automatic backups, isolated worktrees, and structured JSON outputs.

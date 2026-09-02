@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-29T16:30:08Z"
 ---
 ## What it is
 MCP server `OmniFocus`, catalogued on PulseMCP. Full CRUD MCP server for OmniFocus via Omni Automation — tasks, projects, folders, tags, recurrence.

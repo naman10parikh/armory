@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T08:13:54Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for Monnet. Exposes motions, plans, and approvals to MCP-compatible clients so you can work with your Monnet workspace from your terminal without leaving your AI assistant.

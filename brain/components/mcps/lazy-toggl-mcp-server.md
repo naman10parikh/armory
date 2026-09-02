@@ -8,11 +8,13 @@ source_url: https://github.com/movstox/lazy-toggl-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-11T17:17:47Z"
 ---
 ## What it is
 Provides tools to start/stop time tracking, list workspaces, and view current entry in Toggl.

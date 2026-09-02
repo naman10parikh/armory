@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:32:18Z"
 ---
 ## What it is
 MCP server `PermID`, catalogued on PulseMCP. Refinitiv PermID entity identification for financial companies and organizations via the Pipeworx gateway.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T12:16:29Z"
 ---
 ## What it is
 Enables AI agents to directly operate ChainPay cryptocurrency payment system, including order creation, balance checks, and withdrawals.

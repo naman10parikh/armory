@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:18:39Z"
 ---
 ## What it is
 A minimal MCP server that provides health/status checks and multilingual greetings via the server_info and greet tools.

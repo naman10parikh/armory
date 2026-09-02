@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T16:24:22Z"
 ---
 ## What it is
 Enables AI assistants to interact with a Shlink URL shortening instance, allowing creation, listing, retrieval, and deletion of short URLs, as well as tag management.

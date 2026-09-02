@@ -8,11 +8,13 @@ source_url: https://github.com/wzlwww/baltamatica.mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T07:32:31Z"
 ---
 ## What it is
 Enables AI agents to interact with the Baltamatica scientific computing kernel, executing code, managing variables, and running scripts while preserving workspace state across calls.

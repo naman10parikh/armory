@@ -8,11 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-firecrawl
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:07:10Z"
 ---
 ## What it is
 Web scraping and search MCP server that wraps Firecrawl API for URL discovery and web search with optional content retrieval.

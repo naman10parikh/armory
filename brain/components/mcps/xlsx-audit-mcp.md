@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T23:34:30Z"
 ---
 ## What it is
 Audits Excel workbooks by tracing cell dependencies and detecting circular references, volatile functions, and other formula risks, enabling natural-language audit queries on local files.

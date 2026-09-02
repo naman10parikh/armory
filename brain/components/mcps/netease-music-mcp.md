@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T07:15:35Z"
 ---
 ## What it is
 非官方MCP服务，允许通过统一的工具接口操作网易云音乐，包括搜索歌曲、创建与管理歌单、查看听歌记录、收藏歌曲及获取每日推荐。

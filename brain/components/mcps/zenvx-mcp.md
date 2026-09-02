@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T17:47:29Z"
 ---
 ## What it is
 Secure self-hosted remote MCP server with file and shell tools, protected by Cloudflare Tunnel and bearer-token auth.

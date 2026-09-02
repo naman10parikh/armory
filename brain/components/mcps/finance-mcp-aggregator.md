@@ -8,11 +8,13 @@ source_url: https://github.com/YugMakhecha17/MCP_Aggregator
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T07:28:40Z"
 ---
 ## What it is
 A scoped aggregator MCP server that routes intent to the 4-7 relevant finance tools from a 43-tool catalog, reducing token cost and improving tool-selection accuracy.

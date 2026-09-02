@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T11:20:51Z"
 ---
 ## What it is
 A minimal, token-efficient MCP server that combines stock prices and fundamentals with the macro and micro narrative around them — so an AI agent can reason about why a stock moved, what people are thinking about it, and what probable scenarios lie ahead.

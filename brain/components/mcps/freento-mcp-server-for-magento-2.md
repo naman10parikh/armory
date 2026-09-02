@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-14T11:24:07Z"
 ---
 ## What it is
 Freento MCP is a native Magento 2 extension that implements the Model Context Protocol (MCP) — an open standard for connecting AI assistants to external data sources. This server acts as a secure, direct bridge between your Adobe Commerce / Magento 2 store and LLM-powered assistants (like Claude, Ch

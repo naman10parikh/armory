@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T23:44:33Z"
 ---
 ## What it is
 Token cost math for LLM API calls: current per-million-token rates for 69 models across 17 providers, with local arithmetic for estimates, comparisons and monthly budgets. Rates are verified and date-stamped.

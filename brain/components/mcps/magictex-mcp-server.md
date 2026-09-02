@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-23T20:04:54Z"
 ---
 ## What it is
 Enables AI agents to edit LaTeX documents with a live PDF preview, source editor, and PDF-anchored comments that become edit instructions. Requires no local TeX install, using a WASM TeX engine.

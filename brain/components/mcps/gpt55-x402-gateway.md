@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:36:50Z"
 ---
 ## What it is
 Provides a read-only MCP gateway and quote-first buyer client for the GPT55 x402 service, enabling service discovery, catalog access, and safe payment quote checking without signing transactions.

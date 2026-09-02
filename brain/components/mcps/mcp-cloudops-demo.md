@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T06:38:29Z"
 ---
 ## What it is
 A simulated CloudOps MCP server exposing tools, resources, and prompts backed by fake Azure-style infrastructure data to demonstrate AI-driven operational workflows without real credentials.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-27T10:16:49Z"
 ---
 ## What it is
 An MCP server that visualizes bookkeeping elements like journal entries and T-accounts, enabling AI characters to autonomously teach and solve bookkeeping problems.

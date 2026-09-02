@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T10:07:08Z"
 ---
 ## What it is
 Enables AI assistants to retrieve comprehensive analytics data from Yandex Metrika accounts, including traffic, content, e-commerce, and user demographics.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-11T17:26:34Z"
 ---
 ## What it is
 MCP server `Groups.io`, catalogued on PulseMCP. Manage and consume Groups.io mailing lists and group data via the REST API.

@@ -8,11 +8,13 @@ source_url: https://github.com/congwa/mobile-agent
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 42
+stars: 44
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-02-12T10:02:50Z"
 ---
 ## What it is
 A mobile automation MCP server providing 39 tools for Android and iOS device control, enabling AI agents to perform UI interactions, screenshot analysis, and coordinate-based operations.

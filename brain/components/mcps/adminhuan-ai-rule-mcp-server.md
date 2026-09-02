@@ -8,10 +8,12 @@ source_url: https://github.com/adminhuan/smart-search-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-03T04:25:24Z"
 ---
 ## What it is
 MCP server `AI Rule MCP Server`, catalogued on PulseMCP. Provides rule-based conversation management, mode switching, and feature request handling for structured AI interactions with content moderation and user feedback collection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T23:16:24Z"
 ---
 ## What it is
 Enables dropshippers and e-commerce operators to generate SEO-optimized product listings, score SEO, audit catalogs, discover niches and suppliers, and surface Autopilot optimizations directly from Claude.

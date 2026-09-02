@@ -8,11 +8,13 @@ source_url: https://github.com/Show2Instruct/bonsai-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T13:15:38Z"
 ---
 ## What it is
 Connects MCP clients to a local Blender + Bonsai (BlenderBIM) session for scene inspection, IFC project querying, viewport screenshots, and executing Python code in Blender.

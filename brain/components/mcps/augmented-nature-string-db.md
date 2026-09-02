@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-12-21T10:07:40Z"
 ---
 ## What it is
 MCP server `STRING Database`, catalogued on PulseMCP. Integrates with STRING protein interaction database to enable protein network analysis, functional enrichment, GO/KEGG pathway analysis, cross-species homolog identification, and detailed annotation retrieval across over 5000 organisms for systems biology research.

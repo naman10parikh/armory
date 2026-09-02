@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-17T04:43:31Z"
 ---
 ## What it is
 MCP server `SAP`, catalogued on PulseMCP. Integrates with SAP systems through RESTful API calls to execute business functions like financial reporting, user management, and custom SQL queries with flexible parameter handling and configurable authentication.

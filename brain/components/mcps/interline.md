@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T19:03:12Z"
 ---
 ## What it is
 A neutral, non-custodial payment router for AI agents: it discovers which payment rails a paid endpoint accepts (x402 on Base/EVM, Solana, MPP), then pays across them using the caller's own wallet key. Three tools — discover_payment_rails, pay_for_resource, payment_history.

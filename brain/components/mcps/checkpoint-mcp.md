@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T01:49:59Z"
 ---
 ## What it is
 MCP server for Check Point Harmony Endpoint that exposes policy, asset, vulnerability, quarantine, and remediation API methods as MCP tools, with per-request credential isolation and automatic two-step authentication.

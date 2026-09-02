@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T08:42:07Z"
 ---
 ## What it is
 One-call static page/site deploys for AI agents — POST HTML, a files map, or a zip and get back a live unguessable URL. Remote endpoint at https://ship.page/mcp, free tier needs no account or API key.

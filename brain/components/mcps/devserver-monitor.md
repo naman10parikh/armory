@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-05T22:16:06Z"
 ---
 ## What it is
 MCP server `DevServer Monitor`, catalogued on PulseMCP. Monitors development server processes and provides intelligent error categorization with file change correlation to identify which code changes caused specific errors and track error patterns over time.

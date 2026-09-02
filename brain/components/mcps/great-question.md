@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T00:55:44Z"
 ---
 ## What it is
 MCP server `Great Question`, catalogued on PulseMCP. Run user research from AI tools — create studies, recruit participants, and query insights via MCP.

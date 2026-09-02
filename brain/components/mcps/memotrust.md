@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T10:46:13Z"
 ---
 ## What it is
 Verified memory for AI agents — agents propose memories that are quarantined until verified against evidence, and recall() returns only trusted, fresh, and in-scope facts, preventing poisoned or hallucinated data from spreading.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T14:54:26Z"
 ---
 ## What it is
 MCP server `Basalt`, catalogued on PulseMCP. Design tokens, components, icons, and accessibility data stored in Git and served to AI coding tools.

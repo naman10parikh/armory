@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T16:51:03Z"
 ---
 ## What it is
 AgentWatch tracks heartbeats, links actions across agents, walks backward from any failure to the root cause, and replays the full sequence to diagnose agent swarm failures.

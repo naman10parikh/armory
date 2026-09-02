@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T01:06:20Z"
 ---
 ## What it is
 MCP server for the Vibe-Marketer Agent API that enables generating ads, auditing landing pages, and running local preflight checks on ad compliance, with an autonomous agent loop to improve results.

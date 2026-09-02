@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-05-01T09:26:12Z"
 ---
 ## What it is
 Enables secure access to legal documents from Clio via Claude Desktop, with local processing and semantic search to ground AI responses in actual documents.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T12:47:33Z"
 ---
 ## What it is
 MCP server `Straight Connect`, catalogued on PulseMCP. Communication service connectors framework with multi-account Telegram support, tiered permission levels, per-account URL routing, and chat whitelisting for secure bot interactions.

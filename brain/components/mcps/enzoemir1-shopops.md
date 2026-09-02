@@ -8,10 +8,12 @@ source_url: https://github.com/enzoemir1/shopops-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-20T21:50:54Z"
 ---
 ## What it is
 MCP server `ShopOps`, catalogued on PulseMCP. AI e-commerce operations for inventory management, pricing, segmentation, and analytics.

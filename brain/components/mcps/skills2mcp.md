@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:34:28Z"
 ---
 ## What it is
 Turns any folder of Markdown agent skills into a local MCP server, exposing them as tools, prompts, and resources for MCP-compatible clients.

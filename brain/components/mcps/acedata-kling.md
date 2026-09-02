@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T10:41:05Z"
 ---
 ## What it is
 MCP server `AceDataCloud Kling`, catalogued on PulseMCP. AI video generation through the Kling model on the AceDataCloud platform.

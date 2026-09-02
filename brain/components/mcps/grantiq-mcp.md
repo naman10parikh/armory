@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T12:38:06Z"
 ---
 ## What it is
 A paid MCP server that gives AI agents instant, structured access to every open US federal grant and contract opportunity.

@@ -12,6 +12,8 @@ stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-04-30T14:02:49Z"
 ---
 ## What it is
 MCP server `Oracle Database`, catalogued on PulseMCP. Provides secure, read-only access to Oracle databases through Python's oracledb library, enabling database schema exploration and SQL query execution without direct credential exposure.

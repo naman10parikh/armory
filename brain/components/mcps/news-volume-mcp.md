@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T14:51:56Z"
 ---
 ## What it is
 MCP server providing news article mention volume data, weekly series, growth percentages, and a live Google News feed as an AI tool.

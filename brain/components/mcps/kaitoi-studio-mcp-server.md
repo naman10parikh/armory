@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-18T21:29:02Z"
 ---
 ## What it is
 Enables AI agents to interact with Kaitoi Studio's workflow engine for creative production, allowing them to build, run, and manage media pipelines using a graph of nodes from multiple AI providers.

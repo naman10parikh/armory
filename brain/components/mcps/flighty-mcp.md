@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:40:50Z"
 ---
 ## What it is
 A read-only MCP server that exposes personal Flighty app flight data as geo-ready legs with coordinates, enabling queries by date, year, or flight number, and aggregate stats.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T18:26:46Z"
 ---
 ## What it is
 An MCP server providing tools for speech-to-text, translation, language detection, question answering, and text-to-speech using Sarvam AI models, enabling multilingual voice agents.

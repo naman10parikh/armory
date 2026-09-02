@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T17:24:02Z"
 ---
 ## What it is
 MCP server for The Culture, a fashion-focused social media app, exposing Supabase database operations and Hugging Face model inference as tools for use in Claude Code, n8n agents, and the Larry orchestrator.

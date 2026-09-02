@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-08T15:44:50Z"
 ---
 ## What it is
 Enables AI assistants to query and retrieve biodiversity data from the Global Biodiversity Information Facility (GBIF), including species, occurrences, datasets, and literature.

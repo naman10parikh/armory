@@ -8,10 +8,12 @@ source_url: https://github.com/skynetcmd/m3-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-31T03:42:58Z"
 ---
 ## What it is
 MCP server `M3 Memory`, catalogued on PulseMCP. Persistent memory layer for AI agents with hybrid search, contradiction detection, and knowledge graphs.

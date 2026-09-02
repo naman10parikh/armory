@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-10T11:48:23Z"
 ---
 ## What it is
 Single-file HTTP MCP server for Petfinder's API to find adoptable pets and animal welfare organizations, with automatic OAuth token management.

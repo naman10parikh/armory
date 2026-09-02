@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-19T08:22:11Z"
 ---
 ## What it is
 Enables sending customizable Slack notifications from Claude, supporting rich formatting, task completion alerts, and priority levels for development workflows.

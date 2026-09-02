@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T02:11:07Z"
 ---
 ## What it is
 Provides live, source-linked transparency data on German MPs, including roll-call voting, side jobs, committee memberships, and election programs, via the Abgeordnetenwatch API. No API key required.

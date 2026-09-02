@@ -8,11 +8,13 @@ source_url: https://github.com/FanRec/MoeReview
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-21T12:58:38Z"
 ---
 ## What it is
 A local-first study workspace for MCP agents, providing a web UI for learning, quizzing, and review, independent of agent lifecycle.

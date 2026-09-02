@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T08:02:14Z"
 ---
 ## What it is
 Provides AI agents with a DID-based identity, secure wallet, and cloud KMS-backed signing keys, enabling trusted interactions with persons, companies, and other agents via standards like OIDC4VCI, OIDC4VP, and SD-JWT.

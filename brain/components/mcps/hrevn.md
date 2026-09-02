@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-15T18:20:43Z"
 ---
 ## What it is
 MCP server `HREVN`, catalogued on PulseMCP. Trust layer for baseline diagnostics and verifiable workflow integrity for AI agents.

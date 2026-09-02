@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T15:59:39Z"
 ---
 ## What it is
 MCP server that enables AI agents to control and interact with Godot 4 editor, allowing scene manipulation, file editing, and project inspection through natural language.

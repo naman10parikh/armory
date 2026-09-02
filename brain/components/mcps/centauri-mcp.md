@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T17:21:02Z"
 ---
 ## What it is
 MCP server for the Elegoo Centauri Carbon 3D printer that enables monitoring, control, and notifications via the SDCP 3.0 protocol over the local network.

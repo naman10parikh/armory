@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-29T20:20:01Z"
 ---
 ## What it is
 MCP server `Malt`, catalogued on PulseMCP. Integrates with Malt.fr freelance platform via browser automation to expose profile data, statistics, and mission information.

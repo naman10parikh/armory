@@ -8,11 +8,13 @@ source_url: https://github.com/sandraschi/gitee-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T16:45:11Z"
 ---
 ## What it is
 Bridges Gitee, China's largest code hosting platform, to MCP for exploring trending repos, searching users/repos, and translating Chinese content with a local LLM.

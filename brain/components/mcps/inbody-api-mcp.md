@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T16:34:14Z"
 ---
 ## What it is
 Enables retrieval of InBody body composition data including profile, scan history, and full metrics via MCP tools.

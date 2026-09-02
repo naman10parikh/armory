@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T07:39:16Z"
 ---
 ## What it is
 MCP server for Open Food Facts, enabling food product lookup by barcode, search, nutrition facts, allergen checks, and eco-scores without an API key.

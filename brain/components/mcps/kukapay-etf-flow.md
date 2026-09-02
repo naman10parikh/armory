@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/etf-flow-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-25T12:12:19Z"
 ---
 ## What it is
 MCP server `ETF Flow (CoinGlass)`, catalogued on PulseMCP. Retrieves crypto ETF flow data from CoinGlass API, providing historical Bitcoin and Ethereum fund flow analysis in structured markdown tables with pivot formatting and total calculations for cryptocurrency market analysis and investment decision-making.

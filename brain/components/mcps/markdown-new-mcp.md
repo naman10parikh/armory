@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T02:37:20Z"
 ---
 ## What it is
 Convert PDF, DOCX, XLSX, images, and 20+ formats to Markdown using markdown.new API.

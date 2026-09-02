@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T15:59:30Z"
 ---
 ## What it is
 MCP server `IBM watsonx.ai`, catalogued on PulseMCP. Text generation, multi-turn chat, and embeddings via IBM watsonx.ai Doubao models.

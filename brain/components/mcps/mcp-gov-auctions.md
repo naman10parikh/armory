@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:11:11Z"
 ---
 ## What it is
 Provides access to government auctions data for physical-asset auctions including surplus, seized, and forfeited items. Designed for AI agents to query and retrieve auction information via natural language.

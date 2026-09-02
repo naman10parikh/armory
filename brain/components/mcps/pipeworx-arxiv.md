@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:42:20Z"
 ---
 ## What it is
 MCP server `arXiv`, catalogued on PulseMCP. Access academic preprint research papers from arXiv's open-access repository.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-03T21:52:19Z"
 ---
 ## What it is
 MCP server `Coding Todo`, catalogued on PulseMCP. Integrates project management tools for viewing, adding, updating, and deleting todo items with priority setting, tagging, and project assignment capabilities, enabling efficient task tracking and AI-assisted prioritization for software development workflows.

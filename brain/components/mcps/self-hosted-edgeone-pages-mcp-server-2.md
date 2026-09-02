@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T08:38:11Z"
 ---
 ## What it is
 Enables AI assistants to deploy and manage static websites on EdgeOne Pages using the Model Context Protocol. Supports one-click deployment and direct API access for content management.

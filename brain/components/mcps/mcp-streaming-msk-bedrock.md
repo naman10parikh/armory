@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T20:25:24Z"
 ---
 ## What it is
 Streams real-time log context from Amazon MSK to a Bedrock AI agent for anomaly detection and root cause analysis. Enables AI-powered monitoring with WebSocket push and IAM authorization.

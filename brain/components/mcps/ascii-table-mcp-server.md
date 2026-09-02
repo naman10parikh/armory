@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T13:34:10Z"
 ---
 ## What it is
 MCP server for generating properly aligned ASCII, Unicode box-drawing, and Markdown tables, with correct width measurement for Thai, Pali, and CJK characters using wcwidth.

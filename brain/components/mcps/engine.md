@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T10:38:30Z"
 ---
 ## What it is
 Exposes self-owned AI agent plugins as tools to Claude Code via a stdio MCP server, allowing Claude to call system info, calculator, or scribe transcriber directly.

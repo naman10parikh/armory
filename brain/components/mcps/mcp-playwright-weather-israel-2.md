@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T16:01:06Z"
 ---
 ## What it is
 An MCP server that uses Playwright to scrape Israeli weather forecasts from weather2day.co.il by automating a real browser, enabling an LLM to answer questions about current conditions and hourly forecasts for Israeli cities.

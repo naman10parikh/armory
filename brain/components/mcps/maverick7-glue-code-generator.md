@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T11:12:07Z"
 ---
 ## What it is
 MCP server `Glue Code Generator`, catalogued on PulseMCP. Generates Vue/React components from API JSON with Zod validation schemas

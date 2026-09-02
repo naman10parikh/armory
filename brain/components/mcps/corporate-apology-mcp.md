@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:50:57Z"
 ---
 ## What it is
 Generates corporate apology statements with customizable sincerity levels (performative, genuine, or defensive) for specific offenses.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T08:12:49Z"
 ---
 ## What it is
 Enables Codex to control a visible Chromium browser via MCP tools for navigation, page inspection, and interaction, while keeping sensitive steps like login and captcha under the user's control.

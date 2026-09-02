@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T14:42:47Z"
 ---
 ## What it is
 This MCP server enables automated maintenance and code analysis for Python/pytest repositories in isolated Docker environments. It supports read-only investigations, fix-and-verify tasks, and provides full audit trails with SQLite event history and artifact exports.

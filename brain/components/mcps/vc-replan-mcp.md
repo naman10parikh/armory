@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T10:04:56Z"
 ---
 ## What it is
 Enables multi-dimensional architecture review of technical solutions with web intelligence and knowledge base auto-sedimentation, acting as a logical security gateway for Claude Code.

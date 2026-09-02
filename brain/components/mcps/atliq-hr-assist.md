@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T06:00:21Z"
 ---
 ## What it is
 An AI-powered HR assistant that automates employee management, leave handling, ticket creation, meeting scheduling, and email notifications through natural language conversations using the Model Context Protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T18:50:47Z"
 ---
 ## What it is
 Dynamic context and active engineering workflow for AI coding assistants, enabling project-aware rules, code review, TDD, and delivery orchestration.

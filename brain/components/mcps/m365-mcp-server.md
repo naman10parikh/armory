@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T16:33:21Z"
 ---
 ## What it is
 A secure remote MCP server that integrates Microsoft 365 services with AI assistants, enabling email, calendar, Teams, and contact operations via the Microsoft Graph API.

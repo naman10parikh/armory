@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T16:35:52Z"
 ---
 ## What it is
 Demonstrates using Playwright with the Model Context Protocol (MCP) to enable large language models to automate browser interactions, with an example of cursor-based pagination against the GitHub GraphQL API.

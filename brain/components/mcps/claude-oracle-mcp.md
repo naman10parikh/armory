@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T13:36:54Z"
 ---
 ## What it is
 An MCP server for discovering Claude Code skills, plugins, and MCP servers by searching 15,000+ resources from 17 registries, GitHub, and the web with zero setup.

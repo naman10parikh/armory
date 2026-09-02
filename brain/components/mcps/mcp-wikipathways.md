@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:49:28Z"
 ---
 ## What it is
 Enables AI agents to query the WikiPathways open community pathway database via natural language, part of the Pipeworx MCP gateway.

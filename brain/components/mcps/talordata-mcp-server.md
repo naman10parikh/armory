@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T07:39:49Z"
 ---
 ## What it is
 Search Google and major search engines through Talordata SERP API for AI agents and RAG workflows.

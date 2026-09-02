@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T10:57:54Z"
 ---
 ## What it is
 Consumer-side MCP server for Webless storefront operations, enabling catalog browsing, product search, and order lookup via tools.

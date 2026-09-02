@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-29T08:22:34Z"
 ---
 ## What it is
 A comprehensive HTTP/HTTPS tool server using curl, supporting various authentication methods, file uploads, downloads, and custom curl commands.

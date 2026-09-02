@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T21:27:21Z"
 ---
 ## What it is
 Enables AI agents to query and analyze Renpho smart scale data (weight, body fat, etc.) by syncing it from the Renpho app and exposing it through MCP tools for conversational exploration.

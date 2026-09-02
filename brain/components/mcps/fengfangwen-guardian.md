@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-26T12:41:40Z"
 ---
 ## What it is
 MCP server `Guardian`, catalogued on PulseMCP. MCP safety middleware for Claude Code that validates file operations and bash commands with circuit-breaker protection against retry loops.

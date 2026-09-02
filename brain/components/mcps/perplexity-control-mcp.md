@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T06:33:53Z"
 ---
 ## What it is
 Comprehensive MCP server providing full programmatic control over the Perplexity API, including agent, sonar, search, embeddings, key management, and cost estimation tools.

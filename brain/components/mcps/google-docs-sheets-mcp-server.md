@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T17:57:46Z"
 ---
 ## What it is
 A remote MCP server that lets Claude edit existing Google Docs and Sheets, supporting search, replace, append, and insert operations for Docs, and search, update, and append rows for Sheets.

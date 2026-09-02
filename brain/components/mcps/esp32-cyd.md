@@ -8,10 +8,12 @@ source_url: https://github.com/ofryl/esp-cyd-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-03T14:26:25Z"
 ---
 ## What it is
 MCP server `ESP32 CYD`, catalogued on PulseMCP. Transforms ESP32 CYD boards into remotely controllable IoT devices with display control, touch input, GPIO manipulation, sensor readings, file management, and audio playback through WebSocket communication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T07:37:02Z"
 ---
 ## What it is
 Enables AI agents to control Ableton Live with full access to Live's object model, including clip creation, device control, automation, and audio signal capture for mixing and mastering tasks.

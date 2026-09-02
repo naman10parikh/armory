@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T13:56:34Z"
 ---
 ## What it is
 A single MCP server that provides a provider-neutral 14-tool contract for telephony operations (calls, SMS, recordings, transcripts, and number lifecycle), supporting hosted, fully local, or bring-your-own-key backends.

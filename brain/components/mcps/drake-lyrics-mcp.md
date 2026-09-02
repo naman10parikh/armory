@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T22:58:38Z"
 ---
 ## What it is
 Creates Drake-style rap bars from any situation you type, and provides a complete MCP example with tools, resources, prompts, and an interactive UI widget.

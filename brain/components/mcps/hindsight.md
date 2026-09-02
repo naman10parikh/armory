@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T15:06:56Z"
 ---
 ## What it is
 Env-conditioned stack-trace retrieval for agent debugging over MCP, enabling search for known fixes, contribution of new solutions, and feedback-driven ranking.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T19:38:58Z"
 ---
 ## What it is
 Turns a GAS service into an MCP server, exposing tools for session creation, resource reading, searching, and executing capabilities.

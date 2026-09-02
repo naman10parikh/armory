@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T16:31:44Z"
 ---
 ## What it is
 Takes a plain-language automation goal and returns a recommended tool stack, command, validation checks, recovery guidance, and a machine-readable package contract for agents and builders.

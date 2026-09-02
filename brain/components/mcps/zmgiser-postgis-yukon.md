@@ -8,10 +8,12 @@ source_url: https://github.com/zmgiser/postgis_yukon_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-19T07:41:34Z"
 ---
 ## What it is
 MCP server `PostGIS Yukon`, catalogued on PulseMCP. Integrates PostGIS spatial databases with natural language querying capabilities, enabling geometry operations, spatial analysis, data import from multiple formats, and conversational SQL generation for GIS workflows and spatial data analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T17:19:16Z"
 ---
 ## What it is
 Exposes Lacework API v2 alert operations as MCP tools, allowing AI agents to list, search, and manage alerts with flexible time ranges and authentication.

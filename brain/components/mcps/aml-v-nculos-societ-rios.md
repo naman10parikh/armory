@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:19:15Z"
 ---
 ## What it is
 Maps corporate affiliations of a Brazilian individual from CPF for anti-money laundering (AML) due diligence. Read-only hosted MCP server with one tool, works with any MCP-compatible client.

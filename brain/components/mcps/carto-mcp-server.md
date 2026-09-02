@@ -8,11 +8,13 @@ source_url: https://github.com/theanshsonkar/carto
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 73
+stars: 76
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-31T05:02:35Z"
 ---
 ## What it is
 Enables AI coding tools to query your live codebase for routes, import graph, domain context, and blast radius, eliminating hallucinations about project structure.

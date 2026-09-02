@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:55:22Z"
 ---
 ## What it is
 Enables Claude Desktop to answer natural-language questions about customers by exposing search, profile, order history, status filter, and spend statistics tools backed by local mock data, with a single-file swap path to Oracle AI Agent Studio later.

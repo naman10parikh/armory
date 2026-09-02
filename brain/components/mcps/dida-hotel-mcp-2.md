@@ -8,11 +8,13 @@ source_url: https://github.com/DIDA-AI/Dida-hotel-MCP-CN
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T09:56:11Z"
 ---
 ## What it is
 Enables AI agents to search, compare, and book hotels with real-time pricing and availability, supporting multiple location types, star ratings, and price filters.

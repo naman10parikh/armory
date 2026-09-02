@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-31T09:13:24Z"
 ---
 ## What it is
 Enables AI agents to interact with IoT device data from a smart city, including public lighting, water, and gas meters. Supports querying and management via the Model Context Protocol.

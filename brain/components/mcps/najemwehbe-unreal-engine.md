@@ -8,10 +8,12 @@ source_url: https://github.com/najemwehbe/unreal-ai-connection
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-18T16:41:57Z"
 ---
 ## What it is
 MCP server `Unreal Engine`, catalogued on PulseMCP. Drives Unreal Engine 5 editor automation with 105 tools for asset management, blueprint inspection, actor spawning, and more.

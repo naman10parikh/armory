@@ -8,10 +8,12 @@ source_url: https://github.com/suzy-sa/comsol-multiphysics-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-19T06:23:57Z"
 ---
 ## What it is
 MCP server `COMSOL Multiphysics`, catalogued on PulseMCP. Automates COMSOL Multiphysics simulations with RAG-assisted documentation retrieval and guided workflow templates.

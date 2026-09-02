@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-02T19:38:31Z"
 ---
 ## What it is
 Enables AI agents to extract structured JSON from HTML using a local ML model (Schematron-3B) via MLX, based on custom JSON schemas.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-12T19:01:12Z"
 ---
 ## What it is
 Enables AI assistants to manage Fivetran users and connections, including inviting users, listing connections, and triggering syncs.

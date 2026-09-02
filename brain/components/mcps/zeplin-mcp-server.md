@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-08T09:28:49Z"
 ---
 ## What it is
 Connects AI agents to Zeplin to access component and screen specs, documentation, and design tokens for generating UI code that matches designs.

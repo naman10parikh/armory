@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T13:55:50Z"
 ---
 ## What it is
 Integrates Tolk compiler tools into AI assistants, enabling compilation of Tolk contracts, conversion from FunC, and version checks without manual terminal work.

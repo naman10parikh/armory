@@ -8,10 +8,12 @@ source_url: https://github.com/kfastov/tgcli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-07-17T08:49:58Z"
 ---
 ## What it is
 MCP server `Telegram Channel Explorer`, catalogued on PulseMCP. Enables access to Telegram channels and messages for searching content by keywords, listing available channels, retrieving specific messages, and filtering with regex patterns using the MTProto protocol.

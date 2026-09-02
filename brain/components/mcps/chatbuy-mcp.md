@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T02:52:41Z"
 ---
 ## What it is
 A local AI shopping MCP server for Amazon.co.jp that searches products, adds them to cart, and opens the review page without automating purchase confirmation. It keeps your Amazon login confined to your machine's Chrome profile.

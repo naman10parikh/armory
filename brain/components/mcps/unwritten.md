@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T17:20:10Z"
 ---
 ## What it is
 MCP server that checks AI agent edits for missing companion files by learning co-change patterns from git history, preventing incomplete commits.

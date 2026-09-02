@@ -8,10 +8,12 @@ source_url: https://github.com/xiaojiou176-open/openvibecoding
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 203
+stars: 207
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-07-15T23:33:35Z"
 ---
 ## What it is
 MCP server `CortexPilot`, catalogued on PulseMCP. Read-only MCP for CortexPilot workflows, queue state, proof, replay, and incident summaries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-10T17:41:28Z"
 ---
 ## What it is
 Aggregates multiple MCP servers via a single interface with token optimization and multiple operating modes (Gateway, Meta, Proxy, Search, Code).

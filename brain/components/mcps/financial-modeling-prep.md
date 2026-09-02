@@ -8,10 +8,12 @@ source_url: https://github.com/imbenrabi/financial-modeling-prep-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 132
+stars: 142
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 51
+pushed_at: "2026-07-02T17:24:51Z"
 ---
 ## What it is
 MCP server `Financial Modeling Prep`, catalogued on PulseMCP. Integrates with Financial Modeling Prep API to provide access to real-time and historical financial data across stocks, company profiles, financial statements, technical indicators, and economic information for investment research and market analysis.

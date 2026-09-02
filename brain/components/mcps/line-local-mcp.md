@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T08:35:42Z"
 ---
 ## What it is
 A read-only MCP server that lets AI search a user's own LINE Desktop chat history on macOS, providing tools to list chats, retrieve messages, and search conversations directly from the local encrypted database.

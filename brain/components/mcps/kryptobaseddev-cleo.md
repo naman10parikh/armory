@@ -8,10 +8,12 @@ source_url: https://github.com/kryptobaseddev/cleo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 155
+stars: 160
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-08-20T16:21:50Z"
 ---
 ## What it is
 MCP server `Cleo`, catalogued on PulseMCP. Task management protocol for solo developers and AI coding agents with CQRS pattern.

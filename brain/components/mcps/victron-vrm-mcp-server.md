@@ -8,11 +8,13 @@ source_url: https://github.com/gimi-q/victron-vrm-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-20T22:29:16Z"
 ---
 ## What it is
 Read-only MCP server integrating with the Victron VRM API to monitor solar systems, batteries, alarms, and more.

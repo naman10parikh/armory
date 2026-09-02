@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-07T16:31:34Z"
 ---
 ## What it is
 A powerful and flexible Datagroom MCP server implementation to read the data and let the LLM handle the reasoning of the data.

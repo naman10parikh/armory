@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T15:46:07Z"
 ---
 ## What it is
 An MCP server for the Xe Currency Data API that brings live FX rates, historical analysis, and quant-flavored tools into AI tools, working out of the box with zero credentials via Frankfurter/ECB data.

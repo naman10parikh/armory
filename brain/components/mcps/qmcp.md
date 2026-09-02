@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T07:51:12Z"
 ---
 ## What it is
 Semantic search server for code and documentation using Qdrant vector database. Supports multi-language indexing, live updates, and natural language queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:25:37Z"
 ---
 ## What it is
 Cross-pool compute auction grid with a 15-agent fleet that bids on compute from io.net, Akash, Render, and more. Verify compute with Groth16 proofs and settle in USDC.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-06T14:02:33Z"
 ---
 ## What it is
 Enables LLMs to manage VAST Data storage infrastructure, including views, quotas, snapshots, and network configurations, through natural language commands.

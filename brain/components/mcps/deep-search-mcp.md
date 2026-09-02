@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-25T20:36:56Z"
 ---
 ## What it is
 A deep web search MCP server using LinkUp API that provides a deep_search tool for performing deep web searches with optional max results.

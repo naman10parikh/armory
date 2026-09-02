@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-20T20:26:19Z"
 ---
 ## What it is
 Generates complete brand identity systems including colors, typography, logos, and design tokens with 58 MCP tools. Supports multi-format export and AI-assisted refinement.

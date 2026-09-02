@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:07:41Z"
 ---
 ## What it is
 Enables AI agents to control Copper Mountain Vector Network Analyzers over TCP/IP SCPI, offering 45 tools for sweep configuration, calibration, measurement, and Touchstone export.

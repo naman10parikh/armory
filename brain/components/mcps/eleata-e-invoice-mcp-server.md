@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T15:36:03Z"
 ---
 ## What it is
 Validates EU electronic invoices (Peppol, XRechnung, FatturaPA, etc.) and explains validation error codes, enabling AI coding agents to check invoice validity and get fixes before rejection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-21T16:35:52Z"
 ---
 ## What it is
 This MCP server connects AI assistants to a Public.com brokerage account, enabling natural language trading of stocks, options, and crypto, along with portfolio management, quotes, and orders.

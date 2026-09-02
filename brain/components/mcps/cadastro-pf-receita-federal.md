@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:27:05Z"
 ---
 ## What it is
 Consulta dados cadastrais e situação de CPF na Receita Federal a partir de um número de CPF. Serve como ferramenta somente leitura, paga por uso, para clientes MCP.

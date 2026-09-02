@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-08T08:01:13Z"
 ---
 ## What it is
 Manages project documentation and saves conversation logs within a target project directory, providing tools for creating specs, ADRs, changelogs, runbooks, and syncing prompts/logs to GitHub repositories.

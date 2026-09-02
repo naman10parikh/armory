@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T15:21:17Z"
 ---
 ## What it is
 MCP server `SPA Reader`, catalogued on PulseMCP. Renders JavaScript single-page application pages via headless Chromium and extracts clean, LLM-ready Markdown content.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T23:16:25Z"
 ---
 ## What it is
 Echo tool MCP server that extracts and logs W3C Trace Context from requests to verify propagation from Claude Code.

@@ -8,10 +8,12 @@ source_url: https://github.com/cervonwong/ilspy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-06T13:13:24Z"
 ---
 ## What it is
 MCP server `ILSpy`, catalogued on PulseMCP. Wraps ILSpy for .NET binary decompilation and static analysis from AI assistants.

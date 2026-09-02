@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T23:16:52Z"
 ---
 ## What it is
 A continuously-recording Chromium daemon exposed over MCP, enabling AI agents to query past network, console, and DOM activity and control a headed browser.

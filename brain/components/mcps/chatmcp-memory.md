@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-15T01:54:17Z"
 ---
 ## What it is
 Enables large language models to remember past conversations by querying chat history stored in SQLite, directly integrating with daodao97/chatmcp.

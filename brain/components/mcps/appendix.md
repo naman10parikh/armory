@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T00:51:15Z"
 ---
 ## What it is
 Appendix turns any AI health conversation into a board-certified physician's opinion — with a real prescription when clinically appropriate. Search medical literature and submit a clinical encounter for review, all from your agent.

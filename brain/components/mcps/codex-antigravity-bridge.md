@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-14T07:12:07Z"
 ---
 ## What it is
 Enables MCP-compatible clients like Codex to delegate tasks to the Antigravity CLI, using ConPTY on Windows to reliably capture responses.

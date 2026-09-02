@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T15:05:28Z"
 ---
 ## What it is
 An MCP server that provides access to the Library of Babel, allowing users to retrieve exact page contents by address, search for text to find its location, and generate random pages.

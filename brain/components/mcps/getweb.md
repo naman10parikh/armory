@@ -8,10 +8,12 @@ source_url: https://github.com/ivan-mezentsev/mcp-getweb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-22T02:09:44Z"
 ---
 ## What it is
 MCP server `GetWeb`, catalogued on PulseMCP. Integrates DuckDuckGo, Google Search, Felo AI, and Jina Reader APIs to provide web search, content extraction, and HTML-to-Markdown conversion with caching, user agent rotation, and configurable text filtering for reliable web research and information retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T13:11:31Z"
 ---
 ## What it is
 MCP server connecting AI assistants to official France Travail APIs for real-time job offers, ROME code prediction, and hiring company search.

@@ -8,11 +8,13 @@ source_url: https://github.com/anypost/emailmd
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1302
+stars: 1345
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 40
+pushed_at: "2026-08-26T19:42:32Z"
 ---
 ## What it is
 Renders markdown into email-safe HTML that holds up in Outlook and Gmail, lints drafts for deliverability problems, and returns a live preview link. Also serves the emailmd syntax reference so an assistant can look up directives on demand.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T06:04:10Z"
 ---
 ## What it is
 Budget & cost control for AI agents: hard per-agent spend caps, rate limits, idempotency, and human-in-the-loop approval — enforced before each LLM call, not after the invoice. One hosted MCP endpoint (no proxy or self-hosting), settled via x402 (USDC on Base).

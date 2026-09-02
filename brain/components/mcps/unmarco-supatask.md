@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-26T14:26:15Z"
 ---
 ## What it is
 MCP server `Supatask`, catalogued on PulseMCP. Redis-based task management system with CRUD operations, time tracking, activity logging, and filtering capabilities

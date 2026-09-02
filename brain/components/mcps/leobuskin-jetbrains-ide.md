@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-21T18:17:10Z"
 ---
 ## What it is
 MCP server `JetBrains IDE`, catalogued on PulseMCP. Bridges Large Language Models with JetBrains IDEs to enable intelligent code completion, automated refactoring, and context-aware documentation generation.

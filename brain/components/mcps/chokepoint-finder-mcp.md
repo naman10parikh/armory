@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T21:44:58Z"
 ---
 ## What it is
 Reduces thousands of security findings to the smallest set of high-impact remediation actions, with fail-closed safety gates, typed execution plans, and verification that refuses false all-cleans.

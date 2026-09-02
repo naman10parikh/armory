@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 100
+pushed_at: "2025-11-17T17:20:41Z"
 ---
 ## What it is
 MCP server for the driaforall/mem-agent model that enables interaction with an obsidian-like memory system through apps like Claude Desktop or LM Studio.

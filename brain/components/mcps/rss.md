@@ -8,10 +8,12 @@ source_url: https://github.com/missionsquad/mcp-rss
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-01T05:26:33Z"
 ---
 ## What it is
 MCP server `RSS`, catalogued on PulseMCP. RSS/Atom feed server that provides intelligent caching, batch processing, content monitoring, and full-text search capabilities for news aggregation, content monitoring, and automated feed processing workflows.

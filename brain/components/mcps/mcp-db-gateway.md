@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T01:59:38Z"
 ---
 ## What it is
 Provides governed, read-only PostgreSQL access for AI agents via MCP. Enforces schema/table allowlists, query limits, and audit events.

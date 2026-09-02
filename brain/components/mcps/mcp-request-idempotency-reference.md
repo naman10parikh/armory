@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T17:10:08Z"
 ---
 ## What it is
 Demonstrates the proposed idempotencyKey mechanism on tools/call with server-side deduplication and conflict fingerprint rejection. Includes a runnable client demo showing retry dedup and conflict behavior.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T06:42:44Z"
 ---
 ## What it is
 Enables natural-language question answering over Australian government policy documents with grounded, source-cited responses and a tool to list indexed documents.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-26T10:31:13Z"
 ---
 ## What it is
 MCP server `FlashAlpha`, catalogued on PulseMCP. Real-time options analytics including gamma exposure, greeks, volatility, and variance risk premium for US equities.

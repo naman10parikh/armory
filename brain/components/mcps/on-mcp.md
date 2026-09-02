@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:41Z"
 ---
 ## What it is
 Connect your Íon account to Claude, ChatGPT, and AI agents via Open Finance Brasil to query balances, statements, credit card bills, and investments in natural language. Read-only and regulated by the Central Bank.

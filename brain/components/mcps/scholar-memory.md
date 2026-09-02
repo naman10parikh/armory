@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T14:37:14Z"
 ---
 ## What it is
 Enables scientific literature research through multi-agent search, analysis, and semantic memory, exposing 9 MCP tools for querying, storing, and retrieving research findings.

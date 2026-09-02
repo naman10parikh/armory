@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T05:16:48Z"
 ---
 ## What it is
 B2B lead generation for Japan: search 1M+ companies by size, capital, location, and government-subsidy history, with executive names and procurement records.

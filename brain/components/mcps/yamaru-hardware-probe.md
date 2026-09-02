@@ -8,11 +8,13 @@ source_url: https://github.com/yamaru-eu/hardware-probe
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-16T00:10:55Z"
 ---
 ## What it is
 Expert system hardware probe and performance diagnostic engine for AI, Gaming, and High-Performance workflows. Provides deep system insights such as real-time monitoring, thermal diagnostics, and LLM optimization.

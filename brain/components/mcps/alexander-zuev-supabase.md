@@ -8,10 +8,12 @@ source_url: https://github.com/alexander-zuev/supabase-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 822
+stars: 830
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 104
+pushed_at: "2026-08-21T20:27:19Z"
 ---
 ## What it is
 MCP server `Supabase`, catalogued on PulseMCP. Integrates with Supabase to enable natural language-driven database schema exploration, management, and read-only SQL query execution.

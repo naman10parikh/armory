@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:32:57Z"
 ---
 ## What it is
 Real-time crypto news aggregation with sentiment scores and token mentions, enabling market analysis and trading signals via pay-per-call micropayments.

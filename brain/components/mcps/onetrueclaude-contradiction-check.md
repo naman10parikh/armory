@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T13:51:41Z"
 ---
 ## What it is
 MCP server `Vault Contradiction Check`, catalogued on PulseMCP. Detect conflicting claims in markdown knowledge bases — quantitative mismatches and negation conflicts between notes.

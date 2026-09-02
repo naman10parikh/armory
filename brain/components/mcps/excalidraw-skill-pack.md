@@ -8,11 +8,13 @@ source_url: https://github.com/isatimur/excalidraw-skill-pack
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:50:05Z"
 ---
 ## What it is
 The diagram-quality layer for AI agents — an opinionated Excalidraw methodology (isomorphism test, evidence artifacts, multi-zoom, container discipline) plus a render-view-fix loop. Accepts skeleton and Mermaid input, 5 publishable themes, dual Node/Python renderer. Proven on a 77-diagram published 

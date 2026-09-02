@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-28T07:12:11Z"
 ---
 ## What it is
 MCP server `GnuCash Bindings`, catalogued on PulseMCP. Provides MCP bindings for GnuCash financial data including budget management and account access.

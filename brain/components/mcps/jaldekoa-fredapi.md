@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-09T11:21:29Z"
 ---
 ## What it is
 MCP server `FRED (Federal Reserve Economic Data)`, catalogued on PulseMCP. Integrates with the Federal Reserve Economic Data (FRED) API to retrieve economic time series data with customizable parameters for date ranges, frequency aggregation, and data transformations.

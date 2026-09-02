@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T04:47:01Z"
 ---
 ## What it is
 An MCP server for Actual Budget that connects to your Actual sync server, opens one budget file, and exposes it to MCP clients over streamable HTTP or stdio.

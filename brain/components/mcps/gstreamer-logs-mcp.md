@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T12:26:46Z"
 ---
 ## What it is
 Enables agents to efficiently explore and query GStreamer debug logs by loading files, applying filters (path, category, time range, level, object name), and retrieving counts before fetching lines to keep context small.

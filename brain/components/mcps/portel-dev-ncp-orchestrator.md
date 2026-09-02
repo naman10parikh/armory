@@ -8,10 +8,12 @@ source_url: https://github.com/portel-dev/ncp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 90
+stars: 97
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-06-12T01:39:06Z"
 ---
 ## What it is
 MCP server `NCP (MCP Orchestrator)`, catalogued on PulseMCP. Intelligent orchestration layer that unifies multiple MCP servers into a single gateway with RAG-powered discovery engine for semantic tool routing across diverse services like GitHub, Slack, PostgreSQL, and AWS.

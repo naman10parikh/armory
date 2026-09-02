@@ -8,11 +8,13 @@ source_url: https://github.com/vintasoftware/django-ai-boost
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 110
+stars: 111
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-31T18:15:58Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for developing Django applications. It exposes Django project information through MCP tools, enabling AI assistants to better understand and interact with Django codebases.

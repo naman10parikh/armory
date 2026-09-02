@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T07:27:15Z"
 ---
 ## What it is
 Enables AI agents to issue, void, query, and manage Taiwan e-invoices via 27 MCP tools, wrapping the Universal EC POS Web Service.

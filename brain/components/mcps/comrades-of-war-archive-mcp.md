@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T19:45:14Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve historical Spanish Call of Duty gaming community posts, with free search previews and pay-per-page citation-ready access via x402.

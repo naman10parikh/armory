@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T02:30:36Z"
 ---
 ## What it is
 An MCP server for analyzing creative ideas through a series of diagnostic tools, designed for prototyping and submission to PlayMCP.

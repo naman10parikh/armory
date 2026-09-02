@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-02T10:41:36Z"
 ---
 ## What it is
 MCP server for managing Homebox inventory via AI assistants, enabling item management, location organization, and label categorization.

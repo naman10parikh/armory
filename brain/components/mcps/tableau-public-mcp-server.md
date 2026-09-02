@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T07:27:03Z"
 ---
 ## What it is
 Provides 22 MCP tools to access Tableau Public profiles, workbooks, visualizations, social connections, discovery features, and TWBX workbook analysis without authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:08:26Z"
 ---
 ## What it is
 Enables AI to dynamically discover and invoke any Cin7 Core API endpoint using three generic tools (list, describe, invoke) plus a bug-report tool, covering the entire API surface without predefined endpoints.

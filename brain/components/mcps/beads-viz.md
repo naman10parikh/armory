@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T22:59:58Z"
 ---
 ## What it is
 A read-only task graph visualizer for Beads projects, running as an MCP server in Claude Desktop or VS Code Copilot to display interactive DAGs, list views, and stats dashboards.

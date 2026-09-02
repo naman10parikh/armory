@@ -8,10 +8,12 @@ source_url: https://github.com/r-huijts/opentk-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-30T10:06:42Z"
 ---
 ## What it is
 MCP server `OpenTK Dutch Parliament`, catalogued on PulseMCP. Provides a bridge to Dutch parliamentary data through Bert Hubert's tkconv service, enabling search across documents, MP information retrieval, and access to official records for political research and civic engagement.

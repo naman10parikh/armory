@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, version-control]
 stars: 8
+forks: 5
+pushed_at: "2025-07-17T07:48:27Z"
 ---
 ## What it is
 Official AtomGit server for integration with repository management, PRs, issues, branches, labels, and more.

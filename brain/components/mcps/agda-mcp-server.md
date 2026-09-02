@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T14:54:03Z"
 ---
 ## What it is
 A stateful Model Context Protocol server for interactive Agda proof development, enabling persistent sessions with goal-aware proof actions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T00:40:27Z"
 ---
 ## What it is
 Lets AI agents natively discover and hire human experts for tasks they can't do themselves, such as research, verification, and expert calls.

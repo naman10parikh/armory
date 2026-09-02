@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T01:14:37Z"
 ---
 ## What it is
 MCP server `FilingFirehose`, catalogued on PulseMCP. Access parsed SEC EDGAR filings including 8-Ks, Schedule 13D/G activist filings, and ATM offerings directly from AI clients.

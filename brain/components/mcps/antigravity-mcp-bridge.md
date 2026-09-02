@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T21:33:27Z"
 ---
 ## What it is
 A TypeScript-based MCP server template for the Antigravity agentic environment, providing system status and SQLite database tools via stdio transport.

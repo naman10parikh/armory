@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T17:10:10Z"
 ---
 ## What it is
 Enables AI assistants to inspect React component trees, props, state, and source locations in Chrome, facilitating UI debugging and analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-18T09:32:06Z"
 ---
 ## What it is
 The most complete MCP server for Huly, the open-source project management platform. It connects MCP-compatible clients to a Huly workspace, enabling management of projects, issues, milestones, components, documents, labels, and more via natural language.

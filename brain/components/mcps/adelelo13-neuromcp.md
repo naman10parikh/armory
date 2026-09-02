@@ -8,10 +8,12 @@ source_url: https://github.com/adelelo13/neuromcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-13T14:33:12Z"
 ---
 ## What it is
 MCP server `NeuroMCP`, catalogued on PulseMCP. Semantic memory for AI agents with hybrid search, knowledge graph, and memory consolidation.

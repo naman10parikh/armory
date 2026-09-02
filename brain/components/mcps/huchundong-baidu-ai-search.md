@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-19T11:13:46Z"
 ---
 ## What it is
 MCP server `Baidu Search`, catalogued on PulseMCP. Integrates with Baidu's search engine through browser automation to extract search results, titles, URLs, and content snippets for accessing Chinese web content and market research.

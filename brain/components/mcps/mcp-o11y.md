@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-16T18:48:23Z"
 ---
 ## What it is
 An MCP server that demonstrates comprehensive observability with Sentry, OpenTelemetry, and Braintrust, providing tools for file, data, and HTTP operations along with real-time status and configuration resources.

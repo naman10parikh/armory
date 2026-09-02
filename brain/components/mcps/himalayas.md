@@ -8,10 +8,12 @@ source_url: https://github.com/himalayas-app/himalayas-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-06T03:53:49Z"
 ---
 ## What it is
 MCP server `Himalayas Remote Jobs`, catalogued on PulseMCP. Access tens of thousands of remote job listings and company information.

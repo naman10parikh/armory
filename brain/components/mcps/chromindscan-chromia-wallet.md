@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2024-12-20T07:37:27Z"
 ---
 ## What it is
 MCP server `Chromia Wallet`, catalogued on PulseMCP. Integrates with the Chromia blockchain to enable cryptocurrency transactions and wallet operations for automated financial workflows.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-13T03:30:22Z"
 ---
 ## What it is
 MCP server `TOON`, catalogued on PulseMCP. Converts structured data formats into compact tabular notation where field names appear once in headers, reducing token usage by 50-70%.

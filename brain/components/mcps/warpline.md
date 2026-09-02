@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T15:59:34Z"
 ---
 ## What it is
 Temporal/change-impact authority that tracks per-entity change history and downstream propagation queries, enabling agents to assess impact and re-verify work before claiming completion.

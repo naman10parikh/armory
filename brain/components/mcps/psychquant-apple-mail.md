@@ -8,10 +8,12 @@ source_url: https://github.com/psychquant/che-apple-mail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-31T09:08:41Z"
 ---
 ## What it is
 MCP server `Apple Mail`, catalogued on PulseMCP. Native Swift Apple Mail integration with SQLite-powered millisecond search across 250K+ emails.

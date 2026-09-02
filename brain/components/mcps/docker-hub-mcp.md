@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 161
+stars: 162
+forks: 101
+pushed_at: "2026-08-27T10:05:32Z"
 ---
 ## What it is
 Official MCP server to interact with Docker Hub, providing access to repositories, hub search and Docker Hardened Images

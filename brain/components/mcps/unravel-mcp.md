@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T05:02:59Z"
 ---
 ## What it is
 A deterministic AST evidence engine that forces AI agents to debug using verified execution facts instead of pattern-matching symptoms, enabling hallucination-free debugging for MCP-compatible agents.

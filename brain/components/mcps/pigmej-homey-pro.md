@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-09T10:10:29Z"
 ---
 ## What it is
 MCP server `HomeyPro`, catalogued on PulseMCP. Integrates with Athom HomeyPro home automation systems to provide complete device control, zone management, flow automation, and system monitoring through paginated API access with intelligent caching and unified flow detection.

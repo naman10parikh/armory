@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-19T01:18:25Z"
 ---
 ## What it is
 MCP server `EPICS Process Variable Bridge`, catalogued on PulseMCP. Provides a bridge between AI and EPICS process variables, enabling real-time monitoring and control of industrial systems through tools for getting, setting, and retrieving detailed information about hardware systems.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T15:51:06Z"
 ---
 ## What it is
 Persistent, compact project memory for AI coding agents, enabling them to read a small digest instead of re-scanning the codebase every session, saving tokens and costs.

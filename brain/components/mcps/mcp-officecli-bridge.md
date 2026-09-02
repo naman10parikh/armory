@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T01:17:32Z"
 ---
 ## What it is
 Streamable HTTP bridge that exposes OfficeCLI MCP tools (create, view, query, etc.) to Gemini Spark via a hosted server, deployable on Coolify.

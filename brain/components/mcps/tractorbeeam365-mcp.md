@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T04:11:33Z"
 ---
 ## What it is
 A Model Context Protocol server that connects to Veeam Backup for Microsoft 365 to review backup configuration, find protection gaps, and optionally run jobs and restores with opt-in safety controls.

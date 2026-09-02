@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T23:41:15Z"
 ---
 ## What it is
 Cross-project memory sharing for Claude Code and Cowork. Stop teaching Claude the same thing twice.

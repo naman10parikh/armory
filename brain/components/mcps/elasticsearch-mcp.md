@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T19:31:57Z"
 ---
 ## What it is
 Enables AI assistants to search, analyze, and interact with Elasticsearch through natural language.

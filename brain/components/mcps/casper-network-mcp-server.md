@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-04T10:51:29Z"
 ---
 ## What it is
 Enables interaction with the Casper Network blockchain via MCP, providing tools for wallet creation, CSPR transfers, staking/delegation, and account queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T05:30:52Z"
 ---
 ## What it is
 Turn any OpenAPI/Swagger/Postman spec into an MCP server — give your LLM live access to any API.

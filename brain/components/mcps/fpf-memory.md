@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T20:07:00Z"
 ---
 ## What it is
 This MCP server provides a deterministic index of the First Principles Framework (FPF) spec, enabling agents to query patterns, routes, and relations without vector databases.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T13:06:57Z"
 ---
 ## What it is
 MCP server for managing Bugzilla tickets and projects, with a built-in cron job for scheduled polling.

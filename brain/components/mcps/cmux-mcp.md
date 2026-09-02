@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T03:18:01Z"
 ---
 ## What it is
 MCP server wrapping the cmux CLI to let agents control terminal panes, workspaces, input, and browser.

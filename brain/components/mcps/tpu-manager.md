@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T07:57:36Z"
 ---
 ## What it is
 Enables AI assistants to manage Google Cloud TPU VMs, including queueing, monitoring, bootstrapping, and SSH/tmux integration.

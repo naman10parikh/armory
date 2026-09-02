@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-06T21:48:21Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Microsoft SQL Server that provides tools for database operations, data analysis, and visualization generation.

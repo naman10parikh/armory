@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:55Z"
 ---
 ## What it is
 Consulta em fonte oficial a Certidão Negativa de Feitos do MPT SP Campinas, com ferramenta de leitura para verificação de pendências judiciais.

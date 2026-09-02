@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T08:52:50Z"
 ---
 ## What it is
 MCP server for querying Australian modular housing regulations, including granny flat rules by state and council, with cross-jurisdiction comparison and data freshness checks.

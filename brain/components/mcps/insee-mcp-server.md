@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-30T15:22:53Z"
 ---
 ## What it is
 Enables searching companies in the SIRENE database using SIREN, SIRET, or company name via the INSEE API.

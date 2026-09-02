@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-05T09:11:31Z"
 ---
 ## What it is
 MCP server `GitHub Pages Documentation`, catalogued on PulseMCP. Automates GitHub Pages documentation deployment by analyzing repositories, recommending static site generators like Jekyll, Hugo, or MkDocs, generating structured documentation following Diataxis patterns, and creating complete deployment workflows from repository analysis to live site publication.

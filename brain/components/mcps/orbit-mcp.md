@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T06:19:02Z"
 ---
 ## What it is
 A stdio-based MCP server that exposes the Orbit CPaaS API as tools, enabling sending SMS, managing campaigns, and other communication workflows through natural language in MCP clients.

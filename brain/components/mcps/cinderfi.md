@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-16T21:46:20Z"
 ---
 ## What it is
 MCP server `Cinderfi`, catalogued on PulseMCP. Retirement planning for Canada and the US with CPP, OAS, Social Security, and Monte Carlo simulations.

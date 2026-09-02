@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-26T01:22:48Z"
 ---
 ## What it is
 MCP server `Watermarking & Authenticity`, catalogued on PulseMCP. EU AI Act Article 50 compliance and C2PA watermarking for AI-generated content.

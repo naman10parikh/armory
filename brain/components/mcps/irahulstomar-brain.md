@@ -8,10 +8,12 @@ source_url: https://github.com/irahulstomar/brain-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-18T09:31:04Z"
 ---
 ## What it is
 MCP server `Brain`, catalogued on PulseMCP. Manages a local Markdown notes knowledge base with hybrid search using Ollama and Chroma.

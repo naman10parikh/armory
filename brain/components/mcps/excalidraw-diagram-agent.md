@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T02:58:21Z"
 ---
 ## What it is
 Generates editable Excalidraw diagram files from natural language descriptions of systems and architectures.

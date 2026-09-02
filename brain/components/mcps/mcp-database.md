@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-12T02:28:15Z"
 ---
 ## What it is
 MCP server for connecting to databases (PostgreSQL, MySQL, SQL Server, Redis) enabling SQL queries, table exploration, and Redis key-value operations.

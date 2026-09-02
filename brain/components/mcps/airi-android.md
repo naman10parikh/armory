@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-14T11:38:37Z"
 ---
 ## What it is
 A MCP server that enables LLMs to control Android devices via ADB, supporting input, UI hierarchy, device management, and shell commands.

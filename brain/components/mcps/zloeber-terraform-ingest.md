@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-15T14:13:21Z"
 ---
 ## What it is
 MCP server `Terraform Ingest`, catalogued on PulseMCP. Ingest and analyze Terraform modules from multiple repositories for AI RAG systems

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T23:40:18Z"
 ---
 ## What it is
 Enables secure natural language querying of a clinical SQL Server database using a local Ollama model, with strict SQL validation to protect sensitive data.

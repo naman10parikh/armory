@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T20:58:07Z"
 ---
 ## What it is
 MCP server `Plausible Analytics`, catalogued on PulseMCP. Queries traffic metrics, conversions, and time-period comparisons from Plausible Analytics.

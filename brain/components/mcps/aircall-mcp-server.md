@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T20:43:46Z"
 ---
 ## What it is
 MCP server providing 83 tools to manage Aircall calls, transcriptions, AI insights, contacts, SMS, users, teams, and more via the Aircall Public API, compatible with Claude Desktop and other MCP clients.

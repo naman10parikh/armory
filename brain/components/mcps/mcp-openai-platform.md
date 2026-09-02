@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T08:32:50Z"
 ---
 ## What it is
 A local MCP server exposing the OpenAI platform REST API as tools for file management, fine-tuning, inference, images, audio, batch processing, and organization usage/costs.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-08T04:38:55Z"
 ---
 ## What it is
 MCP server `Twitter/X with Gemini Image Generation`, catalogued on PulseMCP. Combines Twitter/X posting with Google Gemini image generation for creating and publishing AI-generated visual content with OAuth authentication.

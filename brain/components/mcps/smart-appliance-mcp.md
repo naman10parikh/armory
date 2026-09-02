@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T09:20:20Z"
 ---
 ## What it is
 Enables discovery and control of smart appliances (TVs, media devices) on the local network through natural language, supporting providers like Roku, Google TV, and Home Assistant.

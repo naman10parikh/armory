@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T07:47:55Z"
 ---
 ## What it is
 Enables LLMs to create, edit, and manage AviUtl2 video projects, with optional real-time control via a native bridge plugin.

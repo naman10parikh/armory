@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T08:58:01Z"
 ---
 ## What it is
 A lightweight MCP server for tracking bugs and tasks across coding sessions, providing persistent SQLite-backed storage and six tools for logging, inspecting, updating, resolving, and deleting bugs.

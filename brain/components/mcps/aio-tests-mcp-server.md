@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T08:17:34Z"
 ---
 ## What it is
 Enables searching, reading, creating, and updating AIO Tests test cases in Jira from any MCP client, supporting Jira Cloud and Server/Data Center with a read-only mode.

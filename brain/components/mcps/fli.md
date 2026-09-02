@@ -8,11 +8,13 @@ source_url: https://github.com/punitarani/fli
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3118
+stars: 3130
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 390
+pushed_at: "2026-07-20T19:24:17Z"
 ---
 ## What it is
 Enables flight search and fare calendar exploration by interacting with Google Flights' API, supporting detailed filters for origin, destination, dates, cabin class, airlines, and more.

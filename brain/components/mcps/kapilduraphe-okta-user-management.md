@@ -8,10 +8,12 @@ source_url: https://github.com/kapilduraphe/okta-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-03-11T00:53:50Z"
 ---
 ## What it is
 MCP server `Okta User Management`, catalogued on PulseMCP. Integrates with Okta's user management system to retrieve detailed user information including profile data, account status, employment details, and contact information through a Node.js implementation.

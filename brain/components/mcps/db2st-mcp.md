@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T02:52:30Z"
 ---
 ## What it is
 A horizontally scalable Model Context Protocol server for exposing shipment tracking (and other data sources) as authenticated MCP tools, starting with DB Schenker's public tracking endpoint.

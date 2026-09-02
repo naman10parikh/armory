@@ -12,6 +12,8 @@ stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-27T11:36:32Z"
 ---
 ## What it is
 MCP server `Force Fabric`, catalogued on PulseMCP. Provides live optimization analysis for Microsoft Fabric items with 100+ rules across Lakehouses, Warehouses, Eventhouses, and Semantic Models.

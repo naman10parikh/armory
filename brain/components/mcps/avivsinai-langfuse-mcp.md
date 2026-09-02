@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
-stars: 104
+stars: 105
+forks: 24
+pushed_at: "2026-08-26T20:07:24Z"
 ---
 ## What it is
 Query Langfuse traces, debug exceptions, analyze sessions, and manage prompts. Full observability toolkit for LLM applications.

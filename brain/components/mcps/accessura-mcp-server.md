@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T07:21:25Z"
 ---
 ## What it is
 Enables AI buyers and sellers to interact with the Accessura encrypted-data marketplace, supporting bidding, settlement, x402 payments, claim decryption, and seller payout management.

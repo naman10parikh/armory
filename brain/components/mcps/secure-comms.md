@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T07:36:48Z"
 ---
 ## What it is
 Enables secure communications with built-in EU AI Act compliance through the MCP protocol.

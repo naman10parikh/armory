@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T05:51:20Z"
 ---
 ## What it is
 A sovereign, biometric-authenticated IoT security broker using the Model Context Protocol.

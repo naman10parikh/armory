@@ -8,10 +8,12 @@ source_url: https://github.com/bitteprotocol/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-09T14:42:28Z"
 ---
 ## What it is
 MCP server `Bitte AI`, catalogued on PulseMCP. Connects AI assistants to the Bitte AI ecosystem, enabling discovery and execution of specialized agents and tools from the Bitte registry through real-time Server-Sent Events communication.

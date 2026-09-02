@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-16T05:50:19Z"
 ---
 ## What it is
 MCP server `SlideMaster`, catalogued on PulseMCP. Create AI-powered presentation videos with slides, narration, and export from a simple topic.

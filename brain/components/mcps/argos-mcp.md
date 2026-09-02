@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:47:13Z"
 ---
 ## What it is
 Enables Claude Code to securely interact with PostgreSQL, MySQL, SQLite, and SQL Server databases, featuring read-only mode, query validation, SSH tunneling, and field redaction for production-safe data access.

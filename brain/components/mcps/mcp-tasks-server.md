@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T06:44:00Z"
 ---
 ## What it is
 A small Model Context Protocol server that exposes a personal task tracker to any MCP-compatible client. Tasks live in a local SQLite database; no cloud, no surprises.

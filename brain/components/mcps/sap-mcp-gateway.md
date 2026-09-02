@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T14:17:54Z"
 ---
 ## What it is
 A reference implementation for connecting SAP Business One to MCP-compatible AI clients, enabling read-only SQL analysis and guarded write workflows.

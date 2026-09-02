@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-25T07:10:20Z"
 ---
 ## What it is
 MCP server `Hazelcast`, catalogued on PulseMCP. Provides full access to Hazelcast distributed data structures including maps, queues, lists, sets, topics, atomic counters, ringbuffers, vector collections, and SQL queries.

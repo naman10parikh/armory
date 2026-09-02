@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-01T20:04:50Z"
 ---
 ## What it is
 MCP server `Schedule I Game Bridge`, catalogued on PulseMCP. Bridges Schedule I game with real-time state access through C# mod and Python client, enabling querying and manipulation of NPCs, players, items, properties, and vehicles for automated gameplay testing and dynamic content management.

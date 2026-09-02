@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:35:52Z"
 ---
 ## What it is
 Enables AI coding agents to search and retrieve cited line-level context from versioned knowledge bundles, as well as list workspaces and publish or pull immutable Markdown bundles.

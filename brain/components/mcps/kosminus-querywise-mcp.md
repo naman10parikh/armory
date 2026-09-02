@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
 stars: 2
+forks: 0
+pushed_at: "2026-05-25T20:56:40Z"
 ---
 ## What it is
 Query SQL databases (SQLite, PostgreSQL, BigQuery, Databricks) in natural language through a business semantic layer — glossary, metrics, and a data dictionary grounded against your real schema.

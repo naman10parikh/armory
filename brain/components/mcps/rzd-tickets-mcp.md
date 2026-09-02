@@ -8,11 +8,13 @@ source_url: https://github.com/ex3lite/mcp_rzd_tickets
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T08:46:30Z"
 ---
 ## What it is
 Read-only MCP server that queries Russian Railways (ticket.rzd.ru) for train schedules, car types, prices, and seat availability. It provides official RZD links for manual booking but does not log in, book, or pay.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-09T00:12:47Z"
 ---
 ## What it is
 Provides NFL player statistics from 2015-2024, enabling player lookups, comparisons, and position leaderboards via natural language.

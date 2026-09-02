@@ -12,6 +12,8 @@ stars: 156
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-04-04T11:59:11Z"
 ---
 ## What it is
 MCP server `Fetch (Web Content & YouTube Transcripts)`, catalogued on PulseMCP. Fetches web content and YouTube video transcripts, converting HTML to Markdown and extracting timestamps for reference in conversations.

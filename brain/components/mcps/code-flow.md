@@ -8,10 +8,12 @@ source_url: https://github.com/mrorigo/code-flow-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-18T12:36:01Z"
 ---
 ## What it is
 MCP server `CodeFlow`, catalogued on PulseMCP. Provides semantic code analysis and search capabilities for Python codebases through AST extraction, call graph generation, and vector embeddings, enabling rapid semantic search, architectural documentation generation, and efficient navigation of large Python projects.

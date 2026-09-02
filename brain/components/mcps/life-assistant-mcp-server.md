@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:16:45Z"
 ---
 ## What it is
 Provides weather queries for major Chinese cities, hot news and news search, and text processing tools using free public APIs.

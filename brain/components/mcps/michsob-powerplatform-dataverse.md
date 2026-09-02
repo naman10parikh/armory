@@ -8,10 +8,12 @@ source_url: https://github.com/michsob/powerplatform-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-08-30T11:49:09Z"
 ---
 ## What it is
 MCP server `PowerPlatform Dataverse`, catalogued on PulseMCP. Integrates with Microsoft PowerPlatform/Dataverse to enable intelligent access to entity metadata, attributes, relationships, and records with support for OData queries and context-rich prompts for data modeling and exploration.

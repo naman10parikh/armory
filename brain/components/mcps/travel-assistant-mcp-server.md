@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T20:08:31Z"
 ---
 ## What it is
 Exposes travel planning data and constraint checking as MCP tools over stdio, enabling AI agents to query reference information and evaluate plan validity.

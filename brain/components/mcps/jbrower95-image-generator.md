@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-04T03:21:45Z"
 ---
 ## What it is
 MCP server `Image Generator (OpenAI)`, catalogued on PulseMCP. Enables image generation from text prompts via OpenAI's API, returning the created image saved to a specified file path

@@ -12,6 +12,8 @@ stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-04-29T06:36:36Z"
 ---
 ## What it is
 MCP server `Veyrax`, catalogued on PulseMCP. Integrates with Veyrax's API to enable access to specialized AI capabilities and data services, utilizing TypeScript and Node.js for seamless interaction with Veyrax's platform.

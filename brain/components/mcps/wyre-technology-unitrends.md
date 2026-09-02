@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T09:42:08Z"
 ---
 ## What it is
 MCP server `Unitrends Backup`, catalogued on PulseMCP. Manage Unitrends Backup appliances, jobs, recovery points, and restores via MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-07T23:10:48Z"
 ---
 ## What it is
 An MCP server for chDB, the in-process SQL OLAP engine powered by ClickHouse. Lets agents query Parquet, CSV, JSON, and pandas DataFrames with one tool — no separate server, no Docker.

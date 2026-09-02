@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-15T04:19:32Z"
 ---
 ## What it is
 An MCP server for HuliHealth that enables automation tools like n8n to invoke HuliHealth APIs through a standard MCP interface.

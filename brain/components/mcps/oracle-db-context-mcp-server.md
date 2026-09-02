@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 67
+pushed_at: "2025-08-22T12:16:03Z"
 ---
 ## What it is
 Provides contextual database schema information for large Oracle databases, enabling AI assistants to understand and work with databases containing thousands of tables.

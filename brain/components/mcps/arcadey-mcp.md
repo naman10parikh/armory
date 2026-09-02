@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T21:38:25Z"
 ---
 ## What it is
 MCP server for managing games on coolgptgames.com, enabling agents like Claude to publish, update, and track games via the Arcadey API.

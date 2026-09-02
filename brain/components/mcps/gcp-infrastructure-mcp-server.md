@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T17:29:26Z"
 ---
 ## What it is
 Provides 30+ read-only tools for querying Google Cloud Platform infrastructure, designed for AI assistants and Terraform workflows.

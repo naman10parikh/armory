@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:21:08Z"
 ---
 ## What it is
 A high-performance local and public webhook inspector for testing SSRF, APIs, and out-of-band interactions with Cloudflare Quick Tunnel, dynamic mocks, and callback polling for AI agents.

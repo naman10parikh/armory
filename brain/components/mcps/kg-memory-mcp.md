@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T04:54:45Z"
 ---
 ## What it is
 An in-memory knowledge graph MCP server that gives coding agents structural and semantic recall over codebases by indexing Python source, ADR documents, and project configuration, exposing 7 tools for search, traversal, context retrieval, and natural-language Q&A.

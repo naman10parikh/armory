@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 3
+forks: 0
+pushed_at: "2026-08-22T01:02:13Z"
 ---
 ## What it is
 AI-native workflow orchestration with long-term memory, 100+ integrations, and unified credits. 32 MCP tools for building and running intelligent business workflows — lead enrichment, content publishing, company research, media production, and more. Knowledge Graph that learns across executions.

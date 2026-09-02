@@ -8,10 +8,12 @@ source_url: https://github.com/ertugrul59/tradingview-chart-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 94
+stars: 100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2026-03-14T10:35:43Z"
 ---
 ## What it is
 MCP server `TradingView Chart`, catalogued on PulseMCP. Captures and shares TradingView chart images with customizable tickers and timeframes through a Selenium-based scraper that converts screenshots to direct image URLs.

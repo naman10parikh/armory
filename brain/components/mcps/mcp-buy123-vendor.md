@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-12T03:34:46Z"
 ---
 ## What it is
 Read-only MCP server for buy123 vendor portal, enabling AI assistants to query orders, returns, shipments, products, inventory, and more.

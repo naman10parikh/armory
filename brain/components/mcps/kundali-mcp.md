@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T15:57:26Z"
 ---
 ## What it is
 A Vedic astrology MCP server that computes birth charts, dashas, transits, and yogas locally using Swiss Ephemeris, enabling an LLM to interpret horoscopes and provide personalized advice.

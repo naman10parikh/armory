@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T09:37:23Z"
 ---
 ## What it is
 Read-only MCP server for Energinet's public Energi Data Service. Enables dataset search, arbitrary dataset queries with filters, and CO2 emissions retrieval for DK1/DK2 without an API key.

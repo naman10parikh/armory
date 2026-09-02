@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T17:53:30Z"
 ---
 ## What it is
 Enables MCP-compatible assistants to research prediction markets on Polymarket and Kalshi, analyze public wallets, read market signals, and run paper-only trading simulations.

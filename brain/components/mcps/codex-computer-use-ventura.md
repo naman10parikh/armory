@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T10:55:55Z"
 ---
 ## What it is
 Restores OpenAI Codex Computer Use on macOS 13 by building a clean-room MCP backend that adapts to the bundled sky interface, enabling screen interaction and app control without modifying system libraries.

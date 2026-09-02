@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T09:44:19Z"
 ---
 ## What it is
 A multi-tenant control plane for MCP that aggregates upstream MCP servers behind a single authenticated URL, with deny-by-default policy enforcement and a replayable audit trail.

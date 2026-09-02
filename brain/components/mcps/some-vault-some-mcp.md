@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T21:24:42Z"
 ---
 ## What it is
 MCP server that gives AI models read/write access to Obsidian vaults with semantic search, link graph analysis, canvas manipulation, and incremental indexing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:08:09Z"
 ---
 ## What it is
 An AI apprentice system that allows users to train AI through demonstration, correction, and review, with structured task execution and emphasis on packaging design workflow.

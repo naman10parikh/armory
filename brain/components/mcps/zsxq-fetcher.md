@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-11T08:10:11Z"
 ---
 ## What it is
 Enables AI assistants to read and manipulate ZSXQ (知识星球) content via MCP, allowing listing groups, searching posts, downloading and summarizing content through natural language.

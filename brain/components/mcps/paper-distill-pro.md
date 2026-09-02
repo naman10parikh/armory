@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T02:49:29Z"
 ---
 ## What it is
 基于MCP协议的学术论文智能检索与分析平台，支持12个数据库并行搜索、PDF全文解析、文献管理双向同步及多平台自动推送。

@@ -8,10 +8,12 @@ source_url: https://github.com/happy-shine/ibkr_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-15T02:48:30Z"
 ---
 ## What it is
 MCP server `Interactive Brokers`, catalogued on PulseMCP. Integrates with Interactive Brokers TWS API to provide real-time market data, account management, order execution, and options analysis with configurable safety controls for algorithmic trading and portfolio management.

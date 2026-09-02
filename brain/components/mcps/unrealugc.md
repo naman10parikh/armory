@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T12:46:25Z"
 ---
 ## What it is
 Official MCP server for creating and managing AI UGC video ads. Browse assets, estimate credit costs, generate videos, and retrieve completed outputs through eleven typed tools.

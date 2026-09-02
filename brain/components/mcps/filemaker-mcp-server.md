@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-19T18:35:26Z"
 ---
 ## What it is
 Dynamically exposes FileMaker scripts as MCP tools, providing a web interface and HTTP+SSE endpoint for integration with Claude.

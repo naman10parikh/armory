@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T14:48:17Z"
 ---
 ## What it is
 MCP server for generating, editing, and processing images via multiple providers including Kilo, OpenRouter, OpenAI, and Gemini, with local tools for background removal, resizing, and cropping.

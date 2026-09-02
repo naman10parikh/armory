@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-21T11:15:30Z"
 ---
 ## What it is
 MCP server `MariaDB`, catalogued on PulseMCP. Provides secure read-only access to MariaDB databases with SQL query execution, schema inspection, and connection pooling while blocking all data modification operations.

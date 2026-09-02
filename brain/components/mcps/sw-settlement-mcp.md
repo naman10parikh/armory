@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T04:40:14Z"
 ---
 ## What it is
 Validates social welfare institution settlement documents (Excel) from the Hope-Peum system using 16 parsers and 21 validation rules, enabling automated consistency checks via CLI or MCP integration with AI tools.

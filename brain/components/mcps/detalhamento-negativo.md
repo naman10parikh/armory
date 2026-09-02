@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:33:52Z"
 ---
 ## What it is
 MCP server for consulting negative credit information (protests, lawsuits, restrictions) for individuals and companies. It provides a read-only tool to query CPF/CNPJ pending records via prepaid credits.

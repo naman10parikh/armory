@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T23:20:24Z"
 ---
 ## What it is
 Enables AI agents to create, update, delete, and query posts on any Micropub-compatible blog with IndieAuth authentication.

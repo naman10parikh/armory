@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T04:30:06Z"
 ---
 ## What it is
 Wiri is a headless wireframing MCP server designed for an LLM operator. It stores each screen as a small semantic scene graph, lays elements out without absolute coordinates, and closes the editing loop with deterministic renders and lint findings.

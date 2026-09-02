@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T19:25:40Z"
 ---
 ## What it is
 MCP server for structured Laravel project planning. Scans projects, creates tickets, and exports as JSON.

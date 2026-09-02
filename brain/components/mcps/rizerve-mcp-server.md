@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T13:36:19Z"
 ---
 ## What it is
 MCP server for the Rizerve direct booking platform. Enables managing properties, bookings, availability, iCal sync, analytics, and webhooks through AI assistants.

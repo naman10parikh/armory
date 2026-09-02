@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T20:03:37Z"
 ---
 ## What it is
 Extracts and serves 3GPP specification PDFs from disk locally, enabling search and retrieval of spec content without external API calls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T15:58:37Z"
 ---
 ## What it is
 A server for business day arithmetic and SLA calculations, supporting holidays for ~150 countries, plus cron and recurrence-rule parsing.

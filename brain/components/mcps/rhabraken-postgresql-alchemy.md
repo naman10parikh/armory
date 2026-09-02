@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-12T06:09:01Z"
 ---
 ## What it is
 MCP server `PostgreSQL Alchemy`, catalogued on PulseMCP. Connects AI models to PostgreSQL databases using Python and SQLAlchemy, enabling flexible querying and data manipulation across SQL dialects.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T16:52:15Z"
 ---
 ## What it is
 Browser automation MCP server using Pydoll, enabling agents to navigate, observe, and interact with web pages via tools like page navigation, element clicking, and screenshot capture.

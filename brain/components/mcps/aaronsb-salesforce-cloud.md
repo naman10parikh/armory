@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-31T16:31:08Z"
 ---
 ## What it is
 MCP server `Salesforce Cloud`, catalogued on PulseMCP. Salesforce CRM integration providing opportunity intelligence, conversation analysis, business case generation, and CRUD operations.

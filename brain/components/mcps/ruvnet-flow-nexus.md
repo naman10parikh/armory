@@ -8,10 +8,12 @@ source_url: https://github.com/ruvnet/flow-nexus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 91
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2025-09-10T22:44:36Z"
 ---
 ## What it is
 MCP server `Flow Nexus`, catalogued on PulseMCP. Cloud-powered agentic platform with multi-agent swarms, sandboxes, and workflow automation

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-04T07:10:47Z"
 ---
 ## What it is
 A powerful MCP server for querying and processing large Swagger/OpenAPI JSON documents, enabling LLMs to efficiently access API documentation without loading entire files.

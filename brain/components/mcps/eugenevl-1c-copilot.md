@@ -8,10 +8,12 @@ source_url: https://github.com/eugenevl/1c-copilot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T01:45:06Z"
 ---
 ## What it is
 MCP server `1C Copilot`, catalogued on PulseMCP. Connects to the 1C:Enterprise Russian business platform for AI-assisted automation and data access.

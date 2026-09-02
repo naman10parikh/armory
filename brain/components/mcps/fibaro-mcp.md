@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T10:22:44Z"
 ---
 ## What it is
 Enables control of Fibaro Home Center devices, scenes, variables, and system administration through natural language.

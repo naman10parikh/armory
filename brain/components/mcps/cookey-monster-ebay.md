@@ -8,10 +8,12 @@ source_url: https://github.com/cookey-monster/ebaymcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-15T21:11:08Z"
 ---
 ## What it is
 MCP server `eBay`, catalogued on PulseMCP. Fetch auctions from ebay.com.

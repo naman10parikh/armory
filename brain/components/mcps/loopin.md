@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T05:04:16Z"
 ---
 ## What it is
 Bridges a browser extension with an AI agent via MCP, enabling the agent to capture and act on UI elements, styles, and accessibility data from web pages.

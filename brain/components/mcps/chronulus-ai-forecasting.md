@@ -8,10 +8,12 @@ source_url: https://github.com/chronulusai/chronulus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 108
+stars: 112
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-07-19T14:35:19Z"
 ---
 ## What it is
 MCP server `Chronulus AI Forecasting`, catalogued on PulseMCP. Integrates with Chronulus AI's forecasting API to enable time series analysis, prediction generation, and visualization of forecasting data through natural language commands.

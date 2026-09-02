@@ -8,10 +8,12 @@ source_url: https://github.com/macwulf/jira-delivery-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-31T15:26:30Z"
 ---
 ## What it is
 MCP server `Jira Delivery Toolkit`, catalogued on PulseMCP. Jira operations toolkit with reusable policy modules and workflow automation.

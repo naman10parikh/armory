@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-21T06:09:43Z"
 ---
 ## What it is
 MCP server `AdoMCP`, catalogued on PulseMCP. Connects AI assistants to SQL Server, MySQL, PostgreSQL, SQLite, and Oracle databases via ADO.NET.

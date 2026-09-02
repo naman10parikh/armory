@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T02:38:26Z"
 ---
 ## What it is
 Connects MCP-compatible coding agents to a hosted Test Maze instance for verifying test scenarios via a stdio-to-HTTP proxy.

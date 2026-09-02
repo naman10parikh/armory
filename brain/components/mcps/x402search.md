@@ -8,10 +8,12 @@ source_url: https://github.com/x402-index/x402search-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T07:38:23Z"
 ---
 ## What it is
 MCP server `x402search`, catalogued on PulseMCP. Search and discover x402-enabled HTTP APIs by capability, network, and price with USDC micropayments on Base.

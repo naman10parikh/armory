@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T23:43:37Z"
 ---
 ## What it is
 An MCP server that brings Parallel web search and URL extraction to Codex and other Model Context Protocol clients.

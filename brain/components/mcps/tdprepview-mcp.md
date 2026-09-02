@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-04T15:12:04Z"
 ---
 ## What it is
 Enables machine learning data preprocessing pipeline creation and model training, deployment, and prediction for Teradata databases.

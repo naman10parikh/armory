@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:15:06Z"
 ---
 ## What it is
 MCP server for The Realms of Omnarai, exposing the Omnarai Memory Engine as tools for querying a multi-intelligence research corpus on synthetic consciousness, holdform, and cognitive architecture.

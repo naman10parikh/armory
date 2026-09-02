@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:43:24Z"
 ---
 ## What it is
 A simplified installation fork of the Blender MCP server, enabling control of Blender through natural language via MCP. Provides an automated setup script and easy add-on configuration.

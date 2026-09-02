@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:02:23Z"
 ---
 ## What it is
 An instrumented MCP server for debugging lost tool calls in Claude Desktop, using ping, echo, sized_echo, and slow_echo tools to record and analyze the full protocol flow.

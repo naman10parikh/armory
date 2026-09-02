@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T23:28:15Z"
 ---
 ## What it is
 Config-driven MCP server for cross-domain full-text search across agent session logs, meeting transcripts, and notification files.

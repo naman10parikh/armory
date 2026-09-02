@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T08:36:17Z"
 ---
 ## What it is
 Provides MCP tools for fetching timestamped YouTube transcripts and top comments, scanning spreadsheets for video links, and a local web UI for grounded video summaries.

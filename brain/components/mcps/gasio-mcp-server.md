@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T05:11:56Z"
 ---
 ## What it is
 가시오 툴즈의 14종 이미지/미디어 처리 기능을 로컬 오프라인에서 AI 에이전트가 사용할 수 있게 해주는 MCP 서버입니다. 배경 제거, 화질 개선, OCR, QR 코드 생성, CSS 생성 등을 지원합니다.

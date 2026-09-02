@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T13:00:48Z"
 ---
 ## What it is
 Enables LLM clients to interact with ThreatConnect v3 for case management and threat intelligence, providing typed tools for creating/updating cases, indicators, and artifacts while handling HMAC authentication and API quirks.

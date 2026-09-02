@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T20:01:05Z"
 ---
 ## What it is
 Enables Claude AI to interact with LinkedIn through browser automation, including profile reading, people and job search, company research, post publishing, and profile editing.

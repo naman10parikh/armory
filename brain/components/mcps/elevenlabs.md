@@ -8,11 +8,13 @@ source_url: https://github.com/elevenlabs/elevenlabs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1378
+stars: 1534
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 10
+forks: 251
+pushed_at: "2026-08-20T17:12:11Z"
 ---
 ## What it is
 MCP server `ElevenLabs`, catalogued on PulseMCP. Integrates with ElevenLabs to provide high-quality text-to-speech, voice cloning, and conversational capabilities with customizable voice profiles and audio processing features.

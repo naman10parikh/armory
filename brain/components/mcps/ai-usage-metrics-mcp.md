@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T06:49:11Z"
 ---
 ## What it is
 A MCP server for tracking AI usage metrics and structured logs across applications. Monitor model calls, analyze usage patterns, track costs, and debug AI interactions.

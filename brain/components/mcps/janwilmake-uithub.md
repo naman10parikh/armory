@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-05T03:58:59Z"
 ---
 ## What it is
 MCP server `UIThub`, catalogued on PulseMCP. Enables Claude to fetch and analyze GitHub repositories with flexible filtering options for code exploration and development assistance tasks.

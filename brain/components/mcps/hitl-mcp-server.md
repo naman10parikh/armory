@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-07T15:19:40Z"
 ---
 ## What it is
 Bridges Claude Desktop with a HITL escalation service, enabling creation, approval, modification, and management of human-in-the-loop requests directly from the chat interface.

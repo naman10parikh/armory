@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T16:39:54Z"
 ---
 ## What it is
 MCP server `UniSender`, catalogued on PulseMCP. Integrates with UniSender for mailing lists, email campaigns, and contacts.

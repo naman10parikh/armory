@@ -8,11 +8,13 @@ source_url: https://github.com/mkellerman/bmad-mcp-server
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 67
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-06-23T21:25:34Z"
 ---
 ## What it is
 Enables AI assistants to leverage the BMAD methodology with 11 specialized agents and 36+ workflows for software development tasks.

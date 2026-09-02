@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T16:13:59Z"
 ---
 ## What it is
 An MCP server enabling AI agents to access the internet via web scraping, crawling, searching, and structured data extraction using Firecrawl.

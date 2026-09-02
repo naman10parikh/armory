@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-23T09:33:58Z"
 ---
 ## What it is
 MCP server `SVG Converter`, catalogued on PulseMCP. Converts SVG files to PNG and JPG formats with customizable parameters like scale factor, quality, and background color using TypeScript and the Sharp library for high-quality image processing.

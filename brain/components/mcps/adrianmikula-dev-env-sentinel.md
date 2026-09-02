@@ -8,10 +8,12 @@ source_url: https://github.com/adrianmikula/devenvmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-06T04:38:08Z"
 ---
 ## What it is
 MCP server `Dev Environment Sentinel`, catalogued on PulseMCP. Monitors development environment health across Java, JavaScript, Python, C#, and Docker ecosystems by comparing source timestamps against build artifacts, checking dependency states, and providing automated reconciliation suggestions.

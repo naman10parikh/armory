@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T17:06:14Z"
 ---
 ## What it is
 Exposes SimpleFIN bank data (accounts and transactions) as tools for Claude Code, enabling users to connect to bank accounts, list balances, and fetch transactions.

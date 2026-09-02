@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T05:23:10Z"
 ---
 ## What it is
 Allow AI agents to see and control a real Windows PC you own: observe (UIA + screenshots), click/type/drag/scroll, launch apps, owner Live View. BYOH — your machine, your key.

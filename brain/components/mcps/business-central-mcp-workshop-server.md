@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-23T17:00:47Z"
 ---
 ## What it is
 MCP server that integrates with Microsoft Dynamics 365 Business Central, enabling querying of customers, items, and sales orders through natural language commands in Claude Desktop.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T18:45:34Z"
 ---
 ## What it is
 A production-ready RAG pipeline exposed as an MCP server, enabling querying of VA education manuals with ranked chunks and citations, and integrated with Claude Desktop for retrieval-augmented generation.

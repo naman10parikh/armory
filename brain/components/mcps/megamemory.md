@@ -8,11 +8,13 @@ source_url: https://github.com/0xK3vin/MegaMemory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 450
+stars: 513
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 47
+pushed_at: "2026-05-03T00:22:07Z"
 ---
 ## What it is
 An MCP server that lets coding agents build and query a persistent knowledge graph of concepts, architecture, and decisions, enabling them to remember across sessions.

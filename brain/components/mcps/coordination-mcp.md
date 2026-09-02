@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T17:19:29Z"
 ---
 ## What it is
 Enables multiple AI agents to share, incrementally synchronize, and restore work context within a common scope using persistent tickets, immutable updates, and text artifacts.

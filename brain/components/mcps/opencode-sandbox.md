@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:47:27Z"
 ---
 ## What it is
 Spins up isolated opencode instances in Docker containers as MCP servers, providing 80 tools for file and shell operations within a scoped workspace without exposing the host filesystem.

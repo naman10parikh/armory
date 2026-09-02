@@ -8,10 +8,12 @@ source_url: https://github.com/mater1996/sketch-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-09-09T03:47:38Z"
 ---
 ## What it is
 MCP server `Sketch`, catalogued on PulseMCP. Processes Sketch design files by extracting internal structure, analyzing design elements, and rendering visual components as SVG images for design-to-code workflows and automated design analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T20:51:32Z"
 ---
 ## What it is
 MCP server and CLI for IBM HMC REST API, enabling AI agents to inventory Power systems, manage LPARs/VIOS, and submit jobs like power on/off, with tools for adapters, storage, networking, and more.

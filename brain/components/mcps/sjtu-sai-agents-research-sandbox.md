@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-09-04T02:39:28Z"
 ---
 ## What it is
 MCP server `Multi-Agent Research Sandbox`, catalogued on PulseMCP. Multi-layered sandbox that combines Google search, web content parsing, and ArXiv paper processing with configurable LLM backends for comprehensive web research and academic document analysis.

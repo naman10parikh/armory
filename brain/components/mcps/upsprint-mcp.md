@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T02:38:22Z"
 ---
 ## What it is
 Enables AI models to interact with the Upsprints API for managing users, companies, projects, and tasks, including generating Software Design Documents (SDDs) from tasks via read/write tools and webhooks.

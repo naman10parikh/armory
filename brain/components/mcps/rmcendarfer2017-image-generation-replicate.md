@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-08T16:13:36Z"
 ---
 ## What it is
 MCP server `Image Generation (Replicate)`, catalogued on PulseMCP. Integrates with Replicate's API to generate images using Stable Diffusion XL, providing endpoints for creating and checking image generation predictions with authentication and CORS support.

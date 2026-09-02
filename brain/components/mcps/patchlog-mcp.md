@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T17:46:55Z"
 ---
 ## What it is
 MCP server for Patchlog that lets AI agents write, update, and publish changelog entries directly to your public Patchlog changelog. Supports listing projects and entries, creating drafts, publishing, and scheduling entries.

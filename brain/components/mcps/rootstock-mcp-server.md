@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-08T08:57:32Z"
 ---
 ## What it is
 Enables Claude AI to interact with the Rootstock blockchain, including calling contracts, checking ERC20 token balances, transferring tokens, and querying gas prices.

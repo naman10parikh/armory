@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T20:00:48Z"
 ---
 ## What it is
 Quorum is an MCP server for querying meeting archives in natural language, returning answers with citations to speakers and timestamps or explicitly abstaining when evidence is insufficient.

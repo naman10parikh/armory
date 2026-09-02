@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:14:38Z"
 ---
 ## What it is
 A multi-user grocery MCP server and dashboard for UAE stores such as Carrefour, Grandiose, Waitrose, and Spinneys, enabling secure OAuth-based sign-in via Grok while keeping each user's supermarket logins and data private.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-08T14:14:59Z"
 ---
 ## What it is
 MCP server `SimpleLocalize`, catalogued on PulseMCP. Integrates with SimpleLocalize translation management platform to enable bulk creation and updating of translation keys and content across multiple languages through natural language interaction

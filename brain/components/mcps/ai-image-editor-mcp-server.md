@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:21:55Z"
 ---
 ## What it is
 Enables access to AI Image Editor's image generation styles, pricing, FAQ, and official links via natural language.

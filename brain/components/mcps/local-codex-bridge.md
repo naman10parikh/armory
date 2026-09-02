@@ -8,11 +8,13 @@ source_url: https://github.com/zoeynine/Local-Codex-Bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-25T03:19:50Z"
 ---
 ## What it is
 Enables ChatGPT or other MCP clients to control native Codex sessions on Windows, providing tools for thread management, turns, observation, steering, and responding to approvals.

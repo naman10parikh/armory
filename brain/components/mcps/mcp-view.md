@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T14:10:02Z"
 ---
 ## What it is
 An MCP server that builds a local webpage to view AI plans, reports, and diagrams, so the AI only needs to send a URL pointer instead of long text. It provides three tools (view_plan, view_report, view_diagram) and tracks project changes for diff viewing.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T07:20:55Z"
 ---
 ## What it is
 MCP server `Boyce`, catalogued on PulseMCP. Deterministic NL-to-SQL compiler for AI agents that eliminates guessing and index errors.

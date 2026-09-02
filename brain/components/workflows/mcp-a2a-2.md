@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, frameworks]
+forks: 9
+pushed_at: "2025-04-13T07:21:26Z"
 ---
 ## What it is
 MCP and A2A integration framework

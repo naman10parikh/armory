@@ -8,10 +8,12 @@ source_url: https://github.com/adamsalah13/mcp_server_full
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-10T18:51:25Z"
 ---
 ## What it is
 MCP server `Agentic Multi-AI Toolkit`, catalogued on PulseMCP. Organizes AI functionality into specialized agents (OpenAI, Ollama, and File agents) through a centralized tool registry, enabling hybrid workflows that combine cloud and local AI capabilities with file operations.

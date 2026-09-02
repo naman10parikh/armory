@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T05:24:47Z"
 ---
 ## What it is
 Enables querying and managing Apache APISIX gateway configurations (routes, services, upstreams, consumers, plugins) through natural language, with read-only mode and write operations requiring confirmation.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:04:22Z"
 ---
 ## What it is
 MCP server `EPA Emissions`, catalogued on PulseMCP. EPA emissions data from the EPA Envirofacts REST API via the Pipeworx gateway, free with no authentication.

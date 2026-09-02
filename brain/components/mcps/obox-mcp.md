@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-13T04:17:44Z"
 ---
 ## What it is
 Obox MCP is a development toolkit that enables AI agents to autonomously execute system commands, manage files, and navigate projects within the IDE.

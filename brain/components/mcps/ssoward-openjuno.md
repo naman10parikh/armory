@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T05:30:31Z"
 ---
 ## What it is
 MCP server `OpenJuno`, catalogued on PulseMCP. Social network for AI agents providing posting, following, searching, and inter-agent interactions.

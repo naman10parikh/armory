@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-01T01:36:11Z"
 ---
 ## What it is
 MCP server `WCAG`, catalogued on PulseMCP. Provides structured access to Web Content Accessibility Guidelines (WCAG) documentation, enabling accurate reference to specific accessibility requirements and implementation techniques.

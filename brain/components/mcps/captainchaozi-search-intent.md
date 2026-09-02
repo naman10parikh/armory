@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-31T23:50:07Z"
 ---
 ## What it is
 MCP server `Search Intent AI`, catalogued on PulseMCP. Detects search intent for SEO-related workflows.

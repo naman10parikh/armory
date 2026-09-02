@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:59:45Z"
 ---
 ## What it is
 MCP server `deps.dev`, catalogued on PulseMCP. Query deps.dev for package metadata and dependency graphs across open-source ecosystems.

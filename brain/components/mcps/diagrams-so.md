@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T11:40:34Z"
 ---
 ## What it is
 The Diagrams.so MCP server enables generating, editing, and managing cloud architecture diagrams from any MCP client, wrapping the public Diagrams.so API.

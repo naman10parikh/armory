@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:02:53Z"
 ---
 ## What it is
 Enables AI assistants to browse and interact with websites via WebUplink, providing browser automation tools like browse and close_session.

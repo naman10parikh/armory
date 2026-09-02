@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-01T23:27:13Z"
 ---
 ## What it is
 MCP server `PuchAI Resume Portfolio`, catalogued on PulseMCP. Serves personal resume data in multiple formats and fetches web content with automatic format conversion, validation tools, and content simplification for portfolio access and web research tasks.

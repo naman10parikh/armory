@@ -8,10 +8,12 @@ source_url: https://github.com/hellokaton/unsplash-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 219
+stars: 235
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2026-04-23T04:29:36Z"
 ---
 ## What it is
 MCP server `Unsplash`, catalogued on PulseMCP. Integrates with Unsplash to enable keyword-based photo searches with filtering options for color, orientation, and sorting, returning structured image data including URLs, dimensions, and descriptions.

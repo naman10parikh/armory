@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T11:47:26Z"
 ---
 ## What it is
 Turn any public MEGA folder into a knowledge source for Claude & other LLMs

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-03T11:45:51Z"
 ---
 ## What it is
 MCP server `Medium Accelerator`, catalogued on PulseMCP. Accelerates Medium article research by extracting article links from archive pages, scraping full content for summarization, and maintaining a persistent local database of article summaries with metadata for efficient content discovery and organization.

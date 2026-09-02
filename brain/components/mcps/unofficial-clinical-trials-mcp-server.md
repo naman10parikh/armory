@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-12-21T10:02:41Z"
 ---
 ## What it is
 Provides access to the ClinicalTrials.gov API, enabling search, analysis, and retrieval of clinical trial data through MCP tools.

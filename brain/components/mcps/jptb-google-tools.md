@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T08:22:45Z"
 ---
 ## What it is
 Enables AI agents to access and manage Google Analytics and Google Tag Manager using the user's own Google account via the JP Agent Tracking Bridge, supporting GTM read/write/publish and GA4 read-only operations with session-bound security.

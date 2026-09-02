@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-07T08:00:56Z"
 ---
 ## What it is
 Enables AI to capture screenshots and control mouse and keyboard for automated desktop interaction.

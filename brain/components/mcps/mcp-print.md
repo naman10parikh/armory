@@ -8,11 +8,13 @@ source_url: https://github.com/kcgdz/mcp-print
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-25T17:56:50Z"
 ---
 ## What it is
 Provides comprehensive print production and color management tools (Pantone lookup, CMYK/RGB conversion, ink estimation, preflight checks, etc.) that work 100% offline without API keys.

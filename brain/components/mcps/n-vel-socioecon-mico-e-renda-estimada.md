@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:39:26Z"
 ---
 ## What it is
 Enables AI agents to estimate a Brazilian individual's socioeconomic level and income from their CPF, based on income, occupation, and education. Provides a single read-only tool for querying this data via MCP over HTTP.

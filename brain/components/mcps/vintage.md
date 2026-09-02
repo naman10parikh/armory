@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:02:03Z"
 ---
 ## What it is
 Provides point-in-time financial data access and an honest backtesting engine via MCP, enabling users to research restated fundamentals, run backtests with deflated Sharpe metrics, and benchmark returns against published factors.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T16:14:29Z"
 ---
 ## What it is
 An MCP server for searching UK tech jobs from the winterchill catalog, enabling job search, company lookup, and CV matching/tailoring via LLM agents.

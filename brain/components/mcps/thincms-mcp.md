@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T02:39:21Z"
 ---
 ## What it is
 MCP server for ThinCMS that gives AI agents typed tool access to manage content, forms, templates, navigation, scripts, and more via 45 tools.

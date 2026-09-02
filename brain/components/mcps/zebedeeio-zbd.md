@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-24T01:54:39Z"
 ---
 ## What it is
 MCP server `ZBD (Bitcoin Lightning Network)`, catalogued on PulseMCP. Integrates with the ZBD API to enable Bitcoin Lightning Network payments, allowing instant cryptocurrency transactions to email addresses, Lightning addresses, and ZBD Gamertags directly within conversations.

@@ -8,10 +8,12 @@ source_url: https://github.com/automatelab-tech/ai-seo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-08T11:00:47Z"
 ---
 ## What it is
 MCP server `AI SEO`, catalogued on PulseMCP. Audit, score, and rewrite web pages for AI citation eligibility: schema, robots.txt, llms.txt, and AEO/GEO rewrites.

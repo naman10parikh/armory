@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T09:26:23Z"
 ---
 ## What it is
 MCP server for Mailtarget that exposes tools to discover and call management API endpoints and send transactional emails via the Transmission API.

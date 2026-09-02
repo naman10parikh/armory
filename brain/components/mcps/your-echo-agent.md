@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T20:50:45Z"
 ---
 ## What it is
 Hire autonomous PR outreach agents from any MCP-compatible LLM. All-in-one AI outreach: find verified leads, draft hyper-personalized emails, discover conferences/webinars/communities in your niche, and triage replies — all from any MCP client.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-06T11:12:19Z"
 ---
 ## What it is
 MCP server `WordPress`, catalogued on PulseMCP. Manages WordPress sites through a companion PHP plugin, supporting content creation, Elementor page building, themes, plugins, media, and direct database operations.

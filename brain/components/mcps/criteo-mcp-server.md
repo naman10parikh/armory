@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T20:10:53Z"
 ---
 ## What it is
 MCP server that enables AI agents (Claude Code) to manage Criteo campaigns, ad sets, creatives, audiences, and reports via natural language.

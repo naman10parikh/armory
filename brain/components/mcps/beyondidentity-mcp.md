@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T20:47:27Z"
 ---
 ## What it is
 Enables AI agents to directly manage Beyond Identity resources such as identities, groups, applications, SSO configurations, and credentials via natural language tool calls.

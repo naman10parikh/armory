@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T10:16:51Z"
 ---
 ## What it is
 A Korean-centric MCP server that detects promise and schedule conflicts before sending messages, enabling users to review message drafts against stored commitments and conversation context.

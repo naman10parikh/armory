@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T20:39:19Z"
 ---
 ## What it is
 MCP server `Playwright Network Chaos`, catalogued on PulseMCP. Gives AI agents dynamic network chaos control over Playwright browser sessions.

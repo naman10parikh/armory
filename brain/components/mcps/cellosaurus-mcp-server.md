@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-27T17:45:42Z"
 ---
 ## What it is
 Enables searching and retrieving detailed information about cell lines from the Cellosaurus knowledge resource, including disease associations, tissue origins, and genetic profiles.

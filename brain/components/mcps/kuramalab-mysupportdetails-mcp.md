@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T19:58:37Z"
 ---
 ## What it is
 An MCP server for QA and test automation that provides runtime switching between multiple browser profiles (Chromium, Firefox, WebKit) without restart, enabling cross-browser regression testing, multi-account testing, localization QA, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T20:50:40Z"
 ---
 ## What it is
 MCP server for the Moroccan Open Data portal (data.gov.ma) enabling search and retrieval of datasets, resources, organizations, and groups via CKAN API.

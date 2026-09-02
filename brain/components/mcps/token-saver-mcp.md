@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T13:42:48Z"
 ---
 ## What it is
 Automatically reduces token usage in Claude Code sessions using algorithmic optimizations like code compression, smart file reading, output summarization, and prompt rewriting, with no extra API calls or cost.

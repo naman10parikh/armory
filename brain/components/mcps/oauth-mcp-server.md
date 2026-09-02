@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-11T18:12:52Z"
 ---
 ## What it is
 An MCP server for OAuth 2.0 authentication supporting Device Code and Client Credentials flows, enabling secure token management for MCP applications.

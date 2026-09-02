@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-03T17:33:58Z"
 ---
 ## What it is
 Enables AI assistants to interact with Fleet Device Management for device management, security monitoring, and compliance enforcement through the Model Context Protocol.

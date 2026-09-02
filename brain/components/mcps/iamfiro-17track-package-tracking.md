@@ -8,10 +8,12 @@ source_url: https://github.com/iamfiro/parcel-tracking-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-11T05:00:00Z"
 ---
 ## What it is
 MCP server `17TRACK Package Tracking`, catalogued on PulseMCP. Integrates with 17TRACK API to provide global package tracking across multiple carriers with fuzzy search for carrier identification and delivery status monitoring for e-commerce and customer service workflows.

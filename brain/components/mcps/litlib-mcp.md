@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:47:16Z"
 ---
 ## What it is
 Read-only MCP server for managing academic literature acquisition workflows at Jilin University, providing precise access to Zotero metadata, PDF paths, paginated full text, and task status while enforcing legal OA and institutional access boundaries.

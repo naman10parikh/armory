@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-30T08:26:38Z"
 ---
 ## What it is
 MCP server `FinishKit`, catalogued on PulseMCP. Scan GitHub repositories for security vulnerabilities, deployment blockers, and code quality issues.

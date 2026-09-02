@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T03:33:35Z"
 ---
 ## What it is
 Enables AI agents to query runtime debugging facts (stack traces, logs, function arguments) captured by Syncause, allowing them to fix root causes with evidence instead of guessing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-01-17T18:11:55Z"
 ---
 ## What it is
 Bidirectional chat bridge between Factorio and Claude Code via MCP protocol, enabling players to send /companion commands and receive AI responses.

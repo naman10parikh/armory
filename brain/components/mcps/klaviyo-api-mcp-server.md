@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-22T17:40:14Z"
 ---
 ## What it is
 Provides comprehensive tools and resources for managing Klaviyo marketing automation, including profiles, lists, campaigns, flows, and more through natural language.

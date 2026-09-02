@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T04:22:08Z"
 ---
 ## What it is
 Connects AI assistants like Claude to PHP's XDebug debugger for runtime inspection, breakpoint control, and variable tracking, enabling natural language debugging of PHP applications.

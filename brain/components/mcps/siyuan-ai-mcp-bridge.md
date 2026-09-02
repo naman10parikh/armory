@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T12:59:54Z"
 ---
 ## What it is
 Provides a local MCP stdio server that enables AI clients to read, search, create, update, and delete notes in SiYuan through its Kernel HTTP API, with configurable notebook and tool permissions.

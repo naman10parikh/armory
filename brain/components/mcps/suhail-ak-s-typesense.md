@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-10-14T08:24:48Z"
 ---
 ## What it is
 MCP server `Typesense`, catalogued on PulseMCP. Integrates with Typesense search engine instances to enable efficient searching and listing of collections as resources, supporting both local and remote connections.

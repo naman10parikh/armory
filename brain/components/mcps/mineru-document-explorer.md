@@ -8,11 +8,13 @@ source_url: https://github.com/opendatalab/MinerU-Document-Explorer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 623
+stars: 628
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 72
+pushed_at: "2026-04-26T07:10:38Z"
 ---
 ## What it is
 Enables AI agents to search, deep-read, and build knowledge bases from Markdown, PDF, DOCX, and PPTX documents via MCP tools for retrieval, document navigation, and ingestion.

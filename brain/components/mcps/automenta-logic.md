@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-15T15:00:27Z"
 ---
 ## What it is
 MCP server `Logic`, catalogued on PulseMCP. First-order logic reasoning with theorem proving, model finding, and syntax validation using Tau-Prolog.

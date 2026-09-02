@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T12:23:45Z"
 ---
 ## What it is
 MCP server `IBM Cloud CLI`, catalogued on PulseMCP. Manage IBM Cloud resources through CLI commands via AI assistants.

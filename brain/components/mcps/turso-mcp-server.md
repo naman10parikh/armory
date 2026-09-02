@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-12T11:16:17Z"
 ---
 ## What it is
 Enables SQL queries, table listing, schema description, and data retrieval with pagination on Turso (libSQL) databases.

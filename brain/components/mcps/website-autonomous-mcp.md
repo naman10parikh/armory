@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T09:27:01Z"
 ---
 ## What it is
 A production-minded MCP server that enables autonomous website design and management, with resources, safe Git operations, validation, Playwright inspection, Vercel previews, and JSONL audit logging. It also provides specialized audit agents for design, SEO, performance, accessibility, conversion, d

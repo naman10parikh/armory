@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 1
+forks: 0
+pushed_at: "2026-05-19T11:29:15Z"
 ---
 ## What it is
 Decision intelligence MCP server with signal aggregation, RICE scoring, and decision audit trails. Captures product feedback from Slack, Teams, Discord, and GitHub.

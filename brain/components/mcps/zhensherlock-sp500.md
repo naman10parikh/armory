@@ -8,10 +8,12 @@ source_url: https://github.com/zhensherlock/sp500-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 101
+stars: 106
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-11T11:48:40Z"
 ---
 ## What it is
 MCP server `S&P 500 Data`, catalogued on PulseMCP. Provides AI assistants with S&P 500 company data including fuzzy search by symbol, name, or sector with detailed company information retrieval.

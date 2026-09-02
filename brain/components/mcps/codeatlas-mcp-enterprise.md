@@ -8,11 +8,13 @@ source_url: https://github.com/giauphan/codeatlas-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T15:03:55Z"
 ---
 ## What it is
 Ultra-lightweight, local-first MCP server for AI-powered code intelligence, providing AST-based analysis and 20+ tools while ensuring zero data leakage.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T09:46:43Z"
 ---
 ## What it is
 MCP server for querying the Polish VAT taxpayer white list via the official Ministry of Finance API. Enables search by NIP, REGON, or bank account, and verification of NIP-bank account pairs, with built-in daily limit protection.

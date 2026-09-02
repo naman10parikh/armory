@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:29:48Z"
 ---
 ## What it is
 Provides AI coding assistants with on-demand access to component specs, test scenarios, accessibility requirements, and build guides from the Web UI Component Specification.

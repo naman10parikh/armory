@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:09:28Z"
 ---
 ## What it is
 MCP server that lets AI agents drive the LuckyStar/LS_KTool Android memory-debugging stack, exposing tools for memory read/write, scanning, pointer operations, and device/process management via the Model Context Protocol.

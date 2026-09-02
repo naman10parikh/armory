@@ -8,11 +8,13 @@ source_url: https://github.com/bpzx/tavily-firecrawl-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T10:36:27Z"
 ---
 ## What it is
 A Model Context Protocol server for web scraping and searching, with automatic fallback from Tavily to Firecrawl for fetching web content.

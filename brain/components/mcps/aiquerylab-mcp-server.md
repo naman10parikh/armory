@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T05:10:15Z"
 ---
 ## What it is
 Enables AI to execute SQL queries against MySQL and ClickHouse connections, retrieve and manage results, and inject them into the aiQueryLab VSCode IDE.

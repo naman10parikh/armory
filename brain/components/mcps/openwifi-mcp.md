@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T22:37:26Z"
 ---
 ## What it is
 Turns Claude Code into an interactive OpenWiFi triage assistant, providing tools for searching Linux wireless patches, Jira tickets, running LLM-based triage, backporting, and building OpenWiFi.

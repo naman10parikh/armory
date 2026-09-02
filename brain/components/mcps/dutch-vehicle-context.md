@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T10:45:15Z"
 ---
 ## What it is
 Provides comprehensive Dutch vehicle information from license plate numbers, including APK inspection history, recalls, odometer checks, and other signals, via a single MCP tool.

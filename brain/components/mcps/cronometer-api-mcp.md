@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T20:02:46Z"
 ---
 ## What it is
 MCP server for Cronometer nutrition tracking using the mobile API. Enables food logging, nutrition data retrieval, diary management, and fasting tracking.

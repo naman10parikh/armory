@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-26T10:44:38Z"
 ---
 ## What it is
 MCP server `DraCor (Drama Corpora Project)`, catalogued on PulseMCP. Integrates with the Drama Corpora Project API to enable analysis of dramatic texts, character networks, and literary themes across different languages and historical periods.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-16T11:58:19Z"
 ---
 ## What it is
 Downloads videos from 1000+ social media platforms and stores them in S3-compatible cloud storage, returning public URLs for videos, audio, transcripts, and thumbnails.

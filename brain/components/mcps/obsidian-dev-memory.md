@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:07:27Z"
 ---
 ## What it is
 Provides AI coding assistants persistent engineering memory stored as Markdown files in an Obsidian vault, enabling project context retrieval, session capture, decision recording, and memory search without requiring Obsidian to be running.

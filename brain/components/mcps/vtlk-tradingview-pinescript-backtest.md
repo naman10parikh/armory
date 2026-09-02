@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-04T13:24:18Z"
 ---
 ## What it is
 MCP server `TradingView PineScript Backtest Engine`, catalogued on PulseMCP. Runs TradingView PineScript strategy backtests and returns performance metrics.

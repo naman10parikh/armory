@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-22T17:09:05Z"
 ---
 ## What it is
 Provides a complete agency operating system with 20+ roles (strategy, creative, marketing, etc.) accessible via MCP and includes a Pixel Office visualizer for interactive simulation.

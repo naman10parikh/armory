@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T12:17:18Z"
 ---
 ## What it is
 Gives coding agents the exact installed version of each dependency in a project from node_modules and lockfile, preventing deprecated API usage by grounding them in reality.

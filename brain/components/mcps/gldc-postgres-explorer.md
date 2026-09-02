@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-02-18T22:00:03Z"
 ---
 ## What it is
 MCP server `PostgreSQL Explorer`, catalogued on PulseMCP. Enables natural language interaction with PostgreSQL databases through tools for schema exploration, table inspection, relationship discovery, and SQL query execution

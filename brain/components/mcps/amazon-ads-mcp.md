@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T04:52:47Z"
 ---
 ## What it is
 Enables natural language querying of Amazon Advertising data including Sponsored Products, Brands, Display, DSP reports, and AMC SQL workflows, with live data from the Amazon Ads API.

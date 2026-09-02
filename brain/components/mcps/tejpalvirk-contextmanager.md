@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-06T07:11:42Z"
 ---
 ## What it is
 MCP server `ContextManager`, catalogued on PulseMCP. Provides a multi-domain context management system with specialized knowledge graph tools for tracking and analyzing work and learning activities across software development, academic, and professional contexts.

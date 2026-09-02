@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T06:05:04Z"
 ---
 ## What it is
 Enables creating and customizing mobile wedding invitations through natural language, with support for multiple designs, RSVP, maps, gallery, and share tokens.

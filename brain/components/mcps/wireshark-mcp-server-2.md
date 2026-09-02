@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T08:43:10Z"
 ---
 ## What it is
 A comprehensive MCP server that provides AI assistants with professional-grade network analysis capabilities, combining Wireshark packet analysis, nmap scanning, and threat intelligence for enhanced network troubleshooting and security analysis.

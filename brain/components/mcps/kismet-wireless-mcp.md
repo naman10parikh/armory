@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T04:09:18Z"
 ---
 ## What it is
 A read-only MCP server for querying Kismet Wireless systems, enabling AI agents to retrieve network status, datasources, devices, and alerts via REST API.

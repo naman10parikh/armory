@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T16:49:24Z"
 ---
 ## What it is
 MCP server providing weather forecast, warnings, AMeDAS observations, and area search from Japan Meteorological Agency JSON APIs. It normalizes responses and supports Japanese place names.

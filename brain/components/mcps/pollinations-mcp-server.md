@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-18T20:18:04Z"
 ---
 ## What it is
 Enables AI agents to generate images and text using Pollinations.ai, with SSE support for n8n workflows.

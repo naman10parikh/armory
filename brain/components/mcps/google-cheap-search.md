@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T05:53:42Z"
 ---
 ## What it is
 Provides real-time Google search results (organic + knowledge graph) with country targeting, language, time filters, and pagination, at low cost.

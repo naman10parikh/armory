@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T15:26:58Z"
 ---
 ## What it is
 AI context management for codebases – enables Claude Code to read, search, and update project documentation via MCP.

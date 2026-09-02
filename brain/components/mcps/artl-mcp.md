@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-03T20:53:39Z"
 ---
 ## What it is
 Enables comprehensive scientific literature retrieval and analysis through Europe PMC, PubMed, and other databases, supporting metadata extraction, full-text access, and identifier conversion via MCP and CLI.

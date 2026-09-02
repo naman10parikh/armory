@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-23T01:30:10Z"
 ---
 ## What it is
 MCP server `Codebase RAG`, catalogued on PulseMCP. Self-hosted semantic code search over local codebases using ChromaDB and sentence-transformer embeddings with hybrid keyword reranking.

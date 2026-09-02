@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T09:31:40Z"
 ---
 ## What it is
 MCP server for targeted binary analysis with Kuna, enabling listing and decompiling specific functions via natural language.

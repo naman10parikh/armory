@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-21T12:43:20Z"
 ---
 ## What it is
 Enables Korean keyword niche analysis using Naver SearchAd API data for CPC, competition, and search volume, with tools for expansion, scoring, and trend discovery.

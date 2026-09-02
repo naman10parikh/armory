@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T10:30:40Z"
 ---
 ## What it is
 Provides the current date in multiple formats (e.g., European, ISO, US) via a simple MCP tool.

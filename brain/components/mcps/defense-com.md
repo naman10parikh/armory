@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-11T14:18:51Z"
 ---
 ## What it is
 MCP server `Defense.com`, catalogued on PulseMCP. Queries Defense.com's XDR threat intelligence platform for open threats, risk scores, remediation assignments, and detection events with natural language and 200+ source type aliases.

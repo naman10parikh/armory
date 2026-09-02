@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T16:24:35Z"
 ---
 ## What it is
 Enables Claude to browse the web and make GET/POST/PUT requests with a real Chrome TLS/HTTP2 fingerprint to avoid anti-bot detection, supporting persistent cookie sessions and optional proxies.

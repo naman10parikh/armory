@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T17:56:46Z"
 ---
 ## What it is
 Enables detection of AI-generated content in text, images, video, and audio via the ZeroTrue API, supporting multiple analysis tools and MCP-compatible clients.

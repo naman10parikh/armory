@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-25T07:32:39Z"
 ---
 ## What it is
 MCP server `InfraMCP`, catalogued on PulseMCP. Provides isolated AI agent access to MySQL, Redis, and Linux environments with project-based credential isolation and SSH safety controls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T02:52:32Z"
 ---
 ## What it is
 Lets MCP clients search, read, create, append, replace, move, and batch-update local Markdown notes safely, with conflict detection via SHA-256 and optional managed update blocks, without requiring a vector database.

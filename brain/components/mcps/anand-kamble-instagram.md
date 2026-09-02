@@ -8,10 +8,12 @@ source_url: https://github.com/anand-kamble/mcp-instagram
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-24T02:14:53Z"
 ---
 ## What it is
 MCP server `Instagram`, catalogued on PulseMCP. Integrates with Instagram to enable profile viewing, content discovery, timeline browsing, story access, post interactions, commenting, and user following through authentication and engagement tools

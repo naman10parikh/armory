@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:45:29Z"
 ---
 ## What it is
 Enables AI agents to access Bright Data's Web Unlocker and SERP API for scraping and search results, integrated through Pipeworx's MCP gateway.

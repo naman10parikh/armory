@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-17T04:11:47Z"
 ---
 ## What it is
 An MCP server that gives Claude Code text-to-speech capabilities with support for multiple simultaneous instances, message queuing, and a web UI for monitoring.

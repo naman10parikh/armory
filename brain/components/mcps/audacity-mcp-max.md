@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T01:55:37Z"
 ---
 ## What it is
 Connects any MCP-compatible AI assistant to Audacity, providing 132 tools for real-time audio editing, cleanup, mastering, and transcription — all running locally without cloud dependencies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-21T18:08:55Z"
 ---
 ## What it is
 该MCP服务器使AI助手（如Claude Code、Codex）能够通过桥接目录和CEP面板与Adobe Premiere Pro交互，支持素材扫描、编辑规划、粗剪执行等操作，强调先规划后执行和人工复核。

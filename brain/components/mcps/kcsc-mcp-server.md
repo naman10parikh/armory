@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-03T02:02:31Z"
 ---
 ## What it is
 Enables AI clients to search and read Korean Construction Standards (KCS/KDS) documents directly, using the KCSC OpenAPI.

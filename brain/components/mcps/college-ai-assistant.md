@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T16:09:41Z"
 ---
 ## What it is
 Provides MCP tools for searching student profiles, viewing marks/attendance, and finding low-attendance students. Enables AI assistants like Gemini to interact with college student data through natural language.

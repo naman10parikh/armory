@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T12:10:39Z"
 ---
 ## What it is
 MCP server for LaSuite Docs API, enabling operations like list, read, create, update, delete documents, versions, favorites, and current user via OIDC authentication.

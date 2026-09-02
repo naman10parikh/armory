@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 155
+stars: 157
+forks: 23
+pushed_at: "2026-09-01T13:34:24Z"
 ---
 ## What it is
 Zero-config persistent memory for AI agents with local SQLite. Mind Palace web dashboard, time travel (rewind/replay sessions), agent telepathy (cross-client memory sharing), code mode templates, morning briefings, and progressive context loading. 25 tools, 6 resources, 4 prompts.

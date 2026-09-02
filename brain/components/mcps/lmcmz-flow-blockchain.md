@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-20T15:42:58Z"
 ---
 ## What it is
 MCP server `Flow Blockchain`, catalogued on PulseMCP. Integrates with the Flow blockchain to enable direct querying of account balances, domain resolution, and transaction execution through RPC communication for seamless blockchain data access and operations.

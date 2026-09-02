@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T13:33:43Z"
 ---
 ## What it is
 Enables natural language control of AWS resources (EC2, Security Groups, S3, Bedrock, etc.) directly from Claude Desktop or Claude Code.

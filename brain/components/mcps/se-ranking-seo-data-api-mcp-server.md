@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-08T22:29:36Z"
 ---
 ## What it is
 Enables querying the SE Ranking API for SEO data and analytics using natural language.

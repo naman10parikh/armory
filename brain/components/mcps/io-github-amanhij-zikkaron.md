@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-04-01T17:06:01Z"
 ---
 ## What it is
 A persistent memory engine for Claude Code that provides MCP tools for storing, retrieving, and reconstructing project context, with features like hippocampal replay and intelligent forgetting.

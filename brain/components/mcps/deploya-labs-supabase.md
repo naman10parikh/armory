@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-03T06:46:54Z"
 ---
 ## What it is
 MCP server `Supabase`, catalogued on PulseMCP. Integrates with Supabase databases to enable SQL query execution, database management, and user authentication operations with configurable read-only or read-write access modes.

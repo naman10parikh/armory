@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T02:18:08Z"
 ---
 ## What it is
 MCP server for the AssemblyAI API, providing tools for transcription, subtitles, speaker turns, word search, and LeMUR-based queries.

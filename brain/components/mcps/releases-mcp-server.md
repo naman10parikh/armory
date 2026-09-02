@@ -8,11 +8,13 @@ source_url: https://github.com/buildinternet/releases
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:21:57Z"
 ---
 ## What it is
 A registry of product release notes from across the web, normalized, summarized, and queryable via MCP. Enables agents and developers to search and retrieve the latest releases from hundreds of vendors.

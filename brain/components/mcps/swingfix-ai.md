@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T02:09:54Z"
 ---
 ## What it is
 AI-powered golf swing analysis. Submit a swing image URL and receive scored metrics, flaws, and personalised drill recommendations

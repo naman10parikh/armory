@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:34:48Z"
 ---
 ## What it is
 Provides AI agents with tools to retrieve live system statistics (CPU, memory) and safely evaluate basic arithmetic expressions.

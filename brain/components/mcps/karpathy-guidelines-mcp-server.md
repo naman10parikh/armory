@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T07:23:44Z"
 ---
 ## What it is
 Provides code review and guideline loading based on Andrej Karpathy's coding principles, helping LLMs avoid common pitfalls like over-engineering and unnecessary changes.

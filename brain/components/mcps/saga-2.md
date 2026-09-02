@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T05:49:22Z"
 ---
 ## What it is
 Enables AI agents to perform fused hybrid search and reorganize documents, folders, and metadata in the SAGA document archive via MCP tools.

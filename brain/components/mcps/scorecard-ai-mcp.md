@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-14T22:15:08Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Scorecard REST API for exploring endpoints, making test requests, and integrating the SDK into applications.

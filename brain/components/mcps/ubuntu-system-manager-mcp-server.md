@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T12:22:02Z"
 ---
 ## What it is
 Provides a read-only summary of Ubuntu server status including system version, resource usage, apt updates, service health, security logs, and hardware information to AI clients via MCP tools.

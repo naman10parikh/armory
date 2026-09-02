@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2025-10-27T15:54:14Z"
 ---
 ## What it is
 Enables AI agents to intelligently analyze and fill any Word document tables using precise coordinate-based filling and 42 MCP tools.

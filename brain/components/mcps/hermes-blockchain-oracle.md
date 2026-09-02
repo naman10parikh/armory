@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T18:41:42Z"
 ---
 ## What it is
 An MCP server that connects Hermes Agent to the Solana blockchain, enabling natural language queries for wallets, tokens, NFTs, transactions, whale movements, and network health.

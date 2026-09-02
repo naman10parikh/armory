@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T19:31:34Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that gives Claude full access to the Zernio social media management API — 273 tools covering posts, analytics, inbox, ads, contacts, WhatsApp Business, and more across 14+ platforms.

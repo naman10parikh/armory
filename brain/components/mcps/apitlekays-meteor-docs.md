@@ -8,10 +8,12 @@ source_url: https://github.com/apitlekays/meteor-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-24T06:43:34Z"
 ---
 ## What it is
 MCP server `Meteor.js Documentation`, catalogued on PulseMCP. Provides complete Meteor.js API documentation with intelligent search capabilities, detailed method lookups with parameters and examples, and practical code examples for real-time web application development.

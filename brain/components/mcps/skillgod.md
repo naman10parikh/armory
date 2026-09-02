@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T18:43:53Z"
 ---
 ## What it is
 An MCP server that automatically injects relevant skills, project memory, and routes complex tasks to specialist agents into AI coding tools like Claude, eliminating cold starts and prompt engineering.

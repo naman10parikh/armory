@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T19:31:30Z"
 ---
 ## What it is
 MCP server that controls an interactive dashboard demo, providing tools to toggle features, update stats, set messages, and simulate traffic via Cloudflare Workers.

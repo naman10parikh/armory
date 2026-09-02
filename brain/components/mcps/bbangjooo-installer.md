@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-05T15:53:02Z"
 ---
 ## What it is
 MCP server `Installer`, catalogued on PulseMCP. Streamlines MCP server discovery and installation by integrating with the Smithery registry to search available servers, collect configuration requirements, and generate automated installation commands for various development environments.

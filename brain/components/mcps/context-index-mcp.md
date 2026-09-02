@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T06:36:18Z"
 ---
 ## What it is
 A lightweight MCP server that maps keywords to file paths instantly using a JSON index, enabling fast context retrieval for AI agents without embeddings or vector databases.

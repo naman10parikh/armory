@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-02T17:42:16Z"
 ---
 ## What it is
 MCP server `Statistics Canada`, catalogued on PulseMCP. Statistics Canada Web Data Service for Canadian official economic, demographic, and social statistics via Pipeworx.

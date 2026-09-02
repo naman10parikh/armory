@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-06T15:24:41Z"
 ---
 ## What it is
 Enables AI agents to search, read user profiles, timelines, media, follow threads, track trends, and manage accounts on X/Twitter via GraphQL, without browser automation or paid API keys.

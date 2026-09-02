@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-16T21:28:27Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides AI agents with seamless access to the NetSapiens VoIP platform for user management, call analytics, and system administration.

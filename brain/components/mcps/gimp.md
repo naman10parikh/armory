@@ -8,10 +8,12 @@ source_url: https://github.com/maorcc/gimp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 117
+stars: 193
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 31
+pushed_at: "2026-05-29T20:59:16Z"
 ---
 ## What it is
 MCP server `GIMP`, catalogued on PulseMCP. Enables conversational control of GIMP 3.0 through natural language commands, translating requests like 'brighten the background and add a vintage filter' into precise image editing operations via Python-Fu API integration.

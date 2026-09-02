@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T09:25:38Z"
 ---
 ## What it is
 Enables mahjong score calculation from Claude by inputting tile configurations, including dora indicators and game state parameters.

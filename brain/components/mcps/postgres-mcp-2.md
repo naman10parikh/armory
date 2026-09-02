@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T19:43:27Z"
 ---
 ## What it is
 A production-ready MCP server for PostgreSQL — built for Claude Desktop, Claude Code, and any MCP-compatible AI agent.

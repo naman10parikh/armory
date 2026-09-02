@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T07:33:00Z"
 ---
 ## What it is
 Bridges MCP clients to Figma, enabling live canvas manipulation via a plugin WebSocket and file metadata access through the Figma REST API.

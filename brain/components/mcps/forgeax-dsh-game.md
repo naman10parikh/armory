@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:07:43Z"
 ---
 ## What it is
 Integrates ForgeaX game development into DeepSeek Harness by wiring the @forgeax/game MCP server, bundled Skills, and a workspace guard into DSH sessions.

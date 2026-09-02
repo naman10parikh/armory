@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:10:26Z"
 ---
 ## What it is
 MCP server for Dead Subscription Killer — scan wallets, detect crypto subscriptions, manage approvals on Monad blockchain.

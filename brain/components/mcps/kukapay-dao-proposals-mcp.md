@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 2
+forks: 3
+pushed_at: "2025-08-02T10:00:13Z"
 ---
 ## What it is
 An MCP server that aggregates live governance proposals from major DAOs.

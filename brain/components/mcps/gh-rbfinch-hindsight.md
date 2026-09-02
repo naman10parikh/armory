@@ -8,10 +8,12 @@ source_url: https://github.com/rbfinch/hindsight-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-19T07:44:51Z"
 ---
 ## What it is
 MCP server `Hindsight`, catalogued on PulseMCP. Development history analysis for AI-assisted coding: git logs, test results, and Copilot data.

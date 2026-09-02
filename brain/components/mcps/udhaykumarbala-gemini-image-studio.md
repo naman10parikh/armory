@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-04T15:33:58Z"
 ---
 ## What it is
 MCP server `Gemini Image Studio`, catalogued on PulseMCP. Generates and edits images using Google Gemini with structured JSON editing for precise control.

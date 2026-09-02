@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T03:48:01Z"
 ---
 ## What it is
 A connector that surfaces ~50 tools from 10+ integrated business systems (CRM, finance, support) via MCP, enabling an AI assistant to securely query and operate on correlated office data.

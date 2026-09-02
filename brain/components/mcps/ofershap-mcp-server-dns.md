@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 3
+forks: 2
+pushed_at: "2026-03-10T09:22:19Z"
 ---
 ## What it is
 DNS lookups, reverse DNS, WHOIS, and domain availability checks. Zero auth, zero config.

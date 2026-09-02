@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-05T04:31:56Z"
 ---
 ## What it is
 MCP server `Memory PouchDB`, catalogued on PulseMCP. Provides a knowledge graph-based memory system using PouchDB for storing and retrieving entity relationships and observations, enabling persistent conversational context across interactions.

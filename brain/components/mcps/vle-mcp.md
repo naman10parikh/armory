@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T23:32:31Z"
 ---
 ## What it is
 This MCP server enables AI clients to calculate the boiling temperature of water at a given absolute pressure using the IAPWS-IF97 standard, separating natural-language reasoning from authoritative scientific computation.

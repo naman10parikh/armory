@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T16:52:52Z"
 ---
 ## What it is
 Provides semantic code search and index status for codebases using RAG, enabling AI tools to query code knowledge.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, developer-tools]
+forks: 4
+pushed_at: "2025-06-06T16:58:53Z"
 ---
 ## What it is
 Cognisphere ADK is an AI agent development framework built on Google's Agent Development Kit (ADK)

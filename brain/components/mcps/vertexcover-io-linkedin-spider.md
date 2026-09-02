@@ -8,10 +8,12 @@ source_url: https://github.com/vertexcover-io/linkedin-spider
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-05-12T11:03:17Z"
 ---
 ## What it is
 MCP server `LinkedIn Spider`, catalogued on PulseMCP. Extracts LinkedIn profile data, company information, and connection details using advanced anti-detection web scraping techniques for recruitment automation, lead generation, and professional network analysis.

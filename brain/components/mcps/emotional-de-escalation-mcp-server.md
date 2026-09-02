@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T08:35:49Z"
 ---
 ## What it is
 Provides strategic dialogue management and emotional de-escalation for customer support bots, detecting problem patterns and recommending actions like escalation to a human operator.

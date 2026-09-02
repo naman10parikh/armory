@@ -8,10 +8,12 @@ source_url: https://github.com/howardzhangdqs/mcp-wechat-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 91
+stars: 108
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2026-03-22T10:44:16Z"
 ---
 ## What it is
 MCP server `WeChat Bot (by howardzhangdqs)`, catalogued on PulseMCP. Enables AI agents to send and receive WeChat messages through QR code authentication and long-polling message retrieval.

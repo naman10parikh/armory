@@ -8,11 +8,13 @@ source_url: https://github.com/isakskogstad/Riksdag-Regering-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-05-07T15:07:34Z"
 ---
 ## What it is
 Enables LLMs to query and retrieve real-time open data, documents, protocols, and records from the Swedish Parliament (Riksdag) and Government Offices through 32 specialized MCP tools.

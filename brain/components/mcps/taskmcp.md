@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T02:55:19Z"
 ---
 ## What it is
 A personal task management MCP server that allows LLM clients to create, read, update, and delete tasks with projects, labels, and comments, using a local SQLite database that can also be accessed via a web UI.

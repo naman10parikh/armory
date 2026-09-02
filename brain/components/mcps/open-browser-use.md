@@ -8,11 +8,13 @@ source_url: https://github.com/iFurySt/open-browser-use
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 241
+stars: 257
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 27
+pushed_at: "2026-07-17T12:28:50Z"
 ---
 ## What it is
 MCP server for browser automation, exposing tools for tab management, navigation, CDP, action plans, and cleanup.

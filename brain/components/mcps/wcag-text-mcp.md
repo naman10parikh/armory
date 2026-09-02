@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T20:56:31Z"
 ---
 ## What it is
 Validates text accessibility (contrast, spacing, language) against WCAG 2.1 criteria via modular MCP tools.

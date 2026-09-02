@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T14:42:34Z"
 ---
 ## What it is
 Enables SSH interactive session management through MCP, supporting commands, menus, and session lifecycle operations.

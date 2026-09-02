@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/cron-parser-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3230
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:32:53Z"
 ---
 ## What it is
 Cron expression parser API for AI agents. Parse, validate, and explain cron expressions in plain English. Get next N scheduled run times in any timezone. Tools: schedule_parse_cron. Use this for debugging cron schedules, building scheduling UIs, or validating cron syntax. IMPORTANT: For generating c

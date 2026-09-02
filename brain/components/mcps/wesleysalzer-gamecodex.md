@@ -8,10 +8,12 @@ source_url: https://github.com/wesleysalzer/gamecodex
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-22T20:34:33Z"
 ---
 ## What it is
 MCP server `GameCodex`, catalogued on PulseMCP. Provides 950+ curated game development docs across 29 engines to AI coding assistants via stdio.

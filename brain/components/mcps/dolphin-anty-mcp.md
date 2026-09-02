@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T19:59:21Z"
 ---
 ## What it is
 An MCP server for the Dolphin{anty} anti-detect browser that exposes 71 tools for managing profiles, proxies, cookies, and more, plus page-level browser automation and a raw request escape hatch.

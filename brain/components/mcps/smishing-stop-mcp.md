@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T23:23:14Z"
 ---
 ## What it is
 Analyzes suspicious messages to detect smishing, messenger phishing, and voice phishing attempts, providing risk assessment, evidence, and action guides in Korean.

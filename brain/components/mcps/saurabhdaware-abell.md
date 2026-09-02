@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-10T20:08:21Z"
 ---
 ## What it is
 MCP server `Abell Static Site Generator`, catalogued on PulseMCP. Enables AI assistants to interact with Abell static site generator for retrieving syntax documentation and scaffolding complete applications through the create-abell package.

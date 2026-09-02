@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-05T03:43:06Z"
 ---
 ## What it is
 A powerful MCP server that enables AI assistants to discover, commission, and control Matter-compatible smart home devices through a standardized interface.

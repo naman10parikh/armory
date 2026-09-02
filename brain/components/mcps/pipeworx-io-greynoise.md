@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:11:35Z"
 ---
 ## What it is
 MCP server `GreyNoise`, catalogued on PulseMCP. GreyNoise internet scanner classification and threat intelligence data via the Pipeworx gateway.

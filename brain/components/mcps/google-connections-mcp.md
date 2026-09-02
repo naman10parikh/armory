@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T06:50:01Z"
 ---
 ## What it is
 Provides AI assistants with access to Google Workspace APIs including Sheets, Calendar, Gmail, Tasks, Drive, and Docs. Enables full CRUD operations and management of Google services through natural language.

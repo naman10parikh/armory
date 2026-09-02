@@ -8,10 +8,12 @@ source_url: https://github.com/andresthor/cmd-line-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-16T16:47:22Z"
 ---
 ## What it is
 MCP server `Command Line`, catalogued on PulseMCP. Safely run command-line arguments for Unix/macOS systems.

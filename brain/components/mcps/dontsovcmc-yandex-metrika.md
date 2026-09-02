@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T14:01:14Z"
 ---
 ## What it is
 MCP server `Yandex Metrika`, catalogued on PulseMCP. Accesses Yandex Metrika analytics data including visit statistics, counter management, and log exports.

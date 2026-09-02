@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T08:33:21Z"
 ---
 ## What it is
 Enables controlling a Three.js triangle rendered in the browser through MCP tools, allowing color changes and transforms (position, rotation, scale) with live updates via WebSocket.

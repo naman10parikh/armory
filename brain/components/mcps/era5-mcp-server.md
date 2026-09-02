@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-14T21:21:45Z"
 ---
 ## What it is
 Enables natural language access to ERA5 climate data from the Copernicus Climate Data Store. Supports downloading monthly means and inspecting NetCDF files.

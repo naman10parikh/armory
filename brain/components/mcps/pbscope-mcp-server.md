@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T21:39:03Z"
 ---
 ## What it is
 Monitors macOS pasteboard activity, recording clipboard generations and exposing event history, declared UTIs, and flavor fetch/paste-test tools via an MCP server. Enables AI agents to diagnose clipboard-transfer issues across machines by comparing what each side saw.

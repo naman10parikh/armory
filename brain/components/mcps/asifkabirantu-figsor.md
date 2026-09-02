@@ -8,10 +8,12 @@ source_url: https://github.com/asifkabirantu/figsor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-03-11T18:34:47Z"
 ---
 ## What it is
 MCP server `Figsor`, catalogued on PulseMCP. Bridges Cursor to Figma for chat-driven design creation and editing on the canvas via a WebSocket-connected plugin.

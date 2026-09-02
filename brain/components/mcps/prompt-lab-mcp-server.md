@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T22:57:24Z"
 ---
 ## What it is
 Enables prompt optimization loops and regression test suites for Claude Code, with a companion web UI for real-time visualization of scores and prompt revisions.

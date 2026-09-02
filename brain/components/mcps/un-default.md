@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T05:53:35Z"
 ---
 ## What it is
 Enables scanning, fixing, and providing feedback on text for inclusive language, offering clearer alternatives and tunable rules.

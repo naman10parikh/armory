@@ -8,10 +8,12 @@ source_url: https://github.com/web3auth/web3auth-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-04T18:37:08Z"
 ---
 ## What it is
 MCP server `Web3Auth`, catalogued on PulseMCP. Help AI coding agents integrate MetaMask Embedded Wallets (Web3Auth) SDKs.

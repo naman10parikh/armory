@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T07:32:55Z"
 ---
 ## What it is
 Enables reading and sending Naver Works emails (Korean business email service) through Claude Desktop using IMAP/SMTP with app passwords.

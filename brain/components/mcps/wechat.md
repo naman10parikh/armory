@@ -8,10 +8,12 @@ source_url: https://github.com/1052666/wechat-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, social]
+forks: 4
+pushed_at: "2026-01-19T01:38:23Z"
 ---
 
 ## What it is

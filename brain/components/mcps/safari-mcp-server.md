@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T05:55:52Z"
 ---
 ## What it is
 Enables visual web access and browser automation through Safari, with tools for navigation, screenshots, element interaction, and tab management.

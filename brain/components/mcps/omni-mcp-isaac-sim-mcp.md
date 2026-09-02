@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
-stars: 186
+stars: 187
+forks: 60
+pushed_at: "2025-04-25T12:39:05Z"
 ---
 ## What it is
 A MCP Server and an extension enables natural language control of NVIDIA Isaac Sim, Lab, OpenUSD and etc.

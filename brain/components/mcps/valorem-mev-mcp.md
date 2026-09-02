@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T18:14:17Z"
 ---
 ## What it is
 Gives MCP-compatible LLM agents direct access to real-time MEV and DeFi data via Valorem's x402-paid API endpoints, with payments in USDC on Base mainnet.

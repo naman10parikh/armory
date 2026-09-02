@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 2
+forks: 0
+pushed_at: "2026-08-31T18:03:02Z"
 ---
 ## What it is
 Real-time Solana memecoin intelligence — 51 tools across KOL wallet tracking (1,000+ wallets, sub-3s latency), Pump.fun deployer scoring (6,700+ scored), multi-KOL coordination signals, alpha-wallet intel (47k+ scored early buyers), first-touch scout signal (backtested ≥3 follow-on KOLs ~50% of the time vs 14% baseline), copy-trade rules, and the all-DEX trade firehose. Free tier 200 req/day; also supports x402 micropayments. Install: `npx -y smithery mcp add madeonsol/solana-kol-intelligence`.

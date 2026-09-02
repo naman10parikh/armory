@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T03:34:27Z"
 ---
 ## What it is
 Enables natural language querying of Google Analytics 4, including reports, realtime data, custom dimensions, and property management.

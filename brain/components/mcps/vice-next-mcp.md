@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T10:47:29Z"
 ---
 ## What it is
 Enables interaction with VICE emulators for Commodore systems through binary monitor protocol, supporting keyboard matrix injection and IEC observers for targets like C64, VIC-20, etc.

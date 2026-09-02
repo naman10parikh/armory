@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-08T08:58:52Z"
 ---
 ## What it is
 MCP server `Africa's Talking Airtime`, catalogued on PulseMCP. Integrates with Africa’s Talking Airtime API, enabling clients to send airtime top-ups to one or more mobile numbers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-12T16:10:29Z"
 ---
 ## What it is
 Enables AI assistants to write, validate, debug, and execute AutoHotkey v2 scripts on Windows, with tools for syntax checking, script execution, active window inspection, library search, and live debugging via DBGp protocol.

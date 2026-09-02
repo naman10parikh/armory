@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T04:24:47Z"
 ---
 ## What it is
 A project-local MCP bridge that allows Codex Desktop to plan tasks and OpenCode to execute them within the current project directory, with session reuse and native OpenCode background subagents.

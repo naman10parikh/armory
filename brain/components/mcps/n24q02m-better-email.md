@@ -8,10 +8,12 @@ source_url: https://github.com/n24q02m/better-email-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-09-02T00:38:37Z"
 ---
 ## What it is
 MCP server `Better Email`, catalogued on PulseMCP. Provides IMAP/SMTP email operations across multiple accounts with 5 composite tools for search, read, send, organize, and attachment management.

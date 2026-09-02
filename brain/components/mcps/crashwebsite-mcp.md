@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T23:51:07Z"
 ---
 ## What it is
 MCP server that exposes plugin crash reports from a crash reporting site to Claude, enabling querying and managing crash data via tools like listing frequent crashes, searching, adding comments, and managing plugins.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-24T22:52:24Z"
 ---
 ## What it is
 An autonomous AI operations hub for enterprise e-commerce that uses a decentralized MCP mesh and LLM-as-Judge consensus to detect and self-heal infrastructure issues.

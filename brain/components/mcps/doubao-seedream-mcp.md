@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T13:50:40Z"
 ---
 ## What it is
 封装豆包 Seedream 图像生成模型为 MCP 服务，支持文生图、图生图、组图及联网搜索生图，部署在 Cloudflare Workers 上

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 7
+forks: 5
+pushed_at: "2025-05-29T03:59:41Z"
 ---
 ## What it is
 /🏠 - A Spring AI MCP-based service for retrieving ONES Waiki content and converting it to AI-friendly text format.

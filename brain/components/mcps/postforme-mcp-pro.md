@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:41:31Z"
 ---
 ## What it is
 MCP server for the Post for Me API, enabling publishing, scheduling, editing, deleting, and analyzing social media posts across 9 platforms from any MCP client.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-16T14:56:34Z"
 ---
 ## What it is
 MCP server `Craft GTM`, catalogued on PulseMCP. Provides go-to-market strategy tools using the CRAFT framework for product-market fit assessment, launch planning, customer interviews, retention, partnerships, crisis management, and competitive intelligence.

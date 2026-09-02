@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T08:07:56Z"
 ---
 ## What it is
 An MCP server for Soundiiz that lets AI assistants inspect sync jobs and SmartLinks across streaming services, trigger syncs, and clean up stale links.

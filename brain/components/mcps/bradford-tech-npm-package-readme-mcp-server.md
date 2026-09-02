@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T18:48:06Z"
 ---
 ## What it is
 Fetches npm package READMEs, metadata, and search results for MCP-compatible AI clients.

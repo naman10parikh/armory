@@ -8,10 +8,12 @@ source_url: https://github.com/julesliu390/amadeus-qq-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-02T18:21:10Z"
 ---
 ## What it is
 MCP server `Amadeus QQ`, catalogued on PulseMCP. Bridges QQ messaging through NapCatQQ's OneBot v11 API, enabling real-time message monitoring, context buffering, and automated responses in QQ groups and private chats.

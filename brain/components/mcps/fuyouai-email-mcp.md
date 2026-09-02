@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T03:33:33Z"
 ---
 ## What it is
 通过IMAP和SMTP协议实现邮箱读写操作，支持腾讯企业邮箱，可收发邮件、管理文件夹和搜索邮件。

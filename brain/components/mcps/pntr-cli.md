@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T20:50:15Z"
 ---
 ## What it is
 Register free *.pntr.dev subdomains and manage them from your AI assistant — DNS records, wildcard DNS, disposable email inboxes, and HTTP request capture for webhook debugging. 15 tools over stdio; hosted endpoint also available.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-21T22:06:11Z"
 ---
 ## What it is
 MCP server `Polish Academic`, catalogued on PulseMCP. Provides access to Polish academic databases, research repositories, government data, and weather services.

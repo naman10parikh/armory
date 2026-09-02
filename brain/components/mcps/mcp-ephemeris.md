@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T14:29:12Z"
 ---
 ## What it is
 An MCP server that provides computed planetary positions using the Swiss Ephemeris engine, validated against JPL Horizons to under one arcsecond. It enables AI assistants to answer astrology and astronomy questions with real, never-guessed data.

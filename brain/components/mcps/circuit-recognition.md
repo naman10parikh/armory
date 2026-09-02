@@ -8,11 +8,13 @@ source_url: https://github.com/HR-DONK/circuit-recognition
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T17:55:50Z"
 ---
 ## What it is
 MCP server for intelligent circuit diagram recognition, enabling detection of components, text, topology, and netlist from circuit images.

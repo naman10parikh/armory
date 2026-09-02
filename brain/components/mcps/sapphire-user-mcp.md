@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T09:38:52Z"
 ---
 ## What it is
 Exposes user profile data from the Sapphire Wellness App to AI assistants via MCP, providing tools for fetching health alerts, personalized recommendations, and partner service subscriptions.

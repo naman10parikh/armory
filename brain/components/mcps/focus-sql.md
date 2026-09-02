@@ -12,6 +12,8 @@ stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-04-14T06:59:23Z"
 ---
 ## What it is
 MCP server `Focus SQL`, catalogued on PulseMCP. Converts natural language queries into SQL by registering database schema information and handling text-to-SQL transformations through a Spring Boot implementation.

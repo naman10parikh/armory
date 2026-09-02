@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T01:58:58Z"
 ---
 ## What it is
 MCP server `EDINET Financial Disclosures (morinosei)`, catalogued on PulseMCP. Retrieves Japanese corporate financial disclosure documents from the EDINET regulatory filing system.

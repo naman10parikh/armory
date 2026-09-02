@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T01:54:01Z"
 ---
 ## What it is
 Provides a framework to benchmark, evaluate, and inject real-time guardrails across competing MCP servers, CLIs, and AI agent tools. It enables recursive self-improvement by mining failures and synthesizing weakest valid guardrails.

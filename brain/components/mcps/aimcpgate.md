@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T18:28:34Z"
 ---
 ## What it is
 MCP gateway/proxy: multiplexes tool calls across upstream MCP servers into one aggregated, namespaced catalog and logs every call. Local, single-user, $0/month by default.

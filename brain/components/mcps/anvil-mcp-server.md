@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T17:47:39Z"
 ---
 ## What it is
 Enables AI assistants to manage Sable AI voice agents, journeys, knowledge bases, deployments, and analytics through natural language, plus observability via HyperDX.

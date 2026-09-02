@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-11T16:42:30Z"
 ---
 ## What it is
 MCP server `Puch Interactive Mind Maps`, catalogued on PulseMCP. Generates interactive mind maps through conversational refinement using Google Gemini and DSPy, asking clarifying questions to gather context before creating hierarchical visual representations with Graphviz rendering and persistent conversation state management.

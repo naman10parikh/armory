@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T15:46:50Z"
 ---
 ## What it is
 Semantic memory for AI builders: capture the tacit engineering know-how that never reaches your docs, recall it the moment it applies. Built in Rust on Postgres and pgvector.

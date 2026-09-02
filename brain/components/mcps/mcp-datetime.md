@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-02T11:19:04Z"
 ---
 ## What it is
 Provides current date and time in various formats including standard, Japanese, ISO, and filename-friendly formats.

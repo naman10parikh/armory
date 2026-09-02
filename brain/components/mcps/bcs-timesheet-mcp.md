@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T08:57:35Z"
 ---
 ## What it is
 MCP server for BCS timesheet management on Windows, providing executable download, checksum verification, and installation for Claude Code and Codex hosts.

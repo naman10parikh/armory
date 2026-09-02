@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T00:27:49Z"
 ---
 ## What it is
 On-device AI image generation for macOS with 17 tools and zero API keys, combining Apple Intelligence and Pollinations for stylized and photorealistic images, auto-cropping for 40+ social media platforms.

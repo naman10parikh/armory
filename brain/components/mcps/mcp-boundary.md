@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T06:48:06Z"
 ---
 ## What it is
 Wraps your existing MCP servers and checks each tool call against policy and live state before it runs. Allow, block, or require a refresh, with a reason the agent can act on.

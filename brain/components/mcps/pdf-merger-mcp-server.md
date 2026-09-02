@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T03:32:36Z"
 ---
 ## What it is
 Enables uploading, arranging, merging, and downloading PDFs through an MCP-compatible LLM client by interacting with a PDF Merger API.

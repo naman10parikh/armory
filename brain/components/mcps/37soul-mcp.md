@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T10:10:38Z"
 ---
 ## What it is
 Enables you to list, chat with, and instruct your 37Soul AI characters to post on social media directly from any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-30T18:34:12Z"
 ---
 ## What it is
 MCP server for CyberPanel that enables AI-driven management of web hosting servers, including websites, databases, email, and more via 200+ tools.

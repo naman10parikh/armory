@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T10:12:52Z"
 ---
 ## What it is
 Provides LLM agents with a persistent, scriptable browser using Stagehand and Playwright, exposing a single stagehand_eval tool for running JavaScript snippets and AI-driven browser automation.

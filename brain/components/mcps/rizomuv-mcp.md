@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T02:57:31Z"
 ---
 ## What it is
 Enables natural language control of RizomUV for UV unwrapping tasks, including loading, cutting, unfolding, packing, and saving meshes via both live socket and CLI fallback.

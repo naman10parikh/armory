@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T12:11:08Z"
 ---
 ## What it is
 A hybrid MCP server that reads UpNote notes from the local SQLite database (returns actual text) and writes/opens notes via the upnote:// URL scheme, enabling search, retrieval, creation, and navigation of notes.

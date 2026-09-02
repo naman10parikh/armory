@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T04:59:41Z"
 ---
 ## What it is
 Exposes Azure Databricks Jobs tools (list, run, get output) with Entra ID authentication and OBO flow for per-user context.

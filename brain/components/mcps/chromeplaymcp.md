@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T01:06:05Z"
 ---
 ## What it is
 A policy-aware Meta-MCP server that orchestrates Playwright and Chrome DevTools for secure, high-level browser automation with origin whitelists and credential redaction.

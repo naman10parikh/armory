@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-11T16:45:59Z"
 ---
 ## What it is
 MCP server `Tekton CI/CD`, catalogued on PulseMCP. Enables DevOps teams to start and monitor Tekton CI/CD pipelines in Kubernetes environments through natural language commands without requiring direct cluster access.

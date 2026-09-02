@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:32:29Z"
 ---
 ## What it is
 MCP server `Phoenix Number`, catalogued on PulseMCP. Returns the current temperature in Phoenix, Arizona — as a random number, via StupidAPIs.

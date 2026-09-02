@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T09:36:41Z"
 ---
 ## What it is
 Indexes Unreal Engine source code into a local database, providing AI coding assistants with deep structural queries like class hierarchies, call graphs, and full-text search across all engine source files.

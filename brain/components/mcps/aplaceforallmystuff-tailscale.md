@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-12T20:20:54Z"
 ---
 ## What it is
 MCP server `Tailscale`, catalogued on PulseMCP. Provides read-only access to Tailscale network management for monitoring device status, tracking client updates, and generating network statistics across mesh networks.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-23T10:20:20Z"
 ---
 ## What it is
 MCP server `TrendRadar`, catalogued on PulseMCP. Monitors RSS feeds and analyzes content to generate trend reports with automated data collection, configurable scheduling, and real-time notifications.

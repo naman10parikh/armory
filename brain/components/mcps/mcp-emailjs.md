@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T13:59:44Z"
 ---
 ## What it is
 An MCP server for EmailJS that enables AI agents to send emails, validate configurations, and query email history through natural language.

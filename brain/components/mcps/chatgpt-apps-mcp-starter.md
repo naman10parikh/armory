@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T09:29:58Z"
 ---
 ## What it is
 A starter MCP server that provides tools for widget interaction and preference updates, enabling ChatGPT apps with Next.js and MCP integration.

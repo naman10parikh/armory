@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T22:37:44Z"
 ---
 ## What it is
 A safety-first foundation for connecting an MCP client to AutoCAD, currently providing read-only drawing status and health/version/capabilities tools via a Python MCP server and localhost C# bridge.

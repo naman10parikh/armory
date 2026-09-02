@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-03T21:46:17Z"
 ---
 ## What it is
 A proxy server that bridges MCP clients with Box's remote MCP server, handling OAuth 2.0 authentication and message forwarding over HTTP.

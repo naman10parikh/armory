@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-15T08:24:24Z"
 ---
 ## What it is
 Enables network packet capture, analysis, and threat detection via distributed client-server architecture with RabbitMQ, PostgreSQL, and external security APIs (NVD CVE, MITRE ATT&CK, AbuseIPDB).

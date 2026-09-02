@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:04:19Z"
 ---
 ## What it is
 Enables read-only PostgreSQL interaction through safe query execution, query planning, table and column inspection, and privilege checks, with multi-layer defenses against write operations and transaction-control exploits.

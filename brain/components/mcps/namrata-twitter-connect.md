@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-15T06:18:24Z"
 ---
 ## What it is
 MCP server `Twitter Connect`, catalogued on PulseMCP. Integrates with Twitter's API to retrieve recent tweets from specified users, enabling real-time Twitter content access within conversations without requiring direct Twitter API credentials.

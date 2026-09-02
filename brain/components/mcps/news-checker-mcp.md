@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T14:11:21Z"
 ---
 ## What it is
 MCP server for fetching latest news from global sources across categories like world, tech, business, science, sports, entertainment, and Japan, without requiring an API key.

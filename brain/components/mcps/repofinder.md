@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T08:28:03Z"
 ---
 ## What it is
 MCP server that recommends complementary open source tools for a given project and goal, using live GitHub data and model reasoning to explain fit and integration paths.

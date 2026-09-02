@@ -8,10 +8,12 @@ source_url: https://github.com/djm81/log_analyzer_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-08T20:21:23Z"
 ---
 ## What it is
 MCP server `Log Analyzer`, catalogued on PulseMCP. Analyzes Python application logs with time-based and pattern filtering, pytest output parsing, and code coverage report generation for debugging and quality monitoring workflows.

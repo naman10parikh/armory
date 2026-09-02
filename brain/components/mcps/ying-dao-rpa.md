@@ -8,10 +8,12 @@ source_url: https://github.com/ying-dao/yingdao_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 84
+stars: 102
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-04-28T01:39:08Z"
 ---
 ## What it is
 MCP server `Yingdao RPA`, catalogued on PulseMCP. Bridges AI with Yingdao RPA platform to automate business processes through local and cloud-based robotic process automation applications.

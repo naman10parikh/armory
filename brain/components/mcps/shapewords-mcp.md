@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T07:10:09Z"
 ---
 ## What it is
 Universal MCP server for generating word clouds using ShapeWords, enabling creation of SVG, JSON, or PNG word clouds from text with extensive customization options.

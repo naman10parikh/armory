@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T18:39:02Z"
 ---
 ## What it is
 Provides transport/wiring layer for running Model Context Protocol servers, supporting stdio, Streamable HTTP, and legacy SSE, with example and optional personas server for prompts.

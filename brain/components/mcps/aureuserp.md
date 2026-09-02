@@ -8,10 +8,12 @@ source_url: https://github.com/aureuserp/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-03T05:36:17Z"
 ---
 ## What it is
 MCP server `AureusERP`, catalogued on PulseMCP. Exposes ERP business intelligence tools and developer introspection capabilities for the AureusERP Laravel platform.

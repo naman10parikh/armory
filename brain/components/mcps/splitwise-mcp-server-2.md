@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-19T01:26:00Z"
 ---
 ## What it is
 A standalone MCP server that provides complete access to the Splitwise API, enabling natural language management of expenses, groups, friends, and notifications in MCP-compatible clients like Claude Desktop and VS Code Copilot.

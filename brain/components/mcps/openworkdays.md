@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T03:06:29Z"
 ---
 ## What it is
 MCP server `OpenWorkdays`, catalogued on PulseMCP. Business-day date arithmetic API for adding days, counting workdays, and checking business day status.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T13:42:21Z"
 ---
 ## What it is
 Connect Claude to your personal Telegram account via MTProto to read messages, search chats, send replies, forward files, and more using your real account.

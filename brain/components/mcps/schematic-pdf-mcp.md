@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T09:13:19Z"
 ---
 ## What it is
 Converts vector PDF circuit schematics into evidence-preserving SchematicIR JSON with tools to inspect, convert, and validate schematic PDFs.

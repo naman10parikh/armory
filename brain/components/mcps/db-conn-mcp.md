@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-13T12:50:23Z"
 ---
 ## What it is
 A dead-simple, self-hosted MCP server for querying your databases with AI agents.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T12:22:39Z"
 ---
 ## What it is
 MCP server `Fabkit`, catalogued on PulseMCP. Provides documentation and code patterns for the Fabkit Svelte 5 UI library, including component props, theming API, and Phosphor icon search.

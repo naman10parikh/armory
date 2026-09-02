@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T09:07:01Z"
 ---
 ## What it is
 A read-only MCP server for searching control science and engineering papers via OpenAlex, limited to core journals in the field.

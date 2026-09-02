@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-25T02:45:23Z"
 ---
 ## What it is
 Enables natural language querying of databases with multi-turn conversations, auto-generated charts, and proactive monitoring via scheduled queries and alerts.

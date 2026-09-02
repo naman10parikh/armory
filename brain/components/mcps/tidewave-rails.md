@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 30
+pushed_at: "2026-08-18T18:59:56Z"
 ---
 ## What it is
 Better agentic Rails development, runtime-level tools for your agent to talk to your running app.

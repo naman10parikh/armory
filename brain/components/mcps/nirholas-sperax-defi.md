@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-06T03:08:55Z"
 ---
 ## What it is
 MCP server `Sperax DeFi`, catalogued on PulseMCP. Provides AI agents with access to the Sperax DeFi ecosystem on Arbitrum, including USDs stablecoin operations, SPA governance, veSPA staking, and Demeter yield farming protocols.

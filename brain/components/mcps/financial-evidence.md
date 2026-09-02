@@ -8,11 +8,13 @@ source_url: https://github.com/beepboop2025/financial-evidence-skills
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:44:14Z"
 ---
 ## What it is
 Enables MCP clients to list research topics, route queries across money-market, capital-market, bank-risk, market-liquidity, and China-economy domains, and fetch read-only structured results from bounded public evidence without requiring an account or API key.

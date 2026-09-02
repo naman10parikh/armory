@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T01:43:24Z"
 ---
 ## What it is
 Enables AI assistants to generate and edit images via the ChongPlus Image API, with secure API key management and local file saving.

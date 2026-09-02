@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-19T01:04:36Z"
 ---
 ## What it is
 MCP server `Key Server`, catalogued on PulseMCP. Provides secure API key storage and NPM package management with role-based access control, enabling developers to centrally store service credentials while maintaining dependencies.

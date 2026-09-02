@@ -8,11 +8,13 @@ source_url: https://github.com/Lolaplex/agents-memory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:37:59Z"
 ---
 ## What it is
 A local markdown memory and cross-agent context engine for AI coding assistants. It provides an MCP server with tools to search, add, retrieve, and distill persistent memory across tools like Claude Code, Cursor, and Zed.

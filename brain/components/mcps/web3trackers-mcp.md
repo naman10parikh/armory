@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:21:56Z"
 ---
 ## What it is
 MCP server for crypto marketing attribution. Build UTM-tagged tracking URLs, estimate campaign ROI, compare web3 attribution tools, and pull DeFi marketing benchmarks.

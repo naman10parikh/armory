@@ -8,10 +8,12 @@ source_url: https://github.com/r-huijts/xcode-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 377
+stars: 385
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2026-02-02T11:23:41Z"
 ---
 ## What it is
 MCP server `Xcode`, catalogued on PulseMCP. Integrates with Xcode to streamline iOS development workflows, automate build processes, and facilitate code generation for efficient app creation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T11:11:40Z"
 ---
 ## What it is
 A self-hosted MCP server for homelabs with ~193 tools covering media, home automation, productivity, infrastructure, and public APIs, featuring a web dashboard for configuration and health monitoring.

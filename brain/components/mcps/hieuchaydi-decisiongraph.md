@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-25T15:33:02Z"
 ---
 ## What it is
 MCP server `DecisionGraph`, catalogued on PulseMCP. Engineering decision memory system capturing decisions from GitHub, Slack, Jira, and Git with pre-change guardrails.

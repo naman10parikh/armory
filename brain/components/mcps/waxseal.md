@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T06:28:22Z"
 ---
 ## What it is
 WaxSeal MCP gives AI agents cryptographic identity — verify any WaxSeal fingerprint, check Ed25519 signatures, and gate irreversible actions with human-signed approval tokens before execution. It connects Claude Desktop, Cursor, and Windsurf to the WaxSeal trust network so agents can prove who autho

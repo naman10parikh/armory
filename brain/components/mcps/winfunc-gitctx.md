@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-13T19:36:31Z"
 ---
 ## What it is
 MCP server `gitctx`, catalogued on PulseMCP. Provides GitHub repository context and code navigation tools including file tree exploration, code search, blame information, diff viewing, and commit history browsing.

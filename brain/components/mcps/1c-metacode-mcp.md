@@ -8,11 +8,13 @@ source_url: https://github.com/ROCTUP/1c-mcp-metacode
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 89
+stars: 93
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 31
+pushed_at: "2026-08-19T01:09:39Z"
 ---
 ## What it is
 MCP сервер с встроенным AI агентом для поиска по графу метаданных и кода конфигураций 1С

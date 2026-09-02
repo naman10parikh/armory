@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T08:53:39Z"
 ---
 ## What it is
 Enables AI agents to interact with Charles Proxy for HTTP traffic analysis, supporting incremental harvest, checkpoint timelines, and rich filtering tools.

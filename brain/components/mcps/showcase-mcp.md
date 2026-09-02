@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T09:13:07Z"
 ---
 ## What it is
 MCP server that opens a native desktop window to display rich content (Markdown, HTML, Mermaid diagrams, images) with real-time updates via SSE.

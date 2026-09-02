@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T12:58:53Z"
 ---
 ## What it is
 Enables Claude to save, list, and read notes in a '/dev-notes' directory, and fetch live weather for any city using the wttr.in API.

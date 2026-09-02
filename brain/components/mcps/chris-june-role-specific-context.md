@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-20T23:45:44Z"
 ---
 ## What it is
 MCP server `Role-Specific Context`, catalogued on PulseMCP. Enables AI systems to maintain distinct expert personas through role-based context management with vector search capabilities for consistent domain expertise across different specializations.

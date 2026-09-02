@@ -8,10 +8,12 @@ source_url: https://github.com/l-agence/agence
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-11T18:11:18Z"
 ---
 ## What it is
 MCP server `Agence`, catalogued on PulseMCP. AI governance framework providing policy enforcement, skills management, memory, and multi-LLM consensus.

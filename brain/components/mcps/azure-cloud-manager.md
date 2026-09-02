@@ -8,10 +8,12 @@ source_url: https://github.com/azure/azure-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1214
+stars: 1223
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 354
+pushed_at: "2026-02-06T15:52:58Z"
 ---
 ## What it is
 MCP server `Azure Cloud Manager`, catalogued on PulseMCP. Enables AI to manage Azure cloud resources through a .NET-based command-line interface, providing operations for Cosmos DB, Storage, App Configuration, and Monitor services.

@@ -8,10 +8,12 @@ source_url: https://github.com/oogunbiyi21/stats-compass-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-26T00:39:10Z"
 ---
 ## What it is
 MCP server `Stats Compass`, catalogued on PulseMCP. 50+ pandas-powered tools for data loading, cleaning, visualization, and ML workflows

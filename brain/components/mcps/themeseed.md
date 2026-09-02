@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T12:20:51Z"
 ---
 ## What it is
 MCP server that analyzes a CMS's active theme and generates realistic demo content tailored to it, letting users judge themes with real-looking articles, images, and embeds.

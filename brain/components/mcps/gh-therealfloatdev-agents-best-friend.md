@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T17:34:53Z"
 ---
 ## What it is
 MCP server `Agents Best Friend`, catalogued on PulseMCP. Token-efficient codebase navigation and search tools for AI coding agents.

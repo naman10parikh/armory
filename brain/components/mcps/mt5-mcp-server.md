@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T04:56:22Z"
 ---
 ## What it is
 Enables interaction with MetaTrader 5 for market data, technical analysis, Fibonacci calculations, and trading via MCP clients such as Claude.

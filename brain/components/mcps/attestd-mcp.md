@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T17:46:56Z"
 ---
 ## What it is
 Enables checking of package vulnerabilities and supply-chain risks using Attestd API. Supports single and batch checks, CVE details, and covered products listing.

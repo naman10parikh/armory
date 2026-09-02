@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T01:10:35Z"
 ---
 ## What it is
 MCP server that lets AI agents manage an Agent Inbox queue via natural language. It supports listing pending items, adding new URLs with notes, and marking items as reviewed or deleted.

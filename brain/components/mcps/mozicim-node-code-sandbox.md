@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-19T11:04:17Z"
 ---
 ## What it is
 MCP server `Node.js Code Sandbox`, catalogued on PulseMCP. Executes Node.js code in isolated Docker containers with automatic dependency management, file system persistence, and resource monitoring for safe code experimentation and testing.

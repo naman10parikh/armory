@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T00:12:31Z"
 ---
 ## What it is
 Enables searching your DriveThruRPG library and the public catalog for tabletop RPG products, returning structured details like title, description, publisher, and game system.

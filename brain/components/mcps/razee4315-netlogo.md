@@ -8,10 +8,12 @@ source_url: https://github.com/razee4315/netlogo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-01T02:34:25Z"
 ---
 ## What it is
 MCP server `NetLogo`, catalogued on PulseMCP. Integrates with the NetLogo agent-based modeling platform for creating, executing, and analyzing simulation models with customizable parameters and result export.

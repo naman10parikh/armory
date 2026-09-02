@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T03:15:03Z"
 ---
 ## What it is
 Smart documentation generator and intelligent versioning system with full MCP support, enabling AI assistants like Claude and Gemini to manage project snapshots, generate docs, and control versioning via 26 MCP tools.

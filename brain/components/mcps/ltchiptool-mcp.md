@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T21:53:20Z"
 ---
 ## What it is
 Enables chip-level firmware extraction and analysis for BK7231 family IoT devices via UART, supporting flash dumping, decryption, and partition extraction.

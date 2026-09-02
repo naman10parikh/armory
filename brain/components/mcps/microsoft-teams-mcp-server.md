@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T21:55:47Z"
 ---
 ## What it is
 Enables AI agents to interact with Microsoft Teams through Microsoft Graph API, using delegated device-code authentication to act on behalf of the user.

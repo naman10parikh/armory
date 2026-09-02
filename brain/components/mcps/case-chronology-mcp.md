@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-01T04:58:16Z"
 ---
 ## What it is
 A Model Context Protocol server for building and managing chronological timelines of case events, enabling legal professionals to organize complex case histories with smart date parsing, document parsing, multi-format export, and advanced search.

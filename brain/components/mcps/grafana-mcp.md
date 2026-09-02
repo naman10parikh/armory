@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-19T07:26:00Z"
 ---
 ## What it is
 MCP server for Grafana that provides tools to interact with dashboards, data sources, alerts, and more.

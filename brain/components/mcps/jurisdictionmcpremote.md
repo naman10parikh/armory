@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T19:19:21Z"
 ---
 ## What it is
 Hosted MCP server for jurisdiction queries, enabling zero-install access over URL with tools like resolve_address and check_cache_freshness.

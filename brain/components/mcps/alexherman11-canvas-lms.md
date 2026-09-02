@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T17:24:35Z"
 ---
 ## What it is
 MCP server `Canvas LMS`, catalogued on PulseMCP. Integrates with Canvas Learning Management System to access courses, assignments, grades, announcements, and messaging with support for assignment submission and file browsing.

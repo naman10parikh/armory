@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:50Z"
 ---
 ## What it is
 MCP server that enables querying official MPT PB labor court certificates (Certidão Negativa de Feitos) through a read-only tool, checking for negative records from official sources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-15T20:38:44Z"
 ---
 ## What it is
 An MCP server for HF radio propagation analytics using the IONIS dataset collection, enabling natural language queries about band conditions, propagation paths, and solar correlations.

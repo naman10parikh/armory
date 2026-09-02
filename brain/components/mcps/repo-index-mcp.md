@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T22:14:11Z"
 ---
 ## What it is
 A local codebase retrieval tool that indexes a git repository into SQLite and provides query and retrieval capabilities over MCP stdio, enabling coding agents to search and retrieve code chunks from local repositories without external data transmission.

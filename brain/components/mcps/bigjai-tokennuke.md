@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-02T16:55:31Z"
 ---
 ## What it is
 MCP server `TokenNuke`, catalogued on PulseMCP. Code indexing with tree-sitter AST extraction, hybrid search, call graphs, and O(1) symbol retrieval.

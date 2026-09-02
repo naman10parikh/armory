@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-05-08T12:14:02Z"
 ---
 ## What it is
 Enables Web3-focused web searches via the OptimAI External Search API, providing tools to start, retrieve, list, and cancel searches from any MCP-compatible AI host.

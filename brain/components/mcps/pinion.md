@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T01:47:56Z"
 ---
 ## What it is
 AI-powered characterization test generator that reads Python functions or class methods, synthesizes inputs, captures behavior in a sandbox, and emits pytest files to lock legacy code behavior for safe refactoring.

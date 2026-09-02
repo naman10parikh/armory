@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T15:31:56Z"
 ---
 ## What it is
 Enables AI assistants to manage GorillaDesk customer records, users, and company data through natural language interactions. Supports listing, creating, and updating customers, adding notes, and retrieving company and user information.

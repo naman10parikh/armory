@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T02:53:22Z"
 ---
 ## What it is
 MCP server that gives Claude/GPT agents commerce tools — each tool call pays an upstream x402 endpoint and returns its artifact.

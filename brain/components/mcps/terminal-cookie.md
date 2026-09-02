@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T13:27:46Z"
 ---
 ## What it is
 Enables Claude AI to play a cookie-themed dungeon RPG, including clicking cookies, recruiting heroes, exploring dungeons, and managing inventory through natural language commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T10:47:28Z"
 ---
 ## What it is
 Bridges Google Antigravity CLI with MCP clients, enabling 13 specialized tools for AI-assisted coding, automation, and security audits.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T19:06:09Z"
 ---
 ## What it is
 Enables multi-agent trend analysis for digital marketing, web design, and graphics design, routing requests through specialized agents to produce actionable recommendations and implementation plans.

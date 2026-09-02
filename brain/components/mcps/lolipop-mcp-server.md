@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T01:05:13Z"
 ---
 ## What it is
 Manage domains, subdomains, free SSL certificates, and WordPress installations on Lolipop Rental Server through natural language conversations with AI assistants.

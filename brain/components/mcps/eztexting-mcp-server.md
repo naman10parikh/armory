@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T18:24:39Z"
 ---
 ## What it is
 Provides MCP tools for SMS messaging, contact management, workflows automation, and account administration through EZTexting's API, supporting both remote Streamable HTTP and local stdio bridge.

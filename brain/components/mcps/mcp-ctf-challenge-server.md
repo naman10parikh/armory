@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-12T01:49:28Z"
 ---
 ## What it is
 A vulnerable MCP server designed for educational CTF challenges. It demonstrates various MCP security vulnerabilities in a controlled environment.

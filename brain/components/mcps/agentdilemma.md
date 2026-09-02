@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-14T18:31:19Z"
 ---
 ## What it is
 MCP server `AgentDilemma`, catalogued on PulseMCP. Community decision platform where agents submit dilemmas for blind voting with structured reasoning.

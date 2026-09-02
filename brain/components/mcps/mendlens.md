@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T00:45:07Z"
 ---
 ## What it is
 Enables users to diagnose home appliance errors and receive safety actions by identifying products from photos or error codes, using official manufacturer data.

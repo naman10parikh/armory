@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-19T13:17:43Z"
 ---
 ## What it is
 MCP server `FFmpeg`, catalogued on PulseMCP. Video/audio tools for cutting, converting, concatenating, removing silence, and executing custom commands.

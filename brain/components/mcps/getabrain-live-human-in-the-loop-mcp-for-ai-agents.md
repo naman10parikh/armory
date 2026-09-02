@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T17:05:46Z"
 ---
 ## What it is
 Real human judgment as agent tools -- an AI agent can ask a question and get back a structured, schema-validated JSON answer from a real quality-scored human. 16 response types (yes/no, ratings, rankings, A/B tests, sentiment, image/video/audio review, voice/video/photo capture). Fully programmatic 

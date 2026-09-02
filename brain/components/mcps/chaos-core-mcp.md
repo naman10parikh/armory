@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T09:48:50Z"
 ---
 ## What it is
 Enables AI agents to hand high-level objectives to a decision-making core that autonomously reasons, plans, enforces deterministic policy, executes capabilities, evaluates outcomes, and persists semantic memory over stdio or Streamable HTTP.

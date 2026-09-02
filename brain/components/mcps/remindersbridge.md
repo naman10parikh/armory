@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T01:46:07Z"
 ---
 ## What it is
 Enables ChatGPT to interact with Apple Reminders on your Mac through a secure local agent, providing tools to search, create, complete, and update reminders.

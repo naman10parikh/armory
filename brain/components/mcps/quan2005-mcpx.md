@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-09T11:14:19Z"
 ---
 ## What it is
 MCP server `MCPX Proxy`, catalogued on PulseMCP. Proxy server that aggregates multiple MCP servers into a single unified interface with progressive tool loading, session isolation, and health monitoring.

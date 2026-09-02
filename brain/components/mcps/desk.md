@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T15:23:01Z"
 ---
 ## What it is
 Provides multi-agent equity research for US markets with provenance-backed financial data from SEC EDGAR, technicals, macro, and Alpaca paper trading, enforcing risk limits and journaling theses.

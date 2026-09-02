@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T11:18:18Z"
 ---
 ## What it is
 Enables automatic generation of explicit boilerplate methods (getter/setter/equals/hashCode/toString/constructors) for Java entity classes, replacing Lombok dependencies with visible, reviewable code.

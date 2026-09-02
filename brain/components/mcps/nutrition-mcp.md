@@ -8,10 +8,12 @@ source_url: https://github.com/akutishevsky/nutrition-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2026-09-01T17:40:38Z"
 ---
 ## What it is
 MCP server `Nutrition Tracker`, catalogued on PulseMCP. Personal nutrition tracking with meal logging and macro analysis.

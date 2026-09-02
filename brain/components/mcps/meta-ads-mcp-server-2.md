@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T06:05:01Z"
 ---
 ## What it is
 Provides access to Meta Marketing API for comprehensive ad analytics and AI-powered video creative analysis.

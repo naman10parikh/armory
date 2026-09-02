@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T10:53:55Z"
 ---
 ## What it is
 Read-only MCP server that exposes your local Notion backups to AI agents — query databases, read pages, search a backed-up workspace. Offline by default: no LLM calls, no telemetry, no cloud.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-11T18:48:56Z"
 ---
 ## What it is
 MCP server `Adaptive Memory Graph`, catalogued on PulseMCP. Persistent memory plugin for Claude using weighted, interconnected knowledge nodes with time-based decay.

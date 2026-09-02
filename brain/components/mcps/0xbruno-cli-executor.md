@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-07T05:49:21Z"
 ---
 ## What it is
 MCP server `CLI Executor`, catalogued on PulseMCP. Provides a tool for executing local CLI commands asynchronously using FastMCP and asyncio, handling command arguments securely and offering error handling for failed commands.

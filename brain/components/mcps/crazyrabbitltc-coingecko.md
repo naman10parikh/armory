@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-06-11T02:31:56Z"
 ---
 ## What it is
 MCP server `CoinGecko`, catalogued on PulseMCP. Integrates with CoinGecko Pro API to retrieve cryptocurrency data, enabling market analysis, portfolio tracking, and price monitoring applications.

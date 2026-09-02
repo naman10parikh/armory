@@ -8,10 +8,12 @@ source_url: https://github.com/etiennechollet/ontomics
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-04-17T01:21:28Z"
 ---
 ## What it is
 MCP server `Ontomics`, catalogued on PulseMCP. Index your codebase's domain knowledge for AI agents — reduces token usage and accelerates code understanding.

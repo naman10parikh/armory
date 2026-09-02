@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-10-21T12:18:44Z"
 ---
 ## What it is
 MCP server for AL Object ID management in Microsoft Dynamics 365 Business Central development. It provides intelligent object ID allocation, collision prevention, and team collaboration features.

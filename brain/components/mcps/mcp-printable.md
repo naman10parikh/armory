@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-05T21:43:39Z"
 ---
 ## What it is
 Connects MCP-capable agents to Blender and OpenSCAD for AI-driven 3D modeling, with tools and rules optimized for FDM-printable geometry.

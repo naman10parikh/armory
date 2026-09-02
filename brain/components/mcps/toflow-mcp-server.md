@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T12:22:00Z"
 ---
 ## What it is
 Enables AI assistants to access toflow.ai workspace for prospecting, multi-channel outreach (email, LinkedIn, WhatsApp), sequences, enrichment, CRM, and AI automations.

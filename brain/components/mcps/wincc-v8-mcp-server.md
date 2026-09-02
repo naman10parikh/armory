@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-10-15T05:44:55Z"
 ---
 ## What it is
 MCP server providing access to Siemens WinCC V8 SCADA systems via REST API, enabling tag management, alarm logging, and archive operations.

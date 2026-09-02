@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T18:11:18Z"
 ---
 ## What it is
 Governs and audits AI coding agents via command gating, cryptographic logging, and multi-agent orchestration, exposed as an MCP server.

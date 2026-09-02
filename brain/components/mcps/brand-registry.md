@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T17:12:23Z"
 ---
 ## What it is
 MCP server that exposes brand identity guidelines (visual look and voice) as markdown, enabling LLMs to produce on-brand content.

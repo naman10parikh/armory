@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T03:06:08Z"
 ---
 ## What it is
 Open Claude integration for Ametller Origen's live catalog, online orders, real cart, and optional offline Gmail tickets.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T13:54:02Z"
 ---
 ## What it is
 Example MCP server for Autodesk Platform Services that demonstrates proper OAuth authorization with Auth0 as the first layer and APS 3-legged OAuth as the second layer. Enables querying APS projects and issues through natural language after authenticating via Auth0 and APS.

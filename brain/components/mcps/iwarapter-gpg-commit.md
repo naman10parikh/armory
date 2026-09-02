@@ -8,10 +8,12 @@ source_url: https://github.com/iwarapter/gpg-commit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-09T17:50:27Z"
 ---
 ## What it is
 MCP server `GPG Commit`, catalogued on PulseMCP. Enables GPG-signed commits and SSH-authenticated pushes from Claude Code without exposing key material, delegating to the local gpg-agent and ssh-agent.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-10T15:01:46Z"
 ---
 ## What it is
 Integrates with the Tienda Nube/Nuvemshop API to manage products, orders, customers, categories, coupons, and webhooks through MCP tools.

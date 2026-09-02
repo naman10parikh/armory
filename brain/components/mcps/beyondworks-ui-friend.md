@@ -8,10 +8,12 @@ source_url: https://github.com/beyondworks/ui-inspector
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-07-10T07:52:27Z"
 ---
 ## What it is
 MCP server `UI Friend`, catalogued on PulseMCP. Provides live UI preview with hot reload, element inspection, responsive viewport switching, and multi-framework export.

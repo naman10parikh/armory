@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T06:19:59Z"
 ---
 ## What it is
 A zero-dependency Node.js playground for debugging how MCP clients authenticate to an MCP server over HTTP.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-26T21:42:52Z"
 ---
 ## What it is
 MCP server `ETL-D`, catalogued on PulseMCP. Deterministic B2B data middleware for parsing CSV, EDI, bank statements, and financial documents.

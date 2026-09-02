@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T16:34:03Z"
 ---
 ## What it is
 MCP server for anonymous OpenTable restaurant discovery and availability checking, enabling restaurant search, autocomplete, and table availability queries without an account.

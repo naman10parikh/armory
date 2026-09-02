@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T07:47:30Z"
 ---
 ## What it is
 Enables MCP-compatible clients to act as an AI receptionist for a small medical clinic, handling appointment booking and rescheduling, patient registration, intake, reminders, and FAQ answers.

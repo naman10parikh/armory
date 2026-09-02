@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-21T16:01:47Z"
 ---
 ## What it is
 MCP server `GitHub`, catalogued on PulseMCP. Integrates with GitHub repositories directly within the Zed editor, enabling code review, issue management, and repository exploration through a Rust-based extension that connects to GitHub's API via a configured personal access token.

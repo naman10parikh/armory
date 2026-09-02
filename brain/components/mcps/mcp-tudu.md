@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T20:42:58Z"
 ---
 ## What it is
 MCP server that lets AI assistants create projects, epics, and tasks in the TuDu app through natural conversation. It securely connects over local HTTP with token authentication and requires on-screen confirmation before writing anything.

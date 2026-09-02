@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T11:24:28Z"
 ---
 ## What it is
 A Python Model Context Protocol server for controlled marketplace research on Vinted, with read-only browser automation and evidence capture.

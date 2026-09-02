@@ -8,10 +8,12 @@ source_url: https://github.com/0xgval/evm-mcp-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [crypto, mcp]
+forks: 3
+pushed_at: "2025-03-25T11:51:16Z"
 ---
 
 ## What it is

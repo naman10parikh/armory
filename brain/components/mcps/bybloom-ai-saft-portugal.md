@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-25T21:29:15Z"
 ---
 ## What it is
 MCP server `SAF-T Portugal`, catalogued on PulseMCP. Parses and validates Portuguese SAF-T XML tax audit files with schema validation, business rule compliance, and executive reporting for Portuguese tax workflows.

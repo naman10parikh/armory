@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-03-13T02:32:28Z"
 ---
 ## What it is
 Enables AI agents to read documents in Excel, DOCX, PDF, and TXT formats via MCP protocol.

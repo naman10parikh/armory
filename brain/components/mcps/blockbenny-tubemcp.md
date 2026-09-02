@@ -8,10 +8,12 @@ source_url: https://github.com/blockbenny/tubemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-14T07:34:20Z"
 ---
 ## What it is
 MCP server `TubeMCP`, catalogued on PulseMCP. Searches YouTube videos and fetches transcripts with local SQLite caching.

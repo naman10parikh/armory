@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T03:59:39Z"
 ---
 ## What it is
 Extended MCP server for Discord with advanced server management capabilities including roles, channels, messages, permissions, forums, webhooks, and batch operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T08:51:44Z"
 ---
 ## What it is
 Provides AI vision analysis via OpenRouter, enabling image understanding from local paths or URLs. Supports OCR, error diagnosis, and chart/UI analysis using Gemini models.

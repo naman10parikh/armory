@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 2
+forks: 1
+pushed_at: "2026-05-04T03:31:53Z"
 ---
 ## What it is
 A lightweight MCP server for structured bug-fix analysis and project-local verified fix memory for AI agents.

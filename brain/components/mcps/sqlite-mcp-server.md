@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-21T15:30:57Z"
 ---
 ## What it is
 Enables natural language interaction with local SQLite databases through Claude Desktop, translating plain English queries into SQL for data analysis and exploration.

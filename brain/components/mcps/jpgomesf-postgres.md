@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T21:58:40Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. Read-only MCP server for PostgreSQL with multi-database support and AWS Secrets Manager integration, written in Go.

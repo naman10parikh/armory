@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T09:15:58Z"
 ---
 ## What it is
 Enables reading and managing Linear issues by human-readable ID, with tools for searching, creating, updating, commenting, and resolving teams, states, labels, and assignees by name.

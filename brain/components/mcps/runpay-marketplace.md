@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T17:47:08Z"
 ---
 ## What it is
 Stripe-native marketplace where AI agents autonomously discover and purchase API services via MCP. Pay-per-call, no accounts needed. 6 live services including Phone Validator, Web Scraper, PDF Generator and Screenshot API.

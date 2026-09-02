@@ -8,10 +8,12 @@ source_url: https://github.com/pluginmd/haravan-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-04-06T04:21:33Z"
 ---
 ## What it is
 MCP server `Haravan`, catalogued on PulseMCP. Manages Haravan e-commerce stores through 70 tools covering customers, orders, products, and inventory.

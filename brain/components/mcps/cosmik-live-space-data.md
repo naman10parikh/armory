@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T07:44:25Z"
 ---
 ## What it is
 Live space data for AI agents: upcoming rocket launches (SpaceX, NASA, Rocket Lab…), ISS pass predictions for any city or coordinates (live SGP4), and launch news in 7 languages. Read-only, no auth, no API key. Backed by gocosmik.com — the free real-time 3D satellite tracker.

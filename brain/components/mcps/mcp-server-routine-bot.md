@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T09:28:03Z"
 ---
 ## What it is
 Automates routine DevOps tasks like Jenkins builds and GitLab merge requests through the MCP protocol, simplifying daily operations.

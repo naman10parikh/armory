@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T23:18:01Z"
 ---
 ## What it is
 Search Flevy's marketplace of 10,000+ consulting frameworks, PowerPoint templates, Excel financial models, and management case studies, with slide-by-slide previews and topic overviews. Hosted Streamable HTTP server at https://flevy.com/mcp; the repo's Dockerfile bridges stdio clients to it via mcp-

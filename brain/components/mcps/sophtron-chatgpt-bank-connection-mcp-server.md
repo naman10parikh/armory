@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-12T17:50:46Z"
 ---
 ## What it is
 Enables users to connect bank accounts within a chat session using Sophtron's UCW widget and query account information, owner details, and transactions persistently.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T13:43:06Z"
 ---
 ## What it is
 Enables AI agents to query Aptabase analytics through MCP, including metrics, top events, countries, sessions, and more. Uses the dashboard's cookie-authenticated endpoints, so it requires an Aptabase auth session cookie.

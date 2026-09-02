@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T19:57:55Z"
 ---
 ## What it is
 PostgreSQL administration MCP server for read-only inspection, monitoring, and non-destructive maintenance, enabling safe database interaction via assistants like Claude without data modification.

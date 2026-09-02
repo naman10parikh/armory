@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T21:59:25Z"
 ---
 ## What it is
 Enables fast, token-efficient bulk domain name search for AI agents, checking up to 1,000 domains per request to see availability statuses.

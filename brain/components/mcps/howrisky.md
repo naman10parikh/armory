@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-07T13:21:01Z"
 ---
 ## What it is
 MCP server `HowRisky`, catalogued on PulseMCP. Financial risk analysis with Monte Carlo simulations and fat-tail modeling for portfolio analysis, startup equity valuation, real estate investment analysis, and Kelly criterion betting strategies.

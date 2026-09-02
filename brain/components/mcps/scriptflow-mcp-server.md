@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-08-06T03:38:10Z"
 ---
 ## What it is
 ScriptFlow is a script workflow management system that transforms complex, repetitive AI interactions into persistent, executable scripts that can be managed, version-controlled, and reused across sessions.

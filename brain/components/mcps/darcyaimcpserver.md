@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-24T15:08:19Z"
 ---
 ## What it is
 A Python-based MCP server that predicts tomorrow's weather. It can be used remotely via uvx or locally with uv.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T02:01:01Z"
 ---
 ## What it is
 Provides real-time weather data, forecasts, and explainable predictions (umbrella, travel, city comparisons) via natural language, powered by Open-Meteo.

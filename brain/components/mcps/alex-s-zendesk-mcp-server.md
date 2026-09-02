@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T14:38:08Z"
 ---
 ## What it is
 Enables interaction with Zendesk to manage tickets, retrieve ticket fields, comments, and priority based on SLA, as well as get unsolved tickets by agent name.

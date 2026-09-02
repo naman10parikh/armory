@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:10:45Z"
 ---
 ## What it is
 A sovereign, MIT-licensed MCP server wrapping the FallProfile SDK for professional service workflows, with Ed25519 signing and offline capability.

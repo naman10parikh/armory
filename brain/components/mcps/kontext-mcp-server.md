@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-18T07:22:47Z"
 ---
 ## What it is
 Portable, provider-agnostic memory for AI agents using Azure Data Explorer (Kusto) with temporal and semantic scoring.

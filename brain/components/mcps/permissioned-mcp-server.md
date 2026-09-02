@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T21:19:00Z"
 ---
 ## What it is
 A compact MCP server demonstrating explicit tool boundaries, least-privilege discovery, execution-time authorization, destructive-action confirmation, and metadata-only audit logs using a local note store.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T18:39:11Z"
 ---
 ## What it is
 MCP server for managing Figma workspaces, providing 102 tools for seats, teams, permissions, billing, file operations, and cleanup, enabling agents to handle admin tasks and everyday design work via natural language.

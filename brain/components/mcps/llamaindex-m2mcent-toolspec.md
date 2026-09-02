@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:07:08Z"
 ---
 ## What it is
 Enables agents to query and execute 1,005 autonomous MCP micro-services via the M2MCent Gateway with x402 V2 micropayment protocol.

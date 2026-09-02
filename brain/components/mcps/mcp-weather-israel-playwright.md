@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T18:44:39Z"
 ---
 ## What it is
 Enables LLMs to fetch live weather forecasts for Israeli cities by controlling a Chromium browser to scrape weather data from weather2day.co.il.

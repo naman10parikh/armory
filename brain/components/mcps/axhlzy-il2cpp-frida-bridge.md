@@ -8,10 +8,12 @@ source_url: https://github.com/axhlzy/il2cpp-frida-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-02-24T11:42:55Z"
 ---
 ## What it is
 MCP server `IL2CPP Frida Bridge`, catalogued on PulseMCP. Bridges Unity IL2CPP applications with Frida dynamic instrumentation for real-time reverse engineering analysis including class inspection, method hooking, memory analysis, and JavaScript code execution within target processes.

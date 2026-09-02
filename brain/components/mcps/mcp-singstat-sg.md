@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:41:32Z"
 ---
 ## What it is
 Provides access to Singapore's official statistics from the Department of Statistics (SingStat) via MCP tools, allowing users to query data using natural language or direct tool calls.

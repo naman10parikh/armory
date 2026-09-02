@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-25T14:05:38Z"
 ---
 ## What it is
 MCP server `Code Summarizer (Gemini Flash)`, catalogued on PulseMCP. Enables code repository analysis with Gemini Flash 2.0, providing customizable file and directory summarization that respects .gitignore rules for quickly understanding unfamiliar codebases.

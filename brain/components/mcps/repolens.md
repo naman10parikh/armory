@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T07:15:18Z"
 ---
 ## What it is
 Enables LLM agents to acquire token-budgeted, deterministic context packs from repositories, with hash-chained provenance for auditability.

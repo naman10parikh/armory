@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-06T17:04:37Z"
 ---
 ## What it is
 MCP server `TwoSplit`, catalogued on PulseMCP. Leverages multiple Claude instances to compare and combine responses, delivering optimized answers by selecting the best output or merging insights from parallel AI processing.

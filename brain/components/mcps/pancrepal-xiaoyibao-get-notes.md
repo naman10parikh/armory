@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-14T10:28:46Z"
 ---
 ## What it is
 MCP server `Get Notes`, catalogued on PulseMCP. Integrates with Get Notes (Biji) API to provide knowledge base search and retrieval functionality from Chinese note-taking platforms with multi-knowledge base support, rate limiting, and intelligent document recall.

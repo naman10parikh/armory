@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-06T12:39:46Z"
 ---
 ## What it is
 MCP server `AgentFetch`, catalogued on PulseMCP. Fetch and convert web content to Markdown with smart routing and token counting.

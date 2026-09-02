@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T08:04:37Z"
 ---
 ## What it is
 MCP server for WordPress REST API that enables managing posts, pages, media, comments, categories, tags, and users through 20 tools.

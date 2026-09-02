@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T15:56:15Z"
 ---
 ## What it is
 MCP server for CreateWorker that lets you create and run tasks, manage knowledge, connect apps, and approve actions from AI assistants like Claude and Cursor.

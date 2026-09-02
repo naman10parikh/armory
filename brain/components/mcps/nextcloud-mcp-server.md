@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-03T11:23:16Z"
 ---
 ## What it is
 Enables AI agents to perform file operations and sharing management on NextCloud servers via the Model Context Protocol.

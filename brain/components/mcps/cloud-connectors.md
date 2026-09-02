@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T22:43:00Z"
 ---
 ## What it is
 Monorepo of MCP connectors for personal cloud services (Microsoft and iCloud), enabling access to Outlook Mail, OneDrive, iCloud Mail, and iCloud Drive via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T08:37:20Z"
 ---
 ## What it is
 An MCP server providing infrastructure diagnostic tools including port checks, DNS lookups, log parsing, system health, and SSL certificate inspection.

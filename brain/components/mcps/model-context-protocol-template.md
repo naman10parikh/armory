@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T06:26:49Z"
 ---
 ## What it is
 A production-ready MCP server template that connects LLMs and AI agents to external data, tools, and services with built-in OAuth 2.1 authentication, Redis-backed session management, and a modular tools engine.

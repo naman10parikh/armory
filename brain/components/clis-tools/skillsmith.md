@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [skill-creator, self-improve, claude-harness]
 tags: [skills, authoring, cli, sharing, meta]
+forks: 0
+pushed_at: "2026-06-10T03:24:43Z"
 ---
 
 ## What it is

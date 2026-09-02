@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:04Z"
 ---
 ## What it is
 Enables read-only consultation of official TRT14 tribunal process data through a hosted MCP server with a single tool, pay-per-use pricing, and no platform credentials required.

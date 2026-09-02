@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T02:33:13Z"
 ---
 ## What it is
 An MCP server that exposes Charlotte, NC and Mecklenburg County open data as tools for an LLM agent, enabling queries about trash pickup, parcels, zoning, crime, and more by geocoding addresses and querying live ArcGIS layers.

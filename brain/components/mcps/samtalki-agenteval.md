@@ -8,10 +8,12 @@ source_url: https://github.com/samtalki/agentrepl.jl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-08T00:06:18Z"
 ---
 ## What it is
 MCP server `AgentEval (Julia)`, catalogued on PulseMCP. Provides persistent Julia code evaluation with automatic session management, eliminating startup penalties through maintained variable state and package persistence.

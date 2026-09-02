@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T13:24:06Z"
 ---
 ## What it is
 A cross-AI-agent local task context sharing MCP server that allows clients like Codex, Claude Code, Hermes, and VS Code to read and write the same task state, enabling task tracking and context distillation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T16:27:00Z"
 ---
 ## What it is
 Proxmox home lab management MCP server that enables Claude Code to manage Proxmox VMs, Terraform, Ansible, Kubernetes, ArgoCD, and other lab utilities via HTTP/SSE.

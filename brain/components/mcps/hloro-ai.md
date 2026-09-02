@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T01:49:17Z"
 ---
 ## What it is
 MCP server that translates natural language commands into SCARA robot arm control instructions, featuring simulation mode, safety validation, and multiple transport modes (STDIO/HTTP/OAuth).

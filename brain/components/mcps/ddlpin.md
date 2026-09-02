@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T09:40:53Z"
 ---
 ## What it is
 A local MCP server for task management with deadlines, enabling AI assistants to add, update, complete, and snooze tasks. It integrates with a desktop sticky note and ntfy push notifications for reminders.

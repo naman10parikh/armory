@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-29T21:05:37Z"
 ---
 ## What it is
 MCP server for executing show commands and managing Cisco IOS-XE network devices via async SSH using Scrapli.

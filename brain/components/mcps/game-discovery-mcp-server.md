@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T07:53:57Z"
 ---
 ## What it is
 Discovers and manages installed games on Windows PC from platforms like Steam, Epic Games, GOG, and more. Provides tools to list, get details, and launch games via MCP.

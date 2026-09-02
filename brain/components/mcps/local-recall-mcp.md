@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T03:51:14Z"
 ---
 ## What it is
 Provides fully local long-term memory for AI agents by enabling semantic search over notes and session logs using Ollama embeddings, with no external APIs or databases.

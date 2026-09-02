@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-04T23:31:44Z"
 ---
 ## What it is
 MCP server `Supabase`, catalogued on PulseMCP. Enables AI to perform database operations with Supabase including reading, creating, updating, and deleting records with filtering, pagination, and sorting capabilities.

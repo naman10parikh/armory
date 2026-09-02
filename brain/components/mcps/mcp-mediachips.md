@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T11:36:02Z"
 ---
 ## What it is
 Provides CRUD tools to manage media, tags, playlists, marks, and settings via the Model Context Protocol.

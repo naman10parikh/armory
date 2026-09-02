@@ -8,10 +8,12 @@ source_url: https://github.com/osirishorus/opencoffer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-06T18:29:04Z"
 ---
 ## What it is
 MCP server `OpenCoffer`, catalogued on PulseMCP. Provides tools for managing accounts, transactions, and spending analysis in the OpenCoffer self-hosted finance app.

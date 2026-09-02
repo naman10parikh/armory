@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-22T03:50:46Z"
 ---
 ## What it is
 An MCP server plugin for Claude Code that analyzes local AI session logs to provide coaching on coding patterns, tool usage, and productivity insights via tools and slash commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T19:31:22Z"
 ---
 ## What it is
 A dependency-free MCP server for Mumbai North operations that computes route lateness metrics, exposes underlying late trips, and reports data quality issues to answer whether a route was late and by how much.

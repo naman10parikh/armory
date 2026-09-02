@@ -8,10 +8,12 @@ source_url: https://github.com/pskill9/hn-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2024-12-31T03:28:42Z"
 ---
 ## What it is
 MCP server `Hacker News`, catalogued on PulseMCP. Fetches and parses Hacker News stories using Cheerio, enabling tech news aggregation and trend analysis.

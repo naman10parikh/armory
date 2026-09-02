@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2024-11-30T15:57:20Z"
 ---
 ## What it is
 MCP server `Substack`, catalogued on PulseMCP. Enables downloading and parsing of Substack posts, facilitating content analysis and research workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:55:45Z"
 ---
 ## What it is
 Enables LLMs to search movies and people, retrieve movie details, cast lists, and the IMDB Top 250 through JSON-RPC or MCP protocol.

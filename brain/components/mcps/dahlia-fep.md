@@ -8,10 +8,12 @@ source_url: https://github.com/dahlia/fep-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-23T13:50:02Z"
 ---
 ## What it is
 MCP server `FEP (Fediverse Enhancement Proposals)`, catalogued on PulseMCP. Access and search Fediverse Enhancement Proposals standardization documents

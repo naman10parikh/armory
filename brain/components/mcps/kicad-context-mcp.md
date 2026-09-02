@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T12:21:13Z"
 ---
 ## What it is
 A read-only MCP server for AI agents to understand KiCad projects through progressive disclosure, providing compact summaries and drill-down tools for components, nets, traces, and ERC/DRC checks without blowing context budgets.

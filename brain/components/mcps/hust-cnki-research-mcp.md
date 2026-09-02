@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T06:18:45Z"
 ---
 ## What it is
 Enables AI agents to search, read, and cite Chinese academic papers from CNKI using HUST single sign-on, with support for full-text retrieval, BibTeX export, and PDF download.

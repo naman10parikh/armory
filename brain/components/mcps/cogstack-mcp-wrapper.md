@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-16T14:45:44Z"
 ---
 ## What it is
 Enables querying and analyzing medical cohorts from CogStack via the Model Context Protocol, supporting SNOMED-CT search, cohort creation, and demographic analysis.

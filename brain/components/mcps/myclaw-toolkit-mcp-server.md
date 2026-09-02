@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T10:27:37Z"
 ---
 ## What it is
 A comprehensive developer utility MCP server that provides 23 tools including web search, currency conversion, crypto prices, QR code generation, JSON formatting, and more.

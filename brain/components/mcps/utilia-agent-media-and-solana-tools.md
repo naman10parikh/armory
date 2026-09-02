@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T20:34:17Z"
 ---
 ## What it is
 Wallet-funded MCP client for six paid Utilia tools: Solana priority fees, transaction diagnosis and simulation, token-risk checks, PDF-to-Markdown, and audio normalization over x402. MIT-licensed and installable from npm.

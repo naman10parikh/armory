@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T14:36:18Z"
 ---
 ## What it is
 Enables MCP hosts like Cursor or Claude to query an enterprise knowledge base via stdio, providing RAG-based answers with cited sources.

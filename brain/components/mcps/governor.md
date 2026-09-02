@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T04:30:44Z"
 ---
 ## What it is
 Governor is an MCP server that acts as a safety belt for AI agent payments, providing a three-layer deterministic evaluation (rules, behavior anomaly, and intention coherence) to approve, escalate, or block payments before execution, and integrates directly with Claude Code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T08:39:19Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to perform development operations on remote servers via SSH, including executing commands, managing files, and browsing directories.

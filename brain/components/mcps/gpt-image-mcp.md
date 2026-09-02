@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T02:37:30Z"
 ---
 ## What it is
 An MCP server that enables Claude Code and Claude Desktop to generate and edit images using OpenAI's gpt-image-2 model, with results saved to disk.

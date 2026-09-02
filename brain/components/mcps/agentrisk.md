@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T23:15:28Z"
 ---
 ## What it is
 Provides risk guardrails for AI trading agents by analyzing portfolio risk, checking trades against policies, and generating risk policies.

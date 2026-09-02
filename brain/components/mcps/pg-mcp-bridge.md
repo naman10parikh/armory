@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T15:34:53Z"
 ---
 ## What it is
 A local stdio MCP bridge that enables Cursor to interact with a remote PostgreSQL database through a PHP/Apache HTTP tunnel.

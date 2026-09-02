@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-16T13:34:22Z"
 ---
 ## What it is
 Enables AI agents to deploy static files and get live HTTPS URLs instantly, with support for custom domains and data residency.

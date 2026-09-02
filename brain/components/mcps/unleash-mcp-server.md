@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-10T10:02:32Z"
 ---
 ## What it is
 Enables AI coding assistants to manage Unleash feature flags, including creation, detection, evaluation, and best practices.

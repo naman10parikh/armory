@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-22T13:01:09Z"
 ---
 ## What it is
 A Unity C# plugin that enables AI assistants to write, edit, and test visual novel scripts via the Model Context Protocol, with tools for script CRUD, playback control, input simulation, and visual verification.

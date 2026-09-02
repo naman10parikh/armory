@@ -8,10 +8,12 @@ source_url: https://github.com/spencerhhubert/illustrator-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2024-12-16T23:43:44Z"
 ---
 ## What it is
 MCP server `Adobe Illustrator`, catalogued on PulseMCP. Integrates with Adobe Illustrator on MacOS using JavaScript and AppleScript to enable creation and manipulation of vector graphics for automated design tasks.

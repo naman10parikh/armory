@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T07:59:50Z"
 ---
 ## What it is
 Connects self-hosted WordPress sites to AI assistants for content creation, SEO, media management, and WooCommerce via 163 tools across 33 categories.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-07T12:29:38Z"
 ---
 ## What it is
 MCP server `Postgres Scout`, catalogued on PulseMCP. Production-ready PostgreSQL database exploration with safety features, monitoring, and data quality tools.

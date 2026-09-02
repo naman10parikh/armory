@@ -8,10 +8,12 @@ source_url: https://github.com/madosh/mcp-itsm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T05:06:30Z"
 ---
 ## What it is
 MCP server `ITSM Integration`, catalogued on PulseMCP. Integrates with multiple IT Service Management systems (ServiceNow, Jira, Zendesk, Ivanti Neurons, and Cherwell) to enable ticket creation, retrieval, updates, assignment, and knowledge base searches through a unified interface.

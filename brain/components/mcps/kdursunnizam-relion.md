@@ -8,10 +8,12 @@ source_url: https://github.com/kdursunnizam-art/relion-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-31T04:04:15Z"
 ---
 ## What it is
 MCP server `RELION`, catalogued on PulseMCP. MCP server for RELION 5.x cryo-EM structure determination with 23 tools covering single-particle analysis workflows.

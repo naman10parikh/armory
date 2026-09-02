@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T01:23:49Z"
 ---
 ## What it is
 Calculates Body Mass Index (BMI) based on weight and height, returning the value and classification.

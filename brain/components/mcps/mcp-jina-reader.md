@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T23:04:30Z"
 ---
 ## What it is
 Jina AI Reader/Search MCP that turns any URL into clean LLM-ready markdown and provides web search.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T05:33:49Z"
 ---
 ## What it is
 Connects AI agents to Teradata databases for querying, analysis, administration, and AI pipelines with enterprise security.

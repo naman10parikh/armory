@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T06:35:59Z"
 ---
 ## What it is
 Provides an AI-powered insurance assistant with tools for customer, policy, claim, premium, fraud detection, and policy renewal operations.

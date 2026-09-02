@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:44:54Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve documentation, component specs, theme guides, and CLI commands for the Meta Astryx Design System, providing structured tools and guidelines for coding agents.

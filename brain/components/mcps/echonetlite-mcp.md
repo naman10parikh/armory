@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T01:25:07Z"
 ---
 ## What it is
 Enables control of ECHONETLite home automation devices like air conditioners and sensors via MCP, supporting HVAC management and real-time monitoring.

@@ -12,6 +12,8 @@ stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-22T08:17:40Z"
 ---
 ## What it is
 MCP server `Playwrightess (Playwright)`, catalogued on PulseMCP. Provides a persistent Playwright evaluation environment through a single JavaScript execution tool that maintains browser, context, and page state between code evaluations for complex multi-step web automation workflows.

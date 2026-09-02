@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:59:21Z"
 ---
 ## What it is
 MCP server `Repology`, catalogued on PulseMCP. Compares package versions across 350+ Linux distributions and repositories via Repology.

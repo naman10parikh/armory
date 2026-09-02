@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T13:58:31Z"
 ---
 ## What it is
 MCP server `Overtone News`, catalogued on PulseMCP. Real-time news with tone analysis, brand safety scoring, and narrative shift signals for AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 15
+pushed_at: "2026-08-05T03:51:51Z"
 ---
 ## What it is
 Enables semantic search across your local AI conversation history (ChatGPT, Claude, etc.) and provides tools to retrieve context, capture thoughts, and get profile summaries.

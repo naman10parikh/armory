@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:09Z"
 ---
 ## What it is
 Enables consultation of official Brazilian vehicle lien (gravames) records via a single read-only, hosted, pay-per-use MCP tool.

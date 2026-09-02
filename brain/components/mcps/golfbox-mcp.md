@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-08T07:05:18Z"
 ---
 ## What it is
 A local MCP server for GolfBox tee-time workflows that lets agent clients authenticate, list clubs, search tee times, manage bookings, and prepare bookings with conservative safety defaults.

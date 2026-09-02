@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T03:40:08Z"
 ---
 ## What it is
 MCP server `Junos`, catalogued on PulseMCP. Manages and monitors Juniper Networks JunOS devices programmatically.

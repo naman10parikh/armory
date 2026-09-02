@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T00:05:19Z"
 ---
 ## What it is
 A lightweight MCP server that serves a curated collection of cat jokes to LLM clients, supporting tools for random jokes by category, search, and resource access.

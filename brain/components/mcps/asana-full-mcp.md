@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T19:35:16Z"
 ---
 ## What it is
 Exposes the full Asana REST API via an MCP server, enabling operations like task management and workspace queries, with configurable safety guardrails.

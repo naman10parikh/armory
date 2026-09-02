@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T09:20:53Z"
 ---
 ## What it is
 Processes PDF emails from Gmail, generates structured surveys using Gemini, and sends HTML replies automatically via a queued workflow.

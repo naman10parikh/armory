@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-15T02:22:58Z"
 ---
 ## What it is
 MCP server `Puppeteer`, catalogued on PulseMCP. Enables browser automation within Home Assistant through Puppeteer, providing web navigation, element interaction, screenshot capture, and JavaScript execution capabilities in a containerized environment.

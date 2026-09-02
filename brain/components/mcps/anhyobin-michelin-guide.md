@@ -8,10 +8,12 @@ source_url: https://github.com/anhyobin/michelin-guide-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-24T06:56:27Z"
 ---
 ## What it is
 MCP server `Michelin Guide`, catalogued on PulseMCP. Search 18,900+ Michelin Guide restaurants worldwide with multi-criteria filtering and SQLite FTS5.

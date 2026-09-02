@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T18:36:40Z"
 ---
 ## What it is
 An MCP server that enables searching and researching Hadith through Dorar.net inside Claude Desktop, providing authentic search results, grading, and commentary.

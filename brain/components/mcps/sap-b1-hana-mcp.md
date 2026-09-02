@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T03:56:43Z"
 ---
 ## What it is
 Enables querying SAP Business One HANA databases through direct SQL, including read-only safeguards and tools for inspecting schemas, tables, and table structures.

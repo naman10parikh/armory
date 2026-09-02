@@ -8,10 +8,12 @@ source_url: https://github.com/tolenonetwork/toleno-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 156
+stars: 202
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-02-25T08:17:44Z"
 ---
 ## What it is
 MCP server `Toleno Network`, catalogued on PulseMCP. Manage Toleno mining accounts with natural language commands.

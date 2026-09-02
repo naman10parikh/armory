@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T03:05:49Z"
 ---
 ## What it is
 Manages Claude Code configuration and provides cross-session intelligent memory via the Luoshu system, enabling Claude to remember decisions and project context across conversations.

@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2024-11-30T01:54:31Z"
 ---
 ## What it is
 MCP server `macOS Defaults`, catalogued on PulseMCP. Enables interaction with macOS system preferences via the 'defaults' command for querying and modifying configurations.

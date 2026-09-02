@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-28T19:15:48Z"
 ---
 ## What it is
 Enables AI assistants to search the internet using DuckDuckGo and extract clean, formatted content from web pages.

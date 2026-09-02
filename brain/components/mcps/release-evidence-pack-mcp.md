@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T07:52:43Z"
 ---
 ## What it is
 A read-only Model Context Protocol server that converts local Git changes and JUnit XML reports into traceable release evidence, risk findings, and a rollback checklist.

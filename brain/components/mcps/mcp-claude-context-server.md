@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-02T14:28:02Z"
 ---
 ## What it is
 A powerful MCP server that extracts, stores, searches, and analyzes Claude.ai conversations with SQLite database, semantic search, and multiple export formats including Obsidian and PDF.

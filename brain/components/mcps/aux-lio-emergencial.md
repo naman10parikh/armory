@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:21:03Z"
 ---
 ## What it is
 Verifies the receipt of the Brazilian Auxílio Emergencial (emergency aid) by a beneficiary using CPF and NIS. It is a read-only, hosted MCP server that works with any MCP client.

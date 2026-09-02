@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T18:53:29Z"
 ---
 ## What it is
 MCP server `Bilt`, catalogued on PulseMCP. Build and deploy mobile apps through natural language.

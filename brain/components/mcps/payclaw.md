@@ -8,10 +8,12 @@ source_url: https://github.com/kyalabs-io/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-22T05:35:50Z"
 ---
 ## What it is
 MCP server `PayClaw`, catalogued on PulseMCP. Issue virtual Visa cards for AI agents with just-in-time provisioning and human approval.

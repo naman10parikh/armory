@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-23T17:24:51Z"
 ---
 ## What it is
 Enables interaction with OpenSearch clusters, providing tools to list indices, retrieve mappings, search using query DSL, and get shard information.

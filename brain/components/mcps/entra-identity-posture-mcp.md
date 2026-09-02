@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T09:49:18Z"
 ---
 ## What it is
 Enables auditing and monitoring of Microsoft Entra ID security posture, Conditional Access policies, and Zero Trust alignment via Microsoft Graph API.

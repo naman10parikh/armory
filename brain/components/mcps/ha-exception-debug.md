@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T07:57:58Z"
 ---
 ## What it is
 A live post-mortem debugger MCP server for Home Assistant that lets AI agents list captured exceptions, walk traceback frames, read local variables, and optionally evaluate Python in the context of a captured frame for true post-mortem debugging.

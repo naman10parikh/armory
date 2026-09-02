@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:41:54Z"
 ---
 ## What it is
 MCP server that connects Cursor IDE to Inky backend, enabling users to list and filter personalized coding rules stored in Pinecone.

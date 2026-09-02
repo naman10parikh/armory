@@ -8,10 +8,12 @@ source_url: https://github.com/r-lz/mcp-video-digest
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-03T03:31:55Z"
 ---
 ## What it is
 MCP server `Video Digest`, catalogued on PulseMCP. Transcribes and analyzes video content from sources like YouTube using multiple transcription services with automatic fallback for reliable text extraction from audio.

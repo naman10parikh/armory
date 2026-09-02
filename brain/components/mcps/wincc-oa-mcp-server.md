@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-29T05:10:47Z"
 ---
 ## What it is
 A Model Context Protocol server that bridges AI assistants with WinCC OA projects, enabling natural language queries for datapoint search, manager management, and CTL script execution.

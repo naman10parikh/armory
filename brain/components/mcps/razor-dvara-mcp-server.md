@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T04:33:36Z"
 ---
 ## What it is
 Enables COD commerce checkout agents to enforce merchant-defined cash-on-delivery rules, partial prepayment, offers, delivery risk scoring, and serviceability checks, with audit-trail logging and fail-closed degraded behavior.

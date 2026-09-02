@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T15:03:59Z"
 ---
 ## What it is
 Operates Tencent Docs spreadsheet cells by reading boundaries, clicking, and inputting text via Playwright MCP, with caching options for efficiency.

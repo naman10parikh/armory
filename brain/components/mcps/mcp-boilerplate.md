@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-05-31T15:11:09Z"
 ---
 ## What it is
 A boilerplate for deploying a remote MCP server on Google Cloud with authentication, enabling experimentation with MCP tools.

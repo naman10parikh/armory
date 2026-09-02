@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-02T21:00:54Z"
 ---
 ## What it is
 Enables agents to display status readouts in the Mac's notch area via MCP, with multiple styles and progress indicators.

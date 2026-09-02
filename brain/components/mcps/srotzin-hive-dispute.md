@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T22:56:46Z"
 ---
 ## What it is
 MCP server `Hive Dispute`, catalogued on PulseMCP. Surfaces dispute history and arbitration signals from Kleros, UMA, and Reality.eth before agents commit to counterparty payments.

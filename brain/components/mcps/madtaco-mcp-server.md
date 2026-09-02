@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T18:13:31Z"
 ---
 ## What it is
 Provides verification and utility APIs for AI agents to validate tax IDs, screen sanctions, verify companies, and inspect domains using prepaid USD credits, with no charge for failed checks.

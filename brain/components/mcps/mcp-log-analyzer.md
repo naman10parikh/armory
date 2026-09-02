@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T22:04:48Z"
 ---
 ## What it is
 Analyzes log files locally using Ollama and files structured GitHub Issues automatically, with all processing kept on your machine.

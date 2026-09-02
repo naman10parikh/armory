@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T18:29:07Z"
 ---
 ## What it is
 Enables discovery and scoring of independent local businesses by inverting algorithmic rankings that favor chains, using Google Places API with an opinionated independence-scoring engine.

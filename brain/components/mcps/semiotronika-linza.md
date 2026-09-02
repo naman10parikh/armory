@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-13T00:35:12Z"
 ---
 ## What it is
 MCP server `LINZA`, catalogued on PulseMCP. Local-first MCP sidecar for Markdown knowledge artifacts, review cards, and supervised learning.

@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-05T19:47:44Z"
 ---
 ## What it is
 MCP server `Windows Terminal`, catalogued on PulseMCP. Windows Terminal settings management with JSON Patch operations, fragment extensions, Oh My Posh themes, and shell integration.

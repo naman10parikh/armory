@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:15Z"
 ---
 ## What it is
 MCP server for querying DETRAN CE (Ceará) traffic fine issuance data from an official source, with a single read-only tool. It operates over MCP over HTTP, compatible with Claude, Cursor, and other clients, using prepaid credits.

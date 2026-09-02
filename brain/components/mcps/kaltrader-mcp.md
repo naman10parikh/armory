@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T19:55:00Z"
 ---
 ## What it is
 Enables AI assistants to trade on Kalshi through natural language, including placing orders, market data access, portfolio management, and paper trading with safety guardrails.

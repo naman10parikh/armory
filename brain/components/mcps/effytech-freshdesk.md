@@ -8,10 +8,12 @@ source_url: https://github.com/effytech/freshdesk_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 49
+pushed_at: "2026-07-30T12:27:17Z"
 ---
 ## What it is
 MCP server `Freshdesk`, catalogued on PulseMCP. Integrate AI models with Freshdesk to automate support operations. Create, update, and manage support tickets seamlessly through the Freshdesk API. Enhance your customer support experience with automated ticket management and AI-driven interactions.

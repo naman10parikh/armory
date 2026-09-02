@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T15:15:34Z"
 ---
 ## What it is
 Enables AI assistants to search LinkedIn's Ad Library for sponsored ads, job postings, and paid endorsements, providing insights into competitor strategies and hiring signals.

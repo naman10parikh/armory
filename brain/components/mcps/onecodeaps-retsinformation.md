@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-10T14:25:07Z"
 ---
 ## What it is
 MCP server `Retsinformation (Danish Law)`, catalogued on PulseMCP. Provides access to Danish laws, bills, parliamentary cases, actors, and legislative history through the Retsinformation API.

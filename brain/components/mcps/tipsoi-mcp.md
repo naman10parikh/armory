@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T06:36:13Z"
 ---
 ## What it is
 Read-only MCP server for the Tipsoi HRM API, exposing 15 tools to read employee data, attendance, leave, overtime, and more.

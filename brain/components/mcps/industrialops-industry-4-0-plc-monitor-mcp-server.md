@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T18:48:16Z"
 ---
 ## What it is
 Enables LLMs to connect to factory PLC sensors, read register data, analyze predictive maintenance, and monitor energy consumption in industrial environments.

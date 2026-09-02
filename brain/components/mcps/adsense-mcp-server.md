@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-20T04:52:07Z"
 ---
 ## What it is
 Connects Google AdSense to MCP clients like Claude and Cursor, enabling earnings summaries, detailed reports, site status checks, and more via natural language.

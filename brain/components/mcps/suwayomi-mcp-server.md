@@ -8,11 +8,13 @@ source_url: https://github.com/Augumenter/suwayomi-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T08:14:15Z"
 ---
 ## What it is
 Enables AI assistants to manage a self-hosted Suwayomi manga library through natural language, including searching, adding titles, and downloading chapters.

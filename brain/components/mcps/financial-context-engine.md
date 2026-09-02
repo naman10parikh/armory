@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T08:04:02Z"
 ---
 ## What it is
 An MCP server that exposes personal financial data — transaction ledger, portfolio holdings, live/historical market prices, and quantitative risk metrics — as standardized tools, resources, and prompts, enabling natural language reasoning over real computed numbers.

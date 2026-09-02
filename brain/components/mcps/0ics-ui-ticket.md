@@ -8,10 +8,12 @@ source_url: https://github.com/0ics-srls/ui-ticket-mcp_public
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-30T07:22:21Z"
 ---
 ## What it is
 MCP server `UI Ticket`, catalogued on PulseMCP. Human-to-AI code review bridge for UI prototypes with browser annotations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-22T07:36:21Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve detailed package information from multiple package registries (NPM, crates.io, NuGet, PyPI, Go).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-14T00:11:07Z"
 ---
 ## What it is
 Enables Claude to manage Gmail, Google Calendar, and Google Drive, including sending emails, scheduling meetings, and organizing files, with integrated workflows.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-19T00:53:06Z"
 ---
 ## What it is
 MCP server `Airdrop Eligibility Checker`, catalogued on PulseMCP. Checks wallet eligibility for active and upcoming cryptocurrency airdrops including LayerZero, EigenLayer, and Scroll.

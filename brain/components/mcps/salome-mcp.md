@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-17T21:00:27Z"
 ---
 ## What it is
 MCP server for SALOME that enables agents to create and manipulate CAD geometries and meshes, including primitive creation, boolean operations, and mesh generation with Netgen.

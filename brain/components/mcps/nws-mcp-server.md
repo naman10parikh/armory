@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T06:34:00Z"
 ---
 ## What it is
 MCP server that integrates the National Weather Service API to fetch weather alerts for US states and forecasts for coordinates.

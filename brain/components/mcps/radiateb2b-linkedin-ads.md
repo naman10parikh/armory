@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-12T10:12:48Z"
 ---
 ## What it is
 MCP server `LinkedIn Ads`, catalogued on PulseMCP. Analyse your LinkedIn Ads performance. Compare to benchmarks and get optimisation recommendations.

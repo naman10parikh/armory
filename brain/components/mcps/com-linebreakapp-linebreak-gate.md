@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T13:17:47Z"
 ---
 ## What it is
 Enables coding agents to access approved user stories and acceptance criteria via MCP, with tools to list, retrieve, update, and check story requirements against the working tree.

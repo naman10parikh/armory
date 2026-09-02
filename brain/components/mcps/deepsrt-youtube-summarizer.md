@@ -8,10 +8,12 @@ source_url: https://github.com/deepsrt/deepsrt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-14T00:40:34Z"
 ---
 ## What it is
 MCP server `DeepSRT`, catalogued on PulseMCP. Integrates with DeepSRT's API to generate multi-language video summaries in narrative or bullet-point formats, leveraging content caching and CDN edge delivery for efficient retrieval.

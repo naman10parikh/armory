@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T20:46:52Z"
 ---
 ## What it is
 Read-only MySQL database access via MCP. Enables listing databases, tables, schemas, running SELECT queries, and EXPLAIN plans.

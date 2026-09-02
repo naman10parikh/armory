@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-28T18:01:32Z"
 ---
 ## What it is
 Deploys an MCP server on Azure Container Apps that exposes Azure ML managed online endpoints as tools, enabling AI agents like Azure AI Foundry to invoke machine learning models via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T13:04:35Z"
 ---
 ## What it is
 Find discounted food waste from Danish supermarkets (Salling Group) via the Model Context Protocol. Provides tools to search nearby stores or get products by store ID.

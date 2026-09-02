@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T20:12:43Z"
 ---
 ## What it is
 An MCP server for public stash-box metadata catalogues, enabling search of scenes and performers, reading records, and identifying files via fingerprints.

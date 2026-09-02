@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T10:13:13Z"
 ---
 ## What it is
 MCP server providing deep PostgreSQL context to AI assistants, including schema DDL, index health, foreign key associations, query execution plans, and performance statistics via read-only tools.

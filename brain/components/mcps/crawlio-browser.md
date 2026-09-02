@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T05:43:13Z"
 ---
 ## What it is
 MCP server that gives AI full control of a live Chrome browser via CDP, with 145 tools for framework-aware intelligence, evidence analysis, and SEO auditing. Connects to your existing Chrome via an extension, enabling interaction with dynamic and authenticated web pages.

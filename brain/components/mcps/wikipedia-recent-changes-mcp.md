@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:41:14Z"
 ---
 ## What it is
 MCP server providing live Wikipedia recent changes feed, page summaries, trending pages, and Wikidata entity lookup.

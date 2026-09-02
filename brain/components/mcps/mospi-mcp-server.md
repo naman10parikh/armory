@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-03T09:09:02Z"
 ---
 ## What it is
 MCP server for accessing India's Ministry of Statistics and Programme Implementation (MoSPI) data APIs. Enables natural language queries for economic, demographic, and social indicators via a 4-tool workflow.

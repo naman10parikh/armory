@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-09T00:38:48Z"
 ---
 ## What it is
 A Django CMS plugin that provides Model Context Protocol (MCP) server functionality, enabling AI assistants like Claude to directly interact with, manage, and create content in your Django CMS installation through natural language.

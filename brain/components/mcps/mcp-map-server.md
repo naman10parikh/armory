@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T10:09:46Z"
 ---
 ## What it is
 MCP服务器，为LLM提供高德和百度地图的地理编码、POI搜索、路径规划、天气查询等功能。

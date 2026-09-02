@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T23:03:53Z"
 ---
 ## What it is
 Local MCP server for interacting with Umbrella Lua scripts and match state, enabling runtime status, script management, and game data inspection.

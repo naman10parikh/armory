@@ -8,11 +8,13 @@ source_url: https://github.com/zhehaosun717/sunami-grok-search
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T08:36:10Z"
 ---
 ## What it is
 Provides AI-driven web search, page fetching, and site mapping with real xAI citations, enabling LLM clients to access up-to-date external information.

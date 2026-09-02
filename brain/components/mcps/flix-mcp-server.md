@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T13:18:44Z"
 ---
 ## What it is
 AI model call interface for Flix LAN file transfer app, enabling device discovery, messaging, file transfer, clipboard sync, and integration with AI clients like Claude Desktop.

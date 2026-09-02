@@ -8,10 +8,12 @@ source_url: https://github.com/moonolgerd/game-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-20T07:53:57Z"
 ---
 ## What it is
 MCP server `Game Discovery`, catalogued on PulseMCP. Discovers and manages installed games on Windows from Steam, Epic, GOG, Xbox, and other platforms

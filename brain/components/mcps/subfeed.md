@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-15T14:12:17Z"
 ---
 ## What it is
 MCP server `Subfeed`, catalogued on PulseMCP. Cloud platform for AI agents to register, build, and deploy other agents autonomously.

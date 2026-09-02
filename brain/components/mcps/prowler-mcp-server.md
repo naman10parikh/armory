@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-08T10:59:20Z"
 ---
 ## What it is
 Enables analysis of Prowler security scan results, providing detailed security analysis, security summary, and file retrieval capabilities.

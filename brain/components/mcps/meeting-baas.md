@@ -8,10 +8,12 @@ source_url: https://github.com/meeting-baas/meeting-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-06-30T09:49:13Z"
 ---
 ## What it is
 MCP server `Meeting BaaS`, catalogued on PulseMCP. Automates meeting management across Zoom, Google Meet, and Microsoft Teams with tools for recording, transcribing, searching, and sharing meeting content without manual note-taking.

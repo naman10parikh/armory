@@ -8,10 +8,12 @@ source_url: https://github.com/jordandalton/doordash-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-16T23:47:33Z"
 ---
 ## What it is
 MCP server `DoorDash Drive API`, catalogued on PulseMCP. Provides a bridge to the DoorDash Drive API for managing delivery services, creating quotes, handling business operations, and store management without writing complex API interaction code

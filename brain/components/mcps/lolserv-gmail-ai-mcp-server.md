@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-26T12:37:34Z"
 ---
 ## What it is
 Provides AI-powered Gmail tools for email analysis, summarization, drafting replies, and content rewriting with full MCP protocol support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:52:00Z"
 ---
 ## What it is
 MCP server that ingests Substack newsletters from Zoho Mail, archives them locally, and provides search and cross-author topic analysis tools for reading and comparing articles.

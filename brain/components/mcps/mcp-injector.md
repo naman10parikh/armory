@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T09:17:47Z"
 ---
 ## What it is
 Persistent daemon that compresses codebases via AST body folding before indexing them for AI coding assistants like Claude Code and Cursor 57-89% token reduction with sub-millisecond queries, verified on Django, Spring, and Next.js.

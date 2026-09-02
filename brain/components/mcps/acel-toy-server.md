@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T12:26:37Z"
 ---
 ## What it is
 Demo MCP server for ACEL, a runtime verification middleware that blocks a rule-violating tool call before it executes. 5 tools (authenticate, read/validate/delete records, send payment) showing ACEL enforcing call ordering and state preconditions live via the official MCP SDK's middleware hook.

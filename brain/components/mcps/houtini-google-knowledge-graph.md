@@ -8,10 +8,12 @@ source_url: https://github.com/houtini-ai/google-knowledge-graph-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-08T17:58:28Z"
 ---
 ## What it is
 MCP server `Google Knowledge Graph`, catalogued on PulseMCP. Search Google's Knowledge Graph for structured information about real-world entities including people, places, and organizations.

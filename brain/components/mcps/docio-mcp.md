@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-02T14:01:43Z"
 ---
 ## What it is
 Enables document conversion between 50+ formats, including Excel and PDF, using Pandoc with automatic format detection and caching.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-09T01:05:09Z"
 ---
 ## What it is
 MCP server that wraps the jira-cli command-line tool to enable AI assistants to interact with Jira.

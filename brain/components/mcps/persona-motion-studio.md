@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T12:12:47Z"
 ---
 ## What it is
 Enables AI assistants to show, animate, and control a VRM character on the desktop, including posing and motion installation via MCP tools.

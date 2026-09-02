@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T22:05:11Z"
 ---
 ## What it is
 Generates and validates ISO 20022 Exceptions & Investigations payment cancellation messages (camt.056) with XSD validation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T06:34:46Z"
 ---
 ## What it is
 Hosted, read-only MCP server for US market intelligence: US market mood, per-stock sentiment and the SentiSense Score, sentiment-tagged market-moving news, analyst ratings, and institutional 13F flows.

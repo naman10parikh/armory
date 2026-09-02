@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T19:42:42Z"
 ---
 ## What it is
 Enables AI tools to query sports tournaments, leaderboards, predictions, and match stats from the Tulidu Sport platform.

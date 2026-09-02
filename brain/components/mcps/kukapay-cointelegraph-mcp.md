@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 12
+forks: 7
+pushed_at: "2025-04-11T11:29:42Z"
 ---
 ## What it is
 Providing real-time access to the latest news from Cointelegraph.

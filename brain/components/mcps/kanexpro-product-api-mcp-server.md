@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T09:57:20Z"
 ---
 ## What it is
 Exposes KanexPro CMS API as tools for Claude, enabling product lookup, category listing, and content publishing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-21T00:18:56Z"
 ---
 ## What it is
 Enables Claude Code to execute shell commands, Python code, and file transfers on a Google Colab T4 GPU via an MCP server, bridging the GPU gap for AI coding agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T06:17:27Z"
 ---
 ## What it is
 Unofficial MCP server for NAVER WORKS Drive admin tasks, enabling shared-drive governance, permission management, and file operations via service-account delegation.

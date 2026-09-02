@@ -8,10 +8,12 @@ source_url: https://github.com/benedictdebrah/materials-project-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-20T18:52:12Z"
 ---
 ## What it is
 MCP server `Materials Project`, catalogued on PulseMCP. Provides direct access to the Materials Project database for querying crystal structures, electronic properties, phonon data, magnetic properties, and thermodynamic stability through 23 specialized tools designed for materials science research.

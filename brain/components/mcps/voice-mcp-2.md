@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:32:07Z"
 ---
 ## What it is
 An MCP server for AI voice synthesis with an inline audio player, allowing users to give their AI assistant a custom cloned voice using DashScope or ElevenLabs.

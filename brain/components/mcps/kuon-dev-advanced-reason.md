@@ -12,6 +12,8 @@ stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-19T18:10:50Z"
 ---
 ## What it is
 MCP server `Advanced Reasoning with DeepSeek`, catalogued on PulseMCP. Leverages the deepseek-r1 model to provide structured reasoning capabilities through specialized tools for analytical thinking, reflection with quality scoring, and sequential problem-solving with branching thoughts.

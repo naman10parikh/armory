@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T15:39:16Z"
 ---
 ## What it is
 Exposes structured code generation tools via MCP protocol, enabling users to generate production-grade Python functions, refactor buggy code, and create multi-function modules using local or cloud-based OpenAI-compatible APIs.

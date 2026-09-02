@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-06-24T04:40:49Z"
 ---
 ## What it is
 Enables AI assistants to create, modify, and manage Penpot designs programmatically, providing full manipulation capabilities for the open-source design tool.

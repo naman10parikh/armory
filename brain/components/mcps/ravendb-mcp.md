@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-01T19:50:54Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI assistants to interact with RavenDB databases through a standardized interface, supporting document operations, collection exploration, and RQL queries.

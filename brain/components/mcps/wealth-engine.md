@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T19:51:03Z"
 ---
 ## What it is
 A personal finance and business economics MCP server that provides math-backed answers to financial questions, including investment growth, loan amortization, debt payoff strategies, and tax estimation, all computed locally without API keys or network calls.

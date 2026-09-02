@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:41:03Z"
 ---
 ## What it is
 Enables controlling an autonomous Minecraft Java Edition player through MCP, with structured world perception, navigation, gathering, crafting, combat, building, skill-based task execution, and long-term memory integration.

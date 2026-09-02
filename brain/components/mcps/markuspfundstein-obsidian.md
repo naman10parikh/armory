@@ -8,10 +8,12 @@ source_url: https://github.com/markuspfundstein/mcp-obsidian
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3777
+stars: 4360
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 498
+pushed_at: "2026-08-31T11:49:01Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Access and modify notes in Obsidian vaults via REST API.

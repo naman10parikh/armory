@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-08T11:57:01Z"
 ---
 ## What it is
 A Model Context Protocol server that acts as a bridge, allowing LLMs and AI agents to control a web browser using WebdriverIO.

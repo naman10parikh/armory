@@ -8,10 +8,12 @@ source_url: https://github.com/stephanj/mcpjavafilesystem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-05-05T00:14:42Z"
 ---
 ## What it is
 MCP server `Filesystem`, catalogued on PulseMCP. Provides a filesystem and web access server that enables interaction with local files and web resources through standardized tools, supporting operations like reading, writing, searching, and editing files, as well as fetching web page content with robust error handling.

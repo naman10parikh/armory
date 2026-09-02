@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-16T15:39:19Z"
 ---
 ## What it is
 MCP server `Azure Impact Reporter`, catalogued on PulseMCP. Enables AI to report Azure infrastructure issues by authenticating with Azure credentials and submitting standardized workload impact reports through the Azure Management API

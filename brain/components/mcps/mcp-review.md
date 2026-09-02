@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T01:11:28Z"
 ---
 ## What it is
 An MCP server for in-loop design review of web previews. It enables agents to submit a preview URL, receive structured findings with suggested fixes, and recheck after applying changes, while never editing code itself.

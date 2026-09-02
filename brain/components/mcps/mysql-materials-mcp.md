@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:02:07Z"
 ---
 ## What it is
 Enables querying a MySQL database of metallurgical materials and alloys via natural language, allowing users to list alloy types, filter grades by type, and retrieve full details of a grade with all related data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T23:17:07Z"
 ---
 ## What it is
 Exposes GOV.UK Frontend components and Design System patterns and styles as MCP resources for use with AI assistants.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-19T05:34:17Z"
 ---
 ## What it is
 MCP server `OpenViking`, catalogued on PulseMCP. Provides semantic search, document reading, and content retrieval through OpenViking's context database for managing knowledge bases.

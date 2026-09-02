@@ -8,10 +8,12 @@ source_url: https://github.com/agentic-ops/real-estate-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-08-26T08:02:55Z"
 ---
 ## What it is
 MCP server `Real Estate Data Manager`, catalogued on PulseMCP. Provides mock real estate data management with property listings, agent profiles, client databases, and market analytics for Riverside, California, enabling property search, client-property matching, market analysis, and area comparisons.

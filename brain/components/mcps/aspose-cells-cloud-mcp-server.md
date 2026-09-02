@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T14:55:46Z"
 ---
 ## What it is
 Automates Microsoft Excel spreadsheet creation and editing via MCP tools for any MCP-compatible client.

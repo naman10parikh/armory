@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-08T11:22:35Z"
 ---
 ## What it is
 MCP server `MacOS Clipboard`, catalogued on PulseMCP. Integrates with the MacOS clipboard to enable reading and writing of system clipboard content for text processing and data transfer tasks.

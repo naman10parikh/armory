@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T01:21:36Z"
 ---
 ## What it is
 A remote MCP server that guides agents through taste extraction exercises to produce a portable taste profile (style guide, worldview, voice patterns, etc.), enabling agents to serve your work without flattening it.

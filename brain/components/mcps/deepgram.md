@@ -13,6 +13,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 2
+forks: 1
+pushed_at: "2026-05-06T14:45:10Z"
 ---
 ## What it is
 MCP server `Deepgram`, catalogued on PulseMCP. Integrates Deepgram speech and audio intelligence APIs with AI assistants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T12:53:07Z"
 ---
 ## What it is
 MCP server for managing Google Cloud TPU capacity and serving Gemma 4 with vLLM, including provisioning, debugging, benchmarking, and teardown.

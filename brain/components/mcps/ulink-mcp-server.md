@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T17:00:15Z"
 ---
 ## What it is
 Enables AI assistants to manage ULink deep linking projects, including creating smart links, configuring domains, and viewing analytics.

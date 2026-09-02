@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-18T06:11:44Z"
 ---
 ## What it is
 An MCP server for managing contextual data as markdown files with metadata, enabling agents to save, retrieve, search, and delete contexts using simple CRUD operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T12:55:31Z"
 ---
 ## What it is
 Enables ChatGPT to search for books via Algolia or mock data, returning rich book details.

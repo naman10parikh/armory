@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T14:11:03Z"
 ---
 ## What it is
 Provides an MCP server for programmatic reading, authoring, editing, designing, and optimization of Apple Keynote presentations.

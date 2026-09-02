@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T10:12:34Z"
 ---
 ## What it is
 Engram is an epistemic engine that provides persistent, confidence-ranked memory with contradiction detection and autonomous learning, enabling AI coding agents to recall and reason across projects via MCP.

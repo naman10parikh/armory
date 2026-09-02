@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-01T16:00:53Z"
 ---
 ## What it is
 MCP server `Memory`, catalogued on PulseMCP. Persistent conversational memory with semantic search using PostgreSQL and pgvector, combining traditional memory storage with confidence scoring and a bidirectional knowledge graph for entity relationships

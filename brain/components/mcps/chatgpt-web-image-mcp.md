@@ -8,11 +8,13 @@ source_url: https://github.com/leixyou/chatgpt-web-image-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-14T03:56:27Z"
 ---
 ## What it is
 A local MCP/CLI tool that uses a Chrome profile with an active ChatGPT web session to submit image generation prompts and return saved images as MCP content.

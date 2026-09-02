@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:05:54Z"
 ---
 ## What it is
 This is an MCP server for the BillingServ API. Once it's set up, your AI assistant can look up customers, invoices, orders, packages, and reports straight from your BillingServ installation

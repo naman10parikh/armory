@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-19T03:10:27Z"
 ---
 ## What it is
 A self-hosted MCP server for managing email, calendar, and cloud storage across Microsoft 365, Google Workspace, and IMAP accounts, enabling natural language interaction through any MCP client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T04:37:47Z"
 ---
 ## What it is
 Provides AI clients read-only access to WeChat chat history by extracting and decrypting the local Mac database, enabling search, summary, and analysis of messages.

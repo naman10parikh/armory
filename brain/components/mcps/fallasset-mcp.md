@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T16:17:56Z"
 ---
 ## What it is
 Model Context Protocol server that lets Claude Desktop/Code drive a headless asset library — add files, rate, tag, label, collect, filter, sort, and route natural-language intents.

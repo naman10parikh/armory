@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T10:55:32Z"
 ---
 ## What it is
 MCP server for fetching Confluence Wiki content, including pages, search, attachments, comments, and references, with automatic authentication via a managed Chrome profile.

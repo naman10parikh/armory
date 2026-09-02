@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-20T14:44:20Z"
 ---
 ## What it is
 A robot-control MCP server enabling LLMs to control Unitree robots and DJI Tello drones with mock and hardware backends, built-in routines, and sequence execution.

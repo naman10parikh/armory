@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-16T07:41:29Z"
 ---
 ## What it is
 MCP server `Google Sheets`, catalogued on PulseMCP. Integrates with Google Sheets to enable spreadsheet creation, editing, and formatting capabilities through specialized Python tools built with FastMCP framework, requiring Google Cloud OAuth authentication.

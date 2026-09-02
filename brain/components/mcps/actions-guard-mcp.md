@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T14:07:36Z"
 ---
 ## What it is
 Scans GitHub Actions workflow files for dangerous triggers, template injection, unpinned actions, excessive permissions, and secrets in shell commands before they are committed, exposing the checks as MCP tools for agents.

@@ -8,10 +8,12 @@ source_url: https://github.com/theastraway/mind-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-10T21:59:51Z"
 ---
 ## What it is
 MCP server `Mind`, catalogued on PulseMCP. Personal knowledge graph AI memory with 15 tools, emotional intelligence, CRM, and social features.

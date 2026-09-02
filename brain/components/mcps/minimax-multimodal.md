@@ -8,10 +8,12 @@ source_url: https://github.com/minimax-ai/minimax-mcp-js
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 125
+stars: 128
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 41
+pushed_at: "2026-08-21T06:47:14Z"
 ---
 ## What it is
 MCP server `MiniMax Multimodal`, catalogued on PulseMCP. Official JavaScript implementation that integrates with MiniMax's multimodal capabilities for image generation, video creation, text-to-speech, and voice cloning across multiple transport modes.

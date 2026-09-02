@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-08T09:33:18Z"
 ---
 ## What it is
 Automatically reads Sentry issues, investigates them by analyzing your Ruby codebase, explains why issues happened, and provides fix suggestions.

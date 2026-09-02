@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T07:11:29Z"
 ---
 ## What it is
 Enables interaction with Productive.io for task management, time tracking, budget monitoring, and project overview through natural language.

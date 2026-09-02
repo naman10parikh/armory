@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-03T04:03:01Z"
 ---
 ## What it is
 MCP server `Echo`, catalogued on PulseMCP. Structured message relay MCP server with schema validation for emitting typed payloads from AI agents.

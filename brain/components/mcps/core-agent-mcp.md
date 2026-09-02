@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T15:50:10Z"
 ---
 ## What it is
 Remote execution layer for agentic systems exposing 64 production tools via MCP for file, network, system, text, git, crypto, and monitoring operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T10:42:34Z"
 ---
 ## What it is
 Enables interaction with AElf blockchain nodes, allowing users to read chain status, execute contract transactions, and manage custom nodes through MCP, CLI, or SDK.

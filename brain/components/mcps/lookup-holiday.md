@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T22:14:02Z"
 ---
 ## What it is
 Real public/bank/school holiday lookup for 206 countries via a rule-based calendar engine (moveable holidays like Easter computed astronomically, not guessed). Priced per call via x402/USDC on Base.

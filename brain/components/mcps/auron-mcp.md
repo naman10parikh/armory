@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T04:54:11Z"
 ---
 ## What it is
 A read-only MCP gateway that enables AI agents to retrieve business data (sales, appointments, clients, inventory, etc.) from the AURON Suite backend with role-based access control, audit logging, and rate limiting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T17:45:05Z"
 ---
 ## What it is
 An MCP server and CLI providing business, financial, and tax calculations including math expressions, income tax estimates, loan amortization, depreciation, and more.

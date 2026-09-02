@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-05-20T01:51:08Z"
 ---
 ## What it is
 MCP server `n8n Workflow Automation`, catalogued on PulseMCP. Enables AI to create, manage, and execute n8n workflows using natural language commands for automating complex business processes without requiring technical knowledge of n8n's internal APIs.

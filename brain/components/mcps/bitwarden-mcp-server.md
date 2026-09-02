@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-17T12:06:03Z"
 ---
 ## What it is
 Enables interaction with Bitwarden/Vaultwarden for password and secure note management, including creation, updating, deletion, and search of items and folders.

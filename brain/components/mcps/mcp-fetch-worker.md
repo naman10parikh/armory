@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:45:54Z"
 ---
 ## What it is
 Enables AI bots and agents to call self-hosted APIs behind Cloudflare Access through a single HTTP fetch tool, using human-approved OAuth tokens instead of long-lived credentials.

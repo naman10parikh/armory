@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-02T21:13:18Z"
 ---
 ## What it is
 Enables listing, reading, and searching over files in Google Drive, with automatic export of Google Workspace files.

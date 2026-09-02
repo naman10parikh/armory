@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T02:51:02Z"
 ---
 ## What it is
 Provides AI assistants with real-time web search, reasoning, and research capabilities through Perplexity's Agent API and Search API, enabling tools for search, conversational Q&A, deep research, and advanced reasoning.

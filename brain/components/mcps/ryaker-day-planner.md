@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T02:17:56Z"
 ---
 ## What it is
 MCP server `Day Planner Dashboard`, catalogued on PulseMCP. Interactive day-planning dashboard rendered inside Claude conversations with calendar, inbox, and docs integration.

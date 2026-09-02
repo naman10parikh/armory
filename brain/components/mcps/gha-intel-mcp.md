@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T11:01:34Z"
 ---
 ## What it is
 MCP server that analyzes GitHub Actions workflow performance, audits configuration for optimization, and provides billing and cache usage insights.

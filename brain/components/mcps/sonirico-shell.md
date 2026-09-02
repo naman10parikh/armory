@@ -8,10 +8,12 @@ source_url: https://github.com/sonirico/mcp-shell
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-08-27T09:34:46Z"
 ---
 ## What it is
 MCP server `Shell Command Executor`, catalogued on PulseMCP. Provides a secure interface for executing controlled shell commands with comprehensive security features including allowlists, pattern-based blocking, timeouts, and output limits defined in YAML configuration.

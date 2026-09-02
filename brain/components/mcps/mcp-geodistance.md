@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:09:16Z"
 ---
 ## What it is
 Geographic coordinate math MCP server providing great-circle distance, destination bearing, and coordinate conversion tools.

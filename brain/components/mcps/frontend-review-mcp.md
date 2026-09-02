@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-02-26T20:38:51Z"
 ---
 ## What it is
 Enables visual review of UI edits by comparing before and after screenshots, returning whether the edit satisfies the request.

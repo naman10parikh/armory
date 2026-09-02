@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T07:30:13Z"
 ---
 ## What it is
 Provides AI assistants with access to Chinese financial market data via the Tushare Pro API, covering stocks, indices, funds, futures, options, bonds, forex, and macroeconomic indicators.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-06T04:14:39Z"
 ---
 ## What it is
 Enables searching arXiv papers in Korean, Chinese, Japanese, or English and saving findings to a local Markdown vault through natural language commands.

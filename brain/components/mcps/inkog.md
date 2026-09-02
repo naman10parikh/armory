@@ -8,10 +8,12 @@ source_url: https://github.com/inkog-io/inkog-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-07T12:07:19Z"
 ---
 ## What it is
 MCP server `Inkog`, catalogued on PulseMCP. Scan AI agents for security vulnerabilities and audit MCP servers before installation.

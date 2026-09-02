@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T13:14:42Z"
 ---
 ## What it is
 Provides verified UK company lookup and number validation for AI agents using official Companies House data. Enables lookup of registered details by number, validation of company number format, and search by company name.

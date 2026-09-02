@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T09:59:49Z"
 ---
 ## What it is
 Provides tools for reading, modifying, and analyzing Google Sheets, as well as searching and managing Google Drive spreadsheets with access control.

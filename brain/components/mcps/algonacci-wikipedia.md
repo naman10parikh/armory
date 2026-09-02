@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-22T16:54:32Z"
 ---
 ## What it is
 MCP server `Wikipedia`, catalogued on PulseMCP. Provides direct access to Wikipedia content through five tools for searching, retrieving summaries, accessing full articles, getting random pages, and changing languages.

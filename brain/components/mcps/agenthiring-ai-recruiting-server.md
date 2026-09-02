@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T09:06:02Z"
 ---
 ## What it is
 Exposes core recruiting tools such as candidate ranking, profile retrieval, honeypot audits, and job description parsing via stdio protocol.

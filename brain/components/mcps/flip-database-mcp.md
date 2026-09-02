@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T22:41:14Z"
 ---
 ## What it is
 A standalone MCP server for querying a PropertyRadar flip-tracking Supabase database. It offers read-only tools for searching properties, retrieving flip history, summarizing metrics, and running SQL queries.

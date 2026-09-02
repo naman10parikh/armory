@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:09:07Z"
 ---
 ## What it is
 MCP server for managing large fleets of BLE devices with connection pooling, scheduling, retries, and partial-failure handling. Enables AI agents to run fleet-level reads/writes without worrying about radio connection limits.

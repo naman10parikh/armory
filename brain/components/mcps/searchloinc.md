@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:12:11Z"
 ---
 ## What it is
 Enables LLMs to search LOINC terms with free-text, relevance-ranked, and faceted queries via the LOINC Search API, mirroring the loinc.org/search experience.

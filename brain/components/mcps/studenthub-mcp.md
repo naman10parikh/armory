@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:35:34Z"
 ---
 ## What it is
 Read-only MCP server for the StudentHub recruitment database. Enables BAWES agents to search candidates, retrieve profiles, and query hiring pipeline data, with strict SELECT-only safety guarantees.

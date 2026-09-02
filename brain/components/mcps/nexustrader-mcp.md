@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T10:58:38Z"
 ---
 ## What it is
 Exposes NexusTrader's account, positions, market data, and trading capabilities to AI assistants via natural language.

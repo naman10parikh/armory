@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-28T06:49:47Z"
 ---
 ## What it is
 MCP server `Better Auth`, catalogued on PulseMCP. Integrates with Better Auth documentation through web scraping to provide authentication provider listings, feature details with code examples, keyword-based documentation search, and framework-specific integration guides with intelligent caching for improved performance.

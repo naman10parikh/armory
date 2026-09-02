@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T11:00:33Z"
 ---
 ## What it is
 Enables AI assistants to interact with SmartRoutes route optimization and dispatch tools, allowing users to manage orders, vehicles, and plans via natural language.

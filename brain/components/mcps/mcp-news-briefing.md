@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T08:29:22Z"
 ---
 ## What it is
 A personalized news briefing MCP server that filters information from RSS, Reddit, and Hacker News based on user-defined interests and preferences. It also includes stock monitoring and alerting features.

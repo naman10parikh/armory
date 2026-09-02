@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-07T10:35:31Z"
 ---
 ## What it is
 MCP server `Multi-Agent Deep Researcher`, catalogued on PulseMCP. Orchestrates three specialized agents (web searcher, research analyst, and technical writer) using CrewAI to automate comprehensive information gathering and synthesis workflows that combine web data retrieval, analysis, and structured report generation.

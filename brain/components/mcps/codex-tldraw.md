@@ -8,11 +8,13 @@ source_url: https://github.com/jananadiw/codex-tldraw-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T19:47:13Z"
 ---
 ## What it is
 A Codex stdio MCP server that generates simple tldraw product workflow diagrams as .tldr files.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T22:50:45Z"
 ---
 ## What it is
 A local-first MCP server for auditing, drafting, and planning updates to your personal LinkedIn profile safely, without automation or scraping.

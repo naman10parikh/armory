@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T18:33:24Z"
 ---
 ## What it is
 Enables SQL-based identity lookups for IDMS systems, supporting search by account, employee ID, name, department, and manager, plus active students and stats.

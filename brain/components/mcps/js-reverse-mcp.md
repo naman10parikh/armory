@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T13:10:54Z"
 ---
 ## What it is
 A Chrome DevTools Protocol-based MCP server that enables AI coding assistants to control browsers for JavaScript debugging, reverse engineering, web scraping, and API debugging.

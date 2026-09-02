@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:38:03Z"
 ---
 ## What it is
 Enables querying Statistics Sweden PxWeb data through tools for navigating subjects, retrieving table metadata, and pulling data using PxWeb query objects.

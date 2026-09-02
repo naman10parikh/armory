@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:47:42Z"
 ---
 ## What it is
 MCP server `CheapShark Game Deals`, catalogued on PulseMCP. PC game deals across Steam, Epic, GOG, and Humble Bundle via CheapShark. No API key required.

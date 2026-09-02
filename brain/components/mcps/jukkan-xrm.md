@@ -8,10 +8,12 @@ source_url: https://github.com/jukkan/xrm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-07T11:50:26Z"
 ---
 ## What it is
 MCP server `Dataverse XRM`, catalogued on PulseMCP. Microsoft Dataverse and Dynamics 365 read/write access via the Dataverse Web API v9.2.

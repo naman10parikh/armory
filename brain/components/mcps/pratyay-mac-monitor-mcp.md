@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 23
+forks: 6
+pushed_at: "2026-03-30T03:57:25Z"
 ---
 ## What it is
 Identifies resource-intensive processes on macOS and provides performance improvement suggestions.

@@ -8,11 +8,13 @@ source_url: https://github.com/xiaoxiao341/Chat2Agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:49:10Z"
 ---
 ## What it is
 A bridge that enables the ChatGPT web interface to use local file and shell tools through the official MCP protocol, turning the workspace into an agentic coding environment.

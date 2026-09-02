@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T18:14:01Z"
 ---
 ## What it is
 Enables AI-assisted B2B lead generation by discovering, extracting, scoring, and exporting company leads from any MCP-compatible agent.

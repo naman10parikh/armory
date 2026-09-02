@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T12:28:44Z"
 ---
 ## What it is
 53 security & enrichment MCP tools for AI agents. Contract scanning, threat intel, OSINT, crypto data, DNS/WAF recon. Pay-per-call via HTTP 402 + USDC on Base mainnet. No API keys. First call free.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T05:24:45Z"
 ---
 ## What it is
 Consolidates your B3 investment portfolio (stocks, FIIs, fixed income, etc.) from all brokerages into one view. Provides read-only tools to check position, dividends, transactions, and more.

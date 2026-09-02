@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T14:20:37Z"
 ---
 ## What it is
 A Model Context Protocol server that connects AI agents to live Java processes via Alibaba Arthas, enabling real-time diagnostics, debugging, and performance analysis without code changes.

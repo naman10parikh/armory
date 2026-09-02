@@ -8,10 +8,12 @@ source_url: https://github.com/mikelewis1971/ai_workspace_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-18T12:25:08Z"
 ---
 ## What it is
 MCP server `AI Workspace`, catalogued on PulseMCP. Provides local AI models with web browsing, Python execution, file management, OCR, vision, and desktop control capabilities.

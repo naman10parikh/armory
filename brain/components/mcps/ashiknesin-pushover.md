@@ -8,10 +8,12 @@ source_url: https://github.com/ashiknesin/pushover-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-03-16T19:56:30Z"
 ---
 ## What it is
 MCP server `Pushover`, catalogued on PulseMCP. Integrates with Pushover.net to enable sending push notifications to various devices for real-time alerts and updates

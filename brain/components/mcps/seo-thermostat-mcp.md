@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T18:38:32Z"
 ---
 ## What it is
 Enables analyzing SEO page performance using data from Google Search Console, Google Analytics, and PostHog to identify weak CTR, decaying rankings, and other issues, providing actionable recommendations.

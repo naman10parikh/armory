@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T10:19:18Z"
 ---
 ## What it is
 MCP server `Debugium`, catalogued on PulseMCP. Live debugger with bridge support for Python, JavaScript, TypeScript, Rust, Java, and C/C++.

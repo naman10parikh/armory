@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-04-19T18:10:50Z"
 ---
 ## What it is
 Enables advanced reasoning and reflection using the Gemini API and OpenRouter models, integrating sequential thinking and critique capabilities.

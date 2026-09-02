@@ -8,10 +8,12 @@ source_url: https://github.com/lingfan36/ai-office-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T03:27:40Z"
 ---
 ## What it is
 MCP server `AI Office`, catalogued on PulseMCP. MCP server suite for live Microsoft Office automation including Excel, Word, and PowerPoint.

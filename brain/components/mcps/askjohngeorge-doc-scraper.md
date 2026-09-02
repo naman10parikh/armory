@@ -8,10 +8,12 @@ source_url: https://github.com/askjohngeorge/mcp-doc-scraper
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-05-03T19:15:24Z"
 ---
 ## What it is
 MCP server `Doc Scraper (Jina.ai)`, catalogued on PulseMCP. Converts web documentation to clean markdown using Jina.ai's API, enabling easy transformation of online docs for content migration or offline use.

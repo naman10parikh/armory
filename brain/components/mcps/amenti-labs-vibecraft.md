@@ -8,10 +8,12 @@ source_url: https://github.com/amenti-labs/vibecraft
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 90
+stars: 99
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-01-18T23:09:59Z"
 ---
 ## What it is
 MCP server `VibeCraft`, catalogued on PulseMCP. AI-powered WorldEdit for Minecraft with 50+ tools for natural language building, terrain generation, and pattern placement

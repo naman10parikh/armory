@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-06T06:42:48Z"
 ---
 ## What it is
 Bridges MCP clients and AWS Lambda functions, enabling generative AI models to invoke Lambda functions as tools without code changes.

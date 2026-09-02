@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T07:32:21Z"
 ---
 ## What it is
 MCP server exposing a fictional payment domain as tools, resources, and prompts, enabling reasoning over transactions, payment hubs, services, and system health.

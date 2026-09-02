@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-30T15:42:48Z"
 ---
 ## What it is
 MCP server for accessing Claude Code plugins. Enables retrieving plugin lists and detailed information via MCP clients like Claude Desktop, Cursor.

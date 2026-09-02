@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T22:34:44Z"
 ---
 ## What it is
 Enables Claude Code to automatically discover and use project-specific rules, skills, and agents defined in the .cursor directory, with live reloading and zero configuration.

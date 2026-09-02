@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-02T07:37:12Z"
 ---
 ## What it is
 MCP server `ARIA Validator`, catalogued on PulseMCP. Validates ARIA roles and attributes for web accessibility development, providing type checking, value validation, and information about available ARIA properties to ensure proper implementation.

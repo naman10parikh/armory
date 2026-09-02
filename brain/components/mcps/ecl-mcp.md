@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T12:23:48Z"
 ---
 ## What it is
 Provides AI agents with access to the European Commission's Component Library documentation and code examples, enabling full-text search and recipe retrieval.

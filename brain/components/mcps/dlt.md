@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-19T21:09:39Z"
 ---
 ## What it is
 Enables large language models to retrieve up-to-date and correct information about dlt pipelines, datasets, and schemas, improving AI-assisted development.

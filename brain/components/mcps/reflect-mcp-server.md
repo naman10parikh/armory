@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-18T12:00:27Z"
 ---
 ## What it is
 An unofficial MCP server that enables adding content to daily notes, creating notes, saving links, and scheduling reminders in Reflect from Claude Desktop.

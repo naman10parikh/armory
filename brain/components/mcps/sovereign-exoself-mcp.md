@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T11:22:31Z"
 ---
 ## What it is
 Local MCP server for a personal AI Council that routes tasks through manager, worker, critic, synthesizer, and archivist agents with fast/review/full paths, using SQLite memory and supporting mock, Ollama, and OpenRouter providers.

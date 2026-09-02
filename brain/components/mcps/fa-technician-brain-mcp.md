@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T17:25:05Z"
 ---
 ## What it is
 Provides structured knowledge about the Technician Portal module in FleetFocus FA/EAM, enabling AI agents to query pages, workflows, APIs, and more without live connections.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-02T22:17:17Z"
 ---
 ## What it is
 MCP server `Secure HTTP`, catalogued on PulseMCP. Secure HTTP request executor that enforces whitelist-based access control through configurable JavaScript middleware files, enabling safe delegation of API operations with granular validation, authentication, and authorization policies.

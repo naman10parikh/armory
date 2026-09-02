@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T14:47:48Z"
 ---
 ## What it is
 MCP server that provides offline-first, persistent memory for AI coding assistants. It captures project decisions and conventions into a local SQLite database and syncs them to tool-specific memory files like CLAUDE.md and AGENTS.md.

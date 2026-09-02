@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:31:11Z"
 ---
 ## What it is
 Read-only MCP server that serves curated daily Korean AI briefings (papers, releases, community, video, deepdive) via 7 tools, with no LLM calls per request.

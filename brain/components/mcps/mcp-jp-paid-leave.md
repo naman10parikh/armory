@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:33:25Z"
 ---
 ## What it is
 Enables MCP-capable clients to calculate Japan's statutory annual paid leave (nenkyu) under the Labor Standards Act, including entitlement, attendance rates, proportional grants, carryover, and the mandatory-use rule.

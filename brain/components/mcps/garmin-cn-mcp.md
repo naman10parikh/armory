@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:21:42Z"
 ---
 ## What it is
 Provides read-only access to a China-region Garmin Connect account, enabling retrieval of daily summaries, sleep, heart rate, HRV, training readiness, body battery, and activity data.

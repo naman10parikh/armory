@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:52Z"
 ---
 ## What it is
 Enables AI agents to scan TCP ports on any host and report open/closed status and response times via a pay-per-call x402 micropayment API.

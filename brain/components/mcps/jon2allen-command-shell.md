@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-28T00:34:22Z"
 ---
 ## What it is
 MCP server `Command Shell`, catalogued on PulseMCP. Provides secure shell command execution, directory navigation, and interactive program automation with configurable safety controls and file access restrictions for system administration and development workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T17:56:37Z"
 ---
 ## What it is
 MCP server that integrates with the Jadlog logistics API, enabling shipping order creation and cancellation, freight simulation, tracking queries, CT-e XML retrieval, pick-up/drop-off point lookup, QR code generation, and TOTVS Moda integration for order payloads.

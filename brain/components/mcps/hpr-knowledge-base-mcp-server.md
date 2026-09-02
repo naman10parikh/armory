@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T15:19:27Z"
 ---
 ## What it is
 Provides search and retrieval of Hacker Public Radio episodes, transcripts, hosts, and series via MCP tools and resources, with fuzzy matching and flexible transcript search.

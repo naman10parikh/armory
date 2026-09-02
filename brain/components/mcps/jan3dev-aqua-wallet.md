@@ -8,10 +8,12 @@ source_url: https://github.com/jan3dev/agentic-aqua
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-24T15:08:27Z"
 ---
 ## What it is
 MCP server `Aqua Wallet`, catalogued on PulseMCP. Manages Liquid Network and Bitcoin wallets with unified mnemonic support, L-BTC/USDT transactions, and watch-only descriptor imports.

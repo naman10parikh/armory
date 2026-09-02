@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T19:13:53Z"
 ---
 ## What it is
 MCP server for OpenClaw task lifecycle management, enabling starting, listing, and checking status of tasks via a Gateway API.

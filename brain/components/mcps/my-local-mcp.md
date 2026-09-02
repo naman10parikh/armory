@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T06:33:37Z"
 ---
 ## What it is
 A local MCP server that turns AI clients into power users of local git repositories, enabling clone, browse, search, and inspect code without burning API tokens.

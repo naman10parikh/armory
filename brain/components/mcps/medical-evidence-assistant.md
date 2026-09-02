@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T02:47:42Z"
 ---
 ## What it is
 Provides medical evidence tools including PubMed search, citation verification, clinical trial lookup, drug information, drug interaction checking, PICO extraction, and medical entity recognition via MCP.

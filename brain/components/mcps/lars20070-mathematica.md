@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-16T05:14:07Z"
 ---
 ## What it is
 MCP server `Mathematica`, catalogued on PulseMCP. Wraps WolframScript CLI to execute Wolfram Language code and retrieve engine information.

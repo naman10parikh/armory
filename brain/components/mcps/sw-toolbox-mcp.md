@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:50:23Z"
 ---
 ## What it is
 A local MCP hub for SW Toolbox providing file-processing tools like image compression, conversion, PDF merging, and data utilities. It includes a free compress_image tool and requires a Pro key for additional tools.

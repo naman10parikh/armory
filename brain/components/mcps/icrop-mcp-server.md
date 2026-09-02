@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-26T14:45:31Z"
 ---
 ## What it is
 Enables querying iCrop farm management data including farms, crops, fields, soil types, and cultivation methods through natural language.

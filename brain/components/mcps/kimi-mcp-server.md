@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-27T08:15:52Z"
 ---
 ## What it is
 Bridges MCP clients to Moonshot AI's Kimi Code CLI, enabling file analysis, brainstorming, batch tasks, code reviews, and session management within editors like Claude Desktop and Cursor.

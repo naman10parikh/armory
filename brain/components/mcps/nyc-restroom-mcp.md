@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T16:20:14Z"
 ---
 ## What it is
 Enables AI assistants to find and get status of NYC public restrooms using live NYC Open Data, including hours, accessibility, and inspection reports.

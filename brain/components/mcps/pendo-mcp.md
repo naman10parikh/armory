@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-01T19:42:33Z"
 ---
 ## What it is
 A comprehensive MCP server that provides AI assistants with powerful access to Pendo analytics through 15 specialized tools, transforming natural language questions into deep product insights.

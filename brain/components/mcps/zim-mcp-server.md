@@ -8,11 +8,13 @@ source_url: https://github.com/ThinkInAI-Hackathon/zim-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-06-03T10:48:29Z"
 ---
 ## What it is
 Enables large language models to directly access and search content in ZIM files, allowing offline question answering and information retrieval from resources like Wikipedia.

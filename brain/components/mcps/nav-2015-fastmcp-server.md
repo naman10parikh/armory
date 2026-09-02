@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T08:53:12Z"
 ---
 ## What it is
 Provides read-only analytics and metadata exploration for Dynamics NAV 2015 databases, enabling user details, permissions, table schemas, and autonomous SQL queries.

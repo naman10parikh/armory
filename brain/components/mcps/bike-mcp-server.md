@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-03T14:13:44Z"
 ---
 ## What it is
 Enables reading, writing, and manipulation of Bike outlines on macOS through natural language, using AppleScript for local document management.

@@ -8,10 +8,12 @@ source_url: https://github.com/sammorrowdrums/remarkable-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 128
+stars: 217
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 47
+pushed_at: "2026-08-17T09:38:56Z"
 ---
 ## What it is
 MCP server `reMarkable`, catalogued on PulseMCP. Access handwritten notes and documents from reMarkable tablets

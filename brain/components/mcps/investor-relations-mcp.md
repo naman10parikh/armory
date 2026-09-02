@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T02:04:21Z"
 ---
 ## What it is
 FastMCP server for tracking seed raise investor pipelines from Claude Code, syncing with Obsidian vault CRM files.

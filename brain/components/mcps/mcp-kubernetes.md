@@ -8,11 +8,13 @@ source_url: https://github.com/dockndevai/mcp-kubernetes
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T06:20:42Z"
 ---
 ## What it is
 Enables MCP clients to inspect and operate Kubernetes clusters across multiple contexts, with read-only/read-write/admin access modes and security flags controlling namespaces, contexts, deletes, applies, and exec.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T12:19:31Z"
 ---
 ## What it is
 Provides MCP access to Contribution Compass's evidence catalog, enabling users to query curated open-source project activity, contribution opportunities, and observation histories.

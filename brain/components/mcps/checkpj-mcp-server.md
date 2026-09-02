@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T18:34:09Z"
 ---
 ## What it is
 Provides tools to look up Brazilian companies by CNPJ, search companies, get risk scores, and validate CNPJ using the CheckPJ API.

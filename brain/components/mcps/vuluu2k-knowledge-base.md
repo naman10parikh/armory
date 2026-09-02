@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-24T16:06:18Z"
 ---
 ## What it is
 MCP server `Knowledge Base`, catalogued on PulseMCP. GitHub-backed persistent memory system for managing tasks, notes, goals, and a searchable knowledge base.

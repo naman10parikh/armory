@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T14:26:59Z"
 ---
 ## What it is
 MCP server for controlling Sonos speakers. Currently early scaffolding with a temporary discover tool.

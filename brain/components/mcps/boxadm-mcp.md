@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T06:03:43Z"
 ---
 ## What it is
 Read-only MCP server that surfaces external file sharing risks from Box enterprise event logs, enabling early-warning leakage detection without modifying any data.

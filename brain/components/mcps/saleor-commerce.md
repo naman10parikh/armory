@@ -8,10 +8,12 @@ source_url: https://github.com/saleor/saleor-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-09-01T14:45:47Z"
 ---
 ## What it is
 MCP server `Saleor Commerce`, catalogued on PulseMCP. Interact with the Saleor Commerce platform to fetch information about products, orders and customers.

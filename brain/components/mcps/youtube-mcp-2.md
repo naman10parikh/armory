@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T17:37:26Z"
 ---
 ## What it is
 Enables YouTube search, video details, channels, playlists, and comments scraping via MCP, no API key required.

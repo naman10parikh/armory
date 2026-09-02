@@ -8,11 +8,13 @@ source_url: https://github.com/askads/mcp-yandex-wordstat
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:30:35Z"
 ---
 ## What it is
 Enables querying Yandex Wordstat search statistics, including frequency, related queries, seasonality, and regional distribution, through natural language in AI clients.

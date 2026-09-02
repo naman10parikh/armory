@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T06:53:08Z"
 ---
 ## What it is
 MCP server for the eToro public API, providing read and write tools for market data, account management, trading, watchlists, alerts, and social feeds.

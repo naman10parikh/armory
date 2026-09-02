@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T05:37:13Z"
 ---
 ## What it is
 MCP server for static code analysis using AST parsing and linters, providing tools to detect syntax errors, type issues, typos, and incorrect variable usage across multiple languages. It supports headless linting with tools like ast_check, lint_check, and health.

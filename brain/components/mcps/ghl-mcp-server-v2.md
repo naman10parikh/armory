@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T18:11:39Z"
 ---
 ## What it is
 A comprehensive MCP server covering the full GoHighLevel API surface with 651 tools, enabling management of contacts, opportunities, calendars, invoices, and more through natural language, with multi-tenant support and read-only safety defaults.

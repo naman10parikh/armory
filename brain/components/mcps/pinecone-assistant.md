@@ -8,10 +8,12 @@ source_url: https://github.com/pinecone-io/assistant-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-14T16:12:06Z"
 ---
 ## What it is
 MCP server `Pinecone Assistant`, catalogued on PulseMCP. Provide AI agents with contextual knowledge using Pinecone Assistant.

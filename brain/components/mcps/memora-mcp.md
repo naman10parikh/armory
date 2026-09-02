@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T03:44:10Z"
 ---
 ## What it is
 An interactive flashcard MCP App for Claude Desktop. Claude generates flashcards from your request or the conversation and renders them as an inline, gradeable flip-card review with spaced repetition.

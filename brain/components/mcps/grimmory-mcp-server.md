@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T09:16:12Z"
 ---
 ## What it is
 Enables AI assistants to manage a Grimmory book library through 53 specialized tools for books, authors, shelves, reading progress, metadata, and more.

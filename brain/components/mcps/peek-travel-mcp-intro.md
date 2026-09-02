@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
 stars: 2
+forks: 3
+pushed_at: "2025-09-23T16:57:58Z"
 ---
 ## What it is
 Remote MCP Server for discovering and planning experiences, at home and on vacation

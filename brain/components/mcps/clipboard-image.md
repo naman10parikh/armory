@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-18T17:04:17Z"
 ---
 ## What it is
 Enables Claude Code to paste images from the system clipboard for instant analysis and processing.

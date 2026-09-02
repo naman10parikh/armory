@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T18:03:25Z"
 ---
 ## What it is
 Manages QIDI Studio 3D printing profiles locally, enabling AI assistants to read and write filament, process, and machine presets via the Model Context Protocol.

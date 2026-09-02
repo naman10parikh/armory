@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T14:13:29Z"
 ---
 ## What it is
 MCP server `Clipwise`, catalogued on PulseMCP. Access Clipwise tools for short-form video creators, including TikTok trend research, platform guidance, and viral content analysis.

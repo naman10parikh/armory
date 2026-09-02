@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T15:35:11Z"
 ---
 ## What it is
 Connects iClips project data to Claude for agency capacity planning, exposing tools to monitor daily demand vs. capacity, stalled jobs, cascading off-work effects, and classification audits.

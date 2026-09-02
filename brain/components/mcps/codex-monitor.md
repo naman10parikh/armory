@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T01:37:56Z"
 ---
 ## What it is
 An MCP server that provides monitoring tools for Codex agents, allowing them to create and wait on conditions using commands, log files, file events, and custom probes, replacing polling loops with event-driven blocking.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-09T13:23:42Z"
 ---
 ## What it is
 MCP server `SDLC Tracker`, catalogued on PulseMCP. Provides complete Software Development Lifecycle management with SQLite-based tracking for epics, user stories, tasks, bugs, and test cases with stakeholder workflows, audit trails, and collaborative commenting.

@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-17T07:07:25Z"
 ---
 ## What it is
 MCP server `Cloudflare API`, catalogued on PulseMCP. Integrates with Cloudflare's REST API to enable management of DNS records, cache purging, KV namespaces, R2 buckets, Workers domains, Hyperdrive databases, and Workflow instances through natural language interactions.

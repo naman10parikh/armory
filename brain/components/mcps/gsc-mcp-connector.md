@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-12T17:29:02Z"
 ---
 ## What it is
 Self-hosted MCP server that exposes Google Search Console tools (list sites, query analytics, inspect URL, list sitemaps) via natural language to AI assistants like ChatGPT and Claude.

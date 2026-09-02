@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-20T13:11:48Z"
 ---
 ## What it is
 MCP server `EVM Blockchain Bridge`, catalogued on PulseMCP. Provides a bridge to Ethereum Virtual Machine (EVM) compatible blockchains, enabling wallet management, blockchain data queries, and DeFi operations like token transfers and swaps through PancakeSwap integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T17:40:22Z"
 ---
 ## What it is
 Enables ChatGPT to interact with noCRM leads for outreach tracking, including listing, retrieving, creating leads and adding comments, without destructive operations.

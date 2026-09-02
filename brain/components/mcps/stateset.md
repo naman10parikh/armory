@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-12T00:02:12Z"
 ---
 ## What it is
 MCP server `StateSet`, catalogued on PulseMCP. Integrates with StateSet's issue operations system, enabling management of returns, orders, warranties, shipments, and manufacturing processes through a robust set of tools for creating and updating business records.

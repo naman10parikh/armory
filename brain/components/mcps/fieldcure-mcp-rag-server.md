@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:08:03Z"
 ---
 ## What it is
 A Model Context Protocol server for indexing and searching local document collections with hybrid BM25+vector search, optimized for Korean and English, supporting DOCX, PDF, audio, and more.

@@ -8,10 +8,12 @@ source_url: https://github.com/bivex/kanboard-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-06-12T13:39:28Z"
 ---
 ## What it is
 MCP server `Kanboard`, catalogued on PulseMCP. Integrates with Kanboard project management systems via JSON-RPC API to provide complete project lifecycle management including task operations, user administration, board organization, and metadata handling with flexible authentication options.

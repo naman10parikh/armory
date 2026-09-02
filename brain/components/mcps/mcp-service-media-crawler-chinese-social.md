@@ -8,10 +8,12 @@ source_url: https://github.com/mcp-service/media-crawler-mcp-service
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 74
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-11-13T02:12:14Z"
 ---
 ## What it is
 MCP server `Media Crawler (Chinese Social Platforms)`, catalogued on PulseMCP. Integrates multiple Chinese social media platforms including Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Tieba, and Zhihu for systematic content extraction and social media data collection.

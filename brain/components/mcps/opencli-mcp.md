@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T08:39:43Z"
 ---
 ## What it is
 MCP server wrapping OpenCLI to let agents control a real Windows Chrome browser, reusing existing login sessions and extensions, with DOM/AX snapshot, action, and network capabilities.

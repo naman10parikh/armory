@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T19:45:38Z"
 ---
 ## What it is
 MCP server `Meta Ads`, catalogued on PulseMCP. Read-only access to Meta/Facebook Ads data including spend, campaigns, ROAS, and daily metrics.

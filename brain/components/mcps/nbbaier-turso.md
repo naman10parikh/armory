@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-03T02:36:11Z"
 ---
 ## What it is
 MCP server `Turso`, catalogued on PulseMCP. Connects to Turso-hosted LibSQL databases, enabling direct SQL query execution against cloud-based SQLite databases for data analysis, content management, and application development workflows.

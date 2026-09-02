@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T07:36:28Z"
 ---
 ## What it is
 A zero-cost, fully local MCP server that grounds AI assistants in verified web text, reducing hallucinations by ~80% by forcing answers only from fetched sources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:38:02Z"
 ---
 ## What it is
 Exposes the Nano Banana Pro AI knowledge surface (image generation workflows, styles, pricing, FAQ, official links) to MCP-compatible AI clients such as Claude Desktop, Cursor, and Windsurf, enabling querying of image editing capabilities and pricing information without API keys.

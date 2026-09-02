@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-09T20:30:59Z"
 ---
 ## What it is
 MCP server `Intelligence Aeternum`, catalogued on PulseMCP. Persistent knowledge graph memory for AI agents with entity extraction and relationship mapping.

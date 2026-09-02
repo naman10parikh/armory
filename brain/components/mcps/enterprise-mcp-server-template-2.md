@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-23T16:14:16Z"
 ---
 ## What it is
 A production-ready TypeScript template for building Model Context Protocol (MCP) servers with Zod validation, structured logging, and seamless integration with AI agents like Claude Desktop and Cursor.

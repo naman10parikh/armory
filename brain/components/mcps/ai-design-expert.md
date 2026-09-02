@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-31T15:23:04Z"
 ---
 ## What it is
 Provides design capabilities including requirement analysis, visual token extraction, design generation, and visual auditing.

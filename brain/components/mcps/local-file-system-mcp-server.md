@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T15:30:05Z"
 ---
 ## What it is
 Provides tools to check disk usage and search files by keyword on the local system.

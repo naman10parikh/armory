@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-18T23:42:08Z"
 ---
 ## What it is
 Enables AI models to send emails, manage contacts, and interact with SendGrid's email platform via MCP.

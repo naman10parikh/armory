@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T16:13:05Z"
 ---
 ## What it is
 Enables EU AI Act compliance assessment by classifying AI systems, listing obligations, computing deadlines, and scanning repos for required documentation, all running locally.

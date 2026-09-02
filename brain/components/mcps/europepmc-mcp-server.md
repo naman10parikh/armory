@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T09:15:01Z"
 ---
 ## What it is
 Enables searching and retrieving biomedical literature from Europe PMC, including abstracts, full-text (JATS XML), text-mined annotations, citations, references, and database cross-links, through natural language queries and automated data staging.

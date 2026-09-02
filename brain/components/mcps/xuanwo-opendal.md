@@ -8,10 +8,12 @@ source_url: https://github.com/xuanwo/mcp-server-opendal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-04-10T09:03:26Z"
 ---
 ## What it is
 MCP server `OpenDAL`, catalogued on PulseMCP. Integrates with OpenDAL to provide unified access to diverse storage backends, enabling LLMs to read from and write to various storage systems for data management tasks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-23T19:06:33Z"
 ---
 ## What it is
 Deprecated MCP server integrating with Kibo Commerce for product, order, customer, and inventory management via its TypeScript SDK.

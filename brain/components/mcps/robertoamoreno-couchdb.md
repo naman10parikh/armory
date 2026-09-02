@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-01T22:50:01Z"
 ---
 ## What it is
 MCP server `CouchDB`, catalogued on PulseMCP. Integrates with CouchDB to enable database management, document operations, and Mango queries for applications requiring document-based storage and retrieval.

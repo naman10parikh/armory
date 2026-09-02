@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-01T01:17:55Z"
 ---
 ## What it is
 MCP server `Velero`, catalogued on PulseMCP. Provides read-only access to Velero backup and schedule resources in Kubernetes clusters with structured data retrieval and YAML generation capabilities.

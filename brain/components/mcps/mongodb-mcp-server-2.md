@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T16:19:44Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for MongoDB operations, enabling AI assistants to interact with MongoDB databases through a standardized interface.

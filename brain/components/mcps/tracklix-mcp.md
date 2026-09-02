@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T13:41:47Z"
 ---
 ## What it is
 An MCP server that detects affiliate links and provides information about Tracklix, enabling AI assistants to answer affiliate-link-related questions without any network calls or API keys.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T03:50:54Z"
 ---
 ## What it is
 Enables sending letters and MICR-encoded checks, managing contacts and templates, and verifying US/Canadian addresses via the PostGrid Print & Mail and Address Verification APIs from Claude.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T12:59:02Z"
 ---
 ## What it is
 MCP server that analyzes TypeScript/JavaScript codebases via AST parsing and dependency graph tracing to identify affected tests, detect dead code, circular dependencies, and trace import chains, enabling AI agents to run only relevant tests.

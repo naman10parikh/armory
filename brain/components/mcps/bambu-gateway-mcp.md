@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T14:35:24Z"
 ---
 ## What it is
 Enables LLM agents to control Bambu Lab 3D printers via the bambu-gateway HTTP API, supporting printer listing, filament management, print session creation, and safe print initiation with user confirmation.

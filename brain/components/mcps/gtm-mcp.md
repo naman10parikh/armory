@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-20T15:32:33Z"
 ---
 ## What it is
 Enables natural language management of Google Tag Manager accounts, containers, tags, triggers, variables, and versions, including creation, update, and publishing.

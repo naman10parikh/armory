@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T13:40:45Z"
 ---
 ## What it is
 Enables AI agents to batch-send ETH or ERC-20 tokens to multiple recipients in one transaction on Base, drastically reducing gas costs.

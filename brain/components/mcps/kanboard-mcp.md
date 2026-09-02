@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T12:24:46Z"
 ---
 ## What it is
 Multi-tenant MCP server for self-hosted Kanboard that enables team members to manage Kanboard projects, tasks, and boards with per-user authentication and permissions.

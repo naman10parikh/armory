@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-27T02:36:32Z"
 ---
 ## What it is
 MCP server `DataGraph`, catalogued on PulseMCP. Urban intelligence knowledge graph for civic problem-solving

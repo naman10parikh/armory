@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-30T11:00:21Z"
 ---
 ## What it is
 MCP server `Velog`, catalogued on PulseMCP. Manages posts, series, comments, and likes on the Velog Korean tech blogging platform with 20+ tools.

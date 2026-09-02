@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-09T16:52:42Z"
 ---
 ## What it is
 MCP server `Vibe Marketing`, catalogued on PulseMCP. Integrates with HyperFeed's trending content API and copywriting frameworks to generate platform-optimized social media content with voice archetypes, character limit validation, and trending topic discovery across Twitter and Reddit.

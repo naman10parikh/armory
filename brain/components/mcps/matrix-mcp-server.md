@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 21
+pushed_at: "2025-08-20T04:06:52Z"
 ---
 ## What it is
 Enables interaction with Matrix homeservers through the Model Context Protocol, providing tools for room management, messaging, user profiles, and search capabilities.

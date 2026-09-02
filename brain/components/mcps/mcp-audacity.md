@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:42:53Z"
 ---
 ## What it is
 MCP server that connects Codex to a local Audacity instance, enabling natural language control of audio editing, generation, analysis, and project management. It exposes validated high-level tools and an allow-listed command layer for safe automation.

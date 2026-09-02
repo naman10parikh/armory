@@ -8,11 +8,13 @@ source_url: https://github.com/teyepe/systembridge-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T19:20:27Z"
 ---
 ## What it is
 MCP server that gives LLMs deep knowledge of design systems and tokens, enabling intelligent design evolution, token analysis, and designer-to-developer handoffs.

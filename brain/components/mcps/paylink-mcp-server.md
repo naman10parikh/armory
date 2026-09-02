@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-30T14:30:38Z"
 ---
 ## What it is
 Open-source MCP server that streamlines payment integration for AI agents and financial apps in Africa, providing unified tools for providers like M-Pesa.

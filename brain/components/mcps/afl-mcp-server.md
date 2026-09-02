@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-04T22:15:29Z"
 ---
 ## What it is
 Enables users to interact with AFL++ for fuzzing workflows, including creating workspaces, instrumenting targets, starting/stopping fuzzing jobs, and triaging findings.

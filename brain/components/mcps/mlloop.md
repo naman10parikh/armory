@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T04:16:27Z"
 ---
 ## What it is
 An MCP server that enforces a scientific-method loop for AI-driven machine learning experiments, with hypothesis gating, diagnostics, and data forensics.

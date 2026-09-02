@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-14T11:25:02Z"
 ---
 ## What it is
 MCP server `MCP Registry`, catalogued on PulseMCP. Discover and search for available MCP servers in the official registry

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T22:06:05Z"
 ---
 ## What it is
 MCP server `OMORI Toolkit`, catalogued on PulseMCP. Control and interact with the OMORI game via an in-game MCP bridge proxy.

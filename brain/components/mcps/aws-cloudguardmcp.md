@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-16T17:47:22Z"
 ---
 ## What it is
 An intelligent AWS monitoring and incident response solution using Anthropic's Model Context Protocol (MCP). Enables users to monitor AWS resources, analyze CloudWatch logs and metrics, and automatically create Jira tickets with remediation steps.

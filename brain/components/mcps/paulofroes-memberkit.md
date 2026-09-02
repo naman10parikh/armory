@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-27T18:45:32Z"
 ---
 ## What it is
 MCP server `Memberkit`, catalogued on PulseMCP. Wraps the Memberkit API as semantic tools for managing users, courses, classrooms, memberships, comments, webhooks, rankings, and quizzes on the Brazilian membership platform.

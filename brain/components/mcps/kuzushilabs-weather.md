@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-12T19:25:56Z"
 ---
 ## What it is
 MCP server `Weather`, catalogued on PulseMCP. Integrates with weather data APIs to provide current conditions and forecasts for trip planning and outdoor event scheduling.

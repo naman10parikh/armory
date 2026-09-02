@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T19:16:30Z"
 ---
 ## What it is
 Provides a bundle of marketing data APIs as MCP tools, including contact extraction, Google Maps reviews, SEO audits, and more. Enables AI agents to access these services with Solana USDC payment support.

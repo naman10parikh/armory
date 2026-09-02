@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T20:16:20Z"
 ---
 ## What it is
 Enables querying and managing Greenhouse recruiting data through MCP, including applications, candidates, jobs, and rejection operations.

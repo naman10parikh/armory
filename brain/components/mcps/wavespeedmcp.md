@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-30T14:19:47Z"
 ---
 ## What it is
 Provides a standardized interface for accessing WaveSpeed's image and video generation capabilities through the MCP protocol.

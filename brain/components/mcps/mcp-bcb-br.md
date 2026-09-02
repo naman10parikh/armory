@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:43:30Z"
 ---
 ## What it is
 Banco Central do Brasil MCP server that enables querying Brazilian central bank economic indicators via SGS codes.

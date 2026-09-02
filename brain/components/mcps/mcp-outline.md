@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-15T06:26:34Z"
 ---
 ## What it is
 A Model Context Protocol server for interacting with Outline document management, supporting search, read, create, edit, archive documents, collections, comments, and backlinks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T05:08:56Z"
 ---
 ## What it is
 Provides local agent capabilities for LM Studio including file I/O, terminal execution, and web search.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-15T09:19:39Z"
 ---
 ## What it is
 MCP server `Excel Search`, catalogued on PulseMCP. Searches and reads Excel files from local directories with tools for discovering spreadsheet files, converting worksheets to JSON format, and finding specific text within workbooks.

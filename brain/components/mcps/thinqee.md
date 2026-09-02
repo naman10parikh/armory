@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T19:57:49Z"
 ---
 ## What it is
 An honest, cite-or-abstain persona engine that answers questions about a specific person based on a signed knowledge base, declining anything not in the notes.

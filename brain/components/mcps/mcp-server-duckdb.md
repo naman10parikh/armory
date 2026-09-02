@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-16T08:27:45Z"
 ---
 ## What it is
 Enables LLMs to interact with DuckDB databases through MCP tools for SQL queries, table management, data import/export, and schema inspection, with optional read-only mode for safety.

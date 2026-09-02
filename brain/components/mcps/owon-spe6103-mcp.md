@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T10:06:13Z"
 ---
 ## What it is
 MCP server for reading and controlling an OWON SPE6103 programmable DC power supply over USB serial, with safety checks and verified SCPI commands.

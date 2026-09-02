@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 7
+forks: 2
+pushed_at: "2026-08-21T15:58:01Z"
 ---
 ## What it is
 MCP server for automated URL scanning and forensic phishing triage. Captures full DOM snapshots, network requests, and visual screenshots to identify malicious redirects and infrastructure. Supports historical threat hunting using Custom Query Language (CQL) to map actor patterns across millions of recorded scans.

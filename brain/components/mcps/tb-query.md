@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-04T21:16:44Z"
 ---
 ## What it is
 MCP server for querying and analyzing TensorBoard event files, enabling AI agents to extract scalar data, statistics, and correlations without a running TensorBoard server.

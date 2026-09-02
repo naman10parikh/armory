@@ -8,10 +8,12 @@ source_url: https://github.com/goul4rt/mcp-discord
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-04T17:53:47Z"
 ---
 ## What it is
 MCP server `Discord`, catalogued on PulseMCP. Manages Discord servers, channels, messages, and users with 30+ tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T11:10:42Z"
 ---
 ## What it is
 Remote MCP server that enables composing Moji illustrations from asset catalogs, validating layers, and returning importable .moji.json files.

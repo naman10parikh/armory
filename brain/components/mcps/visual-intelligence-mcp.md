@@ -8,11 +8,13 @@ source_url: https://github.com/KOG123/visual-intelligence-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:04:20Z"
 ---
 ## What it is
 Provides image recognition capabilities to Codex/Claude Code by routing 'look at screen/screenshot' requests to a multimodal model via an API relay. Enables UI automation agents to analyze local screenshots and return descriptions or structured JSON coordinates.

@@ -8,11 +8,13 @@ source_url: https://github.com/GPSxtreme/mcp-coinglass
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-08-24T20:01:40Z"
 ---
 ## What it is
 Provides futures market analytics (Open Interest, Liquidations, Long/Short Ratio, Funding Rates) via the CoinGlass API v4, enabling natural language queries for crypto derivatives data.

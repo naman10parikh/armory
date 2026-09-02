@@ -8,10 +8,12 @@ source_url: https://github.com/phialsbasement/nmap-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-06-01T19:54:34Z"
 ---
 ## What it is
 MCP server `NMAP Scanner`, catalogued on PulseMCP. Integrates NMAP to enable network scanning, security assessments, and automated penetration testing on Windows systems.

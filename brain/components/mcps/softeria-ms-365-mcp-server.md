@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
-stars: 929
+stars: 945
+forks: 363
+pushed_at: "2026-09-01T18:46:41Z"
 ---
 ## What it is
 MCP server that connects to Microsoft Office and the whole Microsoft 365 suite using Graph API (including Outlook, mail, files, Excel, calendar)

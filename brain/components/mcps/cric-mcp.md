@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T18:29:04Z"
 ---
 ## What it is
 Enterprise-grade MCP server providing daily cricket updates via FastAPI and SSE transport, integrating with Claude Remote MCP Connector.

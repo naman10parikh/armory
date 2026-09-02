@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T07:45:14Z"
 ---
 ## What it is
 Enables local document question-answering and retrieval via MCP, supporting multi-turn conversation, intent recognition, and tools for document search, Q&A, and summarization.

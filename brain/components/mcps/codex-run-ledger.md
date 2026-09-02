@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T09:43:29Z"
 ---
 ## What it is
 MCP server `Codex Run Ledger`, catalogued on PulseMCP. Codex run receipts, scope summaries, evidence tracking, and client handoff documentation for AI coding workflows.

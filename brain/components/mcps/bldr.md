@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T15:42:14Z"
 ---
 ## What it is
 A lightweight build daemon that exposes project build flows as MCP tools, enabling AI assistants to drive builds, check status, and react to results.

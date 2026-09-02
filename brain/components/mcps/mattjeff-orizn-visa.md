@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-22T07:28:01Z"
 ---
 ## What it is
 MCP server `Orizn Visa`, catalogued on PulseMCP. Provides visa requirement lookups for 39,585 passport-destination country pairs in 15 languages.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:47:46Z"
 ---
 ## What it is
 An authoritative MCP server for long-form tabletop narrative play, managing campaign state, phases, revisions, and tool exposure while delegating semantic review and narration to Agent/Skill procedures.

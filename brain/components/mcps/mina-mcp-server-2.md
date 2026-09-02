@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T21:40:24Z"
 ---
 ## What it is
 Exposes Mina blockchain data and operations through 40+ MCP tools, supporting live public networks, a local tutorial lightnet, and archive snapshot analysis.

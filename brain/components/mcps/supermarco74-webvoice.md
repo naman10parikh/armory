@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-24T20:53:43Z"
 ---
 ## What it is
 MCP server `WebVoice`, catalogued on PulseMCP. Multi-modal AI service with chat, TTS, STT, translation, and image generation via MCP.

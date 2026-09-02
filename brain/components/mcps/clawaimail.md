@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-23T08:23:14Z"
 ---
 ## What it is
 MCP server `ClawAIMail`, catalogued on PulseMCP. Email infrastructure for AI agents with inbox creation, sending, receiving, and search.

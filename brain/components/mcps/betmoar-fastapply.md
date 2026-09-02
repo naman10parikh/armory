@@ -8,10 +8,12 @@ source_url: https://github.com/betmoar/fastapply-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-09-28T12:37:04Z"
 ---
 ## What it is
 MCP server `FastApply`, catalogued on PulseMCP. Provides intelligent code editing capabilities through local language models, combining AST-grep pattern matching and ripgrep text search for precise structural modifications with automatic backup creation, validation, and rollback capabilities across multiple files.

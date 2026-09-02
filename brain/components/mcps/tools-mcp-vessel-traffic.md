@@ -8,10 +8,12 @@ source_url: https://github.com/tools-mcp/vessel-traffic-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T13:19:39Z"
 ---
 ## What it is
 MCP server `Vessel Traffic`, catalogued on PulseMCP. Read-only MCP server for vessel AIS data, ship tracking, carrier schedules, and maritime analytics via BYOK providers.

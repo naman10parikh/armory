@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:51Z"
 ---
 ## What it is
 Enables AI agents to access comprehensive sports data including football, basketball, American football, and hockey leagues via 11 tools, with no API key required.

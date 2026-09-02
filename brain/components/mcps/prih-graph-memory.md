@@ -8,10 +8,12 @@ source_url: https://github.com/graph-memory/graphmemory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-09T11:06:01Z"
 ---
 ## What it is
 MCP server `Graph Memory`, catalogued on PulseMCP. Builds semantic graph memory from project directories with 58 navigation and search tools.

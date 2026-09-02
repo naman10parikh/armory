@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T20:20:57Z"
 ---
 ## What it is
 Enables AI agents to query a team's decision ledger to check if past decisions are still binding before taking action, via the decisions:// MCP protocol.

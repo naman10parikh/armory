@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T20:19:09Z"
 ---
 ## What it is
 An MCP server that recommends tech stacks for your project. Describe what you're building and get a recommended stack with reasoning, tradeoffs, and what each layer should use.

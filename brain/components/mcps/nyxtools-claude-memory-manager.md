@@ -8,10 +8,12 @@ source_url: https://github.com/nyxtoolsdev/claude-memory-manager
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T20:59:03Z"
 ---
 ## What it is
 MCP server `NyxTools Claude Memory Manager`, catalogued on PulseMCP. Cross-session memory system that captures and retrieves context from session logs for continuity across conversations.

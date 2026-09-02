@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T18:53:41Z"
 ---
 ## What it is
 MCP server `Xitoring`, catalogued on PulseMCP. Connect AI assistants to Xitoring infrastructure monitoring: servers, uptime, SSL, incidents, and alerts.

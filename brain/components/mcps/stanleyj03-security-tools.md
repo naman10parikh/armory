@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-19T12:41:49Z"
 ---
 ## What it is
 MCP server `Security Tools Suite`, catalogued on PulseMCP. Integrates popular security tools including Nmap, Masscan, SQLMap, FFUF, and MobSF for network scanning, SQL injection testing, web fuzzing, and mobile application security analysis without requiring complex command syntax.

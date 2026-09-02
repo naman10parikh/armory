@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-23T16:32:54Z"
 ---
 ## What it is
 MCP server `Taskwarrior`, catalogued on PulseMCP. Wraps the Taskwarrior CLI for structured, project-scoped task management.

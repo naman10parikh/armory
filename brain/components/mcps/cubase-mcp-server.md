@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T08:05:34Z"
 ---
 ## What it is
 Enables headless control of Cubase via MIDI Remote API and virtual MIDI ports, supporting transport, track, and plugin parameter operations through 238 registered MCP tools.

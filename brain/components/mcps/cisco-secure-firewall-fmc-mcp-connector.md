@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-06-23T08:36:33Z"
 ---
 ## What it is
 MCP server that exposes high-level tooling for Cisco Secure Firewall Management Center (FMC), allowing discovery of FMC profiles and searching access rules by IP, FQDN, or identity indicators.

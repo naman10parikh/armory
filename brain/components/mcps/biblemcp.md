@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T15:26:31Z"
 ---
 ## What it is
 Production-ready MCP server that lets LLMs explore, analyze, and reason over the Bible using local ChromaDB stores and Mistral embeddings.

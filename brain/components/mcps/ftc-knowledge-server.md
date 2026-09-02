@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T09:47:44Z"
 ---
 ## What it is
 Remote MCP server for FTC & Pedro Pathing research, providing tools to search technical notes, code templates, and verified team examples to assist AI agents in code generation and robotics development.

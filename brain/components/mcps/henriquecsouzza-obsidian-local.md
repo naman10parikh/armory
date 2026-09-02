@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-08T04:59:31Z"
 ---
 ## What it is
 MCP server `Obsidian Local`, catalogued on PulseMCP. Expose a local Obsidian vault to VS Code and GitHub Copilot for reading, writing, searching, and tagging notes via stdio.

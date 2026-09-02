@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T05:33:06Z"
 ---
 ## What it is
 An MCP server that enables AI agents to read and write Slack messages as the user, not as a bot, using Slack user tokens for authentic actions across multiple workspaces.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-01T12:52:10Z"
 ---
 ## What it is
 Enables AI coding agents to capture screen and voice recordings, extract timestamped frames, and receive structured Markdown reports with context for bug fixing and UI feedback.

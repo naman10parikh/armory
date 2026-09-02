@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T16:36:20Z"
 ---
 ## What it is
 An MCP server that searches and scrapes multiple sources concurrently (web, DuckDuckGo, Wikipedia, arXiv, Hacker News) and renders an interactive picker UI where users can multi-select sources and delve into full page content.

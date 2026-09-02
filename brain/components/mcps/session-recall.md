@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:08:23Z"
 ---
 ## What it is
 Provides local, agentic semantic recall over Claude Code session history, enabling the agent to search past discussions semantically, expand turns, and grep transcripts.

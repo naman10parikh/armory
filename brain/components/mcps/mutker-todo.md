@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-05T17:03:07Z"
 ---
 ## What it is
 MCP server `Todo Manager`, catalogued on PulseMCP. Manages TODO.md and CHANGELOG.md files with precise, line-based editing, multiple character encodings, and atomic operations for structured task and release management.

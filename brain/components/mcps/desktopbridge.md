@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T03:21:16Z"
 ---
 ## What it is
 Enables local macOS automation via the Model Context Protocol, allowing file operations, system monitoring, shell commands, clipboard access, and screenshots with configurable security restrictions.

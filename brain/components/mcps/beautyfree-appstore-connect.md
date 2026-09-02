@@ -8,10 +8,12 @@ source_url: https://github.com/beautyfree/appstore-connect-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-27T13:20:06Z"
 ---
 ## What it is
 MCP server `App Store Connect`, catalogued on PulseMCP. Integrates with Apple's App Store Connect API for managing iOS/macOS apps, TestFlight beta testing, reviews, subscriptions, and distribution workflows.

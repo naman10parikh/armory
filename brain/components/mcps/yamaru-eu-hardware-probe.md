@@ -8,10 +8,12 @@ source_url: https://github.com/yamaru-eu/hardware-probe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-16T00:10:55Z"
 ---
 ## What it is
 MCP server `Hardware Probe`, catalogued on PulseMCP. Analyzes hardware performance, GPU diagnostics, and LLM optimization guidance to help evaluate system capabilities for running AI workloads.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-02T03:13:22Z"
 ---
 ## What it is
 Enables file operations (PDF, Office, images, archives, media) through natural language, with tools for reading, writing, converting, and analyzing files locally.

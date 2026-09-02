@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T16:58:35Z"
 ---
 ## What it is
 An MCP server that exposes FFmpeg as a structured tool set for AI agents, enabling timeline-based video editing, preview, rendering, and analysis with an optional LLM autopilot.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T02:55:29Z"
 ---
 ## What it is
 Local MCP server that converts modeling exercise requests into native Astah projects (.asta), supporting multiple UML diagram types with automatic layout and visual validation.

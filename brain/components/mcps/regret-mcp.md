@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:58:25Z"
 ---
 ## What it is
 A tiny local MCP memory server that stores lessons learned and resurfaces them before your AI agent repeats the same mistake. It provides tools for adding, searching, listing, forgetting, and inspecting lessons via MCP stdio.

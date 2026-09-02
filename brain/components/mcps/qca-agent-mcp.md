@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T06:57:18Z"
 ---
 ## What it is
 Exposes eight QCA (quantum calibration) tools via a standards-based MCP stdio server for MCP-compatible agents to interact with backend status, experiments, schemas, parameters, dry-runs, history, and arrays.

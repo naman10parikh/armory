@@ -8,10 +8,12 @@ source_url: https://github.com/scopeblind/scopeblind-gateway
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-09T04:51:46Z"
 ---
 ## What it is
 MCP server `ScopeBlind`, catalogued on PulseMCP. MCP security gateway enforcing per-tool policies, rate limits, and approval gates with signed audit receipts.

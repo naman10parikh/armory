@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-20T05:49:36Z"
 ---
 ## What it is
 MCP server `Lanzou Cloud`, catalogued on PulseMCP. Provides 4 tools for interacting with Lanzou Cloud file storage, including login, disk listing, file info, and direct link parsing.

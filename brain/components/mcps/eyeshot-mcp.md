@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T11:40:27Z"
 ---
 ## What it is
 Provides screenshot capture and vision analysis tools that enable AI to see and analyze screen content on Windows, forming an automated capture-analyze pipeline.

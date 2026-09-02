@@ -8,10 +8,12 @@ source_url: https://github.com/sivan22/mcp-otzaria-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-17T10:44:38Z"
 ---
 ## What it is
 MCP server `Jewish Library`, catalogued on PulseMCP. Integrates Jewish texts using Tantivy search engine to provide insights, answer questions, and analyze themes from religious Jewish literature.

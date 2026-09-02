@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-22T17:31:57Z"
 ---
 ## What it is
 An async MCP server for Jamf Pro integration, providing AI assistants with tools for computer health analysis, inventory management, and policy monitoring.

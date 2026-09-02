@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T04:01:21Z"
 ---
 ## What it is
 MCP server providing agricultural market intelligence tools (price, margin, trend, report generation) that can be used by any MCP client to answer multi-step queries about commodity markets.

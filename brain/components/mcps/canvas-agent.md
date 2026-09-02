@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T15:29:44Z"
 ---
 ## What it is
 MCP server that connects AI assistants to Instructure Canvas LMS, enabling teachers and administrators to manage courses, assignments, grades, and more through natural language.

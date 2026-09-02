@@ -8,10 +8,12 @@ source_url: https://github.com/julienavezou/reflection-skills-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-06T15:59:25Z"
 ---
 ## What it is
 MCP server `Reflection Skills`, catalogued on PulseMCP. Provides curated reflection skills and frameworks specifically designed for software engineers, offering structured cards covering communication patterns, decision-making exercises, and daily pulse tools with developer-native tags for contextual recommendations in post-incident reviews, team retrospectives, and personal development workflows.

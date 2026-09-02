@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T20:38:50Z"
 ---
 ## What it is
 It gives AI agents one tool to access the Omega-API judge, which evaluates conversational turns and returns a decision and gate action (release, clarify, suppress, or none) to guide the agent's response.

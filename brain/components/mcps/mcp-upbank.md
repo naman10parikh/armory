@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-07T08:45:58Z"
 ---
 ## What it is
 Enables querying Up Bank account transactions and spending habits through natural language, using the Up Bank API in read-only mode.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:06:01Z"
 ---
 ## What it is
 Enables access to USDA Foreign Agricultural Service trade and global production data through MCP, supporting natural language queries and tool-based data retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T05:21:02Z"
 ---
 ## What it is
 Enables querying Amazon EKS cluster metrics from the Kubernetes API server, with filtering by metric name and labels, supporting both exact and regex patterns.

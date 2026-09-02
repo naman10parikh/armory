@@ -8,11 +8,13 @@ source_url: https://github.com/hustcc/mcp-icon
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 291
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-02-26T01:37:27Z"
 ---
 ## What it is
 Generate and manage professional-grade icons for diverse design needs. Simplifies the search for high-quality visual assets to streamline development workflows. Enhances user interface design with consistent and scalable imagery.

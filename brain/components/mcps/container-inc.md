@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-03T01:48:34Z"
 ---
 ## What it is
 MCP server `Container Inc.`, catalogued on PulseMCP. Enables seamless deployment of containerized applications directly from code editors through a three-step workflow of GitHub authentication, repository setup, and automated Docker image publishing.

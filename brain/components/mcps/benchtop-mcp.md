@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T23:24:01Z"
 ---
 ## What it is
 MCP server for operating, recording, and analyzing serial-connected measurement instruments and circuits via AI agents. Includes a built-in mock device so all features can be tested without physical hardware.

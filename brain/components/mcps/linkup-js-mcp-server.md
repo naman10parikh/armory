@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-10-27T14:39:26Z"
 ---
 ## What it is
 Enables AI assistants and development tools to perform intelligent web searches with natural language queries using Linkup's search API.

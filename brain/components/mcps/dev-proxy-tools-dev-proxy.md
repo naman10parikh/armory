@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-24T06:20:12Z"
 ---
 ## What it is
 MCP server `Dev Proxy`, catalogued on PulseMCP. Enables AI assistants to create configurations and discover features for Microsoft Dev Proxy API simulator.

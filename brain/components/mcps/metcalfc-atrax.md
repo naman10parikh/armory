@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-04T23:33:01Z"
 ---
 ## What it is
 MCP server `Atrax (MCP Proxy)`, catalogued on PulseMCP. Proxy service that aggregates multiple MCP servers into a unified endpoint with configurable conflict resolution, transparent proxying, and enhanced error handling.

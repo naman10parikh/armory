@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T13:22:10Z"
 ---
 ## What it is
 Paid remote MCP for Veo 4 credit waste gate with tools for cost estimation, duplicate detection, budget checking, cheaper variant recommendations, and structured receipt issuance.

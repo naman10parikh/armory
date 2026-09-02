@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2025-09-30T13:50:03Z"
 ---
 ## What it is
 A read-only Model Context Protocol server for Microsoft Fabric, enabling natural language queries to workspaces, lakehouses, tables, jobs, and dependencies.

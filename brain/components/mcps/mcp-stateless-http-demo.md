@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T08:37:35Z"
 ---
 ## What it is
 A minimal stateless HTTP MCP server demonstrating the 2026-07-28 protocol era, with tools for arithmetic, order and user queries, resources, prompts, and MCP Apps, featuring caching and W3C trace context.

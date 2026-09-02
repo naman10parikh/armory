@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-22T14:35:05Z"
 ---
 ## What it is
 MCP server `Azure Resource Manager`, catalogued on PulseMCP. Exposes Azure cloud resource management capabilities including subscription management, resource group operations, resource listing, and storage account validation through Azure SDK libraries with environment-based authentication.

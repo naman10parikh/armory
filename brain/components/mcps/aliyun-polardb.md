@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-17T22:11:38Z"
 ---
 ## What it is
 MCP server `PolarDB`, catalogued on PulseMCP. Provides a bridge between natural language interfaces and Alibaba Cloud PolarDB databases, enabling direct interaction with MySQL and PostgreSQL instances through queries, table exploration, and configurable SQL execution.

@@ -8,10 +8,12 @@ source_url: https://github.com/dcolley/swagger-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 114
+stars: 116
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2026-07-03T07:59:01Z"
 ---
 ## What it is
 MCP server `Swagger API`, catalogued on PulseMCP. Transforms Swagger/OpenAPI specifications into tools that enable interaction with any documented API through multiple authentication methods and real-time communication.

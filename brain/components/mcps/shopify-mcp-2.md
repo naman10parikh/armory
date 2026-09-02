@@ -8,11 +8,13 @@ source_url: https://github.com/benwmerritt/shopify-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-27T06:03:42Z"
 ---
 ## What it is
 A Model Context Protocol server that connects AI agents to the Shopify Admin GraphQL API, enabling management of products, orders, customers, and more through natural language.

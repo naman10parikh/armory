@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:49:09Z"
 ---
 ## What it is
 Enables searching for cocktail recipes by name, ingredient, or randomly, and retrieving full cocktail details including ingredients, measurements, and instructions via TheCocktailDB API.

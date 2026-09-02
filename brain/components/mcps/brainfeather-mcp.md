@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T02:26:08Z"
 ---
 ## What it is
 Provides long-term memory for AI coding agents, enabling facts like stack, conventions, and decisions to be recorded once and recalled across sessions.

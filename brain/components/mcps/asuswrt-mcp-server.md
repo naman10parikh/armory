@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T14:04:39Z"
 ---
 ## What it is
 Enables AI assistants to monitor and securely manage AsusWRT and AsusWRT-Merlin routers via SSH with allowlisted commands, supporting read-only monitoring and controlled mutations.

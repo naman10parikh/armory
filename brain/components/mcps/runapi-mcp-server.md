@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:49:16Z"
 ---
 ## What it is
 Connects MCP-compatible coding tools to RunAPI for AI image, video, music, text-to-speech, and LLM generation using 130+ models from leading providers.

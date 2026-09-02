@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T00:46:52Z"
 ---
 ## What it is
 A generic MCP server for MySQL operations, enabling listing databases/tables, describing schemas, running read-only SQL, and optionally executing write SQL with logging.

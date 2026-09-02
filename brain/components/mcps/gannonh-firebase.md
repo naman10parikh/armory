@@ -8,10 +8,12 @@ source_url: https://github.com/gannonh/firebase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 243
+stars: 248
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 41
+pushed_at: "2025-10-27T11:00:06Z"
 ---
 ## What it is
 MCP server `Firebase`, catalogued on PulseMCP. Enables Firebase Authentication, Firestore, and Storage operations for developers building applications that require seamless backend service integration.

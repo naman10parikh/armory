@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-09T12:44:55Z"
 ---
 ## What it is
 Enables debugging of PlayStation games through DuckStation by providing MCP tools for execution control, register access, memory inspection, breakpoints, process management, and log analysis.

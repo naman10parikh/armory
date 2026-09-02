@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T06:26:00Z"
 ---
 ## What it is
 Enables managing SSH-managed clusters with tools for executing commands, file operations, and tmux sessions across multiple nodes.

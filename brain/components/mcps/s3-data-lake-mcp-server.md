@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-02T18:42:48Z"
 ---
 ## What it is
 Enables AI agents to query S3 data lakes using natural language, with support for CSV, JSON, Parquet and tools for data discovery, analysis, and metadata exploration.

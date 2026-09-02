@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T16:31:11Z"
 ---
 ## What it is
 Enables interaction with Confluence Cloud pages, spaces, content, media, and navigation via natural language, with session-based editing and native macro support.

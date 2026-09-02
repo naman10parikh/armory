@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T12:04:51Z"
 ---
 ## What it is
 MCP server `AgentSkin`, catalogued on PulseMCP. Prunes noisy API and web data into token-efficient semantic shorthand for AI agent consumption.

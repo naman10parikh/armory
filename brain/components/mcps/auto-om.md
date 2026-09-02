@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T12:06:14Z"
 ---
 ## What it is
 A comprehensive MCP server for Linux automation operations management, providing 88 tools across 8 categories for file, system, process, network, compression, and package management via SSH connections.

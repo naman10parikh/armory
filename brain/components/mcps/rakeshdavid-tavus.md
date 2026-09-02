@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-09T19:13:26Z"
 ---
 ## What it is
 MCP server `Tavus`, catalogued on PulseMCP. Integrates with Tavus API to enable video generation from text or audio, replica creation and training, conversational video interfaces, lipsync capabilities, and speech synthesis for creating interactive video content and virtual assistants.

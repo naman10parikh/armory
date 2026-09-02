@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T21:59:44Z"
 ---
 ## What it is
 MCP server for SAP Joule that integrates with RunMyFranchise via OData V4, enabling natural language queries about store risks, stock coverage, pending orders, recommendations, and network scores.

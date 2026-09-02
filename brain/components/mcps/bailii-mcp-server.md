@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T04:21:23Z"
 ---
 ## What it is
 Enables searching UK case law on BAILII and retrieving judgments with automatic section extraction (summary, conclusions, etc.). Runs locally to avoid BAILII's cloud IP blocks.

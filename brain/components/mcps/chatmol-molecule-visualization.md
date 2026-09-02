@@ -8,10 +8,12 @@ source_url: https://github.com/chatmol/molecule-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 92
+stars: 96
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-04-20T23:06:51Z"
 ---
 ## What it is
 MCP server `Molecule Visualization (ChimeraX, PyMOL)`, catalogued on PulseMCP. Connects AI systems to molecular visualization software like PyMol and ChimeraX, enabling direct command execution and image capture of molecular structures for scientific workflows.

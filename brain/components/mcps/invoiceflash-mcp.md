@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T15:06:54Z"
 ---
 ## What it is
 Read-only MCP server that connects to an InvoiceFlash MySQL database, exposing clients, invoices, and quotes as tools for natural language querying via Claude Desktop or Claude Code.

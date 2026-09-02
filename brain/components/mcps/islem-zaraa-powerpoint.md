@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-21T23:55:32Z"
 ---
 ## What it is
 MCP server `PowerPoint`, catalogued on PulseMCP. Enables creation and manipulation of PowerPoint presentations with functions for adding slides, formatting content, reading metadata, and exporting to PDF using pptxgenjs and officegen libraries.

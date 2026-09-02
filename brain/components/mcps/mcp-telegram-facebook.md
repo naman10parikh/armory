@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T03:36:36Z"
 ---
 ## What it is
 Enables fetching videos from Telegram and reposting them to Facebook Pages, with additional Facebook Page management tools.

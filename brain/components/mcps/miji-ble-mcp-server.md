@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T06:42:07Z"
 ---
 ## What it is
 MCP server for controlling BLE-enabled adult toys from XHTKJ and 醉清风 mini-programs, enabling strength, mode, and custom waveform control via natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/eltociear/skill-audit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-19T05:09:11Z"
 ---
 ## What it is
 MCP server `MCP Security Audit`, catalogued on PulseMCP. Scan MCP servers, AI agent skills, and plugins for 68+ security attack signatures including credential theft and code execution patterns.

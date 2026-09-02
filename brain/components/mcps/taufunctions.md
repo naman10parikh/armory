@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T09:40:59Z"
 ---
 ## What it is
 Enables coding agents to create, deploy, invoke, and monitor serverless functions using 12 MCP tools, with support for multiple runtimes and remote MCP access.

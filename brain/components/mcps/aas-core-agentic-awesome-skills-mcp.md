@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T10:36:57Z"
 ---
 ## What it is
 A local, read-only MCP server that lets coding agents search the complete AAS skill catalog, compose and validate agent-chosen skill stacks, and generate reproducible, reviewable plans without uploading project code.

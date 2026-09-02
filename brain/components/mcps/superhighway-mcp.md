@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T02:15:07Z"
 ---
 ## What it is
 An MCP server that provides real-time web search to AI agents via a pay-per-search USDC microtransaction system.

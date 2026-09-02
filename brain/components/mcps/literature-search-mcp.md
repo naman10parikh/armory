@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T06:58:57Z"
 ---
 ## What it is
 A standalone MCP server that searches multiple scholarly metadata providers (PubMed, Europe PMC, bioRxiv, Crossref, OpenAlex, Semantic Scholar, arXiv), deduplicates results, and returns ranked literature with optional open-access full-text retrieval from Europe PMC.

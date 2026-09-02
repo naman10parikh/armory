@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:37:08Z"
 ---
 ## What it is
 Enables querying Rick and Morty characters, locations, and episodes using the Rick and Morty API with no authentication required.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-08T00:03:13Z"
 ---
 ## What it is
 MCP server `TextArtTools`, catalogued on PulseMCP. Unicode text styling and ASCII art generation with 23 styles and 322+ figlet fonts

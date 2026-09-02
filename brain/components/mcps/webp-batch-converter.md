@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-25T20:03:16Z"
 ---
 ## What it is
 MCP server `WebP Batch Converter`, catalogued on PulseMCP. Converts images to WebP format using Sharp or libwebp-tools with batch processing, glob pattern matching, and configurable quality settings for web optimization and asset pipeline automation.

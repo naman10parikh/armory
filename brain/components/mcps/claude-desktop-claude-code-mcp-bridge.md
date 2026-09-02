@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T07:08:35Z"
 ---
 ## What it is
 A bidirectional MCP bridge that lets Claude Desktop and Claude Code collaborate on a build with no human in the execution loop.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T23:42:03Z"
 ---
 ## What it is
 Enables searching and retrieving Minecraft Wiki content in multiple formats (wikitext, HTML, markdown) through MCP tools, with batch retrieval and health monitoring.

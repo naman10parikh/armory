@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T00:55:59Z"
 ---
 ## What it is
 Enables interaction with ConnectWise Manage through 45 tools across Service, Operations, and Finance domains, with tier-based access control for finance tools.

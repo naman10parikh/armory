@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T08:16:02Z"
 ---
 ## What it is
 Enables annotating SVG paper figures in the browser by picking elements or drawing regions, and feeds those annotations back to Claude via MCP so it can edit the underlying SVG or generation scripts, with automatic page refresh on changes.

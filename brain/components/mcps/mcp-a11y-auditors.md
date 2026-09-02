@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T23:24:54Z"
 ---
 ## What it is
 Automates WCAG 2.2 accessibility audits by connecting Claude with 8 screen readers, reducing manual audit time by 62%.

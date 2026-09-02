@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-09T20:11:08Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides currency exchange rate conversion tools.

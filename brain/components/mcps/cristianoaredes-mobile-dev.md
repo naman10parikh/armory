@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-06T15:16:36Z"
 ---
 ## What it is
 MCP server `Mobile Development Tools`, catalogued on PulseMCP. Native mobile development server providing 36 tools across Android, iOS, and Flutter platforms with automated SDK setup, intelligent super-tools that combine multiple operations into complete workflows, and fallback systems for reliable cross-platform building, testing, and deployment.

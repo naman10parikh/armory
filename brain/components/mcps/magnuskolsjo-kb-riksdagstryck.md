@@ -8,10 +8,12 @@ source_url: https://github.com/magnuskolsjo/kb-riksdagstryck-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-10T15:41:43Z"
 ---
 ## What it is
 MCP server `KB Riksdagstryck`, catalogued on PulseMCP. Provides hybrid full-text and semantic search across 1,188 volumes of digitized Swedish parliamentary records from 1521–1866 held by the Royal Library.

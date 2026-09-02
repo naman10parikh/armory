@@ -8,10 +8,12 @@ source_url: https://github.com/boost-community/boost-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-22T20:29:05Z"
 ---
 ## What it is
 MCP server `BoostSecurity`, catalogued on PulseMCP. Safeguards coding agents against adding vulnerable packages into projects

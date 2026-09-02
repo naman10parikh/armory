@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:42:08Z"
 ---
 ## What it is
 Provides government transparency indicators for Brazilian individuals (CPF/NIS) via the Portal da Transparência, enabling read-only queries through natural language.

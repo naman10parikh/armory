@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T04:00:59Z"
 ---
 ## What it is
 Enables Claude Desktop to search the CanLII Canadian legal database and retrieve the full text of matching legal documents.

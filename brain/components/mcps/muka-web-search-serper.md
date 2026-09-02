@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-29T16:05:24Z"
 ---
 ## What it is
 MCP server `Web Search (Serper)`, catalogued on PulseMCP. Integrates with the Serper API to perform web searches, enabling efficient retrieval and processing of up-to-date web content for applications.

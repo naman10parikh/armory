@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T07:00:37Z"
 ---
 ## What it is
 MCP server for the Finnish Business Register (PRH/YTJ). Look up any Finnish company by Business ID (Y-tunnus) or name.

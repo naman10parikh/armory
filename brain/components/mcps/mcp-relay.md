@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-28T19:19:27Z"
 ---
 ## What it is
 Connects Claude Desktop and Claude Code, enabling autonomous exchange of messages, files, and code while keeping their context windows separate.

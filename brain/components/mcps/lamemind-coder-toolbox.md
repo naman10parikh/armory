@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-20T09:41:29Z"
 ---
 ## What it is
 MCP server `Coder Toolbox`, catalogued on PulseMCP. Integrates Java code analysis, manipulation, and testing tools for efficient software development workflows and automated code operations.

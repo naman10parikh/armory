@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T08:07:17Z"
 ---
 ## What it is
 A local-first browser extension and MCP server that captures your browsing history, bookmarks, highlights, and notes, making them searchable by Claude Desktop as a personal memory assistant.

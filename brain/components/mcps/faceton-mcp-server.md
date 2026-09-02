@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-11T12:07:31Z"
 ---
 ## What it is
 FaceTron is a high-performance face embedding server with ONNX Runtime, dynamic multi-model loading, and MCP-compatible OpenAPI metadata for offline face recognition and detection.

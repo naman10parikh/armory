@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T10:27:54Z"
 ---
 ## What it is
 A single FastMCP server that exposes multiple URL-scoped tool groups, allowing agents to access only relevant tools via separate endpoints, reducing context bloat and token costs.

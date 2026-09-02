@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T09:55:45Z"
 ---
 ## What it is
 Enables image generation and editing via the Grok Imagine Image 2.0 API, supporting text-to-image, image-to-image editing, multi-reference generation, local uploads, and asynchronous job polling.

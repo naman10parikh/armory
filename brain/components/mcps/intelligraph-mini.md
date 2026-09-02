@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T14:15:46Z"
 ---
 ## What it is
 Local-first MCP graph intelligence server providing RRF hybrid search, multi-hop traversal, source snippets, and rationale nodes for AI agents, without Docker or web UI.

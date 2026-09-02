@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T15:51:16Z"
 ---
 ## What it is
 MCP server `ROS 2 Polishing Robot`, catalogued on PulseMCP. Bridges ROS 2 robotics systems with AI via rosbridge for polishing robot data processing and execution.

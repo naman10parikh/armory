@@ -8,10 +8,12 @@ source_url: https://github.com/searchcraft-inc/searchcraft-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-07T12:23:14Z"
 ---
 ## What it is
 MCP server `Searchcraft`, catalogued on PulseMCP. Integrates with Searchcraft's search API to provide advanced document retrieval with fuzzy and exact matching, facet filtering, and date range queries across indexed content repositories and knowledge bases.

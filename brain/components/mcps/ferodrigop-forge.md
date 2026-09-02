@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, command-line]
 stars: 23
+forks: 5
+pushed_at: "2026-04-08T04:38:44Z"
 ---
 ## What it is
 Terminal MCP server for AI coding agents with persistent PTY sessions, ring-buffer incremental reads, headless xterm screen capture, multi-agent orchestration, and a real-time web dashboard.

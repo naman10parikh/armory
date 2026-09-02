@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T17:32:21Z"
 ---
 ## What it is
 Generates interactive Chart.js v4 charts for AI agents, outputting clickable HTML links instead of embedded images to avoid CSP restrictions.

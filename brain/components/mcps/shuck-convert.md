@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T01:15:55Z"
 ---
 ## What it is
 An MCP server for converting between document formats (DOCX/PDF to Markdown and Markdown to DOCX) with academic styling support.

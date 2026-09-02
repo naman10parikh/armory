@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:51:04Z"
 ---
 ## What it is
 Provides web search and image search tools using OpenAI's native server-side search. Uses Codex CLI authentication to enable free search via ChatGPT infrastructure.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-15T14:28:33Z"
 ---
 ## What it is
 MCP server for Odoo 18 that provides 85 tools for CRUD operations, business actions, and migration workflows, enabling natural language interaction with Odoo ERP.

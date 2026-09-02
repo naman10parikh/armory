@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T19:02:06Z"
 ---
 ## What it is
 Enables AI assistants to search and apply for jobs on Handshake, track applications, and research employers using your browser session.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T16:10:25Z"
 ---
 ## What it is
 Enables LinkedIn profile reads and post operations through a local-first MCP server, with OAuth token management and approval-friendly tools for OpenWorker.

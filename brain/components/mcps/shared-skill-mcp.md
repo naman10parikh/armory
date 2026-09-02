@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:01:45Z"
 ---
 ## What it is
 Enables claude.ai custom connectors to run SQL-like gviz queries against Google Sheets through a shared AWS-hosted MCP server protected by Cognito Google login, with room to add more tools over time.

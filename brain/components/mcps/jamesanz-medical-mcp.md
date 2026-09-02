@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
-stars: 108
+stars: 111
+forks: 32
+pushed_at: "2026-06-04T02:40:19Z"
 ---
 ## What it is
 An MCP server that provides access to medical information, drug databases, and healthcare resources. Enables AI assistants to query medical data, drug interactions, and clinical guidelines.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-14T14:49:18Z"
 ---
 ## What it is
 MCP server `VectorDecisions`, catalogued on PulseMCP. AI governance with GATRI trust scoring, kill-switch enforcement, and EU AI Act compliance.

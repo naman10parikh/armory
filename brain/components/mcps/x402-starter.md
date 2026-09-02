@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T14:44:11Z"
 ---
 ## What it is
 Enables AI agents to pay-per-call for Cloudflare Worker APIs using USDC micropayments, with automatic MCP tool discovery and Bazaar listing.

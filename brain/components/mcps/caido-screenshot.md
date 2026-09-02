@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T08:34:08Z"
 ---
 ## What it is
 Captures formatted screenshots of Caido Replay request/response pairs by driving the Screenshot Mode plugin via Chrome DevTools Protocol.

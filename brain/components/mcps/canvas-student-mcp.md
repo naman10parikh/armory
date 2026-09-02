@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T23:34:06Z"
 ---
 ## What it is
 Read-only MCP server for Canvas LMS that works without API tokens by using session cookies, enabling AI assistants to access courses, assignments, grades, announcements, and more.

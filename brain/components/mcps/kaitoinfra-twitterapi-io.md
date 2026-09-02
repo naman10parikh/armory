@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-31T05:03:44Z"
 ---
 ## What it is
 MCP server `TwitterAPI.io`, catalogued on PulseMCP. Provides 12 read-only tools for querying Twitter/X data including tweet search, user profiles, follower lists, and trending topics via the TwitterAPI.io service.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T12:17:18Z"
 ---
 ## What it is
 Gives an agent full shell access on Termux with file read/write/edit capabilities.

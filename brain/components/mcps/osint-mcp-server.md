@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-25T20:08:53Z"
 ---
 ## What it is
 MCP server for the OSINT Intelligence Platform, enabling AI assistants to interact with Telegram intelligence archives via 65 tools for search, entity analysis, event tracking, social graph, and platform monitoring.

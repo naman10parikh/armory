@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-17T06:47:33Z"
 ---
 ## What it is
 MCP server `Mattermost Fetch`, catalogued on PulseMCP. Web scraping server that fetches and processes web content with robust features like robots.txt compliance, LRU caching, and markdown conversion, supporting both autonomous and manual content retrieval modes.

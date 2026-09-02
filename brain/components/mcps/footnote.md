@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T00:17:45Z"
 ---
 ## What it is
 Enables agents to verify their own output mid-task by checking every claim against provided sources, returning supported, partial, unsupported, or contradicted verdicts with exact citations.

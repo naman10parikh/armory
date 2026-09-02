@@ -8,10 +8,12 @@ source_url: https://github.com/iamtouchskyer/memex
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 191
+stars: 141
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 40
+pushed_at: "2026-07-18T14:11:31Z"
 ---
 ## What it is
 MCP server `Memex (TouchSkyer)`, catalogued on PulseMCP. Zettelkasten-based memory system for AI agents with atomic knowledge cards and bidirectional links.

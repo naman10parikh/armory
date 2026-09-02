@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:47:58Z"
 ---
 ## What it is
 An MCP server that guides a sequential QA workflow, requiring initial project and user story inputs, then crawls web apps, generates test cases and Playwright scripts, runs tests, and files Jira bugs with proof.

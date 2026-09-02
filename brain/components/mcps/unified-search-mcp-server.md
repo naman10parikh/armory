@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T06:51:53Z"
 ---
 ## What it is
 Enables AI agents to perform multi-platform searches (Douyin, Xiaohongshu, Zhihu, CSDN) and reverse-engineer arbitrary websites using browser automation and CDP.

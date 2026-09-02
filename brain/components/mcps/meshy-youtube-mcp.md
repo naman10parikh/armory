@@ -8,11 +8,13 @@ source_url: https://github.com/Scottcjn/meshy-youtube-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-20T03:11:42Z"
 ---
 ## What it is
 Enables generating 3D models from text prompts, rendering turntable animations, and uploading them directly to YouTube via an MCP interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-24T18:32:18Z"
 ---
 ## What it is
 An unofficial MCP server for RateMyProfessors.com that enables fetching professor ratings, reviews, and comments. Integrates with MCP clients like Claude Desktop.

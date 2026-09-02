@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T15:03:25Z"
 ---
 ## What it is
 An MCP server that turns the Hugging Face Hub into a conversational model picker with a tool-use eval harness to prove the agent actually uses it correctly.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T16:27:56Z"
 ---
 ## What it is
 This MCP server provides fail-closed governance for DataHub data agents by implementing a Read Context → Restricted AST Gate → Tamper-Evident Proof Pack → Native DataHub Write-Back loop. It verifies dataset identity, schema, and lineage evidence against candidate contracts, binds claims to evidence,

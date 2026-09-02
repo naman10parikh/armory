@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 1
+forks: 1
+pushed_at: "2026-07-09T08:19:40Z"
 ---
 ## What it is
 Search 1,500+ pre-verified, cited knowledge units across 16 domains. 6 tools: query, batch query, get unit, list domains, suggest topics, report issues. Confidence scores, source provenance, and freshness tracking. Free, no API key required.

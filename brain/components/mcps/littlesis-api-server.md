@@ -8,11 +8,13 @@ source_url: https://github.com/code-rabi/littlesis-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3339
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2025-08-18T09:15:58Z"
 ---
 ## What it is
 Provide access to the LittleSis API to track corporate power and accountability. Enable querying and exploring relationships and entities related to corporate influence. Facilitate integration of corporate data into LLM applications for enhanced context and insights.

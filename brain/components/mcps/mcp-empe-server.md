@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-10T16:27:41Z"
 ---
 ## What it is
 Enables users to manage self-sovereign identity credentials by creating schemas, issuing verifiable credentials, generating verification QR codes, and checking verification status via the Empe SSI ecosystem.

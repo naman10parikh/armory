@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-04-17T19:40:51Z"
 ---
 ## What it is
 A scalable multi-tenant platform for hosting MCP servers with built-in OAuth/API key authentication and 23+ native connector plugins (e.g., GitHub, Jira, Slack), enabling isolation and integration with external services.

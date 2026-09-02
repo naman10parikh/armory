@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-01T08:23:35Z"
 ---
 ## What it is
 Converts SOAP WSDL services into a REST interface and provides MCP tools to describe, invoke, and manage SOAP operations with caching and WS-Security support.

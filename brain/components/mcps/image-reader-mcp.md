@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-04T14:37:04Z"
 ---
 ## What it is
 Enables listing image files in a directory and reading their content as base64 for display.

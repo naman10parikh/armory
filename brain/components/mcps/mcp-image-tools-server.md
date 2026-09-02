@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T07:32:28Z"
 ---
 ## What it is
 Provides image processing tools for Claude Code, including downloading toy-related images from DuckDuckGo, resizing images, and removing backgrounds using AI.

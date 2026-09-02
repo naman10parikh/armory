@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-16T13:58:22Z"
 ---
 ## What it is
 MCP server `Image Recognition`, catalogued on PulseMCP. Provides image recognition and description capabilities for both local files and remote URLs with configurable security controls including path validation, domain restrictions, and file type filtering.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-07T06:43:47Z"
 ---
 ## What it is
 MCP server `air-Q Local`, catalogued on PulseMCP. Direct HTTP communication with air-Q air quality sensor devices on the local network.

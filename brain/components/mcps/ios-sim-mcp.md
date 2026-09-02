@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T03:13:26Z"
 ---
 ## What it is
 MCP server that drives the iOS Simulator via accessibility-tree snapshots with stable element refs, enabling LLMs to interactively find, tap, type, and inspect UI elements at sub-200ms latency.

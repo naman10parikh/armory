@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T09:02:11Z"
 ---
 ## What it is
 Plan-bank MCP for AI agents and Notion. Agents read and write Markdown implementation plans with line + section addressing — no ad-hoc temp scripts.

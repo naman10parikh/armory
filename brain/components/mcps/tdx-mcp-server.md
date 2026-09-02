@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T03:04:26Z"
 ---
 ## What it is
 An MCP server that wraps the TeamDynamix Web API, enabling AI assistants to search tickets, manage assets, query the knowledge base, and look up people in your TDX instance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-09T06:47:20Z"
 ---
 ## What it is
 An MCP server for analyzing images using ModelScope's vision models. Supports both local files and URLs, enabling image content description and question answering.

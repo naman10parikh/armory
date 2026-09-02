@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-06T18:33:23Z"
 ---
 ## What it is
 MCP server `Memsolus`, catalogued on PulseMCP. Persistent memory system for AI agents with semantic search, knowledge graph extraction, and shared memory pools.

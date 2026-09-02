@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T18:10:00Z"
 ---
 ## What it is
 US crime safety scores, recent incidents, neighborhood demographics, rent data, and registered-offender search by address. Free tier available.

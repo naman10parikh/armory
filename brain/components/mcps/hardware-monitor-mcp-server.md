@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T13:47:09Z"
 ---
 ## What it is
 Enables AI assistants to query real-time system metrics like CPU, RAM, disk, and battery usage, and check performance thresholds.

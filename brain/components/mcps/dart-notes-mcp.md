@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T06:42:11Z"
 ---
 ## What it is
 Enables precise search of financial statement footnotes from Korean DART electronic disclosure, filtering by market, industry, and topic with high precision through rule-based topic matching.

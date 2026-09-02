@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-12-25T16:51:40Z"
 ---
 ## What it is
 MCP server `Codemode SQLite`, catalogued on PulseMCP. SQLite operations via sandboxed Go code execution for faster, token-efficient database queries

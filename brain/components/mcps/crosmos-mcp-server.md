@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T21:36:17Z"
 ---
 ## What it is
 MCP server for the Crosmos memory layer, enabling semantic, keyword, and graph retrieval of memories, as well as storing content with automatic entity and relation extraction.

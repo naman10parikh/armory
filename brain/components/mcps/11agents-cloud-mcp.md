@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T11:26:13Z"
 ---
 ## What it is
 A hosted Model Context Protocol server that connects AI agents to a project-scoped growth workspace, exposing tools for project knowledge, analytics, research, planning, media generation, drama intelligence, and skill sync.

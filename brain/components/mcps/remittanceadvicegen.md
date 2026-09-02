@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T12:28:29Z"
 ---
 ## What it is
 Enables generation of realistic remittance advice PDFs for testing purposes with configurable templates and comprehensive payment details.

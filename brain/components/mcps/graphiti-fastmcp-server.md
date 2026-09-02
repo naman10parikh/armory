@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-13T01:38:38Z"
 ---
 ## What it is
 A temporally-aware knowledge graph MCP server for AI agents, enabling episodic ingestion, entity management, and semantic search with support for multiple LLM and embedding providers.

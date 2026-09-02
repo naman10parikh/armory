@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:54:20Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to list GitHub repositories for a user or organization and list directories within a repository via the GitHub REST API.

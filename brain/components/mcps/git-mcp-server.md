@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-01T04:53:58Z"
 ---
 ## What it is
 An MCP server that provides tools for interacting with Git repositories, enabling AI assistants to manage repositories, branches, commits, and files through a standardized interface.

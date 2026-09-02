@@ -8,10 +8,12 @@ source_url: https://github.com/andrewschreiber/desktopinsights-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T18:12:01Z"
 ---
 ## What it is
 MCP server `Desktop Insights`, catalogued on PulseMCP. Query a database of 12,000+ macOS and Windows desktop apps to look up technology stacks, SDKs, and frameworks used in popular applications.

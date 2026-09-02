@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-25T05:41:17Z"
 ---
 ## What it is
 MCP server `Jarvis (Notion Finance)`, catalogued on PulseMCP. Bridges natural language commands with Notion databases for personal finance management, enabling expense tracking, income recording, credit card payments, budget rules, and paycheck splitting through conversational interfaces.

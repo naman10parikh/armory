@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:00:48Z"
 ---
 ## What it is
 Private MCP server that enables a single GitHub identity to run Codex Security CLI scans on registered repositories, with OAuth authentication and a web-based cockpit UI.

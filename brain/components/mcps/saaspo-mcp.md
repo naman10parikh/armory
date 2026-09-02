@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T14:51:41Z"
 ---
 ## What it is
 An MCP server that gives AI coding agents access to saaspo.com's SaaS web design inspiration library, enabling them to search pages and sections by style, industry, and type for grounded design decisions.

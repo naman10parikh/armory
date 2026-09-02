@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T11:46:01Z"
 ---
 ## What it is
 Enables users to search and analyze Korean public procurement IT bid announcements, including full bid opening results, through natural language conversation with Claude.

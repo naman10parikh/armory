@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-18T21:58:38Z"
 ---
 ## What it is
 Demonstrates MCP capabilities through 8 runnable demos including tools, resources, and bidirectional communication, covering patterns like polite CLI, OAuth handoff, async progress, and shared UI artifacts.

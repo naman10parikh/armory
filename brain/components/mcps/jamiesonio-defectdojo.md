@@ -8,10 +8,12 @@ source_url: https://github.com/jamiesonio/defectdojo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-04-01T04:26:16Z"
 ---
 ## What it is
 MCP server `DefectDojo`, catalogued on PulseMCP. Bridges to the DefectDojo vulnerability management system, enabling interaction with security findings, products, and engagements for streamlined security workflow integration.

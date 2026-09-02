@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-06-12T14:23:43Z"
 ---
 ## What it is
 MCP server enabling AI-powered Baserow database operations through natural language, with workspace, table, and row management.

@@ -12,6 +12,8 @@ stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-15T21:09:23Z"
 ---
 ## What it is
 MCP server `Xcode Documentation`, catalogued on PulseMCP. Access Apple developer documentation and SDK symbols from local Xcode installations on macOS

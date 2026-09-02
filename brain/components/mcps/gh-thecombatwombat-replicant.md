@@ -8,10 +8,12 @@ source_url: https://github.com/thecombatwombat/replicant-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-26T10:20:42Z"
 ---
 ## What it is
 MCP server `Replicant`, catalogued on PulseMCP. Build, test, and debug Android apps through AI-driven emulator control and UI automation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-02T13:14:13Z"
 ---
 ## What it is
 Enables AI assistants to access TemplUI components for building Go applications with the templ templating language.

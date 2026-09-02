@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T11:23:05Z"
 ---
 ## What it is
 An MCP server that fetches real setlists from setlist.fm and creates Spotify playlists from them, supporting fuzzy matching and various modes like latest show or best-of from recent shows.

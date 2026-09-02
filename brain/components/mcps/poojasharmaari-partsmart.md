@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T08:53:58Z"
 ---
 ## What it is
 MCP server `PartSmart Automation`, catalogued on PulseMCP. Automates PartSmart industrial parts web application using Playwright browser automation.

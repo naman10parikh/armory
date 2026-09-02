@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-28T01:58:37Z"
 ---
 ## What it is
 Enables retrieval of accurate current time from NTP servers with timezone conversion and structured output, falling back to local time if NTP is unavailable.

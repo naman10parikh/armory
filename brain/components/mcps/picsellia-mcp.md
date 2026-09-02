@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T14:24:18Z"
 ---
 ## What it is
 MCP server that wraps the Picsellia Python SDK, giving AI assistants access to computer vision platform capabilities such as datasets, experiments, models, deployments, and monitoring.

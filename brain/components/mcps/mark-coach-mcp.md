@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T07:29:31Z"
 ---
 ## What it is
 Local MCP server that turns Mark Builds Brands' YouTube knowledge into an AI coaching assistant for ecommerce and Facebook Ads.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T17:34:42Z"
 ---
 ## What it is
 MCP server providing access to Lolzteam Market and Forum APIs with 271 tools for account trading, forum interactions, and more.

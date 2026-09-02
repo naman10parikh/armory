@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-01T00:57:30Z"
 ---
 ## What it is
 Enables MCP clients like Claude Desktop to search, retrieve, and analyze Korean statistical data from KOSIS OpenAPI.

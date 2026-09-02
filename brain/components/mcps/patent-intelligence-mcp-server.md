@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:16:36Z"
 ---
 ## What it is
 Provides AI agents with access to US patent data through 16 tools for search, citation analysis, technology trends, and portfolio comparisons via the free USPTO PatentsView API.

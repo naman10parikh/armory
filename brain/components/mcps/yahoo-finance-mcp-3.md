@@ -8,11 +8,13 @@ source_url: https://github.com/Alex2Yang97/yahoo-finance-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 340
+stars: 346
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 158
+pushed_at: "2026-08-30T13:59:08Z"
 ---
 ## What it is
 Enables retrieval of comprehensive financial data from Yahoo Finance, including stock prices, company info, financial statements, options, and news, for stock analysis and market research.

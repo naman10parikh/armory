@@ -12,6 +12,8 @@ stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-04-15T16:45:28Z"
 ---
 ## What it is
 MCP server `Image Generation (Flux)`, catalogued on PulseMCP. Bridges Claude with the Replicate API to generate images using the Flux model directly within conversations through customizable parameters and asynchronous processing.

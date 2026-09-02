@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-30T08:45:41Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for managing GitHub webhooks at both organization and repository levels.

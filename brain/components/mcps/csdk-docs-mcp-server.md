@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T19:30:38Z"
 ---
 ## What it is
 Enables TF-IDF search and structured browsing of Sisense Compose SDK documentation for React, Vue, and Angular, with support for framework filtering and code context to find relevant code examples.

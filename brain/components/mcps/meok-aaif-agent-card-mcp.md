@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:34:23Z"
 ---
 ## What it is
 Publishes AAIF Agent Cards and bridges A2A and OASF to AAIF, with built-in EU AI Act compliance.

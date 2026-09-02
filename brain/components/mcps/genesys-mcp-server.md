@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:57:01Z"
 ---
 ## What it is
 A read-only MCP server that exposes Genesys Cloud queue lookup, analytics aggregates, and conversation search tools, enabling natural language queries for contact center metrics.

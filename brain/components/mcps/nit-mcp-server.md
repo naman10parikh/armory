@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T19:08:34Z"
 ---
 ## What it is
 Exposes nit's code review agent as tools for Claude, enabling local path and GitHub PR/commit/URL review over Streamable HTTP.

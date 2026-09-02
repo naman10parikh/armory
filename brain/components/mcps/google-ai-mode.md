@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T11:45:35Z"
 ---
 ## What it is
 Provides OpenAI-compatible API, MCP, and CLI for Google AI Mode, with automatic fallback to a real Chrome browser to bypass TLS fingerprint detection.

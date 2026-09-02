@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T10:58:09Z"
 ---
 ## What it is
 AI-powered backend diagnostics MCP server that statically analyzes frontend and backend code to catch cross-boundary bugs, contract drift, missing validation, security gaps, and performance anti-patterns before deployment.

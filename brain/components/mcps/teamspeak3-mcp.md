@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T07:34:52Z"
 ---
 ## What it is
 Let AI models manage your TeamSpeak 3 server through the Model Context Protocol.

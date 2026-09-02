@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T23:21:44Z"
 ---
 ## What it is
 Provides structured translation guidance for converting English PDFs to Korean, preserving document structure. It works as a custom connector for Claude, supplying rules and workflows for translating papers, manuals, and more.

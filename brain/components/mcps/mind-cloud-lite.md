@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-10T17:55:20Z"
 ---
 ## What it is
 Token-optimized persistent memory MCP server for Claude Pro users, providing 9 essential tools for memory management with 87% token reduction compared to full version.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2026-04-06T11:01:31Z"
 ---
 ## What it is
 Provides AI-powered image and video analysis using Google Gemini and Vertex AI models through the Model Context Protocol.

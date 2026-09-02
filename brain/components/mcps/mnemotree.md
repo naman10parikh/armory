@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T22:01:37Z"
 ---
 ## What it is
 Mnemotree is an MCP server that provides biologically-inspired memory for LLM agents, enabling storage, retrieval, and analysis of structured knowledge with semantic search and relationship tracking.

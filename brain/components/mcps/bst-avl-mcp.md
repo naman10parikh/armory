@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-10T16:55:40Z"
 ---
 ## What it is
 Enables interactive learning and visualization of Binary Search Trees and AVL Trees through operations like insertion, deletion, and tree traversal, with real-time balancing rotations.

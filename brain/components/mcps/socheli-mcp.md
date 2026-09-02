@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T11:40:48Z"
 ---
 ## What it is
 Enables MCP-enabled agents to manage Socheli content: list, inspect, generate renders, dispatch to device fleet, publish across platforms, and curate the dated content plan via natural language.

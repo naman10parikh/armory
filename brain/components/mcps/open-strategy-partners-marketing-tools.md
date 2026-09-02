@@ -8,10 +8,12 @@ source_url: https://github.com/open-strategy-partners/osp_marketing_tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 266
+stars: 272
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 43
+pushed_at: "2025-04-23T11:40:18Z"
 ---
 ## What it is
 MCP server `OSP Marketing Tools`, catalogued on PulseMCP. Content and product marketing tools, including a standardized editing code system, writing guidelines, web metadata generator, and product communication framework.

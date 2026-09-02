@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-11T06:29:53Z"
 ---
 ## What it is
 MCP server `Pokemon VGC Damage Calculator`, catalogued on PulseMCP. Provides Pokemon VGC damage calculation capabilities using the Smogon calc library, computing battle damage ranges, KO probabilities, and detailed combat scenarios for competitive Pokemon analysis and strategy optimization.

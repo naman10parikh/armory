@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T09:43:17Z"
 ---
 ## What it is
 MCP server `J-Quants`, catalogued on PulseMCP. Retrieves Japanese stock market data from the J-Quants API including equities, financials, indices, and derivatives.

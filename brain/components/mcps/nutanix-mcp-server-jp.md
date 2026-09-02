@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-23T04:48:39Z"
 ---
 ## What it is
 FastAPI implementation of MCP server that interacts with Nutanix Prism Central to retrieve cluster and virtual machine information.

@@ -8,10 +8,12 @@ source_url: https://github.com/bloomfilter-labs/mcp-server-bloomfilter
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-26T22:23:40Z"
 ---
 ## What it is
 MCP server `Bloomfilter`, catalogued on PulseMCP. Search, register, and manage domain names with DNS configuration through the Bloomfilter API using x402 crypto payments.

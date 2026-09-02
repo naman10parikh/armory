@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-07-23T23:41:37Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for the Holded Invoice API. This server allows AI assistants like Claude to interact with Holded's invoicing, contacts, products, and more.

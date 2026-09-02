@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T13:13:07Z"
 ---
 ## What it is
 Enables AI agents to manage routes on the Design Canvas infinite canvas app, including adding, removing, listing routes, and capturing screenshots of the canvas.

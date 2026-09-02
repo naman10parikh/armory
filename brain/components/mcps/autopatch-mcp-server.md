@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T07:34:03Z"
 ---
 ## What it is
 AutoPatch is a self-healing debugging agent that runs a repo's tests, retrieves similar past fixes from its git history, proposes and applies function-level patches, and re-tests until the suite passes. It exposes this loop as MCP tools for clients like Claude Desktop and Cursor.

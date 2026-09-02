@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T20:25:18Z"
 ---
 ## What it is
 Analyze and score HTTP security headers (CSP, HSTS, CORS, cookies) with actionable fix recommendations for web applications.

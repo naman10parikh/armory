@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-12T04:18:57Z"
 ---
 ## What it is
 MCP server that provides standardized access to Google Maps, Flights, Hotels, and other search services, enabling AI assistants to perform various searches.

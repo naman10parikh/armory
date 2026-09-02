@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-07T21:39:38Z"
 ---
 ## What it is
 MCP server `API Tester`, catalogued on PulseMCP. Ingests OpenAPI/Swagger specifications and Postman collections to automatically generate executable test cases in TypeScript/Playwright, JavaScript/Jest, and Python/pytest with concurrent execution, load testing, and HTML reporting.

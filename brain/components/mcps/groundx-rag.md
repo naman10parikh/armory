@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-30T17:54:00Z"
 ---
 ## What it is
 MCP server `GroundX RAG`, catalogued on PulseMCP. Integrates with GroundX to provide document search and ingestion capabilities, enabling domain-specific knowledge retrieval without requiring direct access to underlying document storage.

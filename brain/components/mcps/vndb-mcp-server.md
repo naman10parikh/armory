@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T22:15:51Z"
 ---
 ## What it is
 Enables managing visual novel lists on VNDB.org through natural language, including search, adding ratings and notes, changing statuses, and viewing user lists.

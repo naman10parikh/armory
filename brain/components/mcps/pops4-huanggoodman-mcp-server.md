@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T17:18:11Z"
 ---
 ## What it is
 AI-native corporate gifting and event infrastructure for Fortune 500, enabling search of a 70,000+ SKU catalog, event program generation with live P&L, and wholesale quotes.

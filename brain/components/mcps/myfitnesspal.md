@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-09T12:41:15Z"
 ---
 ## What it is
 Retrieves MyFitnessPal nutrition data including daily summaries, meal breakdowns, exercises, and macros through FastMCP.

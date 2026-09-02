@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-01-21T00:36:08Z"
 ---
 ## What it is
 MCP server `Unified Diff Generator`, catalogued on PulseMCP. Generates unified diffs between text strings with 3 lines of context, enabling precise comparison and analysis for version control and code review tasks.

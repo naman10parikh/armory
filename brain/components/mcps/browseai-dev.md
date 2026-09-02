@@ -8,10 +8,12 @@ source_url: https://github.com/browseai-hq/browseai-dev
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-30T09:23:43Z"
 ---
 ## What it is
 MCP server `BrowseAI Dev`, catalogued on PulseMCP. Research infrastructure for agents providing real-time web search, evidence extraction, and structured citations with confidence scoring.

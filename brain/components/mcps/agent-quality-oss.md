@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T00:11:13Z"
 ---
 ## What it is
 An MCP server that provides 46 tools for construction quality management, enabling users to generate and review documents like ITP, NCR, and test reports using a domain ontology and legal standards.

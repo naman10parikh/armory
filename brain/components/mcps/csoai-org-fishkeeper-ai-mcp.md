@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T07:33:49Z"
 ---
 ## What it is
 MCP server `Fishkeeper AI`, catalogued on PulseMCP. Tools for managing aquarium fish care, water parameters, and feeding schedules.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-10T22:55:15Z"
 ---
 ## What it is
 MCP server `AI Compliance Monitor`, catalogued on PulseMCP. Regulatory intelligence for AI agents covering EU AI Act, Singapore IMDA, and Colorado AI Act.

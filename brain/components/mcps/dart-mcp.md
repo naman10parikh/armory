@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T00:49:13Z"
 ---
 ## What it is
 Exposes OPEN DART (Korean FSS electronic disclosure) as an MCP server for searching and retrieving original disclosure documents, shareholdings, and financial statements, primarily for legal and internal control review.

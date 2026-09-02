@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T20:25:22Z"
 ---
 ## What it is
 MCP server for the Korg Phase 8 acoustic synthesizer that enables triggering resonators, controlling per-resonator knobs, and modulating global parameters over USB MIDI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-28T22:33:56Z"
 ---
 ## What it is
 Enables web search capabilities using the Tavily API, allowing users to search the web through a Model Context Protocol server.

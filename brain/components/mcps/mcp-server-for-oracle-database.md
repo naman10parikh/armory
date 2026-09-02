@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-11T15:35:18Z"
 ---
 ## What it is
 Enables AI applications to run SQL queries and retrieve results from Oracle Database.

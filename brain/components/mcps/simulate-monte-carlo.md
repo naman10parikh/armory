@@ -8,11 +8,13 @@ source_url: https://github.com/encodi/simulate-monte-carlo
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:29:42Z"
 ---
 ## What it is
 Real Monte Carlo simulation of a compound event or conditional probability. Named random variables, a safe expression interpreter, seedable for reproducibility. Priced per call via x402/USDC on Base.

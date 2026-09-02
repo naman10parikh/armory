@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-03T22:48:14Z"
 ---
 ## What it is
 An MCP server that enables AI agents to engage in structured deep thinking and recover from stuck states using CBT techniques and contemplation protocols.

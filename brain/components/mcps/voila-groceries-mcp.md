@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:42:11Z"
 ---
 ## What it is
 Voila.ca groceries MCP for card management, product search and order history analysis

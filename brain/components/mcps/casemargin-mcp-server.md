@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T09:10:27Z"
 ---
 ## What it is
 Exposes support case reasoning tools — generate structured case briefs and check escalation readiness from any MCP-compatible AI client.

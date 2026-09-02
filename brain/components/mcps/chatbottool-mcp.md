@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T15:43:54Z"
 ---
 ## What it is
 A local-first MCP server providing guarded access to a workspace with file operations, search, commands, tests, Git helpers, checkpoints, and structured tool results. It supports multiple tool modes and emphasizes security with workspace restrictions and secret blocking.

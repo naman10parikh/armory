@@ -8,10 +8,12 @@ source_url: https://github.com/nloui/paperless-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 183
+stars: 227
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 74
+pushed_at: "2025-11-11T04:09:12Z"
 ---
 ## What it is
 MCP server `Paperless-NGX`, catalogued on PulseMCP. Integrates with Paperless-NGX API to provide document management operations including listing, searching, editing, and uploading for efficient organization and retrieval of digital files.

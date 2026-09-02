@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T13:59:19Z"
 ---
 ## What it is
 MCP server that provides AI assistants with real-time, current information about AI models from OpenAI, Anthropic, and Google, including pricing, capabilities, and context windows.

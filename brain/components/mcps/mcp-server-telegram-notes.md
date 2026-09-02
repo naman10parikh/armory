@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-21T16:57:00Z"
 ---
 ## What it is
 Enables sending notes directly to your Telegram account using a Telegram bot. Provides a 'send-note' tool for programmatic note delivery via the Telegram messaging platform.

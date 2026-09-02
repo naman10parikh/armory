@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-10T14:29:42Z"
 ---
 ## What it is
 Enables Cursor AI to read and modify Figma designs programmatically via the Model Context Protocol.

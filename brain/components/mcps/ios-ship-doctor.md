@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:58:00Z"
 ---
 ## What it is
 Enables AI assistants to diagnose and fix iOS app issues that cause App Store rejections, such as missing privacy manifests, permission strings, and test credentials, before submission.

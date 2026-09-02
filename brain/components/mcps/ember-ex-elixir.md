@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, general-purpose-implementations]
+forks: 1
+pushed_at: "2026-03-25T16:55:33Z"
 ---
 ## What it is
 Elixir port of the Ember framework for building LLM applications

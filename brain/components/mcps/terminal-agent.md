@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T01:52:25Z"
 ---
 ## What it is
 Local daemon that bridges AI assistants to the local filesystem with read-only commands and optional write mode, enforcing strict security filters to prevent credential leakage.

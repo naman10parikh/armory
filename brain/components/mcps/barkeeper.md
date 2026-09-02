@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T14:44:37Z"
 ---
 ## What it is
 A simple MCP server for tracking a home bar's inventory and cocktail recipes, with tools to manage shelf items and recipe details.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:12Z"
 ---
 ## What it is
 Detects 50+ technologies on any website (CMS, JS frameworks, analytics, hosting, etc.) with confidence scores and evidence, using x402 micropayments.

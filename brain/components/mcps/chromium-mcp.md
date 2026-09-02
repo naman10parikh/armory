@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T11:17:07Z"
 ---
 ## What it is
 MCP server for web fetching and automation using Chromium headless browser. Enables fetching pages as markdown, taking screenshots, automating interactions, and extracting data via CSS selectors.

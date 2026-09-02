@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T19:00:04Z"
 ---
 ## What it is
 A project intelligence platform for AI coding agents that scans, audits, generates, and monitors context files (CLAUDE.md, AGENTS.md, etc.) with drift detection and repair capabilities.

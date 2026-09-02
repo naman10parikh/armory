@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-27T00:52:59Z"
 ---
 ## What it is
 A Model Context Protocol server for reading, writing, and managing GNU Gettext .po translation files, enabling language models to perform file operations, entry management, partial updates, and fuzzy entry detection.

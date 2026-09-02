@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:49Z"
 ---
 ## What it is
 MCP server that provides a read-only tool to consult SEFAZ AC NFC-e (electronic invoices) from the official source, with pay-per-use credits.

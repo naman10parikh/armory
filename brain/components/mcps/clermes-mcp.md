@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T22:01:28Z"
 ---
 ## What it is
 Exposes a Clermes worker fleet as typed tools over HTTP and stdio, enabling a coordinator to drive the fleet with structured tool calls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-18T19:49:52Z"
 ---
 ## What it is
 Persistent, graph-powered memory for AI agents that provides long-term semantic recall using a local Kuzu graph database.

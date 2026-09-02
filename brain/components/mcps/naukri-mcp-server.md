@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:37:16Z"
 ---
 ## What it is
 MCP server for scraping and managing Naukri job postings, with tracking, filtering, and Excel export capabilities.

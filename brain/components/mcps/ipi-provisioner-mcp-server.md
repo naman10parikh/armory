@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-23T07:51:56Z"
 ---
 ## What it is
 An MCP server for OpenShift Baremetal IPI cluster provisioning, allowing users to generate and validate install-config.yaml files, test BMC connectivity, validate networks, and manage cluster installation lifecycle.

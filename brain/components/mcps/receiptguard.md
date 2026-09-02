@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T12:51:53Z"
 ---
 ## What it is
 Prevents autonomous agents from fabricating tool results by verifying HMAC-signed receipts against epistemic claim types, forcing re-grounding or escalation before actions commit.

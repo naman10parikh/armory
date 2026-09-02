@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T16:49:25Z"
 ---
 ## What it is
 Provides cascading content protection for AI coding assistants by detecting and redacting PII, secrets, prompt injection, and system prompt leakage before they reach LLMs.

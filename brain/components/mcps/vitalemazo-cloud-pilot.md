@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T09:57:29Z"
 ---
 ## What it is
 MCP server `Cloud Pilot`, catalogued on PulseMCP. Multi-cloud infrastructure MCP server for AWS, Azure, GCP, and Alibaba Cloud with 51,900+ API operations and a 4-level dry-run safety system.

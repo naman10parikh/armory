@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T09:35:40Z"
 ---
 ## What it is
 Enables AI coding agents to search, read, and write notes in an Obsidian vault via MCP tools, and monitor product handoffs and state.

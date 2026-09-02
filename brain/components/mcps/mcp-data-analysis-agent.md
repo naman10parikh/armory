@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:10:23Z"
 ---
 ## What it is
 An MCP server that answers natural-language questions over CSV, Excel, and SQL data by providing deterministic tools for loading, profiling, querying, cleaning, statistical analysis, visualization, and reporting. It enables LLMs to plan and interpret while all computation is done exactly through MCP

@@ -8,11 +8,13 @@ source_url: https://github.com/jakekeeys/frigate-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-01T08:53:40Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI assistants to control and query Frigate NVR via natural language, providing 59 tools for system management, events, cameras, recordings, review, exports, labels, and classification.

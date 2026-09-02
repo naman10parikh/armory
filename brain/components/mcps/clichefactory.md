@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-17T14:01:25Z"
 ---
 ## What it is
 MCP server `ClicheFactory`, catalogued on PulseMCP. Structured JSON extraction from PDFs, images, spreadsheets, emails, and office documents.

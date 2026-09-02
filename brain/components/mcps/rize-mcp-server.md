@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T12:50:50Z"
 ---
 ## What it is
 MCP server for Rize -- automatic time tracking for professionals and teams. 27 tools for managing projects, clients, tasks, sessions, time entries, and productivity analytics via the Rize GraphQL API. Works with Claude Desktop, Claude Code, Cursor, and any MCP-compatible client

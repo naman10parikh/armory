@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-01T10:47:05Z"
 ---
 ## What it is
 MCP server `Frida`, catalogued on PulseMCP. Minimalist Frida dynamic instrumentation MCP server with 6 tools for attaching to processes, loading scripts, and managing RPC sessions.

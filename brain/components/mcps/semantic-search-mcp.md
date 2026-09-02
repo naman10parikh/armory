@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-30T23:40:42Z"
 ---
 ## What it is
 Provides semantic code search over codebases using local embeddings with natural language queries. Supports hybrid search, file watching, and respects .gitignore.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-12T19:59:05Z"
 ---
 ## What it is
 Enables searching and querying Spanish public subsidies and aids using the BDNS API, with filters for region, beneficiary type, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T13:17:55Z"
 ---
 ## What it is
 An MCP server that provides weather forecasts from OpenWeather and renders interactive charts in chat via MCP Apps, letting users query forecasts and switch units, day range, and metrics.

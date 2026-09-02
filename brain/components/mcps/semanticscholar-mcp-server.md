@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T10:26:15Z"
 ---
 ## What it is
 An MCP server that provides access to Semantic Scholar's academic graph, recommendations, and datasets APIs, enabling paper search, citation analysis, author lookups, and dataset discovery through 20+ tools.

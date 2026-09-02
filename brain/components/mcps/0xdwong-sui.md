@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-08T09:46:00Z"
 ---
 ## What it is
 MCP server `Sui`, catalogued on PulseMCP. Integrates with the Sui blockchain network to enable test token requests, wallet management, and smart contract interactions using the official Sui SDK

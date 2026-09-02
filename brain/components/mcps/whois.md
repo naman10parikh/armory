@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-08-22T05:56:56Z"
 ---
 ## What it is
 Query WHOIS/RDAP information for domains, IP addresses, CIDR prefixes and ASNs. Results are normalized to RDAP-style (RFC 9083) JSON. Public instance of the open-source KincaidYang/whois server, which can also be self-hosted.

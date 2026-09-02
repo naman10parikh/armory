@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-17T11:58:00Z"
 ---
 ## What it is
 A filesystem-based MCP server for AI coding agents to coordinate work across git worktrees by claiming files, checking for conflicts, and logging progress without affecting the repository's git history.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T11:18:58Z"
 ---
 ## What it is
 Enables AI agents to capture full-page or viewport screenshots of any web page with options for ad removal, cookie banner blocking, and proxy country selection.

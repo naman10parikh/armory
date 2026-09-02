@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T02:13:53Z"
 ---
 ## What it is
 Enables publishing and retrieving ntfy-style notifications via MCP, supporting topics, titles, tags, priorities, and WebSocket streaming.

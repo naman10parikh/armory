@@ -8,10 +8,12 @@ source_url: https://github.com/jmstar85/securityinfrastructure
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-07T13:32:56Z"
 ---
 ## What it is
 MCP server `Security Infrastructure`, catalogued on PulseMCP. Integrates with Splunk SIEM, CrowdStrike EDR, and Microsoft MISP to enable cross-platform threat hunting, security event searches, detection retrieval, and threat intelligence queries for SOC operations.

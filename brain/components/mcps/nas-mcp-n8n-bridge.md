@@ -8,11 +8,13 @@ source_url: https://github.com/primo737/nas-mcp-n8n-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:43:01Z"
 ---
 ## What it is
 Splits the live Nas.com MCP catalog into 24 product-scoped n8n workflows, enabling focused agent interactions with specific business, product, and marketing tools.

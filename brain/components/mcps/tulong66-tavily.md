@@ -8,10 +8,12 @@ source_url: https://github.com/tulong66/mcp-tavily-proxy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-12-21T07:10:32Z"
 ---
 ## What it is
 MCP server `Tavily`, catalogued on PulseMCP. Integrates Tavily's search API with HTTP/HTTPS proxy support for web search capabilities in restricted network environments.

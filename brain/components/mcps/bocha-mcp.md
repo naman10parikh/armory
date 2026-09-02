@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T06:01:05Z"
 ---
 ## What it is
 MCP server for Bocha Search API, enabling web search and AI-powered search with customizable parameters like result count, freshness, and summaries.

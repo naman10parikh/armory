@@ -8,11 +8,13 @@ source_url: https://github.com/Mahender22/legal-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 64
+stars: 65
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2026-06-19T04:47:43Z"
 ---
 ## What it is
 LegalMCP is a comprehensive US legal MCP server that enables AI assistants to search over 4 million US court opinions, manage Clio practice data, and access PACER federal filings through natural language.

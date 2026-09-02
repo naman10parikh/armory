@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-28T11:38:53Z"
 ---
 ## What it is
 MCP server `Think`, catalogued on PulseMCP. Enhances Claude's reasoning capabilities with OpenAI's o3-mini model for multi-step analysis of complex problems while maintaining variables throughout extended reasoning chains.

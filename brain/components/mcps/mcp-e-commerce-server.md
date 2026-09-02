@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T13:34:30Z"
 ---
 ## What it is
 Enables e-commerce product management with CRUD operations, AI-powered descriptions, and MySQL database integration via MCP.

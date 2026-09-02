@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T08:55:03Z"
 ---
 ## What it is
 An MCP server for generating images and videos via external multimodal models, providing unified tools like imageGenerate, videoGenerate, and materialWrite with support for normal and smart generation modes.

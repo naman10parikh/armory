@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T06:52:52Z"
 ---
 ## What it is
 Enables podcasters to manage their PodMule workspace through natural language, including searching back catalogues, drafting clips, generating show notes and interview briefs, and triaging workspace tasks.

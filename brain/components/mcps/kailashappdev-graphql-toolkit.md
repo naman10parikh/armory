@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-21T04:57:47Z"
 ---
 ## What it is
 MCP server `GraphQL Toolkit`, catalogued on PulseMCP. Enables LLMs to interact with GraphQL APIs through schema introspection and query execution, with security measures like disabled mutations and support for authentication headers.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T18:44:54Z"
 ---
 ## What it is
 MCP server `Vari`, catalogued on PulseMCP. Six deterministic hydration calculation tools covering daily intake, dehydration, and athlete planning.

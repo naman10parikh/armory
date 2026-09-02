@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-09T10:54:27Z"
 ---
 ## What it is
 A Ruby on Rails engine for the Model Context Protocol (MCP) that enables connecting Rails apps to AI tools with minimal effort.

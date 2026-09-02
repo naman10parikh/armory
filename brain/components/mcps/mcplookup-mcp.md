@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T00:29:36Z"
 ---
 ## What it is
 Enables users to resolve server names, discover servers via taxonomy, and look up trust ratings for MCP servers through the MCPLookup independent trust layer.

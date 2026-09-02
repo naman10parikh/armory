@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-07T13:40:56Z"
 ---
 ## What it is
 MCP server `Contextual AI`, catalogued on PulseMCP. Integrates with Contextual AI's platform to provide enterprise search, multi-agent routing with automatic reranking, and intelligent document navigation that leverages hierarchical structure analysis for conversational access to knowledge bases and complex documents.

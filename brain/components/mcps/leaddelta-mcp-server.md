@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T14:22:05Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve LinkedIn connections via LeadDelta CRM, allowing natural language queries about contacts by name, company, job title, or location.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T07:56:43Z"
 ---
 ## What it is
 Enables AI agents to check whether a public website is crawlable, understandable, and ready for AI search workflows through local-only audits of robots.txt, sitemaps, metadata, and llms.txt.

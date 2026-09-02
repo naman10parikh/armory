@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T13:54:52Z"
 ---
 ## What it is
 Enables AI assistants to generate and edit images using a Sub2API API key, with local file saving and support for reference images.

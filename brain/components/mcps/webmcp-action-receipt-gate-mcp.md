@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T13:20:16Z"
 ---
 ## What it is
 A paid remote MCP server that issues and checks structured action receipts, with audit logs and reviewer-ready evidence for WebMCP actions.

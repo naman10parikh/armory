@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T08:00:19Z"
 ---
 ## What it is
 Narrative & signal intelligence for AI agents: crypto/AI/macro convergence & divergence.

@@ -8,10 +8,12 @@ source_url: https://github.com/loonghao/wecom-bot-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 92
+stars: 102
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2026-08-30T00:27:45Z"
 ---
 ## What it is
 MCP server `WeCom`, catalogued on PulseMCP. Integrates WeCom (WeChat Work) bot functionality for enterprise messaging, notifications, and interactive chatbots.

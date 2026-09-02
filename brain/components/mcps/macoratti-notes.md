@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T21:08:29Z"
 ---
 ## What it is
 MCP server `Notes`, catalogued on PulseMCP. Simple MCP server for creating and listing notes using SQLite persistence, implemented in C# with .NET 10.

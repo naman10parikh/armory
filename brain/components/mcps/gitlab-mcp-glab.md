@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-08T09:36:18Z"
 ---
 ## What it is
 Provides GitLab issue and CI/CD management tools using the glab CLI, with reduced context token usage compared to the official GitLab MCP.

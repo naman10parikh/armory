@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-26T15:19:52Z"
 ---
 ## What it is
 Enables natural language search of the National Library of Israel's digital archive using Claude. Converts conversational queries into structured API calls for exploring cultural, historical, and literary assets.

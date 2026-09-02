@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T04:45:53Z"
 ---
 ## What it is
 A privacy-first, local-first MCP server that provides 15 ADHD/second-brain tools for capturing, prioritizing, and resurfacing tasks with context from calendar, mail, and messages.

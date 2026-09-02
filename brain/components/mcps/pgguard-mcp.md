@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T11:36:04Z"
 ---
 ## What it is
 Read-only Postgres access with a policy gate that blocks writes and restricts visible tables and columns.

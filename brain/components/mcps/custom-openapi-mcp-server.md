@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-07T16:34:28Z"
 ---
 ## What it is
 Dynamically fetches and exposes OpenAPI/Swagger documentation as tools for AI assistants, enabling them to explore and interact with any REST API.

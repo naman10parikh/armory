@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T20:31:46Z"
 ---
 ## What it is
 Enables AI agents to find auspicious windows for launches, travel, weddings, purchases, publications, and other events using Vedic electional astrology, and to retrieve panchanga, planetary hours, and Rahu Kala.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-04T11:42:55Z"
 ---
 ## What it is
 Enables Git repository interaction and automation via LLMs, providing tools to read, search, and manipulate Git repositories.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T12:57:46Z"
 ---
 ## What it is
 MCP server `QuestLife`, catalogued on PulseMCP. MCP server for gamified productivity tracking with RPG-style quests, habit streaks, and XP progression via Supabase.

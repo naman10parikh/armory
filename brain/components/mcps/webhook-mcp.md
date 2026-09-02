@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-01T05:16:28Z"
 ---
 ## What it is
 An MCP server that sends webhook notifications to a configured URL, enabling AI assistants to notify users when long-running tasks complete.

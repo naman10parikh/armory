@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-06T16:55:44Z"
 ---
 ## What it is
 This MCP server intercepts and modifies Cursor AI behavior to enforce continuous execution, auto-confirm actions, log experiences, and prevent dangerous commands, aiming to automate development tasks and reduce interruptions.

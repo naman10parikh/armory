@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T07:49:47Z"
 ---
 ## What it is
 A local Python daemon that connects your Chrome browser to an MCP server, allowing AI agents to control the browser via natural language commands.

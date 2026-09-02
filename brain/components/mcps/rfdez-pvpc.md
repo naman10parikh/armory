@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T20:00:35Z"
 ---
 ## What it is
 MCP server `PVPC Spain Electricity`, catalogued on PulseMCP. Retrieve daily Spanish electricity tariffs for 2.0 TD consumers

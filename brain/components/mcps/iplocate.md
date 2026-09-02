@@ -8,10 +8,12 @@ source_url: https://github.com/iplocate/mcp-server-iplocate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-06-29T22:21:13Z"
 ---
 ## What it is
 MCP server `IPLocate`, catalogued on PulseMCP. Integrates with IPLocate.io API to provide IP address geolocation, network information, privacy detection, and abuse contact data for cybersecurity analysis, fraud prevention, and network administration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T22:15:47Z"
 ---
 ## What it is
 A CLI chat application that enables interactive AI conversations with document retrieval and command-based prompts through the Google Gemini API, integrating MCP tooling for extensible server interactions.

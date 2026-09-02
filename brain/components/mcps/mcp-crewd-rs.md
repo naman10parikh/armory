@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T04:01:47Z"
 ---
 ## What it is
 Enables AI agents to spawn, coordinate, and message worker cells via a single MCP server over a local Unix socket.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-26T06:41:29Z"
 ---
 ## What it is
 Enables AI agents to inspect the public NFH protocol corpus, verify census status, and prepare bounded Ethereum wallet intents for claims and non-custodial market actions while never signing or submitting transactions.

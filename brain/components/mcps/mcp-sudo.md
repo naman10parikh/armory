@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T21:07:19Z"
 ---
 ## What it is
 MCP server for executing sudo commands with encrypted password storage, allowing privileged operations without re-entering credentials.

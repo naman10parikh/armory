@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-15T15:25:30Z"
 ---
 ## What it is
 MCP server `Pyth Network`, catalogued on PulseMCP. Provides real-time access to Pyth Network's decentralized oracle price feeds across 1,930+ assets and 107+ blockchains, offering tools for searching feeds, fetching latest prices, retrieving historical data, and calculating time-weighted averages for trading bots and financial analysis.

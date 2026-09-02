@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:56:45Z"
 ---
 ## What it is
 Official MCP server for accepting crypto payments through OrcaRail. It enables AI agents to create payment intents, manage subscriptions, handle product catalogs, and get exchange rates via natural language.

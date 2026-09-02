@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-05-21T19:45:04Z"
 ---
 ## What it is
 MCP server `Multi-LLM Cross-Check`, catalogued on PulseMCP. Provides a unified interface for querying multiple LLM providers simultaneously, enabling side-by-side response comparison for fact-checking, gathering diverse perspectives, or evaluating different models' capabilities.

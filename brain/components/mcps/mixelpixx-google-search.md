@@ -8,10 +8,12 @@ source_url: https://github.com/mixelpixx/google-research-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 242
+stars: 256
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 57
+pushed_at: "2026-08-14T12:11:01Z"
 ---
 ## What it is
 MCP server `Google Search`, catalogued on PulseMCP. Integrates with Google Custom Search API and web scraping tools to enable web searches, content extraction, and analysis for research and data aggregation tasks.

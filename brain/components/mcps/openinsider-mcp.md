@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-07T15:13:27Z"
 ---
 ## What it is
 An MCP server that exposes 16 free investment-research signals (insider trades, SEC filings, short data, and live quotes) to any MCP-compatible LLM.

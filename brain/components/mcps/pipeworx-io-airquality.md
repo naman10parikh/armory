@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:32:38Z"
 ---
 ## What it is
 MCP server `Air Quality`, catalogued on PulseMCP. Real-time air quality data via the Open-Meteo Air Quality API, including pollutant concentrations and AQI for any location.

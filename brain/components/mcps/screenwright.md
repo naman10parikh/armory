@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T19:50:48Z"
 ---
 ## What it is
 Enables users to create subtitled tutorial videos by scripting browser interactions with Playwright, outputting MP4 with burned-in captions and SRT file.

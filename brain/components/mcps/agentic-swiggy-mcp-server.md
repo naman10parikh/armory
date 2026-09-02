@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T20:37:42Z"
 ---
 ## What it is
 MCP server that mimics a food delivery assistant, enabling natural language ordering, personalized recommendations, order tracking, and review/policy queries via a LangGraph ReAct agent with human-in-the-loop approval.

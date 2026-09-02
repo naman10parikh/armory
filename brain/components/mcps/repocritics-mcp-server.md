@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:06:03Z"
 ---
 ## What it is
 Provides read access to community-written summaries, scores, and reviews of open-source repositories via the RepoCritics corpus. Enables search and retrieval of wiki pages, reviews, metadata, and AI reports for repositories.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T05:09:58Z"
 ---
 ## What it is
 MCP server that asks users clarifying questions when uncertain, remembers their choices using local embeddings, and automatically answers similar future queries based on learned preferences.

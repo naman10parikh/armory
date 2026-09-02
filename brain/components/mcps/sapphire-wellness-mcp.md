@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T07:09:04Z"
 ---
 ## What it is
 Exposes health metrics (activity, blood pressure, glucose, heart rate, sleep, SpO2) from the Sapphire Wellness App to AI assistants via the Model Context Protocol.

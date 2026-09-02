@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-28T13:07:42Z"
 ---
 ## What it is
 MCP server for creating, validating, and reviewing implementation plans in GitHub Copilot Chat, with visual review interface and MongoDB persistence.

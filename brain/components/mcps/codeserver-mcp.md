@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T21:10:24Z"
 ---
 ## What it is
 Provides stateful development sessions for code-server, enabling persistent shells, background processes, sandboxed file operations, and file watching through MCP.

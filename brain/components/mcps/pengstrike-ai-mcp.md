@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T11:25:07Z"
 ---
 ## What it is
 Turns any MCP-capable AI agent into a professional penetration testing platform with 150+ security tools, adaptive async tasks, and crash-proof concurrency.

@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-16T20:56:34Z"
 ---
 ## What it is
 MCP server `NVD (National Vulnerability Database)`, catalogued on PulseMCP. Provides direct access to the National Vulnerability Database (NVD) for retrieving detailed CVE information including descriptions, severity ratings, publication dates, and references by ID.

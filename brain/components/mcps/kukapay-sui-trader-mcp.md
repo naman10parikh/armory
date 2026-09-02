@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 6
+forks: 4
+pushed_at: "2025-05-10T08:39:50Z"
 ---
 ## What it is
 An MCP server designed for AI agents to perform optimal token swaps on the Sui blockchain.

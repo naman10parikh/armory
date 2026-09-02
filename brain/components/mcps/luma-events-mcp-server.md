@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-28T00:10:02Z"
 ---
 ## What it is
 Discovers events from Luma's public feed and subscribed calendars, with distance filtering, category search, and ICS export. No API key required for basic discovery.

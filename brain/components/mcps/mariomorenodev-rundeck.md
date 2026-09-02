@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-12T14:22:57Z"
 ---
 ## What it is
 MCP server `Rundeck`, catalogued on PulseMCP. Manages Rundeck automation jobs, executions, projects, nodes, system settings, and webhooks through 50 MCP tools.

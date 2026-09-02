@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:48:45Z"
 ---
 ## What it is
 Wraps the Close CRM API to enable AI agents to interact with Close CRM data, manage leads, contacts, and activities through natural language.

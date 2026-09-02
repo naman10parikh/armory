@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 11
+forks: 5
+pushed_at: "2026-07-13T10:39:21Z"
 ---
 ## What it is
 [glama](https://glama.ai/mcp/servers/@loglux/auth-mcp-gateway) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Auth proxy for MCP servers: OAuth2 + DCR, JWT, RBAC, rate limiting, multi-server aggregation, and monitoring dashboard.

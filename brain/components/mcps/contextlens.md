@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T01:08:08Z"
 ---
 ## What it is
 MCP server for deterministic, zero-dependency context-window math, enabling token estimation, text truncation, and budget reporting without a tokenizer.

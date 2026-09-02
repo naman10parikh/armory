@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-15T19:49:30Z"
 ---
 ## What it is
 Enables management of Google Cloud services including BigQuery, Cloud Logging, Cloud Storage, and Compute Engine via MCP tools.

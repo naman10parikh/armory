@@ -8,10 +8,12 @@ source_url: https://github.com/oscillatelabsllc/kiwix-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-18T04:31:39Z"
 ---
 ## What it is
 MCP server `Kiwix`, catalogued on PulseMCP. Provides access to offline Wikipedia and other ZIM-format educational content from Kiwix HTTP servers with full-text search and article retrieval.

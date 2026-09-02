@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T03:30:06Z"
 ---
 ## What it is
 Enables users to tailor a one-page LaTeX CV to a job posting by fetching relevant facts from a YAML file, rendering a LaTeX document from id-based selections, and compiling it to PDF, without wasting tokens on repetitive CV reads or compiler logs.

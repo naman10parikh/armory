@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T10:40:10Z"
 ---
 ## What it is
 A cryptographic sidecar proxy that tests MCP tools for OWASP vulnerabilities before deployment. Automatically sandbox and audit your AI agents' tool calls to ensure secure infrastructure.

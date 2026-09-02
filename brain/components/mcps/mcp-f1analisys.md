@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-03T11:19:52Z"
 ---
 ## What it is
 Enables Formula 1 data analysis through natural language, providing tools like track dominance, lap time analysis, and team performance comparisons.

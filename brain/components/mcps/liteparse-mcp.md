@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T14:55:09Z"
 ---
 ## What it is
 Fast, local PDF parsing as an MCP server with text extraction, bounding boxes, OCR, and visual citations. No cloud or API key required.

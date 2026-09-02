@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-24T21:38:56Z"
 ---
 ## What it is
 MCP server `SQL Server`, catalogued on PulseMCP. Provides a bridge to Microsoft SQL Server databases for executing queries, exploring schemas, and managing data through natural language interaction with Windows authentication security

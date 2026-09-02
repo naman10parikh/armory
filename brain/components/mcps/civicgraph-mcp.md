@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T05:24:28Z"
 ---
 ## What it is
 A money-in-politics knowledge graph, as an MCP server. It links entities across federal campaign donations, lobbying disclosures, and government contracts.

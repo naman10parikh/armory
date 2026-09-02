@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T15:01:41Z"
 ---
 ## What it is
 Enables AI assistants to access Emtrafesa bus transportation services in Peru, including querying terminals, schedules, tickets, and FAQs.

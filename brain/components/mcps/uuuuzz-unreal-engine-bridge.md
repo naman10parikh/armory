@@ -8,10 +8,12 @@ source_url: https://github.com/uuuuzz/uebridgemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-04-25T16:15:16Z"
 ---
 ## What it is
 MCP server `Unreal Engine Bridge`, catalogued on PulseMCP. Native C++ Unreal Engine 5.6+ plugin exposing the Unreal Editor to AI clients over Streamable HTTP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T16:59:21Z"
 ---
 ## What it is
 Minimal MCP server for OpenPanel analytics, enabling queries for landing pages, page events, and tracked event names.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T19:28:06Z"
 ---
 ## What it is
 MCP server `Redis`, catalogued on PulseMCP. Expose Redis database operations to AI models via MCP.

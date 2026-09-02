@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:09Z"
 ---
 ## What it is
 Enables querying ISS (tax) information from the official SEFAZ DF source using a single read-only tool.

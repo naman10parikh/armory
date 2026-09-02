@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T14:31:37Z"
 ---
 ## What it is
 MCP server for Intui.travel fleet carriers that reads orders, tracks confirmations, cancellations, and modifications, and syncs live to Google Sheets.

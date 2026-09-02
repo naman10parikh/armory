@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T06:48:11Z"
 ---
 ## What it is
 Records raw DOM mutations and network events during AI agent browser interactions, enabling detailed debugging and analysis of Playwright automations.

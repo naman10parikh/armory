@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T21:46:36Z"
 ---
 ## What it is
 A read-only MCP server that serves live HayDay game data (crops, products, animals, machines, level unlocks) for AI agents to help plan your farm without interacting with the game itself.

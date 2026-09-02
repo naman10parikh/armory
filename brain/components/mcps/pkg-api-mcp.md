@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T11:11:53Z"
 ---
 ## What it is
 Provides the real exported API surface and type signatures of any npm package, extracted from its published TypeScript declarations, enabling AI coding agents to use functions accurately and avoid inventing nonexistent APIs.

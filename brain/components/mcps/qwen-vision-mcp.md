@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T04:53:01Z"
 ---
 ## What it is
 Enables text-only LLMs to see images on demand by integrating Qwen vision models via MCP, supporting stateful multi-turn conversations with automatic history trimming.

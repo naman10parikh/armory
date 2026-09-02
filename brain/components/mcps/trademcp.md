@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T13:16:28Z"
 ---
 ## What it is
 An MCP server that exposes trading analytics — technical indicators, portfolio state, risk metrics, and backtest results — as tools an LLM agent can call.

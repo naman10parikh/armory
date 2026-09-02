@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T08:55:36Z"
 ---
 ## What it is
 A minimal demo of the x402 payment protocol protecting an MCP tool endpoint, showing how to charge for MCP tools using real 402 rejections and testnet payments.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T16:49:58Z"
 ---
 ## What it is
 Shared MCP HTTP server infrastructure for plugin projects, providing Express + Streamable HTTP transport, OAuth/OIDC auth, runtime configuration, tool registration, and widget support.

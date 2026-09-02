@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-18T09:37:34Z"
 ---
 ## What it is
 MCP server `macOS Shortcuts`, catalogued on PulseMCP. Integrates with macOS Shortcuts to execute existing automation workflows and create custom text-based prompt shortcuts for streamlined task automation and AI interaction patterns.

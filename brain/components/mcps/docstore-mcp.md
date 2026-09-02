@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-27T20:20:27Z"
 ---
 ## What it is
 A ChromaDB-based document storage MCP server that enables adding, storing, and summarizing notes with a custom note:// URI scheme and a single tool for note creation.

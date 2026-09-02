@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-28T15:35:41Z"
 ---
 ## What it is
 MCP server that exposes Bluebeam Revu 21 to Claude for PDF markup, document management, and layer control via Windows COM automation.

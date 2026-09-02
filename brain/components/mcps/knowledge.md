@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T00:58:10Z"
 ---
 ## What it is
 A local MCP server that gives LLMs long-term memory by indexing code, infrastructure, logs, and docs into a queryable graph. It enables semantic and structural search, evidence-backed reasoning, and tracked plans that persist across sessions and teams.

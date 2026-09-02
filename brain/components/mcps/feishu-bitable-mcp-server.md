@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T09:25:42Z"
 ---
 ## What it is
 Enables interacting with Feishu (Lark) multidimensional tables through MCP tools. Supports listing tables, reading records, searching records and apps, and getting views.

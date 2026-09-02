@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:56:14Z"
 ---
 ## What it is
 A secure, read-only MCP server that enables AI assistants to inspect transactions, vendor performance, wallet balances, and analytics through validated REST API calls.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-02T05:23:03Z"
 ---
 ## What it is
 连接Zotero SQLite数据库的MCP服务器，使AI助手能够管理文献库中的文件夹、标签、条目、PDF等。

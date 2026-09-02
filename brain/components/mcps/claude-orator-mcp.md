@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-16T13:10:37Z"
 ---
 ## What it is
 An MCP server for deterministic prompt optimization in Claude Code. Score prompts across 7 quality dimensions, auto-select from 11 Anthropic techniques, and return a structural scaffold.

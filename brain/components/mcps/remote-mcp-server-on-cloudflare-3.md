@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-26T06:27:03Z"
 ---
 ## What it is
 Enables deploying a remote MCP server on Cloudflare Workers with OAuth authentication and SSE transport, allowing remote connections from MCP clients like Claude Desktop.

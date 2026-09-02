@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-12T13:01:59Z"
 ---
 ## What it is
 Enables AI agents to interact with Mailjet's contact, campaign, segmentation, statistics, and workflow APIs for managing email marketing operations through natural language.

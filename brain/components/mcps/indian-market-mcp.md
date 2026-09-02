@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-08T17:45:52Z"
 ---
 ## What it is
 A comprehensive MCP server for the Indian stock market, providing 68 tools for stocks, derivatives, mutual funds, commodities, and more without any API keys.

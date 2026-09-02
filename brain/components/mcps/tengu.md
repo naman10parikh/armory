@@ -8,11 +8,13 @@ source_url: https://github.com/rfunix/tengu
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 58
+stars: 57
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-06-22T09:14:29Z"
 ---
 ## What it is
 Turns Claude into a penetration testing copilot with 80 security tools, safety controls, and automatic reporting.

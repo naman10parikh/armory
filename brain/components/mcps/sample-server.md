@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T05:03:22Z"
 ---
 ## What it is
 A demo MCP server built with FastMCP that provides weather, calculation, and currency conversion tools for use with AI applications like Claude Desktop and Cursor.

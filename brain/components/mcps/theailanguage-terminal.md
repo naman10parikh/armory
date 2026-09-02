@@ -8,10 +8,12 @@ source_url: https://github.com/theailanguage/terminal_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 83
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2025-06-23T12:33:06Z"
 ---
 ## What it is
 MCP server `Terminal`, catalogued on PulseMCP. Enables execution of shell commands within a designated workspace directory, capturing both standard output and error streams for file operations, script running, and command-line tool interactions directly from conversations.

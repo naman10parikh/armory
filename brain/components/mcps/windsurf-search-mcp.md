@@ -8,11 +8,13 @@ source_url: https://github.com/jiale18219-dotcom/windsurf-search-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-20T17:19:12Z"
 ---
 ## What it is
 MCP server and CLI for Windsurf/Devin server-side web search, exposing a web_search tool that returns JSON hits from the GetWebSearchResults API.

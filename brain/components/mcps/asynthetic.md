@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T13:51:33Z"
 ---
 ## What it is
 An MCP server that gives AI coding agents verified migration maps: exactly what breaks between two versions of a library and how to fix it, from hand-curated maps with source citations - instead of hallucinated answers from stale training data

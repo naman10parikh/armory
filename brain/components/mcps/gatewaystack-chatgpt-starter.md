@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-11T16:02:11Z"
 ---
 ## What it is
 MCP server `GatewayStack ChatGPT Starter`, catalogued on PulseMCP. OAuth-protected gateway that provides secure tool execution with JWT-based authentication and authorization, integrating with providers like Auth0, Clerk, Google, and Okta to verify bearer tokens and enforce scope-based permissions before proxying tool calls to backend services.

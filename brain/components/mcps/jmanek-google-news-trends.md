@@ -8,10 +8,12 @@ source_url: https://github.com/jmanek/google-news-trends-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-08-11T04:27:04Z"
 ---
 ## What it is
 MCP server `Google News & Trends`, catalogued on PulseMCP. Integrates with Google News RSS feeds and Google Trends to provide news article search, trending topic retrieval, and optional content summarization for news monitoring and trend analysis workflows.

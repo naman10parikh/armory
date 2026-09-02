@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T16:15:34Z"
 ---
 ## What it is
 Travel planning tools from Plantrip: generate day-by-day itineraries, AI packing lists, weather insights, and trip cost estimates. Every itinerary gets a shareable page the user owns; free API key, no subscription.

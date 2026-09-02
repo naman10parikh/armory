@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:40:42Z"
 ---
 ## What it is
 MCP server `Setlist.fm`, catalogued on PulseMCP. Setlist.fm concert setlists: search by artist, venue, or date with a free API key.

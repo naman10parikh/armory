@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T09:42:07Z"
 ---
 ## What it is
 A minimal MCP server that provides expense submission and listing tools with an interactive Fluent-2 widget for Microsoft 365 Copilot and Copilot Cowork. It uses Streamable HTTP transport and anonymous auth for development.

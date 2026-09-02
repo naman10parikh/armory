@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T14:00:42Z"
 ---
 ## What it is
 MCP server `VFX Parsers`, catalogued on PulseMCP. Parse and generate professional VFX file formats including Nuke scripts, MaterialX shading networks, and USD ASCII scene descriptions.

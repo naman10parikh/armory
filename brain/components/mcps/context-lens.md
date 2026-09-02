@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-20T18:52:54Z"
 ---
 ## What it is
 An MCP server that enables semantic search over local files or GitHub repositories by indexing content into a serverless vector database, allowing AI assistants to understand meaning rather than just keywords.

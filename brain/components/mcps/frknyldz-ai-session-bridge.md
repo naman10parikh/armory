@@ -8,10 +8,12 @@ source_url: https://github.com/frknyldz/ai-session-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-26T18:51:47Z"
 ---
 ## What it is
 MCP server `AI Session Bridge`, catalogued on PulseMCP. Provides cross-tool access to AI conversation history from VS Code Copilot, Cursor, and Rovodev sessions by scanning workspace storage directories and parsing different session formats to enable conversation continuity and search across previous sessions.

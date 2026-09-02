@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-28T15:43:07Z"
 ---
 ## What it is
 Provides comprehensive access to EnergyPlus building energy simulation results, enabling discovery, analysis, and extraction of data from epJSON, SQL, and HTML files through MCP tools with pandas integration.

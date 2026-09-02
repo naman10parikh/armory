@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T20:59:05Z"
 ---
 ## What it is
 Connect Claude Desktop and Claude Code to QuickBooks Online for natural-language accounting. Ask questions about invoices, expenses, reports, and more using plain English.

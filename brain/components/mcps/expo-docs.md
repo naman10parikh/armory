@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-06T03:43:02Z"
 ---
 ## What it is
 Enables fast, offline search and retrieval of Expo documentation from local .mdx files, with tools for searching, getting content, listing sections, API references, and quick start guides.

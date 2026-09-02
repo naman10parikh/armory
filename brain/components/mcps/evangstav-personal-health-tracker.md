@@ -8,10 +8,12 @@ source_url: https://github.com/evangstav/personal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-08T07:30:18Z"
 ---
 ## What it is
 MCP server `Personal Health Tracker`, catalogued on PulseMCP. Integrates personal health data tracking with natural language querying and visualization for privacy-focused local analysis and trend insights.

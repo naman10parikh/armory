@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T02:30:59Z"
 ---
 ## What it is
 Provides a unified interface for storing and querying vector databases, currently supporting Qdrant with self-embedding and semantic search.

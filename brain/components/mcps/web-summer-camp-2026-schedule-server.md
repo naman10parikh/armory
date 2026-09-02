@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T11:02:36Z"
 ---
 ## What it is
 Exposes the conference schedule as tools for ChatGPT, allowing attendees to view talks and buy tickets through natural language.

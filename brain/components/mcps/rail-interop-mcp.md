@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T20:25:25Z"
 ---
 ## What it is
 Provides an MCP interface to the ERA RINF railway infrastructure database for Poland and Czech Republic, enabling route planning, train compatibility checks (gauge, axle load, length, clearance), weather risk assessment, and traction planning, with a LangGraph agent integrating a custom MCP server a

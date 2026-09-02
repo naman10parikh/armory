@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:32:00Z"
 ---
 ## What it is
 Runs coding tasks with and without a skill file, reports behavior deltas and variance, and generates JSON or Markdown readiness reports.

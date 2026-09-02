@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-19T09:53:45Z"
 ---
 ## What it is
 Multi-broker trading MCP server for Claude AI, unifying Kite, Groww, and Dhan with 40+ technical indicators, real-time trading, portfolio management, and Cloudflare Workers support.

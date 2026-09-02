@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T08:47:14Z"
 ---
 ## What it is
 MCP server `India RTO`, catalogued on PulseMCP. Indian vehicle RTO services: number plate decoding, road tax, and office lookup.

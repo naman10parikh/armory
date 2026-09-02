@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T04:36:51Z"
 ---
 ## What it is
 Enables AI tools like Claude Code to deploy projects to multiple servers via SSH with zero installation on target machines. Supports server onboarding, project management, and one-click deployment through MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T01:20:24Z"
 ---
 ## What it is
 Provides 70+ MCP tools for creating and managing Ren'Py projects, enabling natural language requirements to be converted into editable projects with build, preview, and asset generation capabilities.

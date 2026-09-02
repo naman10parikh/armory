@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-11T18:49:05Z"
 ---
 ## What it is
 MCP server `SingleStore`, catalogued on PulseMCP. Integrates with SingleStore databases to enable efficient querying and data operations for large-scale, real-time analytics applications.

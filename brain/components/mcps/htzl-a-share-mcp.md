@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T13:43:03Z"
 ---
 ## What it is
 MCP server providing 29 A-share analysis skills including real-time data, capital flow, limit-up tracking, technical/fundamental analysis, backtesting, risk control, and Xueqiu portfolio tracking, enabling AI agents to execute market research and strategy tasks.

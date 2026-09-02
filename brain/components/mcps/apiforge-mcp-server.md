@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T19:05:09Z"
 ---
 ## What it is
 Automatically generates MCP tools from JSON API configs, manages authentication (API Key, OAuth 2.0), and controls access for AI agents like Hermes.

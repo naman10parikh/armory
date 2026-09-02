@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T09:30:59Z"
 ---
 ## What it is
 MCP server for Vietnamese text-to-speech with voice cloning, 10 built-in voices, text normalization, and long-form queuing, running 100% locally.

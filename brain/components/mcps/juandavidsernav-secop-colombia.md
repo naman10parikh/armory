@@ -8,10 +8,12 @@ source_url: https://github.com/juandavidsernav/secop-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-15T17:12:33Z"
 ---
 ## What it is
 MCP server `SECOP Colombia`, catalogued on PulseMCP. Query Colombian public procurement data from SECOP I and SECOP II via the datos.gov.co open data API.

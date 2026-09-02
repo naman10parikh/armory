@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-09-01T21:44:35Z"
 ---
 ## What it is
 MCP server for secure, just-in-time secret retrieval from 1claw vault and malicious content inspection, enabling AI agents to access secrets and security analysis.

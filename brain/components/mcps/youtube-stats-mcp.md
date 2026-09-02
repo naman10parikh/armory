@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T09:21:01Z"
 ---
 ## What it is
 Self-hosted MCP server that lets AI assistants read your own YouTube channel's stats, recent uploads, and upload schedule via the YouTube Data API v3, using read-only OAuth.

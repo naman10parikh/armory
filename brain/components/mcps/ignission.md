@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-17T14:49:22Z"
 ---
 ## What it is
 MCP server `Ignission`, catalogued on PulseMCP. TikTok video analytics and content strategy tools

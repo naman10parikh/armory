@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T19:44:30Z"
 ---
 ## What it is
 Enables AI to control Blender 3D through the Model Context Protocol, allowing Python execution, scene state queries, and automation of 3D workflows.

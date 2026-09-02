@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T00:22:18Z"
 ---
 ## What it is
 Provider-agnostic MCP server for managing heterogeneous infrastructure (SSH, Proxmox VE, Virtualizor, Hetzner Cloud, Cloudflare) via a JSON inventory, exposing tools for VM/container management, DNS, firewalls, and SSH operations.

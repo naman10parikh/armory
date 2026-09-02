@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-06T22:45:56Z"
 ---
 ## What it is
 MCP server `ClickHouse`, catalogued on PulseMCP. Integrates with ClickHouse databases to execute read-only SQL queries, list databases, and enumerate tables for fast analytical processing of large datasets.

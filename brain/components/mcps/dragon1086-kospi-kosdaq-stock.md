@@ -12,6 +12,8 @@ stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2026-08-04T09:05:50Z"
 ---
 ## What it is
 MCP server `KOSPI/KOSDAQ Stock Data`, catalogued on PulseMCP. Integrates with pykrx to provide real-time access to KOSPI and KOSDAQ stock market data, offering tools for retrieving ticker symbols, OHLCV data, market capitalization, fundamental metrics, and trading volumes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:11Z"
 ---
 ## What it is
 Enables consultation of Electronic Labor Lawsuit Certificates (CEAT) from the Regional Labor Court of the 20th Region (TRT20) via an official source, with a single read-only tool and prepaid pay-per-use.

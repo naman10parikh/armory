@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T19:06:12Z"
 ---
 ## What it is
 Public read-only MCP server for SubcueAI, the AI interview assistant for macOS and Windows. Exposes live pricing and the latest desktop version as tools, plus product overview and FAQ resources. Includes a zero-dependency stdio bridge and Dockerfile.

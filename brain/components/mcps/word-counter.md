@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:42Z"
 ---
 ## What it is
 Enables AI agents to analyze text metrics in one call, including word count, characters, sentences, paragraphs, and estimated reading time, with pay-per-call micropayments via x402.

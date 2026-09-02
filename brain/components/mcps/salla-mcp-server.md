@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-09T15:00:40Z"
 ---
 ## What it is
 Bridges AI assistants to Salla e-commerce stores for natural language operations on products, orders, and analytics.

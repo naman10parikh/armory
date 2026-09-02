@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:58:44Z"
 ---
 ## What it is
 Universal MCP router and gateway that bridges LLM agents to OpenAPI, GraphQL, and AWS Lambda services with ISO/IEC 42001 AI governance, RBAC, PII redaction, semantic tool routing, and a web dashboard.

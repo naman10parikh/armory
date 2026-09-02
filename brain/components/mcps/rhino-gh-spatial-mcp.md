@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T21:58:34Z"
 ---
 ## What it is
 An MCP server for spatial reasoning and performance evaluation in Rhino/Grasshopper. It reads scenes into a spatial graph, computes geometric metrics like south-facing area and shape factor, and runs an evaluate-adjust-recompute loop via existing rhinomcp geometry commands.

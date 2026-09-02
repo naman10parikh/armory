@@ -8,11 +8,13 @@ source_url: https://github.com/wende/cicada
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 41
+stars: 40
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-07-28T16:05:42Z"
 ---
 ## What it is
 Provides structured, token-efficient code context for AI assistants by indexing codebases with AST-level analysis, supporting 17+ languages, enabling semantic search, call-site tracking, and PR attribution.

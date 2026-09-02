@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T18:59:02Z"
 ---
 ## What it is
 Enables agents to crawl URLs and retrieve page content as fixed-shape structured JSON, including title, markdown, links, word count, and error status.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T16:16:43Z"
 ---
 ## What it is
 Exposes local Umi-OCR v2 capabilities to AI agents via MCP, enabling image text extraction, batch OCR, PDF OCR, and status checks without manually starting the service.

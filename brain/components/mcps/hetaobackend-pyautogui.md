@@ -8,10 +8,12 @@ source_url: https://github.com/hetaobackend/mcp-pyautogui-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-04-02T10:07:21Z"
 ---
 ## What it is
 MCP server `PyAutoGUI`, catalogued on PulseMCP. Enables automated GUI testing and control across operating systems by wrapping PyAutoGUI to perform mouse movements, keyboard input, screenshot capture, and image recognition tasks.

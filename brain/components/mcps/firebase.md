@@ -8,11 +8,13 @@ source_url: https://github.com/firebase/firebase-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4415
+stars: 4462
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 1
+forks: 1244
+pushed_at: "2026-09-02T00:16:16Z"
 ---
 ## What it is
 MCP server `Firebase`, catalogued on PulseMCP. Give AI-powered development tools the ability to work with your Firebase projects

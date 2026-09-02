@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T17:24:20Z"
 ---
 ## What it is
 Reverse-engineer Atari 8-bit binaries and ATR disk images with 6502 disassembly, symbol management, cross-reference analysis, and pattern matching tools.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-26T15:29:10Z"
 ---
 ## What it is
 MCP server `Argus (GitLab)`, catalogued on PulseMCP. Integrates with GitLab repositories to enable automated security assessments, code reviews, and DevOps workflows through repository analysis and file retrieval capabilities.

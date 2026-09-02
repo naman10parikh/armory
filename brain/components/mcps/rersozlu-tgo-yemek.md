@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-03T14:02:54Z"
 ---
 ## What it is
 MCP server `TGO Yemek`, catalogued on PulseMCP. Integrates with TGO Yemek Turkish food delivery service to enable complete ordering workflows including address management, restaurant browsing, menu exploration, cart operations, payment processing with 3D Secure verification, and order tracking.

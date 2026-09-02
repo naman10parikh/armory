@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-06T15:56:54Z"
 ---
 ## What it is
 MCP server for integrating with Adobe Commerce and Magento REST API to manage products, categories, customers, pricing, and attributes.

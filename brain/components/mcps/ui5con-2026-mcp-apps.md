@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T12:14:37Z"
 ---
 ## What it is
 Provides runnable samples demonstrating how MCP tools can return deterministic, interactive UIs using HTML, UI5 Web Components, UI Integration Cards, and host-orchestrated SAP transport data.

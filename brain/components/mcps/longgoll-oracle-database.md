@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-12T02:51:56Z"
 ---
 ## What it is
 MCP server `Oracle Database`, catalogued on PulseMCP. Connects to Oracle databases with support for schema exploration, query execution, DDL generation, and PL/SQL execution.

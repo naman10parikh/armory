@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:02:44Z"
 ---
 ## What it is
 MCP server that exposes a design system and UX rulebook as tools, enabling AI to generate UI consistent with your design tokens, components, layout rules, accessibility guidelines, and templates. It also provides a review tool to score UI proposals against the design system.

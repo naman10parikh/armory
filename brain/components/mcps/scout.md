@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 1
+forks: 0
+pushed_at: "2026-06-23T21:43:36Z"
 ---
 ## What it is
 Browser MCP server that connects to your existing browser, preserving sessions, passwords, and extensions, enabling AI agents to interact with web pages without bot detection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-25T20:30:21Z"
 ---
 ## What it is
 Enables AI assistants to interact with Investec banking accounts, transactions, payments, and programmable cards through natural language.

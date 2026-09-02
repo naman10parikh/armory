@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-07T21:57:37Z"
 ---
 ## What it is
 MCP server `Clinical Evidence`, catalogued on PulseMCP. Aggregates clinical evidence from PubMed, ClinicalTrials.gov, and OpenFDA for biomedical literature search, trial queries, and drug information.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:00:30Z"
 ---
 ## What it is
 Enables comprehensive audit of WhatsApp business conversations, including history export, LLM analysis with verification, and multi-format report generation.

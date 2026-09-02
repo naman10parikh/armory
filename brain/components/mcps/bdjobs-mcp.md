@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:18:07Z"
 ---
 ## What it is
 MCP server that fetches BDjobs profile data using Puppeteer and exposes a tool to retrieve the full profile text given user ID and log ID cookies.

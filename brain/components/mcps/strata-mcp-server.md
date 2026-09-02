@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T07:16:22Z"
 ---
 ## What it is
 Enables LLMs to model, validate, and analyze multi-cloud infrastructure as a typed graph, with tools for IaC import/export, cost estimation, and architecture review.

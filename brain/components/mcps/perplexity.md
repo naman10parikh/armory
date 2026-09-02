@@ -8,11 +8,13 @@ source_url: https://github.com/perplexityai/modelcontextprotocol
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2226
+stars: 2495
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 13
+forks: 369
+pushed_at: "2026-08-27T03:42:03Z"
 ---
 ## What it is
 MCP server `Perplexity`, catalogued on PulseMCP. Connector for the Perplexity API, to enable web search without leaving the MCP ecosystem.

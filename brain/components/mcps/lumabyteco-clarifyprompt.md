@@ -8,10 +8,12 @@ source_url: https://github.com/lumabyteco/clarifyprompt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-14T17:07:39Z"
 ---
 ## What it is
 MCP server `ClarifyPrompt`, catalogued on PulseMCP. Transforms vague prompts into platform-optimized prompts for 58+ AI platforms across image, video, chat, code, voice, and music categories.

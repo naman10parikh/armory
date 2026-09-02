@@ -8,10 +8,12 @@ source_url: https://github.com/tadasant/mcp-server-stability-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 83
+stars: 84
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2025-06-24T22:16:28Z"
 ---
 ## What it is
 MCP server `Stability AI`, catalogued on PulseMCP. Integrates Stability AI's image generation and manipulation capabilities for editing, upscaling, and more via Stable Diffusion models.

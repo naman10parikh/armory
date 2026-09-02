@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T13:48:55Z"
 ---
 ## What it is
 Provides agent-to-agent paid access to motion capture, rehabilitation biomechanics, location threat intelligence, and commercial truck-sighting data via 21 MCP tools with USDC payments.

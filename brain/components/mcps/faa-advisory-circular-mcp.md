@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T05:20:18Z"
 ---
 ## What it is
 Enables searching, retrieving, and tracking FAA Advisory Circulars for airport operations with filtering by airport type, bookmarking, and export capabilities.

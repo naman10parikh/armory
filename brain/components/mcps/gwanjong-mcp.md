@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T03:57:02Z"
 ---
 ## What it is
 Campaign-driven social engagement MCP server for authentic developer community interaction (Dev.to, Bluesky, Twitter, Reddit) with a streamlined scout-draft-strike pipeline minimizing LLM round trips.

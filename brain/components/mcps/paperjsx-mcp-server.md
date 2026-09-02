@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T20:56:45Z"
 ---
 ## What it is
 Enables AI agents to generate a variety of documents (PPTX presentations, DOCX reports, PDF invoices, XLSX spreadsheets) locally from JSON specs, without any API keys or network calls.

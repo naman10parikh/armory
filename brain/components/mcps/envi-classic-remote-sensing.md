@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T06:52:55Z"
 ---
 ## What it is
 Automates ENVI Classic remote sensing experiments on Windows by executing steps, capturing authentic screenshots, and generating formatted Word/PDF lab reports.

@@ -8,11 +8,13 @@ source_url: https://github.com/vmos-dev/ai-battle-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-19T12:55:10Z"
 ---
 ## What it is
 A multi-user AI group chat server via MCP that lets multiple users' AI agents join a shared discussion room to debate topics and reach convergence.

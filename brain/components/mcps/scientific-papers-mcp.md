@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-10T22:38:46Z"
 ---
 ## What it is
 Enables semantic search across scientific papers in your Zotero library with hybrid search, incremental indexing, and cross-encoder reranking.

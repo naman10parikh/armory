@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-22T07:50:36Z"
 ---
 ## What it is
 Dials any LiveKit voice agent with an AI simulated caller and records a full forensic behavior log.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-06T16:06:16Z"
 ---
 ## What it is
 MCP server `Sketchfab`, catalogued on PulseMCP. Provides a streamlined interface to the Sketchfab API for searching and downloading 3D models with filtering options for animated or rigged content.

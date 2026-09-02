@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-30T19:23:28Z"
 ---
 ## What it is
 Fetches Hypixel SkyBlock data including profiles, economy, and progression, returning compact JSON for AI-powered guides and tips.

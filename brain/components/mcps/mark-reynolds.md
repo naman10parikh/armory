@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T23:28:23Z"
 ---
 ## What it is
 Post-quantum document anchoring for AI agents. Anchor any SHA-256 hash to Algorand mainnet with ML-DSA-65 (NIST FIPS-204) signatures and receive a self-contained proof bundle verifiable offline — decades from now, without trusting any vendor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-13T13:52:09Z"
 ---
 ## What it is
 Enables natural language performance analysis and optimization of AWS Aurora MySQL databases, using AI (Bedrock, Claude) and RAG to generate HTML reports and recommendations.

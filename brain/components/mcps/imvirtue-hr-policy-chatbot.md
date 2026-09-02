@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-14T02:51:34Z"
 ---
 ## What it is
 MCP server `HR Policy Chatbot`, catalogued on PulseMCP. Enables HR departments to provide workplace policy information through a RAG-based chatbot that indexes, retrieves, and generates answers from PDF documentation with email sending capabilities.

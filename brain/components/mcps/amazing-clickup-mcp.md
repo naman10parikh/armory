@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T17:19:36Z"
 ---
 ## What it is
 A comprehensive MCP server for the ClickUp API exposing 166 tools to manage Spaces, Folders, Lists, Tasks, Docs, and more, enabling LLMs to read and drive a ClickUp Workspace.

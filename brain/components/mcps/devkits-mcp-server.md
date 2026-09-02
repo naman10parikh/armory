@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T11:47:40Z"
 ---
 ## What it is
 Provides 12 local developer tools (JSON format, Base64, JWT decode, regex test, hash, UUID, etc.) for AI assistants like Claude Desktop and Cursor.

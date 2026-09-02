@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T13:29:10Z"
 ---
 ## What it is
 MCP server that fetches remote or local HTML resources and converts them to Markdown, enabling AI clients to summarize or process web content.

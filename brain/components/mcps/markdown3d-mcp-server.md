@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T17:37:28Z"
 ---
 ## What it is
 Transforms markdown documents into immersive 3D visualizations using semantic analysis and spatial layout, enabling navigable knowledge structures.

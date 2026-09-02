@@ -8,10 +8,12 @@ source_url: https://github.com/ofershap/mcp-server-s3
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-10T07:38:26Z"
 ---
 ## What it is
 MCP server `AWS S3`, catalogued on PulseMCP. Manage AWS S3 buckets and objects including upload, download, and presigned URL generation.

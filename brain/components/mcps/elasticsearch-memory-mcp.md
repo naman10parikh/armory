@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-05T07:19:21Z"
 ---
 ## What it is
 Provides persistent, intelligent memory using Elasticsearch with hierarchical categorization and semantic search for LLM contexts.

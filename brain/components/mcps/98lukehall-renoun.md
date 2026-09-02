@@ -8,10 +8,12 @@ source_url: https://github.com/98lukehall/renoun-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-22T17:12:34Z"
 ---
 ## What it is
 MCP server `ReNoUn`, catalogued on PulseMCP. Structural risk telemetry for crypto markets, classifying regimes as bounded, active, or unstable with stability half-life predictions.

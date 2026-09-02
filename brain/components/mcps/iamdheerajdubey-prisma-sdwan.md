@@ -8,10 +8,12 @@ source_url: https://github.com/iamdheerajdubey/prisma-sdwan-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-12T05:27:57Z"
 ---
 ## What it is
 MCP server `Prisma SD-WAN`, catalogued on PulseMCP. MCP server for querying Palo Alto Networks Prisma SD-WAN with 15+ read-only tools for network inventory and topology.

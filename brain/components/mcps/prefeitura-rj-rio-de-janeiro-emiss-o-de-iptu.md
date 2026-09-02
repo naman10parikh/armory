@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:53Z"
 ---
 ## What it is
 Enables consulting IPTU property tax issuance for Rio de Janeiro from official sources, read-only, with prepaid credits.

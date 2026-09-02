@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T16:43:56Z"
 ---
 ## What it is
 MCP server for the Zenvoy Markdown notes app, providing 26 tools for vault operations like reading, creating, searching notes, and managing tasks, templates, and comments.

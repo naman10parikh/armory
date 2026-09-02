@@ -12,6 +12,8 @@ stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2024-12-26T09:28:23Z"
 ---
 ## What it is
 MCP server `Fetch and Convert`, catalogued on PulseMCP. Fetches and converts web content to Markdown using JSDOM and Turndown.

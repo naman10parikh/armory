@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-15T06:39:48Z"
 ---
 ## What it is
 Lets AI agents visually inspect web elements, test CSS edits in real-time, and iterate until pixel-perfect, functioning like browser DevTools for debugging UI issues.

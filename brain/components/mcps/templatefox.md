@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-02T15:14:53Z"
 ---
 ## What it is
 MCP server `TemplateFox`, catalogued on PulseMCP. Generate PDFs from templates via AI assistants using the TemplateFox API.

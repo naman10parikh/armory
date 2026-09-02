@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T09:10:12Z"
 ---
 ## What it is
 Encrypted secrets management MCP server for AI agents, enabling secure storage, retrieval, rotation, and auditing of API keys and credentials with AES-128 encryption.

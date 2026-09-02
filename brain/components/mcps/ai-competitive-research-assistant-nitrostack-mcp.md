@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T10:29:44Z"
 ---
 ## What it is
 Automates competitive research for startup ideas by executing a 7-step pipeline including idea understanding, competitor discovery, profile extraction, feature comparison, market gap analysis, innovation scoring, and report generation.

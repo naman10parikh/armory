@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T13:18:38Z"
 ---
 ## What it is
 Enables local security scanning and compliance gap analysis for code and text, detecting secrets, PII, and OWASP vulnerabilities, and assessing readiness across major frameworks like NCA, ISO 27001, NIST CSF, and SOC 2.

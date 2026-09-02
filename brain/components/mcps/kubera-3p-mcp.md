@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T17:59:08Z"
 ---
 ## What it is
 MCP server that exposes a typed TypeScript client for the Kubera (api.kubera.com) REST API, enabling users to access their financial data (user info, portfolios, charts) via Cognito-authenticated tools, including white-label account support.

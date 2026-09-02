@@ -8,10 +8,12 @@ source_url: https://github.com/sendaifun/solana-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 159
+stars: 163
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 51
+pushed_at: "2025-05-20T18:49:30Z"
 ---
 ## What it is
 MCP server `Solana Agent`, catalogued on PulseMCP. Enables blockchain interactions on Solana by providing a comprehensive server for asset retrieval, token deployment, wallet management, transfers, NFT minting, and domain resolution.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 1
+forks: 0
+pushed_at: "2026-05-04T07:35:06Z"
 ---
 ## What it is
 AI code security scanner MCP server. Detects 9 categories of threats in AI-generated code (invisible Unicode, Trojan Source, homoglyphs, Glassworm steganography, rules file backdoors, dependency typosquatting, obfuscation) using static analysis plus CodeBERT deep learning. Runs locally, free tier.

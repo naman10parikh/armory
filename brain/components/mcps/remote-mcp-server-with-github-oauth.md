@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T22:25:07Z"
 ---
 ## What it is
 Enables remote MCP connections with GitHub OAuth authentication, providing tools like add, userInfoOctokit, and image generation (restricted) deployed on Cloudflare Workers.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-24T13:40:48Z"
 ---
 ## What it is
 MCP server `Domain Expertise`, catalogued on PulseMCP. Domain expertise injection for AI agents across 20+ industry verticals.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T07:01:08Z"
 ---
 ## What it is
 Enables AI assistants to assess a small business's AI readiness (0–100 score), suggest tailored AI use cases, describe Essetech's services, and book a free consultation.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-12T14:58:35Z"
 ---
 ## What it is
 MCP server `Welcome Text Generator`, catalogued on PulseMCP. Generates professional welcome texts for new employees

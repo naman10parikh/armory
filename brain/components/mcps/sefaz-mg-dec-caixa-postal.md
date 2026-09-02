@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:19Z"
 ---
 ## What it is
 Enables consulting SEFAZ MG DEC Caixa Postal from official sources, with one read/write tool, prepaid credits, and MCP-over-HTTP support for any compatible client.

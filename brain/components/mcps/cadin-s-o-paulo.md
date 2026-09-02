@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:27:39Z"
 ---
 ## What it is
 Enables agents to check whether a CPF or CNPJ is registered in the São Paulo state CADIN (debtor registry), returning its situation. Read-only, works over MCP HTTP with any client.

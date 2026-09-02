@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T13:48:21Z"
 ---
 ## What it is
 MCP server bridging tool calls to Neovim editor actions via RPC. Enables AI agents to open files, run Lua, manage quickfix lists, fetch diagnostics, and send notifications.

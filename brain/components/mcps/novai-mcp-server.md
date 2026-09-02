@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T16:54:12Z"
 ---
 ## What it is
 Read-only access to the live NOVAI blockchain (an AI-native L1) over public JSON-RPC. Query blocks, transactions, AI entities, on-chain signals, oracle anchors, and memory objects. No keys, no write paths.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-24T17:18:11Z"
 ---
 ## What it is
 A simple MCP server that provides weather tools, deployable with Docker, and designed to be used with Claude Desktop via a WSL bridge.

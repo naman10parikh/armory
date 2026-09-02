@@ -13,6 +13,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 1
+forks: 0
+pushed_at: "2026-03-05T04:09:49Z"
 ---
 ## What it is
 MCP server `ink.ml/ink`, catalogued on PulseMCP. Deploy and manage applications, databases, domains, and git repos

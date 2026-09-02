@@ -8,10 +8,12 @@ source_url: https://github.com/tranhoaihung/figma-ui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 201
+stars: 234
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 46
+pushed_at: "2026-05-26T09:44:47Z"
 ---
 ## What it is
 MCP server `Figma UI`, catalogued on PulseMCP. Bidirectional Figma integration that enables drawing UI with code and reading designs as structured data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T08:25:57Z"
 ---
 ## What it is
 A paid remote MCP release gate for Kiro projects that enables release policy checks, evidence collection, owner signoff, and CI-friendly approval receipts.

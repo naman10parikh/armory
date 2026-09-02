@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-03-18T05:19:24Z"
 ---
 ## What it is
 Provides financial data including stock prices, cryptocurrency rates, forex rates, and compound interest calculations, as well as financial news retrieval through various APIs.

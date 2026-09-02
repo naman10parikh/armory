@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-02T18:26:40Z"
 ---
 ## What it is
 Provides verified IPv4 subnet calculations, IP analysis, and network diagram generation for AI tutoring systems via MCP.

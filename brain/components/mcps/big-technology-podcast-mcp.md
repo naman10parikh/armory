@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T04:21:24Z"
 ---
 ## What it is
 Search and retrieve transcripts from 488 episodes of the Big Technology Podcast, enabling queries on tech topics and full episode access via Claude.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-27T17:09:37Z"
 ---
 ## What it is
 Enables AI-powered multi-provider routing and chat through an MCP interface, with smart fallback, persistent sessions, and learning from historical performance.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-09T15:31:23Z"
 ---
 ## What it is
 MCP server `GCP`, catalogued on PulseMCP. Enables developers to manage and interact with Google Cloud Platform resources like Compute Engine, Cloud Run, BigQuery, and Cloud Storage through a unified, tool-driven approach.

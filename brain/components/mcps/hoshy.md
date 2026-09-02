@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T00:57:03Z"
 ---
 ## What it is
 A free MCP server that lets Claude search Rakuten products, compare prices, and book business hotels using natural language, with no API keys required.

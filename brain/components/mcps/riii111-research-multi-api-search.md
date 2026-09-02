@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-03T13:53:00Z"
 ---
 ## What it is
 MCP server `Research Multi-API Search`, catalogued on PulseMCP. Combines multiple search APIs (Brave Search, Tavily Search, and Wikipedia) to intelligently route queries based on classification, providing web search capabilities with automatic categorization, parallel execution, and result deduplication.

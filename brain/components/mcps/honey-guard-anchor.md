@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-14T07:43:12Z"
 ---
 ## What it is
 MCP server `Solana Fender`, catalogued on PulseMCP. Provides security analysis for Solana Anchor programs by exposing tools that check smart contracts against Fender security vulnerabilities directly within development environments.

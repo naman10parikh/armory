@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T07:58:54Z"
 ---
 ## What it is
 Provides domain mock tools (81) and skill VDB search/load/run tools for a Monimo AI Agent, enabling semantic skill retrieval and mock domain operations via streamable HTTP MCP.

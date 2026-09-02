@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T01:28:55Z"
 ---
 ## What it is
 Enables traceable scholarly literature reviews using free APIs, generating reports where every claim links to evidence IDs.

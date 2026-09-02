@@ -8,11 +8,13 @@ source_url: https://github.com/New1Direction/webmcp-anything
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-10T21:54:27Z"
 ---
 ## What it is
 Worker that turns any URL into agent-callable MCP tools, plus a Chrome extension, open-source adapters, and SDKs. On top of that sits an independent A–F trust graph for the whole MCP ecosystem

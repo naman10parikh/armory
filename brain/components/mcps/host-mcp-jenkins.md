@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-25T20:09:20Z"
 ---
 ## What it is
 A local MCP server for Jenkins that provides 17 tools to interact with Jenkins jobs, builds, logs, SCM, and test results via REST API, no plugin required.

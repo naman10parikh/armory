@@ -8,10 +8,12 @@ source_url: https://github.com/paulieb89/property-shared
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-09-02T02:50:28Z"
 ---
 ## What it is
 MCP server `UK Property Data`, catalogued on PulseMCP. Aggregates UK property data from Land Registry, EPC ratings, Rightmove listings, and Companies House records for property research and analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T19:02:08Z"
 ---
 ## What it is
 Enables agents to inspect captured emails, messages, and webhooks across multiple channels, read OTP codes, and simulate inbound events for end-to-end testing.

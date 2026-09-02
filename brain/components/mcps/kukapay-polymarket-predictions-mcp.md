@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 5
+forks: 4
+pushed_at: "2025-09-23T08:30:54Z"
 ---
 ## What it is
 An MCP server that delivers real-time market odds from Polymarket.

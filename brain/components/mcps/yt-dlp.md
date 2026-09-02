@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 1
+forks: 0
+pushed_at: "2026-03-17T15:30:04Z"
 ---
 ## What it is
 Enables video metadata extraction and downloading from platforms like TikTok and YouTube via yt-dlp, including direct MP4 links and local downloads with MP3 conversion.

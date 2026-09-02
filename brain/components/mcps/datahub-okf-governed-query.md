@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T15:43:42Z"
 ---
 ## What it is
 Security-focused MCP adapter that combines read-only DataHub metadata with a reviewed OKF-derived policy IR to execute closed, typed SQL queries against synthetic PostgreSQL data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T14:34:17Z"
 ---
 ## What it is
 Enables querying procurement documents (invoices, purchase orders, shipping orders, inventory reports) via semantic search, order ID lookups, gap analysis, and source excerpt retrieval.

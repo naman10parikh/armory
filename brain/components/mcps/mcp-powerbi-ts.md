@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T09:48:17Z"
 ---
 ## What it is
 Enables interaction with Power BI Desktop models via the XMLA endpoint, providing specialized agents for DAX queries, table structure inspection and editing, and model relationship management.

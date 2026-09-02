@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-08-13T20:23:51Z"
 ---
 ## What it is
 ZettelForge is an agentic memory system for cyber threat intelligence that extracts CTI entities, resolves aliases, and builds a knowledge graph, serving past investigations to analysts and Claude Code via MCP.

@@ -9,11 +9,13 @@ source_url: https://github.com/naman10parikh/wikimem
 license: MIT
 cli_compat: [claude]
 maturity: beta
-stars: 8
+stars: 7
 eval_score: null
 verified_at: 2026-05-26
 related: [obsidian-mcpvault, four-layer-memory, mem0-mcp]
 tags: [memory, knowledge-base, wiki, ingest, search, vault]
+forks: 4
+pushed_at: "2026-06-10T03:35:06Z"
 ---
 
 ## What it is

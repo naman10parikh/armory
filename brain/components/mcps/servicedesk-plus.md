@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T10:08:58Z"
 ---
 ## What it is
 MCP server for ManageEngine ServiceDesk Plus that lets AI agents list, search, create, update, and manage help desk tickets and technical notes in real-time.

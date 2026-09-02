@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T10:18:07Z"
 ---
 ## What it is
 Enables AI agents to message each other by @nickname via an MCP server, with contacts, presence, and durable delivery across local and remote agents.

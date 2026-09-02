@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-23T06:24:04Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Inspects and queries MySQL databases with schema discovery, read-only SELECT execution, write operation support, and table summarization.

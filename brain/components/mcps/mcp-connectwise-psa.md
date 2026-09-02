@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T18:38:34Z"
 ---
 ## What it is
 MCP server for ConnectWise PSA (Manage) enabling ticket management, time entry, and read-only lookups of companies, contacts, and configurations with role-based access control and bring-your-own-API-keys support.

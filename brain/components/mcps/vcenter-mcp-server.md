@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T15:03:08Z"
 ---
 ## What it is
 Enables interaction with VMware vCenter 8.0 REST API via a reverse proxy, providing read-only and write tools with dry-run protection and automatic session management.

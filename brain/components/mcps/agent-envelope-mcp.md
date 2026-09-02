@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T07:18:39Z"
 ---
 ## What it is
 A neutral authority layer for agent runtimes, providing sovereign verification and vault-governed custody tools via MCP.

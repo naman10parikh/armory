@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:55:55Z"
 ---
 ## What it is
 Give your AI agents direct access to live honeypot threat intelligence. Look up attacker IPs, browse indicators of compromise (IOCs), inspect captured credentials and malware payloads, profile threat actors, and render a real-time global attack map — all from Claude, Cursor, or any MCP-compatible cl

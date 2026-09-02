@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T12:33:32Z"
 ---
 ## What it is
 Enables SSH remote command execution on any host using the system ssh binary, supporting existing configurations like ssh-agent, ProxyCommand, and jump hosts.

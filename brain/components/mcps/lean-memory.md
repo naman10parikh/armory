@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 44
+pushed_at: "2026-08-07T01:03:35Z"
 ---
 ## What it is
 Embedded, local-first agent memory: facts extracted into a per-namespace SQLite file (vec0 + FTS5) with hybrid retrieval and point-in-time (time-travel) queries. ADD-only history over stdio — no server process, no cloud dependency.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T05:55:08Z"
 ---
 ## What it is
 Proxies MCP tools from Mingdao cloud, enabling Coze to use them securely without exposing Mingdao tokens.

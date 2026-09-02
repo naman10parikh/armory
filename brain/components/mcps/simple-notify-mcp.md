@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T17:44:21Z"
 ---
 ## What it is
 Provides text-to-speech and Telegram notification capabilities via the Model Context Protocol. Supports multiple TTS providers and Telegram messaging with optional setup web interface.

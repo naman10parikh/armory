@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T14:24:04Z"
 ---
 ## What it is
 Enables AI agents to read, search, and preview governed markdown memories with explicit state and sensitivity, plus quarantine-only write, while never mutating canonical memory or exposing undeclared content.

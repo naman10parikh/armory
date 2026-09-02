@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-24T09:55:52Z"
 ---
 ## What it is
 MCP server `IT4R DataSHIELD`, catalogued on PulseMCP. Provides PICO methodology guidance for systematic reviews in health research.

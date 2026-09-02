@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T12:32:26Z"
 ---
 ## What it is
 Allows AI assistants to preview, confirm, import, search, and manage NFC/QR digital business cards through a private Cloudflare-deployed contact library.

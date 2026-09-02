@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-06T02:54:57Z"
 ---
 ## What it is
 MCP server `One Person Company OS`, catalogued on PulseMCP. Visual operating cockpit for AI-native solo founders to build and update their company operating system.

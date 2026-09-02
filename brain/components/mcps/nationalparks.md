@@ -8,10 +8,12 @@ source_url: https://github.com/kyrietangsheng/mcp-server-nationalparks
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-06-17T23:53:17Z"
 ---
 ## What it is
 MCP server `National Parks Service`, catalogued on PulseMCP. Provides real-time National Park Service data for searching parks by location or activities, retrieving detailed information, and accessing current alerts and closures using TypeScript and requiring an NPS API key for authentication.

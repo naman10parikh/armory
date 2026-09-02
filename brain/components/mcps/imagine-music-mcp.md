@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T15:09:19Z"
 ---
 ## What it is
 Generates music from text prompts via a local ACE Step API, providing tools for music generation, result checking, and listing generations.

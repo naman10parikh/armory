@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-28T11:37:37Z"
 ---
 ## What it is
 MCP server `Heimdall by lchampz`, catalogued on PulseMCP. Environment architecture and diagnostic tool for development setup validation.

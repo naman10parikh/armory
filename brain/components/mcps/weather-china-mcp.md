@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T13:27:25Z"
 ---
 ## What it is
 Provides real-time weather and 3-day forecast for Chinese cities using the QWeather API, working with any MCP-compatible client.

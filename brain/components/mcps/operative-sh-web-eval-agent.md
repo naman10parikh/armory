@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 1240
+forks: 109
+pushed_at: "2026-02-11T14:55:42Z"
 ---
 ## What it is
 An MCP Server that autonomously debugs web applications with browser-use browser agents

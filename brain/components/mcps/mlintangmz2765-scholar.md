@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-05T05:57:53Z"
 ---
 ## What it is
 MCP server `Scholar`, catalogued on PulseMCP. Provides structured access to Scopus, OpenAlex, and Unpaywall for AI-driven academic paper discovery, citation tracking, author analytics, and PDF extraction.

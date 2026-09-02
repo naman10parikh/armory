@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-12-21T10:05:55Z"
 ---
 ## What it is
 Enables natural language querying and analysis of KEGG biological databases, including pathways, genes, compounds, reactions, diseases, and drugs.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T19:27:31Z"
 ---
 ## What it is
 MCP server `Pcapy-ng`, catalogued on PulseMCP. Network packet capture and analysis using the pcapy-ng library.

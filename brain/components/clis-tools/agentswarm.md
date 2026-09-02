@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [agentgrid, ceo-launch, research-agent, recursive-grid]
 tags: [orchestration, swarm, sub-agents, dispatch, ceo]
+forks: 0
+pushed_at: "2026-06-10T03:53:18Z"
 ---
 
 ## What it is

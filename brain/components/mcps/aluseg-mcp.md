@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T20:37:34Z"
 ---
 ## What it is
 Enables AI assistants to securely interact with rental management data (leases, rent status, tenant records, tax filings) through a per-user OAuth 2.0 authenticated MCP server, with human-in-the-loop for sensitive actions.

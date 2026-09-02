@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T13:32:02Z"
 ---
 ## What it is
 Connects Claude Desktop to Odoo ERP via JSON-2 API for searching invoices, creating sales orders, checking customer balances, and managing webhooks.

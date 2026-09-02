@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:54:20Z"
 ---
 ## What it is
 Enables Operit AI mobile assistant to control GitHub operations (repos, files, pages) via a Personal Access Token.

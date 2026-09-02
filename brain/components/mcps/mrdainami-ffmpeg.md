@@ -8,10 +8,12 @@ source_url: https://github.com/mrdainami/ffmpeg-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-27T09:19:41Z"
 ---
 ## What it is
 MCP server `FFmpeg`, catalogued on PulseMCP. Wraps ffmpeg for video and audio editing operations through AI-driven shell commands.

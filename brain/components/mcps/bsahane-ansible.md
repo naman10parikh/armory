@@ -8,10 +8,12 @@ source_url: https://github.com/bsahane/mcp-ansible
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-10-14T10:04:57Z"
 ---
 ## What it is
 MCP server `Ansible`, catalogued on PulseMCP. Provides infrastructure automation through Ansible with project-based configuration management, playbook execution with idempotence testing, inventory management with diff capabilities, Vault operations for secrets handling, Galaxy dependency management with lock files, and role scaffolding utilities.

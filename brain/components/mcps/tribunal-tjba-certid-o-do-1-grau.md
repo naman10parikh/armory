@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:35Z"
 ---
 ## What it is
 Enables consultation of first-degree court certificates from the Tribunal de Justiça da Bahia (TJBA) through an official source, with read-only access and pay-per-use credits.

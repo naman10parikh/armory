@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T05:37:57Z"
 ---
 ## What it is
 MCP server `OpenHarness`, catalogued on PulseMCP. Discovery layer that enables AI coding agents to find and reference each other's recent sessions.

@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-26T15:31:13Z"
 ---
 ## What it is
 MCP server `Strands Agents`, catalogued on PulseMCP. Server that enables execution of Strands agents through a plugin architecture, automatically discovering and registering plugins for seamless integration with existing workflows.

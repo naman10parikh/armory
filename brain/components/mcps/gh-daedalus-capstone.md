@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T19:25:50Z"
 ---
 ## What it is
 MCP server `Capstone Disassembler`, catalogued on PulseMCP. MCP interface to the Capstone 5.0.7 binary disassembly framework.

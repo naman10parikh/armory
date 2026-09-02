@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T05:09:20Z"
 ---
 ## What it is
 Enables AI assistants to answer food safety and shelf-life questions using USDA-grade data, with tools for shelf life, safety checks, storage tips, and waste cost calculations.

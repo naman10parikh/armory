@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
 stars: 2
+forks: 0
+pushed_at: "2026-07-07T18:51:41Z"
 ---
 ## What it is
 AI-native web analytics. Query pageviews, top pages, referrers, countries, devices, and custom events. Create conversion funnels and alerts.

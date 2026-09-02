@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-29T08:44:43Z"
 ---
 ## What it is
 MCP server `QR Code Generator`, catalogued on PulseMCP. Generates QR codes in multiple formats including base64 data URLs, SVG, and terminal ASCII output with customizable error correction, colors, and batch processing for up to 10 codes simultaneously.

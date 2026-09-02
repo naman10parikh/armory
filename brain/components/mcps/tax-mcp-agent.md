@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T09:53:33Z"
 ---
 ## What it is
 MCP server for VAT/tax calculation based on country and price, supporting integration with LLM clients like Claude and Ollama for natural language queries.

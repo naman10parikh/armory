@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-05-28T20:41:31Z"
 ---
 ## What it is
 Spec-driven development tool for AI coding assistants that generates specs, validates code compliance, and provides actionable feedback.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-10-10T18:20:48Z"
 ---
 ## What it is
 MCP server `JavaScript Sandbox`, catalogued on PulseMCP. Provides a secure JavaScript sandbox for executing code with configurable time and memory limits, enabling safe testing and evaluation of algorithms.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T06:41:10Z"
 ---
 ## What it is
 MCP server `Hokmah`, catalogued on PulseMCP. Persistent codebase understanding via architectural graphs for impact analysis and code generation.

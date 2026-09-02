@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T22:15:49Z"
 ---
 ## What it is
 MCP server that exposes the Backtest360 backtesting engine API as tools, enabling AI agents to conversationally discover indicators, build and validate strategies, run backtests, and read results.

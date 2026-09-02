@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T08:56:46Z"
 ---
 ## What it is
 Enables AI agents to perform instant SEO audits, check robots.txt, sitemaps, and AI crawler access for any URL without API keys.

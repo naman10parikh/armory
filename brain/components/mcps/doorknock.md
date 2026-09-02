@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T06:01:24Z"
 ---
 ## What it is
 A remote MCP server that researches a company from its own domain and DNS, scores it against a lead profile, and writes the result into HubSpot.

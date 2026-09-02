@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T18:39:09Z"
 ---
 ## What it is
 Control and live-patch Pure Data from AI agents via the Model Context Protocol.

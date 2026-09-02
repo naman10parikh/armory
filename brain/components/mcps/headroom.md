@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-01T06:35:53Z"
 ---
 ## What it is
 MCP server that provides real-time rate-limit and context budget awareness to Claude Code, enabling it to plan tasks that fit within its constraints and defer work when needed.

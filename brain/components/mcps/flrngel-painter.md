@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-24T19:07:46Z"
 ---
 ## What it is
 MCP server `Painter (Canvas Drawing)`, catalogued on PulseMCP. Provides a drawing interface for creating and manipulating canvas elements with basic shape rendering and PNG export capabilities

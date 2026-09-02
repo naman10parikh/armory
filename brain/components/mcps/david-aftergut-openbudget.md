@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-07-30T13:33:54Z"
 ---
 ## What it is
 MCP server `OpenBudget`, catalogued on PulseMCP. Provides access to Israel's OpenBudget API for querying and searching government financial data including budgets, contracts, and support payments

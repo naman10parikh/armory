@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:22:43Z"
 ---
 ## What it is
 Governed XCP-ng operations via Xen Orchestra REST — VM-health, SR-usage, backup-failure, and patch-state RCA, with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.

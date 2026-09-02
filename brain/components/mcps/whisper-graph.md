@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-19T01:09:58Z"
 ---
 ## What it is
 MCP server `WhisperGraph`, catalogued on PulseMCP. Query internet infrastructure and threat intelligence — DNS, BGP, GeoIP, WHOIS, and 39 threat feeds — via Cypher queries against WhisperGraph.

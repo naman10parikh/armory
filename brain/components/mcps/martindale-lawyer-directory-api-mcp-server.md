@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:10:58Z"
 ---
 ## What it is
 Enables searching and retrieving US attorney profiles from Martindale, including bar admissions, law school, practice areas, firm, contact details, and peer review stars, via the Apify API. Supports both keyword search and URL-based lookups.

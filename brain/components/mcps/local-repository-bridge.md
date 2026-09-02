@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-21T10:09:22Z"
 ---
 ## What it is
 MCP server `Local Repository Bridge`, catalogued on PulseMCP. Provides a bridge between Claude and local repositories, enabling direct code analysis, bug fixes, and feature development through specialized tools for generating prompts, executing terminal commands, and locating repositories by keyword.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-23T11:36:35Z"
 ---
 ## What it is
 MCP server for MoySklad (МойСклад) warehouse and CRM management API. 21 tools covering the full order lifecycle: products, stock, counterparties, customer orders, shipments, supplies, warehouses, organizations, reports, and webhooks.

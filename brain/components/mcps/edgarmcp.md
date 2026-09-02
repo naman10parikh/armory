@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T21:32:53Z"
 ---
 ## What it is
 MCP server for SEC EDGAR that provides real-time access to filings, financial statements, and full-text search across all EDGAR documents.

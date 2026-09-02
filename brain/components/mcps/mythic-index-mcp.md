@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T20:42:33Z"
 ---
 ## What it is
 MCP server for Magic: The Gathering card prices, deck analysis, sealed product EV calculations, and investment insights, powered by live data from 5 vendors covering 99K+ cards.

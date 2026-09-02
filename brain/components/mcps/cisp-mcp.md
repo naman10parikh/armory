@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:18:26Z"
 ---
 ## What it is
 A MCP server that wraps CISP enterprise information APIs into MCP tools, enabling AI agents to query business data like company profiles, trademarks, patents, and more.

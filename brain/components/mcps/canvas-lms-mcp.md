@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T21:47:44Z"
 ---
 ## What it is
 Enables AI agents to access Canvas LMS academic data such as courses, assignments, grades, and events via MCP tools.

@@ -8,10 +8,12 @@ source_url: https://github.com/benborla/mcp-server-mysql
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1715
+stars: 2098
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 248
+pushed_at: "2026-07-27T13:36:52Z"
 ---
 ## What it is
 MCP server `Read MySQL`, catalogued on PulseMCP. Secure read-only MySQL database access to execute queries and analyze data patterns.

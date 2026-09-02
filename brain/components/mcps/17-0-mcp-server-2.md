@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T12:24:17Z"
 ---
 ## What it is
 Exposes the canonical 17-0 knowledge surface including game rules, roster constraints, and entry points for the NFL roster strategy game to MCP-compatible AI clients.

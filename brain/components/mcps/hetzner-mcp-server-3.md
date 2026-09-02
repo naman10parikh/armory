@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T10:53:10Z"
 ---
 ## What it is
 Enables management of Hetzner Cloud resources including servers, SSH keys, volumes, storage boxes, and live metrics through 40 tools.

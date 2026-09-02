@@ -8,10 +8,12 @@ source_url: https://github.com/handwriting-ocr/handwriting-ocr-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-07-22T17:12:11Z"
 ---
 ## What it is
 MCP server `Handwriting OCR`, catalogued on PulseMCP. Integrates with Handwriting OCR API to extract and digitize text from handwritten documents in various image formats, enabling conversion of physical notes and manuscripts into editable text.

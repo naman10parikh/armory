@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-18T09:14:18Z"
 ---
 ## What it is
 Publishes AI-generated HTML and Markdown to a hosted, shareable URL with versioning, theming, and access control.

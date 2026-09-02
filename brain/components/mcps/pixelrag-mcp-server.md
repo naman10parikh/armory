@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T18:43:07Z"
 ---
 ## What it is
 A visual Retrieval-Augmented Generation MCP server that renders web pages, PDFs, and design screenshots into visual tiles and enables natural language querying over them via multimodal vision embeddings.

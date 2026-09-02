@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-25T14:02:19Z"
 ---
 ## What it is
 MCP server providing access to Google Analytics Data API, enabling LLMs to retrieve reports, real-time data, and metadata from GA4 properties.

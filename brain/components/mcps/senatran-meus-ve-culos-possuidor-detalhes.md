@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:09Z"
 ---
 ## What it is
 MCP server that enables querying official Brazilian vehicle ownership details (SENATRAN) in read-only mode, with prepaid per-use pricing and magic-link authentication.

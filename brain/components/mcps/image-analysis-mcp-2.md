@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T01:11:42Z"
 ---
 ## What it is
 MCP server for image analysis, providing OCR text extraction, image metadata, and EXIF/GPS data as structured JSON for downstream processing.

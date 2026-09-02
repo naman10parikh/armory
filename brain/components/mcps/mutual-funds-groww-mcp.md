@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T14:10:39Z"
 ---
 ## What it is
 MCP server that lets AI assistants search and analyze live Indian mutual funds via Groww's API, supporting filters and detailed fund diagnostics.

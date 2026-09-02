@@ -8,10 +8,12 @@ source_url: https://github.com/sultanlive/vibeseo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-13T10:29:47Z"
 ---
 ## What it is
 MCP server `VibeSEO`, catalogued on PulseMCP. SEO research, audits, backlinks, Google Search Console integration, and content workflow tools for AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:43:41Z"
 ---
 ## What it is
 Enables AI agents to manage infrastructure by exposing Terraform tasks and deployments as tools via STDIO or SSE.

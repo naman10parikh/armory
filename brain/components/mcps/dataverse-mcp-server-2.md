@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-29T13:14:11Z"
 ---
 ## What it is
 A Model Context Protocol server that enables CRUD operations and querying on Microsoft Dataverse through natural language.

@@ -8,11 +8,13 @@ source_url: https://github.com/gnt-ai/gnt
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 28
+pushed_at: "2026-09-02T03:41:13Z"
 ---
 ## What it is
 Enables AI agents to query live, human-approved rules before taking actions, ensuring compliance and reducing errors.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-24T01:19:53Z"
 ---
 ## What it is
 MCP server `Learning Hour Generator`, catalogued on PulseMCP. Generates structured 60-minute technical practice sessions for software development teams using the 4C Learning Model by analyzing GitHub repositories for code smells and creating contextual learning content with Miro board layouts.

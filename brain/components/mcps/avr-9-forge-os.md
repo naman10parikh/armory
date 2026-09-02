@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-22T01:24:21Z"
 ---
 ## What it is
 MCP server `Forge OS`, catalogued on PulseMCP. Converts web pages into MCP tools using LLM analysis, optimizes server performance via Bayesian tuning, and auto-generates composite tools from usage patterns.

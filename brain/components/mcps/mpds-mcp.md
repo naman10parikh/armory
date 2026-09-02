@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T02:54:23Z"
 ---
 ## What it is
 A multi-project design system MCP server that manages design tokens, component specs, and validation with parent-child inheritance, accessible via REST API and JSON-RPC.

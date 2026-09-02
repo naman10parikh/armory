@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-07T19:36:41Z"
 ---
 ## What it is
 Exposes Kubernetes cluster management tools to LLMs, enabling querying pods, deployments, logs, metrics, and managing port forwards via natural language.

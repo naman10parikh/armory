@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T14:04:07Z"
 ---
 ## What it is
 MCP server for Python API verification and projection, enabling AI coding agents to detect non-existent APIs and retrieve exact API surfaces before writing code.

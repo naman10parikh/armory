@@ -8,10 +8,12 @@ source_url: https://github.com/noahlozevski/mcp-idb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-07T22:14:04Z"
 ---
 ## What it is
 MCP server `iOS Development Bridge (idb)`, catalogued on PulseMCP. Integrates with Facebook's iOS Development Bridge (idb) to enable automated iOS device management, test execution, UI interactions, and app installation through a simple npm module.

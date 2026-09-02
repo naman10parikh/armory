@@ -12,6 +12,8 @@ stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-05T08:49:23Z"
 ---
 ## What it is
 MCP server `Datomic`, catalogued on PulseMCP. Provides a JSON-RPC interface to Datomic databases, enabling schema exploration, Datalog query execution, and raw index access for data analysis without context switching.

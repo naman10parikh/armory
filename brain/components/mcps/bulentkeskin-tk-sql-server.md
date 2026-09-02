@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T01:39:39Z"
 ---
 ## What it is
 MCP server `SQL Server by bulentkeskin`, catalogued on PulseMCP. Enables AI assistants to search tables, execute read-only queries, and retrieve metadata from SQL Server databases.

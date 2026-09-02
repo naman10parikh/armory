@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-26T09:42:14Z"
 ---
 ## What it is
 MCP server `Consumer Financial Protection Bureau Complaints`, catalogued on PulseMCP. Provides access to the Consumer Financial Protection Bureau's complaint database for searching and retrieving banking and financial service complaints by company, product type, and result size.

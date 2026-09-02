@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T21:25:45Z"
 ---
 ## What it is
 Enables product managers to create, edit, and export product requirements documents interactively within Claude's chat, with real-time completeness scoring and suggestions.

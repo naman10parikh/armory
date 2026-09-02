@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T22:14:36Z"
 ---
 ## What it is
 Enables AI assistants to securely access and manage MyMLH user data, including profiles, education, and employment history, through OAuth-authenticated MCP tools.

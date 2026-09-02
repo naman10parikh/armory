@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T20:13:07Z"
 ---
 ## What it is
 This MCP server enables AI agents to interact with ServiceNow instances, providing typed tools to query, create, update, aggregate, and run background scripts, with read-only mode and a --doctor connection check.

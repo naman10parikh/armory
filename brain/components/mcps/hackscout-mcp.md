@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T15:32:28Z"
 ---
 ## What it is
 Provides hackathon intelligence for builders by analyzing projects to rank best hackathons, target tracks, and differentiate using fit scoring and public gallery intel.

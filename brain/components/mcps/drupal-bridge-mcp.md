@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-08T23:01:48Z"
 ---
 ## What it is
 Enables AI assistants to interact with Drupal sites through MCP tools, with automatic discovery, OAuth-based authentication, and scope validation.

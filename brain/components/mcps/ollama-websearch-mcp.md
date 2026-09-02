@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T21:06:22Z"
 ---
 ## What it is
 Enables performing web searches and fetching web page content via Ollama's hosted APIs, providing search results and raw page data.

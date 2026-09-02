@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-07T17:14:41Z"
 ---
 ## What it is
 A live MCP server that connects AI assistants to a running Obsidian instance, enabling full app automation including reading notes, clicking UI elements, managing plugins, and executing JavaScript.

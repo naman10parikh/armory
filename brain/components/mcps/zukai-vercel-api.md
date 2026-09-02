@@ -12,6 +12,8 @@ stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-17T07:08:19Z"
 ---
 ## What it is
 MCP server `Vercel API`, catalogued on PulseMCP. Integrates with Vercel's platform to manage deployments, DNS records, domains, projects, and environment variables through natural language interactions without navigating the Vercel dashboard or API.

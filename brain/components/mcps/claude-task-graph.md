@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T12:44:12Z"
 ---
 ## What it is
 MCP server for managing a task graph with live visualization. Enables Claude Code to create, update, and link nodes (tasks, subtasks, ideas, etc.) while a browser viewer displays the graph in real time.

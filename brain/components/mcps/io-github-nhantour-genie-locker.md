@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T22:41:02Z"
 ---
 ## What it is
 Read-only MCP server for GenieLocker that exposes tools for service status, commercial inventory, live quotes, recipe search, and credit pricing, without enabling purchases or model inference.

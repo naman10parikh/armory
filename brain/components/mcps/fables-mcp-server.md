@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T00:01:40Z"
 ---
 ## What it is
 An MCP server that provides AI agents with tools to build, deploy, and manage Flutter applications, including APK/AAB generation, keystore management, and CI/CD integration.

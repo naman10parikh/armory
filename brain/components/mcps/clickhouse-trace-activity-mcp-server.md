@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T10:53:13Z"
 ---
 ## What it is
 Tracks a user's activity by trace ID from application logs stored in ClickHouse. Provides tools for log timeline, trace summaries, and search across services.

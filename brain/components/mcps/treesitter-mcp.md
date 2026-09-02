@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-01-14T14:39:07Z"
 ---
 ## What it is
 An MCP server and CLI that uses Tree-sitter to parse and analyze code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T14:12:29Z"
 ---
 ## What it is
 MCP server that finds the cheapest effective price for products in India by comparing live prices across retailers, applying coupons and card rewards, and recommending the best combination.

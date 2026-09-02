@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-14T07:03:25Z"
 ---
 ## What it is
 Enables Claude to create and edit Figma designs in real time through MCP tools, allowing natural language commands for generating slides, charts, and other elements.

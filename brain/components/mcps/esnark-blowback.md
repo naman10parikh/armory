@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-03-23T06:46:15Z"
 ---
 ## What it is
 MCP server `Blowback (Frontend Development)`, catalogued on PulseMCP. Integrates with frontend development environments to provide real-time feedback and debugging capabilities through browser automation, capturing console logs, monitoring HMR events, and enabling DOM interaction without leaving the conversation interface.

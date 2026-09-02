@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T02:23:44Z"
 ---
 ## What it is
 MCP server for Woody, an AI firearms expert that answers questions with verified citations, checks state-specific laws, and routes to specialist agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-15T08:30:22Z"
 ---
 ## What it is
 Enables comprehensive Trello integration via MCP, supporting boards, lists, cards, comments, labels, members, checklists, search, and attachments, deployed on Cloudflare Workers.

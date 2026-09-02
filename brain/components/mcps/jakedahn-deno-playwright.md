@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2024-12-02T05:45:14Z"
 ---
 ## What it is
 MCP server `Deno Playwright`, catalogued on PulseMCP. Integrates with Playwright and Deno to enable browser automation for web navigation, interaction, and data extraction tasks.

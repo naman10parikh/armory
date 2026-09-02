@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T12:38:04Z"
 ---
 ## What it is
 Publish yourself as a remote MCP server, exposing your résumé via tools so company agents can evaluate and contact you.

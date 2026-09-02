@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T22:13:31Z"
 ---
 ## What it is
 Provides live cross-DEX market data on six EVM chains, including per-venue prices, liquidity, and gross spreads with optimal trade sizes. Enables AI agents to query real on-chain data for BSC, Polygon, Arbitrum, Base, Avalanche, and Optimism via MCP tools.

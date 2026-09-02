@@ -9,11 +9,13 @@ source_url: https://github.com/anthropics/anthropic-sdk-python
 license: MIT
 cli_compat: [claude]
 maturity: beta
-stars: 3848
+stars: 3876
 eval_score: null
 verified_at: 2026-05-26
 related: [e2b-sandbox, microsandbox, mcp-tunnels-cloudflared]
 tags: [managed-agents, hosted-control, enterprise, self-hosted-execution, runtime]
+forks: 836
+pushed_at: "2026-09-01T19:59:24Z"
 ---
 
 ## What it is

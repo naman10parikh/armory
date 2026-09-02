@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T21:57:34Z"
 ---
 ## What it is
 Enables AI assistants to read your SisRUN training plan with your own credentials and answer questions about prescribed workouts, like weekly coach plans, in a structured format.

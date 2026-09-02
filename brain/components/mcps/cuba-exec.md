@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-12T15:04:20Z"
 ---
 ## What it is
 Advanced shell command execution for AI agents — a Model Context Protocol (MCP) server with security policy engine, process lifecycle management, bounded output capture, POSIX signals, and token-efficient responses.

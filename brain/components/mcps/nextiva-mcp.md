@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T03:01:25Z"
 ---
 ## What it is
 MCP server for Nextiva/Thrio contact center platform, providing tools to list users, campaigns, contacts, queues, and work item history.

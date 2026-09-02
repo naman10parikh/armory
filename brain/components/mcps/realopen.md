@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T22:58:41Z"
 ---
 ## What it is
 MCP server `RealOpen`, catalogued on PulseMCP. Verify crypto wallets and generate proof-of-funds letters for buying real estate with cryptocurrency.

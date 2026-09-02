@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T09:07:12Z"
 ---
 ## What it is
 Provides decentralized storage for AI agents, enabling them to save generated content to MEFS and retrieve data via content identifiers.

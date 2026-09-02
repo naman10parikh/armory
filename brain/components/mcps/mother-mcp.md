@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T13:37:33Z"
 ---
 ## What it is
 A unified remote MCP server that integrates multiple advertising, analytics, and productivity platforms, enabling users to manage campaigns, reports, and tasks via a single URL.

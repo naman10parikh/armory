@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-16T05:49:37Z"
 ---
 ## What it is
 Serve Indodax Public market data: server time, pairs, ticker, all tickers, summaries, order book, trades, OHLC, and price increments. Private account data: account info, balances, transactions, and trade history. Spot trading: buy, sell, cancel, cancel by client order ID, cancel all, and deadman cou

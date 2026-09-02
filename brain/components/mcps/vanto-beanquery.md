@@ -8,10 +8,12 @@ source_url: https://github.com/vanto/beanquery-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-01T07:20:42Z"
 ---
 ## What it is
 MCP server `Beanquery (Beancount Ledger)`, catalogued on PulseMCP. Enables querying and analyzing Beancount ledger files using Beancount Query Language (BQL) for personal finance tracking, expense analysis, and financial report generation.

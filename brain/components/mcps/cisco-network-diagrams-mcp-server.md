@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T21:36:00Z"
 ---
 ## What it is
 Enables LLMs to search and retrieve official Cisco network diagram icons as RGB PNG images, with metadata and category listing tools for building topology diagrams.

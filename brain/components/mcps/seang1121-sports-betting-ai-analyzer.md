@@ -8,10 +8,12 @@ source_url: https://github.com/seang1121/sports-betting-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-08T03:01:34Z"
 ---
 ## What it is
 MCP server `Sports Betting AI Analyzer`, catalogued on PulseMCP. AI-powered sports betting picks, odds, injury reports, and line movement analysis for NBA, NHL, and NCAAB.

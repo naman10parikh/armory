@@ -12,6 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-23T12:46:08Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Connects to MySQL databases to enable querying, analyzing, and manipulating data directly within conversation interfaces through a containerized Python server.

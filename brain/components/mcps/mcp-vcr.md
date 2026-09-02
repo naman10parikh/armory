@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T21:06:54Z"
 ---
 ## What it is
 VCR for MCP servers: a zero-dependency stdio proxy that records and replays MCP JSON-RPC tool calls to local cassette files, enabling deterministic, offline testing of AI agent workflows without side-effects or rate limits.

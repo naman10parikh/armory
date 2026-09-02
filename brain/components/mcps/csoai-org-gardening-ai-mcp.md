@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-26T20:12:56Z"
 ---
 ## What it is
 MCP server `Gardening AI`, catalogued on PulseMCP. Tools for plant care guidance, garden planning, and seasonal growing recommendations.

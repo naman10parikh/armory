@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-25T22:28:40Z"
 ---
 ## What it is
 Enables querying real-time and historical financial market data for stocks, options, forex, and crypto, including quotes, trades, technical indicators, and reference data through a set of MCP tools.

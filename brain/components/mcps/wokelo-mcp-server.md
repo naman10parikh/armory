@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T18:25:31Z"
 ---
 ## What it is
 Enables dealmaking research for AI assistants, providing company intelligence, transaction data, and research deliverables via MCP.

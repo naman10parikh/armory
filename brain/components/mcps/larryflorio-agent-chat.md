@@ -8,10 +8,12 @@ source_url: https://github.com/larryflorio/agent-chat
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-29T19:32:57Z"
 ---
 ## What it is
 MCP server `Agent Chat`, catalogued on PulseMCP. Multi-agent coordination server using a shared file-based chat log for inter-agent messaging and handoff summaries.

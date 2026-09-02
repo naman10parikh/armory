@@ -8,11 +8,13 @@ source_url: https://github.com/TonyWang-hub/mcp-cn-commerce
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 44
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-31T16:39:06Z"
 ---
 ## What it is
 A suite of MCP servers that give AI agents read-only access to Chinese e-commerce platform business data, including advertising, orders, products, and more from platforms like Douyin, JD.com, Taobao, etc.

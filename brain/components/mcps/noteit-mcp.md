@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-13T02:28:56Z"
 ---
 ## What it is
 An HTTP MCP server that allows AI coding tools to manage agent profiles and take structured notes with visual diagrams, supporting 60+ expert personas for specification-driven development.

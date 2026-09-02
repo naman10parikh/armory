@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-24T18:08:09Z"
 ---
 ## What it is
 MCP server that provides persistent long-term memory for Claude Code, enabling storage, search, and retrieval of project knowledge across sessions.

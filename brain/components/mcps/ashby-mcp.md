@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T11:10:02Z"
 ---
 ## What it is
 Connects your Ashby recruiting data to Claude, enabling natural language queries and management of candidates, applications, jobs, interviews, offers, and team information.

@@ -8,10 +8,12 @@ source_url: https://github.com/always-tinkering/rhinomcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-23T03:16:31Z"
 ---
 ## What it is
 MCP server `Rhino 3D`, catalogued on PulseMCP. Integrates with Rhino 3D's Python scripting environment to enable generation and manipulation of 3D models through geometry creation tools, with all operations requiring explicit user consent via dialog prompts.

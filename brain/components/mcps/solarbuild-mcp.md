@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T15:50:44Z"
 ---
 ## What it is
 MCP server for the Solar framework. Gives AI agents live access to your component registry — call manifest(), component(), and validate() tools to discover, inspect, and validate Solar components at runtime.

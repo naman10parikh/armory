@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T02:05:24Z"
 ---
 ## What it is
 A remote MCP server exposing 36 Fusion 360 modeling tools over HTTPS, enabling secure remote control of Autodesk Fusion 360 with authentication, rate limiting, and audit logging.

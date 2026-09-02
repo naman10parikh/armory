@@ -8,11 +8,13 @@ source_url: https://github.com/GAJETOso/financeskills
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-09-01T09:16:33Z"
 ---
 ## What it is
 AI-powered skills for financial professionals. Comprehensive collection of finance, accounting, audit, and compliance skills for AI agents. IFRS/GAAP compliant with industry-specific applications.

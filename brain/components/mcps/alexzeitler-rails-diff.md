@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-01T08:12:31Z"
 ---
 ## What it is
 MCP server `Rails Diff`, catalogued on PulseMCP. Rails version diff comparison through GitHub API integration.

@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-07T11:49:10Z"
 ---
 ## What it is
 MCP server `Repository GraphRAG`, catalogued on PulseMCP. Uses LightRAG and Tree-sitter to build a repository knowledge graph from code and docs, for Q&A and implementation planning.

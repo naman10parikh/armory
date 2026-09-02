@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T07:27:09Z"
 ---
 ## What it is
 MCP server that enables persistent, hybrid, local memory for LLM agents, with vector + BM25 search, knowledge graph, and policy-driven retention, providing token-budgeted context injection for AI assistants.

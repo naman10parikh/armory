@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-28T00:46:42Z"
 ---
 ## What it is
 Orchestrates distributed research drones on Google Cloud Run, enabling scalable and bidirectional research task management.

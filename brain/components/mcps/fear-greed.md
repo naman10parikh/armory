@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-09T04:08:49Z"
 ---
 ## What it is
 MCP server `Fear & Greed Index`, catalogued on PulseMCP. Provides real-time access to CNN's Fear & Greed Index for US stock market sentiment analysis, retrieving current composite scores and seven individual market indicators including S&P 500 momentum, options ratios, and volatility measures with historical comparisons.

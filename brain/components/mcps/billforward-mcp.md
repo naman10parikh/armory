@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T00:57:49Z"
 ---
 ## What it is
 Enables LLMs to interact with Billforward's billing and subscription management API, providing tools for accounts, subscriptions, invoices, payments, and more with read-only safety by default.

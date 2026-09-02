@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T18:51:32Z"
 ---
 ## What it is
 MCP server that enables delegation of small coding implementations to a cheaper language model with propose_patch and apply_patch tools, while the primary agent retains architecture, review, and approval.

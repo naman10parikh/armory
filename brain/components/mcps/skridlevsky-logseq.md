@@ -8,10 +8,12 @@ source_url: https://github.com/skridlevsky/graphthulhu
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 157
+stars: 169
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2026-04-30T21:02:22Z"
 ---
 ## What it is
 MCP server `Logseq`, catalogued on PulseMCP. Integrates with Logseq knowledge graphs through HTTP API for reading, writing, and analyzing personal knowledge bases with full-text search, graph analysis algorithms, journal management, flashcard operations, and hierarchical content creation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T08:02:32Z"
 ---
 ## What it is
 Package intelligence for AI coding agents that checks npm and PyPI package health, deprecation, vulnerabilities, bundle size, and compares alternatives.

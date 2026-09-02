@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T02:14:36Z"
 ---
 ## What it is
 An SEO analysis MCP server integrating Google Search Console, Bing Webmaster Tools, and GA4 with custom grain analysis tools for content decay, traffic drops, CTR benchmarking, and actionable recommendations.

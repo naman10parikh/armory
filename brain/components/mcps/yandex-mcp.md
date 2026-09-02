@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T14:59:05Z"
 ---
 ## What it is
 Enables LLM agents to interact with Yandex Tracker (and future Yandex services) using per-user credentials instead of a shared org-wide token, supporting both single-user and multi-user modes.

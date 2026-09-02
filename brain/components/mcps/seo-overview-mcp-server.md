@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T06:35:31Z"
 ---
 ## What it is
 Automates SEO report generation from Google Drive data via Claude Desktop, supporting multiple data types and exporting reports in DOCX, HTML, PPTX, and PNG formats.

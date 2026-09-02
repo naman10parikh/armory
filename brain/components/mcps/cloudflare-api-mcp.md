@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-02-25T16:08:35Z"
 ---
 ## What it is
 Enables AI agents to interact with the Cloudflare REST API for managing DNS records, zones, and other Cloudflare resources.

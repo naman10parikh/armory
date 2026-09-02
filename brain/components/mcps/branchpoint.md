@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T16:55:54Z"
 ---
 ## What it is
 Provides AI agents with persistent, branch-aware context memory by storing summaries per Git branch and automatically enriching them with recent commits and divergence from main. Enables agents to maintain coherent state across sessions without mixing contexts from different branches.

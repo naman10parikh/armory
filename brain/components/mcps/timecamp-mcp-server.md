@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-29T11:32:55Z"
 ---
 ## What it is
 Integrates TimeCamp time tracking into AI assistants, enabling real-time timer control, time entry management, smart search, and reporting.

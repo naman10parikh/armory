@@ -8,10 +8,12 @@ source_url: https://github.com/0xshellming/mcp-summarizer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 162
+stars: 166
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search]
+forks: 25
+pushed_at: "2025-02-28T12:10:58Z"
 ---
 
 ## What it is

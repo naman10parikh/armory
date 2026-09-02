@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-04-17T19:40:51Z"
 ---
 ## What it is
 A multi-tenant MCP server platform that hosts isolated MCP servers with OAuth/API key authentication for 23+ services, enabling integration with Claude Desktop and other clients via a web interface and CLI.

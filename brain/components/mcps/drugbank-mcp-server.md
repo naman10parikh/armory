@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-07T15:32:05Z"
 ---
 ## What it is
 Model Context Protocol server providing access to the comprehensive DB pharmaceutical database with 17,430+ drugs, supporting search, drug details, interactions, and more.

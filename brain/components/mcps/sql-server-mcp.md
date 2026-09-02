@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-30T23:37:55Z"
 ---
 ## What it is
 A read-only MCP server for SQL Server database introspection that enables Claude to explore and query databases via tools like listing objects and executing SELECT queries.

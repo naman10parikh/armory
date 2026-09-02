@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T07:13:52Z"
 ---
 ## What it is
 A private MCP server that lets ChatGPT create, manage, and operate Box by ASCII Linux environments through secure MCP tools.

@@ -8,10 +8,12 @@ source_url: https://github.com/qase-tms/qase-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-09-01T13:27:53Z"
 ---
 ## What it is
 MCP server `Qase Test Management`, catalogued on PulseMCP. Manage test cases, runs, suites, and defects in Qase test management platform.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-12T21:47:24Z"
 ---
 ## What it is
 Enables AI agents and developers to generate images, videos, audio, and text using 100+ models via MCP or REST with a single API key.

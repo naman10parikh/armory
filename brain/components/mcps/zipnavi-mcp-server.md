@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T04:00:31Z"
 ---
 ## What it is
 Provides home renovation guidance including building info, recent deals, permit procedures, checklists, and contractor verification based on address, powered by Korean public data.

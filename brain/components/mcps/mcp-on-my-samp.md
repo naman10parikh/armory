@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T00:20:57Z"
 ---
 ## What it is
 Enables AI agents to start, control, and verify local open.mp/SA-MP game servers via MCP stdio, using a headless RakClient to send allowed slash commands and assert round-trip responses.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T18:57:06Z"
 ---
 ## What it is
 Provides full class documentation for the Binding of Isaac modding API, enabling AI assistants to access complete class pages with methods, enums, and tutorials to avoid hallucination.

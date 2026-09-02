@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-10T08:26:11Z"
 ---
 ## What it is
 MCP server `Ask262`, catalogued on PulseMCP. ECMAScript specification reference for understanding JavaScript internals and runtime behavior.

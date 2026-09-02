@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-05T15:19:24Z"
 ---
 ## What it is
 MCP server `Payman AI`, catalogued on PulseMCP. Bridges to Payman AI's payment processing API, enabling creation of payees, search functionality, payment sending, and balance checking through natural language commands.

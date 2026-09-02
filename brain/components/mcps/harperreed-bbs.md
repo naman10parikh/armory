@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-12T02:51:54Z"
 ---
 ## What it is
 MCP server `BBS`, catalogued on PulseMCP. Message board system with CLI and TUI interfaces enabling forum-style discussions with topics, threads, and messages

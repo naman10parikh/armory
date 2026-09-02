@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T15:52:32Z"
 ---
 ## What it is
 Serves an automatically inferred semantic layer from your warehouse over MCP, enabling AI agents to query with correct business context, joins, and filters.

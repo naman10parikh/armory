@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T18:52:59Z"
 ---
 ## What it is
 DingDawg Loop Protocol (DDLP) — safe scheduled AI agents with governance gates. Every loop execution is verified, receipted, and fail-closed. MCP-native, works with CrewAI, LangGraph, Claude Code, Cursor.

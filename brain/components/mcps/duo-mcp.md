@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T02:25:59Z"
 ---
 ## What it is
 MCP server for the Cisco Duo Admin API, enabling management of Duo MFA, users, groups, devices, policies, and more via 160 tools across 20 categories.

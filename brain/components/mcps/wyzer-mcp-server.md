@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T02:19:53Z"
 ---
 ## What it is
 MCP server for controlling Wyze smart home devices (plugs, switches, thermostats, air purifiers) via Claude Desktop or Home Assistant.

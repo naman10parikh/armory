@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 3
+forks: 1
+pushed_at: "2026-04-09T00:28:08Z"
 ---
 ## What it is
 62 verified intelligence tools — claim verification with evidence chains, market data for 1,061+ tickers, trading signals, SEC filings, insider trades, technical analysis, and multi-agent verified swarm.

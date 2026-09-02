@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T05:33:05Z"
 ---
 ## What it is
 MCP server `Agent Receipts`, catalogued on PulseMCP. Ed25519-signed receipts for every AI agent action. Local-first, verifiable, no server required.

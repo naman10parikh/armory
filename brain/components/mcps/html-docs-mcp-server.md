@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T04:44:36Z"
 ---
 ## What it is
 Create, edit, inspect, and publish collaborative HTML documents from AI agents through the HTML Docs MCP server.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-18T18:43:17Z"
 ---
 ## What it is
 A production-oriented MCP server for PostgreSQL that exposes database operations like query execution, schema introspection, and table metadata to MCP clients such as Claude Desktop and VS Code.

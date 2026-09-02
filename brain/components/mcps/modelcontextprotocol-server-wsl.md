@@ -8,11 +8,13 @@ source_url: https://github.com/riparino/wsl-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T06:03:37Z"
 ---
 ## What it is
 Enables Claude Desktop to interact with Windows Subsystem for Linux (WSL) environments, allowing command execution, file management, and distribution inspection from natural language.

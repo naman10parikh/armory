@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T06:23:11Z"
 ---
 ## What it is
 Enables AI assistants to compare live insurance quotes across Nigerian insurers, check for overpayments, and provide hosted checkout links.

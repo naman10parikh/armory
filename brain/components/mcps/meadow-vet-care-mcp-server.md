@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T00:52:26Z"
 ---
 ## What it is
 Enables querying a veterinary clinic's services, summary, and availability from live data.

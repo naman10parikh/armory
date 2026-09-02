@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 35
+pushed_at: "2026-02-11T05:24:41Z"
 ---
 ## What it is
 A lightweight semantic ad-matching engine for LLMs that serves relevant advertisements via MCP, allowing agents to request ads using natural-language context.

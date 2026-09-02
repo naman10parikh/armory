@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-19T17:35:04Z"
 ---
 ## What it is
 MCP server `Spotify`, catalogued on PulseMCP. Enables natural language control of Spotify playback with tools for playing tracks, pausing music, skipping songs, searching the catalog, and retrieving currently playing information through seamless authentication and token management.

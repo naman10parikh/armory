@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-13T01:37:08Z"
 ---
 ## What it is
 Decode any video ad, load brand information, and generate ad scripts from inside MCP-compatible clients like Claude and ChatGPT.

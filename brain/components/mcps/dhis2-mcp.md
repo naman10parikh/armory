@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:16:23Z"
 ---
 ## What it is
 Enables read-only interaction with DHIS2 health data by searching indicators and querying compact analytics results, designed for small local models.

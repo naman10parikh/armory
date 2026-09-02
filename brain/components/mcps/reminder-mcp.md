@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-30T16:50:01Z"
 ---
 ## What it is
 Enables scheduling and triggering reminders delivered via Slack or Telegram through natural language, using an external cron service to ensure delivery even when the server is offline.

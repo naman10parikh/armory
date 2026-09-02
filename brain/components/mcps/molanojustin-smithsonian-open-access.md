@@ -8,10 +8,12 @@ source_url: https://github.com/molanojustin/smithsonian-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-16T20:58:45Z"
 ---
 ## What it is
 MCP server `Smithsonian Open Access`, catalogued on PulseMCP. Provides access to the Smithsonian Institution's Open Access collections through their API, enabling search across 3+ million cultural objects from museums like NMNH, NPG, and SAAM with filters for object type, creator, materials, and licensing status, plus detailed object retrieval with metadata, images, and 3D models.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-19T20:25:03Z"
 ---
 ## What it is
 MCP server `NACE Codes`, catalogued on PulseMCP. Browse, search, and fuzzy-match NACE Rev. 2.1 economic activity classification codes.

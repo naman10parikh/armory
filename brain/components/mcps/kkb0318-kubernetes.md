@@ -8,10 +8,12 @@ source_url: https://github.com/kkb0318/kubernetes-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-06-27T13:31:27Z"
 ---
 ## What it is
 MCP server `Kubernetes`, catalogued on PulseMCP. Integrates with Kubernetes clusters to provide resource management, monitoring, and troubleshooting capabilities across multiple contexts with pod log retrieval, event filtering, and multi-cluster operations.

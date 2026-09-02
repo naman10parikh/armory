@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T05:33:44Z"
 ---
 ## What it is
 Pure-Python MCP server for type-faithful calculation — evaluate expressions under fixed-point, IEEE-754 double, or exact rational arithmetic, with every answer labelled with its precision (exact vs inexact).

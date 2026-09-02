@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T14:03:10Z"
 ---
 ## What it is
 MCP server `Agent Skill Kit`, catalogued on PulseMCP. Exposes Python-based automation skills as discoverable tools, featuring built-in capabilities like CSV conversion and PDF generation plus an Architect skill that creates new automation workflows from natural language descriptions.

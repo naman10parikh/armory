@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T03:46:15Z"
 ---
 ## What it is
 MCP server for AI-powered multi-market stock analysis, offering 7-factor quantitative scoring across US, HK, and A-share markets with tools for stock analysis, screening, sector, and ESG insights.

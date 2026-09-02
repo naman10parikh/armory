@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T16:34:34Z"
 ---
 ## What it is
 A zero-trust security gateway for MCP tool calls, inspecting tool identity, arguments, execution decisions, and returned content before risk reaches your coding agent.

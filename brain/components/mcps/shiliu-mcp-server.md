@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-16T13:56:06Z"
 ---
 ## What it is
 Enables digital human (avatar) creation, voice cloning, and video generation through ShiLiu API, compatible with any MCP client.

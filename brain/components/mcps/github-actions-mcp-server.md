@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T16:50:22Z"
 ---
 ## What it is
 An intelligent MCP server that gives AI agents full control over GitHub Actions CI/CD pipelines, including real-time monitoring, log analysis, AI-powered failure diagnosis, and deployment management.

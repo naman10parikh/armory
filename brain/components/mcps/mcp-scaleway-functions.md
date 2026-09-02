@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-12T20:50:14Z"
 ---
 ## What it is
 MCP server to manage and deploy Scaleway Serverless Functions, enabling creation, listing, updating, deleting, downloading, and logging of functions through natural language.

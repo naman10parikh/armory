@@ -8,10 +8,12 @@ source_url: https://github.com/gongrzhe/terminal-controller-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 99
+stars: 97
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-06-14T01:31:17Z"
 ---
 ## What it is
 MCP server `Terminal Controller`, catalogued on PulseMCP. Enables secure terminal command execution, directory navigation, and file system operations across Windows and UNIX-based systems, with built-in security measures to prevent dangerous operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T00:23:39Z"
 ---
 ## What it is
 Provides macroeconomic data (GDP, inflation, unemployment, trade) for any country via MCP tools, sourced from World Bank and US BLS, no API keys required.

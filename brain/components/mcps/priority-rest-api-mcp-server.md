@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T16:24:30Z"
 ---
 ## What it is
 An MCP server that exposes Priority ERP's OData operations (query, create, update, delete, batch, attachments, text fields) as 19 tools for AI assistants like Claude. It supports Streamable HTTP transport with OAuth 2.1 and two-layer authentication (bearer token plus Priority credentials).

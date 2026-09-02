@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:30:48Z"
 ---
 ## What it is
 MCP server to query records of individuals or companies in the Brazilian Controladoria Geral da União (CGU) by CPF or CNPJ. Read-only, requires prepaid credits.

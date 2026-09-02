@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:50:27Z"
 ---
 ## What it is
 This MCP server enables an AI agent to control a Windows PC through human-like interactions such as screen capture, OCR, mouse, keyboard, and navigation, without using shortcut APIs.

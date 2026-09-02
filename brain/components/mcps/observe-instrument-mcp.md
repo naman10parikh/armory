@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T22:02:26Z"
 ---
 ## What it is
 An MCP server that automatically instruments Python AI agents with the ioa-observe-sdk, adding OpenTelemetry-based tracing, metrics, and logs with zero manual effort.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T20:06:40Z"
 ---
 ## What it is
 Enables security scanning of source code and Apple configuration files, providing evidence-based findings, explanations, remediation plans, threat modeling, and knowledge base access through MCP tools.

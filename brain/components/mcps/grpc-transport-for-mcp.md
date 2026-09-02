@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T15:17:33Z"
 ---
 ## What it is
 Enables MCP servers and clients to communicate over gRPC using FastMCP, supporting tool calls, text and image content, and progress reporting.

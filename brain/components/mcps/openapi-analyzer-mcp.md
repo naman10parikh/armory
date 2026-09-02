@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-04T21:28:50Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for analyzing OpenAPI specifications with LLM clients, enabling natural language queries about API structures, endpoints, schemas, and inconsistency detection across multiple specs.

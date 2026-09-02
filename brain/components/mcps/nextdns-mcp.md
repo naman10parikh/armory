@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-09-01T12:05:09Z"
 ---
 ## What it is
 Enables AI assistants to manage NextDNS profiles, settings, logs, analytics, and security configurations through 70+ operations via the Model Context Protocol.

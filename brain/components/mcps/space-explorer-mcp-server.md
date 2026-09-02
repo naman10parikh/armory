@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T10:39:21Z"
 ---
 ## What it is
 A custom MCP server that connects Kiro to live space data from NASA APIs and real-time ISS tracking, enabling queries about astronauts, ISS location, astronomy pictures, and near-Earth asteroids.

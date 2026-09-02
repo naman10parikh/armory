@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T13:47:44Z"
 ---
 ## What it is
 MCP server for Sundial, enabling AI assistants to control Corsair iCUE lighting, manage presets, and configure automation based on sunrise/sunset.

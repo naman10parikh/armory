@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:20:47Z"
 ---
 ## What it is
 MCP server to check names against Australia's DFAT sanctions list for compliance and AML due diligence.

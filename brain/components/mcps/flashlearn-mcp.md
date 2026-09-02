@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T01:24:01Z"
 ---
 ## What it is
 An MCP server for the FlashLearnAI public API that enables AI-powered flashcard deck generation, browsing sets, SM-2 spaced-repetition study sessions, and API usage tracking through natural language.

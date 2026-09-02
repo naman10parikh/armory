@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T08:39:32Z"
 ---
 ## What it is
 A macOS computer-use MCP server that grants AI agents mouse, keyboard, and screen control with a robust security model including permission profiles, app deny-lists, and audit logging.

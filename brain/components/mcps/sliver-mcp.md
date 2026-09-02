@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T01:26:36Z"
 ---
 ## What it is
 A Model Context Protocol server for the Sliver C2 framework that exposes operator tools like listeners, implant generation, sessions, command execution, and file operations for LLM-driven adversary emulation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T17:36:28Z"
 ---
 ## What it is
 Personal MCP server that gives AI assistants full access to fal.ai's 1,000+ models via local API key, with tools for searching, running, and managing AI jobs.

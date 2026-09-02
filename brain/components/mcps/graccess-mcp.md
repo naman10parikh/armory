@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T22:15:03Z"
 ---
 ## What it is
 MCP server that enables natural language querying and configuration of AVEVA System Platform galaxies, supporting object query, attribute inspection, model navigation, configuration writes, instance creation, and deployment. Runs on-premises with no data leaving the facility.

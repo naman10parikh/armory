@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-19T08:57:33Z"
 ---
 ## What it is
 MCP server for structured civil service exam question solving based on Huasheng's methodology, providing question routing, method retrieval, and guided analysis prompts.

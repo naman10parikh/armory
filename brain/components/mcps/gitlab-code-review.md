@@ -12,6 +12,8 @@ stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-05-15T12:50:43Z"
 ---
 ## What it is
 MCP server `GitLab Code Review`, catalogued on PulseMCP. Integrates with GitLab to enable code review of merge requests, allowing detailed analysis of diffs, commenting, and approval directly within the developer workflow.

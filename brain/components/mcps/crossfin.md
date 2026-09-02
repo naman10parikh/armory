@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-26T22:32:39Z"
 ---
 ## What it is
 CrossFin is a financial router for AI agents that finds the cheapest path to move money across 14 exchanges and provides real-time market data for Asian crypto markets.

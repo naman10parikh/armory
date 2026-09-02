@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-03-20T05:18:28Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for interacting with DolphinDB databases, enabling SQL script execution, database listing, and table inspection.

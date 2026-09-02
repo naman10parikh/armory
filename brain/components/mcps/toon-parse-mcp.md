@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-17T13:35:49Z"
 ---
 ## What it is
 An MCP server that helps AI agents reduce token usage by converting data to TOON format and stripping comments and unnecessary whitespace from code files.

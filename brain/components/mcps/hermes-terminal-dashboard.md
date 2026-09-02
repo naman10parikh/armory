@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T19:09:32Z"
 ---
 ## What it is
 MCP server that enables an AI agent to display rich Markdown content on a physical monitor connected to a headless Linux device via a Textual/Rich TUI.

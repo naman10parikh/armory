@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-16T04:08:08Z"
 ---
 ## What it is
 MCP server `Uber Eats`, catalogued on PulseMCP. Automates Uber Eats food ordering through browser automation for restaurant search, menu browsing, and delivery placement.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-26T10:13:00Z"
 ---
 ## What it is
 MCP server `Just Happened Stock Moves`, catalogued on PulseMCP. Explains why stocks moved. Query real-time stock price movements for S&P 500, NASDAQ, and Dow.

@@ -8,10 +8,12 @@ source_url: https://github.com/anuragb7/mcp-rag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-10T15:36:52Z"
 ---
 ## What it is
 MCP server `Multi-Document RAG`, catalogued on PulseMCP. Enables document processing with OCR, vector embeddings, and semantic search capabilities for efficient retrieval-augmented generation across multiple file formats including PDF, DOCX, PPTX, Excel, CSV, and images.

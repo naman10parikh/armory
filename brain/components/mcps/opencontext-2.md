@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T00:22:57Z"
 ---
 ## What it is
 An MCP server that connects to open data portals like CKAN and Socrata, enabling natural language querying of datasets via Claude.

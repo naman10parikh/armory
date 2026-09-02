@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T05:01:15Z"
 ---
 ## What it is
 Enables AI assistants to answer tax compliance questions (VAT, sales tax, GST) and validate EU VAT numbers in real time via the VIES registry.

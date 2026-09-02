@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:39:39Z"
 ---
 ## What it is
 Enables package tracking across multiple carriers by auto-detecting the carrier from a tracking number and returning structured events. Supports USPS, UPS, FedEx, DHL, India Post, Delhivery, BlueDart, and Aramex.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
 stars: 17
+forks: 13
+pushed_at: "2025-07-15T13:45:47Z"
 ---
 ## What it is
 Official Espressif MCP Server to manage and control ESP RainMaker Devices.

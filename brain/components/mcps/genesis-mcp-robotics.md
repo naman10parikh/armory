@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T17:09:47Z"
 ---
 ## What it is
 Enables LLM agents to control robot simulations (grasping, pouring) in the Genesis physics simulator through persistent sessions, allowing multi-turn interaction with the same scene.

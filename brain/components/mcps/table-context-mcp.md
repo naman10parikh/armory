@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-29T01:13:53Z"
 ---
 ## What it is
 Converts Excel table definitions to structured JSON and exposes them to LLMs via MCP tools like list_tables and get_table_schema, enabling accurate SQL generation and data modeling assistance.

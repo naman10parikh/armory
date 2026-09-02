@@ -8,10 +8,12 @@ source_url: https://github.com/morristai/iceberg-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-11-17T18:41:50Z"
 ---
 ## What it is
 MCP server `Iceberg`, catalogued on PulseMCP. Provides AI access to Apache Iceberg catalogs with tools for exploring namespaces, tables, schemas, properties, and partitions in data lakes without complex catalog code.

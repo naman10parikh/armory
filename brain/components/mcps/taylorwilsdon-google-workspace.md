@@ -8,10 +8,12 @@ source_url: https://github.com/taylorwilsdon/google_workspace_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2473
+stars: 3101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 972
+pushed_at: "2026-09-01T22:03:08Z"
 ---
 ## What it is
 MCP server `Google Workspace`, catalogued on PulseMCP. Integrates with Google Workspace to enable seamless interaction with Gmail, Drive, Docs, and Calendar for searching emails, retrieving messages, managing events, and manipulating documents without context switching.

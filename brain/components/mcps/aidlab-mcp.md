@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T18:05:56Z"
 ---
 ## What it is
 Connects Aidlab wellness data to AI tools through MCP, providing read-only access to daily summaries, steps, heart rate, HRV, sleep, activities, and profile with OAuth authentication.

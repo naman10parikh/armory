@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T16:30:36Z"
 ---
 ## What it is
 Enables website analysis, RAG-based conversation with site content, and side-by-side comparison of two sites via MCP tools.

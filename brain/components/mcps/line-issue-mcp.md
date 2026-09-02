@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:19:33Z"
 ---
 ## What it is
 This MCP server enables AI-powered triage of customer messages from LINE Official Accounts or Groups, automatically searching recent GitLab commits and code paths before creating ClickUp tasks in the Client Issues list with priority and evidence tags.

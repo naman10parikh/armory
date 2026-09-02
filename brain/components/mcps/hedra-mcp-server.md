@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:11:07Z"
 ---
 ## What it is
 Enables browsing Hedra's model catalog and managing AI generation jobs, including submitting, polling, and uploading files, through MCP clients.

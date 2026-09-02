@@ -8,10 +8,12 @@ source_url: https://github.com/srmtech-git/mcp-camera-feeds
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-05-09T20:17:17Z"
 ---
 ## What it is
 MCP server `Aquarium Camera Feeds`, catalogued on PulseMCP. MCP server for live aquarium webcam interaction, providing tools to capture snapshots, switch cameras, observe aquatic life, and log observations from Georgia Aquarium feeds.

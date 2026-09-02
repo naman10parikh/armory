@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T01:44:57Z"
 ---
 ## What it is
 A tasks and projects board MCP server for agents, providing create, list, and status update tools with agent-scoped access via control-plane proxy.

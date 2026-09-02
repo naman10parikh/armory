@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-02T22:04:20Z"
 ---
 ## What it is
 MCP server enabling Feishu/Lark operations including messaging as user, document management, spreadsheets, knowledge base, calendar, tasks, and OKR, with cookie-based user authentication as a zero-setup option for personal developers.

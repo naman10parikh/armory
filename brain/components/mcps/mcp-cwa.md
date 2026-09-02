@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T13:02:17Z"
 ---
 ## What it is
 Provides read-only access to Taiwan's Central Weather Administration (CWA) Open Data API, offering 36 tools across 7 categories including weather forecasts, observations, earthquakes, and astronomy.

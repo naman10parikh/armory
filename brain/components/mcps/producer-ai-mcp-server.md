@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:41:31Z"
 ---
 ## What it is
 Read-only MCP server exposing Producer AI's music generation workflows, pricing, documentation, FAQ, and official links. Enables AI clients to retrieve product knowledge without requiring API keys.

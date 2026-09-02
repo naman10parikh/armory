@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T08:39:55Z"
 ---
 ## What it is
 Provides read-only access to SQL Server databases via Data API Builder, with tools to describe entities, read records, and aggregate data through the Model Context Protocol.

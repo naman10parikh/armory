@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-08T00:28:26Z"
 ---
 ## What it is
 MCP server `Grey Swan`, catalogued on PulseMCP. Provides a MongoDB-integrated platform for systematically documenting and analyzing AI safety challenges, tracking LLM vulnerabilities through detailed thread, message, and model metadata across testing sessions.

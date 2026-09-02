@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T18:24:07Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve Norwegian company data from the Brønnøysund Register Centre's open API, including company details, roles, and subunits.

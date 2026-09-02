@@ -8,10 +8,12 @@ source_url: https://github.com/tjnull/ludus-fastmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 84
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-08-05T02:17:59Z"
 ---
 ## What it is
 MCP server `Ludus FastMCP`, catalogued on PulseMCP. Manage Ludus cyber range environments through natural language commands.

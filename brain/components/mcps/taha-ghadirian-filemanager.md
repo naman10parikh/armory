@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-16T10:46:11Z"
 ---
 ## What it is
 MCP server `FTP File Manager`, catalogued on PulseMCP. Provides FTP file management capabilities for listing, downloading, uploading, and deleting files and directories on remote servers using FluentFTP.

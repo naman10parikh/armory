@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-18T06:02:58Z"
 ---
 ## What it is
 Provides an AI agent with its own email address to send, receive, and manage emails via MCP. No email server setup required.

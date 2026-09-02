@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:07Z"
 ---
 ## What it is
 Read-only MCP server for consulting Brazilian traffic infractions (SENATRAN) from the official source, using prepaid credits. Works with any MCP-compatible client.

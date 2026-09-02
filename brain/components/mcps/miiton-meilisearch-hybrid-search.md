@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-06T15:03:05Z"
 ---
 ## What it is
 MCP server `Meilisearch Hybrid Search`, catalogued on PulseMCP. Bridges Claude with Meilisearch's hybrid search capabilities, enabling adjustable semantic-to-keyword ratio searches with customizable document filtering for precise information retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T19:43:11Z"
 ---
 ## What it is
 Enables AI-assisted learning through structured courses with Socratic guidance, evaluating user answers against rubrics and managing learning progress locally.

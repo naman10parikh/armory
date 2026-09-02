@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T17:26:23Z"
 ---
 ## What it is
 Enables to interact with the Bing Webmaster Tools API for managing sites, URLs, sitemaps, and viewing analytics.

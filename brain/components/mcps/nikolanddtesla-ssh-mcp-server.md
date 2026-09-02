@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-27T02:04:13Z"
 ---
 ## What it is
 SSH MCP Server - AI manages remote servers via SSH. Multi-server, SFTP zero-token transfer, SOCKS5 proxy, jump host, 2FA, async transfer with progress.

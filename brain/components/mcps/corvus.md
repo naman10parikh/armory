@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T12:25:13Z"
 ---
 ## What it is
 Solana DeFi Intelligence MCP server enabling natural language queries for wallet analytics, DeFi positions, protocol metrics, and token prices.

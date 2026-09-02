@@ -8,10 +8,12 @@ source_url: https://github.com/andradehenrique/dokploy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-05T20:18:13Z"
 ---
 ## What it is
 MCP server `Dokploy`, catalogued on PulseMCP. Integrates with Dokploy platform API for creating, updating, duplicating, and removing deployment projects, enabling teams to automate deployment workflows through AI interactions.

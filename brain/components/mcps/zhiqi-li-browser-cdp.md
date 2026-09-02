@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T10:05:23Z"
 ---
 ## What it is
 MCP server `Browser CDP`, catalogued on PulseMCP. Local Chrome automation via CDP with profile-snapshot isolation and shared-broker multi-client support.

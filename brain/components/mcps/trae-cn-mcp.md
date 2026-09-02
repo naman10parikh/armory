@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T07:07:37Z"
 ---
 ## What it is
 MCP server that integrates with Volcengine's coding API to enable AI-powered chat, file read/write, and command execution via OpenClaw.

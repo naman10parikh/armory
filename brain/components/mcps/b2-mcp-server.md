@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T00:04:57Z"
 ---
 ## What it is
 An MCP server that exposes Backblaze B2 Cloud Storage as tools any MCP-compatible AI client can call. Manage B2 by talking to an assistant -- list buckets, upload, download, delete versions, and check usage against a budget.

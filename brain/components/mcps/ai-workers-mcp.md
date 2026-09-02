@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T14:32:17Z"
 ---
 ## What it is
 Routes commodity NLP tasks like summarization and translation to free-tier LLMs, saving Claude tokens for complex work.

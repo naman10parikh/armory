@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-15T05:42:33Z"
 ---
 ## What it is
 Enables LLMs to interact with ERDDAP search, metadata, and tabledap services for oceanographic data.

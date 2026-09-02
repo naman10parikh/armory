@@ -8,10 +8,12 @@ source_url: https://github.com/langcare/langcare-mcp-fhir
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-04-14T16:47:04Z"
 ---
 ## What it is
 MCP server `LangCare FHIR`, catalogued on PulseMCP. FHIR-based access to EMR systems like Epic and Cerner.

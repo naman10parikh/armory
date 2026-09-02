@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-29T19:22:34Z"
 ---
 ## What it is
 Deterministic AI liability attribution engine. Scores fault across AI supply-chain participants (deployer, developer, vendor) with tamper-evident certificates and weekly cryptographic anchoring.’

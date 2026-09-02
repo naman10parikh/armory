@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-14T20:09:01Z"
 ---
 ## What it is
 MCP server `GuessMarket`, catalogued on PulseMCP. Connects to GuessMarket prediction markets for browsing, trading shares, managing liquidity, and building on-chain transactions across five EVM chains.

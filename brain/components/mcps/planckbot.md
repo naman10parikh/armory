@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T23:01:49Z"
 ---
 ## What it is
 An adaptive tiny-model layer that sits between an LLM and its MCP tools, compressing verbose tool outputs to reduce token usage by up to two orders of magnitude.

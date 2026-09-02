@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T16:16:25Z"
 ---
 ## What it is
 MCP server `AI Memory Protocol`, catalogued on PulseMCP. Versioned, graph-based persistent memory for coding agents using Sphinx-Needs with typed entries, relationship tracking, confidence scoring, and stale detection.

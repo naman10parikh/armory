@@ -8,11 +8,13 @@ source_url: https://github.com/alperenkocyigit/AuthorProfileMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1653
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 2
+pushed_at: "2025-11-19T11:01:53Z"
 ---
 ## What it is
 Discover co-authors and collaboration networks for any researcher. Extract research interests and keywords from scholar profiles to understand expertise. Accelerate literature review and team scouting with unified author insights.

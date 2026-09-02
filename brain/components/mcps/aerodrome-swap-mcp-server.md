@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-18T10:00:23Z"
 ---
 ## What it is
 Integrates with the Aerodrome Swap API to enable token swaps, pool information retrieval, price queries, and quote generation via the MCP framework.

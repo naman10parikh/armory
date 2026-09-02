@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-19T01:31:44Z"
 ---
 ## What it is
 MCP server `Content Manager`, catalogued on PulseMCP. Provides content management capabilities for markdown files with fuzzy and exact search through Fuse.js, frontmatter parsing, HTML rendering, and ten core tools including note searching, tag filtering, date range queries, table of contents generation, and directory statistics for building documentation systems and knowledge base applications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T03:55:55Z"
 ---
 ## What it is
 Agent-Q is an MCP server that separates execution surfaces from signing authority, enabling secure Sui signing flows where the signing device holds keys and policy while requesters submit bounded signing requests through a local host process.

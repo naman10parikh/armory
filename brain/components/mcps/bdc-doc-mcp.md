@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T15:10:33Z"
 ---
 ## What it is
 Provides a documentation search MCP tool (search_docs) that enables AI agents to retrieve relevant chunks from BDC documentation using semantic embeddings and keyword search, with filtering by document type and date.

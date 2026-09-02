@@ -8,10 +8,12 @@ source_url: https://github.com/nodeblue-ai/ignition-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-13T20:13:19Z"
 ---
 ## What it is
 MCP server `Ignition SCADA`, catalogued on PulseMCP. Connect AI agents to Ignition SCADA projects for live tag read/write, perspective views, alarms, scripts, and historical data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T15:10:14Z"
 ---
 ## What it is
 Enables Claude Code to leverage Chinese LLMs for multimodal tasks including image analysis, audio transcription, and deep synthesis via MCP protocol.

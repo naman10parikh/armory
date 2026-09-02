@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-31T14:36:46Z"
 ---
 ## What it is
 A local CrossRef database MCP server enabling full-text search across 167M+ scholarly works, citation analysis, and impact factor retrieval without rate limits or internet dependency.

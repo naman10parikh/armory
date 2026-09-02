@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-05T10:06:08Z"
 ---
 ## What it is
 MCP server `Google Custom Search`, catalogued on PulseMCP. Google Custom Search API integration with full content extraction using Mozilla's Readability algorithm, providing quick snippet search, deep content extraction, and news-optimized search modes.

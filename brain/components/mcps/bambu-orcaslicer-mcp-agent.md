@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T18:52:48Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that acts as a manufacturing consultant for 3D printing, analyzing .3mf print files and recommending optimal settings for speed vs. strength trade-offs.

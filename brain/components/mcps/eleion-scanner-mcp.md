@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T15:36:30Z"
 ---
 ## What it is
 Enables AI agents to register domains, prove ownership, queue security scans (headers, TLS, DNS, ports, tech-fingerprint), and retrieve findings with severity and CVE details via the Eleion Scanner API.

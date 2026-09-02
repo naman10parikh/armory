@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T06:45:45Z"
 ---
 ## What it is
 MCP server `Defined Networking`, catalogued on PulseMCP. Manage Defined Networking hosts, roles, firewall rules, tags, networks, and routes via the defined.net API.

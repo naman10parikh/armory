@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T19:37:18Z"
 ---
 ## What it is
 A local Windows desktop app and MCP server that allows AI assistants to read, search, and draft replies for Gmail, but enforces human confirmation for all destructive actions like sending, deleting, or unsubscribing.

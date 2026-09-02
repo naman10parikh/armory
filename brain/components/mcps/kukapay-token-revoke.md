@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/token-revoke-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-28T13:47:10Z"
 ---
 ## What it is
 MCP server `Token Revoke`, catalogued on PulseMCP. Enables secure management and revocation of ERC20 token allowances across 40+ blockchain networks, helping users protect their assets by controlling which protocols have permission to spend their tokens.

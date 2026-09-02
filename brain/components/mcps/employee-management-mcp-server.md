@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T11:14:47Z"
 ---
 ## What it is
 Enables employee management operations including listing, searching, creating, updating, and deactivating employees, as well as generating organizational summaries, using a synthetic JSON dataset.

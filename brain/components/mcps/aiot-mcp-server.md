@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-26T09:16:21Z"
 ---
 ## What it is
 A Model Context Protocol server for AI agents to discover and control IoT devices through MQTT, using the AIoT Agent Network Protocol for device registration and communication.

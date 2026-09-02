@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:28:24Z"
 ---
 ## What it is
 An MCP server that exposes RS232 serial port connectivity, enabling listing, opening, reading, and writing to serial ports via tools and resources.

@@ -8,10 +8,12 @@ source_url: https://github.com/dannymaaz/easypanel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-25T03:02:35Z"
 ---
 ## What it is
 MCP server `Easypanel`, catalogued on PulseMCP. Controls Easypanel infrastructure through natural language for deploying services, managing projects, and monitoring resources.

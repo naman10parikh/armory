@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-14T10:43:43Z"
 ---
 ## What it is
 MCP server `DevRecord`, catalogued on PulseMCP. Provides structured markdown templates for daily standups, learning notes, meeting records, and project summaries to help developers maintain consistent documentation practices across different development activities.

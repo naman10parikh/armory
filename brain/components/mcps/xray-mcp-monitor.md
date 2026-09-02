@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T15:48:45Z"
 ---
 ## What it is
 MCP server for checking reachability of nodes inside an Xray subscription by fetching subscription URLs, parsing nodes, running TCP probes, and exposing tools for scheduled monitoring.

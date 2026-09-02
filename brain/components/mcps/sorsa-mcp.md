@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T11:34:45Z"
 ---
 ## What it is
 An MCP server for the Sorsa.io API v3 — access to X/Twitter data: profiles, tweets, search, follow/retweet checks, Sorsa scores, lists and communities.

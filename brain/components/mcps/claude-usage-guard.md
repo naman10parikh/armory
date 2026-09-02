@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-03T06:01:27Z"
 ---
 ## What it is
 An MCP server that exposes Claude Code's real-time rate limit usage so that an orchestrator can check remaining capacity before launching subtasks.

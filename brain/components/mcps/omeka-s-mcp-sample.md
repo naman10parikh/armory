@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-04T22:52:12Z"
 ---
 ## What it is
 Integrates Omeka S API with Claude Desktop via MCP, enabling listing, creating items, and uploading media.

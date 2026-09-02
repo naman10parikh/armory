@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T22:44:32Z"
 ---
 ## What it is
 Remote MCP server for CodeQR that lets you create and manage short links and QR codes, retrieve analytics, and more via natural language in ChatGPT and other MCP clients.

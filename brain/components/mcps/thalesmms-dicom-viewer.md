@@ -8,10 +8,12 @@ source_url: https://github.com/thalesmms/dicom-viewer-mcp-app
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-22T04:12:52Z"
 ---
 ## What it is
 MCP server `DICOM Viewer`, catalogued on PulseMCP. Converts DICOM medical imaging files into PNG format and serves them through an interactive web-based viewer with navigation controls, zoom/pan functionality, and metadata display.

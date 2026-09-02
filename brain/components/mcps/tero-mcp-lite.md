@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T04:35:07Z"
 ---
 ## What it is
 A lightweight MCP server that enables querying a project's corpus (docs, decisions, issues, skills) with cited answers and typed refusals via stdio JSON-RPC 2.0.

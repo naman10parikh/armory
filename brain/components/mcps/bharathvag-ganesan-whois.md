@@ -8,10 +8,12 @@ source_url: https://github.com/bharathvaj-ganesan/whois-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-03-15T10:21:52Z"
 ---
 ## What it is
 MCP server `WHOIS`, catalogued on PulseMCP. WHOIS domain lookups

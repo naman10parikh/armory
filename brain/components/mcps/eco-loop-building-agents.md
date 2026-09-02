@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T14:45:01Z"
 ---
 ## What it is
 Autonomous, carbon-aware building management system that pairs EnergyPlus digital twins with LLMs via the Model Context Protocol (MCP) for dynamic HVAC optimization and grid carbon reduction.

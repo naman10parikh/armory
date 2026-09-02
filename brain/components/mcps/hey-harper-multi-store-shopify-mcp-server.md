@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T14:22:39Z"
 ---
 ## What it is
 A remote MCP server that aggregates unfulfilled and needs-attention orders across all five Hey Harper Shopify stores in one connection, using permanent Admin API tokens to avoid per-store OAuth re-authentication.

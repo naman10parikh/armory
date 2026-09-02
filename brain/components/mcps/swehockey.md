@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T10:04:42Z"
 ---
 ## What it is
 Enables AI assistants to look up Swedish ice-hockey data from stats.swehockey.se — schedules & results, standings, team rosters, and season-total scoring & goalie stats.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-14T08:33:40Z"
 ---
 ## What it is
 MCP server `Filesystem`, catalogued on PulseMCP. Go-based filesystem server that provides secure, controlled access to local files and directories through tools for browsing, reading, writing, and manipulating content with robust path validation.

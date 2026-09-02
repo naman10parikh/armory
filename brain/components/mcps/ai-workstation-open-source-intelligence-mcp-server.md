@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T01:36:45Z"
 ---
 ## What it is
 Enables researching, verifying, comparing, and composing open-source AI projects with transparent evidence and uncertainty boundaries through read-only tools.

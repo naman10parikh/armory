@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-10T02:20:55Z"
 ---
 ## What it is
 MCP server `ArcKnowledge (Custom RAG)`, catalogued on PulseMCP. Bridges AI systems to custom knowledge base APIs for retrieval-augmented generation across multiple text and image sources with configurable authentication and processing capabilities.

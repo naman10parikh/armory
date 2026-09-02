@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T19:55:33Z"
 ---
 ## What it is
 Synchronizes Factorio mod API docs to a local SQLite index, enabling search, version comparison, and migration checklists via MCP tools.

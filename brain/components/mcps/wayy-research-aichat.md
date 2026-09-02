@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-26T05:12:10Z"
 ---
 ## What it is
 MCP server `AIChat`, catalogued on PulseMCP. Enables inter-agent communication and coordination for multi-agent Claude Code workflows through shared message boards and agent registries.

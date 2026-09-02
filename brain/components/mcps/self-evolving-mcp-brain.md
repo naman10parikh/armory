@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T20:52:53Z"
 ---
 ## What it is
 A self-updating MCP system that analyzes design and code inputs with an LLM, refines them through conversation, and crystallizes approved patterns into a local skill library for MCP agents.

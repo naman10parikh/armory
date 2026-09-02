@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T01:01:27Z"
 ---
 ## What it is
 Your team's prompt, rules, skills & docs library exposed over MCP (search_library + get_item); mark items "/" and they become slash commands. Free for individuals.

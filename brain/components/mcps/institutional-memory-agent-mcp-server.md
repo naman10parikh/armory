@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T12:58:26Z"
 ---
 ## What it is
 Enables AI agents to query and record SOC analyst reasoning via a knowledge graph, allowing access to institutional memory from Splunk.

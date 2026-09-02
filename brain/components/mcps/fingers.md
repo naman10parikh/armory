@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T15:38:01Z"
 ---
 ## What it is
 Read-only checks on tokens, NFTs, wallets, contracts and tokenized stocks before an agent acts. Honeypot, peg, copycat, wallet risk. Deep Robinhood Chain coverage. Never your keys.

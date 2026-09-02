@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-17T17:09:52Z"
 ---
 ## What it is
 An MCP server for Obsidian that enables canvas creation with auto-layout, BM25-ranked search, vault theme mapping, and 27 tools for managing notes, files, and links.

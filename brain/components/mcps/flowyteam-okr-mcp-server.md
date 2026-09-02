@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T08:54:12Z"
 ---
 ## What it is
 Connect an AI agent to your OKRs. FlowyTeam exposes 33 MCP tools covering OKR objectives, key results, KPI indicators and performance cycles, alongside tasks, projects, HR, attendance, tickets and CRM — one hosted connection for the whole workspace. Supports Claude Desktop, Claude web and mobile, Ch

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T06:11:38Z"
 ---
 ## What it is
 This MCP server assists teachers experiencing educational activity infringements by providing step-by-step guidance grounded in current laws and education office manuals, including tools for drafting statements, searching real-time legal provisions, and connecting to support agencies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T13:57:44Z"
 ---
 ## What it is
 MCP server that lets AI assistants securely operate on local workspaces, including guarded binary and image artifact downloads/uploads on Windows and Linux.

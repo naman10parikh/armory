@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T20:22:46Z"
 ---
 ## What it is
 Enables AI assistants to query and visualize ArcGIS Online/Enterprise geospatial data through natural language, performing spatial analysis and map generation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:06:28Z"
 ---
 ## What it is
 MCP server that exposes Dira ProSuite quality verification to AI assistants, enabling data quality checks on geospatial datasets through natural language.

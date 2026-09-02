@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T14:47:40Z"
 ---
 ## What it is
 Custom MCP server connected to a read-only SQLite database, exposing a schema resource and a query tool for safe data retrieval.

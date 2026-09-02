@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, libraries]
+forks: 5
+pushed_at: "2025-04-10T19:18:36Z"
 ---
 ## What it is
 A NestJS library for implementing Google's Agent-to-Agent (A2A) protocol

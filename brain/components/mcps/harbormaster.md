@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T13:10:42Z"
 ---
 ## What it is
 An authenticated MCP gateway that ingests documents and orchestrates hundreds of tools via progressive discovery, keeping context cost constant. It provides per-user RAG over ingested documents and a 116-tool registry that the model navigates through search, describe, and invoke tools.

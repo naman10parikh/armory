@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:48:46Z"
 ---
 ## What it is
 MCP server that compares Brazilian identity data (CPF, name, birth, address) and returns a similarity score against official records, enabling identity verification through natural language.

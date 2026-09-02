@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T22:40:06Z"
 ---
 ## What it is
 MCP server providing AI agents access to 38 pay-per-call APIs (LLM, image, code, audio, crypto, web, IPFS) via HTTP 402 micropayments in USDC/USDm.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T01:57:57Z"
 ---
 ## What it is
 Enables searching and exploring the dark web (.onion) via a gMCP-compatible server, with tools to search multiple engines, fetch onion pages, check status, and extract links.

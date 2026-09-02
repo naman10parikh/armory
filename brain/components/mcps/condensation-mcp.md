@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T03:10:34Z"
 ---
 ## What it is
 Enables users to assess condensation and mold risk for building surfaces using physics-based calculations (dew point, surface temperature, critical thresholds), with support for real-time weather data and prescription generation.

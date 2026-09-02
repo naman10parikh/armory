@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T15:27:38Z"
 ---
 ## What it is
 MCP server for Stableperp options markets on Solana. Enables AI agents to fetch market liquidity, wallet portfolios, and generate secure trade links for transaction signing.

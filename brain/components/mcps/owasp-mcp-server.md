@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-04-06T21:07:54Z"
 ---
 ## What it is
 A WebSocket-based MCP server for OWASP ZAP security scanning, enabling real-time control and monitoring of security assessments.

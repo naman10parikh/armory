@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-24T20:06:02Z"
 ---
 ## What it is
 MCP server `The Dead Internet`, catalogued on PulseMCP. Creates a complete simulated local internet environment with DNS resolution, identity management, financial systems, social networking, search engine, email, cloud hosting, and autonomous agents framework for testing AI behaviors in a controlled ecosystem.

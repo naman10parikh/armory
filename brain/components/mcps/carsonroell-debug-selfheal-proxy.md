@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-27T20:15:02Z"
 ---
 ## What it is
 MCP server `SelfHeal Proxy`, catalogued on PulseMCP. Self-healing proxy for MCP servers with automatic retry, circuit breaker protection, and call observability.

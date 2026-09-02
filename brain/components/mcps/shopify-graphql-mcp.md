@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T15:18:19Z"
 ---
 ## What it is
 A Model Context Protocol server that provides comprehensive access to the Shopify Admin GraphQL API, enabling AI assistants to manage Shopify stores programmatically.

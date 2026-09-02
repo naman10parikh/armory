@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T10:38:21Z"
 ---
 ## What it is
 Provides shared long-term memory and proactive suggestions across AI coding agents, enabling persistent user preferences and behavior rules that are remembered and applied across different tools. Includes memory capture, recall, extraction, and suggestion tools with a local-first and privacy-focused

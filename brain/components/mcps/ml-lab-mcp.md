@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T16:34:39Z"
 ---
 ## What it is
 Enables LLMs to manage and run machine learning training jobs on a remote server, including syncing code, submitting experiments, monitoring progress, reading TensorBoard metrics, and receiving completion notifications.

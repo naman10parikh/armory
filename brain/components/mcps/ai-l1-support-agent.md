@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:06:47Z"
 ---
 ## What it is
 MCP server for AI-native L1 support: triages tickets, answers from a knowledge base, escalates to L2 via Telegram/GitHub, and manages feedback, with a LangGraph workflow and safety guardrails.

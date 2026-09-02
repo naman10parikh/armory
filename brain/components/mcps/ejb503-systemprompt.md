@@ -8,10 +8,12 @@ source_url: https://github.com/ejb503/systemprompt-mcp-core
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-02-19T14:21:46Z"
 ---
 ## What it is
 MCP server `SystemPrompt`, catalogued on PulseMCP. Integrates with SystemPrompt.io to enable centralized creation, management, and versioning of prompts.

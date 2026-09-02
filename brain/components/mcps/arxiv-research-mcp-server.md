@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T13:36:19Z"
 ---
 ## What it is
 Enables natural language search and analysis of arXiv academic papers with AI-powered relevance ranking, full-text extraction, and support for multiple integrations like Claude and LangChain.

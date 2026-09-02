@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2026-08-03T18:58:04Z"
 ---
 ## What it is
 Next.js-based MCP server with OAuth 2.1 authentication, deployable on Vercel, supporting SSE and Streamable HTTP transports for various clients.

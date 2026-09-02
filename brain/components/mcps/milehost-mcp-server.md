@@ -8,11 +8,13 @@ source_url: https://github.com/Mile-Host/MileHost-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T23:37:26Z"
 ---
 ## What it is
 Enables AI coding agents to manage cloud containers, create and edit files, run commands, and deploy projects directly.

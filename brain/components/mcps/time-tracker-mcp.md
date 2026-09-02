@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T08:04:05Z"
 ---
 ## What it is
 A local MCP server that reads logged hours from an internal time tracker, providing tools to list time entries, projects, and the active timer. It is read-only, enabling Claude Code to see time-tracking data without writing.

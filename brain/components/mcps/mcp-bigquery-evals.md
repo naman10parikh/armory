@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T05:10:45Z"
 ---
 ## What it is
 A BigQuery MCP server with mandatory cost guardrails that dry-run every query before execution, and a measurable accuracy badge from an eval harness.

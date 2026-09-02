@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T12:14:09Z"
 ---
 ## What it is
 Enables AI agents to manage Intercom support workflows, including searching and updating contacts, handling conversations, assigning and closing tickets, and logging notes.

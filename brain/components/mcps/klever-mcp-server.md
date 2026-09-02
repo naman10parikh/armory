@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-19T13:34:32Z"
 ---
 ## What it is
 An MCP server for Klever blockchain smart contract development, providing contextual knowledge including code patterns, best practices, and runtime behavior.

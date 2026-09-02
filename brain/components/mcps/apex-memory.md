@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T22:27:32Z"
 ---
 ## What it is
 Persistent memory for AI coding agents. Enables agents to save and recall decisions, patterns, bugs, and context across sessions via an MCP server with local SQLite storage.

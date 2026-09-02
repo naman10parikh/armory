@@ -12,6 +12,8 @@ stars: 74
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-05-22T15:22:11Z"
 ---
 ## What it is
 MCP server `StackOne Connectors (Disco.dev)`, catalogued on PulseMCP. Monorepo containing MCP connectors for various third-party services like GitHub, Slack, Linear, Notion, and AWS with an automated testing framework that uses Claude Code to discover and test all available tools, generating realistic test data and producing detailed JSON reports with success/failure status and improvement suggestions.

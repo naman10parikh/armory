@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:49:04Z"
 ---
 ## What it is
 MCP server for design kits and brand workflows. Coding agents can browse and apply design systems, create brand projects, and research names, domains, and EUIPO marks.

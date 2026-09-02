@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T21:54:44Z"
 ---
 ## What it is
 Enables verification of AI agent identity, authority, and integrity at transaction time, returning signed verdicts for allow, step-up, review, or block.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:23:05Z"
 ---
 ## What it is
 Solana memecoin rug check and token risk for trading agents in the trenches: pump.fun launches, calibrated rug probability with a published hit rate, sniper, insider and bundle detection, holder clusters, KOL trades, wallet history and a live sellability check for memecoins. Available as a remote MC

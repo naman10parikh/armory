@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-27T17:10:57Z"
 ---
 ## What it is
 MCP server `Finix Payments`, catalogued on PulseMCP. Integrates with Finix payments API to create and manage buyer/seller identities, generate payment links, and search documentation for building payment processing applications and fintech platforms.

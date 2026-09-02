@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T06:11:44Z"
 ---
 ## What it is
 Exposes user, membership, and role administration tools via MCP, acting as a thin passthrough to a coordinator API with RBAC enforced by the coordinator using caller bearer tokens.

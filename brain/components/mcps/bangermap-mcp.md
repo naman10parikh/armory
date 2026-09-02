@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T14:22:46Z"
 ---
 ## What it is
 YouTube outlier research on your own free Data API key. It ranks a channel's uploads by their multiple against that channel's own baseline, with Shorts and long-form scored separately, compares several channels at once, and expands a niche from a seed channel.

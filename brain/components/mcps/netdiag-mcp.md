@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:38:35Z"
 ---
 ## What it is
 MCP server for on-demand network diagnostics, providing DNS lookups with DNSSEC checks, ping, traceroute, TCP port checks, HTTP checks, TLS certificate inspection, WHOIS, and ASN lookups.

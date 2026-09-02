@@ -8,10 +8,12 @@ source_url: https://github.com/kstonekuan/telegram-notification-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-16T22:40:00Z"
 ---
 ## What it is
 MCP server `Telegram Bot API`, catalogued on PulseMCP. Integrates with Telegram's Bot API to send messages and notifications directly through channels or direct messages for automated messaging workflows and conversational bot interactions.

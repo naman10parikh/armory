@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-01-27T00:30:08Z"
 ---
 ## What it is
 Security-enhanced MCP Relay/Proxy server providing real-time AI threat protection for MCP Clients, scanning tool descriptions, call parameters, and responses for threats like prompt injections and malicious URLs.

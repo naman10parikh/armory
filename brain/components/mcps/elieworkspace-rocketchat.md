@@ -8,10 +8,12 @@ source_url: https://github.com/elieworkspace/rocketchat-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-07T17:35:06Z"
 ---
 ## What it is
 MCP server `Rocket.Chat`, catalogued on PulseMCP. Integrates with RocketChat instances to enable team communication through channel management, message sending and retrieval, user information access, and automated notifications for collaborative workflows.

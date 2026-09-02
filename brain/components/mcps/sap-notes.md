@@ -8,10 +8,12 @@ source_url: https://github.com/marianfoo/mcp-sap-notes
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-06-02T11:05:23Z"
 ---
 ## What it is
 MCP server `SAP Notes`, catalogued on PulseMCP. Integrates with SAP's knowledge base using certificate authentication and browser automation to search and retrieve SAP Notes and technical articles for troubleshooting and system administration.

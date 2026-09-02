@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T01:03:08Z"
 ---
 ## What it is
 MCP server for interacting with Aruba Fatturazione Elettronica API, enabling users to manage electronic invoices with Claude, including sending invoices to SDI, searching, downloading, and retrieving invoice details and notifications.

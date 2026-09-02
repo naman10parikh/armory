@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T21:39:37Z"
 ---
 ## What it is
 MCP server `MealMastery`, catalogued on PulseMCP. AI meal planning with weekly plan generation, recipe management, and Kroger grocery list integration.

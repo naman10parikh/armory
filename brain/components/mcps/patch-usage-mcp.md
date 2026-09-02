@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T12:08:54Z"
 ---
 ## What it is
 Enables Claude to read your Patch API budget usage, including spend, burn rate, and account details, directly from chat.

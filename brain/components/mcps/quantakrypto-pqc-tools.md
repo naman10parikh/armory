@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T13:54:29Z"
 ---
 ## What it is
 Post-quantum readiness for AI coding agents: scans code for quantum-vulnerable cryptography (RSA/ECDH/ECDSA/DH) and returns NIST ML-KEM/ML-DSA/SLH-DSA (and hybrid) migration guidance, with fix verification and dependency checks. Content-based, advisory tools only; runs local (npx @quantakrypto/mcp) 

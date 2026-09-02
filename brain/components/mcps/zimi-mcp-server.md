@@ -8,11 +8,13 @@ source_url: https://github.com/epheterson/Zimi
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 43
+stars: 45
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-31T18:28:34Z"
 ---
 ## What it is
 Enables AI agents to search, read, and manage offline knowledge from ZIM files (Kiwix archives) with full-text search, language support, and library management.

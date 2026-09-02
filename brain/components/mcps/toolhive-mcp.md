@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T17:24:34Z"
 ---
 ## What it is
 A hosted HTTP MCP server for Cloudflare Workers that exposes a bundle of tools via a remote /mcp endpoint, enabling Claude-compatible clients to connect without a local server.

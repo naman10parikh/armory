@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T00:16:03Z"
 ---
 ## What it is
 Enables AI agents to manage Indian enterprise systems by providing tools for accounting (TallyPrime), invoicing (Zoho Books), and GST compliance (validation, e-invoice generation, and GSTR-2B reconciliation), with dry-run-first writes and an audit trail.

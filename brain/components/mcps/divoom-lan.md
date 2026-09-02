@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-11T10:22:42Z"
 ---
 ## What it is
 MCP server `Divoom LAN`, catalogued on PulseMCP. MCP server wrapping Divoom watchface LAN APIs to enable AI clients to control Divoom devices, manage watchfaces, and adjust display settings.

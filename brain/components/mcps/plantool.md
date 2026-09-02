@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T18:01:52Z"
 ---
 ## What it is
 An MCP server that interviews users to capture project planning facts into SQLite and enforces mechanical gates to ensure structured progress.

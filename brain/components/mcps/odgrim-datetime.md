@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-05T05:56:10Z"
 ---
 ## What it is
 MCP server `DateTime`, catalogued on PulseMCP. Provides datetime tools for retrieving current time in various timezones, listing available timezones, and accessing datetime resources through URIs, enabling accurate and flexible time-related functionalities across different geographical regions.

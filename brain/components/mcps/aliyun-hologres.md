@@ -8,10 +8,12 @@ source_url: https://github.com/aliyun/alibabacloud-hologres-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-08-05T01:24:09Z"
 ---
 ## What it is
 MCP server `Hologres`, catalogued on PulseMCP. Connects AI systems to Alibaba Cloud's Hologres databases for SQL execution, metadata retrieval, and statistics collection, enabling seamless data analysis workflows.

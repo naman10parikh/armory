@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-06T14:12:53Z"
 ---
 ## What it is
 MCP server `CCX`, catalogued on PulseMCP. Bridges Claude Code with external AI tools through three specialized servers for Gemini CLI integration, SMTP email notifications, and OpenAI Codex CLI session management.

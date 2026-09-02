@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:42:41Z"
 ---
 ## What it is
 A Windows-only MCP server that gives AI models eyes and hands on a Windows machine, enabling file reading, screenshots, mouse/keyboard injection, and an auto-debug loop with a safety-focused watchdog for protected abort regions.

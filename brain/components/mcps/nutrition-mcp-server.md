@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T08:06:17Z"
 ---
 ## What it is
 Enables natural language access to USDA's FoodData Central database with 1M+ foods, supporting search, nutrition facts, food comparison, and daily value calculations.

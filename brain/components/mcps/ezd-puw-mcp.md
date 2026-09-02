@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T13:08:20Z"
 ---
 ## What it is
 MCP server for the EZD PUW electronic document management system of Polish public administration, providing 91 tools covering the full API for documents, cases, correspondence, ePUAP, eDelivery, blockchain, and more.

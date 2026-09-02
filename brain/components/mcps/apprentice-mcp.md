@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T03:40:11Z"
 ---
 ## What it is
 Enables AI assistants to act as apprentices that learn from users through the apprentice effect and spaced repetition, helping users solidify knowledge by teaching.

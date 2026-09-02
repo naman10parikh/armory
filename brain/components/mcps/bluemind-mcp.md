@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:24:19Z"
 ---
 ## What it is
 Read-only MCP server to search and read emails and calendar events from a BlueMind account via the BlueMind REST API.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-05T13:28:44Z"
 ---
 ## What it is
 MCP server `Expense Tracker`, catalogued on PulseMCP. Personal expense tracking system using SQLite that enables adding, categorizing, and analyzing financial transactions with detailed category hierarchies and date-based filtering for spending pattern insights.

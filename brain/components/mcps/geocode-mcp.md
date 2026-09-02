@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T15:46:15Z"
 ---
 ## What it is
 MCP server for geocoding, reverse geocoding, place/POI search, and distance calculation using OpenStreetMap Nominatim, with no API key required.

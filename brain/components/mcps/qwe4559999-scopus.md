@@ -8,10 +8,12 @@ source_url: https://github.com/qwe4559999/scopus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-05-17T06:36:58Z"
 ---
 ## What it is
 MCP server `Scopus`, catalogued on PulseMCP. Provides access to the Elsevier Scopus API for searching academic papers, retrieving abstracts, and looking up author profiles.

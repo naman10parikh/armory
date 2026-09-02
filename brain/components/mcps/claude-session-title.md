@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T04:27:13Z"
 ---
 ## What it is
 Renames Claude Desktop sessions only when explicitly asked, via a single MCP tool that resolves session IDs and updates titles without touching configuration files.

@@ -8,10 +8,12 @@ source_url: https://github.com/timeweb-cloud/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-03T17:24:42Z"
 ---
 ## What it is
 MCP server `Timeweb Cloud`, catalogued on PulseMCP. Manage Timeweb Cloud infrastructure with tools for deploying apps, creating databases, and managing VCS providers.

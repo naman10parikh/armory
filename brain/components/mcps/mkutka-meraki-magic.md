@@ -8,10 +8,12 @@ source_url: https://github.com/ciscodevnet/meraki-magic-mcp-community
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2026-07-17T19:10:19Z"
 ---
 ## What it is
 MCP server `Meraki Magic`, catalogued on PulseMCP. Integrates with Cisco's Meraki Dashboard API to enable network discovery, device management, policy retrieval, and network creation/deletion operations without leaving your conversation context.

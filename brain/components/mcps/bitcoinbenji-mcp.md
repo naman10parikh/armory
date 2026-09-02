@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T14:35:30Z"
 ---
 ## What it is
 MCP server offering 26 Lightning-paid tools for Bitcoin mempool intelligence and sovereign on-prem AI inference, with no third-party APIs and pay-per-call in sats.

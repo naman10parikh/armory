@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:53:24Z"
 ---
 ## What it is
 Give your coding agent the dependency graph it is about to change: scan, diff, explain, audit.

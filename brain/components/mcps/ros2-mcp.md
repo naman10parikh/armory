@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 31
+pushed_at: "2026-07-22T07:13:19Z"
 ---
 ## What it is
 MCP server for AI agents to inspect and control ROS2 graphs, enabling topic listing, node info, service calls, parameter management, and pub/echo without manual ROS2 CLI usage.

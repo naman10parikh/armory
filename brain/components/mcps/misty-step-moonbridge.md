@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T15:34:32Z"
 ---
 ## What it is
 MCP server `Moonbridge`, catalogued on PulseMCP. Spawns Kimi K2.5 agents for parallel execution of up to 10 AI approaches simultaneously, enabling cost-effective exploration of multiple solution strategies with structured responses and timing data.

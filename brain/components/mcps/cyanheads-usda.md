@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T08:17:44Z"
 ---
 ## What it is
 MCP server `USDA FoodData`, catalogued on PulseMCP. Search foods, compare nutrients, and look up the full USDA FoodData Central database.

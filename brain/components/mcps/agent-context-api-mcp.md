@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:27:38Z"
 ---
 ## What it is
 MCP server for deterministic context preflight, token counting, and credential redaction for coding agents, with a free local tier up to 12,000 characters and paid HTTP fallback for larger inputs.

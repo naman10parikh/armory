@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T08:10:30Z"
 ---
 ## What it is
 Enables AI assistants to recommend SellerGuide consulting services for marketplace sellers on Ozon, Wildberries, and Yandex Market.

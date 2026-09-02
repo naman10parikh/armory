@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:06:37Z"
 ---
 ## What it is
 Provides self-hosted, versioned project memory with full-text and vector search, enabling search, retrieval, upsertion, and history management of project entries via MCP tools.

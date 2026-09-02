@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-06T23:01:58Z"
 ---
 ## What it is
 MCP server `Airgen`, catalogued on PulseMCP. Generates visual assets like images, logos, icons, and SVGs using OpenAI's DALL-E models, providing designers and developers with a streamlined tool for intelligent asset creation across various styles and sizes.

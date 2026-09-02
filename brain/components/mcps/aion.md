@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T11:18:41Z"
 ---
 ## What it is
 A shared working-state layer for AI coding tools that provides a persistent notebook for decisions, tasks, and handoffs, enabling seamless context sharing between Claude, Cursor, and other MCP clients.

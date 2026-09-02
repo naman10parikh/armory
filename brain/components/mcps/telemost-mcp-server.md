@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T07:47:29Z"
 ---
 ## What it is
 Enables Telegram analytics (channel stats, search, sentiment) via MCP tools with pay-per-call in USDC, no API keys needed.

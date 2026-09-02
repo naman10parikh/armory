@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:01:53Z"
 ---
 ## What it is
 An MCP server for controlling Voicemeeter (Basic, Banana, or Potato) on Windows: strip and bus gains, mutes, output routing, live levels, macro buttons, presets, and audio-engine restarts.

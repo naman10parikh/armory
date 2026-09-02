@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T00:08:52Z"
 ---
 ## What it is
 ariadne is an MCP (Model Context Protocol) server that provides AI agents with the ability to identify affected tests.(including Android, Backend-Kotlin and more)

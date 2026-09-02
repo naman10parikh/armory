@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T00:43:01Z"
 ---
 ## What it is
 Enables Claude to design system architectures and scaffold minimal Python/Docker implementations, with live D3 visualization in the browser.

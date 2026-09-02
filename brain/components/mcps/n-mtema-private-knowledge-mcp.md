@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T17:17:55Z"
 ---
 ## What it is
 Enables users to build and query a private knowledge base by uploading documents, which are embedded and stored locally, then accessible via MCP for semantic search and retrieval.

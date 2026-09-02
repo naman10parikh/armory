@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T10:21:04Z"
 ---
 ## What it is
 Secure MCP server for Windows to control 3D AI Studio REST API from Codex/Claude Code, with API key injected via 1Password Environments.

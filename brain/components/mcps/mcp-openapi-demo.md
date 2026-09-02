@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-23T13:50:12Z"
 ---
 ## What it is
 MCP server for the Petstore API enabling LLMs to find pets by status via function calling.

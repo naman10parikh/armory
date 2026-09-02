@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-21T17:06:22Z"
 ---
 ## What it is
 MCP server `GDPR Shift-Left Compliance`, catalogued on PulseMCP. Integrates GDPR compliance into the development lifecycle with article lookup, DPIA evaluation, ROPA generation, data subject rights guidance, and infrastructure-as-code analysis.

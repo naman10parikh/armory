@@ -8,11 +8,13 @@ source_url: https://github.com/e2b-dev/desktop
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1455
+stars: 1461
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, e2b]
+forks: 179
+pushed_at: "2026-09-02T00:03:28Z"
 ---
 ## What it is
 E2B Desktop Sandbox — cloud virtual desktop (Ubuntu + VNC) with Python SDK for screenshot, mouse, keyboard, and process control; designed for AI agents that need a full GUI environment in an isolated VM.

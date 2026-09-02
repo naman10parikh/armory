@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T02:20:10Z"
 ---
 ## What it is
 Gives AI agents access to financial data including SEC EDGAR filings, market fundamentals, insider trades, and price history without API keys.

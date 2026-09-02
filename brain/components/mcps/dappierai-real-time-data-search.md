@@ -8,10 +8,12 @@ source_url: https://github.com/dappierai/dappier-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-06-27T08:49:05Z"
 ---
 ## What it is
 MCP server `Dappier (Real-Time Data Search)`, catalogued on PulseMCP. Connects AI assistants to real-time, rights-cleared data from trusted sources through search and recommendation tools for retrieving web results, financial information, and personalized content without leaving the conversation interface.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-13T18:38:49Z"
 ---
 ## What it is
 MCP server `Redfish`, catalogued on PulseMCP. Integrates with Redfish server management APIs to enable natural language control of BMCs and server hardware through endpoint discovery, resource querying, configuration updates, and action execution for data center infrastructure management.

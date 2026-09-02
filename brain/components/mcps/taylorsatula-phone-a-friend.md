@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-02T16:34:16Z"
 ---
 ## What it is
 MCP server `Phone-a-Friend`, catalogued on PulseMCP. Enables real-time communication between Claude instances through a centralized hub server for collaborative problem-solving.

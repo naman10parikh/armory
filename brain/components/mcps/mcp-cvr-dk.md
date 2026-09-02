@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T00:29:06Z"
 ---
 ## What it is
 Enables querying the Danish Central Business Register (CVR) for company data through an MCP server.

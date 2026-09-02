@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T13:19:01Z"
 ---
 ## What it is
 A safe, read-only MCP server for local development databases (PostgreSQL and SQLite) that provides guarded introspection tools like schema listing, sample rows, and explain plans with column masking and query budgets.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T14:15:51Z"
 ---
 ## What it is
 An MCP server that provides on-demand safety for AI coding workflows, enabling inspection, review, checkpointing, and rollback of risky actions.

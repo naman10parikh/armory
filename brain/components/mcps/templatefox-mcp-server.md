@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T15:14:53Z"
 ---
 ## What it is
 Enables AI assistants to generate PDFs from templates using dynamic data, manage async PDF jobs, list templates, and check account credits and transaction history through natural language.

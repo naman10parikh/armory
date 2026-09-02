@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T09:32:35Z"
 ---
 ## What it is
 Enables AI clients to read and write Shoplazza store data (products, orders, customers, inventory, discounts, webhooks) via the Shoplazza OpenAPI, with multi-store support and 311 endpoint coverage.

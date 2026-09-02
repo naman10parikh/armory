@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T13:35:47Z"
 ---
 ## What it is
 Provides MCP tools and a local HTTP API to incrementally synchronize Codex conversations into a structured thinking canvas with AI-automated picking and manual override.

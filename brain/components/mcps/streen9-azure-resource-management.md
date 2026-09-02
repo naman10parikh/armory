@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-07-03T19:24:58Z"
 ---
 ## What it is
 MCP server `Azure Resource Management`, catalogued on PulseMCP. Integrates with Azure services to enable cloud resource management, including provisioning virtual machines, configuring networks, and monitoring subscriptions.

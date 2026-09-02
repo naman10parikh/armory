@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-25T13:47:20Z"
 ---
 ## What it is
 An MCP server that watches for screen recordings, transcribes spoken feedback locally, and attaches each comment to the relevant frame, enabling coding agents to see and fix the issues you mention.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-14T05:54:35Z"
 ---
 ## What it is
 MCP server `QR Maker`, catalogued on PulseMCP. Generate styled QR codes, manage dynamic short links with analytics, and publish micro-landing pages via AI.

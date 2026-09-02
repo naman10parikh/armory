@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T13:42:42Z"
 ---
 ## What it is
 Connects AI assistants and agentic frameworks to the Graphor API, enabling graph-based operations through natural language.

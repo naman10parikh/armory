@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-10T05:23:07Z"
 ---
 ## What it is
 MCP server `OXC AST Parser`, catalogued on PulseMCP. Provides direct access to the OXC JavaScript/TypeScript parser for parsing code into ASTs, validating syntax and semantics, and exploring AST node documentation with regex filtering.

@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-04T06:48:49Z"
 ---
 ## What it is
 MCP server `SAGE Universal AI Assistant`, catalogued on PulseMCP. Universal development assistant that automatically selects optimal models across OpenAI, Anthropic, Google Gemini, OpenRouter, and local Ollama based on task complexity through eight specialized modes (chat, analyze, review, debug, plan, test, refactor, think) with conversation memory and flexible file handling.

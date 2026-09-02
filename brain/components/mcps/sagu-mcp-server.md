@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T20:09:39Z"
 ---
 ## What it is
 Connects AI agents to Sagu radars, pings, and artifacts for intelligence operations, enabling radar search, context packet export, and artifact management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T06:13:07Z"
 ---
 ## What it is
 Enables AI assistants to control a desktop virtual character (VRM) by playing animations, showing/hiding the character, and checking runtime status through the MCP protocol.

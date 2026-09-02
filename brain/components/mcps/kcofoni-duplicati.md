@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T16:58:30Z"
 ---
 ## What it is
 MCP server `Duplicati`, catalogued on PulseMCP. Manage Duplicati backup jobs — list, run, and monitor backups and configure job settings.

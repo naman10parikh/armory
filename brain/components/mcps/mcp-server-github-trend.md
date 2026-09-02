@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T04:24:00Z"
 ---
 ## What it is
 Provides GitHub open-source intelligence via MCP tools for discovering trends, evaluating repository health, comparing projects, and analyzing users, issues, and releases. It includes a CLI and can be used with AI assistants like Claude or Cursor.

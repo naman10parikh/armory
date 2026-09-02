@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-04T04:49:16Z"
 ---
 ## What it is
 MCP server `Mermaid Validator`, catalogued on PulseMCP. Validates Mermaid diagram syntax and renders diagrams as SVG images with detailed error reporting.

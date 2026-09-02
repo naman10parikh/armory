@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T02:50:14Z"
 ---
 ## What it is
 Connects AI agents to StockUp Quan's financial reasoning models with real-time stock data from Yahoo Finance, enabling grounded financial analysis and queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:52:28Z"
 ---
 ## What it is
 Enables MCP clients to serve and query semantic models, providing tools for entity descriptions, metric lookups, context resolution, and operation validation for AI agents.

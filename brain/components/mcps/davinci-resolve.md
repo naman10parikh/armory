@@ -8,11 +8,13 @@ source_url: https://github.com/apvlv/davinci-resolve-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 2
+forks: 5
+pushed_at: "2026-04-07T02:46:35Z"
 ---
 ## What it is
 MCP server `DaVinci Resolve`, catalogued on PulseMCP. Enables Claude to directly interact with and control DaVinci Resolve through its Python API, providing tools for project management, timeline manipulation, media organization, and Fusion integration.

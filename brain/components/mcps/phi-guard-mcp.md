@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-26T19:32:16Z"
 ---
 ## What it is
 MCP server and CLI for detecting, redacting, and auditing PHI in medical text before it is sent to AI agents, with tools for scan, redact, audit, and validate operations.

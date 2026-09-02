@@ -8,10 +8,12 @@ source_url: https://github.com/shige152/autogo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-25T07:35:46Z"
 ---
 ## What it is
 MCP server `AutoGo`, catalogued on PulseMCP. Expose AutoGo SDK and ADB workflows to AI assistants for running projects, managing device connections, and reading logs and screen nodes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T00:24:16Z"
 ---
 ## What it is
 A read-only MCP server for BambooHR that enables safe AI assistant access to employee records, time-off, files, and directories via natural language queries.

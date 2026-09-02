@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T10:40:52Z"
 ---
 ## What it is
 Enables comparing Ruby hash literals and converting Ruby hashes to JSON with deterministic diff reports, running locally for privacy.

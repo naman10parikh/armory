@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T17:54:10Z"
 ---
 ## What it is
 A Facebook/Messenger MCP server that lets AI agents read and engage with profiles, pages, posts, comments, groups, Messenger conversations, notifications, and events using the user's existing browser session cookies — no Graph API app, tokens, or browser automation required. It supports multi-accoun

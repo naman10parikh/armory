@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T09:55:15Z"
 ---
 ## What it is
 Proxies Google Stitch MCP endpoint, injecting the API key from environment variable for secure access.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T04:35:38Z"
 ---
 ## What it is
 Recommends fair and enjoyable meeting places for group gatherings by balancing travel distance equity and nearby amenities like restaurants, cafes, and cultural facilities.

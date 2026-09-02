@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T04:01:40Z"
 ---
 ## What it is
 Enables management of Eudic dictionary wordbooks, including categories and words, directly from MCP-compatible clients like Claude Desktop.

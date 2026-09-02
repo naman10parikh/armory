@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-02T07:10:16Z"
 ---
 ## What it is
 MCP server `CellPilot`, catalogued on PulseMCP. Provides comprehensive Excel file manipulation using NPOI library for creating workbooks, reading and writing cells, managing sheets, and performing operations like row insertion, column deletion, and cell merging without requiring Microsoft Office installation.

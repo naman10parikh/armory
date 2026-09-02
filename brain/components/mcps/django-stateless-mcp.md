@@ -8,11 +8,13 @@ source_url: https://github.com/Streamlined-Analytics/django-stateless-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T08:01:42Z"
 ---
 ## What it is
 Stateless MCP server for Django, enabling Django applications to interact via the Model Context Protocol.

@@ -8,11 +8,13 @@ source_url: https://github.com/QYmag1c/ida-pro-mcp-multi
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-12T13:21:57Z"
 ---
 ## What it is
 Extends IDA Pro with multi-instance support and vulnerability scanning for AI-assisted reverse engineering.

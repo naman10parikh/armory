@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T22:09:28Z"
 ---
 ## What it is
 Enables searching and retrieving details of over 500,000 Spanish government grants and subsidies from the official BDNS database, without requiring an API key.

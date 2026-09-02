@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T02:53:07Z"
 ---
 ## What it is
 Turns financial documents into AI-generated investment briefs by exposing banking tools like search financials, compare companies, and risk flagging as an MCP server, allowing an LLM agent to discover and use them dynamically.

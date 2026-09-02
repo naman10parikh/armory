@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T04:32:14Z"
 ---
 ## What it is
 Enables MCP clients like Claude and Codex to interact with HackerOne's API to list and get reports, programs, and scopes.

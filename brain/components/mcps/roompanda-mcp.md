@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T15:59:19Z"
 ---
 ## What it is
 Enables AI agents to search availability, price rooms, and make real bookings via the Roompanda API, scoped to a single property by the API key.

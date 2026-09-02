@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-17T07:01:58Z"
 ---
 ## What it is
 MCP server `LangGraph Nutrition Analyzer`, catalogued on PulseMCP. Analyzes food images using Google Gemini and Nutritionix API to identify ingredients with quantity estimation and retrieve detailed nutritional information including calories and protein content for dietary tracking and meal analysis.

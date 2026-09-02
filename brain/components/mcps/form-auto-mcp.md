@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T15:15:06Z"
 ---
 ## What it is
 Automates internal system form submissions by reading data from Excel/CSV or Google Sheets and using Playwright to navigate menus and fill form fields, with support for both visible and headless modes.

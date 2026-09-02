@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-24T01:30:27Z"
 ---
 ## What it is
 MCP server `Google Calendar`, catalogued on PulseMCP. Integrates with Google Calendar to enable event creation with customizable parameters including time, description, location, attendees, and timezone through OAuth authentication and API interaction.

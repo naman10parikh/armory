@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T06:02:52Z"
 ---
 ## What it is
 Remote MCP server for word definitions and random word retrieval via Oxford Dictionaries API, deployable on Vercel with bearer token authentication.

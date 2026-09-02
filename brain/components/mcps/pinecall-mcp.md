@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T20:22:57Z"
 ---
 ## What it is
 Enables coding agents to build, test, and deploy production voice agents with real phone numbers directly from the editor, including live call monitoring and sandboxed development.

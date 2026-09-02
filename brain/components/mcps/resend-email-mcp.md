@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:41:28Z"
 ---
 ## What it is
 The most complete Resend MCP server — full coverage of the Resend API (emails, domains, contacts, broadcasts, templates, segments, topics, webhooks, logs) plus a unique debug/diagnostics layer no other Resend MCP offers: deliverability analysis, DNS troubleshooting, email lifecycle inspection, bounc

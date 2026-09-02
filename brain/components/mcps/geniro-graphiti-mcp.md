@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T19:30:28Z"
 ---
 ## What it is
 A Model Context Protocol server that provides Claude CLI with a Graphiti knowledge-graph memory backed by Neo4j, featuring synchronous writes and no silent ingestion failures.

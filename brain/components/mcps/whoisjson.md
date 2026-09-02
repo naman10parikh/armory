@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T08:50:05Z"
 ---
 ## What it is
 MCP server `WhoisJSON`, catalogued on PulseMCP. WHOIS, DNS, SSL, and domain availability lookups via the WhoisJSON API.

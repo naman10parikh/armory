@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T07:22:24Z"
 ---
 ## What it is
 Enables administrators to manage a FeedbackServer instance through MCP, including agent account configuration, admin invitations, and token revocation.

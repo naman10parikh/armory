@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T23:04:20Z"
 ---
 ## What it is
 Provides access to the FBI National Stolen Art File (free, no auth) for querying stolen art data through natural language.

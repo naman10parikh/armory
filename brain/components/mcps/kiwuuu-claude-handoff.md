@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-18T07:58:42Z"
 ---
 ## What it is
 MCP server `Claude Design Handoff`, catalogued on PulseMCP. Fetch, inspect, and deploy Claude Design handoff bundles directly from development tools.

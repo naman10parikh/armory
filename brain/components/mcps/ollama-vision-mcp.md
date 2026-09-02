@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T04:44:36Z"
 ---
 ## What it is
 Enables text-only AI models to analyze images via local Ollama multimodal models. Supports image analysis, OCR, and multi-image comparison entirely offline.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T11:24:03Z"
 ---
 ## What it is
 MCP server that allows AI agents to control a live ArcMap session via arcpy, including listing layers, zooming, exporting maps, and viewing the canvas, specifically for legacy ArcMap 10.4-10.8.

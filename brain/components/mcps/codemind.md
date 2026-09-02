@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-18T18:24:59Z"
 ---
 ## What it is
 Enables GitHub Copilot to understand and navigate your codebase with 20 tools for search, context, dependencies, and safety checks across projects.

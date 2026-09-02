@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-09T21:54:58Z"
 ---
 ## What it is
 Enables AI agents to use email, instant messaging, and cloud file storage via MCP tools, giving each agent a verified identity with its own email address, real-time chat, and file sharing capabilities.

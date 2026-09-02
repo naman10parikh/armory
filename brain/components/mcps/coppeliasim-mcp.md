@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:29:49Z"
 ---
 ## What it is
 An MCP server that lets Claude Code or any MCP client drive a running CoppeliaSim 4.10 simulation--building scenes, moving objects, creating joints and proximity sensors, running simulations, and reading sensors--without exposing arbitrary Lua execution.

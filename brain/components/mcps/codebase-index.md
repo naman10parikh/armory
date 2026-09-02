@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T12:03:24Z"
 ---
 ## What it is
 AST-aware codebase indexing with semantic search, exposed as an MCP server. Enables semantic search and file context retrieval across your codebase using natural language queries.

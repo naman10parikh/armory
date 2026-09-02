@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T03:58:05Z"
 ---
 ## What it is
 MCP server `GDB Server`, catalogued on PulseMCP. Remote debugging with gdbserver — breakpoints, stepping, memory inspection, and thread management.

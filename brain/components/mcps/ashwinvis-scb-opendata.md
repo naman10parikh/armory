@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-24T16:00:57Z"
 ---
 ## What it is
 MCP server `SCB Open Data`, catalogued on PulseMCP. Provides access to Statistics Sweden's PxWebApi v2 for browsing, searching, and retrieving Swedish statistical data.

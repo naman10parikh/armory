@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T17:12:29Z"
 ---
 ## What it is
 Semantic product search and price-intelligence API over Singapore e-commerce data. Computes auditable value-scores from Shannon entropy across vendor price distributions, with pay-per-call pricing via x402 (USDC) alongside Stripe.

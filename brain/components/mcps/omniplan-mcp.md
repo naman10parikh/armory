@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T00:29:16Z"
 ---
 ## What it is
 Enables natural language control of OmniPlan 4 on macOS, allowing creation and manipulation of tasks, resources, dependencies, and project metadata through MCP-compatible agents.

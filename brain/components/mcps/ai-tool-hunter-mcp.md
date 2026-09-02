@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T11:52:37Z"
 ---
 ## What it is
 Exposes AI Tool Hunter's search as an MCP tool, enabling users to find AI tools by use case and list categories through their IDE or AI assistant.

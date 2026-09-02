@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T01:46:46Z"
 ---
 ## What it is
 An MCP server that adds real-time web research to Claude Desktop using Gemini 2.5 Flash with native Google Search grounding.

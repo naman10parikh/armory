@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-30T14:33:17Z"
 ---
 ## What it is
 MCP server that wraps TaskWarrior command-line tool. Provides 22 tools for task management, GTD workflow, and habit tracking.

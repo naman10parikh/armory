@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T02:55:43Z"
 ---
 ## What it is
 A local MCP server for querying Chinese scientific literature from the CSL dataset, enabling paper search, detail retrieval, and dataset statistics via MCP clients.

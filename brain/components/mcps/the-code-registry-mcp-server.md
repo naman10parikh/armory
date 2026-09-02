@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T21:49:59Z"
 ---
 ## What it is
 Enterprise-grade code intelligence server for AI assistants that analyzes codebases for due diligence, tech debt, security vulnerabilities, and code quality.

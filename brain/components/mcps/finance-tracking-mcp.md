@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T07:53:11Z"
 ---
 ## What it is
 Tracks personal expenses with tools to add, edit, and summarize expenses, storing data locally in SQLite.

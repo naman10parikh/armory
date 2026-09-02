@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:22:24Z"
 ---
 ## What it is
 Verifies whether a Brazilian citizen receives the Benefício de Prestação Continuada (BPC) using CPF and NIS, with read-only access via a hosted MCP endpoint.

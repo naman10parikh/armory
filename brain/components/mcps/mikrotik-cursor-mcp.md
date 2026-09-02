@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-19T22:20:28Z"
 ---
 ## What it is
 Enables natural language management of MikroTik routers through Cursor IDE by translating requests into RouterOS commands via API or SSH.

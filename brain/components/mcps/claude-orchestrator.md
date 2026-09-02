@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T23:49:58Z"
 ---
 ## What it is
 Enables spawning and managing multiple Claude Code agents in parallel with model selection, live tracking via a kanban dashboard, and consolidated answers back in the chat.

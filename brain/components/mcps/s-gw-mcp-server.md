@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-29T17:17:27Z"
 ---
 ## What it is
 A local stdio MCP server that enables coding agents to discover credential handles and create scoped action requests with local approval and sanitized output.

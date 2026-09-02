@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T05:45:45Z"
 ---
 ## What it is
 Enables compliance checking and risk forecasting for the EU Platform Workers Directive (2024/2831), including employment-status presumption, algorithmic management disclosure, and human oversight.

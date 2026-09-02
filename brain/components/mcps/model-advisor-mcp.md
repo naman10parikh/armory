@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-11T18:05:39Z"
 ---
 ## What it is
 Helps LLMs choose the best AI model for each coding agent by fetching real-time data from OpenCode subscriptions and matching with benchmarks and reasoning capabilities from OpenRouter.

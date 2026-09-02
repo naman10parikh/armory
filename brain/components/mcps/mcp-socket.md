@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T11:49:10Z"
 ---
 ## What it is
 Stateful outbound TCP/UDP MCP server enabling LLMs to perform multi-step network protocols like HTTP/1.x, SMTP, Redis, and DNS.

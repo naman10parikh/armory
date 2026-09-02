@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-07T12:02:18Z"
 ---
 ## What it is
 A local-first personal AI agent infrastructure that extends Claude Desktop with tools for Google services, web scraping, local memory, knowledge upload, and dynamic workflows via MCP.

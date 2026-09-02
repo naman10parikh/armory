@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T18:49:52Z"
 ---
 ## What it is
 MCP server that lets any LLM client query the Home Credit Default Risk SQLite database (307,511 loan applications) through 7 read-only tools, 4 resources, and 1 prompt over stdio, with natural language, SQL, and tool-calling interfaces.

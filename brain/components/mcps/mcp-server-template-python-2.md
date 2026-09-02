@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T08:54:49Z"
 ---
 ## What it is
 A minimal MCP server template with Streamable HTTP transport, bearer token authentication, and a health check endpoint, designed for quick deployment on Render. It provides an example tool and is meant to be forked and customized with your own tools.

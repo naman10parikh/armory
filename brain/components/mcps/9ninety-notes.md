@@ -12,6 +12,8 @@ stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-01T19:42:52Z"
 ---
 ## What it is
 MCP server `Notes`, catalogued on PulseMCP. Integrates note-taking capabilities with AI models using TypeScript and DynamoDB for persistent memory and context management in applications.

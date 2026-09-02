@@ -8,10 +8,12 @@ source_url: https://github.com/jaklys/lvgl-mcp-esp32
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-08T00:59:30Z"
 ---
 ## What it is
 MCP server `LVGL ESP32 Simulator`, catalogued on PulseMCP. Headless LVGL simulator for ESP32 UI development that compiles C code, renders PNG screenshots, and exports widget trees without physical hardware.

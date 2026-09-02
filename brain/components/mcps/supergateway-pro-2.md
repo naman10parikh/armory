@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T11:34:54Z"
 ---
 ## What it is
 Enables centralized MCP server management with connection pooling, a live activity dashboard, and macOS menu bar integration for AI coding agents.

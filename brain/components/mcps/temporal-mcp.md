@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T17:56:16Z"
 ---
 ## What it is
 Provides AI agents with read-only access to Temporal infrastructure through 28 tools, plus an Agent Skill with expert guidance for writing correct Temporal code.

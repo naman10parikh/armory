@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T14:36:00Z"
 ---
 ## What it is
 An MCP server for querying Historic Environment Records across England and Scotland, enabling searches of listed buildings, monuments, and heritage sites via ArcGIS REST APIs.

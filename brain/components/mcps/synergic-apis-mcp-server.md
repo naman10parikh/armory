@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T19:46:33Z"
 ---
 ## What it is
 MCP server providing official US economic data including CPI inflation, famous prices, national debt, and Treasury interest rates. Enables AI agents to query historical and latest economic statistics via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T12:21:03Z"
 ---
 ## What it is
 Enables vision capabilities for OpenCode by analyzing local images (PNG, JPG, WebP, GIF, HEIC, SVG) using the Google Gemini API.

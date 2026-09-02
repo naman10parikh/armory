@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:37:29Z"
 ---
 ## What it is
 An MCP server for PickUp Patrol that lets you read and change children's school dismissal plans, including weekly defaults, one-off date changes, and school dismissal options.

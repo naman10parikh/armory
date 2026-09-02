@@ -8,11 +8,13 @@ source_url: https://github.com/Sacode/firecrawl-simple-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-08T16:01:33Z"
 ---
 ## What it is
 Empowers LLMs to scrape web pages and generate sitemaps through the Firecrawl Simple API, with support for JavaScript rendering and configurable options.

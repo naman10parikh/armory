@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T08:05:09Z"
 ---
 ## What it is
 MCP server for AI agent compliance that screens actions before execution and records decisions in an immutable, SIEM-ready audit trail.

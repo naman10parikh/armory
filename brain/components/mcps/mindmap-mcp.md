@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T06:15:39Z"
 ---
 ## What it is
 A local MCP server that combines a browser mind map UI with a Streamable HTTP MCP endpoint, letting AI agents create, edit, and manage mind maps in real time through tools like mindmap_apply_op.

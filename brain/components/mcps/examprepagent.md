@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-06T22:26:40Z"
 ---
 ## What it is
 An MCP server that provides tools to search for study questions and answers from a knowledge base, enabling exam preparation through random questions and guided learning.

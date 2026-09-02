@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T23:04:34Z"
 ---
 ## What it is
 Enables querying Merriam-Webster's Collegiate Dictionary and thesaurus via natural language, providing definitions, synonyms, and related word data.

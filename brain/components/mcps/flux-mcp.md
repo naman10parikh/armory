@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T23:57:16Z"
 ---
 ## What it is
 Provides agentic MCP tools for the Flux Framework, enabling job submission, management, and resource scheduling for HPC workloads.

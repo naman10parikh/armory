@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:47Z"
 ---
 ## What it is
 MCP server for querying negative certificates of court proceedings (Certidão Negativa de Feitos) from MPT DF e TO via official sources, with prepaid credit and read-only access.

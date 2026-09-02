@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-05-06T07:36:14Z"
 ---
 ## What it is
 MCP server `Google Toolbox`, catalogued on PulseMCP. Integrates with Google services including Gmail, Calendar, Drive, and Search through OAuth 2.0 authentication, enabling email management, scheduling, document access, and web information retrieval.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-18T07:19:43Z"
 ---
 ## What it is
 MCP server `Ant Design Vue`, catalogued on PulseMCP. Provides structured access to Ant Design Vue component documentation with full-text search, component listing, API specification retrieval, and prop lookup powered by a SQLite database.

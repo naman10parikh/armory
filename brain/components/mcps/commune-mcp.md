@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T10:01:34Z"
 ---
 ## What it is
 Give Claude (or any MCP client) a real email inbox and SMS. Your AI agent can read and send email, manage inboxes, track delivery, and handle SMS.

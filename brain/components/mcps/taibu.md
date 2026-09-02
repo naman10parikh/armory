@@ -8,11 +8,13 @@ source_url: https://github.com/hhszzzz/taibu
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 485
+stars: 516
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 106
+pushed_at: "2026-08-01T10:15:02Z"
 ---
 ## What it is
 Enables traditional Chinese metaphysics tools like Bazi, Ziwei, and Qimen via MCP, integrating AI analysis for divination and fortune-telling.

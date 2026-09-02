@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T22:02:08Z"
 ---
 ## What it is
 An MCP server for Google Business Profile that enables managing accounts, locations, reviews, posts, media, Q&A, and insights through simple JSON tools.

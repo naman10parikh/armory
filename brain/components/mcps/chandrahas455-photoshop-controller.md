@@ -8,10 +8,12 @@ source_url: https://github.com/chandrahas455/psmcp-mcp-server-for-photoshop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-30T05:03:10Z"
 ---
 ## What it is
 MCP server `Adobe Photoshop Controller`, catalogued on PulseMCP. Enables direct control of Adobe Photoshop through natural language commands for manipulating layers, text, images, and effects without switching contexts.

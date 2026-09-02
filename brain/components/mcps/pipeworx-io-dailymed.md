@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:52:30Z"
 ---
 ## What it is
 MCP server `DailyMed`, catalogued on PulseMCP. Query FDA drug label information (Structured Product Labels) from DailyMed, the official NLM drug information database.

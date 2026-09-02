@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T15:19:13Z"
 ---
 ## What it is
 MCP server `Sourcebook`, catalogued on PulseMCP. Live codebase intelligence for AI agents — conventions, blast radius analysis, import graphs, and git insights.

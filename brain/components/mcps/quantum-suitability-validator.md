@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-19T03:49:18Z"
 ---
 ## What it is
 MCP server `Quantum Suitability Validator`, catalogued on PulseMCP. AI triage for quantum computing proposals: screen projects for technical suitability before budget allocation.

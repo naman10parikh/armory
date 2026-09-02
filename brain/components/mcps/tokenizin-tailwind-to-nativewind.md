@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2024-12-21T05:36:24Z"
 ---
 ## What it is
 MCP server `Tailwind to NativeWind`, catalogued on PulseMCP. Transforms Tailwind components to NativeWind 4 for React Native.

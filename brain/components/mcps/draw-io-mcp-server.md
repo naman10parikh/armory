@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T17:50:13Z"
 ---
 ## What it is
 Enables AI assistants to create and edit draw.io diagrams programmatically, supporting a wide range of diagram types and styles.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-29T14:58:04Z"
 ---
 ## What it is
 Unified social media API for AI agents, enabling access to Facebook pages, groups, and posts with tools for page details, posts, reels, comments, and more.

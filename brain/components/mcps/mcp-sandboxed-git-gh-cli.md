@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T21:45:18Z"
 ---
 ## What it is
 Runs git and GitHub CLI commands outside the macOS sandbox to bypass sandbox restrictions like SSH signing and TLS issues.

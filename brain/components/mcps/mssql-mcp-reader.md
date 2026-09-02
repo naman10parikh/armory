@@ -8,11 +8,13 @@ source_url: https://github.com/ConnorBritain/mssql-mcp-reader
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T21:36:02Z"
 ---
 ## What it is
 Read-only Model Context Protocol server for Microsoft SQL Server, enabling safe schema discovery, profiling, and querying with zero risk of data modification.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T01:28:47Z"
 ---
 ## What it is
 A Claude Code extension that embeds a senior athenahealth integration engineer in your development workflow, proactively catching data loss bugs and guiding safe DataView queries and API integrations.

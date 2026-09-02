@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T16:24:49Z"
 ---
 ## What it is
 Self-hosted server that generates and serves Universal Context Packages (UCP) to AI agents via MCP, turning complex issue threads into structured, verifiable context.

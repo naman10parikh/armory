@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-31T22:08:20Z"
 ---
 ## What it is
 A single MCP server that fronts many downstream MCP servers and Skills, exposing only four tools (search, call_tool, use_skill, admin) so that an agent's context window only ever sees search results on demand.

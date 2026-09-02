@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-30T05:24:11Z"
 ---
 ## What it is
 An MCP server for tracking student learning via a knowledge graph, with spaced repetition scheduling and intelligent queries to identify gaps, misconceptions, and optimal next steps.

@@ -8,10 +8,12 @@ source_url: https://github.com/derekprovance/lifeup-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-23T18:36:12Z"
 ---
 ## What it is
 MCP server `LifeUp`, catalogued on PulseMCP. Connects to LifeUp gamification app on Android devices over local network to manage tasks, achievements, shop items, and track user progress for productivity workflows.

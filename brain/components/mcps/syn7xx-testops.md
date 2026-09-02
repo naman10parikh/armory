@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-27T12:29:10Z"
 ---
 ## What it is
 MCP server `TestOps`, catalogued on PulseMCP. Manages test cases, test runs, and defect tracking through a test operations platform.

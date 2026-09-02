@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:56:00Z"
 ---
 ## What it is
 MCP server for querying French legislation and case law via the Legifrance API, enabling search and retrieval of laws, codes, and court decisions with verifiable citations.

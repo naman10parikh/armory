@@ -8,11 +8,13 @@ source_url: https://github.com/tiefeiyu/qt-commander
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T03:54:05Z"
 ---
 ## What it is
 MCP server for automating and introspecting native Qt applications (QWidget and QML) without source changes. Enables AI agents to control running Qt apps through UI snapshots, element lookup, and real input simulation.

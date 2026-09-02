@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T13:02:25Z"
 ---
 ## What it is
 An MCP server that provides AI assistants with real-time access to Inductive Automation Ignition documentation, enabling accurate answers on Ignition-specific topics by searching live docs and fetching full pages.

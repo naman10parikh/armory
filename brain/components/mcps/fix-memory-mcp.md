@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T03:22:06Z"
 ---
 ## What it is
 Local-first error memory for AI coding agents, enabling them to search past fixes before attempting new repairs and save verified cases as Markdown.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T13:19:09Z"
 ---
 ## What it is
 MCP server that enables AI agents to create, edit, validate, and export single-file HTML text adventure games using JSON story data and MCP tools.

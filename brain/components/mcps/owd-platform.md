@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T07:34:44Z"
 ---
 ## What it is
 Owner-controlled continuity layer for Obsidian and AI agents, enabling cited handoffs and owner decisions across independent agents.

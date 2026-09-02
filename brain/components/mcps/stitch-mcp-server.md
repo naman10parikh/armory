@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T08:04:37Z"
 ---
 ## What it is
 Enables AI coding assistants to generate, edit, and scaffold HTML UIs from natural language using Google Stitch API.

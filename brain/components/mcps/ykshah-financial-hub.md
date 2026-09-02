@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-17T03:03:45Z"
 ---
 ## What it is
 MCP server `Financial Hub`, catalogued on PulseMCP. SEC EDGAR filings, XBRL financials, FRED economic data, and real-time market quotes.

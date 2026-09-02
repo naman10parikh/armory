@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T15:44:57Z"
 ---
 ## What it is
 Enables fuzzy searching and browsing of Slack messages, users, and channels via CLI or MCP server integration.

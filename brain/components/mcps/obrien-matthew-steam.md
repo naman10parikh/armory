@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T02:16:09Z"
 ---
 ## What it is
 MCP server `Steam by obrien-matthew`, catalogued on PulseMCP. Integrates with the Steam Web API for gaming library management, achievements, statistics, and store discovery.

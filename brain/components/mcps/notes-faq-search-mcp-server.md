@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:21:48Z"
 ---
 ## What it is
 Enables offline search of personal notes and FAQ collections through MCP tools.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-23T18:14:42Z"
 ---
 ## What it is
 MCP server `Foundry zkSync`, catalogued on PulseMCP. Exposes foundry-zksync CLI tools for zkSync Era smart contract development, testing, deployment, and blockchain interaction.

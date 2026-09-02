@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
 stars: 122
+forks: 18
+pushed_at: "2025-10-06T04:11:43Z"
 ---
 ## What it is
 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access to the entire AI coding ecosystem.

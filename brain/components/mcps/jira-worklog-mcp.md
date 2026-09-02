@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T23:49:46Z"
 ---
 ## What it is
 MCP server for logging and checking Jira Cloud worklogs from AI agents such as Claude Code, Claude Desktop, Cursor, or any MCP client that supports stdio.

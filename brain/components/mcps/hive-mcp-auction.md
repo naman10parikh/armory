@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T07:53:18Z"
 ---
 ## What it is
 An MCP server that implements an inbound reverse Dutch auction for Hive shim slots, allowing agents to bid on rate-limited access via a provably fair descent curve.

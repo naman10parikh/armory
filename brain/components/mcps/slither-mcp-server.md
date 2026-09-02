@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-05-19T22:18:12Z"
 ---
 ## What it is
 Enables static analysis of Solidity smart contracts using Slither, including contract metadata, function details, inheritance, and security detectors through MCP tools.

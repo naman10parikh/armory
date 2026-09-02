@@ -8,10 +8,12 @@ source_url: https://github.com/wrediam/coolify-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-13T22:56:08Z"
 ---
 ## What it is
 MCP server `Coolify`, catalogued on PulseMCP. Enables comprehensive Coolify infrastructure management by exposing tools for creating, deploying, and tracking servers, applications, and team resources with robust operational capabilities.

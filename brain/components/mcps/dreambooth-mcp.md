@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T10:51:23Z"
 ---
 ## What it is
 Enables AI assistants to answer operators' questions about their Dreambooth Studio booths via a read-only API wrapper, providing session, project, revenue, credit, and wallet data with OAuth device flow authentication.

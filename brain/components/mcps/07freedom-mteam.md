@@ -8,10 +8,12 @@ source_url: https://github.com/07freedom/mcp-server-mteam
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-06T07:59:29Z"
 ---
 ## What it is
 MCP server `M-Team`, catalogued on PulseMCP. Integrates with M-Team private BitTorrent tracker for torrent search, detail retrieval, and file downloading with category filtering and pagination.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T18:02:13Z"
 ---
 ## What it is
 Enables managing Illuminati Networks CDN zones, object storage, and account (including uploads, signed URLs, and balance) from any MCP client like Claude Desktop.

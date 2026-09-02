@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 2
+pushed_at: "2026-01-12T09:58:48Z"
 ---
 ## What it is
 Provides real-time trending tokens from DexScreener.

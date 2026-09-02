@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T14:54:02Z"
 ---
 ## What it is
 MCP server for the Moodle-based Campus Virtual FCEIA UNR, providing tools to read courses, assignments, forums, and grades, plus write operations (posting, grading, messaging, events) with dry-run safety.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T20:50:48Z"
 ---
 ## What it is
 Enables creating and finalizing PayPal Sandbox payments for Salesforce Agentforce demos. Provides two tools: create_paypal_payment and finalize_paypal_payment.

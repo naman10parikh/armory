@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T20:11:10Z"
 ---
 ## What it is
 Hosted MCP server granting AI agents access to 20M+ SEC EDGAR filings, 100M+ exhibits, and comprehensive entity data through 49 tools, with support for raw documents, extracted sections, and structured JSON.

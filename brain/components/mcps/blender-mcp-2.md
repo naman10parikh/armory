@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T03:09:49Z"
 ---
 ## What it is
 Connects Blender to Claude AI through the Model Context Protocol, enabling prompt-assisted 3D modeling, scene creation, and manipulation.

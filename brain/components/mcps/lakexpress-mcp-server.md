@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T18:06:17Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for LakeXpress — a database to Parquet export tool with sync management and data lake publishing.

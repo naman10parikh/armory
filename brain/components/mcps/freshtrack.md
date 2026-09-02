@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-15T05:09:20Z"
 ---
 ## What it is
 MCP server `FreshTrack`, catalogued on PulseMCP. Look up food shelf life, storage tips, food safety guidelines, and waste cost estimates.

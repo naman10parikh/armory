@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T12:33:10Z"
 ---
 ## What it is
 Enables Claude to search and read documentation, ask RAG AI questions (one-shot or in a conversation), and create/edit documents in the Meet Rupert knowledgebase, including handling image attachments.

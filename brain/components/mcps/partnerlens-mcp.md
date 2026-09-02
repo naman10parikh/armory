@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T05:33:32Z"
 ---
 ## What it is
 Enables querying Shopify App Store intelligence including 17,000+ apps, 829,000+ reviews, category rankings, and AI-analyzed review sentiment, with optional integration of user's own app metrics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-05T19:19:50Z"
 ---
 ## What it is
 MCP server that bridges LLMs with the Rocq (Coq) proof assistant via LSP, enabling interactive theorem proving with AI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T12:35:45Z"
 ---
 ## What it is
 Enables an AI assistant to send and read Viber messages by automating the Viber Desktop app on macOS through UI automation and OCR.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T06:22:44Z"
 ---
 ## What it is
 A lightweight MCP server that provides vision capabilities to text-only models like Claude Code and Codex by forwarding images to an OpenAI-compatible multimodal model, offering tools for image analysis and OCR.

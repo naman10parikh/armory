@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T11:00:20Z"
 ---
 ## What it is
 Enables Claude to perform full SEO audits on unpublished HTML, Markdown, or Word documents, including keyword analysis, meta tag suggestions, readability scoring, and heading structure validation.

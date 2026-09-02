@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T02:19:08Z"
 ---
 ## What it is
 A collection of production-ready MCP servers for PostgreSQL, SQLite, Redis, File System, and GitHub API, enabling database operations, file management, and GitHub interactions through natural language.

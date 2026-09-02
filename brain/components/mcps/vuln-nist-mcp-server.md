@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-09-23T20:10:20Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for querying the NIST National Vulnerability Database (NVD) API, enabling search and retrieval of CVE details, temporal context, and KEV catalog entries.

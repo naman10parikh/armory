@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T13:17:15Z"
 ---
 ## What it is
 An MCP server for PowerSchool plugin developers, providing read/write access to plugin workspaces, scaffolding, validation, packaging, and access to the PS data model, tag reference, and documentation.

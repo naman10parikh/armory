@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T21:57:51Z"
 ---
 ## What it is
 Enables AI agents to access SEC EDGAR filings, US Treasury rates, BLS labor statistics, and economic indicators without API keys.

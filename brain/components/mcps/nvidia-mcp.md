@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T09:06:16Z"
 ---
 ## What it is
 Provides tools for NVIDIA NIM and Visual GenAI APIs, enabling chat completions, model listing, and image generation via NVIDIA-hosted endpoints.

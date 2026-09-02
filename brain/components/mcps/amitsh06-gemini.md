@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-17T06:27:16Z"
 ---
 ## What it is
 MCP server `Gemini`, catalogued on PulseMCP. Integrates with Google's Gemini API to enable text generation, analysis, and chat conversations through a Flask-based RESTful server that securely manages API keys via environment variables.

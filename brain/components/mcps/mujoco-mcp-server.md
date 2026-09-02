@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T10:30:50Z"
 ---
 ## What it is
 Exposes MuJoCo physics simulation to AI assistants via 65 MCP tools, enabling natural language control of robotics simulation, trajectory optimization, contact analysis, and video export.

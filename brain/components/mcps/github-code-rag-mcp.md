@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T13:04:22Z"
 ---
 ## What it is
 MCP server for GitHub code retrieval and reuse, using SQLite+FTS5 indexing and search history to enable search-first, requirements-refined code search from GitHub repositories.

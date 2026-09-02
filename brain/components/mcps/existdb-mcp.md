@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T21:45:57Z"
 ---
 ## What it is
 MCP server that connects Claude to eXist-db, enabling XQuery execution, offline documentation lookup, and collection management for digital humanities projects using TEI/XML.

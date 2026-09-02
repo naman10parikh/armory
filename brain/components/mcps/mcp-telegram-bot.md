@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-23T19:28:51Z"
 ---
 ## What it is
 Enables sending messages, asking questions, and sending files through a Telegram bot.

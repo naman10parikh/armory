@@ -8,11 +8,13 @@ source_url: https://github.com/anmols/frontdesko-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T18:58:52Z"
 ---
 ## What it is
 Enables AI assistants to answer hoteliers' questions about pricing plans, PMS comparisons, OTA commission savings, documentation search, and live demo availability, all grounded in FrontDesko's published pages with source URLs.

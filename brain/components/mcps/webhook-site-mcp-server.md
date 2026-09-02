@@ -8,11 +8,13 @@ source_url: https://github.com/js-cohn/Webhook.site-FastMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T03:55:33Z"
 ---
 ## What it is
 Enables LLM agents to create, read, update, and delete Webhook.site tokens, list and retrieve captured requests, and manage webhook configurations via the Webhook.site API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T20:37:48Z"
 ---
 ## What it is
 MCP server that spawns autonomous Claude Code agents in GitHub repos, enabling task delegation with persistent state, multi-step workflows, and job monitoring.

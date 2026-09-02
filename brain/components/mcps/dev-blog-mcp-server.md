@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-15T09:08:31Z"
 ---
 ## What it is
 Enables AI assistants to publish blog posts directly to Dev.to via the Model Context Protocol.

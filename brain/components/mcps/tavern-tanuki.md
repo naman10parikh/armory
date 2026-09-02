@@ -8,11 +8,13 @@ source_url: https://github.com/fannnnnnn5822/tavern-tanuki
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-11T20:03:25Z"
 ---
 ## What it is
 MCP server for managing and playing a running SillyTavern instance, enabling AI coding assistants to read/write character cards, worldbooks, and chats, and to interact as a player via the full generation pipeline.

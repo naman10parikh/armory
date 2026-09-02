@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T21:42:25Z"
 ---
 ## What it is
 Enables triage of SAST findings by exposing a read-only MCP server with tools to access hash-verified source-to-sink code slices, unguarded sinks, and layered enrichment for local LLM analysis.

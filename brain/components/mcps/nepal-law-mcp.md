@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T05:08:07Z"
 ---
 ## What it is
 Provides search and retrieval of Nepali statutes from the law commission database, enabling users to search across 328 acts and their provisions, view section details, and check act status via natural language.

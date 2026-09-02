@@ -8,10 +8,12 @@ source_url: https://github.com/kazuph/mcp-fetch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-06-12T13:45:10Z"
 ---
 ## What it is
 MCP server `Fetch with Images`, catalogued on PulseMCP. Integrates web scraping and image processing capabilities to fetch, extract, and optimize web content.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T15:21:14Z"
 ---
 ## What it is
 Exposes Dutch university Osiris course catalogs as MCP tools, enabling search, retrieval, and exploration of course information across multiple institutions via the public Osiris Student API.

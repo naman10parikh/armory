@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T13:29:58Z"
 ---
 ## What it is
 Connects AI assistants to Big Red Cloud accounting data, allowing natural-language queries and controlled write operations with safety checks.

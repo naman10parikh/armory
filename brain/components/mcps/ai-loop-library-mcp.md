@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T08:33:14Z"
 ---
 ## What it is
 Provides coding agents with 63+ bounded, verifiable work loops, enabling goal-driven loop selection and executable protocol generation via MCP tools.

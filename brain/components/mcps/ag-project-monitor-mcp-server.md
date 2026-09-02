@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T12:56:58Z"
 ---
 ## What it is
 Enables management of office projects and tasks in Greek through Claude chat, with 11 tools for tasks, entries, announcements, plans, and project summaries via Supabase.

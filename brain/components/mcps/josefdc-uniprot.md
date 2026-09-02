@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-02T13:22:27Z"
 ---
 ## What it is
 MCP server `UniProt`, catalogued on PulseMCP. Integrates with UniProtKB protein database to provide complete protein entries, sequences, filtered searches, and ID mapping between 200+ database types for bioinformatics workflows and protein research.

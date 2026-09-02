@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T20:11:57Z"
 ---
 ## What it is
 Enables AI agents to send emails via Microsoft 365/Office 365 using app-only authentication and Microsoft Graph API, supporting HTML content, attachments, and CC/BCC.

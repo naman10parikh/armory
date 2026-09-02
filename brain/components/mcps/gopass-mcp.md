@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T21:23:12Z"
 ---
 ## What it is
 Enables AI agents to securely access and manage passwords from a gopass store via four tools: list, retrieve, search, and generate passwords.

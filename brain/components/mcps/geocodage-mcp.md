@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T16:42:31Z"
 ---
 ## What it is
 MCP server for geocoding French addresses, POIs, and cadastral parcels using the Géoplateforme API. Supports direct geocoding, reverse geocoding, and capability queries.

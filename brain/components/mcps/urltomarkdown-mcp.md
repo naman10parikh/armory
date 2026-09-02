@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T07:33:20Z"
 ---
 ## What it is
 Converts URLs and raw HTML to clean Markdown, enabling AI assistants to read web pages for summarization, analysis, or ingestion.

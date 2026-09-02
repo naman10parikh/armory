@@ -8,10 +8,12 @@ source_url: https://github.com/abrinsmead/mindpilot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 88
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-07-05T06:04:54Z"
 ---
 ## What it is
 MCP server `Mindpilot (Mermaid Diagrams)`, catalogued on PulseMCP. Enables creation and rendering of Mermaid diagrams with real-time visualization through a local web interface, featuring diagram history, export capabilities, and git repository integration for organizing visual representations by project.

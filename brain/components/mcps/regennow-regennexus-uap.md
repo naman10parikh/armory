@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-12T16:43:11Z"
 ---
 ## What it is
 MCP server `ReGenNexus UAP`, catalogued on PulseMCP. Control robots, IoT devices, and hardware including Raspberry Pi, Arduino, NVIDIA Jetson, ESP32, and robotic arms.

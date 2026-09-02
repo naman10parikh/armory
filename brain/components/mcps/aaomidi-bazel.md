@@ -8,10 +8,12 @@ source_url: https://github.com/aaomidi/mcp-bazel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-07T03:39:15Z"
 ---
 ## What it is
 MCP server `Bazel`, catalogued on PulseMCP. Integrates with Bazel build systems to enable target building, test running, dependency analysis, and source file identification without requiring command-line syntax knowledge.

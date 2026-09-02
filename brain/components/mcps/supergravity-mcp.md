@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T13:29:31Z"
 ---
 ## What it is
 An MCP server that lets Claude Code delegate tasks to the Google Antigravity desktop app by driving its real UI, providing a bridge for Intel Macs without the official CLI.

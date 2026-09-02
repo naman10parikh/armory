@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:44Z"
 ---
 ## What it is
 Enables querying official electronic service invoices (NFS-e) from the Cuiabá city government in Brazil, providing read-only access to official data.

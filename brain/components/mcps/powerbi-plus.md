@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T03:02:47Z"
 ---
 ## What it is
 MCP server for building and inspecting Power BI report visuals by editing PBIR files on disk, enabling page, chart, slicer, and layout management.

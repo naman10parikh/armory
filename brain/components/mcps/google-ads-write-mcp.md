@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T07:37:04Z"
 ---
 ## What it is
 MCP server that exposes write operations on Google Ads, enabling management of campaigns, ad groups, keywords, RSA ads, sitelinks, images, Customer Match audiences, and recommendations.

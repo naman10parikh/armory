@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-29T13:28:40Z"
 ---
 ## What it is
 MCP server `Tlon Urbit Messenger`, catalogued on PulseMCP. Provides a bridge between Urbit's social networking services and conversational interfaces, enabling direct message communication with support for ship IDs and human-readable nicknames.

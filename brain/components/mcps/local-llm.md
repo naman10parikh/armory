@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:34:24Z"
 ---
 ## What it is
 MCP server that lets Claude Code delegate trivial, standalone questions to a local Gemma 4 model via llama.cpp, saving paid tokens.

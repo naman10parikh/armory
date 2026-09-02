@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T15:33:06Z"
 ---
 ## What it is
 A remote MCP server enabling semantic memory across multiple AI platforms like Perplexity Comet and Claude Desktop, with vector embeddings for intelligent retrieval.

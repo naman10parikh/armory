@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T13:13:48Z"
 ---
 ## What it is
 MCP server `KingsPlaybook`, catalogued on PulseMCP. Sports data for AI agents: NBA, MLB, and NHL lineups, projections, and betting lines.

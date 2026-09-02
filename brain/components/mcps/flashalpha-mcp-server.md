@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-26T10:31:13Z"
 ---
 ## What it is
 Connects AI assistants to live options market data with 70+ tools for exposure analytics, volatility, strategy signals, and historical backtesting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-18T13:51:41Z"
 ---
 ## What it is
 Scans markdown vaults to detect contradictory claims (quantitative and negation) between notes with high concept overlap, and provides tools for analysis and reconciliation.

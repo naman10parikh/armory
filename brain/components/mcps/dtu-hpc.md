@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T10:54:27Z"
 ---
 ## What it is
 Connects MCP-capable agents to the DTU Computing Center cluster for submitting, monitoring, and chaining LSF jobs without shell access.

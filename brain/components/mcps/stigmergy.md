@@ -8,11 +8,13 @@ source_url: https://github.com/sturlese/stigmergy
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-26T14:27:31Z"
 ---
 ## What it is
 Stigmergy is an MCP server that captures knowledge from Slack and CLI into a markdown git repository. It answers questions with verifiable citations and refuses when it cannot support an answer.

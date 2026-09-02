@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:54:54Z"
 ---
 ## What it is
 MCP server that reads glucose data from a FreeStyle sensor via the LibreLinkUp API, providing current glucose and history with explicit coverage and gaps.

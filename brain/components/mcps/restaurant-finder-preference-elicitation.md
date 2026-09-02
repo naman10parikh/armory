@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-11T06:20:34Z"
 ---
 ## What it is
 MCP server `Restaurant Finder with Preference Elicitation`, catalogued on PulseMCP. Demonstrates preference elicitation techniques for restaurant recommendations by learning user preferences through strategic questioning and feedback rather than relying on static queries.

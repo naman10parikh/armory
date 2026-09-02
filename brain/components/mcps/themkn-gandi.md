@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T04:17:23Z"
 ---
 ## What it is
 MCP server `Gandi LiveDNS`, catalogued on PulseMCP. MCP server for managing Gandi LiveDNS records with tools for domain listing, DNS record CRUD operations, and zone snapshots.

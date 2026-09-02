@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T11:09:53Z"
 ---
 ## What it is
 Enables AI-powered security scanning of codebases through conversational analysis, allowing users to assess, threat model, code review, DAST test, and generate security reports using natural language with Claude.

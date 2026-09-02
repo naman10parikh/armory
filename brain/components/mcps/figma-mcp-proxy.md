@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T09:02:16Z"
 ---
 ## What it is
 A read-only MCP proxy for the Figma REST API, providing tools to fetch design context, file data, images, comments, and user info using a personal access token. Designed for MCP clients that cannot use Figma's official OAuth flow.

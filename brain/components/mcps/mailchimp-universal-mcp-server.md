@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T05:35:28Z"
 ---
 ## What it is
 Provides a standardized interface for interacting with Mailchimp's tools and services through the Model Context Protocol, enabling easy management of Mailchimp campaigns, audiences, and reports via natural language commands.

@@ -8,10 +8,12 @@ source_url: https://github.com/gwbischof/outsource-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-05-28T21:36:23Z"
 ---
 ## What it is
 MCP server `Outsource`, catalogued on PulseMCP. Delegates text generation and image creation tasks to external AI models including OpenAI, Anthropic, Google, Groq, and DeepSeek, enabling access to alternative perspectives, specialized capabilities, and visual content generation.

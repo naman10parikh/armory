@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T10:19:33Z"
 ---
 ## What it is
 MCP server for managing Vultr VPS instances with safety guards, including preview creation, restricted plans/regions, and exact confirmation strings for mutations.

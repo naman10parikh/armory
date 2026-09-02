@@ -8,10 +8,12 @@ source_url: https://github.com/lvcoi/solidjskills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-19T09:56:44Z"
 ---
 ## What it is
 MCP server `SolidJS Skills`, catalogued on PulseMCP. Provides document browsing tools for a curated repository of SolidJS development guides, skills, and templates covering component building, refactoring, code review, and scaffolding.

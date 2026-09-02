@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T22:57:02Z"
 ---
 ## What it is
 One MCP server that pairs Binance execution with ChainVector market intelligence. Connect it to any MCP client and the agent can read live signals, regime classification, probabilities and risk gauges from ChainVector, pick a strategy template, and execute the resulting decision on Binance.

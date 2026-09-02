@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-09T18:06:06Z"
 ---
 ## What it is
 A complete MCP server enabling AI assistants to manage cPanel hosting through natural language, including file, database, email, subdomain, and system operations.

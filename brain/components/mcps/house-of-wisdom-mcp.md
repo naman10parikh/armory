@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T18:13:19Z"
 ---
 ## What it is
 Enables querying multiple AI models simultaneously and returns all answers unmerged for the user to weigh.

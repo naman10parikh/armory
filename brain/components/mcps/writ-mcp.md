@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T17:06:51Z"
 ---
 ## What it is
 Connects MCP clients to Writ, turning saved browser workflows into callable tools. Allows running workflows, retrieving data, scheduling, and more.

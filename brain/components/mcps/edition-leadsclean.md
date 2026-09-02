@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-04T15:07:35Z"
 ---
 ## What it is
 MCP server `LeadsClean`, catalogued on PulseMCP. Extracts structured B2B lead intelligence from company websites with buying signals, inferred needs, and personalized icebreaker lines.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T18:18:27Z"
 ---
 ## What it is
 Orchestrates multiple Slidev presentations by managing dev servers and proxying Slidev's MCP tools for targeted presentations.

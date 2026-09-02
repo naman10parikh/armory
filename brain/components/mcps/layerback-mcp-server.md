@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T12:02:32Z"
 ---
 ## What it is
 Enables converting diagram images (screenshots, photos, PDF pages) into editable files like Visio, PowerPoint, draw.io, and SVG through the LayerBack API.

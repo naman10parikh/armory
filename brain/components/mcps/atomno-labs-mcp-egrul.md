@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 2
+forks: 1
+pushed_at: "2026-09-01T18:29:42Z"
 ---
 ## What it is
 Russian state registries EGRUL (legal entities) and EGRIP (individual entrepreneurs), built on official Federal Tax Service open-data dumps. Self-hosted via local SQLite, no API key required.

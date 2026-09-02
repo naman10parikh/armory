@@ -8,11 +8,13 @@ source_url: https://github.com/nubo-db/dynoxide
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 83
+stars: 85
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-25T20:53:26Z"
 ---
 ## What it is
 A DynamoDB-compatible database engine (Rust, SQLite-backed) whose MCP server exposes 34 DynamoDB tools: tables, items, query/scan, batch, transactions, PartiQL, TTL, tags, streams and snapshots

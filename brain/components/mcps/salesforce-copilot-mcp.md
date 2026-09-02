@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T17:14:27Z"
 ---
 ## What it is
 Enables Microsoft 365 Copilot to interact with Salesforce through REST APIs, supporting queries, object descriptions, pipeline summaries, and anomaly detection.

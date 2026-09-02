@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-07T22:10:28Z"
 ---
 ## What it is
 MCP server `Claude Text Editor`, catalogued on PulseMCP. Enables system-wide text editing on macOS by monitoring file directories where selected text is automatically processed through customizable prompts and returned with clipboard integration and desktop notifications.

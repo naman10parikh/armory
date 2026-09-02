@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:16:14Z"
 ---
 ## What it is
 MCP server for Adobe After Effects, enabling structured control over projects, compositions, layers, properties, expressions, keyframes, imports, and rendering through a local authenticated WebSocket bridge.

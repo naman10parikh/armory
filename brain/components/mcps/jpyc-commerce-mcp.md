@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T01:06:05Z"
 ---
 ## What it is
 Enables autonomous AI agents to conduct non-custodial commerce using JPYC stablecoin on Polygon, with trust scoring, task evaluation, negotiation, and on-chain verification via Soulbound Tokens.

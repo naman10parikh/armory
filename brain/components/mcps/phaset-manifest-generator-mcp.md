@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-27T12:52:41Z"
 ---
 ## What it is
 Generates Phaset manifest files by analyzing your repository with Claude's AI, automatically inferring fields from code, configs, and documentation.

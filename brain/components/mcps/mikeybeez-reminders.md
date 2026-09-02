@@ -8,10 +8,12 @@ source_url: https://github.com/mikeybeez/mcp-reminders
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-14T19:29:56Z"
 ---
 ## What it is
 MCP server `Reminders`, catalogued on PulseMCP. Provides persistent reminder management with priority-based organization and Obsidian integration for seamless transition of important reminders into personal knowledge management workflows.

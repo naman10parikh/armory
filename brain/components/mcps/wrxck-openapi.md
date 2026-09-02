@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-19T22:25:35Z"
 ---
 ## What it is
 MCP server `OpenAPI`, catalogued on PulseMCP. Converts OpenAPI 3.x specifications into callable tools with authentication, operation filtering, rate limiting, and prompt injection defense.

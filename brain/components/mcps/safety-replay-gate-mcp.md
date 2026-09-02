@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T10:16:05Z"
 ---
 ## What it is
 Replay safety evals before agent releases move forward. A paid remote MCP for AI agent safety replay checks, policy gates, eval receipts, control-fix suggestions, and release evidence exports.

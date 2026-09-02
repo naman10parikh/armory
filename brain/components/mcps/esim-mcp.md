@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T23:46:02Z"
 ---
 ## What it is
 An MCP server for searching and comparing travel eSIM data plans by country, planning multi-country trips, and optionally checking eSIM usage with an API token.

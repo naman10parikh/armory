@@ -8,10 +8,12 @@ source_url: https://github.com/ktol1/redteam-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-04-24T02:38:36Z"
 ---
 ## What it is
 MCP server `RedTeam Toolkit`, catalogued on PulseMCP. Wraps 15+ offensive security tools including gogo, fscan, httpx, nuclei, and Impacket for AI-driven penetration testing, Active Directory attacks, and automated reconnaissance workflows.

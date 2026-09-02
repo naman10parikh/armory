@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:37:54Z"
 ---
 ## What it is
 MCP server for Portuguese public data, providing tools to validate NIF, IBAN, and postal codes, and to look up national holidays without API keys.

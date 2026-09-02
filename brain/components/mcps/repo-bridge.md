@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T17:47:06Z"
 ---
 ## What it is
 MCP server that turns ChatGPT Web or any MCP client into a coding agent on your own repositories, enabling file editing, command execution, testing, and git workflow without an OpenAI API key.

@@ -12,6 +12,8 @@ stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-03-02T15:13:50Z"
 ---
 ## What it is
 MCP server `OpenRPC`, catalogued on PulseMCP. Make standardized JSON-RPC calls via OpenRPC specification.

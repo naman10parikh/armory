@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T07:11:03Z"
 ---
 ## What it is
 A high-performance MCP execution engine that runs tool code in isolated, resource-constrained sandboxes with context state persistence.

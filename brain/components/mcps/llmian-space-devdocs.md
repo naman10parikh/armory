@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-20T00:59:05Z"
 ---
 ## What it is
 MCP server `DevDocs`, catalogued on PulseMCP. Integrates with software documentation sources to process, index, and retrieve technical content for enhanced code assistance and API exploration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T19:44:23Z"
 ---
 ## What it is
 Provides read-only, provenance-first repository navigation for agents and humans, with ranked lexical retrieval, exact query, document handles, symbol context, and change impact analysis.

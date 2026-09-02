@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T05:38:56Z"
 ---
 ## What it is
 Diagnoses why a FiveM server or resource is broken by scanning local configs, manifests, and logs, returning ranked findings with evidence. It can also propose and apply low-risk text fixes when enabled.

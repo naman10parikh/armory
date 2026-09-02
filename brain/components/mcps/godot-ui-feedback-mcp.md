@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T12:07:30Z"
 ---
 ## What it is
 Captures real Godot UI screenshots and node metadata to enable a browser-annotatable workflow for game UI development.

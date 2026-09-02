@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-20T20:34:48Z"
 ---
 ## What it is
 Provides persistent long-term memory (semantic RAG) for AI coding assistants, enabling them to store and semantically search code and documentation across chat sessions without token limits.

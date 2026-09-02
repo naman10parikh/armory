@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T20:36:05Z"
 ---
 ## What it is
 An MCP server for QuickBooks Online that enables managing customers, vendors, invoices, bills, payments, items, and more, along with financial reports, directly from Claude.

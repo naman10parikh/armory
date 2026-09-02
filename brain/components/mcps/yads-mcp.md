@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T10:01:04Z"
 ---
 ## What it is
 Enables MCP-capable LLM agents to control YADS queues, manage tags, and trigger scans through YADS's API-authenticated /api/v1 interface without dashboard access. All actions respect tenant isolation and scan limits.

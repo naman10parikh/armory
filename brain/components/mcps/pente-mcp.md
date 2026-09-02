@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T05:21:26Z"
 ---
 ## What it is
 Enables AI to play Pente live against a human via MCP, using ChanBlake's browser game as a shared board. Provides create, join, move, and view tools for real-time multiplayer matches.

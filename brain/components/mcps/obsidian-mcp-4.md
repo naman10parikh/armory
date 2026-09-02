@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T09:57:23Z"
 ---
 ## What it is
 Wraps the official Obsidian CLI to expose vault tools for MCP clients, enabling note management, search, tasks, properties, and more through Obsidian's internal API.

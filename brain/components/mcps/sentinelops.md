@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T07:33:38Z"
 ---
 ## What it is
 SentinelOps is an MCP server that enables AI-powered security operations with human-in-the-loop safety. It allows agents to investigate threats, propose actions, and execute security responses only after explicit human approval.

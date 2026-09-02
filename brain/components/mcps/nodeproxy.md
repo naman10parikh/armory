@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T17:58:19Z"
 ---
 ## What it is
 MCP server that converts web pages to clean Markdown for LLMs via two paid tools: surface_markdown_parser and stealth_markdown_parser.

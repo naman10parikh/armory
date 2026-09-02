@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T14:16:19Z"
 ---
 ## What it is
 Verifies Korean legal citations (case numbers, statutes) against the official government database to detect AI hallucinations. Works as CLI, MCP server, or Python library.

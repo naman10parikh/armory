@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T14:32:21Z"
 ---
 ## What it is
 Enables LLMs to interact with Kitsu production tracker via its Zou API, providing tools for project management, asset and task operations, and cross-platform migration support.

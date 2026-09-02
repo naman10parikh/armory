@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T00:51:50Z"
 ---
 ## What it is
 Exposes the ZapSign REST API as MCP tools, enabling LLM-driven document workflows such as creating documents, managing signers, filling templates, running background checks, and handling webhooks.

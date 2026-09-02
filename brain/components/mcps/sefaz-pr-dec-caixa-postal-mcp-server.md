@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:39Z"
 ---
 ## What it is
 Enables querying SEFAZ PR DEC Caixa Postal (official Brazilian tax mailboxes) through a single read/write tool, using prepaid credits and working over MCP HTTP.

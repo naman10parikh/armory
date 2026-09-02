@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T05:56:42Z"
 ---
 ## What it is
 MCP server enabling AI assistants to connect and query Dameng DM8 databases via JDBC. Supports SQL queries, listing tables, and describing schemas.

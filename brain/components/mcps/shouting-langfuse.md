@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-12T19:11:39Z"
 ---
 ## What it is
 MCP server `Langfuse`, catalogued on PulseMCP. Connects AI models to Langfuse analytics workspaces, enabling access to LLM performance metrics by time range for monitoring and analysis.

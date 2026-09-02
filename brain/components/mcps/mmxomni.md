@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T08:33:34Z"
 ---
 ## What it is
 Model Context Protocol server exposing MiniMax's image, speech, music, and video generation APIs as MCP tools for use with any MCP-aware host.

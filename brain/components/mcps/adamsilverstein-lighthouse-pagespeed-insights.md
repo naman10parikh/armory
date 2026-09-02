@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-14T07:36:06Z"
 ---
 ## What it is
 MCP server `Lighthouse (PageSpeed Insights)`, catalogued on PulseMCP. Integrates with Google PageSpeed Insights API to run performance audits on web pages, retrieving detailed metrics and identifying optimization opportunities for web developers.

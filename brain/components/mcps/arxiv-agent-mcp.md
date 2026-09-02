@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T20:24:42Z"
 ---
 ## What it is
 This MCP server provides tools to search arXiv, score papers for relevance and citation impact, and find foundational references, enabling research assistants to compile reading lists.

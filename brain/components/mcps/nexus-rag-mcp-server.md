@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-31T05:23:52Z"
 ---
 ## What it is
 Enables AI agents with long-term memory and retrieval-augmented generation (RAG) capabilities, allowing them to recall past conversations, search local files, and learn user preferences.

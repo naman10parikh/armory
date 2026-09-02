@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T05:29:58Z"
 ---
 ## What it is
 Local MCP server for searching your ALLDATA repair subscription using your browser session, enabling AI agents to access labor times, procedures, TSBs, DTCs, and wiring diagrams.

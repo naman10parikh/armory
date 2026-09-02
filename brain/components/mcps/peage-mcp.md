@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T22:39:48Z"
 ---
 ## What it is
 MCP server that provides AI agents a prepaid fiat wallet, enabling them to pay metered APIs per call on the peage rail with adjustable spending caps.

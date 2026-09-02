@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:27:15Z"
 ---
 ## What it is
 MCP server that enables keyword research and domain analysis for the Russian search market (Yandex/Google) via the Bukvarix API, exposing tools for keyword searches and domain comparisons.

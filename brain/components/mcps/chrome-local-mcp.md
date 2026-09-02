@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T16:01:38Z"
 ---
 ## What it is
 Lightweight MCP server for controlling a Windows Chrome instance from WSL, designed for AI coding agents with minimal token overhead and human-in-the-loop support.

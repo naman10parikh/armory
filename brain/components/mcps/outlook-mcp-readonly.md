@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T18:19:49Z"
 ---
 ## What it is
 Provides read-only access to classic desktop Outlook mailbox and calendar on Windows, enabling safe email and calendar queries without any write capabilities.

@@ -8,10 +8,12 @@ source_url: https://github.com/alfonsograziano/node-code-sandbox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 153
+stars: 157
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 33
+pushed_at: "2025-11-24T20:00:40Z"
 ---
 ## What it is
 MCP server `Node Code Sandbox`, catalogued on PulseMCP. Provides a secure Docker-based sandbox for executing JavaScript code with npm dependencies, offering both persistent and ephemeral containers with strict resource limits for safe code testing and demonstration.

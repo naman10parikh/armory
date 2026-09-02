@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-03T18:04:27Z"
 ---
 ## What it is
 Enables searching and retrieving Magento 2 REST API documentation offline via local OpenAPI parsing, supporting endpoint search, schema lookup, and category browsing.

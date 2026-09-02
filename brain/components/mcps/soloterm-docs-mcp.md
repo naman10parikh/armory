@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T20:58:07Z"
 ---
 ## What it is
 Remote MCP server for SoloTerm/Solo documentation, providing search and execute tools to query and interact with the docs API using JavaScript async arrow functions in isolated workers.

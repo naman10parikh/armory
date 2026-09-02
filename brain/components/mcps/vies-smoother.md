@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T13:37:38Z"
 ---
 ## What it is
 SLA'd EU VAT number validation for AI agents via VIES, with caching and circuit-breaking to handle flaky upstream, returning valid/invalid/unavailable responses.

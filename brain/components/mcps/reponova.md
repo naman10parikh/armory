@@ -8,11 +8,13 @@ source_url: https://github.com/CristianoCiuti/reponova
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T20:31:06Z"
 ---
 ## What it is
 RepoNova is an MCP server that builds a persistent knowledge graph of your codebase, enabling AI agents to query code structure, dependencies, and semantics through 11 specialized tools.

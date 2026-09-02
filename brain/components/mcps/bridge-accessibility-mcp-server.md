@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T21:27:14Z"
 ---
 ## What it is
 Provides tools for text simplification, translation, and image description via Google Gemini, enabling accessible content processing from any MCP client.

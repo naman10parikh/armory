@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
 stars: 4
+forks: 5
+pushed_at: "2025-09-30T10:59:20Z"
 ---
 ## What it is
 A MCP server for The Movie Database API that enables AI assistants to search and retrieve movie, TV show, and person information.

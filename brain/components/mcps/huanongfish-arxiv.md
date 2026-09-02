@@ -8,10 +8,12 @@ source_url: https://github.com/huanongfish/arxiv-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-04T06:30:17Z"
 ---
 ## What it is
 MCP server `arXiv`, catalogued on PulseMCP. Integrates with arXiv to enable flexible paper search, PDF downloading, and text extraction for literature review, research trend analysis, and automated summarization in scientific domains.

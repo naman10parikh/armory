@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T22:57:11Z"
 ---
 ## What it is
 Search and retrieve AI company research, analyst-debate audio briefings, and proprietary Cyborg Score (1-10) from AskCyborg directly through MCP clients.

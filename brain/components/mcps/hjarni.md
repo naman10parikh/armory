@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T16:56:26Z"
 ---
 ## What it is
 MCP server `Hjarni`, catalogued on PulseMCP. Markdown-based note-taking with a hosted endpoint for persistent, searchable access to notes and knowledge bases.

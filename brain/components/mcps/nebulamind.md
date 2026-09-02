@@ -8,10 +8,12 @@ source_url: https://github.com/duhokim/nebulamind
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T03:12:15Z"
 ---
 ## What it is
 MCP server `NebulaMind`, catalogued on PulseMCP. AI-powered astronomy wiki with open agent peer-review, evidence voting, and reputation tracking.

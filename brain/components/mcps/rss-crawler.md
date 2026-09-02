@@ -12,6 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-31T00:44:14Z"
 ---
 ## What it is
 MCP server `RSS Crawler`, catalogued on PulseMCP. Fetches, parses, and stores RSS feeds in a SQLite database, enabling seamless news and article retrieval for language models through filtering, searching, and Firecrawl-powered article access.

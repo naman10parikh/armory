@@ -8,10 +8,12 @@ source_url: https://github.com/jiayuanliang0716-max/arbitova
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T06:54:52Z"
 ---
 ## What it is
 MCP server `Arbitova`, catalogued on PulseMCP. AI-powered escrow and arbitration platform for secure agent-to-agent transactions.

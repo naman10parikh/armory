@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-15T02:55:36Z"
 ---
 ## What it is
 Local-first MCP server that watches your coding sessions and injects a compact summary at the start of each new session. 85.6% token reduction, SQLite storage, no cloud. Works with Claude Code, Cursor, Cline, and Windsurf.

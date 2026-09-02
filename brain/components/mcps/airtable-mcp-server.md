@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T19:49:12Z"
 ---
 ## What it is
 MCP server for Airtable API — manage records, bases, tables, fields, and webhooks through 18 tools.

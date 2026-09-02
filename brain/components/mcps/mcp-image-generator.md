@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T13:58:10Z"
 ---
 ## What it is
 MCP server for AI image generation supporting multiple providers (OpenRouter, Together AI, Replicate, fal.ai) and compatible with various MCP agents.

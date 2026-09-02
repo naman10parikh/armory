@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T09:11:14Z"
 ---
 ## What it is
 Enables AI assistants to browse, inspect, edit, create, and export SVGator projects, handling everything from simple color edits to complex animated exports.

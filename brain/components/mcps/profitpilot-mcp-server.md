@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T17:54:32Z"
 ---
 ## What it is
 A multi-agent business intelligence server for E-commerce that leverages the QUORUM framework with nine specialized agents for data analysis, financial modeling, and strategic decision-making, supporting both HTTP and chain-of-thought reasoning modes.

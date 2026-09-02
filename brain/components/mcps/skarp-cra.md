@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T06:22:45Z"
 ---
 ## What it is
 An MCP server that helps software makers meet EU Cyber Resilience Act obligations, including scope classification, Article 13(2) risk assessment, Annex I requirements with evidence, vulnerability and incident tracking with Article 14 reporting clocks, and Annex VII technical file assembly.

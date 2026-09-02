@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-20T11:02:56Z"
 ---
 ## What it is
 MCP server `CodeMesh`, catalogued on PulseMCP. Builds an intelligent code knowledge graph for AI coding agents, reducing token usage and latency.

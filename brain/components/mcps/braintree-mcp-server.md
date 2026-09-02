@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-20T14:50:31Z"
 ---
 ## What it is
 Enables AI systems to interact with PayPal Braintree payment processing, allowing them to fetch transactions, create payments, and manage customer data via MCP tools.

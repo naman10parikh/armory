@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T10:06:28Z"
 ---
 ## What it is
 Enables registration, monitoring, and control of IoT devices via AI agents, with local storage and no cloud API key required.

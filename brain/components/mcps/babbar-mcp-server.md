@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T12:22:25Z"
 ---
 ## What it is
 Integrates with the Babbar.tech SEO API to enable AI assistants to perform advanced SEO analysis, competitor research, backlink auditing, and content gap identification.

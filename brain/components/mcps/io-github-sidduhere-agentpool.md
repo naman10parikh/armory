@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T02:23:06Z"
 ---
 ## What it is
 AgentPool is a local MCP server that monitors live usage limits of coding-agent subscriptions and allows you to offload work to providers with remaining capacity. It exposes provider, model, and session state, enabling informed manual or agent-driven task delegation.

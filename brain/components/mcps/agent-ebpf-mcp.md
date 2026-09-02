@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:17:26Z"
 ---
 ## What it is
 Enables AI agents to inspect and manage Linux kernel-level eBPF security policies, including real-time status monitoring, policy retrieval, dynamic rule injection, and pre-execution SQL/syscall validation via natural language.

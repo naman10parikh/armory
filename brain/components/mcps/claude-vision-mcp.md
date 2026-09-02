@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T05:12:23Z"
 ---
 ## What it is
 Enables Claude to capture screenshots of the screen, windows, regions, and web pages, and compare screenshots for visual regression testing.

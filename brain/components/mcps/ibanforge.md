@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-09-01T21:17:33Z"
 ---
 ## What it is
 MCP server `IBANforge`, catalogued on PulseMCP. IBAN validation and BIC/SWIFT lookup with x402 micropayments and MCP integration.

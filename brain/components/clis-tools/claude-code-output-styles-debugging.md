@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [awesome-claude-code, output-styles]
+forks: 1
+pushed_at: "2025-09-18T18:14:32Z"
 ---
 ## What it is
 A small set of well-written output styles, specifically focused on debugging - root cause analysis, systematic, methodical debugging, encouraging a more careful approach to bug-squashing from Claude Code.

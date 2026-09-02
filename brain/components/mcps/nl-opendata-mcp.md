@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T19:28:38Z"
 ---
 ## What it is
 Enables accessing and querying Dutch government open datasets from CBS and data.overheid.nl, with tools for searching, filtering, downloading, and analyzing data using CSV, Parquet, DuckDB, or Pandas.

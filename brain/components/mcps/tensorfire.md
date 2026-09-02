@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T23:53:48Z"
 ---
 ## What it is
 MCP server for security-testing AI models, exposing garak vulnerability scanning and URL/MCP-endpoint scanning as callable tools. It lets agents probe LLM endpoints for jailbreaks, prompt injection, and data leakage, and classify URLs or screen remote MCP endpoints for prompt-injection payloads.

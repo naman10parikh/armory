@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T14:39:57Z"
 ---
 ## What it is
 Lets Claude Cowork/Desktop generate images via Gemini Flash Image and videos via Google Veo through plain language requests.

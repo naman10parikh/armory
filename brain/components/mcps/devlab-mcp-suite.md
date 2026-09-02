@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T19:09:01Z"
 ---
 ## What it is
 Modular testing and automation MCP servers for Android devices, desktop browsers, canvas games, and visual regression.

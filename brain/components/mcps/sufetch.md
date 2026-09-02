@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-04T13:27:10Z"
 ---
 ## What it is
 MCP server that enables AI assistants to explore and generate code for type-safe OpenAPI clients from various cloud APIs like DigitalOcean, Hetzner Cloud, and Ory.

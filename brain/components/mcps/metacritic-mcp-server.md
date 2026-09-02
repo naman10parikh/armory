@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-21T11:36:31Z"
 ---
 ## What it is
 Exposes Metacritic game, movie, TV, and music review data through MCP tools and resources, enabling LLM hosts to search and retrieve reviews with optional filters.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-06-27T02:36:36Z"
 ---
 ## What it is
 Enables multi-agent communication between AI agents via MCP tools with real-time message routing, admin control, and dual-language support.

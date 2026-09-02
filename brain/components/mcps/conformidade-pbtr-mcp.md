@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T23:19:16Z"
 ---
 ## What it is
 MCP server for automated compliance analysis of Basic Projects and Terms of Reference against SERPRO's checklist. Send a PDF and get a compliance index, prioritized findings, and reports in multiple formats.

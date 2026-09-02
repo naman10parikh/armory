@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T14:04:30Z"
 ---
 ## What it is
 Enables social media account management including content calendars, posting cadence, captions, hashtags, engagement strategies, metrics interpretation, and client reporting.

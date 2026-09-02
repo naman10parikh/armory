@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T05:44:22Z"
 ---
 ## What it is
 Hardware trust layer for sovereign AI that attests firmware trust state and gates AI inference on verified results.

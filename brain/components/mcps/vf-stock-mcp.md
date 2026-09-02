@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T13:45:23Z"
 ---
 ## What it is
 FastMCP server for Vietnamese stock analysis, providing 35+ tools for fetching quotes, financials, and technical indicators (144+), and generating AI-driven investment reports. Integrates with Claude/Cursor via stdio/SSE and supports LangGraph workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-12T14:03:58Z"
 ---
 ## What it is
 Gives AI agents instant access to software architecture, dependencies, and impact analysis through pre-computed sgraph models, replacing dozens of grep/read cycles with a single tool call.

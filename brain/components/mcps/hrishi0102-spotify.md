@@ -8,10 +8,12 @@ source_url: https://github.com/hrishi0102/spotify-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-13T10:43:57Z"
 ---
 ## What it is
 MCP server `Spotify`, catalogued on PulseMCP. Integrates with Spotify to enable music search, playlist creation, personalized recommendations, and profile management through secure OAuth authentication.

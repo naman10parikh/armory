@@ -8,10 +8,12 @@ source_url: https://github.com/emgeee/mcp-ollama
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-02-05T02:41:38Z"
 ---
 ## What it is
 MCP server `Ollama`, catalogued on PulseMCP. Integrates with Ollama for local large language model inference, enabling text generation and model management without relying on cloud APIs.

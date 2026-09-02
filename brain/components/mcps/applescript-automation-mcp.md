@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T10:03:35Z"
 ---
 ## What it is
 A local MCP server that exposes macOS automation actions (AppleScript + CLIs) as tools, enabling MCP clients on your Mac to control apps, system settings, and more.

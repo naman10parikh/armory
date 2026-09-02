@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T07:45:53Z"
 ---
 ## What it is
 MCP server that converts raw Markdown into a complete, self-contained HTML document with clean typographic styling, syntax highlighting, and automatic light/dark mode.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T11:54:51Z"
 ---
 ## What it is
 This MCP server implements a secure OAuth 2.1 authorization server with Google login, enabling authenticated tool execution and a user interface for MCP applications.

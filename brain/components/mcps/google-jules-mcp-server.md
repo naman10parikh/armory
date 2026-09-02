@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-12T23:12:19Z"
 ---
 ## What it is
 Enables interaction with Google Jules API to automate software development tasks, such as managing sources, sessions, and activities for AI-powered coding assistance.

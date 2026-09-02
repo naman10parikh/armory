@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T19:58:11Z"
 ---
 ## What it is
 Connects Claude to Things 3 on macOS, allowing to add to-dos and projects, search, open lists, and read Today/Upcoming/Inbox via natural language.

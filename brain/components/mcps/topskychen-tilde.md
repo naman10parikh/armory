@@ -8,10 +8,12 @@ source_url: https://github.com/topskychen/tilde
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-10T12:27:10Z"
 ---
 ## What it is
 MCP server `Tilde`, catalogued on PulseMCP. Privacy-first universal memory and profile layer for AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T08:51:02Z"
 ---
 ## What it is
 HeatShield MCP server enables AI assistants with real-time spatial reasoning for urban heat wave safety. It provides tools for geocoding, weather/heat risk, air quality, finding cooling spots, and heat safety advice.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:06:28Z"
 ---
 ## What it is
 Enables MCP-capable agents to create, fund, and settle pacts with escrow, using an LLM evaluator for dispute resolution.

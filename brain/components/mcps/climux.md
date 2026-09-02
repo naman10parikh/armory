@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-08T14:47:59Z"
 ---
 ## What it is
 Unified CLI multiplexer for AI coding agents, enabling orchestration of multiple coding CLI tools through a single interface with session persistence, cost tracking, and MCP tool support.

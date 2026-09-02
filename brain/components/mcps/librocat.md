@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:52:12Z"
 ---
 ## What it is
 Provides AI agents with persistent memory over MCP by indexing OKF Markdown notes in a Git repository and exposing tools for searching, reading, writing, organizing, and reviewing knowledge.

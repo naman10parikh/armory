@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T07:59:25Z"
 ---
 ## What it is
 Exposes the full Gate API v4 to MCP clients with 384 tools for spot, futures, margin, wallet, and more. Supports both public endpoints (no auth) and authenticated trading operations.

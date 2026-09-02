@@ -8,11 +8,13 @@ source_url: https://github.com/joshdevous/minecraft-builder-claude-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-14T21:49:21Z"
 ---
 ## What it is
 Enables Claude to generate Minecraft structures from natural language descriptions, creating .schem files for WorldEdit import.

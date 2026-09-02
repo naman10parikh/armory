@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-31T11:03:03Z"
 ---
 ## What it is
 This MCP server enables Claude to access and log Fitbit health data, including activity, sleep, heart rate, and nutrition, with the ability to log meals by analyzing photos through Claude's vision capabilities.

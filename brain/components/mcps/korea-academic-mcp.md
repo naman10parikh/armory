@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-21T15:24:29Z"
 ---
 ## What it is
 An MCP server that searches Korean academic databases (KCI, DBpia, RISS) via their official Open APIs, enabling Claude and other MCP clients to retrieve academic papers.

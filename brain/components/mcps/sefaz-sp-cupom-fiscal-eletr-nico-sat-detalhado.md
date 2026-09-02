@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:58Z"
 ---
 ## What it is
 Read-only MCP server providing a single tool that queries Brazilian SEFAZ SP electronic fiscal receipt (Cupom Fiscal Eletrônico/SAT) data from an official source. It offers prepaid, per-query access via MCP over HTTP with no platform credentials needed.

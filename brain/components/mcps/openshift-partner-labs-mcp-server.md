@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-09T19:16:59Z"
 ---
 ## What it is
 Enables lab managers and developers to perform OpenShift Partner Labs operations, such as cluster provisioning and state changes, through natural language conversations by aggregating low-level database interactions into high-level MCP tools.

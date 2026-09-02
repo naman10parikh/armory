@@ -8,10 +8,12 @@ source_url: https://github.com/pdcolandrea/mobbin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-05-15T19:38:40Z"
 ---
 ## What it is
 MCP server `Mobbin`, catalogued on PulseMCP. Search Mobbin's library of 600,000 app UI screens, user flows, and design patterns for inspiration and reference.

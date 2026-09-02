@@ -8,11 +8,13 @@ source_url: https://github.com/Mahinika/magicavoxel-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-16T18:36:54Z"
 ---
 ## What it is
 Enables creating, modifying, and managing MagicaVoxel .vox files through natural language, with tools for shape generation, patterns, color operations, and optional ML-powered suggestions.

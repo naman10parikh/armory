@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:31:54Z"
 ---
 ## What it is
 Verified Singapore property, tax, affordability, salary, and location data for AI agents. 17 MCP tools, x402 micropayments, source provenance on every response. Singapore live now, more markets coming. Categories: Finance, Real Estate, Data, Singapore, x402, Payments, Government Data

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-31T00:49:59Z"
 ---
 ## What it is
 MCP server `Student Knowledge Graph`, catalogued on PulseMCP. Manages student knowledge graphs for tracking academic progress, organizing educational resources, and structuring relationships between courses, assignments, and concepts through specialized tools for session management and entity manipulation.

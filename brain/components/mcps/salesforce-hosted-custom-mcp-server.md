@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T23:12:04Z"
 ---
 ## What it is
 Enables interaction with Salesforce data and services via custom MCP tools, including account analytics, opportunity queries, case creation, and AI agent invocation.

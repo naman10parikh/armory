@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-03T23:03:00Z"
 ---
 ## What it is
 Exposes a single tool for Claude to fetch recent Strava activities, including detailed metrics and lap breakdowns, for automatic training summaries.

@@ -8,10 +8,12 @@ source_url: https://github.com/mnemox-ai/idea-reality-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 703
+stars: 811
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 87
+pushed_at: "2026-08-11T17:55:56Z"
 ---
 ## What it is
 MCP server `Idea Reality Check`, catalogued on PulseMCP. Prevents redundant development by searching GitHub, Hacker News, npm, PyPI, and Product Hunt to assess project similarity and provide reality scores with pivot suggestions before starting new coding projects.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-28T11:05:09Z"
 ---
 ## What it is
 MCP server `GitHub`, catalogued on PulseMCP. Comprehensive GitHub API integration with 112 tools and optimized token efficiency

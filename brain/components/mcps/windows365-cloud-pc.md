@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-14T09:41:24Z"
 ---
 ## What it is
 MCP server `Windows 365 Cloud PC`, catalogued on PulseMCP. Integrates with Windows 365 Cloud PC Management API to enable listing and managing cloud PCs in a tenant environment through Microsoft Graph authentication and JSON-formatted data retrieval

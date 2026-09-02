@@ -8,10 +8,12 @@ source_url: https://github.com/fenxer/steam-review-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-01-28T03:30:45Z"
 ---
 ## What it is
 MCP server `Steam Review`, catalogued on PulseMCP. Integrates with Steam's API to fetch and analyze game reviews and information, enabling customizable queries for player feedback, sentiment tracking, and game details.

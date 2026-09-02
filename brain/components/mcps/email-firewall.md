@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:22:30Z"
 ---
 ## What it is
 Enables deterministic email triage by classifying messages into P0–P3 or REVIEW and emitting the pif.event.v1 contract. Provides tools for rendering Feishu messages, recording feedback, and retrieving policies, while leaving mailbox actions to Hermes.

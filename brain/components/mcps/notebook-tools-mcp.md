@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T04:12:06Z"
 ---
 ## What it is
 MCP server for Jupyter notebook navigation and editing. Reads .ipynb files directly as JSON, providing efficient tools for reading, searching, and modifying cells without needing a Jupyter server.

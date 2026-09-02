@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:30:41Z"
 ---
 ## What it is
 Enables AI assistants to automate Godot 4 projects via headless tooling, live editor control, and runtime remote control, including scene building, testing, and observation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-04T18:39:11Z"
 ---
 ## What it is
 Minimal local RAG stack with an MCP server that provides document search for any agent.

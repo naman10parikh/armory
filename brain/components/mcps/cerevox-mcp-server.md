@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-22T20:02:33Z"
 ---
 ## What it is
 Model Context Protocol server for Cerevox AI that exposes document parsing (Lexa), RAG and semantic search (Hippo), and account management APIs, enabling AI agents to parse documents, search and query document collections with RAG, and manage accounts.

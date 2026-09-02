@@ -8,10 +8,12 @@ source_url: https://github.com/wanghaibo10/reqable-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-25T15:51:53Z"
 ---
 ## What it is
 MCP server `Reqable`, catalogued on PulseMCP. Exposes Reqable's captured HTTP traffic to AI agents with 13 tools for request inspection, JWT decoding, and network flow analysis.

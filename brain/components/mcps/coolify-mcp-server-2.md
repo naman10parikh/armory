@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-08T19:23:25Z"
 ---
 ## What it is
 Manages Coolify self-hosted PaaS infrastructure through AI assistants, enabling deployment, database management, and server operations via natural language.

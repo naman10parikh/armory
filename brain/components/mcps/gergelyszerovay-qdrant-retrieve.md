@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-23T11:14:31Z"
 ---
 ## What it is
 MCP server `Qdrant Retrieve`, catalogued on PulseMCP. Enables semantic search across multiple document collections using Qdrant vector database integration, allowing natural language queries with configurable result counts and collection tracking.

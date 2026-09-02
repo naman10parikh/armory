@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T02:38:59Z"
 ---
 ## What it is
 MCP server for querying inventory items and stock levels via internal API, enabling AI chatbots to look up product codes and current quantities.

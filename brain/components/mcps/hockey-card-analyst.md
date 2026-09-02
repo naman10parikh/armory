@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T12:44:14Z"
 ---
 ## What it is
 Interprets advanced hockey player cards to translate metrics into plain-language assessments, supporting player evaluation, claim verification, and player comparisons with deterministic rules.

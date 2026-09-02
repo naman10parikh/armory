@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T02:48:16Z"
 ---
 ## What it is
 MCP server that connects AI assistants to the public tagesschau.de news API, offering live headlines, category and regional news, full-text search, and live stream URLs without requiring an API key.

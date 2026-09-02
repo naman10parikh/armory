@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-12-21T10:09:36Z"
 ---
 ## What it is
 MCP server `Gene Ontology`, catalogued on PulseMCP. Integrates with Gene Ontology databases through QuickGO and official GO APIs to search terms, retrieve definitions and relationships, validate identifiers, and access ontology statistics across molecular function, biological process, and cellular component domains for bioinformatics research and functional analysis.

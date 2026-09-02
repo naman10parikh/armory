@@ -8,10 +8,12 @@ source_url: https://github.com/egorpavlikhin/roslyn-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-15T11:08:02Z"
 ---
 ## What it is
 MCP server `Roslyn C# Analyzer`, catalogued on PulseMCP. Provides C# code analysis capabilities by leveraging the Microsoft Roslyn compiler platform to validate syntax, find references, and run recommended code analyzers within .NET projects.

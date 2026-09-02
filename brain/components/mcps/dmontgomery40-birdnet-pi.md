@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-23T19:33:59Z"
 ---
 ## What it is
 MCP server `BirdNet-Pi`, catalogued on PulseMCP. Integrates BirdNet-Pi's bird detection capabilities with a JSON-RPC interface, enabling retrieval and analysis of acoustic monitoring data for ornithological research and conservation efforts.

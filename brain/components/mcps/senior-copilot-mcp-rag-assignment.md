@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T06:39:45Z"
 ---
 ## What it is
 Enables alarm investigation through MCP tools for asset search, metadata lookup, alarm retrieval, summarization, priority scoring, and operator recommendations, with RAG-backed evidence from procedure documents.

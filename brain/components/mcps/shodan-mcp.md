@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T11:44:16Z"
 ---
 ## What it is
 Enables searching Shodan for devices and services, and looking up host details, through natural language.

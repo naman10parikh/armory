@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-25T13:54:04Z"
 ---
 ## What it is
 Transforms codebases into a knowledge graph for AI agents, enabling semantic search, impact analysis, and persistent session memory with up to 94% token savings.

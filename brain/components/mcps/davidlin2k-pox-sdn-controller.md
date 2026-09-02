@@ -8,10 +8,12 @@ source_url: https://github.com/davidlin2k/pox-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-24T01:03:19Z"
 ---
 ## What it is
 MCP server `POX SDN Controller`, catalogued on PulseMCP. Bridges to the POX SDN controller, enabling network topology management and configuration of OpenFlow-based networks through specialized tools for datapath management, flow statistics, and table configuration.

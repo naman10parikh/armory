@@ -8,10 +8,12 @@ source_url: https://github.com/for-sunny/hebbian-mind-enterprise
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T13:28:26Z"
 ---
 ## What it is
 MCP server `Hebbian Mind Enterprise`, catalogued on PulseMCP. Associative memory server using Hebbian learning where concept connections strengthen through co-activation and weaken through disuse.

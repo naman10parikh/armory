@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-25T02:13:33Z"
 ---
 ## What it is
 MCP server `Wordware`, catalogued on PulseMCP. Provides a bridge to Wordware's API services for creating Notion pages, performing Google searches, retrieving Wikipedia information, and querying Google News

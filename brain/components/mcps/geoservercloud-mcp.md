@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-22T03:14:52Z"
 ---
 ## What it is
 MCP server `GeoServer Cloud`, catalogued on PulseMCP. MCP server for managing GeoServer workspaces, datastores, layers, and styles

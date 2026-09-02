@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T19:18:28Z"
 ---
 ## What it is
 MCP server using Google Gemini to read and describe image content, supporting single or multiple images and custom prompts.

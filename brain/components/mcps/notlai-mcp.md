@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-28T11:28:22Z"
 ---
 ## What it is
 Enables access to Notlai notes from Claude Desktop via the Model Context Protocol, supporting login, authentication management, and note operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T08:28:25Z"
 ---
 ## What it is
 A high-performance MCP server that bridges AI agents with Java codebases, providing professional-grade Java language intelligence via Eclipse JDT.LS.

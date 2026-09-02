@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T21:21:11Z"
 ---
 ## What it is
 Deterministic rails for game-running agents — verifies rule legality under SRD 5.2.1 via stateless, offline, sub-millisecond verdicts with citations.

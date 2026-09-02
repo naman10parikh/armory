@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T13:39:44Z"
 ---
 ## What it is
 Provides a code search service via MCP, allowing AI clients to perform fast, indexed searches across large codebases using Zoekt, with support for filters like repository, language, and path.

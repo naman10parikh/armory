@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T18:14:43Z"
 ---
 ## What it is
 A TypeScript MCP server that exposes OPC UA read access through server-side authorization and Operator-defined Semantic Controls for safe agent interaction.

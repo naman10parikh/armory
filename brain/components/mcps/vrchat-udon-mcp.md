@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T04:11:59Z"
 ---
 ## What it is
 MCP server that provides UdonSharp development tools for VRChat by indexing and searching the agent-skills-vrc-udon repository, enabling AI agents to access skills, rules, templates, and validate code.

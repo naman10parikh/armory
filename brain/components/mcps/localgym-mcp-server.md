@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T18:45:53Z"
 ---
 ## What it is
 Read-only MCP server for searching, comparing, and recommending UK gyms using the public LocalGym Agent API.

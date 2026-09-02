@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:39Z"
 ---
 ## What it is
 Enables consultation of Paraná state tax information (SEFAZ) from official sources via MCP over HTTP, with read-only access and prepaid per-query pricing.

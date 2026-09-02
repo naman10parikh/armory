@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-12-19T07:45:54Z"
 ---
 ## What it is
 An MCP server that analyzes job postings and generates tailored, ATS-friendly CVs, cover letters, and email templates in multiple formats including PDF.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-23T19:10:07Z"
 ---
 ## What it is
 MCP server `Europe PMC`, catalogued on PulseMCP. Provides structured evidence retrieval from Europe PMC biomedical literature database with citation-weighted ranking for therapeutic target discovery and clinical research.

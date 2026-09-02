@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:30:02Z"
 ---
 ## What it is
 MCP server for the On the Cheap network, providing daily event listings with times, prices, and venues across 14 US cities. No credentials required; specify the city as a parameter.

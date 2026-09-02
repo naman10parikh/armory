@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:18:50Z"
 ---
 ## What it is
 A lightweight, zero-dependency MCP gateway adapter that enables Claude/Cursor agents to process structured JSON payloads and integrate with GenPark AI agent pipelines.

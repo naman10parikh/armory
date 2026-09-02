@@ -8,10 +8,12 @@ source_url: https://github.com/omar-haris/cursor-buddy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-15T00:05:43Z"
 ---
 ## What it is
 MCP server `Cursor Buddy`, catalogued on PulseMCP. Provides development workflow management through a structured .buddy directory system with full-text search across coding rules, knowledge base entries, database schemas, todo tracking, and implementation history for centralized project context and documentation.

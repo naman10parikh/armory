@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T13:41:18Z"
 ---
 ## What it is
 MCP server `Veritas Acta`, catalogued on PulseMCP. Contribute, challenge, verify, and query contestable public records on the Veritas Acta platform.

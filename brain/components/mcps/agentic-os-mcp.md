@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T11:56:08Z"
 ---
 ## What it is
 Read-only MCP server that exposes the agentic-os governance, SDLC, and Quality Engineering methodology to any MCP host. It never writes to your repository and never executes code — it serves the methodology, plans an install, and verifies it, handing any commands back to the host to run.

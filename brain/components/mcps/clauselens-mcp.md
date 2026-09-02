@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T08:18:07Z"
 ---
 ## What it is
 Enables Claude or Cursor to act as a contract analyst by providing tools for document fetching, clause segmentation, span verification, and risk taxonomy lookup, with no server-side LLM calls or document retention.

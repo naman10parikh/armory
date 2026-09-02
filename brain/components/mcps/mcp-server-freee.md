@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-25T15:59:07Z"
 ---
 ## What it is
 Enables AI agents to interact with the freee accounting API, offering tools for managing deals, invoices, partners, trial balance, and more via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:31:26Z"
 ---
 ## What it is
 A source-aware MCP server that connects AI agents to browser and server runtimes, enabling real-time debugging, monitoring, and automatic fixes via WebSocket or HTTP.

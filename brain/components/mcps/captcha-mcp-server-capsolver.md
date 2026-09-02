@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T07:04:13Z"
 ---
 ## What it is
 A mock-first MCP server for CAPTCHA solving with CapSolver, featuring scoped tools, redacted responses, and bounded polling to detect and solve challenges without leaking credentials.

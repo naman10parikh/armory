@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T04:01:20Z"
 ---
 ## What it is
 MCP server `Sourceright`, catalogued on PulseMCP. Rust-based reference verification infrastructure for academic writing, agent workflows, and citation processing.

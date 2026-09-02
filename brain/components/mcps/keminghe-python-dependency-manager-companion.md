@@ -12,6 +12,8 @@ stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-02-15T14:26:33Z"
 ---
 ## What it is
 MCP server `Python Dependency Manager Companion`, catalogued on PulseMCP. Streamlines Python package management workflows by providing tools for dependency installation, virtual environment management, and project setup through natural language commands.

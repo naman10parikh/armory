@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T01:32:50Z"
 ---
 ## What it is
 MCP server `Hive Credit Broker`, catalogued on PulseMCP. Broker-only credit and lending discovery MCP server for AI agents.

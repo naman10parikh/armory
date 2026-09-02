@@ -8,10 +8,12 @@ source_url: https://github.com/bsahane/mcp-proxmox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-11-01T14:56:15Z"
 ---
 ## What it is
 MCP server `Proxmox VE`, catalogued on PulseMCP. Integrates with Proxmox VE API to provide complete virtualization management including VM and container lifecycle operations, cloud-init configuration, firewall management, snapshots, backups, and resource pool administration with safety features like confirmation prompts and dry-run modes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T00:33:58Z"
 ---
 ## What it is
 A local Git intelligence MCP server that provides deep repository analytics including hotspots, churn, knowledge maps, and risk scoring, all computed from commit history without data leaving your machine.

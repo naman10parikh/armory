@@ -8,10 +8,12 @@ source_url: https://github.com/pyrhame/skyrimck-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T21:37:54Z"
 ---
 ## What it is
 MCP server `Skyrim Creation Kit`, catalogued on PulseMCP. Creates and modifies Skyrim SE ESP/ESM files via Claude without opening the Creation Kit GUI.

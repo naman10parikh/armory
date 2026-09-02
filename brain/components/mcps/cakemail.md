@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-11T15:10:21Z"
 ---
 ## What it is
 MCP server `Cakemail`, catalogued on PulseMCP. Manage email campaigns, contacts, lists, and transactional emails through the Cakemail email marketing platform.

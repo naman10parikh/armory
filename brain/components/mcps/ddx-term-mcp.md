@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T08:35:13Z"
 ---
 ## What it is
 Enables AI agents to execute commands in a shared tmux session that is simultaneously visible to a human via a web-based terminal UI.

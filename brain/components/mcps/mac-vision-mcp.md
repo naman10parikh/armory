@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-25T14:36:35Z"
 ---
 ## What it is
 An MCP server that enables AI coding agents to capture screenshots of macOS windows and displays on demand, providing tools for window discovery and screen capture.

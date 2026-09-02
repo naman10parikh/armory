@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T14:54:25Z"
 ---
 ## What it is
 A runtime gate for coding agents. Blocks the tool calls that wreck a repo (force-push main, rm -rf, secret exfiltration, CI wipe) and lets normal build and commit work through. Machine-checked git-branch core (z3); the rest is high-precision heuristics. Tested on 3,790 real CI commands, 0 false bloc

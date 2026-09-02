@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-27T12:19:44Z"
 ---
 ## What it is
 MCP server `File Search Service`, catalogued on PulseMCP. Provides a robust file search service, enabling efficient querying of local directories with detailed results including file metadata and content matching.

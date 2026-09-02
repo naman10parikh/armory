@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T14:38:54Z"
 ---
 ## What it is
 MCP server for ThaiBulkSMS and ThaiBulkMail APIs, enabling SMS, email, credit check, and OTP operations through natural language.

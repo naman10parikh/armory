@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T05:26:18Z"
 ---
 ## What it is
 MCP server for ListenME — product research task management via Boxverse AI. Provides 21 tools for managing research tasks, reviewing user feedback, and generating insights.

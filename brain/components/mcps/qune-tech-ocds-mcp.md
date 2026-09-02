@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 5
+forks: 0
+pushed_at: "2026-07-26T10:13:45Z"
 ---
 ## What it is
 German public procurement data (OCDS) — semantic search, tender matching with company profiles, and structured filtering.

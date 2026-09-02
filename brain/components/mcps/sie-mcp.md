@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T17:21:56Z"
 ---
 ## What it is
 MCP server for Swedish accounting data analysis (SIE4, Spiris/Visma) with tools for reading financial records, generating reports, and preparing draft actions under strict human approval.

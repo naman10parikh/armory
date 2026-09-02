@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T05:49:43Z"
 ---
 ## What it is
 Language-owned MCP gateway and execution-host coordination for Hara, exposing read-only tools for runtime introspection, evaluation, calls, and checks, with an optional deterministic test fixture for development.

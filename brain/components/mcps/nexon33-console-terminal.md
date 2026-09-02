@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-05-15T13:56:24Z"
 ---
 ## What it is
 MCP server `Console Terminal`, catalogued on PulseMCP. Provides a bridge between AI assistants and system terminals, enabling command execution and output retrieval through an Electron-based application

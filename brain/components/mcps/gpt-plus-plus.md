@@ -8,11 +8,13 @@ source_url: https://github.com/ranhunya/gpt-plus-plus
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T05:20:51Z"
 ---
 ## What it is
 Enables AI clients to control local Windows development tools by exposing project files, code search, file editing, test execution, Git operations, and resource viewing through a secure MCP interface with permission controls.

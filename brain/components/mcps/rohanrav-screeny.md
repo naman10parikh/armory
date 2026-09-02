@@ -8,10 +8,12 @@ source_url: https://github.com/rohanrav/screeny
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-23T20:19:00Z"
 ---
 ## What it is
 MCP server `Screeny`, catalogued on PulseMCP. Privacy-focused macOS MCP server for secure, user-approved window screenshots

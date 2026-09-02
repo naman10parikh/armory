@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T13:25:17Z"
 ---
 ## What it is
 A Claude Code MCP server and skill that enables delegation of prompts to agy (Antigravity/Gemini) CLI for model queries, conversation management, authentication, and image generation.

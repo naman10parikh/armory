@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-19T09:23:49Z"
 ---
 ## What it is
 MCP Server for the LINE Shopping API, enabling AI agents and tools to interact with LINE Shopping data and operations via the Model Context Protocol.

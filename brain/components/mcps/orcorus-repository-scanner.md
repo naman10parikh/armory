@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T03:52:18Z"
 ---
 ## What it is
 Scans GitHub repositories for security vulnerabilities by cloning, performing static analysis, secret detection, build verification, and AI-powered OWASP-aligned code review, producing a scored SECURITY.md report.

@@ -8,10 +8,12 @@ source_url: https://github.com/sfyyy/claude-code-dingtalk-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-08-02T08:53:51Z"
 ---
 ## What it is
 MCP server `DingTalk`, catalogued on PulseMCP. Integrates with DingTalk messaging platform through webhook connections to send text messages, markdown content, and link cards with @mentions and signature authentication for team notifications and automated updates.

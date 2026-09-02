@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T13:57:18Z"
 ---
 ## What it is
 A read-only MCP server for Anaplan that exposes 5 tools for business users to explore data through an AI assistant, with session caching and metadata gating.

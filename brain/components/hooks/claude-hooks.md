@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [cc-notify, claudio]
 tags: [claude-code, hooks]
-stars: 388
+stars: 389
+forks: 26
+pushed_at: "2025-08-08T03:19:00Z"
 ---
 ## What it is
 A TypeScript-based system for configuring and customizing Claude Code hooks with a powerful and flexible interface.

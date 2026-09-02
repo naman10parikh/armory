@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-02T16:57:33Z"
 ---
 ## What it is
 MCP server `DEX K-line (GeckoTerminal)`, catalogued on PulseMCP. Streams real-time OHLCV candlestick data from decentralized exchanges via GeckoTerminal API, automatically selecting highest liquidity pools across Ethereum, BSC, and Solana networks for accurate DeFi market analysis and trading insights.

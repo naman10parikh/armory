@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T07:59:07Z"
 ---
 ## What it is
 Provides market-intelligence tools for researching AI employee opportunities across Egypt, Saudi Arabia, and UAE using Meta ads evidence, with capabilities for competitor analysis, comparison, and evidence retrieval.

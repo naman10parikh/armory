@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T03:06:00Z"
 ---
 ## What it is
 Provides controlled, verifiable access to jw.org content for AI applications, enabling search, article retrieval, and scripture lookup while preventing hallucinations.

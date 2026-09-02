@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-07-23T06:29:44Z"
 ---
 ## What it is
 Enables Claude Desktop to securely access FreeStyle LibreLink continuous glucose monitoring data, providing real-time readings, historical analysis, and health insights through natural language queries.

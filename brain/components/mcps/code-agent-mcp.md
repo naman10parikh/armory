@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T01:19:20Z"
 ---
 ## What it is
 A delegation socket MCP server that enables a driver code agent to hand off subtasks to a cheap local worker (e.g., OpenCode) via a single MCP tool call and pick up results asynchronously without breaking flow.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:45:26Z"
 ---
 ## What it is
 Enables stateless tarot card draws for character-led readings, with support for single, three-card, and relationship spreads, and generates SullyOS HTML cards for display.

@@ -8,11 +8,13 @@ source_url: https://github.com/xyonium/reach-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T02:56:53Z"
 ---
 ## What it is
 A controllable multi-source search MCP server for AI agents. Enables searching multiple sources like Reddit, X, YouTube, and more, with control over sources, time window, and optional synthesis.

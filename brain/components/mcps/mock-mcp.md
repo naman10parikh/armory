@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-08T18:03:15Z"
 ---
 ## What it is
 Generates schema-compliant mock data from OpenAPI JSON Schema definitions using AI, enabling seamless testing without manual fixtures.

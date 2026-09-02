@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T16:21:24Z"
 ---
 ## What it is
 Exposes Foursquare/Swarm check-in data and user activity through 13 tools, enabling user management, check-in history, venue details, mayorships, lists, and cross-user search.

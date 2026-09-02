@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-13T11:03:05Z"
 ---
 ## What it is
 A verification layer that lets AI agents safely delete code in large codebases by assessing usage paths and providing risk statuses.

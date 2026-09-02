@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T00:38:38Z"
 ---
 ## What it is
 Enables managing PostgreSQL clusters via the CloudNativePG operator, including CRUD operations for clusters, databases, and roles.

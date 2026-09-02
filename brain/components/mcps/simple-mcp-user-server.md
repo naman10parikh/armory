@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-14T07:03:05Z"
 ---
 ## What it is
 Provides tools for retrieving user data, including listing all users and fetching a specific user by name.

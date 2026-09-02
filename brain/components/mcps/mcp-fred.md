@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-17T00:24:10Z"
 ---
 ## What it is
 A comprehensive MCP server providing access to all FRED API endpoints with intelligent large data handling, project-based storage, and async job processing for AI assistants like Claude.

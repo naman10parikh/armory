@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-21T09:32:34Z"
 ---
 ## What it is
 MCP server for SQL Server database interactions, providing tools to list databases, get schema, and execute parameterized SELECT queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T11:25:16Z"
 ---
 ## What it is
 Simulates EVM transactions against forked chain state and explains why they revert, using Tenderly's free-tier API with decoded traces and source-mapped errors. Provides tools to simulate single transactions or bundles and inspect saved simulations, all with output size controls to keep responses af

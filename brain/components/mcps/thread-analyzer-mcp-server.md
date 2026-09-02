@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T15:47:15Z"
 ---
 ## What it is
 Scrape and analyze replies from any public Threads post right from your AI coding agent.

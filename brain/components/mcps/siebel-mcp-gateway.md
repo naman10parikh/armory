@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T15:40:43Z"
 ---
 ## What it is
 Exposes the Oracle Siebel CRM REST API as MCP tools over streamable HTTP, enabling agentic clients to query, create, update, and delete Siebel records and pull the object catalog without holding Siebel credentials themselves.

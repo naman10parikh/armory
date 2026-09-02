@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T11:07:32Z"
 ---
 ## What it is
 A minimal MCP server built with NestJS to test PostHog MCP analytics integration, exposing mocked tools for trends and funnel analysis.

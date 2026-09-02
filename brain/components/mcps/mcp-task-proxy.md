@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T03:53:41Z"
 ---
 ## What it is
 Proxies a remote MCP server to add protocol-native background task support, including task management and progress forwarding, while preserving synchronous calls.

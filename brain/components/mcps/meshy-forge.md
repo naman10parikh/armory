@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T13:36:45Z"
 ---
 ## What it is
 Prevents Meshy asset expiration by automatically storing models locally, enabling search and reuse via prompts.

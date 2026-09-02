@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T09:26:48Z"
 ---
 ## What it is
 Enables interaction with Sam's Club Sponsored Ads APIs through spec-driven endpoint discovery and an authenticated proxy with automatic RSA-SHA256 request signing.

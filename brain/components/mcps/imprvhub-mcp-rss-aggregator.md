@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 27
+forks: 10
+pushed_at: "2026-07-24T02:46:49Z"
 ---
 ## What it is
 Model Context Protocol Server for aggregating RSS feeds in Claude Desktop.

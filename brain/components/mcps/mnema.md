@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T09:51:46Z"
 ---
 ## What it is
 Provides a file-first personal memory layer for AI agents, enabling them to store and retrieve memories as markdown files with an SQLite index. The MCP server offers read-only search by default, with optional write tools for manual memory addition and conflict resolution.

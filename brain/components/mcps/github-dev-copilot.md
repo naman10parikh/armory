@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T16:38:53Z"
 ---
 ## What it is
 Enables AI agents to interact with GitHub via MCP, managing repositories, issues, PRs, and analyzing repository health through tools like list_repositories, read_issues, create_issue, comment_on_pr, and analyze_repo_health.

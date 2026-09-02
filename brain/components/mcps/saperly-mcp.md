@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T23:26:26Z"
 ---
 ## What it is
 MCP server for Saperly that enables AI agents to provision phone numbers, place calls, send SMS, and manage credentials via 36 tools backed by the Saperly API.

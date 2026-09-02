@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T01:18:49Z"
 ---
 ## What it is
 A remote MCP server for Salesforce deployed on Cloudflare Workers, enabling Claude to query and manage Salesforce data through SOQL, SOSL, DML, and Apex with per-user OAuth.

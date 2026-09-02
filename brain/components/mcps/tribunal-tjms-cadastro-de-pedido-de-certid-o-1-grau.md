@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:38Z"
 ---
 ## What it is
 A read-only MCP server that enables querying official court data from the Tribunal de Justiça de Mato Grosso do Sul (TJMS) to consult certificate request registrations (1º grau). It exposes a single tool, accessible via any MCP-over-HTTP client, for natural-language-powered certificate status checks

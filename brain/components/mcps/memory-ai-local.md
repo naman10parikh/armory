@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T09:24:21Z"
 ---
 ## What it is
 A local-first MCP server that manages developer memory for coding agents, enabling shared project context, permissions, and audit trails across different agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-03T13:14:18Z"
 ---
 ## What it is
 FastMCP-based tool for extracting UI component code from Uiverse.io, supporting HTML/CSS, React, Vue, Svelte, and Lit frameworks.

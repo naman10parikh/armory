@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:20:34Z"
 ---
 ## What it is
 Enables read-only exploration and analysis of an included SQLite shop database through tools for listing tables, describing schemas, and running SQL queries.

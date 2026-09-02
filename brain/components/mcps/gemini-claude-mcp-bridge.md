@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-26T13:26:14Z"
 ---
 ## What it is
 A private MCP server that lets Claude generate images using Google Gemini/Imagen, exposing a generate_image tool.

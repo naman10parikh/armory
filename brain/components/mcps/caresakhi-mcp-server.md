@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-18T16:20:09Z"
 ---
 ## What it is
 Manages orders, products, stock, users, and EcoCoins for the CareSakhi Partner App via natural conversation with Claude Desktop.

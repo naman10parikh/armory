@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T13:00:50Z"
 ---
 ## What it is
 MCP server that automates applying to jobs on Lever and Greenhouse ATS systems. It fills forms from a candidate profile, verifies fields, and supports dry-run or live submission, with optional chat integration via Hermes.

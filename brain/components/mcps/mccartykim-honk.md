@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-28T17:10:26Z"
 ---
 ## What it is
 MCP server `Honk`, catalogued on PulseMCP. Provides a simple text-to-speech interface for MacOS using the built-in 'say' command, enabling voice output for AI models.

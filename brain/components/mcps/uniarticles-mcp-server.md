@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-01T14:12:22Z"
 ---
 ## What it is
 Unifies academic literature retrieval from multiple sources like Scopus, ArXiv, PubMed, and Google Scholar into a single standardized API for LLM agents.

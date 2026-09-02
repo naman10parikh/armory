@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:36:24Z"
 ---
 ## What it is
 Enables AI assistants to search sfmc-devtools wiki offline, explain config concepts, walk component checklists, and list metadata types via mcdev.

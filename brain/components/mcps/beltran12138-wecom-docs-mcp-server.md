@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
-stars: 7
+stars: 6
+forks: 0
+pushed_at: "2026-08-18T18:59:07Z"
 ---
 ## What it is
 WeCom (Enterprise WeChat) document operations via MCP: create, read, and edit Docs and Smartsheets (9 tools). Fills the doc-CRUD gap — existing WeCom MCP servers only support webhook messaging.

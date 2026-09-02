@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-06T16:57:55Z"
 ---
 ## What it is
 Enables AI assistants to manage, store, and retrieve prompts through the Model Context Protocol, with a web UI for prompt management and optional secure sharing via Dev Tunnels.

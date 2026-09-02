@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:41:08Z"
 ---
 ## What it is
 Enables AI agents to publish HTML or Markdown to a public URL with a single HTTP POST, automatically converting Markdown to a styled webpage, with no account or setup required.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T15:03:03Z"
 ---
 ## What it is
 Enables natural language interaction with MantisBT issues and notes via CRUD operations and semantic search.

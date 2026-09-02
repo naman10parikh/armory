@@ -8,11 +8,13 @@ source_url: https://github.com/jparkerweb/mcp-sqlite
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 126
+stars: 127
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2026-04-05T04:51:05Z"
 ---
 ## What it is
 Provides comprehensive SQLite database interaction through MCP, enabling CRUD operations, custom SQL queries, and database exploration.

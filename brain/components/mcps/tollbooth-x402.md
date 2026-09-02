@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T21:59:03Z"
 ---
 ## What it is
 Free MCP server for x402toll.com, enabling AI agents to discover and use verified, pay-per-call calculators with free previews and hash verification, supporting payments via x402 protocol on Base.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T17:53:53Z"
 ---
 ## What it is
 Provides CodeQL language intelligence to AI agents via MCP, enabling completions, hover, definitions, references, diagnostics, formatting, and in-memory file updates for QL code.

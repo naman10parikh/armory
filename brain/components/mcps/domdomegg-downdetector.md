@@ -8,10 +8,12 @@ source_url: https://github.com/domdomegg/downdetector-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-11T16:57:35Z"
 ---
 ## What it is
 MCP server `Downdetector`, catalogued on PulseMCP. Check service status and outage information

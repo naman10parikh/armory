@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:44:36Z"
 ---
 ## What it is
 Enables querying domain trust scores, ratings, and reviews, searching domains, and posting reviews via natural language through the truster.info service.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-11T03:37:17Z"
 ---
 ## What it is
 MCP server `Allstacks`, catalogued on PulseMCP. AI-ready access to engineering intelligence and analytics

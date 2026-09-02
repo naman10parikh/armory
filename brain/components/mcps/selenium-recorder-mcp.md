@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-15T09:10:36Z"
 ---
 ## What it is
 Records browser interactions (clicks, DOM mutations, console logs, JS errors) via Chrome DevTools Protocol while you manually navigate, and provides tools to retrieve and analyze recordings for test generation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T20:05:22Z"
 ---
 ## What it is
 MCP server that connects Claude to Microsoft 365 mail for inbox triage, search, classification, and idempotent rule provisioning via Microsoft Graph, with device-code auth and read-only default.

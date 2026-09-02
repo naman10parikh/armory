@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T07:33:20Z"
 ---
 ## What it is
 A FastMCP server that wraps the U.S. Energy Information Administration Open Data API v2, enabling natural-language queries for electricity, petroleum, and other energy statistics via tools like discover_eia_route and get_eia_data.

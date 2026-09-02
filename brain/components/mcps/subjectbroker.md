@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T09:53:01Z"
 ---
 ## What it is
 Enables AI agents to access registered resources based on a fixed subject identity, enforcing default-deny policies and auditing for controlled context sharing.

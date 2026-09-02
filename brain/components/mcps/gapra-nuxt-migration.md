@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-30T00:18:08Z"
 ---
 ## What it is
 MCP server `Nuxt Migration`, catalogued on PulseMCP. Automates Nuxt 2/3 to Nuxt 3/4 migration with pattern detection, code analysis, and automated generation of Pinia stores, composables, and TypeScript types.

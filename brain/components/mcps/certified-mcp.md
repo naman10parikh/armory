@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:52:18Z"
 ---
 ## What it is
 An MCP server that provides tools for certificate verification, equivalence proving, and pre-registration sealing, enabling AI agents to re-derive verdicts from artifacts rather than trust assertions.

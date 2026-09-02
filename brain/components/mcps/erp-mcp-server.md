@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T08:13:11Z"
 ---
 ## What it is
 It enables LLMs to query enterprise data such as sales orders, stock levels, and vendor information through structured MCP-compliant tools, using localized JSON databases for demonstration.

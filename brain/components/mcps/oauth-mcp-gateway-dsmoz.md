@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-28T18:13:16Z"
 ---
 ## What it is
 MCP server `OAuth MCP Gateway`, catalogued on PulseMCP. OAuth 2.0 gateway that authenticates Claude clients and proxies requests to multiple upstream MCP servers from a single endpoint.

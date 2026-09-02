@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-29T19:23:37Z"
 ---
 ## What it is
 Enables AI agents to trade on Limitless prediction markets on Base via MCP, with tools for wallet management, market discovery, order placement, and portfolio tracking.

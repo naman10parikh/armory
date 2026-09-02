@@ -8,10 +8,12 @@ source_url: https://github.com/glittercowboy/discord-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-18T06:57:10Z"
 ---
 ## What it is
 MCP server `Discord`, catalogued on PulseMCP. Provides full administrative control over Discord communities through message, moderation, channel, role, and event management operations with on-demand discovery pattern for automating Discord administration.

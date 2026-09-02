@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T20:17:30Z"
 ---
 ## What it is
 MCP server `Coordinalo`, catalogued on PulseMCP. Connects to Coordinalo's scheduling and booking platform for managing appointments, clients, providers, and services.

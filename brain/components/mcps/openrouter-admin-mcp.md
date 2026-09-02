@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T08:56:20Z"
 ---
 ## What it is
 MCP server for OpenRouter's management API, enabling programmatic control of credits, inference keys, guardrails, and usage analytics from MCP-compatible clients.

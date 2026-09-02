@@ -8,10 +8,12 @@ source_url: https://github.com/sunriseapps/imagesorcery-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 313
+stars: 329
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 51
+pushed_at: "2026-05-19T08:19:25Z"
 ---
 ## What it is
 MCP server `ImageSorcery`, catalogued on PulseMCP. Provides powerful image manipulation capabilities including resizing, cropping, object detection, OCR text extraction, and finding objects based on text descriptions using Python with OpenCV and Ultralytics

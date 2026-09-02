@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-06T20:20:47Z"
 ---
 ## What it is
 Enterprise-grade MCP server for static application security testing with multi-tool integration, compliance verification, AI-powered remediation, and multi-tenant management.

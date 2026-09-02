@@ -8,11 +8,13 @@ source_url: https://github.com/Jack-Abyss/claude-garmin
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-14T14:40:42Z"
 ---
 ## What it is
 MCP server that connects Garmin Connect data to Claude, enabling training analysis, recovery checks, and personalized plans based on real metrics like HRV, training load, and activities.

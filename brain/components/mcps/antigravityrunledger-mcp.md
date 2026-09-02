@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T12:35:46Z"
 ---
 ## What it is
 MCP server `Antigravity Run Ledger`, catalogued on PulseMCP. Antigravity agent run receipt ledger with structured audit logs and reviewer-ready evidence.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:58:43Z"
 ---
 ## What it is
 A local-first Python MCP server that turns Gmail, Outlook/Microsoft 365, iCloud Mail, and generic IMAP/SMTP mailboxes into a synchronized, searchable OKF knowledge layer, exposing 38 tools and four resources for mailbox actions, synchronization, retrieval, attachments, and optional semantic search w

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T15:24:05Z"
 ---
 ## What it is
 Provides MCP servers for AI-driven video editing. Enables offline editing of CapCut drafts and remote control of Adobe Premiere Pro via UXP plugin, with shared media analysis for beat detection and transcription.

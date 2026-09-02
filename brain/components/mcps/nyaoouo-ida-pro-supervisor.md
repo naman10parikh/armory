@@ -8,10 +8,12 @@ source_url: https://github.com/nyaoouo/idalib-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-06-04T06:40:50Z"
 ---
 ## What it is
 MCP server `IDA Pro Supervisor`, catalogued on PulseMCP. Headless supervisor for multiple IDA Pro 9.x worker processes via idalib, with browser UI for instance management and HTTP plus stdio transports.

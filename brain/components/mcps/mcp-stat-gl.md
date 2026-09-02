@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:43:29Z"
 ---
 ## What it is
 Enables fetching and querying statistical data from Statistics Greenland (Grønlands Statistik) PxWeb, including navigating subject trees and retrieving table metadata and data.

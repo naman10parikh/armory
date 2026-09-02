@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T21:23:20Z"
 ---
 ## What it is
 Enables managing multiple Grafana instances through a single MCP server, routing requests to the correct instance based on an instance argument.

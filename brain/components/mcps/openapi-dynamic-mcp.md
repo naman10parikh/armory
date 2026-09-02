@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T18:07:20Z"
 ---
 ## What it is
 Connect AI clients to OpenAPI APIs quickly, with one MCP server, direct CLI access, and built-in auth support.

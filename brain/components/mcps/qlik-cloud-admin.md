@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:56:52Z"
 ---
 ## What it is
 Connects Claude Desktop to a Qlik Cloud tenant for admin operations, allowing users to manage resources like spaces, apps, and automations via natural language.

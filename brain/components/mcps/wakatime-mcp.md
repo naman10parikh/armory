@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T23:09:18Z"
 ---
 ## What it is
 Exposes WakaTime Summaries API tools over stdio, enabling daily and today's coding activity summaries via MCP.

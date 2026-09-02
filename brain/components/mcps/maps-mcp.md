@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:39:26Z"
 ---
 ## What it is
 MCP server exposing Google Maps Platform to MCP clients with seven tools for geocoding, place search/details, traffic-aware travel times, and time zones. Runs as a local stdio server or a containerized HTTP service with bearer auth, needing only a single API key.

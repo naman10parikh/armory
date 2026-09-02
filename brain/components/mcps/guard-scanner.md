@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T22:46:02Z"
 ---
 ## What it is
 Provides a security scanner for AI agent skills and MCP servers, detecting threats like prompt injection, identity hijacking, and memory poisoning.

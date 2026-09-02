@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T18:48:59Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides link checking capabilities using linkinator, enabling AI assistants to scan webpages and local files for broken links.

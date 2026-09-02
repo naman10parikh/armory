@@ -8,11 +8,13 @@ source_url: https://github.com/sadiuysal/crawl4ai-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 106
+stars: 107
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 23
+pushed_at: "2026-02-06T14:33:22Z"
 ---
 ## What it is
 A lightweight MCP server that exposes Crawl4AI web scraping and crawling capabilities as tools for AI agents, enabling single-page scraping and multi-page crawling with adaptive stopping.

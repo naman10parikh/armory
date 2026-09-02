@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-06-23T20:44:56Z"
 ---
 ## What it is
 A multi-interface music analysis server providing MCP, HTTP, CLI, and Python interfaces for music21-based analysis.

@@ -8,10 +8,12 @@ source_url: https://github.com/suthio/brave-deep-research-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-11T02:42:12Z"
 ---
 ## What it is
 MCP server `Brave Deep Research`, catalogued on PulseMCP. Combines Brave Search with web scraping to provide deep research capabilities by extracting full content from pages and traversing links at configurable depths

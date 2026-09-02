@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T20:00:17Z"
 ---
 ## What it is
 MCP server `GBG Loqate Reach`, catalogued on PulseMCP. Verify addresses, email addresses, and phone numbers with confidence scores via GBG's Loqate Reach API.

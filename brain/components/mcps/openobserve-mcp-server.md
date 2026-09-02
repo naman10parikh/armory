@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-22T14:34:46Z"
 ---
 ## What it is
 Enables querying logs, traces, and metrics from multiple OpenObserve instances via MCP tools, with parallel execution, batching, and caching.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T20:45:00Z"
 ---
 ## What it is
 Enables AI agents to access Hacker News data including stories, items, users, and comments via MCP tools.

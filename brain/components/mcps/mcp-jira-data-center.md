@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T09:51:53Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that connects AI assistants to Jira Server/Data Center, enabling issue management, JQL search, sprint tracking, and natural language interaction with Jira.

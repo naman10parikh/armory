@@ -8,10 +8,12 @@ source_url: https://github.com/suxyee/aliyun-sls-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-19T04:56:52Z"
 ---
 ## What it is
 MCP server `Aliyun SLS Log Query`, catalogued on PulseMCP. Queries Alibaba Cloud SLS logs with natural language, supporting multi-region search, SQL analysis, and log context tracing.

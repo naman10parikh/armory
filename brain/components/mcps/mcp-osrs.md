@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T01:08:17Z"
 ---
 ## What it is
 MCP server for the Old School RuneScape Wiki, game data, Grand Exchange prices, and hiscores with polite client behavior.

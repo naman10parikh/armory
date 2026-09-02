@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T20:31:01Z"
 ---
 ## What it is
 Remote Model Context Protocol server for finding authorized real-estate listings in Mexico. It provides public property search, details and contact options, plus OAuth-protected favorites and publishing tools.

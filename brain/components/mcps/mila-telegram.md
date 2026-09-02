@@ -8,11 +8,13 @@ source_url: https://github.com/shakhruz/mila-telegram
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T02:15:24Z"
 ---
 ## What it is
 Enables running Claude Code sessions from Telegram with group auto-join, voice transcription, reply-quote context, and a restart-proof polling daemon.

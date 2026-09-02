@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-23T04:01:31Z"
 ---
 ## What it is
 Enables AI agents to perform corpus analysis tasks such as discovery, search, and data access via the Model Context Protocol.

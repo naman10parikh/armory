@@ -8,11 +8,13 @@ source_url: https://github.com/dipankarmazumdar/iceberg-mcp-server-trino
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T22:30:36Z"
 ---
 ## What it is
 Model Context Protocol server for read-only access to Iceberg tables through Cloudera Trino: schema discovery, SQL queries, metadata-based health checks, time travel, and performance analysis.

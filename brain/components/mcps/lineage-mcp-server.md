@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T07:00:24Z"
 ---
 ## What it is
 Provides tools to interact with the Lineage blockchain API, including wallet seed phrase and keypair generation, balance queries, and latest block retrieval.

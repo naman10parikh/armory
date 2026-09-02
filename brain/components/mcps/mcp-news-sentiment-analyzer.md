@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T10:50:09Z"
 ---
 ## What it is
 Search Google News and analyze sentiment through a fixed tool chain, returning JSON, Markdown reports, and final summaries.

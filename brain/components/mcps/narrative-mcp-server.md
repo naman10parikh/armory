@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T01:32:15Z"
 ---
 ## What it is
 Integrates with Narrative's Data Collaboration Platform, enabling AI assistants to search attributes, list datasets, manage access rules, and execute NQL queries via MCP tools and prompts.

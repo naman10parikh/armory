@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T16:17:46Z"
 ---
 ## What it is
 MCP server to query UK higher-education open data including National Student Survey results, student outcomes, and graduate earnings. Data is downloaded locally from official sources and compared against benchmarks.

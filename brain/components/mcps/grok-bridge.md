@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T11:34:09Z"
 ---
 ## What it is
 Enables ChatGPT Desktop and Codex to delegate substantial work to a locally installed Grok Build agent. Supports consultations, background builder/tester jobs, cancellation, session discovery, and transcript export.

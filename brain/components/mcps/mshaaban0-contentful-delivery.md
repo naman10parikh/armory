@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-13T09:37:51Z"
 ---
 ## What it is
 MCP server `Contentful Delivery`, catalogued on PulseMCP. Integrates with Contentful's Delivery API to enable querying and retrieving structured content using keywords or sentences, facilitating content-driven applications and dynamic websites.

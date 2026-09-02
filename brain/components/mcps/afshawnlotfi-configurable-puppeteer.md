@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-03-09T03:21:48Z"
 ---
 ## What it is
 MCP server `Configurable Puppeteer`, catalogued on PulseMCP. Enables browser automation through Puppeteer with configurable launch options for Chrome and Firefox, supporting web testing, data extraction, form filling, and interactive demonstrations

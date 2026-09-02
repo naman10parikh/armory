@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-19T23:30:43Z"
 ---
 ## What it is
 Durable, local-first memory for AI coding agents over MCP — zero-dependency (pure Python + SQLite/FTS5), curated and semantically de-duped. Works with Claude Code, Codex and any MCP host, and you own the data as plain rows.

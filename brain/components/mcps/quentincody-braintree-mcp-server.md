@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 4
+forks: 4
+pushed_at: "2025-05-20T14:50:31Z"
 ---
 ## What it is
 Unofficial PayPal Braintree payment gateway MCP Server for AI agents to process payments, manage customers, and handle transactions securely.

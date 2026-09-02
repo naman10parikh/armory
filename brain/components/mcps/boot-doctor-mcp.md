@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T21:51:18Z"
 ---
 ## What it is
 Provides deterministic PC no-boot/no-display troubleshooting with ranked repair steps and real, sourced BIOS beep-code lookup tables. Enables users to diagnose hardware issues without LLM guesswork.

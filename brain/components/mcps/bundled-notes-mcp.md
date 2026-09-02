@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T12:40:29Z"
 ---
 ## What it is
 MCP não oficial para consultar e administrar uma conta autenticada do Bundled Notes Web. Este servidor local expõe bundles, notas Markdown, tags/tarefas, quadros Kanban, templates personalizados, busca e Files & Photos pelo mesmo modelo Firebase usado pelo aplicativo web.

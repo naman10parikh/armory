@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-01-12T19:29:59Z"
 ---
 ## What it is
 Enables interaction with Appfolio Property Manager through the Reporting API, allowing property management tasks and data retrieval via natural language commands.

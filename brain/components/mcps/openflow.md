@@ -8,11 +8,13 @@ source_url: https://github.com/molkex/mcp-flow-google
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T19:42:44Z"
 ---
 ## What it is
 An MCP server that enables AI agents to generate images and videos through Google Flow using models like Veo and Nano Banana, with tools for image generation, upscaling, video creation, character management, and music generation.

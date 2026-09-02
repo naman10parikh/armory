@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-19T03:56:26Z"
 ---
 ## What it is
 MCP server `Docs.rs`, catalogued on PulseMCP. Streamlines Rust documentation workflows by providing tools for building, managing, and searching crate documentation through cargo doc commands with caching and error handling.

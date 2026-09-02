@@ -8,10 +8,12 @@ source_url: https://github.com/mobai-app/mobai-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 186
+stars: 244
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-08-02T23:57:33Z"
 ---
 ## What it is
 MCP server `MobAI`, catalogued on PulseMCP. MCP server for MobAI, enabling AI coding assistants to control and automate Android and iOS devices, emulators, and simulators.

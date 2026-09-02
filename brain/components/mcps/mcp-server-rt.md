@@ -8,11 +8,13 @@ source_url: https://github.com/bestpractical/mcp-server-rt
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-31T02:46:28Z"
 ---
 ## What it is
 Connects AI assistants to a Request Tracker (RT) instance, enabling natural language ticket search, creation, updates, and queue management via the MCP protocol.

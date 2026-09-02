@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T02:00:40Z"
 ---
 ## What it is
 MCP server `Cohereon Manifold`, catalogued on PulseMCP. Provides access to the Cohereon Doctrine AI safety framework with governance components, tiered access, and agent onboarding.

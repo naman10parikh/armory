@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T11:05:37Z"
 ---
 ## What it is
 Enables AI agents to control USB power for embedded development boards via Yepkit YKUSH hubs, allowing power switching, monitoring, and power-cycling through MCP tools.

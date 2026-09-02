@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T11:47:27Z"
 ---
 ## What it is
 MCP server providing a single query tool to execute SQL against GetDot Database, enabling schema discovery, data loading, and querying via natural language.

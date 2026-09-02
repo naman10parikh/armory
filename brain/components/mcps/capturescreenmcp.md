@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T14:33:46Z"
 ---
 ## What it is
 A Windows-local MCP server for capturing screenshots (full screen, displays, regions, active window) and managing capture images via deletion tools, using a .NET tool interface.

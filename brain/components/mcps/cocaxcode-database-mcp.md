@@ -8,11 +8,13 @@ source_url: https://github.com/cocaxcode/database-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:09:43Z"
 ---
 ## What it is
 A database MCP server providing 33 tools across PostgreSQL, MySQL, and SQLite, with connection groups, rollback, dump/restore, and schema auto-discovery via natural language.

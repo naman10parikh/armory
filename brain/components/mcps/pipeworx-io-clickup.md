@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:48:24Z"
 ---
 ## What it is
 MCP server `ClickUp`, catalogued on PulseMCP. ClickUp project management integration via the ClickUp REST API v2 with user-provided API credentials.

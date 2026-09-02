@@ -8,10 +8,12 @@ source_url: https://github.com/gybob/aai-gateway
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 105
+stars: 99
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-01T14:16:41Z"
 ---
 ## What it is
 MCP server `AAI Gateway`, catalogued on PulseMCP. Unified gateway for managing MCP servers and skill packages across AI agents with on-demand loading.

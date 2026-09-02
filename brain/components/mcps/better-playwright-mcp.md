@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T20:13:25Z"
 ---
 ## What it is
 Token-efficient browser automation MCP server using Playwright, with getOutline and searchSnapshot to save ~95% tokens compared to full snapshots.

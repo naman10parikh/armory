@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T10:48:23Z"
 ---
 ## What it is
 An MCP server that exposes browser automation tools and Taobao product search/detail lookup via Playwright. It requires a logged-in Taobao session and is best-effort scraping, not an official API.

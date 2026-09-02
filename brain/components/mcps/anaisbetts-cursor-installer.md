@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-02T07:05:06Z"
 ---
 ## What it is
 MCP server `Cursor MCP Installer`, catalogued on PulseMCP. Utility server that simplifies adding new MCP capabilities to Cursor by installing and configuring servers from npm, Python packages, or local repositories without manual configuration file editing.

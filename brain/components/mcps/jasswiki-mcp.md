@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T13:18:21Z"
 ---
 ## What it is
 Provides AI assistants with access to an official, cryptographically attested knowledge base of Swiss Jass (230+ articles on rules, variants, terminology, history, and tactics).

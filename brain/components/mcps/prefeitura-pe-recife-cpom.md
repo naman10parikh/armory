@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:48Z"
 ---
 ## What it is
 Enables querying official data from the Prefeitura de Recife (Recife City Hall) through a hosted, read-only MCP server. Supports MCP over HTTP with usage-based prepaid billing.

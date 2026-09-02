@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 4
+forks: 7
+pushed_at: "2025-04-14T08:23:37Z"
 ---
 ## What it is
 An MCP server that tracks the historical changes of Twitter usernames.

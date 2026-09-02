@@ -8,10 +8,12 @@ source_url: https://github.com/arindam200/reddit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 287
+stars: 299
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 41
+pushed_at: "2025-12-21T11:07:11Z"
 ---
 ## What it is
 MCP server `Reddit`, catalogued on PulseMCP. Integrates with Reddit to provide user analysis with engagement patterns, subreddit statistics with health metrics, post creation with timing recommendations, and comment replies with strategic optimization for social media management and community engagement workflows.

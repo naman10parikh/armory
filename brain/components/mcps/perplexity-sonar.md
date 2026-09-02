@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-18T11:56:16Z"
 ---
 ## What it is
 MCP server `Perplexity Sonar`, catalogued on PulseMCP. Integrates with Perplexity's Sonar API to provide three-tiered web search and reasoning capabilities, from quick factual queries to deep research analysis with citations.

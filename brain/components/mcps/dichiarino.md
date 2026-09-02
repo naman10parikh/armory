@@ -8,11 +8,13 @@ source_url: https://github.com/gsaccardi/dichiarino-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T13:16:50Z"
 ---
 ## What it is
 Enables AI assistants to help compile the Italian Modello 730 income tax return by providing IRPEF calculations, deduction tools, and tax rule guidance.

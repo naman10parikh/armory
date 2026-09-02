@@ -8,10 +8,12 @@ source_url: https://github.com/danieleteti/mcp-server-delphi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-01T15:34:55Z"
 ---
 ## What it is
 MCP server `DMVCFramework MCP`, catalogued on PulseMCP. MCP server implementation for Delphi applications using DMVCFramework, exposing tools, resources, and prompts via HTTP streamable and stdio transports.

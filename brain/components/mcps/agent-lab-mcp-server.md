@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:12:56Z"
 ---
 ## What it is
 Exposes read-only PostgreSQL-backed HR data through seven structured tools, including employee directory lookups, late arrival and absence reporting, and delay summarization, all validated with Zod and returning queryable structured content.

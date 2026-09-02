@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T09:44:35Z"
 ---
 ## What it is
 A reference MCP server for observing Vercel projects and deployments over stdio. It provides read-only tools to list and fetch details of Vercel projects and deployments.

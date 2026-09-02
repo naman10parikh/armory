@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:12:58Z"
 ---
 ## What it is
 This MCP server enables Claude to read and manage self-hosted CalDAV calendars (SOGo, Nextcloud, Radicale, etc.) with strict safety guardrails: read-only by default, optional writes only when explicitly enabled, no permanent deletes, and no event invitations.

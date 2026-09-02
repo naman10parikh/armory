@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-20T11:39:37Z"
 ---
 ## What it is
 An MCP server that enables AI coding assistants to access and search Qt 4.8.4 documentation offline, providing full-text search and page reading capabilities.

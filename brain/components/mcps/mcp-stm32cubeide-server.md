@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T19:34:42Z"
 ---
 ## What it is
 An MCP server that lets AI coding agents drive the full STM32 development loop—code generation, build, flash, debug, serial monitoring, and fault diagnosis—end to end via CubeIDE, CubeMX, CubeProgrammer, OpenOCD, and GDB.

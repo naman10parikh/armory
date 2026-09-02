@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T19:20:49Z"
 ---
 ## What it is
 MCP server for Power BI — local PBIX file analysis, cloud API operations, report export, and semantic model extraction from Power BI Desktop.

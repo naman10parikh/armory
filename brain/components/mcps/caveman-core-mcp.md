@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T17:01:42Z"
 ---
 ## What it is
 MCP server that compresses LLM responses into caveman-style prose, reducing token usage by ~65% while maintaining technical accuracy.

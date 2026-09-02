@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T17:11:52Z"
 ---
 ## What it is
 MCP server for publishing HTML or Markdown to a live hosted URL via htmldrop. Provides tools to publish, list, and delete hosted sites, with remote OAuth and API token authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:32:50Z"
 ---
 ## What it is
 Generates harmonious color palettes from any hex color with multiple schemes, returning hex, RGB, HSL, and CSS vars. Pay-per-call via x402 micropayments.

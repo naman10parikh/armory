@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-27T02:56:05Z"
 ---
 ## What it is
 WebAI-MCP is a comprehensive browser automation and monitoring solution that enables AI applications to capture and analyze browser data through a Chrome extension, providing 20+ tools for screenshots, console logs, network monitoring, storage access, audits, and cross-platform auto-paste.

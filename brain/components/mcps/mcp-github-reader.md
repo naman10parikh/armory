@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-03-29T21:08:38Z"
 ---
 ## What it is
 A lightweight MCP server for bringing GitHub repositories into context for large language models, enabling repository analysis, file access, and search without local cloning.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T08:05:44Z"
 ---
 ## What it is
 A todo list MCP server with Tools, Resources, and Prompts, demonstrating MCP features and compatible with DeepSeek and Claude Code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T03:45:18Z"
 ---
 ## What it is
 MCP server for Simplesat, enabling search of CSAT/NPS survey answers via the Simplesat V1 API. Provides a single tool to query customer feedback with optional filters like date range and filter criteria.

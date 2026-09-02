@@ -8,10 +8,12 @@ source_url: https://github.com/martparve/selver-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-24T21:03:26Z"
 ---
 ## What it is
 MCP server `Selver`, catalogued on PulseMCP. MCP server enabling Claude to shop at the Estonian grocery retailer Selver.ee with product search, smart cart building, and browser integration.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-26T17:00:58Z"
 ---
 ## What it is
 MCP server `D&D 5e`, catalogued on PulseMCP. Query Dungeons &amp; Dragons 5th Edition rules data including spells, monsters, and equipment.

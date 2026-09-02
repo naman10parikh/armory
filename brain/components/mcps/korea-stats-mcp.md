@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 20
+pushed_at: "2026-08-29T09:47:51Z"
 ---
 ## What it is
 Enables natural language querying of Korean statistical data from KOSIS, including population, employment, GDP, housing prices, and more, with support for regional and trend analysis.

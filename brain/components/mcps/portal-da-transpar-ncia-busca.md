@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:08Z"
 ---
 ## What it is
 Enables querying the Brazilian government's transparency portal (Portal da Transparência) to search official public spending and transparency data. Read-only access via natural language from any MCP client, with prepaid pay-per-query usage.

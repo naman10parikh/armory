@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T22:28:50Z"
 ---
 ## What it is
 Enables AI assistants to read and write ArchiMate models stored in CoArchi XML format. Query elements, create relationships, design diagrams, and sync changes to Git through natural language.

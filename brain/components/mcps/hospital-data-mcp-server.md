@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T14:39:10Z"
 ---
 ## What it is
 Enables access to a synthetic hospital dataset through MCP, supporting SSE and STDIO transports, deployable to IBM Cloud Code Engine.

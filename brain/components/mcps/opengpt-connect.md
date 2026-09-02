@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T18:40:27Z"
 ---
 ## What it is
 MCP server bridging ChatGPT to local OpenHarness tools, enabling file reads/writes, grep, LSP, and shell execution on a workspace.

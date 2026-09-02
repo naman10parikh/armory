@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T12:33:20Z"
 ---
 ## What it is
 Enables two Claude Code sessions to connect over an end-to-end encrypted channel for collaborative AI-assisted development, with MCP tools for messaging, code sharing, and turn-taking.

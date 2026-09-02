@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
 stars: 46
+forks: 4
+pushed_at: "2026-06-08T02:20:52Z"
 ---
 ## What it is
 Playwright for the entire OS. Gives AI agents the ability to see, find, and interact with UI elements in any desktop application.

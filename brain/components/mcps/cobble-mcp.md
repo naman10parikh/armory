@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T00:26:20Z"
 ---
 ## What it is
 Enables AI assistants to connect to Minecraft servers as a bot, allowing cooperative building, movement, combat, and chat in the same world.

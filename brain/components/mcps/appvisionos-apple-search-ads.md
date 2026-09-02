@@ -8,10 +8,12 @@ source_url: https://github.com/appvisionos/apple-search-ads-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-03T14:18:00Z"
 ---
 ## What it is
 MCP server `Apple Search Ads`, catalogued on PulseMCP. Manage Apple Search Ads campaigns programmatically with 74 typed tools covering the full Campaign Management API v5, including campaigns, ad groups, keywords, and reporting.

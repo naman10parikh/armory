@@ -8,11 +8,13 @@ source_url: https://github.com/andrewbrereton/claude-sidekick
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-08-12T01:56:59Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that connects Claude to local Ollama models, enabling offloading of simpler tasks to save Claude tokens.

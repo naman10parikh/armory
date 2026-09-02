@@ -8,10 +8,12 @@ source_url: https://github.com/hoangnecon/golab
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-23T05:07:17Z"
 ---
 ## What it is
 MCP server `GoLab`, catalogued on PulseMCP. Native Go MCP server for controlling and interacting with Google Colab notebooks from AI coding tools.

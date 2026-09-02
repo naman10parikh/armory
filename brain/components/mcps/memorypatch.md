@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T02:07:16Z"
 ---
 ## What it is
 A local MCP memory server for AI agents to manage memory with evidence-backed, versioned mutations, using SQLite with FTS5 for storage and search.

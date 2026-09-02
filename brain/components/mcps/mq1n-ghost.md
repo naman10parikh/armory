@@ -8,10 +8,12 @@ source_url: https://github.com/mq1n/ghostmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-12-17T10:10:36Z"
 ---
 ## What it is
 MCP server `Ghost`, catalogued on PulseMCP. Windows reverse engineering tool enabling conversational AI-driven memory inspection and binary analysis

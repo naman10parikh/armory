@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-08T18:51:00Z"
 ---
 ## What it is
 MCP server `Tailscale Network Monitor`, catalogued on PulseMCP. Provides read-only access to your Tailscale network for monitoring connected devices, checking network status, running diagnostics, and querying exit nodes without modifying configuration.

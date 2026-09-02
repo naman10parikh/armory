@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T09:11:03Z"
 ---
 ## What it is
 A lightweight MCP server that provides Claude Desktop with persistent memory across conversations by storing, summarizing, and retrieving conversation history.

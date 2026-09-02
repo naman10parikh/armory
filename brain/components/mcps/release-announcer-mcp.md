@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T22:52:06Z"
 ---
 ## What it is
 Generates multi-platform release announcements (X, Reddit, GitHub profile, awesome-list, MCP directory) and a publish-readiness checklist for any public GitHub repository.

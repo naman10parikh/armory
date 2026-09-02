@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T14:24:07Z"
 ---
 ## What it is
 Official MCP server for BlazingCDN - AI agents (Claude, Cursor, Windsurf) manage CDN resources, purge cache, query metrics, domains, Cloud Storage and Video CDN

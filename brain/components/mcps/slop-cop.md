@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T17:39:21Z"
 ---
 ## What it is
 Detects and fixes LLM prose patterns in text, exposing tools for auditing and improving writing quality in MCP-compatible hosts.

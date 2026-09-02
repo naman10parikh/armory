@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T14:42:59Z"
 ---
 ## What it is
 An MCP server that provides controlled read/write tools for managing local-first research memory in an Obsidian vault, enabling AI agents to maintain project context across sessions.

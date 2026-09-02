@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-24T05:37:30Z"
 ---
 ## What it is
 A simplified MCP server for accessing Slack API, enabling AI assistants to list channels, post messages, reply to threads, add reactions, and get channel history.

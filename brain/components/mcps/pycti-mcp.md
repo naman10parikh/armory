@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-11T21:37:49Z"
 ---
 ## What it is
 MCP server that provides condensed and normalized data from OpenCTI to LLMs, enabling lookup of observables, adversaries, and reports with enriched context.

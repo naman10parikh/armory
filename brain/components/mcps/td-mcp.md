@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T04:51:37Z"
 ---
 ## What it is
 MCP server for controlling TouchDesigner from AI coding agents like Claude Code and Codex CLI, enabling operator manipulation, parameter control, and screenshot capture.

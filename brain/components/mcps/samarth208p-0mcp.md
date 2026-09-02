@@ -8,10 +8,12 @@ source_url: https://github.com/samarth208p/0mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T05:53:01Z"
 ---
 ## What it is
 MCP server `0MCP`, catalogued on PulseMCP. Decentralized AI memory MCP server anchored to the 0G blockchain with contradiction detection, repo-aware ingestion, and tradeable memory assets.

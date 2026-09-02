@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T03:39:07Z"
 ---
 ## What it is
 An MCP server that runs on Linux and gives an MCP agent (e.g. Claude Code) SSH access to a Windows machine — to build, test, run commands, transfer files, and drive long-running or interactive jobs.

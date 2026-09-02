@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T10:03:15Z"
 ---
 ## What it is
 A small FastMCP server that lets an AI client create drafts, publish/update posts, upload media, set featured images, and manage categories/tags on a self-hosted WordPress.org site via the REST API + Application Passwords.

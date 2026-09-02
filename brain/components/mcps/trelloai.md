@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T15:49:54Z"
 ---
 ## What it is
 Integrates Trello with Cursor AI via MCP, enabling AI to read, analyze, and manage Trello boards according to user-defined rules.

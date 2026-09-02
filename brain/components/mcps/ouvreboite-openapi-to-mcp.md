@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, code-execution]
 stars: 34
+forks: 7
+pushed_at: "2025-07-15T11:21:08Z"
 ---
 ## What it is
 Lightweight MCP server to access any API using their OpenAPI specification. Supports OAuth2 and full JSON schema parameters and request body.

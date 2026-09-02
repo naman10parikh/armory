@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T00:05:17Z"
 ---
 ## What it is
 A self-hosted backlog tracker with priority scoring and an MCP server, enabling AI agents to autonomously pull, work on, and update tasks via JSON-RPC tools.

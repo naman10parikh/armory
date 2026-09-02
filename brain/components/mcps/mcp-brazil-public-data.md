@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T09:18:51Z"
 ---
 ## What it is
 Enables lookup of Brazilian public data including companies (CNPJ), postal codes (CEP), banking, economy, geography, and more through 15 tools and 2 guided prompts, powered by BrasilAPI with no API key required.

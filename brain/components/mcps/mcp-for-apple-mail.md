@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T18:10:20Z"
 ---
 ## What it is
 MCP server that encapsulates Apple Mail on macOS via AppleScript, enabling invoice PDF search, attachment saving, and message flagging through natural language.

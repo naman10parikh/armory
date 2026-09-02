@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-11T12:05:09Z"
 ---
 ## What it is
 MCP server `Viban`, catalogued on PulseMCP. File-based Kanban board that enables task management through natural language, storing tasks in JSON with YAML configuration for project-specific workflow management.

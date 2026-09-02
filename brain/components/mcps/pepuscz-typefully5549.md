@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-23T16:58:04Z"
 ---
 ## What it is
 MCP server `Typefully`, catalogued on PulseMCP. Integrates with Typefully's social media scheduling platform to automate content creation, scheduling, and publishing workflows across multiple social media platforms.

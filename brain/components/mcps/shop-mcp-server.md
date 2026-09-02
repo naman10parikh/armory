@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T23:50:48Z"
 ---
 ## What it is
 Enables AI agents to analyze an SQLite e-commerce database via secure read-only SQL queries, providing tools for table inspection and analytical requests.

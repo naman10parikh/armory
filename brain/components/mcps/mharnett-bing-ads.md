@@ -8,10 +8,12 @@ source_url: https://github.com/mharnett/mcp-bing-ads
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-27T03:04:08Z"
 ---
 ## What it is
 MCP server `Microsoft Advertising (Bing Ads)`, catalogued on PulseMCP. Integrates with the Microsoft Advertising (Bing Ads) API for campaign management, keyword performance analysis, bid automation, and negative keyword management.

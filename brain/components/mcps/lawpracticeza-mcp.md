@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T07:15:06Z"
 ---
 ## What it is
 MCP server for LawPracticeZA, South African legal practice software, providing tools to manage clients, matters, work-in-progress fees, billing, and accounting via the LawPracticeZA API.

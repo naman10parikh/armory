@@ -8,10 +8,12 @@ source_url: https://github.com/postrv/forgemax
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 149
+stars: 151
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-05-14T18:41:16Z"
 ---
 ## What it is
 MCP server `Forgemax`, catalogued on PulseMCP. Code Mode MCP Gateway that collapses N servers x M tools into 2 tools through sandboxed V8 JavaScript execution for cross-server orchestration.

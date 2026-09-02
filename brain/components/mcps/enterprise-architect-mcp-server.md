@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T03:05:43Z"
 ---
 ## What it is
 Enables creating and managing UML diagrams in Sparx Systems Enterprise Architect via COM interface, supporting sequence, class, use case, and activity diagrams.

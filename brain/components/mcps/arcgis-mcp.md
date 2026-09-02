@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T21:35:45Z"
 ---
 ## What it is
 Unified MCP server for ArcGIS Online and Enterprise providing tools for user/group management, item management, geoprocessing, feature layer queries/editing, and server administration.

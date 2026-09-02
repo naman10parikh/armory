@@ -8,11 +8,13 @@ source_url: https://github.com/copyleftdev/kahea
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T10:15:34Z"
 ---
 ## What it is
 Kāhea is a local-first MCP server that enables coding agents to inspect API descriptions, plan exact requests, grant precise capabilities, and invoke operations with sealed evidence.

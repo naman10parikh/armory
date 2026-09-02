@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-01T18:39:10Z"
 ---
 ## What it is
 A Julia-based MCP server providing tools for database operations, file management, and database administration, with HTTP bridge support for Windows Claude Desktop integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:53:45Z"
 ---
 ## What it is
 Emits Brazilian labor debt clearance certificates (CNDT) from TST for individuals or companies using CPF or CNPJ. Provides read-only access via a single MCP tool for any MCP-compatible client.

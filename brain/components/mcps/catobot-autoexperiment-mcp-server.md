@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T19:31:29Z"
 ---
 ## What it is
 A domain-agnostic MCP server for autonomous experimentation, generalizing Karpathy's autoresearch pattern into a reusable server that any AI agent can drive, pointed at any domain defined by a JSON configuration.

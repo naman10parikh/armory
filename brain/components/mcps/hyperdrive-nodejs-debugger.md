@@ -8,10 +8,12 @@ source_url: https://github.com/workbackai/mcp-nodejs-debugger
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 300
+stars: 303
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-11-13T14:41:00Z"
 ---
 ## What it is
 MCP server `Node.js Debugger`, catalogued on PulseMCP. Connects Claude Code to Node.js's Inspector Protocol for real-time debugging capabilities, enabling breakpoint setting, variable inspection, and code execution stepping without leaving the conversation interface.

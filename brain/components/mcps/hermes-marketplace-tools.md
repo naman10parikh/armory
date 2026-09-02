@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T18:33:03Z"
 ---
 ## What it is
 Provides MCP tools for searching and comparing products on Wildberries (and Ozon planned), including product search, detailed card retrieval, and review fetching, normalized for LLM consumption.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T09:03:54Z"
 ---
 ## What it is
 Module-aware AST MCP server for C++20/23 projects using clangd for AST/LSP operations and a source-level module index, enabling module graph queries, references, diagnostics, and code formatting.

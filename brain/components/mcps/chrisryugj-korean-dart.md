@@ -8,10 +8,12 @@ source_url: https://github.com/chrisryugj/korean-dart-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 96
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-07-30T22:11:12Z"
 ---
 ## What it is
 MCP server `Korean DART`, catalogued on PulseMCP. Compresses 83 OpenDART financial disclosure APIs into 15 tools for Korean stock analysis with insider trading signals and accounting risk scoring.

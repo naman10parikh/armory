@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, command-line]
 stars: 3
+forks: 0
+pushed_at: "2026-04-24T11:29:39Z"
 ---
 ## What it is
 Terminal, filesystem, and background-job tools for Claude Desktop on Linux/macOS. Zero npm deps, pure Node.

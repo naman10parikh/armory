@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:32:49Z"
 ---
 ## What it is
 Execute Python, JavaScript, or SQL code in a sandboxed environment and retrieve stdout, execution time, and errors with pay-per-call via x402 (USDC on Base L2).

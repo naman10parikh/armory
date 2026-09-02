@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T04:16:00Z"
 ---
 ## What it is
 MCP server `Shipcheck`, catalogued on PulseMCP. Repository risk scanning for AI coding agents via the Shipcheck analysis service.

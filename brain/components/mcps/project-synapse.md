@@ -8,10 +8,12 @@ source_url: https://github.com/angrysky56/project-synapse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-29T23:54:45Z"
 ---
 ## What it is
 MCP server `Project Synapse`, catalogued on PulseMCP. Transforms raw text into interconnected knowledge graphs using semantic parsing, Zettelkasten methodology, and Neo4j storage to autonomously generate novel insights through pattern detection, community analysis, and semantic clustering.

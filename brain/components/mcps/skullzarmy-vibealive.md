@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 8
+forks: 4
+pushed_at: "2025-10-16T18:44:35Z"
 ---
 ## What it is
 Full-featured utility to test Next.js projects for unused files and APIs, with an MCP server that exposes project analysis tools to AI assistants.

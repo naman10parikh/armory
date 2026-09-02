@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-07-20T11:39:11Z"
 ---
 ## What it is
 Provides basic Solana RPC methods and prompts for AI models to interact with the Solana blockchain. Enables developers to fetch balances, account info, and transactions through natural language.

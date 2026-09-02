@@ -8,10 +8,12 @@ source_url: https://github.com/coolbit-in/docker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-26T12:44:44Z"
 ---
 ## What it is
 MCP server `Docker`, catalogued on PulseMCP. Bridges Docker infrastructure management by providing a JSON API for container, image, and command operations through a unified protocol implementation.

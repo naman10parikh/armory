@@ -8,10 +8,12 @@ source_url: https://github.com/denismaggior8/enigma-python-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-31T10:11:28Z"
 ---
 ## What it is
 MCP server `Enigma`, catalogued on PulseMCP. Encrypt and decrypt text using historical Enigma machine emulation.

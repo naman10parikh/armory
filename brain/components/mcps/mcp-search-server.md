@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T10:55:53Z"
 ---
 ## What it is
 MCP-compliant server providing web search via Yandex Search API and URL fetching with fallback mechanisms, plus a monitoring dashboard.

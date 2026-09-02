@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T07:12:00Z"
 ---
 ## What it is
 MCP server for semantic search in an Obsidian Second Brain vault using self-hosted Qdrant and Google Gemini embeddings.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:41:20Z"
 ---
 ## What it is
 Enables reading, searching, drafting, and sending customer support emails via Gmail directly through Claude, eliminating manual copy-pasting.

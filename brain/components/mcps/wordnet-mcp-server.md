@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-15T09:30:37Z"
 ---
 ## What it is
 Provides vocabulary query functions including synonyms, antonyms, hypernyms, hyponyms, definitions, and comprehensive word information via the Model Context Protocol.

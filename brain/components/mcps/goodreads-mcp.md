@@ -8,11 +8,13 @@ source_url: https://github.com/shreeyachand/goodreads-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-02T00:22:50Z"
 ---
 ## What it is
 A read-only MCP server for Goodreads that enables LLMs to search for books, retrieve detailed book info with ratings and reviews, and explore recommendations, series, and author bibliographies using public data sources without requiring authentication.

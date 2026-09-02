@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T20:08:03Z"
 ---
 ## What it is
 Enables users to query financial data and compute credit-risk metrics like Altman Z-Score and loan default probability through natural language.

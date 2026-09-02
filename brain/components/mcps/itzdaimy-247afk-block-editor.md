@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-01T23:20:38Z"
 ---
 ## What it is
 MCP server `247afk Block Editor`, catalogued on PulseMCP. Bridges AI assistants with the 247afk Minecraft bot's visual block editor through WebSocket communication for real-time script editing.

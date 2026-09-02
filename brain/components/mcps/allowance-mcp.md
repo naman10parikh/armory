@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T14:00:01Z"
 ---
 ## What it is
 Enables AI agents to request purchase approval from humans, receive scoped virtual cards, complete checkout, and report receipts for audit.

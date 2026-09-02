@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:38Z"
 ---
 ## What it is
 MCP server for querying Brazilian postal codes (CEP) from the official Correios source, supporting read-only lookups via natural language in any MCP-compatible client.

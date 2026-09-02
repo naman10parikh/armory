@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:17:42Z"
 ---
 ## What it is
 A bearer-authed message hub for AI coding agents to communicate across machines and sessions, providing tools for sending, polling, and managing channels.

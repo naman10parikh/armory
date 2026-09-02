@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T07:32:18Z"
 ---
 ## What it is
 A template for building MCP servers with Python, providing modular tools, API key authentication, and logging to connect AI-powered assistants to backend systems.

@@ -8,10 +8,12 @@ source_url: https://github.com/jongko54/webembedding
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-30T14:06:47Z"
 ---
 ## What it is
 MCP server `webEmbedding`, catalogued on PulseMCP. Source-first URL intake for embed routing, local capture, bounded rebuild, and fidelity verification.

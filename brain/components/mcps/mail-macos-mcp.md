@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T10:35:44Z"
 ---
 ## What it is
 Enables Claude to control the macOS Mail app for reading, searching, drafting, sending, and managing emails directly from Claude Desktop.

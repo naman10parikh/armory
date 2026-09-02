@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-11T00:36:37Z"
 ---
 ## What it is
 Provides k-point generation tools for Quantum ESPRESSO, enabling estimation of k-point spacing and generation of k-point grids for structure files with configurable confidence levels.

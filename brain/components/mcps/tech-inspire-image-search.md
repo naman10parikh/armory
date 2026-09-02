@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-27T15:57:01Z"
 ---
 ## What it is
 MCP server `Inspire`, catalogued on PulseMCP. Integrates with the Inspire backend API to find similar images based on text descriptions, returning optimized JPEG images with pagination support for visual content discovery and retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T23:42:49Z"
 ---
 ## What it is
 MCP server that scans Salesforce Agentforce metadata for security vulnerabilities using 61+ SAST rules, integrating into AI coding workflows to guard against OWASP LLM top 10 risks.

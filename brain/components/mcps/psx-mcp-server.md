@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-10-04T08:42:00Z"
 ---
 ## What it is
 Provides 12 tools to scrape and access Pakistan Stock Exchange market data, including current prices, historical data, intraday, sector search, and volume analysis.

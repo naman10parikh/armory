@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:17:54Z"
 ---
 ## What it is
 An MCP server for reading and editing large text files using content-addressed anchors that survive line shifts, providing tools like read_file_range, edit_file_range, insert_at, prepend_to_file, and append_to_file.

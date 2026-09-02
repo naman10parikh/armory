@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:27Z"
 ---
 ## What it is
 MCP server for querying Brazilian trademark registrations by CPF/CNPJ from an official source. It provides a single read-only tool for trademark consultation and works with any MCP client over HTTP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T09:17:06Z"
 ---
 ## What it is
 Provides MCP tools to validate structured construction plan JSON and create projects in Primavera P6 Professional standalone SQLite databases, with automatic backup and rollback.

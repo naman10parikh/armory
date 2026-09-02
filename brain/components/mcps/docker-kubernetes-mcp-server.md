@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T04:57:08Z"
 ---
 ## What it is
 Enables AI assistants to manage Docker containers and Kubernetes resources through natural language, supporting operations like container management, image building, and pod/deployment/service management.

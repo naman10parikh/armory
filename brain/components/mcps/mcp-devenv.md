@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T04:48:01Z"
 ---
 ## What it is
 An MCP server that gives your AI assistant full awareness of your local dev environment — running processes, Docker containers, git state, open ports, log files, and more.

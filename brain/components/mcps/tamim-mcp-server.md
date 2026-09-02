@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T17:52:15Z"
 ---
 ## What it is
 Converts images to PDF with support for local files, URLs, and base64 input, compatible with any AI agent via HTTP or stdio transport.

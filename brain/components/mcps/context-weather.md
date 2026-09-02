@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T22:54:24Z"
 ---
 ## What it is
 Integrates the US National Weather Service API with Claude Desktop, enabling users to query current conditions and forecasts using natural language.

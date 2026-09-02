@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:27:51Z"
 ---
 ## What it is
 Wraps UOF (U-Office Force) SOAP/ASMX WebServices as MCP tools, enabling AI agents to perform enterprise workflow tasks like form query, application, approval, and case closure via Model Context Protocol.

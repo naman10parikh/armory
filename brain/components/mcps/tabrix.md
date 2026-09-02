@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-17T15:35:41Z"
 ---
 ## What it is
 Enables MCP clients to control and interact with the user's real Chrome browser session, leveraging existing logins, cookies, and extensions for AI-driven automation.

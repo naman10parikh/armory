@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T20:05:59Z"
 ---
 ## What it is
 Let agents list and run NPS/CSAT/CES/PMF surveys for your project and pull honest scores, responses, and share links.

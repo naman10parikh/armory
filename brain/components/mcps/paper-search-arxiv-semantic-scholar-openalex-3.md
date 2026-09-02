@@ -8,11 +8,13 @@ source_url: https://github.com/MCPServings/paper-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4064
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-07-24T02:11:51Z"
 ---
 ## What it is
 Unified academic paper search for AI agents. search_all queries arXiv, Semantic Scholar and OpenAlex at once, de-duplicates the same work across corpora (by DOI/title) and re-ranks with Reciprocal Rank Fusion so papers found by several sources rank highest. read_paper returns full arXiv text with fo

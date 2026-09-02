@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-30T18:08:51Z"
 ---
 ## What it is
 MCP server `Chat Roulette`, catalogued on PulseMCP. Creates real-time chat rooms using tool calls and long-polling to enable chat roulette-style conversations between users through room-based pairing and message queuing.

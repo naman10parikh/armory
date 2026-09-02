@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T15:24:02Z"
 ---
 ## What it is
 MCP server for GoalT, a multi-parent value-propagating goal graph. It enables building and querying goal trees, listing priorities, and opening a live dashboard that highlights the active goal during Claude Code sessions.

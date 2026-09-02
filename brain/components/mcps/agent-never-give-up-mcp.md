@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-29T02:45:22Z"
 ---
 ## What it is
 A MCP server that acts as an 'escape guide' for AI coding agents, providing structured thinking protocols to help agents unstuck themselves without human help.

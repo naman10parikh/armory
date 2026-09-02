@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T21:21:25Z"
 ---
 ## What it is
 MCP server for Beszel system monitoring that provides tools to list systems, containers, alerts, and query CPU, memory, disk, and network stats.

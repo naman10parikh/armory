@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-06-06T22:30:28Z"
 ---
 ## What it is
 MCP Server for interacting with the MyAnimeList API, allowing LLM clients to access and interact with anime, manga and more.

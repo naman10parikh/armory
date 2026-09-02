@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T03:44:49Z"
 ---
 ## What it is
 Enables Navisworks coordination and clash detection via APS, allowing upload of NWD files, extraction of clashes, report generation, and retrieval of viewpoints.

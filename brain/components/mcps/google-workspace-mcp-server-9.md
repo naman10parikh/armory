@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T14:58:08Z"
 ---
 ## What it is
 Enables AI agents to send emails and append content to Google Docs using Gmail and Google Docs APIs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T05:58:21Z"
 ---
 ## What it is
 Experimental MCP server for local LLM orchestration with filesystem tools (read, write, list, delete files) and a CLI agent that communicates via Ollama.

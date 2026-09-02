@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 42
+pushed_at: "2026-09-01T13:38:13Z"
 ---
 ## What it is
 Enables AI assistants to interact with Cisco Modeling Labs (CML) using natural language, allowing creation, management, and automation of network labs.

@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-28T04:02:46Z"
 ---
 ## What it is
 MCP server `iTerm2 Git Worktree Manager`, catalogued on PulseMCP. Automates git worktree management with iTerm2 integration, creating isolated feature branches in dedicated terminal sessions and safely cleaning up completed work with validation checks.

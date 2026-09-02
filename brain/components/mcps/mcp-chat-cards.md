@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T23:19:31Z"
 ---
 ## What it is
 Generates interactive HTML cards (tabs, tables, charts, forms, videos, and more) to render inside desktop chat clients, making conversation content richer and more structured.

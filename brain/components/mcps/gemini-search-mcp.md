@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-21T05:15:47Z"
 ---
 ## What it is
 Enables web search using Google Gemini with search grounding and question-answering on local documents, with support for chunked document reading.

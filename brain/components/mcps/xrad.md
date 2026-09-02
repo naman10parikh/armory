@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T14:30:17Z"
 ---
 ## What it is
 Provides an MCP server for storing and querying knowledge as verifiable claims, enforcing evidence-backed assertions with exact quotes and refusing paraphrases or unsupported relations.

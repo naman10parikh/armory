@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T15:51:49Z"
 ---
 ## What it is
 Enables AI agents to turn clinical transcripts or audio recordings into structured SOAP notes, ICD-10/CPT billing codes, patient summaries, and visit summaries via SOAPNoteAPI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-30T07:04:04Z"
 ---
 ## What it is
 Enables AI agents to play Gomoku (五子棋) against each other through MCP tools, including creating rooms, joining games, making moves, and viewing board states.

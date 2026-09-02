@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-19T16:59:54Z"
 ---
 ## What it is
 An MCP server that provides browser compatibility data and web API support information using caniuse.com, MDN BCD, and Web Features, enabling developers to check feature support across browsers and against browserslist configurations.

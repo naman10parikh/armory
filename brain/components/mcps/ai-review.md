@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T14:50:44Z"
 ---
 ## What it is
 Enables interactive GitHub pull-request review from Claude Code, with tools to fetch PRs, inspect files and repo structure, post review comments, and query a RAG index of the codebase.

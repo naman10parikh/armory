@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-10T13:54:23Z"
 ---
 ## What it is
 MCP server for secure AI agent access to Bitwarden/Vaultwarden vaults with BYOK, exposing tools to list items, reveal secrets via encrypted Sends, get TOTP codes, and save credentials.

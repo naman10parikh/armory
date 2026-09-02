@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T21:14:28Z"
 ---
 ## What it is
 A production-quality MCP server that wraps the ClinicalTrials.gov v2 API, providing structured, TTL-cached access to trial data worldwide and Turkey via 4 MCP tools.

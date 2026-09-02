@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-23T09:10:04Z"
 ---
 ## What it is
 MCP server `Hive Doctrine`, catalogued on PulseMCP. Agent knowledge marketplace with 294 products for multi-agent systems, memory architecture, and polytheistic AI safety.

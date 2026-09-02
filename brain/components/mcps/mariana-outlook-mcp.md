@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T00:33:52Z"
 ---
 ## What it is
 Gives Claude Code access to Outlook Mail, Calendar, and Contacts via Microsoft Graph, with safety-first defaults (no sending, no hard deletes, every mutation logged). Supports multiple Microsoft accounts through a PKCE OAuth flow.

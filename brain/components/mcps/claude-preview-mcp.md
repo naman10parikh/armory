@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T12:48:58Z"
 ---
 ## What it is
 Provides dev-server lifecycle management and Chrome browser automation tools (14 preview_* tools) for MCP-compatible agents like Claude Code, OpenCode, and Kilo Code.

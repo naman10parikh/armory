@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:59:42Z"
 ---
 ## What it is
 A read-only MCP server that lets AI agents search and retrieve the Wheel of Heaven corpus, including source-grounded facts, interpretations, and comparative traditions, all with full epistemic metadata.

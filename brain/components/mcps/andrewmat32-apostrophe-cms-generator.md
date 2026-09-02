@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-11T20:50:48Z"
 ---
 ## What it is
 MCP server `Apostrophe CMS Generator`, catalogued on PulseMCP. Automates Apostrophe CMS module creation with intelligent code generation for pieces, pages, widgets, and bundles including BEM-style SCSS and design token parsing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T21:44:48Z"
 ---
 ## What it is
 On-chain Solana cabal & rug detection as an MCP server. Scans any Solana token mint before your agent buys and returns an Exit-Liquidity Risk verdict.

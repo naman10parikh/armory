@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-04T16:44:50Z"
 ---
 ## What it is
 MCP server `XPath`, catalogued on PulseMCP. Enables Claude to execute XPath queries on XML and HTML content, supporting both direct parsing and web scraping through Puppeteer for structured data extraction from documents and websites.

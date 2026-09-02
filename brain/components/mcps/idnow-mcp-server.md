@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T21:54:43Z"
 ---
 ## What it is
 An MCP server that lets LLM agents operate the IDnow Trust Platform sandbox to list verification flows, create sessions, check sessions, and get session details.

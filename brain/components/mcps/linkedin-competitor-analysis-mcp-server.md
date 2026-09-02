@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T08:33:02Z"
 ---
 ## What it is
 Enables users to monitor and analyze competitor LinkedIn posts, extract insights, generate original post concepts, and create graphics-ready content with metadata.

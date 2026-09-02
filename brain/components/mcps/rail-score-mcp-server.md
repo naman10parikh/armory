@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T06:43:57Z"
 ---
 ## What it is
 Adds a responsible-AI safety layer to any agent by exposing RAIL Score's evaluation, agent-guardrail, and compliance capabilities as MCP tools, enabling content scoring, injection detection, tool call evaluation, and DPDP compliance checks.

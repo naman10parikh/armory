@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-12T19:12:48Z"
 ---
 ## What it is
 Enables querying Rice Business Stock Market Data Portal using natural language through Claude Desktop, allowing users to ask about financial ratios, stocks, and companies.

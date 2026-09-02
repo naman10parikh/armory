@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T21:31:12Z"
 ---
 ## What it is
 MCP server `Infracost`, catalogued on PulseMCP. Integrates with the Infracost CLI to estimate, compare, and publish cloud infrastructure cost changes from Terraform and Infrastructure as Code projects.

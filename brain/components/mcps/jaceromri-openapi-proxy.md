@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-27T23:11:06Z"
 ---
 ## What it is
 MCP server `OpenAPI Proxy`, catalogued on PulseMCP. Transforms OpenAPI specifications into MCP tools, enabling AI assistants to interact with existing REST APIs without custom implementations for each service

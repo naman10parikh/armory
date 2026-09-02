@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T06:19:37Z"
 ---
 ## What it is
 MCP server providing access to 1M synthetic Korean personas based on KOSIS statistics, enabling persona sampling, search, and analysis via natural language queries.

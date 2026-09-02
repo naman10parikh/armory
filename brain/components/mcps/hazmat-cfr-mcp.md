@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:10:08Z"
 ---
 ## What it is
 Enables AI agents to look up and validate hazardous materials shipping descriptions using public 49 CFR citations, providing structured JSON with proper shipping names, hazard classes, labels, and regulatory references.

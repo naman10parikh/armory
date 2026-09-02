@@ -8,10 +8,12 @@ source_url: https://github.com/adityasugandhi/skillsync-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-23T02:53:10Z"
 ---
 ## What it is
 MCP server `SkillSync`, catalogued on PulseMCP. Security-gated skill management server that scans GitHub repositories against 60+ threat patterns before allowing installation to Claude Code and other MCP clients.

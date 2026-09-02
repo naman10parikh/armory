@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-07T11:09:55Z"
 ---
 ## What it is
 Turns Markdown files into local MCP servers, enabling users to define and run tools using simple Markdown syntax with zero dependencies.

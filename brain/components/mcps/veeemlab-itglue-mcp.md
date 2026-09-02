@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T07:18:01Z"
 ---
 ## What it is
 An MCP server for IT Glue that provides 56 tools for managing organizations, configurations, passwords, documents, flexible assets, contacts, locations, users, groups, attachments, related items, and bulk operations, with built-in rate limiting, caching, and security guards.

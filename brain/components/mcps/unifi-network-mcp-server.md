@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T21:59:59Z"
 ---
 ## What it is
 Exposes the UniFi Network Integration API as tools for managing sites, devices, clients, networks, WiFi, firewalls, ACLs, switching, DNS policies, hotspot vouchers, VPNs, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T11:44:05Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that exposes lnav log file analysis capabilities to AI assistants, specifically optimized for Kvaser Plain Text Log Frame CAN bus log processing.

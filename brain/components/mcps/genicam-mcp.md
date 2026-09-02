@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:42:29Z"
 ---
 ## What it is
 Enumerates, connects, configures, and captures from industrial cameras via the GenICam GenTL standard, exposing the full feature tree without vendor SDK dependency.

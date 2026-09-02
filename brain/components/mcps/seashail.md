@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-29T05:55:54Z"
 ---
 ## What it is
 Agent-native, self-hosted MCP server for crypto trading and DeFi management. Enables agents to query balances, execute trades, and manage positions with a policy engine and secure key storage.

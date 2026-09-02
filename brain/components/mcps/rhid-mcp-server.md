@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T00:31:05Z"
 ---
 ## What it is
 MCP server for integrating with the RHiD (ControlID) API, providing time tracking, employee management, and reporting tools for use in Claude products.

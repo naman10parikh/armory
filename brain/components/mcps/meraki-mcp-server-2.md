@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-08-08T20:24:00Z"
 ---
 ## What it is
 Exposes a curated subset of the Cisco Meraki Dashboard API to MCP-aware clients with role-based access control.

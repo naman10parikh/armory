@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T12:38:44Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. C# .NET Jira Cloud integration with read tools, analysis, and a Blazor suggestions viewer.

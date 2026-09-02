@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T02:59:35Z"
 ---
 ## What it is
 Governance framework for LLM agents. Exposes seven mechanically-enforced rules plus tools for preflight file protection, audit-chain verification, session handoff and worklog templates, MCP config auditing, and an emergency kill switch.

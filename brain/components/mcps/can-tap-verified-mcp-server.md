@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T11:23:21Z"
 ---
 ## What it is
 Enables Canadian businesses to claim free directory listings for dofollow backlinks, search 3,000+ verified businesses, check backlink status, and access NFC tap analytics through MCP.

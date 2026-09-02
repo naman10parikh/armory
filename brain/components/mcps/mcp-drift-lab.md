@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T10:54:04Z"
 ---
 ## What it is
 A research harness for measuring whether MCP clients preserve informed consent when tool definitions change after approval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T19:43:24Z"
 ---
 ## What it is
 MCP server for a temporary rental catalog that enables property search and browsing via an interactive UI resource, including detailed listings and a simulated booking flow.

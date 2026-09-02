@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T14:49:22Z"
 ---
 ## What it is
 MCP server providing pay-per-call vision tools (categorize, caption, OCR, embed) for AI agents, with payments via x402 and no API keys.

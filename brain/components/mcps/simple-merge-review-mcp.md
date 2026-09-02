@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-29T14:42:08Z"
 ---
 ## What it is
 Provides lightweight Git merge analysis with quick overviews of changes, file lists, and branch status without complex conflict checks.

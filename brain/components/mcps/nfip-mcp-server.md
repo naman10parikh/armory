@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T22:49:56Z"
 ---
 ## What it is
 An MCP server that exposes real US flood insurance claims data from FEMA's OpenFEMA API, providing tools for claim lookup, filtered search, aggregate stats, and flood event summaries.

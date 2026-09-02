@@ -8,10 +8,12 @@ source_url: https://github.com/neosun100/qwen3-asr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-22T14:53:44Z"
 ---
 ## What it is
 MCP server `Qwen3-ASR Docker`, catalogued on PulseMCP. Docker deployment for Qwen3-ASR speech recognition with REST API and transcription tools.

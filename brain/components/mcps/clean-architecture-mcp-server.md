@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-31T23:26:08Z"
 ---
 ## What it is
 Enables scaffolding and managing Clean Architecture in Next.js projects, providing tools to initialize structure, create features with all layers, and validate architecture compliance.

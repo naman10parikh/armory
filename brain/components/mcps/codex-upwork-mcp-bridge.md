@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T22:20:59Z"
 ---
 ## What it is
 Enables Upwork's MCP server to work with OpenAI Codex and ChatGPT by normalizing protocol incompatibilities, allowing their tools to be listed and used.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T13:28:02Z"
 ---
 ## What it is
 Enables management of PMO entities such as actions, risks, issues, projects, deliverables, decisions, KPIs, and objectives through natural language from any MCP-compatible agent.

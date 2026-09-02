@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T03:04:53Z"
 ---
 ## What it is
 Enables real-time flight and train ticket queries, dynamic trip tracking, and knowledge-based Q&A about rail and aviation policies.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-21T15:47:36Z"
 ---
 ## What it is
 MCP server `Brave Search`, catalogued on PulseMCP. Integrates with Brave Search API to enable secure and privacy-focused web searches for research and content aggregation tasks.

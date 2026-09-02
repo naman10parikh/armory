@@ -8,11 +8,13 @@ source_url: https://github.com/mhiqrambg/mcp-media-9router
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T07:33:19Z"
 ---
 ## What it is
 Enables AI agents to perform web searches and fetch web pages as clean Markdown via the 9router API, with configurable provider fallbacks and local security controls.

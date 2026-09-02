@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T07:46:06Z"
 ---
 ## What it is
 Enables Claude to analyze short-form video ads by extracting frames, audio, and transcripts, providing visual contact sheets, audio profiles, and YAMNet audio-event tags via MCP tools.

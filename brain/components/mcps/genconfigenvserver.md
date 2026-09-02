@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T03:10:27Z"
 ---
 ## What it is
 Generates security config files from environment variables and remote Firebase configuration.

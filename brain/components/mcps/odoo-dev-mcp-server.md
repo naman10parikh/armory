@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-17T00:12:52Z"
 ---
 ## What it is
 An Odoo module that embeds an MCP server, enabling AI agents to directly access Odoo capabilities such as terminal control, database operations, filesystem management, ORM execution, and service administration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:19:29Z"
 ---
 ## What it is
 Enables AI agents to generate ticket IDs with QR codes, send tickets via email/SMS/WhatsApp, and retrieve event details through the Ticket Generator API.

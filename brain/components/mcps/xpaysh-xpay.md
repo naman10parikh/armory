@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-14T15:10:07Z"
 ---
 ## What it is
 MCP server `xpay`, catalogued on PulseMCP. Aggregates 980+ AI tools from 30+ providers into a unified pay-per-call MCP endpoint using USDC micropayments via the x402 protocol.

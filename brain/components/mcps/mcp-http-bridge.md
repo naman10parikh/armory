@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T05:16:48Z"
 ---
 ## What it is
 This server bridges a stdio MCP server to HTTP, allowing MCP clients that communicate over HTTP to use the server's tools. It includes a per-tool allow/deny filter for security.

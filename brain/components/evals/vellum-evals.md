@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, sdk, ci, dataset]
+forks: 20
+pushed_at: "2026-04-06T15:56:53Z"
 ---
 ## What it is
 Vellum evaluation SDK for running LLM test suites with custom metrics, dataset pinning, and CI workflow integration.

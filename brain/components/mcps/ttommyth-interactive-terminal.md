@@ -8,10 +8,12 @@ source_url: https://github.com/ttommyth/interactive-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 345
+stars: 351
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 29
+pushed_at: "2025-11-20T17:25:27Z"
 ---
 ## What it is
 MCP server `Interactive Terminal`, catalogued on PulseMCP. Interactive terminal interface for enhancing AI interactions with user input capabilities, notifications, and cross-platform support for complex tasks requiring confirmation or clarification.

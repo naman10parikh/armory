@@ -8,10 +8,12 @@ source_url: https://github.com/alxspiker/windows-command-line-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-25T19:19:47Z"
 ---
 ## What it is
 MCP server `Windows Command Line MCP Server`, catalogued on PulseMCP. This server creates a secure bridge between Claude and your computer's command-line functionality.

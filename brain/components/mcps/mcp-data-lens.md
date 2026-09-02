@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-28T13:50:13Z"
 ---
 ## What it is
 Enables users to ask questions about their spreadsheets in plain English and receive instant answers using DuckDB-powered analytics, supporting multiple file formats like Excel, CSV, and Parquet.

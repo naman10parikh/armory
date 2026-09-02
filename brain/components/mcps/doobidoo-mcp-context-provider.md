@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 30
+forks: 8
+pushed_at: "2026-08-26T10:20:06Z"
 ---
 ## What it is
 Static server that provides persistent tool-specific context and rules for AI models

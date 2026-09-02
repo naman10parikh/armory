@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T22:37:47Z"
 ---
 ## What it is
 MCP server `Hive Civilization`, catalogued on PulseMCP. Agent-native financial infrastructure with W3C DID identity, multi-rail USDC settlements, and smart contract access.

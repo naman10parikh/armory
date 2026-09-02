@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:34:58Z"
 ---
 ## What it is
 Enables searching public LinkedIn job listings and managing a canonical WeKruit candidate profile, including LinkedIn-based login and resume upload, via command-line and MCP tools.

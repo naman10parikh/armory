@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T03:38:46Z"
 ---
 ## What it is
 MCP server for casting audiobooks from a local filesystem library to Google Cast speakers, with playback control and local TTS support.

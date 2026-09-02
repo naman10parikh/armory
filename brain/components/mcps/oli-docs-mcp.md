@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T12:37:30Z"
 ---
 ## What it is
 Local MCP server for querying Oli/LimX documentation via keyword, vector, or hybrid search, with citation support for use in Claude Code or OpenCode/August.

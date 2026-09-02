@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T01:43:56Z"
 ---
 ## What it is
 Cloud infrastructure provisioning via natural language. Enables deploying production-ready infrastructure on AWS, GCP, Azure, or Oracle with a single prompt.

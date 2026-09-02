@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T12:17:35Z"
 ---
 ## What it is
 Static compliance-controls checker that verifies regulatory required controls exist in code, running deterministic rule packs via MCP tools for compliance checks, rule listing, and explanation.

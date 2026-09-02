@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T00:56:35Z"
 ---
 ## What it is
 An autonomous Go MCP server that dynamically imports OpenAPI, GraphQL, and AsyncAPI specs and exposes them as tools to agents with self-learning and auto-documentation.

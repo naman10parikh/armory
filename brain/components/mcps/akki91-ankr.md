@@ -8,10 +8,12 @@ source_url: https://github.com/akki91/ankr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-02T07:14:03Z"
 ---
 ## What it is
 MCP server `Ankr (Blockchain Data)`, catalogued on PulseMCP. Provides blockchain data access through the Ankr API, enabling wallet balance queries across multiple networks with detailed token metadata and dollar values for portfolio tracking and financial analysis.

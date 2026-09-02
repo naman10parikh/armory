@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T03:41:41Z"
 ---
 ## What it is
 MCP server `TableShot`, catalogued on PulseMCP. Extracts tables from PDFs into structured Markdown, CSV, JSON, or HTML output with sub-100ms performance.

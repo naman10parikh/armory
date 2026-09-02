@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-31T02:21:41Z"
 ---
 ## What it is
 MCP server `Supabase Notes`, catalogued on PulseMCP. Integrates with Supabase to provide a notes system with creation, listing, and summarization capabilities for applications requiring structured note-taking functionality.

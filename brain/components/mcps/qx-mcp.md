@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T05:42:53Z"
 ---
 ## What it is
 Provides AI assistants with 70+ enterprise data APIs from Qixinbao, enabling natural language queries for business registration, shareholder structures, risk scores, and more.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 33
+pushed_at: "2026-07-07T12:52:48Z"
 ---
 ## What it is
 Persistent memory for AI coding tools that captures conversations, builds a searchable knowledge graph, and automatically injects relevant context into new prompts.

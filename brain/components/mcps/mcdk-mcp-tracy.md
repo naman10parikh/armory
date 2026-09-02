@@ -8,11 +8,13 @@ source_url: https://github.com/lovelyXiaoQi/mcdk-mcp-tracy
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T10:08:51Z"
 ---
 ## What it is
 An MCP server that captures and analyzes function-level profiling data from NetEase Minecraft Bedrock Edition mods via the native Tracy profiler, enabling AI to identify performance hotspots and verify optimizations.

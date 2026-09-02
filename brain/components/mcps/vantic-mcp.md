@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T14:50:41Z"
 ---
 ## What it is
 Enables MCP hosts to verify agent spending mandates and receipts, providing stateless tools for authorization, chain verification, credential verification, and DID resolution.

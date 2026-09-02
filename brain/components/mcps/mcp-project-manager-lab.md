@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T14:00:55Z"
 ---
 ## What it is
 A project management MCP server that exposes create_task, list_tasks, and update_task tools backed by SQLite for task tracking.

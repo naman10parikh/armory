@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-06T02:01:44Z"
 ---
 ## What it is
 Provides electrical pricing, cable sizing, and profitability analysis tools for construction estimating, integrating with Claude to answer pricing queries based on a US-market-calibrated price list and NEC standards.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T10:31:26Z"
 ---
 ## What it is
 Extracts timestamped screenshots from local videos, enabling Claude to produce visual walkthroughs without audio analysis or cloud processing.

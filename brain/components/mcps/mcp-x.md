@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2024-12-28T01:57:41Z"
 ---
 ## What it is
 Enables posting tweets to X (Twitter) via the X API v2, using Claude.

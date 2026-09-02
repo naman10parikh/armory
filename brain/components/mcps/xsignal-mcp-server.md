@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T19:50:05Z"
 ---
 ## What it is
 Provides pay-per-call data signals for Base tokens via x402, including intent (with abstain), preflight, token briefs, and social signals.

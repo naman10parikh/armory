@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:06:04Z"
 ---
 ## What it is
 Enables querying FBI crime data using UCR/NIBRS statistics through a simple MCP interface.

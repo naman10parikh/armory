@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T08:10:45Z"
 ---
 ## What it is
 Enables hybrid search (BM25 + semantic with RRF) over documentation, with Thai language support. It exposes MCP tools for adding documents and searching via Qdrant and Ollama/OpenAI, using a stateless Streamable HTTP transport.

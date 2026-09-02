@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-22T06:59:34Z"
 ---
 ## What it is
 MCP server integrating the Kagi Search API to perform web searches using the kagi_search tool.

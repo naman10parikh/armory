@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T19:26:59Z"
 ---
 ## What it is
 An MCP server for Earth Observation processing, exposing Rust-accelerated EO computation tools like spectral indices, change detection, and classification for AI agents.

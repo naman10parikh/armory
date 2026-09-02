@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-14T14:23:18Z"
 ---
 ## What it is
 MCP server `Doriku`, catalogued on PulseMCP. Synchronizes AI coding tasks across Claude Code, Cursor, and other MCP servers with team visibility through a centralized dashboard.

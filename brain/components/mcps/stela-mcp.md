@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-17T07:34:38Z"
 ---
 ## What it is
 A Model Context Protocol server for secure local system operations, enabling shell command execution and file management via a standardized interface.

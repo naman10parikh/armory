@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T12:23:06Z"
 ---
 ## What it is
 MCP server that enables AI agents to assess child growth, plot growth curves, and interpret z-scores using WHO and China NHC standards.

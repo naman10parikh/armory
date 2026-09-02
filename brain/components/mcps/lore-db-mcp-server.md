@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T16:17:19Z"
 ---
 ## What it is
 Provides tools for semantic search, CRUD, verification, and reindexing of documents in a local vector-based knowledge base, usable via HTTP or stdio.

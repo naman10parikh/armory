@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T10:25:59Z"
 ---
 ## What it is
 Enables AI assistants to query DalPraLab's SEO/GEO consulting services, prices, case studies, availability, and submit audit requests directly from MCP clients.

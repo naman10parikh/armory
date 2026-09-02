@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:38:54Z"
 ---
 ## What it is
 Single MCP server that translates tool calls into requests against the Heorth and KithLedger REST APIs, exposing 50 household and relationship management tools while holding no credentials of its own.

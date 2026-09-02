@@ -8,10 +8,12 @@ source_url: https://github.com/cognitive-stack/volume-wall-detector-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-24T15:42:26Z"
 ---
 ## What it is
 MCP server `Volume Wall Detector`, catalogued on PulseMCP. Analyzes stock trading data to identify volume walls and key price levels where significant trading activity occurs, providing traders with insights into market structure and potential reversal points.

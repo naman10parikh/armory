@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-04T02:43:00Z"
 ---
 ## What it is
 Enables querying Steam item prices, wear, and price history via the SteamDT API, allowing AI assistants to retrieve and analyze Steam marketplace data.

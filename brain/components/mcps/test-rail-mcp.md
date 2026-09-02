@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-12T10:55:54Z"
 ---
 ## What it is
 Lightweight MCP server bridging Cursor to TestRail, exposing get_case_by_id tool to fetch TestRail cases.

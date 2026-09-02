@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T16:44:45Z"
 ---
 ## What it is
 Enables MCP clients like Codex and Claude Code to securely read and manage a personal Cronometer account, including food logs, nutrient summaries with missing-data awareness, food search, biometrics, and export analysis.

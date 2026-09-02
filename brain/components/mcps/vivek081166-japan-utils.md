@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T15:50:49Z"
 ---
 ## What it is
 MCP server `Japan Utils`, catalogued on PulseMCP. Japan utilities for AI agents covering era conversion, romaji, postal codes, holidays, kana, and name splitting.

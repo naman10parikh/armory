@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T10:49:11Z"
 ---
 ## What it is
 Enables AI agents to control Windows desktop applications by wrapping Codex's Computer Use capability.

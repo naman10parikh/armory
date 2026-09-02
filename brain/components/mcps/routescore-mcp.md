@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T18:11:33Z"
 ---
 ## What it is
 MCP server that exposes Routescore's public API for risk assessment, including MEV cover, bridge refund, and swap checks, as tools for AI agents.

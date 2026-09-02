@@ -8,11 +8,13 @@ source_url: https://github.com/borgius/kanban-lite
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-31T15:36:51Z"
 ---
 ## What it is
 MCP server for AI agents to manage a lightweight kanban board stored as markdown files, enabling task creation, updates, and column movements.

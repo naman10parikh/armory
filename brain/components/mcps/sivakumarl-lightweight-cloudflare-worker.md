@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-20T18:27:43Z"
 ---
 ## What it is
 MCP server `Lightweight Cloudflare Worker`, catalogued on PulseMCP. Lightweight Cloudflare Workers-based MCP server implementation that enables custom API interactions with a basic greeting functionality, easily extendable for integration with external services.

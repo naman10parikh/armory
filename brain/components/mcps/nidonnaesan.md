@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T03:20:24Z"
 ---
 ## What it is
 Enables reviewers to find sponsorship campaigns, assess their value, and generate application messages via a conversational interface. It integrates with Korean review platforms and provides tips for increasing selection rates.

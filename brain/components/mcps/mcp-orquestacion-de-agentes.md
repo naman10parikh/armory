@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T07:34:53Z"
 ---
 ## What it is
 MCP server that exposes tools to query an e-commerce database (customers, sales, products) using natural language, orchestrated by a LangChain agent with Groq's LLM.

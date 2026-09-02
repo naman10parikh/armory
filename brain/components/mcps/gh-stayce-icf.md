@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-04T01:23:27Z"
 ---
 ## What it is
 MCP server `WHO ICF Classification`, catalogued on PulseMCP. WHO ICF classification codes for health and disability. Lookup, search, and browse via WHO API.

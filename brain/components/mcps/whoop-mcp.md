@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:15:14Z"
 ---
 ## What it is
 A local MCP server providing read-only access to WHOOP fitness data via direct OAuth, with a local SQLite cache for offline queries.

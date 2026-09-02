@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-29T16:47:53Z"
 ---
 ## What it is
 A comprehensive MCP server for searching books, films, and scholarly publications across multiple APIs like Open Library, Google Books, TMDb, and Crossref, with advanced filtering and deduplication.

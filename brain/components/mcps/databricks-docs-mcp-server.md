@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T13:37:19Z"
 ---
 ## What it is
 Enables semantic search over Databricks docs, API reference, Terraform provider docs, and knowledge base via tools like search_databricks_docs and research.

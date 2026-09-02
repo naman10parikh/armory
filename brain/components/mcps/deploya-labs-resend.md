@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-05T21:27:48Z"
 ---
 ## What it is
 MCP server `Resend Email`, catalogued on PulseMCP. Enables sending emails through the Resend API service with configurable sender addresses, recipient details, and scheduling options via a Node.js application deployable through Docker.

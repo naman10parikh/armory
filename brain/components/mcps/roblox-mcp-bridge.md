@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T17:21:15Z"
 ---
 ## What it is
 Connects Roblox Studio to local AI agents via HTTP, allowing them to control Studio tools.

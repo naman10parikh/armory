@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T16:44:35Z"
 ---
 ## What it is
 Enables read-only analysis of Soft1 ERP databases through guarded T-SQL queries, schema discovery, knowledge search, and CSV/XLSX exports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T12:09:48Z"
 ---
 ## What it is
 MCP server enabling permissioned, structured agent-to-agent communications, allowing agents to negotiate availability through schema-validated messages with scoped access and audit logging.

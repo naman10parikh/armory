@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T13:14:12Z"
 ---
 ## What it is
 Enables MCP clients to manage Google Calendar events, including CRUD operations, recurring events, free/busy queries, and push notifications via webhooks.

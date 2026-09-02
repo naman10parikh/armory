@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T14:40:49Z"
 ---
 ## What it is
 MCP server that connects Claude to Directa's Darwin trading API, enabling local account management, portfolio views, and order operations through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-08T06:32:35Z"
 ---
 ## What it is
 An MCP server that integrates popular productivity tools like Gmail, Google Calendar, Google Drive, Google Sheets, Notion, and Microsoft Outlook, allowing Claude Desktop to interact with them via natural language commands.

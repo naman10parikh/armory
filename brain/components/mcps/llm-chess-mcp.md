@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T11:51:08Z"
 ---
 ## What it is
 MCP chess runtime that lets LLMs play, analyze, and adapt strength by exposing Stockfish, human move likelihood (Maia3), and Lichess statistics, with the LLM handling strategy and the server handling computation.

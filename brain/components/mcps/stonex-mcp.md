@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T16:05:20Z"
 ---
 ## What it is
 MCP server exposing StoneX Client REST API endpoints as tools, enabling account balances, positions, activity, and performance retrieval via natural language. Requires a user-supplied access token or session cookie.

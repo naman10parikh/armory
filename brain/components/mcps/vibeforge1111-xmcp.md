@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-02-03T18:10:31Z"
 ---
 ## What it is
 MCP server `XMCP`, catalogued on PulseMCP. X/Twitter integration with 70+ tools across research, engagement, publishing, social actions, lists, and DMs using permission-based profiles and rate limiting for safe automation ranging from read-only monitoring to full account management.

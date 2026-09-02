@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:18:11Z"
 ---
 ## What it is
 MCP server `Kitsu`, catalogued on PulseMCP. Queries the Kitsu anime and manga catalogue for titles, episodes, and characters.

@@ -8,10 +8,12 @@ source_url: https://github.com/omilia/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-10T14:11:42Z"
 ---
 ## What it is
 MCP server `Omilia Cloud Platform`, catalogued on PulseMCP. Integrates with Omilia Cloud Platform to manage voice applications and dialog systems through miniapp search, prompt management, orchestrator app canvas retrieval, dialog log analysis, phone number integration, and environment variable collection with OAuth authentication and multi-environment support.

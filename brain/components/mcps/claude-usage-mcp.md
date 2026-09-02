@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-05T14:37:18Z"
 ---
 ## What it is
 Reports your Claude subscription usage (5-hour and weekly limits) with a forecast and velocity recommendation, using Claude Code's existing OAuth session without requiring an API key.

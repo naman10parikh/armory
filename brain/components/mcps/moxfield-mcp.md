@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T18:42:28Z"
 ---
 ## What it is
 Enables searching public decklists, fetching deck card lists and prices from Moxfield's deckbuilding platform through Claude.

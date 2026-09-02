@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 3
+forks: 3
+pushed_at: "2025-06-05T08:17:05Z"
 ---
 ## What it is
 An MCP server that tracks newly created liquidity pools on Uniswap across multiple blockchains.

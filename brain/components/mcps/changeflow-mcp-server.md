@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T16:42:03Z"
 ---
 ## What it is
 Monitor any website and get AI-enriched change intelligence via MCP. Manage sources, search changes, and automate web monitoring from Claude, Harvey, or any MCP client.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-08T18:40:33Z"
 ---
 ## What it is
 MCP server `Layout Detector`, catalogued on PulseMCP. Analyzes webpage screenshots using OpenCV template matching to extract pixel-perfect layout coordinates and detect spatial patterns like grids and radial arrangements.

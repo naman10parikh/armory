@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T11:32:06Z"
 ---
 ## What it is
 Enables Cursor on your laptop to connect to an MCP server on EC2 via SSE/HTTPS to manage a task queue stored in Postgres, supporting task listing, status updates, and work prompt generation.

@@ -8,10 +8,12 @@ source_url: https://github.com/pab1it0/chess-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 87
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-06-26T13:13:43Z"
 ---
 ## What it is
 MCP server `Chess.com API`, catalogued on PulseMCP. Integrates with Chess.com Published Data API to access player profiles, statistics, game data, and club information in both JSON and PGN formats for chess analysis and tournament research.

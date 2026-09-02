@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-29T04:55:25Z"
 ---
 ## What it is
 MCP server `ApiFox Documentation`, catalogued on PulseMCP. Generates Swagger JSON documentation from code and uploads it directly to ApiFox API management platform for automated documentation workflows

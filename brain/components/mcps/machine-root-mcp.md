@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T14:00:39Z"
 ---
 ## What it is
 A self-hosted MCP server that gives AI coding assistants direct shell access to your local machine, enabling execution of arbitrary bash commands for development workflows.

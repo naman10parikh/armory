@@ -8,10 +8,12 @@ source_url: https://github.com/karanb192/reddit-mcp-buddy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 683
+stars: 809
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 98
+pushed_at: "2026-08-17T09:42:37Z"
 ---
 ## What it is
 MCP server `Reddit Buddy`, catalogued on PulseMCP. Provides clean access to Reddit's public API through specialized tools for browsing subreddits, searching content, retrieving posts with comments, analyzing user profiles, and explaining terminology with intelligent caching, rate limiting, and optional OAuth authentication for enhanced rate limits.

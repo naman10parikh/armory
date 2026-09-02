@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T13:25:53Z"
 ---
 ## What it is
 Safe, read-only-by-default Kubernetes access for AI agents via MCP. Provides explicit readonly, readwrite, and dangerous permission modes, plus MCPB bundles for desktop clients.

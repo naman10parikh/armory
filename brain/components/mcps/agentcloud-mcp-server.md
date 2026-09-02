@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T00:55:54Z"
 ---
 ## What it is
 Enables managing persistent AI workers through MCP tools for versioning, safe testing, deployment, approvals, and run lifecycle with tenant isolation and policy enforcement.

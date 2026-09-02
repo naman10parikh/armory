@@ -8,10 +8,12 @@ source_url: https://github.com/ramuzes/mcp-jena
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-02T06:55:04Z"
 ---
 ## What it is
 MCP server `Apache Jena SPARQL`, catalogued on PulseMCP. Provides a bridge between AI agents and Apache Jena for executing SPARQL queries, performing updates, and accessing RDF data stored in Jena Fuseki servers with secure API key authentication.

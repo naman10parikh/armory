@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T10:48:38Z"
 ---
 ## What it is
 Enables analysis of AWS costs and usage through the AWS Cost Explorer API, supporting multi-account architectures with role assumption and cost comparison, forecasting, and anomaly detection.

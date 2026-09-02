@@ -12,6 +12,8 @@ stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-08-25T06:24:10Z"
 ---
 ## What it is
 MCP server `Containerd`, catalogued on PulseMCP. Enables container management through natural language commands by bridging Containerd's Container Runtime Interface for listing, creating, and removing containers and pods without complex CLI syntax.

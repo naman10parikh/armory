@@ -8,11 +8,13 @@ source_url: https://github.com/Shruti-Gorhe/enterprise-knowledge-assistant
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T01:56:57Z"
 ---
 ## What it is
 Enables natural-language retrieval from enterprise policy documents via RAG, exposing search_enterprise_knowledge and get_document_sources tools.

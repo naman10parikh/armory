@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T13:54:06Z"
 ---
 ## What it is
 Provides AI assistants with clean access to 58 US macroeconomic indicators from the FRED database, with pre-computed changes and no need to know series IDs.

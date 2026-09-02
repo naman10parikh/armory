@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T12:07:46Z"
 ---
 ## What it is
 Connects to the Zread.ai documentation platform, enabling AI assistants to read GitHub repository documents, search code, and interact with repository AI.

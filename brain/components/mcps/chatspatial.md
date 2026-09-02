@@ -8,10 +8,12 @@ source_url: https://github.com/cafferychen777/chatspatial
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-08-15T10:26:50Z"
 ---
 ## What it is
 MCP server `ChatSpatial`, catalogued on PulseMCP. Enables natural language-driven spatial transcriptomics analysis with support for multiple analytical methods and platforms.

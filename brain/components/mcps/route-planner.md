@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T16:45:15Z"
 ---
 ## What it is
 An MCP server that generates running loops with OpenRouteService and exports cached routes as GPX or approximate Google Maps walking links.

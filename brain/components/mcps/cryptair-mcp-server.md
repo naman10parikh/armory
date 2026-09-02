@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T20:37:17Z"
 ---
 ## What it is
 Enables AI agents to certify documents, prove agreements, and verify counterparty claims with on-chain receipts on Hedera Hashgraph. Provides tools for document certification, two-party attestation, and agent registration with zero-config setup.

@@ -8,11 +8,13 @@ source_url: https://github.com/GlacianNex/stockdata-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T18:46:43Z"
 ---
 ## What it is
 An MCP server for stock research with 52 tools across FMP and Qualtrim backends, providing raw financial data plus derived analytics, DCF, AI commentary, and portfolio management. It handles caching, API budgeting, and credential management.

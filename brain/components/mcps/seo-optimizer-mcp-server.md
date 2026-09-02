@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T19:18:43Z"
 ---
 ## What it is
 Enables Claude to perform multi-agent SEO analysis with specialist prompts and tools for fetching pages, PageSpeed, and SERP data.

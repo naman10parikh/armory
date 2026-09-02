@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T14:50:31Z"
 ---
 ## What it is
 Model Context Protocol server for Langfuse observability. Query traces, analyze accuracy, detect failures, track costs, debug latency, manage prompts and datasets.

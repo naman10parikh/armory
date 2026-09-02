@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T18:35:38Z"
 ---
 ## What it is
 OAuth MCP server providing thin edge adapter access to the tickward public API via REST endpoints.

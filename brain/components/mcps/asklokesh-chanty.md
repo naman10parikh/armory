@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-31T01:07:27Z"
 ---
 ## What it is
 MCP server `Chanty`, catalogued on PulseMCP. Integrates with Chanty team collaboration platform for messaging and task management.

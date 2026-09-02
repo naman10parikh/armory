@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-10T14:15:14Z"
 ---
 ## What it is
 MCP server for C/C++ code analysis using clangd and clang tools, providing diagnostics, symbol search, include analysis, function listing, and code formatting.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 7
+forks: 7
+pushed_at: "2025-07-24T13:18:32Z"
 ---
 ## What it is
 Providing real-time access to Chainlink's decentralized on-chain price feeds.

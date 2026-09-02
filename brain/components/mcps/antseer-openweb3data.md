@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-20T03:12:17Z"
 ---
 ## What it is
 MCP server `Antseer`, catalogued on PulseMCP. Web3 data platform providing 100+ real-time on-chain analytics tools for DeFi, CeFi, TradFi, and crypto market intelligence.

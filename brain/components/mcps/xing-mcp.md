@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T19:13:22Z"
 ---
 ## What it is
 An MCP server that enables searching and retrieving job listings from XING, including job details, salary estimates, and company job postings.

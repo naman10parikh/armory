@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T09:08:38Z"
 ---
 ## What it is
 Real-time Indian stock market assistant with virtual trading, technical analysis, options chain, and portfolio management, using free APIs and integrated with Claude Desktop via MCP.

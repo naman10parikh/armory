@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T13:32:20Z"
 ---
 ## What it is
 Enables remote chat between Feishu (Lark) and AI agents like Cursor/Claude via MCP, allowing users to send messages from Feishu groups and receive streaming replies.

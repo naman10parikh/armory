@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:39:00Z"
 ---
 ## What it is
 Enables simple memo management with user registration, login, and session-based per-user memo operations (add, list, delete) via MCP.

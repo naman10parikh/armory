@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T12:04:40Z"
 ---
 ## What it is
 Drops two local, zero-egress MCP servers (Serena for LSP and CodeGraph for call/import graph) into Claude Code, enabling code navigation and analysis without API keys or data leaving the machine.

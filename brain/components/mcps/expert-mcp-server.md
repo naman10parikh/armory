@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T19:30:57Z"
 ---
 ## What it is
 Enables MCP-compatible agents to query beliefs, search documents, and explore reasoning chains from expert-service knowledge bases.

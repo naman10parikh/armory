@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T20:49:44Z"
 ---
 ## What it is
 A local MCP server for Claude Desktop with persistent task management, file operations, document generation, and PDF indexing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-26T07:48:45Z"
 ---
 ## What it is
 A universal MCP server that acts as a unified gateway for dynamically connecting and managing multiple MCP servers via a single HTTP endpoint.

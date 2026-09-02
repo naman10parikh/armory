@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T08:20:32Z"
 ---
 ## What it is
 This MCP server enables querying normalized escape room information and reservation availability via stdio or Streamable HTTP transports. It is a policy-driven scaffold that currently uses synthetic data only and does not perform real web crawling.

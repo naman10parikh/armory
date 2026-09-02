@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T13:23:22Z"
 ---
 ## What it is
 Enables automated HTML export quality assurance with structured receipts, audit logs, and reviewer-ready evidence through a paid remote MCP server.

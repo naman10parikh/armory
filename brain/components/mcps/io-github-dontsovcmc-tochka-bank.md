@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T19:16:27Z"
 ---
 ## What it is
 MCP server for interacting with Tochka Bank API, enabling balance checks, payments, invoices, and other banking operations through Claude.

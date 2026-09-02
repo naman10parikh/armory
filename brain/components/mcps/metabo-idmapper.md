@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T02:58:26Z"
 ---
 ## What it is
 Converts messy metabolite names into standard database identifiers (KEGG, HMDB, ChEBI, PubChem, InChIKey) and performs crosswalking to Mouse-GEM for metabolic model input, with deterministic tools and an LLM reasoning layer for identity disambiguation.

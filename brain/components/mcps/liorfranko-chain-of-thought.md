@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-05-07T08:48:51Z"
 ---
 ## What it is
 MCP server `Chain of Thought Task Manager`, catalogued on PulseMCP. Task management system that converts natural language into organized development tasks with dependency tracking, implementation guides, and verification criteria through structured reasoning phases.

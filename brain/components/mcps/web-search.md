@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:41Z"
 ---
 ## What it is
 Web search API for AI agents. Returns structured results with title, URL, and snippet; pay-per-call via x402 micropayments.

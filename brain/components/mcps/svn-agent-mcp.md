@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T10:42:15Z"
 ---
 ## What it is
 Enables secure SVN version control operations via MCP, including status, diff, precommit checks, and guarded mutations, with a bundled Windows runtime.

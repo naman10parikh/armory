@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-12T06:14:29Z"
 ---
 ## What it is
 Reduces log files to remove noise and duplicate information, cutting tokens by 70-90% for AI agents, preserving only errors, warnings, and unique events.

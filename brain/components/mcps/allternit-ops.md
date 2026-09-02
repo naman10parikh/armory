@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T22:09:07Z"
 ---
 ## What it is
 A single MCP gateway for Allternit LLC business operations, providing tools for Stripe invoicing, Cloudflare Pages deployment, brain document search, and client folder creation, all with safety confirmations for destructive actions.

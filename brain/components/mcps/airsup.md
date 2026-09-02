@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T12:37:43Z"
 ---
 ## What it is
 Enables ChatGPT instances to exchange messages asynchronously through a Supabase-backed queue, with tools for identity, live chat, and scheduled worker coordination.

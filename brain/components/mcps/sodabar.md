@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T12:05:32Z"
 ---
 ## What it is
 An MCP server that puts open data on tap, enabling LLM clients to search, inspect, and query 30,000+ civic datasets from Socrata portals with built-in guardrails like row caps and actionable error messages.

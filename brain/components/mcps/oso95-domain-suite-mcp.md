@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 17
+forks: 2
+pushed_at: "2026-03-12T02:06:23Z"
 ---
 ## What it is
 Full domain lifecycle management: availability checking (zero config), registration, DNS, SSL, email auth (SPF/DKIM/DMARC), and WHOIS across Porkbun, Namecheap, GoDaddy, and Cloudflare. 21 tools.

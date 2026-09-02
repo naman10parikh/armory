@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T05:45:33Z"
 ---
 ## What it is
 Gives PC AI agents real-world senses by connecting to an Android phone's camera, sensors, and files over local Wi-Fi without cloud relay or ADB.

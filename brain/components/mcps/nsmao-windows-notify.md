@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-19T08:07:16Z"
 ---
 ## What it is
 MCP server `Windows Notifications`, catalogued on PulseMCP. Displays Windows toast notifications using the node-notifier library.

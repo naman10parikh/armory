@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T21:49:30Z"
 ---
 ## What it is
 MCP server for the YooKassa payment API, enabling AI assistants to manage payments, refunds, receipts, webhooks, and saved payment methods through natural language.

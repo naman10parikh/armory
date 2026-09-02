@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T16:23:07Z"
 ---
 ## What it is
 Pay-per-success YouTube transcript extractor for AI agents and RAG pipelines. Timestamps, SRT, plain text. Failed videos are never charged. $0.005/video.

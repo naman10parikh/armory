@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T14:25:23Z"
 ---
 ## What it is
 Exposes document retrieval as an MCP tool, enabling LLMs to search a local vector store of markdown documents. Includes a retrieval evaluation harness to measure hit rate and MRR.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-11T12:55:27Z"
 ---
 ## What it is
 A lightweight, zero-configuration MCP server for source code analysis with GraphRAG capabilities, enabling structural understanding and efficient code completion from MCP-compatible AI tools.

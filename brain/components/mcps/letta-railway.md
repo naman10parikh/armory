@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-20T17:03:23Z"
 ---
 ## What it is
 MCP server `Letta Railway`, catalogued on PulseMCP. Bridges clients with Letta.ai agents through HTTP transport, enabling stateful conversations with persistent memory, agent lifecycle management, and tool attachment capabilities without requiring conversation history management.

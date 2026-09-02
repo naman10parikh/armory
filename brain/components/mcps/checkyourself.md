@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-02T02:41:31Z"
 ---
 ## What it is
 Local-first production-readiness MCP server for AI-built apps. It runs read-only checks, produces an evidence-based readiness score, and guides fixes before launch.

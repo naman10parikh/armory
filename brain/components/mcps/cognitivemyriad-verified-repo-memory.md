@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-21T19:56:49Z"
 ---
 ## What it is
 MCP server `Verified Repo Memory`, catalogued on PulseMCP. Provides stale-proof repository memory with code citations and just-in-time verification for coding agents.

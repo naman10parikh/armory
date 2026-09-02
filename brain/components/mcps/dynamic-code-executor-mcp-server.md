@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T12:42:09Z"
 ---
 ## What it is
 Enables AI assistants to execute code in isolated sandboxes with support for Python, JavaScript, and TypeScript, featuring intelligent caching and semantic search for code reuse.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:39:04Z"
 ---
 ## What it is
 An MCP server that wraps multiple vendors' Coding Plan services (iFlytek Spark, Volcengine) to provide code review, plan review, and multi-turn dialogue for AI coding tools like Claude Code.

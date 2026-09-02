@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T18:10:11Z"
 ---
 ## What it is
 Negative results intelligence for drug discovery: inactive compounds, failed selectivity panels, terminated clinical trials, failed CRISPR screens, antibody developability failures, and more — each result carrying full provenance (source database, DOI/PMID, license)

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T20:06:22Z"
 ---
 ## What it is
 Enables monitoring Auth0 users by collecting summaries, storing reports in SQLite, and auto-blocking suspicious admins, all through MCP tools without an LLM.

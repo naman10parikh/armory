@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-24T14:49:16Z"
 ---
 ## What it is
 MCP server that exposes skills from the Brazilian National Common Curricular Base (BNCC) with thematic units, knowledge objects, and prioritization layer from Mapa de Foco, enabling lookup, search, listing, and statistics of educational skills.

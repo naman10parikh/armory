@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-04T19:07:09Z"
 ---
 ## What it is
 Clones a Git repo into a temp directory so MCP clients can search and read files from another repo for context.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T08:55:14Z"
 ---
 ## What it is
 Audits project dependency licenses for compatibility issues, flags GPL/AGPL conflicts, and generates compliance reports.

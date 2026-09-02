@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:29:54Z"
 ---
 ## What it is
 An MCP server for FTP and FTPS file operations, supporting multiple named hosts with configurable roots, read-only mode, and guarded deletion. It enables remote file management (list, upload, download, create, rename, delete) through natural language while keeping credentials secure.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-29T08:53:33Z"
 ---
 ## What it is
 Remote MCP server providing 200+ Feishu tools (messages, calendar, Bitable, etc.) for Amazon Quick Desktop, hosted on AWS Bedrock AgentCore with multi-user OAuth isolation.

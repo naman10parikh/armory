@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T22:18:08Z"
 ---
 ## What it is
 Provides AI assistants direct access to Looker through a standard MCP interface, enabling querying the semantic model, managing content, editing LookML, and administering users.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:46:39Z"
 ---
 ## What it is
 Provides Brazilian company basic registration data (legal name, status, legal nature) from CNPJ through a single read-only MCP tool, hosted with pay-per-use credits.

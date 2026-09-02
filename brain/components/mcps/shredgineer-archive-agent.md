@@ -8,10 +8,12 @@ source_url: https://github.com/shredengineer/archive-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 59
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-21T15:50:02Z"
 ---
 ## What it is
 MCP server `Archive Agent`, catalogued on PulseMCP. Semantic file tracker with OCR capabilities that indexes documents using vector search and natural language processing to enable intelligent querying of large document collections through watchlist monitoring and profile management.

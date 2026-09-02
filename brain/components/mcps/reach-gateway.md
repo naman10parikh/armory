@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T17:42:07Z"
 ---
 ## What it is
 Read-only MCP service for normalized public evidence from Web, X, YouTube, Reddit, and RSS. Owner-authenticated via Cloudflare Access, it exposes health, read, and transcript actions to ChatGPT and Codex.

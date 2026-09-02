@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-11T16:04:44Z"
 ---
 ## What it is
 A centralized MCP hub for managing multiple coding agents across projects, enabling parallel, non-blocking dispatch and orchestration from any MCP-capable client.

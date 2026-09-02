@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:59:29Z"
 ---
 ## What it is
 MCP server `Deezer`, catalogued on PulseMCP. Search Deezer's music catalog for tracks, albums, artists, playlists, and editorial charts via the public API.

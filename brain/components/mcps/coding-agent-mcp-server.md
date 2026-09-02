@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-07T11:37:36Z"
 ---
 ## What it is
 Provides coding agent capabilities including file operations, terminal commands, search functionality, and utility operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T11:25:51Z"
 ---
 ## What it is
 MCP server exposing 3100+ cloud technology icons (AWS, Azure, GCP, Microsoft, CNCF, Devicon) with 3-tier search and multiple output formats for integration into presentations and architecture diagrams.

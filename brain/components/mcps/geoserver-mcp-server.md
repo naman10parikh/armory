@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T03:14:52Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that exposes GeoServer REST API functionality for natural language interaction through AI assistants like Claude, VS Code Copilot, and other MCP-compatible clients.

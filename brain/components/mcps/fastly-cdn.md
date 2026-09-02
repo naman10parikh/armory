@@ -8,10 +8,12 @@ source_url: https://github.com/fastly/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-18T19:19:18Z"
 ---
 ## What it is
 MCP server `Fastly CDN`, catalogued on PulseMCP. Integrates with Fastly CDN to enable direct management of services, domains, cache settings, and security configurations for streamlined DevOps automation and maintenance tasks.

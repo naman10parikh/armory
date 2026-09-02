@@ -8,11 +8,13 @@ source_url: https://github.com/ismailkerimov/math-logic-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T12:40:34Z"
 ---
 ## What it is
 MCP server that gives small LLMs verified symbolic-math & logic tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T07:48:26Z"
 ---
 ## What it is
 Enables querying and managing daily store sales data stored in CSV files, including listing available dates, retrieving raw sales data, computing daily and per-item statistics, and saving new daily sales data.

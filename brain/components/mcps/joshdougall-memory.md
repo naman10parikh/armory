@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-17T20:41:44Z"
 ---
 ## What it is
 MCP server `Memory`, catalogued on PulseMCP. Persistent, searchable, versioned memory for AI agents backed by Valkey or Redis with tag-based search and version history.

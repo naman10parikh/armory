@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-03T19:18:11Z"
 ---
 ## What it is
 MCP server that exposes Pakistan Stock Exchange data (quotes, dividends, announcements, indices) as LLM-callable tools, enabling conversational market queries in plain English.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-19T09:21:13Z"
 ---
 ## What it is
 MCP server `Stock Market Data`, catalogued on PulseMCP. Provides real-time stock market data and company information for financial analysis, investment research, and market monitoring applications

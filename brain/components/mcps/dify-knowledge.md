@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T12:12:28Z"
 ---
 ## What it is
 Exposes Dify knowledge base retrieval capabilities via MCP for use in Cursor and other MCP-compatible clients, enabling semantic search and document browsing.

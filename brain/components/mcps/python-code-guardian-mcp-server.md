@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-06T01:33:28Z"
 ---
 ## What it is
 Enables automated Python code quality checks including linting, complexity analysis, typo detection, structure validation, duplicate detection, and test coverage, with integration into Cursor IDE and CLI.

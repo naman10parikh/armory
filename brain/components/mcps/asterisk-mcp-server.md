@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-03-24T18:38:30Z"
 ---
 ## What it is
 Provides security vulnerability scanning for code snippets, codebases, and code changes through integration with the Asterisk security API.

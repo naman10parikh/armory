@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-30T22:48:59Z"
 ---
 ## What it is
 MCP server `MTG Deck Builder`, catalogued on PulseMCP. Build and manage Magic: The Gathering decks using Scryfall card data, Archidekt deck sync, and combo detection via Commander Spellbook.

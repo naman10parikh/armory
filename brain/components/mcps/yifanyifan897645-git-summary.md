@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T13:58:19Z"
 ---
 ## What it is
 MCP server `Git Summary`, catalogued on PulseMCP. Provides deep Git repository intelligence including commit summaries, blame analysis, changelogs, and branch health checks.

@@ -8,10 +8,12 @@ source_url: https://github.com/ascript-cn/ascript-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-30T07:43:09Z"
 ---
 ## What it is
 MCP server `AScript`, catalogued on PulseMCP. Android, iOS, and Windows device automation with 23 tools for screen capture, OCR, UI inspection, and project deployment via the AScript platform.

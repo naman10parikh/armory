@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T23:48:59Z"
 ---
 ## What it is
 Order food on DoorDash — search stores, compare real fee-included totals from live quotes, and build carts; placing an order always requires a human approval dialog (fail closed without elicitation). Local macOS server driving DoorDash's official dd-cli.

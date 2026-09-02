@@ -8,11 +8,13 @@ source_url: https://github.com/PengLx/TiledMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T09:04:35Z"
 ---
 ## What it is
 A security-first Tilemap MCP server for Tiled Map Editor, enabling safe inspection, creation, editing, validation, and preview of Tiled assets, with support for reading/writing TMJ/TSJ, programmatic generation, and visual previews.

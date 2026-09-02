@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T07:14:05Z"
 ---
 ## What it is
 A source-grounded memory layer for AI agents that stores, links, and recalls factual memories with confidence levels and citations, enabling honest answers when information is not in the record.

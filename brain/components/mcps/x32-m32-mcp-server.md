@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T03:54:41Z"
 ---
 ## What it is
 Enables control of Behringer X32/M32 digital mixing consoles via OSC protocol for remote mixing, automated setup, and live adjustments through an AI assistant.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T05:58:47Z"
 ---
 ## What it is
 MCP server `Award Flight Daily`, catalogued on PulseMCP. Provides AI agents access to 12.3 million award flight records across 25 loyalty programs for travel rewards analysis.

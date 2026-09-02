@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T19:06:31Z"
 ---
 ## What it is
 The Ultimate MCP Server for Google Workspace Automation — Seamlessly integrate Google Drive, Sheets, and Docs with Claude AI and other AI agents through the Model Context Protocol (MCP).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T14:14:16Z"
 ---
 ## What it is
 MCP server for scanning smart contracts for security vulnerabilities. It detects issues like reentrancy, overflow, access control, and provides security scores with NEAR-specific recommendations.

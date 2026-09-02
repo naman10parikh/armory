@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-25T08:10:45Z"
 ---
 ## What it is
 Provides persistent cross-session memory for Claude Code, enabling it to remember user preferences, decisions, and project context across new sessions.

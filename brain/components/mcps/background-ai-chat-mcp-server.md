@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T03:44:50Z"
 ---
 ## What it is
 MCP server that drives chat.sakana.ai via headless Chrome with persistent sessions. Enables AI assistants to interact with Sakana AI chat through tools like session management, with ToS gate and browser automation.

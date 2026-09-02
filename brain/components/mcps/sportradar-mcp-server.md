@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T10:31:10Z"
 ---
 ## What it is
 MCP server providing tools to query live scores, schedules, standings, and game stats from the SportRadar API for multiple sports including NFL, NBA, NHL, NCAAMB, soccer, and tennis.

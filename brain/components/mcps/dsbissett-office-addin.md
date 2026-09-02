@@ -8,10 +8,12 @@ source_url: https://github.com/dsbissett/office-addin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-09T21:12:34Z"
 ---
 ## What it is
 MCP server `Office Add-in`, catalogued on PulseMCP. Control Microsoft Office add-ins via WebView2 and Chrome DevTools Protocol with excel, page, and addin tools.

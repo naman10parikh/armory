@@ -8,11 +8,13 @@ source_url: https://github.com/PiGrieco/mcp-memory-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 102
+stars: 82
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 31
+pushed_at: "2025-10-19T11:04:10Z"
 ---
 ## What it is
 Intelligent AI memory management system with ML auto-triggers that automatically saves and retrieves information across AI platforms without manual intervention.

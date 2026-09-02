@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T12:46:57Z"
 ---
 ## What it is
 MCP server that provides AI agents with Polish business data tools: identifier validation (NIP, PESEL, REGON, KRS, IBAN), VAT whitelist checks, EU VIES lookups, and NBP exchange rates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T12:27:45Z"
 ---
 ## What it is
 Provides semantic search, note retrieval, source explanation, daily digests, and health checks for a local Obsidian vault, enabling MCP clients like Claude Desktop and Claude Code to query the second brain via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T10:41:41Z"
 ---
 ## What it is
 Bun runner for HTML-first local tools that exposes them as MCP servers with typed browser RPC, async streams, and MCP 2.0 Streamable HTTP, including MCP Apps UI support.

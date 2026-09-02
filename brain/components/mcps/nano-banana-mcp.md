@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-02-01T04:36:47Z"
 ---
 ## What it is
 MCP server that generates images using Gemini 3 Pro Image on Vertex AI, with support for reference images, task management, and GCS integration.

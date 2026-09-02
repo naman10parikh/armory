@@ -8,10 +8,12 @@ source_url: https://github.com/huccihuang/bilibili-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 186
+stars: 190
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 33
+pushed_at: "2025-04-21T05:22:08Z"
 ---
 ## What it is
 MCP server `Bilibili Search`, catalogued on PulseMCP. Enables search across Bilibili's Chinese video platform through a lightweight FastMCP interface that retrieves video content, user information, and other searchable data with optional authentication via session cookies.

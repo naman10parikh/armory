@@ -8,11 +8,13 @@ source_url: https://github.com/ooples/token-optimizer-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 495
+stars: 505
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 59
+pushed_at: "2026-09-01T22:55:32Z"
 ---
 ## What it is
 Reduces context window usage by 60-90% through intelligent caching, compression, and smart tool replacements for Claude Code and Claude Desktop.

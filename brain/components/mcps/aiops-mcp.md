@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T22:40:54Z"
 ---
 ## What it is
 A self-contained, security-first, EU-sovereign unified AI-operations MCP server that fuses a live bitemporal fleet model, a drift engine, and a tiered audited actuator into one control plane.

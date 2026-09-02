@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T02:01:15Z"
 ---
 ## What it is
 Enables Claude to read and control Veeam Backup & Replication infrastructure through natural language, supporting full operator capabilities like starting/stopping jobs, creating backups, and monitoring threat detection via the VBR REST API.

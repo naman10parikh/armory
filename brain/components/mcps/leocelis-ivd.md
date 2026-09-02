@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-22T18:46:56Z"
 ---
 ## What it is
 MCP server `IVD Framework`, catalogued on PulseMCP. Intent verification and documentation framework providing 28 tools to help AI agents write, implement, and verify structured intent.

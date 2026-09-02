@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T14:24:18Z"
 ---
 ## What it is
 Enables managing security incidents, triage, response, automated analysis via Cortex, and threat intelligence sync with MISP through TheHive 5 API, offering 69 MCP tools.

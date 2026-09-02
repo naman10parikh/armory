@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-21T01:49:32Z"
 ---
 ## What it is
 Enables AI agents to analyze LookML repositories for dead code, PDT costs, schema drift, and migration impact, using offline-first analysis of Looker and BigQuery metadata.

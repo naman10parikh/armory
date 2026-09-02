@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T17:17:10Z"
 ---
 ## What it is
 Integrates with Google Docs and Gmail to append text to documents and create email drafts, with a terminal approval step before any action executes.

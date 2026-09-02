@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T03:23:42Z"
 ---
 ## What it is
 MCP server for Dynamics 365 Finance & Operations certification prep, enabling interactive drills with accuracy tracking and review.

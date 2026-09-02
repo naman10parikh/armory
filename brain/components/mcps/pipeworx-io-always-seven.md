@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:33:03Z"
 ---
 ## What it is
 MCP server `Always Seven`, catalogued on PulseMCP. Returns a random number between 1 and 10 that is always 7, via StupidAPIs.

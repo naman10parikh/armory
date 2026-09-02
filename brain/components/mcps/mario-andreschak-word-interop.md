@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-26T18:21:26Z"
 ---
 ## What it is
 MCP server `Word Interop`, catalogued on PulseMCP. Enables automated Microsoft Word document manipulation by exposing comprehensive tools for text editing, formatting, table management, image insertion, and page setup through a Windows-specific COM Interop server.

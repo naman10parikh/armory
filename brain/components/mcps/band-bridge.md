@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:17:39Z"
 ---
 ## What it is
 Enables AI frontends to read Xiaomi Smart Band 10 Pro health data (heart rate, sleep, steps, battery) and send haptic notifications to the wrist via the knock tool.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T11:09:28Z"
 ---
 ## What it is
 Scrapes documentation sites, chunks and embeds content locally, then retrieves relevant passages for queries. Enables agents to ask questions grounded in documentation.

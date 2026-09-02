@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-30T16:25:36Z"
 ---
 ## What it is
 MCP server `Hive DePIN`, catalogued on PulseMCP. DePIN marketplace for autonomous agents to discover and list infrastructure capacity across storage, compute, GPU, bandwidth, energy, and wireless providers.

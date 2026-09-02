@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T13:55:36Z"
 ---
 ## What it is
 MCP server `Thread Manager`, catalogued on PulseMCP. Saves and manages conversation threads to local files or remote servers with Markdown and JSON output formats, featuring thread management operations, intelligent search with relevance scoring, and deduplication for message updates.

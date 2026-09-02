@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T11:31:42Z"
 ---
 ## What it is
 An MCP server that exposes an OpenAPI interface matching tool via Streamable HTTP Transport, allowing clients to match JSON against an OpenAPI specification.

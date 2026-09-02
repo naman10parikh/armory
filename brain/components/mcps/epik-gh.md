@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T19:54:21Z"
 ---
 ## What it is
 A GitHub MCP server that wraps the gh CLI to expose GitHub operations like issues, pull requests, branches, labels, repositories, CI actions, and Projects V2 as tools for MCP clients.

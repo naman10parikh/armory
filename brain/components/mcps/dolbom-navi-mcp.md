@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T08:58:16Z"
 ---
 ## What it is
 A remote MCP server for navigating Korean senior-care support, routing questions across welfare, medical, and administrative services using official sources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T21:02:35Z"
 ---
 ## What it is
 An MCP server for Google Docs whose writes carry proof, ensuring every mutating operation re-reads the document and returns evidence of changes with tab-scoped edits, normalization ladder, and match-count guards.

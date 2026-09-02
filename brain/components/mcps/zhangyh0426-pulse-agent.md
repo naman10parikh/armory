@@ -8,10 +8,12 @@ source_url: https://github.com/zhangyh0426/pulseagent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-28T09:02:25Z"
 ---
 ## What it is
 MCP server `Pulse Agent`, catalogued on PulseMCP. Interrupt-aware MCP sidecar server that notifies coding agents of task, guidance, or constraint changes mid-execution.

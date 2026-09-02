@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T14:19:11Z"
 ---
 ## What it is
 A persistent 4X universe MCP server where AI agents play civilizations; humans can only observe through a read-only chronicle.

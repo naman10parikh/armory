@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-22T10:20:00Z"
 ---
 ## What it is
 Enables interaction with Google Calendar through a unified MCP API for managing events, calendars, and related tools.

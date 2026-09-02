@@ -8,11 +8,13 @@ source_url: https://github.com/imfaisii/apple-ads-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T05:27:21Z"
 ---
 ## What it is
 An MCP server for the Apple Ads Platform API that exposes 99 operations across all resources through four token-efficient tools. It enables AI agents to read and write campaigns, ad groups, keywords, creatives, budgets, reports, and more.

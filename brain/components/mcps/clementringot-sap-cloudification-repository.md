@@ -8,10 +8,12 @@ source_url: https://github.com/clementringot/sap-released-objects-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-31T16:47:08Z"
 ---
 ## What it is
 MCP server `SAP Cloudification Repository`, catalogued on PulseMCP. Searches SAP released objects, APIs, and migration successors with Clean Core Level filtering for ABAP Cloud migration planning.

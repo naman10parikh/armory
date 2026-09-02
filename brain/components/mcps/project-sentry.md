@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-19T18:14:20Z"
 ---
 ## What it is
 An intelligent MCP server for QA automation that enables AI agents to perform stateful API testing by converting Postman collections into MCP tools, with automatic authentication, session-based state management, and transparent error handling.

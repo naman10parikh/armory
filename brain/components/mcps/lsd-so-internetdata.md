@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-06T15:35:38Z"
 ---
 ## What it is
 MCP server `LSD Web Data Extraction`, catalogued on PulseMCP. Provides web data extraction and manipulation capabilities through the LSD programming language, enabling structured data retrieval from websites, web searches, and community-created extraction patterns without complex scraping code.

@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-19T00:30:39Z"
 ---
 ## What it is
 MCP server `Gemini UI Design Server`, catalogued on PulseMCP. Integrates with Google's Gemini 2.5 Pro to provide enterprise-grade UI/UX design tools, component generation, brand identity creation, and accessibility-compliant frontend implementation guidance.

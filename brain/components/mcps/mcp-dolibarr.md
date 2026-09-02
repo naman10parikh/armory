@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:24:10Z"
 ---
 ## What it is
 Enables AI assistants to natively interact with Dolibarr ERP/CRM through its REST API, providing over 30 tools for managing customers, contacts, products, quotes, orders, invoices, stock, projects, contracts, interventions, and PDF generation, while supporting complex workflow orchestration and read

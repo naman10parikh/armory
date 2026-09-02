@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T03:45:01Z"
 ---
 ## What it is
 MCP server `NameIntel`, catalogued on PulseMCP. Brand-name intelligence scoring domain availability, trademark risk, social handles, SEO, and AI findability.

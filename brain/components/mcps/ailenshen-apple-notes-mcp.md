@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 10
+forks: 1
+pushed_at: "2026-04-29T14:55:51Z"
 ---
 ## What it is
 Read and write Apple Notes with bidirectional Markdown conversion. Fast SQLite queries for listing/searching, AppleScript + native import for full CRUD. Supports stdio and Streamable HTTP transports.

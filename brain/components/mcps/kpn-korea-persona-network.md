@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T11:17:09Z"
 ---
 ## What it is
 Verifiable Korea-specific judgment for AI agents — Go/Conditional/Hold verdicts cross-checked by a human expert council, per-report audit endpoint (committee DIDs + signatures). x402/USDC per call ($1–$5), free preview.

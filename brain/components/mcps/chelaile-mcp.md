@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T01:59:02Z"
 ---
 ## What it is
 MCP server for Chelaile realtime public transit data in China, including bus and metro arrivals, vehicle positions, nearby stops, timetables, and route planning. It runs locally over stdio with no login or account configuration required.

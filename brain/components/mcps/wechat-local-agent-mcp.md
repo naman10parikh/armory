@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T14:45:38Z"
 ---
 ## What it is
 A local-first MCP server that lets agents search and summarize a user's own WeChat history, with stable pagination, bulk chat workflows, unread/event queries, and gated enrichment tools.

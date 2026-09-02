@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T13:30:47Z"
 ---
 ## What it is
 Remote MCP server for searching, booking, paying, and canceling hotel stays via Travala, with USDC payment through Algorand x402.

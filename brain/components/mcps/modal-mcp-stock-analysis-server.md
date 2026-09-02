@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-10T14:25:52Z"
 ---
 ## What it is
 Provides real-time stock analysis tools including price lookup, comprehensive investment scoring, and company-to-ticker conversion through a MCP interface.

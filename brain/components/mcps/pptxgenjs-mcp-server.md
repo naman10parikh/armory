@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-24T14:21:39Z"
 ---
 ## What it is
 A production-ready MCP server that enables LLMs to create, modify, and export PowerPoint presentations programmatically using PptxGenJS.

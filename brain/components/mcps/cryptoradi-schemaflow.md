@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-06-02T20:56:51Z"
 ---
 ## What it is
 MCP server `SchemaFlow`, catalogued on PulseMCP. Provides real-time PostgreSQL schema access through cloud-based caching, delivering cached database structure information including tables, columns, relationships, functions, triggers, enums, and indexes with schema validation and performance insights.

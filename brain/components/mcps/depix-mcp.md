@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T17:59:04Z"
 ---
 ## What it is
 MCP server for DePix App that enables AI agents to receive Pix payments and read transaction status via the DePix API.

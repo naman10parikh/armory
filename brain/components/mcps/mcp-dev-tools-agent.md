@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T05:05:01Z"
 ---
 ## What it is
 A local AI agent system that gives any LLM real access to the filesystem, terminal, and codebase via MCP, usable as a standalone terminal agent or Continue.dev integration in VS Code.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T20:11:25Z"
 ---
 ## What it is
 Interactive PDF workspace shared by a human operator and an AI agent, enabling navigation, search, text extraction, annotations, form filling, and save actions via a PDF.js viewer.

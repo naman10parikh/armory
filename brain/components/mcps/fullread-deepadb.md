@@ -8,10 +8,12 @@ source_url: https://github.com/fullread/deepadb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-30T03:13:58Z"
 ---
 ## What it is
 MCP server `DeepADB`, catalogued on PulseMCP. Full-featured Android Debug Bridge integration with 180 tools across 43 modules for AI agents.

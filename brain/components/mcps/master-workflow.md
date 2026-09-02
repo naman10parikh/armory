@@ -8,11 +8,13 @@ source_url: https://github.com/luckeyfaraday/master-workflow
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-06T15:46:25Z"
 ---
 ## What it is
 Enables multi-agent code review and iterative improvement loop using different LLM backends, with deterministic scoring and audit trail.

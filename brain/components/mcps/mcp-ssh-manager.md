@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T00:42:26Z"
 ---
 ## What it is
 MCP server for managing remote servers via SSH, enabling command execution, file transfer, rsync, tunnels, health checks, backups, and database operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T15:20:48Z"
 ---
 ## What it is
 A standalone MCP server providing AI agents with full access to the Pumble messaging platform via OAuth2 and the Pumble SDK, including messaging, files, channels, search, scheduling, and real-time events.

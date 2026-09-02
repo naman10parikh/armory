@@ -8,10 +8,12 @@ source_url: https://github.com/identimoji/mcp-server-emojikey
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-06-16T14:00:36Z"
 ---
 ## What it is
 MCP server `Emojikey (via Supabase)`, catalogued on PulseMCP. Integrates with Supabase to persist and retrieve LLM interaction styles using emojikeys, enabling consistent personalized experiences across conversations.

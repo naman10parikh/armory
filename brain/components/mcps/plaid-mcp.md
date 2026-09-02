@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-21T18:34:14Z"
 ---
 ## What it is
 MCP servers for the Plaid API, providing tools to access Plaid financial data and documentation. Includes an authenticated API server for account, transaction, and investment operations, and an unauthenticated docs server for searching Plaid documentation.

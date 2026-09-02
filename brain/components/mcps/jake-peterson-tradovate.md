@@ -8,10 +8,12 @@ source_url: https://github.com/0xjmp/mcp-tradovate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-07T09:00:51Z"
 ---
 ## What it is
 MCP server `Tradovate`, catalogued on PulseMCP. Provides a robust trading API integration for Tradovate, enabling algorithmic traders to access market data, manage orders, and control account operations through a JSON-RPC interface.

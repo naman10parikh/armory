@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T09:23:14Z"
 ---
 ## What it is
 Provides local command execution, remote SSH, interactive terminals, file read/write, and source search for AI CLI through stdio, with large output pagination and safety confirmations.

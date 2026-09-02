@@ -8,11 +8,13 @@ source_url: https://github.com/aayoawoyemi/Ori-Mnemos
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 319
+stars: 322
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 28
+pushed_at: "2026-07-30T23:07:48Z"
 ---
 ## What it is
 Open-source persistent memory infrastructure for AI agents.

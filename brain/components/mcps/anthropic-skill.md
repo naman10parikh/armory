@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T03:50:03Z"
 ---
 ## What it is
 A robust, lightweight Model Context Protocol (MCP) server designed to empower your AI Agents with context-awareness, safe execution sandboxes, and dedicated thought logs.

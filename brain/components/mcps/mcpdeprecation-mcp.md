@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T12:38:47Z"
 ---
 ## What it is
 MCP server `MCP Deprecation Gate`, catalogued on PulseMCP. MCP tool deprecation receipt management with structured audit logs and reviewer-ready evidence.

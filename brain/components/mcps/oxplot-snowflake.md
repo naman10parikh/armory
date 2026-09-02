@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T06:36:43Z"
 ---
 ## What it is
 MCP server `Snowflake`, catalogued on PulseMCP. Integrates with Snowflake databases through external browser authentication, enabling secure schema exploration and SQL query execution without storing credentials on disk.

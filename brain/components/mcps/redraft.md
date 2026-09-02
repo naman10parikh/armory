@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T23:11:53Z"
 ---
 ## What it is
 An MCP server for AI-assisted project development and tracking. It exposes a typed graph of design nodes (concepts, decisions, requirements, etc.) and edges to Claude Code, enabling structured management of project knowledge and report generation.

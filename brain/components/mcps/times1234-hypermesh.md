@@ -8,10 +8,12 @@ source_url: https://github.com/times1234/hypermesh-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-10T02:23:32Z"
 ---
 ## What it is
 MCP server `HyperMesh`, catalogued on PulseMCP. Controls Altair HyperMesh meshing operations via AI-generated Tcl scripts for drag hex, spin hex, and tetrahedral meshing.

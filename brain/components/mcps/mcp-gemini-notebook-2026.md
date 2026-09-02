@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T08:04:12Z"
 ---
 ## What it is
 Enables querying NotebookLM with Gemini 2.5 from Cursor/Claude Code, returning answers grounded in user-provided sources without the model's internal thinking.

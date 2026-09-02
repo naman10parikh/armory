@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
 stars: 2
+forks: 0
+pushed_at: "2026-04-15T01:29:03Z"
 ---
 ## What it is
 Turn URLs into viral posts via "remake" command.

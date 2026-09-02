@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T14:17:56Z"
 ---
 ## What it is
 Read-only ops/health MCP server for a local vLLM instance: health tiers, GPU/VRAM, service status.

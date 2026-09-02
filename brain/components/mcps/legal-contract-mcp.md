@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T03:18:33Z"
 ---
 ## What it is
 MCP server for first-pass legal contract review. It loads txt/docx/pdf contracts, detects standard clauses, flags heuristic risks, summarizes, and compares agreements.

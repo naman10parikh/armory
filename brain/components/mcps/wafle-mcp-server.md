@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-12T21:15:41Z"
 ---
 ## What it is
 The first MCP server for the wafle commerce platform. It enables Claude, agents, and MCP-compatible clients to manage stores, products, orders, pricing, gateways, and more through natural language.

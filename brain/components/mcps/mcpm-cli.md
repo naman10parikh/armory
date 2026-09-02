@@ -8,11 +8,13 @@ source_url: https://github.com/MCP-Club/mcpm
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 107
+stars: 106
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 28
+pushed_at: "2025-01-06T03:27:04Z"
 ---
 ## What it is
 A command-line tool for managing MCP servers in Claude App, which can also act as an MCP server itself to enable package management and discovery.

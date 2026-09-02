@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T04:45:35Z"
 ---
 ## What it is
 Enables visual annotation on web pages for Claude Code, allowing element selection, comment addition, screenshot capture, and structured UI feedback for code fixes via an MCP server.

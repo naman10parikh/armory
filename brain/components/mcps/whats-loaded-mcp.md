@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T03:08:53Z"
 ---
 ## What it is
 Shows what is consuming your agent context window before a session starts: always-loaded skill descriptions ranked by token cost, skills installed more than once under different names, CLAUDE.md/AGENTS.md sizes including what their @import lines pull in, and MCP servers configured across clients. Re

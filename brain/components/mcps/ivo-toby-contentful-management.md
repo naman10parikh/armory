@@ -8,10 +8,12 @@ source_url: https://github.com/ivo-toby/contentful-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-01-17T16:45:28Z"
 ---
 ## What it is
 MCP server `Contentful Management`, catalogued on PulseMCP. Integrate with Contentful's Content Management API for CMS management.

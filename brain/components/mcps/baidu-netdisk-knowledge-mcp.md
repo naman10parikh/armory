@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T15:45:16Z"
 ---
 ## What it is
 Connects Baidu Netdisk to MCP-compatible AI clients, enabling AI to safely read selected files and generate summaries, key points, to-dos, tags, and organization suggestions.

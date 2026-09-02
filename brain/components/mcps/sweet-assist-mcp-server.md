@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T08:14:32Z"
 ---
 ## What it is
 Standalone MCP server exposing Sweet Assist transactions, contacts, envelopes, and agent profiles to Claude, behind an OAuth 2.1 login and approve flow.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T21:01:20Z"
 ---
 ## What it is
 MCP server for Minisend payment APIs, enabling stablecoin-to-local-currency payouts and on-ramps across Kenya, Nigeria, Ghana, and Uganda. Exposes tools for off-ramp, on-ramp, checkout, wallets, and API knowledge, with permissions-based tool visibility.

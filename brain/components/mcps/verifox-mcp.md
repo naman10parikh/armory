@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:58:15Z"
 ---
 ## What it is
 Enables AI assistants to verify email deliverability and find business emails via the Verifox API, supporting single and bulk operations.

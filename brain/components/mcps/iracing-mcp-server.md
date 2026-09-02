@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T18:57:54Z"
 ---
 ## What it is
 Enables AI assistants to access real-time iRacing telemetry, race information, camera control, pit operations, and replay features through the MCP protocol.

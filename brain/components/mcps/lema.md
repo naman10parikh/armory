@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T02:10:57Z"
 ---
 ## What it is
 Your coding agent can read the code. It can't read the argument behind it. lema-mcp gives your agent the recorded why — and the alternatives a project already ruled out — cited to the source. For React, Kubernetes, and Rust out of the box, and for your own repo with one command.

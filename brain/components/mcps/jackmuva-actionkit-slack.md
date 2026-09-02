@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-08T17:49:24Z"
 ---
 ## What it is
 MCP server `ActionKit (Slack)`, catalogued on PulseMCP. Enables interaction with Slack through ActionKit's API using TypeScript and JWT authentication, with filtered actions and user authentication via Paragon Connect Portal

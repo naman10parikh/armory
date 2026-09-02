@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T20:29:47Z"
 ---
 ## What it is
 A self-hosted Evernote MCP server that lets any MCP client search, read, create, and update notes in your live Evernote account, with notes never passing through third-party servers.

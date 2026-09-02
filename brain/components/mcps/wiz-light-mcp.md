@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T01:08:06Z"
 ---
 ## What it is
 MCP server for controlling WiZ smart lights locally via UDP: discover bulbs, power control, color, temperature, and scenes.

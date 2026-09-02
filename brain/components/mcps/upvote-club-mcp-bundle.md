@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T09:26:58Z"
 ---
 ## What it is
 Enables single-click Claude Desktop installation of Upvote Club's MCP tools for link promotion and subscription management.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T19:00:17Z"
 ---
 ## What it is
 MCP server `Telegram CTI`, catalogued on PulseMCP. Telethon-based Telegram integration for cyber threat intelligence with 60+ tools spanning chat management, messaging, contacts, media, and search.

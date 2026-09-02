@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T10:53:29Z"
 ---
 ## What it is
 Enables users to search for remote job listings using Playwright browser automation, fully containerized with Docker and compatible with Claude Desktop.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T18:48:46Z"
 ---
 ## What it is
 Exposes Old School RuneScape account data (quests, skills, diaries, etc.) via WikiSync and official HiScores, allowing Claude to query player progress without manual copy-pasting.

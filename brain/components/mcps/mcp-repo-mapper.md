@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T15:43:29Z"
 ---
 ## What it is
 Scans a local codebase and exposes file structure, language counts, Python import dependencies, circular dependency detection, framework detection, entry point candidates, and a cached repo structure resource.

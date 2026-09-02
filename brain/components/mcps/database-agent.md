@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, data-analysis-database-integration]
+forks: 0
+pushed_at: "2025-04-27T12:31:51Z"
 ---
 ## What it is
 Database Agent using A2A architecture

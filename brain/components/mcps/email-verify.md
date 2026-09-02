@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T18:05:03Z"
 ---
 ## What it is
 Enables real-time email verification via MCP tools, checking syntax, MX, disposable domains, and optional SMTP probe to determine deliverability with a VALID/RISKY/INVALID verdict.

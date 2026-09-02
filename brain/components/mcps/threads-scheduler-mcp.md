@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T07:28:51Z"
 ---
 ## What it is
 A local-first MCP server for reading, planning, scheduling, and publishing Meta Threads posts, with OAuth and Keychain integration.

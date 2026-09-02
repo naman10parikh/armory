@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-15T23:14:28Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for interacting with Nautobot APIs using semantic search and dynamic API requests.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T23:00:05Z"
 ---
 ## What it is
 Controls the TradingView Desktop app via MCP, allowing AI agents to manage charts, indicators, Pine Script strategies, and optionally mirrors signals to MetaTrader 5 for automated trading.

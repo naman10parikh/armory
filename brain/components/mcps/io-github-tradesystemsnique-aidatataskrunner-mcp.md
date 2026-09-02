@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T22:07:58Z"
 ---
 ## What it is
 Enables to control AiDataTaskRunner panel for backtesting tasks via MCP, allowing task management, configuration, and monitoring through natural language.

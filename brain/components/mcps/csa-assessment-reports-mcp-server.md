@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T07:07:20Z"
 ---
 ## What it is
 Enables Bob AI to access and analyze Cloudability Savings Automation assessment reports stored in SharePoint, allowing users to create pitch decks, analyze savings projections, and compare coverage through natural language.

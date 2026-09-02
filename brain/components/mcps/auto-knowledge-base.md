@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T12:19:16Z"
 ---
 ## What it is
 基于MCP协议的知识库服务器，内置LLM层，提供结构化知识存储、语义搜索和主动知识推送，支持通过工具进行知识学习、搜索和关联推理。

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-30T20:33:20Z"
 ---
 ## What it is
 Enables image generation, editing, and refinement using Google's Gemini 2.5 Flash Image model with support for multi-image composition and style transfer.

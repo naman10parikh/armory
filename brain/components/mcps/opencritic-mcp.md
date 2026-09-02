@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T21:15:22Z"
 ---
 ## What it is
 Enables AI assistants to search for games and retrieve aggregated critic scores, review tiers, and individual reviews from OpenCritic. Provides tools for game search, score retrieval, and review lookup via the OpenCritic API.

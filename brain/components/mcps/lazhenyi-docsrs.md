@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-03T19:21:00Z"
 ---
 ## What it is
 MCP server `docs.rs`, catalogued on PulseMCP. Provides access to Rust crate documentation from docs.rs through web scraping, enabling crate search, documentation retrieval, module browsing, and README access.

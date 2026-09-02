@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T14:58:28Z"
 ---
 ## What it is
 Production-oriented MCP gateway for managing Codex through a persistent codex app-server process, supporting threads, autonomous goals, approvals, and HTTP/stdio transports.

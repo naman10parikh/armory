@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-14T10:51:33Z"
 ---
 ## What it is
 MCP server `Tesouro Direto`, catalogued on PulseMCP. Provides real-time access to Brazil's Treasury Direct bond market data, enabling users to retrieve market status, search bonds by type and maturity date, and access detailed information for investment analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T22:43:10Z"
 ---
 ## What it is
 Enables AI-assisted MIDI music generation and composition through natural language, supporting style, tempo, key, and instrument selection.

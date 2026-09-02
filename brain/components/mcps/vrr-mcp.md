@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T08:17:03Z"
 ---
 ## What it is
 Provides VRR public transit data as MCP tools for Claude, enabling departure board lookups, trip planning with optional via stops, and disruption overviews.

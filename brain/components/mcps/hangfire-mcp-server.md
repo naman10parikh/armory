@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T09:27:11Z"
 ---
 ## What it is
 Enables monitoring and managing Hangfire background jobs, including job lists, retries, recurring tasks, and statistics, directly from VS Code Copilot and other MCP clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-02T22:18:49Z"
 ---
 ## What it is
 AI-powered code review assistant that analyzes repositories for security vulnerabilities, performance bottlenecks, and code quality issues through natural language interactions.

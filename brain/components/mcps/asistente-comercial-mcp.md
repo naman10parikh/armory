@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T09:10:21Z"
 ---
 ## What it is
 Provides an AI agent with tools to search and analyze customer, product, and sales data from an e-commerce database using natural language.

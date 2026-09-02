@@ -12,6 +12,8 @@ stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-09-24T00:19:36Z"
 ---
 ## What it is
 MCP server `Debug Adapter Protocol (DAP)`, catalogued on PulseMCP. Bridges debugging tools with AI systems through the Debug Adapter Protocol, enabling debugger control, breakpoint management, and program state inspection with XML-formatted output for enhanced debugging workflows.

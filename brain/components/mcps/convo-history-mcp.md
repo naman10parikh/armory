@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-20T04:11:20Z"
 ---
 ## What it is
 Fetches conversations from PostgreSQL and renders them as beautifully formatted, human-readable terminal output.

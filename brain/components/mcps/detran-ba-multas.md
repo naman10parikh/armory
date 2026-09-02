@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:13Z"
 ---
 ## What it is
 Enables querying traffic fines (multas) from DETRAN Bahia via a read-only MCP tool, using official sources and natural language.

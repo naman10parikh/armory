@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:27:10Z"
 ---
 ## What it is
 An MIT-licensed MCP server that provides access to a rolling 24-month corpus of NSE/BSE company documents (concall transcripts, annual reports, investor presentations) with provenance, deduplication, and rights management. It enables searching companies, finding documents, retrieving document conten

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T08:23:03Z"
 ---
 ## What it is
 Enables AI agents to control Reaper DAW by parsing .rpp project files and generating Lua ReaScripts for project-level tasks.

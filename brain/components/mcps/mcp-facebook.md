@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T11:19:21Z"
 ---
 ## What it is
 MCP server for Facebook Pages that allows creating, scheduling, and deleting posts, managing comments, and retrieving Page insights using the Facebook Graph API.

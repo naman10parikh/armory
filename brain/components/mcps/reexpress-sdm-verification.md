@@ -8,10 +8,12 @@ source_url: https://github.com/reexpressai/reexpress_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-01T23:04:56Z"
 ---
 ## What it is
 MCP server `Reexpress SDM Verification`, catalogued on PulseMCP. Enable Similarity-Distance-Magnitude statistical verification for your search, software, and data science workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T06:59:01Z"
 ---
 ## What it is
 Enables LLMs to interact with a SQLite e-commerce database via safe, typed MCP tools with read-only guards and auth-gated mutations, plus a Claude agent for answering business questions.

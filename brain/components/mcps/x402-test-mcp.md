@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T04:22:17Z"
 ---
 ## What it is
 An MCP server that tests agent payment capabilities by making a real x402 payment ($10 USDC on Base) and returning a signed diagnostic report covering the entire payment flow.

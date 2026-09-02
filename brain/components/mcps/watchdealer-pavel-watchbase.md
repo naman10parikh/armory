@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-28T04:04:57Z"
 ---
 ## What it is
 MCP server `WatchBase`, catalogued on PulseMCP. Integrates with WatchBase Data Feed API to provide structured access to comprehensive watch metadata including brands, collections, reference numbers, and technical details for watch enthusiasts and retailers.

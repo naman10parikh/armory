@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-02T20:05:17Z"
 ---
 ## What it is
 MCP server `CPFHub`, catalogued on PulseMCP. Enables AI agents to query Brazilian CPF data including full names, gender, and date of birth, plus account quota checking.

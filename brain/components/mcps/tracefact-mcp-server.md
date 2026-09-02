@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T09:16:23Z"
 ---
 ## What it is
 Read-only MCP server for TraceFact that lets agents list trace runs, fetch run details, and retrieve reliability reports from a local store.

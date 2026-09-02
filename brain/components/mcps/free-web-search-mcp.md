@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T01:42:06Z"
 ---
 ## What it is
 This MCP server enables free web search and page content extraction using real browsers, with support for multiple search engines and stealth browser backends. It provides tools for searching, fetching pages, and setting up the Camoufox stealth browser.

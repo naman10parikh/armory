@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T01:30:32Z"
 ---
 ## What it is
 A web fetching MCP server with HTTP proxy support, allowing AI to retrieve web content in markdown, text, or HTML format while handling anti-crawler detection and redirects.

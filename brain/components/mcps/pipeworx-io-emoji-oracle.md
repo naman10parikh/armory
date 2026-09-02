@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:03:27Z"
 ---
 ## What it is
 MCP server `Emoji Oracle`, catalogued on PulseMCP. Emoji-based fortune-telling via the StupidAPIs divination endpoint.

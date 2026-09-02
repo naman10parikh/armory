@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T05:56:10Z"
 ---
 ## What it is
 A Model Context Protocol server for Massdriver that enables AI assistants to manage infrastructure platform resources like projects, environments, deployments, policies, and more. It provides 106 tools and supports stdio or HTTP transports.

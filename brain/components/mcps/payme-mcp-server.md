@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T07:27:42Z"
 ---
 ## What it is
 MCP server for Payme — the leading payment system in Uzbekistan. Enables AI agents to process payments, manage cards, and generate checkout links through the Model Context Protocol.

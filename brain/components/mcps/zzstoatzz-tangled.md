@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T20:06:18Z"
 ---
 ## What it is
 MCP server `Tangled`, catalogued on PulseMCP. Manage repositories, branches, and issues on Tangled.org

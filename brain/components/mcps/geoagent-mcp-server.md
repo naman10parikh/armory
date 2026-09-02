@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:47:02Z"
 ---
 ## What it is
 Exposes tools and resources for human-supervised geological modelling from borehole data, including validation, 3D implicit model construction with GemPy, and uncertainty analysis, with a deterministic audit trail.

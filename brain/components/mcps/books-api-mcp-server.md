@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-31T22:27:29Z"
 ---
 ## What it is
 MCP server that exposes book management tools for AI assistants, enabling CRUD operations on book collections through a .NET Books API backend.

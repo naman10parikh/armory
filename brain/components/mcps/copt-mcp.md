@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-10T13:26:39Z"
 ---
 ## What it is
 Enables AI assistants to access COPT solver documentation, example code, and citation formats via MCP protocol, reducing hallucinations when using COPT interfaces.

@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-21T05:58:21Z"
 ---
 ## What it is
 MCP server `Browser Automation`, catalogued on PulseMCP. Selenium-powered browser automation server that enables web interactions like navigation, clicking, form filling, and scrolling with minimal human supervision for web scraping, testing, and automated browsing scenarios.

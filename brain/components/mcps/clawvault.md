@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T07:15:59Z"
 ---
 ## What it is
 MCP server for ClawVault - an AI agent payment security layer that enables Claude to request payments, check limits, and manage transactions with configurable rules.

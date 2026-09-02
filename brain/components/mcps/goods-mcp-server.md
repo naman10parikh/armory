@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T09:57:26Z"
 ---
 ## What it is
 提供商品搜索、画像、品牌、价格、渠道和销售趋势分析能力，帮助用户开展选品、竞品研究和电商经营分析。

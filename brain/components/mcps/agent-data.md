@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T21:06:28Z"
 ---
 ## What it is
 Get programmatic access to 170,000+ verified B2B companies in Spain. Featuring a highly-curated premium subset of 26,000+ CEO direct dials and mobile phones. Bypassing legacy corporate gatekeepers has never been cheaper.

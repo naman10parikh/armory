@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T05:37:43Z"
 ---
 ## What it is
 MCP server `Meta Ads Complete`, catalogued on PulseMCP. Production-grade Meta Ads Manager integration with 20+ tools for campaign, ad set, audience, and analytics management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:32:19Z"
 ---
 ## What it is
 MCP server for Bosch eBike Flow (Smart System / BES3). Read-only access to battery health and charge-cycle trends, components and firmware, live state-of-charge, and per-ride activity data (distance, elevation, power, assist-mode, CO2), signing in with your own Bosch account via PKCE.

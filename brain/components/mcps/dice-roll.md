@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-05T12:51:24Z"
 ---
 ## What it is
 MCP server `Dice Roll`, catalogued on PulseMCP. Provides a simple dice rolling tool that generates random rolls with customizable dice faces and quantities, returning both individual results and their sum.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T11:14:09Z"
 ---
 ## What it is
 Enables AI tools to perform full-featured embedded microcontroller debugging via pyOCD and CMSIS-DAP probes, including probe management, flashing, breakpoints, register/memory access, fault analysis, and RTT communication.

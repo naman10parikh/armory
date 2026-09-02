@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T06:41:36Z"
 ---
 ## What it is
 MCP server `ACMA Radiocommunications Licence Register`, catalogued on PulseMCP. Local mirror of Australia's ACMA Register of Radiocommunications Licences with comprehensive search tools for sites, licences, clients, and device details.

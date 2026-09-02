@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T02:10:15Z"
 ---
 ## What it is
 Provides agents with read-only access to local code architecture graphs (structure from tree-sitter, semantic summaries from LLMs), including per-workspace graph/config/status/rebuild tools, while enforcing that topology comes only from static analysis.

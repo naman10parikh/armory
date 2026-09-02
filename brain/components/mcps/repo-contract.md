@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T19:45:28Z"
 ---
 ## What it is
 An MCP server that enforces repository governance rules for AI coding agents, providing tools to validate plans, diffs, and scan for architectural and safety violations.

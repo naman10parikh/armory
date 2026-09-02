@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T08:18:03Z"
 ---
 ## What it is
 MCP server `Disaster Alert Center`, catalogued on PulseMCP. Monitor disaster alerts and analyze incidents with real-time streaming.

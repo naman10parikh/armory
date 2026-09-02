@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-09-28T10:16:06Z"
 ---
 ## What it is
 MCP server `Google Programmable Search Engine`, catalogued on PulseMCP. Integrates with Google Programmable Search Engine to enable web search capabilities with support for pagination, result size, language restrictions, and safe search filtering

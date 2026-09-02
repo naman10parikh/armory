@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T09:40:25Z"
 ---
 ## What it is
 A Python MCP server that provides access to ssOtica's consulting APIs for managing sales, services, finances, and inventory data, outputting results to CSV.

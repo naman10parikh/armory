@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-10T14:04:15Z"
 ---
 ## What it is
 Sends task completion notifications via QQ email with time tracking, compatible with Augment's MCP protocol.

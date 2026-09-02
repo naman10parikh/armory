@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T20:38:22Z"
 ---
 ## What it is
 MCP server `Tariff Monitor`, catalogued on PulseMCP. Live US tariff calculator: HTS lookup, full stacked rate (MFN+301+IEEPA+reciprocal). No API key.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T06:46:01Z"
 ---
 ## What it is
 Generates email templates via Claude, turning a description (with optional tone and brand name) into a subject, plain-text, and HTML email body.

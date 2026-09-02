@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:05:20Z"
 ---
 ## What it is
 Manages employees, projects, sprints, tasks, tags, directories, and channel messages via the Upservice Public API.

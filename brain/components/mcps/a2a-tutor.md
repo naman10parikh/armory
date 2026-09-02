@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, multiagent-systems]
+forks: 0
+pushed_at: "2025-04-16T09:04:35Z"
 ---
 ## What it is
 Tutoring system using A2A protocol

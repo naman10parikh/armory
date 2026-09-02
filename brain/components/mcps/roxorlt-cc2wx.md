@@ -8,10 +8,12 @@ source_url: https://github.com/roxorlt/cc2wx
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-15T04:25:19Z"
 ---
 ## What it is
 MCP server `CC2WX WeChat Bridge`, catalogued on PulseMCP. Bridge between Claude Code and WeChat via iLink Bot API with permission relay.

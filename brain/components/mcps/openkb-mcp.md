@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T04:44:53Z"
 ---
 ## What it is
 Exposes local OpenKB knowledge bases to MCP clients, enabling wiki discovery, cataloging, lexical search, page reads, and optional LLM query fallback and skill generation.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 2
+forks: 2
+pushed_at: "2025-11-27T21:36:48Z"
 ---
 ## What it is
 TypeScript-based smart home automation server for Plugwise devices with automatic network discovery. Features comprehensive device control for thermostats, switches, smart plugs, energy monitoring, multi-hub management, and real-time climate/power consumption tracking via local network integration.

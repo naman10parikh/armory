@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T06:32:04Z"
 ---
 ## What it is
 A beginner-friendly demo project that builds and connects multiple MCP servers (Math and Weather) to a LangChain LLM agent, enabling tool-based interactions via standardized MCP protocol.

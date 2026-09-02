@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-24T10:58:02Z"
 ---
 ## What it is
 A comprehensive MCP server for infrastructure operations with 92 tools across 13 categories, covering system monitoring, networking, containers, multi-cloud management, databases, CI/CD, IaC, security, and remote SSH fleet management.

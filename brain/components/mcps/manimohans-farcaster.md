@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-21T17:12:08Z"
 ---
 ## What it is
 MCP server `Farcaster`, catalogued on PulseMCP. Integrates with the Farcaster Hubble API to fetch and analyze social data, enabling real-time content monitoring and user engagement tracking on the Farcaster network.

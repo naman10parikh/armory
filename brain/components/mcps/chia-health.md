@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-31T18:00:37Z"
 ---
 ## What it is
 MCP server `Chia Health`, catalogued on PulseMCP. Enables AI-assisted telehealth workflows for browsing medications, completing intake, signing consent, placing orders, and managing treatment via streamable HTTP.

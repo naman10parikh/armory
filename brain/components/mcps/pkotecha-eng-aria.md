@@ -8,10 +8,12 @@ source_url: https://github.com/pkotecha-eng/aria-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-13T04:30:13Z"
 ---
 ## What it is
 MCP server `Aria`, catalogued on PulseMCP. Search 35M+ PubMed papers and 400K+ clinical trials — no API key required.

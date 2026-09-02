@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T18:38:49Z"
 ---
 ## What it is
 Enables AI agents to search and discover verified deep-tech engineering bounties with real funding, using a single search_bounties tool.

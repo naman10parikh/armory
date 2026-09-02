@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T07:04:18Z"
 ---
 ## What it is
 Connects to local LM Studio models to generate highly creative, imaginative stories with customizable genres, tones, and word counts.

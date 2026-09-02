@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-27T04:31:34Z"
 ---
 ## What it is
 Official MCP server for the Nhost backend platform. Manage Postgres data, GraphQL, auth, storage, migrations and Hasura metadata via AI assistants.

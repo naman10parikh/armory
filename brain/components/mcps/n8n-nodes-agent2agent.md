@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, integration-services]
+forks: 8
+pushed_at: "2025-04-30T17:03:03Z"
 ---
 ## What it is
 Adds nodes to n8n for interacting with AI agents using A2A protocol

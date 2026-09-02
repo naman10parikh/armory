@@ -8,11 +8,13 @@ source_url: https://github.com/project-numina/lean-lsp-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-11T16:28:42Z"
 ---
 ## What it is
 MCP server for agentic interaction with the Lean theorem prover via LSP, providing tools for understanding, analyzing, and interacting with Lean projects.

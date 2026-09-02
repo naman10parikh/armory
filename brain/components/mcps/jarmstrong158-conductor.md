@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-02T13:42:15Z"
 ---
 ## What it is
 MCP server `Conductor`, catalogued on PulseMCP. Local task scheduler and worker manager with MCP integration for Claude Desktop.

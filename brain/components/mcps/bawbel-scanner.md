@@ -8,10 +8,12 @@ source_url: https://github.com/bawbel/scanner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-05T16:29:36Z"
 ---
 ## What it is
 MCP server `Bawbel Scanner`, catalogued on PulseMCP. Security scanner for MCP servers and skill files that detects AVE vulnerabilities before production.

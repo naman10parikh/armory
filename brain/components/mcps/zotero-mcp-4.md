@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T00:54:29Z"
 ---
 ## What it is
 Local read-only MCP server for Zotero libraries, enabling search, retrieval, and full-text access via the Zotero Web API.

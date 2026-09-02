@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T11:43:55Z"
 ---
 ## What it is
 MCP server to control MuMu Player 12 Android emulator, providing 59 tools for emulator lifecycle, app management, UI automation, screenshots, and more.

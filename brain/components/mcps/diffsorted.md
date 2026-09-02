@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T13:07:01Z"
 ---
 ## What it is
 Splits messy, multi-concern git diffs into focused groups and generates a clear, accurate commit message for each, exposed as an MCP server for use with MCP-compatible clients.

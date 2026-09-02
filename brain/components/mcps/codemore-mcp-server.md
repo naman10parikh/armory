@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T16:29:15Z"
 ---
 ## What it is
 Enables AI agents to scan code for security and quality issues and receive machine-readable reports with suggested fixes and verification criteria.

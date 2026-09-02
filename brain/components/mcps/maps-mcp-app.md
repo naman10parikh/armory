@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T17:51:57Z"
 ---
 ## What it is
 Enables users to search for locations, businesses, and points of interest on an interactive OpenStreetMap map within ChatGPT conversations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-23T11:44:02Z"
 ---
 ## What it is
 MCP server integrating VolcEngine for automatic speech recognition (ASR) and text-to-speech (TTS), converting audio to text or text to audio files.

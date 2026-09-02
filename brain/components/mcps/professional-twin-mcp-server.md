@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-12T16:00:22Z"
 ---
 ## What it is
 Enables users to interact with professional digital twin data via Claude Desktop, including searching experience, managing contact and scheduling, and generating introductions and project showcases.

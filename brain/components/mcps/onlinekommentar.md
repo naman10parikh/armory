@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-02T11:38:21Z"
 ---
 ## What it is
 MCP server `Online Kommentar`, catalogued on PulseMCP. Integrates with the Online Kommentar legal commentary database to search Swiss legal commentaries with filters and retrieve detailed commentary information including authors, editors, and publication dates.

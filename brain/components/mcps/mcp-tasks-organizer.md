@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-03-02T07:17:34Z"
 ---
 ## What it is
 Converts Cursor agent plans into structured markdown task lists and organizes them in your repository.

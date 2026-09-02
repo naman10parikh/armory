@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:01Z"
 ---
 ## What it is
 MCP server that enables querying negative debt certificates (Certidão Negativa de Débitos) from the Balneário Camboriú city government in Brazil, providing read-only access to official records through a single tool.

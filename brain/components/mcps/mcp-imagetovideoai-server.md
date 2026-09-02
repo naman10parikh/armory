@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T09:24:36Z"
 ---
 ## What it is
 A lightweight Model Context Protocol server for planning image-to-video shots, building production-ready motion prompts, and preparing reliable generation workflows.

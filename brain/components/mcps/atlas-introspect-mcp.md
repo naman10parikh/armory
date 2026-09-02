@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T01:10:33Z"
 ---
 ## What it is
 Enables introspection and configuration of a running ATLAS instance, including browsing chat history, editing config/mcp.json, and managing workspaces and custom prompts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-02T16:13:32Z"
 ---
 ## What it is
 An MCP server that provides comprehensive access to AWS Amplify Gen 2 Next.js documentation, enabling AI assistants to provide accurate, up-to-date guidance on building applications with Amplify.

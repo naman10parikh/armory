@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T10:39:25Z"
 ---
 ## What it is
 Enables searching and browsing the Ace Achievers course catalog and question bank with tiered hint reveals.

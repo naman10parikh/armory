@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-30T19:39:35Z"
 ---
 ## What it is
 Local-first MCP server for controlling a loopback ComfyUI instance from same-machine or authenticated LAN clients.

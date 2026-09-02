@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T17:48:01Z"
 ---
 ## What it is
 MCP server `LinkedIn (ushurbakiyevdavlat)`, catalogued on PulseMCP. Manages LinkedIn profiles, publishes content, uploads media, and retrieves organizational and post analytics through OAuth-authenticated API integration.

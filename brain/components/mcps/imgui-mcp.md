@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-22T23:50:21Z"
 ---
 ## What it is
 Enables AI agents to visually design and iterate on Dear ImGui game UIs in real-time with live preview, input simulation, and a wide range of widgets and tools.

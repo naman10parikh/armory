@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-07T00:54:46Z"
 ---
 ## What it is
 Pay-per-call x402 data products on Base mainnet — sanctions screening, aviation weather, mortgage rates, US property dossier, title chain, wallet balance, and agent session auth. Every call settles in USDC with an on-chain receipt, no accounts or API keys.

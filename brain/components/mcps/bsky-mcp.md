@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T22:39:23Z"
 ---
 ## What it is
 Remote MCP server giving Claude-family agents credential-isolated access to Bluesky/ATProto via a self-hosted PDS, with read triage, search, and write tools (posts, replies, likes, reposts, follows) governed by policy ceilings and consent.

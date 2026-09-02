@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:48:17Z"
 ---
 ## What it is
 MCP server `Clash Royale`, catalogued on PulseMCP. Clash Royale player, clan, war, tournament, card, and rankings data via the Supercell developer API.

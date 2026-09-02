@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:00:44Z"
 ---
 ## What it is
 Enables querying music discography data from Discogs, including master releases, artist profiles, and label information.

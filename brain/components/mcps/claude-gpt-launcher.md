@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T21:46:53Z"
 ---
 ## What it is
 Enables Codex chat to use the Claude Code harness for repository consultation and editing, routing through GPT models via a local proxy.

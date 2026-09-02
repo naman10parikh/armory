@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T06:13:10Z"
 ---
 ## What it is
 Provides 9 text processing tools for analysis, sentiment, language detection, summarization, spelling, and readability tips.

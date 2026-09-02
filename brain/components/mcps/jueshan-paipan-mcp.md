@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T01:17:09Z"
 ---
 ## What it is
 Provides precise Chinese metaphysics chart calculation (Bazi, Ziwei, Qimen) with true solar time correction, outputting structured JSON and Markdown for AI integration.

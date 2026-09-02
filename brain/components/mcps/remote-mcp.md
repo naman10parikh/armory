@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T23:18:06Z"
 ---
 ## What it is
 A local MCP server that proxies file and shell tools (Read, Write, Edit, Bash, etc.) to a remote Linux host over SSH, enabling MCP clients like Claude Code to operate on remote codebases.

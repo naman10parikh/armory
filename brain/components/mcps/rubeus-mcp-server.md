@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T03:09:31Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Kerberos abuse operations using Rubeus on Windows or Impacket on Linux/macOS.

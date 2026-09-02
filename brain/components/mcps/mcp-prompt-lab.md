@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T19:42:59Z"
 ---
 ## What it is
 A local MCP server for prompt evaluation, enabling users to define test cases, run prompts against multiple LLM providers, score outputs with deterministic and LLM-graded assertions, and track quality over time, all within an AI coding environment.

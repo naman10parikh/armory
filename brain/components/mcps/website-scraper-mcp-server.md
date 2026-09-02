@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T16:42:13Z"
 ---
 ## What it is
 Enables AI agents to scrape, crawl, clean, chunk, and index website content into Azure AI Search for full-text retrieval.

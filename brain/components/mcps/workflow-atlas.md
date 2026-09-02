@@ -8,11 +8,13 @@ source_url: https://github.com/claudiu-deving/workflow-atlas
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T05:56:42Z"
 ---
 ## What it is
 Enables an AI assistant to author algorithm storyboards, workflow maps, and UI styling through MCP, serving a local web app for visualizing and reviewing them.

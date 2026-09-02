@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-25T18:22:22Z"
 ---
 ## What it is
 MCP server `GovernMy.ai`, catalogued on PulseMCP. Queries AI governance obligations across EU AI Act, ISO 42001, NIST AI RMF, and other regulatory frameworks.

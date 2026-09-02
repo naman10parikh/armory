@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T18:25:22Z"
 ---
 ## What it is
 Enables email management via IMAP and SMTP with multi-account support, safe sending with confirmation, and read-only modes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-07T19:10:29Z"
 ---
 ## What it is
 Enables semantic memory storage and retrieval with natural language queries, deployed on Vercel with PostgreSQL pgvector and OpenAI embeddings.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T03:15:25Z"
 ---
 ## What it is
 MCP server for integrating xAI's Grok model into OpenAI Codex Desktop/GUI, enabling direct Grok calls via chat completions or responses with OAuth or API key authentication.

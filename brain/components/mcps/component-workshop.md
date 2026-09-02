@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:32:30Z"
 ---
 ## What it is
 A minimal MCP server providing synthetic embedded components and NTC fault codes, designed for hands-on workshop exercises with GitHub Copilot Chat Agent mode.

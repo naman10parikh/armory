@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-12T12:33:39Z"
 ---
 ## What it is
 MCP server `Seznam Webmaster`, catalogued on PulseMCP. Manages Czech search engine Seznam website indexation, tracks page counts and history, and submits reindex requests via the Seznam Webmaster API.

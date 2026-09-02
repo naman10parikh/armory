@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T03:59:00Z"
 ---
 ## What it is
 A remote MCP server that gives Claude access to your Canvas LMS course materials and files, enabling you to list courses, retrieve files, modules, syllabus, pages, assignments, grades, quizzes, and more via natural language.

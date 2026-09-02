@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T06:48:19Z"
 ---
 ## What it is
 HTTP MCP server that reads from and writes to a PostgreSQL database (bankdb). Provides tools for querying and managing customer, account, and transaction data.

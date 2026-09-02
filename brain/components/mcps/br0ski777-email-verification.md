@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:06Z"
 ---
 ## What it is
 MCP server `Email Verification`, catalogued on PulseMCP. Verify email addresses: syntax, MX records, disposable detection, and a 0–100 quality score.

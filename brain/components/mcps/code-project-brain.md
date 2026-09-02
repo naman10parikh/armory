@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:22:55Z"
 ---
 ## What it is
 Provides AI agents with a governed, three-layer project memory (guide, code facts, and knowledge) through namespaced MCP tools for code search, context compilation, impact analysis, and proposal-driven documentation updates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T11:43:29Z"
 ---
 ## What it is
 An MCP server for the Pexels API that provides inline visual previews, video storyboards, and batch operations for efficient stock media selection in Claude and other MCP clients.

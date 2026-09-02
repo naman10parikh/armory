@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T14:14:12Z"
 ---
 ## What it is
 MCP server `Code Executor`, catalogued on PulseMCP. Secure code execution environment with multiple language support.

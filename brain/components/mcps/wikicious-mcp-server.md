@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T03:25:17Z"
 ---
 ## What it is
 Connects MCP-compatible AI assistants to the Wikicious V6 protocol on Arbitrum One, enabling queries on perp markets, positions, staking, and revenue, as well as executing trades, deposits, withdrawals, and staking actions via natural language.

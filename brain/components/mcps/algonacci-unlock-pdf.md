@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-06T07:50:10Z"
 ---
 ## What it is
 MCP server `PDF Reader`, catalogued on PulseMCP. Provides functionality to read and extract content from protected and unprotected PDF files, enabling document analysis, content indexing, and data extraction workflows.

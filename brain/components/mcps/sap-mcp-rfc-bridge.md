@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:07:50Z"
 ---
 ## What it is
 An MCP server that enables MCP clients like Claude Code to work with SAP ABAP objects over RFC, reaching systems without HTTP/ADT endpoints such as classic ECC/R/3.

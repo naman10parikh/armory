@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-23T21:36:33Z"
 ---
 ## What it is
 MCP server `GadsChain`, catalogued on PulseMCP. Blockchain advertising platform integrating the Gads advertising network with on-chain transaction management.

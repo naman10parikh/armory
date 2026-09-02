@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T21:17:31Z"
 ---
 ## What it is
 MCP server for AI-powered roadside assistance case management, exposing SQLite-backed tools for querying case counts, statuses, and summaries through natural language via Gemini function calling.

@@ -8,11 +8,13 @@ source_url: https://github.com/ReyemTech/mcp-canada
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 57
+stars: 58
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-24T15:57:37Z"
 ---
 ## What it is
 MCP server giving AI agents structured access to Canadian federal, provincial, and municipal government data.

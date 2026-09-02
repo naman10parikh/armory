@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-07T02:44:42Z"
 ---
 ## What it is
 An MCP server that gives Claude and other LLM agents programmatic access to EVE-NG network labs, enabling creation, configuration, and management of virtual network topologies through natural language.

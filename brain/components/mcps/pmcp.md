@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-09-01T17:03:15Z"
 ---
 ## What it is
 A single MCP server gateway that reduces context bloat by providing progressive tool discovery and invocation, dynamically provisioning downstream servers on demand.

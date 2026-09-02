@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T06:21:45Z"
 ---
 ## What it is
 A Model Context Protocol server for PyLabRobot that exposes liquid handler, plate reader, thermocycler, and heater-shaker as MCP tools. It ships in simulation mode by default, allowing end-to-end testing without hardware.

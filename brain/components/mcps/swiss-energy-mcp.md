@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:09:27Z"
 ---
 ## What it is
 Enables AI assistants to access structured, location-based Swiss energy infrastructure data, including power plants, wind turbines, solar roof potential, and Energiestadt labels, via public APIs without authentication.

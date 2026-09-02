@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T17:56:05Z"
 ---
 ## What it is
 MCP server `n8n by NexTool Solutions`, catalogued on PulseMCP. Comprehensive n8n workflow automation integration with 43 tools covering workflows, data tables, tags, credentials, users, and audit.

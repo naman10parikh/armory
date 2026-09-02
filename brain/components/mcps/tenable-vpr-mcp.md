@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T00:33:52Z"
 ---
 ## What it is
 MCP server for Tenable.io/One Vulnerability Management that provides read-only tools for querying scans, assets, plugins, and vulnerabilities, plus specialized reporting tools for VPR re-prioritization, CISA KEV/EPSS exposure, and scan delta comparisons.

@@ -8,10 +8,12 @@ source_url: https://github.com/romthpt/mcp-xrpl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-25T10:41:43Z"
 ---
 ## What it is
 MCP server `XRP Ledger`, catalogued on PulseMCP. Integrates with XRP Ledger blockchain to enable XRP transfers, token operations, NFT management, DID creation, AMM interactions, escrow services, payment channels, and oracle operations across mainnet and testnet environments.

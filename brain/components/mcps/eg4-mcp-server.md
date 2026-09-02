@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-25T18:04:36Z"
 ---
 ## What it is
 MCP server for EG4 solar inverters, enabling real-time monitoring, performance analysis, battery health, alerts, maintenance insights, and historical data via natural language.

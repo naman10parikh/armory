@@ -8,10 +8,12 @@ source_url: https://github.com/flutterninja9/better-fetch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-05T03:16:53Z"
 ---
 ## What it is
 MCP server `Better Fetch`, catalogued on PulseMCP. Fetches and processes web content with nested URL crawling capabilities. Transform any documentation site or web resource into clean, structured markdown files perfect for AI consumption and analysis.

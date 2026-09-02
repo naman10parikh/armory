@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:46:54Z"
 ---
 ## What it is
 Enables access to Israel Central Bureau of Statistics (CBS) data through natural language queries via the Pipeworx MCP gateway.

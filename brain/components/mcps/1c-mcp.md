@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T11:41:52Z"
 ---
 ## What it is
 Give an AI agent eyes into your 1C:Enterprise 8.3 base — read metadata & data, run queries, and diagnose why a document won't post — over one extension HTTP service.

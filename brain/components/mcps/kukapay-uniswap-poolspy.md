@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/uniswap-poolspy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-27T23:06:25Z"
 ---
 ## What it is
 MCP server `Uniswap PoolSpy`, catalogued on PulseMCP. Tracks newly created Uniswap V3 liquidity pools across nine blockchain networks, providing detailed metrics like transaction count, volume, and TVL for cryptocurrency traders and researchers.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-17T20:03:37Z"
 ---
 ## What it is
 MCP server `CC-Meta (Prompt Evaluator)`, catalogued on PulseMCP. Evaluates prompt quality and effectiveness using OpenAI or Anthropic models, providing numerical scores, strengths analysis, improvement suggestions, and rewrite recommendations with customizable evaluation criteria.

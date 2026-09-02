@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T00:45:20Z"
 ---
 ## What it is
 An example MCP server using mcp-handler to integrate MCP tools, prompts, and resources into any Next.js project.

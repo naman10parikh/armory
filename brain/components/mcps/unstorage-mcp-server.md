@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-23T00:53:39Z"
 ---
 ## What it is
 Enables key-value storage operations using multiple backends (memory, filesystem, redis, MongoDB, HTTP) via MCP tools like get, set, and list.

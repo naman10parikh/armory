@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-30T22:25:06Z"
 ---
 ## What it is
 Enables AI-assisted task management by extracting and querying Obsidian Tasks from markdown files, with support for status mapping, date filters, and Obsidian Tasks query syntax.

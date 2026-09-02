@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T14:25:02Z"
 ---
 ## What it is
 Enables read-only querying of JTX Markets account and market data, including balance, positions, orders, trades, funding history, and market summaries, through natural language in MCP-compatible clients.

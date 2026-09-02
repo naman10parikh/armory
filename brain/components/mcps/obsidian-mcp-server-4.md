@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-19T10:55:40Z"
 ---
 ## What it is
 Connects Claude.ai to your local Obsidian vault for full CRUD access, search, and daily note creation via the Model Context Protocol.

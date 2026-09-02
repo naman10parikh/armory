@@ -8,10 +8,12 @@ source_url: https://github.com/sh6drack/zen-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-16T09:45:26Z"
 ---
 ## What it is
 MCP server `Zen Browser Automation`, catalogued on PulseMCP. Browser automation for Zen Browser using WebDriver BiDi over WebSocket.

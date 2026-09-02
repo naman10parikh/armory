@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T15:46:25Z"
 ---
 ## What it is
 A one-command paywall for local servers that enables testing AI agents' payment flows by simulating HTTP 402 Payment Required responses. It proxies requests with valid payment headers to the actual server, making it easy to develop and test x402 client logic without real blockchain transactions.

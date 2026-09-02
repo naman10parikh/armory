@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T01:19:05Z"
 ---
 ## What it is
 Enables AI assistants to control Roku TVs on the local network via natural language commands.

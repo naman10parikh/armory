@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T14:06:27Z"
 ---
 ## What it is
 Find 5 explainable, personalized gift recommendations from inside any MCP client by reasoning about relationship, occasion, and context.

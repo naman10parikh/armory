@@ -8,10 +8,12 @@ source_url: https://github.com/cloudwerx-dev/diffugen
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-07T06:56:23Z"
 ---
 ## What it is
 MCP server `DiffuGen`, catalogued on PulseMCP. CloudWerx's DiffuGen provides a flexible image generation server that supports multiple stable diffusion models with advanced configuration options for prompt engineering and generation parameters.

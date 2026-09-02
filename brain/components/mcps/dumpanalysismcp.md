@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-15T09:28:23Z"
 ---
 ## What it is
 Enables AI agents to analyze Windows crash dumps by providing structured data on exceptions, threads, modules, and source context, with safe patch, build, and test execution.

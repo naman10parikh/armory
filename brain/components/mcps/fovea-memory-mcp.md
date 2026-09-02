@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T23:12:50Z"
 ---
 ## What it is
 Local MCP server that enables AI clients to read and search memories from the Fovea macOS app, with privacy-focused local operation and optional semantic search.

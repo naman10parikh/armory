@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-09T12:10:46Z"
 ---
 ## What it is
 Enables AI assistants to analyze OpenReplay session recordings for user behavior patterns, problem detection, and actionable insights through session search, journey analysis, and AI-powered summaries.

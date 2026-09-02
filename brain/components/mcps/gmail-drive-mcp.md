@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-10T13:49:19Z"
 ---
 ## What it is
 Enables users to access and manage their Gmail and Google Drive data via a Streamlit UI or Claude Desktop, supporting email counts, searches, file listings, and storage queries using OAuth authentication.

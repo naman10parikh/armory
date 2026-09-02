@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T20:43:46Z"
 ---
 ## What it is
 Provides 62 French tax calculation tools via MCP, running on Cloudflare Workers with Rust/Wasm and versioned official rules.

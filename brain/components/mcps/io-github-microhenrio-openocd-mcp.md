@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T14:02:49Z"
 ---
 ## What it is
 Debug microcontrollers directly from Claude. This is an MCP server that drives OpenOCD, letting Claude flash firmware, control execution, and inspect a running target — and read your variables and peripheral registers by name instead of raw addresses.

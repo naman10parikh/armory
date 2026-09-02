@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T23:16:03Z"
 ---
 ## What it is
 Enables AI assistants to search registered systematic review protocols, look up individual CRD records, explore the MeSH vocabulary, check for possibly duplicate/overlapping reviews, and export results in RIS format.

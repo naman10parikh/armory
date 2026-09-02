@@ -8,10 +8,12 @@ source_url: https://github.com/mrslbt/rippr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-31T02:31:04Z"
 ---
 ## What it is
 MCP server `Rippr`, catalogued on PulseMCP. Extract YouTube video transcripts in multiple formats for use in AI workflows.

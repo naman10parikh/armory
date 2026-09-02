@@ -8,11 +8,13 @@ source_url: https://github.com/vinodborole/okf-kit
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:17:46Z"
 ---
 ## What it is
 Turn any website into a book you agent can read

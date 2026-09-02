@@ -8,11 +8,13 @@ source_url: https://github.com/nhevers/project-r0x
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 82
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-11T22:40:03Z"
 ---
 ## What it is
 Enables AI agents to interact with Robinhood Chain via USDG payments, offering tools for balance, pricing, trading, and more.

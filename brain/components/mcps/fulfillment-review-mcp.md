@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:46:47Z"
 ---
 ## What it is
 Streamable HTTP MCP server for investigating partial-fulfillment holds and preparing complete human-review cases. It provides read-only tools to preview source-supported fulfillment options with delivery-date and shipping-cost effects, and an idempotent tool to persist an immutable escalation for hu

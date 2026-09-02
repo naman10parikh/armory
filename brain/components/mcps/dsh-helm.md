@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T11:48:54Z"
 ---
 ## What it is
 Enables unified access to a multi-node DSH control plane, routing ChatGPT tool calls to appropriate node agents with presence awareness, health monitoring, and fail-closed execution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T09:56:43Z"
 ---
 ## What it is
 A simple MCP server for fetching movie and TV show data from TMDB and OMDB APIs. Provides natural language capability for users to search, compare, and analyze movies through AI assistants.

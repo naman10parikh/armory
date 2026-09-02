@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T00:08:41Z"
 ---
 ## What it is
 Enables AI assistants to explore Roblox Studio game structure, read and edit scripts, and perform bulk changes locally and safely.

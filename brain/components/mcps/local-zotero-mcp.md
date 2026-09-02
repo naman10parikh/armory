@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:44:45Z"
 ---
 ## What it is
 Provides read-only access to your local Zotero library via the Zotero Local API, enabling search, retrieval, and bibliography generation without API keys.

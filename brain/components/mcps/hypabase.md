@@ -8,10 +8,12 @@ source_url: https://github.com/hypabase/hypabase
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-10T09:48:37Z"
 ---
 ## What it is
 MCP server `Hypabase`, catalogued on PulseMCP. Provides a hypergraph database for storing and querying n-ary relationships with provenance tracking and SQLite persistence.

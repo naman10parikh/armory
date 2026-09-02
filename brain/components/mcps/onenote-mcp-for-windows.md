@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T00:19:13Z"
 ---
 ## What it is
 Connects to Microsoft OneNote desktop via COM API, exposing 27 tools for hierarchy, page CRUD, search, rich content, export, health checks, and more. Enables natural-language control of OneNote without API keys or embedded AI providers.

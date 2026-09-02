@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-15T09:59:22Z"
 ---
 ## What it is
 Enables LLMs to read, search, and manage emails via IMAP with secure, read-only access to email accounts.

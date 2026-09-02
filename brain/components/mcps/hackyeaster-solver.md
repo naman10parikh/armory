@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T17:04:32Z"
 ---
 ## What it is
 MCP server enabling Claude to solve HackyEaster CTF challenges through web scraping, decoding, image analysis, and progress tracking.

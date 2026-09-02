@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-22T17:31:01Z"
 ---
 ## What it is
 A sample .NET MCP server demonstrating tool implementation including random number generation, personalized greetings, and weather information for US zip codes.

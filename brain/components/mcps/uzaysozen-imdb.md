@@ -8,10 +8,12 @@ source_url: https://github.com/uzaysozen/imdb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-28T15:18:44Z"
 ---
 ## What it is
 MCP server `IMDb`, catalogued on PulseMCP. Bridges to the IMDb API for searching movies and TV shows, retrieving detailed information about titles, and accessing curated lists like top-rated films or upcoming releases.

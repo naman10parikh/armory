@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T13:28:59Z"
 ---
 ## What it is
 MCP server that lets an AI agent operate a bench oscilloscope over LAN/SCPI to observe physical pin behavior, bridging RTL simulation and hardware testing.

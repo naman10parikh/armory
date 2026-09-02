@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T00:26:45Z"
 ---
 ## What it is
 Enables delegating checkable subtasks such as summarization, search-and-summarize, and file downloads to a local OpenAI-compatible model, with mandatory result verification and job statistics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-22T19:41:16Z"
 ---
 ## What it is
 Enables AI to process payments, manage subscriptions, detect fraud, and generate analytics through Mercado Pago API.

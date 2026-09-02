@@ -8,10 +8,12 @@ source_url: https://github.com/kimbo128/drain
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-26T11:30:33Z"
 ---
 ## What it is
 MCP server `DRAIN`, catalogued on PulseMCP. Decentralized AI micropayments protocol using USDC on Polygon.

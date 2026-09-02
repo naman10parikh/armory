@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T16:45:01Z"
 ---
 ## What it is
 MCP server for managing Fortinet FortiAppSec (WAF as a Service) via AI agents. Supports listing, creating, and deleting WAF applications and templates.

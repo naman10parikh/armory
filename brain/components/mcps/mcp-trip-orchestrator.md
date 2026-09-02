@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T08:36:45Z"
 ---
 ## What it is
 Enables multi-agent travel planning by orchestrating specialized agents for transport, accommodation, and experiences, using live web search and structured data extraction to generate complete trip plans.

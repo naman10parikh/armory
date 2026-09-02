@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T08:40:45Z"
 ---
 ## What it is
 A read-only MCP server for comparing environment configuration files, detecting drifts like added, removed, or secret-changed entries, while masking secrets and restricting file access to allowed directories.

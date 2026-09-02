@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T11:13:54Z"
 ---
 ## What it is
 MCP proxy that bridges Mendix Marketplace's Streamable HTTP endpoint to stdio, enabling Claude Code and other stdio-only MCP clients to access Mendix Marketplace tools and prompts dynamically.

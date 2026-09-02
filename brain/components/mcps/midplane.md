@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T13:06:59Z"
 ---
 ## What it is
 SQL guardrails for AI agents, sitting between the agent and Postgres to enforce policies, block destructive queries, and audit all access.

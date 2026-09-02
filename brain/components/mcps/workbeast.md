@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T04:24:08Z"
 ---
 ## What it is
 Enables LLMs to query a local commitment ledger and knowledge base extracted from email, calendar, and meeting transcripts, allowing natural language search for facts, people, and open commitments, and suggesting closures with evidence.

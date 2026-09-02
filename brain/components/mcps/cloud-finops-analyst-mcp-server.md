@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T17:00:33Z"
 ---
 ## What it is
 Enables analyzing AWS cloud costs through natural language queries, providing cost summaries, anomaly detection, idle resource identification, rightsizing recommendations, and tagging compliance via Claude.

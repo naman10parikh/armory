@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T05:08:36Z"
 ---
 ## What it is
 A production-ready, security-first starting point for building Model Context Protocol servers, enforcing safe defaults like dry-run and tenant isolation.

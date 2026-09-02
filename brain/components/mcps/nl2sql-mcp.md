@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-26T15:50:21Z"
 ---
 ## What it is
 A production-ready MCP server that transforms natural language into safe, executable SQL queries with multi-database support and intelligent schema analysis.

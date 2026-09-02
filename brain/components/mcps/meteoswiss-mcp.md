@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T00:10:30Z"
 ---
 ## What it is
 Enables AI models to access Swiss weather and climate data from MeteoSwiss, including current observations, forecasts, and warnings.

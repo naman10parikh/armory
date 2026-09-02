@@ -8,10 +8,12 @@ source_url: https://github.com/mufeng05/ida-auto-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-24T13:55:24Z"
 ---
 ## What it is
 MCP server `IDA Auto`, catalogued on PulseMCP. Headless IDA Pro automation enabling AI agents to autonomously open, analyze, and query multiple binary files without manual GUI interaction.

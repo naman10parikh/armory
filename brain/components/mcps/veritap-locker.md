@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T04:42:14Z"
 ---
 ## What it is
 MCP server for wallet-addressed encrypted data storage and retrieval, enabling agents to receive paid messages and maintain checkpoints with E2E encryption.

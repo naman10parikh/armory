@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T02:40:39Z"
 ---
 ## What it is
 Enables AI agents to control a browser with 30 tools for navigation, interaction, extraction, and tab management, supporting human-like browser automation.

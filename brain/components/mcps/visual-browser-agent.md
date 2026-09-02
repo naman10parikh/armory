@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T16:50:29Z"
 ---
 ## What it is
 Enables AI coding agents to see and interact with real Chrome pages through structured DOM inspection, targeted screenshots, recordings, and human-in-the-loop approvals across major coding-agent hosts.

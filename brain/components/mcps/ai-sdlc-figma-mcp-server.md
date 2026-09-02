@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T17:29:46Z"
 ---
 ## What it is
 Read-only MCP server that wraps the Figma REST API, providing tools like get file metadata, list frames, and export node image URLs for AI SDLC agents.

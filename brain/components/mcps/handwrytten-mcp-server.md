@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T20:18:47Z"
 ---
 ## What it is
 Enables AI assistants to send real handwritten notes via physical cards using Handwrytten's robotic pen service, along with managing cards, addresses, and orders.

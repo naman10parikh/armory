@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-10T17:48:45Z"
 ---
 ## What it is
 Enables deployment of MCP servers over HTTP, providing ready-to-use tools for text processing, math calculations, and social media content generation, accessible to AI assistants like GitHub Copilot and Claude.

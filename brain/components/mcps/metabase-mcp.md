@@ -8,11 +8,13 @@ source_url: https://github.com/hluaguo/metabase-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 71
+stars: 72
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 32
+pushed_at: "2026-04-13T16:47:34Z"
 ---
 ## What it is
 Enables AI assistants to interact with Metabase for querying databases, executing SQL, managing dashboards, and automating analytics workflows.

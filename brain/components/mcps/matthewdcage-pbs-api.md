@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-12T10:30:49Z"
 ---
 ## What it is
 MCP server `PBS API`, catalogued on PulseMCP. Provides access to the Australian Pharmaceutical Benefits Scheme (PBS) API for querying medicine listings, pricing, and availability data through multiple interfaces including stdio, HTTP/SSE, and command-line tools.

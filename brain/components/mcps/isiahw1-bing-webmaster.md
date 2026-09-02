@@ -8,10 +8,12 @@ source_url: https://github.com/isiahw1/mcp-server-bing-webmaster
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-02-10T01:42:33Z"
 ---
 ## What it is
 MCP server `Bing Webmaster Tools`, catalogued on PulseMCP. Integrates with Bing Webmaster Tools API to provide website management and SEO analytics through over 40 specialized tools for site management, traffic analysis, crawling diagnostics, URL submission, sitemap management, keyword research, and link analysis.

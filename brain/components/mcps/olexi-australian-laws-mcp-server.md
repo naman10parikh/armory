@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-11T08:10:41Z"
 ---
 ## What it is
 Searches AustLII for Australian legislation and case law, enabling AI agents to find and cite real legal documents with sources.

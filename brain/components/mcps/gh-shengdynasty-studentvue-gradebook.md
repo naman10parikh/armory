@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T23:32:28Z"
 ---
 ## What it is
 MCP server `StudentVue Gradebook`, catalogued on PulseMCP. Query grades, GPA, attendance, and assignments from StudentVue school gradebooks.

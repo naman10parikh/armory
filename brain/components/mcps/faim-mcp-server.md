@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-28T11:51:02Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that integrates the FAIM time series forecasting SDK with any MCP-compatible AI assistant, enabling AI-powered forecasting capabilities.

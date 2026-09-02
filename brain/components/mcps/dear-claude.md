@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T21:53:41Z"
 ---
 ## What it is
 MCP server that watches issue trackers and comments for 'Dear Claude' and spawns local Claude Code instances to execute tasks, posting results back to the original platform.

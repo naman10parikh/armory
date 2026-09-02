@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-19T04:18:18Z"
 ---
 ## What it is
 MCP server `URL Fetch`, catalogued on PulseMCP. Enables Claude to retrieve and display web content, JSON data, and images directly within conversations through specialized URL fetching tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T16:05:12Z"
 ---
 ## What it is
 Exposes a hardened Docker container with Kali Linux security tools (nmap, sqlmap, dig, whois, etc.) as MCP tools, enabling network reconnaissance, web analysis, and vulnerability scanning through natural language commands.

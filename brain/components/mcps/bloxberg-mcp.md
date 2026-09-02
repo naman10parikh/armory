@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T19:38:39Z"
 ---
 ## What it is
 Enables AI assistants to query bloxberg blockchain state, explore transactions and contracts via Blockscout, and verify Research Object Certificates anchored on-chain.

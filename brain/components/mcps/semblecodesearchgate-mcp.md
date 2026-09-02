@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T13:22:56Z"
 ---
 ## What it is
 MCP server `Semble Code Search Gate`, catalogued on PulseMCP. Semble agent code search routing gate with structured receipts, audit logs, and reviewer-ready evidence.

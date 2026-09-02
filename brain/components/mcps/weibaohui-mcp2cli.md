@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-30T00:06:29Z"
 ---
 ## What it is
 MCP server `mcp2cli`, catalogued on PulseMCP. CLI tool for discovering, exploring, and invoking MCP server tools from the command line.

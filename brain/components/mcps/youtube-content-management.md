@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-25T17:05:34Z"
 ---
 ## What it is
 MCP server `YouTube Content Management`, catalogued on PulseMCP. Integrates with YouTube Data API v3 to provide channel and video discovery capabilities with comprehensive filtering options for duration, upload date, and sort order, enabling content creators and marketers to research competitors and analyze content landscapes.

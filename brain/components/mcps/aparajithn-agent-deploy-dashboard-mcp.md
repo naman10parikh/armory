@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
 stars: 3
+forks: 1
+pushed_at: "2026-03-07T13:20:39Z"
 ---
 ## What it is
 Unified deployment dashboard MCP server across Vercel, Render, Railway, and Fly.io. 9 tools for deploy status, logs, environment variables, rollback, and health checks across all platforms. Free tier with x402 micropayments.

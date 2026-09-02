@@ -8,11 +8,13 @@ source_url: https://github.com/NeonGlay/inventor-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-06-10T17:11:56Z"
 ---
 ## What it is
 MCP server for parametric 3D modeling in Autodesk Inventor, enabling natural language control of sketching, extrusion, hole features, and sheet metal operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:33:20Z"
 ---
 ## What it is
 An MCP server that provides a real debugger via the Debug Adapter Protocol, exposing a single 'debug' tool to launch/attach, control execution, and inspect program state across gdb, lldb, debugpy, and more.

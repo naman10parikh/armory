@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-03-09T16:37:05Z"
 ---
 ## What it is
 MCP server `Atlassian`, catalogued on PulseMCP. Integrates with Atlassian's Confluence and JIRA APIs to enable content creation, issue tracking, and project management within Atlassian ecosystems.

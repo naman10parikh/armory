@@ -8,10 +8,12 @@ source_url: https://github.com/mattmorgis/nuanced-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-25T01:13:32Z"
 ---
 ## What it is
 MCP server `Nuanced`, catalogued on PulseMCP. Provides code analysis capabilities using the nuanced library, offering tools for initializing code graphs, exploring function call relationships, analyzing dependencies, and assessing the impact of code changes.

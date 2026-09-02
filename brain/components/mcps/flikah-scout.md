@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T16:06:35Z"
 ---
 ## What it is
 MCP server `Scout`, catalogued on PulseMCP. Real estate agent finder, MLS listings, and lead routing for South Carolina and Georgia brokerages via the Scout platform.

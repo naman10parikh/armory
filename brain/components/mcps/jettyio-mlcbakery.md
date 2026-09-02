@@ -8,10 +8,12 @@ source_url: https://github.com/jettyio/mlcbakery
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-11T17:52:38Z"
 ---
 ## What it is
 MCP server `MLCBakery`, catalogued on PulseMCP. Provides a bridge between AI assistants and machine learning datasets, enabling search, validation, and retrieval of ML Croissant metadata from the MLCBakery system without switching contexts.

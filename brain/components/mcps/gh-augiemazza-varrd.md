@@ -8,10 +8,12 @@ source_url: https://github.com/augiemazza/varrd
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-31T13:32:02Z"
 ---
 ## What it is
 MCP server `VARRD`, catalogued on PulseMCP. AI trading research with event studies, backtesting, and statistical validation across stocks, futures, and crypto.

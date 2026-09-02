@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-31T00:25:12Z"
 ---
 ## What it is
 MCP server for downloading academic papers from DOI or title, resolving references, and generating citations. Supports batch downloads, multiple mirrors, and optional Unpaywall integration.

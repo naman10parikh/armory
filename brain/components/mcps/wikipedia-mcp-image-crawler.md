@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-03-13T20:36:39Z"
 ---
 ## What it is
 Enables searching and retrieving images from Wikipedia Commons with detailed metadata including licenses and authors.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T06:03:13Z"
 ---
 ## What it is
 Carrier-agnostic shipping labels as a self-hostable MCP server. Build one shipment request, get a tracking number and a print-ready label back for DHL, DPD, UPS, FedEx, GLS, Sendcloud, and Shipcloud.

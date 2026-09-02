@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-18T08:19:21Z"
 ---
 ## What it is
 A simple MCP server that exposes a calculator tool (addition) and a dynamic greeting resource.

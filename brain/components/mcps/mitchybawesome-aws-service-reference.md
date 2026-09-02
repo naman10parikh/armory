@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-03T01:38:04Z"
 ---
 ## What it is
 MCP server `AWS Service Reference`, catalogued on PulseMCP. Integrates with AWS Service Reference API to provide real-time access to AWS service capabilities and API actions for developers and cloud architects.

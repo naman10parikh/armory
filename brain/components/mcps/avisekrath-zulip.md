@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-06-21T17:00:40Z"
 ---
 ## What it is
 MCP server `Zulip`, catalogued on PulseMCP. Integrates with Zulip's REST API to send messages, manage conversations, handle files, schedule messages, and interact with users across organizations with support for channel and direct messaging, emoji reactions, and draft management.

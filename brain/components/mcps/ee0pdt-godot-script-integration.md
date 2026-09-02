@@ -8,10 +8,12 @@ source_url: https://github.com/ee0pdt/godot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 568
+stars: 609
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 66
+pushed_at: "2025-03-19T21:48:38Z"
 ---
 ## What it is
 MCP server `Godot Script Integration`, catalogued on PulseMCP. Integrates with Godot to enable AI interaction with scripts, supporting features like reading, listing, and updating script information for enhanced game development workflows.

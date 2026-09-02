@@ -8,10 +8,12 @@ source_url: https://github.com/samyuan1990/i18n-agent-action
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-26T05:28:42Z"
 ---
 ## What it is
 MCP server `i18n Agent Action`, catalogued on PulseMCP. Translation tools for text, URLs, and files including audio via speech-to-text

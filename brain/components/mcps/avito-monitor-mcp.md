@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T19:54:58Z"
 ---
 ## What it is
 A remote MCP server that searches Avito for new classified ads, filtering by price and returning only previously unseen listings. Designed for scheduled monitoring via ChatGPT tasks.

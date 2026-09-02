@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T07:12:52Z"
 ---
 ## What it is
 A local Python MCP server that provides basic tools like greet, add_numbers, and system_info, designed for process-based connections via stdin/stdout.

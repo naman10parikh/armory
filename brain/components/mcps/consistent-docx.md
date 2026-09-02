@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-27T09:18:50Z"
 ---
 ## What it is
 MCP server `Consistent DOCX`, catalogued on PulseMCP. Converts documents between DOCX and Markdown formats using local mammoth library for extraction and external API for styled document generation with template support.

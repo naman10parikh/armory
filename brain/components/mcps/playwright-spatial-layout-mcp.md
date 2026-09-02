@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T02:00:24Z"
 ---
 ## What it is
 An MCP server that gives AI agents geometric spatial awareness of web page layouts using Playwright, enabling detection of visual occlusion, layout shifts, and spatial relationships.

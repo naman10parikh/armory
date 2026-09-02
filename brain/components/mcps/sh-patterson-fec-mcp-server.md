@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 4
+forks: 1
+pushed_at: "2026-08-24T22:13:28Z"
 ---
 ## What it is
 Query FEC campaign finance data — search candidates, track donations, analyze spending, and monitor Super PAC activity via the OpenFEC API.

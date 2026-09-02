@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-02T02:59:41Z"
 ---
 ## What it is
 MCP server `Plots`, catalogued on PulseMCP. Create data visualizations as Mermaid charts, PNG images, or text

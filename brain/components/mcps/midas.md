@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T18:35:37Z"
 ---
 ## What it is
 Local-first AI agent for approval-gated automation and verifiable LLM workflows.

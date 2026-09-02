@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:57:16Z"
 ---
 ## What it is
 Enables coordinating multiple AI agents over HTTP with authenticated messaging, cached read-only Notion context, and safe proxying to registered endpoints.

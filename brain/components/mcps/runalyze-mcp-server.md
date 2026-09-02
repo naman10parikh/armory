@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-01-01T20:22:37Z"
 ---
 ## What it is
 Enables AI assistants to access and analyze health metrics from Runalyze, including HRV, sleep, resting heart rate, and activities, through the Model Context Protocol.

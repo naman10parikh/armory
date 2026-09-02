@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T13:15:42Z"
 ---
 ## What it is
 MCP server for AI-powered translation management in i18n projects, enabling automated locale detection, translation status checks, and sync via LangAPI.

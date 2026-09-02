@@ -8,10 +8,12 @@ source_url: https://github.com/muxinc/mux-node-sdk
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 179
+stars: 181
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 71
+pushed_at: "2026-08-27T18:40:22Z"
 ---
 ## What it is
 MCP server `Mux Video and Data Platform`, catalogued on PulseMCP. Integrates with Mux's Video and Data platform to enable video upload, live stream management, analytics querying, and performance metrics tracking across video infrastructure without manual dashboard interaction.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-12T11:42:46Z"
 ---
 ## What it is
 MCP server `Project Planner AI`, catalogued on PulseMCP. Manage projects and tasks through natural language using tools for creating, updating, and tracking work items.

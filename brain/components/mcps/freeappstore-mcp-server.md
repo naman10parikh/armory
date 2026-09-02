@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-29T13:15:00Z"
 ---
 ## What it is
 Enables AI agents to browse, create, and manage apps on the FreeAppStore platform, including provisioning repositories, writing code, and deploying live.

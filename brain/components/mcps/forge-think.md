@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T11:34:36Z"
 ---
 ## What it is
 Multi-step adversarial forging engine for MCP that externalizes deep reasoning into structured tools, offering three modes (seq, chain, deliberate) for tasks like technical selection and code review, with persistent sessions and hot-reloadable SOP libraries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T01:32:11Z"
 ---
 ## What it is
 An MCP server that exposes EPA ECHO water quality data as tools, enabling facility search, permit limits, discharge measurements, violations, and enforcement actions.

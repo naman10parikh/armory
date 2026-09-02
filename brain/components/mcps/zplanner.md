@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-25T02:04:50Z"
 ---
 ## What it is
 MCP server `zPlanner (Project Management)`, catalogued on PulseMCP. Enables creation and management of hierarchical project plans with task tracking, progress calculation, and visual reporting through a file-based storage system.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T17:42:33Z"
 ---
 ## What it is
 MCP server that lets AI agents see and interact with terminal/CLI applications through virtual terminals and PNG screenshots.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-23T02:03:43Z"
 ---
 ## What it is
 A Python-based MCP server that provides instant access to over 700 documentation sources and creates isolated Docker containers for safe code testing and experimentation.

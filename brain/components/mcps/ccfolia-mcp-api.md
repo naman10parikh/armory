@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T22:46:39Z"
 ---
 ## What it is
 MCP server for the Cocofolia TRPG tool that enables character generation, NPC batch creation, session analysis, random events, and rule assistance via natural language.

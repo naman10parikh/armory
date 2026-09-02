@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T15:09:30Z"
 ---
 ## What it is
 MCP server for a self-hosted RAG system that enables AI tools to search and retrieve grounded answers from locally ingested documents via MCP tools, with local embeddings and no API key required.

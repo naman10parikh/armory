@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-02-09T20:24:26Z"
 ---
 ## What it is
 MCP server `Pinata IPFS`, catalogued on PulseMCP. Integrates with Pinata's IPFS storage services for uploading, searching, organizing, and retrieving files on both public and private decentralized networks using secure API authentication.

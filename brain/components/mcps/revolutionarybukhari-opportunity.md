@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T02:06:32Z"
 ---
 ## What it is
 MCP server `Opportunity`, catalogued on PulseMCP. Search youth opportunities including scholarships, fellowships, and internships from any AI assistant.

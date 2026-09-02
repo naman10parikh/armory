@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-13T09:18:26Z"
 ---
 ## What it is
 MCP server `Trackor`, catalogued on PulseMCP. Personal expense tracking and financial management through SQLite database operations.

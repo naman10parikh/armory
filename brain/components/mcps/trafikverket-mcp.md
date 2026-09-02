@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T09:47:33Z"
 ---
 ## What it is
 Provides real-time access to Swedish road weather, traffic cameras, road conditions, and traffic flow data from Trafikverket (Swedish Transport Administration). Enables users to query weather stations, cameras, traffic situations, and flow data through natural language.

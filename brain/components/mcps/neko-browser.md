@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T12:10:55Z"
 ---
 ## What it is
 Headed Playwright browser MCP server with persistent profile, providing 23 tools for full browser automation while masking PII data.

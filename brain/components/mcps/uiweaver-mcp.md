@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T20:20:30Z"
 ---
 ## What it is
 An AI-powered MCP server that generates production-ready React + Tailwind UI, 3D components, and full-stack integrations from natural language prompts inside Claude Desktop.

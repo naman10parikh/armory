@@ -8,10 +8,12 @@ source_url: https://github.com/reminia/zendesk-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 99
+stars: 116
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 82
+pushed_at: "2026-08-27T18:12:09Z"
 ---
 ## What it is
 MCP server `Zendesk`, catalogued on PulseMCP. Integrates with Zendesk to enable ticket management, comment handling, and Help Center article retrieval for streamlined customer support operations.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T13:30:56Z"
 ---
 ## What it is
 MCP server `Kondukt`, catalogued on PulseMCP. MCP developer toolkit for testing, validating, debugging, and scaffolding MCP servers, with self-hosted MCP server capabilities.

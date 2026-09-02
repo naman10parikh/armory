@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-15T23:04:47Z"
 ---
 ## What it is
 MCP server `MCP Observatory`, catalogued on PulseMCP. Drop-in MCP debugging proxy that intercepts stdio, SSE, and HTTP transports to log, replay, and diff all JSON-RPC messages between AI clients and servers.

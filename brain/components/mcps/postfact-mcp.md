@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T18:03:41Z"
 ---
 ## What it is
 MCP server that resolves ambiguous outcomes of side-effecting API/tool calls, returning DONE, NOT_DONE, or UNKNOWN with retry safety guidance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-30T05:40:20Z"
 ---
 ## What it is
 Provides access to the Storyblok Management API via MCP, enabling content management and operations on Storyblok spaces through natural language. Note: This repository is archived; use the hosted version at mcp.labs.storyblok.com.

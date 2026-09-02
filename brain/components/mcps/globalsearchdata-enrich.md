@@ -8,10 +8,12 @@ source_url: https://github.com/globalsearchdata/enrich-mcp-plugin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-28T08:25:04Z"
 ---
 ## What it is
 MCP server `Enrich`, catalogued on PulseMCP. Domain enrichment for AI agents: company name, country, contact emails, phone numbers, and social profiles.

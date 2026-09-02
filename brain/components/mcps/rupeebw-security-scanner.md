@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-07T17:52:28Z"
 ---
 ## What it is
 MCP server `Security Scanner`, catalogued on PulseMCP. Performs comprehensive security analysis of code repositories by detecting exposed secrets, vulnerabilities, dependency issues, and configuration problems using regex patterns and vulnerability detection algorithms.

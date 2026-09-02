@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-19T17:11:31Z"
 ---
 ## What it is
 MCP server `Git Repo Browser`, catalogued on PulseMCP. Integrates with Git repositories to provide efficient, deterministic access for retrieving directory structures and file contents without local cloning

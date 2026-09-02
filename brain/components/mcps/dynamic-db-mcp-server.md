@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T09:18:44Z"
 ---
 ## What it is
 Enables AI agents to dynamically register and query MySQL-compatible databases at runtime with built-in destructive SQL protection.

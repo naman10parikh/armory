@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-14T05:32:58Z"
 ---
 ## What it is
 Enables AI agents to control the Blockout previs desktop app for AI filmmaking, allowing staging of 3D worlds, character animation, camera framing, timeline control, and viewport screenshotting through MCP tools.

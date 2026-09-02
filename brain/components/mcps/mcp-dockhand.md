@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T20:14:36Z"
 ---
 ## What it is
 MCP server exposing the Dockhand API as MCP tools. Enables AI assistants to manage Docker infrastructure including containers, stacks, images, networks, and volumes across multiple hosts.

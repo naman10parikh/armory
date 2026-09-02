@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T19:43:42Z"
 ---
 ## What it is
 Reproduces a race condition in mcp-use dev where tool results are dropped when the handler completes after the widget iframe loads.

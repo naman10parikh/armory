@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:32:15Z"
 ---
 ## What it is
 MCP server `UK Haulage Compliance`, catalogued on PulseMCP. Covers UK operator licence requirements, tachograph rules, drivers' hours regulations, and DVSA roadside check procedures for haulage operators.

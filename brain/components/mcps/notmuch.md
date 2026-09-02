@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T06:46:44Z"
 ---
 ## What it is
 An MCP server that exposes a local notmuch email database to an LLM client such as Claude. It is read-first: searching, reading, and understanding mail is always available; writing anything (drafts, tags, exported files) requires an explicit opt-in flag and is confined to clearly bounded locations.

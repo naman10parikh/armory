@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T00:35:27Z"
 ---
 ## What it is
 Provides read-only tools for monitoring and investigating Active Directory Domain Services, including users, groups, OUs, computers, GPOs, and domain metadata via LDAPS.

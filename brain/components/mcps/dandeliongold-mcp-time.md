@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-02T23:00:34Z"
 ---
 ## What it is
 Provides current time and time difference calculations in ISO format (YYYY-MM-DD HH:mm:ss) using JavaScript Date. Supports both Windows and macOS for use with Claude desktop.

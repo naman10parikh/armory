@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T12:30:54Z"
 ---
 ## What it is
 An MCP server that exposes a verify_place tool for verifying places via Google Places API, along with a rubric resource and classify_post prompt for grounding-based classification tasks.

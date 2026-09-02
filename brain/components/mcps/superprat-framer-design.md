@@ -8,10 +8,12 @@ source_url: https://github.com/superprat/framer-design-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T09:10:13Z"
 ---
 ## What it is
 MCP server `Framer Design`, catalogued on PulseMCP. Designs web pages in Framer projects via the Framer Server API using 35 MCP tools.

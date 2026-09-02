@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-03-06T22:29:12Z"
 ---
 ## What it is
 Enables AI assistants to test Terminal User Interface (TUI) applications by launching, interacting with, and verifying programmatic output and behavior.

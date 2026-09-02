@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:32:45Z"
 ---
 ## What it is
 MCP server `Barcode Generator`, catalogued on PulseMCP. Generate EAN-13, UPC-A, Code128, and Code39 barcodes as SVG.

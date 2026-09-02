@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-02T02:20:16Z"
 ---
 ## What it is
 一个连接MySQL数据库的MCP服务器，支持列出表、描述表结构和执行SQL语句。

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T06:29:14Z"
 ---
 ## What it is
 MCP server `Safari DevTools`, catalogued on PulseMCP. Control and debug live Safari browsers on macOS from AI coding agents.

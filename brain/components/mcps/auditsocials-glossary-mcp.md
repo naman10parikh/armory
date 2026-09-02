@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T08:46:28Z"
 ---
 ## What it is
 Provides AI assistants with a curated glossary of 212 advertising and platform-policy terms, enabling accurate definitions and search with source attribution.

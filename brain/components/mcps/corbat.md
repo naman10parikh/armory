@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T07:08:05Z"
 ---
 ## What it is
 Policy and quality engine for AI coding agents that enforces team coding standards and provides validation gates for agent-assisted software delivery.

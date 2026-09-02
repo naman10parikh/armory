@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-22T12:58:38Z"
 ---
 ## What it is
 MCP server `O'Reilly Content Search`, catalogued on PulseMCP. Connects to O'Reilly Media's content search API for discovering relevant books, articles, and technical resources with detailed metadata and filtering capabilities.

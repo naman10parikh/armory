@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T12:03:27Z"
 ---
 ## What it is
 An MCP server exposing the Akahu banking API as tools to list accounts, get balances, and fetch transactions.

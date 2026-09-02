@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-23T23:02:11Z"
 ---
 ## What it is
 MCP server `XFMS`, catalogued on PulseMCP. LLM model selector that ranks models for any task using 8 independent evaluators.

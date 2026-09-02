@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T08:46:09Z"
 ---
 ## What it is
 Multi-model consensus inside MCP clients: compare answers, surface disagreement, and escalate only when needed. It wraps the OpenClaw Consensus API as three MCP tools for consensus, disagreement scoring, and cheapest route selection.

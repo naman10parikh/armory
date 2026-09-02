@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 1
+forks: 0
+pushed_at: "2026-07-20T05:20:15Z"
 ---
 ## What it is
 Local-first, cross-session context store that reduces token usage by saving facts, decisions, and preferences, and recalling them in later sessions with token-efficient ranking and compression.

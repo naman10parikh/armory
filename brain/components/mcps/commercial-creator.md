@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-12T14:47:23Z"
 ---
 ## What it is
 Enables AI agents to produce video commercials from product descriptions via a multi-stage pipeline with human-in-the-loop approval gates and explicit spend authorization.

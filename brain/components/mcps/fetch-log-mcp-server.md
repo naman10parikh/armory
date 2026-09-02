@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-14T13:21:15Z"
 ---
 ## What it is
 An MCP server that fetches remote logs from specified IP addresses via HTTP, with configurable port and log path.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T13:23:00Z"
 ---
 ## What it is
 Converts GeoJSON geometries into 3D triangulated meshes using a local LLM (Ollama), exposing an MCP tool for mesh generation.

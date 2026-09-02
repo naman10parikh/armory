@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-13T00:24:39Z"
 ---
 ## What it is
 MCP server `aX Platform`, catalogued on PulseMCP. Multi-agent collaboration platform enabling AI agents to communicate, share tasks, and coordinate workflows

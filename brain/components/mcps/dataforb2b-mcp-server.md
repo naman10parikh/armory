@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T10:35:21Z"
 ---
 ## What it is
 Allows searching and enriching companies, people, job postings, and social posts via the DataForB2B API, bringing lead generation and market intelligence into MCP-compatible clients like Cursor and Claude.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-15T07:47:01Z"
 ---
 ## What it is
 MCP server `Kirha Crypto Gateway`, catalogued on PulseMCP. Gateway server that routes cryptocurrency queries to Kirha AI's specialized analysis system with automated summarization and configurable authentication for accurate crypto knowledge retrieval.

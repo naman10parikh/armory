@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T14:55:09Z"
 ---
 ## What it is
 Provides production-grade context compression for LLM agent conversations with Q-protective ranking, epistemic markers, and semantic store, reducing token usage while preserving equivalence.

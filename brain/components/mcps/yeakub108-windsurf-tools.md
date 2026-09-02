@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-06T07:06:15Z"
 ---
 ## What it is
 MCP server `Windsurf Tools`, catalogued on PulseMCP. Integrates with OpenAI's API and Puppeteer to provide screenshot capture, code architecture analysis, and code review capabilities for software development tasks.

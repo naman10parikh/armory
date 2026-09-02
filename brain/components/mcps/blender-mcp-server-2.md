@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-01-20T00:44:44Z"
 ---
 ## What it is
 Exposes 50+ Blender tools (object manipulation, materials, animation, etc.) via MCP for AI-driven 3D workflows and automation.

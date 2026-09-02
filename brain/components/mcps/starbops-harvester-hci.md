@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-24T10:01:40Z"
 ---
 ## What it is
 MCP server `Harvester HCI`, catalogued on PulseMCP. Enables management of Harvester HCI clusters through a Go-based server that provides tools for handling both standard Kubernetes and Harvester-specific resources with human-readable output formatting.

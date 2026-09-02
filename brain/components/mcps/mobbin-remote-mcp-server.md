@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T05:47:39Z"
 ---
 ## What it is
 A Docker-ready MCP remote server that connects MCP clients like OpenCode to the Mobbin REST API using API keys, enabling access to Mobbin app design patterns and data without OAuth.

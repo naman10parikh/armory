@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-01-06T03:06:26Z"
 ---
 ## What it is
 Converts Markdown to Feishu/Lark document format and provides an MCP service for integration with the Model Context Protocol.

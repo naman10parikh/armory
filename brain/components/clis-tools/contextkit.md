@@ -14,7 +14,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-code-ide-el, claude-code-nvim]
 tags: [tooling, cli]
-stars: 167
+stars: 166
+forks: 19
+pushed_at: "2026-03-10T00:49:42Z"
 ---
 ## What it is
 A community CLI tool by Cihat Gündüz, catalogued in awesome-claude-code. A systematic development framework that transforms Claude Code into a proactive development partner. Features 4-phase planning methodology, specialized quality agents, and structured workflows that help AI produce production-ready code on first try.

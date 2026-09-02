@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T12:00:10Z"
 ---
 ## What it is
 Exposes the 82-0 Dream NBA lineup game's game modes, roster picks, scenarios, FAQ, and official links to MCP-compatible AI clients.

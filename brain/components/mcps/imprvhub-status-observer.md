@@ -8,10 +8,12 @@ source_url: https://github.com/imprvhub/mcp-status-observer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-07-23T22:52:37Z"
 ---
 ## What it is
 MCP server `Status Observer`, catalogued on PulseMCP. Provides real-time monitoring of operational status for major digital platforms like GitHub, Slack, and Discord through a command interface that delivers standardized health information and incident details without visiting separate status pages.

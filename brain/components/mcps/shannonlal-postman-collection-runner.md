@@ -8,10 +8,12 @@ source_url: https://github.com/shannonlal/mcp-postman
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 85
+stars: 84
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2025-03-25T00:26:47Z"
 ---
 ## What it is
 MCP server `Postman`, catalogued on PulseMCP. Executes Postman collections to run API tests, validate responses, and generate reports for automated testing and documentation workflows.

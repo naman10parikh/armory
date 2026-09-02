@@ -8,10 +8,12 @@ source_url: https://github.com/agent-blueprint/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-10T01:46:54Z"
 ---
 ## What it is
 MCP server `Agent Blueprint`, catalogued on PulseMCP. Access blueprints, business cases, implementation plans, and specs from coding agents via the Agent Blueprint platform.

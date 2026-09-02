@@ -8,10 +8,12 @@ source_url: https://github.com/sidpad03/unified-mcp-gateway
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-12T22:12:18Z"
 ---
 ## What it is
 MCP server `Unified Gateway`, catalogued on PulseMCP. Self-hosted aggregation and routing layer that connects multiple MCP backends behind a single managed endpoint.

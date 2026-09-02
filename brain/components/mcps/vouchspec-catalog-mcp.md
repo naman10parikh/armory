@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T02:23:47Z"
 ---
 ## What it is
 Enables querying and verifying signed receipts of static inspections of public agent skills via read-only tools such as search_receipts, get_receipt, and get_verification_material.

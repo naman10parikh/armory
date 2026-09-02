@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-24T16:33:42Z"
 ---
 ## What it is
 MCP server `Tekna`, catalogued on PulseMCP. Searches Tekna's event catalog and news articles with filters for region, topic, format, and audience, and retrieves member benefits.

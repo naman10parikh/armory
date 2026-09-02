@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-28T11:45:03Z"
 ---
 ## What it is
 MCP server `Path402`, catalogued on PulseMCP. AI agent toolkit for discovering and acquiring tokenised web content via the $402 protocol.

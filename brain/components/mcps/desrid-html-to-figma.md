@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:04:39Z"
 ---
 ## What it is
 This MCP server lets AI agents connect to Figma to read, analyze, create, and modify designs, including elements, styles, assets, and code generation. It works with free Figma accounts and supports parallel multi-agent use across MCP-compatible clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:31:53Z"
 ---
 ## What it is
 Enables users to search the Google Ads Transparency Center for company ads, inspect ad details and variations, analyze images and videos, and compare competitor advertising strategies.

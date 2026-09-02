@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T18:16:23Z"
 ---
 ## What it is
 MCP server that exposes the version history of Russian construction-pricing open data (ФГИС ЦС), enabling queries about dataset versions, salary changes, and republished-but-unchanged exports.

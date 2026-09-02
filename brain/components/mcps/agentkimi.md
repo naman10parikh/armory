@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T23:25:25Z"
 ---
 ## What it is
 MCP server that runs Kimi K2.7-code as an autonomous coding agent inside a bubblewrap-sandboxed git worktree, returning git diffs of changes for review.

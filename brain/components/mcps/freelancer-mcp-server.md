@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-06T03:47:36Z"
 ---
 ## What it is
 Connects Claude to Freelancer.com, enabling project search, bidding, messaging, and profile management via natural language.

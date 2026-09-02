@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T16:32:51Z"
 ---
 ## What it is
 Provides access to Iranian stock market historical data (price/trade and retail/institutional) via BrsApi, with tools, prompts, and resources for analysis.

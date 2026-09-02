@@ -8,11 +8,13 @@ source_url: https://github.com/SamuelMoraesF/mcp-nfse-nacional
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-12T12:20:46Z"
 ---
 ## What it is
 MCP server for querying Brazilian electronic service invoices (NFSe) from the national portal. Allows AI agents to authenticate with digital certificates and search, detail, and download PDFs of issued NFSe.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T10:59:22Z"
 ---
 ## What it is
 Supercharges Claude Desktop with persistent semantic memory, sandboxed file I/O, live web search, and local emotional intelligence using a local ChromaDB and Hugging Face model.

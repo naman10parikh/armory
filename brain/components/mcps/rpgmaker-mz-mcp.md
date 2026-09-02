@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-10-19T10:58:46Z"
 ---
 ## What it is
 Provides tools for managing RPG Maker MZ game data, maps, events, and system settings through natural language, enabling AI-assisted game development.

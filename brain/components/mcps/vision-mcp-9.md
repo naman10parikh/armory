@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T03:48:52Z"
 ---
 ## What it is
 An MCP server for image understanding via OpenAI-compatible vision models, offering tools for OCR, error screenshot diagnosis, technical diagram reading, data visualization analysis, UI-to-code conversion, and UI diff comparison.

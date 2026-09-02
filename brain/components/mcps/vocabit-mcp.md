@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T16:31:13Z"
 ---
 ## What it is
 Enables an AI assistant to publish flashcard study sets directly into the Vocabit app and then read back detailed learner results, including weak and untouched cards, so future sets can be tailored to actual performance.

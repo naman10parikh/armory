@@ -8,10 +8,12 @@ source_url: https://github.com/theyahia/tilda-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-23T11:00:48Z"
 ---
 ## What it is
 MCP server `Tilda`, catalogued on PulseMCP. Integrates with Tilda website builder API for project, page, and content management.

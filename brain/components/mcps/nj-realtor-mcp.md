@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T02:32:21Z"
 ---
 ## What it is
 A production-grade MCP server enabling Claude to perform comprehensive NJ real estate workflows including property search, valuation, neighborhood intelligence, investment analysis, and agent tools via 20 tools and 15+ data sources.

@@ -8,10 +8,12 @@ source_url: https://github.com/vincentf305/mcp-server-ollama
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-16T15:31:56Z"
 ---
 ## What it is
 MCP server `Ollama`, catalogued on PulseMCP. Bridges to Ollama, enabling local language model capabilities for writing assistance, code generation, and data analysis.

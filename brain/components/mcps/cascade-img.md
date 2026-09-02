@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T04:55:17Z"
 ---
 ## What it is
 MCP server for generating Midjourney images through conversation, with tools for prompt composition, self-curation, and image processing.

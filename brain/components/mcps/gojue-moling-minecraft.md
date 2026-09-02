@@ -8,10 +8,12 @@ source_url: https://github.com/gojue/moling-minecraft
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-22T14:14:12Z"
 ---
 ## What it is
 MCP server `Moling Minecraft`, catalogued on PulseMCP. Bridges AI assistants with Minecraft servers, enabling command execution for block manipulation, entity management, and game state control through a Go implementation that automatically configures popular clients.

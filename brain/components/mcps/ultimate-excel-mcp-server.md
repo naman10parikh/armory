@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T12:48:08Z"
 ---
 ## What it is
 Enables AI agents to read, write, format, and execute VBA macros in Microsoft Excel in real-time through the Model Context Protocol, connecting directly to an open Excel window via COM integration.

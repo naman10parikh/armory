@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T01:45:15Z"
 ---
 ## What it is
 Provides tools for creating per-project sprite consistency rules, verifying sprite frames with numeric checks, and deterministically repainting sprite regions to preserve shading and silhouettes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:49:54Z"
 ---
 ## What it is
 Enables AI agents to interact with WooCommerce stores via the WooCommerce REST API, supporting operations like listing products, orders, and customers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T19:57:13Z"
 ---
 ## What it is
 Speeds up coding agents by predicting and pre-executing upcoming tool calls, then safely returning validated cached results to eliminate wait time.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-30T08:27:08Z"
 ---
 ## What it is
 Syncs AI conversations from multiple platforms to local Markdown files for your second brain, and provides browser automation tools via MCP for agentic workflows.

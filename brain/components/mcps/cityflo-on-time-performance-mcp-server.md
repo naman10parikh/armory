@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T13:36:07Z"
 ---
 ## What it is
 Compute and analyze bus route lateness using trip data, with drill-down and cross-referencing against rider complaints and operational logs.

@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-12T00:46:24Z"
 ---
 ## What it is
 MCP server `Supabase PostgreSQL`, catalogued on PulseMCP. Provides a bridge to Supabase PostgreSQL databases for managing tables, storage, users, and realtime features through natural language interaction without manual SQL queries.

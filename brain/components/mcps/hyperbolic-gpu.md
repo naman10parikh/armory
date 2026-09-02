@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-05-21T23:51:39Z"
 ---
 ## What it is
 MCP server `Hyperbolic GPU`, catalogued on PulseMCP. Integrates with Hyperbolic's decentralized GPU network to discover available instances, rent compute resources, establish SSH connections, and execute remote commands for on-demand machine learning workloads.

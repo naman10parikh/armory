@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T16:24:43Z"
 ---
 ## What it is
 MCP server `CoTForce`, catalogued on PulseMCP. Give small models structured thinking — enforces step-by-step Chain-of-Thought reasoning via MCP.

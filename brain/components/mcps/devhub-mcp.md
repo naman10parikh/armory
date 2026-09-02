@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T18:17:55Z"
 ---
 ## What it is
 MCP server for OpenDev Gitea and Gerrit APIs, enabling repository browsing, code review, and change management for LLM agents.

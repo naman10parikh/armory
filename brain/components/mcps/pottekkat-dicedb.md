@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-18T13:38:45Z"
 ---
 ## What it is
 MCP server `DiceDB`, catalogued on PulseMCP. Enables AI applications to interact with DiceDB database servers for key-value operations without requiring direct database credentials or connection management

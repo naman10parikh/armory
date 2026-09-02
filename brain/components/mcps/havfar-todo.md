@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-06T10:28:09Z"
 ---
 ## What it is
 MCP server `Todo List`, catalogued on PulseMCP. Provides complete todo list management with SQLite persistence, enabling task creation, completion tracking, deletion, and search functionality through five core tools for organizing and maintaining persistent todo lists.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-15T02:32:54Z"
 ---
 ## What it is
 Persistent memory for AI coding agents with local-first, zero-cost, privacy-first SQLite/FTS5 storage and biological-inspired decay.

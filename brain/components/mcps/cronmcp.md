@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T16:08:12Z"
 ---
 ## What it is
 Cron scheduler stdio MCP server that enables creating and managing scheduled prompt jobs with persistence and optional tick notifications.

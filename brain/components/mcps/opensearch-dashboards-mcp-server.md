@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-08T05:54:59Z"
 ---
 ## What it is
 An MCP server for managing OpenSearch Dashboards, enabling AI assistants to create, manage, and inspect dashboards, visualizations, saved objects, and plugin features.

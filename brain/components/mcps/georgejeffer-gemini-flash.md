@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-15T10:03:42Z"
 ---
 ## What it is
 MCP server `Gemini 2.0 Flash`, catalogued on PulseMCP. Enables direct access to Google's Gemini 2.0 Flash model from Claude Desktop through a bidirectional communication channel that maintains conversation context for natural interactions.

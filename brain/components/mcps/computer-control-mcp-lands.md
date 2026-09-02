@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-06T08:43:29Z"
 ---
 ## What it is
 Provides comprehensive computer control capabilities including mouse and keyboard automation, screen capture, OCR text recognition, and window management through MCP protocol.

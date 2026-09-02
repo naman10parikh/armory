@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-31T09:15:37Z"
 ---
 ## What it is
 MCP server `Shiori`, catalogued on PulseMCP. Manages Shiori bookmark entries and tags via MCP.

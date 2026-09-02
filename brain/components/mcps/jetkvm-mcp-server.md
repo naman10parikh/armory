@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T15:04:22Z"
 ---
 ## What it is
 Enables remote control of a computer connected to a JetKVM device by capturing its screen and sending mouse, keyboard, and scroll inputs via Playwright and the JetKVM's local Web UI.

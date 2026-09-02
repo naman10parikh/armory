@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T12:21:26Z"
 ---
 ## What it is
 MCP server for Verilog development and debugging, providing syntax checking, compilation, simulation, and cross-validation with third-party simulators.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T12:55:00Z"
 ---
 ## What it is
 Enables exposing any OpenAPI v3 specification as MCP tools with a 1:1 mapping, allowing API interaction through natural language without requiring changes to the server's own code.

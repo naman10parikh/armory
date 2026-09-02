@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T03:21:24Z"
 ---
 ## What it is
 Turns deep-research questions into reusable, source-grounded Workspaces with review checkpoints and background tasks, enabling structured research and reporting.

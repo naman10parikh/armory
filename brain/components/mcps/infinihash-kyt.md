@@ -8,10 +8,12 @@ source_url: https://github.com/infinihash/infinihash-kyt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-20T18:45:25Z"
 ---
 ## What it is
 MCP server `Infinihash KYT`, catalogued on PulseMCP. Blockchain compliance tools for wallet screening, OFAC sanctions, and SAR draft generation.

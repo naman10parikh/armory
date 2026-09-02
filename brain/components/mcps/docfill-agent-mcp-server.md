@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T18:44:39Z"
 ---
 ## What it is
 An MCP server that enables LLM agents to read, understand, and fill DOCX templates while preserving formatting like bold labels and fonts. It exposes tools for document upload, AST inspection, editing, and validation.

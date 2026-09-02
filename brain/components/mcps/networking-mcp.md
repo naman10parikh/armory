@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T20:47:32Z"
 ---
 ## What it is
 Local-first MCP server for research on AI-assisted browsing of a user-owned professional-network account (e.g., LinkedIn), providing read-focused tools such as profile, company, search, and feed reads.

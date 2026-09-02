@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:59:43Z"
 ---
 ## What it is
 An MCP server for rehabilitation monitoring that provides tools for patient risk scoring, outcome analysis, report generation, alerts, and research search, along with prompts and CSV data resources.

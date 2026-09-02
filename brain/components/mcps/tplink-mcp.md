@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T23:25:32Z"
 ---
 ## What it is
 Enables AI agents to manage TP-Link routers by listing clients, checking status, controlling Wi-Fi, and rebooting via natural language.

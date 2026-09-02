@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T03:34:13Z"
 ---
 ## What it is
 Connects AI assistants to FIS IntelliMatch SQL Server database for read-only BAU operations, enabling natural language queries on reconciliation data.

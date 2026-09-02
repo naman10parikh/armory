@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T23:47:08Z"
 ---
 ## What it is
 Hosted Streamable HTTP MCP server for Vedic astrology: panchang, kundali (birth chart), matchmaking, dashas, doshas, muhurta and 16 tools computed by a precision astronomy engine.

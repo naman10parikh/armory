@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T03:45:02Z"
 ---
 ## What it is
 MCP server `Synapse GEO`, catalogued on PulseMCP. GEO linter that audits and auto-fixes how AI agents discover and recommend new products.

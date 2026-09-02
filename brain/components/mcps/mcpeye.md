@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T16:47:26Z"
 ---
 ## What it is
 A Linux server inspection MCP system that allows managing servers via web backend, performing SSH-based health checks, and querying server status through natural language.

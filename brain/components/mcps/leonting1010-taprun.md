@@ -8,10 +8,12 @@ source_url: https://github.com/leonting1010/tap
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-09T07:41:04Z"
 ---
 ## What it is
 MCP server `Taprun`, catalogued on PulseMCP. Local-first browser automation platform that compiles AI-inspected websites into deterministic programs.

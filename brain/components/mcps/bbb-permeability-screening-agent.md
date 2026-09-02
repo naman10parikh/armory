@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T08:37:20Z"
 ---
 ## What it is
 Enables prediction of blood-brain barrier permeability for drug molecules via machine learning, with molecule name lookup, plain-language explanations, similar drug search, and applicability domain checks. Exposes these as MCP tools and orchestrates them via a LangGraph agent.

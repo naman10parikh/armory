@@ -8,10 +8,12 @@ source_url: https://github.com/oscar-wang-xin/mcp-session-saver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-17T12:14:44Z"
 ---
 ## What it is
 MCP server `Session Saver`, catalogued on PulseMCP. Saves session records to markdown files organized by IDE, date, and description for capturing and persisting conversations from development environments with automatic file organization and configurable metadata.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:28:29Z"
 ---
 ## What it is
 MCP server that exposes RS485 bus connectivity, enabling AI assistants to read and write serial data to RS485 devices through tools like list_ports, connect_rs485, and read_rs485.

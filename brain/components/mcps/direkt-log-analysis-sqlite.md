@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-07T23:12:11Z"
 ---
 ## What it is
 MCP server `Log Analysis SQLite`, catalogued on PulseMCP. Transforms compressed log files into a queryable SQLite database with tables for logs, stack traces, and errors, enabling efficient analysis and troubleshooting of application issues by timestamp, log level, and module.

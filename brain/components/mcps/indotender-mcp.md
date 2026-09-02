@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T10:14:21Z"
 ---
 ## What it is
 Search LPSE tenders, procurement realisasi, company profiles, inaproc data, and government agency directories.

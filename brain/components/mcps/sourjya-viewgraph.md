@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-20T17:11:43Z"
 ---
 ## What it is
 MCP server `ViewGraph`, catalogued on PulseMCP. Exposes structured DOM snapshots from web pages as MCP tools for AI coding agents.

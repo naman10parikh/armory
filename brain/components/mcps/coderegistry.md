@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-23T21:49:59Z"
 ---
 ## What it is
 MCP server `The Code Registry`, catalogued on PulseMCP. Enterprise code intelligence for M&A, security audits, and technical debt analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T07:52:28Z"
 ---
 ## What it is
 Enables AI agents to manage Kanban boards, cards, sessions, and automations through a unified MCP interface with real-time updates, supporting delegation, agent sessions, and human-in-the-loop interactions.

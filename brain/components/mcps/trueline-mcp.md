@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-07T15:59:16Z"
 ---
 ## What it is
 MCP server providing hash-verified file editing and targeted reads, reducing context consumption and preventing silent corruption by requiring content hashes for edits.

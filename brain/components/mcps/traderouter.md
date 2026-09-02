@@ -8,10 +8,12 @@ source_url: https://github.com/traderouter/trade-router-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-28T10:20:35Z"
 ---
 ## What it is
 MCP server `TradeRouter`, catalogued on PulseMCP. Solana swap, limit order, trailing stop, and TWAP execution engine for on-chain token trading.

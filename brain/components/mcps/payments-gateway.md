@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:57:40Z"
 ---
 ## What it is
 A generic MCP + REST payments gateway enabling agents to charge and accept payments without holding spending keys, supporting direct payments via x402 USDC and top-ups with XMR/ZEC.

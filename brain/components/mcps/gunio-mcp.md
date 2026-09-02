@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T16:49:55Z"
 ---
 ## What it is
 A local-only MCP server that reads gun.io freelancer data (interviews, applications, jobs, profile) using your browser session, with optional gated writes for confirmable actions.

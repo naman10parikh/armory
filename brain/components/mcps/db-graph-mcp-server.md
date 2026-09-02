@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T05:54:20Z"
 ---
 ## What it is
 Connects to SQL databases to execute queries and return results as chart images (PNG) visible in MCP clients.

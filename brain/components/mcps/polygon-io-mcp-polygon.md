@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 384
+stars: 387
+forks: 107
+pushed_at: "2026-06-11T16:25:26Z"
 ---
 ## What it is
 ) 🐍 ☁️ - An MCP server that provides access to [Polygon.io](https://polygon.io/) financial market data APIs for stocks, indices, forex, options, and more.

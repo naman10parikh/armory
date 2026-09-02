@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-27T15:40:37Z"
 ---
 ## What it is
 MCP server `DevDocsMCP`, catalogued on PulseMCP. Allows you to search and read documentation directly from DevDocs.io. It operates purely online, fetching data as needed.

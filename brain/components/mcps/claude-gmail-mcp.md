@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-18T14:05:12Z"
 ---
 ## What it is
 A Gmail MCP server that enables Claude to send, search, and read emails using either Gmail API or SMTP/IMAP backend.

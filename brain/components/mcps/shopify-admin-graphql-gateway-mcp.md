@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T20:09:51Z"
 ---
 ## What it is
 Security-focused MCP server for Shopify Admin GraphQL with read-only queries by default and mutations requiring preview and one-time confirmation. It manages short-lived tokens internally and enforces strict scope and approval controls.

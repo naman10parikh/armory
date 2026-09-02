@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T00:52:41Z"
 ---
 ## What it is
 Provides read-only access to iFixit repair guides, device information, repairability scores, categories, search, media, and contributor profiles via MCP tools.

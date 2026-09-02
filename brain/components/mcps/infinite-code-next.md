@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T06:26:52Z"
 ---
 ## What it is
 Enables AI coding agents to keep persistent, verifiable memory of a codebase, including the reasons behind code, prior rejected approaches, and invariants, anchored to the code and carried along as the code moves.

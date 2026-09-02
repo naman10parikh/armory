@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-19T18:34:48Z"
 ---
 ## What it is
 MCP server `Parse Platform`, catalogued on PulseMCP. Enables AI assistants to interact with Parse Server databases for schema management, CRUD operations, and migrations.

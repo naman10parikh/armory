@@ -8,10 +8,12 @@ source_url: https://github.com/mhmzdev/figma-flutter-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 235
+stars: 244
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-02-27T04:33:45Z"
 ---
 ## What it is
 MCP server `Figma to Flutter`, catalogued on PulseMCP. Converts Figma designs into Flutter widget code by extracting design elements, analyzing component structures, and generating complete project structures with proper styling, layout properties, and reusable libraries.

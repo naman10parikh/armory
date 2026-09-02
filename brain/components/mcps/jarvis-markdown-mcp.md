@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T16:38:56Z"
 ---
 ## What it is
 Local-first memory server for AI coding agents that stores work sessions, tasks, and durable memories in Markdown files, exposed through MCP tools for session management and memory retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:11:28Z"
 ---
 ## What it is
 Provides access to open federal grant opportunities from Grants.gov without authentication. Enables querying and exploring grant data through natural language via Pipeworx gateway.

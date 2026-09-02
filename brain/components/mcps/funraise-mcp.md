@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T20:15:27Z"
 ---
 ## What it is
 Enables to interact with Funraise nonprofit fundraising platform, allowing read and write access to donor, donation, subscription, campaign site, household, and interaction data.

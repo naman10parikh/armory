@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T08:11:49Z"
 ---
 ## What it is
 Cost basis tracking, capital gains calculation, and 1099-DA reconciliation for Claude, built on top of the Crypto Portfolio MCP data layer.

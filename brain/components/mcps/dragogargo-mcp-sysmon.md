@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
-stars: 2
+stars: 3
+forks: 0
+pushed_at: "2026-04-28T01:24:45Z"
 ---
 ## What it is
 Local system monitoring — CPU, memory, swap, disk, network, and process management. Find resource-hungry processes, diagnose performance issues, and kill processes via AI.

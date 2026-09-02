@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T14:16:23Z"
 ---
 ## What it is
 Gives AI assistants access to real-time financial data including stock prices, crypto, forex, market sentiment, sector analysis, and company fundamentals via the Infoway API.

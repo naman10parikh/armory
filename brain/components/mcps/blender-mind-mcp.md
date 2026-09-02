@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T15:01:07Z"
 ---
 ## What it is
 Enables AI-driven 3D modeling in Blender by providing tools to create primitives, apply modifiers and materials, set up lighting and cameras, capture viewport snapshots, export assets, inspect scenes, and execute Python commands via natural language.

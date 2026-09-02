@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-28T08:37:25Z"
 ---
 ## What it is
 Provides 54 tools across 10 categories for Wave Accounting, enabling invoicing, customer management, products, transactions, bills, estimates, taxes, businesses, and financial reporting through Wave's GraphQL API.

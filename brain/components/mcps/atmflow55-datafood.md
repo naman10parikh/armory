@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-02T12:32:22Z"
 ---
 ## What it is
 MCP server `DataFood`, catalogued on PulseMCP. MCP server providing unified access to 16 cross-niche data sources including crypto, DeFi, weather, news, finance, and web3 via a single endpoint.

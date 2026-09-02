@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T21:20:39Z"
 ---
 ## What it is
 Connects a local LLM (Ollama) to a SQLite database via the Model Context Protocol, enabling natural language queries and controlled read/write database operations through MCP tools.

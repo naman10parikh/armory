@@ -8,10 +8,12 @@ source_url: https://github.com/benswel/qr-agent-core
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-09T08:25:41Z"
 ---
 ## What it is
 MCP server `QR for Agent`, catalogued on PulseMCP. QR code generation for AI agents with customizable size, error correction, and format options.

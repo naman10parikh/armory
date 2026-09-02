@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T23:34:16Z"
 ---
 ## What it is
 Turns Claude Desktop into an email assistant that connects to Gmail, reads your inbox, classifies emails, drafts replies in your voice, and sends them with your approval.

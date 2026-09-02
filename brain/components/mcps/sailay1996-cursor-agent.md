@@ -8,10 +8,12 @@ source_url: https://github.com/sailay1996/cursor-agent-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-16T11:29:18Z"
 ---
 ## What it is
 MCP server `Cursor Agent`, catalogued on PulseMCP. Wraps the cursor-agent CLI tool with seven specialized tools for code interaction including chat, file editing, analysis, repository search, task planning, and command execution with configurable model settings and comprehensive error handling.

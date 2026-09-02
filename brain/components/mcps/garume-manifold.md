@@ -8,10 +8,12 @@ source_url: https://github.com/garume/manifold
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-29T22:05:20Z"
 ---
 ## What it is
 MCP server `Manifold`, catalogued on PulseMCP. Define operations once and expose them through both CLI and MCP surfaces via source generation.

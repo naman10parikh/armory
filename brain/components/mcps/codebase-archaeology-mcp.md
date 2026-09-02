@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T21:37:46Z"
 ---
 ## What it is
 Enables tracing any line in a local git repository back to the commit that actually introduced it and the PR/review discussion behind it, overcoming git blame's misleading last-touch attribution.

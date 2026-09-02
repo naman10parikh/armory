@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:08:45Z"
 ---
 ## What it is
 An educational healthcare assistant MCP server that provides medication information, interaction checks, symptom guidance, and health topic searches using local data and a local LLM.

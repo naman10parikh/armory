@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T13:15:08Z"
 ---
 ## What it is
 Deploys a remote MCP server on Cloudflare Workers without authentication, allowing connection from clients like Claude Desktop via mcp-remote proxy.

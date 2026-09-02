@@ -8,10 +8,12 @@ source_url: https://github.com/jonathan-politzki/mcp-writer-substack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-11T03:45:50Z"
 ---
 ## What it is
 MCP server `Writer Blog Search (Substack & Medium)`, catalogued on PulseMCP. Connect to your Substack/Medium blogs via their RSS feeds, fetches your posts, and permanently caches them locally. It also generates embeddings for each post, enabling semantic search to find the most relevant essays based on your queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T22:10:11Z"
 ---
 ## What it is
 Enables AI agents to capture, batch, compare, and audit web pages using ScreenshotInk's hosted Chromium fleet, with tools for screenshotting, pixel-diff comparison, Lighthouse audits, and sitemap capture.

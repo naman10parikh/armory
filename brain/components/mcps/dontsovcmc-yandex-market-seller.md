@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T13:31:58Z"
 ---
 ## What it is
 MCP server `Yandex Market Seller`, catalogued on PulseMCP. Manage Yandex Market seller listings, orders, and catalog data.

@@ -8,10 +8,12 @@ source_url: https://github.com/imankamyabi/dynamodb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-01-07T18:15:30Z"
 ---
 ## What it is
 MCP server `DynamoDB`, catalogued on PulseMCP. Integrates with Amazon DynamoDB to enable natural language-based table management, capacity adjustment, and data operations while maintaining safeguards against accidental deletions.

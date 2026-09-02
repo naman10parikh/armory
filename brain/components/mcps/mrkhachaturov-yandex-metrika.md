@@ -8,10 +8,12 @@ source_url: https://github.com/mrkhachaturov/ya-metrics-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-23T20:02:12Z"
 ---
 ## What it is
 MCP server `Yandex Metrika`, catalogued on PulseMCP. Integrates with Yandex Metrika analytics API to provide 31 tools for traffic, content, demographic, geographic, and conversion data analysis.

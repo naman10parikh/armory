@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T14:56:21Z"
 ---
 ## What it is
 A RAG knowledge base MCP server using FastMCP and LanceDB, enabling hybrid search, document ingestion, and full MCP tool/resource/prompt support.

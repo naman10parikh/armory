@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T05:48:26Z"
 ---
 ## What it is
 MCP server that connects AI clients to the arena-hero game's browser-stored exploration data via WebSocket, enabling queries for resource and obstacle coordinates.

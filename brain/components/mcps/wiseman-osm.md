@@ -8,10 +8,12 @@ source_url: https://github.com/wiseman/osm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 86
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-03-13T23:01:24Z"
 ---
 ## What it is
 MCP server `OpenStreetMap`, catalogued on PulseMCP. Provides direct access to OpenStreetMap geospatial data through SQL queries, enabling location-based analysis and extraction of structured information about geographic features from the complete OSM dataset.

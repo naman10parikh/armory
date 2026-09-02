@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T14:23:28Z"
 ---
 ## What it is
 MCP server that exposes hardware automation tools (build, flash, serial capture, symbolization, relay control) for ESP32-S3 boards, with board-level concurrency locks and remote access.

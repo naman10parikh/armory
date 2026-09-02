@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-19T04:34:08Z"
 ---
 ## What it is
 Converts chemistry animation requests into Manim scenes using DeepSeek for structure generation and RDKit for validation, with PubChem lookup and optional 3D rendering.

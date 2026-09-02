@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-06T19:19:04Z"
 ---
 ## What it is
 Enables AI models to fetch and aggregate news from RSS, Atom, JSON, and HTML feeds with fault-tolerant circuit breaker protection.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T23:42:59Z"
 ---
 ## What it is
 Enables access to Hevy strength-training data—workouts, routines, exercise history, and progression—via an MCP server with per-user credential encryption and optional write support.

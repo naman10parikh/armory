@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-20T17:42:55Z"
 ---
 ## What it is
 A Model Context Protocol server for discovering and documenting Fal.ai models, enabling listing, schema retrieval, and documentation generation for coding agents.

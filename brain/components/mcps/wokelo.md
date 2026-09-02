@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T18:25:31Z"
 ---
 ## What it is
 MCP server `Wokelo`, catalogued on PulseMCP. Connects AI agents to dealmaking research with 100M+ companies and 30+ premium data sources.

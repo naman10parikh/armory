@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-06-19T05:00:22Z"
 ---
 ## What it is
 MCP server `Shell Command`, catalogued on PulseMCP. Provides a secure Docker container environment for executing shell commands with Kubernetes tools, enabling isolated DevOps workflows and infrastructure management tasks.

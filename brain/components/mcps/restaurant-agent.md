@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T08:48:18Z"
 ---
 ## What it is
 A permission-aware MCP server for restaurant backend operations, enabling role-based access to menus, orders, sales, and drafting specials with a human approval workflow.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:20:25Z"
 ---
 ## What it is
 MCP server `Mailchimp`, catalogued on PulseMCP. Manage Mailchimp campaigns, lists, and subscribers via the Mailchimp Marketing API.

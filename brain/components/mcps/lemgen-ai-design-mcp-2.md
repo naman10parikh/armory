@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T13:34:46Z"
 ---
 ## What it is
 Open-source MCP server for AI image and video creation, enabling prompt library search, prompt enhancement, and media generation from Claude Code, Cursor, and other MCP hosts.

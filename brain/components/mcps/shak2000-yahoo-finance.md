@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-14T04:51:36Z"
 ---
 ## What it is
 MCP server `Yahoo Finance`, catalogued on PulseMCP. Integrates with Yahoo Finance API to provide real-time stock prices, company information, historical data, and market news through LLaMA 3.2 3B while preserving all regular model capabilities.

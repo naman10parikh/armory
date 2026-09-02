@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T20:59:09Z"
 ---
 ## What it is
 A remote MCP server wrapping the Metaculus API that enables agents to browse forecasting questions, submit and withdraw forecasts, and post rationale comments using user-provided API tokens.

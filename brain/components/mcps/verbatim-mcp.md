@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T18:06:44Z"
 ---
 ## What it is
 Search academic papers and ask research questions with verbatim, cited answers from document collections like the ACL Anthology.

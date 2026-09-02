@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-03T01:05:08Z"
 ---
 ## What it is
 MCP server `Project Management`, catalogued on PulseMCP. Maintains a structured knowledge graph of project entities and relationships, enabling users to track progress, manage tasks, monitor milestones, and assess project health through persistent storage and specialized analysis tools.

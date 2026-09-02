@@ -8,11 +8,13 @@ source_url: https://github.com/wangkezun/qq-music-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-02T03:53:07Z"
 ---
 ## What it is
 Integrates QQ Music API with MCP, enabling LLMs to search music, retrieve song details, lyrics, and playback URLs.

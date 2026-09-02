@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T18:36:41Z"
 ---
 ## What it is
 MCP server for controlling Polestar vehicles via natural language, enabling climate, charging, locks, location, and vehicle status management through Claude.

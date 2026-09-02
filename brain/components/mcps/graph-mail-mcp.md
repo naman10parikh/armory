@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T10:02:24Z"
 ---
 ## What it is
 Enables controlled Microsoft 365 mail workflows including search, read, thread, attachment, and managed draft operations through Microsoft Graph, without sending or modifying messages.

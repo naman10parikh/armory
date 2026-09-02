@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T17:41:02Z"
 ---
 ## What it is
 Enables AI agents to browse the giftcardshop catalog and purchase gift cards using Lightning payments, with no account or signup required.

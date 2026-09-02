@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-02T03:22:20Z"
 ---
 ## What it is
 Local automation bridge that is both an MCP server and client: 234 tools across 44 namespaces for shell, filesystem, git, desktop control, browser (CDP), Android (ADB), OCR/ASR and memory, plus the ability to connect external MCP servers. Sandboxed execution with token auth, fail-closed policy and a

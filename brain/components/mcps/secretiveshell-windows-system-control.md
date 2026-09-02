@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-22T13:43:35Z"
 ---
 ## What it is
 MCP server `Windows System Control`, catalogued on PulseMCP. Enables AI to control Windows system functions including media playback, notifications, window management, screenshots, monitor control, theme changes, clipboard access, and file operations.

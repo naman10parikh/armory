@@ -8,10 +8,12 @@ source_url: https://github.com/tevonsb/homeassistant-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 572
+stars: 575
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 54
+pushed_at: "2026-01-25T20:52:22Z"
 ---
 ## What it is
 MCP server `Home Assistant`, catalogued on PulseMCP. Connect to the Home Assistant platform, enabling smart home control.

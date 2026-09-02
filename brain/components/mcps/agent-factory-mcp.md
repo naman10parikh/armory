@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-24T11:14:41Z"
 ---
 ## What it is
 A universal MCP server that automatically discovers and registers CLI tools as AI-powered agents with persona configuration, enabling any CLI tool to be used as an MCP tool.

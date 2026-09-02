@@ -8,10 +8,12 @@ source_url: https://github.com/bcefghj/math-animation-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-04-05T23:01:27Z"
 ---
 ## What it is
 MCP server `Math Animation`, catalogued on PulseMCP. Generates Manim-based educational math animations from text descriptions, LaTeX formulas, PDFs, or images.

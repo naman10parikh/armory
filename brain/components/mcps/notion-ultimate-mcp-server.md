@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-04T15:44:28Z"
 ---
 ## What it is
 Enables AI-powered Notion task management with autonomous workflows, including task retrieval, AI prompt generation, and dependency tracking.

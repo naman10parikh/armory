@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T01:45:08Z"
 ---
 ## What it is
 A local MCP server that extracts clean Markdown from any developer portal using military-grade heuristics, bypassing WAFs, SPAs, and PDFs with zero SaaS dependencies or API keys.

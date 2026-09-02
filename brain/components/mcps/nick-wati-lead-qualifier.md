@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-05T09:17:20Z"
 ---
 ## What it is
 MCP server `Lead Qualifier`, catalogued on PulseMCP. Automates sales lead qualification by extracting and scoring prospect information from conversations and seamlessly syncing qualified leads to CRM systems

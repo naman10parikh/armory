@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T18:57:37Z"
 ---
 ## What it is
 A Model Context Protocol server providing tools for focus assessment, study and deep work planning, digital detox, and comparison of focus methods to improve productivity and reduce distraction.

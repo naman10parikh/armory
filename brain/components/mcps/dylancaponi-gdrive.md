@@ -8,10 +8,12 @@ source_url: https://github.com/dylancaponi/gdrive-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-05T02:22:12Z"
 ---
 ## What it is
 MCP server `Google Drive (Enhanced)`, catalogued on PulseMCP. Actively maintained fork of the archived reference Google Drive server with OAuth auto-refresh, file downloads, Sheets reading, PDF export, and Shared Drive support.

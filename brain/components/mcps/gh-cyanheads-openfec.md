@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/openfec-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T02:46:27Z"
 ---
 ## What it is
 MCP server `OpenFEC Campaign Finance`, catalogued on PulseMCP. Query U.S. Federal Election Commission campaign finance data.

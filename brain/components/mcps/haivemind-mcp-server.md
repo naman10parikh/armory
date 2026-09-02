@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-17T16:49:54Z"
 ---
 ## What it is
 Enables AI agents to share knowledge, coordinate tasks, and maintain persistent memory across distributed infrastructure with secure vaults and 130+ MCP tools.

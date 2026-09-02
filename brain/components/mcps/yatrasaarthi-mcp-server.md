@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:48:56Z"
 ---
 ## What it is
 Provides transit concierge tools for Indian Railways, including live train status, platform numbers, delay alerts, food options, and cab services, with offline fallback support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-22T03:33:16Z"
 ---
 ## What it is
 Manages EVE Online fleets via SSO authorization, inspecting composition, organizing squads/wings, inviting/kicking members, and updating MOTD.

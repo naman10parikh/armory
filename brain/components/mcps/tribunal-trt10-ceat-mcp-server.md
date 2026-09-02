@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:58Z"
 ---
 ## What it is
 Consulta a Certidão Eletrônica de Ações Trabalhistas (CEAT) do Tribunal TRT10 em fonte oficial, com uma ferramenta somente leitura. Permite que agentes de IA realizem consultas via MCP over HTTP.

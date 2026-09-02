@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-04T13:39:57Z"
 ---
 ## What it is
 MCP server `Amateurs Community Search`, catalogued on PulseMCP. Provides AI tools for searching and querying community posts from a MySQL database with paginated searches, keyword filtering across titles, content, and tags, and support for various post types including QNA, projects, gatherings, and marketplace items.

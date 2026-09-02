@@ -12,6 +12,8 @@ stars: 126
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-04-02T16:13:56Z"
 ---
 ## What it is
 MCP server `Think Tool`, catalogued on PulseMCP. Implements Anthropic's 'think' tool as a dedicated space for Claude to perform structured reasoning during complex problem-solving tasks, improving performance by up to 54% on challenges requiring detailed policies or sequential decision-making.

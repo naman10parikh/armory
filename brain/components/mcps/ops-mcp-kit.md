@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T07:38:54Z"
 ---
 ## What it is
 Enables AI assistants to query company logs, databases, caches, and config centers (e.g., Aliyun SLS, MySQL, Redis, Nacos) through local MCP servers, with read-only enforcement and SSH tunneling for production access.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-07-03T13:04:31Z"
 ---
 ## What it is
 A Model Context Protocol server for interacting with Salesforce Commerce Cloud (SFCC) APIs.

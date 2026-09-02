@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T17:13:30Z"
 ---
 ## What it is
 MCP server for Aruba Central that exposes access point, switch, and wireless client status to MCP-compatible AI assistants via STDIO transport.

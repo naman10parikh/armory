@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T10:45:23Z"
 ---
 ## What it is
 An MCP server that lets you switch between different MCP configuration profiles directly from inside Claude Desktop.

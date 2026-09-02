@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T17:39:45Z"
 ---
 ## What it is
 Exposes a HashiCorp Nomad cluster as MCP tools for AI agents, enabling read-only inspection of jobs, allocations, nodes, and deployments, with optional write operations like stopping jobs, scaling task groups, restarting allocations, and registering jobs.

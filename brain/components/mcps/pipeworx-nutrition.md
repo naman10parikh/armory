@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-02T16:44:51Z"
 ---
 ## What it is
 MCP server `Nutrition`, catalogued on PulseMCP. Provides food product nutritional data via the Open Food Facts API.

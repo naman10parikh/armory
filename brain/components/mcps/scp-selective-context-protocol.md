@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T19:37:04Z"
 ---
 ## What it is
 MCP-compatible proxy hub that intelligently filters tool responses to stay within LLM context window budgets. SCP sits between your LLM client and MCP servers, treating context as a budget, not a dump. Every token must earn its place through measured relevance. Clients connect to SCP as if it's a no

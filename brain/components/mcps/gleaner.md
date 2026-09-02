@@ -8,11 +8,13 @@ source_url: https://github.com/liuqiaodongdong/gleaner-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:15:11Z"
 ---
 ## What it is
 Enables academic literature collection and full-text downloading from multiple sources (CNKI, Elsevier, OpenAlex, etc.) via natural language commands.

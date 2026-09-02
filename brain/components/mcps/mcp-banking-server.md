@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-27T18:13:29Z"
 ---
 ## What it is
 A minimal banking system MCP server that allows account management, deposits, withdrawals, balance inquiries, and transaction history via REST endpoints.

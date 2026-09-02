@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T17:00:49Z"
 ---
 ## What it is
 Converts your bot12 trading bot into tools for Claude and other AI assistants, providing pre-built trading operations, account management, and reporting features.

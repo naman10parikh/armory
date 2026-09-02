@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-10T22:23:46Z"
 ---
 ## What it is
 MCP server `Cloudflare by crunchtools`, catalogued on PulseMCP. Manages Cloudflare DNS records, Transform Rules, Page Rules, and cache purging with security-first design.

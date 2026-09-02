@@ -8,10 +8,12 @@ source_url: https://github.com/taylormadeapps/taype-releases
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T12:52:12Z"
 ---
 ## What it is
 MCP server `Taype`, catalogued on PulseMCP. MCP-native digital audio workstation for macOS built for musicians, with modelled console tone, VST3 plugin hosting, and accessibility compliance.

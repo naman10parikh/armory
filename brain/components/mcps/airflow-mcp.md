@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-26T13:45:20Z"
 ---
 ## What it is
 Enables natural language interaction with Apache Airflow for querying DAGs, monitoring execution, and troubleshooting failures.

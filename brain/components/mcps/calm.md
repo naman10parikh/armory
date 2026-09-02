@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T10:05:10Z"
 ---
 ## What it is
 Provides live, graph-verified code intelligence for AI agents, including call graphs, dependency awareness, and safety gates on edits to prevent breaking changes.

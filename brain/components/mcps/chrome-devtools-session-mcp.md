@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:05:49Z"
 ---
 ## What it is
 Paid hosted MCP endpoint for AI agent browser DevTools. It exposes structured JSON tools for inspecting page state, reading console errors, summarizing network waterfalls, and exporting DevTools receipts.

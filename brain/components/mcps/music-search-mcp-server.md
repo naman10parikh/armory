@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-31T09:47:44Z"
 ---
 ## What it is
 Enables searching and playing music from YouTube, returning top results or playable URLs, designed for XiaoZhi ESP32 robot.

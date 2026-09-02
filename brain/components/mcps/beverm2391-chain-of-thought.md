@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-23T01:43:12Z"
 ---
 ## What it is
 MCP server `Chain of Thought`, catalogued on PulseMCP. Exposes raw reasoning tokens from language models through Groq's API, allowing users to see the step-by-step thinking process within <think> tags before receiving final answers.

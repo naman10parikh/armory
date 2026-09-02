@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:20Z"
 ---
 ## What it is
 A read-only MCP server that consults official SINTEGRA RN (Rio Grande do Norte) tax data via a hosted, pay-per-use API, working with any MCP-compatible client.

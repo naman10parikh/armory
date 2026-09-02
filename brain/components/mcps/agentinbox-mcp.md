@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T03:40:45Z"
 ---
 ## What it is
 Enables AI agents to manage a customer-support inbox with guardrails, including replying safely, handling escalations, and leveraging upsell opportunities for e-commerce stores.

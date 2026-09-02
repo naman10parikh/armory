@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T10:24:06Z"
 ---
 ## What it is
 Provides US real estate data including housing stats, demographics, nearby amenities, area comparisons, cost-of-living analysis, and neighborhood search via free public APIs without any API keys.

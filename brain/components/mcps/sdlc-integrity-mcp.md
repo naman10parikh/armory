@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T06:46:18Z"
 ---
 ## What it is
 MCP server that provides audit and safety-check tools for enterprise SDLC code integrity, enabling AI agents to scan workspaces for lifecycle gaps, mock-theater tests, DRY violations, and language-specific issues in shell, JavaScript/HTML, and Python.

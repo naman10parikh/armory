@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-06T09:30:06Z"
 ---
 ## What it is
 MCP server `License Compliance`, catalogued on PulseMCP. Scan npm dependencies for license compliance issues and GPL contamination.

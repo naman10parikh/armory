@@ -8,11 +8,13 @@ source_url: https://github.com/DanielTomaro13/sportsdata-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-30T23:55:07Z"
 ---
 ## What it is
 An MCP server that exposes sports-data APIs from multiple providers (AFL, Sportsbet, Entain, NRL) as interchangeable tools, enabling cross-provider odds and stats comparison.

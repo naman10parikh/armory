@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T03:05:23Z"
 ---
 ## What it is
 A Model Context Protocol server that lets an LLM open web pages, list interactive elements, take screenshots, and draw annotations with color contrast selection.

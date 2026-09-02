@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T03:49:00Z"
 ---
 ## What it is
 A visual compiler and verifier for coding agents that turns rendered evidence into inspectable visual programs with tamper-evident receipts.

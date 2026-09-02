@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-17T09:47:54Z"
 ---
 ## What it is
 A Model Context Protocol server that enables Claude to interact with YNAB budgets, including listing budgets, accounts, transactions, and category spending.

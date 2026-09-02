@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-11T22:18:26Z"
 ---
 ## What it is
 MCP server `SiteLauncher`, catalogued on PulseMCP. Deploy live HTTPS websites instantly with subdomain or custom .xyz domain support, paid via USDC on Base chain.

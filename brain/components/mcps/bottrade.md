@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:33:50Z"
 ---
 ## What it is
 BotTrade is a historical-market benchmark for autonomous trading agents, enabling backtesting and evaluation through MCP or Python with standardized scenarios and scoring metrics.

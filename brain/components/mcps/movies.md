@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:23:20Z"
 ---
 ## What it is
 MCP server `Movies`, catalogued on PulseMCP. Searches movies and TV shows via iTunes and TVmaze APIs, returning details, episode listings, and air schedules.

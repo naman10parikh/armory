@@ -8,10 +8,12 @@ source_url: https://github.com/tommertron/anyboxmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-15T02:16:51Z"
 ---
 ## What it is
 MCP server `Anybox`, catalogued on PulseMCP. Bridges Anybox bookmark manager's HTTP API to enable searching bookmarks by keyword, tag, folder, or starred status, retrieving organizational metadata, and saving new bookmarks with comments, tags, and folder assignments for research organization and automated link management workflows.

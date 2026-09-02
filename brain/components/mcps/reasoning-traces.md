@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T12:29:12Z"
 ---
 ## What it is
 Adds a deep_reasoning tool that consults stronger reasoning models (e.g., DeepSeek R1) to produce full reasoning traces for complex problems, helping the agent shape and cross-check its answers.

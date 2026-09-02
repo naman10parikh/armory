@@ -8,10 +8,12 @@ source_url: https://github.com/anwerj/youtube-uploader-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-07-12T07:54:20Z"
 ---
 ## What it is
 MCP server `YouTube Uploader`, catalogued on PulseMCP. Provides OAuth2-authenticated YouTube video uploading with automatic token management, channel retrieval, and comprehensive metadata configuration for content creators and automation workflows.

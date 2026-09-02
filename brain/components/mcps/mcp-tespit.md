@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T11:54:31Z"
 ---
 ## What it is
 Enables AI assistants to monitor real-time CPU, RAM, and disk usage on the local machine.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T09:36:08Z"
 ---
 ## What it is
 Enables controlled, auditable search and retrieval of data from the CSIRO ASKAP Science Data Archive via structured tools, with optional authenticated staging and downloads.

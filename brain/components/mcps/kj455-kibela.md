@@ -8,10 +8,12 @@ source_url: https://github.com/kj455/mcp-kibela
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-06T01:28:44Z"
 ---
 ## What it is
 MCP server `Kibela`, catalogued on PulseMCP. Integrates with Kibela knowledge bases to enable searching, reading, creating, and updating notes directly within conversation interfaces, providing seamless access to organizational documentation.

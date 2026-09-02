@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T19:23:07Z"
 ---
 ## What it is
 A credit-risk analytics MCP server enabling natural language queries over 30,000 real credit records, default risk prediction with an interpretable model, and live Turkish economic indicators.

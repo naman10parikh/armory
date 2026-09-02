@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T08:57:09Z"
 ---
 ## What it is
 Enables querying a comprehensive data lake of Italian civic open data, returning cited facts about Italian municipalities across domains like environment, education, finance, and governance.

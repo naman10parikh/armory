@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T07:17:29Z"
 ---
 ## What it is
 Enables Claude Science to delegate independent review or implementation tasks to the official OpenAI Codex CLI via an asynchronous queue, avoiding one-minute time limits and sandbox issues.

@@ -14,6 +14,8 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 1
+forks: 0
+pushed_at: "2026-06-03T22:31:05Z"
 ---
 ## What it is
 Enables AI-powered image and video generation using Higgsfield AI models through MCP-compatible clients like Claude Desktop and Perplexity.

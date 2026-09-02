@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-08T06:33:45Z"
 ---
 ## What it is
 Generates matplotlib charts via a FastAPI service, supporting line, bar, scatter, and pie charts with customizable labels and data.

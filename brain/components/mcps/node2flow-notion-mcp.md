@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-14T19:49:36Z"
 ---
 ## What it is
 MCP server for the Notion API, enabling management of pages, blocks, databases, data sources, comments, and users through natural language.

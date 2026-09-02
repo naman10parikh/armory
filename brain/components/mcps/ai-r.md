@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T10:14:00Z"
 ---
 ## What it is
 Provides a read-only interface to audit and continue coding agent sessions by extracting plans, intents, and edit authorship from history across multiple agents (Claude, Codex, OpenCode, Antigravity, Pi) via MCP, CLI, and Python SDK.

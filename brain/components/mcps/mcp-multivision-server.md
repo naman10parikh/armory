@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T01:59:37Z"
 ---
 ## What it is
 Provides image and video analysis capabilities for LLMs, with local preprocessing (ffmpeg/OpenCV) and any OpenAI-compatible vision model for understanding and Q&A.

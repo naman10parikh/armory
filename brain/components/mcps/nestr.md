@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T02:02:01Z"
 ---
 ## What it is
 MCP server `Nestr`, catalogued on PulseMCP. Connect AI to Nestr for Holacracy, Sociocracy, and self-organizing team management.

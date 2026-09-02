@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:24:20Z"
 ---
 ## What it is
 Provides NATO phonetic spelling and Morse code encoding/decoding tools. Enables AI agents to convert text to phonetic alphabet or Morse code, and decode Morse back to text, all offline and keyless.

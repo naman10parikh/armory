@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T06:20:40Z"
 ---
 ## What it is
 Provides persistent memory for AI assistants using MongoDB Vector Search, enabling content storage, semantic search, and knowledge retrieval through MCP tools.

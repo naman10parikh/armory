@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T07:37:42Z"
 ---
 ## What it is
 Provides a set of everyday utility tools via MCP, including greetings, calculations, time, UUID generation, secure passwords, BMI/age calculation, and unit conversion.

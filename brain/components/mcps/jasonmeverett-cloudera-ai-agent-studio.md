@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-28T11:11:23Z"
 ---
 ## What it is
 MCP server `Cloudera AI Agent Studio`, catalogued on PulseMCP. Provides a bridge between Cloudera AI Agent Studio and external tools, enabling automated creation and management of multi-agent workflows with hierarchical structures through the Agent Studio API.

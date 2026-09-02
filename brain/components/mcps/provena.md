@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T09:26:36Z"
 ---
 ## What it is
 Enables tracking and querying the provenance of AI-generated code, showing which sources influenced each line of code.

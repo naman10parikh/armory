@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:05:35Z"
 ---
 ## What it is
 A read-only MCP server for Microsoft Intune and Entra ID that enables list, get, search, and reporting operations for tenant visibility, audits, troubleshooting, and health reporting without write actions. It includes authentication helpers, report exports, and metadata discovery tools.

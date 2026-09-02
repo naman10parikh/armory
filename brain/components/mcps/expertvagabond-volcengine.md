@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T12:23:49Z"
 ---
 ## What it is
 MCP server `Volcengine Doubao`, catalogued on PulseMCP. Text generation, chat, and embeddings via ByteDance Volcano Engine Doubao models.

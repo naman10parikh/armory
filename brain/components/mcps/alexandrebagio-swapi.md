@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-21T02:52:45Z"
 ---
 ## What it is
 MCP server `Star Wars API`, catalogued on PulseMCP. Provides access to the Star Wars API for retrieving and paginating through planet information from the Star Wars universe.

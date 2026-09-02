@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T15:41:09Z"
 ---
 ## What it is
 A read-only MCP server that connects to HubSpot to audit CRM data, diagnose RevOps maturity, identify at-risk deals, and provide step-by-step guidance for fixing issues.

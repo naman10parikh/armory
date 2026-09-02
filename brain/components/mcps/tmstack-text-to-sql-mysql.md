@@ -8,10 +8,12 @@ source_url: https://github.com/tmstack/text-to-sql-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-17T00:29:42Z"
 ---
 ## What it is
 MCP server `Text-to-SQL (MySQL)`, catalogued on PulseMCP. Converts natural language queries into SQL operations for MySQL databases, enabling conversational database interactions for data analysis and reporting without requiring SQL knowledge.

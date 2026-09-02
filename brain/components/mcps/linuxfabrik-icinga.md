@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-28T17:18:21Z"
 ---
 ## What it is
 MCP server `Icinga`, catalogued on PulseMCP. Bridge AI assistants to Icinga monitoring infrastructure for live host checks, acknowledgements, and downtimes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2025-05-30T15:17:54Z"
 ---
 ## What it is
 Enables AI models to perform static taint analysis on Python code, detecting security vulnerabilities by tracking data flows from sources to sinks.

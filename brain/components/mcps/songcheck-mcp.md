@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T10:50:48Z"
 ---
 ## What it is
 Enables AI agents to detect AI-generated music, images, and video by analyzing files through SongCheck's ensemble detector, providing verdicts and confidence scores.

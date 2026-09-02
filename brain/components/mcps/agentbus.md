@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T09:38:35Z"
 ---
 ## What it is
 A local message bus for AI agent sessions that enables Claude Code sessions to communicate directly via channels, allowing message sending and peer discovery without network or copy-paste.

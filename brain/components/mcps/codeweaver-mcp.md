@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-25T20:55:43Z"
 ---
 ## What it is
 Token-efficient MCP server for multi-language project analysis (Java, TypeScript, JavaScript, Markdown, Python) with plugins, semantic search, and static analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T08:59:20Z"
 ---
 ## What it is
 Query Slovak data protection regulations, decisions, and guidelines from ÚOOÚ SR directly via MCP-compatible clients like Claude or Cursor.

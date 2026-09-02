@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T03:27:06Z"
 ---
 ## What it is
 Provides AI coding tools with live access to product strategy including briefs, hypotheses, competitor analysis, PRD, and strategic pulse for context-aware development.

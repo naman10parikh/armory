@@ -8,10 +8,12 @@ source_url: https://github.com/yyue9527/redis-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-16T03:06:13Z"
 ---
 ## What it is
 MCP server `Redis`, catalogued on PulseMCP. Enables AI tools to interact with Redis databases through key-value operations, pattern-based key listing, and configurable expiration settings

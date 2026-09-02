@@ -8,10 +8,12 @@ source_url: https://github.com/rafsilva85/credit-optimizer-v5
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-05-25T00:08:44Z"
 ---
 ## What it is
 MCP server `Manus Credit Optimizer`, catalogued on PulseMCP. Reduces Manus AI credit consumption through intelligent model routing, prompt decomposition, and context hygiene.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T11:51:24Z"
 ---
 ## What it is
 Enables natural language analysis of mechanical test data files (CSV, TDMS, MDF) by providing tools for channel statistics, spectrum analysis, rainflow fatigue counting, thermal state detection, and report generation.

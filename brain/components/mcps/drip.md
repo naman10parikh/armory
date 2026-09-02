@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T08:56:35Z"
 ---
 ## What it is
 AI-powered emergency coordination platform built with NitroStack MCP to accelerate disaster response through intelligent planning, resource orchestration, and real-time operational insights.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T23:38:22Z"
 ---
 ## What it is
 Enables querying live U.S. National Weather Service alerts by state through MCP, with both Python and TypeScript implementations.

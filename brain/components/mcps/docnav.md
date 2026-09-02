@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-07T06:14:31Z"
 ---
 ## What it is
 MCP server `DocNav`, catalogued on PulseMCP. Transforms long-form documents into hierarchical tree structures with navigable sections, enabling systematic reading, outline generation, content search, and contextual navigation through parent-child-sibling relationships for comprehensive document analysis workflows.

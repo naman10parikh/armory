@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-07T21:05:05Z"
 ---
 ## What it is
 An MCP server that provides intelligent playlist curation tools using Spotify track data and audio feature analysis. It enables AI assistants to create mood-based playlists, find similar songs, analyze audio characteristics, and curate personalized music collections.

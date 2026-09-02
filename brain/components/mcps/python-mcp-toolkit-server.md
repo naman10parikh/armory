@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T14:11:52Z"
 ---
 ## What it is
 A Python-based MCP server for file operations, web search with fallback, and task management, designed for Termux and extensible via plugins.

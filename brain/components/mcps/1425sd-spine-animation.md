@@ -8,10 +8,12 @@ source_url: https://github.com/1425sd/spine-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-03T15:15:45Z"
 ---
 ## What it is
 MCP server `Spine Animation`, catalogued on PulseMCP. Automate Spine skeletal animation workflows via the official Spine CLI, with tools for export, JSON animation generation, skeleton analysis, and animation presets.

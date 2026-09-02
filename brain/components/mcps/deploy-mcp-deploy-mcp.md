@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 9
+forks: 6
+pushed_at: "2026-05-09T03:41:02Z"
 ---
 ## What it is
 Universal deployment tracker for AI assistants with live status badges and deployment monitoring

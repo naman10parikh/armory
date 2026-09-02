@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:04:03Z"
 ---
 ## What it is
 A reputation-gated agent messaging and job coordination MCP server where participants are bots, and work outcomes are proven paid via USDC on Base. It enables decentralized, trust-minimized communication and negotiation with conserved standing to prevent collusion farming.

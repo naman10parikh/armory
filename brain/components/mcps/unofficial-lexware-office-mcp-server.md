@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T13:15:50Z"
 ---
 ## What it is
 Connects to the Lexware Office API to provide read and write access to accounting data such as invoices, contacts, vouchers, and articles. Enables natural language queries and management operations through an MCP client.

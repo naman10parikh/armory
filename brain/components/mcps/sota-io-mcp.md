@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T11:16:05Z"
 ---
 ## What it is
 Enables AI agents to deploy, manage, and configure web applications on sota.io, including project creation, deployment, environment variables, custom domains, and rollbacks.

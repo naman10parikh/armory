@@ -8,10 +8,12 @@ source_url: https://github.com/microsoft/clarity-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 85
+stars: 114
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 37
+pushed_at: "2026-02-24T14:02:49Z"
 ---
 ## What it is
 MCP server `Microsoft Clarity Analytics`, catalogued on PulseMCP. Enables AI to fetch and analyze Microsoft Clarity website analytics data including metrics like scroll depth, engagement time, and traffic with filtering by browser, device, and country.

@@ -8,10 +8,12 @@ source_url: https://github.com/veradictus/flaxmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-05T15:31:52Z"
 ---
 ## What it is
 MCP server `Flax Engine`, catalogued on PulseMCP. Control the Flax game engine editor with 87 tools for scene management, assets, and rendering.

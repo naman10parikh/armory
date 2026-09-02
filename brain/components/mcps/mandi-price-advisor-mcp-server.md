@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T15:07:09Z"
 ---
 ## What it is
 Provides daily mandi commodity prices across India, compares markets, and allows setting price alerts that notify via Telegram.

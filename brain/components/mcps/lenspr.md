@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-24T00:45:24Z"
 ---
 ## What it is
 MCP server that builds a dependency graph of your codebase, giving AI agents structural understanding to analyze impact, find context, and make safe modifications across languages and infrastructure.

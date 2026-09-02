@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:08:28Z"
 ---
 ## What it is
 Wraps the CheapShark API to enable game deal searches and price comparisons via MCP, no authentication required.

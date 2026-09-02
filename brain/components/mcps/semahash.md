@@ -8,10 +8,12 @@ source_url: https://github.com/emergent-wisdom/sema
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T19:44:06Z"
 ---
 ## What it is
 MCP server `Semahash`, catalogued on PulseMCP. Content-addressed semantics with fail-closed handshakes over 453 cognitive patterns.

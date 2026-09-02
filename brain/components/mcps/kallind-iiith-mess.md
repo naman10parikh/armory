@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-29T12:28:34Z"
 ---
 ## What it is
 MCP server `IIITH Mess`, catalogued on PulseMCP. Manages IIIT Hyderabad cafeteria meal registrations, menus, bookings, and billing via campus intranet.

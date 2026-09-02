@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T11:51:42Z"
 ---
 ## What it is
 MCP server for managing YouTube channels using Data API v3 and Analytics. Supports video upload, comments, playlists, and analytics via ~30 tools, with stateless OAuth authentication.

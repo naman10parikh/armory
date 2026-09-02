@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:47:58Z"
 ---
 ## What it is
 Enables querying a summary of credit operations for individuals or companies in the Brazilian Central Bank's Credit Information System (SCR), read-only via MCP.

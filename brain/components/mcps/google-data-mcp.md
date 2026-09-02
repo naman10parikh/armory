@@ -8,11 +8,13 @@ source_url: https://github.com/ducnhd/google-data-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T08:07:11Z"
 ---
 ## What it is
 MCP server providing access to Google Trends, YouTube listings, Google Ads Transparency, and Google Play reviews via plain HTTP, with no API key required. It caches results and paces requests to work within Google's informal rate limits.

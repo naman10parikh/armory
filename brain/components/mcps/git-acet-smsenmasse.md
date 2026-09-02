@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T10:08:02Z"
 ---
 ## What it is
 MCP server `SMS en Masse`, catalogued on PulseMCP. Send bulk SMS messages and manage campaigns directly from AI agents.

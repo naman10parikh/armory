@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-09T12:15:33Z"
 ---
 ## What it is
 Enables interaction with Bitbucket repositories through the Model Context Protocol, supporting code search, repository management, branch creation, pull requests, and more.

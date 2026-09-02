@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-15T03:40:45Z"
 ---
 ## What it is
 MCP server `Spire.XLS`, catalogued on PulseMCP. Provides Excel file manipulation through the Spire.XLS library, enabling creation, reading, modification, and conversion of Excel workbooks with support for formulas, charts, pivot tables, conditional formatting, and export to multiple formats including PDF, HTML, CSV, and images.

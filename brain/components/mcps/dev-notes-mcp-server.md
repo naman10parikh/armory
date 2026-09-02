@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T00:25:12Z"
 ---
 ## What it is
 Enables Claude Code to save, list, and read markdown notes directly from conversations, eliminating manual file management for project ideas, debugging notes, and meeting summaries.

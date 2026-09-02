@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T17:24:57Z"
 ---
 ## What it is
 Provides read-only visibility into Snowflake warehouse cost and query performance, including credit usage by warehouse, expensive queries, and heuristic right-sizing recommendations.

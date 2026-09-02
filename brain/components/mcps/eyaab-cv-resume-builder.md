@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-12-10T13:53:06Z"
 ---
 ## What it is
 MCP server `CV Resume Builder`, catalogued on PulseMCP. Automatically generates professional CVs and resumes by aggregating data from git commits, Jira tickets, Credly badges, and LinkedIn profiles to extract quantifiable metrics and format them into LaTeX-compatible documents.

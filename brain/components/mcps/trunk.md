@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-13T19:19:02Z"
 ---
 ## What it is
 MCP server `Trunk`, catalogued on PulseMCP. CI Autopilot tools for fixing failing tests

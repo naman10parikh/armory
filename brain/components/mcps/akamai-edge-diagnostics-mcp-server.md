@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T10:41:19Z"
 ---
 ## What it is
 Enables LLM clients to run Akamai edge diagnostics (DNS, MTR, curl, error analysis, etc.) and manage support cases via the Model Context Protocol.

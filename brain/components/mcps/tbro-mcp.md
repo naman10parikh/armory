@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T09:55:39Z"
 ---
 ## What it is
 An MCP server that provides web_search and web_fetch tools returning plain text via the tbro terminal browser to reduce token usage, with the trade-off of no JavaScript support.

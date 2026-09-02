@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-18T16:24:17Z"
 ---
 ## What it is
 MCP server `AgentMode`, catalogued on PulseMCP. All-in-one server that connects your coding AI to dozens of databases, data warehouses, data pipelines, cloud services, and more.

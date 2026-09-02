@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-11T15:31:02Z"
 ---
 ## What it is
 A production-grade MCP server providing a persistent Python REPL with multi-session support, sandboxing, and timeout protection, enabling LLM agents to execute Python code across multiple turns with variables that persist between calls.

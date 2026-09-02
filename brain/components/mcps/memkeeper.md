@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T22:40:09Z"
 ---
 ## What it is
 Local-first memory for AI agents. On-device hybrid retrieval over a single SQLite file.

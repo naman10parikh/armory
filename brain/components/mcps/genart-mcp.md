@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-29T06:47:15Z"
 ---
 ## What it is
 MCP server for creating and manipulating generative art with p5.js, Three.js, GLSL, Canvas2D, and SVG, featuring workspace management, parameter control, and screenshot capture.

@@ -8,10 +8,12 @@ source_url: https://github.com/biboyqg/wechat-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 198
+stars: 247
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 76
+pushed_at: "2026-03-09T19:49:18Z"
 ---
 ## What it is
 MCP server `WeChat`, catalogued on PulseMCP. Integrates with WeChat on macOS through accessibility APIs to enable automated message reading, sending, and contact management for customer service workflows and chat monitoring.

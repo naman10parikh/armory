@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T00:47:14Z"
 ---
 ## What it is
 MCP server for DefectDojo vulnerability management, exposing 24 tools for managing products, engagements, tests, findings, scan imports, and finding lifecycle through the Model Context Protocol.

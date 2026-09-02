@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T03:12:37Z"
 ---
 ## What it is
 An MCP server that gives AI agents eyes on any e-commerce storefront, enabling scraping, analysis, and comparison through the Model Context Protocol.

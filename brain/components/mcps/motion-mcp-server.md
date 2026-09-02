@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-10T09:40:19Z"
 ---
 ## What it is
 An open-source MCP server enabling AI assistants to interact with the Motion API for intelligent task and project management.

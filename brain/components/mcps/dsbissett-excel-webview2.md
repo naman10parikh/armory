@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T01:20:22Z"
 ---
 ## What it is
 MCP server `Excel WebView2`, catalogued on PulseMCP. Bridge Claude Code to Excel add-ins running in WebView2 via Chrome DevTools Protocol.

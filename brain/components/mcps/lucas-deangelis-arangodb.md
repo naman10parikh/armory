@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-22T11:10:16Z"
 ---
 ## What it is
 MCP server `ArangoDB`, catalogued on PulseMCP. Integrates ArangoDB databases into workflows, enabling dynamic querying and analysis of document-oriented and graph data via AQL and document retrieval.

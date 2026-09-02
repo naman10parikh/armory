@@ -8,10 +8,12 @@ source_url: https://github.com/avick3110/claude_mo2
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-04T22:32:13Z"
 ---
 ## What it is
 MCP server `Mod Organizer 2`, catalogued on PulseMCP. Connects AI assistants to Mod Organizer 2 for managing Skyrim SE mods with 29 specialized tools.

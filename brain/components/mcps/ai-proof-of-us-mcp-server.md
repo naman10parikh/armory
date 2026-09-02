@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-09-01T20:23:47Z"
 ---
 ## What it is
 Records privacy-preserving receipts for AI-assisted tasks and enables optional onchain reward claiming via AIPOU tokens. Integrates with MCP-compatible clients like Claude and Cursor.

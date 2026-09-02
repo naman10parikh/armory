@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T18:07:02Z"
 ---
 ## What it is
 MCP proxy that journals mutating tool calls and enables undo via compensation. It adds checkpoint, list_changes, undo_to, and explain_blast_radius meta-tools while forwarding all original downstream tools unchanged.

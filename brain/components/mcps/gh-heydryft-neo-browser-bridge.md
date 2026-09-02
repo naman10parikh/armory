@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-22T19:03:58Z"
 ---
 ## What it is
 MCP server `Neo Browser Bridge (heydryft)`, catalogued on PulseMCP. Accesses authenticated browser sessions for LinkedIn, Twitter/X, and WhatsApp through a companion Chrome extension.

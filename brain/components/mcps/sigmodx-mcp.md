@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T01:07:02Z"
 ---
 ## What it is
 Audit infrastructure for AI agents to log consequential decisions (invoice, GL, anomaly) and verify attestations via MCP tools.

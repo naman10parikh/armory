@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T19:07:18Z"
 ---
 ## What it is
 Provides IRS income and tax statistics by ZIP code, enabling LLM agents to query income distribution, tax liabilities, credits, and deductions for any U.S. ZIP code using public IRS SOI data without an API key.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T23:19:59Z"
 ---
 ## What it is
 Enables text-to-speech conversion using OpenAI's TTS API, with inline audio playback and history within MCP hosts like Claude.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T04:28:59Z"
 ---
 ## What it is
 Enables arXiv paper search, PDF download, text extraction, and context chunking for LLM pipelines, along with advanced features like citation graphs and reproducibility scoring.

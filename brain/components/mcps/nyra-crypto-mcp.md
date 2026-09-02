@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T03:00:31Z"
 ---
 ## What it is
 Real-time crypto momentum signals, 24h BTC forecasts, and market regime data for AI agents. 5 tools: get_signal, get_all_signals, get_forecast, get_market_context, ping. CoinGecko live fallback, optional x402 micropayments.

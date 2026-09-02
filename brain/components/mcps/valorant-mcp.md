@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T04:31:38Z"
 ---
 ## What it is
 MCP server for Valorant esports that enables querying match schedules, live results, AI-powered analysis, and setting reminders.

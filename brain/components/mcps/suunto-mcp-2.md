@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T01:36:25Z"
 ---
 ## What it is
 An MCP server for authoring and managing structured workouts (SuuntoPlus™ Guides) on Suunto watches, with swappable transports (file, Cloud API, or private mobile API) and a coach-oriented domain model that lowers to the display-oriented guide format.

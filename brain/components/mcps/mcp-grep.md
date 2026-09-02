@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-29T19:46:09Z"
 ---
 ## What it is
 A grep server implementation that exposes grep functionality through the Model Context Protocol (MCP), supporting natural language prompts and common grep options such as case-insensitive matching, context lines, and recursive searching.

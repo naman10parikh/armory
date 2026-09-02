@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T08:37:53Z"
 ---
 ## What it is
 Provides a secure MCP gateway for AI agents to access APIs without exposing raw credentials, with scoped access, audit logging, and OAuth support.

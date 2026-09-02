@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:20:18Z"
 ---
 ## What it is
 A control-plane MCP server for launching and supervising hcom-managed agents, running as a single persistent HTTP server to coordinate multiple sessions.

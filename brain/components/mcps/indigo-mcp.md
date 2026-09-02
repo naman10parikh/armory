@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T17:17:39Z"
 ---
 ## What it is
 MCP server for the INDIGO astronomy automation protocol, enabling AI agents to control telescopes, cameras, focusers, filter wheels, domes, and other observatory equipment through natural language.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-01T01:18:39Z"
 ---
 ## What it is
 MCP server `BounceProtect`, catalogued on PulseMCP. Email validation and SMTP verification for Claude Desktop, Cursor, and Claude Code.

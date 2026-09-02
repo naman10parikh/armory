@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T19:19:23Z"
 ---
 ## What it is
 Discover and query CDC public health datasets via the Socrata SODA API. Provides tools for dataset discovery, schema inspection, and SoQL queries, plus resources and a guided prompt for health trend analysis.

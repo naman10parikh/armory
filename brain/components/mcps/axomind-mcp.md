@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T19:08:41Z"
 ---
 ## What it is
 MCP server for Axomind — enables AI assistants to manage activities, mindmaps, and messages through a harmless proxy to the Bot API.

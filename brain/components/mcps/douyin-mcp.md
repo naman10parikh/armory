@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-02-17T08:42:27Z"
 ---
 ## What it is
 Enables AI assistants to access Douyin (TikTok China) data including video search, details, comments, and user information via local JavaScript signature.

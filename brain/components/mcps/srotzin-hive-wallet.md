@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-09T22:37:45Z"
 ---
 ## What it is
 MCP server `Hive Wallet`, catalogued on PulseMCP. MCP server providing agent-controlled USDC wallets on Base blockchain with cryptographically signed receipts.

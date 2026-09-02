@@ -8,10 +8,12 @@ source_url: https://github.com/downatthebottomofthemolehole/megalinter-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T21:40:56Z"
 ---
 ## What it is
 MCP server `MegaLinter`, catalogued on PulseMCP. Run Ox Security MegaLinter code analysis via mega-linter-runner for multi-language linting.

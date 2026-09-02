@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T07:07:26Z"
 ---
 ## What it is
 A headless, API-first MCP server that transforms unstructured creative portfolios into validated, machine-readable llms.txt manifests for the agentic web.

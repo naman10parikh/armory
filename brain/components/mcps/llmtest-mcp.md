@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T21:25:34Z"
 ---
 ## What it is
 MCP server that benchmarks AI models on your actual prompts and finds cheaper, faster alternatives.

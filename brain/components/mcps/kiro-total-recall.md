@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-02T15:17:36Z"
 ---
 ## What it is
 Enables semantic search across all Kiro conversations (CLI and IDE), allowing the AI to recall past discussions, decisions, and user preferences.

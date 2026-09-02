@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T11:55:36Z"
 ---
 ## What it is
 A FastMCP server for managing and deploying applications on Linux systems. It provides a secure interface for running system commands, managing packages, and deploying containerized applications.

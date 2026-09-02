@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T23:00:58Z"
 ---
 ## What it is
 An MCP server that provides AI assistants with full access to Notion workspaces, enabling search, read, create, and update pages, databases, and blocks.

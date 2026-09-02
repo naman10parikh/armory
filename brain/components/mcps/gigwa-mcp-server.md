@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-09T20:19:12Z"
 ---
 ## What it is
 An MCP server that interfaces with Gigwa for genotyping data import, analysis, and audit, enabling users to perform complex workflows through natural language commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T13:48:23Z"
 ---
 ## What it is
 Builds and serves local MCP-searchable documentation indexes for Daml, Canton, and related projects, enabling search and query of documentation through MCP tools.

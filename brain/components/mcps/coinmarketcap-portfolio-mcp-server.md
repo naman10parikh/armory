@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T14:14:25Z"
 ---
 ## What it is
 Transforms Claude AI into a personal crypto portfolio analyst, enabling wallet analysis, AI-powered recommendations, and portfolio tracking across 8+ blockchains through natural conversation.

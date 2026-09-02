@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T00:12:19Z"
 ---
 ## What it is
 MCP server `SysCAD`, catalogued on PulseMCP. Official MCP wrapper for SysCAD, a geometric CAD prototyping environment from Suzhou Tongyuan.

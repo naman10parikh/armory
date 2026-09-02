@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T18:10:16Z"
 ---
 ## What it is
 MCP server `Playwright Selector Guard`, catalogued on PulseMCP. Playwright test selector fragility analysis with healing suggestions, approval routing, and action receipts.

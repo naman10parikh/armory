@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T00:29:29Z"
 ---
 ## What it is
 MCP server for Nyxdoc, a document system where humans and external agents collaborate on documents with version history, agent to-dos, and workspace permissions.

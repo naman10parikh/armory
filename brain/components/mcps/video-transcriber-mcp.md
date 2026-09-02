@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-23T13:24:53Z"
 ---
 ## What it is
 Enables high-performance, offline transcription of videos from 1000+ platforms and local files using whisper.cpp, with support for multiple model sizes, languages, and output formats over stdio or HTTP.

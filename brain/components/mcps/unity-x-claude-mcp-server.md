@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T22:25:13Z"
 ---
 ## What it is
 An MCP server that provides 20 tools to control the Unity Editor with natural language, including scene management, component manipulation, script generation, asset handling, project settings, builds, and live C# execution.

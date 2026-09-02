@@ -8,10 +8,12 @@ source_url: https://github.com/joungminsung/opendocuments
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 110
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 22
+pushed_at: "2026-07-26T17:30:21Z"
 ---
 ## What it is
 MCP server `OpenDocuments`, catalogued on PulseMCP. Unified document search and retrieval across multiple platforms.

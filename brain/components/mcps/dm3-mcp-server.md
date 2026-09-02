@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T06:01:49Z"
 ---
 ## What it is
 An MCP server for the DM3 game engine that enables AI assistants to create, build, and run game projects, generate components, query documentation, and validate code.

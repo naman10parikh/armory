@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T18:01:41Z"
 ---
 ## What it is
 Exposes WebWeaver Nexus services — waitlist signup with embedded form, product overview, and contact info — to MCP-enabled hosts via Streamable HTTP.

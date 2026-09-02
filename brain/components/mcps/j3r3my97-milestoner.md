@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-08T18:47:57Z"
 ---
 ## What it is
 MCP server `Milestoner`, catalogued on PulseMCP. Automates build-in-public social media updates by analyzing git commit history and generating platform-appropriate milestone posts with optimal timing suggestions.

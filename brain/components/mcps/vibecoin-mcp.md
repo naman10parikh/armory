@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:38:09Z"
 ---
 ## What it is
 Drafts and deploys a coin from your repo to pump.fun's bonding curve on Solana, with local key management and fee recycling into an agent budget.

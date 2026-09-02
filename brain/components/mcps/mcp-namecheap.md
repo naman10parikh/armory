@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-07T18:15:56Z"
 ---
 ## What it is
 Comprehensive MCP server for the Namecheap API, enabling domain management, DNS record control, nameserver settings, and domain registration from any MCP client.

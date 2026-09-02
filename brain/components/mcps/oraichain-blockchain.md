@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-07T20:37:20Z"
 ---
 ## What it is
 MCP server `Oraichain Blockchain`, catalogued on PulseMCP. Enables AI interaction with the Oraichain blockchain for querying wallet balances, executing transactions, and retrieving blockchain data through a TypeScript implementation using CosmJS and Server-Sent Events.

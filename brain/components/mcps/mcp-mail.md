@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T23:08:51Z"
 ---
 ## What it is
 A mail-like coordination layer for coding agents, providing identities, inbox/outbox, searchable threads, and advisory file reservations to prevent conflicts in multi-agent workflows.

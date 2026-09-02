@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-08T00:52:04Z"
 ---
 ## What it is
 MCP server `DingDing Bot`, catalogued on PulseMCP. Integrates with DingDing (Dingtalk) to enable sending text and markdown messages to group chats through custom robot webhooks, supporting user mentions and formatted content for automated notification workflows.

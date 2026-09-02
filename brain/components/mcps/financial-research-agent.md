@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T22:20:03Z"
 ---
 ## What it is
 MCP server that exposes stock research tools (fundamentals, news, technicals, analyst ratings) to AI clients, enabling autonomous generation of structured investment briefs.

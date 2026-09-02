@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:16:21Z"
 ---
 ## What it is
 MCP server `IP Lookup`, catalogued on PulseMCP. Geolocates IP addresses and retrieves network metadata including country, region, and ISP via ip-api.com.

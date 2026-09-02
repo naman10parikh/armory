@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-10-10T21:16:47Z"
 ---
 ## What it is
 MCP server `Azure FHIR`, catalogued on PulseMCP. Provides secure access to Azure Health Data Services FHIR servers, enabling authenticated retrieval and search of healthcare resources across 70+ resource types for medical applications requiring standards-compliant patient data access.

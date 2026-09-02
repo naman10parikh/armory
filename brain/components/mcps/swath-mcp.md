@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T23:29:17Z"
 ---
 ## What it is
 Radar-verified storm intelligence for the continental US — NOAA MRMS hail and wind swaths, per-address storm history, affected-property reports, area monitors with webhook + email alerts, and swath map images. Boots keyless; free API key (100 credits) at swathapi.com.

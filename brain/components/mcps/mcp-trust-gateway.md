@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T02:45:26Z"
 ---
 ## What it is
 Enables trust, reputation, and economic accountability for MCP by proxying between clients and servers, enriching every tool invocation with trust evaluation, KYA tiers, spending limits, and delegation chains.

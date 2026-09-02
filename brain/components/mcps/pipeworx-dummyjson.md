@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:01:52Z"
 ---
 ## What it is
 MCP server `DummyJSON`, catalogued on PulseMCP. DummyJSON mock REST API: products, users, posts, recipes, todos, and test data. No authentication required.

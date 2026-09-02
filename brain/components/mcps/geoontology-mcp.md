@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T15:13:08Z"
 ---
 ## What it is
 A geographic ontology layer MCP server that exposes hierarchical relations, topological adjacency, toponym disambiguation, spatial operations, and geo-constraint verification, enabling LLMs to reason with geographic structures instead of raw SQL.

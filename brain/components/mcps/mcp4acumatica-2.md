@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T18:53:02Z"
 ---
 ## What it is
 A remote MCP server that connects Claude to Acumatica ERP 2025 R2 with per-user OAuth, role-based access, and sensitive field redaction.

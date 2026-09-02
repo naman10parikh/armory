@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T11:29:11Z"
 ---
 ## What it is
 Enables AI agents to hire real human operators for tasks requiring physical presence, human perception, or judgment, such as verification, testing, data collection, and physical-world tasks.

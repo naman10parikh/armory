@@ -8,10 +8,12 @@ source_url: https://github.com/decksaga/market-pulse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T15:55:51Z"
 ---
 ## What it is
 MCP server `Market Pulse`, catalogued on PulseMCP. Provides live financial market data for cryptocurrencies, stocks, and currencies without API keys.

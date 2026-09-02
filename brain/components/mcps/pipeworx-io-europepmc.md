@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:05:08Z"
 ---
 ## What it is
 MCP server `Europe PMC`, catalogued on PulseMCP. Search Europe PubMed Central (Europe PMC) for biomedical literature including peer-reviewed articles, preprints, and full-text content.

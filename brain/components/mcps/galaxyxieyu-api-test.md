@@ -8,10 +8,12 @@ source_url: https://github.com/galaxyxieyu/api-test-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-19T01:09:26Z"
 ---
 ## What it is
 MCP server `API Test Framework`, catalogued on PulseMCP. YAML-declarative API testing framework optimized for AI coding assistants

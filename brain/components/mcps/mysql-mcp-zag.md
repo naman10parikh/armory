@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-26T02:39:45Z"
 ---
 ## What it is
 Enables SQL query execution and database structure browsing via MCP tools and resources.

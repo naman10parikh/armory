@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T04:24:04Z"
 ---
 ## What it is
 A comprehensive quantitative finance MCP server providing live financial analysis, including price/risk metrics, HMM market regime detection, backtesting, options analytics, fundamentals, sentiment, Monte Carlo simulation, pairs trading, factor models, and portfolio optimization. It integrates with 

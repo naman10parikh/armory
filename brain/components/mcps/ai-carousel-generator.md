@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T10:45:47Z"
 ---
 ## What it is
 Enables AI clients to generate premium 4K carousel slides from a single instruction, combining expert copywriting, AI image generation, and premium typography compositing.

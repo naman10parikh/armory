@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T12:13:07Z"
 ---
 ## What it is
 MCP server that gives non-image-capable models like DeepSeek the ability to generate images using backends such as Qwen-Image, Seedream, and CogView, saving them locally and returning file paths instead of base64 data.

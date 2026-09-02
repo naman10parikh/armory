@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T11:47:20Z"
 ---
 ## What it is
 MCP server for generating and decoding barcodes, QR codes, and encoding RFID EPCs according to GS1 standards. All processing is local with no network calls.

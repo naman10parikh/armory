@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-01T03:25:19Z"
 ---
 ## What it is
 MCP server `Genesis Bio`, catalogued on PulseMCP. Structured access to 23 biomedical databases for drug discovery and protein research.

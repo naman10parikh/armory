@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-25T06:21:42Z"
 ---
 ## What it is
 MCP server `SealedMail`, catalogued on PulseMCP. Send and receive on-chain encrypted messages via SealedMail on the Sui blockchain.

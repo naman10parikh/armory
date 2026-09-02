@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T09:34:29Z"
 ---
 ## What it is
 An MCP server for Miro that provides 31 tools to interact with Miro boards, enabling board search, reading, layouts, diagrams, and more via public Miro APIs.

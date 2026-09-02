@@ -8,11 +8,13 @@ source_url: https://github.com/Lingnik/icloud-reminders-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-06T22:29:38Z"
 ---
 ## What it is
 Gives AI agents read and write access to Apple Reminders via iCloud CalDAV, syncing with iPhone/iPad and supporting lists shared via Family Sharing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-12-25T12:09:42Z"
 ---
 ## What it is
 An MCP server that transforms Claude Code into an intelligent refactoring assistant, enabling code scanning, hotspot detection, optimization reports, and safe refactoring for large repositories.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-25T17:32:27Z"
 ---
 ## What it is
 MCP interface for smbCloud

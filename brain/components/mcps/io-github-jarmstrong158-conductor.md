@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:42:15Z"
 ---
 ## What it is
 Conductor gives Claude persistent control of a local task runner, allowing automation of scripts, scheduling, pipelines, and email reports through natural language conversation.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T19:36:16Z"
 ---
 ## What it is
 MCP server `Daimonos`, catalogued on PulseMCP. Agent-optimized OS layer replacing verbose tool outputs with compact JSON to reduce token consumption by up to 45%.

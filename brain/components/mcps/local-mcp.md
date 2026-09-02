@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T18:37:18Z"
 ---
 ## What it is
 A lightweight, stdio-based MCP server enabling AI assistants to perform local file system operations like reading, writing, searching, and executing commands.

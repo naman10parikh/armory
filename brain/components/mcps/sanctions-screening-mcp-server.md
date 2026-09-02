@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T11:33:05Z"
 ---
 ## What it is
 Screens names and companies against OFAC, EU, UK, and UN sanctions lists with fuzzy-match scores, supporting bulk lookups for AML/KYC checks. Data is sourced directly from official government lists and cached for fast repeat checks.

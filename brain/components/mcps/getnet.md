@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:48Z"
 ---
 ## What it is
 Read-only MCP server for Getnet (Santander) enabling query of transactions, tokenized cards, and customers via the Digital Platform API.

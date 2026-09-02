@@ -8,10 +8,12 @@ source_url: https://github.com/vortiago/mcp-outline
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 150
+stars: 155
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 45
+pushed_at: "2026-08-05T04:41:20Z"
 ---
 ## What it is
 MCP server `Outline`, catalogued on PulseMCP. Enables AI systems to search, read, edit, and manage documents within Outline's knowledge management platform through direct API integration with both cloud and self-hosted instances.

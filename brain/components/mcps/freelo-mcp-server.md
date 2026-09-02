@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-12T18:16:40Z"
 ---
 ## What it is
 An unofficial MCP server that integrates Freelo project management with AI assistants (e.g., Cline, Claude) via the Freelo API, enabling task, project, and comment management through natural language.

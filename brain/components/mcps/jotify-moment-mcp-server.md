@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T06:24:02Z"
 ---
 ## What it is
 Enables AI agents to interact with Jotify Moment for publishing photo/text posts, uploading media, retrieving recent posts, and validating API tokens through natural language.

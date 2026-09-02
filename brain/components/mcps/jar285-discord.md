@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-15T01:32:51Z"
 ---
 ## What it is
 MCP server `Discord`, catalogued on PulseMCP. Provides a bridge between Discord and AI assistants, enabling comprehensive server management, channel operations, message handling, and community engagement through discord.js integration.

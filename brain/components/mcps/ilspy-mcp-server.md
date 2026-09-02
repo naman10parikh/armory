@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-13T09:45:59Z"
 ---
 ## What it is
 Exposes all major ILSpy CLI features as separate MCP tools for decompiling .NET assemblies, enabling automated end-to-end processing and structured JSON reports.

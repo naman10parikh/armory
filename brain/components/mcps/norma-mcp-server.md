@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-11T09:01:43Z"
 ---
 ## What it is
 Free hosted MCP server for EU compliance, enabling search across 8 frameworks, cross-framework mapping, policy generation, and gap assessment via natural language.

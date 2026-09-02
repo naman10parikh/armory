@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-27T07:38:41Z"
 ---
 ## What it is
 MCP server `Ghibli Video Generator`, catalogued on PulseMCP. Transforms static images into animated Ghibli-style videos through the GPT4O Image Generator API with tools for credit balance checking and task monitoring.

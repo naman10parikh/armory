@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T09:03:39Z"
 ---
 ## What it is
 基于REST API的Kimi Code CLI调试隧道，提供推送式全自动化session编排，支持多轮对话、实时流式响应和智能思考过滤。

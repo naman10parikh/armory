@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T08:40:00Z"
 ---
 ## What it is
 A Chinese-friendly, locally running MCP server for WeChat Mini Program engineering, helping developers break down ideas into actionable tasks, inspect projects, generate blueprints, and perform security scans.

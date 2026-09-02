@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:17:27Z"
 ---
 ## What it is
 Enables AI agents to search and recall Discord conversations, analyze community activity, participation, and growth, and optionally send messages when writes are enabled.

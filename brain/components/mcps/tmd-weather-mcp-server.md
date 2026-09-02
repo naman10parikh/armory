@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-08T02:54:42Z"
 ---
 ## What it is
 Provides weather data from the Thai Meteorological Department (TMD) with tools for querying stations, weather by province, and summaries, deployable via Docker or remote server.

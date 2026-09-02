@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T15:22:59Z"
 ---
 ## What it is
 A Windows desktop control MCP server that gives Claude eyes and hands—screen capture with coordinate-grid overlays, pixel-perfect DPI-correct mouse/keyboard input via a Rust backend, and direct PowerShell command execution, enabling full local desktop automation through natural language.

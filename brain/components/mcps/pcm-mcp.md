@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T01:44:51Z"
 ---
 ## What it is
 An MCP server for ABB/Hitachi Energy PCM600 that provides offline IEC 61850 SCL file analysis, .apcmp project archive inspection, ACT logic recovery, and safe read-only drive of the PCM600 CLI for project exports and validation.

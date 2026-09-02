@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T16:08:23Z"
 ---
 ## What it is
 A second opinion on any ticker, before you act. The case for it, the case against it, and the price that proves it wrong.

@@ -8,11 +8,13 @@ source_url: https://github.com/cwinvestments/memstack
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 414
+stars: 417
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 45
+pushed_at: "2026-08-27T11:40:02Z"
 ---
 ## What it is
 Enables Claude Code with 127 professional skills for deployment, security, databases, content, marketing, and more, activating automatically when needed.

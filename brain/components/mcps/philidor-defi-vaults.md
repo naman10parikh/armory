@@ -8,10 +8,12 @@ source_url: https://github.com/philidor-labs/philidor-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-02T14:36:02Z"
 ---
 ## What it is
 MCP server `Philidor DeFi Vault Risk Analytics`, catalogued on PulseMCP. Search 700+ DeFi vaults, compare risk scores, and analyze protocols across Morpho, Aave, Yearn, Beefy, and Spark.

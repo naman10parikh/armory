@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T11:54:20Z"
 ---
 ## What it is
 An AI-powered office assistant using LLM, RAG, and MCP tools to answer weather queries, retrieve information from documents, and automatically generate Excel and Word reports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-06-16T14:14:52Z"
 ---
 ## What it is
 Enables privileged access management for CyberArk Privilege Cloud through 53 tools for account management, safe management, platform management, and session monitoring.

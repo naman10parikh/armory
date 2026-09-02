@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T10:42:53Z"
 ---
 ## What it is
 Exposes six hospital metric tools (entity resolution, member search, cube querying, measure definitions, why-question resolution, investigation execution) as a thin wrapper around FastAPI backend services.

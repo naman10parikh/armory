@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-21T08:23:28Z"
 ---
 ## What it is
 A Node.js MCP server that enables LLM tools to list and read local guide and prompt files for Creatio development, facilitating seamless communication between AI assistants and Creatio-specific documentation.

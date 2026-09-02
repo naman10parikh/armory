@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T03:44:35Z"
 ---
 ## What it is
 Enables AI assistants to assess any parcel for micro-farm viability (climate, water, farmland context, access, flood risk) and dwelling feasibility, and to find real land for sale from free, keyless public data sources.

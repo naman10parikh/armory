@@ -8,11 +8,13 @@ source_url: https://github.com/AytuncYildizli/yapitalism
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T19:33:38Z"
 ---
 ## What it is
 Local MCP server enabling voice-controlled terminal coding agents with verified action receipts, distinguishing proven acceptance from unconfirmed writes.

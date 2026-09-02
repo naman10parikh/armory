@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T01:02:25Z"
 ---
 ## What it is
 An MCP server that lets Claude answer ARK: Survival Ascended / Evolved questions by querying the ARK community wiki for taming, crafting, spawns, and stats.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T17:55:29Z"
 ---
 ## What it is
 Agent-first cyberinfrastructure layer for DesignSafe that enables reproducible computational science workflows (geotechnical earthquake engineering with OpenSees), from planning and validation through approved execution, with provenance and tested snippet grounding.

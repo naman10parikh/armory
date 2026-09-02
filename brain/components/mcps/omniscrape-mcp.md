@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T16:29:06Z"
 ---
 ## What it is
 A free, open-source point-and-click web scraper that connects your browser to Claude over the Model Context Protocol, allowing you to highlight elements on any page and scrape them without manual copying.

@@ -8,10 +8,12 @@ source_url: https://github.com/haseebkhalid1507/velocirag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-05T20:20:06Z"
 ---
 ## What it is
 MCP server `VelociRAG`, catalogued on PulseMCP. Lightning-fast RAG engine with four-layer retrieval fusion powered by ONNX Runtime for sub-200ms search without PyTorch.

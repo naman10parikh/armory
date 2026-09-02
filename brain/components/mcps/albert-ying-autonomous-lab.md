@@ -8,10 +8,12 @@ source_url: https://github.com/albert-ying/autonomous-lab
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-03-25T23:50:44Z"
 ---
 ## What it is
 MCP server `Autonomous Lab`, catalogued on PulseMCP. Turns Senior-Junior workflows into autonomous loops where AI handles execution and humans make editorial decisions.

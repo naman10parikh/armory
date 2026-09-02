@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-16T08:34:50Z"
 ---
 ## What it is
 MCP server `YouTube Downloader`, catalogued on PulseMCP. Bridges AI systems with YouTube content through yt-dlp, enabling video information extraction and downloading capabilities for content analysis and media processing.

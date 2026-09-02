@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-29T02:19:48Z"
 ---
 ## What it is
 MCP server `Clipboard`, catalogued on PulseMCP. Provides cross-platform clipboard access through native OS commands, enabling reading and writing clipboard content with automatic OS detection and fallback support across macOS, Windows, and Linux systems.

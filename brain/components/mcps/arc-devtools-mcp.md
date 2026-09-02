@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T00:05:53Z"
 ---
 ## What it is
 MCP server enabling AI agents to control and inspect Chrome/Arc browsers via DevTools, with Arc-specific tab reuse.

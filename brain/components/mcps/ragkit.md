@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:21:26Z"
 ---
 ## What it is
 A self-hostable, MCP-native RAG pipeline that ingests, indexes, and serves data, enabling AI agents to scan codebases for prioritized findings and integrate with CI workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-14T15:56:40Z"
 ---
 ## What it is
 Enables AI agents to create, manage, and populate Spotify playlists using the Spotify Web API.

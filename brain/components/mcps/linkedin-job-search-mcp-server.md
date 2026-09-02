@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-11T03:16:38Z"
 ---
 ## What it is
 Enables AI assistants to search LinkedIn jobs with built-in rate limiting to prevent IP bans. Supports job search, filtering, company profiles, and job categories through MCP tools.

@@ -8,10 +8,12 @@ source_url: https://github.com/wei/mcp-registry-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-13T20:44:46Z"
 ---
 ## What it is
 MCP server `MCP Registry`, catalogued on PulseMCP. Integrates with the official Model Context Protocol registry to provide server discovery, metadata retrieval, version information, and health status monitoring with filtered searches and pagination support.

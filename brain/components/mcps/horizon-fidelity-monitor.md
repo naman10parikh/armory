@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T14:59:03Z"
 ---
 ## What it is
 Real-time conversation health monitor for AI agents that tracks structural dynamics like semantic drift and information gain using deterministic arithmetic, without calling an LLM.

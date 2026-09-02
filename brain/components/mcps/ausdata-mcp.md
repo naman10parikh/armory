@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T03:55:54Z"
 ---
 ## What it is
 MCP server providing one-call access to 100+ curated Australian government datasets across 9 sources, including ABS, RBA, ATO, and more.

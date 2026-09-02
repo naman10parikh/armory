@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:12:32Z"
 ---
 ## What it is
 MCP server for RNA-seq downstream analysis, wrapping R scripts to generate plots and perform analyses like PCA, volcano, heatmap, enrichment, and WGCNA.

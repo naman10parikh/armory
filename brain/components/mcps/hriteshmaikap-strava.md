@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-07T17:23:15Z"
 ---
 ## What it is
 MCP server `Strava`, catalogued on PulseMCP. MCP server for accessing Strava running activity data and generating personalized training plans.

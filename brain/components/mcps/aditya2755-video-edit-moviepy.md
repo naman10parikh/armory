@@ -8,10 +8,12 @@ source_url: https://github.com/aditya2755/video-edit-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-07-30T19:00:30Z"
 ---
 ## What it is
 MCP server `Video Edit (MoviePy)`, catalogued on PulseMCP. MoviePy-based video editing server that provides comprehensive video and audio processing capabilities including trimming, merging, resizing, effects, format conversion, YouTube downloading, and text/image overlays through an in-memory object store for chaining operations efficiently.

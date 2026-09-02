@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T08:37:41Z"
 ---
 ## What it is
 MCP server for enterprise authentication and authorization — JWT validation, OIDC token inspection, OAuth 2.0 introspection, and role-based access control for AI agents.

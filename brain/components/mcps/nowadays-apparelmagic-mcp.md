@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T03:52:31Z"
 ---
 ## What it is
 OAuth proxy that lets ChatGPT securely access the ApparelMagic MCP endpoint without exposing the API key, handling authorization and authenticated proxying of MCP requests.

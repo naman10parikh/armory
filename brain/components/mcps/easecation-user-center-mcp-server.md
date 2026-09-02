@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T06:37:53Z"
 ---
 ## What it is
 An MCP server for the EaseCation user center that provides admin and user tools to interact with UC backend services.

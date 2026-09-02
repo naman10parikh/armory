@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:47:25Z"
 ---
 ## What it is
 MCP server to look up Mexican personal registration data (CURP) for a person. Read-only, hosted service with prepaid credits.

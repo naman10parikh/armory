@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-19T00:46:47Z"
 ---
 ## What it is
 一个基于FastMCP协议的文件向量化服务，支持自动目录监控、多格式文件处理和高效向量搜索，帮助构建个人或团队知识库。

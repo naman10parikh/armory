@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T14:57:55Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that gives Claude a persistent personal notebook. Notes are stored on disk as JSON, so they survive restarts and are shared across every tool and resource.

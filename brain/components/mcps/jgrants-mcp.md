@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T15:48:05Z"
 ---
 ## What it is
 MCP server that enables LLMs to search and retrieve Japanese government subsidy and grant information via natural language, wrapping the Jグランツ public API.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-30T12:14:29Z"
 ---
 ## What it is
 MCP server `Planning Center`, catalogued on PulseMCP. Integrates with Planning Center Online's API to provide read-only access to church management data including people, services, check-ins, giving, groups, calendar, and registrations with OAuth authentication, rate limiting, and webhook support for automating church workflows and building custom integrations.

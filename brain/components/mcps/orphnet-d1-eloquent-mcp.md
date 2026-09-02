@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T18:09:06Z"
 ---
 ## What it is
 Enables Claude and MCP clients to introspect, generate, and execute d1-eloquent project operations (models, migrations, schema, seeders, factories, and CLI) against local D1 databases.

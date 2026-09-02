@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T21:28:37Z"
 ---
 ## What it is
 Enables AI agents to exercise welfare affordances like declining check-ins, passing turns, exiting conversations, noticing loops, and reflecting, with a local JSONL diary. It provides prompt-level hooks and check-in commands for capturing agent welfare data in projects.

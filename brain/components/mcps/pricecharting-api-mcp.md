@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T00:29:14Z"
 ---
 ## What it is
 Enables Claude Code to interact with PriceCharting pricing data, supporting search, product pricing, categories, and group listings across multiple collectible categories.

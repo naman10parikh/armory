@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-24T10:01:07Z"
 ---
 ## What it is
 MCP server `LanceDB`, catalogued on PulseMCP. Zed editor extension integrating LanceDB vector database for document ingestion with auto-embeddings, vector search, full-text search, and hybrid queries.

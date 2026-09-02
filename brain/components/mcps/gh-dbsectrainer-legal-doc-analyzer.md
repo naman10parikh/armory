@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T22:29:40Z"
 ---
 ## What it is
 MCP server `Legal Document Analyzer`, catalogued on PulseMCP. Extract clauses from contracts, flag risky provisions, check compliance against configurable templates, and compare document versions at the clause level.

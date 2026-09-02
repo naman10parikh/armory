@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T12:55:52Z"
 ---
 ## What it is
 Provides AI-readiness assessment and improvement tools for AI agents, including code scanning, issue remediation, and contextual data via MCP.

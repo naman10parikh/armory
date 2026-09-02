@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-17T21:53:51Z"
 ---
 ## What it is
 Enables AI image generation via multiple providers (Yunwu, Gemini) with customizable aspect ratios, resolutions, and output settings, seamlessly integrating with MCP-compatible clients.

@@ -8,10 +8,12 @@ source_url: https://github.com/run-as-root/warden-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-04T07:15:08Z"
 ---
 ## What it is
 MCP server `Warden Magento`, catalogued on PulseMCP. Integrates with Warden and Magento 2 development environments to automate Docker-based workflows including project lifecycle management, database operations, PHP script execution, Magento CLI commands, PHPUnit testing, and Composer package management with customizable stack configurations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T11:39:17Z"
 ---
 ## What it is
 Bridges Claude (or any MCP client) to manufacturing data via the i3X standard, enabling natural language queries about equipment status, hierarchy, and historical trends.

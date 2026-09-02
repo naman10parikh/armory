@@ -8,10 +8,12 @@ source_url: https://github.com/zongmin-yu/sqlite-literature-management-fastmcp-m
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-03-09T12:04:13Z"
 ---
 ## What it is
 MCP server `SQLite Literature Manager`, catalogued on PulseMCP. Integrates literature management operations with knowledge graphs to enable flexible paper tracking, structured note-taking, and research trend analysis.

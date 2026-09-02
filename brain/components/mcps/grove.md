@@ -8,10 +8,12 @@ source_url: https://github.com/pokt-network/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-18T18:12:42Z"
 ---
 ## What it is
 MCP server `Grove`, catalogued on PulseMCP. Provides direct access to blockchain data across 100+ networks through Grove's public RPC infrastructure, enabling natural language queries and JSON-RPC method calls with intelligent endpoint selection for reliable multi-chain data retrieval.

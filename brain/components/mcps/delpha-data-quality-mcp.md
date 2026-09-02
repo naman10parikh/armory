@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-05T08:31:14Z"
 ---
 ## What it is
 Enables AI-driven data quality operations such as validation, enrichment, and deduplication for customer data fields including email, address, phone, and LinkedIn profiles through natural language interactions.

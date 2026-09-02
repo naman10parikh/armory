@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-11T09:56:11Z"
 ---
 ## What it is
 Calculates WorldQuant 101 Alpha factors using real-time Chinese stock market data from Tushare.

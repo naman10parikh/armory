@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-15T06:46:53Z"
 ---
 ## What it is
 An MCP server that wraps instagrapi to read, engage, and send DMs from a personal Instagram account, supporting 24 tools for auth, profile, engagement, and messages.

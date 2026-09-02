@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T20:29:09Z"
 ---
 ## What it is
 Minimal high-performance MCP server for semantic code indexing and vector search using Bun, SQLite, and Tree-Sitter. It enables AI agents to index, search, and manage codebases via tools like code_index_search and code_index_start.

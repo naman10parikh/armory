@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:54Z"
 ---
 ## What it is
 MCP server to query official Santa Catarina state tax clearance certificates (Certidão Negativa de Débitos) from SEFAZ SC, read-only, hosted, and pay-per-use.

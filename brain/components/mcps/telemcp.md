@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T17:38:25Z"
 ---
 ## What it is
 An MCP server that gives AI assistants read-only access to your personal Telegram account via MTProto, enforcing a whitelist of allowed chats and never marking messages as read.

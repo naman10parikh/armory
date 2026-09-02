@@ -8,10 +8,12 @@ source_url: https://github.com/reading-plus-ai/mcp-server-deep-research
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 209
+stars: 214
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2025-03-25T15:50:11Z"
 ---
 ## What it is
 MCP server `Deep Research`, catalogued on PulseMCP. Guides structured research processes through systematic question elaboration, web searching, and data synthesis to produce well-cited, properly formatted reports for educational and professional contexts.

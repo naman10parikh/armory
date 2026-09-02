@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T22:40:07Z"
 ---
 ## What it is
 Enables natural language-powered ETL workflows using Airflow, AWS Glue, Athena, and S3, allowing LLM agents to control and monitor data infrastructure.

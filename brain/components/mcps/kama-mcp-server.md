@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T15:03:20Z"
 ---
 ## What it is
 MCP server that auto-discovers Kama CRM API endpoints from OpenAPI spec and exposes them as tools for AI agents to perform CRM operations via natural language.

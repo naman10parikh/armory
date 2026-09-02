@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-09T20:52:22Z"
 ---
 ## What it is
 Connects your TastyTrade trading account to AI assistants like Claude Desktop and ChatGPT for conversational trading and portfolio management.

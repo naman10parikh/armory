@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-31T02:29:33Z"
 ---
 ## What it is
 A dependency-free MCP server that reads Reddit through its RSS feeds, enabling search, browsing subreddits, and reading post comments without any API keys or authentication.

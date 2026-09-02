@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T10:21:44Z"
 ---
 ## What it is
 Enables querying Google Analytics 4 traffic, engagement, and conversions, as well as Google Search Console performance, index status, and sitemap management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-04-27T06:31:34Z"
 ---
 ## What it is
 Enables browsing and managing CKAN data portals through MCP-compatible clients like Claude Desktop.

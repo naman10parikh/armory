@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T02:21:58Z"
 ---
 ## What it is
 Enables reading and writing WiseGrid sheets, including listing sheets, paginating rows, adding and updating records, and running reports, all from an MCP client with API key authentication.

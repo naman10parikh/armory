@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T06:44:33Z"
 ---
 ## What it is
 A local MCP server for IG's REST Trading API, providing account/history, market data, position, working-order, and trade-confirmation tools with guarded OTC trade actions.

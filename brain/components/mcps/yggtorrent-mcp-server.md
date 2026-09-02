@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-30T16:33:01Z"
 ---
 ## What it is
 Enables searching and downloading torrents from YggTorrent via MCP tools such as search_torrents, get_torrent_details, get_magnet_link, and download_torrent_file.

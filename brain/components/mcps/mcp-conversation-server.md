@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-29T13:19:15Z"
 ---
 ## What it is
 A CLI-based MCP server for managing conversation sessions, history, and multi-language support, enabling creation, switching, deletion of sessions, saving and searching messages, and exporting data.

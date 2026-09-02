@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-07-01T15:22:19Z"
 ---
 ## What it is
 Turns a shopping list FastAPI app into an MCP server, enabling a LangGraph chatbot to manage shopping lists via natural language.

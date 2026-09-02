@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T18:32:04Z"
 ---
 ## What it is
 MCP server for GoHighLevel documentation, enabling agents to search docs, list endpoints, and fetch focused API details without loading large files.

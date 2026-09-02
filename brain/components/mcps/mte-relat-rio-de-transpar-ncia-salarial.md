@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:57Z"
 ---
 ## What it is
 Read-only MCP server for querying official salary transparency reports from MTE (Brazilian Ministry of Labor) via natural language, using a hosted service with prepaid credits.

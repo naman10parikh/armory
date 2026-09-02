@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T06:26:00Z"
 ---
 ## What it is
 An MCP server that dynamically registers prompt templates from local files and serves them to clients with the assistant role.

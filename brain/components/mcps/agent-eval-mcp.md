@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T10:09:18Z"
 ---
 ## What it is
 An MCP-style stdio server for evaluating AI agent outputs, enabling CI-friendly quality gates, regression comparisons, and canary promotion decisions.

@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-11T05:36:22Z"
 ---
 ## What it is
 MCP server `OpenStreetMap Tagging Schema`, catalogued on PulseMCP. Query and validate OpenStreetMap tags with preset discovery and validation tools

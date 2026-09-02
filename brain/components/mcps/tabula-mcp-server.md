@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:38:12Z"
 ---
 ## What it is
 A shared memory layer for AIs that lets users save durable facts and recall them across different AI clients, eliminating repetition.

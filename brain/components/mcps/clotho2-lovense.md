@@ -8,10 +8,12 @@ source_url: https://github.com/clotho2/wolfe-lovense
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-21T21:37:25Z"
 ---
 ## What it is
 MCP server `Lovense`, catalogued on PulseMCP. Integrates with Lovense adult toy devices through their Game Mode API to enable interactive applications, automated responses, and physical feedback mechanisms.

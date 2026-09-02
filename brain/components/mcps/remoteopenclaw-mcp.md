@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-02T11:15:01Z"
 ---
 ## What it is
 Enables AI agents to search a directory of 13,870+ MCP servers, 4,384+ agent skills, and plugins from Remote OpenClaw, returning install commands directly.

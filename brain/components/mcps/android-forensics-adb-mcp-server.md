@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-23T07:30:16Z"
 ---
 ## What it is
 Enables forensic investigators to acquire data from Android devices via ADB, including device backup, artifact collection, and secure command execution.

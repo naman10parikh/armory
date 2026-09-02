@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:30:15Z"
 ---
 ## What it is
 Enables AI agents to act as local Android developers with compilation, emulator, asset management, and diagnostics capabilities for a closed-loop build cycle.

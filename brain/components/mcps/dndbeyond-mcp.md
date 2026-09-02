@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T11:10:23Z"
 ---
 ## What it is
 Enables AI assistants to manage D&D Beyond characters, access campaigns, and look up spells, monsters, items, and more through a reverse-engineered API.

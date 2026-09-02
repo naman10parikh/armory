@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T12:24:38Z"
 ---
 ## What it is
 A secure multi-LLM gateway with dual REST and MCP interfaces, enabling tool-gated access to AI providers and web search with structural sandboxing.

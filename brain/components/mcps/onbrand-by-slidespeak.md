@@ -8,11 +8,13 @@ source_url: https://github.com/SlideSpeak/slidespeak-onbrand
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T05:35:58Z"
 ---
 ## What it is
 An MCP server that feeds AI agents your brand's real logos, colors, fonts, and approved slide layouts, so every deck and document comes out on brand the first time.

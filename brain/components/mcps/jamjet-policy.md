@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T13:41:18Z"
 ---
 ## What it is
 Drop-in stdio interceptor that gates MCP tools/call requests through a YAML policy (block / require_approval / audit / budget cap) before they reach the real server. The same policy file is reused by @jamjet/claude-code-hook and @jamjet/openai-guardrail, so one rule set covers Claude Desktop, Cursor

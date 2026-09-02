@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:03:43Z"
 ---
 ## What it is
 Enables AI assistants to capture website screenshots and record videos of web pages by providing tools for taking screenshots, recording videos, and checking video status.

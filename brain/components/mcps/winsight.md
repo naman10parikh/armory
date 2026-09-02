@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-23T20:14:53Z"
 ---
 ## What it is
 MCP server `WinSight`, catalogued on PulseMCP. Windows screen capture MCP server for Claude Code.

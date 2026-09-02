@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T20:38:41Z"
 ---
 ## What it is
 MCP server for downloading images from Figma designs using access tokens. Supports multiple export formats and scale factors via a single tool.

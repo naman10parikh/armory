@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T01:52:18Z"
 ---
 ## What it is
 Enables read and write access to the Celo blockchain including balance checks, token transfers, swaps, agent identity (ERC-8004), and x402 micropayments, returning unsigned transactions for user signing.

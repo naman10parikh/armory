@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T17:46:48Z"
 ---
 ## What it is
 A model context protocol server example collection that demonstrates tool integration, stdio and HTTP transports, and LangChain adapters for building AI-powered applications.

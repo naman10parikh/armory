@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T21:43:30Z"
 ---
 ## What it is
 Wraps the Skosmos REST API to enable AI assistants to browse, search, and traverse SKOS vocabularies via MCP tools and resources.

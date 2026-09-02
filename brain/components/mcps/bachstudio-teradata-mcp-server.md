@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-04T05:38:33Z"
 ---
 ## What it is
 MCP server for Teradata databases, providing tools and prompts for querying, analyzing, and managing data through AI agents.

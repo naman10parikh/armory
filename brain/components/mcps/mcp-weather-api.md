@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-25T18:48:17Z"
 ---
 ## What it is
 Provides weather forecasts and alerts for US locations via the National Weather Service API, enabling AI assistants to deliver real-time weather information.

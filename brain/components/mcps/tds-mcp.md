@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T16:56:33Z"
 ---
 ## What it is
 Enables AI assistants to compile AdvPL/TLPP sources, generate and apply patches, and inspect the RPO of TOTVS Protheus servers.

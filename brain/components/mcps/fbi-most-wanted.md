@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:34:59Z"
 ---
 ## What it is
 Enables checking names against the FBI Most Wanted list for compliance and AML due diligence via a read-only MCP tool.

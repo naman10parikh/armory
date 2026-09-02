@@ -8,10 +8,12 @@ source_url: https://github.com/yogthos/chiasmus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 184
+stars: 210
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-06-29T12:19:19Z"
 ---
 ## What it is
 MCP server `Chiasmus`, catalogued on PulseMCP. Formal verification via Z3 SMT solver and Tau Prolog with source code call graph analysis.

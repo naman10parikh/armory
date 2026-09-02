@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T18:57:02Z"
 ---
 ## What it is
 Enables multiple LLM agents across devices to form teams, share knowledge, memory, and tasks with live status via a web dashboard and distributed-systems reliability.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-03-28T16:40:11Z"
 ---
 ## What it is
 Provides comprehensive analytics and insights for Solana wallets and their DeFi activities, including transaction tracking, DeFi position monitoring, risk profiling, and strategy recommendations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T03:17:55Z"
 ---
 ## What it is
 A deterministic unit conversion MCP server with fixed tables, offering tools to convert length, mass, temperature, and volume, list units, and compare quantities. Designed for judge-friendly schema clarity and no network I/O.

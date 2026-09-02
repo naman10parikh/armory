@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 23
+pushed_at: "2026-06-16T15:01:20Z"
 ---
 ## What it is
 Enables D365 F\&O development including object creation, modification, deletion, and analysis through the MCP standard.

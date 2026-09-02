@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T20:26:33Z"
 ---
 ## What it is
 Collects page performance metrics using Playwright, CDP, and Lighthouse, and returns a normalized PerformanceReport.

@@ -8,11 +8,13 @@ source_url: https://github.com/markolauren/ResponseMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-02-03T20:15:59Z"
 ---
 ## What it is
 Enables agentic SecOps by executing Microsoft Defender XDR response actions (device isolation, antivirus scans, forensic collection, incident management) through natural language with orchestrators like GitHub Copilot.

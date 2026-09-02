@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-03T11:49:33Z"
 ---
 ## What it is
 Enables sending messages, managing templates, uploading media, and configuring webhooks for WhatsApp Business via the MCP protocol.

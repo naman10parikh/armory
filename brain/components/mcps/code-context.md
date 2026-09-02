@@ -12,6 +12,8 @@ stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-11-13T14:04:09Z"
 ---
 ## What it is
 MCP server `Code Context (Semantic Code Search)`, catalogued on PulseMCP. Enables semantic code search and understanding by cloning git repositories, splitting code into semantic chunks, and generating embeddings for natural language querying of large codebases

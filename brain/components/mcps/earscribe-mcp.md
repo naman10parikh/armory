@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:28:19Z"
 ---
 ## What it is
 Provides read-only access to EarScribe's local-first AI transcription knowledge, including setup guidance, FAQ, and official links, for MCP-compatible AI clients like Claude Desktop and Cursor.

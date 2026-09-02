@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-13T13:58:06Z"
 ---
 ## What it is
 MCP server `Checkup`, catalogued on PulseMCP. Diagnoses token costs, schema bloat, duplicate tools, and optimization opportunities across installed servers.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T11:31:45Z"
 ---
 ## What it is
 MCP server `OpenVan`, catalogued on PulseMCP. Vanlife and RV travel data including fuel prices, currency rates, events, and news via the OpenVan.camp API, free with no authentication.

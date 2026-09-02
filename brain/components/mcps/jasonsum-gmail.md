@@ -8,10 +8,12 @@ source_url: https://github.com/jasonsum/gmail-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 73
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 38
+pushed_at: "2025-02-01T14:26:00Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. Integrates with Gmail API to enable email operations like sending, managing labels, and searching messages.

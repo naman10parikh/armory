@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:54:52Z"
 ---
 ## What it is
 MCP server that queries employment bonds (vínculos empregatícios) associated with a company using its CNPJ, offering a single read-only tool for retrieval. Works with any MCP client over HTTP with prepaid credits.

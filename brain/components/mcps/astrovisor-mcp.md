@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-27T21:56:57Z"
 ---
 ## What it is
 Enables interaction with the AstroVisor API through MCP, automatically synced to the OpenAPI schema for dynamic tool discovery and execution.

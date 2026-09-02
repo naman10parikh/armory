@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T10:25:33Z"
 ---
 ## What it is
 MCP server for managing academic LaTeX projects in Overleaf: create projects, transfer files, compile documents, inspect compiler output, and download PDFs.

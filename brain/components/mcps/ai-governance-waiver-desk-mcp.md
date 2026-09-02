@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T08:28:49Z"
 ---
 ## What it is
 Enables AI governance teams to evaluate waiver requests, approve policy exceptions, check expiry, issue receipts, and export audit logs for AI use cases and model risk.

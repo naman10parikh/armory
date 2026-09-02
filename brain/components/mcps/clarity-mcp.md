@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T04:51:20Z"
 ---
 ## What it is
 MCP server for Microsoft Clarity Data Export API, providing tools to retrieve traffic, popular pages, engagement metrics, and user behavior insights such as dead clicks, rage clicks, and script errors. Supports multiple projects with daily quota management and shared caching.

@@ -8,10 +8,12 @@ source_url: https://github.com/karan-vk/mcp-server-git-rs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T01:15:44Z"
 ---
 ## What it is
 MCP server `Git (Rust)`, catalogued on PulseMCP. Fast Rust MCP server providing 52 git operation tools over stdio, with modular optional feature groups for extended git functionality.

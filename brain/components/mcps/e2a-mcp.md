@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 23
+pushed_at: "2026-09-01T20:54:45Z"
 ---
 ## What it is
 Authenticated email service MCP for AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T10:05:20Z"
 ---
 ## What it is
 A read-only MCP server that enables AI assistants to query Freshsales CRM data (leads, contacts, deals, accounts) via search, saved views, and record lookup.

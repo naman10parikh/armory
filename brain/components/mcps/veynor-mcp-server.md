@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T23:19:08Z"
 ---
 ## What it is
 Prediction market intelligence for AI agents, enabling real-time access to whale trades, market data, signals, and AI-synthesized analysis from Kalshi and Polymarket via a standardized protocol.

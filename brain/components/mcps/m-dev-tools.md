@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-03T13:19:29Z"
 ---
 ## What it is
 MCP server `M Dev Tools`, catalogued on PulseMCP. Development tool discovery and verification catalog exposing route intent, describe, and verify tools for the m-dev-tools ecosystem.

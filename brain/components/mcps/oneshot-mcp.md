@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:59:58Z"
 ---
 ## What it is
 Enables coding agents to search and retrieve OneShot's receipt-verified build packs, including verification details, pricing, and refund terms, directly from the editor.

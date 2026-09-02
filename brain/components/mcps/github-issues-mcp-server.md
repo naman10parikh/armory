@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T14:28:43Z"
 ---
 ## What it is
 Enables AI assistants to discover, filter, and triage GitHub issues across repositories, with tools for fetching issue details, listing issues by state/labels, and finding related pull requests.

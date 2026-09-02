@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-25T18:10:10Z"
 ---
 ## What it is
 Connects AI agents to decentralized, community-built APIs on Solana, enabling autonomous discovery, payment, and execution of tools without subscriptions or API keys.

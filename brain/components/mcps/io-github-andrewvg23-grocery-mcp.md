@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T02:47:35Z"
 ---
 ## What it is
 A dedicated MCP and REST service that searches grocery retailers directly and returns reviewable product links, enabling users to find products and create handoffs without adding to carts or placing orders.

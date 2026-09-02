@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-04T17:43:15Z"
 ---
 ## What it is
 Provides Large Language Models with real-time access to the latest documentation for Python libraries like Langchain, LlamaIndex, and OpenAI, enabling accurate and up-to-date code suggestions.

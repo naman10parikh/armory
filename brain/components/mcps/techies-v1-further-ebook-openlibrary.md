@@ -8,10 +8,12 @@ source_url: https://github.com/techies-v1/futher-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T17:24:54Z"
 ---
 ## What it is
 MCP server `Further (Ebook & OpenLibrary)`, catalogued on PulseMCP. Combines ebook processing with OpenLibrary, Gutenberg, and Standard Ebooks discovery for metadata extraction, chapter conversion, and automated book search pipelines.

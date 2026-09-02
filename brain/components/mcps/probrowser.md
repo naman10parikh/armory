@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:24:21Z"
 ---
 ## What it is
 Enables AI agents to control a user's real browser through the Model Context Protocol, attaching to existing browser sessions over CDP to preserve cookies and logins, with human-like input simulation, DOM/vision hybrid interaction, and CAPTCHA handling for anti-detection automation.

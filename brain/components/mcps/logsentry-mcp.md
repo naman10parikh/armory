@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T04:03:47Z"
 ---
 ## What it is
 Enables AI-powered centralized log monitoring and Q\&A for GCP Java microservices, allowing log query, service health checks, and anomaly detection through MCP tools.

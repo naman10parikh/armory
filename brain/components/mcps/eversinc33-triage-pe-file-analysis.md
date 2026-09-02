@@ -8,10 +8,12 @@ source_url: https://github.com/eversinc33/triagemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 77
+stars: 78
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-12-01T05:21:33Z"
 ---
 ## What it is
 MCP server `TriageMCP (PE File Analysis)`, catalogued on PulseMCP. Integrates with multiple security tools to perform static analysis of PE files, extracting critical information like import tables, metadata, strings, and malware capabilities for rapid triage of suspicious Windows executables.

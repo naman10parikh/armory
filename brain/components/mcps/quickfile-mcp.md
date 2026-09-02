@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T20:41:36Z"
 ---
 ## What it is
 MCP server for the Quickfile REST API v2, supporting multi-account and secret-isolated configurations with 45 tools for managing Quickfile data.

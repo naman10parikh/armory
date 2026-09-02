@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-12T00:10:44Z"
 ---
 ## What it is
 Enables AI systems to securely query databases using structured intents (MDBP) with automatic schema discovery and policy enforcement.

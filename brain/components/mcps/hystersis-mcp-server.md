@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:59:51Z"
 ---
 ## What it is
 Connects AI assistants to a persistent memory engine with Neo4j knowledge graph and ProMem extraction, enabling long-term context and associative memory across chats and workspaces.

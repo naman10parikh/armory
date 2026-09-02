@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T21:24:35Z"
 ---
 ## What it is
 Enables MCP clients to drive a real, logged-in Chrome browser for web automation tasks like navigation, clicking, typing, and screenshotting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-03-15T09:55:38Z"
 ---
 ## What it is
 Enables AI assistants to manage, monitor, and optimize PostgreSQL databases with over 200 specialized tools for operations, security, performance tuning, and diagnostics.

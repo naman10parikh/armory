@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, evals, logging]
+forks: 23
+pushed_at: "2025-06-06T15:54:38Z"
 ---
 ## What it is
 Athina AI provides developer-focused LLM monitoring and eval framework — real-time inference logging, automated evals, and regression detection in CI.

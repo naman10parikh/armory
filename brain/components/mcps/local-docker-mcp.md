@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T16:23:02Z"
 ---
 ## What it is
 Enables Docker container management and test execution via MCP tools, supporting image building, container operations, and automated test runs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T15:34:59Z"
 ---
 ## What it is
 An MCP server that provides tools for retrieving ASCII and Unicode art from a local database, including search, random selection, and category listing.

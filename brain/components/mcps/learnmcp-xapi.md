@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-08-29T18:11:34Z"
 ---
 ## What it is
 Enables AI agents to record and retrieve learning activities through xAPI-compliant Learning Record Stores, bridging AI interactions with learning analytics.

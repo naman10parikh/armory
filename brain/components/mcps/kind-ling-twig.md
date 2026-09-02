@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-02T21:31:18Z"
 ---
 ## What it is
 MCP server `Twig`, catalogued on PulseMCP. MCP server quality scoring and optimization for the agent economy.

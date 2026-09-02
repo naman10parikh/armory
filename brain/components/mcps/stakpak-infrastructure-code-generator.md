@@ -8,10 +8,12 @@ source_url: https://github.com/stakpak/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-04T12:40:36Z"
 ---
 ## What it is
 MCP server `Stakpak`, catalogued on PulseMCP. Integrates with Stakpak API to generate infrastructure code for projects, enabling developers to quickly create configurations through a dedicated tool that works with various IDEs.

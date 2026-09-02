@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-01T11:33:32Z"
 ---
 ## What it is
 Manages #TODO comments in source code files, enabling you to add and query TODOs via MCP.

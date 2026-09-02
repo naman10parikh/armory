@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T19:49:10Z"
 ---
 ## What it is
 Enables AI agents to query an approved Terraform module registry and generate compliant Azure infrastructure code. It provides tools for module discovery, scaffolding, and validation against organizational standards.

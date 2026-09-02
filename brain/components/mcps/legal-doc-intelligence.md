@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T20:31:08Z"
 ---
 ## What it is
 MCP server that analyzes legal documents, extracts key clauses, identifies risks, and summarizes contracts. 8 tools for AI agents needing legal document intelligence.

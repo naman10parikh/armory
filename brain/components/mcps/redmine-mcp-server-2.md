@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-28T18:51:27Z"
 ---
 ## What it is
 Enables AI applications to interact with Redmine project management systems for issue tracking, time logging, and project management through natural language.

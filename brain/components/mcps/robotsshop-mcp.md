@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T04:38:21Z"
 ---
 ## What it is
 MCP server for verifying agent payment integrity on x402, providing tools to check payTo mismatches, market stats, and lookup endpoints.

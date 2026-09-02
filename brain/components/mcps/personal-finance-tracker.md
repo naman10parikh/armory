@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-11T08:27:38Z"
 ---
 ## What it is
 A lightweight MCP server for tracking personal expenses, income, and budget summaries using SQLite.

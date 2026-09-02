@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T14:01:46Z"
 ---
 ## What it is
 Provides LLMs with access to EU financial, crypto and AI regulation via Compass API, enabling retrieval of verbatim provisions and verification of quotes.

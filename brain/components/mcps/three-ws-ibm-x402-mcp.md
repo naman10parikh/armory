@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T02:56:44Z"
 ---
 ## What it is
 Pay-per-use IBM Granite AI over MCP — chat, code, embeddings, analysis, and forecasting, billed in USDC on Solana. No IBM account required.

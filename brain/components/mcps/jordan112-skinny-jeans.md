@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-13T19:19:21Z"
 ---
 ## What it is
 MCP server `Skinny Jeans`, catalogued on PulseMCP. Optimizes token usage when reading files by compressing JSON, markdown, and code using TOON encoding, with tools for file reading, token estimation, and batch analysis.

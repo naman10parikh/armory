@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:33:03Z"
 ---
 ## What it is
 Generates a random number between 1 and 10 using the StupidAPIs service. Part of the Pipeworx MCP gateway providing access to 673+ data sources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:51Z"
 ---
 ## What it is
 Consulta dados de cadastro no Conselho Regional de Odontologia do Pará em fonte oficial, com ferramenta somente leitura. Permite verificar inscrições de profissionais via linguagem natural em qualquer cliente MCP.

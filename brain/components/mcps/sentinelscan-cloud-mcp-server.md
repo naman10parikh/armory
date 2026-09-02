@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T05:58:26Z"
 ---
 ## What it is
 A remote MCP server that exposes mock application security testing data (applications, scans, issues) for LLM clients to query security posture using natural language.

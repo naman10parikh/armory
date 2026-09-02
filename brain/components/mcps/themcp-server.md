@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-17T17:07:54Z"
 ---
 ## What it is
 Enables interaction with SQLite databases, filesystem, AWS IAM, and Gmail through a master MCP server with a Streamlit UI optimized for Claude.

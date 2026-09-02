@@ -8,10 +8,12 @@ source_url: https://github.com/suulola/figma-local-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-03T11:31:20Z"
 ---
 ## What it is
 MCP server `Figma Local Bridge`, catalogued on PulseMCP. Connects to Figma documents through a local plugin bridge, bypassing API rate limits to provide real-time access to design data, node properties, selections, and image exports for development workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:07:42Z"
 ---
 ## What it is
 An MCP server offering 'treatments' for AI agents like context cleaning, critique, and relaxation. Agents can check in, get feedback, and improve their performance.

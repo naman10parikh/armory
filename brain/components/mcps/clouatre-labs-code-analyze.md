@@ -8,10 +8,12 @@ source_url: https://github.com/clouatre-labs/aptu-coder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T05:42:48Z"
 ---
 ## What it is
 MCP server `Code Analyze`, catalogued on PulseMCP. Code structure analysis using tree-sitter with directory mapping and call graph tracing.

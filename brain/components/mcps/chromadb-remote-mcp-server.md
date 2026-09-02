@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-09-01T22:38:10Z"
 ---
 ## What it is
 A Streamable HTTP MCP server that provides remote access to ChromaDB for AI assistants like Claude. Enables semantic search and vector database operations from mobile devices and remote locations.

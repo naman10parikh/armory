@@ -8,10 +8,12 @@ source_url: https://github.com/block/vscode-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 76
+stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-03-28T19:07:18Z"
 ---
 ## What it is
 MCP server `VS Code`, catalogued on PulseMCP. Enables direct interaction with VS Code through bidirectional communication, providing tools for file diffing, project navigation, shell command execution, and editor information retrieval for seamless coding assistance.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-16T09:50:40Z"
 ---
 ## What it is
 Enables AI assistants to manage employee leave by checking balances, applying for leave, and viewing history via MCP tools.

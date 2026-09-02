@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:06:36Z"
 ---
 ## What it is
 Enables encoding 100+ barcode symbologies and decoding common 1D/2D formats, plus terminal QR codes.

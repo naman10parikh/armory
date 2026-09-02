@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T03:31:33Z"
 ---
 ## What it is
 MCP server `MCPShield`, catalogued on PulseMCP. Security proxy for MCP servers that intercepts and filters tool calls to prevent prompt injection, data exfiltration, and unauthorized API access.

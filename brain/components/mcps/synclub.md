@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-28T08:13:00Z"
 ---
 ## What it is
 MCP server `SynClub`, catalogued on PulseMCP. Automated comic creation from scriptwriting through panel generation

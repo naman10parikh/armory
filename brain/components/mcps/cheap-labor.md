@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T21:01:30Z"
 ---
 ## What it is
 An MCP server that splits coding work between ChatGPT web (planning, review) and Codex CLI (implementation), enabling agentic workflows over a local repo with risk-gated execution and safety rails.

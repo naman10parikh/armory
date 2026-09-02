@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-23T12:59:19Z"
 ---
 ## What it is
 MCP server `Rosetta`, catalogued on PulseMCP. Translates Excel files to different languages while preserving formatting, formulas, and data integrity.

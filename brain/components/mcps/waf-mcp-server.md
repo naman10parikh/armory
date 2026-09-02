@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T06:54:04Z"
 ---
 ## What it is
 Enables AI assistants to monitor, analyze, and configure OWASP ModSecurity CRS via Docker, with tools for overview, drill-down, and rule/IP management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T03:39:10Z"
 ---
 ## What it is
 Wraps the CTA Bus Tracker API to provide live access to bus routes, stops, predictions, vehicle locations, patterns, and detours via MCP clients.

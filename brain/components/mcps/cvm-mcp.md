@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T21:13:35Z"
 ---
 ## What it is
 MCP server that fetches Brazilian financial data from the CVM open data portal and exposes tools for LLM clients to query companies and calculate financial indicators from published financial statements.

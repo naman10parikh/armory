@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T21:28:25Z"
 ---
 ## What it is
 An MCP server that connects Claude to FileMaker databases via the Data API, enabling natural language queries, record management, layout exploration, and script execution.

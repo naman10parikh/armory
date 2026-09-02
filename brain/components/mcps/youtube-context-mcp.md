@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-11T19:59:02Z"
 ---
 ## What it is
 A small MCP server that gives agents rich context about a YouTube video — its transcript, jump-to-the-moment deep links, metadata, and most-replayed moments — so they can answer questions, summarize, pull quotes, or surface highlights.

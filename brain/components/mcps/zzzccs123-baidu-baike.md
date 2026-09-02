@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-20T01:37:40Z"
 ---
 ## What it is
 MCP server `Baidu Baike`, catalogued on PulseMCP. Retrieves and renders Baidu Baike encyclopedia entries directly within conversations, providing access to Chinese-language reference information through a TypeScript-based server.

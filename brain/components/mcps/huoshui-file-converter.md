@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-10T00:41:57Z"
 ---
 ## What it is
 MCP server `Huoshui File Converter`, catalogued on PulseMCP. Document format converter with sandboxed security for Markdown, DOCX, HTML, PDF, and TXT files

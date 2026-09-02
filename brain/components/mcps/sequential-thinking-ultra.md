@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-12T09:56:12Z"
 ---
 ## What it is
 MCP server `Sequential Thinking Ultra`, catalogued on PulseMCP. Enhances reasoning capabilities through Sequential Thinking Ultra system with quality metrics, bias detection, and multi-mode analysis patterns including serial, parallel, and hybrid thinking for complex analytical problem-solving workflows.

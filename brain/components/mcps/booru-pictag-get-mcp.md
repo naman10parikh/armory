@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T14:53:49Z"
 ---
 ## What it is
 An MCP server that searches booru image boards and cleans their tags into ready-to-use AI-art prompts for Stable Diffusion and similar models.

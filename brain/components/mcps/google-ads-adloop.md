@@ -8,11 +8,13 @@ source_url: https://github.com/kLOsk/adloop
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 249
+stars: 255
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 56
+pushed_at: "2026-07-29T02:57:49Z"
 ---
 ## What it is
 An MCP server that gives your AI assistant read + write access to Google Ads and GA4 — with safety guardrails that prevent accidental spend.

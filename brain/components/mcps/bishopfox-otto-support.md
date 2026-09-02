@@ -8,10 +8,12 @@ source_url: https://github.com/bishopfox/otto-support
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T18:05:27Z"
 ---
 ## What it is
 MCP server `Otto Support`, catalogued on PulseMCP. Deliberately vulnerable customer support MCP server for security research and MCP penetration testing practice.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-14T20:21:36Z"
 ---
 ## What it is
 Unofficial MCP server for Railway that enables managing Railway infrastructure through natural language, including projects, services, deployments, environments, variables, templates, domains, volumes, observability, integrations, networking, and workflows.

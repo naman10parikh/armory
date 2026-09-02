@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 35
+pushed_at: "2026-04-13T02:01:51Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI agents to manage documents, collections, comments, and users in Outline through its API.

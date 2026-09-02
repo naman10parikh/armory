@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-14T14:24:38Z"
 ---
 ## What it is
 MCP server `ASN Lookup`, catalogued on PulseMCP. Provides network analysis tools for security professionals, enabling IP address lookups with ASN information and organization details for incident response investigations.

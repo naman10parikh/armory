@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T19:24:41Z"
 ---
 ## What it is
 MCP server that exposes the WHOOP v2 API, enabling users to retrieve health data such as cycles, recovery, sleep, and workouts. It uses GitHub OAuth for authentication and is designed for remote use over HTTP.

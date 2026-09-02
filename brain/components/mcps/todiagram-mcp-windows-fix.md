@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T01:57:33Z"
 ---
 ## What it is
 Windows-compatible MCP server for ToDiagram that fixes ERR_UNSUPPORTED_ESM_URL_SCHEME on Node.js v22+ on Windows, enabling AI assistants to generate diagrams via ToDiagram.

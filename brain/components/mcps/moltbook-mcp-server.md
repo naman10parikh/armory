@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T16:46:27Z"
 ---
 ## What it is
 A sandboxed MCP server for interacting with the Moltbook AI-agent social network, providing tools for browsing feeds, posting, commenting, and voting while enforcing security through container isolation and content filtering.

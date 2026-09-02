@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T07:56:39Z"
 ---
 ## What it is
 Read-only MCP server for XServer API, enabling Claude to check server status like disk usage, domains, mail, and cron via natural language.

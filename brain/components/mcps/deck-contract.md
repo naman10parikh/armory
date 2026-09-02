@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T06:49:56Z"
 ---
 ## What it is
 MCP server for AI-native editable presentations: surgically edit slide components by stable ID, with local rendering and self-checking overflow.

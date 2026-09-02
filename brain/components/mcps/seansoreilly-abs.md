@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2024-12-26T02:39:40Z"
 ---
 ## What it is
 MCP server `Australian Bureau of Statistics`, catalogued on PulseMCP. Integrates with the Australian Bureau of Statistics API to provide access to statistical datasets for economic analysis, demographic research, and data-driven policy making.

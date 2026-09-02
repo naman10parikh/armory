@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T10:44:31Z"
 ---
 ## What it is
 Provisions Docker-based development environments on demand, allowing AI agents to create, manage, and inspect containerized dev environments without manual setup.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T03:47:51Z"
 ---
 ## What it is
 MCP-based message broker enabling AI agents to coordinate through P2P messaging, RPC, and pub/sub, with persistent squads and ad-hoc teams. It provides 26 MCP tools for agent registration, squad management, messaging, and topic subscriptions, backed by SQLite persistence.

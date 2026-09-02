@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-19T01:53:05Z"
 ---
 ## What it is
 Provides MySQL database query capabilities through MCP protocol, enabling AI assistants to retrieve table metadata, execute SQL queries, and manage database interactions via Resources, Prompts, and Tools.

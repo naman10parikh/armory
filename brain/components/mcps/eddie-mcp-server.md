@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T13:26:37Z"
 ---
 ## What it is
 Containerized MCP server with 15 geospatial data tools exposed via HTTP API for Intercom integration.

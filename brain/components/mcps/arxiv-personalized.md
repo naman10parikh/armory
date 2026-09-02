@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T14:02:17Z"
 ---
 ## What it is
 Transforms Chinese queries into ranked arXiv paper recommendations, with translation and semantic reranking, exposed as an MCP endpoint for AI agent integration.

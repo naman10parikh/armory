@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-01T16:23:46Z"
 ---
 ## What it is
 Enables AI assistants to manage and analyze containers across Docker and Podman through natural language, providing unified inspection, monitoring, and diagnostics.

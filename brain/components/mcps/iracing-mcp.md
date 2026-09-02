@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-17T16:21:35Z"
 ---
 ## What it is
 Integrates iRacing with the Model Context Protocol to retrieve profile statistics and iRating charts for any category.

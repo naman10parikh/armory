@@ -8,10 +8,12 @@ source_url: https://github.com/onlyoffice/docspace-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-27T06:24:46Z"
 ---
 ## What it is
 MCP server `ONLYOFFICE DocSpace`, catalogued on PulseMCP. Manage documents, rooms, and users in ONLYOFFICE collaborative workspace

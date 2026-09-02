@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-14T12:32:32Z"
 ---
 ## What it is
 An MCP server exposing Greater Helsinki public transport data from Digitransit, enabling LLM hosts to answer live transit queries, plan journeys, and fetch stop departures via natural language.

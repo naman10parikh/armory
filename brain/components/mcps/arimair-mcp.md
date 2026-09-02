@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T03:47:55Z"
 ---
 ## What it is
 This MCP server provides read-only access to Arimair monitoring data, enabling users to query measurements, statistics, corrections, reports, and site information directly through Claude.

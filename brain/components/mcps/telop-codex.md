@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T02:30:26Z"
 ---
 ## What it is
 Enables AI to transcribe Japanese talk videos, edit subtitles with filler removal and timing correction, and export SRT files using local Whisper models.

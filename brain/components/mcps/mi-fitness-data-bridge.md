@@ -8,11 +8,13 @@ source_url: https://github.com/shkyyy18/mi-fitness-data-bridge
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-17T03:51:51Z"
 ---
 ## What it is
 Provides local MCP tools to query your own Xiaomi Mi Fitness health data (sleep, workouts, heart rate, etc.) stored in a local SQLite database, enabling AI assistants to access personal health records without exposing credentials.

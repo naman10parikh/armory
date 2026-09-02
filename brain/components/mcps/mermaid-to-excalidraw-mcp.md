@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-29T09:30:23Z"
 ---
 ## What it is
 MCP server that converts Mermaid diagrams to styled Excalidraw files, saving them directly to disk without token overhead.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-18T02:38:32Z"
 ---
 ## What it is
 MCP server to interact with Google Gmail and Calendar APIs. Supports multiple accounts, email search and drafting, and calendar event management.

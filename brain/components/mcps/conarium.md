@@ -8,11 +8,13 @@ source_url: https://github.com/dogrucanemek-alt/conarium
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T21:52:52Z"
 ---
 ## What it is
 Self-hosted governance layer between an AI assistant and your data: allow/deny policy, deterministic PII masking, row caps, and a hash-chained audit log with an Ed25519-signed receipt for every access, verifiable offline.

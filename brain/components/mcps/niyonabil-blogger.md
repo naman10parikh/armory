@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-05-15T16:39:45Z"
 ---
 ## What it is
 MCP server `Blogger`, catalogued on PulseMCP. Connects to Google's Blogger API for creating, updating, and managing blog posts through TypeScript-based Node.js implementation with Google authentication support.

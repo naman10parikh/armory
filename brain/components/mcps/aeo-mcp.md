@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T02:00:28Z"
 ---
 ## What it is
 An MCP server that gives AI agents tools to inspect a website's visibility to AI answer engines, including crawler permissions, llms.txt, structured data, on-page signals, and a full 29-check AI-readiness audit.

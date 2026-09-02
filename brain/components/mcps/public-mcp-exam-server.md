@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T17:55:30Z"
 ---
 ## What it is
 Exposes a single tool solve_challenge that reads the X-Exam-Challenge HTTP header and returns the first 16 hex characters of SHA-256 of the challenge with a domain suffix.

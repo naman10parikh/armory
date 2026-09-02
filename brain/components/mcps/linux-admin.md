@@ -8,10 +8,12 @@ source_url: https://github.com/rhel-lightspeed/linux-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 235
+stars: 291
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 62
+pushed_at: "2026-09-01T13:57:37Z"
 ---
 ## What it is
 MCP server `Linux Admin`, catalogued on PulseMCP. Performs read-only Linux system administration, diagnostics, and troubleshooting on RHEL-based systems via SSH.

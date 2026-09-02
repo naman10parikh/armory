@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T20:20:54Z"
 ---
 ## What it is
 Thirteen read-only Google Maps Platform tools for an agent: where a place is, what is around it, how long it takes to get there, and what the conditions are when it arrives.

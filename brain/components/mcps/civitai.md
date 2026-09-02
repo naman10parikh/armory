@@ -8,10 +8,12 @@ source_url: https://github.com/cicatriiz/civitai-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-07-26T01:24:05Z"
 ---
 ## What it is
 MCP server `Civitai`, catalogued on PulseMCP. Integrates with Civitai's model repository to provide model search, image browsing, creator discovery, and download access with filtering by type, popularity, and safety ratings.

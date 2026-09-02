@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-20T21:52:27Z"
 ---
 ## What it is
 Enables interaction with Magnet (magnet.run) via MCP, requiring an API key. Supports Cursor, Claude Desktop, and Claude Code.

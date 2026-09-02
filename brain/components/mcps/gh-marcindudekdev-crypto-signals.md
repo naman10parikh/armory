@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-05T15:02:14Z"
 ---
 ## What it is
 MCP server `Crypto Signals`, catalogued on PulseMCP. Real-time crypto volume anomaly detection across 50+ tokens for whale movements and pump signals.

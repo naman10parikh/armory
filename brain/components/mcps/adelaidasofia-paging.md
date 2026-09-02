@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-17T17:59:36Z"
 ---
 ## What it is
 MCP server `On-Call Paging`, catalogued on PulseMCP. On-call paging via 100+ notification channels using Apprise — WhatsApp, ntfy, Pushover, and more.

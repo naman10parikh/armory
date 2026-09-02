@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-13T02:22:57Z"
 ---
 ## What it is
 MCP server `Dev Workflow`, catalogued on PulseMCP. Enforces development workflow discipline through structured stages

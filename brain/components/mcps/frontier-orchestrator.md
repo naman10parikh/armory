@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T14:36:20Z"
 ---
 ## What it is
 Multi-agent orchestration MCP server that lets Claude Code delegate backend, frontend, and tooling tasks to specialized AI agents (Codex, Kimi, Grok) with contract-first sequencing and workspace mutation guards.

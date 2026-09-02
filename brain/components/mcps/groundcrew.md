@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:17:18Z"
 ---
 ## What it is
 Ground-truth receipt system for hallucination detection — captures verified state snapshots before and after agent actions.

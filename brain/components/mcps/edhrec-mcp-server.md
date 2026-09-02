@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-30T18:40:55Z"
 ---
 ## What it is
 Enables Claude to access EDHREC's Commander deckbuilding data, including recommended cards, synergies, combos, and average decklists.

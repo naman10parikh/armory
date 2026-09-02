@@ -8,10 +8,12 @@ source_url: https://github.com/eric-tramel/zoty
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-16T04:42:40Z"
 ---
 ## What it is
 MCP server `Zoty (Zotero)`, catalogued on PulseMCP. Lightweight Zotero integration providing BM25-ranked search, collection browsing, item lookup, and paper ingestion by arXiv ID or DOI with automatic PDF attachment.

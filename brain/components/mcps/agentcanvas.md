@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T19:40:05Z"
 ---
 ## What it is
 Local-first visual workspace and MCP server for canvases built by people and agents, with a polished editor, extensions, and SQLite persistence.

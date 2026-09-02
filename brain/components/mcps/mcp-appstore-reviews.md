@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T11:20:24Z"
 ---
 ## What it is
 Enables reading Apple App Store customer reviews, publishing developer responses, and deleting them via the App Store Connect API with a narrow Customer Support role.

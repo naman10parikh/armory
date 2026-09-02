@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-31T01:07:35Z"
 ---
 ## What it is
 Enables AI applications to interact with Power BI through the Model Context Protocol, supporting comprehensive API operations including data retrieval and management.

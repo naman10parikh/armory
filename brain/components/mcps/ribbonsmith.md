@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T12:47:39Z"
 ---
 ## What it is
 Enables AI coding agents to declaratively customize Dynamics 365 command bars with safe, validated, and revertible ribbon customizations.

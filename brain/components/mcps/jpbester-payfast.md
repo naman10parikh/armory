@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-02T07:12:40Z"
 ---
 ## What it is
 MCP server `PayFast`, catalogued on PulseMCP. Integrates with the PayFast South African payment gateway for transaction management and payment processing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T17:20:52Z"
 ---
 ## What it is
 Enables searching the Bazaar resource catalog and making spend-capped paid calls to x402 endpoints, integrated with Rail402's Stellar payment facilitator.

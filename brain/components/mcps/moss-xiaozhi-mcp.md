@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T15:20:19Z"
 ---
 ## What it is
 Provides visual recognition and PTZ camera control for DIY MOSS (ESP32) smart assistants, bridging cloud AI with local camera capabilities via WebSocket.

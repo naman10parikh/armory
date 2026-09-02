@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-20T10:44:06Z"
 ---
 ## What it is
 MCP server `GetMailer`, catalogued on PulseMCP. Send transactional emails using the GetMailer API

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:27:35Z"
 ---
 ## What it is
 MCP server that exposes PostgreSQL database operations via psycopg2, including connection management, query execution, and transaction control.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-20T13:42:21Z"
 ---
 ## What it is
 A Model Context Protocol server that enables interaction with Monobank API, providing tools for currency exchange rates, client info, and account statements.

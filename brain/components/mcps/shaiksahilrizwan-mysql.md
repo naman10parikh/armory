@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T17:55:59Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Connects AI assistants to MySQL databases via stdio with tools for listing databases, browsing tables, retrieving rows, and executing custom SQL queries.

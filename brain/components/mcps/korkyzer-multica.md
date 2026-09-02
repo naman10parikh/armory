@@ -8,10 +8,12 @@ source_url: https://github.com/korkyzer/multica-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-13T05:10:56Z"
 ---
 ## What it is
 MCP server `Multica`, catalogued on PulseMCP. Wraps the Multica CLI to manage issues, agents, workflows, and autopilots from AI coding assistants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-06-24T03:56:49Z"
 ---
 ## What it is
 A collection of over 20 specialized MCP servers that enable LLMs to manage customers, jobs, scheduling, invoicing, materials, and more in Housecall Pro's field service management system.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-22T02:04:16Z"
 ---
 ## What it is
 Enables searching characters, planets, and films from the Star Wars universe via the SWAPI API.

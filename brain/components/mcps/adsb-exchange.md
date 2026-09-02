@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-16T22:42:59Z"
 ---
 ## What it is
 MCP server `ADS-B Exchange`, catalogued on PulseMCP. Provides real-time aircraft tracking data through the ADS-B Exchange API with tools for geographic aircraft search, individual aircraft lookup, military aircraft filtering, and aircraft type enumeration for aviation monitoring and flight analysis applications.

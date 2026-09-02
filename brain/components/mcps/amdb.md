@@ -8,11 +8,13 @@ source_url: https://github.com/BETAER-08/amdb
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-25T13:56:08Z"
 ---
 ## What it is
 Turn your codebase into AI context — entirely on your machine. Single-binary MCP server with AST parsing, call graph, and local embeddings.

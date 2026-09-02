@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-15T01:00:53Z"
 ---
 ## What it is
 MCP server `National Weather Service`, catalogued on PulseMCP. Integrates with National Weather Service APIs to provide current weather alerts by state code and detailed forecasts by location coordinates for planning activities and monitoring severe weather conditions.

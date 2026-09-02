@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T06:06:05Z"
 ---
 ## What it is
 Provides Canadian government data for AI agents, including property assessments, building permits, zoning, business registry, and DLS grid conversion. Offers 50 free queries per day with no signup required.

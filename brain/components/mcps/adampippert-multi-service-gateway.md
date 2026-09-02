@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-31T17:03:12Z"
 ---
 ## What it is
 MCP server `Multi-Service Gateway`, catalogued on PulseMCP. Provides a unified gateway for LLMs to access GitHub, GitLab, Google Maps, Memory storage, and Puppeteer web automation tools through a Flask-based server deployable on Red Hat environments.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T20:00:46Z"
 ---
 ## What it is
 An MCP server that lets Claude check your Nitrado-hosted ARK server: live status, settings, and files without using the web panel.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T21:00:32Z"
 ---
 ## What it is
 A minimalist MCP server that fetches transcripts from YouTube videos using the Supadata API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T00:22:18Z"
 ---
 ## What it is
 A secure, modular MCP server that wraps seven industry-standard security tools (nmap, nuclei, gobuster, subfinder, httpx, nikto, sqlmap) into thirteen MCP tools, enabling AI agents to perform port scanning, vulnerability scanning, directory enumeration, subdomain discovery, web probing, and SQL inje

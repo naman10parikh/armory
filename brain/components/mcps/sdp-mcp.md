@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T17:43:35Z"
 ---
 ## What it is
 Provides 76 tools for enterprise Solana development, enabling stablecoin issuance, payments, trading, wallet management, and compliance screening via natural language.

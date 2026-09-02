@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T06:35:31Z"
 ---
 ## What it is
 Security scanner and runtime proxy for MCP servers. Catches tool poisoning, prompt injection, and rug-pull attacks (silent tool description changes) before they reach your AI agent. Includes a static scanner and a runtime stdio proxy.

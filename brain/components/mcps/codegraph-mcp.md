@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T14:12:31Z"
 ---
 ## What it is
 MCP server that enables intent search over Python call graphs inside Cursor, returning cite spans and call chains to reduce token usage.

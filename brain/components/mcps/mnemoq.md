@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T10:53:59Z"
 ---
 ## What it is
 A local-first memory engine for AI agents with MCP-native, graph-linked, spaced repetition. It enables agents to log, retrieve, and manage learnings via CLI or MCP server.

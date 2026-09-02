@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-23T23:53:50Z"
 ---
 ## What it is
 Enables querying Odoo's model registry (fields, inheritance, methods) without a database connection by loading the registry in-memory.

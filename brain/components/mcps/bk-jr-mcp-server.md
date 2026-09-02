@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T13:33:15Z"
 ---
 ## What it is
 A hosted MCP server for the BK Jr. recruiter agent that integrates voice (Retell AI), SMS (Quo/OpenPhone), and Google services, exposing tools for candidate management, outreach, and scheduling.

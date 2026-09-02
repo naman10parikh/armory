@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-19T04:07:29Z"
 ---
 ## What it is
 MCP server `Time Service`, catalogued on PulseMCP. Provides current time information through a lightweight Node.js service that can be deployed via Docker or managed with PM2.

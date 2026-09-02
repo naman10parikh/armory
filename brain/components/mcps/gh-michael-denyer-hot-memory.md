@@ -8,10 +8,12 @@ source_url: https://github.com/michael-denyer/memory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-19T06:06:43Z"
 ---
 ## What it is
 MCP server `Hot Memory`, catalogued on PulseMCP. Two-tier memory system with instant hot cache and semantic search. Self-organizing storage.

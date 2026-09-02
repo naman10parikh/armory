@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-25T14:05:30Z"
 ---
 ## What it is
 MCP server `Bruno API`, catalogued on PulseMCP. Bridges AI systems with Bruno API collections, enabling direct execution of HTTP requests defined in .bru format with automatic environment variable parsing and schema generation for API testing and workflow automation.

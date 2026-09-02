@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:49:36Z"
 ---
 ## What it is
 Consulta o Cadastro Centralizado de Contribuinte (CCC) do Sintegra a partir de CPF ou CNPJ, inscrição estadual e UF, integrando-se a clientes MCP via HTTP.

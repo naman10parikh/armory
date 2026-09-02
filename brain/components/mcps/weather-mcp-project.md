@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:44:37Z"
 ---
 ## What it is
 Provides real-time weather forecasts through an MCP server, using Google Gemini for AI-powered interactions and a Streamlit interface.

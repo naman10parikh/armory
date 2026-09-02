@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:24Z"
 ---
 ## What it is
 Connects to Pague Veloz Serasa via Open Finance Brasil, enabling natural language queries for balances, transactions, credit cards, and investments. Read-only and secure, with explicit user consent.

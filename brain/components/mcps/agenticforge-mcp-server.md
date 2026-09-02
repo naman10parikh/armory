@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T19:37:05Z"
 ---
 ## What it is
 Monetizable AI agent tools - document parsing, text analysis, code generation, security scanning, format conversion, and more. 8 tools with HTTP API and MCP protocol support.

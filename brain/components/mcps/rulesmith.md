@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-06T08:33:33Z"
 ---
 ## What it is
 Provides a CLI and MCP server for scanning repositories to generate evidence-backed, project-specific instruction files for AI coding assistants, ensuring AI behavior aligns with existing codebase conventions.

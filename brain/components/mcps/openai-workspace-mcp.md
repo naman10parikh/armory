@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T07:05:14Z"
 ---
 ## What it is
 Exposes the OpenAI Admin API as MCP tools, enabling management of organization members, projects, service accounts, API keys, rate limits, usage, costs, and audit logs through natural language.

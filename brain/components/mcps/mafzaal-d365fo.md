@@ -8,10 +8,12 @@ source_url: https://github.com/mafzaal/d365fo-client
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-08-31T09:09:36Z"
 ---
 ## What it is
 MCP server `Dynamics 365 Finance & Operations`, catalogued on PulseMCP. Python client library for Microsoft Dynamics 365 Finance & Operations

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-01T05:22:37Z"
 ---
 ## What it is
 Provides real-time weather information for South Korea, including temperature, sky condition, precipitation type, humidity, and precipitation amount, based on latitude and longitude coordinates using public data from the Korea Meteorological Administration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T11:27:59Z"
 ---
 ## What it is
 Enables MCP-compatible AI agents to interact with Trakt.tv, including search, movies, TV shows, and user account features like watchlist and history.

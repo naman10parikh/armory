@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-30T23:38:34Z"
 ---
 ## What it is
 Enables AI assistants to access Twitter/X data, including user profiles, tweets, trends, and more, through the ScrapeBadger API.

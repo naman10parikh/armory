@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T10:12:25Z"
 ---
 ## What it is
 Enables text-to-speech conversion using Google Translate's TTS, supporting many languages and accents, and saving MP3 files.

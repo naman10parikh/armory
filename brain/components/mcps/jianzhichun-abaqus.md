@@ -8,10 +8,12 @@ source_url: https://github.com/jianzhichun/abaqus-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 76
+stars: 105
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-05-26T16:15:11Z"
 ---
 ## What it is
 MCP server `Abaqus/CAE GUI Automation`, catalogued on PulseMCP. Enables AI to control Abaqus/CAE finite element analysis software through GUI automation, executing Python scripts and retrieving message logs without modifying the core application.

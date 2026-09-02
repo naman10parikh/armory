@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T05:42:24Z"
 ---
 ## What it is
 Enables querying ElevenLabs workspace data, including listing agents and retrieving evaluation runs, through Claude Desktop or any MCP client.

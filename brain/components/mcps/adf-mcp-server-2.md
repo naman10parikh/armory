@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T17:35:09Z"
 ---
 ## What it is
 Enables read-only monitoring and root-cause analysis of Azure Data Factory resources through MCP, allowing users to inspect factories, pipelines, and pipeline runs and diagnose failures via natural language.

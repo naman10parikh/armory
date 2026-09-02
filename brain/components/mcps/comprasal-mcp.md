@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T20:38:26Z"
 ---
 ## What it is
 Enables querying El Salvador's public procurement data via the COMPRASAL API, including searching awarded processes, getting process details, and supplier contracts.

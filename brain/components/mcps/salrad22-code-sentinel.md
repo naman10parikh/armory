@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-04T08:40:14Z"
 ---
 ## What it is
 MCP server `Code Sentinel`, catalogued on PulseMCP. Analyzes code for security vulnerabilities, deceptive patterns, placeholders, and code smells that traditional linters miss.

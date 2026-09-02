@@ -8,10 +8,12 @@ source_url: https://github.com/delano/postman-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 150
+stars: 160
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2026-02-11T11:33:23Z"
 ---
 ## What it is
 MCP server `Postman`, catalogued on PulseMCP. Integrates with Postman's API management platform to enable automated API testing, documentation, and workflow management for developers and QA engineers.

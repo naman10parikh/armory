@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T18:27:34Z"
 ---
 ## What it is
 Enables MCP clients to read and manage boards, cards, comments, checklists, and image attachments on a self-hosted Focalboard instance using human-readable property names.

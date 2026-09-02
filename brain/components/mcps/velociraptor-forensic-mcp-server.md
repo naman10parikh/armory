@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-10T14:28:53Z"
 ---
 ## What it is
 This MCP server connects Claude Desktop to a Velociraptor instance and local forensic tools. It enables remote endpoint investigation and local evidence analysis through natural language commands.

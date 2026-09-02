@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-20T12:21:42Z"
 ---
 ## What it is
 An MCP server for interacting with the Swiss Commercial Register via Zefix REST API and UID Webservice, enabling company search, validation, SOGC publications, and due diligence reports.

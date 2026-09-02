@@ -8,10 +8,12 @@ source_url: https://github.com/tehreemarbab/jazzcashmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-05-09T13:24:32Z"
 ---
 ## What it is
 MCP server `JazzCash`, catalogued on PulseMCP. MCP server for JazzCash mobile payment integration, enabling AI agents to charge wallets, create payment checkouts, inquire transactions, and process refunds.

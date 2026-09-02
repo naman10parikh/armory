@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T07:09:19Z"
 ---
 ## What it is
 MCP server for searching Korean scientific literature, patents, reports, and more via the KISTI ScienceON API.

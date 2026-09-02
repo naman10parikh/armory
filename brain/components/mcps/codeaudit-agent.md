@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T18:28:39Z"
 ---
 ## What it is
 MCP server for AI-powered code security, quality, and performance review. Enables auditing code directly from VS Code via right-click or MCP tools.

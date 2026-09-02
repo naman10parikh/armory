@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-02T02:33:24Z"
 ---
 ## What it is
 MCP server for crawling social media platforms (e.g., Bilibili) by keywords, video IDs, or creator IDs, with support for MySQL, JSON, and CSV storage.

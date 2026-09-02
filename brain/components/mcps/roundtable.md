@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-17T16:38:24Z"
 ---
 ## What it is
 Fans out a question to multiple frontier models in parallel, optionally deliberates to consensus, and returns one decided answer from the command line or any MCP-capable coding harness.

@@ -8,11 +8,13 @@ source_url: https://github.com/archetypal-ai/archetypal-ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T05:40:54Z"
 ---
 ## What it is
 Provides persistent memory tools (recall, remember, checkpoint) for AI agents, enabling them to save and restore state across sessions.

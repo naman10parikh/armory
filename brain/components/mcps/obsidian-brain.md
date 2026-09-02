@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-12T20:32:59Z"
 ---
 ## What it is
 A standalone Node MCP server that provides semantic search, knowledge graph, and vault editing over an Obsidian vault. It runs locally as a single stdio process without requiring an Obsidian plugin for core functionality.

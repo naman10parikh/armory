@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T04:17:47Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve structured video material, including dialogue, jokes, story structure, and video details through natural language queries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-09T11:43:06Z"
 ---
 ## What it is
 MCP server that renders LaTeX to PDF via pdflatex, supporting raw LaTeX and Jinja2 templates with artifact generation.

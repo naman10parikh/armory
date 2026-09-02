@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:41:18Z"
 ---
 ## What it is
 Enables searching and querying open geospatial datasets from Tallahassee-Leon County GIS, including parcels, zoning, and planning data via ArcGIS Feature Services.

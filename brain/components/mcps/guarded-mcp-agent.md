@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T18:50:08Z"
 ---
 ## What it is
 Enables note management (create, read, update, delete) with a policy engine for blocking tools, human approval, and prompt injection detection.

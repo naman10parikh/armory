@@ -8,10 +8,12 @@ source_url: https://github.com/taiki-yoshida/copilot-studio-code
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-01T04:39:33Z"
 ---
 ## What it is
 MCP server `Copilot Studio Code Tools`, catalogued on PulseMCP. Provides Microsoft Copilot Studio agents with file and shell capabilities including reading, writing, editing files, directory browsing, grep, glob, and shell execution.

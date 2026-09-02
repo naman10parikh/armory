@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-01T12:04:20Z"
 ---
 ## What it is
 Provides 7 tools for weather (geocoding, current conditions) and country data (capital, currency, population, dial code, flag) via Open-Meteo and CountriesNow APIs, designed for multi-agent AI systems.

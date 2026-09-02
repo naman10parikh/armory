@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:28Z"
 ---
 ## What it is
 Emits simplified company certificates from JUCESP (Brazilian state registry) via CNPJ, NIRE, or name. Read-only, hosted MCP server with pay-per-use credit system.

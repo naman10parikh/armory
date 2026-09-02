@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
-stars: 9
+stars: 10
+forks: 0
+pushed_at: "2026-09-01T15:37:13Z"
 ---
 ## What it is
 Federated, license-verified search across The Met, Cleveland, AIC, Wikimedia Commons, and Europeana. Strict-default-deny rights gate accepts only CC0 / Public Domain Mark. Tools: search, get, cite (full / caption / short), dynasty/region discovery. `npx -y open-museum-mcp`

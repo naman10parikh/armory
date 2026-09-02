@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T20:16:14Z"
 ---
 ## What it is
 MCP server enabling AI agents to read and append to a user's daily bullet notebook, with entity-graph tagging and append-only, auditable notes.

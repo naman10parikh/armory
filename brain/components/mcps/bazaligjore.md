@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T08:51:42Z"
 ---
 ## What it is
 An MCP server for researching Albanian legislation, providing access to the Official Gazette, amendment graphs, and Constitutional Court decisions via a structured index.

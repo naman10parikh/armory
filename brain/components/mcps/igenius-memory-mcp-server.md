@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T05:10:50Z"
 ---
 ## What it is
 Provides persistent AI memory and visual analysis tools for any MCP-compatible agent via the iGenius Memory service.

@@ -8,10 +8,12 @@ source_url: https://github.com/mako-357/vectorworks-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-14T15:20:33Z"
 ---
 ## What it is
 MCP server `Vectorworks`, catalogued on PulseMCP. Control Vectorworks CAD software through Claude via Unix socket communication to a C++ plugin.

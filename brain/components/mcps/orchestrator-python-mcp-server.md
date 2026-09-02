@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T02:13:23Z"
 ---
 ## What it is
 Enables AI coding assistants to run a machine-verified DESIGN→PLAN→EXECUTE→VERIFY→COMPLETE workflow with human approval gates, state integrity checks, and DAG task scheduling.

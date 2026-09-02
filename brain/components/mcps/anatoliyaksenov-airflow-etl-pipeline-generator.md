@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-18T20:48:31Z"
 ---
 ## What it is
 MCP server `Airflow ETL Pipeline Generator`, catalogued on PulseMCP. Integrates with Apache Airflow, GitLab, Kafka, PostgreSQL, S3, and SMB file systems to enable conversational ETL pipeline creation, data source connectivity testing, schema extraction, and automatic generation of production-ready Airflow DAGs with pre-built Spark application templates for database-to-datalake, file-to-datalake, and API-to-datalake workflows.

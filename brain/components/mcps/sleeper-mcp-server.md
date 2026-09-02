@@ -8,11 +8,13 @@ source_url: https://github.com/sourknives/sleeper-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-08-11T11:10:01Z"
 ---
 ## What it is
 Enables natural language interaction with Sleeper Fantasy Football API data, allowing queries about leagues, players, matchups, draft results, and trade analysis.

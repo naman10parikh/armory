@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-05-27T15:18:55Z"
 ---
 ## What it is
 Enables AI assistants to interact with Salesforce organizations, allowing them to execute Apex code, query data, describe objects, and manage org connections through natural language.

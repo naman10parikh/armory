@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T00:00:05Z"
 ---
 ## What it is
 MCP server for GreyNoise threat intelligence, enabling IP analysis, GNQL queries, tag and vulnerability lookups, and session/pcap retrieval via natural language.

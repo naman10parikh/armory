@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-15T00:48:28Z"
 ---
 ## What it is
 MCP server `Picoli URL Shortener`, catalogued on PulseMCP. URL shortening and click analytics for AI agents via picoli.site.

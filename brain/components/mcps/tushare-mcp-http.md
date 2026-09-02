@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T07:31:23Z"
 ---
 ## What it is
 A MCP server that provides HTTP-based access to Tushare financial data, enabling AI assistants to query stocks, indices, funds, and more.

@@ -8,10 +8,12 @@ source_url: https://github.com/dex865378/dex865378-mcp-godot-63-herramientas
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T18:49:32Z"
 ---
 ## What it is
 MCP server `Godot 63 Tools`, catalogued on PulseMCP. Provides 63+ tools for controlling the Godot 4.6+ game engine with node manipulation, scene editing, and debugging.

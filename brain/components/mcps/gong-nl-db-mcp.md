@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T04:43:57Z"
 ---
 ## What it is
 Enables read-only querying of the gong-nl-db Postgres database through natural language via Claude Desktop.

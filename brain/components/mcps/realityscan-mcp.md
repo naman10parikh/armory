@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T00:57:49Z"
 ---
 ## What it is
 Enables AI agents to control the RealityScan photogrammetry pipeline (align, mesh, texture, export) either headless or through a visible GUI, and includes a 360° video to perspective frames converter for pre-processing equirectangular and YouTube EAC content.

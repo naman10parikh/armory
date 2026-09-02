@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T19:02:08Z"
 ---
 ## What it is
 MCP server `Grubhub`, catalogued on PulseMCP. Search restaurants, browse menus, manage cart, place orders, and track deliveries on Grubhub via browser automation.

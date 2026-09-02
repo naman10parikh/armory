@@ -8,10 +8,12 @@ source_url: https://github.com/ashlrai/webfetch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-10T03:28:25Z"
 ---
 ## What it is
 MCP server `WebFetch`, catalogued on PulseMCP. MCP server federating 25 image providers with license-first ranking, providing structured metadata and attribution for safe image sourcing.

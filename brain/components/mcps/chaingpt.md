@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-18T06:22:21Z"
 ---
 ## What it is
 MCP server `ChainGPT`, catalogued on PulseMCP. Integrates with ChainGPT's Web3-focused AI models to provide blockchain and cryptocurrency news retrieval alongside general chat functionality optimized for Web3 queries.

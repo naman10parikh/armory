@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T06:42:03Z"
 ---
 ## What it is
 MCP server that converts URLs into token-minimized clean text for LLMs, providing a receipt of token and cost savings.

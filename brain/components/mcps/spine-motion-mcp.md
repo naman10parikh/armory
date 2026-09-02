@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-27T11:40:27Z"
 ---
 ## What it is
 Enables authoring, preview, and export of Spine 2D skeletal animations via natural language from Claude Code or any MCP client, with a web dashboard and tools for keyframing, templates, and GIF preview.

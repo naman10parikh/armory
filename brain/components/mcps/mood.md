@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T20:59:54Z"
 ---
 ## What it is
 Enables AI to display its current mood as a locally generated ASCII face using Stable Diffusion, with a tool feel(emotion) that the AI can call to update the terminal display.

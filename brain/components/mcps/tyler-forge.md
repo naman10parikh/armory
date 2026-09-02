@@ -8,10 +8,12 @@ source_url: https://github.com/tyler-technologies-oss/forge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-20T15:05:16Z"
 ---
 ## What it is
 MCP server `Tyler Forge`, catalogued on PulseMCP. Provides access to Tyler Technologies' design system documentation, component APIs, design tokens, and framework integration guides with intelligent search, icon discovery, and templated documentation generation for building applications with Tyler Forge components.

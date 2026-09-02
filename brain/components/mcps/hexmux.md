@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T23:32:05Z"
 ---
 ## What it is
 MCP server that enables AI agents to control IDA Pro instances via Unix-socket supervisor, providing tools for decompilation, disassembly, and Python scripting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T15:52:20Z"
 ---
 ## What it is
 Minimal MCP server exposing a single tool, run_date, to execute the local date command via a Streamable HTTP endpoint.

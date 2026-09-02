@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T17:02:48Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server that drives OpendTect headlessly for SEG‑Y import, 3D horizon auto‑tracking, ASCII export, and horizon‑agreement scoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T03:58:18Z"
 ---
 ## What it is
 Enables LLM clients to list, read, review, and comment on GitHub pull requests, turning an AI assistant into a fully capable code reviewer.

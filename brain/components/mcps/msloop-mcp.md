@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-12T17:17:16Z"
 ---
 ## What it is
 MCP server that provides read access to Microsoft Loop workspaces and pages by reusing your Loop web session, enabling listing, reading, and searching across Loop content without app registration.

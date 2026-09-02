@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-10T15:44:36Z"
 ---
 ## What it is
 MCP server `ZARQ Crypto Risk Intelligence`, catalogued on PulseMCP. Provides crypto risk intelligence including trust scores, distance-to-default analysis, and structural collapse warnings for 198 tokens.

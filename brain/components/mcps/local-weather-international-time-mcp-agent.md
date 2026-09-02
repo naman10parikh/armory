@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T19:07:33Z"
 ---
 ## What it is
 Provides real-time weather forecasts and international time details through MCP tools, including geocoding, hourly/daily forecasts, and timezone information for any city.

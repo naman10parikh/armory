@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-19T19:42:04Z"
 ---
 ## What it is
 MCP server `Cloudflare Email`, catalogued on PulseMCP. Cloudflare Worker combining a REST API and MCP endpoint for sending emails via Cloudflare's Email Service with bearer token auth.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-11T05:51:35Z"
 ---
 ## What it is
 Enables AI assistants to commission cinematic campaign films and image sets from IBO, an AI-native film studio, with tools for offers, payments, briefs, and project status.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T12:52:55Z"
 ---
 ## What it is
 MCP server for tracking expenses with local SQLite storage. Provides tools to add, list, and summarize expenses by category.

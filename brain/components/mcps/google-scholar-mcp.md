@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2025-05-10T16:26:20Z"
 ---
 ## What it is
 MCP server for searching academic papers via Google Scholar, retrieving metadata and abstracts, with support for Chinese queries and auto-translation.

@@ -8,10 +8,12 @@ source_url: https://github.com/vincentwei1021/agent-toolbox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-10T13:06:38Z"
 ---
 ## What it is
 MCP server `Agent Toolbox`, catalogued on PulseMCP. Provides 13 production-ready tools for web search, content extraction, weather, finance, screenshots, and more through a unified API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T00:40:02Z"
 ---
 ## What it is
 Enables AI agents to query and interact with Odoo CRM data via MCP, supporting sales pipeline analysis, customer risk assessment, meeting preparation, and executive reporting, with human approval for write actions.

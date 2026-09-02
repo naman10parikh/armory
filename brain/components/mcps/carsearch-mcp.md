@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T13:19:48Z"
 ---
 ## What it is
 MCP server for Canadian used-car search, monitoring, and market analysis, providing tools to search listings, analyze deals, track price history, and more.

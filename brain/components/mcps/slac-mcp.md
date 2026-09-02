@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T18:41:35Z"
 ---
 ## What it is
 MCP server exposing SLAC (Simple Logic & Arithmetic Compiler) as tools for LLM agents, enabling evaluation of expressions and retrieval of syntax reference.

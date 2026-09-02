@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T14:22:47Z"
 ---
 ## What it is
 AI-powered ServiceNow developer toolkit for Claude Code with 116 tools covering script generation, code review, portal and catalog development, notifications, user and group management, CRUD operations, dictionary overrides, data migration, bidirectional integrations, ATF testing, performance analys

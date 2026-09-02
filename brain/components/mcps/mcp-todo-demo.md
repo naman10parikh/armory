@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T18:59:56Z"
 ---
 ## What it is
 A minimal MCP server that provides an interactive to-do list with checkboxes in chat, demonstrating MCP Apps UI resource integration and tool-based state updates.

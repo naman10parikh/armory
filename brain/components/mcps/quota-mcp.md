@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T17:00:04Z"
 ---
 ## What it is
 Tracks AI subscription quota (5h/day/week windows) and recommends which provider an agent should use, using local-first data and observed rate-limit events to veto providers.

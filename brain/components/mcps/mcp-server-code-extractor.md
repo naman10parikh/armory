@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-07-14T05:44:56Z"
 ---
 ## What it is
 Enables precise code extraction from 30+ languages using tree-sitter parsing, allowing AI assistants to retrieve functions, classes, and code snippets with accurate line numbers.

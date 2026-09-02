@@ -8,10 +8,12 @@ source_url: https://github.com/masna-ai/mcp-confluence-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-09T08:32:24Z"
 ---
 ## What it is
 MCP server `Confluence Data Center`, catalogued on PulseMCP. Integrates with Confluence Data Center to enable direct access to content through operations like searching, retrieving, creating, updating, and deleting pages without switching contexts.

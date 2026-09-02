@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-07T15:53:57Z"
 ---
 ## What it is
 MCP server `Cribl Stream`, catalogued on PulseMCP. Integrates with Cribl Stream deployments to enable management of configurations, pipelines, sources, and system metrics for DevOps teams and data engineers monitoring data processing workflows.

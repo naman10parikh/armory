@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T08:36:25Z"
 ---
 ## What it is
 Enables MCP clients to control macOS via accessibility and screen recording, providing tools to list apps, observe UI, click, type, press keys, and scroll.

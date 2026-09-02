@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T10:36:00Z"
 ---
 ## What it is
 An MCP server that enables file system search and inspection, including directory listing, regex-based file name and content searches, and reading text, PDF, and DOCX files.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-10T17:43:01Z"
 ---
 ## What it is
 Provides tools to search and retrieve data from NIH's RePORTER grant database, enabling queries for project counts, summaries, and detailed award information.

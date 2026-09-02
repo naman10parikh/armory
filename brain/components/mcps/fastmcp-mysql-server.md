@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-27T22:19:06Z"
 ---
 ## What it is
 A secure and efficient MCP server for MySQL database operations, enabling LLMs to execute SQL queries with read-only access by default and optional write permissions.

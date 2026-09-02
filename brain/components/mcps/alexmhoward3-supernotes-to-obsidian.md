@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2024-12-28T22:00:41Z"
 ---
 ## What it is
 MCP server `Supernotes to Obsidian`, catalogued on PulseMCP. Automates importing Supernotes exports into Obsidian daily notes, formatting content and adding wikilinks for seamless note migration.

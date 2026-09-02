@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T07:49:12Z"
 ---
 ## What it is
 Enables AI agents to browse, search, and purchase 74+ AI products and services across 7 categories, with free demos and Alipay payment integration.

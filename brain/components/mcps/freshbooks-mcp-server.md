@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T20:19:18Z"
 ---
 ## What it is
 Provides 29 tools for Claude to query and update FreshBooks directly, including invoices, clients, estimates, expenses, payments, timesheets, and reports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T07:37:58Z"
 ---
 ## What it is
 A Byzantine fault-tolerant MCP Memory server that uses SQLite write-ahead logging and FAISS hybrid vector search for deterministic, secure memory operations.

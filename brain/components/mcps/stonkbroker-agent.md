@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:56:35Z"
 ---
 ## What it is
 An MCP server enabling AI agents to trade stock tokens using StonkBroker NFTs via ERC-6551 wallets on Robinhood Chain through Uniswap, with X integration.

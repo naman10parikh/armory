@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-04T06:26:35Z"
 ---
 ## What it is
 MCP server `BACnet`, catalogued on PulseMCP. Enables LLM agents to interact with BACnet building automation networks for device discovery, property reads/writes, and local object management.

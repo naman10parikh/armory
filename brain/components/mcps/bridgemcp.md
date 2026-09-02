@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-22T18:50:10Z"
 ---
 ## What it is
 A Python framework for building MCP servers that makes it simple to expose application data and actions to AI clients like Claude Desktop, Cursor, and VS Code through the Model Context Protocol. It wraps protocol handling behind a clean, decorator-based API allowing focus on business logic.

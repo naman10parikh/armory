@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-29T12:56:37Z"
 ---
 ## What it is
 MCP server `Fortuna`, catalogued on PulseMCP. Provides hardware-based true randomness through 20+ statistical distribution functions including dice rolling, Bernoulli trials, and normal/gamma/Poisson distributions for simulations, modeling, and creative tasks where deterministic outputs need genuine stochastic elements.

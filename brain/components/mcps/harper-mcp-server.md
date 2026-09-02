@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-30T17:05:00Z"
 ---
 ## What it is
 Exposes HarperDB tables and custom resources as structured MCP resources, enabling read-only access and filtering through JSON-RPC calls.

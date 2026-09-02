@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:07:25Z"
 ---
 ## What it is
 Stop hallucinating numbers. An MCP server that runs every math expression through four independent numeric engines in parallel and returns all four results side by side — so when they disagree, you know the answer is numerically unreliable.

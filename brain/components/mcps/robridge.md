@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-16T22:18:15Z"
 ---
 ## What it is
 RoBridge is a free, open-source local MCP server that lets AI agents drive Roblox Studio—DataModel, scripts, terrain, lighting, UI, and playtests—with 24 free tools and a local dashboard.

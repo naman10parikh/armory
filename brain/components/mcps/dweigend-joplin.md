@@ -8,10 +8,12 @@ source_url: https://github.com/dweigend/joplin-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-08-12T19:43:05Z"
 ---
 ## What it is
 MCP server `Joplin`, catalogued on PulseMCP. Provides a bridge to Joplin note-taking application for searching, retrieving, creating, updating, and deleting notes directly within conversations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T05:06:46Z"
 ---
 ## What it is
 An MCP server for career and academic counseling that uses official public data from CareerNet and University Information. It enables searching majors, jobs, universities, aptitude matching, drafting counseling notes, and managing student portfolios.

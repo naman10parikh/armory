@@ -8,11 +8,13 @@ source_url: https://github.com/skiddgoddamn/tilda-mcp-cdp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T14:14:36Z"
 ---
 ## What it is
 MCP server for Tilda with mass editing capabilities, combining read-only official API tools and write actions via Chrome CDP for tasks like setting Metrika, replacing code and links, publishing pages, and verifying live content.

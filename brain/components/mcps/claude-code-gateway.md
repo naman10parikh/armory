@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-09T18:07:53Z"
 ---
 ## What it is
 Enables local Claude Code to interact with Snowflake, Asana, M365, GitHub, and Hive Mind with automatic response truncation to prevent memory overload.

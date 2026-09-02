@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T02:31:13Z"
 ---
 ## What it is
 Exposes Palo Alto Networks Strata Cloud Manager API via MCP, enabling AI assistants to manage addresses, security rules, and incidents through natural language.

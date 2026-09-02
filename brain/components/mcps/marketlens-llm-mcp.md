@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T19:26:33Z"
 ---
 ## What it is
 Enables product enrichment with sentiment analysis, category mapping, and attribute extraction; provides tools to fetch top products and cluster summaries.

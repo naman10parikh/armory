@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-11T00:42:16Z"
 ---
 ## What it is
 Enables natural language trading operations for stocks, options, crypto, and portfolio management via Alpaca's Trading API through AI assistants.

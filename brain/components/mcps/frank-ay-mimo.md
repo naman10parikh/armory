@@ -8,10 +8,12 @@ source_url: https://github.com/frank-ay/mimo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-28T12:10:18Z"
 ---
 ## What it is
 MCP server `MiMo`, catalogued on PulseMCP. Access Xiaomi MiMo multimodal AI with 11 tools for dialogue, image and video understanding, TTS, voice cloning, and voice design.

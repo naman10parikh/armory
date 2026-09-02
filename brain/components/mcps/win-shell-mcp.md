@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T14:05:26Z"
 ---
 ## What it is
 Provides a deterministic set of 40 cross-platform command tools as an MCP server, replacing unsafe raw shell calls with structured JSON inputs and outputs for file system, process, network, and git operations.

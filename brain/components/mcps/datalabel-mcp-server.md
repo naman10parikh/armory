@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T05:41:33Z"
 ---
 ## What it is
 Integrates data labeling workflows with AI IDEs via 12 tools, 6 resources, and 3 prompt templates, enabling LLM-assisted pre-labeling, inter-annotator agreement analysis, and conflict adjudication.

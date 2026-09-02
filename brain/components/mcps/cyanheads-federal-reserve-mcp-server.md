@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:32:48Z"
 ---
 ## What it is
 Search and fetch ~800K Federal Reserve economic time-series from the FRED API via MCP, with STDIO or Streamable HTTP transport.

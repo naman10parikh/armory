@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T02:09:33Z"
 ---
 ## What it is
 This MCP server enables natural, humanized control of a real Chrome browser from Cursor agents, simulating natural mouse paths, typing cadence, and scroll pauses for click, type, scroll, and navigate actions via a Chrome extension.

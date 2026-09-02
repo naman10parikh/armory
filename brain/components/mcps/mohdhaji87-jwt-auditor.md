@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-10T15:18:14Z"
 ---
 ## What it is
 MCP server `JWT Auditor`, catalogued on PulseMCP. Provides JWT security auditing capabilities through token decoding, vulnerability analysis, HMAC secret brute-forcing, and token generation for penetration testing and security assessments.

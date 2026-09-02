@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T16:58:54Z"
 ---
 ## What it is
 A local knowledge graph of your codebase for Claude Code on macOS, exposing structural data via MCP tools for querying calls, imports, test coverage, and impact analysis.

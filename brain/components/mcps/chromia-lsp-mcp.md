@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T12:23:45Z"
 ---
 ## What it is
 Enables AI assistants to query and analyze Rell code via Language Server Protocol features like hover information, completions, diagnostics, and code actions. Automatically manages the Rell LSP server and provides resource-based access with real-time subscriptions.

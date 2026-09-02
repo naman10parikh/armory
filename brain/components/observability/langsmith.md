@@ -8,11 +8,13 @@ source_url: https://github.com/langchain-ai/langsmith-sdk
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1031
+stars: 1043
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, tracing, evals]
+forks: 288
+pushed_at: "2026-09-01T21:20:19Z"
 ---
 ## What it is
 LangChain's platform for tracing, evaluating, and monitoring LLM applications — deep integration with LangChain/LangGraph plus a REST API for any stack.

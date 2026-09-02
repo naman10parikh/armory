@@ -8,10 +8,12 @@ source_url: https://github.com/jakekeeys/frigate-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-01T08:53:40Z"
 ---
 ## What it is
 MCP server `Frigate NVR`, catalogued on PulseMCP. Control Frigate NVR instances for event management, camera control, recordings, video exports, and object classification.

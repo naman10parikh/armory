@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T08:30:10Z"
 ---
 ## What it is
 Provides 14 read-only tools to query USDD stablecoin protocol data across TRON, Ethereum, and BSC, enabling AI agents to fetch supply, APY, collateral, and vault configurations.

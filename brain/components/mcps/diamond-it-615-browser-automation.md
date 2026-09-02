@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-05T07:57:59Z"
 ---
 ## What it is
 MCP server `Browser Automation`, catalogued on PulseMCP. Enables browser automation through a WebSocket-connected browser extension, providing tools for extracting page content as markdown, injecting custom CSS styles, retrieving URLs, and searching browser history for web scraping, testing, and content analysis workflows.

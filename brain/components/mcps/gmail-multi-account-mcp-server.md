@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T00:58:30Z"
 ---
 ## What it is
 Enables Claude Desktop to interact with multiple Gmail accounts via MCP, providing tools for sending, searching, reading, labeling, filtering, thread management, drafts, and attachments. It also ensures correct thread replies and recoverable deletes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T03:05:35Z"
 ---
 ## What it is
 Provides AI agents access to 336 real-time and historical market, quant, SEC filing, insider trading, fundamentals, and macro data tools via MCP Streamable HTTP.

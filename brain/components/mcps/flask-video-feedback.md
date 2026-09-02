@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T09:09:43Z"
 ---
 ## What it is
 Video feedback for AI agents via Flask (flask.do). Agents upload renders for human review and get the feedback back as transcribed, timestamped comments over MCP, with annotated frames and versioned revisions.

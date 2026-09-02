@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T20:14:27Z"
 ---
 ## What it is
 MCP server `System Monitor`, catalogued on PulseMCP. Real-time system resource monitoring providing CPU, memory, disk, and process visibility.

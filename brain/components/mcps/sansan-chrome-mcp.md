@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T03:03:54Z"
 ---
 ## What it is
 Enables AI assistants to control Chrome browser operations such as navigation, reading pages, taking screenshots, managing tabs, and more via a Chrome extension and native messaging.

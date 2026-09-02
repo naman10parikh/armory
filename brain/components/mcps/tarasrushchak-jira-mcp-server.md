@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T13:24:09Z"
 ---
 ## What it is
 MCP server for Jira and Confluence integration with 32 tools for managing tickets, sprints, boards, worklogs, and Confluence pages.

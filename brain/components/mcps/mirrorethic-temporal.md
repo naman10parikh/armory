@@ -8,10 +8,12 @@ source_url: https://github.com/mirrorethic/temporal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-13T18:48:16Z"
 ---
 ## What it is
 MCP server `Temporal MCP`, catalogued on PulseMCP. Wall-clock awareness for LLM agents — tracks elapsed time between turns, detects day rollovers, and identifies fresh vs resumed sessions.

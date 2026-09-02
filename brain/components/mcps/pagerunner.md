@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:55:20Z"
 ---
 ## What it is
 A Chrome browser automation MCP server. Connect Claude (or any MCP client) to a real Chrome session — using your existing profiles with their cookies, saved passwords, and history.

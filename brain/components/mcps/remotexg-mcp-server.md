@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T21:58:59Z"
 ---
 ## What it is
 Enables LLMs to perform distributed XGBoost training via the Model Context Protocol, allowing gradient-boosted tree model training directly from AI assistants.

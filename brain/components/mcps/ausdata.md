@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-15T03:55:54Z"
 ---
 ## What it is
 MCP server `AusData`, catalogued on PulseMCP. Unified access to 9 Australian government data sources through a single AusData API key.

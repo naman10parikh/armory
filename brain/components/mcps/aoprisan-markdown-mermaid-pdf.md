@@ -8,10 +8,12 @@ source_url: https://github.com/aoprisan/mcp-md-mmd-pdf
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-13T15:41:34Z"
 ---
 ## What it is
 MCP server `Markdown Mermaid PDF`, catalogued on PulseMCP. Converts Markdown files containing Mermaid diagrams into PDF documents and exports standalone Mermaid diagrams to PNG or PDF formats using headless Chrome rendering.

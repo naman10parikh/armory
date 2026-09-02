@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T22:04:40Z"
 ---
 ## What it is
 Read-only MCP server that provides Claude Desktop with access to converted Canvas course exports, including Markdown files, reports, and search tools for local course content.

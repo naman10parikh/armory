@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T22:02:05Z"
 ---
 ## What it is
 A Model Context Protocol server that scrapes static HTML with BeautifulSoup for analysis by MCP clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T02:58:24Z"
 ---
 ## What it is
 An MCP server for GoHighLevel with 82 live-tested tools, enabling CRM operations like contact management, appointments, invoices, and workflows via natural language.

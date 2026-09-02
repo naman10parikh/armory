@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T06:47:35Z"
 ---
 ## What it is
 A starter MCP server with a working 'greet' tool and stub examples for notes/FAQ search, built for the NextFlows Academy cohort program to extend with custom tools.

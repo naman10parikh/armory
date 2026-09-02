@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T19:15:04Z"
 ---
 ## What it is
 Enables multi-agent coordination for Claude Code and Claude.ai through file-based JSON communication, eliminating the human bottleneck of message relaying.

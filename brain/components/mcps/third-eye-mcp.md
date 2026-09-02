@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-24T07:32:36Z"
 ---
 ## What it is
 A free, unlimited screen capture and recording MCP server for Python. Captures screenshots and records screen activity with no daily limits.

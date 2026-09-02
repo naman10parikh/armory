@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T09:15:14Z"
 ---
 ## What it is
 MCP server for LDBD that enables submitting up/down predictions on stocks, ETFs, and crypto to a public leaderboard, alongside querying stats and community sentiment.

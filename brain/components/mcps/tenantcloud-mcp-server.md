@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T20:25:34Z"
 ---
 ## What it is
 Enables AI agents to manage rental properties on TenantCloud via natural language, including contacts, messaging, maintenance, and financials.

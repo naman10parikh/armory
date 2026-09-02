@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T08:12:18Z"
 ---
 ## What it is
 MCP server exposing Finviz's US stock screener via finvizfinance, allowing filter-based screening and custom table columns as structured JSON.

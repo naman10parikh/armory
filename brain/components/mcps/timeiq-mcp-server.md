@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T06:01:51Z"
 ---
 ## What it is
 A production-ready, fully anonymized Model Context Protocol (MCP) server for TimeIQ time tracking. It allows LLM agents to view and manage time entries, projects, clients, reports, invoices, expenses, services, and timesheets via a secure stdio transport.

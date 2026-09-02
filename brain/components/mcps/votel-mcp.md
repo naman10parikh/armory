@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T04:50:12Z"
 ---
 ## What it is
 An MCP server that lets AI assistants manage and publish websites via Votel, including creating sites, adding domains, purging cache, and retrieving analytics.

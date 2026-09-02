@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:29:06Z"
 ---
 ## What it is
 MCP server `Ticketmaster`, catalogued on PulseMCP. Ticketmaster Discovery API for event search, venues, and attractions via a managed MCP endpoint.

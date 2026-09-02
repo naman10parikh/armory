@@ -8,11 +8,13 @@ source_url: https://github.com/aryaminus/astro
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T02:54:58Z"
 ---
 ## What it is
 Multi-tradition astrology engine that computes real birth charts, transits, and synastry for AI agents via MCP tools.

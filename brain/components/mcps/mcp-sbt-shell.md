@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-30T09:53:59Z"
 ---
 ## What it is
 Enables executing sbt commands in a persistent shell session for Scala projects, avoiding startup overhead.

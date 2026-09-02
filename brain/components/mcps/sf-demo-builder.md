@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T00:50:56Z"
 ---
 ## What it is
 Provisions isolated SAP SuccessFactors demo orgs and generates two-surface demo scripts for Joule Chat and Joule Desktop/Claude Code.

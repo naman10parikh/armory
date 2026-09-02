@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T00:09:45Z"
 ---
 ## What it is
 A local task tracker with Kanban board and MCP server for AI agents, enabling task management via markdown files and providing tools for agents to query and update tasks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T19:21:03Z"
 ---
 ## What it is
 Enables Claude Desktop to manage a job search end-to-end: find and score job listings, tailor resumes, generate application messages, and track application history, while leaving final external actions to the user.

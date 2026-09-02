@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T18:30:51Z"
 ---
 ## What it is
 MCP server that integrates sql-sop SQL linter into LLM clients, enabling linting SQL queries and listing lint rules via chat tools.

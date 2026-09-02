@@ -8,10 +8,12 @@ source_url: https://github.com/ksturgeon-td/tdsql-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-28T00:26:02Z"
 ---
 ## What it is
 MCP server `Teradata SQL`, catalogued on PulseMCP. Execute queries and manage schema on Teradata databases with read-only mode and execution plan support.

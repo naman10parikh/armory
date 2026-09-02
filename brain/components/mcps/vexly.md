@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-20T02:59:51Z"
 ---
 ## What it is
 MCP server `Vexly`, catalogued on PulseMCP. Cross-service business analytics across Shopify, Meta Ads, Google Ads, and more.

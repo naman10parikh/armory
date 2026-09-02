@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:06:40Z"
 ---
 ## What it is
 Minimal MCP server that keeps implementation plans and handoffs as plain markdown in the CWD of your agent.

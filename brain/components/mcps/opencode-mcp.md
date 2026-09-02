@@ -8,11 +8,13 @@ source_url: https://github.com/AlaeddineMessadi/opencode-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 122
+stars: 127
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 23
+pushed_at: "2026-05-19T23:31:44Z"
 ---
 ## What it is
 Bridges MCP clients to OpenCode's headless API, enabling AI to delegate autonomous coding tasks like building features, debugging, and refactoring across multiple projects.

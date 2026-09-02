@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T16:15:34Z"
 ---
 ## What it is
 A CLI agent that controls Spotify through natural language commands, leveraging the Model Context Protocol to separate Spotify tools from the LLM client, and supporting multiple AI providers like Groq, Gemini, and OpenAI.

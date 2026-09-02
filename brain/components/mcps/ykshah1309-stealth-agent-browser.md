@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-14T20:33:36Z"
 ---
 ## What it is
 MCP server `Stealth Agent Browser`, catalogued on PulseMCP. Stealth Chromium browser automation with hybrid AOM and Set-of-Mark vision for AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T18:08:05Z"
 ---
 ## What it is
 Enables MCP agents to search academic literature across multiple scholarly engines, explore papers, authors, and references, inspect abstracts and full text, maintain saved paper collections, and export citations, BibTeX, abstracts, or full-text corpora.

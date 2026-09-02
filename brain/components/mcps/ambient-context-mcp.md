@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T13:46:14Z"
 ---
 ## What it is
 Windows tray process that exposes local ambient context (presence, foreground app, battery, etc.) as MCP tools with privacy classification and opt-in controls.

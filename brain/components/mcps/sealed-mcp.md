@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T18:39:43Z"
 ---
 ## What it is
 A thin MCP stdio client that connects agents to the Sealed skill marketplace, enabling listing and running sealed skills server-side.

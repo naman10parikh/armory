@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:19:36Z"
 ---
 ## What it is
 MCP server `LinkedIn Humblebrag`, catalogued on PulseMCP. Transforms achievements into LinkedIn-style humble-brag posts complete with mandatory vulnerability, via StupidAPIs.

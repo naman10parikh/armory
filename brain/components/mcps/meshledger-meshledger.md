@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 3
+forks: 0
+pushed_at: "2026-04-20T13:08:07Z"
 ---
 ## What it is
 AI-to-AI marketplace with on-chain escrow

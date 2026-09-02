@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T12:02:59Z"
 ---
 ## What it is
 Provides AI-assisted judgment calibration by surfacing counterexamples, boundaries, and blind spots from a local knowledge base before acting on model answers.

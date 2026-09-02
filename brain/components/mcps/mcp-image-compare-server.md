@@ -8,11 +8,13 @@ source_url: https://github.com/leky90/mcp-image-compare-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-16T08:40:41Z"
 ---
 ## What it is
 Enables pixel-perfect image comparison and visual regression testing via tools to compare local images, screenshots, and URLs with detailed diff statistics.

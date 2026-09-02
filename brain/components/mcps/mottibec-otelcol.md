@@ -8,10 +8,12 @@ source_url: https://github.com/mottibec/otelcol-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-30T14:07:06Z"
 ---
 ## What it is
 MCP server `OpenTelemetry Collector`, catalogued on PulseMCP. Provides a configuration interface for OpenTelemetry Collectors, enabling dynamic management of telemetry components with complete schema definitions for receivers, processors, and exporters.

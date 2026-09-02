@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T07:41:36Z"
 ---
 ## What it is
 Enables DNA sequence analysis and variant effect prediction using Evo2-7B via MCP tools, providing forward inference, likelihood scoring, and batch variant comparison through natural language.

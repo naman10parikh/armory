@@ -8,10 +8,12 @@ source_url: https://github.com/nighttrek/moondream-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-01-03T19:41:35Z"
 ---
 ## What it is
 MCP server `Moondream`, catalogued on PulseMCP. Provide image analysis capabilities including captioning, object detection, and visual question answering for applications like content moderation and visual search.

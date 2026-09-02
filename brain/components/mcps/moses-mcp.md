@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T12:11:46Z"
 ---
 ## What it is
 Enables searching and browsing TU Berlin degree programs and modules from Moses' public Modulverzeichnis, including module details, exam types, and cross-program usage, without requiring login.

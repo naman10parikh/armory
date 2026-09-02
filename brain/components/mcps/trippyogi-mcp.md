@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T00:15:30Z"
 ---
 ## What it is
 An MCP server that exposes the author's resume as structured data and fact-checks natural-language claims against public receipts, returning verified, partially verified, or not verifiable verdicts.

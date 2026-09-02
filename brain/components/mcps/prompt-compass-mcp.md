@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T09:58:45Z"
 ---
 ## What it is
 Provides MCP clients a single decision-only tool to classify prompts as safe for local or cloud models, or as containing PII or jailbreak content, without executing actions or calling AI models.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T18:42:59Z"
 ---
 ## What it is
 MCP server `Live Audio Intelligence`, catalogued on PulseMCP. Provides real-time transcription and vocal stress analysis of live financial webcasts and earnings calls, detecting speaker hesitation and pitch jitter.

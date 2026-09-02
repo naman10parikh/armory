@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T20:50:18Z"
 ---
 ## What it is
 A local MCP server for journaling, organizing, and recalling your work. It captures entries as plain markdown files, indexes them for full-text and structured search, and enables querying via natural language.

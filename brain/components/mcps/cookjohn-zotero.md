@@ -8,10 +8,12 @@ source_url: https://github.com/cookjohn/zotero-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 817
+stars: 1117
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 92
+pushed_at: "2026-06-11T00:33:18Z"
 ---
 ## What it is
 MCP server `Zotero`, catalogued on PulseMCP. Integrates with Zotero reference management software through a dual-component architecture to provide access to bibliographic data, abstracts, tags, notes, and attachments for academic research workflows and literature reviews.

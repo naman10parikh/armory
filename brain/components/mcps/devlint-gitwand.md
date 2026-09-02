@@ -8,10 +8,12 @@ source_url: https://github.com/devlint/gitwand
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 95
+stars: 167
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-09-01T09:44:46Z"
 ---
 ## What it is
 MCP server `GitWand`, catalogued on PulseMCP. Native Git client with AI-powered merge conflict resolution, branch management, and commit analysis exposed as MCP tools.

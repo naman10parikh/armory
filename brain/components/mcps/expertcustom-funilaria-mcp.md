@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T18:29:27Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Funilaria & Pintura portal through typed MCP tools, covering news publishing, supplier searches, stock and balance inquiries, and WhatsApp webhook operations.

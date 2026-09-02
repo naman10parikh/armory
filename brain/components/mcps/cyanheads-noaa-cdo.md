@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/noaa-cdo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T02:56:21Z"
 ---
 ## What it is
 MCP server `NOAA CDO`, catalogued on PulseMCP. Search NOAA Climate Data Online stations and datasets, and fetch historical weather observations.

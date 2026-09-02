@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:39:41Z"
 ---
 ## What it is
 FastMCP server for Google's gemini-omni-flash-preview video model, enabling text-to-video, image-to-video, and video editing with stateful interactions and batch generation.

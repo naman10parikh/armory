@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-04T06:28:01Z"
 ---
 ## What it is
 Enables AI to scan and query local OpenAPI/Swagger documentation, listing API groups and endpoints, and generating TypeScript type definitions for specific endpoints.

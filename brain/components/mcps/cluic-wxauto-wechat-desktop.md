@@ -8,10 +8,12 @@ source_url: https://github.com/cluic/wxauto-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-03-10T01:43:19Z"
 ---
 ## What it is
 MCP server `wxauto WeChat Desktop`, catalogued on PulseMCP. Automates WeChat desktop application on Windows for messaging, contact management, file transfers, friend requests, and session monitoring through the wxautox4 library.

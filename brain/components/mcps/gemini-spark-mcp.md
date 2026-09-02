@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T08:17:15Z"
 ---
 ## What it is
 Deployable MCP server for GitHub and Vercel integration. Enables creating repos, pushing multiple files in a single commit, deploying projects to Vercel, managing environment variables, and combined deploy workflows via natural language.

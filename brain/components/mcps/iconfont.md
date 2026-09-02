@@ -8,10 +8,12 @@ source_url: https://github.com/zys8119/iconfont-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-21T09:32:35Z"
 ---
 ## What it is
 MCP server `Iconfont`, catalogued on PulseMCP. Integrates with Iconfont.cn to search and retrieve icon data from China's largest icon library by name and type for design workflows and UI development.

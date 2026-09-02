@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T13:56:19Z"
 ---
 ## What it is
 An MCP server that provides typed, audited, least-privilege tools for monitoring AWS infrastructure and GitHub pipelines, including instance health, service status, logs, deployment status, CI workflow runs, failed jobs, and PR checks.

@@ -8,10 +8,12 @@ source_url: https://github.com/drboria/md-todo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-05T19:57:45Z"
 ---
 ## What it is
 MCP server `MD Todo`, catalogued on PulseMCP. Task management and approval workflows with 6 tools for creating, managing, approving, and delegating todo items.

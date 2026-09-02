@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-31T23:22:58Z"
 ---
 ## What it is
 Connects Claude AI to Ableton Live via the Model Context Protocol, enabling prompt-assisted music production, track and clip manipulation, and session control.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T02:29:13Z"
 ---
 ## What it is
 Enables AI agents to manage Autotest AI projects, screens, test cases, and test runs through natural language commands.

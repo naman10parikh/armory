@@ -8,10 +8,12 @@ source_url: https://github.com/sparesparrow/mcp-prompts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 116
+stars: 117
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-07-13T07:00:58Z"
 ---
 ## What it is
 MCP server `Prompt Manager`, catalogued on PulseMCP. Manages and serves customizable prompt templates with variable substitution and tag-based organization for streamlined LLM interactions in development workflows and code reviews.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T19:36:46Z"
 ---
 ## What it is
 MCP server serving official statistics from major data agencies (Statistics Canada, FRED, BLS, World Bank, etc.) as tools with provenance and verification, enabling search, retrieval, analysis, and monitoring via natural language.

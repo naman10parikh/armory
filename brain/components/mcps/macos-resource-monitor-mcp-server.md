@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-03-30T03:57:25Z"
 ---
 ## What it is
 Identifies resource-intensive processes on macOS across CPU, memory, and network usage, with tools for detailed process filtering and system overview.

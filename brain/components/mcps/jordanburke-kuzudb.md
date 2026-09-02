@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-21T16:55:30Z"
 ---
 ## What it is
 MCP server `KuzuDB`, catalogued on PulseMCP. Provides direct access to Kuzu graph databases through Cypher query execution, schema introspection, and database management with multi-agent coordination, automatic connection recovery, and built-in templates for movies, social networks, and financial data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T10:57:34Z"
 ---
 ## What it is
 MCP server for self-custodial wallet infrastructure, enabling secure key generation, Shamir secret sharing, signing, and recovery without exposing private keys to LLMs.

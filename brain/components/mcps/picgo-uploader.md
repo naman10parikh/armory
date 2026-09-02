@@ -8,11 +8,13 @@ source_url: https://github.com/veithly/PicGoMCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-18T19:02:50Z"
 ---
 ## What it is
 Enables uploading images to a running PicGo application through its built-in server.

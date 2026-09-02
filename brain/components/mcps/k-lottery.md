@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T01:02:55Z"
 ---
 ## What it is
 Enables checking lottery status, results, and purchasing tickets for the Korean Lotto 6/45 through natural language. Includes safety features like approval gates for financial transactions.

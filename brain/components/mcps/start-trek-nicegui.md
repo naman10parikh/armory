@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T21:12:38Z"
 ---
 ## What it is
 MCP server `NiceGUI`, catalogued on PulseMCP. Provides documentation lookup, code analysis, safe fixes, and starter code generation for NiceGUI Python UI framework development.

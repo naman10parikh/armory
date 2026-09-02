@@ -8,10 +8,12 @@ source_url: https://github.com/tomatio13/mcp-server-tavily
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-08-19T14:04:48Z"
 ---
 ## What it is
 MCP server `Tavily Search`, catalogued on PulseMCP. Perform web searches and retrieve structured results via Tavily.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T01:19:56Z"
 ---
 ## What it is
 Persistent memory storage using SQLite for AI agents to store, search, update, and manage contextual memory via the Model Context Protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:00:49Z"
 ---
 ## What it is
 A local MCP server that lets Claude read and write Google Sheets through the Google Sheets API v4, using OAuth2 authentication with your own Google account.

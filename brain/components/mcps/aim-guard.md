@@ -8,10 +8,12 @@ source_url: https://github.com/aim-intelligence/aim-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-10-13T09:38:19Z"
 ---
 ## What it is
 MCP server `AIM Guard`, catalogued on PulseMCP. Provides security middleware that guards MCP implementations against unauthorized access, data leakage, and malicious interactions through threat detection and protection validation.

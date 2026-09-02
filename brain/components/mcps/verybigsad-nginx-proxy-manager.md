@@ -8,10 +8,12 @@ source_url: https://github.com/verybigsad/nginx-proxy-manager-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-02T00:34:30Z"
 ---
 ## What it is
 MCP server `Nginx Proxy Manager`, catalogued on PulseMCP. Manages Nginx Proxy Manager instances with 50 tools covering proxy hosts, SSL certificates, redirection hosts, streams, access lists, users, and settings.

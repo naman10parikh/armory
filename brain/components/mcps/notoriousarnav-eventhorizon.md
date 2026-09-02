@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-29T12:19:54Z"
 ---
 ## What it is
 MCP server `EventHorizon`, catalogued on PulseMCP. Integrates with EventHorizon Django platform using Knox authentication to manage event lifecycles, registrations with approval workflows, and user profiles.

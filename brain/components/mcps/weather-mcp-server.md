@@ -8,11 +8,13 @@ source_url: https://github.com/isdaniel/mcp_weather_server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5442
+stars: 59
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 35
+pushed_at: "2026-07-26T01:49:13Z"
 ---
 ## What it is
 Retrieve real-time weather information effortlessly for any city. Get accurate weather updates using a simple command or API call without needing an API key. Enhance your applications with reliable weather data from the Open-Meteo API.

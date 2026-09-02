@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T16:05:00Z"
 ---
 ## What it is
 Provides tools for querying student academic data such as subjects, marks, performance reports, timetable, exams, fees, events, holidays, and assignments via natural language.

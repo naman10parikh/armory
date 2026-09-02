@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-24T10:11:59Z"
 ---
 ## What it is
 MCP server `Black Forest Labs`, catalogued on PulseMCP. Integrates with Black Forest Labs API to generate high-quality images using FLUX models with parameter control, automatic polling until completion, and signed URLs for creative workflows.

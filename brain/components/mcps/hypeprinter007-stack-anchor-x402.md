@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-17T22:51:10Z"
 ---
 ## What it is
 MCP server `Anchor X402`, catalogued on PulseMCP. MCP server exposing nine blockchain services — including hash anchoring, wallet screening, and token price lookup — via pay-per-call USDC micropayments.

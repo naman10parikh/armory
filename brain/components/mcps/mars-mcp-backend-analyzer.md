@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T17:35:50Z"
 ---
 ## What it is
 A local, read-only MCP server that analyzes Python backend projects by providing tools to scan, map, and selectively read files, reducing token usage for AI clients.

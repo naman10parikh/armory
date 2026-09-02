@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T23:56:59Z"
 ---
 ## What it is
 Provides coding agents with a durable, revision-aware project workspace for semantic context, governed source changes, verification, task checkpoints, and observability through an MCP interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-28T21:37:21Z"
 ---
 ## What it is
 Exposes Moleculer microservices as MCP tools for AI assistants like Claude and GPT, with auto-discovery and schema conversion.

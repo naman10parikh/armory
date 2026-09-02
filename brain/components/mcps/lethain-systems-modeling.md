@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-08-17T00:24:22Z"
 ---
 ## What it is
 MCP server `Systems Modeling`, catalogued on PulseMCP. Enables systems modeling and visualization by running simulations based on specifications and loading documentation to help generate better models without requiring deep knowledge of the underlying library.

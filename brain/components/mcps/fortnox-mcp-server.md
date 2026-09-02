@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-01T14:32:58Z"
 ---
 ## What it is
 Enables AI agents to manage invoices, customers, suppliers, accounting entries, orders, and more through Fortnox's cloud accounting platform via natural language.

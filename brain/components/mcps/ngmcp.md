@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T20:10:13Z"
 ---
 ## What it is
 Enables AI agents to query and browse Norton Guide database files, providing tools for reading entries, searching, and navigating menus.

@@ -8,10 +8,12 @@ source_url: https://github.com/bzsasson/screaming-frog-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 81
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-08-31T08:48:05Z"
 ---
 ## What it is
 MCP server `Screaming Frog SEO Spider`, catalogued on PulseMCP. Crawl websites, export SEO data, and manage crawls via Screaming Frog SEO Spider.

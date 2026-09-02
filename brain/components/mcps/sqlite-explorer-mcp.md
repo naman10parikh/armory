@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T18:41:43Z"
 ---
 ## What it is
 Read-only SQLite database explorer for MCP clients. Allows discovery of tables and columns via resources and running SELECT queries via a tool.

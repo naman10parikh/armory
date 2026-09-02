@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T18:33:50Z"
 ---
 ## What it is
 Provides a single-user, append-only, queryable memory store for dated facts with provenance, enabling Claude to persist and correct personal information across conversations via an MCP interface.

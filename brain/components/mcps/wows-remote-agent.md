@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T08:50:35Z"
 ---
 ## What it is
 MCP server to remotely monitor and control a Windows PC running World of Warships via Tailscale, enabling status checks, screenshots, game launch, and calibrated menu workflows with safety limits.

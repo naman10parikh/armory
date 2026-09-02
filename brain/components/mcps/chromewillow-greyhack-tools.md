@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-16T07:56:09Z"
 ---
 ## What it is
 MCP server `GreyHack Tools`, catalogued on PulseMCP. Provides specialized tools for Grey Hack game players to search GitHub for code examples, validate scripts against official API documentation, generate common script templates, and transpile between GreyScript and JavaScript.

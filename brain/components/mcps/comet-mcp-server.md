@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-11T11:45:11Z"
 ---
 ## What it is
 Gives Claude a browser that thinks by connecting to Perplexity's Comet browser via Chrome DevTools Protocol, enabling AI-powered web search, navigation, reading, clicking, and screenshots while keeping Claude's context clean.

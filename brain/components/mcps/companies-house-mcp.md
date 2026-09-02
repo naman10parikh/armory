@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-04T14:46:42Z"
 ---
 ## What it is
 Enables looking up UK companies, officers, ownership, filings, and running due diligence checks via the Companies House API, usable from AI tools like Claude or Cursor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T19:08:38Z"
 ---
 ## What it is
 Model Context Protocol server that enables querying and modifying live Power BI Desktop models by connecting to the in-memory Analysis Services engine.

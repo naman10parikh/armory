@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T21:27:35Z"
 ---
 ## What it is
 Enables AI assistants to control Saleae Logic analyzers, capture and analyze digital/analog signals, and export data via MCP.

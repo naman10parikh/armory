@@ -8,10 +8,12 @@ source_url: https://github.com/90barricade93/msfs-sdk-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-08-05T12:52:45Z"
 ---
 ## What it is
 MCP server `Microsoft Flight Simulator SDK`, catalogued on PulseMCP. Provides TypeScript-based access to Microsoft Flight Simulator SDK documentation through web scraping and natural language processing, enabling flight simulation developers to search and retrieve API references, code examples, and technical specifications through conversational queries.

@@ -8,11 +8,13 @@ source_url: https://github.com/tomtorggler/hevy-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2025-10-25T10:24:05Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Hevy fitness tracking API for logging workouts, managing routines, and tracking fitness progress.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T15:54:32Z"
 ---
 ## What it is
 Exposes FontForge as MCP tools for designing, repairing, and building fonts, with PNG previews to visually verify glyphs and compiled fonts.

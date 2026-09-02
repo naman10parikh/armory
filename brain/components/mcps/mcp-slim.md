@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T13:22:16Z"
 ---
 ## What it is
 Optimizes MCP tool menus from OpenAPI specs by grouping operations by tag and trimming schemas to reduce token usage, improving agent tool-selection accuracy.

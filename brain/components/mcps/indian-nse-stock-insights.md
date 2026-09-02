@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T21:15:10Z"
 ---
 ## What it is
 Public MCP server for Indian stock market analysis covering Nifty 500 stocks with 12 tools (quotes, technical indicators, patterns, screening) across daily, 15-minute, and 5-minute timeframes.

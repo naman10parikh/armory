@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T12:12:49Z"
 ---
 ## What it is
 MCP server that converts videos, audio, and meeting recordings into structured transcripts and summaries with multi-backend ASR and automatic fallback.

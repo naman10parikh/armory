@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 1
+forks: 2
+pushed_at: "2026-02-20T22:55:52Z"
 ---
 ## What it is
 Natural language API discovery — search 700+ API capabilities, get endpoints, auth setup, and code snippets. Supports auto-discovery of new APIs.

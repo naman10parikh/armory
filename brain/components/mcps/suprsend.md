@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-22T19:04:18Z"
 ---
 ## What it is
 MCP server `SuprSend`, catalogued on PulseMCP. Manages SuprSend notification workspace resources including templates, workflows, schemas, and events via AI clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T06:53:45Z"
 ---
 ## What it is
 Enables AI assistants to download files from HTTP/HTTPS URLs to local directories or file paths with options like custom filename, headers, and overwrite control.

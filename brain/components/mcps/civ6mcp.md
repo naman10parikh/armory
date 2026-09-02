@@ -8,11 +8,13 @@ source_url: https://github.com/lowrykun/civ6mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-06-08T15:35:59Z"
 ---
 ## What it is
 Enables Claude to access real-time Civilization VI game data for strategic analysis, diplomatic intelligence, military assessments, and more via MCP.

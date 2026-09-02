@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-04-26T22:02:26Z"
 ---
 ## What it is
 Provides real-time financial data including stock quotes, news, and market movers through a secure FastMCP gateway, enabling conversational finance queries.

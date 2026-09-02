@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T18:43:54Z"
 ---
 ## What it is
 MCP server for embedding and verifying C2PA content credentials (provenance) in AI-generated assets, with HMAC-based tamper-evident manifests and optional X.509 support, helping comply with EU AI Act Article 50.

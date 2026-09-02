@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T08:34:15Z"
 ---
 ## What it is
 Imports public websites and extracts UI components and design tokens, making them available via MCP for AI coding agents to reuse in implementations.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-09T20:02:41Z"
 ---
 ## What it is
 MCP server `Doit`, catalogued on PulseMCP. Work planner and issue tracker for AI agents with CLI and hierarchical task management.

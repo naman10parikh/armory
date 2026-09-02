@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T00:52:41Z"
 ---
 ## What it is
 A disciplined OSINT collection server for LLM agents that wraps free open-source reconnaissance tools behind a normalized schema, enabling automated, deterministic collection of public intelligence with confidence scoring and graceful degradation.

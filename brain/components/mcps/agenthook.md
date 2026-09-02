@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T10:39:34Z"
 ---
 ## What it is
 Agenthook lets AI agents make character-consistent UGC videos, images, and captions from any MCP client. Create a reusable AI influencer once, then ask for that same face by name in every video and image run.

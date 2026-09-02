@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T20:55:48Z"
 ---
 ## What it is
 An intentionally vulnerable MCP server for security training, simulating a fictional company with 28 vulnerable tools and 38 challenges to learn AI agent attack and defense.

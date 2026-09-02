@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:09Z"
 ---
 ## What it is
 Consulta em fonte oficial a base estadual de veículos de São Paulo via MCP, permitindo verificar dados de veículos com linguagem natural, somente leitura e pagamento por uso com créditos pré-pagos.

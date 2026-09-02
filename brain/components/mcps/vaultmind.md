@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T13:53:47Z"
 ---
 ## What it is
 Offline-first MCP proxy with policy engine and immutable audit trail for secure AI coding agents.

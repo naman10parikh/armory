@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T18:57:07Z"
 ---
 ## What it is
 Enables AI assistants to interact with a Markdown-based knowledge base with backlinks, tags, and full-text search, supporting note creation, reading, updating, renaming, and deletion through MCP tools.

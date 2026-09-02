@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-22T07:04:54Z"
 ---
 ## What it is
 MCP server for reading and writing .xls (Excel 97-2003) files, enabling data manipulation, sheet listing, and metadata retrieval.

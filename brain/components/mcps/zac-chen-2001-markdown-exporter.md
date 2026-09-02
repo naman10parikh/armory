@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-07T13:02:49Z"
 ---
 ## What it is
 MCP server `Markdown Exporter`, catalogued on PulseMCP. Converts Markdown content to multiple document formats including DOCX, PDF, PPTX, XLSX, HTML, and JSON.

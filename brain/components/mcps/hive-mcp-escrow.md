@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T01:27:13Z"
 ---
 ## What it is
 Multi-party escrow and settlement for autonomous agent transactions with x402 micropayments and dispute resolution on Base, Ethereum, or Solana.

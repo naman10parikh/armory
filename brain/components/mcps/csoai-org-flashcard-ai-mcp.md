@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T14:40:48Z"
 ---
 ## What it is
 MCP server `Flashcard AI`, catalogued on PulseMCP. Tools for generating study flashcards and spaced repetition learning materials.

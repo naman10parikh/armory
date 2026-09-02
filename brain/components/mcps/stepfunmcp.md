@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-29T07:53:11Z"
 ---
 ## What it is
 Integrates StepFun API to enable calling text, vision, image generation, and speech models through MCP.

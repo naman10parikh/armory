@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-05T15:57:07Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to 10,000+ SaaS integrations through Platoona Connect, enabling search, connection, and execution of integration actions via natural language.

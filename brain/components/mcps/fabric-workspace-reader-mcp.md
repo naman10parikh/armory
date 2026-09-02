@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-08-21T16:40:34Z"
 ---
 ## What it is
 MCP server for exploring Microsoft Fabric and Power BI workspaces. It provides tools to list workspaces and get detailed contents of a workspace.

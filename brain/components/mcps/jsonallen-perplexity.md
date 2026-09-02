@@ -8,10 +8,12 @@ source_url: https://github.com/jsonallen/perplexity-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 301
+stars: 308
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 46
+pushed_at: "2025-03-27T17:32:30Z"
 ---
 ## What it is
 MCP server `Perplexity`, catalogued on PulseMCP. Integrates with Perplexity AI API to enable web search capabilities for retrieving up-to-date information across domains.

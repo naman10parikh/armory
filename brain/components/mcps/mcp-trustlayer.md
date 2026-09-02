@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:54:11Z"
 ---
 ## What it is
 An MCP server that lets an agent verify its own extracted data against a policy, returning per-field dispositions (post, review, or escaped) to catch confidently wrong answers.

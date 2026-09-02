@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-22T23:05:47Z"
 ---
 ## What it is
 MCP server `Codebase Indexer`, catalogued on PulseMCP. Indexes source code using Ollama embeddings and Qdrant vector database to enable natural language semantic search across codebases.

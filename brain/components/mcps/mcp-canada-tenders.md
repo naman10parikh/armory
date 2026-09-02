@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:46:23Z"
 ---
 ## What it is
 Access Canada government procurement opportunities from CanadaBuys open data, enabling tender searches and procurement monitoring without an API key.

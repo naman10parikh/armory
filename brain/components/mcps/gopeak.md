@@ -8,11 +8,13 @@ source_url: https://github.com/HaD0Yun/Doyunha-Gopeak
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 243
+stars: 248
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 25
+pushed_at: "2026-07-13T14:27:35Z"
 ---
 ## What it is
 Enables AI assistants to edit, run, inspect, and fix Godot 4 projects through an MCP server with dynamic tool groups and setup-gated capabilities.

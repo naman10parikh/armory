@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tools]
+forks: 0
+pushed_at: "2026-02-27T20:44:43Z"
 ---
 ## What it is
 AI agent accessible via CLI or network, A2A compatible

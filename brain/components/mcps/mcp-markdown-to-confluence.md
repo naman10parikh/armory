@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T17:13:38Z"
 ---
 ## What it is
 Converts Markdown files to Atlassian Document Format and publishes them to Confluence, with support for rendering Mermaid diagrams as PNG attachments.

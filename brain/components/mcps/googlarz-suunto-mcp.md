@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, sports]
-stars: 22
+stars: 23
+forks: 2
+pushed_at: "2026-08-25T14:32:00Z"
 ---
 ## What it is
 MCP server for Suunto watches via the official apizone API. OAuth2 pairing, list/get workouts, time-series samples, FIT-file decoding, GPX export, plus 24/7 activity, sleep, and recovery/HRV. Resources expose today's recovery and the week's training summary as ambient context.

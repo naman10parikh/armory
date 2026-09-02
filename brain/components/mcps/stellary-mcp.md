@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T08:27:42Z"
 ---
 ## What it is
 Connect AI assistants and coding agents to live Stellary projects through the Model Context Protocol, exposing tools for project, board, collaboration, cockpit, and agent-mission operations while preserving existing permissions.

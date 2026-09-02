@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-09-01T20:46:21Z"
 ---
 ## What it is
 Drive Elixir terminal UIs headlessly from an agent: start a TUI session, send keystrokes, take structured screenshots, and read TEA model state as MCP resources. Also exposes adaptive-UI recommendation tools and, when raxol_agent is loaded, read-only coding-agent session tools.

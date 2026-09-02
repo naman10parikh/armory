@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T05:29:57Z"
 ---
 ## What it is
 An MCP server that computes Canadian adjusted cost base (ACB) and capital gains from trade history, including average-cost tracking and superficial-loss detection, returning structured JSON.

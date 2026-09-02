@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-15T05:15:19Z"
 ---
 ## What it is
 MCP server `Vanikya AI`, catalogued on PulseMCP. Generate images, videos, vectors, and Lottie animations, run SEO analysis, and access creative insights via the Vanikya AI platform.

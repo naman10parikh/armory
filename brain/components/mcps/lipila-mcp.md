@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T07:54:58Z"
 ---
 ## What it is
 MCP server for the Lipila payment gateway, enabling AI agents to initiate mobile money and card collections, disburse funds, check transaction statuses, and verify webhook callbacks.

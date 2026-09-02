@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T14:28:03Z"
 ---
 ## What it is
 MCP server for AI agents to search Google Scholar Labs and filter results by AJG 2024 journal ratings, using local browser sessions and safe CAPTCHA handoff.

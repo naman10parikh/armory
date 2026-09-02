@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-09-08T17:15:34Z"
 ---
 ## What it is
 MCP server `French Tax`, catalogued on PulseMCP. Integrates with official French tax websites (impots.gouv.fr, service-public.fr, legifrance.gouv.fr) to provide tax calculations, form guidance, scheme details, and legal article retrieval with automated report generation for French tax professionals and developers.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T09:15:41Z"
 ---
 ## What it is
 MCP server `MetricSpot`, catalogued on PulseMCP. SEO and AI-readability auditing tool with 91 checks across 11 scoring modules for web pages.

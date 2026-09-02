@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T08:14:37Z"
 ---
 ## What it is
 Enables AI agents to search, browse, and apply hundreds of tokenized design styles from Curio's library to slides, websites, and products.

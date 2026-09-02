@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T08:41:14Z"
 ---
 ## What it is
 Demo MCP server for booking confirmed sales appointments through Claude. Allows users to request appointments, check status, and get detailed BANT briefings using natural language, with realistic fake data for demonstration.

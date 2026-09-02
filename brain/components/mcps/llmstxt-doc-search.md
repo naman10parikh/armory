@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T21:08:39Z"
 ---
 ## What it is
 Live, ranked search across any number of llms.txt documentation sites - Strands, Kiro, the AWS guides, and whatever you add at runtime.

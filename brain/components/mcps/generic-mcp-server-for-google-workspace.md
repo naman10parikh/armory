@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T17:34:52Z"
 ---
 ## What it is
 Enables AI agents to send emails, create drafts in Gmail, and append content to Google Docs via standardized MCP tools.

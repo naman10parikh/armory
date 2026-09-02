@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-17T07:07:03Z"
 ---
 ## What it is
 MCP server `Mate Tools`, catalogued on PulseMCP. 32 utility tools for AI agents — hash, encode, regex, finance, JSON, CSV, and more via the free mate.tools API.

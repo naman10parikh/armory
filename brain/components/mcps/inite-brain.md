@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-02T03:42:32Z"
 ---
 ## What it is
 An open-source bitemporal knowledge graph that provides long-term memory for AI agents via a native MCP endpoint, enabling conflict-aware ingest and hybrid retrieval.

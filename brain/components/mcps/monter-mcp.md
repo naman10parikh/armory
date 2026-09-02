@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T15:07:22Z"
 ---
 ## What it is
 Enables local analysis of personal finance data from a Monter JSON export, answering questions about spending, subscriptions, debts, and more via MCP-capable assistants without any cloud servers.

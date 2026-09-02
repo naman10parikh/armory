@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T16:48:18Z"
 ---
 ## What it is
 Wraps USGS NWIS REST services to query water data such as streamflow, groundwater levels, and water quality.

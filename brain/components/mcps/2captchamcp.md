@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T02:08:14Z"
 ---
 ## What it is
 Integrates with 2Captcha to solve various CAPTCHA types (image, reCAPTCHA, hCaptcha, etc.) for AI agents via MCP.

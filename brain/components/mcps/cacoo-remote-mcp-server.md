@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T12:37:58Z"
 ---
 ## What it is
 Enables managing Cacoo diagrams, folders, organizations, and account information through MCP tools over HTTP, with OAuth-based authentication, email allowlisting, and support for multiple Cacoo accounts.

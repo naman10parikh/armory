@@ -8,11 +8,13 @@ source_url: https://github.com/belsar-ai/joplin-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-05-23T23:06:21Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for Joplin note-taking app, enabling AI to read, search, and modify notes via sandboxed scripts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-02T13:41:22Z"
 ---
 ## What it is
 Claude-powered job fit analyzer that analyzes job fit based on GitHub portfolio, resume, and preferences, tracks applications locally.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T14:23:30Z"
 ---
 ## What it is
 MCP server that serves a structured belief graph extracted from Claude conversation history, enabling on-demand retrieval of personal context, projects, preferences, and relationships.

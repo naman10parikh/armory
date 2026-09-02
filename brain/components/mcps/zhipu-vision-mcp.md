@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T09:00:47Z"
 ---
 ## What it is
 Provides vision capabilities to text-only models (like DeepSeek) via Zhipu free vision models, enabling image analysis, OCR, and image comparison through natural language.

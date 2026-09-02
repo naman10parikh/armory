@@ -8,11 +8,13 @@ source_url: https://github.com/fugle-dev/fugle-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-22T05:29:55Z"
 ---
 ## What it is
 A Fugle MCP server for stock market data and trading, supporting real-time quotes, historical data, and optional order execution.

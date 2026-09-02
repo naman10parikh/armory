@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-15T10:28:33Z"
 ---
 ## What it is
 MCP server for WATI WhatsApp Business API enabling AI assistants to send messages, manage contacts, and handle media.

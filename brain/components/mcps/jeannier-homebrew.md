@@ -12,6 +12,8 @@ stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-06-23T23:33:51Z"
 ---
 ## What it is
 MCP server `Homebrew`, catalogued on PulseMCP. Exposes Homebrew package management commands as individual tools for installing, uninstalling, searching, upgrading, and maintaining macOS development environments through direct brew command execution.

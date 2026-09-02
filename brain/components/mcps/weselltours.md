@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T22:08:49Z"
 ---
 ## What it is
 MCP server for the WeSellTours travel platform, enabling management of hotels, tours, bookings, bugs, features, and more via natural language through 21 tools.

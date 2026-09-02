@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T23:47:03Z"
 ---
 ## What it is
 Enables goose to control the Herdr terminal workspace manager, allowing AI agents to inspect and manipulate workspaces, tabs, panes, run commands, and manage agent states.

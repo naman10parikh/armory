@@ -8,10 +8,12 @@ source_url: https://github.com/raphasouthall/neurostack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-29T16:21:40Z"
 ---
 ## What it is
 MCP server `NeuroStack`, catalogued on PulseMCP. Long-term memory for AI agents with tiered retrieval, hybrid search, and knowledge graph indexing.

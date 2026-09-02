@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T10:18:09Z"
 ---
 ## What it is
 MCP server for indexing and searching reaction-step-level synthesis routes from local SciFinder exports, designed for Docker/NAS deployment.

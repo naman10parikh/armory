@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T10:24:25Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for the dbatools PowerShell module. Exposes dbatools commands as MCP tools so AI assistants can discover, explain, and execute dbatools commands directly.

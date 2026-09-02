@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-12T05:25:01Z"
 ---
 ## What it is
 MCP server `E-commerce Product Inventory`, catalogued on PulseMCP. CRUD operations for product inventory through MySQL with repository pattern and Zod validation

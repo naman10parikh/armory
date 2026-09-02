@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-12T19:30:01Z"
 ---
 ## What it is
 Chat with your Skald knowledge base, add and update new knowledge, and search through memos.

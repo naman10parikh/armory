@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T11:51:44Z"
 ---
 ## What it is
 A local MCP memory server for edge devices that uses graph-backed retrieval to connect related facts across passages, enabling high-precision, offline capable search and memory for agents.

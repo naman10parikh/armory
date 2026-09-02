@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T22:25:10Z"
 ---
 ## What it is
 MCP server for Excaliwow that lets AI agents create, read, render, manage, and edit diagrams through the Excaliwow REST API. It provides 18 tools for diagram generation, editing, reading, exporting, and organization, running over stdio for any MCP client.

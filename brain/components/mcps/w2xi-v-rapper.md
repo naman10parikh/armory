@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-13T14:16:07Z"
 ---
 ## What it is
 MCP server `V-Rapper`, catalogued on PulseMCP. Provides quick access to Evan You's v-rapper video from VueConf 2025 through a single tool that returns the Bilibili video URL when queried about the rap performance.

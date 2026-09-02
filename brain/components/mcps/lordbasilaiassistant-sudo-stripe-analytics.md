@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-07T14:44:51Z"
 ---
 ## What it is
 MCP server `Stripe Analytics`, catalogued on PulseMCP. Query Stripe dashboard data including revenue, customers, subscriptions, refunds, and churn metrics.

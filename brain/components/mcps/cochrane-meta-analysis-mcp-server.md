@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-29T03:58:32Z"
 ---
 ## What it is
 Enables AI-assisted meta-analysis workflows following Cochrane methodological standards, including importing RevMan data, validation, meta-analysis, forest plots, publication bias assessment, and report generation.

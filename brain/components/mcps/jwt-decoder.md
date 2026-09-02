@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:33Z"
 ---
 ## What it is
 Enables AI agents to decode and inspect JWT tokens without signature verification, extracting header, payload, claims, expiry, and signing algorithm while handling payment via the x402 micropayment protocol.

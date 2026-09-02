@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-20T05:36:29Z"
 ---
 ## What it is
 A tiny Hermes-friendly bridge that exposes oh-my-pi's CLI as MCP tools (prompt and doctor) for code generation and environment verification.

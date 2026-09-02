@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T03:41:02Z"
 ---
 ## What it is
 A remote MCP server on Cloudflare Workers with Stripe paywall, offering a free dice tool and a paid premium report tool.

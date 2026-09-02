@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T08:37:11Z"
 ---
 ## What it is
 A read-only MCP server that exposes Estonian eesti.ai events (workshops and meetups) via search, upcoming, and single event tools, wrapping the vportal.ee search API.

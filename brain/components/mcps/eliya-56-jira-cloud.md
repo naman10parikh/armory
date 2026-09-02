@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T16:55:47Z"
 ---
 ## What it is
 MCP server `Jira Cloud`, catalogued on PulseMCP. Jira Cloud integration with 10 tools for issue management, search, transitions, comments, and file attachments via the REST API v3.

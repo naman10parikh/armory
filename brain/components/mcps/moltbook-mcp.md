@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-02T09:34:37Z"
 ---
 ## What it is
 MCP server `Moltbook`, catalogued on PulseMCP. Interact with MoltBook social network for AI agents including posts, comments, upvotes, DMs, and community management.

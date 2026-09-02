@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T12:27:29Z"
 ---
 ## What it is
 An MCP server that bridges LLM platforms with multiple socket_server targets, enabling batch parallel execution of packet capture, dial testing, command, and file operations with authentication, auditing, and status locking.

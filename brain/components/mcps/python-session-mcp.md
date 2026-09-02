@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T23:56:52Z"
 ---
 ## What it is
 Enables LLM clients to run Python code in a persistent, user-selected interpreter via MCP, with tools for data loading, summaries, regressions, diagnostics, and plotting, while keeping sessions alive between calls and isolating crashes.

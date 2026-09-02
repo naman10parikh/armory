@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-05T00:52:43Z"
 ---
 ## What it is
 MCP server `StratoForce Revenue Intelligence`, catalogued on PulseMCP. Revenue intelligence from Salesforce pipeline data with deal coaching, risk scanning, and forecast preparation.

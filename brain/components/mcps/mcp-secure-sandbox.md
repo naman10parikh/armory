@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T16:18:54Z"
 ---
 ## What it is
 Provides a secure, containerized Python sandbox for executing LLM-generated code with multi-layer isolation, along with JSON/CSV validation and workspace state snapshots.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T19:34:22Z"
 ---
 ## What it is
 MCP server that lists, installs, and removes applications on Linux targets via Peckboard, supporting local and remote SSH hosts with distro package managers and pip.

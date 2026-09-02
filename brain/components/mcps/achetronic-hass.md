@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-30T20:34:49Z"
 ---
 ## What it is
 MCP server `Home Assistant (Achetronic)`, catalogued on PulseMCP. Bridges Home Assistant smart home systems with tools for device control, automation management, system monitoring, and troubleshooting through local and remote connections with OAuth authentication and container deployment.

@@ -8,10 +8,12 @@ source_url: https://github.com/goodfire-ai/evee-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-20T21:30:39Z"
 ---
 ## What it is
 MCP server `Goodfire EVEE`, catalogued on PulseMCP. Connects to Goodfire's EVEE API for interpretable genomic variant effect predictions using the Evo 2 foundation model.

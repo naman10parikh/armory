@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T14:49:13Z"
 ---
 ## What it is
 Automates the full setup and deployment of Ballerina + Apache ActiveMQ integrations inside a WSO2 Integrator workspace, from broker validation to a runnable BI-low-code-ready project.

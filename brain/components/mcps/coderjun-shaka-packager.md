@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-30T21:21:47Z"
 ---
 ## What it is
 MCP server `Shaka Packager`, catalogued on PulseMCP. Bridges AI with Google's Shaka Packager for video analysis, transcoding, and packaging operations, enabling media workflow automation and streaming content preparation without direct command-line interaction.

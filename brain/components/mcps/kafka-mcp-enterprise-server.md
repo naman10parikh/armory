@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T19:25:36Z"
 ---
 ## What it is
 Reference implementation of KIP-1318, a secure Model Context Protocol server for Apache Kafka that enables AI agents to interact with Kafka clusters through governed tools and resources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T18:35:54Z"
 ---
 ## What it is
 An MCP server that determines which Instagram accounts you follow that do not follow you back, using a dedicated authenticated browser profile and caching derived results locally.

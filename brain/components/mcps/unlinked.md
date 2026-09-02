@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T20:15:05Z"
 ---
 ## What it is
 Connects your LinkedIn professional profile to AI assistants (Claude, GitHub Copilot) via LinkedIn's official Member Data Portability API, enabling read-only access to résumé data, activity, and recent changes.

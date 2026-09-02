@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T14:53:09Z"
 ---
 ## What it is
 An OT-aware authorization MCP server for OPC UA that applies process-aware policies (value ranges, rate limits, interlocks) to every agent call, enabling safe industrial control with optional human approval workflows.

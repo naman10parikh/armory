@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T10:48:45Z"
 ---
 ## What it is
 Headless text-to-speech and speech-to-text server with REST and MCP API, supporting Kokoro TTS and Whisper STT.

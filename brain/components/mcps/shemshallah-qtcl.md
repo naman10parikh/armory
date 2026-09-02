@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-04T00:16:53Z"
 ---
 ## What it is
 MCP server `QTCL`, catalogued on PulseMCP. Agent-native post-quantum blockchain with 11 tools for send, balance, and quantum oracle metrics.

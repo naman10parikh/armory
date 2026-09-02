@@ -8,10 +8,12 @@ source_url: https://github.com/grahama1970/claude-code-mcp-enhanced
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 121
+stars: 124
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-05-20T18:24:43Z"
 ---
 ## What it is
 MCP server `Claude Code Enhanced`, catalogued on PulseMCP. Enables AI to execute code, manage files, run Git operations, and perform terminal commands through a robust task orchestration system with intelligent retry mechanisms and heartbeat monitoring.

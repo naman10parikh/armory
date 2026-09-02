@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-14T23:37:30Z"
 ---
 ## What it is
 Manage VPS, domains, DNS, billing, and execute SSH commands from any MCP-compatible client. 27 tools + full API discovery across 500+ OVH endpoints.

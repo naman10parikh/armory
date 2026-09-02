@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T12:35:49Z"
 ---
 ## What it is
 Deploys 25 MCP tools for Apache Doris, enabling SQL execution, metadata queries, monitoring, and data governance over HTTPS via AWS Bedrock AgentCore Runtime.

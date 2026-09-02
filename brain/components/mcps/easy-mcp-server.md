@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-29T05:21:05Z"
 ---
 ## What it is
 A simple toolkit for creating MCP servers with stdio and SSE transport, auto-validating tools via Pydantic.

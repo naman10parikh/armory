@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-23T10:02:16Z"
 ---
 ## What it is
 MCP server `Gatherings (Expense Sharing)`, catalogued on PulseMCP. Provides a robust expense-sharing solution for social gatherings, enabling creation of events, member management, expense tracking, and automated reimbursement calculations.

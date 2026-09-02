@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T09:28:22Z"
 ---
 ## What it is
 Generates professional PDF reports with live Power BI dashboards, charts, and insights from plain-text prompts containing CSV data.

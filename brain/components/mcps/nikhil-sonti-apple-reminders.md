@@ -8,10 +8,12 @@ source_url: https://github.com/shadowfax92/apple-reminders-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-03-07T19:22:48Z"
 ---
 ## What it is
 MCP server `Apple Reminders`, catalogued on PulseMCP. Enables AI assistants to manage Apple Reminders on macOS by using AppleScript to directly interact with the Reminders app, providing a simple TypeScript-based API for creating, completing, and deleting reminders.

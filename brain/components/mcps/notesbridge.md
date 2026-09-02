@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T01:46:09Z"
 ---
 ## What it is
 MCP server enabling ChatGPT to search, read, and write Apple Notes via a local Mac agent with a privacy-preserving relay.

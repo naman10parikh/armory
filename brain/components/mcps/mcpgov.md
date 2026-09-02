@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T09:15:14Z"
 ---
 ## What it is
 A production-grade MCP server over Postgres, providing secure data operations with tenant isolation, exact-once mutations, loop-aware rate limiting, and a tamper-evident audit trail.

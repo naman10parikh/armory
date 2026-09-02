@@ -8,10 +8,12 @@ source_url: https://github.com/heurist-network/heurist-mesh-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 64
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-03-25T17:30:33Z"
 ---
 ## What it is
 MCP server `Heurist Mesh (Web3 Tools)`, catalogued on PulseMCP. Connects Claude to specialized Web3 and blockchain tools including CoinGecko, DexScreener, GoPlus, Exa, and Firecrawl for cryptocurrency research, token security verification, and Web3 data analysis.

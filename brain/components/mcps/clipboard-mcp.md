@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-20T12:02:10Z"
 ---
 ## What it is
 A simple MCP server that allows AI assistants to read from and write to the system clipboard.

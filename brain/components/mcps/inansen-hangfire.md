@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-01T09:27:11Z"
 ---
 ## What it is
 MCP server `Hangfire`, catalogued on PulseMCP. Monitor Hangfire background job queues, retry failed jobs, manage recurring tasks, and view real-time statistics.

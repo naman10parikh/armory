@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-08T21:35:49Z"
 ---
 ## What it is
 Provides AI assistants with comprehensive YouTube analytics and channel management capabilities, including channel performance, video analytics, audience insights, and content strategy tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-28T05:35:33Z"
 ---
 ## What it is
 Enables Large Language Models to submit and solve constraint satisfaction and optimization problems using Google OR-Tools through JSON model specification.

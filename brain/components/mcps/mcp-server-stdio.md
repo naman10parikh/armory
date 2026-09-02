@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T15:15:37Z"
 ---
 ## What it is
 A starter MCP server using StdioServerTransport, providing example tools to check which app runs on a port (macOS) and add two numbers.

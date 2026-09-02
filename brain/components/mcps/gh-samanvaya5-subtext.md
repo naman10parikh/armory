@@ -8,10 +8,12 @@ source_url: https://github.com/samanvaya5/subtext
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-23T07:51:23Z"
 ---
 ## What it is
 MCP server `Subtext`, catalogued on PulseMCP. Provides 14 tools for YouTube search, transcripts, channel analysis, playlists, and comments, designed for structured multi-stage intelligence extraction.

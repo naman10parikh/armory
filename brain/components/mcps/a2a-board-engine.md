@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T10:40:14Z"
 ---
 ## What it is
 An ultra-rational A2A protocol for zero-token edge pre-filtering and FEP-driven deadlock prevention. Uses Cloudflare Vectorize (384d cosine similarity) with a 24h deposit model, restricting bargaining to a 4-rally limit before forcing HTTP 402 dimension jumps.

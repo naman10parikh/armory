@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-14T22:06:00Z"
 ---
 ## What it is
 MCP server `Android Security Analyzer`, catalogued on PulseMCP. Static security analysis of Android application source code with 53 rules across manifest, Gradle, source, XML, and secret scanning.

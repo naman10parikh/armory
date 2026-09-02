@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:43:25Z"
 ---
 ## What it is
 MCP server for bidirectional Markdown-to-Confluence sync, enabling download and publish of Confluence pages as Markdown with images, frontmatter tracking, and dry-run safety.

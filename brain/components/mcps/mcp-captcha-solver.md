@@ -8,11 +8,13 @@ source_url: https://github.com/2captcha/mcp-captcha-solver
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-16T09:03:55Z"
 ---
 ## What it is
 Provides browser automation and reCAPTCHA v2 solving tools for AI agents, integrating Selenium and 2Captcha.

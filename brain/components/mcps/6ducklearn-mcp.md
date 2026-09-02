@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T17:56:16Z"
 ---
 ## What it is
 Hosted MCP server for the 6DuckLearn learning platform, enabling integration with AI agents like Codex and Claude Code.

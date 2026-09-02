@@ -8,10 +8,12 @@ source_url: https://github.com/newideas99/deepseek-thinking-claude-3.5-sonnet-cl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 114
+stars: 116
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 31
+pushed_at: "2025-02-01T19:21:13Z"
 ---
 ## What it is
 MCP server `RAT (Retrieval Augmented Thinking)`, catalogued on PulseMCP. Combines DeepSeek's analysis with multiple response models to enhance AI conversation quality through structured two-stage reasoning.

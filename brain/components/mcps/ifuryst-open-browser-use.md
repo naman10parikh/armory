@@ -8,10 +8,12 @@ source_url: https://github.com/ifuryst/open-browser-use
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 110
+stars: 257
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2026-07-17T12:28:50Z"
 ---
 ## What it is
 MCP server `Open Browser Use`, catalogued on PulseMCP. Open-source browser automation MCP server exposing Chrome tab control, navigation, and CDP tools for AI agents.

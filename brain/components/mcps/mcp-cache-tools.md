@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T20:22:20Z"
 ---
 ## What it is
 Analyzes, generates, simulates, and optimizes caching strategies across HTTP, CDN, and browser layers for AI agents.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T20:20:42Z"
 ---
 ## What it is
 MCP server `ComfyUI Pro`, catalogued on PulseMCP. Control ComfyUI with 31 tools for workflow execution, image generation, and model management.

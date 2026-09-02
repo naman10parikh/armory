@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T18:06:44Z"
 ---
 ## What it is
 Enables personal AI-driven portfolio analysis and management for Tinkoff Investments through natural language chat, providing risk assessment, goal tracking, and market-aware recommendations in read-only mode.

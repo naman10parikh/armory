@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:50:48Z"
 ---
 ## What it is
 Read-only MCP server that retrieves educational context from started Stepik courses, offering tools to list courses, explore structure, fetch text step content, and perform local lexical search.

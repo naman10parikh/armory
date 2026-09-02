@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:46Z"
 ---
 ## What it is
 Enables querying official ARISP property registry data for viewing requests, with prepaid credits and read-only access, usable from any MCP client.

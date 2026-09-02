@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T20:21:33Z"
 ---
 ## What it is
 Converts X (Twitter) posts into JSON, PDF, PNG, Markdown, or Slack/Discord messages using public endpoints, no API key or login required.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-02T06:54:21Z"
 ---
 ## What it is
 Identifies bird species from images using YOLO detection and ConvNeXt classification, returning top-5 species with confidence and Chinese names.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-22T09:54:01Z"
 ---
 ## What it is
 MCP server for LambdaMOO administration. Connects to a MOO's admin port over TCP and exposes tools for eval, verb/property management, and inheritance chain walking.

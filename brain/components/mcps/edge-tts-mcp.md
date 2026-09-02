@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-09T06:19:02Z"
 ---
 ## What it is
 An MCP server that converts text into lifelike speech using Microsoft Edge's Text-to-Speech service, supporting customizable voice, rate, volume, and pitch.

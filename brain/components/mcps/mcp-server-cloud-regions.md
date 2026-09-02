@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T22:48:30Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server providing comprehensive cloud region data across all major providers. Query, filter, and compare cloud infrastructure locations worldwide.

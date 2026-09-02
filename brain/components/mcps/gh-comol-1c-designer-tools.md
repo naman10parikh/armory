@@ -8,10 +8,12 @@ source_url: https://github.com/comol/mcp_designer_tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-03-19T01:49:33Z"
 ---
 ## What it is
 MCP server `1C Enterprise Designer Tools`, catalogued on PulseMCP. Executes code, queries, and diagnostics in 1C:Enterprise ERP systems.

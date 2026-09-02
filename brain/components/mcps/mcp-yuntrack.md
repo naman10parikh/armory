@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T13:43:52Z"
 ---
 ## What it is
 Enables parcel tracking via YunTrack, supporting single or batch tracking numbers and returning raw JSON from the YunTrack Query API.

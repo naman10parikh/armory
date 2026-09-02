@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T04:26:35Z"
 ---
 ## What it is
 A minimal, dependency-free MCP server that renders interactive widgets (like bar charts) inline in Claude, ChatGPT, and Grok from a custom connector.

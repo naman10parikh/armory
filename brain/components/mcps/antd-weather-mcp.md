@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:26:37Z"
 ---
 ## What it is
 Provides MCP tools for reading the ant-design GitHub repository (repository info, directory listings, file contents) and for querying US weather alerts and forecasts via the National Weather Service API.

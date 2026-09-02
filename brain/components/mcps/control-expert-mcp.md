@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T08:18:41Z"
 ---
 ## What it is
 MCP server that enables AI agents to read, edit, and create PLC projects in EcoStruxure Control Expert via COM automation.

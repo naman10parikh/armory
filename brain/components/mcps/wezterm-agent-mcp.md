@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T23:54:56Z"
 ---
 ## What it is
 Enables orchestration of multiple AI coding agents (Claude Code, Gemini CLI, etc.) in isolated Wezterm panes, allowing one agent to spawn, monitor, and communicate with others across projects.

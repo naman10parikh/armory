@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T13:33:41Z"
 ---
 ## What it is
 Enables natural language profiling of iOS apps using xctrace (Instruments) for performance analysis like launch time, memory leaks, CPU usage, and network requests.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T20:14:52Z"
 ---
 ## What it is
 MCP server `Contract Scanner`, catalogued on PulseMCP. Scans Base L2 smart contracts for security risks including proxy patterns, risky functions, and verification status.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T13:16:38Z"
 ---
 ## What it is
 MCP server `Zsh Tool`, catalogued on PulseMCP. Intelligent Zsh shell execution with yield-based oversight, PTY mode for interactive prompts, circuit breaker, and learning capabilities.

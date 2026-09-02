@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:19:28Z"
 ---
 ## What it is
 Read-only MCP server that extracts the main content (article text, stripped of navigation and ads) from a given URL using trafilatura. Supports markdown or plain text output.

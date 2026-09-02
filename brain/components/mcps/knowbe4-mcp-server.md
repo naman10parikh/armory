@@ -8,11 +8,13 @@ source_url: https://github.com/mirage-security/knowbe4-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-29T21:47:28Z"
 ---
 ## What it is
 Enables AI assistants to interact with KnowBe4 security awareness training data via the KnowBe4 Reporting REST API.

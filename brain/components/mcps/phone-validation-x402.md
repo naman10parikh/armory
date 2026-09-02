@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:49Z"
 ---
 ## What it is
 Validates phone numbers worldwide (carrier, line type, country) via single or batch requests, with pay-per-call using x402 micropayments (USDC on Base) — no API key required.

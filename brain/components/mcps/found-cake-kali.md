@@ -8,10 +8,12 @@ source_url: https://github.com/found-cake/kali-mcp-go
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-31T12:43:00Z"
 ---
 ## What it is
 MCP server `Kali Linux Security Tools`, catalogued on PulseMCP. MCP server exposing Kali Linux security and penetration testing tools for use in authorized security research workflows.

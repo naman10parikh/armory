@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-21T06:44:42Z"
 ---
 ## What it is
 Enables AI assistants to manage tickets, users, clients, assets, and more in Halo ITSM through the Model Context Protocol.

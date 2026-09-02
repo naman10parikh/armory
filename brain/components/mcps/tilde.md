@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-10T12:27:10Z"
 ---
 ## What it is
 A privacy-first MCP server that acts as the universal memory and profile layer for AI agents, enabling profile management, skills, resume import, and team sync.

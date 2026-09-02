@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T04:51:09Z"
 ---
 ## What it is
 A security-first MCP server that generates images via OpenAI's image model (gpt-image-2) and returns them as MCP image content, usable from Claude Code, Claude Desktop, and other stdio MCP clients.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-23T14:58:29Z"
 ---
 ## What it is
 This MCP server enables AI-assisted professional profile generation by connecting to verified employee work data (skills, career history, certifications, projects) from employer HCM systems.

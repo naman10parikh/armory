@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:34:20Z"
 ---
 ## What it is
 MCP server `World Air Quality Index`, catalogued on PulseMCP. World Air Quality Index real-time air pollution data for thousands of monitoring stations worldwide via Pipeworx.

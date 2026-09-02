@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T19:44:42Z"
 ---
 ## What it is
 Enables querying batch status, traceability, and compliance through natural language by connecting SYD to AI assistants via the Model Context Protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T17:01:33Z"
 ---
 ## What it is
 Minimal MCP server connecting Polar AccessLink to Claude, enabling retrieval of exercises, sleep, and nightly recharge data.

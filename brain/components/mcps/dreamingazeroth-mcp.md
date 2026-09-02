@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T18:01:53Z"
 ---
 ## What it is
 MCP server for World of Warcraft that provides 26 tools for accessing characters, guilds, realms, game data, and auction house info via Blizzard's Battle.net APIs. It enables natural-language queries for character audits, Mythic+ reviews, market analysis, and more.

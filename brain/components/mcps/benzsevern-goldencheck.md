@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T14:10:11Z"
 ---
 ## What it is
 MCP server `GoldenCheck`, catalogued on PulseMCP. Data validation that discovers rules from data with scanning, profiling, and health scoring.

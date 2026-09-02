@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-11T21:07:42Z"
 ---
 ## What it is
 MCP server `HotkeylessAHK`, catalogued on PulseMCP. Bridge AI agents to a local Hotkeyless AutoHotkey instance for desktop automation via a TypeScript MCP server communicating over the AHK HTTP API.

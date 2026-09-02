@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T03:12:30Z"
 ---
 ## What it is
 MCP server that acts as a shopping assistant, enabling product search, comparison, deal finding, and price history tracking via Hound web search.

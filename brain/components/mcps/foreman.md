@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T06:30:30Z"
 ---
 ## What it is
 Enables agents to query warehouse safety review results, including verified alerts, semantic timeline search, and audit logs of rejected detections.

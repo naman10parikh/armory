@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-04T20:42:48Z"
 ---
 ## What it is
 MCP server `SustainOps`, catalogued on PulseMCP. Analyzes electricity carbon intensity data to identify cleaner locations and times for running cloud workloads.

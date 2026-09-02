@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T22:21:36Z"
 ---
 ## What it is
 Enables searching and comparing live credit card merchant offers (cash back, points, statement credits) across Amex, Chase, Citi, PayPal, Rakuten, and Capital One from any AI agent.

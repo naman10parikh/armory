@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T06:53:44Z"
 ---
 ## What it is
 MCP server `GitLab Local`, catalogued on PulseMCP. Manage GitLab merge requests with auto-detection of current branch context, including creation, review, comments, and merging.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-26T13:45:13Z"
 ---
 ## What it is
 Enables AI agents to upload temporary public review artifacts (screenshots, screen recordings) to Neon Storage and obtain shareable URLs for use in GitHub PR descriptions, issue comments, and agent reports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:28:06Z"
 ---
 ## What it is
 Enables searching datasets and fetching records from Opendatasoft public data portals through Pipeworx MCP gateway.

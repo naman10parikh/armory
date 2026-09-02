@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T04:47:00Z"
 ---
 ## What it is
 Connects any number of Notion workspaces through a single MCP server, exposing four tools for connecting, listing, searching, and fetching Notion content. Ensures constant tool surface regardless of workspace count, with OAuth-based security.

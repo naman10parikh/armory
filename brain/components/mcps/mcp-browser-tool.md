@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T16:45:50Z"
 ---
 ## What it is
 A Playwright-based browser automation tool for AI agents, enabling web search, navigation, scraping, and page interaction through the Model Context Protocol.

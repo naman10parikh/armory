@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T05:55:07Z"
 ---
 ## What it is
 An MCP server that reads decrypted cookies from a running Chrome instance via the Chrome DevTools Protocol, returning them in various formats.

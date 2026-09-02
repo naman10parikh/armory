@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T14:39:57Z"
 ---
 ## What it is
 Provides counterparty risk checks for any EVM address, returning malicious-history flags, tiered risk scoring, and plain-language summaries via x402 payment.

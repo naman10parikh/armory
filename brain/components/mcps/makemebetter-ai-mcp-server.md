@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T05:59:43Z"
 ---
 ## What it is
 Connects AI assistants to your MakeMeBetter AI board, enabling natural-language management of tasks, habits, and goals with read/write tools.

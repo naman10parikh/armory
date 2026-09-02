@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-28T17:54:16Z"
 ---
 ## What it is
 MCP server for 34 embeddable pixel-art digital fireplaces. Enables listing fireplace styles, retrieving HTML/embed codes, and getting recommendations based on mood or tags.

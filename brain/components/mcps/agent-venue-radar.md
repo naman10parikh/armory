@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T04:04:11Z"
 ---
 ## What it is
 A dependency-free MCP server that evaluates paid-work marketplaces using six deterministic signals, offering read-only tools to check, recommend, list, and evaluate venues for AI agents.

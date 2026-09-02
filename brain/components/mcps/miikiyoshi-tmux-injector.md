@@ -8,10 +8,12 @@ source_url: https://github.com/miikiyoshi/mcp-tmux-injector
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-29T16:08:43Z"
 ---
 ## What it is
 MCP server `Tmux Injector`, catalogued on PulseMCP. MCP server enabling AI agents to execute commands in live tmux panes with shell, Python REPL, and TCL interpreter support.

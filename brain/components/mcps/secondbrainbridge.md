@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T13:24:20Z"
 ---
 ## What it is
 Lets ChatGPT search and reason over your local Obsidian Markdown vault through natural language, with tools for search, Q&A, note retrieval, backlinks, and note creation.

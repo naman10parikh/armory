@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T09:15:23Z"
 ---
 ## What it is
 Enables AI assistants to perform CRUD operations on a SQLite database, with all tools protected by Google OAuth 2.0 authentication.

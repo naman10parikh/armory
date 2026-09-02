@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-05T14:20:57Z"
 ---
 ## What it is
 MCP server `Elasticsearch`, catalogued on PulseMCP. Integrates with Elasticsearch to enable advanced search capabilities, data retrieval, and analysis for AI-assisted applications.

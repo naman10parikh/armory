@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T22:09:06Z"
 ---
 ## What it is
 Enables LLMs to dereference and query OpenAPI/Swagger specifications, search endpoints and schemas, validate payloads, extract security schemes, and generate production-ready integration code in multiple languages.

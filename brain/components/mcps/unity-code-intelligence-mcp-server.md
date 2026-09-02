@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-09T17:30:38Z"
 ---
 ## What it is
 AI-powered static analysis for Unity projects, detecting common patterns, component relationships, and programming insights to augment developer workflows.

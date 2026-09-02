@@ -8,10 +8,12 @@ source_url: https://github.com/cdugo/package-documentation-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-03-13T21:50:00Z"
 ---
 ## What it is
 MCP server `Package Documentation Fetcher`, catalogued on PulseMCP. Integrates with multiple package registries and documentation sources to provide up-to-date library information for code assistance, dependency analysis, and learning about new libraries.

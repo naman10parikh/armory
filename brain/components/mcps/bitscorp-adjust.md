@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-18T11:45:12Z"
 ---
 ## What it is
 MCP server `Adjust`, catalogued on PulseMCP. Integrates with Adjust API to enable natural language queries for marketing analytics data, including campaign performance metrics and reports without leaving your chat interface.

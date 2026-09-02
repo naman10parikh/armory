@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T07:21:18Z"
 ---
 ## What it is
 MCP server to remotely control Siglent SDM3000 series digital multimeters via TCP/IP SCPI protocol, enabling measurement, configuration, and data acquisition.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-25T16:27:00Z"
 ---
 ## What it is
 MCP server `Sound Effects`, catalogued on PulseMCP. Plays customizable sound effects for coding events across Windows, macOS, and Linux, providing audio feedback without requiring users to read text notifications.

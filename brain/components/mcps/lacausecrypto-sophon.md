@@ -8,10 +8,12 @@ source_url: https://github.com/lacausecrypto/mcp-sophon
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-19T14:26:46Z"
 ---
 ## What it is
 MCP server `Sophon`, catalogued on PulseMCP. Deterministic context compression layer for agents that reduces prompt, history, code, and shell tokens without LLMs, GPUs, or API keys.

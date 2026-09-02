@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T23:16:32Z"
 ---
 ## What it is
 An MCP server that gives AI assistants the ability to connect to, query, profile, and monitor data sources — turning any LLM into an interactive data engineering copilot.

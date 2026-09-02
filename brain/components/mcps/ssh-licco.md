@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T15:38:00Z"
 ---
 ## What it is
 Enables natural language control of SSH servers, allowing users to execute commands, manage files, view logs, deploy applications, and more through AI-driven conversations.

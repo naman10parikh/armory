@@ -8,10 +8,12 @@ source_url: https://github.com/urjitbhatia/tpm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-12-26T01:34:46Z"
 ---
 ## What it is
 MCP server `TPM (Technical Project Manager)`, catalogued on PulseMCP. Local SQLite-based project management server that tracks organizations, projects, tickets, tasks, and dependencies with automated ID generation, status tracking, JSON import/export, and PDF report generation for offline technical team coordination.

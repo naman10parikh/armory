@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T15:30:11Z"
 ---
 ## What it is
 Adds an MCP server to a Datasette instance, exposing tools to list databases, retrieve database schemas, and execute read-only SQL queries.

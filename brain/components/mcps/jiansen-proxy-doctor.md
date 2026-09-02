@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-01T04:03:49Z"
 ---
 ## What it is
 MCP server `Proxy Doctor`, catalogued on PulseMCP. Diagnose proxy misconfigurations that break AI coding tools on macOS.

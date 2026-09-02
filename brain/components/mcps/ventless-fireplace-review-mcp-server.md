@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T16:58:33Z"
 ---
 ## What it is
 Enables AI assistants to search, browse, and retrieve the website's public fireplace guides, safety information, product reviews, comparisons, and editorial resources as read-only Markdown content.

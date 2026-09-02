@@ -8,10 +8,12 @@ source_url: https://github.com/justadityaraj/amazon-in-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-11T14:44:44Z"
 ---
 ## What it is
 MCP server `Amazon India Deals`, catalogued on PulseMCP. Search Amazon India for cheapest in-stock products, best-value picks, and Keepa price-history links.

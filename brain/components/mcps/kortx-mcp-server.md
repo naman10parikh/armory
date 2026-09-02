@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-28T08:47:47Z"
 ---
 ## What it is
 A lightweight MCP server that provides coding copilots with access to GPT-5, Perplexity Sonar, and GPT Image models, offering tools for planning, debugging, research, and image generation.

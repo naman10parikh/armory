@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T10:25:43Z"
 ---
 ## What it is
 Windows-first MCP server that bridges Garden Wake Bridge events into a durable SQLite event box and exposes wait/acknowledge tools via OpenAI Secure MCP Tunnel, enabling ChatGPT Chat to wait for, read, and acknowledge Garden game or forum events.

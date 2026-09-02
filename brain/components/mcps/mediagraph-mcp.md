@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T03:24:49Z"
 ---
 ## What it is
 Exposes the Mediagraph digital asset management API as an MCP server, enabling AI agents to search, organize, tag, and manage media assets through natural language.

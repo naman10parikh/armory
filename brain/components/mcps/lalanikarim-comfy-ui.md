@@ -8,10 +8,12 @@ source_url: https://github.com/lalanikarim/comfy-mcp-pipeline
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-02-18T22:23:44Z"
 ---
 ## What it is
 MCP server `ComfyUI`, catalogued on PulseMCP. Integrates with ComfyUI to enable natural language-driven image generation using customizable Stable Diffusion workflows

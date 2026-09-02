@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T14:45:17Z"
 ---
 ## What it is
 Enables fiscal tax auditing by listing companies from data directories and running audits that detect discrepancies between declared taxes and invoice text using an LLM.

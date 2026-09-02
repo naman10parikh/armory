@@ -8,11 +8,13 @@ source_url: https://github.com/radumalica/infrastructure-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T09:57:19Z"
 ---
 ## What it is
 Give Claude Code, Cursor, and other AI agents safe access to your real infrastructure — without giving them raw SSH access.

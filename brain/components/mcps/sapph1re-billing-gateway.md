@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-19T20:00:35Z"
 ---
 ## What it is
 MCP server `Billing Gateway`, catalogued on PulseMCP. Billing proxy that adds Stripe and x402 crypto payments to MCP servers without writing billing code.

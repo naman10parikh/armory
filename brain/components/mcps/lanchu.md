@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T20:56:21Z"
 ---
 ## What it is
 A control panel and coordination system for AI agents, enabling scope control, real-time monitoring, and audit trails without requiring programming skills.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T14:14:18Z"
 ---
 ## What it is
 Enables AI agents to perform multi-engine web search, fetch web pages, and extract clean Markdown content via MCP, with no API keys required.

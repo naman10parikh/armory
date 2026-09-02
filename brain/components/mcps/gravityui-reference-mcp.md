@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T08:57:53Z"
 ---
 ## What it is
 Provides AI-optimized offline access to the Gravity UI design system, enabling natural language search and retrieval of components, hooks, utilities, and recipes.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-31T14:28:21Z"
 ---
 ## What it is
 MCP server `Allabolag (Swedish Company Registry)`, catalogued on PulseMCP. Provides a bridge to the Swedish company registry database for searching companies by name or location and retrieving detailed business information including revenue, employee count, and industry classification.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T00:08:56Z"
 ---
 ## What it is
 MCP server for on-page SEO auditing and JSON-LD schema validation, providing tools for full SEO audit, schema validation, heading hierarchy, and image audit without requiring API keys.

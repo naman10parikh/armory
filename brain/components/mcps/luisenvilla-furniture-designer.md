@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-27T01:57:02Z"
 ---
 ## What it is
 MCP server `Furniture Designer`, catalogued on PulseMCP. Professional furniture design tool with structural validation, cut optimization, BOM generation, and interactive 3D reports.

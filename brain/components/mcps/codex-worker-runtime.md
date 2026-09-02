@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T17:16:41Z"
 ---
 ## What it is
 Enables Codex to delegate bounded work to external LLMs through role-based MCP tools, with worker health checks and audit logging.

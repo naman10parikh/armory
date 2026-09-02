@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T17:22:29Z"
 ---
 ## What it is
 A local MCP server for durable, named Kiro CLI conversations over ACP, enabling asynchronous runs with session management, model querying, and bounded wait delegation.

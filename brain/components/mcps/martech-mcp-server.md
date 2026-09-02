@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T21:49:13Z"
 ---
 ## What it is
 Exposes marketing catalogs (offers, assets, campaigns, and computed metrics) to MCP clients, enabling natural language queries and AI-driven marketing analysis.

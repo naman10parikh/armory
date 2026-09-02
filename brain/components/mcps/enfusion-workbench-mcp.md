@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T21:24:04Z"
 ---
 ## What it is
 MCP server for Arma Reforger / Enfusion Workbench modding. Describe what you want to build, and Claude handles the rest — API research (8,803 indexed classes), code generation, project scaffolding, project-wide indexing and refactoring, live Workbench control, and in-editor testing.

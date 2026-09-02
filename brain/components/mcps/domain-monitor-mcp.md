@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T09:22:05Z"
 ---
 ## What it is
 Enables AI assistants to query domain expiration data from domain-monitor.io, with tools for listing domains, checking expiry, and adding new domains.

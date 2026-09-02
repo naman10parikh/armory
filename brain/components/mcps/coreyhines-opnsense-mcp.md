@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
-stars: 9
+stars: 10
+forks: 0
+pushed_at: "2026-08-31T19:30:04Z"
 ---
 ## What it is
 OPNsense firewall operations via API. Query ARP, DHCP, firewall rules, logs, interfaces, system status, and packet capture via STDIO or SSE.

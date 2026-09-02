@@ -8,10 +8,12 @@ source_url: https://github.com/mubarakhalketbi/game-asset-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 137
+stars: 153
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 41
+pushed_at: "2026-05-29T18:25:46Z"
 ---
 ## What it is
 MCP server `Game Asset Generator`, catalogued on PulseMCP. Connects to Hugging Face Spaces to generate 2D pixel art sprites and 3D game assets from text prompts using specialized AI models for rapid game development prototyping.

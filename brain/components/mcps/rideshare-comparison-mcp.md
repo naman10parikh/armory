@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-14T15:02:09Z"
 ---
 ## What it is
 Compare Uber and Lyft prices for any route, get supported cities, and retrieve booking links using Claude Desktop.

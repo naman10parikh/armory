@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-18T16:58:09Z"
 ---
 ## What it is
 An MCP server that gives Claude access to your SoundCloud library, allowing you to manage playlists and tracks through natural language.

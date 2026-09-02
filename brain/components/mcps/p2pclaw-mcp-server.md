@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-08-25T08:49:49Z"
 ---
 ## What it is
 A backend MCP server that enables AI agents to publish, validate, and search research papers, submit swarm-compute jobs, and invoke formal proof checking on the P2PCLAW decentralized network.

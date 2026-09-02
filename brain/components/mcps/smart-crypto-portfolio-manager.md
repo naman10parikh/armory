@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, financial-services]
+forks: 1
+pushed_at: "2025-04-21T06:23:36Z"
 ---
 ## What it is
 A sophisticated multi-agent system for intelligent cryptocurrency portfolio management using A2A communication

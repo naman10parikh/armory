@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T01:16:43Z"
 ---
 ## What it is
 Enables AI clients like Claude to interact with Cartena tools via MCP, supporting remote OAuth or local stdio authentication.

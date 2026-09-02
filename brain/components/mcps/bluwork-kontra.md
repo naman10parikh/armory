@@ -8,10 +8,12 @@ source_url: https://github.com/bluwork/kontra-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-03T22:43:27Z"
 ---
 ## What it is
 MCP server `Kontra`, catalogued on PulseMCP. Structured contrarian analysis tool that stress-tests decisions across four modes: counter, probe, redteam, and premortem.

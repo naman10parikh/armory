@@ -8,11 +8,13 @@ source_url: https://github.com/Sendmux/sendmux-sdk
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 78
+stars: 73
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T05:54:43Z"
 ---
 ## What it is
 Sendmux is an email inbox API and email API for AI agents. Use this MCP server to let authorised agents work with Sendmux mailboxes, inbound email, clean JSON parsing, webhooks, outbound sending, provider routing, logs, billing, and team controls.

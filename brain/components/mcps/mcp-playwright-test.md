@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-10T02:20:46Z"
 ---
 ## What it is
 An MCP server that automates Playwright-based UI and API testing, supporting test case generation from requirements or API specs, and execution with detailed reports.

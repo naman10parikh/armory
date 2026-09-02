@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/crypto-news-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1975
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T19:32:57Z"
 ---
 ## What it is
 Real-time crypto news aggregator API for AI agents. Multi-source news feed with AI sentiment scores (bullish/bearish/neutral), token mentions, and trading signal relevance. Essential for news-driven trading strategies. Tools: crypto_get_latest_news. Use this for market sentiment analysis, news-based

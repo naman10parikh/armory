@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T22:18:32Z"
 ---
 ## What it is
 An MCP server that exposes Terraform CLI operations as tools for Claude and other MCP-compatible AI assistants, enabling AI-driven infrastructure-as-code workflows including planning, applying, and validating Terraform configurations.

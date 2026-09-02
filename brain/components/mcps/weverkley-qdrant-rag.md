@@ -8,10 +8,12 @@ source_url: https://github.com/weverkley/qdrant-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-06-24T12:26:00Z"
 ---
 ## What it is
 MCP server `Qdrant RAG`, catalogued on PulseMCP. Real-time semantic RAG over codebases by monitoring file changes, indexing with Ollama embeddings, and storing vectors in Qdrant.

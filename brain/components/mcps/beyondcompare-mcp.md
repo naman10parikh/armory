@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T09:39:11Z"
 ---
 ## What it is
 Enables file comparison, folder diffing, 3-way merging, folder sync, and scripted automation through MCP.

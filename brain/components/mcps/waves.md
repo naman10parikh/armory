@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:34:22Z"
 ---
 ## What it is
 Enables Claude to analyze and repair audio files by viewing spectrograms, measuring noise, and applying fixes like healing hums or isolating speakers, all with undoable operations and without uploading audio.

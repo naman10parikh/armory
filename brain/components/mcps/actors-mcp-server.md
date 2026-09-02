@@ -8,11 +8,13 @@ source_url: https://github.com/apify/actors-mcp-server
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 4742
+stars: 5651
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, apify]
+forks: 243
+pushed_at: "2026-09-01T09:02:38Z"
 ---
 ## What it is
 Apify MCP server that exposes the Apify Actor platform as tools — agents can trigger pre-built web scrapers, browser automations, and data-extraction actors without managing infrastructure.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T10:42:22Z"
 ---
 ## What it is
 A read-only MCP server that lets an AI assistant inspect a single AWS lab instance's EC2 health, recent system/nginx errors from CloudWatch, and nginx service status via SSM, with strict allowlisting and no generic shell access.

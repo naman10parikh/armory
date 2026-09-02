@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T16:27:32Z"
 ---
 ## What it is
 Allows AI assistants to query public procurement opportunities, purchase orders, and government entities from Chile's Mercado Público (ChileCompra) API in real time.

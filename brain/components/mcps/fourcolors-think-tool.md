@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-30T02:38:41Z"
 ---
 ## What it is
 MCP server `Think Tool`, catalogued on PulseMCP. Provides a structured thinking environment with a dedicated scratchpad for breaking down complex problems, verifying policy compliance, and validating planned actions before execution.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T21:17:57Z"
 ---
 ## What it is
 DocShark is an MCP server that scrapes and indexes documentation websites, enabling AI assistants to perform full-text searches on a local knowledge base built from public docs.

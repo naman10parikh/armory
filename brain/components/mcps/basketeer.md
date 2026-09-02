@@ -8,11 +8,13 @@ source_url: https://github.com/tobyandrews1985/basketeer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-30T16:12:06Z"
 ---
 ## What it is
 Personal UK Tesco grocery account over MCP: search, basket, slots, orders, and on-pack nutrition (search and rank by macros + micros). Catalogue + nutrition tools need no auth; destructive actions require a two-step confirm

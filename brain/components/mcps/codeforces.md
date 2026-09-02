@@ -8,10 +8,12 @@ source_url: https://github.com/mohamed-hanfy/codeforces-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-19T09:44:15Z"
 ---
 ## What it is
 MCP server `Codeforces`, catalogued on PulseMCP. Integrates with Codeforces competitive programming platform to retrieve contest information, user profiles, submission histories, and rating changes for performance analysis and contest preparation.

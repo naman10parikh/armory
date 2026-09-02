@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T08:07:29Z"
 ---
 ## What it is
 Local, no-API-key MCP server with seven defensive SecOps tools for AI agents: extract IOCs (IPs, URLs, domains, hashes, CVE IDs) from text with defang/refang, hash strings, estimate password entropy, and run CIDR/subnet checks. Built on FastMCP with no outbound network calls.

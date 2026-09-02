@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T13:58:42Z"
 ---
 ## What it is
 A secure local MCP server that provides AI assistants controlled filesystem access and command execution with an interactive approval system for dangerous actions.

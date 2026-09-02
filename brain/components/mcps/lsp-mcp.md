@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T03:40:32Z"
 ---
 ## What it is
 Minimal MCP server bridging a Roslyn C# language server to AI agents, exposing tools for diagnostics, call hierarchy, and type hierarchy.

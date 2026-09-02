@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T13:53:08Z"
 ---
 ## What it is
 A knowledge graph MCP server that indexes your codebase into a local SQLite graph and provides tools for project mapping, file summaries, and impact analysis, drastically reducing token usage in AI coding assistants.

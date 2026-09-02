@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T19:22:05Z"
 ---
 ## What it is
 A consequence engine for shell commands. Blast Scope scores what a command would actually do before an AI agent runs it.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T16:49:58Z"
 ---
 ## What it is
 MCP server for evidence-based Chinese legal consultation. It routes labor law questions to a knowledge base and other queries to public search, returning answers with citations and fallback reasons.

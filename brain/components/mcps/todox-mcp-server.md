@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:39:55Z"
 ---
 ## What it is
 Enables agents to create and manage persistent task logs, decisions, dead ends, questions, and handoffs, with file staleness detection and activity reporting.

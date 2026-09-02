@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T00:06:36Z"
 ---
 ## What it is
 Converts Claude into a cybersecurity assistant by exposing 17 tools for network reconnaissance, cryptography, and security analysis, enabling users to perform tasks like SSL certificate checking, port scanning, and JWT analysis directly within conversations.

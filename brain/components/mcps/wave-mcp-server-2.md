@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-13T06:55:41Z"
 ---
 ## What it is
 Comprehensive MCP server for Wave Accounting, providing 45+ tools across invoicing, customers, products, transactions, bills, estimates, taxes, and financial reporting, plus 17 pre-built UI workflows.

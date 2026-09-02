@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T11:18:37Z"
 ---
 ## What it is
 Read-only MCP server for IFRC GO data, secured with Microsoft Entra ID OAuth/JWT, exposing datasets as MCP tools with rate limiting and PII filtering.

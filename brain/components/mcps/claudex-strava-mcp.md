@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T04:09:16Z"
 ---
 ## What it is
 Connects Claude to your Strava fitness data, enabling natural language queries about your training history such as activities, stats, and routes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T16:03:21Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve metadata and download links for CC0 HDRIs, textures, and 3D models from PolyHaven's public library.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-18T21:33:48Z"
 ---
 ## What it is
 MCP server `Flux (AO & Arweave)`, catalogued on PulseMCP. Integrates with Arweave and AO ecosystems to enable developers to run, create, and test AO code and blueprints using natural language commands without requiring deep technical knowledge of the underlying systems.

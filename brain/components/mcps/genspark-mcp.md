@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T17:30:05Z"
 ---
 ## What it is
 Enables image and video generation through Genspark's UI from Claude Code, Codex CLI, or any stdio-compatible MCP client, using your own local browser and Genspark account.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T02:19:56Z"
 ---
 ## What it is
 MCP server for browsing and searching your local resume and job application documents

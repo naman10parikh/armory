@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T05:39:27Z"
 ---
 ## What it is
 A safety-oriented Model Context Protocol (MCP) server for inspecting, controlling, diagnosing, and selectively administering a Home Assistant instance.

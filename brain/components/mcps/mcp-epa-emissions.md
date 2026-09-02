@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:04:22Z"
 ---
 ## What it is
 Wraps the EPA Envirofacts REST API to provide access to emissions data without authentication.

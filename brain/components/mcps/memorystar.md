@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T11:19:19Z"
 ---
 ## What it is
 A local semantic memory MCP server for AI coding agents that provides persistent, searchable project knowledge including architecture notes, file symbols, git history, progress tracking, and a knowledge graph, all stored locally.

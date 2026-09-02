@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:44Z"
 ---
 ## What it is
 MCP server for querying official pharmacy council registration data in São Paulo, Brazil. It provides a read-only tool to consult professional cadastro information via a hosted, pay-per-use HTTP endpoint.

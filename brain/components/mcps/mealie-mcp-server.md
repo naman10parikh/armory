@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-17T08:52:58Z"
 ---
 ## What it is
 An MCP server for managing recipes, meal plans, shopping lists, and more through a self-hosted Mealie instance.

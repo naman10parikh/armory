@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-25T05:56:21Z"
 ---
 ## What it is
 Generates commit messages, PR titles and descriptions, and release notes from git changes, with automatic domain detection for appropriate PR templates.

@@ -8,11 +8,13 @@ source_url: https://github.com/zssty2010/agnes-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T13:26:13Z"
 ---
 ## What it is
 Enables AI assistants to generate images and videos via the Agnes AI API, supporting text-to-image, image-to-image, and video generation.

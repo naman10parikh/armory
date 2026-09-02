@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
 stars: 32
+forks: 9
+pushed_at: "2026-08-31T19:06:59Z"
 ---
 ## What it is
 Comprehensive Kafka Schema Registry MCP server with 48 tools for multi-registry management, schema migration, and enterprise features.

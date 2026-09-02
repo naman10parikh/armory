@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:13Z"
 ---
 ## What it is
 MCP server for consulting official Brazilian Garantia-Safra data from the Portal da Transparência, enabling read-only queries through natural language via any MCP-compatible client.

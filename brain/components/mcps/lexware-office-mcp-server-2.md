@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T10:06:12Z"
 ---
 ## What it is
 Enables MCP-capable assistants to query and manage Lexware Office contacts, sales documents, vouchers, files, payments, webhooks, and reference data via the Lexware Office public API. Adds bank reconciliation tools for matching bank statement CSVs against Lexware vouchers or scanned receipt PDFs.

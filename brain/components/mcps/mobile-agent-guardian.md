@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T19:20:42Z"
 ---
 ## What it is
 A five-level safety and verification layer for embodied mobile agents that provides auditable, secure phone control through vision classification, verify-after-act loops, and cryptographic anchoring.

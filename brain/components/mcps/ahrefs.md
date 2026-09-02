@@ -8,11 +8,13 @@ source_url: https://github.com/ahrefs/ahrefs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 98
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 4
+forks: 22
+pushed_at: "2026-02-19T08:28:07Z"
 ---
 ## What it is
 MCP server `Ahrefs`, catalogued on PulseMCP. Integrates with Ahrefs' SEO and marketing APIs to provide rank tracking, keyword research, batch analysis, search volume data, and competitor insights for search marketing intelligence workflows.

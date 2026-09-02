@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-17T20:06:27Z"
 ---
 ## What it is
 MCP server `Geomelon`, catalogued on PulseMCP. Geographic data API providing cities, countries, regions, and languages with multilingual support.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T21:55:44Z"
 ---
 ## What it is
 MCP server `Notesnook`, catalogued on PulseMCP. Bidirectional note sync with the Notesnook note-taking app via filesystem-based export and import.

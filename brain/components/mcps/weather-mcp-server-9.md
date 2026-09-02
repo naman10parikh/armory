@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-28T14:52:25Z"
 ---
 ## What it is
 Provides real-time weather data, forecasts, alerts, and location comparisons via the OpenWeatherMap API.

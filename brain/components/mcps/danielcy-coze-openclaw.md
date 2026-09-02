@@ -12,6 +12,8 @@ stars: 97
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-11T06:47:18Z"
 ---
 ## What it is
 MCP server `Coze Workflows`, catalogued on PulseMCP. Bridges Coze workflow automation with MCP clients for listing, executing, and managing Coze workflows through conversational interfaces.

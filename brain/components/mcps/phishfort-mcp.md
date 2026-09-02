@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T22:11:59Z"
 ---
 ## What it is
 A security-first MCP server and paired agent skill for the PhishFort Unified Client API, enabling PhishFort incident review, reporting, attachments, comments, and webhook management with approval-gated writes and safe defaults.

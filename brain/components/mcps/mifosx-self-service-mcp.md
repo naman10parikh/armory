@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-07-20T10:51:02Z"
 ---
 ## What it is
 Enables AI-driven banking workflows through secure interaction with Apache Fineract/MifosX Self-Service APIs, including authentication, account management, loans, savings, and transfers.

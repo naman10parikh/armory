@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T01:20:36Z"
 ---
 ## What it is
 A production-ready MCP server that gives an LLM agent standalone-equivalent control over a Mineflayer Minecraft bot — movement, mining, crafting, inventory, combat, containers, chat, and much more — exposed as 110 strongly-typed tools across 23 groups, with full bot lifecycle management and dual (po

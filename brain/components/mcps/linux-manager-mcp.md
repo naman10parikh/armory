@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T00:41:42Z"
 ---
 ## What it is
 Enables LLMs to control a Linux server via multiple shell windows with background execution, notes, and sudo separation, allowing natural-language-driven system management and command execution.

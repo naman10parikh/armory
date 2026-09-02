@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T06:38:53Z"
 ---
 ## What it is
 MCP server for Trendyol Seller API providing tools to manage products, orders, claims, finances, invoices, customer questions, and webhooks.

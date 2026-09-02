@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T09:00:31Z"
 ---
 ## What it is
 Enables AI agents to access Contractor Scale internal context, including client background, meeting transcripts, and team summaries, via three tools: list_clients, get_client_context, and get_meetings.

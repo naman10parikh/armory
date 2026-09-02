@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-06T03:12:27Z"
 ---
 ## What it is
 Extracts content from Douyin, Bilibili, Xiaohongshu, and Zhihu, and generates intelligent knowledge graphs.

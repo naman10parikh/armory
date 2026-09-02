@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
-stars: 798
+stars: 818
+forks: 122
+pushed_at: "2026-09-02T02:52:49Z"
 ---
 ## What it is
 A MCP Server that enhance your IDE with AI-powered assistance for Intlayer i18n / CMS tool: smart CLI access, access to the docs.

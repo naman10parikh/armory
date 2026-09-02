@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-09T12:45:02Z"
 ---
 ## What it is
 A Windows-focused MCP server for controlling and debugging PCSX2 via GDB, offering emulator control, memory inspection, debugger operations, savestates, cheats, screenshots, process management, and log access.

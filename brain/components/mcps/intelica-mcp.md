@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T19:00:18Z"
 ---
 ## What it is
 Competitive intelligence for AI agents — analyze any URL or company description and get structured JSON with positioning, pain points, competitors, and unique market angles. Payments via x402 protocol ($0.05 USDC on Base mainnet), no accounts required.

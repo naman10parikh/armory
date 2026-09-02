@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T17:44:55Z"
 ---
 ## What it is
 Enables managing travel itineraries with CRUD tools for journeys, stops, and plan items, plus weather lookup, integrated with public MCP servers for time and web search.

@@ -12,6 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-01-07T22:01:54Z"
 ---
 ## What it is
 MCP server `Local Dev`, catalogued on PulseMCP. Creates sandboxed local dev environments directly from GitHub; run tests, report coverage and more.

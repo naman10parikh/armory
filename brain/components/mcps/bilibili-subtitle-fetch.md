@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-06T04:51:19Z"
 ---
 ## What it is
 A Bilibili subtitle fetching MCP server that supports various input formats (BV number, video URL, short link) and offers configurable language preferences, output formats, and ASR fallback.

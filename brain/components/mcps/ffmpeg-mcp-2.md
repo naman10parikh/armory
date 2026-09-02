@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-19T13:17:43Z"
 ---
 ## What it is
 Provides video and audio manipulation tools powered by FFmpeg, enabling AI assistants to perform media operations such as cutting, converting, and removing silence.

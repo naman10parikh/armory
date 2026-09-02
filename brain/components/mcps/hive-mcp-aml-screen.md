@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T22:56:32Z"
 ---
 ## What it is
 Enables AML screening of blockchain addresses against OFAC SDN lists and chain heuristics, returning risk scores and flags.

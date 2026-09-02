@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T21:18:30Z"
 ---
 ## What it is
 Local MCP server for multi-account IMAP/SMTP email (iCloud + Gmail via app-specific passwords). Never marks mail read. Cross-folder search, idempotent sends, TLS verified.

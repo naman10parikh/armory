@@ -8,10 +8,12 @@ source_url: https://github.com/demwick/polymarket-agent-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-27T01:34:08Z"
 ---
 ## What it is
 MCP server `Polymarket`, catalogued on PulseMCP. Trades and analyzes Polymarket prediction markets with 48 tools for trading, portfolio management, smart money tracking, copy-trading, and automated stop-loss/take-profit.

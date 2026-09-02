@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:11:06Z"
 ---
 ## What it is
 MCP server `Pipeworx Go Module Proxy`, catalogued on PulseMCP. Query Go module proxy data including module info, version lists, and go.mod files.

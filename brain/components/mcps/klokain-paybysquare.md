@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-15T19:59:06Z"
 ---
 ## What it is
 MCP server `PayBySquare`, catalogued on PulseMCP. Generates and decodes PayBySquare QR codes for Slovak banking payments with validation and compliance checking.

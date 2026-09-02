@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:50:26Z"
 ---
 ## What it is
 Emits a negative certificate from the Brazilian Superior Tribunal Militar (STM) based on name, CPF, date of birth, and mother's name. It is a read-only MCP server with one tool, hosted and paid per query.

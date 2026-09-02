@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-14T05:29:13Z"
 ---
 ## What it is
 MCP server `Symbol Blockchain`, catalogued on PulseMCP. Enables interaction with the Symbol blockchain for querying account information, transaction data, and block details through automatically generated tools from the Symbol OpenAPI specification.

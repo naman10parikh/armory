@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T20:27:02Z"
 ---
 ## What it is
 Exposes iDRAC design-system knowledge via a single get_component tool, currently returning placeholder data for known components.

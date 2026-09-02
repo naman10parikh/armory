@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-19T16:10:52Z"
 ---
 ## What it is
 MCP server `NumPy`, catalogued on PulseMCP. Provides NumPy-based mathematical operations and statistical analysis tools for advanced numerical computations, data analysis, and linear algebra operations in Python environments.

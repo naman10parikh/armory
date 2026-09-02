@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T19:02:03Z"
 ---
 ## What it is
 Provides a local CBT exam system as MCP tools for Codex, managing study sessions, scoring, wrong answer tracking, and review queues with deterministic Python engine and optional Notion integration.

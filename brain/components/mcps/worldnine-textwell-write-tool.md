@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-17T13:30:13Z"
 ---
 ## What it is
 MCP server `Textwell`, catalogued on PulseMCP. Integrates with Textwell on macOS to enable writing text in replace, insert, or append modes via a simple, focused interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T00:08:42Z"
 ---
 ## What it is
 This MCP server enables Claude to create and control shared timers, polls, and quizzes on the '모두의 타이머' platform.

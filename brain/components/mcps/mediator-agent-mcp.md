@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T21:27:28Z"
 ---
 ## What it is
 Enables agentic CLIs to start, manage, and resolve structured mediations between product managers and architects, following a protocol to separate positions from interests and produce auditable recommendations.

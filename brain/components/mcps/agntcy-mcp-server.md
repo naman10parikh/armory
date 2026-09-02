@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T16:05:25Z"
 ---
 ## What it is
 Enables interaction with the AGNTCY multi-agent network through MCP, providing tools for agent registration, discovery, and messaging using ACP and SLIM protocols.

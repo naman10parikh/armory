@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T13:40:34Z"
 ---
 ## What it is
 Provides retrieval-augmented generation for insurance claims, enabling search, clause retrieval, and governed tool-calling over policy documents using local LLM (Ollama).

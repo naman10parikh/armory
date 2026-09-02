@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T01:34:26Z"
 ---
 ## What it is
 Enables MCP clients to read Toss Securities market data and account info, and optionally place real-money orders.

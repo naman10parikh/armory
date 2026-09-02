@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T10:56:01Z"
 ---
 ## What it is
 Provides security checks for AI agents, including secret scanning, CVE lookup, and dependency vulnerability scanning, all running locally except for CVE lookups.

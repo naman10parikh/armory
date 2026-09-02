@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T20:40:53Z"
 ---
 ## What it is
 An MCP server that extracts rich metadata (title, description, duration, chapters, subtitles, statistics, etc.) from media URLs across thousands of sites using yt-dlp, and also provides transcript fetching and search capabilities.

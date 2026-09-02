@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T11:17:31Z"
 ---
 ## What it is
 AI access to SAP ECC and on-premise S/4HANA: natural-language table queries, ABAP source reads, where-used lookups, syntax checks, dumps and background jobs — served by an in-system ABAP add-on behind a single ICF node, with no BTP, ADT or RISE dependency. Every call runs under the calling user's ow

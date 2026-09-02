@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T04:39:22Z"
 ---
 ## What it is
 Enables Claude Code sessions on a PC to access iPhone data such as photos, video, location, contacts, calendar, and clipboard over Tailscale, and supports plugin-based browser automations for logged-in services.

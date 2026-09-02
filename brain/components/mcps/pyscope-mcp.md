@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T20:47:51Z"
 ---
 ## What it is
 MCP server that exposes Python function- and module-level call graphs for agentic coding clients, enabling tools like callers_of, callees_of, and neighborhood queries.

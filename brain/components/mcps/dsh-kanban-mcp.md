@@ -8,11 +8,13 @@ source_url: https://github.com/chenyinrusi/dsh-kanban-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T09:20:24Z"
 ---
 ## What it is
 Exposes a filesystem-driven four-lane kanban board as a read-only MCP server, enabling agents to inspect board state, card details, and lane counts.

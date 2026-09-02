@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T00:29:42Z"
 ---
 ## What it is
 MCP server that connects WHOOP health tracker data to ChatGPT, enabling read-only search, fetch, summary, and a React dashboard widget for recovery, sleep, strain, and workouts.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-24T11:12:01Z"
 ---
 ## What it is
 MCP server `Nexi XPay`, catalogued on PulseMCP. Nexi XPay Back Office API integration for orders, transactions, and warnings.

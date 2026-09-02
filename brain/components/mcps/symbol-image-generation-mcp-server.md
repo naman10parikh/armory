@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T06:41:23Z"
 ---
 ## What it is
 Generates stylized 3D symbol images with automatic background removal using multiple AI image generators (Google Imagen, Stability AI, DALL-E 3) and integrates with MCP clients like Claude Desktop.

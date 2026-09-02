@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-06T08:28:22Z"
 ---
 ## What it is
 MCP server that exposes the complete Libredesk REST API (54 endpoints) as tools, enabling natural language management of conversations, contacts, agents, teams, and more for the open-source customer support desk.

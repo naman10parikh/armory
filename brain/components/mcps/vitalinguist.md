@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-14T16:14:50Z"
 ---
 ## What it is
 MCP server `Vitalinguist`, catalogued on PulseMCP. Ukrainian grammar, surzhyk detection, and English-to-Ukrainian authentic rendering from a curated 29,500-entry linguistic database.

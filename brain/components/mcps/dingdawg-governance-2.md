@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T18:50:35Z"
 ---
 ## What it is
 Universal governance layer for AI agents — MCP-native, fail-closed, LNN interpretability. Governed receipts, IPFS audit proofs, and rollback for any agent in any framework.

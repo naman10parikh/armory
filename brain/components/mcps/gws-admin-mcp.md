@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T07:00:04Z"
 ---
 ## What it is
 A local MCP server that provides a safe Google Workspace admin console, enabling AI agents to read users, groups, devices, and reports, with optional write operations gated by explicit confirmation.

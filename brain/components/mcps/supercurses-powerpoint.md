@@ -8,10 +8,12 @@ source_url: https://github.com/supercurses/powerpoint
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 145
+stars: 144
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2025-03-15T09:35:36Z"
 ---
 ## What it is
 MCP server `PowerPoint`, catalogued on PulseMCP. Create PowerPoint presentations leveraging TogetherAI image generation

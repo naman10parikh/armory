@@ -12,6 +12,8 @@ stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-29T14:50:23Z"
 ---
 ## What it is
 MCP server `The Guardian`, catalogued on PulseMCP. Integrates with The Guardian's Open Platform API to search articles, retrieve full content, browse sections, and perform analytical operations like author profiling and topic trend analysis with 17 specialized tools including Long Read discovery and content timeline analysis.

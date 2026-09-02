@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-21T10:47:38Z"
 ---
 ## What it is
 MCP server `SwiftAgent`, catalogued on PulseMCP. Swift SDK for Apple platforms that unifies AI tool declarations across Siri, Apple Intelligence, OpenAI, Anthropic, and MCP clients from a single annotated struct definition.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T21:39:14Z"
 ---
 ## What it is
 MCP server that answers market and wealth-management questions using only HSBC Private Banking insights published at privatebanking.hsbc.com, via OpenAI web search restricted to that domain. It exposes a single tool, lionbank_wealth_insight, for use in ChatGPT Developer mode.

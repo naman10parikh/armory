@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-05T00:16:16Z"
 ---
 ## What it is
 Enables AI-driven customer support ticket processing, including classification, response generation, and automated email sending and Google Sheets logging.

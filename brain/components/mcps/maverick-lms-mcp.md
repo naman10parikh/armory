@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T10:37:37Z"
 ---
 ## What it is
 MCP server integrating MaverickMCP with LM Studio, providing 37+ stock market analysis tools including market data, technical analysis, screening, portfolio tracking, backtesting, and research. Enables natural language interaction with stock analysis tools within LM Studio.

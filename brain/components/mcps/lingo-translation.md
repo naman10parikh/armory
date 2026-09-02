@@ -12,6 +12,8 @@ stars: 5404
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 812
+pushed_at: "2026-08-31T10:56:05Z"
 ---
 ## What it is
 MCP server `Lingo.dev (Translation)`, catalogued on PulseMCP. Enables multilingual content translation for app localization, website content, and text data through a translate tool accessible via npx command with Lingo.dev API key

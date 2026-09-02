@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T03:23:00Z"
 ---
 ## What it is
 MCP server that enables AI assistants to debug IoT modules by sending AT commands over serial ports, with a built-in knowledge base for chip platform commands.

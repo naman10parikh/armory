@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T07:24:43Z"
 ---
 ## What it is
 MCP server for Modbus RTU/TCP instrument control, enabling query and write operations on Modbus registers through a standardized interface, supporting both standalone use and integration with lab-executor.

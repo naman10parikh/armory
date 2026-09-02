@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T22:09:48Z"
 ---
 ## What it is
 MCP server for searching Material Design Icons, enabling AI agents to find icons by name, alias, category, or concept.

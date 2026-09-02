@@ -8,10 +8,12 @@ source_url: https://github.com/dickiedyce/obsidian-ts-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-10T17:22:41Z"
 ---
 ## What it is
 MCP server `Obsidian CLI`, catalogued on PulseMCP. Wraps the official Obsidian CLI for note management, search, metadata, tasks, and templates in Obsidian vaults.

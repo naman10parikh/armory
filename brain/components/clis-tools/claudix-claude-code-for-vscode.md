@@ -14,7 +14,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-code-ide-el, claude-code-nvim]
 tags: [tooling, cli, ide-integrations]
-stars: 1134
+stars: 1130
+forks: 80
+pushed_at: "2026-04-01T19:15:31Z"
 ---
 ## What it is
 A community CLI tool by Haleclipse, catalogued in awesome-claude-code. A VSCode extension that brings Claude Code directly into your editor with interactive chat interface, session management, intelligent file operations, terminal execution, and real-time streaming responses. Built with Vue 3, TypeScript.

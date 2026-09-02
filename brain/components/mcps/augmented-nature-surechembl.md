@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-12-21T10:05:37Z"
 ---
 ## What it is
 MCP server `SureChEMBL`, catalogued on PulseMCP. Integrates with SureChEMBL's chemical patent database to enable patent searches, chemical compound discovery, structure analysis, and data export for pharmaceutical research and intellectual property analysis.

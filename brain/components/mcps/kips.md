@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2024-12-11T00:09:14Z"
 ---
 ## What it is
 Personal data management MCP server that stores and queries notes, tasks, conversations, and auth in SQLite, enabling LLMs to interact with the database through natural language.

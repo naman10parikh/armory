@@ -12,6 +12,8 @@ stars: 91
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-03-10T04:10:36Z"
 ---
 ## What it is
 MCP server `Cryo`, catalogued on PulseMCP. Provides a powerful Ethereum blockchain data extraction and analysis interface using Cryo and DuckDB, enabling efficient SQL-based querying of on-chain datasets with advanced filtering capabilities.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-04T04:47:38Z"
 ---
 ## What it is
 MCP server `Mackerel`, catalogued on PulseMCP. Integrates with Mackerel server monitoring platform to retrieve host information, service details, metrics, and manage monitoring configurations through natural language conversations.

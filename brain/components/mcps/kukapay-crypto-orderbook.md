@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/crypto-orderbook-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-05-07T10:18:58Z"
 ---
 ## What it is
 MCP server `Crypto Orderbook`, catalogued on PulseMCP. Analyzes cryptocurrency order book depth and imbalance across major exchanges including Binance, Kraken, Coinbase, Bitfinex, OKX, and Bybit, providing real-time market structure insights with configurable depth calculations and cross-exchange comparisons in unified tables.

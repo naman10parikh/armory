@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-02T17:34:20Z"
 ---
 ## What it is
 An intelligent code optimization MCP server that analyzes and improves codebases across multiple dimensions including performance, memory, code smells, and complexity.

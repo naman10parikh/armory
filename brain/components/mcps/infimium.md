@@ -8,11 +8,13 @@ source_url: https://github.com/infimium-ai/infimium-agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-16T21:44:47Z"
 ---
 ## What it is
 Infimium is an MCP server that gives AI agents persistent memory, deep dependency graphs, and instant code context for repositories. It provides tools like semantic code search, symbol expansion, and local docs retrieval to minimize token bloat while working with large codebases.

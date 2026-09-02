@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:58:57Z"
 ---
 ## What it is
 Enables AI agents to delegate scoped tasks across multiple providers like Codex, Claude Code, and Antigravity through a single local MCP server, with quota monitoring, notifications, and remote control via messaging apps.

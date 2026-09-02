@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T11:47:02Z"
 ---
 ## What it is
 Enables image generation using Google Gemini models (flash/pro) with support for multiple sizes, reference images, and access control via Google OAuth and email allow-lists.

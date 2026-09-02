@@ -8,10 +8,12 @@ source_url: https://github.com/ozmnf4/ninjatrader-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-04-05T21:01:08Z"
 ---
 ## What it is
 MCP server `NinjaTrader`, catalogued on PulseMCP. Connect to NinjaTrader's trading platform to read positions, place orders, and access market data and indicators.

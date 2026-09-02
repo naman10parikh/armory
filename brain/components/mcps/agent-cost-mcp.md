@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T13:42:52Z"
 ---
 ## What it is
 Tracks AI agent token usage and spending in real time, with budget alerts, per-task cost breakdown, and a visual dashboard.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 2
+forks: 1
+pushed_at: "2026-07-14T19:07:13Z"
 ---
 ## What it is
 Central Bank of Russia (ЦБ РФ) data — currency exchange rates (daily and historical), key interest rate, inflation, and aggregated macro statistics. Five typed tools backed by an in-memory TTL cache. No API key required.

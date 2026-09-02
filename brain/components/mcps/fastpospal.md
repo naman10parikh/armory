@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T20:31:46Z"
 ---
 ## What it is
 FastPospal is a Python SDK and MCP server for the PosPal Web backend, enabling AI agents to manage products, members, inventory, and logistics through natural language commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-10T00:00:49Z"
 ---
 ## What it is
 Implements the Genetic-Evolutionary Prompt Architecture for automatic prompt optimization, providing tools to optimize, quickly improve, and contextually adapt prompts.

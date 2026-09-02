@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T14:25:40Z"
 ---
 ## What it is
 A flight recorder and memory server that sits between MCP clients and Blender, recording interactions, distilling them into persistent per-file memory using NVIDIA Nemotron, and serving that memory to agents via MCP tools like recall and search_sessions.

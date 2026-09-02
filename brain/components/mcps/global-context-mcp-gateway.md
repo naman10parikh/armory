@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T15:25:13Z"
 ---
 ## What it is
 Enterprise-grade intent routing gateway implementing the Model Context Protocol (MCP) spec, optimizing context by routing queries to specialized sub-nodes to reduce token overhead by 85% with negligible latency overhead.

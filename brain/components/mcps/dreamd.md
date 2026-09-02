@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-29T14:47:23Z"
 ---
 ## What it is
 A local MCP server that gives AI harnesses a shared, filesystem-backed memory using the .agent folder, with tools to search and append lessons across sessions.

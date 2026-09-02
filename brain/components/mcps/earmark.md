@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T07:30:33Z"
 ---
 ## What it is
 MCP server that lets coding agents receive UI feedback from a browser overlay—clicked elements, selectors, source paths, and computed styles—and manage it with watch, ask, acknowledge, resolve, and dismiss tools.

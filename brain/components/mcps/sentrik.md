@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-22T23:07:11Z"
 ---
 ## What it is
 MCP server `Sentrik`, catalogued on PulseMCP. Governance runtime that enforces compliance and security standards on AI-generated code before it ships.

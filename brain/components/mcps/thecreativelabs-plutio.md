@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-01T05:06:47Z"
 ---
 ## What it is
 MCP server `Plutio`, catalogued on PulseMCP. Community integration for the Plutio all-in-one business platform covering CRM, projects, and invoicing.

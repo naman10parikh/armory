@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T12:05:38Z"
 ---
 ## What it is
 Provides freight management tools such as instant quotes, market rates, shipment booking and tracking, driver assignment, and document uploads through the Alvargo Freight OS.

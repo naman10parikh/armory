@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-14T12:21:02Z"
 ---
 ## What it is
 MCP server `Shannon (Claude Code CLI)`, catalogued on PulseMCP. Multi-agent collaborative system where 26 specialized agents implement Claude Code CLI integration with automatic binary discovery, real-time session management, Git-like checkpoints, and comprehensive monitoring for advanced development workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:14:02Z"
 ---
 ## What it is
 Backend MCP server for the Expenses Tracker app, providing APIs to record, retrieve, and report expenses.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-19T18:45:19Z"
 ---
 ## What it is
 MCP server `SonicWall`, catalogued on PulseMCP. Integrates with SonicWall firewalls to provide natural language log analysis, threat detection, connection searching, and security statistics with data export capabilities for both SonicOS 7.x and 8.x versions.

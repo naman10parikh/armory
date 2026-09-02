@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T18:11:25Z"
 ---
 ## What it is
 Local MCP stdio bridge to Slack's hosted MCP server, enabling agents to use Slack tools (send messages, search, history, canvas, etc.) via local OAuth and token refresh.

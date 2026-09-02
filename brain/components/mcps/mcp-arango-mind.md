@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T12:21:43Z"
 ---
 ## What it is
 Turns ArangoDB into a schema-driven MCP server for agents, enabling search-describe-exec workflows for database, graph, and knowledge operations without oversizing the tool list.

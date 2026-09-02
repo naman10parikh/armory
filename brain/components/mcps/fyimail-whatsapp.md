@@ -8,10 +8,12 @@ source_url: https://github.com/fyimail/whatsapp-mcp2
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-04-25T04:32:15Z"
 ---
 ## What it is
 MCP server `WhatsApp Web`, catalogued on PulseMCP. Connects AI systems to WhatsApp Web for sending messages, managing groups, searching contacts, and retrieving chat history through direct connection or API client modes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T09:45:54Z"
 ---
 ## What it is
 Enables local document search and reading across formats like docx, pdf, md, and more, providing tools for listing, searching, and reading documents.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T04:32:24Z"
 ---
 ## What it is
 MCP server `Recipe Commerce Intelligence`, catalogued on PulseMCP. Extracts recipes, ingredients, and affiliate product links from food content.

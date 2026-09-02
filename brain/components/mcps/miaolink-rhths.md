@@ -8,10 +8,12 @@ source_url: https://github.com/miaolink/ths_mcp_quant
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T12:28:36Z"
 ---
 ## What it is
 MCP server `RHTHS`, catalogued on PulseMCP. AI trading gateway MCP server for Tonghua Shun PC clients, providing account queries, order management, and market data access.

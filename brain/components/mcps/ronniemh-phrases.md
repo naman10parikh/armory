@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-06-05T03:22:10Z"
 ---
 ## What it is
 MCP server `Phrases`, catalogued on PulseMCP. Provides a simple API for managing phrases and their authors with operations for creating, retrieving, updating, and deleting quote-like content with proper attribution.

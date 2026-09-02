@@ -8,10 +8,12 @@ source_url: https://github.com/renanvieira/brewfather-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-06-28T18:05:59Z"
 ---
 ## What it is
 MCP server `Brewfather`, catalogued on PulseMCP. Connects to Brewfather API for retrieving and analyzing homebrew inventory data, including detailed information about fermentables, hops, and yeasts for recipe formulation and brewing process planning.

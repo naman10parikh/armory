@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-05T17:49:18Z"
 ---
 ## What it is
 MCP server `Chat Analysis`, catalogued on PulseMCP. Integrates vector embeddings and knowledge graphs to enable advanced chat analysis tasks like topic modeling, sentiment analysis, and user behavior tracking.

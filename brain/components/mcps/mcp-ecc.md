@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T11:45:23Z"
 ---
 ## What it is
 A comprehensive MCP server that aggregates email, calendar, and contacts across Google, Microsoft, Zoho, and IMAP/SMTP services, designed for headless environments with OAuth device flow support.

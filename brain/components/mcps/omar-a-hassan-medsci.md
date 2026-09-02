@@ -8,10 +8,12 @@ source_url: https://github.com/omar-a-hassan/medsci-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-14T14:53:58Z"
 ---
 ## What it is
 MCP server `MedSci`, catalogued on PulseMCP. Biomedical research platform with drug discovery, protein analysis, omics pipelines, medical imaging, and literature synthesis powered by MedGemma and TxGemma.

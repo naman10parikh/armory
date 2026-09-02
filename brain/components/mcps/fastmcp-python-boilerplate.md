@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T17:18:13Z"
 ---
 ## What it is
 Provides a production-ready FastMCP Python server boilerplate with structured logging, rate limiting, and config validation for building MCP servers compatible with Claude and other agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-15T11:01:13Z"
 ---
 ## What it is
 Model Context Protocol (MCP) Server for Vunet vuSmartMaps - A multi-tenant observability platform integration. Query metrics, traces, logs, and data models from your Vunet tenants using natural language through AI assistants like Claude, GitHub Copilot, or any MCP-compatible client.

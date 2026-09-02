@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-12T13:40:39Z"
 ---
 ## What it is
 Automatically generates MCP tools, CLI, and web UI from TypeScript methods, enabling AI agents and chat clients to interact with custom capabilities defined once.

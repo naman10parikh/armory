@@ -8,10 +8,12 @@ source_url: https://github.com/givenge/lanhu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T05:08:10Z"
 ---
 ## What it is
 MCP server `Lanhu`, catalogued on PulseMCP. MCP server for accessing Lanhu design projects, mockups, and Axure prototypes via a Chrome extension bridge.

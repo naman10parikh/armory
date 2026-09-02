@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-01T16:33:03Z"
 ---
 ## What it is
 A lightweight MCP server that fetches URLs and returns clean, readable markdown, enabling AI assistants to read any webpage with article extraction, caching, and security features.

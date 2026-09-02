@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T01:34:39Z"
 ---
 ## What it is
 Ingest, query, and generate study materials from documents (PDF, DOCX, Markdown, images, web pages) using vector search, knowledge graph, and study tools through OpenCode chat.

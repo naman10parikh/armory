@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-14T23:51:37Z"
 ---
 ## What it is
 MCP server `Vikunja`, catalogued on PulseMCP. Integrates with Vikunja's API for task creation, retrieval, and management in self-hosted task management workflows

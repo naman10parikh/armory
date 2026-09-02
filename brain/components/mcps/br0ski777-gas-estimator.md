@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:14Z"
 ---
 ## What it is
 MCP server `Gas Estimator`, catalogued on PulseMCP. Estimate gas fees across Ethereum, Base, Polygon, Arbitrum, and BSC.

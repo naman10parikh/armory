@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T22:46:11Z"
 ---
 ## What it is
 MCP server for South-West Indian Ocean cyclone monitoring, providing official links, vigilance alerts, and commune exposure estimates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T00:37:42Z"
 ---
 ## What it is
 Exposes eSentire Atlas API (Findings, Ticketing, MVS) and Threat Intelligence feeds (IP Watch, Advanced/STIX) as MCP tools, enabling security operations and threat intelligence queries through natural language.

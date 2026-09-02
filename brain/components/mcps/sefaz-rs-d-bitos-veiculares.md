@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:52Z"
 ---
 ## What it is
 Enables users to query vehicle debts from the official SEFAZ RS system, offering a single read-only tool to fetch debt information for vehicles registered in Rio Grande do Sul.

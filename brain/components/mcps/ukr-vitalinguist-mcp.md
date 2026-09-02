@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T16:14:50Z"
 ---
 ## What it is
 Provides Ukrainian language grammar checking, surzhyk detection, authentic phrasing, and English-to-Ukrainian rendering through curated linguistic data.

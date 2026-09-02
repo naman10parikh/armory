@@ -8,10 +8,12 @@ source_url: https://github.com/atomicchonk/roadrecon_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-03-30T05:26:46Z"
 ---
 ## What it is
 MCP server `ROADrecon Analyzer`, catalogued on PulseMCP. Exposes Azure AD security data collected by ROADrecon for analyzing tenant security posture, identifying privileged users, evaluating MFA status, detecting stale accounts, and assessing PIM implementation.

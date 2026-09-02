@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T22:51:19Z"
 ---
 ## What it is
 Minimal MCP file server for safe file operations under a local AgentFiles directory.

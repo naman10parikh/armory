@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-17T16:55:19Z"
 ---
 ## What it is
 Enables AI assistants and developer tools to securely access and interact with an organization's enterprise knowledge, documents, and people through natural language while respecting existing access permissions.

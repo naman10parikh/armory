@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-26T00:23:13Z"
 ---
 ## What it is
 MCP server `Cipher X402`, catalogued on PulseMCP. Solana, crypto, and macro tools behind the x402 payment protocol — agents pay micro-fees in USDC on Base to call wallet scanning, breach checking, GitHub health, and Fed economic data tools.

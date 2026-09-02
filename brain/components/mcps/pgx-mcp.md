@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-27T13:07:38Z"
 ---
 ## What it is
 Enables real-time pharmacogenomics analysis, including variant clinical significance, drug-gene interactions, and dosing guidelines, by connecting to ClinVar, PharmGKB, gnomAD, and other databases.

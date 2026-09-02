@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-20T20:13:28Z"
 ---
 ## What it is
 Enables real-time queries and large-scale data collection from X (Twitter) and Reddit via the Model Context Protocol, powered by Bittensor's Data Universe.

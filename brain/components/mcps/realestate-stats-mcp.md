@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T14:00:52Z"
 ---
 ## What it is
 MCP server for the Korea Real Estate Board (R-ONE) open API, enabling users to search and retrieve hundreds of real estate statistics tables including apartment sale/jeonse price indices, land price change rates, and transaction trends through generic tools.

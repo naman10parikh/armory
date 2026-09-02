@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 1
+forks: 1
+pushed_at: "2026-04-25T00:05:04Z"
 ---
 ## What it is
 Cryptographic provenance, bilateral blind reputation scoring, and tamper-evident logging for AI agent interactions. 7 interlocking trust protocols (CoC, ARP, ASA, AJP, ALP, AMP, CWEP) available in Python (pip) and TypeScript (npm). 663 tests. Bitcoin-anchored provenance chains, anti-Goodhart reputation scoring, machine-readable contracts, dispute resolution, lifecycle management, trust-weighted matchmaking, and context-window cost allocation. Also on [Smithery](https://smithery.ai/server/@alexfleetcommander/agent-trust-stack-mcp) and [PyPI](https://pypi.org/project/agent-trust-stack-mcp/).

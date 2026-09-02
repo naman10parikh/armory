@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T13:36:08Z"
 ---
 ## What it is
 MCP server that enables natural-language interaction with the Avito Ads advertising API, including campaign, ad group, and creative management, statistics retrieval, fund transfers, and ORD paperwork filing.

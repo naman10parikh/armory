@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-28T08:29:39Z"
 ---
 ## What it is
 Provides mathematical calculation capabilities using MathJS, enabling expression evaluation and derivative calculation.

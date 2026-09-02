@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-01T06:29:22Z"
 ---
 ## What it is
 MCP server `IssueBadge`, catalogued on PulseMCP. Integrates with IssueBadge's API to enable issue tracking, project management, and badge-based workflow automation for development teams.

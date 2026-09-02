@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:47:41Z"
 ---
 ## What it is
 Enables users to check the income tax refund status of a Brazilian individual using CPF, date of birth, and tax year. It provides a read-only tool and works with any MCP client via HTTP, with no credentials required and pay-per-use credits.

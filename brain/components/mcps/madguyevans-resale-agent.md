@@ -8,10 +8,12 @@ source_url: https://github.com/madguyevans-creator/resale-agent-skill-hub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 94
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-05-16T16:25:13Z"
 ---
 ## What it is
 MCP server `Resale Agent`, catalogued on PulseMCP. Automates C2C second-hand resale through 7 tools covering photo recognition, price research, listing generation, repricing, and auto-delisting across multiple platforms.

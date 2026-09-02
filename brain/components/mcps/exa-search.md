@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-20T12:56:24Z"
 ---
 ## What it is
 MCP server `Exa Search`, catalogued on PulseMCP. Integrates with the Exa Search API to provide web search capabilities, returning structured results and maintaining a cache of recent searches for up-to-date information retrieval.

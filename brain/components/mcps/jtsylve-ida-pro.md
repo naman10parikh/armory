@@ -8,10 +8,12 @@ source_url: https://github.com/jtsylve/re-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 94
+stars: 149
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-08-05T06:39:25Z"
 ---
 ## What it is
 MCP server `IDA Pro`, catalogued on PulseMCP. Headless IDA Pro 9.3 MCP server exposing comprehensive binary analysis, decompilation, and reverse engineering tools.

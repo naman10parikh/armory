@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T14:31:25Z"
 ---
 ## What it is
 MCP server `Public APIs Catalogue`, catalogued on PulseMCP. Query a curated catalogue of 1,400 public APIs by category, authentication type, HTTPS support, and CORS.

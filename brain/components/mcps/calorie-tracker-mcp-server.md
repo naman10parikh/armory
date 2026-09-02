@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-05T14:11:09Z"
 ---
 ## What it is
 Tracks daily calorie intake with accurate BMR/TDEE calculations, food logging, and profile management via Cloudflare Workers and D1 database.

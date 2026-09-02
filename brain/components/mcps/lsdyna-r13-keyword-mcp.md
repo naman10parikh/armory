@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T07:44:10Z"
 ---
 ## What it is
 Provides structured access to LS-DYNA R13 keyword manuals via MCP, enabling AI agents to retrieve card syntax, field info, and search within sections for writing and verifying LS-DYNA input files.

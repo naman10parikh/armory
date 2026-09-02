@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T12:51:34Z"
 ---
 ## What it is
 Zero-trust local MCP bridge that exposes read-only database tools and structured book navigation to AI agents, with two-tier PII redaction and MPS audit integration.

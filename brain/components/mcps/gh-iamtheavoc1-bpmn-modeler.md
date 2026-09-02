@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-24T09:02:53Z"
 ---
 ## What it is
 MCP server `BPMN Modeler`, catalogued on PulseMCP. BPMN 2.0 diagram creation, parsing, validation, analysis, conversion, and auto-layout.

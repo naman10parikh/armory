@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:23:01Z"
 ---
 ## What it is
 Enables prompt versioning, evaluation, and management via MCP, CLI, and REST APIs, with support for multiple LLM providers.

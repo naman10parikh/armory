@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-30T22:20:25Z"
 ---
 ## What it is
 MCP server `Front (Houst)`, catalogued on PulseMCP. Community MCP server for Front, providing access to conversations, contacts, messages, tags, and inbox workflows.

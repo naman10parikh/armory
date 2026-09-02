@@ -8,10 +8,12 @@ source_url: https://github.com/rusty4444/grocy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-01T16:16:01Z"
 ---
 ## What it is
 MCP server `Grocy`, catalogued on PulseMCP. Manages Grocy household ERP inventory, products, and shopping lists via MCP.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-29T14:15:50Z"
 ---
 ## What it is
 MCP server `Jupiter DEX by Junct`, catalogued on PulseMCP. Hosted integration with Jupiter DEX aggregator on Solana for swap operations via Junct platform.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T13:23:03Z"
 ---
 ## What it is
 A modular backend that connects language models to real-world tools like Gmail and Google Docs via MCP server abstractions, enabling agentic workflows with LLM reasoning and secure OAuth integration.

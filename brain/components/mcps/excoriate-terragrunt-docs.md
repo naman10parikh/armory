@@ -8,10 +8,12 @@ source_url: https://github.com/excoriate/mcp-terragrunt-docs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-22T11:08:16Z"
 ---
 ## What it is
 MCP server `Terragrunt Documentation`, catalogued on PulseMCP. Provides direct access to Terragrunt documentation and GitHub issues through a Deno/TypeScript server that fetches content from the official repository with fuzzy matching and normalized responses.

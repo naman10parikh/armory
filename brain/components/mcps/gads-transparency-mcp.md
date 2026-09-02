@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T05:39:58Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI assistants to research competitor ads, analyze advertiser profiles, and compare ad presence across 42 regions using publicly available Google Ads Transparency data.

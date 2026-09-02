@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T00:02:38Z"
 ---
 ## What it is
 A tiny public MCP server backed by an Envy-managed Modal sandbox that exposes a hello environment with standard sandbox tools like create_sandbox, bash, read, write, edit, and grep for ephemeral file and command execution.

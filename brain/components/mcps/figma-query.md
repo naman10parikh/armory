@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-09T13:11:26Z"
 ---
 ## What it is
 Token-efficient Figma MCP server with image export, query DSL, and design token support.

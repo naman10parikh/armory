@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 21
+forks: 1
+pushed_at: "2026-07-21T01:38:38Z"
 ---
 ## What it is
 Persistent memory engine for AI coding agents. Stores architecture decisions, bug root causes, and project conventions across sessions. Single Go binary with embedded SQLite, FTS5 search, context assembly within token budgets, and autopilot setup for Claude Code, Kiro, and Cursor.

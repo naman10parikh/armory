@@ -8,11 +8,13 @@ source_url: https://github.com/no-materials/hird
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:14:24Z"
 ---
 ## What it is
 Compiler introspection for the Hirð language (typed actors and effect rows on the BEAM): type inference, definition lookup, effect-row explanation, IR fragments, actor protocol and supervision graphs, and token-budget-aware symbol summaries.

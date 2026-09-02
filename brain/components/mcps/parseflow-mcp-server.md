@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-18T08:19:49Z"
 ---
 ## What it is
 Enables AI assistants to parse and search documents including PDF, Word, Excel, PowerPoint, and images via OCR, with support for semantic search and batch processing.

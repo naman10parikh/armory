@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T08:26:39Z"
 ---
 ## What it is
 An accessibility expert MCP server that provides AI coding assistants with real-time access to WAI-ARIA patterns, code review, contrast checking, and WCAG guidance for writing accessible code from the start.

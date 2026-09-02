@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T06:54:22Z"
 ---
 ## What it is
 Provides a recognize_image tool that enables image recognition using DeepSeek's vision capabilities. Supports automatic login via browser or manual token configuration for server environments.

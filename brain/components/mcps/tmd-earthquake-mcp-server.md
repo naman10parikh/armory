@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-07T09:12:59Z"
 ---
 ## What it is
 Provides access to earthquake data from the Thai Meteorological Department (TMD) API. Enables querying recent earthquakes, filtering by location and magnitude, and obtaining statistics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T10:27:21Z"
 ---
 ## What it is
 An MCP server that uses an OWL/SHACL/SKOS knowledge graph to interpret login-diagnosis prompts and return JSON-LD descriptors, guiding Copilot agents to the appropriate SQL Server and MongoDB queries and enabling New Relic escalation when needed.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-02-01T17:18:33Z"
 ---
 ## What it is
 MCP server `OneSignal`, catalogued on PulseMCP. Integrates with OneSignal to manage push notifications, emails, and SMS across multiple applications with support for device management, segmentation, and template operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T15:24:43Z"
 ---
 ## What it is
 MCP server for Planfix REST API that generates tools from an OpenAPI spec, exposing operations like task_list and comment_add with Russian descriptions, filtering, and response validation.

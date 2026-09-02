@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-13T14:28:34Z"
 ---
 ## What it is
 MCP server `IBM Business Automation Workflow`, catalogued on PulseMCP. Manages IBM Business Automation Workflow (BAW) administration including authentication, snapshot installation, and monitoring — not an official IBM product.

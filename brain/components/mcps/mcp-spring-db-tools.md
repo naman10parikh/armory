@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-19T10:08:37Z"
 ---
 ## What it is
 Enables database schema querying and execution plan analysis for Spring Boot projects. Supports multiple databases including MySQL, PostgreSQL, MSSQL, and SQLite.

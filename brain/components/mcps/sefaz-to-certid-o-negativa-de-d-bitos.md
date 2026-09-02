@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:03Z"
 ---
 ## What it is
 Provides a read-only MCP tool to consult official SEFAZ TO negative debt certificates via a hosted, prepaid API.

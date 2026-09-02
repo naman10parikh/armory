@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T23:56:59Z"
 ---
 ## What it is
 Enables LLM agents to securely use credentials like passwords and API keys without exposing them in the context window, through encrypted storage and proxy-based injection.

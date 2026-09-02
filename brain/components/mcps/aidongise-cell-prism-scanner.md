@@ -8,10 +8,12 @@ source_url: https://github.com/aidongise-cell/prism-scanner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-07T03:44:50Z"
 ---
 ## What it is
 MCP server `Prism Scanner`, catalogued on PulseMCP. Scans AI agent skills, plugins, and MCP servers for security vulnerabilities using 39 detection rules.

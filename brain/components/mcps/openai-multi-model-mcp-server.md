@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-11T20:03:46Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that enables Claude Code to interact with OpenAI's GPT-5 and GPT-5-mini models.

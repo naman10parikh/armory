@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-24T11:36:14Z"
 ---
 ## What it is
 MCP server `Agent Bank`, catalogued on PulseMCP. Financial infrastructure for autonomous AI agents with self-custody wallets, USDC transfers, collateralized lending, job marketplace, and price negotiation on Polygon.

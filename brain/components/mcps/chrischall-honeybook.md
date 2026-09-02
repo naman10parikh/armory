@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T23:31:28Z"
 ---
 ## What it is
 MCP server `HoneyBook`, catalogued on PulseMCP. Access HoneyBook client portal contracts and invoices using browser automation with Puppeteer and magic-link authentication.

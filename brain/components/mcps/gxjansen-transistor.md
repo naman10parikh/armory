@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-12T18:42:46Z"
 ---
 ## What it is
 MCP server `Transistor.fm`, catalogued on PulseMCP. Integrates with Transistor.fm's API to manage podcasts, episodes, analytics, and subscribers for automating podcast workflows.

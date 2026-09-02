@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-19T04:03:11Z"
 ---
 ## What it is
 A streaming AI cooking assistant that uses MCP tools and Neo4j knowledge graph to answer queries, manage recipes, and remember user preferences.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T19:32:54Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve clinical trial data from ClinicalTrials.gov, supporting filters, study details, metadata, and statistics.

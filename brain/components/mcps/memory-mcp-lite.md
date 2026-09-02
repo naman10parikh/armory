@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T05:21:22Z"
 ---
 ## What it is
 A lightweight, local memory server for AI coding assistants that stores durable knowledge (decisions, facts, gotchas) in a tree structure, enabling persistent context across sessions with efficient retrieval via summaries and FTS5 search.

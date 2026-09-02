@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T08:01:19Z"
 ---
 ## What it is
 hermes-mcp-s is a modular MCP suite host for Hermes and other agents. It provides one stdio MCP server that can load long-lived personal automation capabilities as installable external modules.

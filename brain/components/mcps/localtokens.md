@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T17:30:53Z"
 ---
 ## What it is
 An MCP server that turns your machine or LAN of ollama nodes into a local token generator, enabling coding agents to delegate bounded processing tasks to local models and save cloud credits.

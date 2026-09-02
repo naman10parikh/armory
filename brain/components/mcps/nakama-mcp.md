@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T07:03:15Z"
 ---
 ## What it is
 An MCP server that allows Claude and other hosts to interact with a Heroic Labs Nakama instance through both its Client API and Console API, enabling game server operations like authentication, accounts, storage, leaderboards, and admin tasks.

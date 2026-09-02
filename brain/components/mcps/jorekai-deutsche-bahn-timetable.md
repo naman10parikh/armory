@@ -8,10 +8,12 @@ source_url: https://github.com/jorekai/db-timetable-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-31T02:46:04Z"
 ---
 ## What it is
 MCP server `Deutsche Bahn Timetable`, catalogued on PulseMCP. Connects to Deutsche Bahn timetable API for retrieving real-time railway information, planned schedules, recent changes, and station searches across Germany's rail network.

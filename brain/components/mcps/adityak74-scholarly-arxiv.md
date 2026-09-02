@@ -8,10 +8,12 @@ source_url: https://github.com/adityak74/mcp-scholarly
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 178
+stars: 186
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 26
+pushed_at: "2026-08-25T03:27:05Z"
 ---
 ## What it is
 MCP server `Scholarly (arXiv)`, catalogued on PulseMCP. Integrates with arXiv to enable keyword-based searching and retrieval of academic articles for research assistance and literature reviews.

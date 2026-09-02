@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:00:22Z"
 ---
 ## What it is
 Computes line-level diffs between two texts, returning added/removed lines and a unified diff string.

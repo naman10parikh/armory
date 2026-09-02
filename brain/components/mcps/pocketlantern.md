@@ -8,10 +8,12 @@ source_url: https://github.com/pocketlantern/pocketlantern
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-27T22:37:17Z"
 ---
 ## What it is
 MCP server `PocketLantern`, catalogued on PulseMCP. Blocker-aware decision layer for coding agents, grounded in source-linked, time-sensitive facts.

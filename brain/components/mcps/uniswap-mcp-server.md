@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T11:37:13Z"
 ---
 ## What it is
 Exposes Uniswap V2 and V3 on-chain data and swap execution as MCP tools, resources, and prompts, enabling AI agents to query prices, inspect pools, get quotes, and execute trades.

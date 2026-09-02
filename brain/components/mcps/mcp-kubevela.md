@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T02:58:45Z"
 ---
 ## What it is
 Enables AI assistants to query and manage KubeVela application delivery: check application status, trigger deployments, track workflows, manage addons, and more.

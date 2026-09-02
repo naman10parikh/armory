@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T01:03:52Z"
 ---
 ## What it is
 Enables automated messaging, room management, and team collaboration through the Webex platform using a bot.

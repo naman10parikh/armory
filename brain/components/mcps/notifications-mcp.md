@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:06:35Z"
 ---
 ## What it is
 Unified Notifications MCP Server that enables AI agents to send email alerts via Gmail. Supports OAuth authentication and multiple recipients.

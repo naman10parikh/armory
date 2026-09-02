@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:54:24Z"
 ---
 ## What it is
 Enables developers to compare their code predictions against AI-generated implementations, log misconceptions, and receive spaced-repetition learning feedback to guide their understanding of gaps.

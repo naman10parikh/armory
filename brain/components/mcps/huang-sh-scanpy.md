@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-05-15T11:48:14Z"
 ---
 ## What it is
 MCP server `Scanpy`, catalogued on PulseMCP. Provides natural language access to single-cell RNA sequencing analysis through Scanpy, enabling bioinformatics workflows like clustering, dimensionality reduction, and cell type annotation without writing code.

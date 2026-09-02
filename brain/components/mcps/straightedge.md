@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:11:49Z"
 ---
 ## What it is
 Enables AI agents to deterministically control Mermaid diagram layout through semantic operations like alignment, distribution, resizing, and history management via MCP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T18:22:35Z"
 ---
 ## What it is
 A FastMCP server that scans Azure DevOps work items, flags overdue or stale items, emails assignees via Microsoft Graph, and provides tools to delve into stalled items, wiki pages, and write operations with safety gates.

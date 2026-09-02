@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-13T17:24:01Z"
 ---
 ## What it is
 MCP server that manages a K-Ruoka (Finnish grocery) shopping cart: read cart, add/update/remove items, clear cart, search products and stores. It uses a real Chrome browser to authenticate via cookies, enabling cart management through natural language.

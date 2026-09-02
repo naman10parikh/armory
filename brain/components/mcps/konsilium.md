@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T19:52:06Z"
 ---
 ## What it is
 Enables privacy-first medical document analysis with multi-perspective AI review. Ingest documents, run consilium reviews, generate doctor letters, and search patient memory—all through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:51:20Z"
 ---
 ## What it is
 MCP server exposing basic utility functions like addition, current time, and word counting via FastAPI endpoints, designed for learning and extending toward MCP architecture.

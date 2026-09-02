@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T13:19:02Z"
 ---
 ## What it is
 Persistence memory MCP server that enables AI coding agents to recall and learn from past sessions, storing scars, wins, patterns, and decisions for continuous improvement.

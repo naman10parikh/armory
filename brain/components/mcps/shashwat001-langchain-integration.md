@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-17T19:47:20Z"
 ---
 ## What it is
 MCP server `Langchain Integration`, catalogued on PulseMCP. Integrates Langchain with MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T22:23:32Z"
 ---
 ## What it is
 An MCP server that fetches any URL and returns clean Markdown, plus web search with real links.

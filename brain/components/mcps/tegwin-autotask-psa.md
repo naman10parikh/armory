@@ -8,10 +8,12 @@ source_url: https://github.com/tegwin/autotaskmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-10T11:55:24Z"
 ---
 ## What it is
 MCP server `Autotask PSA`, catalogued on PulseMCP. Integrates with Autotask PSA platform for ticket management, company and contact operations, time tracking, and resource management with automatic name-to-ID lookups.

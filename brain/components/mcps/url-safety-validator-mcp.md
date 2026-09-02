@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:37:43Z"
 ---
 ## What it is
 Enables AI agents to check URL safety before fetching content, using Google Web Risk, URLhaus, PhishTank, and AI analysis to return SAFE/SUSPICIOUS/DANGEROUS verdicts.

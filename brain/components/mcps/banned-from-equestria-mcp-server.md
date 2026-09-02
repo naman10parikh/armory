@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:41:19Z"
 ---
 ## What it is
 Read-only MCP server exposing game rules, official links, and FAQ for the Banned from Equestria fan archive.

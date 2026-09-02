@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 2
+forks: 1
+pushed_at: "2026-04-09T02:16:54Z"
 ---
 ## What it is
 Collection of B2B sales intelligence MCP servers. Includes website analysis, tech stack detection, hiring signals, review aggregation, ad tracking, social profiles, financial reporting and more for AI-powered prospecting by [Ekas](https://ekas.io/)

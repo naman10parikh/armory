@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-24T03:13:03Z"
 ---
 ## What it is
 An MCP server that allows AI agents to drive real Android devices via adb, capturing screenshots, reading the live UI tree, and performing actions like tap, swipe, and type.

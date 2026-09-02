@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T14:25:47Z"
 ---
 ## What it is
 Enables AI to interview users about their business and generate bilingual one-page websites for small businesses.

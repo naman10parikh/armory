@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T03:42:41Z"
 ---
 ## What it is
 Streamable HTTP wrapper for kordoc, enabling ChatGPT to parse, generate, patch, fill forms, and validate Korean office document formats like HWP, HWPX, PDF, and more.

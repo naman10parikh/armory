@@ -12,6 +12,8 @@ stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-12-05T12:55:44Z"
 ---
 ## What it is
 MCP server `Spark Optimizer`, catalogued on PulseMCP. Optimizes Apache Spark code by analyzing PySpark queries and applying performance enhancements for resource management, execution tuning, and query optimization, resulting in significantly faster job execution.

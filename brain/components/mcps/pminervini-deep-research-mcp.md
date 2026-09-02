@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, research]
-stars: 103
+stars: 108
+forks: 13
+pushed_at: "2026-08-05T09:30:14Z"
 ---
 ## What it is
 Deep research MCP server for OpenAI Responses API or Open Deep Research (smolagents), with web search and code interpreter support.

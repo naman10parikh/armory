@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T03:25:16Z"
 ---
 ## What it is
 Generates optimized repository maps and enables identifier search with graph-ranking, designed for efficient LLM context caching and codebase navigation.

@@ -8,10 +8,12 @@ source_url: https://github.com/stucchi/trello-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-31T17:06:40Z"
 ---
 ## What it is
 MCP server `Trello by stucchi`, catalogued on PulseMCP. Manage Trello boards, lists, cards, labels, checklists, and comments via the Trello REST API.

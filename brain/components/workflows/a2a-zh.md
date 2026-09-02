@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, documentation]
+forks: 0
+pushed_at: "2025-04-11T14:08:27Z"
 ---
 ## What it is
 Chinese documentation for A2A protocol

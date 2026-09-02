@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T00:16:28Z"
 ---
 ## What it is
 A Model Context Protocol server that enables AI assistants to read and safely modify TP-Link Omada networks through capability-gated tools, with a default read-only profile and dry-run writes for security.

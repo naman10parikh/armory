@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-04T05:28:56Z"
 ---
 ## What it is
 MCP server `SSH Hub`, catalogued on PulseMCP. SSH connection management with persistent pooling, file operations, command execution, and bidirectional directory sync.

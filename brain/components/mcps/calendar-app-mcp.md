@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-21T19:56:19Z"
 ---
 ## What it is
 Enables AI assistants to access and interact with macOS Calendar.app events and reminders, including viewing, searching, and filtering calendar data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T20:28:35Z"
 ---
 ## What it is
 MCP server for Indian stock market analysis that provides fundamentals, technicals, DCF valuation, peer comparison, revenue forecasts, and news. It enables natural language interaction with stock data, including full analysis, comparisons, and raw financial data.

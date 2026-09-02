@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-06T05:02:51Z"
 ---
 ## What it is
 MCP server `React Native Web Browser`, catalogued on PulseMCP. Automates React Native Web applications using coordinate-based mouse interactions that properly trigger gesture responder events, providing multi-tab browser sessions with screenshot capabilities.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:43:32Z"
 ---
 ## What it is
 Enables AI agents to run PowerShell commands and manage Windows services without intrusive console windows, while also supporting remote execution via SSH and WinRM.

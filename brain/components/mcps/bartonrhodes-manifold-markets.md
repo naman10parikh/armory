@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-01-11T10:36:58Z"
 ---
 ## What it is
 MCP server `Manifold Markets`, catalogued on PulseMCP. Integrates with Manifold Markets prediction markets, enabling market search, analysis, betting, and portfolio management with precise limit orders and advanced filtering.

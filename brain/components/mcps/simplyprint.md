@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T15:11:04Z"
 ---
 ## What it is
 MCP server `SimplyPrint`, catalogued on PulseMCP. Manage 3D printer farms directly from Claude, controlling printers, queues, and jobs.

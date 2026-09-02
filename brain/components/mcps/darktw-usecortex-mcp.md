@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 1
+forks: 0
+pushed_at: "2026-03-17T17:03:30Z"
 ---
 ## What it is
 Persistent knowledge memory for AI agents. Two-way flow: read context into projects and write discoveries back. Structured by topic with AES-256 encryption.

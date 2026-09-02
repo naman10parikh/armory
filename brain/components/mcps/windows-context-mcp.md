@@ -8,11 +8,13 @@ source_url: https://github.com/nandhakumar-murugan/windows-context-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T21:02:38Z"
 ---
 ## What it is
 Enables AI agents to access real-time Windows PC context including active window, system performance, screen time, productivity analytics, and historical usage through MCP tools.

@@ -8,10 +8,12 @@ source_url: https://github.com/ivncmp/dbrain
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T10:13:14Z"
 ---
 ## What it is
 MCP server `dBrain`, catalogued on PulseMCP. Persistent memory server for AI assistants using PARA taxonomy and hot/warm/cold memory tiers with dual REST and MCP interfaces.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-12T11:44:28Z"
 ---
 ## What it is
 Enables multi-agent research with web search and analysis, accessible via VS Code Copilot tools.

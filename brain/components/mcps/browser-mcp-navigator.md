@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T02:40:54Z"
 ---
 ## What it is
 Ultra-fast browser automation server over Chrome DevTools Protocol (CDP), exposed as MCP, enabling AI agents to control a real Chrome browser with low latency and minimal token usage.

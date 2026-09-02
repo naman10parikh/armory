@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T05:00:27Z"
 ---
 ## What it is
 Enables RAG-based querying of local stock company data using a local LLM and vector database, providing tools to ask questions, search raw chunks, and list documents.

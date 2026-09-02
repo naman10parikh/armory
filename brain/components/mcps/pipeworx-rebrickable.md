@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:36:12Z"
 ---
 ## What it is
 MCP server `Pipeworx Rebrickable`, catalogued on PulseMCP. LEGO catalog search for sets, parts, minifigs, themes, and colors via the Rebrickable API through the Pipeworx gateway.

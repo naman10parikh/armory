@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T03:56:56Z"
 ---
 ## What it is
 Enables AI assistants to connect to SQL Server databases and execute arbitrary SQL operations, including queries, updates, table management, and script execution, through the Model Context Protocol.

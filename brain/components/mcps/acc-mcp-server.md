@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T13:29:35Z"
 ---
 ## What it is
 A remote Model Context Protocol server that lets Claude on claude.ai browse your Autodesk Construction Cloud (ACC) hubs/projects/files and hand you a link that opens the actual model in a hosted Autodesk Viewer page.

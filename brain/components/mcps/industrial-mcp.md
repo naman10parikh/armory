@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T11:15:10Z"
 ---
 ## What it is
 An open-source MCP server that bridges AI models with industrial equipment, supporting multiple protocols like Modbus, OPC UA, and MQTT for reading data and controlling machines.

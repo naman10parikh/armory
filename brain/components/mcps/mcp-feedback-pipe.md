@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-13T08:48:29Z"
 ---
 ## What it is
 Web-based feedback collection tool for MCP environments with Markdown, Mermaid charts, and image upload support.

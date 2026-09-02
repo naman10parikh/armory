@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T05:56:48Z"
 ---
 ## What it is
 Enables access to 11 free public APIs including weather, country info, NASA data, dictionary, and more, with zero configuration and no API keys required.

@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-27T13:36:31Z"
 ---
 ## What it is
 MCP server `KDebug (Kubernetes)`, catalogued on PulseMCP. Enables natural language interaction with Kubernetes resources, allowing developers to manage clusters through conversational interfaces instead of complex kubectl commands.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T14:21:48Z"
 ---
 ## What it is
 Enables searching arXiv papers by topic or category, retrieving full text, PDFs, and BibTeX citations, and generating structured reviews and comparisons.

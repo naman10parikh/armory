@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-21T19:39:05Z"
 ---
 ## What it is
 Enables LLMs to perform JVM bytecode analysis and editing by operating a Recaf workspace through MCP tools. Supports class browsing, decompilation, bytecode manipulation, search, cross-references, and refactoring operations.

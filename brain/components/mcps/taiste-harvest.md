@@ -8,10 +8,12 @@ source_url: https://github.com/taiste/harvest-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-07-23T04:52:43Z"
 ---
 ## What it is
 MCP server `Harvest`, catalogued on PulseMCP. Integrates with Harvest time tracking API to manage time entries, projects, clients, and tasks directly through conversation without switching contexts.

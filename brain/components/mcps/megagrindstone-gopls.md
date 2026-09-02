@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-12T10:23:04Z"
 ---
 ## What it is
 MCP server `gopls`, catalogued on PulseMCP. Integrates with gopls to provide Go language server capabilities including go-to-definition, find references, hover information, document symbols, workspace symbols, type definitions, and workspace status monitoring across multiple Go workspaces simultaneously.

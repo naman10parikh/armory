@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T10:14:10Z"
 ---
 ## What it is
 Turn any REST API into an MCP server in one command. Point mcpify at an OpenAPI spec and every endpoint becomes a tool your AI agent (Claude, Cursor, Windsurf) can call — zero glue code, always in sync with the spec.

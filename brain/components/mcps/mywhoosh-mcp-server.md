@@ -8,11 +8,13 @@ source_url: https://github.com/mywhoosh-community/mywhoosh-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-25T18:29:55Z"
 ---
 ## What it is
 Enables seamless interaction with MyWhoosh API for managing workouts, training sessions, and settings via natural language.

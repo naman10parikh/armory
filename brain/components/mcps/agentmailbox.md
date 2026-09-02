@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T10:05:52Z"
 ---
 ## What it is
 Enables AI agents to maintain persistent context across sessions, restarts, and handoffs through a mailbox-based context sync protocol, compatible with any MCP-aware client.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-28T02:28:00Z"
 ---
 ## What it is
 A Model Context Protocol server for local Drupal development that combines file indexing with drush-powered database queries to provide AI assistants with knowledge of your site's structure, content, and the drupal.org ecosystem.

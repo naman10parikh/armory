@@ -8,10 +8,12 @@ source_url: https://github.com/qihoo360/ecs_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-18T11:25:11Z"
 ---
 ## What it is
 MCP server `ECS Cloud Storage`, catalogued on PulseMCP. Provides comprehensive file management and cloud storage operations including upload, download, search, move, rename, delete, directory management, file sharing, and video downloading capabilities with authentication and configurable timeout handling.

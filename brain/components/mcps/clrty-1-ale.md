@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T18:41:50Z"
 ---
 ## What it is
 MCP server for executing atomic liquidity swaps via 1inch Fusion, enabling CLRTY-1 token to USDT settlement with fail-closed safety and dry-run mode.

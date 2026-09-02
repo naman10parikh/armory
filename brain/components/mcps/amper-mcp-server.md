@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T04:20:10Z"
 ---
 ## What it is
 Enables natural language-driven DeFi operations including swaps, lending, bridging, and onchain transactions across multiple protocols via MCP-compatible clients.

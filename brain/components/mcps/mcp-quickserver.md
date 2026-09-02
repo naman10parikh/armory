@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T17:51:21Z"
 ---
 ## What it is
 A working MCP server template for notes management (add, get, search, delete) with in-memory store, demonstrating tools, resources, and prompts for easy forking and customization.

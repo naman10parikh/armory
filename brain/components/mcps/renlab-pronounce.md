@@ -8,10 +8,12 @@ source_url: https://github.com/anzy-renlab-ai/pronounce
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T10:54:22Z"
 ---
 ## What it is
 MCP server `Pronounce`, catalogued on PulseMCP. Developer pronunciation dictionary with 544+ entries for tech jargon (kubectl, nginx, GIF, JSON) providing audio pronunciations sourced from creator interviews and official documentation.

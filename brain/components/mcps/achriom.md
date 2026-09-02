@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-09T19:39:50Z"
 ---
 ## What it is
 MCP server `Achriom`, catalogued on PulseMCP. Personal media library for tracking books, movies, music, shows, and anime.

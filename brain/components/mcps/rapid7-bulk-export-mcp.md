@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T16:36:13Z"
 ---
 ## What it is
 Exports vulnerability and asset data from Rapid7 Command Platform via the Bulk Export API into a local DuckDB database, enabling AI assistants to run natural language queries and SQL analysis with sandboxed security.

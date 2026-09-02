@@ -8,10 +8,12 @@ source_url: https://github.com/codejunkie99/brain
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-08-06T20:51:15Z"
 ---
 ## What it is
 MCP server `Brain`, catalogued on PulseMCP. Rust MCP server providing git-backed long-term memory for AI coding agents with SQLite indexing and CLI interface.

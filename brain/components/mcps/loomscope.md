@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T23:38:01Z"
 ---
 ## What it is
 Password-protected dashboard and Remote MCP observer for Codex work, recording concise task milestones via observe_start, observe_report, and observe_finish tools.

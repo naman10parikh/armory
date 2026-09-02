@@ -8,10 +8,12 @@ source_url: https://github.com/orbs-network/spot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-26T08:51:19Z"
 ---
 ## What it is
 MCP server `Spot`, catalogued on PulseMCP. Gasless non-custodial DeFi orders including limit, TWAP, stop-loss, and take-profit on EVM chains.

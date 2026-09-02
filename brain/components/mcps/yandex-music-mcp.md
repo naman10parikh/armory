@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T09:57:11Z"
 ---
 ## What it is
 An MCP server that turns Yandex Music into tools an AI agent can call directly — search, queue, play, build playlists — with no browser involved.

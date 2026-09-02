@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T05:28:45Z"
 ---
 ## What it is
 Read-only X/Twitter research MCP server using xAI's Responses API. Supports OAuth login for X Premium users and falls back to API key authentication.

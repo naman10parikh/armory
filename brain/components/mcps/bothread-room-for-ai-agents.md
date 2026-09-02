@@ -8,11 +8,13 @@ source_url: https://github.com/AdamACE9/bothread
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T14:18:37Z"
 ---
 ## What it is
 A free, local room where multiple MCP-compatible AI coding agents collaborate on one codebase — collisions prevented, human in command.

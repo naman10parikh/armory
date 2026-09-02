@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T21:38:17Z"
 ---
 ## What it is
 An MCP server that enables AI agents to compile, refine, and interlink knowledge into a persistent wiki, replacing RAG with structured, curated knowledge.

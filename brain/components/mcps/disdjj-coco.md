@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-18T02:33:43Z"
 ---
 ## What it is
 MCP server `Coco (Pair Programming Master)`, catalogued on PulseMCP. MCP-Coco provides a pair programming tool that guides technical discussions by transforming code snippets into structured frameworks for critical inquiry about performance, security, and maintainability.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-03T11:21:41Z"
 ---
 ## What it is
 85 tools for Taiwan + US stock-market analysis — quotes, three major institutional flows, chip data, fundamentals, technical indicators, backtesting, risk metrics. Requires the Stock Analyzer desktop app running locally on port 3000.

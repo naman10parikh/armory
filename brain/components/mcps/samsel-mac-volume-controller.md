@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-20T21:58:22Z"
 ---
 ## What it is
 MCP server `Mac Volume Controller`, catalogued on PulseMCP. Enables macOS volume control via osascript, providing mute and unmute functionality for system audio management.

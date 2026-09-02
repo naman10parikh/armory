@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T11:07:43Z"
 ---
 ## What it is
 Connects AI assistants to Jira, enabling retrieval, search, creation, and update of issues with schema validation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-30T13:06:53Z"
 ---
 ## What it is
 Enables users to interact with X/Twitter via Claude, allowing posting tweets, searching, liking, retweeting, and more using OAuth 2.0 PKCE authentication.

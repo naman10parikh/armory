@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-23T14:58:55Z"
 ---
 ## What it is
 MCP server `Web Search and Semantic Similarity`, catalogued on PulseMCP. Provides web search and information extraction capabilities using SearchAPI.io for queries, Firecrawl for content scraping, and embedding models for semantic similarity matching across multiple languages.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-05-04T03:48:05Z"
 ---
 ## What it is
 MCP server `WhatsApp Messenger`, catalogued on PulseMCP. Enables sending formatted WhatsApp messages to specified recipients through Twilio's API for automated notifications and customer service workflows.

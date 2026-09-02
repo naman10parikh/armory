@@ -8,10 +8,12 @@ source_url: https://github.com/cyberpapiii/imessage-max
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-09-02T00:51:10Z"
 ---
 ## What it is
 MCP server `iMessage Max`, catalogued on PulseMCP. Read, search, and send iMessage messages on macOS through AI assistants.

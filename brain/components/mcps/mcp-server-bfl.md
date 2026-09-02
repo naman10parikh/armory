@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-02-24T10:11:59Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to generate images using Black Forest Labs API and FLUX models, with automatic polling and image URL retrieval.

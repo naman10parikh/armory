@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:37:33Z"
 ---
 ## What it is
 Provides search and retrieval of Cypriot legal compliance sources from primary government and EU portals, enabling access to legislation, EU implementation measures, agency guidance, and case law.

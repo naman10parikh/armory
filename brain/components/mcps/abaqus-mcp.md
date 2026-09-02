@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T08:26:28Z"
 ---
 ## What it is
 An MCP server that enables controlling a live Abaqus/CAE session through natural language, allowing model inspection, job submission, ODB analysis, and viewport capture.

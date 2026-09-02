@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-08-22T13:02:12Z"
 ---
 ## What it is
 Open-source MCP server that gives any LLM long-term memory using a knowledge graph and vector search hybrid. It stores entities, observations, and relationships, enabling semantic recall across sessions with automatic clustering and fail-loud infrastructure.

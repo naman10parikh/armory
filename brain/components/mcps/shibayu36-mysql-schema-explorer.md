@@ -8,10 +8,12 @@ source_url: https://github.com/shibayu36/mysql-schema-explorer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-14T02:22:54Z"
 ---
 ## What it is
 MCP server `MySQL Schema Explorer`, catalogued on PulseMCP. Enables AI to explore and interact with MySQL database schemas for documentation, query building, and schema analysis without direct database access.

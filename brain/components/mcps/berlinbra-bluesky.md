@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-19T05:07:39Z"
 ---
 ## What it is
 MCP server `BlueSky`, catalogued on PulseMCP. Integrates with BlueSky's API to retrieve user profiles and social graph data, enabling user analysis, network visualization, and content discovery.

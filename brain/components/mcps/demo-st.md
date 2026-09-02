@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T09:29:27Z"
 ---
 ## What it is
 Enables deploying static websites to a subdomain on demo.st, with tools for subdomain reservation, zip upload, and content management.

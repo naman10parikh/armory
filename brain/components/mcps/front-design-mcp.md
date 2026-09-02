@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T06:32:59Z"
 ---
 ## What it is
 A local-first FastMCP server that indexes offline frontend catalogs (components, patterns, motion libraries) and exposes discover, search, compare, and recommend tools to AI agents via stdio.

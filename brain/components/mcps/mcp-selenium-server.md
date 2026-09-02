@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T14:43:14Z"
 ---
 ## What it is
 Enables AI agents to automate browser interactions using Selenium WebDriver, supporting multiple browsers and tools for navigation, clicking, typing, screenshots, and more.

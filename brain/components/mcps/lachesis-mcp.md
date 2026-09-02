@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:20:14Z"
 ---
 ## What it is
 Exposes Lachesis's code navigation tools over MCP, letting LLM agents ask precise compiler-level questions about dataflow, taint, callers, and guards in source code.

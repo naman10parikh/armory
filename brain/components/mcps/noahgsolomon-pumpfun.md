@@ -8,10 +8,12 @@ source_url: https://github.com/noahgsolomon/pumpfun-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-15T02:32:33Z"
 ---
 ## What it is
 MCP server `Pump.fun`, catalogued on PulseMCP. Enables direct interaction with the Pump.fun platform on Solana blockchain for creating, buying, and selling tokens with customizable parameters and secure wallet management.

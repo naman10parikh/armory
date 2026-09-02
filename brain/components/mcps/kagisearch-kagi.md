@@ -8,10 +8,12 @@ source_url: https://github.com/kagisearch/kagimcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 393
+stars: 503
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 46
+pushed_at: "2026-07-07T15:26:36Z"
 ---
 ## What it is
 MCP server `Kagi Search`, catalogued on PulseMCP. Integrates Kagi's advanced search capabilities into workflows, enabling high-quality, privacy-focused web information retrieval for informed decision-making and analysis.

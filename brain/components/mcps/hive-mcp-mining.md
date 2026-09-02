@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T07:41:33Z"
 ---
 ## What it is
 Provides Tether MOS telemetry (read-only) and Boltz BTC↔USDC atomic swap broker, enabling querying MOS sites, payouts, Bitcoin fee advice, and performing atomic swaps without custody.

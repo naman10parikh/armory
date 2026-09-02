@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T09:16:22Z"
 ---
 ## What it is
 MCP server that provides full access to Proton Drive via Claude Desktop or CLI, enabling file operations, sharing, and trash management with end-to-end encryption.

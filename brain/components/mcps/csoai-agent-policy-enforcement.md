@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-26T05:26:06Z"
 ---
 ## What it is
 MCP server `Agent Policy Enforcement`, catalogued on PulseMCP. Per-agent-pair IAM for multi-agent systems with policy rules controlling which agents can call which tools.

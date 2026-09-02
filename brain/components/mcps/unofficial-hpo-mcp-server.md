@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T13:33:15Z"
 ---
 ## What it is
 Provides access to the Human Phenotype Ontology (HPO) API with tools for searching, browsing hierarchy, and analyzing phenotypic terms used in genetic research.

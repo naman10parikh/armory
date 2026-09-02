@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T23:43:29Z"
 ---
 ## What it is
 Enables managing site signal strength, brand agent, pixel, boosts, and accessing leaderboards, agent traffic stats, and AgentHub listings via natural language.

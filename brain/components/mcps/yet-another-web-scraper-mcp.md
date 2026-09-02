@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T15:43:55Z"
 ---
 ## What it is
 An MCP server that enables LLMs to drive a Chromium browser for web scraping, collecting structured data, and exporting to CSV.

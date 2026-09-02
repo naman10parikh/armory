@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T14:07:22Z"
 ---
 ## What it is
 Self-healing test automation MCP server that diagnoses and fixes issues in mobile and web apps, including a one-command vibe-check to prioritize broken functionality.

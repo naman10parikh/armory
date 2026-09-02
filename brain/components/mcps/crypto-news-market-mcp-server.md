@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T10:31:15Z"
 ---
 ## What it is
 Enables fetching crypto news, prices, market data, fear & greed index, and trending coins from various free sources, deployable online.

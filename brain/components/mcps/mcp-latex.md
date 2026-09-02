@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:38:03Z"
 ---
 ## What it is
 An MCP server for LaTeX that enables AI assistants to check documents for errors, parse compiler logs, and compile LaTeX files, helping them fix documents instead of guessing.

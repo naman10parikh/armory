@@ -8,10 +8,12 @@ source_url: https://github.com/refreshdotdev/web-eval-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1241
+stars: 1240
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 109
+pushed_at: "2026-02-11T14:55:42Z"
 ---
 ## What it is
 MCP server `Web UX Evaluator`, catalogued on PulseMCP. Enables automated browser interactions for evaluating web application user experiences, capturing console logs and network requests to generate detailed usability reports and recommendations.

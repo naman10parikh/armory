@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2025-09-02T03:19:49Z"
 ---
 ## What it is
 Enables video editing operations such as trimming, merging, adding audio/text/effects, and exporting via MCP protocol, leveraging CapCut core functionalities.

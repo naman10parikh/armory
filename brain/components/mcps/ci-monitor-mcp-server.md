@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-18T21:13:44Z"
 ---
 ## What it is
 Monitors Jenkins CI builds in real-time, fetching build status and logs on failure to provide context for AI-assisted code fixes, enhancing developer workflow.

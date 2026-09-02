@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T23:47:20Z"
 ---
 ## What it is
 Read-only MCP server for Ghost sites that enables AI assistants to search, summarize, and read content via hybrid lexical and semantic ranking.

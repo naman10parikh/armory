@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T16:49:20Z"
 ---
 ## What it is
 Connects AI assistants to a live ChemDraw window on Windows via COM automation, enabling drawing, editing, and organizing chemical structures directly in the open document. Supports structure insert/export, scope tables, shorthand groups, figure layout, chemistry QC, publication tools, annotations, 

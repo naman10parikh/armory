@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-27T09:33:41Z"
 ---
 ## What it is
 Generates engineering intelligence reports (standups, weekly summaries, sprint retrospectives) from GitHub and Jira data, accessible via MCP clients or CLI.

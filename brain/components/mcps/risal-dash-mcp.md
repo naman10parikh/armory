@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T16:29:42Z"
 ---
 ## What it is
 Bridges a RisalDash ESP32/ESP8266 device to MCP — every dashboard widget becomes a get_/set_ tool, so an agent can read sensors and toggle relays.

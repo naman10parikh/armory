@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-13T21:53:40Z"
 ---
 ## What it is
 Enables users to get free subdomains with automatic DNS provisioning directly through LLM-powered tools like Claude Code.

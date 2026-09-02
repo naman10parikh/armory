@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-06T22:46:02Z"
 ---
 ## What it is
 MCP server `Current Time`, catalogued on PulseMCP. Utility to retrive current UTC using Node

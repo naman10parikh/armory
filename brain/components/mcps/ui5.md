@@ -8,10 +8,12 @@ source_url: https://github.com/ui5/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 87
+stars: 99
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2026-09-01T14:42:42Z"
 ---
 ## What it is
 MCP server `UI5`, catalogued on PulseMCP. Comprehensive development tools for the UI5 enterprise JavaScript framework

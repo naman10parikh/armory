@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-30T10:56:56Z"
 ---
 ## What it is
 Enables downloading satellite imagery from Google Earth Engine as GeoTIFF files, supporting various datasets, bands, and region specification through natural language.

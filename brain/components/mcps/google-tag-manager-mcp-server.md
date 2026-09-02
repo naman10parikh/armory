@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-24T15:20:49Z"
 ---
 ## What it is
 Enables natural language management of Google Tag Manager resources including accounts, containers, tags, triggers, and variables via the Model Context Protocol.

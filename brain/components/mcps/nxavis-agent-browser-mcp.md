@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T04:34:10Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides browser automation capabilities through Vercel's agent-browser, enabling LLMs to interact with web pages using a fast Rust CLI with Node.js fallback.

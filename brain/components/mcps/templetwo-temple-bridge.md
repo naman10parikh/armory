@@ -8,10 +8,12 @@ source_url: https://github.com/templetwo/temple-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-23T04:15:29Z"
 ---
 ## What it is
 MCP server `Temple Bridge`, catalogued on PulseMCP. Bridges local AI capabilities with governance protocols through secure command execution, file operations, and meta-cognitive reflection tools.

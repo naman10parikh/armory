@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-11T05:24:43Z"
 ---
 ## What it is
 Enables integration with Readwise Reader API to save, retrieve, update, and manage documents, tags, and filtering in your Readwise Reader account.

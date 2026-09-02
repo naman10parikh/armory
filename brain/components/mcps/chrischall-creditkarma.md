@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T23:30:42Z"
 ---
 ## What it is
 MCP server `Credit Karma`, catalogued on PulseMCP. Reads Credit Karma transaction data for spending analysis by category, merchant, and account.

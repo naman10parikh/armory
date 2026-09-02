@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T16:06:36Z"
 ---
 ## What it is
 RegressGuard is an MCP server that records a known-good baseline and lets AI coding agents detect regressions (broken API contracts, failing tests, schema changes) during their edit loop, allowing them to self-correct before committing.

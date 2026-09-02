@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-14T19:31:38Z"
 ---
 ## What it is
 基于Model Context Protocol (MCP) 的测试用例生成服务，让AI助手根据上下文自动生成Markdown格式的测试用例，并可导出为Xmind思维导图。

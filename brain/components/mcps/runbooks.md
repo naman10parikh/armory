@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T20:37:39Z"
 ---
 ## What it is
 Exposes a folder of Markdown runbooks to an AI assistant via three tools (list_notes, search_notes, read_note) over MCP's streamable-http transport.

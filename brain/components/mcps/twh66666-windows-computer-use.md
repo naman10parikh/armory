@@ -8,10 +8,12 @@ source_url: https://github.com/twh66666/codex-computer-use-for-windows
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-24T11:21:14Z"
 ---
 ## What it is
 MCP server `Windows Computer Use`, catalogued on PulseMCP. MCP server for Windows desktop automation with 9 tools covering screenshots, mouse control, keyboard input, and window enumeration.

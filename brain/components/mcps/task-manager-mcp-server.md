@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-05T17:52:10Z"
 ---
 ## What it is
 A comprehensive task management MCP server built with FastMCP, featuring full CRUD operations, intelligent filtering, and productivity-focused prompts.

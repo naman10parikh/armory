@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:28:41Z"
 ---
 ## What it is
 MCP server `The Graph`, catalogued on PulseMCP. The Graph indexed blockchain data via subgraph GraphQL queries for Ethereum and other EVM-compatible chains via Pipeworx.

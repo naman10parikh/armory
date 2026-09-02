@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-28T18:30:17Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides tools for interacting with the LearningSuite API, enabling AI assistants to manage members, courses, groups, bundles, hubs, and community features.

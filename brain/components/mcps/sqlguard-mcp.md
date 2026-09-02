@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T00:20:25Z"
 ---
 ## What it is
 Enforces safety and governance for SQL queries executed by AI agents, providing read-only enforcement, cost estimation, and audit trails.

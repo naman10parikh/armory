@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-11T08:18:30Z"
 ---
 ## What it is
 Enables file system operations like listing, reading, writing, deleting, and renaming files within a specified folder via a FastAPI-based MCP server.

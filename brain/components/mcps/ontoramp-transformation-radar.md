@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T18:33:36Z"
 ---
 ## What it is
 Analyzes enterprise transformation programs to surface maturity gaps and risk signals, enabling AI agents to identify stalled initiatives and prioritize actions.

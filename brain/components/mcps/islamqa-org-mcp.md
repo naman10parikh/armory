@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T20:18:35Z"
 ---
 ## What it is
 Enables MCP clients to search and retrieve sourced Islamic fatwas from IslamQA.org, filtering by madhhab and institution, with full citations and source URLs for verification.

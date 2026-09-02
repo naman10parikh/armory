@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:35:06Z"
 ---
 ## What it is
 Enables searching and querying Washington DC's open geospatial datasets (parcels, zoning, addresses, transport) via ArcGIS feature services, with tools for dataset discovery, attribute/geometry queries, and schema inspection.

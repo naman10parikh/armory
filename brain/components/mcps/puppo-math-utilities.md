@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-10T08:48:18Z"
 ---
 ## What it is
 MCP server `Math Utilities`, catalogued on PulseMCP. Provides mathematical utility tools for calculating Fibonacci numbers at given indices and summing comma-separated lists of numbers.

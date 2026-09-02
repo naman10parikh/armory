@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-02T08:56:23Z"
 ---
 ## What it is
 Enables code verification with skepticism, forensic analysis, memory management, project detection, and sequential thinking through the Hermetic AI platform.

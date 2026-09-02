@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-13T00:21:35Z"
 ---
 ## What it is
 A persistent state machine and notification system for AI agents to manage complex, multi-step workflows via the Model Context Protocol, preventing context drift by maintaining structured checklists and sending desktop alerts.

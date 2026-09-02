@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T11:00:00Z"
 ---
 ## What it is
 Bridges the mihomo (Clash Meta) RESTful API to the Model Context Protocol, enabling AI clients to switch proxies, test latency, refresh subscriptions, set operating modes, and monitor connections.

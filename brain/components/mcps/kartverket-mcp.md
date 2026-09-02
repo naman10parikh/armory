@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T21:06:25Z"
 ---
 ## What it is
 MCP server that wraps Kartverket's open APIs for Norwegian geographic data including place names, addresses, elevation, municipalities, properties, statistical districts, and building points. Requires no authentication.

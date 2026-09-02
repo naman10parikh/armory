@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:41:57Z"
 ---
 ## What it is
 Unified, zero-external-database multi-agent long-term memory hub with SQLite FTS5 BM25 search, knowledge graph, sleep cycle consolidation, and a web dashboard.

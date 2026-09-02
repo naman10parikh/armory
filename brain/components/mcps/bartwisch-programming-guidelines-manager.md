@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-01-01T10:59:23Z"
 ---
 ## What it is
 MCP server `Style Guidelines`, catalogued on PulseMCP. Integrates with development tools to enforce consistent coding standards by managing and serving programming guidelines and rules across projects.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T16:54:32Z"
 ---
 ## What it is
 Exposes the foldkit mesh SDK as MCP tools and resources, enabling natural language interaction with the 7-prime spine, κ-bands, and fold operations.

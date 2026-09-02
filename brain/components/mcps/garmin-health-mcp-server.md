@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T05:26:38Z"
 ---
 ## What it is
 Exposes Garmin Connect health data (steps, sleep, HR, HRV, stress, activities, etc.) as tools for MCP-compatible clients like Claude.

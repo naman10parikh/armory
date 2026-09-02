@@ -8,10 +8,12 @@ source_url: https://github.com/hatmanstack/ragstack-lambda
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-27T22:55:39Z"
 ---
 ## What it is
 MCP server `RAGStack`, catalogued on PulseMCP. Search, chat, upload, and scrape a serverless RAGStack knowledge base on AWS.

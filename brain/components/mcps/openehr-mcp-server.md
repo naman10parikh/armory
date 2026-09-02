@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-06-07T15:25:53Z"
 ---
 ## What it is
 Enables MCP clients like Claude Desktop to interact with openEHR REST APIs (EHRbase) for creating compositions, managing EHRs, listing templates, and executing AQL queries.

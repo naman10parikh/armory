@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-10T08:10:10Z"
 ---
 ## What it is
 An MCP server that intelligently beautifies and minifies JavaScript and CSS files, with auto-detection of minified files and a smart workflow for editing and re-minifying.

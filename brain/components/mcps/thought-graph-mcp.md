@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T17:11:31Z"
 ---
 ## What it is
 Enables LLMs to break down reasoning into an explicit, editable graph of thinking steps, with visualizations and the ability to revise individual steps.

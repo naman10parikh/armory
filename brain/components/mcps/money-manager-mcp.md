@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T04:29:04Z"
 ---
 ## What it is
 MCP server for querying Money Manager backups (.mmbak) with transaction search, spending summaries, trends, merchant analysis, and OCR full-text search over receipt photos. Local-first and read-only, supporting both iPhone and Android backup formats.

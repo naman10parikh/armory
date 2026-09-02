@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T21:36:32Z"
 ---
 ## What it is
 Enables AI assistants to interact with Healthchecks.io, allowing users to list, create, update, pause, resume, and delete checks, as well as view ping history and integrations.

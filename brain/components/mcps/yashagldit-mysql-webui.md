@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-21T09:46:35Z"
 ---
 ## What it is
 MCP server `MySQL WebUI`, catalogued on PulseMCP. Web-based interface for connecting Claude to MySQL databases with granular permission controls

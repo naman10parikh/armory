@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T16:42:22Z"
 ---
 ## What it is
 Enables Agentforce agents to retrieve order status and loyalty points from external systems via OAuth 2.0 secured MCP endpoints hosted on AWS.

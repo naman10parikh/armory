@@ -8,10 +8,12 @@ source_url: https://github.com/1alexandrer/moodle-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-04-21T22:34:14Z"
 ---
 ## What it is
 MCP server `1alexandrer Moodle`, catalogued on PulseMCP. Integrates Moodle LMS with AI assistants, providing 13 tools for accessing courses, assignments, grades, quizzes, forum discussions, and calendar events.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-20T08:17:41Z"
 ---
 ## What it is
 MCP server `DealWatch`, catalogued on PulseMCP. Local-first grocery price intelligence with a read-only MCP interface.

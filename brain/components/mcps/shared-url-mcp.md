@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-22T23:08:40Z"
 ---
 ## What it is
 An MCP server with one job: read a shared AI conversation link and write the whole thing to Markdown.

@@ -8,10 +8,12 @@ source_url: https://github.com/beycom/onetool-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-09-01T08:38:01Z"
 ---
 ## What it is
 MCP server `OneTool`, catalogued on PulseMCP. One MCP server with 100+ developer tools including Brave, Gemini, Excel, files, database, and DevTools.

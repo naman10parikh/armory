@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T12:53:35Z"
 ---
 ## What it is
 Enables recruiters to query a person's career, projects, and impact using natural language, acting as a living resume.

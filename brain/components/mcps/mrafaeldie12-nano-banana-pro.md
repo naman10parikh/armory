@@ -8,10 +8,12 @@ source_url: https://github.com/mrafaeldie12/nano-banana-pro-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-12-05T07:36:36Z"
 ---
 ## What it is
 MCP server `Nano Banana Pro (Gemini)`, catalogued on PulseMCP. Integrates with Google's Gemini API to generate, edit, and analyze images with configurable aspect ratios, natural language editing instructions, and reference image support for style guidance.

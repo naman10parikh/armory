@@ -8,10 +8,12 @@ source_url: https://github.com/aaronsb/jira-insights-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-17T12:08:12Z"
 ---
 ## What it is
 MCP server `Jira Insights`, catalogued on PulseMCP. Enables programmatic management of Jira Insights asset schemas through CRUD operations on object types and AQL queries, streamlining IT asset management and configuration tracking workflows.

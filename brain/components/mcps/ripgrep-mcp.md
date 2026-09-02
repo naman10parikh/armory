@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-20T06:19:34Z"
 ---
 ## What it is
 Provides ripgrep search capabilities to MCP clients like Claude, enabling high-performance text searches across files on your system.

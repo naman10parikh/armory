@@ -8,10 +8,12 @@ source_url: https://github.com/elagerway/magpipe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-27T20:34:23Z"
 ---
 ## What it is
 MCP server `Magpipe`, catalogued on PulseMCP. Manage voice agents, calls, SMS, contacts, and phone numbers via Magpipe.

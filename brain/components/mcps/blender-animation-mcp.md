@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T22:56:41Z"
 ---
 ## What it is
 Enables multimodal models to drive Blender animation through precise timeline and keyframe tools, import GLB/glTF assets, inspect rigs, and render frames or contact sheets for visual feedback.

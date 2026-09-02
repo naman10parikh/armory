@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-16T18:54:52Z"
 ---
 ## What it is
 MCP server `OpenEMIS`, catalogued on PulseMCP. Read-only MCP bridge connecting AI agents to OpenEMIS education management systems with natural language access to 645 education data resources.

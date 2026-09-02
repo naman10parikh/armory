@@ -8,10 +8,12 @@ source_url: https://github.com/dma9527/irs-taxpayer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-24T19:50:09Z"
 ---
 ## What it is
 MCP server `IRS Taxpayer`, catalogued on PulseMCP. 39 US tax calculation tools covering federal, state, credits, deductions, and retirement planning.

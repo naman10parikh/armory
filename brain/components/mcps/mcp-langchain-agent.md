@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T15:43:23Z"
 ---
 ## What it is
 An MCP server exposing document search, retrieval, and summarization tools, paired with a LangChain agent that performs multi-step tasks like finding and summarizing relevant docs.

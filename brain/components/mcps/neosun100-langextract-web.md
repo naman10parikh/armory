@@ -8,10 +8,12 @@ source_url: https://github.com/neosun100/langextract-web
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-03T14:57:24Z"
 ---
 ## What it is
 MCP server `LangExtract Web`, catalogued on PulseMCP. Web application wrapping Google's LangExtract library for structured information extraction with web UI, REST API, and MCP server interfaces.

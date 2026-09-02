@@ -8,11 +8,13 @@ source_url: https://github.com/Arize-ai/phoenix
 license: Elastic-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 11159
+stars: 11286
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, tracing, evals]
+forks: 1086
+pushed_at: "2026-09-02T03:42:09Z"
 ---
 ## What it is
 Open-source AI observability and evaluation platform for LLM traces, spans, and performance analysis with a local-first UI.

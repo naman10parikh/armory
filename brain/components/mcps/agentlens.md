@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-30T17:14:34Z"
 ---
 ## What it is
 AI-agent observability server whose distinguishing feature is a SHA-256 hash-chained, tamper-evident audit log with chain verification and signed export. Works with Claude Desktop, Cursor, and any MCP client.

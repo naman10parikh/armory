@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T14:00:12Z"
 ---
 ## What it is
 Prevents context bloat and the 'Lost in the Middle' phenomenon by distilling action histories into concise summaries while maintaining a clear core objective.

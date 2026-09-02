@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-18T04:26:02Z"
 ---
 ## What it is
 Enables analysis of CSV and Parquet files by providing summaries of row and column counts. Includes sample data and tools for easy integration.

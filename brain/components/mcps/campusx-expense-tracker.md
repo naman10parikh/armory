@@ -8,10 +8,12 @@ source_url: https://github.com/campusx-official/expense-tracker-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2025-09-27T08:25:41Z"
 ---
 ## What it is
 MCP server `Expense Tracker`, catalogued on PulseMCP. Tracks personal expenses through SQLite database with 20 predefined categories, enabling expense recording, date-range filtering, and spending analysis across food, transport, investments, and other life areas.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T04:52:18Z"
 ---
 ## What it is
 芯阳公司内部知识库MCP服务器，封装内部搜索API，供Codex和OpenCode调用以检索知识库信息。

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T08:36:03Z"
 ---
 ## What it is
 A data-only MCP server that connects ChatGPT to Splitwise's official API, enabling listing groups, friends, and expenses, as well as creating expenses with equal or explicit splits via natural language.

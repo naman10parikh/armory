@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T15:51:55Z"
 ---
 ## What it is
 An MCP server hosting a multiplayer undercover game where AI and humans compete to identify the spy and guess who is human.

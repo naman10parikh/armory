@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-23T20:23:46Z"
 ---
 ## What it is
 MCP server `Xcode String Catalog`, catalogued on PulseMCP. Manages Xcode String Catalog (.xcstrings) files for iOS/macOS localization with read, search, and update capabilities for translation workflows.

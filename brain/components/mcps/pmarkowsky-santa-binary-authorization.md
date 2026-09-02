@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-31T17:54:53Z"
 ---
 ## What it is
 MCP server `Santa Binary Authorization`, catalogued on PulseMCP. Enables security professionals to interact with Santa binary authorization system for macOS, providing tools to query status, sync rules, retrieve file information, and check version details.

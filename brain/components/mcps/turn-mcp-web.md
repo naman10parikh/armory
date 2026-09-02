@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-05-02T08:31:52Z"
 ---
 ## What it is
 Enables human-in-the-loop checkpoints for AI agents, allowing them to pause and wait for human input via a web UI, then seamlessly resume execution.

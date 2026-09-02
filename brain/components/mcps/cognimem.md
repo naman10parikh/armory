@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T19:48:27Z"
 ---
 ## What it is
 A cognitive memory MCP server that extracts knowledge as SPO triples, supports semantic recall, contradiction detection, and scientific forgetting, enabling persistent and evolving memory for AI agents.

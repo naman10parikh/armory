@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T07:05:56Z"
 ---
 ## What it is
 A comprehensive MCP server for Apache Superset. Gives AI assistants full control over your Superset instance — dashboards, charts, datasets, SQL Lab, users, roles, RLS, and more — through 137 tools.

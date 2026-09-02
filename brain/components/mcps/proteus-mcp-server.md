@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T04:11:56Z"
 ---
 ## What it is
 Enables JD-aware resume matching through MCP tools, providing deterministic scoring, gap analysis, bullet rewrites, and tailored cover letter generation.

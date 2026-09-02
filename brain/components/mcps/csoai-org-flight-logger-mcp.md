@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-15T14:40:50Z"
 ---
 ## What it is
 MCP server `Flight Logger`, catalogued on PulseMCP. Tools for logging and tracking aviation flight records and logbook entries.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:52:01Z"
 ---
 ## What it is
 A template and specification for building MCP servers that provide AI assistants access to official, public civic data about a metro area, including property records, permits, schools, and public safety information.

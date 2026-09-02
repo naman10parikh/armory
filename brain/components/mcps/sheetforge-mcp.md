@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T17:43:43Z"
 ---
 ## What it is
 Local-first Excel MCP server for AI agents enabling structured reads, workbook introspection, and safer .xlsx mutation without Microsoft Excel or LibreOffice.

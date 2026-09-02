@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-24T01:17:56Z"
 ---
 ## What it is
 Provides an MCP server for Interactive Brokers trading operations, managing an IBKR Gateway Docker container and exposing trading functionality through REST API and MCP endpoints.

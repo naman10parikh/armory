@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T10:16:00Z"
 ---
 ## What it is
 Enables Claude to query GitHub repositories in plain English, fetching recent activity, release notes, issue triage, and health summaries via the GitHub API.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-02T09:13:46Z"
 ---
 ## What it is
 MCP server `WebScout`, catalogued on PulseMCP. Automates reverse engineering of chat interfaces through browser automation and network traffic analysis, capturing streaming API endpoints and providing browser control for analyzing chat APIs without official documentation.

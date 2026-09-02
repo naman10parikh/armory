@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T16:15:49Z"
 ---
 ## What it is
 Exposes SMB business data as tools for AI agents, enabling retrieval of business profiles, services, availability, and reviews.

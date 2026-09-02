@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:17:31Z"
 ---
 ## What it is
 Discover, pay for, execute, and publish monetized APIs directly from your agent, settled per call in USDC over x402, through the Model Context Protocol.

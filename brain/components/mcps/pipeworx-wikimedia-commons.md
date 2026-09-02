@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:50:12Z"
 ---
 ## What it is
 MCP server `Wikimedia Commons`, catalogued on PulseMCP. Search and retrieve media files from Wikimedia Commons, the free multimedia repository for images, audio, and video.

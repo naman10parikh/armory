@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T12:11:59Z"
 ---
 ## What it is
 Provides Catholic content including daily gospel readings, prayers, and liturgical calendar, enabling users to access spiritual resources through natural language.

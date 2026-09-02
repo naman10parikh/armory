@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T17:33:36Z"
 ---
 ## What it is
 Enables natural language querying of your Magic: The Gathering Arena collection, including owned cards, missing cards, deck building, and collection analysis via MCP.

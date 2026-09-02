@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-05T12:39:31Z"
 ---
 ## What it is
 MCP server `Kogna`, catalogued on PulseMCP. Bridges multi-agent AI avatar room engine to enable conversations with specialized avatars, room switching, message history retrieval, and cross-platform session management for building conversational applications and multi-agent chat systems.

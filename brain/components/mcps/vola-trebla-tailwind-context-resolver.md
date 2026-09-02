@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T20:44:18Z"
 ---
 ## What it is
 MCP server `Tailwind Context Resolver`, catalogued on PulseMCP. Resolves Tailwind CSS design tokens and validates utility classes against the local project config.

@@ -8,11 +8,13 @@ source_url: https://github.com/zdrjson/thinking-prompts-skill
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T12:42:44Z"
 ---
 ## What it is
 Enables any MCP client to surface twelve structured thinking frameworks for clarifying questions, learning, problem-solving, decision-making, and self-reflection, with fillable slash commands for humans and programmatic retrieval for agents.

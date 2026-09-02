@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T04:55:33Z"
 ---
 ## What it is
 MCP server exposing live 2026 FIFA World Cup group standings and Round-of-32 bracket, with confidence classification and stale fallback.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-07T03:42:47Z"
 ---
 ## What it is
 MCP server for Redmine that lets coding agents read and write Redmine: search issues, view histories, comment, log time, browse wiki, and download attachments. Enforces explicit user permission for any write operations.

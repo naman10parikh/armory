@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-01T00:05:55Z"
 ---
 ## What it is
 Turns your Chrome browser into an MCP server, allowing AI clients to control browser actions like clicking, typing, navigating, and data extraction through custom JavaScript tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T12:38:41Z"
 ---
 ## What it is
 Exposes Apple Health data as read-only tools for AI via HTTP MCP. Provides three tools: health_now, health_detail, and health_trends.

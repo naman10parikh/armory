@@ -8,10 +8,12 @@ source_url: https://github.com/pvinis/mcp-playwright-stealth
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-09T18:48:10Z"
 ---
 ## What it is
 MCP server `Playwright Stealth`, catalogued on PulseMCP. Enables stealth web browsing automation with Playwright for tasks like navigation, form filling, and screenshot capture while avoiding detection by anti-bot systems

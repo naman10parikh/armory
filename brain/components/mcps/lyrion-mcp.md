@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T09:13:51Z"
 ---
 ## What it is
 Enables an AI agent to inspect and control Lyrion Music Server (Logitech Media Server) players via the LMS JSON-RPC API, including playback, volume, playlists, favorites, radio, and library search/browse.

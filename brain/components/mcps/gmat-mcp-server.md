@@ -8,11 +8,13 @@ source_url: https://github.com/ginomoretta-creator/gmat-mcp-server
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T09:11:23Z"
 ---
 ## What it is
 Enables AI agents to autonomously write, run, and debug NASA GMAT mission scripts, with tools for script execution, curated knowledge of common pitfalls, and semantic documentation search.

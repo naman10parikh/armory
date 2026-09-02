@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-25T14:03:23Z"
 ---
 ## What it is
 MCP server `Domain Check`, catalogued on PulseMCP. Check domain availability across 500+ TLDs with single and bulk lookups.

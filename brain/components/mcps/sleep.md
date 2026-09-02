@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-26T18:21:45Z"
 ---
 ## What it is
 MCP server `Sleep`, catalogued on PulseMCP. Enables AI systems to introduce timed pauses in execution flow, supporting both stdio and SSE transport methods with configurable timeout limits for time-based coordination and rate limiting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T07:32:28Z"
 ---
 ## What it is
 Enables AI agents to search products, lookup barcodes, and manage shopping carts and wishlists using free e-commerce APIs.

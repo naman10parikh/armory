@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T18:04:22Z"
 ---
 ## What it is
 Local-first code intelligence for AI coding assistants: MCP tools, symbol graph search, impact analysis, and auto-index watch for Cursor, Claude Code, and Codex.

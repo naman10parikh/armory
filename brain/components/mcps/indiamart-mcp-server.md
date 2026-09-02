@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T11:24:07Z"
 ---
 ## What it is
 Enables managing IndiaMART buyer leads through natural language, including fetching, searching, analyzing, and updating lead pipeline stages.

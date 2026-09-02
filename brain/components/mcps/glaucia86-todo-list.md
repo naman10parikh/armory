@@ -12,6 +12,8 @@ stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-08T19:41:07Z"
 ---
 ## What it is
 MCP server `Todo List`, catalogued on PulseMCP. Provides in-memory task management with CRUD operations, priority-based organization, tagging, search functionality, and status filtering for persistent todo list workflows without external database dependencies.

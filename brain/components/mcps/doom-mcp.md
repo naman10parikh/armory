@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-13T23:21:11Z"
 ---
 ## What it is
 MCP server that lets AI coding assistants play DOOM in compatible clients by embedding the real DOOM engine, providing game state, enemy intel, and screenshots.

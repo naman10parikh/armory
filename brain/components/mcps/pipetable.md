@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-27T12:55:35Z"
 ---
 ## What it is
 Query local CSV, Parquet, JSON and TSV files with real SQL via DuckDB. Gives your AI coding tool ground-truth data access instead of hallucinated answers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T23:43:49Z"
 ---
 ## What it is
 Provides 30 tools to post, schedule, thread, and analyze X (Twitter) content, including AI media generation and multi-account management. No X developer account or OAuth setup required.

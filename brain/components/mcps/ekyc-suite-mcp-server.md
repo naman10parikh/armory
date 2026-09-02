@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T07:02:34Z"
 ---
 ## What it is
 Provides 8 financial-grade KYC identity verification tools for AI agents, including face comparison, liveness detection, document OCR, and risk media labeling.

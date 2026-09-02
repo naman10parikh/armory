@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-09T08:16:32Z"
 ---
 ## What it is
 Enables AI agents to interact with Google Workspace services (Gmail, Drive, Docs, Tasks, Calendar) through OAuth 2.0 authentication, providing 25+ operations for business automation and productivity.

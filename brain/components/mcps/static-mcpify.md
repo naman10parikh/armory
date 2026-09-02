@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T10:33:54Z"
 ---
 ## What it is
 Enables AI agents to access structured content by building static Markdown/JSON files served as a Model Context Protocol server.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-27T11:43:15Z"
 ---
 ## What it is
 Detects, monitors, and analyzes potential wildfires globally using NASA FIRMS, OpenWeatherMap, and Google Earth Engine data.

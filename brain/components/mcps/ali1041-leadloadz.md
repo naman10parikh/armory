@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-29T02:01:54Z"
 ---
 ## What it is
 MCP server `Leadloadz`, catalogued on PulseMCP. MCP server connecting AI assistants to the Leadloadz B2B lead generation platform for searching verified contacts and validating emails.

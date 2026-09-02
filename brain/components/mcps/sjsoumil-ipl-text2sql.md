@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-04T05:29:21Z"
 ---
 ## What it is
 MCP server `IPL Text-to-SQL`, catalogued on PulseMCP. Query 19 seasons of Indian Premier League cricket data (2008–2026) using natural language, with tools for schema inspection, query validation, and SQL execution.

@@ -8,11 +8,13 @@ source_url: https://github.com/VITASID57/chatgpt-local-supervisor-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-22T13:23:11Z"
 ---
 ## What it is
 Enables ChatGPT web to safely read and modify only explicitly allowed local project files through OpenAI Secure MCP Tunnel, including git operations, file edits, and running project scripts, while enforcing strict security boundaries.

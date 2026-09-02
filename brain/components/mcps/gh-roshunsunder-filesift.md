@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-26T22:14:57Z"
 ---
 ## What it is
 MCP server `FileSift`, catalogued on PulseMCP. Local file search with semantic and keyword indexing over codebases.

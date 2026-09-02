@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T19:58:22Z"
 ---
 ## What it is
 Enables searching Lucide icons by keyword tags, returning best-matching icon names.

@@ -8,10 +8,12 @@ source_url: https://github.com/xstaar/autocad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T12:19:09Z"
 ---
 ## What it is
 MCP server `YQ AutoCAD Architecture`, catalogued on PulseMCP. Bridges Claude AI with AutoCAD for natural language control of architectural design with 684 commands across 22 categories.

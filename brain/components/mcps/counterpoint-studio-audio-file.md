@@ -8,10 +8,12 @@ source_url: https://github.com/counterpoint-studio/audio-file-mcp-app
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-10T19:34:17Z"
 ---
 ## What it is
 MCP server `Counterpoint Studio Audio File`, catalogued on PulseMCP. Inspect local audio files with playback controls, metadata extraction, loudness analysis, and spectrograms.

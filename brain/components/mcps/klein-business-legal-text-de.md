@@ -8,10 +8,12 @@ source_url: https://github.com/klein-business/legal-text-mcp-de
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-16T20:42:15Z"
 ---
 ## What it is
 MCP server `German Legal Texts`, catalogued on PulseMCP. Access German federal and state legal texts (BGB, DSGVO, and more) with canonical IDs and cite-grade provenance.

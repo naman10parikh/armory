@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-23T22:49:04Z"
 ---
 ## What it is
 MCP server `Yandex Maps Reviews`, catalogued on PulseMCP. Scrapes Yandex Maps business reviews, ratings, and company metadata using headless browser automation with multiple backend support.

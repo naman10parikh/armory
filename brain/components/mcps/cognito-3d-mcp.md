@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T14:48:23Z"
 ---
 ## What it is
 A local Model Context Protocol server that turns one or more reference images into 3D GLB assets, with pluggable backends for Hunyuan3D-2mv, Stable Fast 3D, and SPAR3D.

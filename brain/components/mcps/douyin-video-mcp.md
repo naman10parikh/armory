@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T10:56:19Z"
 ---
 ## What it is
 A Model Context Protocol server that downloads watermark-free videos from Douyin (TikTok China) share links, extracts audio, and transcribes speech to text using ASR APIs.

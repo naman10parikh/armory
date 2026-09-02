@@ -8,10 +8,12 @@ source_url: https://github.com/timescale/pg-aiguide
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1742
+stars: 1830
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 106
+pushed_at: "2026-09-01T21:29:01Z"
 ---
 ## What it is
 MCP server `pg-aiguide`, catalogued on PulseMCP. Version-aware PostgreSQL documentation and best practices for AI coding assistants

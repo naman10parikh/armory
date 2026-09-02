@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T18:40:18Z"
 ---
 ## What it is
 Enables MCP clients to monitor KegLand RAPT fermentation chambers and RaptPill hydrometers via the RAPT.io API, and to control temperature, PID settings, and profiles when mutating operations are explicitly enabled.

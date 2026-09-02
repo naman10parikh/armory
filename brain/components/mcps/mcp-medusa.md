@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T17:59:14Z"
 ---
 ## What it is
 Exposes Medusa anime automation tools for adding anime and querying seasonal anime via MCP.

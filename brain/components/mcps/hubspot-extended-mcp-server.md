@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-14T16:31:16Z"
 ---
 ## What it is
 A standalone MCP server that extends HubSpot functionality for post-call processing and pre-call preparation workflows.

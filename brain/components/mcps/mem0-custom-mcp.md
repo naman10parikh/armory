@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-11-09T00:20:54Z"
 ---
 ## What it is
 A custom MCP server that connects to self-hosted Mem0 API instances, enabling Claude Code to manage memories via custom endpoints.

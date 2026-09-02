@@ -8,10 +8,12 @@ source_url: https://github.com/rishijatia/fantasy-pl-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-08-03T04:00:29Z"
 ---
 ## What it is
 MCP server `Fantasy Premier League`, catalogued on PulseMCP. Integrates with Fantasy Premier League data to provide player statistics, team information, and analytical tools for making informed fantasy football management decisions.

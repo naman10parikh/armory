@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T15:01:12Z"
 ---
 ## What it is
 Enables coding agents to search, inspect, and recommend open-source Odoo/OCA modules before writing custom code, with source-backed evidence and version/migration guidance.

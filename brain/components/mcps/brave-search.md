@@ -8,11 +8,13 @@ source_url: https://github.com/brave/brave-search-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1076
+stars: 1413
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
+forks: 199
+pushed_at: "2026-08-26T12:56:45Z"
 ---
 ## What it is
 MCP server `Brave Search`, catalogued on PulseMCP. Integrates Brave's Search API to provide web search, local business search, image search, video search, news search, and summarization capabilities with advanced filtering options and content safety controls.

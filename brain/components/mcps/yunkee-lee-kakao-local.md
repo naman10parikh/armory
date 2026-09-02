@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-11T02:52:50Z"
 ---
 ## What it is
 MCP server `Kakao Local`, catalogued on PulseMCP. Integrates with Kakao's mapping APIs to provide location information within South Korea, enabling address geocoding, place searching, and detailed location data retrieval including reviews and photos.

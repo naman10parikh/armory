@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-09-23T16:35:27Z"
 ---
 ## What it is
 MCP server `Oil & Gas RAG`, catalogued on PulseMCP. Provides oil and gas industry data access through MySQL storage with drilling events, production data, purchase orders, timeseries analytics, work orders, and HSSE incidents, plus document search via hybrid vector/full-text retrieval and anomaly detection using z-score analysis.

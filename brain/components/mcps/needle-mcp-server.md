@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T10:18:57Z"
 ---
 ## What it is
 Enables local structured extraction, classification, and summarization of text with automatic context management and caching, keeping data on your machine.

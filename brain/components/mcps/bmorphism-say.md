@@ -12,6 +12,8 @@ stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-01-07T03:15:18Z"
 ---
 ## What it is
 MCP server `macOS Say`, catalogued on PulseMCP. Leverages macOS 'say' command for customizable text-to-speech functionality, enabling dynamic voice output.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T05:01:56Z"
 ---
 ## What it is
 A model context protocol server for Deepin Linux, providing system control, file management, web search, browser automation, and Git operations.

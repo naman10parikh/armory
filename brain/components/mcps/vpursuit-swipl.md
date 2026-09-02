@@ -8,10 +8,12 @@ source_url: https://github.com/vpursuit/model-context-lab
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-20T17:02:09Z"
 ---
 ## What it is
 MCP server `SWI-Prolog`, catalogued on PulseMCP. Provides secure access to SWI-Prolog logic programming through dual query modes with sandboxed execution, dynamic knowledge base management, and mathematical operations for educational use cases, logic puzzle solving, and AI reasoning workflows.

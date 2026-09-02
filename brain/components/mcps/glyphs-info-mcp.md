@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T16:01:05Z"
 ---
 ## What it is
 A unified MCP server for Glyphs font design software, integrating handbook queries and API reference lookups. Enables searching documentation, managing plugins, and accessing development templates through Claude.

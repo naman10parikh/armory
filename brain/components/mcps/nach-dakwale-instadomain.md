@@ -8,10 +8,12 @@ source_url: https://github.com/nach-dakwale/instadomain-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-20T07:45:09Z"
 ---
 ## What it is
 MCP server `InstaDomain`, catalogued on PulseMCP. Domain registration and DNS management for AI agents via Stripe and crypto payments.

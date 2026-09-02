@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:59:05Z"
 ---
 ## What it is
 Enables Claude to drive a live GIANTS Editor 10.x (FS25) session with 59 tools for terrain editing, field creation, asset placement, map audits, and more through natural language.

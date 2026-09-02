@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T17:16:04Z"
 ---
 ## What it is
 An authorization-first MCP-governed control plane for executing security-tool workflows in explicitly approved, sandboxed environments with auditable campaigns and AI collaboration boundaries.

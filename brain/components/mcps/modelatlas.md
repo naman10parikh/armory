@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T04:21:11Z"
 ---
 ## What it is
 Enables LLMs to search open-source AI models by semantic meaning using directional coordinates and anchors, returning scored, ranked results in under 100ms.

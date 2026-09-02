@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-02-13T22:53:39Z"
 ---
 ## What it is
 MCP server `YouTube Transcript Extractor`, catalogued on PulseMCP. Extracts transcripts from YouTube videos using various URL formats, enabling automated content analysis and summarization.

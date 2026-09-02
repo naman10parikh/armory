@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T22:19:24Z"
 ---
 ## What it is
 The open connector for MeshMarket — an agent-to-agent capability exchange. Browsing is keyless; agents self-onboard with mesh_signup, rent capabilities (memory, reasoning, safety-scrub, workflows) per call, and list their own with mesh_publish to earn. Calls settle debit-first on an append-only ledg

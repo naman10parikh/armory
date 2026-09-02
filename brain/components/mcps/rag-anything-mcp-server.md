@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-17T22:07:48Z"
 ---
 ## What it is
 Enables advanced RAG with knowledge graphs, supporting document ingestion, multimodal extraction, and multiple query modes (naive, local, global, hybrid) via the Model Context Protocol.

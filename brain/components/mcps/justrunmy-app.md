@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-25T21:29:41Z"
 ---
 ## What it is
 MCP server `JustRunMy`, catalogued on PulseMCP. Lets your AI coding assistant deploy and manage apps directly

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T04:28:13Z"
 ---
 ## What it is
 MCP server that gives AI agents paid tools to de-risk costly actions: dependency vetting, x402 endpoint verification, JSON repair, and URL reading. Fronts the Guard HTTP API at guard.fabtally.com.

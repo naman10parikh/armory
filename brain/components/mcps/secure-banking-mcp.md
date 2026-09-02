@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T10:42:19Z"
 ---
 ## What it is
 Demonstrates secure banking operations with mock data, enabling an AI assistant to query accounts while identity and authorization are enforced via signed tokens outside the conversation.

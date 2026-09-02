@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T20:06:03Z"
 ---
 ## What it is
 Let agents list, schedule, and pull evidence packets for your org’s incident-response tabletop exercises (evidence of practice, never a compliance verdict).

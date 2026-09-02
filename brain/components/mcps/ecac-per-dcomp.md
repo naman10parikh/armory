@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:56Z"
 ---
 ## What it is
 MCP server for consulting ECAC PER DCOMP (DCOMP credits/PER) from an official source via a hosted, prepaid API. It provides a single read-only tool, ecac_perdcomp_consultar, enabling users to query data through natural language in any MCP-compatible client.

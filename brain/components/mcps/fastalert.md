@@ -8,10 +8,12 @@ source_url: https://github.com/fastalertnow/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-16T09:59:50Z"
 ---
 ## What it is
 MCP server `FastAlert`, catalogued on PulseMCP. FastAlert tools for listing channels and sending notifications.

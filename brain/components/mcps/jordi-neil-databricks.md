@@ -8,10 +8,12 @@ source_url: https://github.com/jordineil/mcp-databricks-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2025-04-24T04:16:57Z"
 ---
 ## What it is
 MCP server `Databricks`, catalogued on PulseMCP. Bridges Claude with Databricks environments, enabling natural language interaction with SQL warehouses and job management systems through FastAPI-based tools for running queries, listing jobs, and retrieving detailed information.

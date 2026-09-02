@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T22:46:18Z"
 ---
 ## What it is
 Enables AI assistants to interact with the TelecomsXChange wholesale telecom API for voice termination, SMS, DID management, eSIM, and account operations through 55 tools and 7 guided workflows using natural language.

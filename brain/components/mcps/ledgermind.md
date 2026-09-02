@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:30:13Z"
 ---
 ## What it is
 Local LLM cost & token forensics proxy with anomaly detection, enabling security teams to scan for cost anomalies and abuse patterns, and expose results via MCP for autonomous agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T21:44:43Z"
 ---
 ## What it is
 MCP server that orchestrates multi-agent reviews by running installed agent CLIs, tracking child tasks, and using Compare to produce a traceable recommended answer with receipts.

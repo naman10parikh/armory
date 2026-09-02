@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T01:01:29Z"
 ---
 ## What it is
 Validates AI-generated PHP code against Silverstripe 6 patterns, catching migration issues from SS5 to SS6.

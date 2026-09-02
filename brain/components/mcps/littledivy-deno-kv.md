@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-03T02:56:06Z"
 ---
 ## What it is
 MCP server `Deno KV`, catalogued on PulseMCP. Provides persistent key-value storage operations through Deno KV, enabling simple data persistence between sessions without complex database setup.

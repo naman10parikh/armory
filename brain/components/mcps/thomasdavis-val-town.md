@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-10T06:57:20Z"
 ---
 ## What it is
 MCP server `ValTown`, catalogued on PulseMCP. Lightweight TypeScript server for generating and calling tools, providing a simple, extensible framework with a focus on ease of use and a basic 'random_joke' tool as an example implementation.

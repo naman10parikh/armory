@@ -8,10 +8,12 @@ source_url: https://github.com/jcr82/bruno-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-30T19:02:11Z"
 ---
 ## What it is
 MCP server `Bruno`, catalogued on PulseMCP. Integrates with Bruno CLI to provide API testing capabilities including request execution, collection management, environment handling, and automated test report generation for development workflows and CI/CD pipelines.

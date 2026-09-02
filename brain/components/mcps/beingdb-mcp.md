@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T12:04:50Z"
 ---
 ## What it is
 Exposes BeingDB's HTTP API and query DSL to MCP-capable LLMs, allowing them to discover predicates, write, validate, and execute queries against a compiled fact store.

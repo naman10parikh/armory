@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T17:07:51Z"
 ---
 ## What it is
 A governed AI agent platform that exposes GitHub Issues, Jira, and Slack as MCP servers, with mandatory human-in-the-loop approval for all write operations and full audit logging to PostgreSQL using PGVector semantic search.

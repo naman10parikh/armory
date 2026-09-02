@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-02-09T08:50:22Z"
 ---
 ## What it is
 Enables AI assistants to search Xiaohongshu notes, analyze favorites, and extract text from images for social media research.

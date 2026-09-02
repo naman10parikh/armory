@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-12T13:20:39Z"
 ---
 ## What it is
 Enables AI assistants to fetch top, new, best, Ask HN, Show HN, and job stories, as well as specific posts, comments, and user information from Hacker News through the Model Context Protocol.

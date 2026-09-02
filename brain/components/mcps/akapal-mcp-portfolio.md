@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T11:50:31Z"
 ---
 ## What it is
 MCP server exposing portfolio and brokerage data through SSE transport, with tools for account summaries, holdings, quotes, market data, and order previews, backed by mock data with live quote fallback.

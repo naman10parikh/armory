@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-19T13:47:13Z"
 ---
 ## What it is
 Provides a persistent browser profile for AI agents, enabling them to log in once and maintain sessions across restarts. Supports 20 tools for browsing, navigation, text extraction, and screenshot.

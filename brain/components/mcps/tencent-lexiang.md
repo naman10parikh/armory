@@ -8,10 +8,12 @@ source_url: https://github.com/tencent-lexiang/lexiang-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-05T07:36:49Z"
 ---
 ## What it is
 MCP server `Tencent Lexiang`, catalogued on PulseMCP. Integrates with Tencent Lexiang for searching knowledge bases, managing entries, and editing documents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T18:21:18Z"
 ---
 ## What it is
 An MCP server that connects Claude to the Ravelry API, letting knitters and crocheters search for patterns, find yarn, and calculate how much to buy — all through natural language.

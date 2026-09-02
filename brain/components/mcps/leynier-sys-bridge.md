@@ -8,10 +8,12 @@ source_url: https://github.com/leynier/mcp-sys-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-31T01:48:44Z"
 ---
 ## What it is
 MCP server `System Bridge`, catalogued on PulseMCP. Provides native OS functionality for opening URLs in the default browser, copying text to the clipboard, and retrieving detailed current date/time information including timestamps, day/month names, leap year status, and quarter calculations.

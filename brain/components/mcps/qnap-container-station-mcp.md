@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T14:02:09Z"
 ---
 ## What it is
 Enables managing Docker containers and Compose apps on a QNAP NAS via the Container Station API, including starting, stopping, restarting, and inspecting containers and applications.

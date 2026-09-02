@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-27T21:48:27Z"
 ---
 ## What it is
 MCP server `Browser Use`, catalogued on PulseMCP. Provides browser automation capabilities for capturing screenshots, retrieving HTML, executing JavaScript, and accessing console logs from web pages.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-22T11:03:17Z"
 ---
 ## What it is
 Generates videos using bytedance/seedance-2 models on Polza.ai, supporting text-to-video and image-to-video with polling for completion.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-18T11:45:34Z"
 ---
 ## What it is
 Enables Claude Desktop or Gemini CLI to communicate with PyMDU, allowing analysis and processing of urban data using PyMDU tools through natural language commands.

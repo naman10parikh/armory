@@ -8,10 +8,12 @@ source_url: https://github.com/hostinger/selfhosted-mcp-server-template
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-08-26T06:15:40Z"
 ---
 ## What it is
 MCP server `SEO Checker`, catalogued on PulseMCP. Professional SEO analysis server that evaluates websites across multiple optimization dimensions including meta tags, content quality, technical factors, and social media tags, generating detailed reports with actionable recommendations and scoring algorithms for improving search engine visibility.

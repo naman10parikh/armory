@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T06:47:34Z"
 ---
 ## What it is
 A powerful browser automation MCP server with 40 tools, stealth mode, ghost effects, and full DevTools access, enabling natural language control of browsers without any API keys.

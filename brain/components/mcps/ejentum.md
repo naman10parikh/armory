@@ -8,10 +8,12 @@ source_url: https://github.com/ejentum/ejentum-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-11T11:19:12Z"
 ---
 ## What it is
 MCP server `Ejentum`, catalogued on PulseMCP. Augmented AI reasoning with 4 harnesses, 679 runtime abilities, and dynamic capability injection.

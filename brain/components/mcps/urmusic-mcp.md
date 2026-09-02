@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T09:17:59Z"
 ---
 ## What it is
 A personal MCP server that analyzes your Spotify streaming history locally, enabling queries, artist insights, and recommendations using a local SQLite database.

@@ -8,10 +8,12 @@ source_url: https://github.com/scrypster/memento
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-20T16:28:10Z"
 ---
 ## What it is
 MCP server `Memento`, catalogued on PulseMCP. Persistent AI memory with local-first knowledge graph and hybrid search.

@@ -8,10 +8,12 @@ source_url: https://github.com/james-chahwan/repo-graph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-08T14:10:43Z"
 ---
 ## What it is
 MCP server `Repo Graph`, catalogued on PulseMCP. Structural graph map of any codebase so LLMs navigate by structure rather than guesswork.

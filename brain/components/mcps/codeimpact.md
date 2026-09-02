@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T00:04:00Z"
 ---
 ## What it is
 An MCP server that indexes your codebase and gives AI assistants persistent understanding of project structure, dependencies, and history across sessions, with a self-improving multi-agent system for continuous code quality enhancement.

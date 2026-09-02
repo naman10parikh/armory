@@ -8,10 +8,12 @@ source_url: https://github.com/pragmalabs-tech/mcpr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-09T09:53:00Z"
 ---
 ## What it is
 MCP server `MCPR`, catalogued on PulseMCP. Proxy layer for MCP apps providing tunnel, debug, deploy, and monitor capabilities through one endpoint.

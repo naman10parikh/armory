@@ -8,11 +8,13 @@ source_url: https://github.com/Manavarya09/DarkLens-MCP-Server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T22:19:16Z"
 ---
 ## What it is
 Enables AI agents to detect, classify, explain, and ethically redesign dark patterns in websites and UI flows.

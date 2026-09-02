@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T22:23:41Z"
 ---
 ## What it is
 MCP server that gives an agent its own email inbox: it opens the inbox, waits for the one-time code a signup sends, and reads or sends mail. Addresses are permanent, so a test suite does not need a new one per run; only the messages expire, on a retention window you set.

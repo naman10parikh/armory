@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T08:56:23Z"
 ---
 ## What it is
 Wraps all LANraragi APIs into 51 MCP tools, enabling AI agents to browse, search, upload, tag, and manage manga archives.

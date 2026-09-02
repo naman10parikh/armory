@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:43:17Z"
 ---
 ## What it is
 Enables Claude and other AI agents to query real-time construction management data from GOC, including employee info, attendance, orders, and projects, using natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/faizan45640/google-classroom-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-07-28T14:58:33Z"
 ---
 ## What it is
 MCP server `Google Classroom`, catalogued on PulseMCP. Integrates with Google Classroom to retrieve courses, announcements, and assignments using OAuth2 authentication, enabling students and educators to access classroom information without switching contexts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T20:57:24Z"
 ---
 ## What it is
 MCP server for Interactive Brokers that provides account, portfolio, market data, and risk analysis tools to MCP hosts like Claude Desktop, enabling natural language queries about positions, market regime, and position sizing without placing orders.

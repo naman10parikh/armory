@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-04T02:16:05Z"
 ---
 ## What it is
 A Python-based MCP server that provides access to local Org mode files, enabling querying and management of org notes, agenda, and TODOs through natural language.

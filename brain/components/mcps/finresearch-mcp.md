@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T23:33:57Z"
 ---
 ## What it is
 Enables SEC EDGAR financial research, analysis, valuation, and chart data generation through natural language.

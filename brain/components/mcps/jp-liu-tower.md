@@ -8,10 +8,12 @@ source_url: https://github.com/jp-liu/tower
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-10T04:32:08Z"
 ---
 ## What it is
 MCP server `Tower`, catalogued on PulseMCP. AI task orchestration platform with Kanban board and 24 workspace management tools.

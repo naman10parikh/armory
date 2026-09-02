@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T13:38:08Z"
 ---
 ## What it is
 Lets Claude Code instances discover and message each other across sessions, with reliable delivery via hooks instead of experimental channels.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T06:48:12Z"
 ---
 ## What it is
 MCP server for DuckDuckGo web search, enabling AI agents to perform real-time text, news, and image searches without an API key.

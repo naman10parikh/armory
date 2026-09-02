@@ -8,10 +8,12 @@ source_url: https://github.com/saranshbamania/mobile-device-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-23T17:11:16Z"
 ---
 ## What it is
 MCP server `Mobile Device by saranshbamania`, catalogued on PulseMCP. Control and interact with Android mobile devices from AI coding assistants with screenshots, UI inspection, touch interaction, AI-powered visual analysis, and Flutter widget tree inspection.

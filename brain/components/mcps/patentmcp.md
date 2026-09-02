@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T00:10:33Z"
 ---
 ## What it is
 Patent data retrieval and file delivery engine that searches multiple patent databases via a unified API and delivers documents as verifiable artifacts.

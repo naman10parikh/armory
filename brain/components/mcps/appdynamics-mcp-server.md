@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-05T12:26:23Z"
 ---
 ## What it is
 A Model Context Protocol server that gives LLM clients full access to your AppDynamics monitoring data — plus the ability to create and manage dashboards and health rules.

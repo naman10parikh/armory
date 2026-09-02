@@ -8,10 +8,12 @@ source_url: https://github.com/withoneai/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-21T17:12:10Z"
 ---
 ## What it is
 MCP server `One`, catalogued on PulseMCP. Connect AI agents to 250+ apps through a single MCP server with managed authentication.

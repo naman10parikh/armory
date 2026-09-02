@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T21:10:40Z"
 ---
 ## What it is
 An MCP server providing global soft-commodity data (cocoa, coffee, sugar, cotton, cashew) with per-call billing in USDC, offering tools for farmgate prices, ICE futures, CFTC COT positioning, and historical series.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:54Z"
 ---
 ## What it is
 Enables querying SEFAZ SC DEC Caixa Postal (Brazilian state tax mailbox) from the official source via a hosted MCP server, with prepaid credits and support for any MCP client.

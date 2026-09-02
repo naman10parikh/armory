@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T16:41:49Z"
 ---
 ## What it is
 MCP server for JackpotKeywords — AI keyword research and AI-visibility (AEO) scanning. Three tools: recommend (keywords ranked by composite Jackpot Score using real Google Ads volume/CPC + AI relevance); aeo_scan (10 buyer-intent queries via Gemini grounded search, reports whether your URL is cited/

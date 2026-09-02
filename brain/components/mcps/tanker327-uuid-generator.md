@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-02T21:48:05Z"
 ---
 ## What it is
 MCP server `UUID Generator`, catalogued on PulseMCP. Generates timestamp-based UUID v7 identifiers that are chronologically sortable and collision-resistant, following RFC standards for reliable unique identifier creation.

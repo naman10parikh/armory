@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T09:26:10Z"
 ---
 ## What it is
 Claude Code MCP server to create and update local interactive web pages (Artifacts) that live-refresh via SSE.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-17T12:13:58Z"
 ---
 ## What it is
 MCP server `Draw2Agent`, catalogued on PulseMCP. Visual annotation overlay for websites that provides screenshot and DOM context to coding agents.

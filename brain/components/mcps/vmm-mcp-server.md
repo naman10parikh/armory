@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T02:28:20Z"
 ---
 ## What it is
 MCP server that wraps the vmm-api CLI to enable listing and managing VMM network topologies through natural language.

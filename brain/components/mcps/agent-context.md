@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T07:23:32Z"
 ---
 ## What it is
 A stateless MCP server providing persistent, structured project memory for AI coding agents via a markdown folder. It allows agents to record decisions, plans, and notes, which are stored and synced with git.

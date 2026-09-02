@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T00:22:06Z"
 ---
 ## What it is
 Enables sending emails and creating drafts through the Gmail API with OAuth 2.0 authentication.

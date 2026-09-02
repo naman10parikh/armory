@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T02:39:14Z"
 ---
 ## What it is
 MCP server enabling local-first web search, fetch, extract, and caching with citeable excerpts, no API key required. Supports research workflows for agents and apps.

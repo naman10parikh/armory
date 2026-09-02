@@ -8,10 +8,12 @@ source_url: https://github.com/ptobey/local-memory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-07-11T09:03:39Z"
 ---
 ## What it is
 MCP server `Local Memory`, catalogued on PulseMCP. Provides local-first personal RAG memory with versioned text chunks stored in ChromaDB.

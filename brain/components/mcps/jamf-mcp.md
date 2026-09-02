@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T10:08:52Z"
 ---
 ## What it is
 Enables natural language interaction with Jamf Pro, Jamf Protect, and Jamf Security Cloud, allowing users to manage devices, security alerts, and configurations through Claude Desktop.

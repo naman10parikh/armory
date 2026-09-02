@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T00:48:55Z"
 ---
 ## What it is
 A lightweight, local-first MCP memory server for LLM agents that enables storing, searching, and retrieving agent memories with zero external dependencies.

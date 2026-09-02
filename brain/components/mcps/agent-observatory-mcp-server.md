@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T12:52:55Z"
 ---
 ## What it is
 Provides access to Agent Observatory's live experiment data, including visit stats, AI crawler info, and self-classification endpoints. Enables AI agents to discover and interact with the observatory's passive research infrastructure.

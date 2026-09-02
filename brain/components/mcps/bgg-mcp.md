@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-08-20T13:22:46Z"
 ---
 ## What it is
 MCP server for BoardGameGeek, enabling board game search, details, collections, user profiles, prices, and recommendations through natural language.

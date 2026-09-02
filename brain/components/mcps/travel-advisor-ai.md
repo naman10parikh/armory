@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-21T15:10:42Z"
 ---
 ## What it is
 Provides personalized travel recommendations by analyzing climate, currency exchange rates, safety, and budget constraints through AI agents and multiple public APIs.

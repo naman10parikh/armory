@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T18:45:25Z"
 ---
 ## What it is
 An MCP server that searches the web for images, creates a numbered contact sheet for visual selection, and downloads the chosen images with provenance metadata. Works without an API key.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-05T14:01:46Z"
 ---
 ## What it is
 A dynamic browser pool MCP server that gives each agent its own isolated browser, enabling concurrent browser automation without conflicts.

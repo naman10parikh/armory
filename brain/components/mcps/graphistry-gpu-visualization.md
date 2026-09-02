@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-18T20:15:37Z"
 ---
 ## What it is
 MCP server `Graphistry`, catalogued on PulseMCP. GPU-accelerated graph visualization and analytics for LLMs.

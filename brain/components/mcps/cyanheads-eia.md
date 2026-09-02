@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/eia-energy-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-25T07:15:24Z"
 ---
 ## What it is
 MCP server `EIA Energy Data`, catalogued on PulseMCP. Retrieves U.S. Energy Information Administration statistics on electricity, natural gas, petroleum, coal, and renewable energy.

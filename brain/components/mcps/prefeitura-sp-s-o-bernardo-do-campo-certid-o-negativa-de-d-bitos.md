@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:11Z"
 ---
 ## What it is
 Enables AI agents to query official negative debt certificates from São Bernardo do Campo's city hall, providing read-only access via a single tool.

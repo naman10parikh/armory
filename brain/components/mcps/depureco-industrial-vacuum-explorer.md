@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T13:31:22Z"
 ---
 ## What it is
 Remote MCP Server for industrial vacuum cleaner configuration. Query 150+ products across 24 industrial sectors with full ATEX certification data, technical specs, and accessory compatibility. No authentication required.

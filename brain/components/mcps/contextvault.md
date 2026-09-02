@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-14T20:37:43Z"
 ---
 ## What it is
 Shared context storage for AI agents. Enables any MCP-compatible model to store, read, and search context entries through the MCP server, with a web UI for management.

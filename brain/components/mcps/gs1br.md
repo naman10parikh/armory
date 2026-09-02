@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T00:52:11Z"
 ---
 ## What it is
 Enables querying authoritative product data from GS1 Brasil's Verified by GS1 API via GTIN, including brand, description, classifications, images, weights, dimensions, and licensee details, with support for national and international bases and batch enrichment.

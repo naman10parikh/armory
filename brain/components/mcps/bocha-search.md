@@ -8,10 +8,12 @@ source_url: https://github.com/bochaai/bocha-search-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 162
+stars: 178
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 27
+pushed_at: "2025-04-14T12:08:49Z"
 ---
 ## What it is
 MCP server `Bocha Search`, catalogued on PulseMCP. Integrates with Bocha, a Chinese search engine, to provide web search capabilities with rich structured data from billions of documents across multiple domains and languages.

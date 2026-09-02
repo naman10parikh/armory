@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T11:36:42Z"
 ---
 ## What it is
 A local MCP server that helps you maintain a personal Japanese learning knowledge base, including vocabulary, confusion relations, mistakes, and spaced-repetition reviews. It provides tools and prompts for managing and reviewing your Japanese learning data without calling external LLM APIs.

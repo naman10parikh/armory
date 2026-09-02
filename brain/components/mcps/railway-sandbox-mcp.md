@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T19:17:13Z"
 ---
 ## What it is
 Enables ChatGPT to create, manage, and execute commands in ephemeral isolated Linux sandboxes on Railway, with file operations and checkpointing.

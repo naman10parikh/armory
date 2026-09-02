@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:30:47Z"
 ---
 ## What it is
 Enables career diagnosis by analyzing user skills and recommending suitable professions using Google Gemini and a RAG knowledge base of 10 professions.

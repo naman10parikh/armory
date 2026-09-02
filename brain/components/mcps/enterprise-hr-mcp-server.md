@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T16:04:22Z"
 ---
 ## What it is
 Exposes tools for employee information, leave balance, support tickets, and product inventory, with AI agent integration and A2A communication for escalation.

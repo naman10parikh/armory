@@ -8,11 +8,13 @@ source_url: https://github.com/koreainvestment/koreainvestment-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-08-27T08:35:47Z"
 ---
 ## What it is
 Enables users to search for Korea Investment & Securities APIs using natural language queries, returning structured responses with API details such as function name, API name, and category.

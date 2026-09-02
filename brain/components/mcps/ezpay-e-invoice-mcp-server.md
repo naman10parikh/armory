@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T15:36:37Z"
 ---
 ## What it is
 An MCP server that exposes tools for Taiwan's ezPay e-invoice lifecycle, enabling AI assistants to issue, void, and query invoices and allowances through the standard MCP protocol.

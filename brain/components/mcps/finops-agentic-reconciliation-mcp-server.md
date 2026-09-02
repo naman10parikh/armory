@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T04:55:34Z"
 ---
 ## What it is
 This MCP server enables autonomous finance operations, providing tools to run 3-way matching audits, fetch unmatched invoices, trigger vendor holds, and retrieve vendor aging summaries. It integrates with an AI agent for policy-based discrepancy resolution and executive dashboards.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T04:59:14Z"
 ---
 ## What it is
 A read-only MCP server for Palo Alto Panorama policy review that reads security rules, finds duplicates, broader coverage, conflicts, and overlaps, and returns preclear decisions without committing changes.

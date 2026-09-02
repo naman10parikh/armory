@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T23:53:00Z"
 ---
 ## What it is
 Enables AI assistants to interact with the MIDL blockchain, supporting smart contract deployment, balance queries, asset bridging, Bitcoin Rune management, and more through natural language.

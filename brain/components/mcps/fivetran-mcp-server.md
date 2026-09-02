@@ -8,11 +8,13 @@ source_url: https://github.com/fivetran/fivetran-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-08-20T01:05:41Z"
 ---
 ## What it is
 Enables you to interact with your Fivetran environment through natural language, supporting read-only queries about connections and syncs, and write operations like updating sync frequency when enabled.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-18T19:40:00Z"
 ---
 ## What it is
 MCP server for WhiteBit cryptocurrency exchange API, enabling market data retrieval, order book access, and real-time WebSocket streams.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T22:17:04Z"
 ---
 ## What it is
 Provides LIWC-style dictionary scoring of text with deterministic, provenance-first analysis, enabling researchers and AI agents to perform reproducible text analysis via MCP tools.

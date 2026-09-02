@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T10:02:20Z"
 ---
 ## What it is
 A remote MCP server that enables AI agents to host HTML pages, generate PDFs, capture screenshots, scrape sites, and run sandboxed code using a CustomJS API key.

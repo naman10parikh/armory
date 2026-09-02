@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T15:52:08Z"
 ---
 ## What it is
 A reference MCP server scaffold with per-user auth passthrough, read-only defaults, dry-run mode, and rate/spend capping, enabling developers to build secure MCP integrations with structured audit logging.

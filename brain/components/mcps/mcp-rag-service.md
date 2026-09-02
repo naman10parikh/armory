@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T11:18:15Z"
 ---
 ## What it is
 A production-minded RAG service for MCP that answers questions over your documents with hybrid retrieval, PII redaction, and source citations, packaged for Docker/Kubernetes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-18T11:27:20Z"
 ---
 ## What it is
 Integrates with Trello to manage tasks and cards with features like creating, updating, and marking tasks as in-progress or completed, as well as managing checklists and providing an interactive feedback UI.

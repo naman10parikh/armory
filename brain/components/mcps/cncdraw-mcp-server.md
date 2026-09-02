@@ -8,11 +8,13 @@ source_url: https://github.com/jiangmuran/CNCDraw
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T22:20:44Z"
 ---
 ## What it is
 Enables AI agents to control a pen plotter by providing MCP tools for text layout, image processing, G-code generation, device control, and vision-based calibration.

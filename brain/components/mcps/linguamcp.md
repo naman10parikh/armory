@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T22:18:10Z"
 ---
 ## What it is
 Serves daily language lessons from a structured curriculum, enabling natural practice through conversation with AI tutors that track progress.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T11:32:44Z"
 ---
 ## What it is
 MCP server that turns bank transactions into a financial digest including cash-flow forecast, spending breakdown, fee detection, and receipt reconciliation, exposing deterministic engines as JSON-RPC tools.

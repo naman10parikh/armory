@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-30T00:19:38Z"
 ---
 ## What it is
 Moodle REST API client with batch downloading and MCP protocol support for Claude Code and OpenCode, enabling course management, grade checking, assignment tracking, file downloads, and more.

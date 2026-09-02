@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T14:58:55Z"
 ---
 ## What it is
 Enables GitHub project management from Claude, supporting issue creation, milestones, labels, changelog generation, and repository stats.

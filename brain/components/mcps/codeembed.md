@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-21T19:28:05Z"
 ---
 ## What it is
 Embeds your codebase into a local vector and graph database and exposes it as an MCP tool, enabling AI assistants to perform fast semantic search over your code using Graph RAG.

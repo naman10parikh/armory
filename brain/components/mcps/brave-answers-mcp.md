@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:32:36Z"
 ---
 ## What it is
 MCP server that wraps the Brave Answers API, enabling synchronous Q&A and asynchronous deep research with job submission, status polling, and result retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T17:18:46Z"
 ---
 ## What it is
 Enables calendar management with iCloud through CalDAV, allowing users to list, create, update, and delete events via a standardized API.

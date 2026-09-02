@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T08:10:57Z"
 ---
 ## What it is
 MCP server that fetches API responses and generates ready-to-use model/POJO classes in your configured language, with built-in login/refresh token handling.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T22:15:40Z"
 ---
 ## What it is
 Turns Base44's AI builder into a Monad web3 app builder, enabling anyone to vibecode consumer crypto apps (invisible wallets, gasless USDC payments) by describing them in English.

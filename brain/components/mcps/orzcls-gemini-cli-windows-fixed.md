@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-05T04:01:01Z"
 ---
 ## What it is
 MCP server `Gemini CLI (Windows Fixed)`, catalogued on PulseMCP. Windows-compatible Gemini CLI integration that addresses character encoding and parameter handling issues, providing PowerShell integration with automatic executable detection, multiple model support, sandbox mode for safe code execution, and specialized tools for brainstorming and structured editing.

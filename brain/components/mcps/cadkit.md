@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T20:59:57Z"
 ---
 ## What it is
 An MCP server for parametric part modeling in Onshape, producing fully-defined, variable-driven sketches and features. It enables LLMs to create editable CAD models using semantic selection and geometrically grounded constraints.

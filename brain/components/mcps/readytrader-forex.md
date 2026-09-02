@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T13:49:31Z"
 ---
 ## What it is
 Enables AI agents to perform forex trading operations through brokerages with risk controls and safety guardrails.

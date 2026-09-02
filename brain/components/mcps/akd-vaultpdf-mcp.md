@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T03:11:09Z"
 ---
 ## What it is
 Provides tools to analyze local PDFs and CSVs (page count, text search, scoring, column stats) with strict refusal to guess ambiguous data. Requires a paid license.

@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-09T19:03:31Z"
 ---
 ## What it is
 MCP server `Flutter Tools`, catalogued on PulseMCP. Integrates with the Flutter SDK to analyze and fix Dart/Flutter files, enabling automated code analysis and improvement suggestions for Flutter development.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T11:34:17Z"
 ---
 ## What it is
 MCP server for human-in-the-loop copy review. Enables coding agents to file draft strings for user-facing text, humans to approve or reject them on a dashboard, and later agent sessions to fetch approved copy and apply it in place.

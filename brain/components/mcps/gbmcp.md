@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T14:00:19Z"
 ---
 ## What it is
 A Python stdio MCP server for querying standards metadata and downloading public standard documents from supported sources.

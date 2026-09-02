@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T06:14:36Z"
 ---
 ## What it is
 A factual NFL data server that provides player search, profiles, statistics, schedules, rosters, and more via MCP tools, with automatic on-demand retrieval and transparent caching from nflverse.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T07:03:08Z"
 ---
 ## What it is
 AI Hive AIGC MCP server enables commercial image and video generation for e-commerce, marketing, and advertising, with model discovery, media upload, generation tasks, and polling.

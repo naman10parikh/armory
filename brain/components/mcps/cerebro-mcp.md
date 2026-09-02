@@ -8,11 +8,13 @@ source_url: https://github.com/Synvoya/cerebro-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-25T15:48:02Z"
 ---
 ## What it is
 Enables non-coders to build software by describing ideas in natural language, orchestrating AI agents and CLI workers via chat without needing a terminal.

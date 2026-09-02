@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T04:46:38Z"
 ---
 ## What it is
 Enables AI-assisted development by providing a library of 110+ curated prompts, workflows, and coding standards, with MCP tools for prompt retrieval, composition, and multi-step workflow chains.

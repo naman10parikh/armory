@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-04-14T04:04:16Z"
 ---
 ## What it is
 MCP server `Crawl4AI (Web Scraping & Crawling)`, catalogued on PulseMCP. Integrates web scraping and crawling capabilities with tools for single-page content extraction, metadata retrieval, and Google search functionality, enabling workflows that require web content analysis, data collection, or online research tasks.

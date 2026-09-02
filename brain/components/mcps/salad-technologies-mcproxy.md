@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-12T16:23:06Z"
 ---
 ## What it is
 MCP server `SaladCloud MCProxy`, catalogued on PulseMCP. Provides remote headless browser automation through distributed architecture with anti-detection features, geographic distribution, and humanized behavior simulation for web scraping and testing tasks.

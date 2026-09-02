@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T08:36:27Z"
 ---
 ## What it is
 MCP server `WhatsApp`, catalogued on PulseMCP. Provides read-only access to local WhatsApp chats and messages via the unofficial Baileys library with account suspension risk.

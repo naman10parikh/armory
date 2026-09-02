@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T18:03:16Z"
 ---
 ## What it is
 MCP server for integrating VeriFactu (AEAT) with Claude Code and Cursor, enabling generation, chaining, and sending of electronic invoicing records via natural language.

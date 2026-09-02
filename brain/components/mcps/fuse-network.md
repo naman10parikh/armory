@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T09:38:55Z"
 ---
 ## What it is
 MCP server for Fuse Network: balances, tokens, staking, DeFi data, swaps and on-chain transactions.

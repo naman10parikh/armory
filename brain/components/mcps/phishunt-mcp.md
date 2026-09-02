@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T20:28:34Z"
 ---
 ## What it is
 Provides MCP tools to query the phishunt.io phishing feed, enabling domain checks, brand-specific phishing lists, delta syncs, and phishing-signal analysis.

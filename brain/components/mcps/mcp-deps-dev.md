@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:59:45Z"
 ---
 ## What it is
 Provides access to Google's deps.dev API for package metadata and dependency graphs across ecosystems, enabling querying packages, versions, dependencies, and project info via natural language or direct tool calls.

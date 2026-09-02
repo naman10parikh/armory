@@ -8,10 +8,12 @@ source_url: https://github.com/gtokai/continuo-memory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-14T02:26:15Z"
 ---
 ## What it is
 MCP server `Continuo Memory`, catalogued on PulseMCP. Provides hierarchical memory storage with three-tier compression (chunks, micro-summaries, meta-summaries) and semantic search using ChromaDB for long-term context retention and knowledge base management where traditional context windows are insufficient.

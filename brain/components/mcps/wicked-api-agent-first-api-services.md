@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T00:06:09Z"
 ---
 ## What it is
 Real-time crypto, stock, and prediction-market data for agents — prices, indicators, funding rates, DeFi TVL, macro calendar, and an AI momentum score. Configure one Base wallet key and it just works. No signup, no dashboard, no subscription.

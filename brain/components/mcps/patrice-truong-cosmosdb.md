@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-31T20:05:41Z"
 ---
 ## What it is
 MCP server `Azure Cosmos DB`, catalogued on PulseMCP. Bridges Azure Cosmos DB with language models, enabling database operations like product search, order retrieval, and weather data access through vector search capabilities for e-commerce applications.

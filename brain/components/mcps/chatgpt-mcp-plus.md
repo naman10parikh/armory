@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-12T03:51:56Z"
 ---
 ## What it is
 Enables AI assistants to send prompts to and receive responses from the ChatGPT desktop app on macOS, including starting new conversations.

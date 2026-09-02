@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2025-08-07T13:04:58Z"
 ---
 ## What it is
 An MCP server for real-time analysis of Lovable-generated projects, enabling Claude Desktop to instantly understand project structure, components, dependencies, and more.

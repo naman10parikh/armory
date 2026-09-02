@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-04-15T16:09:07Z"
 ---
 ## What it is
 Provides Korean spell checking and grammar correction via a single tool. It integrates into MCP clients like Cursor or Claude Desktop.

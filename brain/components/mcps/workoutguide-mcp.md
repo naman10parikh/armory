@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T15:03:39Z"
 ---
 ## What it is
 Enables workout tracking and coaching within Claude conversations, managing exercise configs, logs, streaks, and health metrics via an MCP server with PostgreSQL.

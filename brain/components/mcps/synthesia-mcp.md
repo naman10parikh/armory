@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T08:22:26Z"
 ---
 ## What it is
 Enables creating and managing Synthesia avatar videos through natural language, with draft-by-default rendering to save quota.

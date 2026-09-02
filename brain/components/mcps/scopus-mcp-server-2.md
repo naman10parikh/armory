@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:34:42Z"
 ---
 ## What it is
 Scopus MCP Server enables researchers to interact with the Scopus database through natural language. It provides tools for searching documents, fetching abstracts, finding author profiles, and viewing citation overviews.

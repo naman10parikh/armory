@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T18:02:21Z"
 ---
 ## What it is
 An MCP server that indexes codebases into a local graph and provides on-demand context retrieval for AI coding agents, reducing token usage by tracking session history and delivering only relevant code subgraphs.

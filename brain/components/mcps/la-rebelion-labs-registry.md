@@ -8,10 +8,12 @@ source_url: https://github.com/modelcontextprotocol/registry
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6854
+stars: 7213
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 976
+pushed_at: "2026-08-26T23:33:36Z"
 ---
 ## What it is
 MCP server `MCP Registry`, catalogued on PulseMCP. Search and discover MCP servers through the official MCP Registry service.

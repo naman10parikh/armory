@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T05:45:43Z"
 ---
 ## What it is
 An MCP server for EU Mobility Package compliance, enabling operators to check drivers' hours, cabotage rules, smart tachograph requirements, and posted worker declarations for cross-border road transport.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-23T18:37:24Z"
 ---
 ## What it is
 MCP server `File System`, catalogued on PulseMCP. Provides secure file system operations including reading, writing, copying, moving, and deleting files plus directory management and advanced search capabilities with regex pattern matching and content searching across files.

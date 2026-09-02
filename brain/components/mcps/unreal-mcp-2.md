@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-28T16:03:04Z"
 ---
 ## What it is
 Enables natural language interaction with Unreal Engine, providing 127 tools across 16 subsystems for tasks like actor manipulation, asset management, blueprint creation, and more, using built-in Python and Remote Control plugins.

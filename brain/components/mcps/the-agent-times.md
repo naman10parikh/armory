@@ -8,10 +8,12 @@ source_url: https://github.com/theagenttimes/agent-news
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 19
+pushed_at: "2026-05-26T08:53:24Z"
 ---
 ## What it is
 MCP server `The Agent Times`, catalogued on PulseMCP. AI agent economy news MCP providing real-time sourced articles with citations and Ethics Engine ratings.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-26T08:01:00Z"
 ---
 ## What it is
 Enables creating, manipulating, and managing Mermaid diagrams with automatic saving and multi-format conversion from JSON, CSV, Python, Markdown, and plain text.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T00:07:18Z"
 ---
 ## What it is
 Enables querying Mexican federal legislation (316 laws indexed) through natural language, with tools for legal consultation, pricing, and law catalog browsing.

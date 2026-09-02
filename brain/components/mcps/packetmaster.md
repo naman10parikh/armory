@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T15:54:19Z"
 ---
 ## What it is
 MCP server for network-troubleshooting PCAP analysis via tshark, enabling users to analyze PCAP files, detect anomalies, and troubleshoot network issues.

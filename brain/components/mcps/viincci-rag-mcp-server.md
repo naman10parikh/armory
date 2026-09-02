@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-30T13:53:47Z"
 ---
 ## What it is
 A basic MCP server that always responds with 'viincci_rag' to any prompt, useful as a placeholder or for testing MCP connections.

@@ -8,10 +8,12 @@ source_url: https://github.com/lakr233/iphone-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 129
+stars: 133
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-09-01T15:55:21Z"
 ---
 ## What it is
 MCP server `iPhone Automation`, catalogued on PulseMCP. Provides iPhone automation capabilities through Appium and XCUITest, enabling device control, app launching, UI interaction, and screenshot capture with optimized XML filtering and JPEG compression for testing and demonstration workflows.

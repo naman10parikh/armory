@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T15:38:25Z"
 ---
 ## What it is
 MCP server for Blocklens Bitcoin on-chain analytics, providing AI agents access to 127 on-chain metrics and chart rendering.

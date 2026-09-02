@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T16:29:58Z"
 ---
 ## What it is
 Enables AI agents to perceive and interact with web interfaces by extracting a unified UI Scene Graph from live URLs, providing tools for navigation, element detection, visual analysis, and state tracking.

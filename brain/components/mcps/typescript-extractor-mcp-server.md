@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T14:46:58Z"
 ---
 ## What it is
 Enables to extract TypeScript methods, functions, and their relevant imports and class properties for code analysis, refactoring, and documentation.

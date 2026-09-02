@@ -8,10 +8,12 @@ source_url: https://github.com/libragen/libragen
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-17T02:16:16Z"
 ---
 ## What it is
 MCP server `Libragen`, catalogued on PulseMCP. Build searchable documentation libraries that ground AI assistants in accurate information

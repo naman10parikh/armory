@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T19:40:43Z"
 ---
 ## What it is
 An MCP server implementing the Will-Aware Knowledge Execution (WAKE) protocol for post-mortem AI agent management, enabling heartbeat monitoring, death verification, and execution of succession plans.

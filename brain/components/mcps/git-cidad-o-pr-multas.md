@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:15Z"
 ---
 ## What it is
 Read-only MCP server for consulting traffic fines (multas) from the official GIT Cidadão (PR) source, accessible via pre-paid credits and any MCP-over-HTTP client.

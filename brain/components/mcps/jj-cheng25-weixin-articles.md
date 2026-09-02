@@ -8,10 +8,12 @@ source_url: https://github.com/jj-cheng25/weixin-articles-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T03:08:55Z"
 ---
 ## What it is
 MCP server `WeChat Articles`, catalogued on PulseMCP. Reads WeChat Official Account articles and returns content with embedded images and video keyframes as native MCP content blocks.

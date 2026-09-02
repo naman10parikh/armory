@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T08:11:25Z"
 ---
 ## What it is
 Enables interaction with indexed Python repositories through MCP tools for repository map, symbol search, file reading, and reference lookup.

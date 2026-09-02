@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T04:21:19Z"
 ---
 ## What it is
 A send-only Telegram MCP server enabling agents to message you or named contacts via a Telegram bot, with audit copies to the owner.

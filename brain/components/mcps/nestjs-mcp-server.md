@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-25T17:24:14Z"
 ---
 ## What it is
 A production-ready NestJS backend template with built-in MCP server enabling AI agents to query your data via standardized protocol, featuring RAG pipeline, semantic search, and comprehensive developer tooling.

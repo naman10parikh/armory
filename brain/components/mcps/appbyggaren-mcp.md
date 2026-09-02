@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T20:23:11Z"
 ---
 ## What it is
 An MCP server for publishing static web apps via Gitea and Coolify, with scoped permissions and safety guards.

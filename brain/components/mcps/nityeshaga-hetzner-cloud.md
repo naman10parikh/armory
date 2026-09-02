@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-06T19:53:18Z"
 ---
 ## What it is
 MCP server `Hetzner Cloud`, catalogued on PulseMCP. Integrates with Hetzner Cloud API for managing servers, SSH keys, and infrastructure resources with power operations and datacenter queries.

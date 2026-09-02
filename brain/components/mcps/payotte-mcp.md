@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T18:12:17Z"
 ---
 ## What it is
 Canadian real estate MCP server providing verified expert lookup, market stats, current rates, land transfer taxes, and more via Cloudflare Workers.

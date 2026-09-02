@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T08:45:09Z"
 ---
 ## What it is
 A lightweight Node.js MCP server that integrates Alibaba Cloud's Qwen models, providing vision understanding, real-time web search, and general chat capabilities through three ready-to-use tools.

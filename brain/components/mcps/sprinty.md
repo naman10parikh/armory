@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:21:48Z"
 ---
 ## What it is
 A disciplined-sprint MCP server for AI coding agents, providing structured sprint management with immutable append-only ledger, programmatic close-gates, and live dashboard.

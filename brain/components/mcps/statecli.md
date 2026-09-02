@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-07T02:59:38Z"
 ---
 ## What it is
 MCP server `StateCLI`, catalogued on PulseMCP. State replay and self-debugging layer for AI agents with tracking, replay, undo, and checkpoint capabilities.

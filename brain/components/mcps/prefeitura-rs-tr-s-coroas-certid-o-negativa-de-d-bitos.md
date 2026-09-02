@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:00Z"
 ---
 ## What it is
 Enables users to query official negative debt certificates from the Prefeitura de Três Coroas (RS, Brazil) through a read-only MCP tool.

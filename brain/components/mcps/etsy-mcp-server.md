@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-05-07T12:47:53Z"
 ---
 ## What it is
 An MCP server for interacting with the Etsy API, enabling listing management, shop information, shipping profiles, and image uploads.

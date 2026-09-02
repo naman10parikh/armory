@@ -8,10 +8,12 @@ source_url: https://github.com/smigolsmigol/llmkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-09-01T16:04:27Z"
 ---
 ## What it is
 MCP server `LLMKit`, catalogued on PulseMCP. Track AI API costs across 11 LLM providers with budget enforcement, per-session breakdowns, and multi-provider routing.

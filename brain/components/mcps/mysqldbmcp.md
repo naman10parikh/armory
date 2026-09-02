@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:17:28Z"
 ---
 ## What it is
 Production-grade MySQL MCP server with multi-source YAML config, read-only default, supporting metadata inspection, querying, and optional modules via stdio or HTTP.

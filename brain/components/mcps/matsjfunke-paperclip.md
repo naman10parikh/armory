@@ -8,10 +8,12 @@ source_url: https://github.com/matsjfunke/paperclip
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-12-07T14:20:52Z"
 ---
 ## What it is
 MCP server `Paperclip`, catalogued on PulseMCP. Integrates with ArXiv, OpenAlex, and Open Science Framework to provide unified academic paper search, metadata retrieval, and full-text PDF extraction converted to clean markdown format for research analysis and literature reviews.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T12:12:35Z"
 ---
 ## What it is
 An MCP server that lets agents claim, work on, and finish units of work in a coordinated fleet, with lease and heartbeat protection, plus tools for orchestrators to define work and collect results.

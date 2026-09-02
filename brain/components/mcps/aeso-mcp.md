@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T19:00:25Z"
 ---
 ## What it is
 Provides agent-native, strongly typed access to Alberta's electricity market data via official AESO APIs, including current market snapshots, historical prices, load, generation, interchange, reserves, and deterministic analytics.

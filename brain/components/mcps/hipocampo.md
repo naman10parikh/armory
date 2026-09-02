@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T01:39:50Z"
 ---
 ## What it is
 Dual-memory MCP system with PostgreSQL 17 + pgvector + NVIDIA NIM embeddings. 11 tools: search, save, profile, health, auto-repair, stats, tune, dedup, checkpoint, maintenance. Sparse Selective Caching (SSC) with 4-phase progressive retrieval. Bilingual EN/ES.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-10T08:37:07Z"
 ---
 ## What it is
 Enables AI assistants to manage Shopware e-commerce data through the Admin API, including products, categories, sales channels, orders, themes, and media.

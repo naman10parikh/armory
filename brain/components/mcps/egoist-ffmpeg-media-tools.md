@@ -8,10 +8,12 @@ source_url: https://github.com/egoist/ffmpeg-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 120
+stars: 119
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-29T08:36:29Z"
 ---
 ## What it is
 MCP server `FFmpeg Media Tools`, catalogued on PulseMCP. Provides a simplified interface for common FFmpeg media operations like video speed adjustment and audio extraction without requiring complex command-line syntax

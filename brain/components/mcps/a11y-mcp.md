@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T23:46:39Z"
 ---
 ## What it is
 Enables web accessibility audits using axe-core, allowing users to scan URLs, check WCAG compliance levels, and export reports. It uses an anti-detect browser to bypass Cloudflare and other bot protection.

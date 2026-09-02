@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-05-28T09:36:07Z"
 ---
 ## What it is
 MCP server `CodePipeline`, catalogued on PulseMCP. Enables AI assistants to manage and monitor AWS CodePipeline services through natural language commands, providing tools for pipeline execution, action approval, and metrics retrieval.

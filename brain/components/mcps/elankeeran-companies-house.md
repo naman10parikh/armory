@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-20T12:26:07Z"
 ---
 ## What it is
 MCP server `Companies House`, catalogued on PulseMCP. Access UK Companies House API for company searches, profiles, officers, and filing history

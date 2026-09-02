@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T13:10:31Z"
 ---
 ## What it is
 Enables searching and retrieving historical records from the Library of Congress, including newspapers, photos, maps, manuscripts, audio, and film, via the Model Context Protocol.

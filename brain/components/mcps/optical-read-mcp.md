@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T21:36:47Z"
 ---
 ## What it is
 MCP server that converts file contents into compact, line-numbered PNG images for vision models to read, reducing token usage by roughly 7x for large files.

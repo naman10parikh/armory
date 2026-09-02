@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T14:26:06Z"
 ---
 ## What it is
 Enables AI agents to discover, read, search, and install Markdown-based knowledge (rules, skills, workflows) from a local directory via MCP tools.

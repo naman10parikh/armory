@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T02:11:40Z"
 ---
 ## What it is
 Dual-rail MCP server for initiating and verifying MPP and x402 payments, plus MPP-attested identity claims, enabling agent-native financial settlement.

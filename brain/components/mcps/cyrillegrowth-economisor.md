@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-12T15:22:42Z"
 ---
 ## What it is
 MCP server `Economisor`, catalogued on PulseMCP. MCP gateway for AI token optimization with semantic caching, multi-provider routing, and up to 99% context reduction via intelligent compression.

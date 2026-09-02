@@ -8,10 +8,12 @@ source_url: https://github.com/akshatnerella/arduino-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-22T22:32:36Z"
 ---
 ## What it is
 MCP server `Arduino Development`, catalogued on PulseMCP. Arduino CLI integration for board detection, sketch compilation, upload, serial monitoring, and pin references.

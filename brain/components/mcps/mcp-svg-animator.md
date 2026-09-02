@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-25T17:57:03Z"
 ---
 ## What it is
 Enables creating and iterating on animated SVG diagrams from text input, photos of sketches, and YAML specifications, with support for shapes, connections, SMIL animations, and file output.

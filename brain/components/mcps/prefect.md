@@ -8,10 +8,12 @@ source_url: https://github.com/prefecthq/prefect-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 39
+pushed_at: "2026-09-01T19:31:12Z"
 ---
 ## What it is
 MCP server `Prefect`, catalogued on PulseMCP. Monitor and debug workflows, deployments, and automations in Prefect

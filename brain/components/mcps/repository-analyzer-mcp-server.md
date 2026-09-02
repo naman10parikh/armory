@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-03-11T14:49:19Z"
 ---
 ## What it is
 Provides tools for analyzing code repositories, including structure, dependencies, and git history, with special support for Nostr-related projects.

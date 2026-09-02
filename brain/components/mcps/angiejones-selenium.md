@@ -8,10 +8,12 @@ source_url: https://github.com/angiejones/mcp-selenium
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 418
+stars: 427
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 121
+pushed_at: "2026-02-23T03:24:23Z"
 ---
 ## What it is
 MCP server `Selenium`, catalogued on PulseMCP. Automates web browser actions with Selenium WebDriver.

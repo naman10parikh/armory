@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-08T21:42:23Z"
 ---
 ## What it is
 MCP server `Florence-2`, catalogued on PulseMCP. Integrates with Florence-2 to enable advanced image analysis and manipulation tasks like visual question answering, image captioning, and content-based image retrieval.

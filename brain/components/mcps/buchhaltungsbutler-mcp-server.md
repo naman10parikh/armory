@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T03:30:11Z"
 ---
 ## What it is
 Enables AI assistants to interact with the BuchhaltungsButler accounting API via MCP, providing tools for managing receipts, transactions, invoices, postings, and master data directly from Claude Desktop and other MCP-compatible clients.

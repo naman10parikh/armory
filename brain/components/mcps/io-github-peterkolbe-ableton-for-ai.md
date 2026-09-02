@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T14:27:07Z"
 ---
 ## What it is
 MCP server that bridges Ableton Live with AI models, enabling real-time project inspection and control such as track overview, device parameters, and audio analysis.

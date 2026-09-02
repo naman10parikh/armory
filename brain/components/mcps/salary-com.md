@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-15T01:39:30Z"
 ---
 ## What it is
 MCP server `Salary.com`, catalogued on PulseMCP. MCP server for real-time compensation data from Salary.com, returning salary percentiles by job title, location, company type, and industry context.

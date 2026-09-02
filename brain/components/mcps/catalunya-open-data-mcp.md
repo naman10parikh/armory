@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T20:58:36Z"
 ---
 ## What it is
 Enables discovering, describing, and querying public datasets from Catalunya, including Socrata, IDESCAT, and Open Data BCN portals.

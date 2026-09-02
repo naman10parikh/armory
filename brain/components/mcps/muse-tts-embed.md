@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-23T14:43:34Z"
 ---
 ## What it is
 Enables Claude to speak text with an embedded audio player, supporting 54 voices, voice cloning, and playback controls, all running locally.

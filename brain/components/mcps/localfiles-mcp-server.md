@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-07T13:01:04Z"
 ---
 ## What it is
 Provides secure access to local files from specified directories. Enables listing files, reading contents, and configurable file size and extension filtering.

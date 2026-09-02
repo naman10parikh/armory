@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T22:43:26Z"
 ---
 ## What it is
 HTTP MCP gateway for a learning corpus with Pinecone, Neo4j, and agentic router, enabling remote agents to query via tools like route_query, query_namespace, graph_query, etc.

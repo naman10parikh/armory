@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T06:39:11Z"
 ---
 ## What it is
 A complete MCP server over the Bitrix24 REST API, enabling CRM, tasks, chats, files, calendar, HR, smart processes, mail, telephony, business processes, and events through 30 tools and ~290 actions. Supports incoming webhook or OAuth 2.0 authentication and works over stdio or Streamable HTTP.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-02-01T03:08:57Z"
 ---
 ## What it is
 MCP server `TTS Say`, catalogued on PulseMCP. Integrates with OpenAI's API and local sound playback to convert text into audible speech, enabling voice output for various applications.

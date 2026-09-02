@@ -8,10 +8,12 @@ source_url: https://github.com/bitraptors/archie
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-22T15:03:38Z"
 ---
 ## What it is
 MCP server `Architecture Blueprints`, catalogued on PulseMCP. Exposes software architecture blueprints and patterns as persistent context for AI-assisted development, with tools to validate code compliance with layered architecture principles.

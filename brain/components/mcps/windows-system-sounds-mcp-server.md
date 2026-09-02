@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:45:34Z"
 ---
 ## What it is
 Plays built-in Windows system sounds or WAV files to notify users when tasks finish or need attention, using the winsound module. Provides a single play_sound tool with presets and customizable file paths, repeats, and intervals.

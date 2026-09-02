@@ -8,10 +8,12 @@ source_url: https://github.com/secretiveshell/mcp-llms-txt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-09T16:09:06Z"
 ---
 ## What it is
 MCP server `Llms.txt`, catalogued on PulseMCP. Integrates with Awesome-llms-txt to enhance conversations by incorporating relevant documentation snippets for improved technical support, code explanations, and educational dialogues.

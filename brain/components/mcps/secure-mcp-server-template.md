@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T21:07:09Z"
 ---
 ## What it is
 Provides secure, read-only database queries, HTTP GET requests with anti-SSRF protection, and file reading within a restricted directory.

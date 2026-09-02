@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T00:07:21Z"
 ---
 ## What it is
 An MCP server enabling Claude Code to analyze any video (local file, URL, or Jira ticket attachment) by extracting frame images and audio transcripts, or using Gemini for native video analysis.

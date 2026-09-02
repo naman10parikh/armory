@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T15:24:34Z"
 ---
 ## What it is
 A local mock MCP server for building against the Model Context Protocol. Write a tool in the browser, save it, and it is immediately available on an MCP endpoint.

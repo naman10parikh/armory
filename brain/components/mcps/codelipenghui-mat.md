@@ -8,10 +8,12 @@ source_url: https://github.com/codelipenghui/mcp-mat
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-19T00:53:49Z"
 ---
 ## What it is
 MCP server `Eclipse MAT`, catalogued on PulseMCP. Enables Java heap dump analysis through headless Eclipse MAT with OQL queries, leak detection reports, and 56 built-in analysis commands.

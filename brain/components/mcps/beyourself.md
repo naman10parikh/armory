@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T03:40:44Z"
 ---
 ## What it is
 MCP server for BeYourself, enabling AI agents to analyze text, code, and audio for AI-generated patterns, batch score documents, retrieve flagged sections, and process audio into stems and MIDI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T15:34:47Z"
 ---
 ## What it is
 A per-add-on RustFS (S3) object-storage admin MCP for the kubero chat, enabling management of S3-compatible buckets and objects through natural language.

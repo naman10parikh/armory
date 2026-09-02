@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T20:20:48Z"
 ---
 ## What it is
 Provides login-gated access to FindData's crawled business data, enabling users to read indicators over time, list concepts, search via natural language, and run graph queries.

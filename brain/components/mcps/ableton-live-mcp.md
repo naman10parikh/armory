@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T22:24:32Z"
 ---
 ## What it is
 Local MCP server for inspecting and controlling Ableton Live through a local HTTP bridge. Enables LLMs to perform production workflows like MIDI import, track editing, mixing, mastering, and export.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T23:36:25Z"
 ---
 ## What it is
 A local stdio MCP server that gives coding agents searchable access to official Skeleton documentation, with tools for searching docs, retrieving sections, and getting Svelte-specific guidance.

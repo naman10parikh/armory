@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T21:02:39Z"
 ---
 ## What it is
 Enables AI agents to access and interact with the Sefaria database of Jewish texts, including retrieval, search, and related content.

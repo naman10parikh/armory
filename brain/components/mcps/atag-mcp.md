@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T17:23:01Z"
 ---
 ## What it is
 Provides guidance on the W3C Authoring Tool Accessibility Guidelines (ATAG 2.0) to help authoring tool developers build accessible software.

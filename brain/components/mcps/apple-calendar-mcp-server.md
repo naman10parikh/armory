@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-31T14:55:25Z"
 ---
 ## What it is
 A comprehensive MCP server that provides AI assistants with natural language access to Apple Calendar, enabling reading, searching, creating, and managing calendar events.

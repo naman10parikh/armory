@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-27T15:26:07Z"
 ---
 ## What it is
 MCP server `Gauntlet Incept`, catalogued on PulseMCP. Integrates with QTI services and LLMs to generate personalized educational content tailored to students' knowledge levels and interests, streamlining the creation of adaptive learning materials.

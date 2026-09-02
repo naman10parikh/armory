@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-15T22:42:36Z"
 ---
 ## What it is
 MCP server `Cloudflare`, catalogued on PulseMCP. Integrates with Cloudflare's API to enable management of DNS, CDN, and security configurations for web infrastructure automation.

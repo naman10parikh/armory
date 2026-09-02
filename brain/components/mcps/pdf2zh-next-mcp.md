@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T18:15:56Z"
 ---
 ## What it is
 MCP server for translating PDFs using pdf2zh-next, preserving document context by extracting all text segments for LLM translation at once.

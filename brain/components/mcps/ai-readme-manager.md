@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T04:51:44Z"
 ---
 ## What it is
 A smart documentation system that helps AI assistants understand and follow your project's conventions by automatically discovering, routing, and managing AI_README.md guide files.

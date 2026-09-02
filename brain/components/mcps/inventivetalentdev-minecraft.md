@@ -8,10 +8,12 @@ source_url: https://github.com/inventivetalentdev/minecraft-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-07T15:09:41Z"
 ---
 ## What it is
 MCP server `Minecraft`, catalogued on PulseMCP. MCP servers for AI-assisted Minecraft development, bridging Claude to running Minecraft instances via WebSocket.

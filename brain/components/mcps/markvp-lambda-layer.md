@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-04-10T06:46:49Z"
 ---
 ## What it is
 MCP server `Lambda Layer`, catalogued on PulseMCP. Lightweight AWS Lambda layer for streaming Server-Sent Events (SSE) that simplifies creating Lambda functions with complex transport and protocol handling for tool and prompt configuration.

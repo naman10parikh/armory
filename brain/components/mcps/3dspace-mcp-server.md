@@ -8,11 +8,13 @@ source_url: https://github.com/pgupta1795/3dspace-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-06-11T10:00:18Z"
 ---
 ## What it is
 Converts OpenAPI specifications into MCP tools to access 3DSpace Engineering Web Services APIs, enabling natural language interaction with 45+ services for engineering, manufacturing, and project management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T03:20:21Z"
 ---
 ## What it is
 Muckaway AI MCP provides tools for UK waste management compliance, including waste classification, disposal facility lookup, duty of care documentation, and waste transfer notes.

@@ -8,10 +8,12 @@ source_url: https://github.com/dryas/mail-shadow-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-04T00:08:56Z"
 ---
 ## What it is
 MCP server `Mail Shadow`, catalogued on PulseMCP. Read-only IMAP email access via local SQLite sync for AI agents, with full-text search and thread retrieval.

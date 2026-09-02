@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T01:55:01Z"
 ---
 ## What it is
 MCP server that connects AI clients to a browser extension for extracting articles from web pages and saving them as drafts to multiple content platforms.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-22T12:54:57Z"
 ---
 ## What it is
 Automatically crawl and analyze legacy web applications to generate documentation and modernization plans.

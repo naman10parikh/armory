@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-31T12:06:29Z"
 ---
 ## What it is
 An MCP server for secure process management, allowing LLMs to start, monitor, and manage whitelisted processes like development servers and test watchers.

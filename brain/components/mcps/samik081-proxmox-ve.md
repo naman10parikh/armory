@@ -8,10 +8,12 @@ source_url: https://github.com/samik081/mcp-pve
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-13T09:08:32Z"
 ---
 ## What it is
 MCP server `Proxmox VE`, catalogued on PulseMCP. Manage Proxmox VE virtual machines, containers, storage, and clusters.

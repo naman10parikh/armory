@@ -8,10 +8,12 @@ source_url: https://github.com/dannymac180/mcp-think-tool
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 130
+stars: 131
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-04-01T02:13:22Z"
 ---
 ## What it is
 MCP server `Think Tool`, catalogued on PulseMCP. Provides a dedicated space for structured reasoning during complex problem-solving tasks, enabling models to maintain timestamped thought logs that can be reviewed, cleared, and analyzed for improved performance in tasks requiring long chains of reasoning.

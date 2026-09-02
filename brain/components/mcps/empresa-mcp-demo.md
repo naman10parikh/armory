@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-28T00:27:42Z"
 ---
 ## What it is
 Demonstration MCP server for Claude Team integration, enabling querying of sample business data (orders, clients, products) and real-time currency exchange rates through natural language.

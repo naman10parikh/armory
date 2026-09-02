@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T17:51:50Z"
 ---
 ## What it is
 MCP server for on-demand web research and data extraction, featuring self-healing scrapers and anti-bot resilience, delivering targeted content to AI agents while minimizing token usage.

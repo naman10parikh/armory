@@ -15,6 +15,8 @@ verified_at: 2026-05-26
 related: []
 tags: [skill]
 stars: 33
+forks: 1
+pushed_at: "2026-07-27T20:54:32Z"
 ---
 ## What it is
 A community agent skill by Dmytro Gaivoronsky, catalogued in awesome-claude-code. Claude Code skill that automates mountain route research for North American peaks. Aggregates data from 10+ mountaineering sources like Mountaineers.org, PeakBagger.com and SummitPost.com to generate detailed route beta reports with weather, avalanche conditions, and trip reports.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T19:13:04Z"
 ---
 ## What it is
 MCP server that connects to Vibewatch community-sentiment data, providing read-only tools for sentiment overview, message search, daily insights, weekly reports, market context, and organization details.

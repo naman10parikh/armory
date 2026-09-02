@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T22:25:30Z"
 ---
 ## What it is
 A dynamic MCP server that hot-reloads tools at runtime and provides URL tracking, onboarding, and scouting features for AI clients.

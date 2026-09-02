@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T14:27:00Z"
 ---
 ## What it is
 A WhatsApp MCP server providing 32 tools for Claude, Cursor, and Windsurf, including polls, stickers, status updates, events, live location, and group mentions.

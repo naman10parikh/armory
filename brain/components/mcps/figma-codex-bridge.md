@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T06:10:43Z"
 ---
 ## What it is
 Enables Codex and other MCP clients to read design context from Figma Desktop via a local bridge, providing design tokens, component trees, and screenshots without an API token.

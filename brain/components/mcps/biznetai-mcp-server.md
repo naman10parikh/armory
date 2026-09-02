@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T00:29:35Z"
 ---
 ## What it is
 A hosted MCP server that routes natural-language shopping queries to independent merchant storefronts, returning normalized product and merchant results for AI agents and shopping assistants.

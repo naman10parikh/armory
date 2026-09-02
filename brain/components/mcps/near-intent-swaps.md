@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T12:04:55Z"
 ---
 ## What it is
 MCP server enabling AI agents to perform cross-chain token swaps through NEAR's intent-based architecture using the Defuse Protocol, with token discovery, quote retrieval, swap execution, and status tracking.

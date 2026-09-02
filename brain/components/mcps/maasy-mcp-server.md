@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-16T08:09:17Z"
 ---
 ## What it is
 Connects Claude to marketing intelligence, enabling brand scanning, content generation, campaign management, and CRM analysis through natural language.

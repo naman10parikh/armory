@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-09T08:00:48Z"
 ---
 ## What it is
 MCP server `n8n`, catalogued on PulseMCP. Integrates with n8n workflow automation platform for secure workflow management, execution control, and health monitoring with enterprise security features.

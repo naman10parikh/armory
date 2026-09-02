@@ -8,10 +8,12 @@ source_url: https://github.com/raalarcon9705/jira-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-29T20:23:13Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Community Jira and Confluence integration with full CRUD, sprint management, workflow transitions, and Markdown-to-ADF conversion.

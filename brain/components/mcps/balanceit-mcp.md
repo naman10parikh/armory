@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T16:13:19Z"
 ---
 ## What it is
 An MCP server that automates a balance.it account, providing tools for calorie calculation, food search, catalogue listing, and recipe generation for pet diets.

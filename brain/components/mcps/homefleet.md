@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T14:44:53Z"
 ---
 ## What it is
 MCP server that turns multiple home computers into a fleet for AI coding agents, enabling task delegation and LAN-based execution with local models.

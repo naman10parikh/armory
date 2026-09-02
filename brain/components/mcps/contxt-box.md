@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T11:10:02Z"
 ---
 ## What it is
 A local-first external context box for coding agents, providing indexed file metadata, document/image extraction, and durable chat preservation via MCP tools.

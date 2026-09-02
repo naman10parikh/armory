@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T16:00:57Z"
 ---
 ## What it is
 A minimal MCP server that demonstrates an interactive bar chart UI for sales data exploration, enabling drill-down by clicking a region without requiring additional model turns.

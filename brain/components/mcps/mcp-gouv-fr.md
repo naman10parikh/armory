@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T10:42:38Z"
 ---
 ## What it is
 MCP server for exploring French public open data via APIs like data.gouv.fr, geo.api.gouv.fr, INSEE Sirene, and Radio France.

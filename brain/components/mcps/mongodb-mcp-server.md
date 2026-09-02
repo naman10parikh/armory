@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-30T12:42:05Z"
 ---
 ## What it is
 Enables interaction with MongoDB databases through the Model Context Protocol, supporting CRUD operations, secure connections, and easy IDE integration.

@@ -8,11 +8,13 @@ source_url: https://github.com/Astoriel/dbt-doctor
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 132
+stars: 133
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-02T14:18:06Z"
 ---
 ## What it is
 AI-driven MCP server that audits, profiles, detects schema drift, and auto-generates documentation for dbt projects, enabling natural language interaction with your dbt project's health.

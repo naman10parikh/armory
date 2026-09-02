@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T18:46:49Z"
 ---
 ## What it is
 Enables AI coding assistants to search reproducibly verified bug fixes, compatibility recipes, and code patches, and to submit new solutions for automated sandbox verification.

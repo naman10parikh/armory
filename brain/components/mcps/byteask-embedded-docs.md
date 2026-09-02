@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-20T13:57:06Z"
 ---
 ## What it is
 An MCP server for source-grounded, page-cited evidence retrieval tailored for embedded and firmware development, returning verbatim snippets with exact citations or 'no match' to prevent fabrications.

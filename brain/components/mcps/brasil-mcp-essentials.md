@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-22T07:25:00Z"
 ---
 ## What it is
 A privacy-first MCP server providing 14 offline Brazilian utilities including document validation, boleto parsing, PIX BR Code generation/parsing, and calendar tools.

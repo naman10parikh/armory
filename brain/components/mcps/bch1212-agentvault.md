@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-06T12:32:38Z"
 ---
 ## What it is
 MCP server `AgentVault`, catalogued on PulseMCP. Credential vault for AI agents with Fernet-encrypted API keys, per-agent spending budgets, and comprehensive audit logs.

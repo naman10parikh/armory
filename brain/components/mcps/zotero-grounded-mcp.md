@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T21:07:39Z"
 ---
 ## What it is
 An MCP server that gives any MCP-compatible assistant access to your Zotero reference library, enabling search, citation, bibliography generation, and .docx processing while keeping Zotero as the ground truth for references.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T12:30:04Z"
 ---
 ## What it is
 MCP server for composing retro chip music (2A03 APU) using MML. It provides tools to generate WAV files, validate syntax, and create templates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-19T01:58:47Z"
 ---
 ## What it is
 A simple Model Context Protocol (MCP) server with ChromaDB integration, allowing AI assistants to interact with ChromaDB for vector storage and retrieval operations.

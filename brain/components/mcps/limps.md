@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-02T17:59:14Z"
 ---
 ## What it is
 MCP server `LIMPS`, catalogued on PulseMCP. Local document and planning layer that provides plan management, full-text search, and task lifecycle tracking across any folder.

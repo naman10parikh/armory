@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T10:36:56Z"
 ---
 ## What it is
 Provides access to Croatian law via MCP, enabling full-text search across 4,531 statutes and 157,667 provisions, citation validation, and EU directive cross-references from official sources.

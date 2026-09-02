@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T19:52:00Z"
 ---
 ## What it is
 An MCP server that integrates multiple security and reconnaissance tools (Nmap, Cariddi, ParamSpider, Metasploit, web scraping) for AI systems, enabling automated network scanning, API discovery, vulnerability testing, and remote access via ngrok.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:30:55Z"
 ---
 ## What it is
 An independent local OKX runtime, MCP server, CLI, and reusable agent skills for Codex, Claude Code, and other MCP clients, enabling market data access, trading operations, and analysis.

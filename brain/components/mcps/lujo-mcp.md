@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T16:53:52Z"
 ---
 ## What it is
 An AI-powered debugging MCP server that detects silent failures, captures browser network requests, and enables automated diagnostics, root-cause analysis, and multi-agent repair through MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T23:55:00Z"
 ---
 ## What it is
 An MCP server that lets Claude analyze your TradingView charts by reading the window and taking screenshots, with no write tools or trade execution.

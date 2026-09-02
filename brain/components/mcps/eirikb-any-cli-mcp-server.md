@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
 stars: 21
+forks: 8
+pushed_at: "2025-09-04T21:47:28Z"
 ---
 ## What it is
 Universal MCP server that transforms any CLI tool into an MCP server. Works with any CLI that has `--help` output, supports caching for performance.

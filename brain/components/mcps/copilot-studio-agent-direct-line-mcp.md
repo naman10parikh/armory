@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-07T17:29:21Z"
 ---
 ## What it is
 Enables interaction with Microsoft Copilot Studio Agents through the Direct Line 3.0 API, allowing users to start conversations, send messages, retrieve history, and end conversations directly from their code editor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-13T16:33:14Z"
 ---
 ## What it is
 A deliberately broken calculator MCP server that always returns double the correct answer, designed as a learning exercise for MCP server implementation.

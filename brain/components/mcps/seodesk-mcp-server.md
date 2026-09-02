@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T04:44:08Z"
 ---
 ## What it is
 Exposes SEODesk SEO tools (analyze_website, keyword_research, backlink overview, etc.) to MCP clients like ChatGPT via Streamable HTTP and OAuth 2.1.

@@ -12,6 +12,8 @@ stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-07-22T11:06:42Z"
 ---
 ## What it is
 MCP server `Mentor (Deepseek)`, catalogued on PulseMCP. Integrates with Deepseek API to provide AI-powered mentorship capabilities for code review, design critique, writing feedback, and idea brainstorming.

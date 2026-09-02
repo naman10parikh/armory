@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-07T03:42:02Z"
 ---
 ## What it is
 Enables monitoring and management of Apache Cassandra and DataStax Enterprise clusters through the DataStax OpsCenter API, providing tools for cluster metrics, node monitoring, schema access, and event tracking.

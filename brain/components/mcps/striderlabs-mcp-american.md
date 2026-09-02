@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-11T07:05:11Z"
 ---
 ## What it is
 Enables AI agents to search flights, manage bookings, check in, retrieve boarding passes, and access AAdvantage rewards on American Airlines' website via Playwright browser automation.

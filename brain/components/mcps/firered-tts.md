@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T19:05:59Z"
 ---
 ## What it is
 Local multilingual TTS (24 languages incl. Ukrainian) with zero-shot voice cloning, voice design, and speech editing via HTTP API and MCP server.

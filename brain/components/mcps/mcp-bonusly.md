@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-14T14:20:58Z"
 ---
 ## What it is
 Enables management of Bonusly employee recognition bonuses, including listing, creating, and retrieving bonuses with advanced filtering.

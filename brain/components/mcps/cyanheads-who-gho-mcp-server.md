@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T08:32:26Z"
 ---
 ## What it is
 Query WHO Global Health Observatory data — 3,059 indicators across 194 member states with country, region, year, and sex filters via MCP.

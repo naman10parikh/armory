@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-02T18:50:47Z"
 ---
 ## What it is
 MCP server `Google Docs`, catalogued on PulseMCP. Full Google Docs integration with tab support, service account delegation, document CRUD, batch formatting, and Drive search.

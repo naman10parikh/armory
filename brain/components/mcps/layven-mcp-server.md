@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T05:24:00Z"
 ---
 ## What it is
 Layven is a shared drive for AI agents over MCP, with versioning, attribution, and rollback. It enables file operations like list, read, write, edit, delete, restore, search, and activity tracking.

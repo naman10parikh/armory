@@ -8,10 +8,12 @@ source_url: https://github.com/xiaoluotian189/ezbt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-01T11:11:25Z"
 ---
 ## What it is
 MCP server `BT Panel`, catalogued on PulseMCP. Integrates with BT Panel (宝塔面板), a Chinese web hosting control panel, to manage server infrastructure including MySQL databases, Docker containers, email configuration, file operations, website management, and system monitoring through HTTP API.

@@ -8,10 +8,12 @@ source_url: https://github.com/lenwood/cfbd-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-05-06T19:23:33Z"
 ---
 ## What it is
 MCP server `College Football Data`, catalogued on PulseMCP. Integrates with College Football Data API to provide natural language querying of game results, team records, player stats, rankings, and advanced metrics.

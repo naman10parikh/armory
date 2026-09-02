@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T12:29:39Z"
 ---
 ## What it is
 Turn AI coding assistants into reliable software engineers with structured specs, progress tracking, and automated review.

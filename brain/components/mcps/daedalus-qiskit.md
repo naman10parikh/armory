@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-03T02:09:15Z"
 ---
 ## What it is
 MCP server `Qiskit (daedalus)`, catalogued on PulseMCP. Exposes Qiskit quantum computing capabilities including circuit creation, analysis, visualization, and execution.

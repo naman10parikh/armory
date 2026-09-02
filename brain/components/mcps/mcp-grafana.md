@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T23:52:49Z"
 ---
 ## What it is
 In-cluster MCP server for read-only diagnostics of Grafana, Prometheus, Alertmanager, and Loki, enabling metric queries, alert listings, and log queries through Grafana datasource proxies with Kubernetes RBAC authentication.

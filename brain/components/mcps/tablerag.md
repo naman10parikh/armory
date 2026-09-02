@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T07:18:58Z"
 ---
 ## What it is
 Turns Excel/CSV folders into a traceable, read-only AI knowledge layer; provides deterministic data queries, schema discovery, and evidence-backed search via MCP.

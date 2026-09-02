@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-07T13:37:33Z"
 ---
 ## What it is
 MCP server `NordStellar`, catalogued on PulseMCP. Official MCP server for NordStellar threat exposure management platform, enabling natural language queries for attack surface data, dark web search, and security monitoring.

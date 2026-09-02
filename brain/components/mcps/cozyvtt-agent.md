@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T11:30:14Z"
 ---
 ## What it is
 Exposes CozyVTT campaign capabilities as an MCP Streamable HTTP server, enabling MCP clients to interact with campaigns while CozyVTT handles authorization, command execution, and audit.

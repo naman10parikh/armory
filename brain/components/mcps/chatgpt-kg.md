@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T21:10:34Z"
 ---
 ## What it is
 Builds a personal knowledge graph from selected ChatGPT conversations (stored in Neo4j) and exposes it to Claude Code as an on-demand MCP search tool.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T00:12:11Z"
 ---
 ## What it is
 Provides tools to fetch public Instagram profile metadata and recent posts without authentication, using an anonymous Instaloader patch with fallback to mobile feed endpoints.

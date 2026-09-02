@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-07-20T17:55:03Z"
 ---
 ## What it is
 An extensible Model Context Protocol server framework with a plugin architecture, enabling easy addition of API services like the bundled NASA APOD tools for astronomy content.

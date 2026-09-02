@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-23T18:34:48Z"
 ---
 ## What it is
 Provides current time in military format (HHMMSS) with or without date. Enables AI agents to retrieve precise military time via MCP tools.

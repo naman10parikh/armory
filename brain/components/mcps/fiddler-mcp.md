@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T01:56:02Z"
 ---
 ## What it is
 Analyzes Telerik Fiddler SAZ session archives, enabling AI assistants to inspect, search, and filter HTTP sessions, plus performance and security auditing.

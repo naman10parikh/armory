@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-23T18:43:36Z"
 ---
 ## What it is
 MCP server `GitHub Portfolio`, catalogued on PulseMCP. Exposes GitHub user profile, repository listings, language statistics, and README content through a dual-mode MCP server for portfolio analysis.

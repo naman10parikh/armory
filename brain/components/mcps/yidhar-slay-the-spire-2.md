@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-13T11:16:12Z"
 ---
 ## What it is
 MCP server `Slay the Spire 2`, catalogued on PulseMCP. Controls Slay the Spire 2 gameplay through a native C# bridge mod with precise game state extraction and legal action execution.

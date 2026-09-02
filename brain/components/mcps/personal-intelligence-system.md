@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T02:28:42Z"
 ---
 ## What it is
 Captures AI-assisted work into a searchable ledger and exposes it via MCP for querying past conversations and decisions.

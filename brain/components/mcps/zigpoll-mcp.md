@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-13T23:55:20Z"
 ---
 ## What it is
 MCP server `Zigpoll`, catalogued on PulseMCP. Analyze Zigpoll survey responses and track trends.

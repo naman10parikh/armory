@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T15:14:49Z"
 ---
 ## What it is
 Provides AI agents with tools to generate, validate, and inspect diagrams from natural-language prompts, using the Kroki rendering engine to produce SVG files.

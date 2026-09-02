@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T23:07:11Z"
 ---
 ## What it is
 Enables AI coding agents to visually build and run AI generation pipelines on a canvas by adding, wiring, and executing nodes via MCP tools.

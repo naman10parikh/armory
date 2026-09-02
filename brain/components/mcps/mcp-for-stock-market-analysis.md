@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T03:26:13Z"
 ---
 ## What it is
 A production-grade MCP server that provides tools to fetch historical stock data, company information, and technical indicators (SMA, EMA, RSI, MACD, Bollinger Bands) via yfinance, and includes a Flask web dashboard for visual analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T12:09:40Z"
 ---
 ## What it is
 Enables AI assistants to read-only access Catawiki auction marketplace data, including searching lots, inspecting items, browsing categories, and exploring auctions.

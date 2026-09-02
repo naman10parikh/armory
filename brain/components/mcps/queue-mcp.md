@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T14:47:48Z"
 ---
 ## What it is
 Task queue MCP server for Claude Code that allows adding, listing, and completing tasks from an external CLI, enabling Claude to drain a queue of follow-up work without disturbing a running turn.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T14:33:10Z"
 ---
 ## What it is
 A local MCP server for code analysis and investigation, providing tools like code search, file read, and symbol hint via SSE for integration with Gemini CLI and Antigravity.

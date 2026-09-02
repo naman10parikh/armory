@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-10T05:25:08Z"
 ---
 ## What it is
 Exposes the Dockhand Docker management API as tools for LLMs, enabling container, stack, image, volume, and network management via natural language.

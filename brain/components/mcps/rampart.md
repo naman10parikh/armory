@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T19:49:21Z"
 ---
 ## What it is
 Offline, dependency-free transport-layer hardening auditor for MCP Streamable HTTP endpoints, probing for DNS rebinding, CORS, session-ID, cleartext, and protocol conformance defects with a severity-weighted score and CI gate.

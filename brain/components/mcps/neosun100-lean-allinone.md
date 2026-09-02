@@ -8,10 +8,12 @@ source_url: https://github.com/neosun100/lean-allinone
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-03T19:19:01Z"
 ---
 ## What it is
 MCP server `Lean All-in-One`, catalogued on PulseMCP. Containerized QuantConnect Lean algorithmic trading engine with GPU support, backtesting, and multi-language trading strategy development.

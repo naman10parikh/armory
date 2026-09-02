@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-30T13:58:50Z"
 ---
 ## What it is
 MCP server `BulkRender`, catalogued on PulseMCP. MCP server for generating DOCX and PDF documents from templates via the BulkRender API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T23:41:27Z"
 ---
 ## What it is
 Enables AI-driven weekly meal planning with structured recipes, cooking steps, and grocery lists.

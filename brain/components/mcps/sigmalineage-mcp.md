@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T12:32:01Z"
 ---
 ## What it is
 Enables context-aware EVTX hunting with process lineage tracing and rarity baselining to surface real threats from security logs, transforming raw alerts into actionable kill chain intelligence.

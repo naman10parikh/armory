@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T00:49:02Z"
 ---
 ## What it is
 Provides broad, typed access to the ftrack Studio production-tracking API for LLM agents via 28 tools, including generic CRUD and convenience operations for projects, tasks, notes, and more.

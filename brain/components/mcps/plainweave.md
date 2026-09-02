@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T13:28:26Z"
 ---
 ## What it is
 Enables tracing code entities through requirements to strategic goals, surfacing orphan code and allowing query of intent via graph primitives like orphans, trace, and corpus.

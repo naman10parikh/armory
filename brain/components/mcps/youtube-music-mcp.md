@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T02:40:14Z"
 ---
 ## What it is
 An MCP server for managing YouTube Music playlists via Claude. Add and remove songs, create playlists, and ask Claude to suggest music — all through conversation.

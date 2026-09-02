@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-01T20:37:18Z"
 ---
 ## What it is
 MCP server `BCS Broker`, catalogued on PulseMCP. Integrates with BCS Broker to provide real-time market data streaming, portfolio management, algorithmic trading with 20+ technical indicators, risk management tools, and semantic trade analysis for comprehensive trading platform automation.

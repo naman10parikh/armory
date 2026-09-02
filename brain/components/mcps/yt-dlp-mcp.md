@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T10:33:02Z"
 ---
 ## What it is
 Wraps yt-dlp to enable MCP-compatible clients to look up video metadata and download videos.

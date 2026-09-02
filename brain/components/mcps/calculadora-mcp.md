@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T14:21:13Z"
 ---
 ## What it is
 Provides a basic calculator tool for arithmetic operations (addition, subtraction, multiplication, division) with division-by-zero handling, and a temperature conversion tool between Celsius and Fahrenheit.

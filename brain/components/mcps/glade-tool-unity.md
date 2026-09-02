@@ -8,10 +8,12 @@ source_url: https://github.com/glade-tool/glade-mcp-unity
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 139
+stars: 205
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2026-08-29T23:19:01Z"
 ---
 ## What it is
 MCP server `Glade Unity`, catalogued on PulseMCP. Bridges AI coding assistants to the Unity Editor for scene management, GameObjects, scripts, and materials.

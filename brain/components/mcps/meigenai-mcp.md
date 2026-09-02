@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:36:20Z"
 ---
 ## What it is
 A read-only MCP server that exposes Meigen AI's image generation styles, pricing, FAQ, and official links to AI clients.

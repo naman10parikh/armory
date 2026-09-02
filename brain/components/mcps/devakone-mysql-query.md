@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-06T14:15:04Z"
 ---
 ## What it is
 MCP server `MySQL Query`, catalogued on PulseMCP. Provides a secure, read-only bridge to MySQL databases, enabling natural language querying across multiple environments with strict validation and comprehensive error handling.

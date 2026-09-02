@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T15:47:30Z"
 ---
 ## What it is
 MCP server for the Forcepoint DLP 9.0 REST API. Enables incident management, policy management, and authentication via natural language, with multi-user support and persistent storage in Postgres and Vault.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T20:51:58Z"
 ---
 ## What it is
 Provides tools to sign and verify post-quantum attestations of AI agent actions (mint, trajectory, coherence) using ML-DSA-65 signatures, with offline verification always free.

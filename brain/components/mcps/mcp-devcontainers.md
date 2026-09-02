@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-21T14:40:12Z"
 ---
 ## What it is
 MCP server for generating and configuring development containers from devcontainer.json files, enabling management of devcontainer environments through tools like devcontainer_up, devcontainer_exec, and cleanup.

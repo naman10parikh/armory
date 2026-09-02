@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T12:58:17Z"
 ---
 ## What it is
 Enables AI agents to create, modify, and save LMMS music projects programmatically, including tracks, notes, mixer control, effects, and song settings.

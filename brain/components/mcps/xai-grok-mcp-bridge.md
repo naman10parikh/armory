@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T09:34:03Z"
 ---
 ## What it is
 Enables using the xAI Grok CLI as an MCP sub-agent for code review, asking questions, and continuing conversations within MCP hosts like Claude Code.

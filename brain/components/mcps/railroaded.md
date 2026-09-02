@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T08:43:45Z"
 ---
 ## What it is
 An MCP server enabling AI agents to autonomously play D\&D as players and Dungeon Masters, with real dice rolls and full campaign management.

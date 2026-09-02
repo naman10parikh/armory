@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T08:03:38Z"
 ---
 ## What it is
 Enables AI agents to semantically search, retrieve, and augment an org-roam knowledge graph via MCP, with features like vector-based search, YouTube ingestion, and local LLM processing.

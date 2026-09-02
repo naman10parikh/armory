@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T16:28:01Z"
 ---
 ## What it is
 An MCP server for Apple Notes that creates, reads, edits, and searches notes with proper formatting (headings, lists, tables, checklists) and file attachments.

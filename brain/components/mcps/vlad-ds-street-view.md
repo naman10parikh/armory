@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-14T11:36:34Z"
 ---
 ## What it is
 MCP server `Street View`, catalogued on PulseMCP. Provides a bridge to Google Street View API for fetching and displaying street imagery by address, coordinates, or panorama ID with customizable parameters for virtual exploration and location visualization.

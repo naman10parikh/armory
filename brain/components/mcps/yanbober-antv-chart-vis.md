@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-07T04:02:23Z"
 ---
 ## What it is
 MCP server `AntV Chart Vis`, catalogued on PulseMCP. Wraps AntV's chart generation and GPT-Vis server-side rendering into a turnkey MCP service supporting 26 chart types with automatic local PNG export.

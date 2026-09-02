@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:51:49Z"
 ---
 ## What it is
 A server that provides access to curated crypto feeds and RSS/Atom feed fetching, enabling users to list feeds, read feed items, and fetch any feed by URL.

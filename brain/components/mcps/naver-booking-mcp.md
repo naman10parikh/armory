@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T05:10:04Z"
 ---
 ## What it is
 Enables users to query real-time reservation availability for Naver Booking places in Korea, including beauty salons, restaurants, and other categories.

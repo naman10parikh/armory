@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T23:52:49Z"
 ---
 ## What it is
 Enables discovering public LinkedIn profiles via natural-language criteria, using DuckDuckGo search snippets to return a ranked shortlist with match reasoning, without logging into LinkedIn.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T22:22:25Z"
 ---
 ## What it is
 MCP server that adds DuckDuckGo web search and URL/PDF fetching as live internet tools for IBM Bob, requiring no API keys.

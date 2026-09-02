@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T09:40:52Z"
 ---
 ## What it is
 ▎ Check an email before an AI agent sends it: send / ask a human / block — with machine reason codes and prompt-injection detection.

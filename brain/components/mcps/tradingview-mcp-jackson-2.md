@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T14:52:34Z"
 ---
 ## What it is
 Enables AI assistants to control and read data from TradingView Desktop, including morning briefs, chart analysis, Pine Script development, and replay mode.

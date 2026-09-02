@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:43:01Z"
 ---
 ## What it is
 Generates SBOM in CycloneDX 1.6 and SPDX 2.3 formats, compliant with EO 14028, NIS2, and CRA.

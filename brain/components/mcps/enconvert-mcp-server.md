@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T09:47:18Z"
 ---
 ## What it is
 Enables AI agents to convert files, render web pages to markdown/PDF/screenshots, search the live web, extract structured data, ingest RAG-ready chunks, and monitor pages for changes through a single API key.

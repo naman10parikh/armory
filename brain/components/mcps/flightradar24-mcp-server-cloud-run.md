@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T09:38:02Z"
 ---
 ## What it is
 Wraps the official Flightradar24 MCP Server to expose it over HTTP/SSE for remote access, enabling MCP-compatible clients to query flight tracking data with client-provided API keys.

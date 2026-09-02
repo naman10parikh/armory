@@ -12,6 +12,8 @@ stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-14T01:02:53Z"
 ---
 ## What it is
 MCP server `Jotai Documentation`, catalogued on PulseMCP. Provides direct access to Jotai documentation resources, including the main README and curated tips, for developers working with this state management library

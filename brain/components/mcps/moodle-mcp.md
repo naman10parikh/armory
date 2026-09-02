@@ -8,11 +8,13 @@ source_url: https://github.com/loyaniu/moodle-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-06-29T02:30:30Z"
 ---
 ## What it is
 Enables retrieval of upcoming events from Moodle LMS via the Model Context Protocol.

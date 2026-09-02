@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T18:37:27Z"
 ---
 ## What it is
 Enables sending emails via Gmail API, checking thread replies, and listing sent emails, all logged locally in SQLite.

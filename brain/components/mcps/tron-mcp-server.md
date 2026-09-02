@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-07-20T09:32:20Z"
 ---
 ## What it is
 MCP server for TRON blockchain integration, enabling AI assistants to check balances, manage transactions, interact with smart contracts, and access real-time blockchain data.

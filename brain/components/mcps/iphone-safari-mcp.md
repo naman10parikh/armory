@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T22:07:09Z"
 ---
 ## What it is
 MCP server that drives Safari on a physically attached iPhone via Apple's safaridriver, enabling navigation, screenshots, DOM snapshots, console logs, network timings, and tap/type/scroll actions on the real device. No Xcode, Appium, or WebDriverAgent required.

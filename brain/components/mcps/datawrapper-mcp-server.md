@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-04T19:12:47Z"
 ---
 ## What it is
 Enables interaction with the Datawrapper API to create, manage, and publish data visualizations through natural language.

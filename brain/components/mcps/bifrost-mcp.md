@@ -8,11 +8,13 @@ source_url: https://github.com/kchattx/bifrost-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T19:40:22Z"
 ---
 ## What it is
 Bifrost MCP is a server for managing persistent interactive SSH sessions, enabling AI agents to execute commands, interact with terminals, manage sudo caches, and transfer files via SFTP.

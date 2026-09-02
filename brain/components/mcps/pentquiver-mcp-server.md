@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T07:55:23Z"
 ---
 ## What it is
 Enables AI assistants to search and resolve over 2,800 security commands with argument templates, allowing natural language interaction with a comprehensive command library for penetration testing.

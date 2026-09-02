@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T02:00:14Z"
 ---
 ## What it is
 Exposes Stable Diffusion for text-to-image generation and GPT-SoVITS for text-to-speech synthesis as MCP tools, enabling image and audio generation via natural language.

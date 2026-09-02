@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T10:52:03Z"
 ---
 ## What it is
 Estimates UK repayment mortgage payments, including monthly payment, total interest, and overpayment impact, for use in ChatGPT.

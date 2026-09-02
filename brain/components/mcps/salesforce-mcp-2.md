@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-10-29T15:17:37Z"
 ---
 ## What it is
 An MCP server that provides comprehensive access to Salesforce Tooling API for metadata management, SOQL queries, code analysis, and debugging through Claude and other AI assistants.

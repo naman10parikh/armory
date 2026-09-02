@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 3
+forks: 0
+pushed_at: "2026-03-14T21:38:30Z"
 ---
 ## What it is
 Zero-config diagnostics for MCP servers. Auto-discovers configs across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop, then tests connections via JSON-RPC handshake, audits security issues, and benchmarks latency. Also runs as an MCP server itself.

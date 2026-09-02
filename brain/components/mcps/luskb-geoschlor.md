@@ -8,10 +8,12 @@ source_url: https://github.com/luskb/geoschlor-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-29T10:34:37Z"
 ---
 ## What it is
 MCP server `GeoSchlor`, catalogued on PulseMCP. Search geoscience literature across CNKI, SPE, EAGE, AAPG, SPWLA, and other academic databases with unified metadata enrichment.

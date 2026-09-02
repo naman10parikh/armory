@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-20T02:40:30Z"
 ---
 ## What it is
 A token-optimized MCP server that groups Chrome Devtools tools into 8 semantic operations, reducing context window tokens by 69.5% while preserving full functionality.

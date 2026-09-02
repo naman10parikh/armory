@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:37:48Z"
 ---
 ## What it is
 A tiny always-on server that coordinates multiple coding-agent sessions on one project (a 'show'), using a worker/director pattern with polling, leases, and SQLite state.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T09:23:44Z"
 ---
 ## What it is
 Enables AI agents to control Mac monitors via DisplayBuddy – adjust brightness, contrast, volume, input source, apply presets, sync displays, and more.

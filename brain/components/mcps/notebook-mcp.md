@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-08T15:17:21Z"
 ---
 ## What it is
 Provides AI assistants with deep semantic and runtime understanding of Jupyter notebooks.

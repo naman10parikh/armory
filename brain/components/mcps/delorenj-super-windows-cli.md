@@ -8,10 +8,12 @@ source_url: https://github.com/delorenj/super-win-cli-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-01-19T18:37:57Z"
 ---
 ## What it is
 MCP server `Super Windows CLI`, catalogued on PulseMCP. Provides unrestricted Windows system access and command execution across multiple shells for remote administration and complex task automation.

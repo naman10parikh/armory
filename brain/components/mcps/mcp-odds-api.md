@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:26:58Z"
 ---
 ## What it is
 Enables fetching sportsbook odds, live scores, and event information across 70+ books and 30+ leagues, with tools to list sports, get scores, and discover events.

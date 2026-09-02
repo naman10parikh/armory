@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T13:43:47Z"
 ---
 ## What it is
 An AI platform that automates the complete machine learning workflow using LangGraph agents and integrates with MCP servers for file, compute, and database operations.

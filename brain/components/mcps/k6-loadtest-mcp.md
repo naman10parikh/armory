@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:53:07Z"
 ---
 ## What it is
 Turns natural-language API descriptions into runnable k6 load tests, executes them, and returns structured performance metrics for AI-assisted reporting.

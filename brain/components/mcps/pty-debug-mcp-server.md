@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-19T07:07:27Z"
 ---
 ## What it is
 Enables spawning, interacting with, and capturing screen output from terminal-based programs for debugging PTY/TTY/TUI applications.

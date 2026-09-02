@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T02:22:57Z"
 ---
 ## What it is
 An MCP server that enforces development discipline and workflow best practices, guiding users through a structured process of coding, testing, documenting, committing, and releasing.

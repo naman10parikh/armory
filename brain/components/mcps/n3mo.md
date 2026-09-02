@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-09-01T06:50:16Z"
 ---
 ## What it is
 Deterministic code intelligence engine — indexes 27 languages into a queryable symbol graph for real-time blast-radius analysis, no embeddings or LLM calls.

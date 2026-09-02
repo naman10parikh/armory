@@ -12,6 +12,8 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-15T11:27:33Z"
 ---
 ## What it is
 MCP server `Houtini GEO Analyzer`, catalogued on PulseMCP. AI search optimization analysis with actionable findings and gap analysis.

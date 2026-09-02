@@ -8,11 +8,13 @@ source_url: https://github.com/NSHipster/sosumi.ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 465
+stars: 470
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 26
+pushed_at: "2026-08-11T19:43:05Z"
 ---
 ## What it is
 Converts Apple Developer documentation, HIG, WWDC transcripts, and external Swift-DocC pages into Markdown for AI consumption via MCP tools and HTTP API.

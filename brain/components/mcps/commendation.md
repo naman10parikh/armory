@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T18:52:15Z"
 ---
 ## What it is
 MCP server that recommends new songs from YouTube Music, ensuring no song is already liked or in any playlist, using multiple independent signals for explainable rankings.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T00:55:44Z"
 ---
 ## What it is
 Enables AI assistants to conduct user research workflows directly from Great Question, including creating studies, recruiting participants, and querying insights.

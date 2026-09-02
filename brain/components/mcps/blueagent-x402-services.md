@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T17:46:09Z"
 ---
 ## What it is
 Pay-per-use AI security and research tools for autonomous agents on Base, enabling honeypot detection, risk assessment, wallet analysis, and yield optimization via the x402 protocol.

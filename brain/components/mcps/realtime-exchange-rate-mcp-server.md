@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T20:36:29Z"
 ---
 ## What it is
 Provides real-time foreign-exchange rates, historical data, and multi-currency lookups to MCP-compatible AI coding assistants like Claude Code and Cursor.

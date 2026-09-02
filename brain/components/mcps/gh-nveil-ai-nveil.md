@@ -8,10 +8,12 @@ source_url: https://github.com/nveil-ai/nveil-toolkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-05T14:26:14Z"
 ---
 ## What it is
 MCP server `Nveil`, catalogued on PulseMCP. Generates data visualizations across geospatial, 3D, and scientific domains using multiple rendering backends.

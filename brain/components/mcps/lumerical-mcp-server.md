@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T17:18:54Z"
 ---
 ## What it is
 Enables natural-language-driven automation of Ansys Lumerical photonic simulations (FDTD, MODE, DEVICE, INTERCONNECT) with 40+ tools for geometry, materials, sources, monitors, solvers, results, optimization, and documentation.

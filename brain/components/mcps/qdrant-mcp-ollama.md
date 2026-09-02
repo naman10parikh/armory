@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T17:36:43Z"
 ---
 ## What it is
 Enables AI assistants to perform semantic search and retrieval across codebases stored in Qdrant, using Ollama models for GPU-accelerated embeddings.

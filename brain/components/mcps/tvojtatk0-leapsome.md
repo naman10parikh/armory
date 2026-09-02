@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-17T09:34:57Z"
 ---
 ## What it is
 MCP server `Leapsome`, catalogued on PulseMCP. Unofficial Leapsome HR platform integration for reading performance reviews, goals, and meeting notes.

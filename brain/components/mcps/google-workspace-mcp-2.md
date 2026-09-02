@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-03T06:59:43Z"
 ---
 ## What it is
 Enables interaction with Google Workspace services (Gmail, Calendar, Drive, Docs, Sheets, Chat, Slides, People) through natural language using Claude Desktop, Claude Code CLI, and other MCP clients.

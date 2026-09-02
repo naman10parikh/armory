@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-27T18:17:14Z"
 ---
 ## What it is
 MCP server `Snow Leopard BigQuery`, catalogued on PulseMCP. Query and explore Google BigQuery databases through natural language

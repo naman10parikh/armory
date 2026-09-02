@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-23T10:41:50Z"
 ---
 ## What it is
 MCP server `SourceWeave Web Search`, catalogued on PulseMCP. Web search and page reading with SearXNG, Crawl4AI, and Redis caching for source-first discovery.

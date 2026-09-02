@@ -8,10 +8,12 @@ source_url: https://github.com/ejb503/systemprompt-mcp-taskchecker
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-10T09:50:49Z"
 ---
 ## What it is
 MCP server `TaskChecker`, catalogued on PulseMCP. Provides enterprise-grade task orchestration with intelligent evaluation scoring, session-based workflow tracking, and automatic cleanup for structured productivity workflows and project management automation.

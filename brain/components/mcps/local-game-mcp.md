@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T06:24:35Z"
 ---
 ## What it is
 Enables AI agents to play local Windows games through low-level keyboard/mouse input, screen capture, OCR, and per-game profiles for semantic actions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T21:39:23Z"
 ---
 ## What it is
 Connect AI agents to real bank accounts across 15,000+ financial institutions for transactions, balances, investments, and loans.

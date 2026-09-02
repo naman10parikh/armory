@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T21:53:11Z"
 ---
 ## What it is
 Enables a helpdesk MCP server for a fake company, allowing ticket management, issue tracking, and employee directory lookups through natural language.

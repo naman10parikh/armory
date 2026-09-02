@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T06:34:11Z"
 ---
 ## What it is
 An MCP server that indexes exam PDFs and HTML documents for semantic search, topic frequency analysis, and study plan generation, fully local and private.

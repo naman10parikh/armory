@@ -8,11 +8,13 @@ source_url: https://github.com/DaCodeChick/GhidraMCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2025-10-23T17:26:27Z"
 ---
 ## What it is
 MCP server that allows LLMs to autonomously reverse engineer applications using Ghidra, exposing tools like decompilation, renaming, and listing methods.

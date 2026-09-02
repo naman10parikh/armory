@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:33:08Z"
 ---
 ## What it is
 Enables publishing Facebook Page posts (text and photo) and retrieving page info via the Meta Graph API, with dry-run safety defaults and remote MCP transport.

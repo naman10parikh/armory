@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T14:47:58Z"
 ---
 ## What it is
 Combines GitHub repository analysis, npm/PyPI package info, and deps.dev security advisories into a single MCP server, requiring no API keys.

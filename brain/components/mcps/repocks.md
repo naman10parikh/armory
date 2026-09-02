@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-02T09:34:22Z"
 ---
 ## What it is
 Transforms Markdown documentation into an intelligent knowledge base with AI-powered search and Q\&A through an MCP server.

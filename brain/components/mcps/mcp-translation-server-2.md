@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-02-20T01:20:00Z"
 ---
 ## What it is
 高性能满-汉双向机器翻译系统，支持形态分析和增强型翻译引擎。

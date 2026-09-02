@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:47:47Z"
 ---
 ## What it is
 A terminal-based chat client for Anthropic's Claude with MCP server integration, featuring automatic tool calling, streaming, extended thinking, and built-in prompt generation/evaluation capabilities.

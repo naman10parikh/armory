@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-02-08T06:03:15Z"
 ---
 ## What it is
 Enables all IDEs to access Claude Code Skills capabilities with skill discovery, search, and management tools.

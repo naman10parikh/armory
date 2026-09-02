@@ -8,10 +8,12 @@ source_url: https://github.com/hugooc/openkp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-29T16:34:20Z"
 ---
 ## What it is
 MCP server `OpenKP`, catalogued on PulseMCP. Patient-directed MCP server for accessing Kaiser Permanente medical records, covering appointments, labs, messages, medications, and visit notes locally.

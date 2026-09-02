@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T19:49:21Z"
 ---
 ## What it is
 MCP server for Google Docs — create, read, edit, format, and manage documents through 26 tools via the Model Context Protocol.

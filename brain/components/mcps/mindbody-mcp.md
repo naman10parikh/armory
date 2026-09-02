@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T04:15:14Z"
 ---
 ## What it is
 MCP server for Mindbody, enabling AI agents to fetch client info, query class schedules, book classes/appointments (env-gated), and process checkout (payment-gated).

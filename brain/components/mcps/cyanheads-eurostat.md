@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/eurostat-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T06:02:28Z"
 ---
 ## What it is
 MCP server `Eurostat`, catalogued on PulseMCP. Search and query Eurostat datasets covering EU economy, demography, trade, and NUTS regional statistics.

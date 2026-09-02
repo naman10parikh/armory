@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-07T06:57:46Z"
 ---
 ## What it is
 MCP server `Plaid`, catalogued on PulseMCP. Provides a robust bridge to the Plaid financial API, enabling secure access to bank account data, transactions, and authentication flows for financial analysis and personal finance tracking.

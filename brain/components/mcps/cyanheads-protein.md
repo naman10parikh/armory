@@ -8,10 +8,12 @@ source_url: https://github.com/cyanheads/protein-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-30T22:07:27Z"
 ---
 ## What it is
 MCP server `Protein`, catalogued on PulseMCP. Retrieves and analyzes 3D protein structural data from RCSB PDB, PDBe, and UniProt

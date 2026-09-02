@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-10-02T17:39:38Z"
 ---
 ## What it is
 Enables semantic and full-text search over the official Model Context Protocol registry to discover MCP servers for integration.

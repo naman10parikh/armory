@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:17:30Z"
 ---
 ## What it is
 Contradiction detector and belief repairer for multi-source facts — ensures knowledge-base consistency across agent sessions.

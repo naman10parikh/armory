@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:41:34Z"
 ---
 ## What it is
 MCP server to read and manage Google Ads accounts via GAQL queries, campaign/ad group/keyword operations, and safe write support with draft-confirm flow.

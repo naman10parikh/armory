@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T01:21:58Z"
 ---
 ## What it is
 MCP server providing backend access to PostgreSQL, Storage (Supabase/S3), Iceberg data lake, and SQL seeds. It offers 32 tools for database queries, storage operations, seed management, and more.

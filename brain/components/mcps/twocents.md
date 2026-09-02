@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T12:19:54Z"
 ---
 ## What it is
 A remote MCP server that lets AI agents share HTML pages with real people for visual review and collect their pinned notes as actionable feedback.

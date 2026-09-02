@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T14:35:27Z"
 ---
 ## What it is
 MCP server `Digital Passport Assessment Workbench`, catalogued on PulseMCP. SHACL-based tool for assessing and comparing digital product passport data models.

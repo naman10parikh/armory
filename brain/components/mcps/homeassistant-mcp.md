@@ -8,11 +8,13 @@ source_url: https://github.com/robbrad/homeassistant-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 104
+stars: 105
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-05-05T07:40:47Z"
 ---
 ## What it is
 Enables AI assistants to control Home Assistant devices and services through the Model Context Protocol.

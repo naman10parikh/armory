@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T05:02:06Z"
 ---
 ## What it is
 Enables AI agents to perform medical-billing tasks like prior authorization checks, claim denial decoding, unpaid claim triage, appeal assessments, and PHI de-identification using deterministic rules engines with per-call payments via the x402 protocol.

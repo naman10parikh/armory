@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:08:12Z"
 ---
 ## What it is
 MCP server for OVHcloud Object Storage, enabling management of buckets, objects, project users, S3 credentials, and storage policies. Read-only by default with opt-in write tools.

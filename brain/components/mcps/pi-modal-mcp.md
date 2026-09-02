@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T19:22:00Z"
 ---
 ## What it is
 Enables MCP-aware agents to drive Modal serverless compute, including GPU workers and headless Chromium for web browsing with screenshots.

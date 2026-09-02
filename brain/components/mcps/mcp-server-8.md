@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-02T15:02:08Z"
 ---
 ## What it is
 A lightweight bridge connecting LLMs to real-world APIs like finance, weather, news, and GitHub through Anthropic's Model Context Protocol, enabling unified access and intelligent query routing.

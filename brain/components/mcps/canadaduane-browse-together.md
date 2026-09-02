@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-03T12:11:17Z"
 ---
 ## What it is
 MCP server `Browse Together (Playwright)`, catalogued on PulseMCP. A co-browser controlled by both you and your AI assistant

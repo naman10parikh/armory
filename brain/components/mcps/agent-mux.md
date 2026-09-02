@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-19T08:11:52Z"
 ---
 ## What it is
 MCP server that manages interactive CLI agent pools using tmux, enabling creation, control, and communication with agents like Claude and Codex.

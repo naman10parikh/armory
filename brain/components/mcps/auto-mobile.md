@@ -8,10 +8,12 @@ source_url: https://github.com/kaeawc/auto-mobile
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-09-02T01:54:12Z"
 ---
 ## What it is
 MCP server `AutoMobile`, catalogued on PulseMCP. Mobile device interaction automation via MCP.

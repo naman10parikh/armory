@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:44:32Z"
 ---
 ## What it is
 MCP server `Superhero API`, catalogued on PulseMCP. Wraps the Superhero API for comic book character data and power stats.

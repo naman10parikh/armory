@@ -12,6 +12,8 @@ stars: 84
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-08-15T20:45:47Z"
 ---
 ## What it is
 MCP server `Xcodebuild`, catalogued on PulseMCP. Integrates with Xcode to enable iOS project building, testing, and error handling for efficient development workflows in AI-assisted coding environments.

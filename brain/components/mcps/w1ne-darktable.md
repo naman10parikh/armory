@@ -8,10 +8,12 @@ source_url: https://github.com/w1ne/darktable-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-17T14:47:12Z"
 ---
 ## What it is
 MCP server `Darktable`, catalogued on PulseMCP. MCP server for darktable photo editing with library management, camera import, vision-based rating, and image export tools.

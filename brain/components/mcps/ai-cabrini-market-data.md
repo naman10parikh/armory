@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T22:52:55Z"
 ---
 ## What it is
 Provides US stock market data for AI agents, including intraday and daily bars, SEC fundamentals, filings, and insider data, with pay-per-query via USDC on Base.

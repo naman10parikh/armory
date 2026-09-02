@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T16:04:04Z"
 ---
 ## What it is
 This MCP server provides a stateful, resettable, verifiable API runtime that gates every tool call, enabling agents to run long workflows against provider-shaped environments without live provider write access. It records decisions, side effects, and outcome evidence for replayable, verifiable bench

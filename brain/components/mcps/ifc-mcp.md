@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T02:05:55Z"
 ---
 ## What it is
 Enables AI agents to load, query, and analyze IFC building model files, including spatial structures, elements, properties, materials, and geometry.

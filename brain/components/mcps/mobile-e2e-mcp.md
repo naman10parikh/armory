@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-06T05:20:05Z"
 ---
 ## What it is
 AI-safe mobile device control via MCP: a policy-guarded, session-oriented mobile automation harness for AI agents with 66 MCP tools and an Explorer for automatic page traversal.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T12:35:01Z"
 ---
 ## What it is
 Provides weather alerts and forecasts via MCP tools, supporting both STDIO and SSE transports.

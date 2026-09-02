@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-12T15:19:42Z"
 ---
 ## What it is
 MCP server `Web Scraper & DuckDuckGo Search`, catalogued on PulseMCP. Provides web scraping and DuckDuckGo search capabilities for retrieving and processing web content as markdown.

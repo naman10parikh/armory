@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-11T15:22:11Z"
 ---
 ## What it is
 MCP server `POP`, catalogued on PulseMCP. Italian e-invoicing (FatturaPA/SdI), Peppol, and PDF invoice generation via the POP API.

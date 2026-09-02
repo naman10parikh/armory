@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T10:42:10Z"
 ---
 ## What it is
 Turns a git-backed markdown directory into an MCP-compatible knowledge server, enabling any MCP client to read, search, ingest, and maintain a persistent wiki that compounds across sessions.

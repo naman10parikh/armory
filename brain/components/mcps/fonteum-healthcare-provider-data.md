@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T23:53:32Z"
 ---
 ## What it is
 Source-provenanced US federal healthcare provider data over MCP. Resolve any NPI or CCN across NPPES, OIG LEIE, SAM.gov, state Medicaid exclusions, CMS PECOS, Care Compare, and Open Payments — every field carries a 14-field provenance contract, and an "excluded or compromised anywhere" check runs on

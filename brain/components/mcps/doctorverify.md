@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T04:14:22Z"
 ---
 ## What it is
 Enables verification of Indian doctors by querying the National Medical Commission's Indian Medical Register for registration, profiles, and blacklist status, with fallback guidance for manual lookup.

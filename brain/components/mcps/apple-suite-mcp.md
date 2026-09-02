@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T02:02:03Z"
 ---
 ## What it is
 A minimal Python MCP server that gives Claude access to built-in Apple apps (Mail, Contacts, Calendar, Notes, Reminders) on macOS, leveraging native APIs and local databases for speed with no OAuth setup.

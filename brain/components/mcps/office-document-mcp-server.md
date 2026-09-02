@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-09T18:36:43Z"
 ---
 ## What it is
 Provides tools to extract, convert, and generate Microsoft Office documents (Word, Excel, PowerPoint) via the Model Context Protocol, with support for reading, editing, and auditing document content.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T11:22:13Z"
 ---
 ## What it is
 MCP server that generates Disler-style fusion-harness README diagrams with dark GitHub chrome, monospace type, role colors, and CSS flow animations.

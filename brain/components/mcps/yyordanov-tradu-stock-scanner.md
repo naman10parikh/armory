@@ -8,10 +8,12 @@ source_url: https://github.com/yyordanov-tradu/stock-scanner-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-31T13:50:11Z"
 ---
 ## What it is
 MCP server `Stock Scanner`, catalogued on PulseMCP. Real-time stock and cryptocurrency market data with technical analysis, options flow, and insider trading monitoring.

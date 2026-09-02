@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T13:25:45Z"
 ---
 ## What it is
 Provides GitHub repository analysis tools for Claude, including repo summaries, commit history, issue tracking, contributor stats, and code quality assessment. Enables natural language queries about code quality, contributor activity, and repository comparisons.

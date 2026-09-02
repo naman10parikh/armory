@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T20:05:23Z"
 ---
 ## What it is
 Patchistry commerce tools — modular hats, patches, curated builds (bachelorette/wedding/dads/festival), shipping, contact. AI agents can query the live Patchistry catalog in real-time

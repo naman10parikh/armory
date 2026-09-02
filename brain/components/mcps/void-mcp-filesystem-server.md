@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-30T17:51:20Z"
 ---
 ## What it is
 A secure, sandboxed MCP server that provides Void Editor with safe filesystem access, enabling AI to create, read, modify, and delete files with comprehensive security controls.

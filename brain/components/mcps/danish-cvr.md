@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T00:02:20Z"
 ---
 ## What it is
 Enables AI assistants to search and look up Danish and Norwegian company registry (CVR) data, including company details, bankruptcy status, and more.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 1
+forks: 1
+pushed_at: "2026-03-05T19:50:31Z"
 ---
 ## What it is
 AI-powered commerce MCP server with 22 tools: shopping cart (TMF663), orders (TMF622), shipment tracking (TMF621), session booking, Uniswap swaps, P2P marketplace, promo pickup, and cryptographic identity (SLH-DSA/ECDSA). No passwords — your wallet IS your account.

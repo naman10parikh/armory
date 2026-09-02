@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T11:22:39Z"
 ---
 ## What it is
 A multi-tenant MCP gateway that connects Claude to Elementor Pro WordPress sites, enabling site listing, tool discovery, and execution of Elementor actions through natural language.

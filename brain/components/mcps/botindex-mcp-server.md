@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T17:04:50Z"
 ---
 ## What it is
 Provides predictive crypto market intelligence synthesized from whale positions, developer activity, and behavioral demand signals. Enables convergence scoring, whale divergence detection, and risk radar through MCP tools.

@@ -8,10 +8,12 @@ source_url: https://github.com/onelogin/onelogin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-25T22:03:35Z"
 ---
 ## What it is
 MCP server `OneLogin`, catalogued on PulseMCP. OneLogin API integration for user, app, role, and authentication management.

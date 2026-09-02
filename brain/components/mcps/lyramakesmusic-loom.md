@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-25T11:04:29Z"
 ---
 ## What it is
 MCP server `Loom`, catalogued on PulseMCP. Collaborative text exploration and completion through base model interactions for interactive content development

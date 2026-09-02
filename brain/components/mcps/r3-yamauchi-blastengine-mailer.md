@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-05T12:36:18Z"
 ---
 ## What it is
 MCP server `Blastengine Mailer`, catalogued on PulseMCP. Integrates with Blastengine to enable sending emails via API, supporting automated notification and marketing campaign functionalities

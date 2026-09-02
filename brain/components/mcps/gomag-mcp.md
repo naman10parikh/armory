@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-30T10:56:12Z"
 ---
 ## What it is
 A Model Context Protocol server for the Gomag Public API that provides 48 typed MCP tools for managing products, orders, customers, shipping, invoices, and more in a Gomag e-commerce store.

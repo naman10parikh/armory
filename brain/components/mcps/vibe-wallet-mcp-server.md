@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T07:06:32Z"
 ---
 ## What it is
 Bridges AI agents with the Vibe Wallet browser extension to enable blockchain interactions such as account management, asset transfers, and smart contract calls.

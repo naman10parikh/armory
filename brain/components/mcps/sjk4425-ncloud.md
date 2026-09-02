@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-27T16:49:17Z"
 ---
 ## What it is
 MCP server `Ncloud`, catalogued on PulseMCP. Naver Cloud Platform infrastructure management via MCP — 1,000+ tools across 60+ services.

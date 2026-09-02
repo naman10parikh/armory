@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T15:51:55Z"
 ---
 ## What it is
 An MCP server that provides AI agents with secure, read-only access to personal Strava fitness data, including activities, performance stats, and more through 21 MCP tools.

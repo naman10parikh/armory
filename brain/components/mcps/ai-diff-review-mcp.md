@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-25T18:27:11Z"
 ---
 ## What it is
 Enables AI agents to edit files in VS Code with an interactive diff review panel, allowing users to accept or reject changes.

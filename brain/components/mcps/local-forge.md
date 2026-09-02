@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T08:44:49Z"
 ---
 ## What it is
 Enables AI coding agents to route tasks to local GPU models via a dynamic heuristic classifier, tracking real-time token dollar savings.

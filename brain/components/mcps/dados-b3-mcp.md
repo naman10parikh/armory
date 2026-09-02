@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T20:59:20Z"
 ---
 ## What it is
 MCP server providing fundamentalist data for 402 Brazilian listed companies (B3) from 2010 to today, with public methodology, point-in-time multiples, and no look-ahead bias.

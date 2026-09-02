@@ -8,10 +8,12 @@ source_url: https://github.com/gx-55/multi-gmail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-08-13T19:15:27Z"
 ---
 ## What it is
 MCP server `Multi-Gmail`, catalogued on PulseMCP. MCP server for managing multiple Gmail accounts with tools for reading, writing, organizing, and OAuth authentication.

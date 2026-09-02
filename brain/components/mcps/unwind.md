@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-13T14:49:53Z"
 ---
 ## What it is
 A security layer for AI agents that monitors, checks, and records every action, providing a trust light, timeline, rewind, and ghost mode for testing without consequences.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-31T12:30:02Z"
 ---
 ## What it is
 Gives AI coding agents persistent memory by storing observations, decisions, and learnings in a local SQLite database with vector search, full-text search, and a rules engine.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T09:12:38Z"
 ---
 ## What it is
 Enables local AI agents to securely search and read Discord messages and channels visible to the current client, without requiring a bot or user token.

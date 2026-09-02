@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:12:33Z"
 ---
 ## What it is
 MCP server for AKM v0.8.1, exposing 14 read-only tools via JSON-RPC over stdio to integrate AKM CLI with OpenCode.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T08:22:14Z"
 ---
 ## What it is
 Enables searching and exploring 340 million academic papers from 15+ databases with semantic search, citation graphs, and knowledge graph connections for biomedical entities.

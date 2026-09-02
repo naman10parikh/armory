@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T07:13:53Z"
 ---
 ## What it is
 A personal, offline-first memory for AI assistants that enables them to read, search, and write to a shared folder of Markdown files, so they all remember you without needing a cloud.

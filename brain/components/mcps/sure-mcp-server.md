@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-01-20T23:47:35Z"
 ---
 ## What it is
 Integrates the Sure self-hosted personal finance platform with Claude Desktop, enabling account management, transaction operations, category viewing, and AI chat via natural language.

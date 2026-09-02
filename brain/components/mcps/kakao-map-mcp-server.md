@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-04T04:26:08Z"
 ---
 ## What it is
 Provides location-based place recommendations in South Korea using the Kakao Map API, optimized for Korean language queries. Supports recommending various places like restaurants, shops, public facilities, and tourist attractions based on user queries.

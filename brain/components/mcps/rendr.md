@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T08:32:57Z"
 ---
 ## What it is
 The Rendr MCP server allows AI agents to control the full video editing workflow, including recording, timeline editing, color grading, and exporting.

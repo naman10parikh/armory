@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-03-05T22:52:03Z"
 ---
 ## What it is
 MCP server for interacting with Shortcut (project management) directly from Claude, enabling viewing, searching, and creating stories, epics, and objectives with safe read-only and create operations.

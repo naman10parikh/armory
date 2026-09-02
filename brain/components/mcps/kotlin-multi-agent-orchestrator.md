@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T17:06:55Z"
 ---
 ## What it is
 Enables end-to-end generation, scaffolding, testing, diagnosis, and auditing of Kotlin applications for Android, Compose Multiplatform, Ktor, and Spring Boot through a coordinated team of specialized agents.

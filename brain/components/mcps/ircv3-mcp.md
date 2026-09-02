@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T15:12:19Z"
 ---
 ## What it is
 An IRCv3 MCP server that enables agents to act as a mini IRC client: read channels as transcripts, send messages, reply to threads, add reactions, fetch history, and manage channel membership via MCP tools.

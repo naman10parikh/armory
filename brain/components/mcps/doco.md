@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-21T21:04:20Z"
 ---
 ## What it is
 Doco is an open-source collaborative document workspace where humans and AI agents write together. Its MCP server gives Claude Code and Cursor stable block-level addressing, version-protected writes, Markdown round-trip, and shared access to the same live documents.

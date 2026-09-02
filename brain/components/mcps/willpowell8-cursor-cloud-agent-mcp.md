@@ -8,11 +8,13 @@ source_url: https://github.com/willpowell8/cursor-cloud-agent-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-05T20:14:14Z"
 ---
 ## What it is
 Enables programmatic control of Cursor's cloud-based AI agents for automated code generation and repository management via standardized MCP tools.

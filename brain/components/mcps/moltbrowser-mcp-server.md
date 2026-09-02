@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-03-25T12:56:40Z"
 ---
 ## What it is
 Enables AI agents to share and use community-contributed browser configs, dynamically providing pre-configured tools for specific websites to reduce token waste and improve navigation efficiency.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-21T01:15:48Z"
 ---
 ## What it is
 Node.js server implementing Model Context Protocol (MCP) for filesystem operations, enabling read/write files, directory management, search, and metadata retrieval via SSE transport.

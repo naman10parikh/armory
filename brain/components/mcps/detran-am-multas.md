@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:10Z"
 ---
 ## What it is
 Read-only MCP server for querying traffic fines (multas) in Amazonas, Brazil from an official source, with pay-per-use prepaid credits and support for any MCP-over-HTTP client.

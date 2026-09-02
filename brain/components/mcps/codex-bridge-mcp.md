@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T09:45:22Z"
 ---
 ## What it is
 Codex Bridge MCP is a local MCP orchestration service for a stable Claude Code x Codex CLI development workflow.

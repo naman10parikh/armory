@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T09:09:31Z"
 ---
 ## What it is
 TEX is an MCP server that enables Claude Code to perform browser tasks using plain language, driving a real browser to interact with web applications that lack APIs.

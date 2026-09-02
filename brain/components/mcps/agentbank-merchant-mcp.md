@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T02:51:46Z"
 ---
 ## What it is
 Merchant-side MCP server for agentbank that lets merchants read their own orders and live Curless wallet balance from an MCP client such as Claude Desktop.

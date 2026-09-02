@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:03Z"
 ---
 ## What it is
 Enables querying the São Paulo State Attorney General's Office for tax clearance certificates (Certidão Negativa de Débitos Tributários) directly from official sources. Read-only tool that works with any MCP-compatible client.

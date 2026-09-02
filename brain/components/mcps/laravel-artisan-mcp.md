@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-04-24T19:50:16Z"
 ---
 ## What it is
 Enables secure execution of Laravel Artisan commands through AI assistants, allowing controlled management of Laravel projects via natural language.

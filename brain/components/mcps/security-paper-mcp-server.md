@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T03:10:56Z"
 ---
 ## What it is
 MCP server for searching papers from top-tier and second-tier security conferences (S&P, USENIX Security, CCS, NDSS, ACSAC, RAID, ESORICS) using DBLP, with tools for keyword/author/year/conference search, listing conference papers, and getting statistics.

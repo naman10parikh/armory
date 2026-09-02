@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-19T19:46:28Z"
 ---
 ## What it is
 MCP server `Java Debug Adapter Protocol`, catalogued on PulseMCP. Bridges Java debugging capabilities through the Debug Adapter Protocol, enabling remote debugging of Java applications by providing tools to attach to debug sessions, inspect thread states and stack traces, examine variable scopes, evaluate expressions in debugging contexts, and control execution flow.

@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T14:04:06Z"
 ---
 ## What it is
 MCP server `Mermaid Diagrams`, catalogued on PulseMCP. MCP server for generating, validating, and rendering Mermaid diagrams from natural language descriptions using AI-powered conversion.

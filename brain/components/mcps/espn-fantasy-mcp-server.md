@@ -8,11 +8,13 @@ source_url: https://github.com/i-am-david-weinstein/espn-fantasy-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T02:48:02Z"
 ---
 ## What it is
 MCP server providing access to ESPN Fantasy Baseball data, enabling league settings, rosters, player lookup, free agents, waiver claims, lineup changes, and trade management.

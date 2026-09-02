@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T03:29:03Z"
 ---
 ## What it is
 Fetches and parses Swagger/OpenAPI documentation from URLs, cleans and optimizes it to reduce token consumption, and provides standardized API descriptions to intelligent IDEs for suggestions, auto-completion, and code generation.

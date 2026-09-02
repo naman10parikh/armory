@@ -8,11 +8,13 @@ source_url: https://github.com/CPLX/flighty-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-31T17:32:23Z"
 ---
 ## What it is
 Connects AI assistants to the Flighty flight tracking app for querying flight status, delay forecasts, stats, and adding/removing flights via natural language.

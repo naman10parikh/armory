@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T22:48:34Z"
 ---
 ## What it is
 A zero-cost, multi-server MCP suite that provides a unified gateway and LangGraph-based automated PR-review agent, enabling code analysis, GitHub operations, and documentation generation via free-tier APIs.

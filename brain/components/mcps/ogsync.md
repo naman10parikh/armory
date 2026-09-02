@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T16:17:38Z"
 ---
 ## What it is
 Enables AI agents to interact with Roblox Studio via a token-efficient MCP server, live two-way script sync, and zero-friction plugin setup.

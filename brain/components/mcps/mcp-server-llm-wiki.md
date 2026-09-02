@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:39:21Z"
 ---
 ## What it is
 A generic MCP server that turns a directory of Markdown wiki pages into a network-reachable knowledge base, queryable and updatable by any MCP-compatible client.

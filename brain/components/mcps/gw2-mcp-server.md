@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T00:21:14Z"
 ---
 ## What it is
 An MCP server that answers Guild Wars 2 questions by searching the official wiki and GW2 API, with citations.

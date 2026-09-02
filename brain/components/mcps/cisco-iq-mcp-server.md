@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T02:31:16Z"
 ---
 ## What it is
 A local MCP server that exposes Cisco IQ's Assets and Assessments REST APIs as read-only MCP tools, enabling AI assistants to query asset inventory, contracts, lifecycle data, security advisories, and field notices.

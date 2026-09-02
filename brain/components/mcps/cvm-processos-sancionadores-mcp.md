@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:33:02Z"
 ---
 ## What it is
 Enables querying administrative sanctioning processes at CVM (Brazilian SEC) by CPF or CNPJ. Read-only, pay-per-use MCP server that works with any MCP client over HTTP.

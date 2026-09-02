@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-22T07:07:01Z"
 ---
 ## What it is
 A Model Context Protocol server for enterprise-grade document automation, enabling AI assistants to create, read, manipulate, and analyze Microsoft Word documents programmatically.

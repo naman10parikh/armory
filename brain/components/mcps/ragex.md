@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-12T17:24:34Z"
 ---
 ## What it is
 Gives Claude semantic search superpowers to find and reuse existing patterns in your codebase.

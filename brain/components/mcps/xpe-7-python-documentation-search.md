@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-22T10:56:12Z"
 ---
 ## What it is
 MCP server `Python Documentation Search`, catalogued on PulseMCP. Enables AI assistants to retrieve up-to-date documentation from popular Python libraries by performing targeted Google searches within specific documentation domains and extracting relevant content.

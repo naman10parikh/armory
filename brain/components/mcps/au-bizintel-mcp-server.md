@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T07:30:06Z"
 ---
 ## What it is
 Gives any MCP-compatible AI agent instant access to the Australian Business Register (ABR) — plus AI-powered business intelligence. Search 8M+ registered Australian entities by name or ABN, get full profiles, check GST status, and get an AI-generated opportunity assessment for any business.

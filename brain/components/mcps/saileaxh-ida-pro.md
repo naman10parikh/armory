@@ -8,10 +8,12 @@ source_url: https://github.com/saileaxh/iida-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 139
+stars: 273
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 36
+pushed_at: "2026-05-15T22:31:57Z"
 ---
 ## What it is
 MCP server `IDA Pro`, catalogued on PulseMCP. IDA Pro plugin that exposes static binary analysis capabilities to AI assistants via 79 MCP tools over a local HTTP server.

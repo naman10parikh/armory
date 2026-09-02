@@ -12,6 +12,8 @@ stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-06T16:05:58Z"
 ---
 ## What it is
 MCP server `Filesystem (Rust)`, catalogued on PulseMCP. Provides secure filesystem operations within allowed directories for controlled file management and data processing tasks.

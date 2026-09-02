@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-29T20:21:08Z"
 ---
 ## What it is
 MCP server `Hangfire`, catalogued on PulseMCP. Enables AI assistants to enqueue background jobs in Hangfire, a popular .NET job scheduling library, for executing server-side processing tasks without additional code.

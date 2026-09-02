@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-03T17:37:45Z"
 ---
 ## What it is
 MCP server `Dev.to`, catalogued on PulseMCP. Integrates with Dev.to's API, enabling article publishing, content retrieval, and user interactions on the platform.

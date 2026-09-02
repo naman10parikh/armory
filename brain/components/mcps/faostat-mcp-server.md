@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-15T00:57:53Z"
 ---
 ## What it is
 Enables AI assistants to query the full FAOSTAT API for global food and agriculture statistics, allowing natural-language questions about crop production, trade, food security, emissions, and more.

@@ -8,10 +8,12 @@ source_url: https://github.com/cyqlelabs/mcp-dual-cycle-reasoner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-13T02:02:21Z"
 ---
 ## What it is
 MCP server `Dual-Cycle Reasoner`, catalogued on PulseMCP. Provides dual-cycle metacognitive reasoning framework that detects when autonomous agents get stuck in repetitive behaviors through statistical anomaly detection and semantic analysis, then automatically diagnoses failure causes and generates recovery strategies using case-based learning.

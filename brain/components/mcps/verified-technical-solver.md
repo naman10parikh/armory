@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T17:08:04Z"
 ---
 ## What it is
 Provides deterministic tools for symbolic math, equation solving, relation verification, reasoning structure audits, and validated CAD primitives, returning evidence artifacts for every result.

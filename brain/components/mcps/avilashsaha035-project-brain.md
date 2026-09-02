@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-04T05:17:10Z"
 ---
 ## What it is
 MCP server `Project Brain`, catalogued on PulseMCP. MCP server for managing project knowledge and documentation, providing AI assistants with structured project context.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T23:03:21Z"
 ---
 ## What it is
 A local MCP server that enables MCP-compatible AI clients to inspect and control the currently open scene in a running Autodesk VRED Professional 2027 instance via a secure bridge, supporting read-only inspection and gated mutations like selection, visibility, transforms, and screenshots.

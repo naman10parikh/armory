@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T03:05:08Z"
 ---
 ## What it is
 MCP server for multi-engine browser automation with proxy rotation, enabling AI-driven web interaction and task execution across Camoufox, DrissionPage, and Browser Use.

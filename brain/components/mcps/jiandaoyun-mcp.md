@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-19T10:42:21Z"
 ---
 ## What it is
 MCP server that wraps Jiandaoyun (简道云) form operations, providing 9 tools for app discovery, form exploration, and data CRUD via SSE transport.

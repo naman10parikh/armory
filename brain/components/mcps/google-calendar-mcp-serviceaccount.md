@@ -8,11 +8,13 @@ source_url: https://github.com/jakub-lapinski/google-calendar-mcp-serviceaccount
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T18:08:57Z"
 ---
 ## What it is
 Enables an AI agent to read and write events on a single Google Calendar using a service account, avoiding OAuth consent and token expiry.

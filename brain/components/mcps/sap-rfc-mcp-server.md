@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-08-18T14:57:31Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides seamless integration with SAP systems through RFC (Remote Function Call) connections. This server enables AI assistants and applications to interact with SAP functions, retrieve metadata, and perform operations with enhanced caching and version com

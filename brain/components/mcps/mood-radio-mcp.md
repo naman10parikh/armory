@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T14:32:28Z"
 ---
 ## What it is
 Enables users to anonymously share and pass along songs with messages in mood-based rooms, and view community-featured radio feeds, relay chains, and charts.

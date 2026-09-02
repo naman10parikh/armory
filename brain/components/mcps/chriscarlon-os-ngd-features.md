@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-10-27T23:12:51Z"
 ---
 ## What it is
 MCP server `Ordnance Survey National Geographic Database`, catalogued on PulseMCP. Provides a bridge to the Ordnance Survey National Geographic Database, enabling queries of UK geographic data for applications like urban planning, transportation analysis, and location-based services.

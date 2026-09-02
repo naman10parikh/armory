@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T16:11:17Z"
 ---
 ## What it is
 An embedded MCP server for Cytoscape Desktop that lets AI agents load networks, set active views, and control the desktop application over HTTP.

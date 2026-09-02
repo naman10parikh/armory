@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T02:52:48Z"
 ---
 ## What it is
 MCP server for legal research that enables searching US case law via CourtListener, retrieving full opinion text, and looking up legal definitions from Cornell's Wex. Students can connect via a remote connector in Claude.ai to cite real, free legal sources.

@@ -8,11 +8,13 @@ source_url: https://github.com/czgreg/netpilot-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-01T16:06:26Z"
 ---
 ## What it is
 Enables large language models to manage network devices (Cisco, Huawei, H3C, Ruijie) via Telnet/SSH, supporting command execution, configuration, and diagnostics.

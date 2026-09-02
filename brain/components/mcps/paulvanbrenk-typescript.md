@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-06T21:52:06Z"
 ---
 ## What it is
 MCP server `TypeScript`, catalogued on PulseMCP. Bridges TypeScript development tools with coding agents by wrapping tsgo's Language Server Protocol in an MCP interface, providing real-time type checking, code navigation, diagnostics, symbol lookup, and safe cross-project renaming.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T18:02:01Z"
 ---
 ## What it is
 MCP server for managing ToDoList (.tdl) files, with 16 tools including task creation, completion, deletion, comments, backup/restore, and statistics.

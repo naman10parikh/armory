@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-01T20:16:08Z"
 ---
 ## What it is
 Enables AI assistants to manage and interact with WordPress sites through MCP, providing tools for content creation, moderation, WooCommerce operations, and governance.

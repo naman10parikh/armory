@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-15T17:50:28Z"
 ---
 ## What it is
 MCP server `Rierino`, catalogued on PulseMCP. Enables organizations to expose existing APIs, event processing, or CDC flows as MCP tools while maintaining security policies and user roles through configurable middleware or custom server implementations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T12:10:32Z"
 ---
 ## What it is
 Enables AI assistants to interact with multiple SQL databases (PostgreSQL, MySQL, SQL Server, SQLite, Trino) through MCP, reusing existing DBeaver connections for queries, schema management, and transactions, with SSH tunneling and read-only mode support.

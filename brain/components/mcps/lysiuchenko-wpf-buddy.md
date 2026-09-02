@@ -8,10 +8,12 @@ source_url: https://github.com/lysiuchenko/wpf-buddy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-05T11:53:04Z"
 ---
 ## What it is
 MCP server `WPF Buddy`, catalogued on PulseMCP. 200+ tools for WPF desktop app automation, semantic UI testing, accessibility auditing, and diagnostics via UI Automation.

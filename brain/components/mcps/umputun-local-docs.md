@@ -8,10 +8,12 @@ source_url: https://github.com/umputun/local-docs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-18T23:24:32Z"
 ---
 ## What it is
 MCP server `Local Docs`, catalogued on PulseMCP. Provides seamless access to local markdown documentation from multiple sources with smart fuzzy search, file caching, and real-time updates for development workflows requiring quick access to project docs, command references, and knowledge bases.

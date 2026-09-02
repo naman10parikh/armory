@@ -8,10 +8,12 @@ source_url: https://github.com/zeke-777/skillful-mcp-docx-processor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-11T14:23:30Z"
 ---
 ## What it is
 MCP server `DOCX Processor`, catalogued on PulseMCP. Word document processor exposing 63 operations through a single gateway tool, with on-demand skill loading for 52-73% context reduction.

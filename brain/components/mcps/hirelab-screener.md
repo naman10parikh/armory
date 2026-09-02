@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T06:58:01Z"
 ---
 ## What it is
 Enables Claude to securely search, read, and update your ATS data — candidates, mandates, pipelines, tasks, and interviews — through natural language, with configurable write permissions and confirmation for actions like scheduling and emailing.

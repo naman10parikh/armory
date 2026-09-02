@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T15:50:19Z"
 ---
 ## What it is
 MCP server that provides real-time weather data, forecasts, city weather comparisons, and travel recommendations using the OpenMeteo API, enabling AI agents to answer weather-related queries and suggest optimal travel conditions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T03:19:20Z"
 ---
 ## What it is
 This MCP server wraps the SOLVE-IT digital forensics knowledge base, enabling LLMs to query techniques, weaknesses, mitigations, and their relationships through a set of MCP tools.

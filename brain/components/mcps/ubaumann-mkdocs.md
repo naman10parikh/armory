@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-09-20T19:10:41Z"
 ---
 ## What it is
 MCP server `MkDocs`, catalogued on PulseMCP. Serves MkDocs documentation sites as resources

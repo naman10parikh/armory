@@ -8,11 +8,13 @@ source_url: https://github.com/Br0ski777/social-profile-x402
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4049
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 0
+pushed_at: "2026-08-06T17:54:55Z"
 ---
 ## What it is
 Social media profile enrichment API for AI agents. Look up any social handle or URL across Twitter/X, GitHub, LinkedIn, and YouTube. Returns structured profile data: display name, bio, follower count, following count, verification status, avatar, and recent activity. Tools: social_lookup_profile. Us

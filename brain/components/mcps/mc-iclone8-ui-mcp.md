@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T14:41:36Z"
 ---
 ## What it is
 A local MCP server to control iClone 8's visible interface like a human user, providing read-only inspection and screen capture tools.

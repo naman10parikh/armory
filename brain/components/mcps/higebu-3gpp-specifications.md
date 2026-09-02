@@ -8,10 +8,12 @@ source_url: https://github.com/higebu/3gpp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T03:27:23Z"
 ---
 ## What it is
 MCP server `3GPP Specifications`, catalogued on PulseMCP. Search, browse, and cross-reference 3GPP telecommunications specifications stored in a local SQLite database.

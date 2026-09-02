@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T04:03:59Z"
 ---
 ## What it is
 MCP server that provides vision capabilities to coding agents, enabling them to analyze screenshots, UI mockups, terminal errors, documents, tables, and charts through OpenAI-compatible vision models. Supports local stdio and remote HTTP deployments with structured JSON output and binary upload side

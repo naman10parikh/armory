@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T04:03:26Z"
 ---
 ## What it is
 Autonomous news intelligence system that fetches articles from 20+ tech sources, ranks them with AI, generates summaries in English and Hindi, and delivers a curated email digest daily, exposed as an MCP server for interaction via any MCP-compatible client.

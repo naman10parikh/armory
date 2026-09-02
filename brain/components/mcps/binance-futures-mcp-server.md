@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-03T00:14:46Z"
 ---
 ## What it is
 Enables AI assistants like Claude to manage Binance USDⓈ-M Futures trading through 14 tools for orders, positions, account details, and risk settings.

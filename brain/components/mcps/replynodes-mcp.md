@@ -8,11 +8,13 @@ source_url: https://github.com/replynodes/replynodes-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T04:39:06Z"
 ---
 ## What it is
 Connects MCP clients like Claude and Cursor to your Replynodes account, enabling social channel management, post scheduling, and media generation directly from chat.

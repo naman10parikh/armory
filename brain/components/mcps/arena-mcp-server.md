@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-12T11:22:23Z"
 ---
 ## What it is
 Enables running position-driven adversarial debates and code reviews between AI agents via MCP tools, supporting custom positions, multiple rounds, and local CLI models like Claude, Codex, and Gemini.

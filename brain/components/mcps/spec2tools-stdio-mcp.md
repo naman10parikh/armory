@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-13T00:12:30Z"
 ---
 ## What it is
 Exposes any OpenAPI spec endpoints as AI agent tools via stdio, requiring no code generation or maintenance.

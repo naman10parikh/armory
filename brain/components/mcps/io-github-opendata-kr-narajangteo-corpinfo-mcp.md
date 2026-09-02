@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T03:24:36Z"
 ---
 ## What it is
 Enables querying Korean procurement corporate profiles and qualifications using business registration numbers through natural language, leveraging the public data API from data.go.kr.

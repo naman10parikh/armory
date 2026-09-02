@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [self-improve, harness-review, skillsmith]
 tags: [meta, skill-authoring, self-improvement, autolab]
+forks: 0
+pushed_at: "2026-06-10T03:24:43Z"
 ---
 
 ## What it is

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T19:35:52Z"
 ---
 ## What it is
 Enables managing Hugo static site content via the MCP protocol, including schema and record CRUD, markdown generation, build, and publish.

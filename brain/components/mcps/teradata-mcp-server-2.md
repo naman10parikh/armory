@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T15:13:56Z"
 ---
 ## What it is
 Enables running SQL queries, exploring metadata, and interacting with Teradata databases through the Model Context Protocol.

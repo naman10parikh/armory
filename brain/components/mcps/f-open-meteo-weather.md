@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-20T05:37:47Z"
 ---
 ## What it is
 MCP server `Open-Meteo Weather`, catalogued on PulseMCP. Integrates with Open-Meteo API to provide current weather data retrieval with GitHub OAuth 2.0 authentication, location management for saving custom labels like 'home' or 'office', and support for both Celsius and Fahrenheit units.

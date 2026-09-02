@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-27T02:07:23Z"
 ---
 ## What it is
 MCP server for managing ISPConfig 3 hosting platform - enables DNS, mail, websites, databases, FTP, cron jobs, and client management through AI assistants. Supports server migration with export/import of configurations.

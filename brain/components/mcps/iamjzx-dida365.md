@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-04-13T08:15:46Z"
 ---
 ## What it is
 MCP server `Dida365 (TickTick)`, catalogued on PulseMCP. Integrates with Dida365 (TickTick) task management API to create, update, retrieve, and delete tasks and projects after user authorization.

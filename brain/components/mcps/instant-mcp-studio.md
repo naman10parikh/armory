@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T12:25:23Z"
 ---
 ## What it is
 Turns any OpenAPI/Swagger spec (JSON, YAML, or URL) into a production-ready, type-safe FastMCP Python server with visual endpoint selection and 1-click Claude Desktop or Cursor IDE integration.

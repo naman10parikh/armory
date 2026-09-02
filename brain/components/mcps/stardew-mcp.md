@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T21:03:03Z"
 ---
 ## What it is
 Exposes the Stardew Valley Wiki as structured data via MCP tools for keyword/semantic search, page retrieval, and entity listings.

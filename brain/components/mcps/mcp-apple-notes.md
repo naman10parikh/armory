@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T14:34:56Z"
 ---
 ## What it is
 Enables AI agents to search, read, create, and append Apple Notes using MCP tools, supporting bulk folder reads and tag search.

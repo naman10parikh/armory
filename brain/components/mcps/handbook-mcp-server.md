@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T06:47:43Z"
 ---
 ## What it is
 Enables full management of handbook entries through the Handbook API, allowing users to list, create, update, delete, and search entries from MCP-compatible clients like Claude Desktop.

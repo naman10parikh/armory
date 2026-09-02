@@ -8,10 +8,12 @@ source_url: https://github.com/arindam200/devto-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-05-21T03:32:01Z"
 ---
 ## What it is
 MCP server `Dev.to`, catalogued on PulseMCP. Provides a bridge between Dev.to content and conversational interfaces, enabling article discovery, search, and publishing capabilities with performance-optimized caching.

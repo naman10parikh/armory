@@ -8,11 +8,13 @@ source_url: https://github.com/leonardwy/HFSS_McpServer
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-18T13:32:34Z"
 ---
 ## What it is
 An MCP server for automating ANSYS HFSS simulations, providing persistent connections and a suite of tools for modeling, simulation, and post-processing.

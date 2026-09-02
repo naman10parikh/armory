@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T02:56:09Z"
 ---
 ## What it is
 MCP server for Universidade de São Paulo's student systems (Moodle, JupiterWeb) enabling assistants to query grades, schedule, tasks, and more via secure backend.

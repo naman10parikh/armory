@@ -12,6 +12,8 @@ stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-05-21T22:37:08Z"
 ---
 ## What it is
 MCP server `OpenAI MCP`, catalogued on PulseMCP. Provides a high-performance bridge between OpenAI and Anthropic models with prompt templating, response streaming, and efficient caching for applications requiring customizable LLM access.

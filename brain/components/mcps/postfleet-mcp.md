@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T19:36:49Z"
 ---
 ## What it is
 Gives AI agents their own email address with inbound parsing, classification, extraction, and prompt injection screening, plus tools to manage mailboxes, send/receive emails, and handle draft approval workflows.

@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
-stars: 4
+stars: 5
+forks: 0
+pushed_at: "2026-05-20T22:57:02Z"
 ---
 ## What it is
 Multi-source academic + code + medical-regulatory trend monitoring (arXiv, PubMed, GitHub, Hugging Face, openFDA 510(k)/Recalls). Newspaper-style briefings, per-domain tuning, sandbox-safe Python launcher.

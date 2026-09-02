@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T05:45:29Z"
 ---
 ## What it is
 MCP server for hard decoration quoting: parses DXF floor plans, reconstructs room topology, computes material quantities, and generates deterministic itemized quotes with tiered pricing. Exposes tools parse_dxf, compute_quote, and generate_report via stdio.

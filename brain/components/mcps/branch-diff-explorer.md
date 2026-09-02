@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T14:29:01Z"
 ---
 ## What it is
 Read-only MCP server exposing Git branch diff sessions, filtered file lists, patches, and commit metadata from the Branch Diff Explorer VS Code extension to local AI clients.

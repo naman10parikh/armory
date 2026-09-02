@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T04:06:10Z"
 ---
 ## What it is
 GenflowAI for Codex helps creators, ecommerce teams, and marketing teams find reusable AI creative workflow templates, list their own saved workflows, inspect required inputs, upload creative assets, start template/workflow runs, and check async generation results without leaving Codex.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T10:45:37Z"
 ---
 ## What it is
 A standard, forkable MCP App server with a Streamable HTTP endpoint, providing a self-contained UI resource and native tools like search_projects for project discovery.

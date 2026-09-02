@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T12:20:38Z"
 ---
 ## What it is
 Unofficial MCP server for HotCopper, enabling AI agents to search, read, and reply to ASX share-trading forum posts via reverse-engineered HTML parsing.

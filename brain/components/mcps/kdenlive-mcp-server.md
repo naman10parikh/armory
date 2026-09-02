@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:31:24Z"
 ---
 ## What it is
 Enables AI models to perform complex video editing tasks on Kdenlive projects through 36 tools for project management, timeline editing, effects, transitions, and export.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T19:03:54Z"
 ---
 ## What it is
 A Model Context Protocol server for the AVEQ Surfmeter management API. It exposes typed tools for clients, measurements, anomalies, groups, ISPs, users, keys, capabilities, settings, license usage, and the built-in AI assistant.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-16T10:03:51Z"
 ---
 ## What it is
 MCP server `OSS Insight`, catalogued on PulseMCP. Queries OSS Insight's public analytics API with 18 tools for GitHub repository trends, contributor statistics, collection analysis, and open-source ecosystem insights.

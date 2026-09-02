@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T11:43:39Z"
 ---
 ## What it is
 An MCP server that indexes SQL codebases into a queryable knowledge graph backed by DuckDB, enabling structural SQL queries instead of grep.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-12T15:34:25Z"
 ---
 ## What it is
 MCP server `SonarQube`, catalogued on PulseMCP. Query SonarQube projects, metrics, quality gates, and issues, with cross-project worst-metric ranking.

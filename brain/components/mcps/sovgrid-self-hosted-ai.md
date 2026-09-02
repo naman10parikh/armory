@@ -8,10 +8,12 @@ source_url: https://github.com/cipherfoxie/sovereign-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-20T16:03:35Z"
 ---
 ## What it is
 MCP server `Sovgrid Self-Hosted AI`, catalogued on PulseMCP. Engineering knowledge base of self-hosted AI articles, indexed from NVIDIA DGX Spark experiments.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T01:01:33Z"
 ---
 ## What it is
 MCP server for the HeyGen avatar video API. Provides tools to generate talking-avatar videos, including video creation, status checking, downloading, and listing avatars/voices.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-21T02:04:45Z"
 ---
 ## What it is
 OpenKai is an open-source MCP server that gives AI agents persistent memory across conversations, supporting core, long-term, short-term, episodic, and working memory types with goals, emotional intelligence, and temporal queries.

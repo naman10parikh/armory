@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-23T03:13:56Z"
 ---
 ## What it is
 A MCP tool to fetch Bilibili hot list videos, supporting configurable top-K results via async HTTP requests.

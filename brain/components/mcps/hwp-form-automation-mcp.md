@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T05:08:35Z"
 ---
 ## What it is
 Automates Hancom Office HWP forms via COM, converting, extracting, field-filling, and exporting to PDF, preserving original formatting for Korean government and school documents.

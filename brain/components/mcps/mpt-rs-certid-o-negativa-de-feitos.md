@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:53Z"
 ---
 ## What it is
 Enables querying official MPT RS records for negative certificates of proceedings (Certidão Negativa de Feitos) via a single read-only tool, with prepaid per-query pricing.

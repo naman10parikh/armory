@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T15:07:47Z"
 ---
 ## What it is
 Integrates OANDA FX trading with technical analysis, economic news, stock/indices quotes, corporate financials, EDINET disclosures, and composite scoring into a unified MCP server.

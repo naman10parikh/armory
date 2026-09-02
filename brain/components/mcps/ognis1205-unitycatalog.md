@@ -8,10 +8,12 @@ source_url: https://github.com/ognis1205/mcp-server-unitycatalog
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-28T19:41:05Z"
 ---
 ## What it is
 MCP server `Unity Catalog`, catalogued on PulseMCP. Integrates with Unity Catalog to enable seamless execution of database functions, with tools for listing, retrieving, creating, and deleting functions within specified catalog environments.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T02:11:58Z"
 ---
 ## What it is
 A free, MIT-licensed MCP server that provides AI agents with analyst-grade US severe-weather tools, including live warning polygons, SPC outlooks, radar-derived hail and rotation products, and a composite threat brief.

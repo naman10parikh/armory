@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:21:09Z"
 ---
 ## What it is
 Enables users to browse a menu of 8 food items including pizzas, burgers, and drinks, and look up item details by ID through the get_menu tool.

@@ -8,10 +8,12 @@ source_url: https://github.com/orbit-logistics/notion-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-02-17T00:14:05Z"
 ---
 ## What it is
 MCP server `Notion`, catalogued on PulseMCP. Integrates with Notion API to enable natural language-driven content management, knowledge base interactions, and automated workspace operations.

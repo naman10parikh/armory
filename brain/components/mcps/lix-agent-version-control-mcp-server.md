@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T16:08:05Z"
 ---
 ## What it is
 Enables AI agents to manage version control for product assets with tools for creating change sets, comparing versions, approving merges, and exporting receipts.

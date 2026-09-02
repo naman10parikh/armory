@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T16:11:37Z"
 ---
 ## What it is
 Self-hosted memo knowledge base with MCP, REST, and read-only web interfaces; lets AI agents save and retrieve tagged, searchable study notes for AWS DevOps Pro exam prep.

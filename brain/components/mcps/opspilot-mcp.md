@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T20:40:27Z"
 ---
 ## What it is
 An MCP server exposing Kubernetes-style diagnostic tools to an LLM agent, with a safety approval gate for destructive actions, all backed by a mock cluster for local testing.

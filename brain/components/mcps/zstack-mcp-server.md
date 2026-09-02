@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-04-09T10:13:23Z"
 ---
 ## What it is
 Enables AI to dynamically search, describe, and execute 2000+ ZStack Cloud APIs, plus query monitoring metrics and data.

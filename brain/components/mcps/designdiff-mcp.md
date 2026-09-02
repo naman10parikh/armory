@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T23:44:43Z"
 ---
 ## What it is
 Verifies that AI-generated UI code matches Figma design specs by rendering components in a real browser, comparing computed CSS, and returning patch-ready fixes with scored parity reports.

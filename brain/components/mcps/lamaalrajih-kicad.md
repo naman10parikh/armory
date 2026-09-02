@@ -8,10 +8,12 @@ source_url: https://github.com/lamaalrajih/kicad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 459
+stars: 497
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 78
+pushed_at: "2025-10-17T16:30:09Z"
 ---
 ## What it is
 MCP server `KiCad`, catalogued on PulseMCP. Enables Claude to analyze and validate KiCad electronic design projects through PCB visualization, design rule checking, and schematic analysis for improved troubleshooting and manufacturing preparation.

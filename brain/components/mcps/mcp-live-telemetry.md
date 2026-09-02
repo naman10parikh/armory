@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T01:25:35Z"
 ---
 ## What it is
 Exposes live industrial IoT telemetry to any MCP client, streaming simulated sensor data from a fleet of machines and detecting anomalies, with the ability to inject faults on demand.

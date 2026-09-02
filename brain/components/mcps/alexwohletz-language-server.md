@@ -12,6 +12,8 @@ stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-11-26T23:18:42Z"
 ---
 ## What it is
 MCP server `Language Server`, catalogued on PulseMCP. Integrates language server capabilities to provide code analysis, completion, and diagnostics for developing in various languages.

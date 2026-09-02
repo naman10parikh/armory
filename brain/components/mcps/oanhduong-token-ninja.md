@@ -8,10 +8,12 @@ source_url: https://github.com/oanhduong/token-ninja
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-04-22T10:34:50Z"
 ---
 ## What it is
 MCP server `Token Ninja`, catalogued on PulseMCP. MCP server intercepting deterministic shell commands for local execution, bypassing LLM token usage with 765 built-in patterns.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T13:56:22Z"
 ---
 ## What it is
 An MCP server that provides access to the Irish Statute Book, enabling retrieval of metadata and full enacted text for Irish acts and statutory instruments by year, number, and type, with verifiable ELI identifiers and citations.

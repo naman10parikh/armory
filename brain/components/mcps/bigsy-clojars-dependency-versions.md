@@ -8,10 +8,12 @@ source_url: https://github.com/bigsy/clojars-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-06-25T16:21:52Z"
 ---
 ## What it is
 MCP server `Clojars Dependency Versions`, catalogued on PulseMCP. Retrieves information related to Clojure dependency management.

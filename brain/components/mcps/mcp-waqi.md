@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:34:20Z"
 ---
 ## What it is
 Provides real-time Air Quality Index data from the World Air Quality Index service, enabling queries by location, station, or keyword search.

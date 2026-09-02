@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T18:39:32Z"
 ---
 ## What it is
 Consent-based, double-blind talent marketplace. Recruiters' AI assistants search an anonymous corpus of opted-in candidates in natural language, evaluate match cards, and request contact — identity is revealed only when the candidate chooses to respond. Hosted remote server (streamable HTTP + OAuth)

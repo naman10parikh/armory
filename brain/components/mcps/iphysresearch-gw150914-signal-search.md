@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-24T15:04:14Z"
 ---
 ## What it is
 MCP server `GW150914 Signal Search`, catalogued on PulseMCP. Provides complete access to LIGO-Virgo gravitational wave data analysis through PyCBC and GWpy integration, implementing matched filtering pipelines with data fetching, preprocessing, template generation, network SNR calculation, and AI-optimized parameter space search for gravitational wave detection and research.

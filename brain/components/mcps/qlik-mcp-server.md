@@ -8,11 +8,13 @@ source_url: https://github.com/arthurfantaci/qlik-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-09-28T22:16:10Z"
 ---
 ## What it is
 A comprehensive MCP server that provides complete access to Qlik Sense applications and their detailed information for AI assistants and other MCP clients.

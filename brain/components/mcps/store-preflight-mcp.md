@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T14:53:24Z"
 ---
 ## What it is
 An MCP server that scans code repositories for app store rejection risks by mapping API usage to required declarations and policy deadlines, enabling agents to catch issues before submission.

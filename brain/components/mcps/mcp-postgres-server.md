@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-20T03:52:37Z"
 ---
 ## What it is
 MCP server providing PostgreSQL and Vertica database access with tools for querying, listing tables, and testing connections.

@@ -8,10 +8,12 @@ source_url: https://github.com/hwdsl2/docker-mcp-gateway
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-18T05:07:43Z"
 ---
 ## What it is
 MCP server `Docker MCP Gateway`, catalogued on PulseMCP. Self-hosted MCP gateway that aggregates multiple backend MCP servers behind a single authenticated HTTP endpoint using MCPHub and Caddy.

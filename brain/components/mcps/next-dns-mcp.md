@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:29:03Z"
 ---
 ## What it is
 MCP server for NextDNS that enables managing profiles, blocklists, analytics, DNS logs, and parental controls through natural language.

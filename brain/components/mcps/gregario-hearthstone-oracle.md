@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
 stars: 1
+forks: 2
+pushed_at: "2026-05-02T19:55:05Z"
 ---
 ## What it is
 Hearthstone card search, deck analysis, and strategy coaching. 9 tools covering card lookup, deck decoding, archetype classification, class identities, matchup theory, and game concepts. HearthstoneJSON data.

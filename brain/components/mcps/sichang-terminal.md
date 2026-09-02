@@ -12,6 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2025-05-16T14:54:15Z"
 ---
 ## What it is
 MCP server `Terminal Control`, catalogued on PulseMCP. Provides a cross-platform terminal control server that executes shell commands and retrieves terminal information, with specialized support for macOS environments including AppleScript and iTerm2 integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-03T20:29:01Z"
 ---
 ## What it is
 MCP server for SolidTime — the open-source time tracking app. Enables start/stop timers, manage time entries, projects, clients, tags, and tasks directly from MCP-compatible clients.

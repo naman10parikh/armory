@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [claude-code, agent-skills]
 stars: 14
+forks: 1
+pushed_at: "2026-07-17T20:48:21Z"
 ---
 ## What it is
 Read-only PostgreSQL query skill for Claude Code. Executes SELECT/SHOW/EXPLAIN/WITH queries across configured databases with strict validation, timeouts, and row limits. Supports multiple connections with descriptions for database selection.

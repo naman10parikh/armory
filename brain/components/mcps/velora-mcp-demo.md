@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T17:49:56Z"
 ---
 ## What it is
 A free public demo of Velora's agentic-commerce MCP toolkit, hosting ~49 real tool schemas with three honesty levels: pure validations, read-only sample data, and refused side-effect tools.

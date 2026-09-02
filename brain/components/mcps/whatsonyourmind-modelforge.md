@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T07:55:29Z"
 ---
 ## What it is
 MCP server `ModelForge`, catalogued on PulseMCP. Deterministic financial model factory for credit and structured finance with 14 Excel templates.

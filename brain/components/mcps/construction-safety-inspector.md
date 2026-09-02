@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T01:38:43Z"
 ---
 ## What it is
 Enables Claude Desktop to detect construction site hazards from photos, analyze incident PDFs, search similar accident cases, and generate bilingual safety reports with citations.

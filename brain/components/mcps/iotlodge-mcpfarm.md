@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-22T01:02:31Z"
 ---
 ## What it is
 MCP server `MCPFarm.ai`, catalogued on PulseMCP. Centralized gateway that aggregates multiple MCP servers into a single endpoint with Docker-managed containers, auto-discovery, authentication, rate limiting, and real-time monitoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T11:07:46Z"
 ---
 ## What it is
 Open-source AI code review MCP server for local git diff auditing with deterministic security rules and AI-powered analysis using any OpenAI-compatible model.

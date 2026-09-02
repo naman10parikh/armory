@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T03:26:03Z"
 ---
 ## What it is
 MCP server enabling Cursor to delegate complex coding tasks to ChatGPT Web (GPT-5.6 Sol High) via Temporary Chats, supporting parallel batch reviews and up to five concurrent sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:30:44Z"
 ---
 ## What it is
 Figma MCP server that lets agents execute arbitrary JavaScript inside a running Figma desktop app via a local development plugin, enabling real-time document inspection and manipulation while avoiding REST API rate limits.

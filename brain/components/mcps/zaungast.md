@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T22:31:13Z"
 ---
 ## What it is
 A read-only, offline MCP server for Microsoft Teams that searches chats, reads conversations, and finds people directly from the local on-disk cache with no cloud API.

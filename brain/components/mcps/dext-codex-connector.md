@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T04:44:16Z"
 ---
 ## What it is
 An MCP server for Dext Data Health & Insights, enabling client portfolio summaries, health risk detection, client comparisons, and health snapshots through secure tenant-scoped tools.

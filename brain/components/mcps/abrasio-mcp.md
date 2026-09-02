@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T15:41:23Z"
 ---
 ## What it is
 MCP server that exposes Abrasio as an agentic browser for AI models, allowing Claude, Cursor, and other MCP-compatible AIs to control a real web browser with anti-detection fingerprinting.

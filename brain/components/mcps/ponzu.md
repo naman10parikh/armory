@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-18T17:55:22Z"
 ---
 ## What it is
 MCP server `Ponzu`, catalogued on PulseMCP. ERC-20 token launchpad on Ethereum for deploying tokens, managing presales, swapping, and farming via AI agents.

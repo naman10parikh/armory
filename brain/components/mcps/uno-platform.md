@@ -8,10 +8,12 @@ source_url: https://github.com/unoplatform/uno
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9952
+stars: 10030
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 878
+pushed_at: "2026-09-01T21:27:14Z"
 ---
 ## What it is
 MCP server `Uno Platform`, catalogued on PulseMCP. Cross-platform .NET development framework documentation and prompts

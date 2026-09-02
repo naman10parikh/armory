@@ -8,10 +8,12 @@ source_url: https://github.com/phialsbasement/koboldcpp-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-06T10:26:25Z"
 ---
 ## What it is
 MCP server `KoboldAI`, catalogued on PulseMCP. Integrates KoboldAI's text generation, enabling local language model interactions for creative writing, chatbots, and content generation.

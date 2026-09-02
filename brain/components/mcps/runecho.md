@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:45:04Z"
 ---
 ## What it is
 A deterministic symbol oracle over a locally built index of the repository: whether a symbol exists, what a file declares, and what changed structurally since the last snapshot. It also ships a PreToolUse guard that stops an Edit/Write referencing a function, constant or type the repo does not decla

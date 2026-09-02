@@ -8,10 +8,12 @@ source_url: https://github.com/tehprof/quality-guardian-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T06:48:36Z"
 ---
 ## What it is
 MCP server `Quality Guardian`, catalogued on PulseMCP. MCP server aggregating Semgrep, PHPStan, Knip, PHPMetrics, and Deptrac into a unified baseline-aware code quality gate.

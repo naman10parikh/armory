@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T04:02:44Z"
 ---
 ## What it is
 A research-informed MCP server that enables natural language question answering over local dataframes (CSV, Parquet, or Pandas) with safe, read-only execution and typed analysis plans.

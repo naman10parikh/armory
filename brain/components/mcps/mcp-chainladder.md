@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-14T22:23:27Z"
 ---
 ## What it is
 Enables to perform actuarial chain-ladder reserving calculations, including IBNR estimation, ultimate projections, Mack stochastic error estimates, and diagnostic tests, through natural language conversation with Claude.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-16T11:11:42Z"
 ---
 ## What it is
 A Model Context Protocol server for AI agents to manage tasks and track progress across projects, with features like project isolation, search, and reporting.

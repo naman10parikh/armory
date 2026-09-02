@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:51Z"
 ---
 ## What it is
 Enables querying official Brazilian labor court certificates (Certidão Negativa de Feitos) through a hosted MCP server, providing read-only access via a single tool with pre-paid credit billing.

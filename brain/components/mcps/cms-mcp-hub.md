@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T07:55:12Z"
 ---
 ## What it is
 A universal connector hub that proxies Claude.ai tool calls to any CMS that runs an MCP server, enabling natural language interactions with Drupal, Joomla, WordPress, and more through a single endpoint.

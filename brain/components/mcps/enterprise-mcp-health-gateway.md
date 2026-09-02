@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T10:35:26Z"
 ---
 ## What it is
 A runnable MVP for onboarding enterprise tenants and agents, exposing governed health capabilities through MCP, storing downstream credentials, and monitoring tool activity from an analytics dashboard.

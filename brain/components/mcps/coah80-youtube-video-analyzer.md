@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T16:30:45Z"
 ---
 ## What it is
 MCP server `YouTube Video Analyzer`, catalogued on PulseMCP. Analyzes YouTube videos by combining visual frame extraction with transcripts, offering six tools for scene overviews, frame retrieval, and token-efficient video descriptions.

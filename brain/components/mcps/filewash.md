@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T11:09:06Z"
 ---
 ## What it is
 Privacy-first file tools for AI agents, enabling operations like PDF merge/split, image compression/convert, metadata stripping, and background removal without storing files.

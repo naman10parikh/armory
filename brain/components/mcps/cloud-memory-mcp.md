@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T14:38:52Z"
 ---
 ## What it is
 A minimal, tag-free personal memory system that syncs across all Claude interfaces. Built on Cloudflare's edge stack for zero-maintenance serverless operation.

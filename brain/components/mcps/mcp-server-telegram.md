@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T03:49:10Z"
 ---
 ## What it is
 Integrates Telegram bots as MCP tools for sending messages to staff groups or manager chats, listing buffered messages, and viewing group members.

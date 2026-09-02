@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T06:09:18Z"
 ---
 ## What it is
 A Model Context Protocol server for Home Depot Canada that exposes product search, product details, store-level stock, and a store finder to MCP clients like Claude and Cursor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:10:46Z"
 ---
 ## What it is
 MCP server that enables ChatGPT to read/write files, run commands, and perform offline investigation tasks (geo, forensics, OSINT) on the host machine, scoped to a workspace with OPSEC controls.

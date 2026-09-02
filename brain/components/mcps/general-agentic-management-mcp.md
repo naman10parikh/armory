@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T11:10:41Z"
 ---
 ## What it is
 Enables querying aviation weather, FAA TFRs, NWS alerts, flight tracking, and Amtrak train status using public APIs. No API keys or private infrastructure required.

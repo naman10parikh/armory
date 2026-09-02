@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-01T16:59:50Z"
 ---
 ## What it is
 MCP server for GStreamer introspection and pipeline development. Enables LLMs to understand GStreamer elements, caps, and construct pipelines through natural language queries.

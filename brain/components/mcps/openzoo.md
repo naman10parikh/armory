@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T01:48:57Z"
 ---
 ## What it is
 Local x402-paying proxy and MCP server for openzoo.fun, enabling any OpenAI-compatible tool to pay for AI calls using a local burner wallet. It provides tools like zoo_ask for large-corpus questions, model listing, and wallet management.

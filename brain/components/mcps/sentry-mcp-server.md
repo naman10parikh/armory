@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T15:06:16Z"
 ---
 ## What it is
 Enables searching and analyzing Sentry issues, events, and traces via natural language, providing tools for error investigation and distributed tracing.

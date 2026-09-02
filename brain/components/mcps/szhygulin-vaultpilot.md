@@ -8,10 +8,12 @@ source_url: https://github.com/szhygulin/vaultpilot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T14:50:21Z"
 ---
 ## What it is
 MCP server `VaultPilot`, catalogued on PulseMCP. Self-custodial crypto portfolio management across EVM chains with Ledger signing via WalletConnect.

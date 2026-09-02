@@ -8,10 +8,12 @@ source_url: https://github.com/laradji/deadzone
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T07:20:23Z"
 ---
 ## What it is
 MCP server `Deadzone`, catalogued on PulseMCP. Local-first semantic search over library documentation — no cloud, no API key, no telemetry.

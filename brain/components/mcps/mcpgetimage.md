@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T07:24:00Z"
 ---
 ## What it is
 An MCP server for generating candy product images with white backgrounds and removing backgrounds to produce transparent WebP images, using OpenAI's image API and rembg.

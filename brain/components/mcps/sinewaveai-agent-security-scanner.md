@@ -8,10 +8,12 @@ source_url: https://github.com/sinewaveai/agent-security-scanner-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 106
+stars: 121
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-12T20:01:35Z"
 ---
 ## What it is
 MCP server `SineWave Agent Security Scanner`, catalogued on PulseMCP. Scans code for vulnerabilities, detects hallucinated packages, and blocks prompt injection attacks in real-time.

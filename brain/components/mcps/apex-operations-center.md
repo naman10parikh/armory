@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T15:06:58Z"
 ---
 ## What it is
 Production-grade Model Context Protocol (MCP) server delivering paywalled Web3 micro-services powered by autonomous x402 payment challenges on Base Mainnet.

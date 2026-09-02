@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T14:47:14Z"
 ---
 ## What it is
 An MCP server that provides interactive 2D/3D math plotting, embedded CircuitJS circuit demonstrations, and locally rendered Manim slide videos for ChatGPT/Codex.

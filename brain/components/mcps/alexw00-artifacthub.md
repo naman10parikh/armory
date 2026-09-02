@@ -8,10 +8,12 @@ source_url: https://github.com/alexw00/artifacthub-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-15T15:48:21Z"
 ---
 ## What it is
 MCP server `ArtifactHub`, catalogued on PulseMCP. Provides a bridge to Artifact Hub's Helm chart repository, enabling quick retrieval, searching, and analysis of Helm chart configurations, templates, and default values directly within conversations.

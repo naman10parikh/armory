@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-06T23:26:59Z"
 ---
 ## What it is
 Enables Claude Code and other MCP clients to interact with Microsoft SQL Server databases through standardized tools for query execution, schema exploration, table management, and stored procedure execution.

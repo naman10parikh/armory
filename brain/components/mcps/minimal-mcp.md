@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T14:13:00Z"
 ---
 ## What it is
 A minimal MCP server that demonstrates the entire protocol using a simple in-memory todo list, including tools, resources, prompts, and elicitation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-02T09:37:51Z"
 ---
 ## What it is
 Integrates MuAPI with Claude Code to enable image and video generation, editing, model discovery, and prediction tracking through natural language commands.

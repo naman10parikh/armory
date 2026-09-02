@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-02T03:10:58Z"
 ---
 ## What it is
 MCP server `Context Fabric`, catalogued on PulseMCP. Automatically captures project state on git commits, detects context drift, and delivers structured, token-budgeted briefings to coding agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T13:21:18Z"
 ---
 ## What it is
 MCP server offering travel planning tools such as destination search, weather lookup, attraction discovery, and budget estimation.

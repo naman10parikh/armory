@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T14:13:30Z"
 ---
 ## What it is
 MCP server for opn.onl, the open-source self-hostable URL shortener. Shorten links, read click analytics, generate branded QR codes, and manage links — against the hosted service or your own instance.

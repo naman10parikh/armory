@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T09:35:43Z"
 ---
 ## What it is
 MCP server that exposes the Scrumwise API as tools for managing projects, backlog items, tasks, sprints, releases, and time tracking.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T11:00:06Z"
 ---
 ## What it is
 An MCP server that provides an undetectable Playwright browser to bypass Cloudflare and other bot detection systems, enabling AI agents to navigate and scrape web pages without being blocked.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T16:44:17Z"
 ---
 ## What it is
 Enables smart branch kiosks to run policyholder lookups, actuarial surrender-vs-loan comparisons, VIP queue token issuance, and BigQuery APM analytics through modular MCP tools.

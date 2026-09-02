@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-28T12:22:54Z"
 ---
 ## What it is
 Enables AI assistants to directly operate Zhihu, including login, publishing articles and videos, searching content, getting recommendations, and commenting.

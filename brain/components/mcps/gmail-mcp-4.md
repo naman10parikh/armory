@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T02:10:06Z"
 ---
 ## What it is
 Local MCP server providing Gmail tools (search, read, draft, send, trash) via Google's official API, integrated with GitHub Copilot CLI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-24T14:33:42Z"
 ---
 ## What it is
 AI assistants can size heat pumps, estimate energy costs, and verify cold-climate performance using bundled data and no API keys.

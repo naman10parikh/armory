@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-22T16:45:10Z"
 ---
 ## What it is
 MCP server `PII Redactor`, catalogued on PulseMCP. Detects and redacts personally identifiable information from text including emails, phone numbers, credit cards, and SSNs.

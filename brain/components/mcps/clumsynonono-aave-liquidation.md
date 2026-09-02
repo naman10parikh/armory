@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-11-25T10:11:54Z"
 ---
 ## What it is
 MCP server `Aave Liquidation`, catalogued on PulseMCP. Analyzes Aave V3 liquidation opportunities on Ethereum mainnet by monitoring user health factors, identifying at-risk positions, and calculating potential liquidation profits

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T10:10:44Z"
 ---
 ## What it is
 Search and discover YouTube channels via natural language, track them, and summarize videos without transcripts using Gemini API.

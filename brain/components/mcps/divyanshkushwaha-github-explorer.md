@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-18T19:59:35Z"
 ---
 ## What it is
 MCP server `GitHub Explorer`, catalogued on PulseMCP. Integrates with GitHub's API to enable repository exploration, code collaboration, and user profile analysis through authenticated data retrieval functions.

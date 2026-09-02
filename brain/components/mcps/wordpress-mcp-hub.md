@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-02T00:15:16Z"
 ---
 ## What it is
 A local MCP gateway that connects AI clients to multiple remote WordPress MCP servers, enabling tool discovery, testing, and invocation with secure authentication and centralized configuration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T19:44:44Z"
 ---
 ## What it is
 Filters verbose terminal output from commands like npm install, pip install, docker build, and pytest, reducing context token consumption for AI agents by condensing logs, removing progress bars, and grouping repeated warnings.

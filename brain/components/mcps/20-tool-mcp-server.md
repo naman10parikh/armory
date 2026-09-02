@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T19:59:58Z"
 ---
 ## What it is
 20-tool MCP server - production web-intelligence API gateway exposing 10 Website Intelligence + 7 Marketing APIs as 20 MCP tools over Streamable HTTP + stdio, with pay-per-call Solana USDC payments. 20 tools: URL-to-Markdown, metadata, technology detection, contact extraction, SEO audit, SSL, DNS, s

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T11:57:06Z"
 ---
 ## What it is
 An MCP server that enables reading and managing Zentao tasks, bugs, requirements, test cases, and test suites via the ZenTao 11.3 Legacy Session API. It integrates with MCP clients like Codex, Claude Desktop, and Cursor.

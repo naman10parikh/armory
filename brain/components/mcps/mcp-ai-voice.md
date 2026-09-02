@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-19T02:46:41Z"
 ---
 ## What it is
 Enables AI agents to synthesize natural speech using either platform system voices or premium OpenAI TTS, with automatic engine selection and graceful fallback.

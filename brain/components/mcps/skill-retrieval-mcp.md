@@ -8,11 +8,13 @@ source_url: https://github.com/JayCheng113/skill-retrieval-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 88
+stars: 116
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2026-08-27T06:39:50Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve over 89K skills on-demand at runtime, eliminating the need to manually install skills upfront.

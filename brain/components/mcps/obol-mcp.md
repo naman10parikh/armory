@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T03:50:58Z"
 ---
 ## What it is
 Lets AI agents discover, pay for, and call any HTTP API per request using USDC, with gasless nanopayments and no API keys or accounts needed.

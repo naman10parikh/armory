@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T17:54:06Z"
 ---
 ## What it is
 Official Hyperping MCP server for uptime, API, cron and server monitoring. 26 tools covering monitors, outages and timelines, uptime, response time, MTTR and MTTA, on-call schedules and escalation policies, over a remote Streamable HTTP endpoint with Bearer token auth and no install.

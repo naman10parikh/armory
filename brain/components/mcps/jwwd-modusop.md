@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-11T22:47:26Z"
 ---
 ## What it is
 MCP server `ModusOp`, catalogued on PulseMCP. MCP server for ModusOp — projects, tasks, time tracking, and retainers for AI assistants.

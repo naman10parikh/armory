@@ -8,10 +8,12 @@ source_url: https://github.com/joasasantos/offensive-mcp-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-12T19:14:30Z"
 ---
 ## What it is
 MCP server `Offensive Security Toolkit`, catalogued on PulseMCP. Provides cybersecurity professionals with penetration testing capabilities through specialized servers for payload generation, reconnaissance, shellcode building, and security monitoring.

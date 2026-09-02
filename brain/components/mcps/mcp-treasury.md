@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T16:46:41Z"
 ---
 ## What it is
 Provides access to US Treasury Fiscal Data via a free, no-auth public API. Enables querying government financial data through natural language.

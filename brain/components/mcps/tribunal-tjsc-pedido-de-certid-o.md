@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:43Z"
 ---
 ## What it is
 Enables querying and requesting official certificates from the Tribunal de Justiça de Santa Catarina (TJSC) via a read-only tool, using prepaid credits and MCP over HTTP.

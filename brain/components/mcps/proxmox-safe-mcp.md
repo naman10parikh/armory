@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T00:44:00Z"
 ---
 ## What it is
 Enables safe, confirmable Proxmox operations: read-only cluster/guest status and bounded power actions and snapshot creation, with explicit byte-for-byte approval for each mutation.

@@ -8,10 +8,12 @@ source_url: https://github.com/bvisible/elementor-mcp-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-20T10:42:52Z"
 ---
 ## What it is
 MCP server `Elementor`, catalogued on PulseMCP. Manages Elementor pages, elements, templates, and global settings in WordPress through REST API and MCP abilities.

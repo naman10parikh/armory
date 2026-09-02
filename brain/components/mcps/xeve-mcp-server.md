@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-21T07:59:00Z"
 ---
 ## What it is
 MCP server for xeve.io that enables AI assistants to query personal analytics including productivity, coding, health, music, and GitHub activity.

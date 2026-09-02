@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-24T13:38:21Z"
 ---
 ## What it is
 MCP server `Substack Ops`, catalogued on PulseMCP. Substack content management and engagement automation — browse posts, reply, restack, and run automations via 26 tools.

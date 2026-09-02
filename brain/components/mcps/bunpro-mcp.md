@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T05:44:35Z"
 ---
 ## What it is
 Manage a Japanese learning review queue backed by an Obsidian vault; allows reviewing due items, quizzing on mastered words, adding new grammar/vocab, and importing from Bunpro CSV.

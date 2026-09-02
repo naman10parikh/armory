@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-06T08:26:15Z"
 ---
 ## What it is
 MCP server `Graylog Proxy`, catalogued on PulseMCP. Local proxy that fixes Graylog MCP API schema and response compatibility issues.

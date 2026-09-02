@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-11T11:58:13Z"
 ---
 ## What it is
 An MCP server that gives AI assistants direct access to your Graylog logs -- search, aggregate, analyze, and cluster log data through natural language.

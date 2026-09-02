@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T04:36:36Z"
 ---
 ## What it is
 Enables AI coding assistants to assess dependency introduction risks via ProjectValueLab's gate service, providing recommendations (GO/VALIDATE/DROP) with evidence and audit trails.

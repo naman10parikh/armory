@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T09:30:44Z"
 ---
 ## What it is
 PayDesk MCP is a production-grade Model Context Protocol (MCP) server that exposes payment gateway APIs, tools, prompts, and resources. It bridges the gap between an AI assistant and three underlying database systems to resemble real payment services like Stripe, Razorpay, or PayPal.

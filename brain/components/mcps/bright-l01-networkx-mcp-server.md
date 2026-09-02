@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
 stars: 20
+forks: 5
+pushed_at: "2026-08-31T16:35:54Z"
 ---
 ## What it is
 The first NetworkX integration for Model Context Protocol, enabling graph analysis and visualization directly in AI conversations. Supports 13 operations including centrality algorithms, community detection, PageRank, and graph visualization.

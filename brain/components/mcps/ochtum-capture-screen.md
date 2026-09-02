@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-17T14:33:46Z"
 ---
 ## What it is
 MCP server `Capture Screen`, catalogued on PulseMCP. Windows screen capture providing full desktop, display, region, and active window screenshots as PNG files.

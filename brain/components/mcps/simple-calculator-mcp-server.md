@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-03T16:59:10Z"
 ---
 ## What it is
 Enables basic arithmetic operations (add, subtract, multiply, divide, modulo) via natural language, with a FastMCP-based server and client for exploring MCP tool calling.

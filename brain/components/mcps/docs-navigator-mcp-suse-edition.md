@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T03:42:18Z"
 ---
 ## What it is
 An AI-powered documentation navigator that enables intelligent search, summarization, and exploration of SUSE, Rancher, and related open-source documentation using local or cloud AI models.

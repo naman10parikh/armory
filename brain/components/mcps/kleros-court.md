@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-07T06:36:38Z"
 ---
 ## What it is
 MCP server `Kleros Court`, catalogued on PulseMCP. Retrieves dispute data, evidence submissions, and meta-evidence from Kleros decentralized arbitration platform across Ethereum Mainnet and Gnosis Chain networks, handling IPFS content resolution for legal researchers and developers building arbitration applications.

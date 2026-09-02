@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-06T17:13:21Z"
 ---
 ## What it is
 MCP server `Media Editor`, catalogued on PulseMCP. Provides FFmpeg-powered media editing tools for video trimming, audio transcription, and thumbnail generation.

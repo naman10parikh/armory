@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-22T13:14:09Z"
 ---
 ## What it is
 MCP server to look up long-term flood risk for England postcodes using official Environment Agency data, and validate UK postcodes.

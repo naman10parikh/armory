@@ -8,11 +8,13 @@ source_url: https://github.com/bruzethegreat/gsap-master-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 119
+stars: 121
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-07-26T13:34:20Z"
 ---
 ## What it is
 Transforms Claude into a GSAP animation expert with AI-powered natural language animation creation, complete API coverage, and production-ready patterns for all GSAP features and plugins.

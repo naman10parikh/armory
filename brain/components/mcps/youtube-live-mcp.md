@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T14:29:18Z"
 ---
 ## What it is
 Enables AI assistants to control YouTube Live Streaming, including creating broadcasts, managing chat, and monitoring stream health via MCP tools.

@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-06-18T15:30:04Z"
 ---
 ## What it is
 MCP server `Paradex`, catalogued on PulseMCP. Integrates with the Paradex perpetual futures trading platform, enabling market data retrieval, account management, order placement, and position monitoring for cryptocurrency trading workflows.

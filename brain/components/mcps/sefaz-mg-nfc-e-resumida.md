@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:19Z"
 ---
 ## What it is
 MCP server for consulting simplified NFC-e (Brazilian electronic consumer invoice) data from SEFAZ Minas Gerais, providing read-only access to official tax information via a hosted, pay-per-use API.

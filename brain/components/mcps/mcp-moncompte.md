@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T10:01:30Z"
 ---
 ## What it is
 Read-only MCP server exposing the catalog of articles from moncompte.org. Enables AI agents to search and retrieve article content via tools.

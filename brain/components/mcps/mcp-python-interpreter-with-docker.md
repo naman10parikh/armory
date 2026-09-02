@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-29T15:14:12Z"
 ---
 ## What it is
 Enables executing Python code, managing environments and packages, and performing file operations within Docker containers.

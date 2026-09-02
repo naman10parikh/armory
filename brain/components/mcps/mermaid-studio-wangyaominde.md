@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-08T16:02:01Z"
 ---
 ## What it is
 MCP server `Mermaid Studio`, catalogued on PulseMCP. Edits and renders Mermaid diagrams with real-time WebSocket synchronization via Cloudflare Workers.

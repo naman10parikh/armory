@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T10:48:16Z"
 ---
 ## What it is
 Enables MCP-capable agents to gate their actions behind human consent, checking consent rules and requesting approval via Telegram before proceeding with high-stakes operations.

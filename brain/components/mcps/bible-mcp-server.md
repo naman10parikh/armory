@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-05-07T15:28:36Z"
 ---
 ## What it is
 Exposes Bible content from bible-api.com for LLMs, enabling retrieval of verses, chapters, random verses, and Bible study prompts with support for multiple translations.

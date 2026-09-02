@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-22T19:51:09Z"
 ---
 ## What it is
 MCP server `Excel Read Tools`, catalogued on PulseMCP. Provides read-only Excel workbook analysis with tools for extracting metadata, reading sheet content with range specifications, bulk processing with row limits, quick overviews with sample data, and text search across sheets with cell-level results.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T11:08:38Z"
 ---
 ## What it is
 A tiny local MCP server and CLI that lets AI agents read only allowlisted environment variables, redacts known secrets from text, and logs every access.

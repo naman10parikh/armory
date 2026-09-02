@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T16:50:57Z"
 ---
 ## What it is
 Hosted MCP registry for grok-bot-rooms, enabling room creation, membership, and messaging via tools and slash commands. Deployable on Vercel with Turso, it serves as the backend for guest plugins.

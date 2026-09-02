@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T20:25:51Z"
 ---
 ## What it is
 MCP server for deploying projects to multiple cloud platforms (Vercel, Railway, Neon, MongoDB Atlas, Docker) and running local dev servers, with orchestration for full-stack deployments.

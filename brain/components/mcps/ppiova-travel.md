@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-05T03:30:33Z"
 ---
 ## What it is
 MCP server `Travel`, catalogued on PulseMCP. Provides flight and hotel search capabilities using static JSON data with IATA airport codes and city-based accommodation lookup

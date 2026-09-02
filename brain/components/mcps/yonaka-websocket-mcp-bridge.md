@@ -8,10 +8,12 @@ source_url: https://github.com/yonaka15/mcp-server-runner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-17T01:22:31Z"
 ---
 ## What it is
 MCP server `WebSocket MCP Bridge`, catalogued on PulseMCP. Provides a WebSocket connection between clients and MCP servers.

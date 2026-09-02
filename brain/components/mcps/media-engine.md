@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T18:27:10Z"
 ---
 ## What it is
 MCP server exposing headless ffmpeg operations for video, audio, and image processing via auto-generated typed tools, enabling agentic media file manipulation.

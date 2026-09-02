@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T09:45:51Z"
 ---
 ## What it is
 Provides a dynamic emotion simulation system for AI character roleplay, based on Freudian psychodynamics, that analyzes dialogue content via LLM to adjust emotional metrics in real-time.

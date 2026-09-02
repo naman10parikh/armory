@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-03-02T23:09:03Z"
 ---
 ## What it is
 MCP server for JIRA integration enabling issue management, search, comments, and linking via natural language.

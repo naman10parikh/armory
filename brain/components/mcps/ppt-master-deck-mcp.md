@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T15:48:20Z"
 ---
 ## What it is
 Paid remote MCP for generating, revising, rendering, and exporting PowerPoint decks with structured receipts and audit logs.

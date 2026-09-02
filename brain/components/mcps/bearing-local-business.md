@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T02:18:12Z"
 ---
 ## What it is
 Enables AI agents to query a local bakery's hours, menu, custom-order availability, and submit demo inquiries through a clean MCP interface.

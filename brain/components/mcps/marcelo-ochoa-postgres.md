@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-21T17:58:48Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. PostgreSQL database integration with query execution and schema inspection

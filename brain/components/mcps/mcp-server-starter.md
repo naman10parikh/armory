@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-07T18:18:27Z"
 ---
 ## What it is
 A minimal MCP server with calculator and memory store tools, ready to use with Claude Desktop and Claude Code.

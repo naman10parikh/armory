@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T10:30:42Z"
 ---
 ## What it is
 MCP server `Basecamp`, catalogued on PulseMCP. Integrates AI assistants with Basecamp 4 via ~60 tools covering projects, tasks, messages, schedules, kanban boards, documents, and webhooks.

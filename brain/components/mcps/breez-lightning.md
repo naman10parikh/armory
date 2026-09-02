@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-01T17:07:08Z"
 ---
 ## What it is
 MCP server `Breez Lightning`, catalogued on PulseMCP. Integrates with the Breez SDK to provide Bitcoin Lightning Network wallet operations including balance checking, payment sending, invoice creation, and transaction history for building Lightning-enabled applications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-09T16:36:01Z"
 ---
 ## What it is
 Exposes the Hermes Atlas ecosystem catalog of 100+ community-built tools, skills, and plugins for Nous Research's Hermes Agent to any MCP-aware client, enabling natural language queries and searches.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T02:30:41Z"
 ---
 ## What it is
 Connects Claude.ai with Google's Gemini API to generate images and videos using your own API key.

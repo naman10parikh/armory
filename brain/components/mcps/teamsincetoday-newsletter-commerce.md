@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T04:32:23Z"
 ---
 ## What it is
 MCP server `Newsletter Commerce Intelligence`, catalogued on PulseMCP. Extracts product mentions, scores sponsors, and tracks affiliate trends from newsletters.

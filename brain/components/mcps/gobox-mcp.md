@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T10:11:46Z"
 ---
 ## What it is
 Enables AI agents and automation tools to interact with the Gobox e-commerce platform, providing tools for orders, products, inventory, warehouses, reports, shipments, and webhooks.

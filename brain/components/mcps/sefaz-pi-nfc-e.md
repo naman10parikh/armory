@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:38Z"
 ---
 ## What it is
 MCP server for consulting SEFAZ PI NFC-e (tax invoices) with read-only access, hosted with paid pre-paid credits and compatible with any MCP client.

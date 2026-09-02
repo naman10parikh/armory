@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-09-04T02:59:57Z"
 ---
 ## What it is
 Enables AI assistants to manage database encryption key operations and Transparent Data Encryption (TDE) for SQL Server and Oracle databases via CipherTrust Application Key Management (CAKM).

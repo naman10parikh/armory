@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T22:33:22Z"
 ---
 ## What it is
 Enables AI agents to spawn and interact with real terminal sessions, capturing screenshots of rendered TUI output and sharing live sessions for debugging.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T06:57:45Z"
 ---
 ## What it is
 Connects AI coding assistants to PyCharm's code quality inspections and optionally SonarQube for IDE, providing unified, de-duplicated code analysis results without uploading source code.

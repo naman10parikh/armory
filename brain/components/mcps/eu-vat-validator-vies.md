@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T11:33:07Z"
 ---
 ## What it is
 Validates EU and Northern Ireland VAT numbers against the official VIES service, returning validity, company name and address, and distinguishing invalid from unavailable. Supports bulk checking up to 100 VAT IDs.

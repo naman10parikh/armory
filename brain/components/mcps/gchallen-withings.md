@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-17T19:58:21Z"
 ---
 ## What it is
 MCP server `Withings`, catalogued on PulseMCP. Integrates with Withings smart scales through OAuth2 authentication to retrieve weight measurements, body composition data (fat mass, muscle mass, bone mass, hydration), and user settings with automatic token refresh and support for both metric and imperial units.

@@ -8,11 +8,13 @@ source_url: https://github.com/MobAI-App/mobai-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 240
+stars: 244
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 20
+pushed_at: "2026-08-02T23:57:33Z"
 ---
 ## What it is
 Enables AI assistants to automate mobile devices (Android and iOS) through a single DSL interface, supporting actions like tap, type, swipe, and assertions.

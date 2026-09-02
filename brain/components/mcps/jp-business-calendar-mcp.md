@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T18:41:57Z"
 ---
 ## What it is
 Enables AI assistants to perform Japanese business calendar calculations including holiday detection, business day arithmetic, payment date settlement, and deadline management using local data.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 5
+forks: 1
+pushed_at: "2026-08-10T06:53:23Z"
 ---
 ## What it is
 Zero-config session continuity for Claude Code. Auto-captures context via Claude Hooks, provides 25 tools for memory, tasks, solutions, and knowledge graph. Multilingual semantic search (94+ languages) with cross-language retrieval.

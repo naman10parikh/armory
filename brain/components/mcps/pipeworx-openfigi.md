@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:29:04Z"
 ---
 ## What it is
 MCP server `OpenFIGI`, catalogued on PulseMCP. Maps financial instrument identifiers using Bloomberg's OpenFIGI symbology service.

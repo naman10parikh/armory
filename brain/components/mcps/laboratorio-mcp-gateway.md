@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-08T20:59:27Z"
 ---
 ## What it is
 Connects multiple microservices (ventas and pedidos) through a central MCP gateway, enabling Claude Desktop to invoke sales and order tools via STDIO.

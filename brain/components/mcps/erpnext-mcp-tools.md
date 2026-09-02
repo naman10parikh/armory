@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T08:23:13Z"
 ---
 ## What it is
 MCP server for ERPNext that provides read-only access to business data and controlled creation/update of draft documents, with strict security, RBAC, field whitelisting, audit, idempotency, and optimistic locking.

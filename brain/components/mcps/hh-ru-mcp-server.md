@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T17:20:44Z"
 ---
 ## What it is
 Enables searching for jobs in Russia and remote positions from AI assistants using multiple job platforms (hh.ru, Trudvsem, SuperJob, and remote job aggregators).

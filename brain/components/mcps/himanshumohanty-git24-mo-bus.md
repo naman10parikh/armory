@@ -8,10 +8,12 @@ source_url: https://github.com/himanshumohanty-git24/mobusmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-23T01:30:25Z"
 ---
 ## What it is
 MCP server `Mo Bus`, catalogued on PulseMCP. Integrates with Odisha's Mo Bus public transportation system to provide route searching, journey planning with transfers, fare calculation, and stop location services across 84 routes and 1050+ stops in 18+ cities including Bhubaneswar, Cuttack, and Puri.

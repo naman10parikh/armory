@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:46:32Z"
 ---
 ## What it is
 Provides AI assistants with full browser DevTools access for debugging, including console, network, DOM, breakpoints, and step-through debugging, with a collaborative manual fallback when automation fails.

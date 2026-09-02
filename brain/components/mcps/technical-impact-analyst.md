@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T06:21:57Z"
 ---
 ## What it is
 Analyzes GitHub contributions and maps them to the Karpathy Skills framework, providing metrics, alignment scores, and executive summaries.

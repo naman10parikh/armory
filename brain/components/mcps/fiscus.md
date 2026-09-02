@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T18:44:08Z"
 ---
 ## What it is
 Provides curated US economic data from Treasury, FRED, BLS, BEA, and other sources through an MCP interface. Enables querying economic series, fetching data with provenance tracking, and accessing cached artifacts.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T17:18:50Z"
 ---
 ## What it is
 MCP server `SONIQ`, catalogued on PulseMCP. Integrates with SONIQ phone systems for calls, contacts, call memory search, user management, and number provisioning.

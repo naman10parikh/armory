@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-08T09:56:51Z"
 ---
 ## What it is
 MCP server providing financial data from Moscow Exchange and Bank of Russia, including quotes, bond metrics, interest rates, and portfolio analysis. Enables AI agents to analyze Russian financial markets through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-02-21T23:23:04Z"
 ---
 ## What it is
 Integrates Wordware deployed flows as tools usable within Claude conversations via the Model Context Protocol.

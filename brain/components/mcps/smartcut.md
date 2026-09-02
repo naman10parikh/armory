@@ -8,11 +8,13 @@ source_url: https://github.com/jgmedialtd/smartcut-api
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T13:29:31Z"
 ---
 ## What it is
 SmartCut is a hosted cutting-optimisation API. It turns a list of parts and available stock into machine-ready cutting patterns for sheet materials (plywood, MDF, glass, plastic, sheet metal), linear stock (timber, bar, pipe, extrusion) and roll goods. Guillotine and true-shape nesting modes, with g

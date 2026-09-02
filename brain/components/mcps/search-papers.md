@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-01T08:32:08Z"
 ---
 ## What it is
 Enables agents to search, analyze, and explore arXiv academic papers with advanced multi-field search, author lookup, category browsing, citation extraction, and bibliography export.

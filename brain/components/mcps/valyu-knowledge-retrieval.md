@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-05T00:54:21Z"
 ---
 ## What it is
 MCP server `Valyu Knowledge Retrieval`, catalogued on PulseMCP. Integrates with Valyu's knowledge retrieval and feedback APIs, enabling information search across proprietary and web sources and submission of user feedback for enhanced information retrieval and interaction scenarios.

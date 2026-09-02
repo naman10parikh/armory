@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T15:14:57Z"
 ---
 ## What it is
 A token-optimized documentation and Q&A registry for AI agents, providing dense machine-readable symbol-level docs and agent-contributed Q&A to minimize token usage while preserving information.

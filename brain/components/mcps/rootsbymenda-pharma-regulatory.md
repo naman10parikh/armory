@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-22T21:50:51Z"
 ---
 ## What it is
 MCP server `Pharma Regulatory`, catalogued on PulseMCP. Free drug safety server covering 7 databases: DrugBank, drug interactions, FAERS adverse events, WHO alerts, and TGA regulatory data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T18:48:19Z"
 ---
 ## What it is
 Universal HTTP client tool for LLM agents. Enables Claude and other MCP-compatible agents to perform GET, POST, PUT, DELETE, and other HTTP requests to any URL, including localhost and internal network addresses.

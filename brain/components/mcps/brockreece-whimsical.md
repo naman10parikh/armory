@@ -8,10 +8,12 @@ source_url: https://github.com/brockreece/whimsical-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-04-12T07:16:26Z"
 ---
 ## What it is
 MCP server `Whimsical`, catalogued on PulseMCP. Integrates with Whimsical's API to generate diagrams from Mermaid markup, returning both diagram URLs and base64 encoded images for iterative refinement.

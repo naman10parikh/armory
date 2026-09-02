@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-06T10:23:45Z"
 ---
 ## What it is
 A fast MCP server for opening, focusing, and quitting macOS apps, and opening URLs in the browser, usable by voice or from any MCP client.

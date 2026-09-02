@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T01:19:39Z"
 ---
 ## What it is
 A general-purpose MySQL MCP server that enables safe SQL operations through schema validation, CRUD tools, and soft deletes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T05:03:13Z"
 ---
 ## What it is
 Versioned library documentation retrieval MCP server for coding agents, providing accurate, versioned, and traceable API documentation snippets with scoring, caching, and offline support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T11:30:36Z"
 ---
 ## What it is
 Exposes 10 read-only tools for querying synthetic Jira bug data, metrics, trends, and risks via SQLite, enabling AI agents to analyze engineering bugs through a controlled sandboxed interface.

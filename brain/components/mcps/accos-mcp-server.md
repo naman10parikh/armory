@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T09:10:09Z"
 ---
 ## What it is
 Connects AI agents to ACCOS for OCR on Thai receipts, tax invoices, and withholding tax certificates via MCP.

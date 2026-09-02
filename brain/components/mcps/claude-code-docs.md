@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T04:04:04Z"
 ---
 ## What it is
 Searches Claude Code documentation via BM25 indexing, returning ranked snippets with category filtering. Enables fast, local search over official docs without full-document scans.

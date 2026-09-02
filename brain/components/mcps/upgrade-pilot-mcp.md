@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T15:50:30Z"
 ---
 ## What it is
 Enables AI agents to safely upgrade JavaScript and TypeScript projects through dependency analysis, upgrade path detection, breaking change identification, codemod application, and PR summary generation.

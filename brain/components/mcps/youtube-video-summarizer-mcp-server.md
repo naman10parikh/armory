@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-04T05:38:37Z"
 ---
 ## What it is
 Extracts captions, metadata, and descriptions from YouTube videos to enable AI assistants to summarize their content.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T18:33:46Z"
 ---
 ## What it is
 A local-first MCP server for creating and managing App Store and Google Play screenshot decks, letting agents upload, review, localize, and export store-ready images without accessing source code.

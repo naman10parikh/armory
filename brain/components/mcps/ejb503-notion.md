@@ -8,10 +8,12 @@ source_url: https://github.com/ejb503/systemprompt-mcp-notion
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-02-18T17:01:15Z"
 ---
 ## What it is
 MCP server `Notion`, catalogued on PulseMCP. Bridges to Notion's knowledge management system, enabling creation and manipulation of pages, databases, and content.

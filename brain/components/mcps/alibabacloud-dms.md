@@ -8,10 +8,12 @@ source_url: https://github.com/aliyun/alibabacloud-dms-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-07-29T04:22:13Z"
 ---
 ## What it is
 MCP server `Alibaba Cloud DMS`, catalogued on PulseMCP. Integrates with Alibaba Cloud's Data Management Service (DMS) API to provide unified metadata access and cross-engine data querying across diverse database ecosystems

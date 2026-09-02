@@ -8,10 +8,12 @@ source_url: https://github.com/rishimeka/genesys
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-19T19:55:46Z"
 ---
 ## What it is
 MCP server `Genesys Memory`, catalogued on PulseMCP. AI memory system with causal graphs, multiplicative scoring, and automatic forgetting for AI agents.

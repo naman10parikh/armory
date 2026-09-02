@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T10:08:10Z"
 ---
 ## What it is
 Exposes Jira task management (list, create with two-step confirmation, start) to AI agents while keeping credentials hidden, and deliberately does not handle git operations.

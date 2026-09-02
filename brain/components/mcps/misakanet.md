@@ -8,11 +8,13 @@ source_url: https://github.com/Ikalus1988/MisakaNet
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 424
+stars: 432
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 170
+pushed_at: "2026-09-02T03:16:43Z"
 ---
 ## What it is
 Agent failure memory network. Search 235+ verified debugging lessons from real engineering sessions. Includes guided prompts for failure triage and release auditing.

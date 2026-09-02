@@ -8,10 +8,12 @@ source_url: https://github.com/vid-factory/convertagent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-14T15:30:01Z"
 ---
 ## What it is
 MCP server `ConvertAgent`, catalogued on PulseMCP. File conversion engine available as CLI, REST API, and MCP server for transforming documents, images, and media between formats.

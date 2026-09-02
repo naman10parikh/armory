@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T16:24:24Z"
 ---
 ## What it is
 A Django MCP server that exposes tools and resources to AI agents using simple decorators, with auto-discovery, type safety, and custom authentication.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-18T04:50:14Z"
 ---
 ## What it is
 MCP server for integrating with the Organizze financial manager, enabling AI clients to create transactions, check balances, manage accounts, and more via the Organizze API.

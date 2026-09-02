@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T06:26:51Z"
 ---
 ## What it is
 Compare parcel and letter delivery prices across 60+ carriers in 27 European countries.

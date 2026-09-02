@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T08:02:02Z"
 ---
 ## What it is
 Provides a set of micro-tools (time calculation, regex, encoding, JSON diff, etc.) for LLM agents to handle deterministic, precision tasks that models often get wrong.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T07:47:43Z"
 ---
 ## What it is
 MCP server that turns Excel files into queryable databases, enabling AI agents to filter, aggregate, group, sort data and export results as new Excel files.

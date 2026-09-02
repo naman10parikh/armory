@@ -8,10 +8,12 @@ source_url: https://github.com/tencent/cos-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-11-14T02:56:32Z"
 ---
 ## What it is
 MCP server `Tencent Cloud Object Storage`, catalogued on PulseMCP. Bridges AI assistants with Tencent Cloud Object Storage services, enabling file management, metadata retrieval, and storage analytics operations

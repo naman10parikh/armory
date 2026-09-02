@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T11:24:49Z"
 ---
 ## What it is
 MCP server that lets Claude send documents, drills, and choices to an e-reader (Kindle, Kobo, etc.) in real time via a Cloudflare Worker, supporting anonymous and OAuth-authenticated access.

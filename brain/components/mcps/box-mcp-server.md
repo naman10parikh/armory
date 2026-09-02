@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-12T22:23:40Z"
 ---
 ## What it is
 Enables AI agents to manage Box files, folders, collaborations, and more via the Box API using tools for search, upload, and metadata operations.

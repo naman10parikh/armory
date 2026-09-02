@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T02:21:37Z"
 ---
 ## What it is
 Provides read-only access to sports data, odds intelligence, and historical stats via 10 MCP tools, with fast response times through Redis caching.

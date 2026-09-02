@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-25T15:40:11Z"
 ---
 ## What it is
 Exposes a remote browser as MCP tools via Playwright, enabling AI agents to navigate and interact with web pages through DOM snapshots, clicks, typing, and form operations.

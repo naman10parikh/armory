@@ -8,10 +8,12 @@ source_url: https://github.com/crisschan/mcp-allure
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-27T01:07:21Z"
 ---
 ## What it is
 MCP server `Allure Test Reports`, catalogued on PulseMCP. Provides a bridge to Allure test reports, enabling access to test execution data including test cases, steps, statuses, and timestamps through a structured API for analysis and custom reporting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T03:39:32Z"
 ---
 ## What it is
 Enables reviewing Markdown files in a browser with inline annotations, submitting or cancelling reviews, and returning structured feedback through the review_markdown MCP tool.

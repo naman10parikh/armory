@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T13:38:09Z"
 ---
 ## What it is
 MCP server enabling natural language queries across CoCounsel customer insights data sources, including Gong calls, NPS feedback, skills feedback, support cases, Teams messages, and SharePoint VOC documents.

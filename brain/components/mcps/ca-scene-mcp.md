@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T15:21:43Z"
 ---
 ## What it is
 Enables prompt-driven scene generation for computer animation using a JSON-serializable scene model and physics simulation backend.

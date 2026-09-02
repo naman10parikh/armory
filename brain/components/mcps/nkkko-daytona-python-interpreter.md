@@ -8,10 +8,12 @@ source_url: https://github.com/nibzard/daytona-mcp-interpreter
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-25T07:06:34Z"
 ---
 ## What it is
 MCP server `Daytona Python Interpreter`, catalogued on PulseMCP. Integrates with Daytona's secure Python execution environment to enable isolated code running and workspace management for testing and educational purposes.

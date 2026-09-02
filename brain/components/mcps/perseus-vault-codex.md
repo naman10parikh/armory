@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T14:22:29Z"
 ---
 ## What it is
 A tiny MCP server that wraps Perseus Vault to provide persistent, encrypted, local-first memory for OpenAI Codex agents, enabling them to remember project conventions, decisions, and context across sessions.

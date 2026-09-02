@@ -8,10 +8,12 @@ source_url: https://github.com/mzaxd/dm8-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-05T02:52:52Z"
 ---
 ## What it is
 MCP server `DM8 (Dameng Database)`, catalogued on PulseMCP. Secure read-only access to DM8 (Dameng) Chinese database systems with SQL injection prevention and query validation

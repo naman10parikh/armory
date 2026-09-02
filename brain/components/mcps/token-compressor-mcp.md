@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T01:51:35Z"
 ---
 ## What it is
 A remote MCP server that compresses long text contexts, stores compact reusable summaries, and retrieves relevant context by title/tag/query, helping reduce token usage.

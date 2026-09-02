@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-05T12:31:07Z"
 ---
 ## What it is
 Enables AI agents to search, download, create, and manage records and communities on Compoid repositories using natural language.

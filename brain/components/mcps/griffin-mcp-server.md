@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-02-05T14:34:27Z"
 ---
 ## What it is
 Enables AI agents to interact with the Griffin API for banking operations like opening accounts, creating payments, and managing legal persons.

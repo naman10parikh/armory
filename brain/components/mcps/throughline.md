@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T19:07:03Z"
 ---
 ## What it is
 An MCP server that indexes local code repositories, extracting symbols and call graphs to give Claude precise, structural answers with real file paths and line numbers. Runs entirely locally with no network requests, for privacy-focused code understanding.

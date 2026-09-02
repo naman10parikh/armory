@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T19:15:36Z"
 ---
 ## What it is
 MCP server for the Twelve Permissions NFT collection, enabling verification of seals, retrieval of piece metadata and buy transactions, x402 payment info, and the refusals ledger.

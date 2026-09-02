@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T04:39:24Z"
 ---
 ## What it is
 An MCP server that logs AI-assisted scientific computing sessions, capturing prompts, responses, decisions, and environment snapshots to human-readable markdown files for reproducibility.

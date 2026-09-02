@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T06:24:13Z"
 ---
 ## What it is
 Hosted remote MCP server for WeInc (we.inc), the AI website builder. Manage projects, publishing, custom domains, and previews from Claude, Cursor, or any MCP client - nothing to install.

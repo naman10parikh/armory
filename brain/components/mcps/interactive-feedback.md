@@ -12,6 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-08-22T15:53:01Z"
 ---
 ## What it is
 MCP server `Interactive Feedback`, catalogued on PulseMCP. Enables human-in-the-loop workflows by launching a browser interface where users can provide interactive feedback during task execution, returning structured responses to AI assistants through real-time WebSocket connections.

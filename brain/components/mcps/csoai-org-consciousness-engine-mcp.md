@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-26T08:52:38Z"
 ---
 ## What it is
 MCP server `Consciousness Engine`, catalogued on PulseMCP. Simulation and modeling tools for consciousness-related AI experiments.

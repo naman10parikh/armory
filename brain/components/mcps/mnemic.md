@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T00:27:54Z"
 ---
 ## What it is
 Local-first memory kernel for coding agents that provides a shared, auditable, graph-backed long-term memory layer with features like write preview, temporal recall, and provenance explanations.

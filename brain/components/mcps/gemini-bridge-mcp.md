@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T07:14:18Z"
 ---
 ## What it is
 MCP server for Google Gemini that does not require an API key, combining a CLI backend for Q\&A, research, and analysis with a web UI backend for image and video generation.

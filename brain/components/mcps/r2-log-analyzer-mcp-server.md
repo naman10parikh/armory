@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-26T16:07:54Z"
 ---
 ## What it is
 A remote MCP server that lets you analyze HTTP request logs and WAF/Firewall event logs stored in Cloudflare R2 using natural language via MCP clients such as Claude Desktop.

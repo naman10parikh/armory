@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T10:01:21Z"
 ---
 ## What it is
 Enables asking questions about foundational AI/ML research papers, with retrieval-augmented generation and an agentic layer for complex queries, via MCP-compatible clients.

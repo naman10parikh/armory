@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T02:14:54Z"
 ---
 ## What it is
 MCP server `TURKPATENT`, catalogued on PulseMCP. Search the Turkish Patent and Trademark Office database for trademarks, patents, and industrial designs.

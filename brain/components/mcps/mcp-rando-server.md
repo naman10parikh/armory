@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-09T23:16:05Z"
 ---
 ## What it is
 Cryptographically secure random number generation and randomized resources, including tools for numbers, strings, dice rolls, UUIDs, and passphrases.

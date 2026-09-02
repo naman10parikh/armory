@@ -8,12 +8,14 @@ source_url: https://github.com/twilio/twilio-cli
 license: unknown
 cli_compat: []
 maturity: curated
-stars: 191
+stars: 192
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [comms]
+forks: 104
+pushed_at: "2026-09-01T06:44:05Z"
 ---
 
 # twilio

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-12T03:10:06Z"
 ---
 ## What it is
 MCP server `GhidraMCP`, catalogued on PulseMCP. Bridges Ghidra reverse engineering platform with AI assistants for decompilation, memory mapping, and security analysis

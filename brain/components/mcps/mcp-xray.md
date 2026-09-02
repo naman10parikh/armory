@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-12-03T09:56:25Z"
 ---
 ## What it is
 A lightweight server that bridges the MCP protocol with the Atlassian Jira Xray API, enabling safe and configurable access to Xray Server+DC via OpenAPI spec with multiple transports.

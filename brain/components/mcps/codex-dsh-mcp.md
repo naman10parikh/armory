@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T14:16:19Z"
 ---
 ## What it is
 Enables Codex to delegate routine repository exploration, implementation, refactors, tests, and fixes to DeepSeek Harness in isolated Git worktrees, returning compact results and patches for review while keeping the main workspace protected.

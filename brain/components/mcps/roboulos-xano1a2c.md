@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-31T08:17:37Z"
 ---
 ## What it is
 MCP server `Xano`, catalogued on PulseMCP. Provides a bridge to Xano databases for exploring and managing database structures, schemas, and indexes through natural language interaction

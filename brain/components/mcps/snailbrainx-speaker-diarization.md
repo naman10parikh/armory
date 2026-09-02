@@ -8,10 +8,12 @@ source_url: https://github.com/snailbrainx/speaker-diarization-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-10T05:43:04Z"
 ---
 ## What it is
 MCP server `Speaker Diarization`, catalogued on PulseMCP. Real-time speaker diarization with automatic enrollment, transcription, and speaker tracking for multi-party conversations

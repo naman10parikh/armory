@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T14:34:09Z"
 ---
 ## What it is
 An MCP server that lets multiple AI coding agents coordinate as a swarm, with agent registration, task queues, messaging, a shared knowledge base, and fleet-wide machine capacity tracking.

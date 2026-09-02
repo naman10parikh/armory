@@ -8,11 +8,13 @@ source_url: https://github.com/WaterTian/wechat-devtools-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 121
+stars: 127
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-08-28T07:45:12Z"
 ---
 ## What it is
 Wraps the WeChat DevTools CLI as an MCP service, enabling AI in editors to call WeChat CLI commands for mini-program development, testing, debugging, and automation.

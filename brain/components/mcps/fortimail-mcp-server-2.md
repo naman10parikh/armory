@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T05:57:06Z"
 ---
 ## What it is
 Enables AI agents to manage FortiMail email security through the FortiMail Engine API, providing tools for domains, users, queues, reports, logs, and SMTP configuration.

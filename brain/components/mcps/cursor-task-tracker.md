@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-22T14:38:13Z"
 ---
 ## What it is
 An MCP server for managing tasks in Cursor IDE, enabling AI agents to create, update, and comment on tasks via MCP tools, with a kanban dashboard and WebSocket events.

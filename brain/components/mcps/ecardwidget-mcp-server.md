@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T23:18:34Z"
 ---
 ## What it is
 Enables AI assistants to interact with an eCardWidget account using a scoped API key, allowing search and sending of eCards, directory management, and listing campaigns, widgets, and automations.

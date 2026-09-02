@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T18:56:06Z"
 ---
 ## What it is
 Discovers over 356,000 restaurants across 20 countries, providing search, reviews, time-based offers, and cultural context via the Model Context Protocol.

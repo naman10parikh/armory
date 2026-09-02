@@ -8,10 +8,12 @@ source_url: https://github.com/capetlevrai/clipboard-vision-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-14T07:05:09Z"
 ---
 ## What it is
 MCP server `Clipboard Vision`, catalogued on PulseMCP. Clipboard image analysis and OCR for text-only AI models using Groq Llama-4 Scout vision.

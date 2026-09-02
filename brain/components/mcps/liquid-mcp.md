@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T18:28:41Z"
 ---
 ## What it is
 Connect your agent to any HTTP API on the fly: Liquid discovers and maps any REST API once, then fetches typed data deterministically. Server-side search/aggregate, cross-API normalization, and structured recovery built in.

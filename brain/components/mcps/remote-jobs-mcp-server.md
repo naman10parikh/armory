@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T09:46:59Z"
 ---
 ## What it is
 Official Model Context Protocol (MCP) server to search, filter, and retrieve live remote job listings from the Jobicy database in real-time. Works with Claude Code, Cursor, Cline, and custom AI agents.

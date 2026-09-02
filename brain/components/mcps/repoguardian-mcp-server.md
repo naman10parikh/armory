@@ -8,11 +8,13 @@ source_url: https://github.com/romil569/RepoGuardian-RHD-Enterprise
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:58:35Z"
 ---
 ## What it is
 Enables AI assistants to analyze GitHub repository health, issues, PRs, code, and engineering risks via RHD's agentic RAG, while keeping external actions human-approved and policy-gated.

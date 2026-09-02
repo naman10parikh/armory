@@ -13,7 +13,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [workflow, guide]
-stars: 292
+stars: 294
+forks: 128
+pushed_at: "2026-08-16T21:43:07Z"
 ---
 ## What it is
 A community workflow/command by ghost, catalogued in awesome-claude-code. Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average "Claude-template-for-everything" site.

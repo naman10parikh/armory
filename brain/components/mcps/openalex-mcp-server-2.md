@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T18:32:53Z"
 ---
 ## What it is
 Enables AI agents to search and analyze OpenAlex scholarly database for OSINT research, including works, authors, institutions, funding, citations, and collaboration networks.

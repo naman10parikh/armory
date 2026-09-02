@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-04-02T13:13:37Z"
 ---
 ## What it is
 Enables LLMs to create PayPal invoices through a simple tool interface.

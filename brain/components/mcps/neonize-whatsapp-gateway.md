@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:43:47Z"
 ---
 ## What it is
 A WhatsApp capture and messaging layer that provides MCP tools for LLM agents to read messages, list chats, manage contacts, and send replies.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T00:10:03Z"
 ---
 ## What it is
 Provides video manipulation via ffmpeg (frame extraction, format conversion, trimming, audio adjustments, filters, and subtitle handling) without requiring an external API key.

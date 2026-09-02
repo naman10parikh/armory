@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T10:52:06Z"
 ---
 ## What it is
 Enables agents to navigate users through pre-defined decision trees by submitting answer labels, returning deterministic next instructions without extra LLM calls. Supports domain-independent procedural workflows with state tracking, handling of unknown responses, and a read-only Web UI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:18:22Z"
 ---
 ## What it is
 Enables discovery of 1990s-early 2000s Japanese personal websites from web archives by replaying old discovery routes like directories and web rings, with tools for fetching archived pages and extracting links.

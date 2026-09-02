@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-31T09:47:25Z"
 ---
 ## What it is
 MCP server `Cairo Coder`, catalogued on PulseMCP. Integrates with the Cairo Coder API to provide expert-level Cairo and Starknet development assistance, enabling smart contract generation, code refactoring, feature implementation, and contextual guidance based on Cairo/Starknet documentation and best practices.

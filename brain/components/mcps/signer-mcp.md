@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T19:15:53Z"
 ---
 ## What it is
 Keyless CEX/DEX order signing for AI trading agents (Binance, OKX, Bybit, KuCoin, Hyperliquid, Asterdex). Exchange keys stay inside an AWS Nitro Enclave — the agent gets policy-bounded signatures, never credentials. Built to survive prompt injection and supply-chain key leaks.

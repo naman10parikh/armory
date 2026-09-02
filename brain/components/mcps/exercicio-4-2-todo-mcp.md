@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T21:21:41Z"
 ---
 ## What it is
 MCP server that provides tools to create and list tasks by consuming a REST API, allowing LLMs to manage a TODO list via natural language.

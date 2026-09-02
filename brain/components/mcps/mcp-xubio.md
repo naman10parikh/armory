@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T13:25:58Z"
 ---
 ## What it is
 Enables querying Xubio accounting data (clients, invoices, products, balances) through natural language by exposing 52 read-only API endpoints as MCP tools.

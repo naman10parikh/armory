@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-29T01:39:15Z"
 ---
 ## What it is
 Registers MCP features (tools, prompts, resources) and serializes JSON-RPC requests into response data.

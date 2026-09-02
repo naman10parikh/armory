@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T23:23:59Z"
 ---
 ## What it is
 MCP server for terminal operations and file editing, enabling AI assistants to manage files, run commands, and process large content with auto-chunking.

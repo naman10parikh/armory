@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T21:16:16Z"
 ---
 ## What it is
 Enables Claude to generate 3D models from text or images, apply textures, and export to GLB/FBX/USDZ using the Meshy AI API.

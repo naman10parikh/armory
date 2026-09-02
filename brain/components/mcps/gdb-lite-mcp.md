@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T07:31:50Z"
 ---
 ## What it is
 A lightweight MCP server that enables LLM agents to interact with GDB for debugging native programs, supporting spawning sessions, executing commands, interrupting hangs, and closing sessions.

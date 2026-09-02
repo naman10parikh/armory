@@ -8,10 +8,12 @@ source_url: https://github.com/gotoolkits/mcp-difyworkflow-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2024-12-26T09:02:57Z"
 ---
 ## What it is
 MCP server `Dify Workflows`, catalogued on PulseMCP. Integrates with the Dify API to enable AI-driven workflow execution and management for automated task processing and decision making across domains.

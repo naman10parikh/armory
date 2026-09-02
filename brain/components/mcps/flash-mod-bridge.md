@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T23:53:24Z"
 ---
 ## What it is
 Enables AI agents to inspect and modify running Flash SWF files through a patched Ruffle player, including getting/setting display object properties, calling methods, and editing SharedObject data without reloading.

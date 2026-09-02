@@ -8,10 +8,12 @@ source_url: https://github.com/aegisgovdao/aegisgov-contracts-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-09-01T22:12:10Z"
 ---
 ## What it is
 MCP server `AegisGov Contract Intelligence`, catalogued on PulseMCP. US government contract MCP providing SAM.gov opportunity search, details, and AI bid analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:23Z"
 ---
 ## What it is
 Enables querying SEFAZ MT's official negative debt certificate (Certidão Negativa de Débitos), providing a read-only tool for checking tax debt status in Mato Grosso, Brazil.

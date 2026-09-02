@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-15T07:52:05Z"
 ---
 ## What it is
 Enables AI assistants to securely access Webull trading and market data, including real-time market data, screener, watchlist, fundamentals, and order placement across multiple regions.

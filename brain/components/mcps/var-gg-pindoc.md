@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T13:31:33Z"
 ---
 ## What it is
 MCP server `Pindoc`, catalogued on PulseMCP. Code-pinned team memory for AI coding agents with typed artifacts, MCP-native design, and self-hosting.

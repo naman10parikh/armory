@@ -8,10 +8,12 @@ source_url: https://github.com/pigyon/mcpwner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-08-20T21:42:22Z"
 ---
 ## What it is
 MCP server `MCPwner`, catalogued on PulseMCP. Secure static code analysis through CodeQL integration with automated workspace creation from GitHub repositories.

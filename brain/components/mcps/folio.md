@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T12:18:36Z"
 ---
 ## What it is
 A privacy-first, zero-cost AI assistant that lets you chat with your documents locally via CLI or web app, supporting search, summarization, and Q&A using your own model.

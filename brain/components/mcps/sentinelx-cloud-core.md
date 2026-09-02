@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-29T18:39:53Z"
 ---
 ## What it is
 Installs an agent on Linux hosts to allow shell commands, file edits, and service management through Claude.ai or ChatGPT via a secure outbound WebSocket connection.

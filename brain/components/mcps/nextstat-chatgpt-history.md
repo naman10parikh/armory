@@ -8,10 +8,12 @@ source_url: https://github.com/nextstat/chatgpt2md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-01T19:39:59Z"
 ---
 ## What it is
 MCP server `ChatGPT History`, catalogued on PulseMCP. Converts ChatGPT conversation exports into searchable Markdown files with Tantivy-powered full-text search and three MCP tools for browsing, searching, and reading chat history.

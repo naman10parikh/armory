@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-08-27T23:20:42Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Chinese traditional calendar functions, including BaZi calculation, calendar conversion, Huangli query, daily fortune, solar terms, and Wu Xing analysis.

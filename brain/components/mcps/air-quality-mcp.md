@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T13:55:06Z"
 ---
 ## What it is
 Provides real-time air quality data (US AQI, PM2.5, PM10, ozone, NO2, SO2, CO) for any city via natural language, using free Open-Meteo data and a single tool.

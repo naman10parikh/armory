@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T18:10:19Z"
 ---
 ## What it is
 Calculator-focused MCP server with tools, resources, and prompts for arithmetic operations and widget interactions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T22:12:09Z"
 ---
 ## What it is
 Enables discovery and inspection of French public open data on data.gouv.fr, including datasets, resources, organizations, and dataservices via natural language.

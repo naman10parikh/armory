@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:41:25Z"
 ---
 ## What it is
 Provides read-only access to Make Bracket Online bracket maker features including editor workflows, official links, and FAQ for AI assistants.

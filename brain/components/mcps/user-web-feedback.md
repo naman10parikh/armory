@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T03:25:30Z"
 ---
 ## What it is
 Enables AI-assisted user feedback collection and management via a web interface, with MCP integration for automated replies and tool execution.

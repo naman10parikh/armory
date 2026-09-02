@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 1
+forks: 1
+pushed_at: "2026-03-09T20:26:34Z"
 ---
 ## What it is
 Reduces MCP tool description token costs by 40-70% through pure text schema distillation.

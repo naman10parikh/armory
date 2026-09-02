@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T18:53:28Z"
 ---
 ## What it is
 Enables agents to maintain sandboxed spend ledgers, enforce monthly budgets, transfer funds between agents, and generate invoices, all without real financial accounts.

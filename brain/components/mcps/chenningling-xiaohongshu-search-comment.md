@@ -8,10 +8,12 @@ source_url: https://github.com/chenningling/redbook-search-comment-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-04-23T08:07:16Z"
 ---
 ## What it is
 MCP server `Xiaohongshu Search and Comment`, catalogued on PulseMCP. Enables AI to search and analyze content from Xiaohongshu (Little Red Book) social media platform through web scraping, providing access to comments and search results for market research and trend analysis in the Chinese consumer market.

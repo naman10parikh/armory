@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T07:17:18Z"
 ---
 ## What it is
 Aggregates multiple upstream MCP servers (stdio, streamable-http, sse, websocket) behind a single streamable-HTTP endpoint with declarative configuration, namespacing, filtering, and auto-reload.

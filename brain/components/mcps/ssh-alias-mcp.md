@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-23T05:24:27Z"
 ---
 ## What it is
 Enables AI agents to SSH into Linux servers, run commands, deploy code, and manage servers via natural language, also doubles as a CLI for manual use.

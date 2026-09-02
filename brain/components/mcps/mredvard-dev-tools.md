@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-21T06:30:55Z"
 ---
 ## What it is
 MCP server `Dev Tools`, catalogued on PulseMCP. Exposes developer tools over HTTP with security guardrails for file access, shell execution, and web fetching.

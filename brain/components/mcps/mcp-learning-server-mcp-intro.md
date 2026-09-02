@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T09:05:38Z"
 ---
 ## What it is
 This MCP server exposes programming topic data and tools (search, practice suggestions) to help AI agents answer study questions, like 'How to study Python decorators?'.

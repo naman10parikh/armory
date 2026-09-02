@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T04:25:42Z"
 ---
 ## What it is
 A read-only MCP server for Trading 212 accounts, enabling AI assistants to query balances, positions, orders, dividends, pies, and instruments without trading capabilities.

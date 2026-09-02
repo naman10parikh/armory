@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-10T00:08:14Z"
 ---
 ## What it is
 Enables LLM agents to capture screenshots, control mouse/keyboard, and manage windows on desktop platforms, primarily Windows, via an MCP server.

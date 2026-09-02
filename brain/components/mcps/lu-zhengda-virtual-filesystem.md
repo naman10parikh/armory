@@ -8,10 +8,12 @@ source_url: https://github.com/lu-zhengda/mcp-virtual-fs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-16T15:41:49Z"
 ---
 ## What it is
 MCP server `Virtual Filesystem`, catalogued on PulseMCP. PostgreSQL-backed virtual filesystem with session isolation, cross-session shared stores, POSIX-style operations, and Row Level Security.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T08:00:46Z"
 ---
 ## What it is
 MCP server for Majico.xyz that enables coding agents to read (and limited write) brand guidelines, design tokens, studio canvas, and export manifests.

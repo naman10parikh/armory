@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T01:51:29Z"
 ---
 ## What it is
 Enables validation, saving, publishing, and inspection of Galaxy Maps courses from local JSON files via Firebase integration.

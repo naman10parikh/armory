@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-23T22:16:00Z"
 ---
 ## What it is
 Enables Claude to interact with Bear notes (via better-bear-cli) for listing, searching, creating, editing, and exporting notes through natural language.

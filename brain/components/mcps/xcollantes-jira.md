@@ -8,10 +8,12 @@ source_url: https://github.com/xcollantes/jira-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-01-26T06:33:57Z"
 ---
 ## What it is
 MCP server `Jira`, catalogued on PulseMCP. Integrates with Jira through the jira-cli command-line tool for ticket management, sprint operations, and workflow automation.

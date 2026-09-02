@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:26:47Z"
 ---
 ## What it is
 Enables interaction with Home Assistant through the REST API, allowing users to query states, call services, and manage entities via natural language.

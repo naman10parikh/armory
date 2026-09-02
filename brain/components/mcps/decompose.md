@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-24T11:32:50Z"
 ---
 ## What it is
 Classifies text into structured semantic units with authority, risk, and attention scores. Enables deterministic preprocessing for AI agents to filter and route content without using an LLM.

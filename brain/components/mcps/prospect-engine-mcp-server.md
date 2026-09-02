@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T18:07:20Z"
 ---
 ## What it is
 Enables B2B lead generation through Apify's Prospect Engine actor, supporting company enrichment, job discovery, contact finding, and full ICP-gated outreach workflows.

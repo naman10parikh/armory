@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T00:56:42Z"
 ---
 ## What it is
 Enables creating PowerPoint presentations with ERD diagrams from text prompts by connecting to Microsoft Visio/PowerPoint tools via an MCP server.

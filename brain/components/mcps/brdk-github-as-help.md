@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-27T06:55:58Z"
 ---
 ## What it is
 MCP server `B&R Automation Studio Help`, catalogued on PulseMCP. Provides full-text search for B&R Automation Studio help documentation using SQLite FTS5 indexing with BM25 ranking and hierarchical navigation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-05-25T22:50:09Z"
 ---
 ## What it is
 Enables conversational image generation, editing, and refinement through OpenAI models with session memory for iterative creative workflows.

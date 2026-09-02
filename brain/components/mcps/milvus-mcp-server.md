@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-03-10T14:48:53Z"
 ---
 ## What it is
 Enables LLMs to interact with Milvus vector database for search, query, and collection management operations.

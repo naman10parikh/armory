@@ -8,11 +8,13 @@ source_url: https://github.com/Heand-Broken/airtest-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-03T10:48:55Z"
 ---
 ## What it is
 A local Model Context Protocol server that enables MCP clients to control Android, iOS, and Windows devices through AirtestIDE, supporting device listing, screenshots, touch, swipe, key events, and app management.

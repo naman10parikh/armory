@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-10T10:36:49Z"
 ---
 ## What it is
 MCP server `WiseGit`, catalogued on PulseMCP. Extracts decision intent from git history and protects intentional code from AI modification.

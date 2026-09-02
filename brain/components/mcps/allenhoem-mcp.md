@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T23:59:58Z"
 ---
 ## What it is
 Remote MCP server exposing tools to explore Allen Hoem's professional record, including patents, media, and contact requests.

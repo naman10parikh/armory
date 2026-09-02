@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T15:03:31Z"
 ---
 ## What it is
 Enables AI clients to autonomously manage multiple jadx-gui sessions, opening, switching, and closing windows, with automatic startup and plugin compatibility.

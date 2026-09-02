@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T01:13:52Z"
 ---
 ## What it is
 Enables AI assistants to query workplace incident data using RAG, providing search, analysis, and corrective action plans.

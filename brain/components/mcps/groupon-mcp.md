@@ -8,11 +8,13 @@ source_url: https://github.com/chrischall/groupon-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T23:29:56Z"
 ---
 ## What it is
 MCP server for Groupon that enables searching and browsing local, goods, and travel deals via natural language. No API key required for reading deals.

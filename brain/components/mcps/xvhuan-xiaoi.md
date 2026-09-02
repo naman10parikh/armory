@@ -8,10 +8,12 @@ source_url: https://github.com/xvhuan/xiaoi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 181
+stars: 203
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-02-14T03:58:37Z"
 ---
 ## What it is
 MCP server `Xiaomi AI Speaker`, catalogued on PulseMCP. Voice notifications and device control for Xiaomi AI speakers via webhook and MCP interfaces.

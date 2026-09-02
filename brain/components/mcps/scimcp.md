@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T14:36:08Z"
 ---
 ## What it is
 An MCP server for computational materials science that enables AI assistants to generate LAMMPS simulations, parse outputs, analyze nematic order, detect plastic rearrangements, and estimate viscosity through 12 specialized tools.

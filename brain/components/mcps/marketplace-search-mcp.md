@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-05T23:32:57Z"
 ---
 ## What it is
 MCP server that searches Facebook Marketplace and Craigslist for items for sale, returning structured JSON listings with filtering, deduplication, and optional deep description checks.

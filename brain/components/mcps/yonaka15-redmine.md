@@ -8,10 +8,12 @@ source_url: https://github.com/yonaka15/mcp-server-redmine
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 75
+stars: 78
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2025-07-20T09:49:14Z"
 ---
 ## What it is
 MCP server `Redmine`, catalogued on PulseMCP. Integrates with Redmine to enable natural language queries and updates for issue tracking, time logging, and project planning.

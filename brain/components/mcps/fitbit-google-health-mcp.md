@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T22:32:30Z"
 ---
 ## What it is
 Read-only MCP access to Fitbit-synced health data through Google Health API v4. Provides tools for metrics, summaries, trends, and data quality without write or arbitrary HTTP operations.

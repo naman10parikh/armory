@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T13:34:09Z"
 ---
 ## What it is
 Gives Claude, Cline, or Cursor access to on-page SEO audits for any URL using the Techtenstein SEO Audit API.

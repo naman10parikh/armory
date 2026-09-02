@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T03:25:15Z"
 ---
 ## What it is
 A remote MCP game server for playing Chinese chess, enabling clients to register, compete in matches, and observe games.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-09-06T19:46:49Z"
 ---
 ## What it is
 Enables users to interact with the Upstox trading API via natural language to retrieve account information such as profile, funds, holdings, positions, and orders.

@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-22T21:00:56Z"
 ---
 ## What it is
 MCP server `EPSS (Exploit Prediction Scoring System)`, catalogued on PulseMCP. Integrates with vulnerability intelligence systems to provide CVE information with EPSS scores that indicate exploitation likelihood, enabling security professionals to prioritize remediation efforts based on real-world risk.

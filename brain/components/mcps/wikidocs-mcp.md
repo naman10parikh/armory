@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-12-16T14:07:14Z"
 ---
 ## What it is
 Enables AI agents to read, edit, and manage Wikidocs books and blogs, including page CRUD operations, keyword search, and image uploads.

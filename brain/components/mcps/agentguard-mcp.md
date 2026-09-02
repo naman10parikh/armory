@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T02:15:27Z"
 ---
 ## What it is
 Check whether a URL is allowed under a network-egress policy before any fetch, with tools for single URL, batch checks, and policy validation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T05:37:35Z"
 ---
 ## What it is
 Enables interaction with the Flow Team API through MCP clients, allowing endpoint discovery, API calls, and project management operations like listing projects and participants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T09:55:58Z"
 ---
 ## What it is
 Start, observe, and interact with Claude Managed Agents from any MCP client — launch an agent, watch its events, reply, approve the tools it wants to run, and stop it. Runs over stdio, HTTP, or AWS Lambda with pluggable auth.

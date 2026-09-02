@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T09:42:53Z"
 ---
 ## What it is
 Provides 12 CRUD tools for managing Halo tags, categories, and articles via a secure Cloudflare Workers gateway.

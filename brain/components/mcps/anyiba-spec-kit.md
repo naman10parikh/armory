@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-27T05:54:24Z"
 ---
 ## What it is
 MCP server `Spec Kit`, catalogued on PulseMCP. Integrates with GitHub's Spec Kit templates and specify-cli tool to guide specification lifecycle including constitution establishment, requirement specification, technical planning, task breakdown, and implementation guidelines for systematic specification-driven development practices.

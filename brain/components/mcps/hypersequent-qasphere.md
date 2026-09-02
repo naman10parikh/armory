@@ -8,10 +8,12 @@ source_url: https://github.com/hypersequent/qasphere-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-24T09:14:26Z"
 ---
 ## What it is
 MCP server `QASphere`, catalogued on PulseMCP. Integration with QA Sphere test management system, enabling LLMs to discover, summarize, and interact with test cases directly from AI-powered IDEs.

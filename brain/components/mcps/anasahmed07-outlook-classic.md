@@ -8,10 +8,12 @@ source_url: https://github.com/anasahmed07/outlook-classic-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-06T22:40:36Z"
 ---
 ## What it is
 MCP server `Outlook Classic`, catalogued on PulseMCP. Exposes Outlook desktop functionality to AI agents via Windows COM API, covering mail, calendar, contacts, tasks, and rules.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T10:49:44Z"
 ---
 ## What it is
 Enables querying Slack message history via slack-patron API, allowing Claude to list channels, retrieve channel messages with pagination and time range, and fetch thread replies.

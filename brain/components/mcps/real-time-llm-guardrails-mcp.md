@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T18:17:36Z"
 ---
 ## What it is
 Exposes LLM output validation (schema compliance and prompt-injection detection) as an MCP tool, enabling any MCP-compatible agent to apply real-time guardrails without importing the codebase.

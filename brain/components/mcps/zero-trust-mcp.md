@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T06:43:42Z"
 ---
 ## What it is
 A lightweight, local-first MCP server that enforces zero-trust data privacy for AI agents by encrypting tool call payloads locally using AES-256-GCM and persisting them to a local SQLite database.

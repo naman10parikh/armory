@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T01:55:08Z"
 ---
 ## What it is
 An agent gateway that aggregates multiple local MCP servers into a single MCP endpoint with runtime control, hot-reloadable configuration, and meta tools like bridge__execute for calling any child server tool without restart.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-25T10:24:26Z"
 ---
 ## What it is
 Student productivity MCP. Ask Claude what assignments are due, calculate grades needed, summarize notes, review flashcards. Works with Google Classroom and Gemini AI.

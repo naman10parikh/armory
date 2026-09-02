@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T08:48:53Z"
 ---
 ## What it is
 MCP server that enables Claude to query inventory and contact information from the 이카운트 ERP system for specified companies.

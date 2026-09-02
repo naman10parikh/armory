@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-29T17:10:57Z"
 ---
 ## What it is
 MCP server `Voice Bridge`, catalogued on PulseMCP. Multi-engine text-to-speech for coding assistants with five TTS engines and free-by-default option.

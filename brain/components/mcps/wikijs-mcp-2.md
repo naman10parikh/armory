@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T00:36:11Z"
 ---
 ## What it is
 MCP server for accessing Wiki.js through its GraphQL API, enabling page management, search, tags, and system info operations.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T13:23:49Z"
 ---
 ## What it is
 MCP server `Antigravity Extension Gate`, catalogued on PulseMCP. Antigravity extension compatibility validation gate with structured receipts, audit logs, and reviewer-ready evidence.

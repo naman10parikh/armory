@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T22:07:12Z"
 ---
 ## What it is
 Enables archival of any public URL as interactive snapshot (rrweb, PDF, PNG) and autonomous web QA for apps (register, scan, generate and run end-to-end flows).

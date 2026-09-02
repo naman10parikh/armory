@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-25T12:29:30Z"
 ---
 ## What it is
 Provides read-only tools for discovering, analyzing, and monitoring Hyperliquid HIP-4 prediction markets (outcome trading) on testnet.

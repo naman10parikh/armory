@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-03T13:10:00Z"
 ---
 ## What it is
 Enables AI agents to monitor MetaTrader 5 accounts on remote Windows VPS via SSH, providing read-only access to positions, history, and logs without executing trades.

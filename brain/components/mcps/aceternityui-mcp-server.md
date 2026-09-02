@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-19T07:21:03Z"
 ---
 ## What it is
 Provides access to Aceternity UI component library documentation, enabling AI assistants to browse, search, and retrieve detailed information about components.

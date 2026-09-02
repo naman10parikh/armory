@@ -8,11 +8,13 @@ source_url: https://github.com/firish/webfetch
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 54
+stars: 55
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-07-23T01:13:30Z"
 ---
 ## What it is
 Local web search MCP server that fuses multiple search engines, fetches and compresses pages to reduce tokens and cost, with caching for repeated and paraphrased queries.

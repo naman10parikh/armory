@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:21:50Z"
 ---
 ## What it is
 Governed AI-ops for managed-endpoint fleets, providing login-storm analysis and patch/config drift detection with built-in audit, budget, and risk-tier governance.

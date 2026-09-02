@@ -8,11 +8,13 @@ source_url: https://github.com/chainbase-labs/Agentkey
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 602
+stars: 625
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 65
+pushed_at: "2026-08-24T16:55:44Z"
 ---
 ## What it is
 AgentKey is the execution layer between AI agents and the real internet. One MCP install gives your Claude / Cursor / n8n agent unified access to web search, scraping, and 20+ social platforms — no API juggling, one bill.

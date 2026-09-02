@@ -8,10 +8,12 @@ source_url: https://github.com/zihaofu245/lmstudio-toolpack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-06T07:01:26Z"
 ---
 ## What it is
 MCP server `LMStudio Toolpack`, catalogued on PulseMCP. Provides web search with DuckDuckGo and concurrent page fetching, sandboxed Python execution with NumPy and SymPy for mathematical computations, and persistent markdown-based memory storage for long-term information recall across conversations.

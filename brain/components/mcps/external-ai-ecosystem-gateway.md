@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T09:09:17Z"
 ---
 ## What it is
 Enables MCP-compatible assistants to securely access external systems like Slack through permission-scoped, idempotent tools with tenant isolation, delegated OAuth consent, and an immutable audit trail.

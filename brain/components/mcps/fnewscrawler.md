@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 21
+pushed_at: "2026-03-01T03:23:58Z"
 ---
 ## What it is
 已废弃的财经信息MCP服务，提供实时财经资讯，建议转向新项目OmniData。

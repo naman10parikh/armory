@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:12:13Z"
 ---
 ## What it is
 MCP server that exposes the i-net HelpDesk Ticket Web-API as tools for AI agents, enabling ticket search, reading, creation, and actions like replying, closing, and escalating, with attachment support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T12:17:37Z"
 ---
 ## What it is
 Provides synthetic catalog search, metadata retrieval, similar titles, trending, and new releases via MCP tools.

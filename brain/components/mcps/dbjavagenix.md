@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-08-20T07:38:27Z"
 ---
 ## What it is
 Enables reverse engineering of database tables into Spring Boot projects with AI-enhanced naming and code generation, providing interactive visualizations and workflow orchestration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T03:43:56Z"
 ---
 ## What it is
 MCP server that gives every teammate's coding agent shared company context and an append-only log of team activity, integrating with Slack, Linear, and Granola.

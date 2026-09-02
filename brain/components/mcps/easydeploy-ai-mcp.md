@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T19:17:54Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that exposes the EasyDeploy public REST API as tools for Claude, Cursor, Claude Code, and other MCP clients.

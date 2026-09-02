@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 1763
+stars: 1772
+forks: 134
+pushed_at: "2026-08-16T07:37:47Z"
 ---
 ## What it is
 Query more than 40 apps with one binary using SQL. It can also connect to your PostgreSQL, MySQL, or SQLite compatible database. Local-first and private by design.

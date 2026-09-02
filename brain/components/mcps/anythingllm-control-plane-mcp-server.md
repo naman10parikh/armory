@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T11:55:35Z"
 ---
 ## What it is
 Enables managing and controlling AnythingLLM instances through MCP, providing tools to list, create, and delete workspaces, retrieve system environment settings, and get vector counts.

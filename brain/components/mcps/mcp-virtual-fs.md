@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-16T15:41:49Z"
 ---
 ## What it is
 An MCP server that provides AI agents with a persistent, PostgreSQL-backed virtual filesystem, supporting session-isolated file operations, cross-session shared stores, and glob/grep search.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:10:28Z"
 ---
 ## What it is
 Copal is a self-hosted memory layer for LLMs, providing a persistent knowledge hub via MCP. It allows AI assistants to store and retrieve memory across sessions.

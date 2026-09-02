@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T22:49:11Z"
 ---
 ## What it is
 Enables Claude to query and store private company notes through a MCP connector, using local embeddings and Groq/Claude for reasoning.

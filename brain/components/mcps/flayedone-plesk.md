@@ -8,10 +8,12 @@ source_url: https://github.com/flayedone/plesk-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-17T19:13:20Z"
 ---
 ## What it is
 MCP server `Plesk`, catalogued on PulseMCP. Manages a Plesk hosting server — domains, databases, SSL certificates, and email accounts via AI.

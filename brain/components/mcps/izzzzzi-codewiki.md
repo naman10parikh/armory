@@ -8,10 +8,12 @@ source_url: https://github.com/izzzzzi/codewiki-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-22T14:45:31Z"
 ---
 ## What it is
 MCP server `CodeWiki`, catalogued on PulseMCP. Searches repos, fetches AI-generated wiki docs, and answers questions about open-source projects via codewiki.google.

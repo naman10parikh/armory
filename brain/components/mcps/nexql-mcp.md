@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T18:02:25Z"
 ---
 ## What it is
 Standalone Postgres MCP server with schema-aware indexing, offering 53 query, schema, context, performance, write, and admin tools. Read-only by default and installable across clients.

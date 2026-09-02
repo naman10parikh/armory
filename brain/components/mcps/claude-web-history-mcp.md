@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T04:04:05Z"
 ---
 ## What it is
 Enables Claude Code to browse and import conversations from a user's claude.ai account, making mobile chat history available in the editor. Includes tools to list, read, and save web conversations locally.

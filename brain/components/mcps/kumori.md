@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T19:11:05Z"
 ---
 ## What it is
 Enables image-to-sticker generation by sending a photo and choosing a curated style, producing die-cut stickers without any prompt.

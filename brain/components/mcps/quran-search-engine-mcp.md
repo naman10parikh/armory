@@ -8,11 +8,13 @@ source_url: https://github.com/adelpro/quran-search-engine-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-06T22:38:55Z"
 ---
 ## What it is
 Enables accurate Quranic verse search through natural language queries, returning exact text with no hallucinations.

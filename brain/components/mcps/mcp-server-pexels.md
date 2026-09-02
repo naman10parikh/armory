@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T15:47:19Z"
 ---
 ## What it is
 MCP server for the Pexels API that provides tools for searching photos and videos, retrieving curated content, and accessing featured collections. Enables natural language interaction with Pexels media search functionality.

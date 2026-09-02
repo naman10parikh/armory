@@ -8,10 +8,12 @@ source_url: https://github.com/mkotsollaris/kwrds-ai-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-07T03:23:27Z"
 ---
 ## What it is
 MCP server `kwrds.ai`, catalogued on PulseMCP. Integrates with kwrds.ai's keyword research API to provide search volume analysis, competition data, SERP insights, LSI keyword generation, and content creation tools for SEO optimization and marketing workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-12T00:11:45Z"
 ---
 ## What it is
 An MCP server that retrieves relevant code snippets and documents to assist in generating pymilvus code, converting between ORM and client, and translating Milvus code between programming languages.

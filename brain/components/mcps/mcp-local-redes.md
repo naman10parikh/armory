@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T18:22:44Z"
 ---
 ## What it is
 Local MCP server that exposes fleet telemetry queries as tools for language models, enabling natural language questions about vehicle positions, trips, and alerts. Runs on the operator's machine and returns aggregated results from a SQLite database.

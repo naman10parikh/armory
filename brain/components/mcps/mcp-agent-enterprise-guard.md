@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T07:36:22Z"
 ---
 ## What it is
 MCP server that computes trust scores, permission decisions, and silent-failure risk for AI agents with tools for reliability scoring, silent failure detection, permission evaluation, and audit report generation.

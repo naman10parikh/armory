@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T21:42:46Z"
 ---
 ## What it is
 MCP server that evaluates, compares, aligns, generates, and validates resume materials against specific job postings, including ATS parseability checks, match scoring, and gap analysis.

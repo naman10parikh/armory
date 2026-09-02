@@ -8,11 +8,13 @@ source_url: https://github.com/kyryl-opens-ml/mcp-server-dagster
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-04-09T18:56:22Z"
 ---
 ## What it is
 Enables AI agents to interact with Dagster instances, explore data pipelines, monitor runs, and manage assets.

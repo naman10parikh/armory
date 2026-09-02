@@ -8,10 +8,12 @@ source_url: https://github.com/abhijay007/btcpayserver-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-03T17:58:41Z"
 ---
 ## What it is
 MCP server `BTCPayServer`, catalogued on PulseMCP. Integrates with BTCPayServer's API to provide complete Bitcoin payment processing, store management, and Lightning Network operations through 23 modular services covering invoices, payment requests, wallets, webhooks, and system administration for e-commerce and Bitcoin-native business applications.

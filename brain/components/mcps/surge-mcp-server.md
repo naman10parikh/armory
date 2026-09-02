@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-10T07:55:32Z"
 ---
 ## What it is
 Enables natural language control of Surge proxy, including toggling features, managing policies, requests, DNS, and device settings via the Surge HTTP API.

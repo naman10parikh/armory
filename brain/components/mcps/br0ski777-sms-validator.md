@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:34:04Z"
 ---
 ## What it is
 MCP server `SMS Validator`, catalogued on PulseMCP. Validate SMS-capable phone numbers — mobile vs landline, E.164 format. x402 micropayment.

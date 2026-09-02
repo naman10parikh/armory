@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-21T14:13:47Z"
 ---
 ## What it is
 Exposes ComfyUI workflows as callable MCP tools, enabling LLMs to run image generation workflows via API.

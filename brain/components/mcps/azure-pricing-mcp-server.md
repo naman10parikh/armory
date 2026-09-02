@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-02T02:45:55Z"
 ---
 ## What it is
 This MCP server enables querying Azure resource pricing programmatically through a structured workflow, including listing service families, service names, products, and calculating monthly costs.

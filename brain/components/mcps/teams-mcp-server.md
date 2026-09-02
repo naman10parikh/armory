@@ -8,10 +8,12 @@ source_url: https://github.com/surgeenterpriseai/teams-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-12T07:41:45Z"
 ---
 ## What it is
 MCP server `Microsoft Teams`, catalogued on PulseMCP. Connect AI agents to Microsoft Teams to read and send messages, list channels, and search chats.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T12:07:54Z"
 ---
 ## What it is
 Unifies MiniMax's multimodal generation, web search, image understanding, audio, video, and music tools into a single MCP server for use with Claude and other clients.

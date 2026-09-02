@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T02:33:15Z"
 ---
 ## What it is
 Provides a unified MCP interface to access 10 free web AI services (like Gemini, ChatGPT, and Claude) through your logged-in Chrome, enabling chat, parallel batch, pipeline, and provider status operations via an OpenAI-compatible gateway.

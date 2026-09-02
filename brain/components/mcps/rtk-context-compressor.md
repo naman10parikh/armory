@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-25T09:01:59Z"
 ---
 ## What it is
 Paid hosted MCP server for OpenAI Codex context compression, providing tools to compress context, estimate savings, issue receipts, and read history.

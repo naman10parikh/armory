@@ -8,10 +8,12 @@ source_url: https://github.com/jinzcdev/markmap-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 202
+stars: 281
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 35
+pushed_at: "2026-08-04T10:36:42Z"
 ---
 ## What it is
 MCP server `Markmap`, catalogued on PulseMCP. Transforms Markdown documents into interactive mind maps with zooming, node expansion/collapse, and multi-format export capabilities for visualizing hierarchical information.

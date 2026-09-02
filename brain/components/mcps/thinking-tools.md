@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T10:56:51Z"
 ---
 ## What it is
 Provides five rigorous reasoning protocols (debate, red team, audit_argument, threat_model, check_study) that run on the AI you're already using, requiring no extra API keys or costs.

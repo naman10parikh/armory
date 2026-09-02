@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-08-28T02:38:25Z"
 ---
 ## What it is
 MCP server `WikiJS`, catalogued on PulseMCP. Integrates with WikiJS knowledge bases through GraphQL to enable search, page retrieval, and content discovery operations across multilingual wiki deployments with structured metadata and filtering capabilities.

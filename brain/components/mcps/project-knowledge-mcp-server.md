@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T03:18:40Z"
 ---
 ## What it is
 Analyzes GitLab group projects to extract purpose, I/O, dependencies, and database tables, serving this knowledge via MCP tools and a read-only HTML visualization.

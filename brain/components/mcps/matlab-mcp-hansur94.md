@@ -8,10 +8,12 @@ source_url: https://github.com/hansur94/matlab-mcp-server-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-13T08:38:04Z"
 ---
 ## What it is
 MCP server `MATLAB MCP`, catalogued on PulseMCP. MCP server connecting AI agents to MATLAB for code execution, async job management, and interactive visualization.

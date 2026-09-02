@@ -8,10 +8,12 @@ source_url: https://github.com/aybelatchane/mcp-server-terminal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-01-02T11:04:49Z"
 ---
 ## What it is
 MCP server `Terminal`, catalogued on PulseMCP. Playwright-like automation for terminal applications

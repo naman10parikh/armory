@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T20:04:28Z"
 ---
 ## What it is
 MCP server for loading and exploring OpenAPI/Swagger specifications, enabling AI assistants to dynamically browse API contracts by loading specs, searching endpoints, inspecting schemas, and retrieving operations.

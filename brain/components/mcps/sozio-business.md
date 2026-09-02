@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T11:33:52Z"
 ---
 ## What it is
 Sozio Business is a standalone local MCP server for combining private company data with 22,635 profiled Swiss open-data resources.

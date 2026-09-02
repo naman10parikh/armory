@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:50:26Z"
 ---
 ## What it is
 MCP server `UN Comtrade`, catalogued on PulseMCP. United Nations international bilateral trade statistics via the UN Comtrade API.

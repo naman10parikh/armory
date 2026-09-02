@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T11:30:18Z"
 ---
 ## What it is
 High-precision mathematics server for MCP clients, providing exact integer arithmetic, symbolic derivatives, and numerical calculus via LaTeX-style input.

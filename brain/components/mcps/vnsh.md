@@ -8,10 +8,12 @@ source_url: https://github.com/raullenchai/vnsh
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 114
+stars: 156
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 24
+pushed_at: "2026-08-14T04:46:46Z"
 ---
 ## What it is
 MCP server `VNSH`, catalogued on PulseMCP. Ephemeral encrypted file sharing for AI with AES-256 encryption and 24-hour auto-deletion.

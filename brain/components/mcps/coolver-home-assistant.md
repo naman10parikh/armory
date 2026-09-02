@@ -8,10 +8,12 @@ source_url: https://github.com/coolver/home-assistant-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-08-03T11:56:09Z"
 ---
 ## What it is
 MCP server `Home Assistant (Vibecode)`, catalogued on PulseMCP. IDE-integrated development environment for creating and managing Home Assistant automations, dashboards, themes, and configurations through natural language

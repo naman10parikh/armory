@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T13:52:07Z"
 ---
 ## What it is
 MCP server `GitHub Webhook`, catalogued on PulseMCP. Bridges GitHub webhooks via Cloudflare Worker for real-time event streaming.

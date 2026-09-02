@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T22:32:39Z"
 ---
 ## What it is
 Enables Claude to create, open, and edit persistent tldraw whiteboards in real-time, with live collaboration between human and AI.

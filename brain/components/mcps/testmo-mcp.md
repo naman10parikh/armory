@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T11:34:25Z"
 ---
 ## What it is
 MCP server that integrates with Testmo to let AI assistants read projects, runs, results, and test cases, and create or update runs, results, and cases via natural language.

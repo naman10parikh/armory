@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T11:13:19Z"
 ---
 ## What it is
 Enables IDE integration with a multi-agent AI pipeline for solving, reviewing, and optimizing code through adversarial peer review and security filtering.

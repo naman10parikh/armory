@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-06T05:00:46Z"
 ---
 ## What it is
 Intelligent MCP proxy server that reduces context bloat by serving only the tools your AI actually needs through semantic search and a fixed two-tool surface.

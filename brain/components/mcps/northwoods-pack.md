@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T22:55:02Z"
 ---
 ## What it is
 Deploys a sovereign personal AI harness on your Cloudflare account, providing identity, memory with provenance, and a chat interface, plus MCP tools for external AI assistants to access your persistent memory and conduct contract.

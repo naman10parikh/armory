@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T13:41:23Z"
 ---
 ## What it is
 A demo MCP server for generic record management with read/write tools, write safeguards, and structured error handling, designed as a portfolio piece that can be adapted for real business APIs.

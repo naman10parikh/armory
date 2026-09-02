@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 33
+forks: 7
+pushed_at: "2025-06-14T01:39:27Z"
 ---
 ## What it is
 MCP server for local compression of various image formats.

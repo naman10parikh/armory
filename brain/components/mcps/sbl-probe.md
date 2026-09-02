@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T20:10:19Z"
 ---
 ## What it is
 Serial communication and protocol analysis MCP server that gives AI coding assistants direct access to serial ports for reading, writing, decoding, and capturing embedded device output.

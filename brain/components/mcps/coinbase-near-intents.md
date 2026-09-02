@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-02-02T22:08:44Z"
 ---
 ## What it is
 MCP server `CrewAI (Near Intents)`, catalogued on PulseMCP. Leverages the CrewAI framework in combination with OpenAI API to orchestrate multi-agent workflows for automated research, data analysis, and problem-solving across domains.

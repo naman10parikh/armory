@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T17:45:27Z"
 ---
 ## What it is
 Enables AI assistants to manage agents, webhooks, and P2P connectivity on the Anycast network, allowing operations like listing agents, creating tokens, and viewing connection stats.

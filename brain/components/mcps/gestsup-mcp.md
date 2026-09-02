@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T06:51:55Z"
 ---
 ## What it is
 MCP server to manage GestSup tickets via an LLM, with tools for creating, reading, commenting, and searching tickets.

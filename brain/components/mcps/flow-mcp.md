@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-21T09:43:20Z"
 ---
 ## What it is
 A minimal MCP server that provides business control primitives (finish, pause, resume, rewind, abort) for agent/skill orchestration, persisting actionable facts into structured state files.

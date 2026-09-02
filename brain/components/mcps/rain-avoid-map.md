@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T15:37:05Z"
 ---
 ## What it is
 Provides flood-risk reporting and avoidance guidance for rainy days, including parking risk, community reports, and weather-based alerts.

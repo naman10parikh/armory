@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T08:15:09Z"
 ---
 ## What it is
 Analyzes software projects to extract architecture, build dependency graphs, and predict the impact of code changes.

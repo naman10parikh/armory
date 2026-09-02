@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-19T23:59:10Z"
 ---
 ## What it is
 MCP server that exposes GuruFocus financial data to AI assistants via 50+ tools for stocks, gurus, insiders, politicians, and economic data with token-efficient TOON format support.

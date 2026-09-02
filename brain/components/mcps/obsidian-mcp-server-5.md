@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-17T23:44:22Z"
 ---
 ## What it is
 Enables external applications to interact with an Obsidian vault through MCP tools, including semantic search and file operations.

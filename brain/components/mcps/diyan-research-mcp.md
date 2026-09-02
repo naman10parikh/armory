@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T07:05:31Z"
 ---
 ## What it is
 Read-only MCP server that provides enterprise research frameworks, frozen snapshots, and historical factor summaries with sources and falsification conditions, without trading advice.

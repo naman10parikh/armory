@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T01:31:58Z"
 ---
 ## What it is
 Enables AI assistants to remotely control a Minecraft player, including navigation, mining, building, and interaction with the world and other players.

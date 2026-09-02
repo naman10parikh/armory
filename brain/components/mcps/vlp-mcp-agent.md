@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T00:28:13Z"
 ---
 ## What it is
 MCP server for automating VLP lab VM operations, exposing VM management tools to AI agents like Cursor and Claude Code.

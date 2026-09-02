@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T16:38:31Z"
 ---
 ## What it is
 Enables natural language task management via Claude, allowing users to add, list, and complete tasks stored in a local JSON file.

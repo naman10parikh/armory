@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-02T05:00:37Z"
 ---
 ## What it is
 Google Workspace MCP Server with guided setup and seamless auth. Enables using 114 Google Workspace tools with Claude Code, Cursor, or any MCP client through natural language.

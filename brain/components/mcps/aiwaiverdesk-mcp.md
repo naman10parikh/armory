@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T08:28:49Z"
 ---
 ## What it is
 MCP server `AI Waiver Desk`, catalogued on PulseMCP. AI governance waiver checks with exception approvals, expiry review, and audit receipts.

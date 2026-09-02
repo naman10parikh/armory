@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T00:04:12Z"
 ---
 ## What it is
 Enables live tag read/write access to Rockwell Automation Logix5000 controllers over EtherNet/IP without requiring Studio 5000 Logix Designer, including discovery, tag listing, and batch operations.

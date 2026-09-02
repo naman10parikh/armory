@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T20:37:24Z"
 ---
 ## What it is
 Enables AI assistants to search and read official news from the Luxembourg government press service (SIP) with tools for keyword search, semantic search, browsing latest news, and fetching full articles.

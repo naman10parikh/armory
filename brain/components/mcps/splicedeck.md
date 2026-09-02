@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T13:01:06Z"
 ---
 ## What it is
 Enables AI agents to edit videos locally by inspecting media, applying templates, cutting clips, and delivering finished files, with memory of human preferences.

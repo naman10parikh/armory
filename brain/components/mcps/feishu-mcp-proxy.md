@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T14:17:49Z"
 ---
 ## What it is
 A local reverse proxy for Feishu MCP services that automatically manages tenant_access_token, enabling AI agents to interact with Feishu documents and tools seamlessly.

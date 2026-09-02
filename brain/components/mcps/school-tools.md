@@ -8,10 +8,12 @@ source_url: https://github.com/54yyyu/school-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-30T22:18:19Z"
 ---
 ## What it is
 MCP server `School Tools (Canvas & Gradescope)`, catalogued on PulseMCP. Integrates with Canvas and Gradescope to help students track assignment deadlines, add them to macOS Reminders, and manage course materials across multiple learning platforms.

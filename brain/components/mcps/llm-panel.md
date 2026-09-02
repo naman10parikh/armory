@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T18:37:35Z"
 ---
 ## What it is
 A small MCP server that lets Claude (or any MCP client) ask other models what they think.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-28T21:11:21Z"
 ---
 ## What it is
 MCP server `RideWithGPS`, catalogued on PulseMCP. Integrates with RideWithGPS API to retrieve cycling routes, trips, events, and performance metrics including speed, elevation, heart rate, power, and cadence data for fitness tracking and route planning applications.

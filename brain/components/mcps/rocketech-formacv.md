@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-06T18:37:36Z"
 ---
 ## What it is
 MCP server `FormaCV`, catalogued on PulseMCP. AI-powered CV formatting, anonymization, tailoring, and ATS push-back MCP server.

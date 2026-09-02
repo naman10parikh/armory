@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:50:27Z"
 ---
 ## What it is
 MCP server for Crypto APIs Utils, enabling address validation, raw transaction decoding, and XRP X-Address encoding/decoding for UTXO, EVM, and XRP blockchains.

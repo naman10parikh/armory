@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T11:16:59Z"
 ---
 ## What it is
 An MCP server that drives FMOD Studio live through its scripting terminal, exposing the FMOD Studio Scripting API as MCP tools for immediate project editing.

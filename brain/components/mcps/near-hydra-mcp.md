@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-11T19:38:10Z"
 ---
 ## What it is
 Enables cross-chain transactions (swap, send, balance) on 10 blockchains from a single NEAR account, designed for AI agents and humans via MCP.

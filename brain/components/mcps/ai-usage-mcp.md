@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T03:14:49Z"
 ---
 ## What it is
 Read-only MCP server for querying AI usage metrics (exact tokens, cost, latency, errors, productivity) from a local SQLite database, enabling charts and analysis in Claude Code and Cursor.

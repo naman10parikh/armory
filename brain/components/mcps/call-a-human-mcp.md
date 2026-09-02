@@ -8,11 +8,13 @@ source_url: https://github.com/nishantmodak/call-a-human-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-03T00:53:34Z"
 ---
 ## What it is
 An MCP server that enables AI agents to pause and request human approval or information via Slack, Telegram, or macOS dialogs before proceeding with actions.

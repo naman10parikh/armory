@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-20T04:40:37Z"
 ---
 ## What it is
 Enables AI assistants to analyze Fantasy Premier League data, providing tools for player search, fixture analysis, manager comparisons, and strategy prompts for transfer planning and lineup selection.

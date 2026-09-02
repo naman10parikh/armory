@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T09:31:52Z"
 ---
 ## What it is
 A production-focused integration that brings IBM Maximo Asset Management into AI workflows, enabling natural language interaction with assets, work orders, inventory, and more.

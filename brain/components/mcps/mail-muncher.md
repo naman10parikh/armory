@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T02:26:59Z"
 ---
 ## What it is
 Serves a strictly read-only mail archive over MCP: ordered filter rules pull matching messages from any IMAP mailbox or the Gmail API and write them to disk as byte-faithful .eml plus markdown with YAML frontmatter. Exposes list_rules, list_messages, search_messages, read_message (with full-thread r

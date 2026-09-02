@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-25T13:34:46Z"
 ---
 ## What it is
 An MCP server that provides AI assistants with access to over 40 Bank of Japan statistical databases (interest rates, money supply, exchange rates, tankan, etc.) via the BOJ time-series data search API.

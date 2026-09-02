@@ -8,11 +8,13 @@ source_url: https://github.com/gwarren3210/godel-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T01:12:34Z"
 ---
 ## What it is
 An MCP server that exposes Godel Terminal-style financial research as tools for AI clients, including security descriptions, quotes, financials, historical prices, analyst ratings, most-active, search, news, and live quotes. It provides a pluggable data provider interface so you can inject your own 

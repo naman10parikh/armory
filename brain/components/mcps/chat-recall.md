@@ -8,11 +8,13 @@ source_url: https://github.com/munhq/chat-recall
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:28:05Z"
 ---
 ## What it is
 A memory layer for AI coding tools that indexes transcripts from Claude Code, Gemini CLI, Codex, OpenCode, and Antigravity into a unified searchable history, providing 52 MCP tools for agents to recall past sessions, search across tools, and write back decisions.

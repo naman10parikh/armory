@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T05:19:20Z"
 ---
 ## What it is
 MCP server for searching Chinese academic literature from CNKI Space, returning metadata such as title, authors, year, and links, and retrieving abstracts and degree details. Enables agents to query CNKI without an account.

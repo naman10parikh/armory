@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T22:48:20Z"
 ---
 ## What it is
 Enables AI agents to directly inspect, configure, test, and orchestrate network devices through pyATS/Genie, including show command parsing, config rollback, feature state learning/diffing, fleet-wide command fan-out, and declarative test execution.

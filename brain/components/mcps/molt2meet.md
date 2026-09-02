@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-18T23:11:45Z"
 ---
 ## What it is
 MCP server `Molt2Meet`, catalogued on PulseMCP. Dispatches real-world physical tasks from AI agents to a verified human operator network with proof and escrow.

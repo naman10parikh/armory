@@ -8,11 +8,13 @@ source_url: https://github.com/gxxHuang/ikuai-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-28T19:53:04Z"
 ---
 ## What it is
 An MCP server that provides 229 tools to control iKuai routers, enabling AI assistants to manage network settings, monitoring, security, and more through natural language.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-06T04:19:09Z"
 ---
 ## What it is
 MCP server `PensionPro`, catalogued on PulseMCP. Connects to the PensionPro pension administration REST API.

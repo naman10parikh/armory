@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-09-01T22:22:06Z"
 ---
 ## What it is
 Integrates AlphaFold DB and eight other biomedical data sources into MCP tools for variant clinical reporting, disease-target analysis, structural intelligence, and drug repurposing, with results persisted to a local SQLite knowledge graph.

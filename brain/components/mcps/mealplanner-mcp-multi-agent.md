@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T17:04:36Z"
 ---
 ## What it is
 A multimodal meal planning agent that uses Gemini Vision to analyze fridge photos, suggest recipes, provide nutritional info, and generate daily meal plans.

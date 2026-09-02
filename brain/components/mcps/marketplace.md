@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T09:43:55Z"
 ---
 ## What it is
 MCP server `xyz.rubenayla.partle/marketplace`, catalogued on PulseMCP. Search products and stores in nearby physical stores near you.

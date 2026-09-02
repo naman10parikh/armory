@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-18T18:04:23Z"
 ---
 ## What it is
 Persistent semantic memory server for AI assistants via MCP, enabling long-term context retention and semantic search across conversations.

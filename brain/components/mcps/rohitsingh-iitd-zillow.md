@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-22T06:42:13Z"
 ---
 ## What it is
 MCP server `Zillow`, catalogued on PulseMCP. Integrates with Zillow's real estate API to provide property searches, detailed information, Zestimates, market trends analysis, and mortgage calculations for home buying decisions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T23:21:07Z"
 ---
 ## What it is
 An MCP server that bridges Claude to Figma, enabling read access via REST and full create/edit capabilities through the Figma Plugin API over a local WebSocket.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T08:59:37Z"
 ---
 ## What it is
 Exposes Scrapling web scraping framework as MCP tools for Claude Code, enabling URL scraping with CSS/XPath selectors, stealth mode, and batch processing.

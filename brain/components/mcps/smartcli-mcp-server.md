@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T19:37:28Z"
 ---
 ## What it is
 Exposes SmartCLI's built-in agent tools (file operations, code search, shell commands, web search, memory, and snapshots) as MCP endpoints, allowing external clients to leverage them over stdio or HTTP.

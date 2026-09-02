@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T09:59:33Z"
 ---
 ## What it is
 A stdio MCP server for LibreOffice Writer that enables creating, editing, and exporting Writer documents via natural language commands.

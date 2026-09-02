@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-19T08:11:52Z"
 ---
 ## What it is
 MCP server `Agent Mux`, catalogued on PulseMCP. Orchestrates multiple interactive CLI agents within tmux-backed project workspaces, enabling spawning, input management, output capture, and lifecycle control.

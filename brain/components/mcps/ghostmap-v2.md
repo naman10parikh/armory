@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:47:51Z"
 ---
 ## What it is
 Exposes AI-augmented network reconnaissance and evasion capabilities as callable FastMCP tools, enabling natural language orchestration of host discovery, service fingerprinting, CVE mapping, and attack chain synthesis.

@@ -8,11 +8,13 @@ source_url: https://github.com/biosshot/kicad-copilot
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T06:54:32Z"
 ---
 ## What it is
 AI-powered MCP server for KiCad that enables creating and modifying schematics, searching components, managing hierarchical projects, generating PCB placement, routing boards locally, and creating copper pours through natural language.

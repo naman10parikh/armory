@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T09:18:17Z"
 ---
 ## What it is
 A Streamable HTTP MCP server running on EdgeOne Makers Functions that provides intelligent chat capabilities, enabling interactions like generating online webpages with a single prompt.

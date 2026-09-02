@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T16:26:57Z"
 ---
 ## What it is
 A production-ready Model Context Protocol suite over Streamable HTTP providing a sandboxed file server with tools, resources, prompts, and both manual and AI-driven clients.

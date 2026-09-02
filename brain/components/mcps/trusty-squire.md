@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-02T03:18:41Z"
 ---
 ## What it is
 Signs up to SaaS platforms and vaults the credential so you can focus on coding

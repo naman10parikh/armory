@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T02:56:33Z"
 ---
 ## What it is
 A Model Context Protocol server that distills documents from multiple sources into HTML articles and Obsidian notes, with features like key element detection, image filtering, and async task management.

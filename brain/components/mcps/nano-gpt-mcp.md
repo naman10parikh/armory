@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-13T00:06:41Z"
 ---
 ## What it is
 Provides access to 700+ AI models for text, image, video, and audio generation via the NanoGPT API, enabling direct use from Claude Code or any MCP-compatible client.

@@ -8,10 +8,12 @@ source_url: https://github.com/base76-research-lab/token-compressor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-08T16:29:24Z"
 ---
 ## What it is
 MCP server `Token Compressor`, catalogued on PulseMCP. Semantic prompt compression using local LLM rewriting with embedding validation to reduce token usage by 40-60%.

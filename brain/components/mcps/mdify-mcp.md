@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T11:49:19Z"
 ---
 ## What it is
 MCP server that gives LLMs the power to convert PDFs to Markdown on the fly using a local Ollama vision model.

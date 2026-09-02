@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T23:39:30Z"
 ---
 ## What it is
 MCP server exposing SuperAudit’s free website audit as a callable tool, enabling AI agents to audit any public URL and receive scores across SEO, security, legal, performance, and more. No API key required; respects rate limits and caches results.

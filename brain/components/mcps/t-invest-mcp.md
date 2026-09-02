@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T17:36:51Z"
 ---
 ## What it is
 Enables natural language interaction with your T-Invest brokerage account for portfolio analysis, dividend tracking, and optional trading with safety confirmations.

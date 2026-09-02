@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-09T10:29:24Z"
 ---
 ## What it is
 MCP server `Pipedream Gateway`, catalogued on PulseMCP. Consolidates Pipedream's 10,000+ app integrations into 16 curated tools for workflow management and app action execution.

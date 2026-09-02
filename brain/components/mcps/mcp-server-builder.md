@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T17:46:06Z"
 ---
 ## What it is
 Enables users to generate, deploy, and register a read-only MCP server from database connection parameters without writing code.

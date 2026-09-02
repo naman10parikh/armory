@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T16:14:52Z"
 ---
 ## What it is
 Identifies anime characters and works from illustrations, and traces back to Pixiv originals, artists, or animation screenshots using vision models and SauceNAO/Trace.moe.

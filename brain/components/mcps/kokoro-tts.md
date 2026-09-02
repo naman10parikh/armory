@@ -8,10 +8,12 @@ source_url: https://github.com/mberg/kokoro-tts-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 78
+stars: 81
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-09-12T17:29:59Z"
 ---
 ## What it is
 MCP server `Kokoro TTS`, catalogued on PulseMCP. Converts text to speech using the Kokoro TTS engine with configurable voices, speeds, and languages, supporting both local storage and S3 cloud integration with automatic file cleanup.

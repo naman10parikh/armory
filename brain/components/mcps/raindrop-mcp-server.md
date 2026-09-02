@@ -8,11 +8,13 @@ source_url: https://github.com/cash/raindrop_mcp_server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T10:22:06Z"
 ---
 ## What it is
 An MCP server that exposes Raindrop.io's bookmark management API as tools for AI assistants, enabling collection, bookmark, and tag operations.

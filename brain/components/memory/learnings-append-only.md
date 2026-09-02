@@ -14,6 +14,8 @@ eval_score: null
 verified_at: 2026-05-26
 related: [error-post-mortem, memory-compression, four-layer-memory]
 tags: [memory, learnings, append-only, post-mortem, discipline]
+forks: 0
+pushed_at: "2026-06-10T03:59:01Z"
 ---
 
 ## What it is

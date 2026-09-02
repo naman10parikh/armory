@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T21:34:57Z"
 ---
 ## What it is
 A local-first MCP server that provides a shared Markdown-based memory for AI coding agents, enabling cross-agent context persistence via tools like memory_search and memory_capture.

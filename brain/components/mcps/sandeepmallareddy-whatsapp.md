@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-23T10:23:06Z"
 ---
 ## What it is
 MCP server `WhatsApp`, catalogued on PulseMCP. WhatsApp messaging integration with 16 tools for sending, receiving, and media handling.

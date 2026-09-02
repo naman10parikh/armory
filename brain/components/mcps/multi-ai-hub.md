@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T15:14:38Z"
 ---
 ## What it is
 Privacy-first local MCP hub for coordinating multiple AI providers from Claude Code, supporting local Ollama seats and cloud providers with safety routing.

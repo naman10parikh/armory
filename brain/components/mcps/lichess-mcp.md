@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T00:21:26Z"
 ---
 ## What it is
 MCP server that exposes the Lichess public API through tools for querying player profiles, games, analysis, openings, puzzles, and tournaments, allowing natural-language chess questions without an API key.

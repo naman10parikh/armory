@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-27T08:46:58Z"
 ---
 ## What it is
 Enables building and uploading structured workouts to Garmin Connect using YAML or natural language, supporting running, cycling, and strength with zones and circuits.

@@ -8,11 +8,13 @@ source_url: https://github.com/loryanstrant/ESPHome-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-30T07:50:11Z"
 ---
 ## What it is
 Enables MCP clients to manage ESPHome devices via the 2026.6+ dashboard WebSocket protocol, including listing, configuring, validating, and flashing firmware.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-30T20:41:44Z"
 ---
 ## What it is
 MCP server `Swiss AI Labor Market`, catalogued on PulseMCP. Tracks AI's impact on the Swiss labor market through automated data collection from BFS statistics, news sources, and research publications, providing semantic search and trend analysis for employment patterns, industry disruption, and AI adoption across Switzerland's economic sectors.

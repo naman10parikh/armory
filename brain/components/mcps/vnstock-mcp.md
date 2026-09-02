@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-09T03:47:13Z"
 ---
 ## What it is
 Unofficial MCP server providing Vietnamese stock market financial data, enabling natural language interaction with Claude Desktop.

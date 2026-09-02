@@ -12,6 +12,8 @@ stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-01-29T09:51:21Z"
 ---
 ## What it is
 MCP server `Minimax AI`, catalogued on PulseMCP. Integrates with Minimax's AI services to provide image generation and text-to-speech capabilities through a Node.js server, enabling editors to access image-01 and speech-01 models for creating visuals and natural-sounding audio without leaving the editing environment.

@@ -8,10 +8,12 @@ source_url: https://github.com/cqfn/aibolit-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-04-07T15:54:54Z"
 ---
 ## What it is
 MCP server `Aibolit Java Code Analyzer`, catalogued on PulseMCP. Integrates with the Aibolit Java code analyzer to identify critical design issues in Java code, focusing on maintainability, readability, and architectural concerns rather than cosmetic problems.

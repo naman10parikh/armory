@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T07:43:23Z"
 ---
 ## What it is
 A comprehensive MCP toolkit for Java backend developers, providing 35 tools across 5 servers for database analysis, JVM diagnostics, migration assistance, Spring Boot monitoring, and Redis diagnostics.

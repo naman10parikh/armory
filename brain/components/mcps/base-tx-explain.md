@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:48:30Z"
 ---
 ## What it is
 Explains any Base mainnet transaction hash by returning a structured JSON with action type, assets moved, risk flags, and cost details, using deterministic on-chain decoding without LLM.

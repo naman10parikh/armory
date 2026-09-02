@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-18T14:42:04Z"
 ---
 ## What it is
 Enables AI assistants to inspect, modify, export, and validate design documents with 47 tools covering design, code generation, branding, and print/mockup workflows.

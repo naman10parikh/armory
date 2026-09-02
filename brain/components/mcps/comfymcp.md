@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-03T07:51:38Z"
 ---
 ## What it is
 Enables Claude to generate images via ComfyUI from natural language requests, automating workflow construction and execution.

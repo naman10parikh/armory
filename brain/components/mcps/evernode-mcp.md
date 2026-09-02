@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T08:57:47Z"
 ---
 ## What it is
 Enables AI agents to build, check, cost, and deploy HotPocket dApps on Evernode/Xahau by scaffolding deterministic contracts, checking determinism, estimating lease costs, ranking hosts, and generating deploy commands.

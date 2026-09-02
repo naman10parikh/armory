@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-01T13:22:02Z"
 ---
 ## What it is
 Enables natural language queries about Magento store catalog, sales, and customer data through dynamic tools for AI assistants.

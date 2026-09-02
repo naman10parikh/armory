@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T08:23:30Z"
 ---
 ## What it is
 Remote MCP server for ChatGPT workspace agents to access Microsoft 365 mailboxes, enabling listing, searching, reading, and sending emails with per-agent mailbox isolation.

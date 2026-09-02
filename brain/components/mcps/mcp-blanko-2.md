@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T07:17:42Z"
 ---
 ## What it is
 A TypeScript template for building MCP servers with stdio/SSE transport and easy tool registration.

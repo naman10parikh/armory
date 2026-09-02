@@ -8,10 +8,12 @@ source_url: https://github.com/mansurjisan/ocean-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-09T09:04:43Z"
 ---
 ## What it is
 MCP server `NOAA CO-OPS`, catalogued on PulseMCP. Provides access to NOAA CO-OPS tidal predictions, real-time water levels, currents, and coastal meteorological observations.

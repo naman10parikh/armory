@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-04T17:13:19Z"
 ---
 ## What it is
 Enables AI assistants to control Anki Vector robots locally via natural language, providing tools for speech, motion, perception, and interaction without cloud dependency.

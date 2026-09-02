@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T00:59:15Z"
 ---
 ## What it is
 MCP server that connects Claude to Bucket, enabling semantic search, browsing, reading, and downloading of saved content like Instagram reels, TikToks, tweets, YouTube videos, and notes, plus saving new URLs into the user's Bucket.

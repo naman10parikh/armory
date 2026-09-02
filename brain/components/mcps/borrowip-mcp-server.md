@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T11:57:14Z"
 ---
 ## What it is
 Enables AI agents to route web scraping traffic through a phone's cellular connection via SSH reverse tunnel, providing mobile IPs.

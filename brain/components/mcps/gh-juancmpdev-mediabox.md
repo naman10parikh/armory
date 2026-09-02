@@ -8,10 +8,12 @@ source_url: https://github.com/juancmpdev/mediabox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-07-17T22:33:35Z"
 ---
 ## What it is
 MCP server `Mediabox`, catalogued on PulseMCP. Manages a self-hosted media stack — Jellyfin, Sonarr, Radarr, qBittorrent, and more — through 25 tools via natural language.

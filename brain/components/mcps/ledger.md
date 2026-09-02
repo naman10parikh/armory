@@ -8,10 +8,12 @@ source_url: https://github.com/minhyeoky/mcp-server-ledger
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-10-19T05:15:07Z"
 ---
 ## What it is
 MCP server `Ledger CLI`, catalogued on PulseMCP. Integrates with Ledger CLI to enable natural language queries for financial data analysis, report generation, and budget tracking through nine structured tools that map directly to Ledger commands.

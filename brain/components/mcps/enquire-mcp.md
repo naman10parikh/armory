@@ -8,11 +8,13 @@ source_url: https://github.com/oomkapwn/enquire-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-09-01T16:58:46Z"
 ---
 ## What it is
 MCP server that exposes a local Obsidian vault as persistent, searchable memory for AI agents, with hybrid retrieval, reranker, and PDF support.

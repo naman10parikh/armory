@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-04-07T05:20:45Z"
 ---
 ## What it is
 A high-performance WebSocket/SSE transport layer and gateway for Anthropic's MCP, enabling real-time, scalable AI integrations with LLM agents like Claude.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T20:35:30Z"
 ---
 ## What it is
 Hosted MCP server for structured knowledge extraction and entity enrichment, allowing users to author JSON schemas, enrich entities using multiple LLM providers, and benchmark model performance.

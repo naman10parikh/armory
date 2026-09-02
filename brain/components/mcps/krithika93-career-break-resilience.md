@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-04T18:21:32Z"
 ---
 ## What it is
 MCP server `Career Break Resilience (Resume Optimizer)`, catalogued on PulseMCP. Integrates with N8N workflows to filter and curate resume bullet points based on automated relevance scoring, enabling job seekers to quickly tailor resume content by removing low-scoring bullets or limiting bullets per company using heap-based filtering algorithms.

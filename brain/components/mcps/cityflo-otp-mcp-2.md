@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T17:29:14Z"
 ---
 ## What it is
 Provides on-time performance analysis for Mumbai North bus routes via tools for route summaries, late trip drill-down, and data quality reports. It quarantines invalid data and surfaces policy questions instead of hidden normalizations.

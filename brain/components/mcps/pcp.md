@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T20:52:42Z"
 ---
 ## What it is
 Standardize Context, Not Intelligence. An open protocol and native MCP server for preserving, organizing, and serving structured project context (architecture, decision logs, domain rules, and roadmap) to AI coding assistants (Cursor, Claude Desktop, Antigravity) with built-in CLI verification

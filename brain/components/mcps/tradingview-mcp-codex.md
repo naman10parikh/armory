@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T14:46:45Z"
 ---
 ## What it is
 A Codex-first MCP server that bridges TradingView Desktop via Chrome DevTools Protocol, enabling launch, symbol/timeframe control, and health checks from Codex CLI.

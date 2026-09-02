@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-14T12:02:08Z"
 ---
 ## What it is
 MCP server for querying Dutch railway data via the NS API, with planned tools for station search, departures, trip planning, and disruptions.

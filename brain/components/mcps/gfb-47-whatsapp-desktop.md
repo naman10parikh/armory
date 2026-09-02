@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-28T00:03:15Z"
 ---
 ## What it is
 MCP server `WhatsApp Desktop`, catalogued on PulseMCP. Enables interaction with WhatsApp desktop on macOS through AppleScript automation for sending messages, checking status, and navigating the interface with keyboard shortcuts.

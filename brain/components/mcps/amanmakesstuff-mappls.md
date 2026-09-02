@@ -8,10 +8,12 @@ source_url: https://github.com/amanmakesstuff/mappls-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-05-05T04:35:36Z"
 ---
 ## What it is
 MCP server `Mappls`, catalogued on PulseMCP. MCP server for Mappls (MapMyIndia) providing India-first mapping: geocoding, routing, nearby search, and place details via 18 tools.

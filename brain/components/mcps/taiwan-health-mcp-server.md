@@ -8,11 +8,13 @@ source_url: https://github.com/healthymind-tech/Taiwan-Health-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 162
+stars: 163
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 24
+pushed_at: "2026-08-10T01:41:53Z"
 ---
 ## What it is
 Integrates Taiwan health data and international medical standards, providing 28 MCP tools for diagnostics, drugs, lab tests, and clinical guidelines via FHIR R4.

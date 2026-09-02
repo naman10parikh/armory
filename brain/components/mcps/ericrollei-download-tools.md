@@ -8,10 +8,12 @@ source_url: https://github.com/ericrollei/download_tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-02-10T01:21:26Z"
 ---
 ## What it is
 MCP server `Download Tools (ComfyUI)`, catalogued on PulseMCP. Integrates gallery-dl, yt-dlp, and custom web scraping into ComfyUI workflows for downloading media from 1000+ platforms with browser authentication, quality presets, and JavaScript-heavy site support including Instagram, Bluesky, and ArtStation.

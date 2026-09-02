@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, integration-services]
+forks: 4
+pushed_at: "2025-04-23T10:08:32Z"
 ---
 ## What it is
 Integration of A2A protocol with Ollama

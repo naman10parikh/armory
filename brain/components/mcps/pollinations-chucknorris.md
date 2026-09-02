@@ -8,10 +8,12 @@ source_url: https://github.com/pollinations/chucknorris
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-04-11T06:28:22Z"
 ---
 ## What it is
 MCP server `ChuckNorris (L1B3RT4S Prompt Enhancer)`, catalogued on PulseMCP. Enhances language models by fetching specialized prompts from the L1B3RT4S repository, supporting multiple LLMs including ChatGPT, Claude, and Gemini with fallback mechanisms for educational and research purposes.

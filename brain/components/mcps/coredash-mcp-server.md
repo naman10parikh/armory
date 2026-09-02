@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T17:33:03Z"
 ---
 ## What it is
 Real User Monitoring for Core Web Vitals. Query LCP, INP, and CLS field data from real visitors.

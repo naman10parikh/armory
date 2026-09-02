@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T01:31:20Z"
 ---
 ## What it is
 An MCP server that tells an AI assistant what's on sale at grocery stores near any US ZIP code by reading weekly circulars and providing fast, queryable deal data.

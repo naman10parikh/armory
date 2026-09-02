@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T16:53:15Z"
 ---
 ## What it is
 Remote MCP server that enables Claude AI to extract transcripts from YouTube videos with zero setup, supporting multiple languages and all URL formats.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T17:10:59Z"
 ---
 ## What it is
 MCP server that parses web pages into clean markdown via Crawl4AI's HTTP API, exposing parse_page and health-check tools with configurable proxy and timeout.

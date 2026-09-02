@@ -8,10 +8,12 @@ source_url: https://github.com/datacenter/mcp_server_for_cisco_aci
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-06-12T14:10:40Z"
 ---
 ## What it is
 MCP server `Cisco APIC`, catalogued on PulseMCP. Integrates with Cisco APIC for managing Application Centric Infrastructure fabrics through REST API operations, enabling managed object retrieval, automated configuration backups to SCP servers with AES encryption, and session token management for network automation and infrastructure monitoring workflows.

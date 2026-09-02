@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-18T00:36:46Z"
 ---
 ## What it is
 An MCP server that lets LLMs search, verify, and read papers from arXiv, preventing hallucinated academic references.

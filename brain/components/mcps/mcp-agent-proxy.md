@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-05T02:10:56Z"
 ---
 ## What it is
 An MCP server that acts as a proxy to connect MCP clients to agent frameworks like Mastra and LangGraph, enabling agent discovery, dynamic server connections, and recursive agent networks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T13:31:20Z"
 ---
 ## What it is
 Provides read-only access to Gemini 3 Online's knowledge surface (models, pricing, links, FAQ) for MCP-compatible AI clients, requiring no API keys.

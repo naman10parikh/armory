@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-18T20:55:31Z"
 ---
 ## What it is
 A privacy-friendly web search MCP server using SearXNG, enabling searches across multiple engines and categories.

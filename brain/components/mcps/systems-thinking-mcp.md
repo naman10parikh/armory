@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-04T17:47:21Z"
 ---
 ## What it is
 Provides systems thinking models as composable analysis lenses for architecture, infrastructure, DevOps, incident analysis, and technical decision-making.

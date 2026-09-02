@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T15:04:39Z"
 ---
 ## What it is
 Provides a sandboxed Ubuntu 24.04 container for secure command execution, with tools for git operations, background tasks, and GUI automation (screenshots and screen recording).

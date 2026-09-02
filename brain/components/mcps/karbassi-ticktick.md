@@ -8,10 +8,12 @@ source_url: https://github.com/karbassi/mcp-ticktick
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-07-13T04:18:20Z"
 ---
 ## What it is
 MCP server `TickTick`, catalogued on PulseMCP. Full-featured integration with TickTick for tasks, projects, habits, focus timers, tags, filters, and calendar management.

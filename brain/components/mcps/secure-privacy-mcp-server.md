@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-05T00:28:45Z"
 ---
 ## What it is
 Enables AI agents to install GDPR-compliant cookie consent banners on websites with a single command, handling domain registration, template assignment, and script injection.

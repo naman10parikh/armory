@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-09T15:18:27Z"
 ---
 ## What it is
 Enables conversational AI to access, analyze, and interact with Associated Press news content through natural language, with 26 tools for search, trends, and content monitoring.

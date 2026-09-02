@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T02:08:46Z"
 ---
 ## What it is
 Provides code analysis tools for AI coding agents to understand project architecture, search for symbols, and plan changes with token reduction.

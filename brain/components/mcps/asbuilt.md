@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T05:20:25Z"
 ---
 ## What it is
 Asbuilt is an MCP server that verifies code assumptions against live backend infrastructure, checking that tables, schemas, and resources exist as expected before agents act.

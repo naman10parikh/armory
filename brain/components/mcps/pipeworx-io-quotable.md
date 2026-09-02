@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:35:24Z"
 ---
 ## What it is
 MCP server `Quotable`, catalogued on PulseMCP. Quote search and retrieval by keyword via the Quotable API, free with no authentication required.

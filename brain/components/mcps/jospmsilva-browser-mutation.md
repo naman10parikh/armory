@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-08T22:24:29Z"
 ---
 ## What it is
 MCP server `Browser Mutation`, catalogued on PulseMCP. MCP server that captures visual browser edits and converts them into structured code implementation patches.

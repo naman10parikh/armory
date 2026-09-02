@@ -8,10 +8,12 @@ source_url: https://github.com/fradser/mcp-server-mas-sequential-thinking
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 302
+stars: 305
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 45
+pushed_at: "2026-08-05T07:07:45Z"
 ---
 ## What it is
 MCP server `Sequential Thinking Multi-Agent System`, catalogued on PulseMCP. Orchestrates a team of specialized agents working in parallel to break down complex problems through structured thinking steps, enabling multi-disciplinary analysis with greater depth than single-agent approaches.

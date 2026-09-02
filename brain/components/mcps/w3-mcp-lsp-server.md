@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T02:21:55Z"
 ---
 ## What it is
 Provides JavaScript/TypeScript code intelligence via LSP, enabling goto definition, hover info, and find references through MCP tools.

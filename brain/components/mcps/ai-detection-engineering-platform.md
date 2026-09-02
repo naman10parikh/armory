@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T03:58:52Z"
 ---
 ## What it is
 An MCP server that enables conversational interaction with Wazuh SIEM, allowing users to investigate alerts, hunt threats, tune false positives, edit rules, and run security actions via natural language.

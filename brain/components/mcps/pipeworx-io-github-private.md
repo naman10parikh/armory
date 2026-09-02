@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:09:52Z"
 ---
 ## What it is
 MCP server `GitHub Private`, catalogued on PulseMCP. Authenticated access to private GitHub repositories, organizations, issues, and pull requests via OAuth.

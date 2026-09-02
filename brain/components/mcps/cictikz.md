@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T18:57:52Z"
 ---
 ## What it is
 MCP server for AI-driven TikZ circuit schematics. Enables assistants to render TikZ figures, list symbols, get style guides, and iterate on designs.

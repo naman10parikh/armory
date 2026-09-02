@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-17T20:00:46Z"
 ---
 ## What it is
 Enables scraping and searching documentation websites using semantic or keyword search, with support for multiple deployment modes.

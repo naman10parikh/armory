@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-09T14:47:15Z"
 ---
 ## What it is
 Manages temporary email addresses via the ChatTempMail API, supporting creation, listing, and deletion of emails and messages, as well as webhook configuration.

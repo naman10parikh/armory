@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T15:43:27Z"
 ---
 ## What it is
 Enables reviewing BigQuery SQL queries for performance issues, cost estimation, and suggested rewrites via an MCP interface.

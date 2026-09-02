@@ -8,10 +8,12 @@ source_url: https://github.com/jasonjmcghee/claude-debugs-for-you
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 510
+stars: 515
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 51
+pushed_at: "2025-12-20T01:43:03Z"
 ---
 ## What it is
 MCP server `VSCode Debugger`, catalogued on PulseMCP. Integrates with VS Code's debugging capabilities to enable interactive code debugging and expression evaluation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T21:44:56Z"
 ---
 ## What it is
 A local MCP server that lets Claude answer plain-language questions about your Anthropic usage and spend across the developer API platform and Claude Enterprise products.

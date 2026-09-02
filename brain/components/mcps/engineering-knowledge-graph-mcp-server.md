@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T23:25:38Z"
 ---
 ## What it is
 Provides a stdio MCP bridge for coding agents to query and record engineering knowledge locally, preserving debugging history, failed attempts, and verified solutions.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-19T01:38:04Z"
 ---
 ## What it is
 MCP server `Weather Forecaster (National Weather Service)`, catalogued on PulseMCP. Integrates with the National Weather Service API to provide real-time weather alerts by US state code with both command-line and web interface options for weather-aware applications and emergency response systems.

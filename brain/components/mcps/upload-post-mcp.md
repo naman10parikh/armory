@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T16:55:37Z"
 ---
 ## What it is
 A local MCP server that lets Claude post to social media via upload-post.com — text, photos, and videos across 13 platforms.

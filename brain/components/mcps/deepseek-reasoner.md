@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-20T03:09:54Z"
 ---
 ## What it is
 MCP server `DeepSeek Reasoner`, catalogued on PulseMCP. Integrates DeepSeek's R1 reasoning engine with Claude, enabling complex problem-solving through a tool that processes queries and formats reasoning output within <ant_thinking> tags.

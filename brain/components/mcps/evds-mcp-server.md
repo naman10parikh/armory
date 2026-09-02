@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T13:08:10Z"
 ---
 ## What it is
 Enables querying Turkish economic data (inflation, FX rates, policy rates, etc.) from TCMB EVDS via curated tools, preventing LLM hallucination.

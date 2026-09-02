@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T21:55:35Z"
 ---
 ## What it is
 Provides 28 tools to read, search, send, and manage Yandex Mail emails via the Model Context Protocol.

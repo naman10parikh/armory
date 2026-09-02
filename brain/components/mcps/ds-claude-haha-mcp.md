@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:27:58Z"
 ---
 ## What it is
 Bridges a main agent (e.g., Codex) to a separate execution model in Claude Code Haha Desktop, enabling delegated coding tasks with file modifications, test runs, and change auditing.

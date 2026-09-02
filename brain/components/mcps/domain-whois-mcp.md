@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-17T17:23:00Z"
 ---
 ## What it is
 Enables AI agents to perform real-time WHOIS and RDAP lookups, domain availability checks, and TLD infrastructure exploration using native protocols without API keys.

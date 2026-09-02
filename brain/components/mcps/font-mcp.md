@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-26T15:55:40Z"
 ---
 ## What it is
 An expert design advisor MCP server that researches live discussions, scans project files, and automatically downloads font files for your project setup.

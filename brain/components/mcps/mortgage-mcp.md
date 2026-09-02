@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T09:05:33Z"
 ---
 ## What it is
 MCP server for mortgage loan processing, providing tools to look up property info, analyze locality, verify documents, schedule site visits, evaluate loan applications, and generate final PDF reports.

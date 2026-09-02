@@ -8,10 +8,12 @@ source_url: https://github.com/aashari/mcp-server-atlassian-confluence
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2026-02-22T12:53:41Z"
 ---
 ## What it is
 MCP server `Atlassian Confluence`, catalogued on PulseMCP. Integrates with Atlassian Confluence to provide direct access to spaces, pages, and content with tools for listing, retrieving, and searching using CQL while converting content to Markdown format

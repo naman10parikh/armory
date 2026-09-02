@@ -8,10 +8,12 @@ source_url: https://github.com/khglynn/spotify-bulk-actions-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-11T02:29:30Z"
 ---
 ## What it is
 MCP server `Spotify Bulk Actions`, catalogued on PulseMCP. Bulk Spotify operations with confidence-scored song matching and batch playlist creation

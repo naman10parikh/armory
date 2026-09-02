@@ -8,10 +8,12 @@ source_url: https://github.com/rai220/think-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 101
+stars: 106
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-03-07T07:21:01Z"
 ---
 ## What it is
 MCP server `Think`, catalogued on PulseMCP. Provides a lightweight 'think' tool for structured reasoning, enabling LLMs to pause, log thoughts, and improve multi-step problem solving without obtaining new information.

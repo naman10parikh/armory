@@ -8,10 +8,12 @@ source_url: https://github.com/okooo5km/time-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-19T22:34:47Z"
 ---
 ## What it is
 MCP server `Time Converter`, catalogued on PulseMCP. Provides accurate time-related capabilities for retrieving current time and converting between timezones using IANA identifiers, with detailed output including time differences and daylight saving information.

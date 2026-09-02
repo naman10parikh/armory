@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-11T00:57:38Z"
 ---
 ## What it is
 Enables AI cost calculation, comparison, and optimization across major providers like Anthropic, OpenAI, Google, Meta, and Mistral. Supports cost estimation, budget-aware model finding, and token estimation through a simple API and MCP integration.

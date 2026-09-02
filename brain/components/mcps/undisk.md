@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T04:43:44Z"
 ---
 ## What it is
 MCP server `Undisk`, catalogued on PulseMCP. Undo-first versioned file storage for AI agents — every write is versioned, every file is reversible.

@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-02-22T01:53:17Z"
 ---
 ## What it is
 MCP server `Gemini Pro`, catalogued on PulseMCP. Integrates Google's Gemini Pro model for text generation, enabling content creation, translation, and conversational capabilities.

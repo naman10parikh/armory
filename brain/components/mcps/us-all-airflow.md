@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-10T01:28:25Z"
 ---
 ## What it is
 MCP server `Airflow`, catalogued on PulseMCP. Apache Airflow integration for listing DAGs, monitoring tasks, and triggering runs.

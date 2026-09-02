@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2026-04-03T13:00:00Z"
 ---
 ## What it is
 Enables LLM clients to encode, decode, and transform data using CyberChef operations via an MCP server that interfaces with the CyberChef API.

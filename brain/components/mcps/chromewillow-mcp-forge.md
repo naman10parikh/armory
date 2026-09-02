@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-26T00:55:26Z"
 ---
 ## What it is
 MCP server `Forge`, catalogued on PulseMCP. Generates powerful server templates with multiple configuration options for quickly bootstrapping and deploying standardized server implementations with utility functions and best practices.

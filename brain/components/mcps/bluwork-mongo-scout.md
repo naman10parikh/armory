@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-04T21:13:44Z"
 ---
 ## What it is
 MCP server `Mongo Scout`, catalogued on PulseMCP. Production-ready MongoDB database exploration with safety features, live monitoring, and data quality tools.

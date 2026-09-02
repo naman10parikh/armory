@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T14:21:30Z"
 ---
 ## What it is
 Prepares reminders for going out based on weather conditions and suggests meetup spots using weather and location data, with optional AI curation.

@@ -8,11 +8,13 @@ source_url: https://github.com/dondai1234/master-fetch
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 841
+stars: 864
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 78
+pushed_at: "2026-07-24T07:33:25Z"
 ---
 ## What it is
 Hound MCP Servers Gives your agent actually good fetch + Search for 0$, no catch, no api keys or free tiers, fully free.

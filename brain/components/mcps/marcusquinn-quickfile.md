@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-10T14:21:56Z"
 ---
 ## What it is
 MCP server `QuickFile`, catalogued on PulseMCP. Integrates with QuickFile UK accounting software to manage clients, invoices, estimates, suppliers, bank accounts, transactions, and generate comprehensive financial reports including P&L statements, balance sheets, VAT obligations, and ageing reports for complete UK business accounting automation.

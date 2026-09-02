@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-10-05T20:26:09Z"
 ---
 ## What it is
 Enables users to generate complete, production-ready software projects from simple ideas by coordinating 8 specialized AI agents through the Model Context Protocol.

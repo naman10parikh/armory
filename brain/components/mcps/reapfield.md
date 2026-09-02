@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T23:14:45Z"
 ---
 ## What it is
 Extracts structured JSON from any URL using plain-language field specs, with caching and LLM-based selector discovery. Exposes scrape, list_cached_selectors, and refresh_selectors tools over stdio, and blocks private addresses for safety.

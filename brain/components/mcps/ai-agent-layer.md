@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T14:06:45Z"
 ---
 ## What it is
 Enables AI agents to interact with any website through MCP, providing structured knowledge graph contexts, generated actions, and readiness scoring.

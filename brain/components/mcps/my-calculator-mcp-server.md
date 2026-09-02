@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T07:03:52Z"
 ---
 ## What it is
 Enables basic calculator operations such as add, subtract, multiply, and divide through an MCP interface.

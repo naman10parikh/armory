@@ -8,11 +8,13 @@ source_url: https://github.com/afrotools/afrotools
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-09T13:13:26Z"
 ---
 ## What it is
 Provides AI agents with structured, verified specs for African APIs like Wave and Paycard, enabling automatic integration code generation without manual documentation parsing.

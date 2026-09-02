@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-27T19:49:14Z"
 ---
 ## What it is
 Provides access to ConfigCat's management API for feature flag and configuration management, enabling CRUD operations on entities like feature flags, configs, environments, and products, as well as SDK documentation.

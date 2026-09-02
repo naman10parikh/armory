@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-13T09:35:21Z"
 ---
 ## What it is
 A comprehensive Model Context Protocol server for Jira Cloud integration, offering tools for board, issue, user, project, and time tracking management with enhanced features like AI-powered workflows and rate limiting.

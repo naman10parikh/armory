@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:52Z"
 ---
 ## What it is
 Enables users to search official Certidão Negativa de Débitos (negative debt certificates) from Rio de Janeiro's city government via a single read-only tool.

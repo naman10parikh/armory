@@ -8,10 +8,12 @@ source_url: https://github.com/tugcantopaloglu/godot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 219
+stars: 448
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 66
+pushed_at: "2026-07-13T08:04:01Z"
 ---
 ## What it is
 MCP server `Godot Engine Full Control`, catalogued on PulseMCP. Comprehensive Godot game engine integration with runtime code execution, scene manipulation, animation control, signal handling, and performance monitoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T23:48:57Z"
 ---
 ## What it is
 Enables n8n AI agents to manage MikroTik routers via SSH/SSE, providing tools for firewall, DNS, DHCP, WireGuard, interfaces, queues, backup, users, logs, and routes.

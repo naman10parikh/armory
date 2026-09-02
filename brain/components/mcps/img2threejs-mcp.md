@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:16:53Z"
 ---
 ## What it is
 Reconstructs a reference image as procedural 3D geometry through a staged pipeline, generating a Three.js model, preview, comparison, and glTF export.

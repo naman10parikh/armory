@@ -8,10 +8,12 @@ source_url: https://github.com/mario-andreschak/mcp-gameboy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-04-28T12:36:54Z"
 ---
 ## What it is
 MCP server `GameBoy Emulator`, catalogued on PulseMCP. Enables interaction with GameBoy emulator through button controls, ROM management, and screen capture for playing and analyzing games via natural language commands.

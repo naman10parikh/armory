@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T00:57:36Z"
 ---
 ## What it is
 Orchestrates sequential debates between multiple AI models across four phases (constructive, challenge, closing, synthesis) with host intervention and anti-sycophancy enforcement.

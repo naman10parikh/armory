@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T05:24:19Z"
 ---
 ## What it is
 A read-only MCP server that reports free games on Epic Games Store and GOG.com using public endpoints, without requiring any account or credentials.

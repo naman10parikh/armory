@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T15:13:23Z"
 ---
 ## What it is
 Converts a live ROS 2 occupancy map into shareable images (PNG/JPEG/base64) and provides tools for map metadata, coordinate conversion, corner goal finding, and Nav2 navigation commands.

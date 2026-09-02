@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-05T17:40:06Z"
 ---
 ## What it is
 MCP server `AKS Incident Agent`, catalogued on PulseMCP. Monitors Azure Kubernetes Service pod logs for errors, detects incidents using LLM analysis, and automatically creates routed Jira tickets.

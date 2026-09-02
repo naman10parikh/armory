@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-24T16:34:21Z"
 ---
 ## What it is
 The kernel that doesn't believe the agents — a domain-free trust substrate for fleets of autonomous agents: verify what shipped, arbitrate collisions, refuse with structured reasons.

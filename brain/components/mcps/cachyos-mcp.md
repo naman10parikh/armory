@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T10:27:13Z"
 ---
 ## What it is
 All-in-one Arch/CachyOS deep system control MCP server. It provides pacman + AUR package intelligence, system updates, and bundles network and sysprobe tools for full machine visibility and control.

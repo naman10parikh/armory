@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T02:46:00Z"
 ---
 ## What it is
 MCP server that lets a private ChatGPT app remotely control a paired Windows PC, including files, PowerShell, programs, screenshots, mouse/keyboard, clipboard, and Chrome.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T09:26:04Z"
 ---
 ## What it is
 MCP server that provides live facility data access and operational tools, enabling the AI agent to query sensor readings, HVAC status, energy usage, alerts, and execute confirmed maintenance actions.

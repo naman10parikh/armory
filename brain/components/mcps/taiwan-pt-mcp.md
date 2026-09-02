@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T03:40:51Z"
 ---
 ## What it is
 Enables AI assistants to query Taiwan physical therapy evidence, clinical guidelines, and regulations, avoiding fabrication of rehabilitation advice.

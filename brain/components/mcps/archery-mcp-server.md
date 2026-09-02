@@ -8,11 +8,13 @@ source_url: https://github.com/ckall/archery-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T01:59:53Z"
 ---
 ## What it is
 Enables AI agents to interact with the Archery SQL audit and query platform for submitting and managing SQL tickets, executing queries, and administering instances.

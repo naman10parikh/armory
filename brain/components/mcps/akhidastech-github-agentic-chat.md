@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-20T19:51:22Z"
 ---
 ## What it is
 MCP server `GitHub Agentic Chat`, catalogued on PulseMCP. Integrates with GitHub's API to enable natural language interaction with repositories, offering tools for searching, creating issues, and performing semantic searches across stored documents using PostgreSQL with pgvector.

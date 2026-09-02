@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-29T23:48:00Z"
 ---
 ## What it is
 Provides a pre-flight/post-flight firewall for LLM calls with comprehensive detection, classification, policy enforcement, reversible redaction, output safety, and immutable audit logging.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T03:51:50Z"
 ---
 ## What it is
 Enables AI agents to autonomously debug UIs by delegating high-level stories to a small agent that drives browsers or desktop apps and reports structured pass/fail findings with evidence.

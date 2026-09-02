@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T07:04:10Z"
 ---
 ## What it is
 Converts subtitles or text into a single 1080×1620 infographic card (HTML+PNG) using LLM to generate content and Puppeteer for rendering.

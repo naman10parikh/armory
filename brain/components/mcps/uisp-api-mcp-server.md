@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-21T08:14:40Z"
 ---
 ## What it is
 Enables interaction with Ubiquiti UISP API for managing network devices, sites, and monitoring through dynamically generated read-only tools.

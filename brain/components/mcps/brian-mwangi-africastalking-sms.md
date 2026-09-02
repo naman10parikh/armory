@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-04-04T06:21:56Z"
 ---
 ## What it is
 MCP server `Africa's Talking SMS`, catalogued on PulseMCP. Enables sending SMS messages through Africa's Talking API with features like dynamic message customization and sender ID configuration for notifications and alerts across African mobile networks.

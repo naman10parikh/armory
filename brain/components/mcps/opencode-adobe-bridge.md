@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T04:55:51Z"
 ---
 ## What it is
 MCP server that bridges OpenCode AI chat to Adobe After Effects and Premiere Pro via a local Node/Express server and ExtendScript, enabling commands like creating compositions, rendering, and executing scripts directly from the chat.

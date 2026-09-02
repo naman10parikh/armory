@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T23:20:39Z"
 ---
 ## What it is
 A remote MCP server that enables Claude to fetch client report data (starting with Arbor Energy) from arborreport.polarisconsulting.net, authenticated via Microsoft Entra ID.

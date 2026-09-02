@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, business-productivity-tools]
+forks: 0
+pushed_at: "2026-02-18T13:57:59Z"
 ---
 ## What it is
 A2A and MCP agent demo showing integration with business systems

@@ -8,10 +8,12 @@ source_url: https://github.com/yukukotani/mcp-gemini-google-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-20T02:00:22Z"
 ---
 ## What it is
 MCP server `Google Search (Gemini)`, catalogued on PulseMCP. Provides Google Search functionality through Gemini's native grounding capabilities, delivering search results with automatic source citations and grounding metadata for reliable information retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T09:47:57Z"
 ---
 ## What it is
 A self-hosted synchronization hub for frontend and backend teams using Cursor, enabling publishing and reading of shared project state with a local React dashboard.

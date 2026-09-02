@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T20:23:50Z"
 ---
 ## What it is
 MCP server giving agents canonical access to 180M+ US parcels with ownership, valuation, permits, deeds, hazard, and market data.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T13:47:51Z"
 ---
 ## What it is
 A local, zero-cloud MCP server for token and text compression. It provides tools to compress, auto-compress, measure, and decompress text using offline rules, lossless gzip packing, or a local Ollama semantic model.

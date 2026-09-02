@@ -8,11 +8,13 @@ source_url: https://github.com/anzy-renlab-ai/pronounce
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 34
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T10:54:22Z"
 ---
 ## What it is
 Look up how engineers actually pronounce project / product / jargon names (kubectl, nginx, JSON, Pydantic, JWT) — 1452+ entries with IPA, respelling, source citation, and confidence level.

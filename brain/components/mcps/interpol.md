@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:37:46Z"
 ---
 ## What it is
 Verifica se um nome consta nas notificações da Interpol usando nome, sobrenome e data de nascimento, para diligência de compliance e AML.

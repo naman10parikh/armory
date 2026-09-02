@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T14:20:53Z"
 ---
 ## What it is
 Enables coordination of CLI AI agent crews across Zellij terminal panes, allowing users to spawn agents, send prompts, inspect outputs, sync signals, and manage git worktrees via natural language.

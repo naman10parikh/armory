@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-25T14:45:26Z"
 ---
 ## What it is
 Integrates with Claude Code to execute AI-powered code analysis and workflow automation, supporting pre-defined scenarios like code review and security audit.

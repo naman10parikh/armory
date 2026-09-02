@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2025-07-06T02:11:03Z"
 ---
 ## What it is
 Enables AI agents to query and mutate data in Microsoft Fabric data warehouse via GraphQL using Model Context Protocol.

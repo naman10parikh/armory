@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T16:47:59Z"
 ---
 ## What it is
 An MCP server that owns the harness: your project's constitution, structure, design rules, requirements and phased tasks. The agent reads it, writes code from it, and may only propose changes to it.

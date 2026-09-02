@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T21:43:00Z"
 ---
 ## What it is
 An MCP server that provides tools to look up and verify Australian businesses using the Australian Business Register API, enabling AI agents to retrieve business details via ABN, ACN, or name search.

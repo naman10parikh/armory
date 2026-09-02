@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T03:43:38Z"
 ---
 ## What it is
 Enables hybrid search (dense + sparse) over self-hosted indexes of continuously ingested public datasets (news, GitHub, Wikipedia, arXiv, small web, devdocs, Hacker News) using your own embedding model, served via the Model Context Protocol.

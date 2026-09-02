@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T20:22:27Z"
 ---
 ## What it is
 Local paper-trading and market simulation MCP server for multi-account portfolios, advanced orders, options/futures, backtesting, alerts, and automation.

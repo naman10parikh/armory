@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T00:36:38Z"
 ---
 ## What it is
 AI-powered MCP server for IDA Pro with Fusion enhancements. Provides persistent SQLite caching, multi-binary analysis, QiChuEntry integration, worker supervision, and scalable reverse-engineering workflows. Based on the mrexodia upstream with extensive extensions for automation and large-scale analy

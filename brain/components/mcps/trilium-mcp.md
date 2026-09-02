@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T02:04:04Z"
 ---
 ## What it is
 MCP server for connecting ChatGPT Web to a TriliumNext knowledge base, enabling search, read, create, edit, rename, and move operations through the Trilium ETAPI.

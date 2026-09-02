@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-27T14:27:48Z"
 ---
 ## What it is
 MCP server `bloodyAD`, catalogued on PulseMCP. Provides Active Directory penetration testing and enumeration capabilities through a Docker-containerized wrapper around the bloodyAD tool, offering 26 specialized tools for AD reconnaissance, privilege escalation, and object manipulation with support for various authentication methods including Kerberos.

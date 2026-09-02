@@ -8,10 +8,12 @@ source_url: https://github.com/lfnovo/surreal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-01-03T13:15:46Z"
 ---
 ## What it is
 MCP server `SurrealDB`, catalogued on PulseMCP. Connects to SurrealDB's multi-model database enabling graph, document, and relational operations through ten core tools including query execution, CRUD operations, graph traversal, and bulk data management.

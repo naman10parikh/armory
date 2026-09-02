@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T11:07:56Z"
 ---
 ## What it is
 A remote MCP server that generates and edits images using OpenAI API, hosts results on Vercel Blob, and returns public image URLs, enabling Claude to embed images in cloud features.

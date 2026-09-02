@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T16:31:22Z"
 ---
 ## What it is
 Enables posting and managing topics in Discord forum channels, including creating posts, replying, listing posts, and retrieving messages.

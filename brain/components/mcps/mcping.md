@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-21T21:32:42Z"
 ---
 ## What it is
 Enables AI assistants to send desktop notifications on macOS with rich formatting, urgency levels, and sound options.

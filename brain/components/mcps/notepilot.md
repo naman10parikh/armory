@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-22T07:26:31Z"
 ---
 ## What it is
 A Python MCP server that exposes note management tools (create, search, update, delete notes) over stdio, enabling Claude AI to manage notes through natural language conversation.

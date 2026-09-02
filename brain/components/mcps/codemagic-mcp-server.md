@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-05-28T14:22:59Z"
 ---
 ## What it is
 A lightweight MCP server that provides seamless access to Codemagic CI/CD APIs, enabling natural language interaction with applications, builds, artifacts, caches, and teams.

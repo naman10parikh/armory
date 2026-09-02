@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-28T19:44:11Z"
 ---
 ## What it is
 MCP server `Context Engineering`, catalogued on PulseMCP. Keeps AI coding agents aligned by generating PRDs, specs, and plans that prevent context loss and random rewrites.

@@ -8,11 +8,13 @@ source_url: https://github.com/liujunjie666777/quartus-Lmcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T02:39:25Z"
 ---
 ## What it is
 Enables automation of Intel/Altera Quartus FPGA design flow including project management, compilation, simulation, timing analysis, and programming via Claude Code.

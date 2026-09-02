@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T05:41:34Z"
 ---
 ## What it is
 Evidence-first delivery audit MCP server that evaluates task requirements against delivery evidence and returns a reproducible pass/needs_review/fail decision with a deterministic receipt.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T05:54:15Z"
 ---
 ## What it is
 Custom MCP server for Gmail integration, enabling email listing, reading, searching, and sending via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T05:58:02Z"
 ---
 ## What it is
 Discovers MCP servers by capability and lets agents call them remotely through a hosted proxy, with per-use metering and payment via Stripe.

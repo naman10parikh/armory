@@ -12,6 +12,8 @@ stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 20
+pushed_at: "2025-08-18T14:01:31Z"
 ---
 ## What it is
 MCP server `WolframAlpha`, catalogued on PulseMCP. Integrates with WolframAlpha to enable computational knowledge queries, scientific calculations, and data analysis across diverse disciplines.

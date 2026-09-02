@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T02:30:32Z"
 ---
 ## What it is
 An MCP server that bridges CLI coding agents like Claude Code, Codex, opencode, and Antigravity into any MCP client, enabling synchronous and asynchronous task execution, follow-up input, and a structured code review tool.

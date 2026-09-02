@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T18:45:40Z"
 ---
 ## What it is
 Decode and cryptographically verify Apple App Store Server Notifications V2 with full ES256 signature and certificate chain validation, and explain notification types.

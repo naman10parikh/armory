@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T17:57:13Z"
 ---
 ## What it is
 Enables Claude Code to keep a stable MCP connection to an Obsidian vault across Obsidian closures or restarts, automatically reconnecting and surfacing graceful errors when Obsidian is unavailable.

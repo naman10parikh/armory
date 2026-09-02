@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:21:07Z"
 ---
 ## What it is
 MCP server `Mastodon`, catalogued on PulseMCP. Read timelines, search posts, and look up accounts on Mastodon.social via the Mastodon API.

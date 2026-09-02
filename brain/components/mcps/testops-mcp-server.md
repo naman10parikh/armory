@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-27T12:29:10Z"
 ---
 ## What it is
 Enables AI assistants to interact with TestOps 5.25 for managing projects, test runs, test plans, and test cases via MCP tools.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T12:01:34Z"
 ---
 ## What it is
 MCP server `Oncology DB`, catalogued on PulseMCP. Queries precision oncology databases including CIViC, OpenFDA, and ClinicalTrials.gov for clinical evidence and drug data.

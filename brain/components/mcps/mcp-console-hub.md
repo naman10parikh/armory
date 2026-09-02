@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T06:43:35Z"
 ---
 ## What it is
 Streams browser DevTools console, network, storage, and performance data to your IDE's AI agent for real-time debugging and analysis.

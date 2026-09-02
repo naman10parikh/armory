@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T04:38:43Z"
 ---
 ## What it is
 Integrates Chinese travel and map services into MCP-compatible clients, offering geocoding, POI search, and reverse geocoding via Amap API.

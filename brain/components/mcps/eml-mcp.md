@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T15:50:32Z"
 ---
 ## What it is
 MCP server for managing email archives as .eml files, synced with OneDrive, enabling AI assistants to read/write inbox, outbox, and drafts.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:25:52Z"
 ---
 ## What it is
 MCP server `Notion Connect`, catalogued on PulseMCP. Notion workspace access via the Notion API — search, retrieve pages, query databases, and list accessible content.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T21:05:16Z"
 ---
 ## What it is
 Enables AI coding agents to persist, share, and retrieve project context locally via plain-text files, with support for capturing, packing, searching, and importing transcripts without external services.

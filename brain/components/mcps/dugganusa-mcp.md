@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T17:24:58Z"
 ---
 ## What it is
 Enables AI assistants to query the DugganUSA threat-intel corpus (1.5M+ IOCs) via three read-only tools: search, enrich-ioc, and stix-feed-summary.

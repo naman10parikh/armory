@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:12Z"
 ---
 ## What it is
 Read-only MCP server that queries official protest data from CENPROT SP, offering a single tool for consultations with prepaid credits.

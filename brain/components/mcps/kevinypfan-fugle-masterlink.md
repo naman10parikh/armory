@@ -8,10 +8,12 @@ source_url: https://github.com/fugle-dev/fugle-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-22T05:29:55Z"
 ---
 ## What it is
 MCP server `Fugle Masterlink (Taiwan Stock Market)`, catalogued on PulseMCP. Provides a bridge between AI systems and the Masterlink SDK for Taiwan stock market trading, enabling account management, market data retrieval, and trade execution for financial analysis and automated trading strategies.

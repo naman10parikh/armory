@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T18:33:52Z"
 ---
 ## What it is
 Provides preflight checks and domain intelligence so agents can skip domains that will refuse them or charge a fee, covering robots.txt, edge refusals, and HTTP 402 paywalls.

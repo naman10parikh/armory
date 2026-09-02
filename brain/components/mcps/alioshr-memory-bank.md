@@ -8,10 +8,12 @@ source_url: https://github.com/alioshr/memory-bank-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 906
+stars: 919
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 86
+pushed_at: "2025-08-20T10:23:06Z"
 ---
 ## What it is
 MCP server `Memory Bank`, catalogued on PulseMCP. Transforms file-based memory banks into a centralized, remotely accessible service for multi-project management with consistent structure and validation.

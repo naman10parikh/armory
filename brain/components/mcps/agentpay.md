@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T03:31:32Z"
 ---
 ## What it is
 AgentPay is the authorization layer between an AI agent and real spending. You define the rules — spending caps, allowed merchants, time windows — and every purchase attempt the agent makes is checked against them in real time. Approved transactions go through. Anything outside the mandate is blocke

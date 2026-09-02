@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T02:56:06Z"
 ---
 ## What it is
 A local-first Python MCP server for Easy.gg BedWars custom scripting, enabling users to create, edit, and sync Roblox BedWars scripts using official APIs and Code Sync.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-16T21:38:06Z"
 ---
 ## What it is
 A Node.js MCP server providing user management, task management, and calculator tools with Bearer token authentication, deployable on Cloudtype.

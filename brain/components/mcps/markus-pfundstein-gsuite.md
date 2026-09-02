@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-01-26T13:11:49Z"
 ---
 ## What it is
 MCP server `Gmail & Google Calendar`, catalogued on PulseMCP. Integrates with Gmail and Google Calendar APIs to enable email management and scheduling capabilities directly within conversation interfaces.

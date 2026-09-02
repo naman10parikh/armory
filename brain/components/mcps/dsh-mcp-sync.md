@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T16:34:47Z"
 ---
 ## What it is
 Automatically synchronizes and deduplicates MCP configurations from Claude Code, Codex CLI, Cursor Agent, and custom sources, providing a centralized view and management interface.

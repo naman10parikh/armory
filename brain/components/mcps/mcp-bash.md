@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2025-04-14T17:22:56Z"
 ---
 ## What it is
 Enables execution of bash commands via MCP, allowing clients to run shell commands and set a working directory.

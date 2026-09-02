@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-10T03:42:30Z"
 ---
 ## What it is
 MCP server `Citadel`, catalogued on PulseMCP. Bundles per-stack documentation tools for coding agents.

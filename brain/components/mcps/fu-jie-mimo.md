@@ -8,10 +8,12 @@ source_url: https://github.com/fu-jie/mimo-free-api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-26T05:27:02Z"
 ---
 ## What it is
 MCP server `MiMo`, catalogued on PulseMCP. OpenAI-compatible gateway for Xiaomi's MiMo AI models with web search and vision tools via reverse-engineered API access.

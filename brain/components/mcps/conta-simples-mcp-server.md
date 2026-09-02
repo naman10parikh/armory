@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:38:55Z"
 ---
 ## What it is
 Integrates with Conta Simples to manage business banking, credit cards, and team accounts through natural language. Provides tools for viewing statements, managing cards, categories, users, and invites.

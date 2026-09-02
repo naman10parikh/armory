@@ -12,6 +12,8 @@ stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-05-01T11:50:57Z"
 ---
 ## What it is
 MCP server `Drupal`, catalogued on PulseMCP. Integrates with Drupal's API to enable content management, user administration, and site configuration for automated website operations and personalized content delivery.

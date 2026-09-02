@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T09:58:01Z"
 ---
 ## What it is
 Local MCP server for Android and iOS mobile automation and performance telemetry, enabling device control (screenshot, tap, swipe, input, app launch) and metric collection (CPU, memory, launch time) via ADB, simctl, and WebDriverAgent with SQLite session history.

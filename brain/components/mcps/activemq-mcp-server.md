@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-01T13:09:10Z"
 ---
 ## What it is
 Enables AI assistants to manage ActiveMQ message brokers through MCP tools, supporting queue and topic operations, dynamic connection management, message browsing, and health monitoring.

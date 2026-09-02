@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T20:46:52Z"
 ---
 ## What it is
 A basic skeleton for building MCP servers with Supabase-based authentication, RBAC, and audit logging. It provides tool and resource implementations for hub and contracts platforms, enabling secure, tenant-isolated operations.

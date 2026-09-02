@@ -8,11 +8,13 @@ source_url: https://github.com/chengzuopeng/stock-sdk-mcp
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 97
+stars: 100
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2026-05-24T05:52:57Z"
 ---
 ## What it is
 Provides comprehensive stock market data (A-shares, Hong Kong, US) including real-time quotes, K-lines, technical indicators, sectors, futures, and options, with built-in AI Skills and MCP Prompts for financial analysis.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-09-01T22:22:11Z"
 ---
 ## What it is
 MCP server `Open Telekom Cloud Pricing`, catalogued on PulseMCP. Query Open Telekom Cloud service pricing and resource cost estimates via MCP.

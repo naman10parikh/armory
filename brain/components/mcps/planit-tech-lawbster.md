@@ -8,10 +8,12 @@ source_url: https://github.com/planit-tech/lawbster-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-24T12:44:53Z"
 ---
 ## What it is
 MCP server `Lawbster`, catalogued on PulseMCP. Managed SaaS MCP server providing verified, citable access to German and EU law with daily updates from official sources.

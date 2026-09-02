@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-09T13:08:39Z"
 ---
 ## What it is
 MCP server `Florentine.ai`, catalogued on PulseMCP. Natural language interface for MongoDB databases with vector search and multi-tenant security

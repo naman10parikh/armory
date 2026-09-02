@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-05-01T00:37:55Z"
 ---
 ## What it is
 MCP server `Mac Use`, catalogued on PulseMCP. Zero-dependency macOS desktop automation providing screenshots, clicks, keystrokes, window management, accessibility inspection, and clipboard control for AI agents.

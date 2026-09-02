@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 29
+pushed_at: "2026-04-23T11:22:36Z"
 ---
 ## What it is
 Enables searching over 20,000+ smart contract audit findings from Solodit, with filters for severity, firm, tags, and more. Designed for use with AI coding agents like Claude Code and Codex CLI.

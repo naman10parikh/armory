@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-12T15:13:33Z"
 ---
 ## What it is
 MCP server `URL Text Fetcher`, catalogued on PulseMCP. Extracts visible text content and hyperlinks from web pages using requests and BeautifulSoup4 for web scraping, content analysis, and link discovery workflows.

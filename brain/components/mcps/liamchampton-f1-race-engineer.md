@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-13T01:37:03Z"
 ---
 ## What it is
 MCP server `F1 Race Engineer`, catalogued on PulseMCP. F1 race engineering assistant MCP server providing real-time race data, strategy analysis, and lap time telemetry.

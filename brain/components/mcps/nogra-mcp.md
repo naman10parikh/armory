@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T04:57:27Z"
 ---
 ## What it is
 Provides 32 local tools for managing briefs, dispatch, run events, registry, and redaction in AI-assisted workflows, operating entirely on local markdown/JSON files with no network calls.

@@ -8,10 +8,12 @@ source_url: https://github.com/leximo-ai/leximo-ai-call-assistant-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-18T10:13:51Z"
 ---
 ## What it is
 MCP server `Leximo Call Assistant`, catalogued on PulseMCP. Schedule AI phone calls, manage assignments, browse calling agents, and track credits through the Leximo platform.

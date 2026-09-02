@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T21:28:26Z"
 ---
 ## What it is
 MCP server for querying HyRead ebook collections across 41 Taiwan public libraries, enabling search, book details, and library availability checks via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T14:56:43Z"
 ---
 ## What it is
 Enables AI clients to create and manage tasks via a local REST API by converting natural language into HTTP requests through the Model Context Protocol.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T09:35:31Z"
 ---
 ## What it is
 MCP server for the InfiniteTalk model line, enabling audio-to-video task creation, status polling, and pricing checks via a RunAPI API key.

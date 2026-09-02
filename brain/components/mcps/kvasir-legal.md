@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T18:08:33Z"
 ---
 ## What it is
 Verifiable German, Austrian, Swiss and EU law: resolve citations to the wording in force, verify the citations a model produced against the official source, and walk the citation graph.

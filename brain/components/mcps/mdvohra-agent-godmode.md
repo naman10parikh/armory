@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T19:19:20Z"
 ---
 ## What it is
 MCP server `Agent Godmode`, catalogued on PulseMCP. Workspace-scoped file system and command execution tools for building agentic applications, keeping API keys in user-controlled environments.

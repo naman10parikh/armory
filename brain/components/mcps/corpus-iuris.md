@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T19:15:38Z"
 ---
 ## What it is
 Enables AI agents to search Mexican federal and state statutes, Supreme Court theses, and precedents, returning verifiable citations with dated validity, public URLs, and explicit indication of whether case law is binding jurisprudence or merely persuasive.

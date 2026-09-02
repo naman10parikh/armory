@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T21:08:53Z"
 ---
 ## What it is
 A local-first MCP policy gateway that provides a four-step workflow (plan, approve, execute, read) for a single Apify fixture Actor, enforcing a fixed policy and sanitizing results. It does not call Apify and is designed as a policy control plane.

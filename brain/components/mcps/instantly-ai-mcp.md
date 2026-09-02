@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T15:27:50Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Instantly.ai v2 API to manage campaigns, leads, accounts, replies, blocklist, and webhooks, with tools organized into read, write, and dangerous safety tiers.

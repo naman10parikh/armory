@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T14:28:00Z"
 ---
 ## What it is
 Enables AI agents to search CustomNPCs JavaDoc for methods, fields, and class hierarchies across multiple Minecraft versions and forks.

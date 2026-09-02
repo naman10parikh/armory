@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-18T13:02:42Z"
 ---
 ## What it is
 MCP server `Robokassa`, catalogued on PulseMCP. Generate payment URLs and check invoice status via the Robokassa payment API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 18
+pushed_at: "2025-08-05T08:47:58Z"
 ---
 ## What it is
 Enables interactive data analysis using a real IPython kernel with session management, supporting CSV/Excel/JSON loading, code execution, and variable monitoring.

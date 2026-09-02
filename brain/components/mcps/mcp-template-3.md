@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T08:52:24Z"
 ---
 ## What it is
 Bootstraps an MCP-first SaaS with dual-host widgets for Claude and ChatGPT, Supabase OAuth 2.1 auth, and shared services pattern.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T10:33:42Z"
 ---
 ## What it is
 Read-only MCP server for finding Discord messages. It enables searching guild messages, locating messages from jump URLs, and reading context around results.

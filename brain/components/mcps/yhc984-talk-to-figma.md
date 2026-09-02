@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-21T00:26:59Z"
 ---
 ## What it is
 MCP server `Talk to Figma`, catalogued on PulseMCP. Enables AI interaction with Figma designs through a WebSocket bridge that allows reading and modifying elements with tools for creation, styling, layout management, and exporting.

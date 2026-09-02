@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T08:02:24Z"
 ---
 ## What it is
 Web search tool using Serper API (primary) with DuckDuckGo fallback on error or empty results.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-27T05:14:28Z"
 ---
 ## What it is
 MCP server that converts URLs to clean Markdown/Text for LLM agents.

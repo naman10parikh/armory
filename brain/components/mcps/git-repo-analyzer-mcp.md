@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T09:00:27Z"
 ---
 ## What it is
 Enables analysis of local Git repositories via standard git commands, providing insights like line authorship, commit frequency, code churn, and co-changed files.

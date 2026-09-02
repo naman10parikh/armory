@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:11:48Z"
 ---
 ## What it is
 Enables coding agents to query and commit to a research graph that remembers failed experiments, ensuring reproducibility and preventing redundant work.

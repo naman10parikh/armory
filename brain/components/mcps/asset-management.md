@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:56:36Z"
 ---
 ## What it is
 A local, read-only MCP server (plus CLI) over your own stock/ETF transaction log. A deterministic core computes drawdown-first risk with bootstrap confidence intervals and validates targets with walk-forward verdicts. The assistant narrates, but the number fence makes it structurally impossible for 

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T13:54:13Z"
 ---
 ## What it is
 Enables AI agents to manage and configure pfSense routers through the pfSense REST API, offering 240 tools across 17 modules with safety features like confirm gates, config backups, and read-only mode.

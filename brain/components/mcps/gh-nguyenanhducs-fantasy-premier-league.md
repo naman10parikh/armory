@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-20T04:40:37Z"
 ---
 ## What it is
 MCP server `Fantasy Premier League`, catalogued on PulseMCP. Fantasy Premier League analysis and strategy tools.

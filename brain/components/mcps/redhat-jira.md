@@ -8,10 +8,12 @@ source_url: https://github.com/redhat-community-ai-tools/jira-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 23
+pushed_at: "2026-03-27T19:18:10Z"
 ---
 ## What it is
 MCP server `Red Hat Jira`, catalogued on PulseMCP. Integrates with Red Hat's Jira instance to provide comprehensive issue management, project administration, and agile workflow operations through 20 specialized tools covering search, boards, sprints, components, versions, and user management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T04:12:44Z"
 ---
 ## What it is
 Enables security agents to interact with the Kuroko web security testing platform through MCP, providing access to traffic history, site graph entities, findings, and scan jobs with read-only defaults and scoped, approved tools for testing operations.

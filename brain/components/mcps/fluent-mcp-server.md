@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-11-03T10:46:17Z"
 ---
 ## What it is
 Provides smart URL navigation to ANSYS Fluent documentation, enabling AI assistants to quickly find relevant help pages and manual sections.

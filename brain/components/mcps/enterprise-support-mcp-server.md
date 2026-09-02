@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:32:42Z"
 ---
 ## What it is
 A prototype that exposes customer and order data to LLMs via the Model Context Protocol, enabling natural-language queries and multi-step tool calling.

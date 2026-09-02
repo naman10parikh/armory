@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T17:53:03Z"
 ---
 ## What it is
 Exposes a fictional B2B CRM database (companies, contacts, deals) as callable MCP tools, enabling AI agents to answer natural-language questions about company records, contacts, and pipeline data.

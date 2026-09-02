@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T02:21:51Z"
 ---
 ## What it is
 A local knowledge base server that connects to AI assistants, turning markdown files into a semantically searchable memory layer via OpenAI embeddings and SQLite.

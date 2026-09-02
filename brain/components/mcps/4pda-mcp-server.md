@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T12:25:56Z"
 ---
 ## What it is
 A remote MCP server for searching topics and reading posts from the 4PDA forum via Streamable HTTP, enabling interaction with forum content without hosting on a personal computer.

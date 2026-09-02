@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-05T18:38:31Z"
 ---
 ## What it is
 MCP server `Linode`, catalogued on PulseMCP. Provides a bridge to the Linode cloud infrastructure API, enabling developers to query and manage cloud resources through conversational interactions with external tools.

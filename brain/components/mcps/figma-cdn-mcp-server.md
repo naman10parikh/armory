@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T06:13:49Z"
 ---
 ## What it is
 Uploads temporary Figma MCP asset URLs to the CDN after Tinify optimization.

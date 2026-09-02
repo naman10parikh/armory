@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-09-01T17:24:14Z"
 ---
 ## What it is
 Enables AI agents to perform web searches with full content retrieval and multi-engine provenance, including trust scoring and local corpus persistence, via MCP integration.

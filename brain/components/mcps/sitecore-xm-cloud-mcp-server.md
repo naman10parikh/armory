@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T02:58:04Z"
 ---
 ## What it is
 AI-driven MCP server for Sitecore XM Cloud authoring, enabling template creation via GraphQL API with OAuth support for Sitecore Agentic Studio.

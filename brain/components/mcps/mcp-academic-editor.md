@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-20T20:45:56Z"
 ---
 ## What it is
 A sophisticated academic manuscript revision system that provides surgical, line-anchored editing tools through MCP, designed for precise manuscript revisions while maintaining word count and semantic integrity.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T04:57:18Z"
 ---
 ## What it is
 Voice interface for Claude Code enabling hands-free, conversational interaction entirely on-device for Apple Silicon Macs. It provides push-to-talk transcription and automatic spoken responses via local AI models.

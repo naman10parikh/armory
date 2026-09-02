@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T09:10:37Z"
 ---
 ## What it is
 MCP server for buying advertising outcomes such as Telegram subscribers and website traffic from a prepaid balance. Provides tools for campaign management, forecasting, and budget control, with guardrails so agents can spend but not fund or withdraw.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-21T14:33:34Z"
 ---
 ## What it is
 A natural language interface for the Brain knowledge management system, enabling conversational interactions, intelligent workflows, and tool suggestions.

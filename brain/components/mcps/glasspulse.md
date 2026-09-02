@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T19:24:12Z"
 ---
 ## What it is
 Enables AI agents to query and monitor service status, latency, and performance through configurable checks (HTTP, TCP, SSL, keyword, JSON-path) and exposes tools for listing services, retrieving metrics, and running on-demand checks.

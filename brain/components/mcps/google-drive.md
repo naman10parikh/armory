@@ -8,11 +8,13 @@ source_url: https://github.com/felores/gdrive-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [knowledge, mcp, search]
 mentions: 12
+forks: 39
+pushed_at: "2025-11-07T11:04:20Z"
 ---
 
 ## What it is

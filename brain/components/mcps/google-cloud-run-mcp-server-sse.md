@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T22:35:13Z"
 ---
 ## What it is
 Enables deployment of a Model Context Protocol server with SSE transport on Google Cloud Run for integration with Antigravity.

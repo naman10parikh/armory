@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-12-01T12:19:27Z"
 ---
 ## What it is
 MCP server `AgentBay`, catalogued on PulseMCP. Provides serverless cloud infrastructure for AI agents.

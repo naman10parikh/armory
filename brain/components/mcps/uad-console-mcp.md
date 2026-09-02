@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T06:17:37Z"
 ---
 ## What it is
 Enables reading and controlling a Universal Audio Apollo interface: channel names, faders, preamp gain, cue sends, monitor control, and more via the UA Mixer Engine's local TCP API.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-25T04:34:44Z"
 ---
 ## What it is
 MCP server `iDig DNS`, catalogued on PulseMCP. Professional DNS diagnostics with 14 tools for DNS lookup, DNSSEC validation, email security auditing, SSL checks, and global propagation monitoring.

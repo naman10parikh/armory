@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T08:26:08Z"
 ---
 ## What it is
 AI-driven CAM automation server that wraps AlphaCAM 2016 R1 COM API into MCP tools, enabling geometry creation, machining operations, tool management, nesting, and NC code output.

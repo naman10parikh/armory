@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T01:45:53Z"
 ---
 ## What it is
 MCP server that lets you talk to your GoHighLevel sub-account in plain English, offering six tools to search contacts, list calendars, check free slots, and book appointments with dry-run safety and explicit error messages.

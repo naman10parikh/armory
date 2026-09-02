@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T08:59:30Z"
 ---
 ## What it is
 Enables AI assistants to interact with STM32 development boards via J-Link debugger using RTT communication, supporting connection, logging, memory operations, and firmware flashing through natural language.

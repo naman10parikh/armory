@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T20:25:27Z"
 ---
 ## What it is
 Enables undetected Chrome automation and JavaScript reverse engineering through SeleniumBase's CDP Mode, allowing MCP clients to control browsers and inspect page scripts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T06:43:59Z"
 ---
 ## What it is
 Enables Claude Code CLI to interact with Obsidian by reading selections, opening files, showing diffs, and running an embedded terminal.

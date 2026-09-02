@@ -12,6 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-08-29T20:55:22Z"
 ---
 ## What it is
 MCP server `Pokémon Data`, catalogued on PulseMCP. Provides a bridge to Pokémon data, enabling interaction with comprehensive information about species, abilities, moves, and game mechanics through TypeScript and Node.js.

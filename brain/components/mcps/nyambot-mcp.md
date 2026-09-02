@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T09:19:54Z"
 ---
 ## What it is
 A French administration MCP server that enables AI agents to access official public data including communes, geocoding, property risks, and energy performance certificates (DPE) for real estate evaluation.

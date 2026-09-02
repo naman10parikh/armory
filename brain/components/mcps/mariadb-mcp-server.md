@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T09:55:46Z"
 ---
 ## What it is
 A read-only MCP Server that acts as an interface between a MariaDB database and Open-WebUI. It allows only read-only queries and blocks all write operations.

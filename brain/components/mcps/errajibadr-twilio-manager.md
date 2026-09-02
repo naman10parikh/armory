@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-16T21:58:10Z"
 ---
 ## What it is
 MCP server `Twilio Manager`, catalogued on PulseMCP. Manages Twilio resources through asynchronous API interactions, enabling efficient concurrent operations for subaccounts, phone numbers, addresses, and regulatory bundles with features like resource transfers and duplication.

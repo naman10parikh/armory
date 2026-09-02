@@ -8,10 +8,12 @@ source_url: https://github.com/jghiringhelli/codeseeker
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-08-12T13:59:30Z"
 ---
 ## What it is
 MCP server `CodeSeeker`, catalogued on PulseMCP. Graph-powered code intelligence with semantic search, knowledge graph traversal, and coding standards detection.

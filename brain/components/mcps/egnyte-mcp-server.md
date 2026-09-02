@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-06-23T15:05:18Z"
 ---
 ## What it is
 Enables AI agents to search for and retrieve documents from Egnyte by name, using Egnyte's public APIs and Python SDK, integrating enterprise content into AI workflows.

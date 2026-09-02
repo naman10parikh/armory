@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-11T06:56:09Z"
 ---
 ## What it is
 MCP server `TapSite`, catalogued on PulseMCP. Web intelligence extraction for design systems, accessibility, performance, and content analysis.

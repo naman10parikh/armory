@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T15:03:40Z"
 ---
 ## What it is
 Enables AI agents to conjugate verbs in 14 European languages via a hosted Rust API, requiring only a free API key.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T01:08:50Z"
 ---
 ## What it is
 Acts as a gating proxy for MCP servers, merging tools and applying policy, verification, and audit layers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T19:27:15Z"
 ---
 ## What it is
 MCP server for StampUI that lets AI coding agents browse the block registry and install blocks as real .tsx source files.

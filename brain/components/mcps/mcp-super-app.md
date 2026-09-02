@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T17:40:38Z"
 ---
 ## What it is
 MCP server for Claude Code that consolidates routine setup actions like project scaffolding, skills, landing page builds, guard hooks, images, and icons into a single entry point.

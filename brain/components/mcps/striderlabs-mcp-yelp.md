@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T04:08:13Z"
 ---
 ## What it is
 MCP server for Yelp integration, enabling AI agents to search for local businesses, read reviews, view photos, check hours, find deals, and discover trending spots.

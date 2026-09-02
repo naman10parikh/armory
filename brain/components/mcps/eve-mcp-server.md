@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T13:41:12Z"
 ---
 ## What it is
 Bridges AI assistants with EVE-NG network simulation labs, enabling autonomous management of labs, device configuration, and diagnostics through natural language.

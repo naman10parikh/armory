@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-30T23:07:29Z"
 ---
 ## What it is
 This MCP server integrates with Journey Log to automatically document development journeys, enabling AI assistants to create, update, and retrieve documents, capture conversations, and manage code snippets.

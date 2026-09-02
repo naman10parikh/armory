@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-03T09:13:15Z"
 ---
 ## What it is
 Streams live React profiler data to AI agents, enabling them to analyze performance and suggest specific, actionable fixes for slow components.

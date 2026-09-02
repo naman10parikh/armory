@@ -8,11 +8,13 @@ source_url: https://github.com/elastic/example-mcp-app-security
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2026-08-20T16:12:45Z"
 ---
 ## What it is
 Brings interactive blue-team security operations into AI hosts, enabling alert triage, attack discovery, case management, detection rules, threat hunting, and sample data generation with rich inline UIs.

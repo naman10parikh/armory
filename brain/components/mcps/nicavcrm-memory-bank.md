@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-08-25T02:46:49Z"
 ---
 ## What it is
 MCP server `Memory Bank`, catalogued on PulseMCP. Implements a structured development workflow system with five operational modes (VAN, PLAN, CREATIVE, IMPLEMENT, REFLECT+ARCHIVE) that maintains persistent project state and context across development phases using file-based storage.

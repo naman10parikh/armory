@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T19:59:28Z"
 ---
 ## What it is
 A safe, structured MCP server that lets AI inspect and operate a VPS through typed, allowlisted tools for nginx, PM2, SSL, UFW, fail2ban, with read-only defaults and opt-in mutations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T22:04:27Z"
 ---
 ## What it is
 SPARDA is a zero-configuration MCP builder that converts existing Express and FastAPI applications into fully functional Model Context Protocol servers. It automatically generates tools from routes, preserves API schemas, and accelerates MCP development from hours to minutes.

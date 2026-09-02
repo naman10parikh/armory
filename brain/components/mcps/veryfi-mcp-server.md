@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-26T23:50:51Z"
 ---
 ## What it is
 Integrates Veryfi for document processing, enabling data extraction from documents via the Model Context Protocol.

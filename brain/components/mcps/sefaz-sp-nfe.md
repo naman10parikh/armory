@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:01Z"
 ---
 ## What it is
 Enables querying official São Paulo state electronic invoices (NFE) data from SEFAZ SP via a read-only MCP server, using prepaid credits and no platform credentials.

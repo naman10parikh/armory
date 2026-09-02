@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T11:37:29Z"
 ---
 ## What it is
 Turns the 2026 CLCP orientation corpus into a searchable, citation-preserving reference source for TPLCP report work.

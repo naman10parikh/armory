@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T12:36:58Z"
 ---
 ## What it is
 MCP server `A2A Replay Receipt`, catalogued on PulseMCP. Structured A2A failure replay receipts with audit logs and reviewer-ready evidence for agent compliance workflows.

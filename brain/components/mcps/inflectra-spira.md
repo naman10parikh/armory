@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-05T05:10:01Z"
 ---
 ## What it is
 MCP server `Spira`, catalogued on PulseMCP. Application lifecycle management platform for agile teams and enterprises

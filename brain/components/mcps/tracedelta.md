@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T19:35:02Z"
 ---
 ## What it is
 Enables AI agents and engineers to create and reuse source-verifiable evidence capsules for incident investigations over SigNoz telemetry, reducing duplicated queries and providing delta updates.

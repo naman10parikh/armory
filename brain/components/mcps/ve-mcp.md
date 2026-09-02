@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T16:32:38Z"
 ---
 ## What it is
 Enables AI agents to autonomously edit videos into publish-ready vertical short-form content, including silence removal, subtitle generation, voiceover synthesis, color grading, and composite pipeline creation.

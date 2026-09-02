@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-06T09:36:37Z"
 ---
 ## What it is
 Indexes Unreal Engine project C++ source, config files, dependencies, gameplay tags, replication, asset references, and log categories into a SQLite database and exposes tools for AI assistants to query structural and config info.

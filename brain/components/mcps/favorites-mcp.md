@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T13:29:03Z"
 ---
 ## What it is
 Enables AI agents to organize and manage Chrome/Edge bookmarks through natural language, with user-controlled permissions, privacy filters, and safety mechanisms.

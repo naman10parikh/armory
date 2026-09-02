@@ -8,10 +8,12 @@ source_url: https://github.com/ukkasyahahmad/shamela-mcp-universal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T00:14:13Z"
 ---
 ## What it is
 MCP server `Shamela Universal`, catalogued on PulseMCP. Enables access to the Shamela Islamic library for searching and retrieving classical texts.

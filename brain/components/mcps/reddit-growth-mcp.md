@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T19:06:36Z"
 ---
 ## What it is
 A toolkit for analyzing subreddits and post patterns to help choose communities and shape posts using real data, running as an MCP server and command-line tool.

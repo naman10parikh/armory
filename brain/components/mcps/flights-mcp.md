@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T06:48:40Z"
 ---
 ## What it is
 An MCP server that provides flight search capabilities using the Aviasales API, allowing users to search, filter, and get details on flights and generate booking links.

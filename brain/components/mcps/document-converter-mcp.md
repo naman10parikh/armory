@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T10:10:01Z"
 ---
 ## What it is
 Converts documents between Markdown, PDF, DOCX, and HTML locally with AI-friendly Markdown output and secure file access.

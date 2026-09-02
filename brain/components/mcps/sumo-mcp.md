@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-07T04:52:10Z"
 ---
 ## What it is
 Integrates SUMO traffic simulation with the Model Context Protocol for autonomous driving applications, enabling simulation environment interaction and model context management.

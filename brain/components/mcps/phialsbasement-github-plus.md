@@ -8,10 +8,12 @@ source_url: https://github.com/phialsbasement/mcp-github-server-plus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-05T10:31:53Z"
 ---
 ## What it is
 MCP server `GitHub Plus`, catalogued on PulseMCP. Integrates with GitHub's API to streamline repository management, code operations, and issue tracking for developers and teams.

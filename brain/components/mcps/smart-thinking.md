@@ -8,10 +8,12 @@ source_url: https://github.com/leghis/smart-thinking
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-02-06T14:38:55Z"
 ---
 ## What it is
 MCP server `Smart Thinking`, catalogued on PulseMCP. Enables intelligent decision-making through semantic embeddings and thought graphs with built-in verification states and memory-based reasoning capabilities

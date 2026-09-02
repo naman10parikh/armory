@@ -8,10 +8,12 @@ source_url: https://github.com/hanweg/mcp-discord
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 157
+stars: 167
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 50
+pushed_at: "2025-07-15T23:39:30Z"
 ---
 ## What it is
 MCP server `Discord`, catalogued on PulseMCP. Integrates Discord to enable automated server management, moderation, and bot development.

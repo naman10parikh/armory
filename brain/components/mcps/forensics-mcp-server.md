@@ -8,11 +8,13 @@ source_url: https://github.com/Ghosthunter5599/Forensics-MCP-Server-FastMCP-Olla
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T15:57:55Z"
 ---
 ## What it is
 Enables AI agents to perform digital forensics and incident response tasks by dynamically discovering and utilizing host tools for memory analysis, metadata extraction, threat detection, and file dissection.

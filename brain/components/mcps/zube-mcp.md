@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T19:54:17Z"
 ---
 ## What it is
 MCP server for the Zube.io project management API, exposing boards, cards, epics, tickets, sprints, and workspaces as tools for AI assistants.

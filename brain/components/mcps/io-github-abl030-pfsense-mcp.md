@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-23T07:10:33Z"
 ---
 ## What it is
 An MCP server that gives AI agents full control over pfSense firewalls via the REST API v2, with 677 tools covering firewall rules, NAT, VPN, services, routing, certificates, users, diagnostics, and more.

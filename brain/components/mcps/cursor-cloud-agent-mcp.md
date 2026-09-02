@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T13:00:31Z"
 ---
 ## What it is
 Enables Claude to launch and manage Cursor Cloud Agents on GitHub repos, including polling status, sending follow-ups, and reading conversations/PRs.

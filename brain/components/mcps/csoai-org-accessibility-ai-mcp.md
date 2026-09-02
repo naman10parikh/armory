@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-29T19:04:09Z"
 ---
 ## What it is
 MCP server `Accessibility AI`, catalogued on PulseMCP. AI-powered accessibility analysis and WCAG compliance checking tools.

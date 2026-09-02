@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T07:06:46Z"
 ---
 ## What it is
 MCP server to perform semantic and keyword searches across AI Nike-chan's public X posts and official website, with optional AI Gateway integration and vector index hosting on Vercel Blob.

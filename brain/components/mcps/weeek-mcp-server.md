@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-12-13T12:34:00Z"
 ---
 ## What it is
 Full-featured MCP server integrating all 71 endpoints of the Weeek API as MCP tools for AI clients, enabling task, project, and workspace management via natural language.

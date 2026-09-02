@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-04T01:57:22Z"
 ---
 ## What it is
 一站式热门榜单聚合MCP服务器，让AI助手能够实时查询GitHub、Hacker News、Product Hunt等27+平台的热门内容，专为独立开发者和技术创业者设计。

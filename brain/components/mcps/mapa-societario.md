@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:19:37Z"
 ---
 ## What it is
 Search Spanish companies, directors and corporate relationships from official BORME registry filings — ~3.2M companies since 2009. Read-only, anonymous.

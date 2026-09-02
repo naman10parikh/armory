@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-11T00:24:56Z"
 ---
 ## What it is
 Enables users to access, search, and analyze Spark Desktop meeting transcripts and emails through natural language via the Model Context Protocol.

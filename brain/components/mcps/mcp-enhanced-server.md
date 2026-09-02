@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:01:19Z"
 ---
 ## What it is
 Provides file system tools, code analysis prompts, async tasks, and secure HTTP transport following the 2025-03-26 MCP specification.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T21:49:32Z"
 ---
 ## What it is
 Enables AI agents to shorten URLs, manage links, and track click analytics through 8 first-class tools, designed for use with Claude Desktop, Cursor, and other MCP clients.

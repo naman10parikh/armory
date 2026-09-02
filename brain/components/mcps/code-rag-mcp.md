@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T07:58:43Z"
 ---
 ## What it is
 Enables semantic search over codebases using natural language queries, returning relevant code snippets with source locations. Integrates with Claude Code for automatic codebase exploration.

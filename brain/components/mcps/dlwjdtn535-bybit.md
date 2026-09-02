@@ -8,10 +8,12 @@ source_url: https://github.com/dlwjdtn535/mcp-bybit-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-05-29T02:27:52Z"
 ---
 ## What it is
 MCP server `Bybit Exchange API`, catalogued on PulseMCP. Provides a bridge to the Bybit cryptocurrency exchange API for market data retrieval, account management, and order execution across spot and futures markets

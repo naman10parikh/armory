@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T22:59:01Z"
 ---
 ## What it is
 Enables AI agents to discover WordPress plugin opportunities by querying the WordPress.org directory for abandoned, low-rated, or unsupported plugins that can be replaced or out-built.

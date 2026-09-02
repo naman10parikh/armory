@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:50Z"
 ---
 ## What it is
 MCP server to consult negative certificates (Certidão Negativa de Feitos) from the Brazilian Labor Prosecutor's Office (MPT) in Mato Grosso via official sources.

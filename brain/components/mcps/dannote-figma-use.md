@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 591
+stars: 594
+forks: 42
+pushed_at: "2026-07-03T14:00:27Z"
 ---
 ## What it is
 Full Figma control: create shapes, text, components, set styles, auto-layout, variables, export. 80+ tools.

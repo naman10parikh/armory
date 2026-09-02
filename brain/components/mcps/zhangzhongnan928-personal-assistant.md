@@ -12,6 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-03-04T06:13:37Z"
 ---
 ## What it is
 MCP server `Personal Assistant`, catalogued on PulseMCP. Integrates with external services like Google APIs, Home Assistant, and DuckDuckGo to provide a modular framework for calendar management, task tracking, email handling, knowledge retrieval, and smart home control.

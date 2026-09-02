@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T09:58:26Z"
 ---
 ## What it is
 MCP server for leeshfield, a video generation platform, enabling AI clients to log in via OAuth, upload assets, and generate videos with credit estimates and job polling.

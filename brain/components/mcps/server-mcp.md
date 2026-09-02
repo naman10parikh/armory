@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T09:48:38Z"
 ---
 ## What it is
 Provides math and weather tools accessible via LangGraph agent using MCP protocol with stdio and streamable HTTP transports.

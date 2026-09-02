@@ -8,10 +8,12 @@ source_url: https://github.com/elonjask/reqable-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 87
+stars: 238
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-05-10T13:39:06Z"
 ---
 ## What it is
 MCP server `Reqable Traffic Capture`, catalogued on PulseMCP. Captures and analyzes HTTP and WebSocket traffic from Reqable proxy with local SQLite storage, domain statistics, API shape inference, and code generation.

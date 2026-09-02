@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T21:02:43Z"
 ---
 ## What it is
 MCP server for YouTube channel deep analytics, extracting transcripts and computing quantitative metrics like WPM, profanity, and humor taxonomy, with multi-creator comparison dashboards.

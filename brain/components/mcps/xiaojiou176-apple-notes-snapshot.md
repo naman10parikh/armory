@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-29T14:25:18Z"
 ---
 ## What it is
 MCP server `Apple Notes Snapshot`, catalogued on PulseMCP. Local-first scheduled backup and health monitoring system for Apple Notes on macOS with a read-only MCP surface.

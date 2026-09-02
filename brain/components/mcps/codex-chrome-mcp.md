@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:35:40Z"
 ---
 ## What it is
 Exposes Codex's Chrome plugin as an MCP server, enabling MCP clients to drive a real, logged-in Chrome browser by navigating, snapshotting the DOM, clicking, typing, taking screenshots, running Playwright, and sending raw CDP commands.

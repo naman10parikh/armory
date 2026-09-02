@@ -8,10 +8,12 @@ source_url: https://github.com/dh1011/auto-favicon-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-07-27T23:29:29Z"
 ---
 ## What it is
 MCP server `Auto Favicon`, catalogued on PulseMCP. Automatically generates complete favicon sets from PNG images or URLs, creating multiple sizes, ICO files, Apple touch icons, and web app manifests for comprehensive cross-platform web compatibility.

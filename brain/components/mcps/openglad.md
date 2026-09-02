@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-24T07:38:06Z"
 ---
 ## What it is
 openGlad is an MCP server that provides AI agents with tools for loss-prevention, market intelligence, and startup diagnostics using data from Reddit, Hacker News, GitHub, and Polymarket.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:21:14Z"
 ---
 ## What it is
 A production-ready MCP server enabling Claude and other LLMs to perform intelligent file operations with minimal token usage.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T23:26:33Z"
 ---
 ## What it is
 Enables AI agents to discover and curate news through an MCP server, with features like active preference learning, anti-clickbait rewriting, and local Markdown archiving.

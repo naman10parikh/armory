@@ -8,10 +8,12 @@ source_url: https://github.com/iceener/spotify-streamable-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2026-08-26T08:16:46Z"
 ---
 ## What it is
 MCP server `Spotify`, catalogued on PulseMCP. Integrates with Spotify's Web API through OAuth 2.1 authentication to provide music control and discovery capabilities including searching catalogs, managing playback, controlling playlists, and accessing saved music libraries.

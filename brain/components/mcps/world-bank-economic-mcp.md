@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:39:28Z"
 ---
 ## What it is
 Provides macro-economic data from World Bank, IMF, FRED, OECD, and RBI through a unified get_indicator interface.

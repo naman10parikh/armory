@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T09:32:43Z"
 ---
 ## What it is
 Enables interaction with ElevenLabs AI models (audio isolation, speech-to-text, text-to-dialogue, sound effects, text-to-speech) through RunAPI, supporting task creation, status polling, and pricing checks.

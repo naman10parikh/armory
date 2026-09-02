@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T14:58:06Z"
 ---
 ## What it is
 Helps commerce operations investigate delayed fulfillment stages and create safe, deduplicated human-review escalations.

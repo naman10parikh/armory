@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T13:33:40Z"
 ---
 ## What it is
 Evaluates Seoul public transit accessibility for people with disabilities, providing real-time elevator status, low-floor bus arrivals, route verification, and call taxi fallback.

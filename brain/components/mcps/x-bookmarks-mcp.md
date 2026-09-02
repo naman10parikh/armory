@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-13T04:09:11Z"
 ---
 ## What it is
 Fully local, privacy-first MCP server that turns exported X/Twitter bookmarks into a searchable, enriched knowledge base for Claude Desktop and Claude Code.

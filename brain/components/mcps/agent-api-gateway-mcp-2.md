@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T07:13:26Z"
 ---
 ## What it is
 Structured web extraction MCP server for AI agents. URL + schema to validated product/article/company JSON via Agent API Gateway. Install with npx -y agent-api-gateway-mcp.

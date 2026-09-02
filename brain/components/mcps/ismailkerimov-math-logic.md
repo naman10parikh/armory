@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-20T12:40:34Z"
 ---
 ## What it is
 MCP server `Math Logic`, catalogued on PulseMCP. Provides verified symbolic math and formal logic solvers including arithmetic evaluation, equation solving, calculus, and SAT/tautology checking with machine-checked proofs.

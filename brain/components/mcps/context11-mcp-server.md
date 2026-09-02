@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T14:11:49Z"
 ---
 ## What it is
 Enables AI assistants to search, retrieve, and manage documents from a Context11 knowledge base through tools like search_context, get_document, and list_folders.

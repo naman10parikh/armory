@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T20:57:40Z"
 ---
 ## What it is
 MCP server that exposes the Bring! shopping list API as tools, enabling an AI assistant to read lists, add items, and import recipes with correct quantities.

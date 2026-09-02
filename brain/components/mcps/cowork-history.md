@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-30T05:05:02Z"
 ---
 ## What it is
 MCP server `Cowork History`, catalogued on PulseMCP. Hybrid search for Claude conversation history using full-text search, Spotlight, and semantic vector embeddings.

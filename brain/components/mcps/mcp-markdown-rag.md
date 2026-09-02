@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 17
+pushed_at: "2025-07-09T12:37:21Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides a local-first RAG engine for your markdown documents. It uses a file-based Milvus vector database to index your notes, enabling LLMs to perform semantic search and retrieve relevant content from your local files.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T10:36:23Z"
 ---
 ## What it is
 Turns a folder of Markdown files into a searchable work journal that any LLM can read and write.

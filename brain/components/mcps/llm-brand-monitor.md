@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T19:10:32Z"
 ---
 ## What it is
 MCP server `LLM Brand Monitor`, catalogued on PulseMCP. Track how 350+ AI models mention your brand — monitor visibility, sentiment, and competitor mentions.

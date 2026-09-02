@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T11:47:37Z"
 ---
 ## What it is
 Turns Claude Desktop into a Cursor-like assistant for code browsing, editing, searching, linting, formatting, and version control.

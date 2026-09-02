@@ -8,11 +8,13 @@ source_url: https://github.com/Junjianxin/jjx-js-reverse-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-18T02:21:55Z"
 ---
 ## What it is
 A unified MCP server for JavaScript reverse engineering that provides full hook, breakpoints, script debugging, and browser automation with CDP anti-detection, supporting both ATTACH and LAUNCH modes.

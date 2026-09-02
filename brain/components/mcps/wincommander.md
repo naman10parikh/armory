@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T01:14:45Z"
 ---
 ## What it is
 Turns any Windows device into a remotely controllable MCP toolset, allowing a mobile AI agent to execute CLI, GUI, browser, and system commands on Windows without an API key.

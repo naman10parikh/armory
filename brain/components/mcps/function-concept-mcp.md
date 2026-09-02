@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:23:14Z"
 ---
 ## What it is
 Enables access to a local Markdown knowledge base via MCP, currently only providing a ping tool.

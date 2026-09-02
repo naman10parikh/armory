@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T08:41:36Z"
 ---
 ## What it is
 Enables AI agents to search and verify Hong Kong official registry data, retrieve merged agent profiles with citation-safe recommendedUse, and access verified Agent Cards through a remote streamable HTTP endpoint.

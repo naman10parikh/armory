@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T07:10:52Z"
 ---
 ## What it is
 Provides an MCP interface to detect a company's brand from a URL and render markdown into a branded PDF, including management of saved brand kits.

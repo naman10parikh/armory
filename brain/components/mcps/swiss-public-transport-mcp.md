@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T07:33:34Z"
 ---
 ## What it is
 MCP server for Swiss public transport — connections, stationboards, real-time delays, and direct booking links for SBB.

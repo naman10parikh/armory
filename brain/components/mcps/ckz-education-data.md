@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-22T03:31:21Z"
 ---
 ## What it is
 MCP server `Education Data API`, catalogued on PulseMCP. Provides direct access to the Urban Institute's Education Data API for retrieving and analyzing educational statistics across schools, districts, and universities without requiring specialized API knowledge.

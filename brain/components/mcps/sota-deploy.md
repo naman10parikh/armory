@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T11:16:05Z"
 ---
 ## What it is
 MCP server `Sota Deploy`, catalogued on PulseMCP. Deploy and manage web applications via AI agents through the sota.io platform.

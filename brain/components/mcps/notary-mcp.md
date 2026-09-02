@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T10:29:50Z"
 ---
 ## What it is
 An MCP approval gate that ensures agents execute only human-approved, hash-verified actions, providing fail-closed consent for consequential operations.

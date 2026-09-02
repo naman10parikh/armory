@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T13:27:56Z"
 ---
 ## What it is
 Browser-based geometry processing server that enables AI agents to create geometry, run analysis and operators, inspect results, and take screenshots via MCP.

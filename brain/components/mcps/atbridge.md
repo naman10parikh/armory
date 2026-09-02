@@ -8,11 +8,13 @@ source_url: https://github.com/atbridge-ai/atbridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T19:19:21Z"
 ---
 ## What it is
 Local MCP server for Thunderbird: read, search, and send emails and manage calendars, contacts, notes, and tasks across every mailbox (Gmail, Outlook, IMAP). Runs on your machine and talks to your Thunderbird locally — reads are open, writes are gated behind ATBRIDGE_ALLOW_WRITES.

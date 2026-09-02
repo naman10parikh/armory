@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-27T13:17:54Z"
 ---
 ## What it is
 MCP server `Berlin Transport`, catalogued on PulseMCP. Provides direct access to Berlin's public transportation data for searching stops, retrieving real-time departures, and planning optimal routes between locations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T19:55:44Z"
 ---
 ## What it is
 An MCP server that provides classic computer vision feature extraction tools (color, texture, shape) for image analysis, enabling LLMs to perform precise mathematical image comparisons and quality assessments.

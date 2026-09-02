@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-07T20:15:01Z"
 ---
 ## What it is
 Implements Universal Commerce Protocol (UCP) primitives backed by HubSpot CRM, enabling buyer profile, product catalog, cart, and order operations via MCP tools.

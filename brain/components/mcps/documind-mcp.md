@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T09:26:55Z"
 ---
 ## What it is
 A citation-grounded RAG server for internal documentation that exposes retrieval tools and resources via the Model Context Protocol, enabling any MCP client to search and access organizational knowledge with structured citations.

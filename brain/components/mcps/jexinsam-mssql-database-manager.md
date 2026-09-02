@@ -8,10 +8,12 @@ source_url: https://github.com/jexinsam/mssql_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2026-08-16T15:12:36Z"
 ---
 ## What it is
 MCP server `MSSQL Database Manager`, catalogued on PulseMCP. Enables secure interactions with Microsoft SQL Server databases for automated data analysis, dynamic reporting, and intelligent database management.

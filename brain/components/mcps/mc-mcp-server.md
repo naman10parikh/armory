@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-09T13:27:45Z"
 ---
 ## What it is
 Enables AI-driven interactions with Minecraft through a WebSocket-based server and MCP protocol, allowing external MCP clients and in-game chat to trigger AI tools.

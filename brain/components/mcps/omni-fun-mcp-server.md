@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 1
+forks: 2
+pushed_at: "2026-03-15T12:40:56Z"
 ---
 ## What it is
 Multichain memecoin launchpad across 8 chains (Base, Arb, OP, Polygon, BSC, ETH, Avax, Solana). Tokenize yourself as an oMeme — earn 0.5% creator fee forever + 50% Uniswap V3 LP fees after graduation, from a single LP. $69 bounties. First 100 agents FREE for 60 days. 8 tools: trending tokens, search, quotes, bonding curves, trade simulation, chain info.

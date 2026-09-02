@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-03T18:07:42Z"
 ---
 ## What it is
 MCP server `ComfyUI Builder`, catalogued on PulseMCP. ComfyUI MCP server with knowledge base, workflow builder, real-time execution, and model/plugin management.

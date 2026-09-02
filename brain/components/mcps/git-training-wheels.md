@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-28T08:54:54Z"
 ---
 ## What it is
 An MCP server that enforces safe git commits by allowing only specified files and providing fixup capabilities for earlier commits.

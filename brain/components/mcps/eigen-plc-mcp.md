@@ -8,11 +8,13 @@ source_url: https://github.com/SHU996/eigen-plc-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T06:05:39Z"
 ---
 ## What it is
 An open-source MCP server for industrial automation that generates, debugs, and validates PLC code for Siemens S7-1200, serving as a free and customizable alternative to Siemens Eigen Engineering Agent.

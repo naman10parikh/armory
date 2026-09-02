@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T07:26:16Z"
 ---
 ## What it is
 A demo MCP server for broker operations, providing tools for market quotes, positions/assets/orders, order placement, and knowledge-base search. It supports API key auth and can proxy to a configurable broker backend or return mock data when unconfigured.

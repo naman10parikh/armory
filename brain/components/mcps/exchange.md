@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:05:19Z"
 ---
 ## What it is
 MCP server `Exchange`, catalogued on PulseMCP. Retrieves real-time and historical currency exchange rates sourced from the European Central Bank via the Frankfurter API.

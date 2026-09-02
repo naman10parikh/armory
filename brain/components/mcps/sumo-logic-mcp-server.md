@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-10T14:56:44Z"
 ---
 ## What it is
 Enables interaction with Sumo Logic's REST APIs through MCP, allowing log search, dashboard management, metrics querying, collector and monitor operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-12T11:43:16Z"
 ---
 ## What it is
 Enables interactive selection of image regions from images and PDFs, with OCR support and automated export of selected regions as separate files.

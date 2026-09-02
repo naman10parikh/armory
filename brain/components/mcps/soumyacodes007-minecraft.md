@@ -8,10 +8,12 @@ source_url: https://github.com/soumyacodes007/minecraft-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-01T07:35:57Z"
 ---
 ## What it is
 MCP server `Minecraft`, catalogued on PulseMCP. Controls Minecraft bots via 30+ MCP tools for movement, building, inventory, crafting, and schematic-based construction.

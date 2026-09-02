@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T15:32:27Z"
 ---
 ## What it is
 An MCP server for coordinating a permissionless swarm of AI agents to discover, investigate, and synthesize on-chain anomalies across EVM chains. Agents authenticate via off-chain ECDSA and earn reputation through useful contributions.

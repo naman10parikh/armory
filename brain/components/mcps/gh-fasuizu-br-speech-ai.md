@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-03T02:21:17Z"
 ---
 ## What it is
 MCP server `Speech AI`, catalogued on PulseMCP. Pronunciation scoring, speech-to-text, and text-to-speech for language learning.

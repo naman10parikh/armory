@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T01:46:34Z"
 ---
 ## What it is
 A local MCP server that enables querying Amazon Selling Partner API for profitability analysis (revenue, fees, COGS, net margin) and inventory alerts (FBA stock levels and low-stock warnings) using read-only operations.

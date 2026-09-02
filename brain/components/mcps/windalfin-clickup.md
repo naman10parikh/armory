@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-14T04:09:58Z"
 ---
 ## What it is
 MCP server `ClickUp`, catalogued on PulseMCP. Integrates with ClickUp task management to enable task creation, updating, moving, and bulk operations with name-based entity resolution and fuzzy matching for efficient project management workflows.

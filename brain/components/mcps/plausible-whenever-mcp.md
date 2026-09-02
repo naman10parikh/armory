@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T09:05:19Z"
 ---
 ## What it is
 MCP server that provides read access to Plausible Analytics data with natural-language date resolution, enabling users to query analytics like 'yesterday' or 'last week' without needing to know exact date formats.

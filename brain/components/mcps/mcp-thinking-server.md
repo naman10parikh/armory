@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-05-25T18:13:12Z"
 ---
 ## What it is
 A powerful MCP server that enhances LLMs with advanced sequential thinking capabilities, supporting 19 thinking modes for structured reasoning and complex cognitive tasks.

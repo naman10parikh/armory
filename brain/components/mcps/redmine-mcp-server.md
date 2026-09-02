@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T17:59:24Z"
 ---
 ## What it is
 Model Context Protocol (MCP) server for Redmine that provides comprehensive access to the Redmine REST API, enabling users to operate Redmine from MCP clients such as Claude Desktop.

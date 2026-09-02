@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T06:56:46Z"
 ---
 ## What it is
 Enables remote control of Siglent SDG series function/arbitrary waveform generators via SCPI over TCP/IP. Provides tools for configuring waveforms, modulation, sweep, burst, and other instrument functions.

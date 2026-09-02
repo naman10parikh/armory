@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:05:54Z"
 ---
 ## What it is
 Resolves a company domain or YouTube handle to a YouTube channel, returning subscriber count, channel metadata, and optional transcripts, with status flags for data availability.

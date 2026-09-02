@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-16T07:13:58Z"
 ---
 ## What it is
 MCP server `E2E Test Automation (Playwright)`, catalogued on PulseMCP. Automates Playwright test generation and execution for web applications, providing project initialization, intelligent test script creation, and comprehensive reporting with screenshots and videos.

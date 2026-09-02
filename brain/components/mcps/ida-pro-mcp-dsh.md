@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T23:08:46Z"
 ---
 ## What it is
 Enables LLMs to perform binary analysis and reverse engineering via IDA Pro's headless idalib, providing 66 MCP tools like decompile, disasm, and xrefs without requiring the IDA GUI.

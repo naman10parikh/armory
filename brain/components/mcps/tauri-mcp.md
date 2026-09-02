@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T14:40:49Z"
 ---
 ## What it is
 Controls any built Tauri app's UI via WebDriver, enabling mouse/keyboard actions, DOM inspection, and screenshots.

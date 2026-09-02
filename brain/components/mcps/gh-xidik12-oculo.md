@@ -8,10 +8,12 @@ source_url: https://github.com/xidik12/oculo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-20T06:35:38Z"
 ---
 ## What it is
 MCP server `Oculo`, catalogued on PulseMCP. AI-powered native browser built on Chromium that enables agents to see and interact with websites using 12 tools.

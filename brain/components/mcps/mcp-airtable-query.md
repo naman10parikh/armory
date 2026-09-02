@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T18:26:49Z"
 ---
 ## What it is
 Lightweight TypeScript MCP server for Airtable base discovery, table/view queries, record CRUD, and validated filterByFormula construction.

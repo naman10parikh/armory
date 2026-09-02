@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-29T15:23:41Z"
 ---
 ## What it is
 MCP server that recommends the best credit card for miles based on your card stack and the merchant, helping you maximize miles at checkout.

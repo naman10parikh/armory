@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:39Z"
 ---
 ## What it is
 Enables users to query negative debt certificates (Certidão Negativa de Débitos) from the Nova Serrana, MG city hall through a read-only MCP server. Works with Claude, ChatGPT, Cursor, and other AI clients via MCP over HTTP.

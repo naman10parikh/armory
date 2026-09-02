@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-26T22:11:51Z"
 ---
 ## What it is
 MCP server plugin for InvenTree, enabling AI assistants to interact with inventory data such as parts, stock, locations, orders, and BOMs.

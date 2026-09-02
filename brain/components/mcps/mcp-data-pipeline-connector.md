@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T05:00:24Z"
 ---
 ## What it is
 Unified MCP server for querying CSV, Postgres, and REST API data sources via embedded DuckDB, enabling cross-source SQL joins with no external query service.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T19:55:36Z"
 ---
 ## What it is
 Provides FMCSA motor-carrier risk intelligence over MCP, with tools for carrier lookup, risk scoring, and timestamped evidence reports for AI agents and freight brokers.

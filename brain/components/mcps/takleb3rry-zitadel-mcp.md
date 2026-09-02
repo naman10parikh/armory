@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 10
+forks: 6
+pushed_at: "2026-06-30T21:29:33Z"
 ---
 ## What it is
 MCP server for Zitadel identity management — manage users, projects, OIDC apps, roles, and service accounts through natural language.

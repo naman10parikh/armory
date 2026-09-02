@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
 stars: 4
+forks: 2
+pushed_at: "2026-08-30T13:00:19Z"
 ---
 ## What it is
 x402 Discovery Hub. Search engine for the agent economy with 1450+ services indexed. Pay with USDC on Base via x402.

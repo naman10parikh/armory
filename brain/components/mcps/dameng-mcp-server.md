@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-11T13:50:45Z"
 ---
 ## What it is
 MCP server for DaMeng database, enabling AI assistants to execute SQL queries, list tables, describe table structures, and retrieve schema information.

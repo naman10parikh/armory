@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T23:06:48Z"
 ---
 ## What it is
 MCP server that turns any MCP-compatible LLM client into a wellness coach grounded in verified public data, offering nutrition, exercise, biometric, and preventive care tools with safety guardrails.

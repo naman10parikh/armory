@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-09T06:57:38Z"
 ---
 ## What it is
 Enables visual browser feedback collection directly into Claude Code. Users can point at elements in their browser and send annotated feedback that Claude can act on immediately.

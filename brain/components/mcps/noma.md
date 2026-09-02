@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T06:50:05Z"
 ---
 ## What it is
 A read-only MCP gateway foundation for Korean public data, exposing bounded public-data capabilities to MCP clients with explicit provider isolation and honest status.

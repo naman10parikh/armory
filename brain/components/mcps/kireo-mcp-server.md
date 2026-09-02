@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T08:18:54Z"
 ---
 ## What it is
 A shared long-term memory server for MCP clients, enabling you to persist and retrieve decisions, gotchas, and context across sessions with a web dashboard.

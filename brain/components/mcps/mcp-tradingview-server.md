@@ -8,11 +8,13 @@ source_url: https://github.com/bidouilles/mcp-tradingview-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 10
+pushed_at: "2026-06-22T16:06:54Z"
 ---
 ## What it is
 Exposes TradingView technical indicators and OHLCV data through MCP tools for Claude Desktop or any MCP-aware client.

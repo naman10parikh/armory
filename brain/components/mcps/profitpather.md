@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T09:30:57Z"
 ---
 ## What it is
 MCP server `Profitpather`, catalogued on PulseMCP. First-party Shopify analytics MCP server providing unsampled session, attribution, funnel, and leak data via 26 tools.

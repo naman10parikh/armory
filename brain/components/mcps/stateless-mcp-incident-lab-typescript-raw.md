@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T02:18:15Z"
 ---
 ## What it is
 A raw TypeScript MCP server simulating incident lifecycles with tools, resources, prompts, and signed multi-round remediation approval. Enables CLI-based interaction, protocol negotiation, and health/security testing without external MCP SDK dependencies.

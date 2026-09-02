@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-09T23:57:54Z"
 ---
 ## What it is
 Multi-framework MCP server that enables AI to generate clean, semantic CSS class names (e.g., btn-primary) instead of verbose utility strings, with support for Tailwind, Bootstrap, UnoCSS, Tachyons, SSR safety, and minification for token savings.

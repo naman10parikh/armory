@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T05:59:43Z"
 ---
 ## What it is
 Enables monitoring competitor websites for price drops, new products, promotions, and content changes directly from Claude or any MCP-compatible AI client.

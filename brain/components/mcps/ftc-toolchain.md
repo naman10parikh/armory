@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T19:31:13Z"
 ---
 ## What it is
 MCP server enabling AI agents to search FTC SDK samples, scaffold OpModes, build and deploy TeamCode to REV Control Hub, and read robot logs for a full code-robot-debug loop.

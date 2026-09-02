@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T05:55:58Z"
 ---
 ## What it is
 Enables AI agents to search and explore remote job listings, salary stats, and popular roles, and supports token-authenticated actions like job alerts and apply redirects.

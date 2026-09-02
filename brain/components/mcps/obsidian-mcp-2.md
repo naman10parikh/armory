@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T22:58:38Z"
 ---
 ## What it is
 MCP server running inside Obsidian that provides AI assistants with native access to the Obsidian API for file operations, search, commands, and periodic notes without external bridges.

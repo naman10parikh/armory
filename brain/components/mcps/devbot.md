@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T04:26:44Z"
 ---
 ## What it is
 A Flask-based chatbot using Gemini 2.5 Flash and MCP tools to manage GitHub repositories and LinkedIn profiles via natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/visheshd/docmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-23T11:14:59Z"
 ---
 ## What it is
 MCP server `Documentation Management System`, catalogued on PulseMCP. Self-hosted documentation management system that crawls, processes, and enables semantic search across technical documentation for up-to-date access to package docs, API references, and guides without requiring internet access.

@@ -8,10 +8,12 @@ source_url: https://github.com/tradexcards/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-04T18:18:24Z"
 ---
 ## What it is
 MCP server `TradeX`, catalogued on PulseMCP. Enables trading Pokemon card perpetual futures on Solana with market analysis, price tracking, and USDC-denominated positions.

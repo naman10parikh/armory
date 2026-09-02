@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-12T12:36:15Z"
 ---
 ## What it is
 MCP server `Samtools`, catalogued on PulseMCP. Provides a standardized interface for working with SAM/BAM/CRAM files.

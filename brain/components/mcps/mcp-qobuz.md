@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T19:30:57Z"
 ---
 ## What it is
 AI-native MCP server for Qobuz that enables searching, browsing, and managing your music library, including favorites, playlists, and current playback.

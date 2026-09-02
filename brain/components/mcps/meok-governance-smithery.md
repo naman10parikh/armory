@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T22:03:45Z"
 ---
 ## What it is
 Provides 62 AI governance tools for compliance with regulations like the EU AI Act, enabling risk management, transparency, bias detection, and more.

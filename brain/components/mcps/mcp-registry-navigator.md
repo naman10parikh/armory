@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:51:26Z"
 ---
 ## What it is
 Lets users discover, compare, and audit public MCP servers from the official registry, validate server.json metadata, and generate installation snippets and publication checklists.

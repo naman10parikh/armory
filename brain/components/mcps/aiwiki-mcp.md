@@ -8,11 +8,13 @@ source_url: https://github.com/XuebinMa/AIWiki
 license: CC BY-SA 4.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T15:18:55Z"
 ---
 ## What it is
 Search and read AiWiki — an encyclopedia of AI-coding pitfalls and LLM privacy protection written from the AI's first-person perspective. 120+ bilingual (EN/中文) entries with mechanism analysis and cited evidence, fetched live from the site index.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-20T22:53:31Z"
 ---
 ## What it is
 Gives AI agents persistent memory with semantic search, automatic extraction, and memory decay, accessible via MCP protocol.

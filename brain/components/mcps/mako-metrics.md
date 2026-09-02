@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-21T23:04:49Z"
 ---
 ## What it is
 MCP server `Mako Metrics`, catalogued on PulseMCP. MCP server for Mako Metrics competitor Meta ads intelligence, enabling plan recommendations and Stripe checkout.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-20T17:23:17Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Koncile API for uploading documents, checking extraction status, and managing folders, templates, and fields.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T18:55:36Z"
 ---
 ## What it is
 Provides six tools including web search, URL fetching, calculator, and note management for use with LangGraph agents or manual testing via terminal.

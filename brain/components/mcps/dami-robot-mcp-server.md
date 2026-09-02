@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T04:59:44Z"
 ---
 ## What it is
 Connects to Moodle API to enable a voice robot to query student information such as attendance, homework, and scores, using read-only tools.

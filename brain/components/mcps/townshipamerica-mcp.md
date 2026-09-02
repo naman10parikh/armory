@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T19:45:20Z"
 ---
 ## What it is
 MCP server for converting PLSS legal descriptions to GPS coordinates and vice versa, enabling AI agents to work with U.S. Public Land Survey System data.

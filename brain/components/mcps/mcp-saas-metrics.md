@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T07:36:11Z"
 ---
 ## What it is
 Provides accurate SaaS metrics calculations (LTV, CAC, runway, health score, etc.) with formulas and interpretations for AI agents and founders, ensuring no hallucinated numbers.

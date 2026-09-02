@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T18:02:52Z"
 ---
 ## What it is
 Enables interaction with climate metrics via Riskthinking.AI's CDT Express API, supporting climate exposure, impact, and distribution metrics, as well as physical assets, companies, and markets data. Integrates with AI chat experiences like Claude desktop app.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T04:58:44Z"
 ---
 ## What it is
 A local-first MCP server for managing multiple Gmail accounts with separate OAuth grants, supporting search, retrieval, labels, drafts, and attachments while deferring direct send and destructive actions for safety.

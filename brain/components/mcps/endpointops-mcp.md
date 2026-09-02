@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T13:27:21Z"
 ---
 ## What it is
 Enables AI assistants to manage Microsoft Intune and Entra ID through the Microsoft Graph API, covering device, app, compliance, identity, and reporting operations. Exposes 34 MCP tools with 280+ underlying Graph actions, including read/write capabilities.

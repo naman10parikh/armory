@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T13:37:27Z"
 ---
 ## What it is
 Enables ticker-to-CIK resolution for SEC EDGAR, allowing users to query US stock tickers and retrieve their SEC Central Index Key.

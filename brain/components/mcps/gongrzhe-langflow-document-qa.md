@@ -12,6 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-16T15:24:35Z"
 ---
 ## What it is
 MCP server `Langflow Document QA`, catalogued on PulseMCP. Connects Claude Desktop to a Langflow-powered document question-answering system through a query_docs tool that processes document-based questions using a Mistral model.

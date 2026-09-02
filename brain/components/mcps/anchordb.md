@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T18:20:44Z"
 ---
 ## What it is
 An MCP server that stores notes attached to specific code locations and keeps them attached as code moves, enabling coding agents to read context before editing and leave handoff notes for future sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T16:48:02Z"
 ---
 ## What it is
 An open-source MCP server for live Apple App Store competitor research, enabling AI agents to search apps, fetch metadata, compare competitors, and retrieve reviews and top charts as structured JSON.

@@ -8,10 +8,12 @@ source_url: https://github.com/proxi666/amazing-ros2-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-11T03:57:51Z"
 ---
 ## What it is
 MCP server `ROS 2`, catalogued on PulseMCP. Native ROS 2 MCP server for AI-assisted robot development with tools for graph introspection, robot control, camera capture, and Nav2 navigation integration.

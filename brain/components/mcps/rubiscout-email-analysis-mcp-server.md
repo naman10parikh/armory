@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T18:50:04Z"
 ---
 ## What it is
 Analyzes raw email headers and emails for phishing, spoofing, and BEC using AI forensics, SPF/DKIM/DMARC/ARC validation, and IP reputation checks. Exposes analyze_email, get_analysis, and list_analyses as MCP tools.

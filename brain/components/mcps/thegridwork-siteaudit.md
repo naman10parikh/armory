@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-08T13:56:21Z"
 ---
 ## What it is
 MCP server `Gridwork Site Audit`, catalogued on PulseMCP. Analyzes websites for technical SEO issues, accessibility problems, and performance bottlenecks.

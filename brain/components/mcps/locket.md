@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T16:38:23Z"
 ---
 ## What it is
 A privacy-first personal context engine that ingests personal photos and message exports, extracts cited facts, and serves a queryable profile over MCP for natural-language questions like 'when did I last see Sarah?'.

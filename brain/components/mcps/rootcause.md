@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T04:06:46Z"
 ---
 ## What it is
 Enables debugging by analyzing bug reports, tracebacks, or code snippets to retrieve similar historical fixes and generate JSON answers with root cause, fix, and confidence.

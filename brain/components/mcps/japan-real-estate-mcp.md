@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T05:16:50Z"
 ---
 ## What it is
 Japanese real-estate actual transaction prices and official land prices (official MLIT Reinfolib data): search by area, period, and property type, with published land-price reference points.

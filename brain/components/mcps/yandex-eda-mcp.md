@@ -8,11 +8,13 @@ source_url: https://github.com/sandexplus/yandex-eda-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T12:25:39Z"
 ---
 ## What it is
 MCP server for Yandex Eda (food delivery) that allows checking authorization, setting delivery address, searching restaurants, viewing menus, managing cart, and placing orders with safety features.

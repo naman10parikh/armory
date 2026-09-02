@@ -8,10 +8,12 @@ source_url: https://github.com/iaptic/mcp-server-iaptic
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-04-24T08:45:41Z"
 ---
 ## What it is
 MCP server `Iaptic`, catalogued on PulseMCP. Integrates with Iaptic's customer and transaction data to enable querying, analysis, and insights for e-commerce and customer support tasks.

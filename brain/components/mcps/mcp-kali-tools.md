@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T19:15:17Z"
 ---
 ## What it is
 Enables MCP clients to invoke common Kali Linux pentesting tools directly as tool calls, with each binary executed safely without a shell.

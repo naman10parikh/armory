@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T11:32:19Z"
 ---
 ## What it is
 Enables grounded question-answering over internal documents via a single MCP tool that retrieves relevant passages and generates answers with citations, returning sources and diagnostics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T05:35:05Z"
 ---
 ## What it is
 A mail service that connects private domain email to MCP clients, enabling sending (with auto signature), receiving, and reading emails through natural language via stdio or SSE transport.

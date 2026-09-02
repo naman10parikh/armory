@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T14:07:21Z"
 ---
 ## What it is
 An MCP server that provides headless, read/write access to Photopea for image editing, including layers, text, filters, and document operations, enabling agents to edit images programmatically.

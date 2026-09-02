@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-07T13:25:52Z"
 ---
 ## What it is
 MCP server `SociaVault`, catalogued on PulseMCP. Integrates with SociaVault API to retrieve profile information and content from Instagram, TikTok, Twitter/X, Threads, YouTube, Facebook, and Reddit for social media analysis, content research, and influencer monitoring.

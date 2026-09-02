@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T11:50:25Z"
 ---
 ## What it is
 Connects AI clients to Tenable OT Security, exposing OT/ICS asset inventory, vulnerabilities, events, policies, and findings as read tools, with an opt-in dry-run write layer for asset edits and policy management.

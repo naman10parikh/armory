@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:28:54Z"
 ---
 ## What it is
 MCP server `OpenFDA`, catalogued on PulseMCP. FDA drug and medical device data via the openFDA API, free with no authentication required.

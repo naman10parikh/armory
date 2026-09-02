@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T05:30:09Z"
 ---
 ## What it is
 Exposes a dependency graph of strategic sourcing artifacts and analyses as an MCP server, enabling navigation of phases, analyses, deliverables, and graph traversal for impact analysis and build order.

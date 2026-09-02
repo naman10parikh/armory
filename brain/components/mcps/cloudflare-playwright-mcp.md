@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-28T23:37:03Z"
 ---
 ## What it is
 Enables AI assistants to control a browser through a set of tools, allowing them to perform web automation tasks like navigation, typing, clicking, and taking screenshots.

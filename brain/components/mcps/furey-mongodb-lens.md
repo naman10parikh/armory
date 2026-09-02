@@ -8,10 +8,12 @@ source_url: https://github.com/furey/mongodb-lens
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 203
+stars: 207
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 31
+pushed_at: "2025-04-23T00:44:12Z"
 ---
 ## What it is
 MCP server `MongoDB Lens`, catalogued on PulseMCP. Integrates with MongoDB databases to enable browsing collections, executing queries, running aggregation pipelines, analyzing schemas, and optimizing performance through specialized database exploration tools.

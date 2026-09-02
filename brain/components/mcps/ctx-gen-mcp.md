@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T13:59:34Z"
 ---
 ## What it is
 Generates progressive-disclosure code context documentation (L0/L1/L2/L3) for large projects, helping AI coding agents understand codebases efficiently.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T16:07:33Z"
 ---
 ## What it is
 Read-only MCP server for Pipedrive that provides a digest-ready sales queue with overdue follow-ups, due today activities, and deals missing next action.

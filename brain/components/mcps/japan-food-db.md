@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T03:21:50Z"
 ---
 ## What it is
 Enables AI agents to resolve Japanese food names to nutrition facts per 100g based on official Japanese food composition data.

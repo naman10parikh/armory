@@ -8,10 +8,12 @@ source_url: https://github.com/leehanchung/bing-search-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 78
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2025-04-04T14:40:58Z"
 ---
 ## What it is
 MCP server `Bing Search`, catalogued on PulseMCP. Enables web, news, and image searches through Microsoft's Bing Search API, providing access to up-to-date information from the internet.

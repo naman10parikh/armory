@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T03:01:12Z"
 ---
 ## What it is
 MCP server that provides tools to control a server-owned Pomodoro timer, allowing focus, pause, resume, skip, reset, and stats operations.

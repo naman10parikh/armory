@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T05:53:06Z"
 ---
 ## What it is
 A MCP server that collects interactive user feedback during AI-assisted development, reducing unnecessary tool calls and costs by enabling AI to confirm with users.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-03T21:11:32Z"
 ---
 ## What it is
 Provides up-to-date Next.js 16 documentation to MCP clients, enabling instant lookups, version-specific examples, and secure use inside IDE assistants.

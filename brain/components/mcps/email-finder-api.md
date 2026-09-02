@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T00:53:32Z"
 ---
 ## What it is
 Find professional email addresses from name + company domain. Tests 15+ patterns against MX records with confidence scoring, with pay-per-call via x402.

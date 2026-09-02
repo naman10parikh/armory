@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-10-13T07:24:46Z"
 ---
 ## What it is
 Provides programmatic access to Google Search Console API data through Claude Code and Cursor, enabling search analytics, sitemap info, URL inspection, and indexing submission.

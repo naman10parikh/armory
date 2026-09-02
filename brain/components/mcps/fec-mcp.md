@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T19:45:02Z"
 ---
 ## What it is
 An MCP server that searches official FEC PDF rulebooks for compliance and contribution limits, and provides real-time lookups against the OpenFEC API for candidates, committees, filings, and financial data.

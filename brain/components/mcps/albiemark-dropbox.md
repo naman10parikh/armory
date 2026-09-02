@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-25T14:17:56Z"
 ---
 ## What it is
 MCP server `Dropbox`, catalogued on PulseMCP. Integrates with Dropbox's API to enable secure file operations including uploading, downloading, listing, searching, and deleting with recycle bin support through OAuth 2.0 authentication and specialized prompt handlers for document management workflows.

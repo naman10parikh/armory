@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T18:41:30Z"
 ---
 ## What it is
 Enables LLMs to interact with hardware designs (Verilog/SystemVerilog), formal verification tools, waveform logs, protocol specifications, and bug databases through 34 structured tools.

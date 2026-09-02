@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 53
+forks: 11
+pushed_at: "2025-04-19T02:32:28Z"
 ---
 ## What it is
 MCP server for Product Hunt. Interact with trending posts, comments, collections, users, and more.

@@ -8,10 +8,12 @@ source_url: https://github.com/wcoppedge/cisa-threat-intelligence-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-07T19:34:41Z"
 ---
 ## What it is
 MCP server `CISA Threat Intelligence`, catalogued on PulseMCP. Integrates with CISA's Known Exploited Vulnerabilities catalog and NVD data to provide vulnerability searching, threat trend analysis, CVE intelligence reports with automated threat scoring, and catalog statistics for cybersecurity teams.

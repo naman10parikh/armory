@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T09:26:54Z"
 ---
 ## What it is
 Deterministic, no-LLM MCP server exposing six operations from the Behavioral State-Change Selling methodology manifest.

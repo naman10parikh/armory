@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T19:06:39Z"
 ---
 ## What it is
 MCP server `Keycloak Admin API`, catalogued on PulseMCP. Provides administrative access to Keycloak's Admin REST API using service account credentials.

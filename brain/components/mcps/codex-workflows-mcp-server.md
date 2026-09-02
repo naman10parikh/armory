@@ -8,11 +8,13 @@ source_url: https://github.com/robzilla1738/Codex-Workflows
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 62
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-05T02:26:10Z"
 ---
 ## What it is
 Enables durable multi-agent workflow runs for Codex with a live terminal dashboard, restartable agents, and bug-finding templates, all controllable through natural language.

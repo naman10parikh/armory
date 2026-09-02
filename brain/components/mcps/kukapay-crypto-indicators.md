@@ -8,10 +8,12 @@ source_url: https://github.com/kukapay/crypto-indicators-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 123
+stars: 130
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 43
+pushed_at: "2025-12-06T01:07:31Z"
 ---
 ## What it is
 MCP server `Crypto Indicators`, catalogued on PulseMCP. Provides AI trading agents with real-time technical analysis indicators and trading signals for cryptocurrency markets, enabling quantitative strategy development without implementing complex algorithms.

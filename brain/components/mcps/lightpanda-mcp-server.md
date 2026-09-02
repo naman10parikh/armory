@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T10:39:59Z"
 ---
 ## What it is
 MCP server for Lightpanda headless browser enabling ultra-fast HTML extraction, markdown conversion, and JavaScript execution with 16x lower memory footprint than Chrome.

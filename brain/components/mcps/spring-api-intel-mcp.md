@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-27T03:53:19Z"
 ---
 ## What it is
 Enables AI assistants to understand and analyze Spring Boot codebases through static analysis, allowing natural language queries about endpoints, classes, dependencies, and architecture without running the application.

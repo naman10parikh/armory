@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T17:06:06Z"
 ---
 ## What it is
 Fetch podcast transcripts as clean Markdown with real speaker names via the Spoken API. Tools: search_podcasts, get_transcript, get_balance.

@@ -8,11 +8,13 @@ source_url: https://github.com/helibeiqi/dsh-quant-data-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T13:56:21Z"
 ---
 ## What it is
 An MCP server providing A-share market data tools (daily OHLCV, real-time quotes, financials, northbound capital flow, sector lists) with zero dependencies, also serving as a template for building custom MCP servers.

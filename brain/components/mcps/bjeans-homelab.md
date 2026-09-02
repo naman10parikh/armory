@@ -8,10 +8,12 @@ source_url: https://github.com/bjeans/homelab-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-06-20T14:42:23Z"
 ---
 ## What it is
 MCP server `Homelab Infrastructure`, catalogued on PulseMCP. Unified access to homelab infrastructure through Docker/Podman containers, Ollama AI models, Pi-hole DNS, Unifi networks, UPS monitoring, and network ping operations.

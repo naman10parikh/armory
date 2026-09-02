@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T12:13:40Z"
 ---
 ## What it is
 Optimizes LLM costs by delegating heavy tasks to a cheap worker model via a supervisor-worker pattern, compatible with multiple providers and IDE clients.

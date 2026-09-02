@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:15:22Z"
 ---
 ## What it is
 Enables AI agents to draw animated, hand-drawn diagrams on a live whiteboard through MCP tools, allowing users to visually explain concepts and edit scenes interactively.

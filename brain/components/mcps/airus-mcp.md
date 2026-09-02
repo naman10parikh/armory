@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T07:08:42Z"
 ---
 ## What it is
 MCP server exposing 1688 and OZON e-commerce crawling tools, enabling AI agents to perform product search, image search, and supplier contact scraping via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-04T09:13:52Z"
 ---
 ## What it is
 Enables Claude to drive the Antigravity agent by running prompts through the agy CLI non-interactively, supporting session management and optional sandboxed execution.

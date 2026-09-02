@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:50:11Z"
 ---
 ## What it is
 A self-hosted MCP operations gateway for Linux control hosts, enabling safe filesystem and Git operations, authenticated HTTP transport, and optional SSH/SFTP and infrastructure adapters.

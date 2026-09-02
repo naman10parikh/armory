@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T03:20:24Z"
 ---
 ## What it is
 Provides emergency hotline numbers, restrooms and outdoor safety bells, after-hours clinics, pharmacies, ER beds, and foreign visitor phrase cards. Information only—does not place calls or diagnose.

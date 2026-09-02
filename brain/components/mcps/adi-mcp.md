@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:01:10Z"
 ---
 ## What it is
 A remote MCP server that exposes tools from many services (X, LinkedIn, GitHub, Gmail, Notion, etc.) through a single endpoint on Cloudflare Workers, enabling unified access to third-party APIs via natural language.

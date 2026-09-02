@@ -8,11 +8,13 @@ source_url: https://github.com/huggingface/hf-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 240
+stars: 289
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 1
+forks: 100
+pushed_at: "2026-09-01T20:29:12Z"
 ---
 ## What it is
 MCP server `Hugging Face`, catalogued on PulseMCP. Integrates with Hugging Face's ecosystem to search models, datasets, and papers while dynamically connecting to Gradio-based tools hosted on Spaces for extended ML capabilities.

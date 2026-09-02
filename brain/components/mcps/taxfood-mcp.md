@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T07:25:39Z"
 ---
 ## What it is
 Exposes public agency dining expense data from Korean public institutions, enabling AI agents to search, rank, and retrieve details of tax-funded restaurant visits with transparency links and KakaoMap deep links.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T07:17:09Z"
 ---
 ## What it is
 MCP server for OpenFic, enabling AI assistants to manage writing projects, volumes, chapters, characters, notes, and worldbooks through OpenFic's public HTTP API. Supports read-only mode by default and opt-in write operations with safety confirmations for deletions.

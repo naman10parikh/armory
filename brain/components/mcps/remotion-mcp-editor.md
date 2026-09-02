@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T17:40:29Z"
 ---
 ## What it is
 An always-on, data-driven Remotion editing and rendering engine exposed through Streamable HTTP MCP. Agents edit validated timeline data; the service never exposes source-code or shell access.

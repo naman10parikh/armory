@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-12T12:12:01Z"
 ---
 ## What it is
 MCP server `BlazeMeter`, catalogued on PulseMCP. Integrates with BlazeMeter's performance testing platform to manage test runs, analyze performance data, and monitor application metrics across automated testing pipelines.

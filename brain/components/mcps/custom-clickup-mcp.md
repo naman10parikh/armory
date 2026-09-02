@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T15:08:22Z"
 ---
 ## What it is
 Local MCP server for essential ClickUp workflows over stdio, exposing a bounded set of tools for search, task management, comments, tags, and workspace hierarchy.

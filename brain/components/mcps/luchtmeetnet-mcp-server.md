@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:19:57Z"
 ---
 ## What it is
 Enables querying of official Netherlands air quality data from the RIVM Luchtmeetnet API via MCP tools.

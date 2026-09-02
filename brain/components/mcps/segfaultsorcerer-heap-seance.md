@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 4
+forks: 1
+pushed_at: "2026-03-15T15:29:06Z"
 ---
 ## What it is
 Java memory leak diagnostics via jcmd, jmap, jstat, JFR, Eclipse MAT, and async-profiler with structured confidence-based verdicts. Two-stage escalation model with conservative scan and deep forensics.

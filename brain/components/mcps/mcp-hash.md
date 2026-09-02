@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:12:35Z"
 ---
 ## What it is
 Provides cryptographic hash and HMAC computation for text, supporting algorithms like md5, sha1, sha256, sha384, and sha512. All operations are performed locally without transmitting or storing input data.

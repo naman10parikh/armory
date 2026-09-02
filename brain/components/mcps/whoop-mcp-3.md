@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T03:07:36Z"
 ---
 ## What it is
 Gives LLM agents read-only access to your WHOOP data — recovery, sleep, strain, workouts, and profile.

@@ -8,10 +8,12 @@ source_url: https://github.com/sailro/roslynmcpextension
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-04-11T19:26:16Z"
 ---
 ## What it is
 MCP server `Roslyn`, catalogued on PulseMCP. Visual Studio extension that provides semantic C# code analysis through the live Roslyn workspace, enabling diagnostics validation, symbol search, reference finding, and detailed type inspection.

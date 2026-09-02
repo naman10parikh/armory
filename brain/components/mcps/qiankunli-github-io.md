@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
+forks: 50
+pushed_at: "2026-08-26T06:40:22Z"
 ---
 ## What it is
 Personal blog

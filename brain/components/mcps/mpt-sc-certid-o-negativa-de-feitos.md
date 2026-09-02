@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:45:54Z"
 ---
 ## What it is
 Enables querying the official MPT SC (Brazilian Labor Prosecution Office of Santa Catarina) negative case certificate (Certidão Negativa de Feitos) database through a read-only, pay-per-query MCP tool.

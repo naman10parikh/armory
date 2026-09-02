@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-26T20:19:16Z"
 ---
 ## What it is
 An MCP server for comprehensive video analysis — AI-powered transcription, visual frame analysis, and metadata extraction from 1000+ platforms.

@@ -8,10 +8,12 @@ source_url: https://github.com/srmorete/mobile-device-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-02T08:09:06Z"
 ---
 ## What it is
 MCP server `Mobile Device`, catalogued on PulseMCP. Control iOS and Android devices with multi-device and seamless Native/WebView support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:44:12Z"
 ---
 ## What it is
 Enables querying DETRAN BA vehicle licensing information from the official source via a read-only MCP server. It works with any MCP client over HTTP using pay-per-use credits.

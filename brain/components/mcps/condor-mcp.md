@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T11:32:03Z"
 ---
 ## What it is
 Enables searching a product catalog stored in SQLite by category via the catalog.search tool.

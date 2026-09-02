@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T03:31:59Z"
 ---
 ## What it is
 Read-only MCP server for IT Glue that enables natural-language search and retrieval of organizational data, credentials (as secure links), documents, configurations, and other tenant records without ever exposing secrets or writing to IT Glue.

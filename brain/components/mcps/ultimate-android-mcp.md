@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-27T06:34:41Z"
 ---
 ## What it is
 Enables LLMs to control and manage Android devices via ADB, including app installation, UI interaction, and device monitoring.

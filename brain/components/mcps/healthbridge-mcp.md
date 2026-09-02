@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T07:24:41Z"
 ---
 ## What it is
 Enables cross-hospital patient safety intelligence by detecting drug interactions, allergy conflicts, duplicate procedures, and medicine stock routing across multiple healthcare facilities.

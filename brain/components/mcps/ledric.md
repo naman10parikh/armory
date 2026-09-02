@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T11:19:24Z"
 ---
 ## What it is
 A self-hosted content engine with an MCP interface that enables AI agents to read, write, and manage content models through tools like describe_model, create_type, draft, and publish.

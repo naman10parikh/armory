@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T18:41:21Z"
 ---
 ## What it is
 Read-only MCP server that exposes the anonym.community privacy research corpus via typed tools, letting agents search 1,478 PII pain points, jurisdiction laws, FAQ entries, and 1,600+ papers with citations. Enables precise, citable answers about privacy law and data-protection issues directly from M

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T05:42:09Z"
 ---
 ## What it is
 An MCP server that enables automated quality control for generated images, evaluating them against reference images and rules to return structured scores and issues.

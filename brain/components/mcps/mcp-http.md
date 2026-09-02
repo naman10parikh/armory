@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T16:27:21Z"
 ---
 ## What it is
 Provides a generic HTTP client tool allowing AI agents to make arbitrary HTTP requests from their environment, with support for environment-variable placeholders for secrets.

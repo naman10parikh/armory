@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T21:16:47Z"
 ---
 ## What it is
 Enables read-only inspection of Shelly devices discovered through Home Assistant, providing status and redacted configuration without control or switching capabilities.

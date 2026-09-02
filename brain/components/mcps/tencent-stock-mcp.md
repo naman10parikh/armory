@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T02:49:15Z"
 ---
 ## What it is
 Provides real-time A-share stock quotes and daily K-line data from Tencent, plus a health check tool, via a read-only MCP server.

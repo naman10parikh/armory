@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2025-10-07T18:39:09Z"
 ---
 ## What it is
 Enables lightning fast image and video generation using the Runware API, with tools for inference, upscaling, background removal, and more.

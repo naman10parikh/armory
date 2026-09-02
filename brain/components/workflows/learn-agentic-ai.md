@@ -8,11 +8,13 @@ source_url: https://github.com/panaversity/learn-agentic-ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4343
+stars: 4351
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tutorials-learning-resources]
+forks: 1008
+pushed_at: "2025-10-26T01:09:51Z"
 ---
 ## What it is
 Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Rancher Desktop, and Kubernetes

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T15:06:38Z"
 ---
 ## What it is
 Anti-procrastination MCP server using ClickUp for task management. Enables capture, planning, micro-steps, and reflection through tools and prompts.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-06-14T05:36:15Z"
 ---
 ## What it is
 MCP server providing a standardized interface for interacting with Calendly's scheduling and event management tools.

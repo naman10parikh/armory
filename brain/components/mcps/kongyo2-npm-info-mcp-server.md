@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T01:19:15Z"
 ---
 ## What it is
 MCP server that provides npm package information for AI agents during TypeScript development.

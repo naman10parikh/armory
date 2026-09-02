@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:49:59Z"
 ---
 ## What it is
 MCP server for querying electronic labor court certificates (CEAT) from TRT10, providing read-only access to official data via HTTP.

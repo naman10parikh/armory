@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T10:45:13Z"
 ---
 ## What it is
 Enables AI-powered video creation by letting the model write React/Remotion code, compiling it in real-time, and rendering the video inline in the chat interface via an interactive widget.

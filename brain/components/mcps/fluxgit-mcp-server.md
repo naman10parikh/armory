@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T20:59:56Z"
 ---
 ## What it is
 Safety-first Git MCP server: 22 read-only tools designed for agent context budgets; writes are proposals approved by a human in the FluxGit desktop app.

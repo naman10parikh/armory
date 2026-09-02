@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T08:38:00Z"
 ---
 ## What it is
 An MCP server exposing Indian market and regulatory data from official sources (NSE, NIFTY, AMFI, SEBI), providing tools for end-of-day quotes, index constituents, mutual fund NAVs, and SEBI order searches with a focus on primary sources and no fabricated data.

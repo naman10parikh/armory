@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 3
+forks: 1
+pushed_at: "2026-04-16T20:58:17Z"
 ---
 ## What it is
 Search 800 000+ Polish public tenders (BZP + TED). Profiles of procuring entities and contractors by NIP, market statistics by CPV/province, 90+ term procurement glossary.

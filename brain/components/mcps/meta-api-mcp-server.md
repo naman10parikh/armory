@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-09-09T03:37:24Z"
 ---
 ## What it is
 A meta API Gateway server that works with the Model Context Protocol (MCP), enabling AI assistants to connect to any API and access real-world data sources through standardized MCP tools.

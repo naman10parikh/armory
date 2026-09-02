@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T12:00:39Z"
 ---
 ## What it is
 An MCP server that bridges LLM clients with Atlassian Jira Cloud and Jira Service Management Cloud REST APIs, enabling administrative and operational tasks via natural language.

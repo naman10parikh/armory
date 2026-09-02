@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T17:41:22Z"
 ---
 ## What it is
 A batteries-included MCP server providing common coding-agent tools like web search, page fetching, file system access, shell command execution, and Git integration, built in Python with a local-first, Unix-style philosophy.

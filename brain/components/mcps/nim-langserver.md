@@ -8,10 +8,12 @@ source_url: https://github.com/nim-lang/langserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 306
+stars: 314
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 53
+pushed_at: "2026-09-01T11:44:38Z"
 ---
 ## What it is
 MCP server `Nim Language Server`, catalogued on PulseMCP. Official Nim language server with MCP support for symbol navigation, diagnostics, and type resolution in Nim projects.

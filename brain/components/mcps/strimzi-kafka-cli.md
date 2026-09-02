@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 14
+pushed_at: "2026-08-13T15:43:13Z"
 ---
 ## What it is
 Manage Apache Kafka on Kubernetes via Strimzi. Clusters, topics, users, connectors, MirrorMaker2, and node pools.

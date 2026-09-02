@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T02:09:31Z"
 ---
 ## What it is
 Exposes Azure Entra ID user and license management as MCP tools over HTTP-SSE, enabling operations such as user creation, group assignment, and license management via Microsoft Graph API.

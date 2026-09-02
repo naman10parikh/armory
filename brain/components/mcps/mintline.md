@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-04T12:14:28Z"
 ---
 ## What it is
 MCP server `Mintline`, catalogued on PulseMCP. Connect to Mintline receipts, transactions, and spending analytics.

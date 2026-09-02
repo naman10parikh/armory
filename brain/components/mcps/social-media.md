@@ -8,10 +8,12 @@ source_url: https://github.com/2389-research/mcp-socialmedia
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, social]
+forks: 7
+pushed_at: "2026-07-08T17:40:57Z"
 ---
 
 ## What it is

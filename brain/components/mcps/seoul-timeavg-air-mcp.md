@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T12:24:34Z"
 ---
 ## What it is
 Retrieves hourly average air quality data (PM10, PM2.5, ozone, NO2, CO, SO2) from Seoul's open data platform, filtered by station or district.

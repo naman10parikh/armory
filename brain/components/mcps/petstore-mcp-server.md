@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T06:12:14Z"
 ---
 ## What it is
 A read-only MCP server that exposes Swagger Petstore v2 GET endpoints as tools for searching available pets, fetching pet details, and checking inventory.

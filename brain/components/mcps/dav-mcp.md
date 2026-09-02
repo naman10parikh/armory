@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T11:53:18Z"
 ---
 ## What it is
 Transform AI agents into orchestrating assistants managing calendars, contacts, and tasks via CalDAV, CardDAV, and VTODO protocols.

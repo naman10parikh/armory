@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T14:26:33Z"
 ---
 ## What it is
 An MCP server that exposes Angel One's SmartAPI as tools for Claude Code, enabling login, portfolio data, market quotes, historical candles, and order placement/modification/cancellation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T22:20:46Z"
 ---
 ## What it is
 MCP server for XerraMeca, an independent agent-to-agent orchestration service. It enables managing conversations, turns, leases, and replies between autonomous agents via MCP tools.

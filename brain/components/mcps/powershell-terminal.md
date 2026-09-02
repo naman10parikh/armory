@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T20:47:04Z"
 ---
 ## What it is
 Enables Claude to execute PowerShell commands and scripts in a persistent interactive terminal on Windows, with real-time output streaming to a web terminal.

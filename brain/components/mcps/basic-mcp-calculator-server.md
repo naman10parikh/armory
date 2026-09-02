@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-26T11:16:00Z"
 ---
 ## What it is
 A simple MCP server that provides basic calculator operations such as add, subtract, multiply, and divide.

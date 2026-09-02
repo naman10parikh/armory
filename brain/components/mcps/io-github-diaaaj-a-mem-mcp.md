@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-17T02:58:03Z"
 ---
 ## What it is
 A-MEM is a self-evolving memory system for coding agents that automatically organizes knowledge into a Zettelkasten-style graph with dynamic relationships, enabling semantic and structural search.

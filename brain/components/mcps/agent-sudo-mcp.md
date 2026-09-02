@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-08-10T11:23:25Z"
 ---
 ## What it is
 Local zero-trust permission gateway for AI agents. Enforces policy-based tool authorization, human approvals, scoped permissions, and cryptographically verifiable audit logs.

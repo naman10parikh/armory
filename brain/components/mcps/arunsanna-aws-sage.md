@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-12-29T19:59:22Z"
 ---
 ## What it is
 MCP server `AWS Sage`, catalogued on PulseMCP. Integrates with AWS services through natural language commands, enabling resource querying and management across multiple profiles and regions via boto3 and FastMCP framework.

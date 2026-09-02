@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T21:37:02Z"
 ---
 ## What it is
 Enables querying AI model IQ, rankings, benchmarks, and methodology from any MCP client. Read-only access to the public AI IQ API with no API key required.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-09-02T02:19:08Z"
 ---
 ## What it is
 Deterministic bash→PowerShell translation layer for AI agents on Windows. Exposes a bash tool over MCP; agents write bash, fauxnix runs it natively on PowerShell 5.1 — no WSL, no VM, no Git Bash required.

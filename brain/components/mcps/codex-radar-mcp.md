@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T14:47:41Z"
 ---
 ## What it is
 This MCP server exposes a set of tools that fetch real-time model IQ and recommendation data from codexradar.com, allowing MCP clients like MaiBot or Claude Desktop to answer questions about which AI model is currently the smartest, how to configure effort tiers for different usage scenarios, and wh

@@ -8,10 +8,12 @@ source_url: https://github.com/mnemox-ai/tradememory-protocol
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1004
+stars: 1411
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 166
+pushed_at: "2026-08-11T17:55:53Z"
 ---
 ## What it is
 MCP server `TradeMemory`, catalogued on PulseMCP. Persistent outcome-weighted memory for trading agents with trade journaling, behavioral bias detection, and strategy adjustment.

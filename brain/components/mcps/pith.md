@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T10:14:38Z"
 ---
 ## What it is
 Pith is an MCP server that enables LLM agents to scrape web pages to clean markdown, perform multi-page crawls, structured extraction with verifiable citations, and web search.

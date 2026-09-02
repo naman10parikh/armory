@@ -8,10 +8,12 @@ source_url: https://github.com/sandraschi/tailscale-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T10:46:28Z"
 ---
 ## What it is
 MCP server `Tailscale`, catalogued on PulseMCP. Integrates with Tailscale networks to provide device management, traffic monitoring, file transfers via Taildrop, MagicDNS configuration, and security operations through 12 specialized tools with built-in monitoring stack and automated device discovery for enterprise network operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T03:55:33Z"
 ---
 ## What it is
 MCP server that lets Claude look up a student's daily class schedule. It includes a built-in mock timetable and uses Streamable HTTP transport, requiring no API credentials to try.

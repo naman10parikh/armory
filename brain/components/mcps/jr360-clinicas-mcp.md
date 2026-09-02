@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T13:15:04Z"
 ---
 ## What it is
 MCP server for demonstrating and selling clinic operational management systems with 6 local tools for generating demo data, classifying WhatsApp messages, calculating revenue loss, and answering objections.

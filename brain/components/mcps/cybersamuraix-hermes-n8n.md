@@ -8,10 +8,12 @@ source_url: https://github.com/cybersamuraix/hermes-n8n-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-05-23T00:50:22Z"
 ---
 ## What it is
 MCP server `Hermes n8n`, catalogued on PulseMCP. Local stdio MCP bridge for managing self-hosted n8n workflows including listing, inspecting, activating, and checking execution status.

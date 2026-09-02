@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T05:28:18Z"
 ---
 ## What it is
 A personal viewing assistant for Samsung TV that integrates Stremio, Spotify, and optional Trakt, allowing natural language control to find, queue, and play episodes, manage playback, and control TV and Spotify.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:42:41Z"
 ---
 ## What it is
 MCP server for querying data of Brazilian federal public servants from the Transparency Portal using CPF. It is read-only and provides a single tool for consulting server information.

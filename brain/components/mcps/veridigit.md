@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T21:13:54Z"
 ---
 ## What it is
 Verified validation of structured identifiers — IBAN, payment cards, ISBN-13 and VIN — for AI agents. Runs the real checksum algorithms (mod-97, Luhn, mod-10, ISO 3779) instead of letting the model guess, and returns structured results with clear errors.

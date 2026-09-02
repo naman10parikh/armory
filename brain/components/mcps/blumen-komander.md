@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-21T19:40:50Z"
 ---
 ## What it is
 MCP server `Blumen Komander`, catalogued on PulseMCP. Order fresh flowers with same-day delivery in Munich from Germany's first florist with MCP.

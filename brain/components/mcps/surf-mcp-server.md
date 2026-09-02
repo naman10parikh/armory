@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T02:10:24Z"
 ---
 ## What it is
 A server for querying surf spot data and searching spots, with tools to list regions, spots, get spot info, find spots by criteria, and get mock forecasts.

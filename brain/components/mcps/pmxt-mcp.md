@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-07-18T01:45:07Z"
 ---
 ## What it is
 MCP server that provides a unified prediction market API for multiple venues like Polymarket and Kalshi, allowing AI agents to discover markets, fetch order books, and execute trades through a single interface.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-04T01:55:14Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that turns multiple AI coding agents into a coordinated team that chats, debates, remembers, audits security, and works in parallel on the same project.

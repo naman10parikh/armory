@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T14:40:20Z"
 ---
 ## What it is
 Modular MCP server integrating Redmine, SQL Server, and GitLab for investigating incidents, enabling issue tracking, database queries, and merge request review via natural language.

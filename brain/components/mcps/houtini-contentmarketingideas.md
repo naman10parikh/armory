@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T13:50:39Z"
 ---
 ## What it is
 Content Marketing Ideas MCP server: an editorial copilot enabling source monitoring, brief generation, voice-matched article drafting, RAG search, and WordPress publishing through natural language in Claude.

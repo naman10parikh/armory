@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:48:45Z"
 ---
 ## What it is
 Provides a local MCP server that distills your chat history into a personal communication profile and decodes messy messages into explicit prompts for any MCP client.

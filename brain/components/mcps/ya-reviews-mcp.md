@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-23T22:49:04Z"
 ---
 ## What it is
 MCP server that scrapes Yandex Maps business reviews and company info, exposing them to AI assistants via three tools. No API key required, uses headless browser.

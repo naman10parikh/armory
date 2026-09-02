@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T02:51:22Z"
 ---
 ## What it is
 Enables natural language querying of Snowflake databases through a read-only MCP server, allowing users to ask questions in plain English and get results as markdown tables.

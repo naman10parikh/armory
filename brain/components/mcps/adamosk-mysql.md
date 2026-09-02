@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-10-07T17:09:13Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Provides secure MySQL database access with multi-database support, configurable security levels from read-only to full SQL access, and hot-reloadable configurations with lazy connection pooling for efficient database interactions.

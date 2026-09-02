@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-06T13:21:06Z"
 ---
 ## What it is
 MCP server that provides AI coding agents automatic access to AGENTS.md documentation from GitHub repositories, enabling understanding of codebase conventions and patterns.

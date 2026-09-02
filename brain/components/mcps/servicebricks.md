@@ -8,10 +8,12 @@ source_url: https://github.com/holomodular/servicebricks
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-29T02:29:43Z"
 ---
 ## What it is
 MCP server `ServiceBricks`, catalogued on PulseMCP. Generate a ServiceBricks C# .NET microservice as a ZIP file.

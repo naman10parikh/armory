@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:59:15Z"
 ---
 ## What it is
 Enables AI assistants to interact with ANSYS Icepak through natural language commands, supporting geometry import, material assignment, thermal loads, meshing, solving, and result retrieval.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-25T16:38:53Z"
 ---
 ## What it is
 Converts XMind mind map files into structured Markdown documents, preserving hierarchy and optionally including metadata.

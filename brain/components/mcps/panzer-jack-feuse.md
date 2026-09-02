@@ -12,6 +12,8 @@ stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-09-17T12:45:10Z"
 ---
 ## What it is
 MCP server `Feuse (Figma Design-to-Code)`, catalogued on PulseMCP. Automates Figma design-to-code workflows by extracting design data, downloading SVG assets, analyzing color variables, and generating API models with design token conversion for CSS frameworks like UnoCSS and TailwindCSS.

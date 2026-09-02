@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-11T12:39:33Z"
 ---
 ## What it is
 The CHUK MCP S3 Bucket Manager is a Python-based tool for managing Amazon S3 buckets using the MCP runtime. This utility provides a simple interface for listing, creating, and deleting S3 buckets.

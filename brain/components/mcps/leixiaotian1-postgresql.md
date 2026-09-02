@@ -8,10 +8,12 @@ source_url: https://github.com/leixiaotian1/pgsql-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-24T15:27:37Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. Enables direct PostgreSQL database interaction with tools for executing SQL queries, creating tables, and listing database schema, featuring security controls like query validation and input sanitization.

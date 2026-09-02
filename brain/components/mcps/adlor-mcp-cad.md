@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T08:28:40Z"
 ---
 ## What it is
 An open-source MCP server that bridges AI agents to Autodesk Revit and IFC geometry, providing ASME B31.3 pipe thickness verification, UK HSE Legionella compliance auditing, and 3D BIM property inspection.

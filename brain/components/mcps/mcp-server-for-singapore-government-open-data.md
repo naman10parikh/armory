@@ -8,11 +8,13 @@ source_url: https://github.com/aniruddha-adhikary/gahmen-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14459
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+forks: 4
+pushed_at: "2025-06-11T16:16:08Z"
 ---
 ## What it is
 Provide seamless access to open datasets and collections from data.gov.sg. Enable searching, metadata retrieval, and filtered dataset downloads for analysis.

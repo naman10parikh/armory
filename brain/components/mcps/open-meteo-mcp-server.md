@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-08T08:25:44Z"
 ---
 ## What it is
 Provides comprehensive access to Open-Meteo weather APIs, including forecasts, historical data, air quality, marine weather, and geocoding, enabling LLMs to retrieve weather information and location data.

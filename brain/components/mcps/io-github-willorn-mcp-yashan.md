@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T09:59:56Z"
 ---
 ## What it is
 Enables AI assistants to query YashanDB using natural language through SQL operations.

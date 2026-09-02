@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-05T13:46:53Z"
 ---
 ## What it is
 Enables LLM agents to manage projects, track issues, log work, and integrate with Git. Provides 23 MCP tools for full project management capabilities.

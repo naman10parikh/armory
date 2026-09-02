@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T09:53:16Z"
 ---
 ## What it is
 MCP server that exposes GreenNode AgentBase REST APIs as three searchable meta-tools (list_servers, search_tools, execute), reducing tool-definition overhead by ~95%. Runs locally over stdio or remotely over streamable HTTP with any MCP client.

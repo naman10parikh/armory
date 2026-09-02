@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T15:45:51Z"
 ---
 ## What it is
 Performs domain security posture checks including SPF, DKIM, DMARC, TLS, and HTTP security headers.

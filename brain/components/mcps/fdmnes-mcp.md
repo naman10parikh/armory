@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T13:25:36Z"
 ---
 ## What it is
 Enables running FDMNES X-ray spectroscopy simulations via natural language, supporting input file creation, job execution, output analysis, and keyword lookup through MCP-aware clients.

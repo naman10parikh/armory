@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T20:16:12Z"
 ---
 ## What it is
 DATPAQ exposes 34 production data & utility APIs — IP geolocation, DNS/WHOIS/MX lookups, email & phone validation, currency & precious-metals rates, aircraft/VIN lookups, web scraping & screenshots, and more — through one hosted, streamable-HTTP MCP endpoint.

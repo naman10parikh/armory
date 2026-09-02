@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-31T18:13:00Z"
 ---
 ## What it is
 MCP server `Computer Use`, catalogued on PulseMCP. Cross-platform computer use automation with screenshot capture, mouse, and keyboard control for Linux and Windows.

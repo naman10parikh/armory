@@ -8,11 +8,13 @@ source_url: https://github.com/TQJ2007-git/nx-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T05:09:12Z"
 ---
 ## What it is
 Enables natural language control of Siemens NX for text-to-CAD modeling, generating .prt files via NX Open API. Currently supports basic solids, booleans, and fillets in batch mode.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T20:52:46Z"
 ---
 ## What it is
 Bridge between AI assistants and Anki Desktop, enabling automated flashcard management and study document processing.

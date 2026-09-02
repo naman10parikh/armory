@@ -8,10 +8,12 @@ source_url: https://github.com/mastanley13/gohighlevel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 169
+stars: 197
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 204
+pushed_at: "2025-07-06T23:56:52Z"
 ---
 ## What it is
 MCP server `GoHighLevel`, catalogued on PulseMCP. Integrates with GoHighLevel CRM to manage contacts, conversations, blog posts, calendars, workflows, and media through comprehensive API access for marketing automation and client communication workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-22T21:10:07Z"
 ---
 ## What it is
 An MCP server that exposes tools for sub-agent style reasoning across multiple LLM providers, enabling delegation of prompts to various models and running critique loops, debates, red-teaming, and answer ranking.

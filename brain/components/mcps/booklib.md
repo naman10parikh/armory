@@ -8,11 +8,13 @@ source_url: https://github.com/booklib-ai/booklib
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 38
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 9
+pushed_at: "2026-04-10T06:43:32Z"
 ---
 ## What it is
 A context engineering tool for AI coding assistants that detects post-training knowledge gaps, resolves them automatically, and delivers team decisions via MCP to Claude, Cursor, Copilot, and other AI tools.

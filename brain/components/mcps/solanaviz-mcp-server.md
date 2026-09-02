@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-03-16T01:41:24Z"
 ---
 ## What it is
 Enables Claude to access, analyze, and visualize Solana blockchain data through natural language conversations.

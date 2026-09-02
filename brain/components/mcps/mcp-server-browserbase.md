@@ -8,11 +8,13 @@ source_url: https://github.com/browserbase/mcp-server-browserbase
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 3409
+stars: 3406
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, browserbase]
+forks: 367
+pushed_at: "2026-07-20T21:48:14Z"
 ---
 ## What it is
 MCP server for Browserbase cloud browser infrastructure — lets agents launch, control, and observe headless Chromium sessions via the Browserbase API with session management and live-view URLs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T21:29:22Z"
 ---
 ## What it is
 MCP server for pre-print QA of Bambu Studio projects, providing tools to inspect models and 3MF files, validate risky settings, create support variants, and open files in Bambu Studio.

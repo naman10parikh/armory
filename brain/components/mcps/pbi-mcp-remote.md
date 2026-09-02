@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T23:00:07Z"
 ---
 ## What it is
 Remote and centralized MCP server that enables AI models to interact with Microsoft Fabric (workspaces and items) via the Fabric Core REST API, using delegated OAuth 2.1 authentication with Microsoft Entra ID so each user's permissions and restrictions are respected.

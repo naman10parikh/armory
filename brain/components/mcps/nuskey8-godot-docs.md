@@ -8,10 +8,12 @@ source_url: https://github.com/nuskey8/godot-docs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-02T01:07:53Z"
 ---
 ## What it is
 MCP server `Godot Documentation`, catalogued on PulseMCP. Provides direct access to complete Godot game engine documentation through search, content retrieval, and class information tools that fetch and convert HTML documentation to clean Markdown format.

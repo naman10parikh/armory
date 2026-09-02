@@ -8,10 +8,12 @@ source_url: https://github.com/max-rousseau/mcp-filesystem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-03T08:36:09Z"
 ---
 ## What it is
 MCP server `YAML Filesystem`, catalogued on PulseMCP. Provides controlled YAML file management with surgical editing, pattern search, directory tree visualization, and SMB share support.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T23:53:54Z"
 ---
 ## What it is
 Manages and authoring of business rules in a scenario studio tool, enabling agents to read, update, link rules, and assign them to capabilities via MCP tools.

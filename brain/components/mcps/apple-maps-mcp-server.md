@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-19T06:48:51Z"
 ---
 ## What it is
 Search Apple Maps for businesses with Apple ratings and aggregated Yelp and TripAdvisor reviews. Useful for lead generation, restaurant research, and competitive analysis.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:53Z"
 ---
 ## What it is
 Read-only MCP server for consulting official dental registration data from the Regional Council of Dentistry of Piauí (Brazil), with prepaid per-query pricing and compatible with any MCP client.

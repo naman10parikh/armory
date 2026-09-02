@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-04-05T20:11:40Z"
 ---
 ## What it is
 Enables AI assistants to access Wikipedia content, search articles, retrieve historical events, and fetch images through the Wikipedia API.

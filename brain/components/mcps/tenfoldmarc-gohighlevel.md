@@ -8,10 +8,12 @@ source_url: https://github.com/tenfoldmarc/ghl-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2026-03-17T16:51:57Z"
 ---
 ## What it is
 MCP server `GoHighLevel by tenfoldmarc`, catalogued on PulseMCP. Manage GoHighLevel CRM sub-account contacts, pipelines, calendars, invoices, workflows, and campaigns.

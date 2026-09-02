@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:39:45Z"
 ---
 ## What it is
 MCP server for financial reconciliation and accounting on F360 Finanças, enabling read/write access to card reconciliation, transfers, accounts, and invoices via public API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T03:55:48Z"
 ---
 ## What it is
 Enables AI-powered legal research across 4,551 Luxembourg statutes, 260 case law decisions, and EU law integrations through natural language queries and 13 specialized tools.

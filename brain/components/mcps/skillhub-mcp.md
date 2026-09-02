@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-18T15:19:27Z"
 ---
 ## What it is
 Bridges Claude-style skills to MCP tools, enabling any MCP client to call the same skills for cross-client reuse and flexible packaging.

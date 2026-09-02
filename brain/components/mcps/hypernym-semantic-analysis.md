@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-02T21:21:08Z"
 ---
 ## What it is
 MCP server `Hypernym Semantic Analysis`, catalogued on PulseMCP. Provides semantic text analysis and compression tools for advanced content processing, enabling summarization, search optimization, and efficient storage while preserving core meaning.

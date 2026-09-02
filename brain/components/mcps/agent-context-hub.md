@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T11:09:25Z"
 ---
 ## What it is
 A reusable MCP server providing shared, versioned context across AI agents and devices via a private GitHub workspace, with tools to discover projects, bootstrap, query, and close out task state.

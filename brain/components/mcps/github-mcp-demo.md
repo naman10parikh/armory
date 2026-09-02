@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:44:50Z"
 ---
 ## What it is
 MCP server that wraps GitHub REST API to allow AI agents to search repositories, get repository details, list issues, and read READMEs.

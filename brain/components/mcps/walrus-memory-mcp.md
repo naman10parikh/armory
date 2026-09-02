@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T04:04:14Z"
 ---
 ## What it is
 Enables MCP clients to connect to Walrus Memory for persistent memory operations like remember, recall, analyze, and restore, with browser-based wallet login and local credential storage.

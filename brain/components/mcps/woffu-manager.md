@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T09:56:24Z"
 ---
 ## What it is
 An MCP server to manage time tracking and time off on Woffu, allowing users to clock in days, view balances, request leave, and check team availability.

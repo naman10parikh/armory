@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T01:35:49Z"
 ---
 ## What it is
 An MCP server with bearer token authentication implementing tools, resources, and prompts for a mock developer platform API, supporting both stdio and Streamable HTTP transports.

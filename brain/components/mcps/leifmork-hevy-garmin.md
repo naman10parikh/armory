@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-18T09:38:30Z"
 ---
 ## What it is
 MCP server `Hevy Garmin`, catalogued on PulseMCP. Connects Garmin Connect and Hevy fitness data to provide AI-driven training analysis, recovery tracking, and progressive overload recommendations.

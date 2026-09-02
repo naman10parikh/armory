@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T14:50:43Z"
 ---
 ## What it is
 AI-native Experience Decisioning lifecycle automation for Adobe Journey Optimizer, enabling end-to-end ExD setup from CSV to placements via 21 MCP tools.

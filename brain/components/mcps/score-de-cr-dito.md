@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T19:48:11Z"
 ---
 ## What it is
 Enables credit score and risk analysis queries for Brazilian individuals (CPF) and companies (CNPJ) via MCP over HTTP, with a single read-only tool and prepaid usage.

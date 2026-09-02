@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-21T22:17:37Z"
 ---
 ## What it is
 MCP server for controlling Renoise via OSC. Lets Claude compose music by writing patterns, triggering notes, and controlling playback.

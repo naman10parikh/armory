@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T14:18:58Z"
 ---
 ## What it is
 Enables Claude Code to analyze images using multiple visual models (Kimi, OpenAI, etc.) and summarize results with DeepSeek. Supports dynamic switching of visual providers and handles both text and image inputs.

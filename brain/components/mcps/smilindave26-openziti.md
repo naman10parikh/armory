@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-17T01:55:53Z"
 ---
 ## What it is
 MCP server `OpenZiti Network`, catalogued on PulseMCP. Exposes the OpenZiti zero-trust network management API for administering identities, services, policies, routers, certificates, and sessions.

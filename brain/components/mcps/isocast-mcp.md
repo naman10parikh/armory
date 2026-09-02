@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T00:28:04Z"
 ---
 ## What it is
 MCP server providing Polymarket weather-market bucket-transition signals for AI agents, with free city/signal inspection tools and paid signal bundles via USDC on Base using x402.

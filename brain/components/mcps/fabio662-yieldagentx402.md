@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T16:00:40Z"
 ---
 ## What it is
 MCP server `YieldAgentX402`, catalogued on PulseMCP. Executes x402 payment-gated tasks with signed receipts and Filecoin proofs via MCP.

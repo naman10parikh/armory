@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T04:57:16Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve documentation for Vanilla World of Warcraft Lua APIs, including function signatures, categories, protected flags, and addon scaffolding.

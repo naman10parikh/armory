@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T16:21:06Z"
 ---
 ## What it is
 FastMCP server that lets agents search and fetch IBM i documentation via IBM Documentation's public APIs.

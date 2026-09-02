@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-01T07:01:50Z"
 ---
 ## What it is
 MCP server `Feishu Project`, catalogued on PulseMCP. Integrates with Feishu Project management API, enabling direct interaction with project data, tasks, and resources through environment variable authentication and stdio-based transport.

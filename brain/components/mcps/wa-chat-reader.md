@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T13:37:10Z"
 ---
 ## What it is
 Reads your local WhatsApp chat history and exposes tools to retrieve messages and chat lists, enabling querying and summarization of your conversations entirely offline.

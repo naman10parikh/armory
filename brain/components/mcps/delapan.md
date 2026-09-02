@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T08:14:14Z"
 ---
 ## What it is
 MCP server that grounds AI answers in a local, maintained knowledge base and optionally fills gaps from the web, fully local with SQLite.

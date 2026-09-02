@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T14:33:02Z"
 ---
 ## What it is
 Enables searching and retrieving local chat history from Codex and Claude CLI sessions via BM25 full-text search and MCP tools.

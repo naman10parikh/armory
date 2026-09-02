@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-04T01:42:01Z"
 ---
 ## What it is
 MCP server `Semantic Metrics Modeling Assistant`, catalogued on PulseMCP. Helps data teams define, validate, and visualize business metrics with built-in trust scoring and observability features.

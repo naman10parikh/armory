@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T05:54:59Z"
 ---
 ## What it is
 MCP server that fetches, ranks, and summarizes global news from 28 RSS sources across 12 categories, exposing 16 tools for LLMs to query technology, AI, finance, politics, and more.

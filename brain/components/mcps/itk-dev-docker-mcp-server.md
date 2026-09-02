@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-27T10:05:05Z"
 ---
 ## What it is
 Provides AI coding assistants with access to ITK Dev Docker documentation and project analysis tools, enabling template listing, project detection, and comparison.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T14:32:19Z"
 ---
 ## What it is
 Enables reading work outlines, contexts, and chapters, and saving chapters with version protection for an AI novel writing tool.

@@ -8,10 +8,12 @@ source_url: https://github.com/haltakov/meme-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2025-03-12T09:20:21Z"
 ---
 ## What it is
 MCP server `Meme Generator (ImgFlip)`, catalogued on PulseMCP. Enables meme generation through the ImgFlip API with a single tool that accepts template ID and text placeholder parameters for creating custom memes directly within conversations.

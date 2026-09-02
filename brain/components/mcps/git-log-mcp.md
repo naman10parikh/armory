@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T11:10:27Z"
 ---
 ## What it is
 Enables querying git commit history to analyze when and why code changes happened, providing authorship context and diffs for specific modules.

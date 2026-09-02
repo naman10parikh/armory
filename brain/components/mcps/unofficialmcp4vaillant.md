@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T22:33:09Z"
 ---
 ## What it is
 An unofficial MCP (Model Context Protocol) server that exposes a Vaillant heat pump's data to AI assistants like Claude. Query outdoor and room temperatures, hot water status, energy consumption, COP estimates, schedules, and diagnostics through natural conversation.

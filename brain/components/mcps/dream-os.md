@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T07:30:49Z"
 ---
 ## What it is
 MCP server for Dream OS, enabling Claude to read, add, update, remove, and move desktop gadgets, capture ideas, and manage a transparent overlay through a set of 8 tools.

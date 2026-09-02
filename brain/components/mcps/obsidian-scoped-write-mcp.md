@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T19:02:50Z"
 ---
 ## What it is
 Enables reading an entire Obsidian Vault while limiting Markdown creation and updates to two designated ChatGPT directories, with overwrite protection and backup safeguards.

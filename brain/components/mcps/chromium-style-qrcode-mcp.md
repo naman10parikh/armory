@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T05:52:55Z"
 ---
 ## What it is
 An MCP server for generating Chromium-style QR codes with circular modules, rounded locators, and an optional center image (Dino logo or custom).

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-18T17:18:00Z"
 ---
 ## What it is
 Enables AI-powered icon search, generation, and download from 275,000+ icons with web-based authentication and subscription plans.

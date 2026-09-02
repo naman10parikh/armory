@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T19:25:09Z"
 ---
 ## What it is
 MCP server `ModelWatch`, catalogued on PulseMCP. MCP server for continuous behavioral drift monitoring of LLM applications, enabling spec creation, drift checking, and report retrieval.

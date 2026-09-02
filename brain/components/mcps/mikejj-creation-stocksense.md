@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-10T02:20:10Z"
 ---
 ## What it is
 MCP server `StockSense`, catalogued on PulseMCP. Provides AI agents with financial data including SEC filings, price history, and insider trades.

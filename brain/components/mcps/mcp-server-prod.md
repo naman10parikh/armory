@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T08:17:35Z"
 ---
 ## What it is
 A hardened MCP server exposing read-only orders tools to AI agents, with rigorous input validation and parameterized queries to prevent injection attacks.

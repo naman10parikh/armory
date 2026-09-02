@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T19:54:44Z"
 ---
 ## What it is
 MCP server for operating a fictional restaurant, providing tools to consult the menu, manage active orders, view shift summaries, update dish availability, and advance order statuses. Includes a playground that teaches JSON-RPC by showing live protocol interactions.

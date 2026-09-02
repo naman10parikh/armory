@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T12:51:52Z"
 ---
 ## What it is
 Enables querying a local wiki through MCP-style tools, including search, Q\&A, and knowledge map, with a web viewer for human browsing.

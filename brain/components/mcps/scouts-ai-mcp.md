@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T04:03:55Z"
 ---
 ## What it is
 Model Context Protocol server exposing the SCOUTS-AI web search API as a single web_search tool for AI agents. No API key required.

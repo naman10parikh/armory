@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T05:33:26Z"
 ---
 ## What it is
 Enables hands-on exploration of common MCP security vulnerabilities through locally runnable vulnerable and fixed servers with accompanying exploits and a dashboard.

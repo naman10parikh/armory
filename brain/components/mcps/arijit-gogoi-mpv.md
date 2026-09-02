@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T19:07:08Z"
 ---
 ## What it is
 MCP server `mpv`, catalogued on PulseMCP. Control mpv media player playback, playlists, YouTube streaming, and downloads via AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T08:44:32Z"
 ---
 ## What it is
 Calculates estimated import duties, taxes, and customs clearance rules for overseas purchases, with all tools being read-only and operating without external API calls.

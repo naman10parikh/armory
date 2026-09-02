@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T15:47:07Z"
 ---
 ## What it is
 MCP server for ImageAPI AI that lets AI assistants generate high-resolution images, refine prompts for free, and inspect account credits directly in development workflows and chat sessions.

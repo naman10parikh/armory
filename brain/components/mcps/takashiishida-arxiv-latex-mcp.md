@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
-stars: 144
+stars: 145
+forks: 16
+pushed_at: "2026-08-24T09:33:03Z"
 ---
 ## What it is
 Get the LaTeX source of arXiv papers to handle mathematical content and equations

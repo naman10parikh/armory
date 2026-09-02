@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-15T08:27:20Z"
 ---
 ## What it is
 MCP server that gives AI agents and teams persistent, shared memory using a knowledge graph with vector embeddings, automatic consolidation of related facts, and hybrid search.

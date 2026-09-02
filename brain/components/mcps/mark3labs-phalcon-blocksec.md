@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-10-16T11:58:17Z"
 ---
 ## What it is
 MCP server `Phalcon (BlockSec Transaction Analysis)`, catalogued on PulseMCP. Integrates with BlockSec's blockchain analysis platform to provide detailed transaction insights across multiple blockchains, including tracing, profiling, address labeling, and state change analysis.

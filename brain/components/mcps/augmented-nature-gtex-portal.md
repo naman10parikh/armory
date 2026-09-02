@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-12-21T10:01:31Z"
 ---
 ## What it is
 MCP server `GTEx Portal`, catalogued on PulseMCP. Integrates with GTEx Portal API to provide gene expression analysis, genetic variant associations, and tissue-specific genomics data retrieval across 25 specialized tools for human gene expression research and comparative genomics studies.

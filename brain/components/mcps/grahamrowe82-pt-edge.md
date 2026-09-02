@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 6
+stars: 7
+forks: 2
+pushed_at: "2026-04-18T07:42:00Z"
 ---
 ## What it is
 AI project intelligence MCP server. Tracks 300+ open-source AI projects across GitHub, PyPI, npm, HuggingFace, Docker Hub, and Hacker News. 47 MCP tools for discovery, comparison, trend analysis, and semantic search across AI repos, HuggingFace models/datasets, and public APIs.

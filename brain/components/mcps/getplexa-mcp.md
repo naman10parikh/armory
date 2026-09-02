@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T19:40:09Z"
 ---
 ## What it is
 A Model Context Protocol server that gives any MCP client two economic-safety tools: realizable quote and pretrade check, paid per call in USDC with no accounts.

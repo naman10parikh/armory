@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-04T01:48:24Z"
 ---
 ## What it is
 Integrates Loopy's AI agent loop library with MCP-compatible clients like LM Studio, enabling discovery, analysis, crafting, and execution of bounded agent workflows.

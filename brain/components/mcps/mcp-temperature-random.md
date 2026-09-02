@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:28:20Z"
 ---
 ## What it is
 Provides a tool that fetches current temperatures from 10 cities worldwide, sums them, and returns the last two digits. Requires an X-API-Key from StupidAPIs.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T16:51:00Z"
 ---
 ## What it is
 MCP server `Could Have Been an Email`, catalogued on PulseMCP. Analyzes meeting transcripts to identify filler content and generate the email that should have replaced the meeting.

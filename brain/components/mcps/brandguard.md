@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T18:01:06Z"
 ---
 ## What it is
 Scans npm, PyPI, and GitHub for typosquatting and brand impersonation, risk-scores findings, and drafts takedown notices.

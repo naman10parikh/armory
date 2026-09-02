@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T12:53:46Z"
 ---
 ## What it is
 Enables real-time language translation for chat conversations, automatically detecting and translating messages between multiple languages while correcting Korean grammar and style before sending.

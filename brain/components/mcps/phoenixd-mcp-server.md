@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-22T02:21:34Z"
 ---
 ## What it is
 Enables LLMs to manage a phoenixd Bitcoin Lightning wallet, including creating and paying invoices, managing channels, and querying balances and node info.

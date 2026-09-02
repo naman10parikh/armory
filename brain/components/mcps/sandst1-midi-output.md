@@ -8,10 +8,12 @@ source_url: https://github.com/sandst1/mcp-server-midi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-16T15:54:55Z"
 ---
 ## What it is
 MCP server `MIDI Output`, catalogued on PulseMCP. Creates a virtual MIDI output port for sending notes, control changes, and timed sequences to any compatible software or hardware synthesizer.

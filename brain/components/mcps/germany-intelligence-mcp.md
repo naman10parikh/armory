@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T13:29:52Z"
 ---
 ## What it is
 An evidence-based career intelligence layer for the German software job market, exposed to Claude as an MCP server.

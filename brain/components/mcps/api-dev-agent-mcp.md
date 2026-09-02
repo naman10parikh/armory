@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T07:54:21Z"
 ---
 ## What it is
 MCP server that automates the generation of production-grade async FastAPI services following Clean Architecture, with self-healing pytest-based verification and OpenAPI spec ingestion for rapid CRUD API development.

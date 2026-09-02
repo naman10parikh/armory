@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T20:59:38Z"
 ---
 ## What it is
 Enables AI agents to learn from their work by recording tasks, extracting patterns, detecting mistakes, and proactively surfacing insights, all using the agent's own model through a cooperative intelligence pattern.

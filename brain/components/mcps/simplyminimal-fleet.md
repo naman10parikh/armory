@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-03T17:33:58Z"
 ---
 ## What it is
 MCP server `Fleet Device Management`, catalogued on PulseMCP. Manage and monitor Fleet Device Management instances with tools for host queries, policy compliance, software inventory, and live osquery execution.

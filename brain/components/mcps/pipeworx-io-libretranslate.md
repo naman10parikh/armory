@@ -8,10 +8,12 @@ source_url: https://github.com/pipeworx-io/mcp-libretranslate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:19:18Z"
 ---
 ## What it is
 MCP server `LibreTranslate`, catalogued on PulseMCP. LibreTranslate open-source machine translation supporting dozens of language pairs via the Pipeworx gateway.

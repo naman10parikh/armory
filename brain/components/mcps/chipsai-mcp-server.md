@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-29T09:34:11Z"
 ---
 ## What it is
 Enables managing ChipsBot chatbots, conversations, documents, RAG configuration, bot-to-bot routing, and AI models through natural language.

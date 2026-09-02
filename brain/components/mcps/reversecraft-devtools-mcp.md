@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-01-10T01:43:44Z"
 ---
 ## What it is
 A powerful MCP server for browser debugging and reverse engineering, providing AI coding assistants with comprehensive browser automation, JavaScript debugging, and network analysis capabilities.

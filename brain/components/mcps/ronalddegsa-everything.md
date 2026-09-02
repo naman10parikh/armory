@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-01-29T18:32:41Z"
 ---
 ## What it is
 MCP server `Everything Local Commands`, catalogued on PulseMCP. Provides system-level operations for file handling, information retrieval, HTTP requests, and command execution, enabling versatile system management and task automation.

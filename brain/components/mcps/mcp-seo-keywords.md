@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:40:10Z"
 ---
 ## What it is
 Provides search volume and keyword difficulty data via DataForSEO Labs, enabling AI agents to perform SEO keyword research through natural language queries.

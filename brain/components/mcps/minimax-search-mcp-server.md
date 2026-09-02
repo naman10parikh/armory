@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 12
+pushed_at: "2025-11-03T09:04:57Z"
 ---
 ## What it is
 MCP server enabling parallel web search and batch browsing with intelligent content understanding via MiniMax LLM.

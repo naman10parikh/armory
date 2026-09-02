@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T13:58:36Z"
 ---
 ## What it is
 Enables searching and downloading PornHub videos via MCP tools with stealth anti-detection and aria2 for robust downloading.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-23T18:14:21Z"
 ---
 ## What it is
 Enables natural language management of apps, services, resources, attributes, and data via the Dimetrics API with full CRUD operations and advanced filtering.

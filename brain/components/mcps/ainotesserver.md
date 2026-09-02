@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-14T13:48:25Z"
 ---
 ## What it is
 Un servidor MCP para crear, almacenar y recuperar notas de texto a través de una interfaz de IA conversacional como Claude Desktop.

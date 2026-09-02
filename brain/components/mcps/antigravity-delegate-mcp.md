@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T09:07:34Z"
 ---
 ## What it is
 A local-STDIO MCP server that lets Codex invoke the Antigravity CLI from any project, with project-owned routing guidance and enforceable policies.

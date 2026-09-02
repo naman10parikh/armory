@@ -8,10 +8,12 @@ source_url: https://github.com/simonkurtz-msft/drawio-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-05-15T15:57:03Z"
 ---
 ## What it is
 MCP server `Draw.io Diagram Generator`, catalogued on PulseMCP. Generates Draw.io XML diagrams programmatically with 700+ embedded Azure architecture icons, batch operations, fuzzy shape search, and layer/page/group management.

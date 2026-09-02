@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:20Z"
 ---
 ## What it is
 Provides read-only access to query old traffic fines from the official São Paulo city source via a single consultation tool, functioning as an MCP server over HTTP.

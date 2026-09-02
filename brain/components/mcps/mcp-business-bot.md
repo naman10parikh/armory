@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T07:18:06Z"
 ---
 ## What it is
 Enables querying company knowledge base using RAG, providing accurate answers from internal documents via MCP.

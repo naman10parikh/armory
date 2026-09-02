@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T16:29:26Z"
 ---
 ## What it is
 MCP server that gives AI agents isolated, named Linux computers with stable IDs and lifecycle control. Supports multiple backends like Docker, Fly Machines, Modal, and E2B, with a dashboard for managing sandboxes.

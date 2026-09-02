@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-02T03:30:43Z"
 ---
 ## What it is
 A sub-regional MCP server for the DPYC tollbooth ecosystem, providing authority certification and audit trails for New England operators, with tools inherited from the tollbooth-dpyc shared SDK.

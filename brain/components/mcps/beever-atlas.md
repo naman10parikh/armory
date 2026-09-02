@@ -8,11 +8,13 @@ source_url: https://github.com/Beever-AI/beever-atlas
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 442
+stars: 443
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 47
+pushed_at: "2026-09-02T02:30:08Z"
 ---
 ## What it is
 Turns team chat (Slack, Discord, MS Teams, Mattermost) into a living knowledge base - a typed knowledge graph plus auto-generated wiki - exposed to AI agents through a 28-tool MCP server with semantic search, expert finding, and decision tracing.

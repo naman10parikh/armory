@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T02:11:12Z"
 ---
 ## What it is
 A read-only MySQL query service that allows SELECT operations, listing tables, and viewing schemas via MCP protocol.

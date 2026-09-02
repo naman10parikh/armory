@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T15:42:41Z"
 ---
 ## What it is
 A read-only MCP server that enables searching and listing ServiceNow configuration items, reading direct CI relationships, and traversing the relationship graph up to a controlled depth.

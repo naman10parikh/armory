@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T17:18:11Z"
 ---
 ## What it is
 MCP server to publish on Reddit safely, with automated rule checking, dry-run mode, and subreddit allowlisting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:14:31Z"
 ---
 ## What it is
 Drive VMD headlessly from any MCP client to analyze structures and trajectories, and ray-trace publication-quality images with no display.

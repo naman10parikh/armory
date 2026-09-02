@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-28T06:35:14Z"
 ---
 ## What it is
 Context-aware web fetching for LLMs, providing 7 tools to check page size, fetch with truncation, extract code/sections/links/tables, and paginate large documents.

@@ -8,10 +8,12 @@ source_url: https://github.com/upamune/human-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-05T15:46:53Z"
 ---
 ## What it is
 MCP server `Human MCP`, catalogued on PulseMCP. Human-in-the-loop server that routes AI assistant requests to a human operator through a Streamlit UI, enabling creative and unpredictable responses while maintaining the illusion of automated interactions.

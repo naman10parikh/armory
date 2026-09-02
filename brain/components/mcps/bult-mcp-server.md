@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T18:32:24Z"
 ---
 ## What it is
 Deploy and manage Bult.ai cloud hosting projects from MCP clients like Cursor, Claude Desktop, and Claude Code. Create projects and services, deploy GitHub repositories or Docker images, manage routes and volumes, inspect logs, and troubleshoot deployments from your AI assistant.

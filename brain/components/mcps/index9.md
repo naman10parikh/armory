@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-26T22:33:56Z"
 ---
 ## What it is
 MCP server `Index9`, catalogued on PulseMCP. Up-to-date model data for AI coding assistants

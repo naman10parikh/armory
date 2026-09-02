@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T15:39:02Z"
 ---
 ## What it is
 Local-first cross-agent memory for AI coding agents. Persistent, shared memory over MCP — what you tell one agent can be recalled by another — with all data stored in a single local SQLite file, no cloud and no API keys.

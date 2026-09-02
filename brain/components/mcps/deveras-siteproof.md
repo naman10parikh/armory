@@ -8,10 +8,12 @@ source_url: https://github.com/deashidle-stack/siteproof-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-17T20:43:22Z"
 ---
 ## What it is
 MCP server `SiteProof by Deveras`, catalogued on PulseMCP. Scans websites for WCAG accessibility issues, AI engine optimization, and AI agent security compliance via Deveras.

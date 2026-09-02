@@ -8,10 +8,12 @@ source_url: https://github.com/joshuarileydev/supabase-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2024-12-06T20:03:44Z"
 ---
 ## What it is
 MCP server `Supabase Management`, catalogued on PulseMCP. Control Supabase projects and organizations.

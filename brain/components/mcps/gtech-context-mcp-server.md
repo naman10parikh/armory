@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T10:16:43Z"
 ---
 ## What it is
 A static, read-only MCP server that exposes a database knowledge base (schema, relationships, workflows, and reasoning patterns) so Claude Code / Copilot can reason about a database without a live connection.

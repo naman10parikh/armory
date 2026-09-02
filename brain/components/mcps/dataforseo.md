@@ -8,11 +8,13 @@ source_url: https://github.com/dataforseo/mcp-server-typescript
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 206
+stars: 242
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 2
+forks: 118
+pushed_at: "2026-09-01T10:59:19Z"
 ---
 ## What it is
 MCP server `DataForSEO`, catalogued on PulseMCP. Integrates with DataForSEO's SEO and marketing analytics APIs to provide direct access to search engine results, keyword research, content analysis, and competitive market insights for digital marketers and SEO professionals.

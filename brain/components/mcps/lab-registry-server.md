@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T02:58:23Z"
 ---
 ## What it is
 Enables MCP clients to discover and fetch skills, agents, commands, and hooks from the Gen-e2 Lab Registry, and check local inventory compliance against the registry.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T12:15:03Z"
 ---
 ## What it is
 Scans MCP servers for security hardening issues including capability declarations, transport, and tool descriptions.

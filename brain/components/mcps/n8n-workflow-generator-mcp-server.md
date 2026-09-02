@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-08T16:33:31Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that generates production-ready n8n workflows from natural language prompts. Transform simple descriptions into fully validated, deployable automation workflows using AI-powered code generation.

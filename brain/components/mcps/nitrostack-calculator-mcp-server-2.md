@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T17:56:49Z"
 ---
 ## What it is
 Provides calculator tools, resources, and prompts for learning NitroStack fundamentals.

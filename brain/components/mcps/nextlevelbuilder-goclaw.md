@@ -8,10 +8,12 @@ source_url: https://github.com/nextlevelbuilder/goclaw-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2026-03-15T05:08:10Z"
 ---
 ## What it is
 MCP server `GoClaw`, catalogued on PulseMCP. Manages GoClaw AI gateway infrastructure with 66 tools covering agents, sessions, and configuration.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-19T09:43:21Z"
 ---
 ## What it is
 MCP server `Agent Data Boundary`, catalogued on PulseMCP. Permission boundary mapping, sensitive field flagging, and data access receipts for AI agent deployments.

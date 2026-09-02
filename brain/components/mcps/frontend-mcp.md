@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T21:03:45Z"
 ---
 ## What it is
 Enables frontend navigation and browser automation through a deterministic MCP server, integrating Browser Use and optional code graph hints for coding agents.

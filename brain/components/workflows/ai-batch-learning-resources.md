@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tutorials-learning-resources]
+forks: 0
+pushed_at: "2025-07-12T09:29:32Z"
 ---
 ## What it is
 Learning resources for AI certification

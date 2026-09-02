@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T21:14:29Z"
 ---
 ## What it is
 Rocket.Chat bridge with a local SQLite/FTS5 cache — CLI for humans, MCP server for LLM agents.

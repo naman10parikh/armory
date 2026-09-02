@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T23:57:35Z"
 ---
 ## What it is
 An MCP server that verifies whether a claim is actually supported by the source text at a given citation — independent of what the calling LLM asserts.

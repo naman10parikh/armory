@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-28T21:32:14Z"
 ---
 ## What it is
 MCP server for semantic code indexing using vector embeddings, enabling AI agents to maintain persistent memory of codebases through natural language queries and intelligent chunking.

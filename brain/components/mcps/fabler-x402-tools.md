@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-03T20:42:00Z"
 ---
 ## What it is
 Enables MCP clients to use paid tools for secret scanning, agent-config auditing, and OG image rendering, with payments handled over the x402 protocol on Base.

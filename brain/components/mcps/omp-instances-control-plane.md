@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T10:33:58Z"
 ---
 ## What it is
 Local MCP control plane for managing multiple Oh My Pi processes via Unix sockets, enabling discovery, messaging, and lifecycle operations.

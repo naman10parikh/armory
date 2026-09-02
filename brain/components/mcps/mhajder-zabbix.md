@@ -8,10 +8,12 @@ source_url: https://github.com/mhajder/zabbix-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-31T21:46:11Z"
 ---
 ## What it is
 MCP server `Zabbix`, catalogued on PulseMCP. Integrates with Zabbix monitoring infrastructure for managing hosts, templates, items, triggers, problems, events, users, proxies, and maintenance periods.

@@ -8,10 +8,12 @@ source_url: https://github.com/msgbyte/tianji
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3042
+stars: 3084
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 195
+pushed_at: "2026-09-01T17:30:17Z"
 ---
 ## What it is
 MCP server `Tianji`, catalogued on PulseMCP. Bridges AI assistants with the Tianji platform to enable survey management, including querying results, retrieving detailed information, and listing workspace surveys without navigating the Tianji interface.

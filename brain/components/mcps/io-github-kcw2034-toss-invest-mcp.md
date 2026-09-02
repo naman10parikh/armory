@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T10:10:57Z"
 ---
 ## What it is
 Enables trading and market data access for Toss Securities through natural language, with built-in trading guardrails to prevent errors.

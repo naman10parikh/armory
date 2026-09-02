@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T22:05:52Z"
 ---
 ## What it is
 MCP server for SailPoint IdentityIQ 8.5 that enables searching and requesting roles and entitlements through SCIM 2.0 from AI clients.

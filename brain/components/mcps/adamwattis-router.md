@@ -8,10 +8,12 @@ source_url: https://github.com/adamwattis/mcp-proxy-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 198
+stars: 203
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 44
+pushed_at: "2025-02-02T01:42:51Z"
 ---
 ## What it is
 MCP server `Router`, catalogued on PulseMCP. Aggregates multiple MCP resource servers into a unified proxy, enabling centralized access, request routing, and response aggregation.

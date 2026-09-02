@@ -8,10 +8,12 @@ source_url: https://github.com/grahamnotgrant/blacksmith-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-04-30T17:04:39Z"
 ---
 ## What it is
 MCP server `Blacksmith CI`, catalogued on PulseMCP. Query workflow runs, analyze test failures, detect flaky tests, and monitor CI usage through Blacksmith's API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-30T08:29:54Z"
 ---
 ## What it is
 Notion API MCP server for Claude Code to manipulate Notion pages, blocks, and databases with batch operations and Windows compatibility.

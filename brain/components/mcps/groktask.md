@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T13:27:36Z"
 ---
 ## What it is
 A standalone cross-platform task runner that delegates implementation to Grok Build via MCP, providing CLI, MCP, daemon, and a native desktop UI for live task monitoring.

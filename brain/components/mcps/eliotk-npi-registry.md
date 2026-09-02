@@ -8,10 +8,12 @@ source_url: https://github.com/eliotk/npi-registry-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-18T12:46:17Z"
 ---
 ## What it is
 MCP server `NPI Registry`, catalogued on PulseMCP. Integrates with the National Provider Identifier (NPI) registry to search for healthcare providers and organizations by name, location, specialty, or NPI number with detailed contact information, credentials, and practice locations.

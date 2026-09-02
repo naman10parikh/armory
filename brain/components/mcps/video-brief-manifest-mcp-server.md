@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T06:51:31Z"
 ---
 ## What it is
 Validates structured AI video briefs for subject, motion, camera, visual-detail, and audio-direction signals, then builds a portable preflight manifest. Runs locally over stdio and does not call any generation backend.

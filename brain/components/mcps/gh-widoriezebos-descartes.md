@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-26T10:34:46Z"
 ---
 ## What it is
 MCP server `Descartes Java Debugger`, catalogued on PulseMCP. Debug live JVMs using JDWP or embedded runtime tooling with JShell, profiler, and hot reload capabilities.

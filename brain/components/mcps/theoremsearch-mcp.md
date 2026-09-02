@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T09:36:18Z"
 ---
 ## What it is
 An MCP server for semantic search over 9.27 million mathematical statements from sources like arXiv and Stacks Project, offering 5 tools for filtered search, citation weighting, and dependency graph traversal.

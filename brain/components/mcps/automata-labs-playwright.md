@@ -8,10 +8,12 @@ source_url: https://github.com/vikashloomba/mcp-server-playwright
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 294
+stars: 299
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 51
+pushed_at: "2025-06-05T21:48:28Z"
 ---
 ## What it is
 MCP server `Playwright`, catalogued on PulseMCP. Control browsers to perform sophisticated web interactions and visual tasks.

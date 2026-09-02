@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T20:32:18Z"
 ---
 ## What it is
 A local MCP server that gives code agents a shared, persistent graph memory backed by Kuzu, plus a live web dashboard for visualizing the graph and activity log.

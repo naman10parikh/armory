@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-06-11T13:49:19Z"
 ---
 ## What it is
 Enables LLM-driven portfolio optimization using natural language, providing tools for mean-variance, HRP, Black-Litterman, and other optimization methods.

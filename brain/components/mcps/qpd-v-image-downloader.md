@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2024-12-19T06:43:05Z"
 ---
 ## What it is
 MCP server `Image Download and Optimize`, catalogued on PulseMCP. Integrates image downloading and optimization tools for efficient retrieval, resizing, and format conversion of web images.

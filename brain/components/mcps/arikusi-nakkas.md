@@ -8,10 +8,12 @@ source_url: https://github.com/arikusi/nakkas
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-07-14T12:30:12Z"
 ---
 ## What it is
 MCP server `Nakkas`, catalogued on PulseMCP. Renders SVG graphics from declarative JSON configurations with CSS and SMIL animation support.

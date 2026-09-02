@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-19T15:40:10Z"
 ---
 ## What it is
 Enables retrieval of relevant context from Confluence pages using RAG and ChromaDB, integrating with code assistants like GitHub Copilot to enhance documentation queries.

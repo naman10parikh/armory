@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T21:58:50Z"
 ---
 ## What it is
 Enables users to look up every layer of local government for any Cook County address, including representatives, finances, and agendas, with provenance and certainty levels for data.

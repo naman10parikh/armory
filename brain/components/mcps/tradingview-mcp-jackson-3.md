@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T22:52:50Z"
 ---
 ## What it is
 Enables Claude to control and read from the TradingView Desktop app, providing automated morning briefs, chart analysis, Pine Script development, and replay mode.

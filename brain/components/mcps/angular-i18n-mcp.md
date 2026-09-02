@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-13T22:20:09Z"
 ---
 ## What it is
 Manages Angular internationalization (i18n) by extracting, listing, and updating translation strings in XLIFF format through MCP tools.

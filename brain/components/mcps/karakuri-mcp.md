@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T18:13:50Z"
 ---
 ## What it is
 A modular MCP server that enables AI agents to efficiently call multiple specific APIs through plugins, currently including video generation via PiAPI Seedance, file downloads, and audit logging.

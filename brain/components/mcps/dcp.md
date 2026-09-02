@@ -8,10 +8,12 @@ source_url: https://github.com/device-context-protocol/dcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-27T04:46:02Z"
 ---
 ## What it is
 MCP server `Device Context Protocol`, catalogued on PulseMCP. Bridges the Device Context Protocol (DCP) for IoT microcontrollers to the MCP standard, enabling AI control of ESP32 devices.

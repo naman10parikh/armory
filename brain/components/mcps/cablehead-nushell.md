@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-08-12T03:49:55Z"
 ---
 ## What it is
 MCP server `Nushell`, catalogued on PulseMCP. Executes Nushell scripts securely through a single tool, returning structured output with stdout, stderr, and exit codes for data processing pipelines and system administration tasks.

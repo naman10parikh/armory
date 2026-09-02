@@ -8,10 +8,12 @@ source_url: https://github.com/abdelstark/bitcoin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 76
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 21
+pushed_at: "2025-08-01T09:38:50Z"
 ---
 ## What it is
 MCP server `Bitcoin`, catalogued on PulseMCP. Integrates with Bitcoin network and blockchain data via Blockstream API to enable transaction monitoring, wallet management, and blockchain analysis

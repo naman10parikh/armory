@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T14:41:34Z"
 ---
 ## What it is
 Connects Claude or any MCP-compatible AI to a database of 960+ active VC funds for searching, fund profiles, live GP signals, and AI-powered startup-investor matching.

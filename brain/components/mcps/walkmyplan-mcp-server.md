@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T12:20:03Z"
 ---
 ## What it is
 Enables users to create and edit 3D floor plans conversationally, describing rooms and layouts or uploading DWG/PDF drawings, then view them in 2D/3D via a live link.

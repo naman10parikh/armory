@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-03T22:48:02Z"
 ---
 ## What it is
 Multi-cloud pricing comparison MCP server that enables natural language queries to compare compute, storage, egress, and Kubernetes costs across AWS, Azure, GCP, and OCI.

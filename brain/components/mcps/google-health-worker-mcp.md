@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-20T05:45:05Z"
 ---
 ## What it is
 A personal MCP server on Cloudflare Workers that connects Claude to Google Health API v4, enabling reading of health data like activity, sleep, heart rate, SpO₂, HRV, and nutrition.

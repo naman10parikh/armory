@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:53Z"
 ---
 ## What it is
 Enables querying the official registry of the Regional Council of Dentistry of Paraná (Brazil) for professional registration data. It provides a read-only tool to consult official records via natural language.

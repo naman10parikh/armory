@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:04:49Z"
 ---
 ## What it is
 A small, readable MCP learning project implemented in TypeScript that uses a local JSON notebook to demonstrate core MCP features such as tools, resources, prompts, sampling, and notifications.

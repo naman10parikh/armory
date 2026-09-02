@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T04:36:32Z"
 ---
 ## What it is
 Turn SEC EDGAR filings into a searchable vector database, enabling natural language queries over company filings through Claude Desktop.

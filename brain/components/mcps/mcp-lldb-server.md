@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-04T01:35:55Z"
 ---
 ## What it is
 Enables AI assistants to start and manage LLDB debugging sessions, including loading programs, setting breakpoints, stepping through code, and examining memory.

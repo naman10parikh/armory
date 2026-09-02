@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:47:19Z"
 ---
 ## What it is
 Provides read-only access to Azure DevOps using your browser session, no PAT required. Enables browsing projects, repos, work items, pull requests, and feeds through MCP tools.

@@ -8,10 +8,12 @@ source_url: https://github.com/mhalder/qdrant-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 25
+pushed_at: "2026-06-14T15:09:24Z"
 ---
 ## What it is
 MCP server `Qdrant`, catalogued on PulseMCP. Provides semantic search capabilities using a local Qdrant vector database and OpenAI embeddings for building private knowledge bases and document search systems without sending data to external services.

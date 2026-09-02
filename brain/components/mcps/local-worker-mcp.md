@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T19:43:02Z"
 ---
 ## What it is
 Delegates heavy, repetitive, and verifiable tasks like PDF extraction, code analysis, and log processing to a local LLM to reduce token consumption for frontier AI models, while keeping decision-making with the main AI.

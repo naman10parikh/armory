@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-03T19:14:25Z"
 ---
 ## What it is
 Slack Agent Mesh is an open-source MCP server that turns a single Slack app into a mesh of virtual agent identities, providing a transport and coordination layer where agents can be addressed by name and collaborate through durable, human-visible Slack threads.

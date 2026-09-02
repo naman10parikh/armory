@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T19:46:58Z"
 ---
 ## What it is
 Bridges MCP-capable LLM agents to the Serotonin Lua runtime, enabling live Roblox game interaction including instance tree navigation, memory access, and script execution.

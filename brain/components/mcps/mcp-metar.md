@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-21T19:27:05Z"
 ---
 ## What it is
 MCP server for fetching METAR and TAF aviation weather data for airports by ICAO code.

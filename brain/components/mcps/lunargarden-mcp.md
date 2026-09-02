@@ -8,11 +8,13 @@ source_url: https://github.com/aymaratedesko-hue/lunargarden-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T06:28:53Z"
 ---
 ## What it is
 Provides astrology-aware garden care planning by combining lunar phase, Vedic panchang, weather, and soil forecasts into structured care plans with rationales and confidence scores.

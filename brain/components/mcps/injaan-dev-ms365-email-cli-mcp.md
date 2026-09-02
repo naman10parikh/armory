@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-24T05:36:39Z"
 ---
 ## What it is
 Deprecated MCP server wrapper for ms365-email-cli that exposes Microsoft 365 email operations (list, read, send, reply, search, etc.) as MCP tools. Use the main ms365-email-cli package instead, which now includes built-in MCP server support.

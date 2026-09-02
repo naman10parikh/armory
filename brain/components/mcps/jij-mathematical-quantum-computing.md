@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-06-11T02:21:33Z"
 ---
 ## What it is
 MCP server `Jij Mathematical and Quantum Computing Platform`, catalogued on PulseMCP. Provides specialized tools for mathematical optimization using JijModeling and quantum computing with Qiskit, offering syntax guidance, code validation, and migration assistance to bridge compatibility gaps between older AI-generated code and modern Qiskit implementations.

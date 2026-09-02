@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-13T13:34:49Z"
 ---
 ## What it is
 MCP server `Video Editor`, catalogued on PulseMCP. Edits videos locally via FFmpeg with 15 tools for trimming, merging, subtitles, color grading, and social media export.

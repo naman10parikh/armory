@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-08T15:12:43Z"
 ---
 ## What it is
 A local MCP server that provides all 42 BMAD AI development skills to multiple AI tools (Claude Code, Cursor, etc.) with project context injection and a live web dashboard.

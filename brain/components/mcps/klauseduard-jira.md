@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-10-26T22:16:22Z"
 ---
 ## What it is
 MCP server `JIRA`, catalogued on PulseMCP. Integrates with JIRA issue tracking systems to enable retrieving, searching, creating, and updating issues, listing projects, and logging work time directly within conversations.

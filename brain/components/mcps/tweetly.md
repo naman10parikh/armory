@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-03T03:09:33Z"
 ---
 ## What it is
 An MCP server that enables AI agents to automate actions on X (Twitter) through a real browser session, including posting, engaging, and reading via over 40 tools. It supports self-hosting and provides a panel for API key management.

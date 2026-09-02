@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-20T14:53:59Z"
 ---
 ## What it is
 An enhanced MCP server that fetches prompts from GitHub repositories with intelligent discovery, composition, and management features.

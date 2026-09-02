@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-23T11:48:22Z"
 ---
 ## What it is
 MCP server `Arelle`, catalogued on PulseMCP. Processes and analyzes XBRL financial filings via the Arelle XBRL processor with SEC EDGAR integration.

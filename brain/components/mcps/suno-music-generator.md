@@ -8,10 +8,12 @@ source_url: https://github.com/lioensky/mcp-suno
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2025-05-08T11:28:29Z"
 ---
 ## What it is
 MCP server `Suno Music Generator`, catalogued on PulseMCP. Enables AI assistants to generate custom music compositions with specified lyrics, style tags, and titles through the Suno API, delivering completed audio URLs without leaving the conversation context.

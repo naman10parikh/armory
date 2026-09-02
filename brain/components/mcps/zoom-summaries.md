@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T17:14:00Z"
 ---
 ## What it is
 Enables users to fetch Zoom meeting summaries and write them into matching Obsidian 1:1 notes, with browser-based authentication and automatic session cookie management.

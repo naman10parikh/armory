@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T17:02:34Z"
 ---
 ## What it is
 A local-first, zero-token memory MCP server for AI coding agents, storing memories in SQLite and providing memory_recall and memory_add tools for pull-based retrieval.

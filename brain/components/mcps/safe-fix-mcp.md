@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T21:51:16Z"
 ---
 ## What it is
 Enables scanning Python repos for dead code and automatically drafting a branch + PR for the safe subset (unused single-name imports) after running the repo's full test suite. All other findings are reported without modification, and a human always merges.

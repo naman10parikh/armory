@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:48:38Z"
 ---
 ## What it is
 Provides read-only access to query tax clearance certificates (CNDA/CND) from SEFAZ Piauí via an official source, with pay-per-use prepaid credits and magic-link authentication.

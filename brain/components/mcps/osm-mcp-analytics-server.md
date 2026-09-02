@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-05T00:01:09Z"
 ---
 ## What it is
 Provides advanced geospatial analytics for OpenStreetMap, including neighborhood livability scoring and commute analysis, beyond simple geocoding.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-26T21:25:40Z"
 ---
 ## What it is
 Manages a Neo4j knowledge graph of reusable Python functions, documentation, and environment variables, enabling dynamic script composition and execution with automatic dependency management and secret protection.

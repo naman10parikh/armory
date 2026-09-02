@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T04:21:20Z"
 ---
 ## What it is
 MCP server for GLPI integration, providing tools for ITIL management (tickets, problems, changes, knowledge base, stats, assets, and administration) via the GLPI API.

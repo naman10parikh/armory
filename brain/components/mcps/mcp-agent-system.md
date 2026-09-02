@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T07:22:54Z"
 ---
 ## What it is
 A production-grade MCP server with 6 sandboxed tools and an agent orchestration engine for autonomous task completion, featuring an evaluation suite with CI/CD quality gates.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 19
+pushed_at: "2025-08-02T23:44:32Z"
 ---
 ## What it is
 Enables AI assistants to manage Zoho Books accounting tasks such as invoices, contacts, expenses, and sales orders through natural language.

@@ -8,10 +8,12 @@ source_url: https://github.com/jschuller/mcp-server-servicenow
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-08-13T17:03:12Z"
 ---
 ## What it is
 MCP server `ServiceNow`, catalogued on PulseMCP. ServiceNow integration with 18 tools for incidents, CMDB, and update sets with OAuth 2.1 support.

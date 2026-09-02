@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-16T15:09:16Z"
 ---
 ## What it is
 MCP server `NEAR Wallet Manager`, catalogued on PulseMCP. Creates NEAR wallets, checks balances, and signs transactions with ED25519 keypair management.

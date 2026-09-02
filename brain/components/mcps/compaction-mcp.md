@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T11:02:45Z"
 ---
 ## What it is
 Brings Claude Code's context compaction to any MCP host, enabling agents to gauge context pressure, summarize history, re-hydrate files, and persist rules across session boundaries.

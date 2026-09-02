@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-10T06:06:42Z"
 ---
 ## What it is
 Enables AI clients to interact with multiple IDA Pro instances (GUI and headless) for reverse-engineering tasks, routing each tool call to the correct database via instance_id.

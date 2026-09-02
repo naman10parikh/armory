@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-16T03:07:17Z"
 ---
 ## What it is
 Enables AI agents to automate Facebook lead generation and CRM tasks such as searching leads, sending friend requests, managing contacts, broadcasting messages, and tracking growth metrics.

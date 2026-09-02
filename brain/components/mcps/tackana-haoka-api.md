@@ -8,10 +8,12 @@ source_url: https://github.com/tackana/haokaquery172_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-28T17:11:01Z"
 ---
 ## What it is
 MCP server `Haoka API`, catalogued on PulseMCP. Integrates with the Haoka API to provide authenticated access to Haoka's data and services through HTTP requests with environment-based token configuration.

@@ -8,10 +8,12 @@ source_url: https://github.com/hangwin/mcp-chrome
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11715
+stars: 12368
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1129
+pushed_at: "2026-01-06T13:05:39Z"
 ---
 ## What it is
 MCP server `Chrome Browser Automation`, catalogued on PulseMCP. Provides browser automation and semantic search capabilities through Chrome extension integration, enabling intelligent web element interaction, form filling, screenshot capture, and vector-based content indexing with transformer models for cross-platform web automation workflows.

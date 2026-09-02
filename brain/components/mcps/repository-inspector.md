@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T09:40:38Z"
 ---
 ## What it is
 Enables AI agents to inspect Git repositories for changes across committed, staged, unstaged, and untracked scopes, and run allowlisted validation commands with structured results.

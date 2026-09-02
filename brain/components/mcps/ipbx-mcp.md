@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T17:29:34Z"
 ---
 ## What it is
 MCP server that exposes IPBX PABX data (branches, users, groups, trunks, queues) as typed tools via Streamable HTTP, with OAuth and static bearer authentication.

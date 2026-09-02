@@ -8,11 +8,13 @@ source_url: https://github.com/yan5236/bing-cn-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 66
+stars: 69
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 20
+pushed_at: "2026-08-26T00:39:29Z"
 ---
 ## What it is
 Provides Bing Chinese search and webpage crawling tools, enabling AI assistants to fetch real-time web information without API keys.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T20:27:56Z"
 ---
 ## What it is
 A Model Context Protocol server that gives AI assistants real-time access to the MCSR Ranked competitive Minecraft speedrunning API, enabling plain-language queries about players, matches, stats, and more.

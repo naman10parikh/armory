@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-11T00:09:22Z"
 ---
 ## What it is
 MCP server `AWS RDS MySQL`, catalogued on PulseMCP. Provides direct SQL execution access to AWS RDS MySQL databases with safety measures that block dangerous operations while supporting standard queries, data modifications, and database administration tasks.

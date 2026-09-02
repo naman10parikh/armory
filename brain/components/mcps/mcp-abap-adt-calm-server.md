@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-20T21:30:39Z"
 ---
 ## What it is
 MCP server for SAP Cloud ALM, providing 54 tools across 9 services to manage features, tasks, test cases, documents, projects, and more via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T01:41:25Z"
 ---
 ## What it is
 Enables AI to read Apple Health data (activity, sleep, trends) via three read-only tools, deployed effortlessly on Cloudflare.

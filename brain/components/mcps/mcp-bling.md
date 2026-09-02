@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T01:51:45Z"
 ---
 ## What it is
 Remote MCP server for Bling API v3, enabling tools to manage products, orders, contacts, and generic API requests via OAuth multi-tenant authentication.

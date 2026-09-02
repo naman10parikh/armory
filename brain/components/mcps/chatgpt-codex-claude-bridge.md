@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-18T19:34:39Z"
 ---
 ## What it is
 Enables ChatGPT to remotely orchestrate local Codex and Claude Code agents for file editing and command execution via a secure Cloudflare tunnel, bridging cloud AI planning with local execution.

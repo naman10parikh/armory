@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T11:07:06Z"
 ---
 ## What it is
 A local MCP server for Windows and WinJUPOS 12.4.1, providing a guarded workflow for Jupiter image measurement, image de-rotation, and moon-trail repair through 22 MCP tools.

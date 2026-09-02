@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T05:22:02Z"
 ---
 ## What it is
 A WCAG accessibility testing MCP for AI agents, Codex, Claude Code, and automated UI audits.

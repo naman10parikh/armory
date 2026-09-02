@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T01:50:12Z"
 ---
 ## What it is
 Containerized MCP server for coding agents with tools for file editing, shell commands, process management, Git, browser automation, and project snapshots.

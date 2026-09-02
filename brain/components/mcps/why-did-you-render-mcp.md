@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-05T12:46:46Z"
 ---
 ## What it is
 Bridges unnecessary React re-render data from the browser to coding agents, enabling performance diagnosis and optimization through MCP tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-18T15:04:40Z"
 ---
 ## What it is
 A comprehensive MCP server for Google Cloud Firestore database operations, providing tools for document management, batch processing, collection analysis, and index management.

@@ -8,10 +8,12 @@ source_url: https://github.com/manideep1822/omnillm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-12T05:42:24Z"
 ---
 ## What it is
 MCP server `OmniLLM`, catalogued on PulseMCP. MCP gateway connecting AI assistants to multiple LLM providers including Claude, GPT-4o, and Gemini with real-time monitoring.

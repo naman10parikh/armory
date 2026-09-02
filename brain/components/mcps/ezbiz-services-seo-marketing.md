@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-28T15:21:05Z"
 ---
 ## What it is
 MCP server `EzBiz SEO & Marketing`, catalogued on PulseMCP. AI-powered SEO intelligence with keyword research, SERP analysis, backlink checking, and content optimization tools.

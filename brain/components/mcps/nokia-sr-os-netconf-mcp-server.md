@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T09:13:35Z"
 ---
 ## What it is
 Enables managing Nokia SR OS devices via NETCONF from Claude Desktop, supporting MD-CLI commands, configuration retrieval and editing, candidate workflow with commit/rollback, and multi-device sessions.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-12-17T22:25:16Z"
 ---
 ## What it is
 Enables AI systems to interact with the XRP Ledger Testnet, supporting XRP payments, token operations, NFTs, escrow, DEX trading, and more.

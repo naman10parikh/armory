@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T10:35:42Z"
 ---
 ## What it is
 Give any AI agent — Claude, Cursor, Windsurf, or any MCP-compatible client — full control over your social media through natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T10:52:57Z"
 ---
 ## What it is
 An MCP server that provides append-only, tamper-evident local receipts for AI agent actions, capturing command executions, outputs, and handoff evidence.

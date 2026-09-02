@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T06:23:17Z"
 ---
 ## What it is
 A Windows MCP extension that allows Claude to type text into any active application with human-like keystroke timing, approval mode, configurable speed, and writing style presets.

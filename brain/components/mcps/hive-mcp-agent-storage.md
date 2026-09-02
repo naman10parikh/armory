@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-04T01:27:07Z"
 ---
 ## What it is
 Agent-native object storage MCP server with per-agent DID isolation and x402 pay-per-byte metering in real Base USDC, enabling autonomous agents to store and retrieve objects with hot, warm, or cold retention classes.

@@ -8,11 +8,13 @@ source_url: https://github.com/andrewlwn77/google-trends-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-07-13T23:39:44Z"
 ---
 ## What it is
 Provides access to Google Trends data including status, trending questions, and trending topics via MCP tools.

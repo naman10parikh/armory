@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T17:46:43Z"
 ---
 ## What it is
 Enables interaction with Jira issues, projects, and comments via API Key. Supports operations like creating, updating, searching, transitioning issues, and managing projects.

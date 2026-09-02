@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-28T05:50:48Z"
 ---
 ## What it is
 MCP server `WeatherForensics`, catalogued on PulseMCP. Historical weather data service providing hourly, daily, and monthly conditions plus tornado, storm, and tropical cyclone analysis from NOAA sources.

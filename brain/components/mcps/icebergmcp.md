@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-04T23:03:11Z"
 ---
 ## What it is
 Enables natural language interaction with Apache Iceberg Lakehouse tables through MCP, supporting read-only operations like listing namespaces, tables, schemas, and partitions.

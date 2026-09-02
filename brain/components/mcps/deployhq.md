@@ -12,6 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-22T05:13:01Z"
 ---
 ## What it is
 MCP server `DeployHQ`, catalogued on PulseMCP. Interact with DeployHQ deployments for project management, deployment history, and status monitoring

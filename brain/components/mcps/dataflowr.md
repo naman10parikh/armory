@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-11T20:49:29Z"
 ---
 ## What it is
 Enables AI agents to browse and teach the Deep Learning DIY course, providing access to modules, notebooks, transcripts, quizzes, slides, and homework via MCP tools.

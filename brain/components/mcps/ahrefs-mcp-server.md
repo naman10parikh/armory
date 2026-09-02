@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T14:48:28Z"
 ---
 ## What it is
 Enables SEO analysis via Ahrefs API v3, providing tools for domain rating, backlinks stats, top organic keywords, and top pages with SQLite caching and Lite plan budget tracking.

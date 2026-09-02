@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-30T15:47:55Z"
 ---
 ## What it is
 MCP server providing persistent memory and context for AI tools, including semantic memory, knowledge graph, and session history to avoid starting from scratch in every conversation.

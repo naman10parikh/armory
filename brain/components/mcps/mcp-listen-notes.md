@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:19:43Z"
 ---
 ## What it is
 Enables searching podcasts, episodes, curated content, and people, as well as retrieving top podcasts via the Listen Notes API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-19T08:25:45Z"
 ---
 ## What it is
 MCP server that wraps gdb to enable LLMs to drive live debugging sessions, including starting sessions on binaries, attaching to processes, and running commands.

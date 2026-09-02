@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:07:02Z"
 ---
 ## What it is
 MCP server for the SP-Tarkov Forge API. Exposes Forge endpoints as MCP tools over stdio, letting LLMs search mods, check updates, resolve dependencies, browse addons, and list SPT versions.

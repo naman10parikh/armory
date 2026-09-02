@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:25:54Z"
 ---
 ## What it is
 Bridges AI assistants with MikroTik RouterOS devices, enabling natural language management of network configurations, firewall, VLANs, VPNs, and diagnostics via ~300 tools.

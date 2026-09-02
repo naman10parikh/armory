@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-19T17:33:18Z"
 ---
 ## What it is
 A high-performance MCP server that enables AI assistants to interact with Gmail securely via OAuth 2.0, supporting smart email retrieval and thread-aware drafting.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T13:07:02Z"
 ---
 ## What it is
 Read-only MCP server for SQL databases (SQL Server, Postgres, SQLite) with multi-server support and three-layer safety using AST validation and linting.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-16T05:37:19Z"
 ---
 ## What it is
 MCP server `GetOutPost`, catalogued on PulseMCP. Access real-time Indian options market data and volatility analytics

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:43:00Z"
 ---
 ## What it is
 Provides complete data on Brazilian federal executive servers from CPF, including remuneration and employment bonds via the Transparency Portal.

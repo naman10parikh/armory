@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-02-09T22:51:02Z"
 ---
 ## What it is
 MCP server `GWAS Bioinformatics`, catalogued on PulseMCP. Access bioinformatics data from GWAS Catalog, UniProt, ClinVar, Ensembl, AlphaFold, and other major biological databases for genomics research.

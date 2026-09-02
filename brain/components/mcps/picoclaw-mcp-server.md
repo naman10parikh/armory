@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T16:18:45Z"
 ---
 ## What it is
 Enables browser automation with stealth features, GitHub integration, and persistent opencode repository access through MCP tools.

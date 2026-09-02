@@ -8,10 +8,12 @@ source_url: https://github.com/cliffhall/puzzlebox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-08-24T20:20:52Z"
 ---
 ## What it is
 MCP server `PuzzleBox`, catalogued on PulseMCP. Hosts finite state machines as dynamic resources that clients can subscribe to for real-time updates, enabling coordination between multiple agents working on long-horizon tasks through shared state transitions and valid actions.

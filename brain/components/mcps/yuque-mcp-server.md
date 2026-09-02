@@ -8,11 +8,13 @@ source_url: https://github.com/yuque/yuque-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 228
+stars: 233
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 26
+pushed_at: "2026-07-15T03:00:57Z"
 ---
 ## What it is
 MCP server for Yuque (语雀) that exposes your knowledge base to AI assistants through the Model Context Protocol.

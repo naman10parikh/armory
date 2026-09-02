@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-08T15:43:24Z"
 ---
 ## What it is
 MCP server `PK Agentic`, catalogued on PulseMCP. Connects to PK Agentic WordPress plugin for AI-powered content management, SEO analysis, and image generation.

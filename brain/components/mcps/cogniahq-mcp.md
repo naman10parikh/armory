@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-30T11:57:59Z"
 ---
 ## What it is
 Enables AI assistants to query end-to-end encrypted memories from Cognia workspace via MCP. Supports search, retrieval, and action execution against connected services like Slack, Notion, and GitHub.

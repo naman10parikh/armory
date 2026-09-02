@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-26T15:20:45Z"
 ---
 ## What it is
 AI-powered Gmail assistant that enables email management such as reading, searching, sending, summarizing, and organizing emails via natural language.

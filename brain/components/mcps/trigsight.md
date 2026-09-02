@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T20:07:26Z"
 ---
 ## What it is
 Enables verification of portfolio claims by resolving citations to exact supporting sentences at build time, providing read-only tools to list work, find evidence, check stack mentions, and read case studies while failing the build on any unverifiable claim.

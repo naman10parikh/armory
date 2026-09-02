@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T10:24:36Z"
 ---
 ## What it is
 MCP server for Android dev workflows that exposes Gradle, Manifest, and ProGuard context to Claude, with a library of skills for tasks like AGP upgrade and R8 audit.

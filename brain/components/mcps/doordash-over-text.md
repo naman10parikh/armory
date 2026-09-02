@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T03:35:48Z"
 ---
 ## What it is
 Enables ordering DoorDash via Poke over text, with tools for restaurant discovery, cart management, promo application, and order submission requiring explicit user confirmation.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:27:29Z"
 ---
 ## What it is
 Command-line interface for the TokPortal API, enabling users to programmatically create, configure, and publish social media bundles across TikTok, Instagram, and YouTube.

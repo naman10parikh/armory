@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-09-16T14:49:55Z"
 ---
 ## What it is
 Generates, validates, and audits French government DSFR components with RGAA 4.1 accessibility compliance, enabling seamless integration into Claude Desktop.

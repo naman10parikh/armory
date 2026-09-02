@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-09T10:57:45Z"
 ---
 ## What it is
 Omni-chain financial MCP server that tracks expenses, manages Web3 portfolios, simulates DEX swaps, and generates payment links via natural language in WhatsApp and Claude Desktop.

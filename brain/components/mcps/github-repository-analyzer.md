@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T15:39:13Z"
 ---
 ## What it is
 Enables natural-language analysis of GitHub repositories by exposing repository metadata, source code retrieval, search, and file reading as MCP tools, with answers grounded in the actual repository content.

@@ -8,10 +8,12 @@ source_url: https://github.com/ihacksubhodip/mobile-automation-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-07-26T12:41:42Z"
 ---
 ## What it is
 MCP server `iOS Mobile Automation`, catalogued on PulseMCP. Provides iOS mobile automation capabilities through Appium and XCUITest integration for taking screenshots, launching apps, finding UI elements, tapping controls, and performing text input on iOS simulators.

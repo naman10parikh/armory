@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:02:26Z"
 ---
 ## What it is
 Remote MCP tool host serving tree generation tools over Streamable HTTP, returning short-lived download URLs for artifacts.

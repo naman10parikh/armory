@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-03-11T03:11:30Z"
 ---
 ## What it is
 MCP server `BioMCP`, catalogued on PulseMCP. Enabling agent-based biomedical R&D via protein structure analysis capabilities

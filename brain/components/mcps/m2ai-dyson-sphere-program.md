@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-12T12:04:51Z"
 ---
 ## What it is
 MCP server `Dyson Sphere Program`, catalogued on PulseMCP. Provides real-time factory optimization for Dyson Sphere Program through live production metrics collection and analysis, detecting bottlenecks, monitoring power grids, and tracking belt saturation to optimize complex production chains.

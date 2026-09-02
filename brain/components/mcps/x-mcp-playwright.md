@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T11:04:14Z"
 ---
 ## What it is
 A Twitter/X MCP server powered by patchright (stealth Playwright fork) and a persistent Chrome user profile. It enables posting, engaging, searching, and managing tweets, threads, media, and user interactions via natural language.

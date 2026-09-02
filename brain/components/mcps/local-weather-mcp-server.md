@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T01:07:01Z"
 ---
 ## What it is
 Provides a health check and a get_weather tool to query current weather by city name via HTTP, designed for integration with Dify.

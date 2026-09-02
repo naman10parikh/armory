@@ -8,10 +8,12 @@ source_url: https://github.com/soul-brews-studio/arra-oracle-v3
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 87
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 82
+pushed_at: "2026-08-17T04:39:35Z"
 ---
 ## What it is
 MCP server `Oracle v2`, catalogued on PulseMCP. Combines semantic vector search with full-text search to create an intelligent knowledge management system that indexes markdown documents, stores them in SQLite with FTS5 and ChromaDB for hybrid search, and provides decision tracking with GitHub issue integration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T15:40:55Z"
 ---
 ## What it is
 An MCP server for controlling KiCad EDA software, enabling schematics, PCB design, manufacturing outputs, design checks, and library management through any MCP-compatible AI assistant.

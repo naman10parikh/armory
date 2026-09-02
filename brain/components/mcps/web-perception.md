@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-18T05:41:03Z"
 ---
 ## What it is
 Give your AI ears and eyes and perception

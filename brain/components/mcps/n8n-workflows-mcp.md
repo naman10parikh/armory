@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T21:31:28Z"
 ---
 ## What it is
 An MCP server that turns deployed n8n workflows into callable tools for AI agents, enabling discovery and execution of tagged workflows via a standard interface without rewriting integrations.

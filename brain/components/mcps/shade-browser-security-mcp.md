@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T07:57:02Z"
 ---
 ## What it is
 Standalone MCP server exposing only the security-classified tools from Shade Browser, enabling Brave CDP browser automation across 20 isolated profile slots. Built on FastMCP and Playwright Python.

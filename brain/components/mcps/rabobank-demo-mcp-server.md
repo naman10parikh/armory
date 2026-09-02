@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:33:14Z"
 ---
 ## What it is
 Demonstrates how to expose approved internal banking tools to AI assistants via MCP, enabling secure lookups of account balances, customer names, branch details, and live exchange rate conversions.

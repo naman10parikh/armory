@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T06:25:21Z"
 ---
 ## What it is
 A custom MCP server that gives Claude Desktop direct access to a SQLite database, enabling natural language questions to be answered through real SQL execution.

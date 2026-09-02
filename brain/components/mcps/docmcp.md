@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-05-18T19:16:09Z"
 ---
 ## What it is
 Index any documentation website and search it from AI coding assistants via the Model Context Protocol (MCP).

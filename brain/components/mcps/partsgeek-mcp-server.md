@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T22:27:20Z"
 ---
 ## What it is
 Enables searching PartsGeek for parts, retrieving product details, and obtaining cart estimates for price comparison, without placing orders or requiring a PartsGeek account.

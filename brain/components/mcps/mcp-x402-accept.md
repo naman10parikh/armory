@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:50:17Z"
 ---
 ## What it is
 Proxies an existing MCP server to add an x402 paywall, charging AI agents per tool call without modifying the upstream server.

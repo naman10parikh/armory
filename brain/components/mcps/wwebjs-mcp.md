@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T01:49:20Z"
 ---
 ## What it is
 MCP server exposing WhatsApp Web REST API (wwebjs-api) as ~149 automated tools, enabling AI agents to send messages, manage sessions, and interact with WhatsApp through natural language.

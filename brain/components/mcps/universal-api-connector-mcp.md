@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T11:10:28Z"
 ---
 ## What it is
 Enables AI agents to connect to any API by loading OpenAPI, GraphQL, gRPC, or SOAP specs, with a built-in catalog of 2500+ public APIs, supporting secure execution, response filtering, chaining, and parallel calls.

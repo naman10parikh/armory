@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T08:17:02Z"
 ---
 ## What it is
 An MCP server that brings AI-powered search and conversation to your FHIR clinical documents.

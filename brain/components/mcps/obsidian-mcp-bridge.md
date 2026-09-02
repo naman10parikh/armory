@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-13T15:15:41Z"
 ---
 ## What it is
 Enables Obsidian vault to act as an MCP server for Claude and as an MCP client to external servers like MCP ANA PJe, allowing seamless interaction between notes and legal case systems.

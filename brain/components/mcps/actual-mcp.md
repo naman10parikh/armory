@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T02:50:52Z"
 ---
 ## What it is
 Bridges AI/LLM applications to Actual Budget, exposing budget data as MCP tools for account listing, transactions, and budget balances.

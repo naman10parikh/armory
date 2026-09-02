@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T23:17:43Z"
 ---
 ## What it is
 MCP server for AI to operate Windows apps via screen OCR and background input, featuring structured WhatsApp UI tools for reading chats, detecting unread messages, and sending messages without stealing focus.

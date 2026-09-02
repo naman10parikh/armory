@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T03:27:15Z"
 ---
 ## What it is
 Enables MCP-compatible AI clients to query, search, create, and update YApi API definitions and categories using natural language, with write operations excluding deletion for safety.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T15:00:41Z"
 ---
 ## What it is
 Reads LAN devices and WAN status from a Huawei GPON ONT fiber modem.

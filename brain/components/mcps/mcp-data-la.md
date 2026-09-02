@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:55:06Z"
 ---
 ## What it is
 Enables querying Los Angeles open data from data.lacity.org via the Socrata SODA API using natural language through the Pipeworx gateway.

@@ -8,10 +8,12 @@ source_url: https://github.com/spre-sre/lumino-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 17
+pushed_at: "2026-08-25T12:35:54Z"
 ---
 ## What it is
 MCP server `Lumino by spre-sre`, catalogued on PulseMCP. SRE observability for Kubernetes and OpenShift with Tekton pipeline debugging tools.

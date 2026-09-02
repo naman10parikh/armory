@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T07:50:29Z"
 ---
 ## What it is
 The verifiable risk engine for autonomous agents: deterministic, self-verifying financial calculations that an agent can delegate and prove. It covers liquidation and funding, position sizing and risk of ruin, options Greeks and margin, LP divergence, treasury concentration and depeg, execution qual

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T23:32:37Z"
 ---
 ## What it is
 Enables AI agents like Mistral Work to manage Hetzner Cloud VPS services in natural Spanish, including creating, modifying, and deleting servers, networks, firewalls, and storage, as well as automating complex tasks.

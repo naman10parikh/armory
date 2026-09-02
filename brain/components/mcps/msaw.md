@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T13:19:14Z"
 ---
 ## What it is
 Manages multiple SSH servers through a local workspace with MCP tools, executing commands and transferring files securely with credential isolation.

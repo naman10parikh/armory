@@ -8,10 +8,12 @@ source_url: https://github.com/aruxojuyu665/2captcha-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-20T06:12:21Z"
 ---
 ## What it is
 MCP server `2Captcha`, catalogued on PulseMCP. Full 2Captcha API integration with 31 captcha solver types and account management tools.

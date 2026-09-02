@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-19T16:17:34Z"
 ---
 ## What it is
 A local-first MCP server and continuity control plane that helps AI coding tools maintain project state, tasks, and context across sessions, models, and interruptions, with features like session tracking, token-efficient context assembly, and code understanding via Code Atlas.

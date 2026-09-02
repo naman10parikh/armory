@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-03-25T22:56:09Z"
 ---
 ## What it is
 Lets AI assistants interact with Node-RED to read flows, search nodes, edit function code, deploy changes safely, and manage modules.

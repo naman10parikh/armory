@@ -8,10 +8,12 @@ source_url: https://github.com/spyrae/claude-concilium
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-02T03:32:07Z"
 ---
 ## What it is
 MCP server `Concilium`, catalogued on PulseMCP. Multi-agent consultation framework that enables parallel queries to OpenAI, Gemini, Qwen, and DeepSeek with fallback chains and error detection.

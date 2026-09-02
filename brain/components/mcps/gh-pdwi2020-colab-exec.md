@@ -8,10 +8,12 @@ source_url: https://github.com/pdwi2020/mcp-server-colab-exec
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-11T18:31:38Z"
 ---
 ## What it is
 MCP server `Google Colab Executor`, catalogued on PulseMCP. Execute Python code on Google Colab GPU runtimes (T4/L4) from any MCP client.

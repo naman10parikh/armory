@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T11:57:21Z"
 ---
 ## What it is
 Enables safe, read-only querying and schema exploration for Microsoft SQL Server databases with preconfigured Diamond Inventory support, multiple database management, and optional HTTP API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-14T05:36:22Z"
 ---
 ## What it is
 Provides a standardized interface for interacting with Asana's tools and services through a unified API, enabling AI assistants to manage tasks, projects, and workflows.

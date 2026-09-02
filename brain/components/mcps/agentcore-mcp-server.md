@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T04:18:25Z"
 ---
 ## What it is
 A basic MCP server for deployment to Amazon Bedrock AgentCore Runtime, enabling tool integration via FastMCP with streamable HTTP transport.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T19:57:24Z"
 ---
 ## What it is
 Cloud-powered analytics server for Baby Sensory World that tracks engagement patterns, favorite themes, colors, and provides AI-powered insights to optimize baby's sensory experience.

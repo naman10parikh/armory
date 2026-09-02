@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T17:00:31Z"
 ---
 ## What it is
 MCP server for Eurostat statistics, enabling seamless search, query, and analysis of over 8,900 EU datasets with support for SDMX, DuckDB SQL, NUTS regional filtering, and CSV export.

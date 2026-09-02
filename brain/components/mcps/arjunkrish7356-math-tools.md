@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-11T11:39:05Z"
 ---
 ## What it is
 MCP server `Math Tools`, catalogued on PulseMCP. Provides six fundamental mathematical operations including addition, subtraction, multiplication, division, exponentiation, and logarithm calculation with customizable base support and proper error handling for division by zero and invalid inputs.

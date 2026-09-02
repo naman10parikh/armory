@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-15T01:13:18Z"
 ---
 ## What it is
 A governed MCP server for Saudi open data sources (SAMA, stats.gov.sa, Ministry of Finance, data.gov.sa), providing typed contracts, registry-backed metadata, and CLI/API access for dataset search, preview, and controlled export.

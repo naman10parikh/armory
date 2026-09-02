@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-24T13:34:49Z"
 ---
 ## What it is
 MCP server for LobsterVault, enabling AI agents to securely store, retrieve, manage, and share encrypted secrets with KMS envelope encryption, including environment variable injection.

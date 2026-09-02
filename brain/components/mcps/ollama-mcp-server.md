@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T11:46:58Z"
 ---
 ## What it is
 Bridges Ollama's capabilities with MCP-compatible clients, enabling web search and content fetching to provide real-time information and reduce hallucinations.

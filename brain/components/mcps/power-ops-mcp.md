@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-03T06:52:39Z"
 ---
 ## What it is
 Provides structured tools for thermal power operations, including defect and work order search, summaries, and failure analysis. Replaces free SQL with fixed templates and supports dashboard and service status.

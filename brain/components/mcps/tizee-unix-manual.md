@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-03-04T17:40:47Z"
 ---
 ## What it is
 MCP server `Unix Manual`, catalogued on PulseMCP. Provides Unix command documentation, including help pages, man pages, and usage information, enabling retrieval and exploration of system commands within conversations.

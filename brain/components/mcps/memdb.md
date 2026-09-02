@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-09T13:57:03Z"
 ---
 ## What it is
 A SQLite-backed MCP memory server providing persistent memory storage with full-text search and knowledge graph capabilities for AI assistants.

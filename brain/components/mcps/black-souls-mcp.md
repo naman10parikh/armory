@@ -8,11 +8,13 @@ source_url: https://github.com/yk4464/black-souls-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T02:47:46Z"
 ---
 ## What it is
 Local MCP server for BLACK SOULS / RPG Maker VX Ace that reads game state and executes keyboard actions via MCP tools.

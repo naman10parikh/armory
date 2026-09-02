@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T07:39:28Z"
 ---
 ## What it is
 Enables AI tools to publish HTML pages and get shareable URLs instantly, with optional account features for persistence, in-place updates, and visibility control.

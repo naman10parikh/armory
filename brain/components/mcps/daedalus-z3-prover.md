@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-22T14:56:18Z"
 ---
 ## What it is
 MCP server `Z3 Prover`, catalogued on PulseMCP. Exposes the Z3 theorem prover for constraint solving, satisfiability checking, and optimization with support for Boolean, integer, and real variable types.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:14Z"
 ---
 ## What it is
 MCP server for querying São Paulo's CADIN (municipal credit/debt registration) from official sources. Read-only, works with any MCP client, and requires pre-paid credits for usage.

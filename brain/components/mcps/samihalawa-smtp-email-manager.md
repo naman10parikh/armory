@@ -8,10 +8,12 @@ source_url: https://github.com/samihalawa/mcp-server-smtp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 15
+pushed_at: "2026-08-31T21:26:14Z"
 ---
 ## What it is
 MCP server `SMTP Email Manager`, catalogued on PulseMCP. Provides SMTP email functionality with tools for sending individual and bulk emails, managing configurations, and creating customizable templates with variable substitution for automated, personalized email campaigns.

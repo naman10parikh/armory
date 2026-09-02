@@ -8,11 +8,13 @@ source_url: https://github.com/synaptixs/spine
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-09-02T01:36:22Z"
 ---
 ## What it is
 Exposes a governed, provenance-grounded autonomous delivery pipeline as an MCP server, enabling AI coding assistants like Claude Code or Codex to initiate requirements-to-PR workflows with human approval gates and full audit.

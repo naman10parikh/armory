@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-31T10:06:56Z"
 ---
 ## What it is
 MCP server `BulkPublish`, catalogued on PulseMCP. Publish, schedule, and manage social media posts across 11 platforms via BulkPublish's API.

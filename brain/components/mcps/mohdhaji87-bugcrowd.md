@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-07-15T22:56:13Z"
 ---
 ## What it is
 MCP server `Bugcrowd`, catalogued on PulseMCP. Integrates with Bugcrowd's bug bounty platform API to provide complete access invitation management, asset operations, program administration, vulnerability reporting, submission tracking, and authentication logging with full CRUD capabilities across all endpoints.

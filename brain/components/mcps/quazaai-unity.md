@@ -8,10 +8,12 @@ source_url: https://github.com/quazaai/unitymcpintegration
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 156
+stars: 157
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 32
+pushed_at: "2025-04-15T07:20:09Z"
 ---
 ## What it is
 MCP server `Unity`, catalogued on PulseMCP. Enables real-time interaction with Unity projects through a WebSocket-based system that retrieves scene hierarchies, project settings, and executes C# code directly in the Unity Editor.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T04:59:47Z"
 ---
 ## What it is
 A stdio MCP server that connects directly to a Scouter Collector over TCP and queries XLogs, counters, and objects. Its purpose is to let an AI quickly explore Scouter metrics and diagnose root causes.

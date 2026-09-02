@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T14:19:10Z"
 ---
 ## What it is
 Enables AI agents to explore and analyze a markdown vault as a traversable knowledge graph, with tools for searching, traversing, and finding implicit semantic connections between notes.

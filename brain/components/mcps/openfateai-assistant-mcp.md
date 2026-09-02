@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T03:21:52Z"
 ---
 ## What it is
 A local, open-source MCP server that provides deterministic organizational tools for structured decisions, guided reflection, action planning, and transparent digital report outlines without requiring an API key.

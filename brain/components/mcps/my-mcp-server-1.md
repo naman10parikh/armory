@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T07:40:49Z"
 ---
 ## What it is
 Provides tools for greeting, calculation, time lookup, geocoding, weather, and image generation via HuggingFace, with streamable HTTP and stdio support, deployable on Vercel.

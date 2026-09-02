@@ -8,11 +8,13 @@ source_url: https://github.com/sydasif/web-search-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-09-01T13:08:40Z"
 ---
 ## What it is
 Provides LLMs with real-time web search and content extraction capabilities, including text/news search, full-text URL reading, and targeted technical documentation search.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 19
+forks: 14
+pushed_at: "2026-08-04T11:39:29Z"
 ---
 ## What it is
 Official MCP Server to integrate with GROWI APIs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T06:59:55Z"
 ---
 ## What it is
 MCP server for generating and editing images using OpenRouter API, with support for multiple models and dynamic model discovery. Runs in Docker and integrates with Claude Desktop via stdio transport.

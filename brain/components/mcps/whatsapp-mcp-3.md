@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T04:21:31Z"
 ---
 ## What it is
 An MCP server that gives Claude read and write access to WhatsApp through a self-hosted Evolution API gateway. It is dependency-free, using Node's built-in fetch and stdio transport.

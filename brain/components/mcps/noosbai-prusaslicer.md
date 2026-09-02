@@ -8,10 +8,12 @@ source_url: https://github.com/noosbai/prusamcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-02-23T21:00:36Z"
 ---
 ## What it is
 MCP server `PrusaSlicer`, catalogued on PulseMCP. Provides intelligent assistance for PrusaSlicer with mesh analysis, profile recommendations, printability checks, and automated slicing workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-06T05:15:11Z"
 ---
 ## What it is
 Enables automated code review and GitHub PR commenting through MCP integration.

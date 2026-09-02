@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T05:38:31Z"
 ---
 ## What it is
 Connects ChatGPT/Claude with the QualityControl REST API, allowing users to query company information, sensor data, weather, harvest, exports, dispatches, and more using natural language.

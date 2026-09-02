@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-31T23:19:39Z"
 ---
 ## What it is
 Executes Python code snippets safely without shell interpretation, supports parallel batch execution and helper utilities for task decomposition.

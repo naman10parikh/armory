@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-07-23T01:41:42Z"
 ---
 ## What it is
 MCP server `MCP Maker`, catalogued on PulseMCP. Streamlines MCP server development with TypeScript-based scaffolding tools for generating boilerplate code, tool definitions, resource templates, and prompt templates.

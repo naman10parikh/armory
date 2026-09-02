@@ -8,11 +8,13 @@ source_url: https://github.com/josephkamau32/erp-lite-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-14T12:38:24Z"
 ---
 ## What it is
 MCP server that exposes ERP functionalities to AI agents, enabling read-only queries for sales orders and inventory, and human-in-the-loop purchase requisition creation and approval.

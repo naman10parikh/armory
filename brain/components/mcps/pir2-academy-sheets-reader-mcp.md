@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T13:14:23Z"
 ---
 ## What it is
 A read-only MCP server that lets Claude Desktop read bounded data from Google Sheets using the learner's own Google account, offering tools to check connection status, connect, and fetch spreadsheet metadata or specific ranges.

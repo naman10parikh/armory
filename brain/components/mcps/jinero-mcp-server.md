@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T20:50:29Z"
 ---
 ## What it is
 Provides AI agents with 22 read-only design tools: font search and recognition, color contrast/shades/naming, palette extraction, code minification and detection, and SVG optimization. It's a free, hosted remote MCP server with no auth, rate-limited at 60 req/min per IP.

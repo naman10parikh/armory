@@ -8,10 +8,12 @@ source_url: https://github.com/cloud-eye-prime/mcp-agent-forge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-08T06:34:26Z"
 ---
 ## What it is
 MCP server `Agent Forge`, catalogued on PulseMCP. Dispatch AI coding agents including Claude Code, GitHub Copilot, and OpenCode as tools within any MCP-compatible client.

@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2025-03-20T04:10:00Z"
 ---
 ## What it is
 MCP server `DummyJSON User Management`, catalogued on PulseMCP. Java-based user management server that integrates with DummyJSON API to provide retrieval, search, creation, updating, and deletion operations for user data.

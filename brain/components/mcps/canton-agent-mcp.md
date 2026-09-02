@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T15:38:08Z"
 ---
 ## What it is
 Enables AI agents to request sign-ins and payments on the Canton Network through a human's mobile wallet, where each request requires explicit human approval and hardware-backed signing.

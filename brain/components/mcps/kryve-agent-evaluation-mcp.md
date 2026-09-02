@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T12:45:39Z"
 ---
 ## What it is
 Provides read-only tools to generate test plans for AI agents, score agent runs, and produce reusable evaluation scorecards.

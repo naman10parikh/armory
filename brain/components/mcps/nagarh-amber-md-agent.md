@@ -8,10 +8,12 @@ source_url: https://github.com/nagarh/amber-md-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-06-16T02:24:50Z"
 ---
 ## What it is
 MCP server `AmberMD Agent`, catalogued on PulseMCP. Provides autonomous molecular dynamics simulation workflows with access to six scientific databases.

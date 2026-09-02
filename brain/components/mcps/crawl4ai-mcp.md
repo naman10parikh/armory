@@ -8,11 +8,13 @@ source_url: https://github.com/stgmt/crawl4ai-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-09-16T04:08:28Z"
 ---
 ## What it is
 MCP server integrating Crawl4AI for universal web crawling and data extraction. Enables AI agents to crawl, extract markdown/HTML, take screenshots, generate PDFs, and execute JavaScript on web pages.

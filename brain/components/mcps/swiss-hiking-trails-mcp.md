@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T09:58:42Z"
 ---
 ## What it is
 Enables AI agents to explore Swiss hiking routes with real-time closures, weather, public transport, and POIs, including GPX generation.

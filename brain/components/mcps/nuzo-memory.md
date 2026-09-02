@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T21:46:22Z"
 ---
 ## What it is
 Local-first, auditable memory for AI agents. Provides durable context for MCP hosts with SQLite storage, CLI, and MCP tools for memory management.

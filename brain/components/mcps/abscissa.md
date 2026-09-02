@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T12:04:26Z"
 ---
 ## What it is
 A Python stdio MCP server for Linear's GraphQL API, providing 35 tools to manage issues, projects, cycles, dependencies, comments, labels, workflow states, teams, and users with cursor-paginated results and destructive action confirmation.

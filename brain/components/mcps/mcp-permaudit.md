@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T17:04:08Z"
 ---
 ## What it is
 Audits Claude Code permission settings (.claude/settings.json) via an MCP tool, detecting conflicts and misconfigurations.

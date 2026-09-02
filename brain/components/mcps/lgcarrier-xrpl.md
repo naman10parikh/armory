@@ -8,10 +8,12 @@ source_url: https://github.com/lgcarrier/xrpl-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-03-22T21:13:09Z"
 ---
 ## What it is
 MCP server `XRP Ledger`, catalogued on PulseMCP. Provides direct access to XRP Ledger data and functionality, enabling querying account information, transaction history, and submitting signed transactions to the network.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T19:37:58Z"
 ---
 ## What it is
 Enables LLMs to create, onboard, and diagnose Cisco SD-WAN branch edges using MCP tools that interact with a FastAPI automation backend, with guardrails for safe operations.

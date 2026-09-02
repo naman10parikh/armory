@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-13T14:34:17Z"
 ---
 ## What it is
 MCP server `Simple Time`, catalogued on PulseMCP. Provides current date and time information in configurable formats.

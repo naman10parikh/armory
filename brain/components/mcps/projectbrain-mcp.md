@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-18T00:42:43Z"
 ---
 ## What it is
 ProjectBrain MCP is a Model Context Protocol (MCP) server for project planning and execution workflows. It exposes tools for tasks, decisions, facts, milestones, comments, and team messaging through a Streamable HTTP endpoint.

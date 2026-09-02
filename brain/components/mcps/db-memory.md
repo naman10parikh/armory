@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T04:08:49Z"
 ---
 ## What it is
 A vector-DB MCP server that gives Claude conversational memory by storing solved problems and solutions as vectors and retrieving relevant ones when a new request resembles a past solution.

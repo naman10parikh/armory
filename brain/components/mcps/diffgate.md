@@ -8,11 +8,13 @@ source_url: https://github.com/srbsa/diffgate
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:21:39Z"
 ---
 ## What it is
 Diffgate MCP server acts as a code review engine, enabling AI coding agents to analyze and validate code diffs before application. It enhances AI workflows by providing self-checking capabilities to optimise and secure code changes.

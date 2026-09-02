@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-09T04:22:23Z"
 ---
 ## What it is
 Enables AI agents to securely manage decentralized identities, verifiable credentials, and trust registries on the Cheqd network via the Model Context Protocol.

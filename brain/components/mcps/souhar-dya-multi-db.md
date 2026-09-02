@@ -8,10 +8,12 @@ source_url: https://github.com/souhar-dya/mcp-db-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-08-09T10:14:32Z"
 ---
 ## What it is
 MCP server `Multi-Database`, catalogued on PulseMCP. Natural language SQL querying across SQLite, PostgreSQL, and MySQL databases.

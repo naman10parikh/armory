@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T07:57:05Z"
 ---
 ## What it is
 Provides a human-in-the-loop security layer for AI agents by intercepting file operations, explaining them with a local LLM, and enforcing a deterministic policy that requires user approval for risky actions.

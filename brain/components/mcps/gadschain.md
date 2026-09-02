@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-23T21:36:33Z"
 ---
 ## What it is
 An AI-powered MCP server that connects your Google Ads account to marketing decisions, enabling campaign listing, search-term analysis, budget tuning, pause/enable, and negative keyword management through structured Pydantic models.

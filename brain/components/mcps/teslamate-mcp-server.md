@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T03:03:03Z"
 ---
 ## What it is
 Exposes TeslaMate HTTP APIs (health, logging, drive GPX) and a generic API request tool for interacting with a TeslaMate instance via MCP.

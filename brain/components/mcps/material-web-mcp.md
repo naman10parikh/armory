@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-23T14:15:55Z"
 ---
 ## What it is
 Provides programmatic access to Material Web documentation and components for AI agents, enabling documentation search, template generation, and HTML validation.

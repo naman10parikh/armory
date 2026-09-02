@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T18:00:33Z"
 ---
 ## What it is
 Enables searching and retrieving documentation files from a local docs folder using a search tool and dynamic resource URIs.

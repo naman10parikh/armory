@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T07:11:10Z"
 ---
 ## What it is
 Enables searching Word documents on remote FTP/FTPS servers by keyword, returning matching files with context snippets.

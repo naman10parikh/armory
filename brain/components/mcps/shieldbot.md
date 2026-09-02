@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T15:23:00Z"
 ---
 ## What it is
 AI-powered security code review for Claude Code that runs multiple scanners (CodeQL, Semgrep, etc.) to detect vulnerabilities, secrets, and dependency CVEs, producing prioritized reports.

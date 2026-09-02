@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T07:21:48Z"
 ---
 ## What it is
 An embedded MCP server in the HaoApi LLM gateway that exposes 13 knowledge base tools via Streamable HTTP and SSE, enabling AI agents to search, read, and manage private knowledge bases through RAG.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-03-08T10:56:09Z"
 ---
 ## What it is
 MCP server that provides 22 tools to manage Apidog API documentation, including importing OpenAPI specs, exporting, diffing, analyzing, and bulk-editing endpoints.

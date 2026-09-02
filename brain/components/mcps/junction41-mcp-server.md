@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T07:35:35Z"
 ---
 ## What it is
 MCP server for the Junction41 platform, providing 125 tools for agent lifecycle, jobs, workspace, payments, bounties, and more, enabling LLMs to interact with Junction41.

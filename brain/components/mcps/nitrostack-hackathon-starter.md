@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T20:20:43Z"
 ---
 ## What it is
 A verified, event-ready MCP server template for building TypeScript servers with the NitroStack SDK, including a calculator module as a working reference.

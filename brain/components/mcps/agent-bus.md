@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T05:11:44Z"
 ---
 ## What it is
 Enables multiple coding agents (Claude Code, Codex, Cursor) to discover each other's sessions, search transcripts, ask questions, and handoff tasks through a shared MCP server.

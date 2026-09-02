@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T12:44:00Z"
 ---
 ## What it is
 MCP server for U.S. federal law that enables searching the U.S. Code, CFR, Federal Register, case law, and bills, with citation verification against primary sources to prevent hallucinations.

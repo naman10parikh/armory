@@ -8,10 +8,12 @@ source_url: https://github.com/korigamik/markitdown_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 87
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-12-21T14:18:32Z"
 ---
 ## What it is
 MCP server `MarkItDown`, catalogued on PulseMCP. Converts diverse file formats to Markdown using MarkItDown utility, enabling unified text-based workflows for content migration, documentation, and analysis.

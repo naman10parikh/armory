@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-09-01T13:04:31Z"
 ---
 ## What it is
 Provides symbol-level dependency analysis and LLM-ready migration prompts for TypeScript/JavaScript projects, enabling AI editors to scan projects, analyze packages, and generate refactoring prompts.

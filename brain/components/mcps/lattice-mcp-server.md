@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T19:19:29Z"
 ---
 ## What it is
 Enables LLM agents to compute and analyze the thermodynamics of hot, strongly interacting matter from lattice QCD, including the equation of state, hadron resonance gas properties, and associated plots, using the latqcdtools package.

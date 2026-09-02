@@ -8,10 +8,12 @@ source_url: https://github.com/cphoskins/cronometer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-08-20T01:49:01Z"
 ---
 ## What it is
 MCP server `Cronometer`, catalogued on PulseMCP. Access Cronometer nutrition data including food logs, macros, fasting, biometrics, and recurring foods.

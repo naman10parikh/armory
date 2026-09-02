@@ -12,6 +12,8 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-05T07:18:27Z"
 ---
 ## What it is
 MCP server `Sakura Cloud`, catalogued on PulseMCP. Enables management of Sakura Cloud infrastructure resources including servers, disks, networks, and containerized applications through natural language commands.

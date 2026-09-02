@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-25T12:38:37Z"
 ---
 ## What it is
 Generates professional corporate PDF reports from structured JSON specs or raw LLM text output. Enables creating polished multi-page reports with cover page, table of contents, executive summary, sections, tables, and charts.

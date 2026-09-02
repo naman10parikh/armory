@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T12:07:20Z"
 ---
 ## What it is
 A local, read-only MCP server that allows Claude Desktop to access Garmin Connect data such as activities and recovery metrics, enabling AI-assisted running plan creation and adjustment.

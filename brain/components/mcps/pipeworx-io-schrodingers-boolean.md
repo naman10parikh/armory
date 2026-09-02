@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:38:13Z"
 ---
 ## What it is
 MCP server `Schrödinger's Boolean`, catalogued on PulseMCP. Submit questions to Schrödinger's Boolean — answers exist in superposition (both true and false) until observed.

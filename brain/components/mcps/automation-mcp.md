@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 39
+pushed_at: "2025-06-11T02:24:00Z"
 ---
 ## What it is
 Enables AI assistants to automate macOS desktop tasks including mouse control, keyboard input, screenshots, window management, and UI interaction.

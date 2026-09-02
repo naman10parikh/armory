@@ -8,10 +8,12 @@ source_url: https://github.com/nguyenvanduocit/all-in-one-model-context-protocol
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 102
+stars: 107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 12
+pushed_at: "2025-02-24T07:27:20Z"
 ---
 ## What it is
 MCP server `All-In-One DevTools`, catalogued on PulseMCP. Juggles development tool integrations like Confluence, GitLab, Jira, and CLI scripts.

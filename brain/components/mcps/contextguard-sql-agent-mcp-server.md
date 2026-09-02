@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T06:00:28Z"
 ---
 ## What it is
 A metadata-guided, read-only SQL analysis MCP server for DataHub that helps agents perform safe analytical queries using DataHub schema, lineage, ownership, and tags, with a deterministic planner and strict SQL safety layer against local synthetic SQLite, guaranteeing zero write or mutation operatio

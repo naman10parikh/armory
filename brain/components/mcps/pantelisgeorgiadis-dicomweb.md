@@ -8,10 +8,12 @@ source_url: https://github.com/pantelisgeorgiadis/dicomweb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-16T17:57:21Z"
 ---
 ## What it is
 MCP server `DICOMweb`, catalogued on PulseMCP. Exposes DICOMweb DICOM medical imaging archives to AI agents via QIDO-RS metadata queries and WADO-RS image retrieval.

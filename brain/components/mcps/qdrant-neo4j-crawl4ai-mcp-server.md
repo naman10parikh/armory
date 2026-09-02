@@ -8,11 +8,13 @@ source_url: https://github.com/BjornMelin/qdrant-neo4j-crawl4ai-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-06-28T02:08:34Z"
 ---
 ## What it is
 Enables autonomous orchestration of vector search, knowledge graph queries, and web crawling through a single MCP interface, providing agentic RAG capabilities for AI assistants.

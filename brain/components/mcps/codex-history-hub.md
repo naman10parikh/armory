@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T12:00:47Z"
 ---
 ## What it is
 Local-first, read-only Codex session aggregator that indexes multiple CODEX_HOME directories into a SQLite database and provides MCP tools for cross-project, archival, and sub-agent history queries.

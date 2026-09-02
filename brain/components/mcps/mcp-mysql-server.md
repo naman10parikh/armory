@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-22T14:07:09Z"
 ---
 ## What it is
 A MCP MySQL server with DDL support, permission control and operation logs.

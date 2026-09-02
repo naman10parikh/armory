@@ -12,6 +12,8 @@ stars: 97
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2026-04-06T20:54:50Z"
 ---
 ## What it is
 MCP server `Database Query`, catalogued on PulseMCP. Provides direct database access and querying capabilities across H2, PostgreSQL, MySQL, Oracle, SQL Server, Snowflake, and BigQuery with connection pooling, configurable limits, and metadata discovery for natural language database exploration and business intelligence workflows.

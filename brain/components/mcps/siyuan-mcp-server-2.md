@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-09T10:17:55Z"
 ---
 ## What it is
 Enables AI assistants to create, read, update, and manage SiYuan notes, supporting notebook management, document operations, block editing, database attribute views, search, file operations, and export.

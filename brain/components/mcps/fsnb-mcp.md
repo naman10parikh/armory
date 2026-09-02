@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T13:54:10Z"
 ---
 ## What it is
 Offline MCP server for querying Russian construction normative rates (FSNB-2022/GESN) via SQLite with full-text search.

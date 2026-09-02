@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T00:00:08Z"
 ---
 ## What it is
 DebugBundle helps AI agents investigate production incidents with deterministic debug bundles, reproductions, health checks, and diagnostics. It exposes incident inspection, bundle retrieval, and ops management tools over MCP.

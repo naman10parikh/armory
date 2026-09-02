@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T13:34:46Z"
 ---
 ## What it is
 A forkable RAG project with an MCP server for VS Code/Copilot, enabling indexing and querying of knowledge from URLs, PDFs, or TeX files.

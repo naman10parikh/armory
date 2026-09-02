@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T03:27:27Z"
 ---
 ## What it is
 A proxy MCP server that provides access to ~40 tools for managing a Docsbook workspace, including branding, navigation, SEO/GEO/AEO, AI chat system prompt, translations, analytics, webhooks, and the doc source-of-truth graph via any MCP client.

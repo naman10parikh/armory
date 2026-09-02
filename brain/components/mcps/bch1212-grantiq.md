@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-06T12:38:06Z"
 ---
 ## What it is
 MCP server `GrantIQ`, catalogued on PulseMCP. MCP server providing AI agents structured access to US federal grant and contract opportunities from Grants.gov and SAM.gov.

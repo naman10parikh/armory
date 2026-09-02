@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T08:32:32Z"
 ---
 ## What it is
 Enables Revenue Growth Management analysis for the Alco-Bev industry using NIQ data, including price elasticity, promo effectiveness, and pricing optimization.

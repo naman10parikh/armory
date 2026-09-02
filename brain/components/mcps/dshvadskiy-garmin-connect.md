@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-03-13T22:09:35Z"
 ---
 ## What it is
 MCP server `Garmin Connect`, catalogued on PulseMCP. Integrates with the Garmin Connect API to retrieve and analyze personal fitness data, enabling detailed tracking of health metrics like sleep, steps, activities, and heart rate.

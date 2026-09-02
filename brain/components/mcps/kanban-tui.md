@@ -8,11 +8,13 @@ source_url: https://github.com/Zaloog/kanban-tui
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 272
+stars: 279
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2026-08-28T15:46:54Z"
 ---
 ## What it is
 MCP server for kanban-tui, a terminal-based task manager, that exposes task, board, and column management commands for AI agents to interact with.

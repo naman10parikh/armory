@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T22:36:29Z"
 ---
 ## What it is
 Enables querying personal finance reports (merchant spending, largest expenses) and performing currency conversion via a local SQLite database.

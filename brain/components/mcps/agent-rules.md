@@ -8,10 +8,12 @@ source_url: https://github.com/4regab/agent-rules-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [git, mcp]
+forks: 5
+pushed_at: "2025-09-15T11:04:52Z"
 ---
 
 ## What it is

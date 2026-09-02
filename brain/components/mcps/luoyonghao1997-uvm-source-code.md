@@ -8,10 +8,12 @@ source_url: https://github.com/luoyonghao1997/uvm-source-code-1.2-knowledge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-03-02T07:19:01Z"
 ---
 ## What it is
 MCP server `UVM 1.2 Source Code Knowledge`, catalogued on PulseMCP. Provides semantic search and exploration of UVM 1.2 SystemVerilog source code through locally-hosted embeddings and ChromaDB indexing.

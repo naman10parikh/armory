@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T05:47:40Z"
 ---
 ## What it is
 MCP server for jewelry design ideation that guides users through structured interviews to create a design brief, then generates real jewelry design images via gpt-image-2.

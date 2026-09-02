@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-14T03:47:32Z"
 ---
 ## What it is
 MCP server `Kyutai TTS`, catalogued on PulseMCP. Containerized text-to-speech service using Kyutai's neural TTS models with GPU-accelerated inference and streaming capabilities.

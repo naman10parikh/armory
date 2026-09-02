@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-11-06T23:12:12Z"
 ---
 ## What it is
 A simple MCP server offering three utility tools: UUID generation, temperature conversion, and text statistics.

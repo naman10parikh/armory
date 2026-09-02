@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-12-28T02:12:49Z"
 ---
 ## What it is
 MCP server `DiskCleanKit`, catalogued on PulseMCP. Integrates with DiskCleanKit to scan and clean junk files on macOS.

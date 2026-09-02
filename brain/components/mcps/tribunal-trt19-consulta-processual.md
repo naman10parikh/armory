@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:10Z"
 ---
 ## What it is
 Enables read-only consultation of labor court processes from TRT19 via official source, with a single tool.

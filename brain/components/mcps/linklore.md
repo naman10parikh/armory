@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T13:58:58Z"
 ---
 ## What it is
 AI-native coding memory — lore/doc that AI agents read and write directly, via MCP

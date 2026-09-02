@@ -8,10 +8,12 @@ source_url: https://github.com/trainual/tiptap-collaboration-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-08-27T14:08:08Z"
 ---
 ## What it is
 MCP server `Tiptap Collaboration`, catalogued on PulseMCP. Integrates with Tiptap Collaboration services to manage collaborative documents through CRUD operations, real-time statistics monitoring, content conversion, semantic search, and batch import operations with Base64 encryption and bidirectional Markdown conversion.

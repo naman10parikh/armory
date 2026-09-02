@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T20:07:50Z"
 ---
 ## What it is
 A local-first CRM that exposes customer and project management tools via the Model Context Protocol (MCP), including an analytics server. It integrates seamlessly with Claude Code or a custom LlamaIndex ReAct agent.

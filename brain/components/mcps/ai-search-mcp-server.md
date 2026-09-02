@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T04:06:39Z"
 ---
 ## What it is
 Provides intelligent search aggregation for AI agents, automatically detecting intent and returning structured results with links to platforms for various categories like movies, books, products, courses, and more.

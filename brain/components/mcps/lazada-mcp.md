@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T15:32:39Z"
 ---
 ## What it is
 A read-only MCP server for Lazada Open Platform that provides access to orders, transactions, fee breakdowns, and per-SKU profit analysis.

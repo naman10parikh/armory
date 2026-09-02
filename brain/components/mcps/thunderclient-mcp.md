@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-05-23T12:48:32Z"
 ---
 ## What it is
 Enables AI tools to create and manage API requests and collections in Thunder Client, with automated collection and folder creation.

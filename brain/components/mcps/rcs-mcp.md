@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T10:33:09Z"
 ---
 ## What it is
 Enables searching Polish administrative areas and retrieving real estate transaction data from the official registry via geoportal.gov.pl.

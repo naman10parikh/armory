@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-13T06:55:39Z"
 ---
 ## What it is
 A comprehensive MCP server for TouchBistro restaurant management, offering 190 tools across 12 domains and 15 React apps for visual management.

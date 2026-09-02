@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-27T03:04:08Z"
 ---
 ## What it is
 Production-grade MCP server for Microsoft Advertising (Bing Ads) API. Enables Claude to manage Bing/Microsoft Ads accounts with full campaign, ad group, keyword, and performance analysis capabilities.

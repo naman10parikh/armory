@@ -8,11 +8,13 @@ source_url: https://github.com/longsizhuo/openInvest
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 81
+stars: 82
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-09-02T03:00:02Z"
 ---
 ## What it is
 Investment decision tools for AI agents: portfolio status, isolated multi-agent committee analysis, auditable verdict history, and lookahead-protected backtests. Advisory only, no auto-trading; negative research results published.

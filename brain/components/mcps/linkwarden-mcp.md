@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T10:08:02Z"
 ---
 ## What it is
 MCP server for Linkwarden bookmarks providing read-first search and preserved content access with opt-in write, delete, and collection-delete tools, plus heuristic triage workflows.

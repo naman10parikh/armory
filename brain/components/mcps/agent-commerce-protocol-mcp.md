@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T05:24:42Z"
 ---
 ## What it is
 MCP server for e-commerce operations including product catalog management, cart/checkout, and Stripe integration, with built-in EU AI Act compliance.

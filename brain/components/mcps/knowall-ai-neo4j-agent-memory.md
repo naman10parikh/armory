@@ -8,10 +8,12 @@ source_url: https://github.com/knowall-ai/mcp-neo4j-agent-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 14
+pushed_at: "2025-10-27T21:33:21Z"
 ---
 ## What it is
 MCP server `Neo4j Agent Memory`, catalogued on PulseMCP. Stores entities and relationships in a Neo4j graph database with semantic search and temporal filtering, enabling persistent contextual memory for conversational systems through 10 specialized tools for creating memories, building connections, and querying knowledge graphs with configurable depth traversal.

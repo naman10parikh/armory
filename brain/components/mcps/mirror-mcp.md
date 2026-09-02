@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-07-28T22:37:21Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides a reflect tool, enabling LLMs to engage in self-reflection and introspection through recursive questioning and MCP sampling.

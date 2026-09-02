@@ -8,10 +8,12 @@ source_url: https://github.com/keshrath/agent-comm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-17T08:01:34Z"
 ---
 ## What it is
 MCP server `Agent Comm`, catalogued on PulseMCP. Agent intercommunication with messaging, channels, shared state, and real-time events.

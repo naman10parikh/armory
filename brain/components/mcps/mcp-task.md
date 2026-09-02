@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2025-09-21T18:06:58Z"
 ---
 ## What it is
 Enables LLMs to interact with any ERPNext instance through comprehensive CRUD operations, advanced permissions, and a web chat interface.

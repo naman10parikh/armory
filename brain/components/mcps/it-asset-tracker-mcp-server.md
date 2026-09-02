@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T07:59:38Z"
 ---
 ## What it is
 An MCP server that connects Claude Desktop to the IT Asset Tracker backend, giving Claude access to 70+ tools for managing assets, users, requests, and reports.

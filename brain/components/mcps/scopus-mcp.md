@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T18:10:40Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve academic papers, author profiles, and citation data from the Scopus database via MCP tools.

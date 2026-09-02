@@ -8,10 +8,12 @@ source_url: https://github.com/bazylhorsey/obsidian-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-10-16T22:10:38Z"
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Integrates with Obsidian vaults to provide knowledge graph analysis, note creation and editing, template management, tag-based searching, and Canvas file manipulation with support for multiple vault configurations and real-time file watching.

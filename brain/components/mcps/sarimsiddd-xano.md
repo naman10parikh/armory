@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-01-23T05:55:43Z"
 ---
 ## What it is
 MCP server `Xano`, catalogued on PulseMCP. Integrates with Xano's no-code backend platform to enable data querying, manipulation, and CRUD operations for rapid application development and prototyping.

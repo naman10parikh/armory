@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T21:36:29Z"
 ---
 ## What it is
 MCP server: is this GitHub repo still maintained? A verdict.

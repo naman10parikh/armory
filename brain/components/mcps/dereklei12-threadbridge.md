@@ -8,10 +8,12 @@ source_url: https://github.com/dereklei12/zed-mcp-server-threadbridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-25T11:52:32Z"
 ---
 ## What it is
 MCP server `ThreadBridge`, catalogued on PulseMCP. Persistent AI memory for Zed editor with hybrid semantic search and cognitive decay modeling.

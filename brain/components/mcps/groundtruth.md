@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T18:52:33Z"
 ---
 ## What it is
 A crisis verification agent that fact-checks actionable instructions against official advisories using retrieval-augmented verification, exposed as an MCP server with verify_claim and corpus_info tools.

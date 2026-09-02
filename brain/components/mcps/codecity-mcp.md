@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T12:25:19Z"
 ---
 ## What it is
 Analyzes a local codebase and exposes its structure, per-file summaries, dependency graph, and complexity hotspots as tools for MCP clients like Claude.

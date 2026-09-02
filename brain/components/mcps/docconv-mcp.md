@@ -8,11 +8,13 @@ source_url: https://github.com/nicklee002e/docconv-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T02:02:03Z"
 ---
 ## What it is
 Converts PDF, Word, Excel, and PowerPoint documents to Markdown using a pay-per-conversion model with USDC on Base via the x402 protocol.

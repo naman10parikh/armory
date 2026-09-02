@@ -8,10 +8,12 @@ source_url: https://github.com/cgize/claude-mcp-think-tool
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-04-11T07:45:19Z"
 ---
 ## What it is
 MCP server `Think Tool`, catalogued on PulseMCP. Provides Claude with a dedicated workspace for structured reasoning through four specialized tools that enable recording, retrieving, clearing, and analyzing thoughts during complex problem-solving tasks.

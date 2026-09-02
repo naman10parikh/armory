@@ -8,10 +8,12 @@ source_url: https://github.com/baidu/mochow-mcp-server-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-08T06:48:14Z"
 ---
 ## What it is
 MCP server `Mochow Vector Database`, catalogued on PulseMCP. Provides direct access to Mochow vector database capabilities for managing databases, tables, and performing vector similarity and full-text searches with filtering options.

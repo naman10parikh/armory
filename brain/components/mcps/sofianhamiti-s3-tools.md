@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-22T16:02:02Z"
 ---
 ## What it is
 MCP server `S3 Tools`, catalogued on PulseMCP. Integrates with AWS S3 to enable bucket listing and management, facilitating cloud storage operations for applications requiring file organization or content delivery.

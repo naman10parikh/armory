@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-28T12:43:27Z"
 ---
 ## What it is
 A starter template for deploying a remote MCP server with OAuth 2.1 authorization, dynamic client registration, and a PostgreSQL database. Includes example tools for notes and whoami.

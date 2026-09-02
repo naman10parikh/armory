@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T14:58:51Z"
 ---
 ## What it is
 Semantic memory MCP server that gives AI agents a self-writing, priority-based memory with local semantic search and automatic contradiction handling. It persists across sessions and projects, entirely on your machine.

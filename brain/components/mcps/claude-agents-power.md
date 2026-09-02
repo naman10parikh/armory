@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-09-03T23:38:13Z"
 ---
 ## What it is
 MCP server `Claude Agents Power`, catalogued on PulseMCP. Provides over 150 pre-built professional agent personas across business, technology, and operations roles in multiple languages, enabling users to instantly access domain-specific expertise for tasks like code reviews, financial analysis, and project management without crafting detailed prompts.

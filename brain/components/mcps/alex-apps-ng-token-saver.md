@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T13:44:07Z"
 ---
 ## What it is
 An MCP server that gives AI agents Angular template awareness via compiler-backed tools, providing component contracts, diagnostics, and version-specific facts while saving tokens by returning concise JSON instead of entire source files.

@@ -8,11 +8,13 @@ source_url: https://github.com/adambbhe/TDX-finance-mcp-plugin-v3
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-04T14:50:28Z"
 ---
 ## What it is
 Enables access to TDX A-share financial data, including real-time quotes, K-line, F10 fundamentals, stock screening, and code retrieval via natural language.

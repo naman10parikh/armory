@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-29T01:33:24Z"
 ---
 ## What it is
 Query federal RFP, subaward, pricing, and vendor data from AI clients via 55 tools, including procurement contact graph and contract vehicle intelligence.

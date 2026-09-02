@@ -8,10 +8,12 @@ source_url: https://github.com/rayyan9477/linkedin_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-03-15T00:41:23Z"
 ---
 ## What it is
 MCP server `LinkedIn Job Assistant`, catalogued on PulseMCP. Integrates with LinkedIn to automate job searching, profile viewing, resume generation, and job applications with tailored resume and cover letter creation features.

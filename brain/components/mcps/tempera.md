@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-05-29T23:40:35Z"
 ---
 ## What it is
 Enables Claude Code with persistent memory that learns from past sessions, capturing coding episodes and surfacing relevant memories to improve over time.

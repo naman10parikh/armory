@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T08:47:02Z"
 ---
 ## What it is
 Provides STORES API documentation to AI clients, enabling natural language queries about endpoints, authentication, and more.

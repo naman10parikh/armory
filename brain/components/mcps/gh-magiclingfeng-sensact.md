@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-11T03:42:22Z"
 ---
 ## What it is
 MCP server `Sensact`, catalogued on PulseMCP. Remote device platform enabling LLM clients to discover and invoke capabilities on user-owned devices through OAuth-authenticated MCP connections.

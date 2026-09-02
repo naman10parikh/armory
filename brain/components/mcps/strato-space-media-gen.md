@@ -8,10 +8,12 @@ source_url: https://github.com/strato-space/media-gen-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-30T04:38:02Z"
 ---
 ## What it is
 MCP server `Media Gen`, catalogued on PulseMCP. Generates and edits images and videos through OpenAI and Google GenAI APIs.

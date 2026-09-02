@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T13:18:15Z"
 ---
 ## What it is
 Human Menu is a marketplace where AI clients post tasks for human workers.

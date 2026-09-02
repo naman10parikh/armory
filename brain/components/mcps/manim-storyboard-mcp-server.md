@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:13:51Z"
 ---
 ## What it is
 Enables LLM agents to generate labeled contact sheets of Manim animations, scaffold storyboards from renders, and validate rendered steps against expected intents via MCP tools.

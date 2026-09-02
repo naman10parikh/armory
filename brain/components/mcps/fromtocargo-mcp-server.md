@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T10:56:26Z"
 ---
 ## What it is
 Real published tariffs for European road freight and moving: quote by m3, kg, pallets or LDM across 560k+ routes. Dated price index, freight glossary, order submission. Live endpoint at https://mcp.fromtocargo.com/mcp (19 tools).

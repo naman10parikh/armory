@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-16T15:00:47Z"
 ---
 ## What it is
 Provides tools to archive URLs, retrieve clean readable text from Wayback Machine snapshots, list snapshots, search Internet Archive items, and compare snapshots, designed to avoid context window blowup by returning stripped text.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-20T19:42:58Z"
 ---
 ## What it is
 An MCP server that provides AI agents with real-time package health data, vulnerability reports, and dependency graphs from PyPI and OSV.dev.

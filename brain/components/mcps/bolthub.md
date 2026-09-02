@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-25T02:03:11Z"
 ---
 ## What it is
 Discover and pay for APIs and MCP tools per call over Bitcoin Lightning (L402): search the bolthub marketplace, preview prices, and pay from your own wallet (LND, NWC, LNbits) with hard budgets, prepaid credit, scoped sub-agent delegation, and verifiable receipts. Non-custodial and works without a w

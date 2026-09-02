@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 5
+pushed_at: "2026-08-31T21:05:36Z"
 ---
 ## What it is
 OrionBelt Analytics is an MCP server that analyzes relational database schemas and generates RDF/OWL ontologies with embedded SQL mappings. It provides relationship-aware Text-to-SQL with automatic fan-trap prevention, GraphRAG for intelligent schema discovery, and interactive charting -- all access

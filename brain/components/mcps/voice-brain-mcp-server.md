@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T16:52:07Z"
 ---
 ## What it is
 Provides a unified context per contact across voice (NL Pearl v2) and custom WhatsApp/SMS channels, with MCP tools to resolve identity, retrieve timeline, upsert contacts, append interactions, manage signals, record call context, and suggest follow-ups.

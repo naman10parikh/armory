@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-11-09T02:56:08Z"
 ---
 ## What it is
 MCP server `Xcode Localizable.xcstrings`, catalogued on PulseMCP. Provides translation management for Xcode's Localizable.xcstrings files with CRUD operations, plural variations, comment management, key renaming, and a web-based editing interface for iOS/macOS localization workflows.

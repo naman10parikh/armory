@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-12T02:53:00Z"
 ---
 ## What it is
 Enables AI agents to access Magpie Payment Platform APIs for processing payments, creating checkout sessions, sending invoices, and managing payment links through natural conversation.

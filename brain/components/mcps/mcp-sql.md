@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T14:41:08Z"
 ---
 ## What it is
 An extensible read-only MCP server for SQL databases, enabling schema exploration and safe SELECT queries via tools like list_schemas, list_tables, describe_table, and execute_query.

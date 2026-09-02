@@ -8,10 +8,12 @@ source_url: https://github.com/tienan92it/binance-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-04T13:07:01Z"
 ---
 ## What it is
 MCP server `Binance`, catalogued on PulseMCP. Integrates with Binance cryptocurrency exchange to provide real-time market data including prices, order books, and historical information without requiring API keys

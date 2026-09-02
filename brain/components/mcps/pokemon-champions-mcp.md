@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T06:19:31Z"
 ---
 ## What it is
 Calculates 1:1 Pokémon Champions singles matchups, returning structured JSON stats, speed, type, and damage analysis, with Korean/English input support.

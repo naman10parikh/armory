@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T04:53:36Z"
 ---
 ## What it is
 MCP server for On-Call Health burnout analysis. Connects AI assistants to your on-call data for workload insights.

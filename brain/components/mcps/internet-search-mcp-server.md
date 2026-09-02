@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T13:54:40Z"
 ---
 ## What it is
 Custom MCP server exposing an internet_search tool that fetches DuckDuckGo results, enabling AI agents to perform web searches and retrieve structured information.

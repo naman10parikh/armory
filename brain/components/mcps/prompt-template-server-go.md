@@ -12,6 +12,8 @@ stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-05-21T08:04:06Z"
 ---
 ## What it is
 MCP server `Prompt Template Server (Go)`, catalogued on PulseMCP. Lightweight Go server that loads and serves YAML-formatted prompt templates from a file system for easy organization and management of standardized prompts to AI models.

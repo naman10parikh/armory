@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T09:09:27Z"
 ---
 ## What it is
 This MCP server provides critical evidence assessment for organization-design, leadership and transformation claims, enabling users to critique consulting text, check claims against research, and generate safer phrasing.

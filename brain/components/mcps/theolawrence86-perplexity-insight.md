@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-03-16T10:31:46Z"
 ---
 ## What it is
 MCP server `Perplexity Insight`, catalogued on PulseMCP. Integrates with Perplexity AI to enable real-time question answering and web search capabilities through customizable tools for direct questions and web queries across multiple Perplexity models.

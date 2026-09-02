@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T08:29:14Z"
 ---
 ## What it is
 MCP server that lets Claude Code consult ChatGPT for a second opinion mid-task, with explicit context passed by the caller.

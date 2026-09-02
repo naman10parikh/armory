@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-01T22:21:37Z"
 ---
 ## What it is
 An MCP server that exposes the Railway API as tools for Claude. Manage Railway projects, services, deployments, variables, environments, and domains directly from Claude.

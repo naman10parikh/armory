@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-11T08:47:15Z"
 ---
 ## What it is
 A security-first MCP server that provides LLMs with structured tools for filesystem, process, search, build/test/lint, IDE integration, and more.

@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-18T15:03:12Z"
 ---
 ## What it is
 MCP server `CTFtime`, catalogued on PulseMCP. Integrates with CTFtime.org to retrieve cybersecurity competition data including upcoming events, team rankings, historical results, and event search capabilities for tracking competitive cybersecurity performance and planning competition schedules.

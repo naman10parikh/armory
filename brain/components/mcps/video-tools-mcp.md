@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T16:31:22Z"
 ---
 ## What it is
 An MCP server enabling video processing via natural language: transcription with Whisper, segment cutting with FFmpeg, and file management.

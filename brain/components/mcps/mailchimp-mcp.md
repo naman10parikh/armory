@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T18:13:05Z"
 ---
 ## What it is
 MCP server for full Mailchimp management: audiences, tags, segments, campaigns, templates and reporting. Enables creating, sending, scheduling campaigns, managing contacts, and retrieving reports via natural language.

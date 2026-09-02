@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T04:28:33Z"
 ---
 ## What it is
 Enables financial research on US-listed equities by answering natural language questions with structured data from fundamentals, prices, earnings, and insider activity.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:05Z"
 ---
 ## What it is
 Allows AI assistants to query official IPTU (property tax) installment data from the Campinas city government, offering a read-only MCP tool with pay-per-use prepaid credits.

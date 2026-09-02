@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-20T16:48:51Z"
 ---
 ## What it is
 An MCP server for managing TigerData Cloud services via Pulumi automation, enabling operations like creating, listing, and deleting TimescaleDB services through natural language.

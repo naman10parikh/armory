@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-06T22:09:23Z"
 ---
 ## What it is
 Provides 10 validation tools for direct response copywriting, including blind critique, emotional stress test, semantic memory search, and more.

@@ -8,10 +8,12 @@ source_url: https://github.com/lightningfaucet/lightning-wallet-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-07-02T15:37:36Z"
 ---
 ## What it is
 MCP server `Lightning Wallet`, catalogued on PulseMCP. Provides Bitcoin Lightning Network wallet capabilities with L402 protocol support for payments, invoicing, and agent budget management.

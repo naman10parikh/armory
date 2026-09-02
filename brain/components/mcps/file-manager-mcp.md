@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T07:00:00Z"
 ---
 ## What it is
 Enables AI agents and LLMs to perform comprehensive file system operations including CRUD, search, archive, hashing, and duplicate detection via the Model Context Protocol.

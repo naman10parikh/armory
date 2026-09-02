@@ -8,10 +8,12 @@ source_url: https://github.com/jackdark425/aigroup-mdtoword-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-24T05:56:15Z"
 ---
 ## What it is
 MCP server `AI Group Markdown to Word`, catalogued on PulseMCP. Converts Markdown documents to professional Word files with advanced formatting

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T08:50:48Z"
 ---
 ## What it is
 Enables autonomous agents to manage tasks in a pull-based work queue with strategic goal alignment, real-time monitoring, and cross-project choreography.

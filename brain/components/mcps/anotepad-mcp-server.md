@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-07T23:47:36Z"
 ---
 ## What it is
 Connects AI assistants to aNotepad online notes for reading, searching, writing, and organizing notes through natural conversation.

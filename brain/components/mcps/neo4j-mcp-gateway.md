@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T21:20:48Z"
 ---
 ## What it is
 A single local MCP gateway for Neo4j that exposes both proxied generic Neo4j tools (schema, Cypher, GDS) and custom YAML-defined use-case tools behind one stdio endpoint.

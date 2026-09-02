@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:02:17Z"
 ---
 ## What it is
 MCP server `ECB Data Portal`, catalogued on PulseMCP. European Central Bank statistical data — exchange rates, interest rates, inflation, and monetary aggregates via the Pipeworx gateway.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T16:56:59Z"
 ---
 ## What it is
 An MCP server that catches dangerous SQL migrations by analyzing PostgreSQL statements for locking risks and providing safe rewrites.

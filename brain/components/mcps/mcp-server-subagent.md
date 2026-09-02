@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-30T07:48:16Z"
 ---
 ## What it is
 An MCP server that allows a planning agent to delegate tasks to executor agents (e.g., Claude Code, Aider) with bi-directional communication and real-time log streaming.

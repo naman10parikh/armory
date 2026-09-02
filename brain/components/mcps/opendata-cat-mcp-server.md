@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-07-30T10:57:44Z"
 ---
 ## What it is
 Connects LLMs to over 2,850 datasets from 13 Catalan and Spanish open data portals, enabling natural language search and real-time queries of public data.

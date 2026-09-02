@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T21:49:00Z"
 ---
 ## What it is
 Provide AI agents with read and search access to CopyQ clipboard history, plus tab listing, with optional Windows dictation routing to separate tabs.

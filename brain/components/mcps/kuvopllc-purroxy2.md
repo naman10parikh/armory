@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 2
+forks: 1
+pushed_at: "2026-05-05T12:37:46Z"
 ---
 ## What it is
 Record what you do on any website and securely automate it forever. Replays browser actions in headless Playwright with encrypted credentials and AI-powered selector healing.

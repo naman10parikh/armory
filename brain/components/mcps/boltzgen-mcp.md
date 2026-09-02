@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-03-01T11:26:49Z"
 ---
 ## What it is
 Enables AI-powered protein design, including binders, peptides, and custom proteins, with GPU-accelerated Docker deployment and async job management.

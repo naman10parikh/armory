@@ -8,10 +8,12 @@ source_url: https://github.com/sgsxingchen/novelai_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-11T20:14:34Z"
 ---
 ## What it is
 MCP server `NovelAI`, catalogued on PulseMCP. Integrates with NovelAI's image generation API to create anime-style artwork with advanced parameter control including multi-character positioning, sampling methods, and specialized modes for img2img and inpainting operations.

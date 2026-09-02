@@ -8,10 +8,12 @@ source_url: https://github.com/user0856/snaprender-integrations
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-06-09T20:19:31Z"
 ---
 ## What it is
 MCP server `SnapRender`, catalogued on PulseMCP. Screenshot API for capturing websites as PNG, JPEG, WebP, or PDF with device emulation, dark mode, and ad blocking.

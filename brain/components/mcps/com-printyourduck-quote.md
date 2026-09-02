@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T02:34:58Z"
 ---
 ## What it is
 Enables sending local 3D print files to PrintYourDuck for manual quote review, including file discovery, upload, and status checking.

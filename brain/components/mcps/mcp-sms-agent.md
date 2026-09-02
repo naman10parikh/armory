@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T00:24:32Z"
 ---
 ## What it is
 Enables an AI-powered SMS assistant that receives inbound messages via TextBee, processes them with a local Ollama model and optional MCP tools, and sends replies back to the sender.

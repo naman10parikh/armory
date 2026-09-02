@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T09:14:05Z"
 ---
 ## What it is
 Provides secure, agentic Excel analysis and calculation capabilities, enabling users to inspect workbook structure, perform statistical computations, write formulas, and generate outputs through whitelisted MCP tools with audit trails and backups.

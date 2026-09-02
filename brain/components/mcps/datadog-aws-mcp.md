@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T17:23:02Z"
 ---
 ## What it is
 A read-only MCP server that exposes tools to query Datadog monitors and logs, and AWS CloudWatch Logs, and to group recurring errors by fingerprint. Designed for use with Claude Code to diagnose issues and propose fixes.

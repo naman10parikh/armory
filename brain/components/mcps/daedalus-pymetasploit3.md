@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-23T20:35:08Z"
 ---
 ## What it is
 MCP server `Pymetasploit3`, catalogued on PulseMCP. Exposes Metasploit Framework capabilities via pymetasploit3 for exploit management and penetration testing.

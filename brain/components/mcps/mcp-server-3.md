@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-15T04:06:23Z"
 ---
 ## What it is
 Sets up a Model Context Protocol (MCP) server with FastMCP, allowing LLMs to use prompts, tools, and resources.

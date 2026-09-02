@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:34:10Z"
 ---
 ## What it is
 Provides complete credit dossiers for individuals or companies, including registration data, risk score, and pending issues, via a hosted MCP server with a single read-only tool.

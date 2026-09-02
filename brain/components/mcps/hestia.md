@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T10:52:16Z"
 ---
 ## What it is
 Enables users to search Airbnb listings using natural language, including flexible dates, guest counts, price range, property type, and amenities. It provides listing summaries and details but does not handle bookings.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-10T16:36:24Z"
 ---
 ## What it is
 MCP server `mcdev`, catalogued on PulseMCP. Wiki search, .mcdevrc configuration help, journey checklists, and metadata types for Salesforce Marketing Cloud.

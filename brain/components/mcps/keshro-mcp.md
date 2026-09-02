@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-30T15:59:33Z"
 ---
 ## What it is
 The intelligent execution layer for coding agents, exposed as an MCP server for high-stakes engineering projects. It enables AI agents to manage plans, tasks, and integrations via tool calls.

@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 7
+forks: 8
+pushed_at: "2025-04-19T15:53:55Z"
 ---
 ## What it is
 Serving as a structured knowledge base of crypto whitepapers.

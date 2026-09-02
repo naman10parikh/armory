@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T20:21:36Z"
 ---
 ## What it is
 MCP server to check if a person is listed in the Brazilian Central Bank's general register of ineligible individuals (Quadro Geral de Inabilitados) via CPF. Read-only, hosted, and supports any MCP client over HTTP.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-09T11:48:02Z"
 ---
 ## What it is
 Enables AI assistants to access real-time Transport for London data, including tube/bus arrivals, line status, journey planning, and disruptions.

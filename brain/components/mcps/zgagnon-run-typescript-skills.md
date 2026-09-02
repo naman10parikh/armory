@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-11-27T00:44:53Z"
 ---
 ## What it is
 MCP server `Run TypeScript Skills`, catalogued on PulseMCP. Executes TypeScript code in isolated temporary workspaces with automatic cleanup, supporting imports from ~/.claude/skills and capturing console output for development workflows.

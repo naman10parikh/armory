@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-18T16:38:42Z"
 ---
 ## What it is
 A security-focused MCP server that enables AI assistants to search PyPI packages, scan for vulnerabilities, audit dependencies, and ensure security across Python projects.

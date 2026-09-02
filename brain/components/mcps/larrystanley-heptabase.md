@@ -8,10 +8,12 @@ source_url: https://github.com/larrystanley/heptabase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2025-05-24T16:21:39Z"
 ---
 ## What it is
 MCP server `Heptabase`, catalogued on PulseMCP. Integrates with Heptabase backup files to enable searching, analyzing, and exporting visual knowledge graphs through automated backup processing, content search with filtering, whiteboard analysis, and multi-format export capabilities for researchers and knowledge workers.

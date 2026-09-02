@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T07:29:51Z"
 ---
 ## What it is
 Enables searching biomedical images (X-rays, CT/MRI, clinical photos, etc.) from the Open-i database using natural language queries, returning image results as Markdown links.

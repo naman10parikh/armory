@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T17:15:23Z"
 ---
 ## What it is
 Enables adding inline, range-anchored comments to specific text fragments in Google Docs, overcoming the limitation that Google APIs cannot create anchored comments.

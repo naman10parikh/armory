@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T08:06:18Z"
 ---
 ## What it is
 Enables AI agents to securely execute remote commands via SSH or JumpServer, with flexible gateway configuration and plugin-based matchers for JumpServer login interfaces.

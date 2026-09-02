@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-18T18:54:41Z"
 ---
 ## What it is
 A local MCP server that indexes TypeScript/JavaScript projects and returns budget-aware, dependency-optimized context packs for AI coding assistants.

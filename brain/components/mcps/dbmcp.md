@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T10:48:27Z"
 ---
 ## What it is
 Enables querying PostgreSQL databases via MCP, with multi-database routing, credential isolation, and truncated results plus full CSV export.

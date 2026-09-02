@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-08-16T17:14:25Z"
 ---
 ## What it is
 Enables natural language queries to a Neo4j knowledge graph built from PostgreSQL data, integrating with Claude Desktop and REST API.

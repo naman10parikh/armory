@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-07-06T14:12:52Z"
 ---
 ## What it is
 MCP server `Headline Vibes`, catalogued on PulseMCP. Integrates with major US news sources to analyze headline sentiment, providing normalized scores and source distribution for media trend insights.

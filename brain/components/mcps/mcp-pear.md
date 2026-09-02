@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T22:02:47Z"
 ---
 ## What it is
 Read-only MCP server for Pear Protocol that gives Claude access to markets, pair ratios, positions, orders, trade history, and portfolio.

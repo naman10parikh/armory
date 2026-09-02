@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T12:34:15Z"
 ---
 ## What it is
 Exposes the AKIJ Resources Compliance Management System knowledge base, including Bangladesh legal risks and multi-tier compliance resolution, enabling compliance checks, risk lookup, and coverage gap reporting.

@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-20T00:22:17Z"
 ---
 ## What it is
 MCP server `Tax Workflow`, catalogued on PulseMCP. File US personal income taxes locally with 10 tools covering calculation, PDF form generation for 24 IRS forms, and e-filing across federal and state returns.

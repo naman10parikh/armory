@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T13:59:20Z"
 ---
 ## What it is
 Enables natural language queries of Seoul's air pollutant emission facility permit data from the Seoul Open Data Platform, including facility search, detailed lookup, and status enumeration.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T02:10:04Z"
 ---
 ## What it is
 Privacy-safe synthetic financial data for Latin American fintech, exposed to AI agents as an MCP Tool through the hosted Apify MCP Server. Supports Streamable HTTP, OAuth/API-token authentication, and generates synthetic users, savings goals and transactions without PII.

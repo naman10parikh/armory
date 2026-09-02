@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T00:09:34Z"
 ---
 ## What it is
 Enables querying open data platforms like CKAN via natural language. Provides a configurable MCP server with plugins for different data sources.

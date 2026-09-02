@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T02:45:15Z"
 ---
 ## What it is
 Remote MCP server for natural-language calorie/macro and weight tracking, designed to connect to Claude.ai as a custom connector.

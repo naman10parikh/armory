@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T10:21:53Z"
 ---
 ## What it is
 Enables LLMs to perform web search and fetch with a frozen cutoff date, enforcing server-side time-lock and usage budgets to prevent lookahead contamination.

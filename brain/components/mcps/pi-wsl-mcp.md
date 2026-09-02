@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T15:32:36Z"
 ---
 ## What it is
 An MCP bridge for the Pi coding agent running in WSL, enabling task execution, research, review, and session management through MCP.

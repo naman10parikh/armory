@@ -8,11 +8,13 @@ source_url: https://github.com/BugTraceAI/reconftw-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-03-31T11:34:15Z"
 ---
 ## What it is
 Enables AI assistants to perform reconnaissance tasks using the reconFTW framework, supporting full, passive, subdomain, vulnerability, and OSINT scans through MCP tools.

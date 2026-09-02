@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T10:33:09Z"
 ---
 ## What it is
 Enables calling 48+ LLMs, image, and video models through Routara's API from Cursor, Claude Desktop, Windsurf, and other MCP clients. Supports chat completions, image generation, and video generation with a single API key.

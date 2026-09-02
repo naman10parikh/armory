@@ -8,11 +8,13 @@ source_url: https://github.com/leogallego/ansible-know-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-27T00:46:11Z"
 ---
 ## What it is
 Module discovery, documentation search, and skill generation for AI agents via the Model Context Protocol.

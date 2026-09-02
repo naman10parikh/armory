@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:47:14Z"
 ---
 ## What it is
 A read-only MCP server that consults official CCM (Cadastro de Contribuintes Mobiliários) data from the São Paulo city government, enabling queries via natural language in any MCP-compatible client.

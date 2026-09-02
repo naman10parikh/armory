@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T05:05:31Z"
 ---
 ## What it is
 Helps users choose which Steam games to play or buy by analyzing their library, playtime, discounts, and reviews.

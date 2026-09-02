@@ -8,11 +8,13 @@ source_url: https://github.com/Agents365-ai/zotero-cli-cc
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 199
+stars: 202
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 21
+pushed_at: "2026-09-02T03:46:28Z"
 ---
 ## What it is
 MCP server that exposes 45 tools for Zotero reference management, enabling AI agents to read/write items, search, extract PDF text, and manage workspaces via the Zotero CLI.

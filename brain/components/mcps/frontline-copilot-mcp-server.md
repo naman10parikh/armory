@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T09:49:04Z"
 ---
 ## What it is
 Enables store managers to query and triage customer review insights conversationally, including store health, open tasks, and critical alerts, by connecting Claude Desktop to Airtable and Slack.

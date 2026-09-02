@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T07:38:15Z"
 ---
 ## What it is
 MCP server that reuses an existing CodeBuddy login to provide read-only model access as a sub-agent and an OpenAI-compatible proxy, without requiring API keys.

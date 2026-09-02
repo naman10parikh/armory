@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T15:43:22Z"
 ---
 ## What it is
 Enables AI agents to search and compare live UK product prices from marketplaces like eBay and Amazon, returning normalised JSON with direct buy links.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-22T07:21:17Z"
 ---
 ## What it is
 MCP server `Google Trends`, catalogued on PulseMCP. Google Trends MCP with proxy rotation and auto-retry to work around Google anti-bot measures.

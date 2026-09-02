@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T06:12:19Z"
 ---
 ## What it is
 Transforms local Git repositories into queryable, context-rich knowledge bases via AST-aware chunking and Git metadata, enabling AI assistants to search and understand codebases with semantic precision.

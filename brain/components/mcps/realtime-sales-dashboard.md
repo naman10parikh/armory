@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-15T05:42:55Z"
 ---
 ## What it is
 Streams simulated sales data via WebSocket and renders live KPIs, state rankings, sparkline charts, and an activity feed within an MCP App iframe.

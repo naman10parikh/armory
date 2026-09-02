@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T01:35:26Z"
 ---
 ## What it is
 A local document evidence layer for MCP clients that ingests documents (PDF, Office, images) with optional OCR, indexes them in SQLite FTS, and provides retrieval tools with source coordinates.

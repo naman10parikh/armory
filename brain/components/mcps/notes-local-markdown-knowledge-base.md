@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T21:33:30Z"
 ---
 ## What it is
 Local markdown notes for any MCP client: ranked + semantic search, tags, todos, a wiki-link knowledge graph, daily notes, templates, and slash-command workflows. Pure-JS, local, no API keys.

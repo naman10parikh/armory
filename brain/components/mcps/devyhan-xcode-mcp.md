@@ -8,10 +8,12 @@ source_url: https://github.com/devyhan/xcode-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-03-28T07:04:03Z"
 ---
 ## What it is
 MCP server `Xcode`, catalogued on PulseMCP. Provides Xcode-related command-line tools to enables project inspection, building, testing, archiving, code signing, and Xcode simulator management through natural language commands.

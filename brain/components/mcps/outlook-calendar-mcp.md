@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T11:27:54Z"
 ---
 ## What it is
 Outlook Calendar MCP Server built using FastMCP and Microsoft Graph API. This MCP server allows AI agents to manage Outlook Calendar events through Microsoft Graph.

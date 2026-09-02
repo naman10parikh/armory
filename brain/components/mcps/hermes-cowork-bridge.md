@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T17:02:36Z"
 ---
 ## What it is
 Bridges Claude Cowork/Desktop to a local Hermes Agent, exposing hermes_delegate, hermes_check_run, and hermes_health tools for task delegation, status polling, and health checks.

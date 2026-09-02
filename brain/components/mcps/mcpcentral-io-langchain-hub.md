@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-08-03T01:20:57Z"
 ---
 ## What it is
 MCP server `LangChain Hub`, catalogued on PulseMCP. Provides access to LangChain Hub's prompt repository for fetching, searching, and managing community-contributed prompts without manual browsing.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T04:21:47Z"
 ---
 ## What it is
 MCP server for managing Docker containers, images, and Compose services via natural language, with configurable tool permissions and safety annotations.

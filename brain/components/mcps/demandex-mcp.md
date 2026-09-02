@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T00:28:17Z"
 ---
 ## What it is
 MCP server for Demandex e-commerce demand intelligence, providing Reddit-based opportunity cards and demand verdicts with free and paid per-call tools settled via x402/USDC.

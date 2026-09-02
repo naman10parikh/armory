@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T11:34:31Z"
 ---
 ## What it is
 Enables AI coding agents to build, flash, debug, and read feedback from STM32 development projects in Keil MDK, forming a closed loop to automatically fix code.

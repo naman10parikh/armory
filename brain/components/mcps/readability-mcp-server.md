@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T20:40:22Z"
 ---
 ## What it is
 Lets any AI agent score and simplify its own text before it reaches a human, using Flesch readability metrics and plain-language rewrites entirely on the local machine.

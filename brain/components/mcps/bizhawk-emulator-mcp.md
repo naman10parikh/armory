@@ -8,11 +8,13 @@ source_url: https://github.com/KanonZombie/emulator-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-22T23:32:28Z"
 ---
 ## What it is
 Deterministic BizHawk control over MCP for Game Boy, Mega Drive/Genesis, NES, and SNES.

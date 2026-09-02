@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T02:49:52Z"
 ---
 ## What it is
 An MCP server that renders Minecraft structure files (NBT / Sponge schematic / Litematic) into PNG preview images using vanilla Minecraft resources.

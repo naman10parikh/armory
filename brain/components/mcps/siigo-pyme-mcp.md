@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T22:47:52Z"
 ---
 ## What it is
 MCP server that exposes SIIGO Pyme to AI agents, wrapping EXCELSIIGO.exe to provide 47 import/export functions as MCP tools with automatic company discovery and JSON-parsed results.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T11:08:50Z"
 ---
 ## What it is
 MCP server for k-prevention, enabling AI assistants to access decrypted financial data, run Monte Carlo simulations, optimize scenarios, and manage scenarios locally while preserving end-to-end encryption.

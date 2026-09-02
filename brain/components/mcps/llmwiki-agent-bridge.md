@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T03:45:55Z"
 ---
 ## What it is
 Provides a unified MCP/A2A endpoint that fans out to multiple LLMWiki Knowledge Sources, synthesizes answers with citations and trace steps, and optionally calls an OpenAI-compatible runtime for grounded responses.

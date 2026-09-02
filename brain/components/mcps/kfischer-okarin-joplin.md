@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-02-20T08:51:11Z"
 ---
 ## What it is
 MCP server `Joplin`, catalogued on PulseMCP. Bridges Claude with Joplin's note-taking application, enabling direct interaction with notebooks and notes through a Ruby-based API implementation that retrieves and displays the complete notebook hierarchy.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T15:08:45Z"
 ---
 ## What it is
 MCP server for the CDTM Community Portal that enables searching CDTM students and alumni by tags like skills, interests, class, and location, and retrieving member profiles.

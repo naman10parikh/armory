@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T15:05:43Z"
 ---
 ## What it is
 A local MCP server that improves token efficiency for Cursor's agent by providing cheaper tools like search_code, outline_file, read_snippet, project_map, and handoff, along with rules that steer the agent to use them and reduce excessive context usage.

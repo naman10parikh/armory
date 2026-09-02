@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-02T09:14:47Z"
 ---
 ## What it is
 Enables monitoring and control of SwitchBot devices (temperature sensors, plugs, bots) via Claude Desktop or Home Assistant.

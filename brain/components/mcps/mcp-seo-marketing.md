@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T15:21:05Z"
 ---
 ## What it is
 Enables AI assistants to perform real-time SEO and marketing analysis, including keyword research, SERP analysis, backlink checking, and content optimization.

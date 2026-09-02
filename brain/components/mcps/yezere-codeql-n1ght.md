@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-08-16T18:03:00Z"
 ---
 ## What it is
 MCP server `CodeQL N1ght`, catalogued on PulseMCP. Integrates with CodeQL N1ght tool to provide automated Java application security analysis through environment setup, database creation from JAR/WAR/ZIP files, vulnerability scanning with customizable query packs, and direct command execution with parallel processing support.

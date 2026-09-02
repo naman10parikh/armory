@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T12:23:17Z"
 ---
 ## What it is
 Enables LLM agents to discover news sources, list articles, parse and extract article text, search news, and perform NLP analysis such as keyword extraction and summarization.

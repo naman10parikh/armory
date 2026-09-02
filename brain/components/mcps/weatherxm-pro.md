@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-30T13:23:45Z"
 ---
 ## What it is
 MCP server `WeatherXM PRO`, catalogued on PulseMCP. Integrates with WeatherXM PRO APIs to provide access to hyperlocal weather data, historical observations, and forecast performance metrics for location-specific analysis and planning.

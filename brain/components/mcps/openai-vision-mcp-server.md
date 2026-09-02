@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T08:59:45Z"
 ---
 ## What it is
 Enables image analysis via OpenAI-compatible vision APIs, supporting local files, URLs, and base64 inputs with intelligent tiling for high-resolution images. Provides a secure, configurable MCP stdio server for structured vision analysis.

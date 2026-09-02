@@ -8,10 +8,12 @@ source_url: https://github.com/aahl/mcp-notify
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-03-26T03:08:31Z"
 ---
 ## What it is
 MCP server `Notify`, catalogued on PulseMCP. Multi-platform notification delivery supporting WeChat, Telegram, DingTalk, Bark, Lark, Feishu, and more

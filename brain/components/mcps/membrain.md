@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T02:33:13Z"
 ---
 ## What it is
 A self-hosted memory ledger for AI agents. Enables agents to store, search, and share persistent memories over MCP, with a web UI and REST API.

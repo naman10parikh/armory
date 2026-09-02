@@ -8,10 +8,12 @@ source_url: https://github.com/allentcm/mcp-codebase-rag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-09-08T09:20:57Z"
 ---
 ## What it is
 MCP server `Codebase RAG`, catalogued on PulseMCP. Provides semantic codebase search and file retrieval using CocoIndex embeddings and PostgreSQL with pgvector for similarity search, enabling natural language queries to find relevant code snippets with similarity scores and line numbers.

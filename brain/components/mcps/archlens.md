@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T12:54:09Z"
 ---
 ## What it is
 Enables retrieval of structured architectural case study data for design research, supporting case browsing, filtering, and downloadable research packages through natural language.

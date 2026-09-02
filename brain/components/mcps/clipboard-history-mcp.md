@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T21:23:11Z"
 ---
 ## What it is
 Enables Claude to browse, search, and restore clipboard history with type classification, secret detection, and Touch ID-gated decryption.

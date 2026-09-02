@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-28T15:03:48Z"
 ---
 ## What it is
 A Model Context Protocol server for Slite, enabling AI assistants to interact with your Slite knowledge base through note management, search, and AI queries.

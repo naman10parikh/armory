@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-16T08:59:55Z"
 ---
 ## What it is
 Connects Claude or ChatGPT to Yandex Wordstat for keyword research, enabling frequency lookups, related phrase suggestions with noise filtering, and 24-month seasonality analysis directly in chat.

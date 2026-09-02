@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-11T20:32:07Z"
 ---
 ## What it is
 MCP server `Fastmail JMAP by adamisrael`, catalogued on PulseMCP. Searches and reads email via the Fastmail JMAP API with filtering by sender, subject, date, and attachments.

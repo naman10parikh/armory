@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T09:34:15Z"
 ---
 ## What it is
 Enables autonomous satellite agents to communicate and coordinate for orbital operations such as collision avoidance, maneuver planning, and mission execution.

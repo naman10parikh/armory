@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-18T09:36:35Z"
 ---
 ## What it is
 An MCP server that classifies Polymarket wallets as human or bot, scores their trading edge from 0–10, and streams current open positions.

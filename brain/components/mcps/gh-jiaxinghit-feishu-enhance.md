@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-18T16:50:26Z"
 ---
 ## What it is
 MCP server `Feishu/Lark Enhanced Messaging`, catalogued on PulseMCP. Monitors and processes Feishu/Lark messages with file upload, async tasks, and scheduled messaging.

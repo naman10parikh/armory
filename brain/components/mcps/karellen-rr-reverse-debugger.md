@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T23:25:45Z"
 ---
 ## What it is
 MCP server `rr Reverse Debugger`, catalogued on PulseMCP. Integrates Mozilla's rr record-and-replay debugging tool with GDB for bidirectional debugging with breakpoint management, state inspection, and checkpoint operations.

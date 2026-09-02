@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-25T16:18:37Z"
 ---
 ## What it is
 MCP server for security analysis using VirusTotal API, enabling AI assistants to analyze URLs, files, IP addresses, and domains with automatic relationship fetching.

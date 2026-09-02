@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2026-02-01T22:20:37Z"
 ---
 ## What it is
 MCP server to interact with Garmin Connect, enabling retrieval of health, activity, and device data through natural language.

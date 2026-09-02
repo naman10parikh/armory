@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-01T22:57:04Z"
 ---
 ## What it is
 MCP server `HiveClear`, catalogued on PulseMCP. Multi-agent settlement and clearing with validator consensus.

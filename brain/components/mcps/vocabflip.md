@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T15:30:54Z"
 ---
 ## What it is
 An MCP server for the vocabflip vocabulary learning app, providing tools to check daily progress, batch add new words, and query overall learning progress for English vocabulary study, especially for IP professionals.

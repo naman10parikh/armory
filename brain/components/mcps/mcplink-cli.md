@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-05T14:12:52Z"
 ---
 ## What it is
 Lightweight terminal MCP protocol conversion gateway engine that automatically converts any OpenAPI/Swagger REST API into MCP-compatible tools for AI coding assistants like Claude Code and Cursor.

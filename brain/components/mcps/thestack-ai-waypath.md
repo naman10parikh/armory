@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 4
+forks: 1
+pushed_at: "2026-06-30T03:02:41Z"
 ---
 ## What it is
 Local-first external brain CLI for coding agents. SQLite-backed context, graph-aware recall via FTS5 and RRF, and governed memory with explicit promote and review gates. Ships Codex and Claude Code host shims and a native MCP server.

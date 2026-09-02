@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T22:22:17Z"
 ---
 ## What it is
 A read-only Python MCP server for authorized website research, structured data extraction, downloadable-document analysis, and content auditing inside OpenCode. It crawls authorized public domains with safety constraints including robots.txt respect, SSRF defenses, bounded concurrency, and content-t

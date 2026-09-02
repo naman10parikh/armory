@@ -8,10 +8,12 @@ source_url: https://github.com/whypuss/ai-cdp-browser
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-28T10:50:46Z"
 ---
 ## What it is
 MCP server `Social Media Automation`, catalogued on PulseMCP. Social media automation for Facebook, Instagram, and Threads via Chrome DevTools Protocol.

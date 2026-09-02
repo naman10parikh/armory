@@ -8,10 +8,12 @@ source_url: https://github.com/fengin/image-gen-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 219
+stars: 229
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 30
+pushed_at: "2025-07-17T09:30:11Z"
 ---
 ## What it is
 MCP server `Image Gen (Jimeng AI)`, catalogued on PulseMCP. Accepts text descriptions, generates corresponding images, and offers image download and save functions.

@@ -8,10 +8,12 @@ source_url: https://github.com/maile456/mcp-chat
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-10T18:02:18Z"
 ---
 ## What it is
 MCP server `MCP Chat`, catalogued on PulseMCP. Persistent chat loop MCP server for IDE AI assistants with OpenAI and Anthropic API compatibility.

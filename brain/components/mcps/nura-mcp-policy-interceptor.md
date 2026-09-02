@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T09:27:56Z"
 ---
 ## What it is
 A governance and policy enforcement gateway for MCP servers that provides hard guardrails, dynamic parameter bounds, human-in-the-loop approvals, and audit telemetry.

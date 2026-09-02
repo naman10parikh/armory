@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T07:11:43Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to read and search Proton Mail messages through a locally running Proton Mail Bridge. It provides tools like list_folders, list_messages, search_messages, get_message, and get_attachment.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T00:05:13Z"
 ---
 ## What it is
 Provides 11 tools for stock research, including search, market history, financial statements, announcements, and data quality checks, with a local-first architecture using DuckDB and Parquet.

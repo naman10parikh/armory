@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T21:57:30Z"
 ---
 ## What it is
 Scan-as-a-Service for MCP servers. Wraps the compuute-scan static security scanner with HTTP and MCP endpoints to analyze public GitHub repos for MCP-specific vulnerabilities.

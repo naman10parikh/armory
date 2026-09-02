@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T05:11:24Z"
 ---
 ## What it is
 Enables AI assistants to explore and query SAP BW/4HANA modeling objects and metadata, such as InfoAreas, InfoObjects, ADSOs, CompositeProviders, and Queries.

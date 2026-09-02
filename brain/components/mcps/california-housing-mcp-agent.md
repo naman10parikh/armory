@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-14T17:53:49Z"
 ---
 ## What it is
 Enables California housing price predictions, batch scoring, and agent-based chat using a trained ML model served via MCP tools.

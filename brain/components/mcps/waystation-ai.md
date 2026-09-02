@@ -8,10 +8,12 @@ source_url: https://github.com/waystation-ai/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-09-10T06:42:53Z"
 ---
 ## What it is
 MCP server `WayStation`, catalogued on PulseMCP. Connects productivity tools like Monday, Asana, Notion, and Slack through a secure integration hub, enabling seamless access directly from chat interfaces without switching applications.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T15:39:00Z"
 ---
 ## What it is
 Enables management of GCP resources and integration with AI development tools via a stateless MCP server hosted on Cloud Run.

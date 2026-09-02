@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-28T17:53:40Z"
 ---
 ## What it is
 A simple MCP server for chatbot/human collaborative management of text content stored as markdown files with YAML frontmatter.

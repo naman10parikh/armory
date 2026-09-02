@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T08:34:57Z"
 ---
 ## What it is
 Manages patent application drafts via structured YAML and LaTeX sections, with tools for claims, figures, numerals, prior art, glossary, and export.

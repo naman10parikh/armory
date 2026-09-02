@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T18:34:25Z"
 ---
 ## What it is
 A local-first bridge for moving useful context between coding agents, indexing sessions and creating handoff packets for seamless agent switching.

@@ -8,11 +8,13 @@ source_url: https://github.com/doitian/google-task-ifttt-webhook-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-24T12:05:27Z"
 ---
 ## What it is
 MCP server running on Cloudflare Workers that exposes a create_google_task tool to send tasks to Google Tasks via IFTTT Maker webhook.

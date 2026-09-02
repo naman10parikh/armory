@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T10:55:08Z"
 ---
 ## What it is
 An MCP server that lets AI agents drive real mobile-app automation on connected devices, enabling natural-language test tasks, test case generation, and app/build management for Android and iOS.

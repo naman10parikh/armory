@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-29T10:17:45Z"
 ---
 ## What it is
 MCP server for Floors.live that lets AI assistants create events, design floorplans, manage guest lists, and run intelligent seating assignments.

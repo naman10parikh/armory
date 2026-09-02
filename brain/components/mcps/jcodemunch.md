@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T06:10:41Z"
 ---
 ## What it is
 Enables precise source code retrieval via tree-sitter AST parsing, cutting AI token costs by 86-99% by indexing codebases and fetching only needed symbols and structural queries (e.g., blast radius, importers) on demand.

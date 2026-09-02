@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:39:27Z"
 ---
 ## What it is
 Enables read-only on-chain analysis to spot trending and new memecoin pools, evaluate rug risk, and surface early buyer wallets across Solana, Base, and Ethereum.

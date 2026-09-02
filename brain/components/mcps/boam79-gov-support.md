@@ -8,10 +8,12 @@ source_url: https://github.com/boam79/gov_support_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-05-02T01:55:10Z"
 ---
 ## What it is
 MCP server `Korean Gov Support`, catalogued on PulseMCP. Search and manage South Korean government subsidy applications across Bizinfo, K-Startup, and SMEs24 with 12 tools for discovery, eligibility, and document preparation.

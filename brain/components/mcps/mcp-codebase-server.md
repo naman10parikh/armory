@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:49:18Z"
 ---
 ## What it is
 MCP server for semantic codebase navigation that builds an AST index of symbols, imports, and exports, providing AI agents with tools to search, explore, and understand code.

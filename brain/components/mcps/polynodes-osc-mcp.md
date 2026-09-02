@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-01T22:32:39Z"
 ---
 ## What it is
 MCP server for controlling PolyNodes spatial sonic synthesis via OSC, allowing AI assistants to adjust parameters through natural language.

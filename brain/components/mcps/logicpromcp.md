@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T16:41:05Z"
 ---
 ## What it is
 A local MCP server that bridges Logic Pro MIDI data via an AUv3 plugin, enabling reading, creating, and manipulating MIDI regions and tracks through tools like read_logic_track and create_midi_region.

@@ -8,10 +8,12 @@ source_url: https://github.com/tangivis/twitter-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-17T08:17:23Z"
 ---
 ## What it is
 MCP server `Twitter`, catalogued on PulseMCP. MCP server for Twitter/X interaction using browser cookie authentication, with 57 tools for tweets, timelines, DMs, communities, and article management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T03:07:16Z"
 ---
 ## What it is
 Classifies message complexity to automatically select the appropriate Claude effort level (fast, think, ultrathink) for efficient reasoning.

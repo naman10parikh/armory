@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 89
+forks: 20
+pushed_at: "2025-06-26T04:55:26Z"
 ---
 ## What it is
 TSgram: Telegram + Claude with local workspace access on your phone in typescript. Read, write, and vibe code on the go!

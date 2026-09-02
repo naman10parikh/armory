@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 6
+stars: 7
+forks: 1
+pushed_at: "2026-08-23T20:52:55Z"
 ---
 ## What it is
 Durable hybrid memory for AI agents. Combines vector search, BM25, temporal retrieval, and optional Memgraph knowledge graph via reciprocal rank fusion. 6 MCP tools: health, search, answer, feedback, graph_query, graph_add_triple. Self-hosted with Qdrant backend. 82.5% strict accuracy on LoCoMo benchmark. `pip install 'mnemostack[mcp]'`

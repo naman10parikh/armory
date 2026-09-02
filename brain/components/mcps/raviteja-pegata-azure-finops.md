@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-25T22:51:41Z"
 ---
 ## What it is
 MCP server `Azure FinOps`, catalogued on PulseMCP. Azure cost, budgets, forecasting, and optimization tools for AI coding assistants.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T08:08:31Z"
 ---
 ## What it is
 An MCP server that turns the US Code of Federal Regulations into an agent-navigable citation graph, enabling traversal of regulatory references and detection of stale citations via structured tools.

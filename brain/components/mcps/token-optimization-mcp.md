@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-10T05:09:00Z"
 ---
 ## What it is
 A fully offline MCP server for token estimation, prompt compression, model routing, and semantic caching to optimize LLM usage costs and efficiency.

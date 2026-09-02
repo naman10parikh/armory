@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T02:22:25Z"
 ---
 ## What it is
 This MCP server provides League of Legends math and cognitive-readiness tools for AI agents, including MMR estimation, climb projection, KDA calculation, and sleep/reaction time research. It requires no API key or network calls, as every tool is a pure function with visible arithmetic.

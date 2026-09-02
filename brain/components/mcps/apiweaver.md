@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-15T03:29:59Z"
 ---
 ## What it is
 Dynamically creates MCP servers from web API configurations, enabling AI assistants to interact with any REST API, GraphQL endpoint, or web service.

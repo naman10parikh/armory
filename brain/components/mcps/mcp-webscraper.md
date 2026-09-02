@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-24T16:41:54Z"
 ---
 ## What it is
 Enables Claude Desktop to perform advanced web scraping and crawling operations, extracting structured data, analyzing website architectures, and discovering content relationships through natural conversation.

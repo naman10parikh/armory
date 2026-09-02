@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-20T07:06:25Z"
 ---
 ## What it is
 MCP server `npm Package Manager`, catalogued on PulseMCP. Provides npm package management capabilities including publishing, versioning, dependency management, security audits, registry searches, and configuration control directly from AI assistants.

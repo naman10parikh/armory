@@ -8,10 +8,12 @@ source_url: https://github.com/domdomegg/defuddle-fetch-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-08-22T01:06:36Z"
 ---
 ## What it is
 MCP server `Defuddle Fetch`, catalogued on PulseMCP. Fetch web content with enhanced extraction using Defuddle

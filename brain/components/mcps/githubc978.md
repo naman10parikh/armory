@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-09T18:55:09Z"
 ---
 ## What it is
 MCP server `GitHub`, catalogued on PulseMCP. Enables AI interaction with GitHub repositories for managing issues, pull requests, code scanning alerts, and file contents through both read-only and read-write operations.

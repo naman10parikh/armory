@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T12:34:05Z"
 ---
 ## What it is
 Local multimodal MCP server for vision, document, audio, video, and GUI automation, all processed locally on Apple Silicon for privacy and security.

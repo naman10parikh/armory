@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-03T15:23:18Z"
 ---
 ## What it is
 An MCP server providing Jyotish, Panchang, and Sanatan Dharma knowledge tools including panchang computation, festival calendars, muhurat windows, Jyotish concept explanations, and a source-grounded Sanatan encyclopedia with citations and provenance metadata.

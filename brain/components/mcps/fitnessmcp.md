@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-29T22:31:28Z"
 ---
 ## What it is
 A unified MCP server that connects AI assistants to multiple fitness services (Hevy, Strava, Cronometer, Intervals.icu) through a single secure endpoint, enabling workout, nutrition, and activity data access.

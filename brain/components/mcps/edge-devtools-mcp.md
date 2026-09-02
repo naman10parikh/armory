@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-10-24T15:06:31Z"
 ---
 ## What it is
 Enables control of Microsoft Edge browser via the DevTools protocol, supporting page navigation, screenshots, DOM manipulation, JavaScript execution, and network monitoring.

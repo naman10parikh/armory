@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:10:03Z"
 ---
 ## What it is
 Sovereign, MIT-licensed MCP server wrapping the fallpair SDK for professional-service workflow tools, enabling discoverable, cryptographically signed operations.

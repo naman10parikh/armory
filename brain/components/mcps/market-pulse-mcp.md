@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T05:03:59Z"
 ---
 ## What it is
 Provides live cryptocurrency market data including spot prices, OHLCV candles, order books, funding rates, and technical indicators via public exchange APIs.

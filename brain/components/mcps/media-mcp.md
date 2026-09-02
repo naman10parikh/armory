@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T22:46:26Z"
 ---
 ## What it is
 An MCP server for AI-powered media generation using Google Gemini, enabling creation of images, videos, music, and speech directly from AI agents.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T03:28:55Z"
 ---
 ## What it is
 Enables full CRUD operations on Zentao entities like requirements, bugs, tasks, test cases, projects, and products through natural language.

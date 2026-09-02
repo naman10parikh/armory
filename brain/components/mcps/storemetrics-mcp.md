@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T15:24:16Z"
 ---
 ## What it is
 Real-time e-commerce analytics: visitors, Shopify/Stripe revenue attribution, funnels, and a live visitor feed. Agents can self-register a website with one no-auth POST and get a site-scoped read-only MCP token back.

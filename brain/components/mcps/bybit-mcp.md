@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-04-16T10:23:04Z"
 ---
 ## What it is
 MCP server for Bybit exchange enabling 246 tools for trading, market data, account management, and more via natural language.

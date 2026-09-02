@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:11Z"
 ---
 ## What it is
 MCP server `Fact Checker`, catalogued on PulseMCP. Verifies claims by searching the web for supporting or contradicting evidence, returning source citations and a verdict.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T16:17:26Z"
 ---
 ## What it is
 Deterministic JSON validation and repair for AI agents. Validates, repairs, schema-checks, and diffs JSON so long-running agents don't corrupt their session state with malformed writes.

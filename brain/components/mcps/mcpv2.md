@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T18:07:46Z"
 ---
 ## What it is
 A peer-to-peer protocol for AI agents to call tools on each other over HTTP, with cross-provider translation, file transfer, batching, rate limiting, and audit logging.

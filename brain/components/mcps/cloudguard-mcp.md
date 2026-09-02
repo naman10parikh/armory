@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T16:34:49Z"
 ---
 ## What it is
 A read-only MCP server for inspecting AWS resources, detecting misconfigurations, and estimating costs across EC2, S3, and IAM, enabling agents to safely query and analyze cloud infrastructure.

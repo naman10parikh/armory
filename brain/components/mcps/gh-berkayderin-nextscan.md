@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-01T21:23:11Z"
 ---
 ## What it is
 MCP server `NextScan`, catalogued on PulseMCP. Scans Next.js projects and returns a compact summary of routes, API endpoints, schema, and security issues.

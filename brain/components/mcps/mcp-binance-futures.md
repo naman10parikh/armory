@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T17:45:17Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that enables any compatible AI model to autonomously trade Binance USDT-margined perpetual futures. Includes a separate paper-trading strategy lab that requires no credentials.

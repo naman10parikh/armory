@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-10-29T21:38:52Z"
 ---
 ## What it is
 MCP server `Gel Database`, catalogued on PulseMCP. Integrates with Gel databases to enable automated schema discovery, query validation, and execution of EdgeQL and TypeScript queries for database interactions and management tasks.

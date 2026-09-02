@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T15:01:27Z"
 ---
 ## What it is
 A server for automated crawling of academic papers and GitHub repositories, downloading PDFs, extracting content, AI-generating Gumroad product descriptions, and publishing to Gumroad.

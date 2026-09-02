@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T09:52:08Z"
 ---
 ## What it is
 A local-first MCP server for building and querying PDF knowledge bases. It indexes PDFs into DuckDB and exposes evidence-grounded retrieval tools to separate corpus-backed answers from independent reasoning.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-15T23:53:21Z"
 ---
 ## What it is
 Bidirectional CSV ↔️ JSON ↔️ Markdown transformer exposed as an HTTP-based MCP server, enabling format conversion through natural language.

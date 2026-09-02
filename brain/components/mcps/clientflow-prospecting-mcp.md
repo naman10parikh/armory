@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T19:06:35Z"
 ---
 ## What it is
 Enables automatic company search via Bright Data and mass email sending through Gmail, with preview and confirmation before sending.

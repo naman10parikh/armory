@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:46:42Z"
 ---
 ## What it is
 MCP server that enables consulting negative debt certificates (Certidão Negativa de Débitos) from the municipal government of Mundo Novo, MS, using an official source with natural language. It is read-only, has a single tool, and operates on a prepaid per-query basis.

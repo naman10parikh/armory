@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T07:32:56Z"
 ---
 ## What it is
 Provides real-time fuel prices at gas stations in Spain using the government's public API. Enables users to find the cheapest fuel in a municipality or list stations sorted by price.

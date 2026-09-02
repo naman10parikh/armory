@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T02:41:04Z"
 ---
 ## What it is
 Turns warehouse/lakehouse tables into a governed entity-relationship knowledge graph exposed through MCP, enabling AI agents to answer multi-table business questions without hard-coded SQL or large schema prompts.

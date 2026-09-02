@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T04:17:56Z"
 ---
 ## What it is
 MCP server that answers questions about creator marketing, influencer pricing, and app growth using a curated corpus of operator quotes with links, and explicitly flags when evidence is thin or absent.

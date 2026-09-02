@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T00:32:52Z"
 ---
 ## What it is
 Enables code intelligence through semantic, structural, graph, and text search across indexed repositories, allowing AI agents to quickly locate the exact code they need.

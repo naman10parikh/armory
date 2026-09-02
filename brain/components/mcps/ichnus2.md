@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T06:28:13Z"
 ---
 ## What it is
 Enables bug localization by analyzing a repo and bug report with an ant-swarm LLM, returning a HOT/WARM/COLD heatmap and JSON audit trail via MCP.

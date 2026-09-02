@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-24T05:31:51Z"
 ---
 ## What it is
 Enables natural language control of Cobalt Strike (version 4.8) via Claude, supporting beacon listing, command execution, payload generation, and listener management without a GUI.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-24T16:10:14Z"
 ---
 ## What it is
 An MCP server that integrates with the Beehiiv newsletter platform to retrieve subscriber information with filtering, pagination, and optional expanded data.

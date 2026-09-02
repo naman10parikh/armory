@@ -8,10 +8,12 @@ source_url: https://github.com/mcparmory/registry
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-05-12T12:55:57Z"
 ---
 ## What it is
 MCP server `Algolia Search`, catalogued on PulseMCP. MCP server for Algolia's search and indexing API — generated from the official OpenAPI spec and tested against the live API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-22T20:02:48Z"
 ---
 ## What it is
 Token-efficient GitLab MCP server that delivers 167 tools through 3 meta-tools with progressive disclosure, field projection, server-side file trimming, and keyset pagination for agent context budgets.

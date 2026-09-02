@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T05:54:48Z"
 ---
 ## What it is
 Provides read-only access to finished meeting transcripts for AI assistants like Claude Code or Codex, enabling them to answer questions or draft summaries based on the transcriptions.

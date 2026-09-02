@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:28:36Z"
 ---
 ## What it is
 MCP server `Canada Open Data`, catalogued on PulseMCP. Searches Canada's national open data catalogue via the CKAN API on open.canada.ca.

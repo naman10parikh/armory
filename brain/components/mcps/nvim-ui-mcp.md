@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T15:46:33Z"
 ---
 ## What it is
 An MCP server that lets AI agents see, act on, and verify the rendered Neovim UI, like a Playwright for Neovim. It provides tools to launch/attach to Neovim, observe the screen, send input, and wait for conditions.

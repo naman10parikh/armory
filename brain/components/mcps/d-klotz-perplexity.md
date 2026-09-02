@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-02-18T09:24:46Z"
 ---
 ## What it is
 MCP server `Perplexity`, catalogued on PulseMCP. Provides AI assistants with direct access to Perplexity's web search capabilities, returning AI-generated answers with source citations across multiple Perplexity models.

@@ -8,11 +8,13 @@ source_url: https://github.com/SonnyLabs/EU_AI_ACT_MCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-17T21:40:12Z"
 ---
 ## What it is
 Provides automated EU AI Act compliance tools, including risk classification, role determination, transparency disclosures, content watermarking, deepfake labeling, and security threat detection.

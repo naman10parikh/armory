@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T01:12:52Z"
 ---
 ## What it is
 Connects AI agents to Modal.com infrastructure, allowing management of deployments, apps, containers, volumes, secrets, and environments via MCP tools.

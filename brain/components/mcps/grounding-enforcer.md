@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-05T16:33:13Z"
 ---
 ## What it is
 A standalone MCP server that validates model output against retrieved sources. It flags any claim, statistic, attribution, quote, or URL that cannot be traced back to a real source.

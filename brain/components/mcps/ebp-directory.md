@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-06T18:48:27Z"
 ---
 ## What it is
 MCP server for querying a cross-referenced directory of evidence-based therapies and interventions, enabling search by query, tier, problem, population, modality, and registry.

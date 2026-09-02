@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-27T16:06:58Z"
 ---
 ## What it is
 Provides financial data and market filings via Streamable HTTP tools. Enables AI agents to resolve equity entities, fetch SEC filings, compare institutional holders, and export finance receipts.

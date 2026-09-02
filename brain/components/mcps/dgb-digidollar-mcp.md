@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T14:30:37Z"
 ---
 ## What it is
 Enables AI agents to pay for services in DigiByte/DigiDollar on testnet via the x402 pay-and-retry pattern, with spend limits and security policies.

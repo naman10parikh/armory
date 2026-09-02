@@ -8,10 +8,12 @@ source_url: https://github.com/mcpware/logoloom
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-23T20:36:05Z"
 ---
 ## What it is
 MCP server `LogoLoom by mcpware`, catalogued on PulseMCP. Logo design and full brand kit generation with SVG creation, text-to-path conversion, and multi-format export.

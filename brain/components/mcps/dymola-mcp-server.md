@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-14T14:25:00Z"
 ---
 ## What it is
 Enables AI agents to load, translate, simulate, and analyze Modelica models in Dymola via the Model Context Protocol.

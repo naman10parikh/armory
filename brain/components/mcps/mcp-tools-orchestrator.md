@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-31T19:35:59Z"
 ---
 ## What it is
 A meta-MCP server that orchestrates tools from multiple MCP servers, enabling complex Python workflows with loops and conditionals.

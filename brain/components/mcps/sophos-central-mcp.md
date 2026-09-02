@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T12:24:55Z"
 ---
 ## What it is
 Read-only MCP server for Sophos Central that provides endpoint health, firewall inventory, switch settings, and email quarantine inspection through natural language queries.

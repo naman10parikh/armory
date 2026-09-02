@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T04:24:52Z"
 ---
 ## What it is
 Build Power BI dashboards from your data, straight from Claude Code (or any MCP client).

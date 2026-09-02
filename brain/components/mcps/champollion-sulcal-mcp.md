@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T21:12:17Z"
 ---
 ## What it is
 Exposes each stage of the Champollion sulcal embedding pipeline as MCP tools, enabling agents to run, monitor, and debug the pipeline without manual shell commands.

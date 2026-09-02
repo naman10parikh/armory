@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-25T11:00:11Z"
 ---
 ## What it is
 MCP server `Notes`, catalogued on PulseMCP. Manages markdown notes in a specified directory with tools for creating, reading, updating, and listing files while tracking timestamps and maintaining UTF-8 encoding

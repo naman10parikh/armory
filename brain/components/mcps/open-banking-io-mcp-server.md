@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T07:14:02Z"
 ---
 ## What it is
 A read-only MCP server for the open-banking.io PSD2 API that lets AI agents query personal bank balances and transactions via natural language, with zero-knowledge encryption ensuring all sensitive data is decrypted in-process and never exposed to third parties.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T23:22:04Z"
 ---
 ## What it is
 Production-ready, zero-knowledge AI DevOps deployment, infrastructure provisioning, self-healing execution, and persistent documentation engine for VPS servers.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T04:09:38Z"
 ---
 ## What it is
 An MCP server that lets Claude query, search, and explore OpenAPI specifications from local files. Supports OpenAPI 3.x and Swagger 2.0.

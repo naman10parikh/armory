@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-03T10:49:10Z"
 ---
 ## What it is
 MCP server `Spring JVM Diagnostics`, catalogued on PulseMCP. Diagnoses performance problems in Java Spring Boot applications with JVM metrics and thread analysis.

@@ -8,10 +8,12 @@ source_url: https://github.com/kapillamba4/code-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-05-20T14:01:55Z"
 ---
 ## What it is
 MCP server `Code Memory`, catalogued on PulseMCP. Local semantic code search with Git history that works offline without API keys.

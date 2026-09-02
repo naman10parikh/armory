@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-04T23:36:53Z"
 ---
 ## What it is
 Production-ready MCP server for BigQuery that translates natural language questions to SQL, executes queries securely, and delivers results via stdio or HTTP for integration with GitHub Copilot, Power BI, and web applications.

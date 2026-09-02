@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-03T04:52:05Z"
 ---
 ## What it is
 MCP server `Finance Data`, catalogued on PulseMCP. Read-only financial market data from Yahoo Finance, Coinbase, and Polymarket for stock quotes, cryptocurrency prices, and prediction markets.

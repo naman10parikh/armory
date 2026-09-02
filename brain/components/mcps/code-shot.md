@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T12:13:11Z"
 ---
 ## What it is
 Renders source code as beautiful SVG or PNG images with syntax highlighting, line numbers, and diff support. Ideal for AI agents to present code visually to humans or for sharing snippets.

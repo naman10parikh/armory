@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T12:12:53Z"
 ---
 ## What it is
 A real, runnable MCP server exposing three read-only tools (inventory, pricing, hours) with a CLI agent that lets Claude discover and call them.

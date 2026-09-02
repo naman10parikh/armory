@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-05-16T07:09:25Z"
 ---
 ## What it is
 Enables AI assistants to analyze GitHub repositories, including fetching repository details, searching, and retrieving README content.

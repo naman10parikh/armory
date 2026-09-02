@@ -12,6 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-04-15T16:09:07Z"
 ---
 ## What it is
 MCP server `Korean Spell Checker (Naver)`, catalogued on PulseMCP. Integrates with Naver's spelling service to automatically correct grammatical errors, typos, and linguistic issues in Korean text.

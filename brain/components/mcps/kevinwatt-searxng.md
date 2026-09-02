@@ -8,10 +8,12 @@ source_url: https://github.com/kevinwatt/mcp-server-searxng
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-09-01T05:47:14Z"
 ---
 ## What it is
 MCP server `SearXNG Meta Search`, catalogued on PulseMCP. Integrates SearXNG's meta-search capabilities to provide privacy-focused, customizable search results from multiple engines for diverse information retrieval scenarios.

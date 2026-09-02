@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-27T17:48:28Z"
 ---
 ## What it is
 An MCP server that provides access to 400+ AI models via OpenRouter, enabling chat, comparison, and document analysis through Claude.

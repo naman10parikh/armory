@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T12:15:11Z"
 ---
 ## What it is
 Captures code modifications via AST analysis, generates reusable rules, and injects them into AI agent context with version audit and token-budgeted rule retrieval.

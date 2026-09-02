@@ -8,10 +8,12 @@ source_url: https://github.com/thetenzinwoser/recall-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-14T23:14:57Z"
 ---
 ## What it is
 MCP server `Recall`, catalogued on PulseMCP. Local semantic search across markdown documents and Granola meeting transcripts.

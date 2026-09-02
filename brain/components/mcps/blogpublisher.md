@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-29T06:26:59Z"
 ---
 ## What it is
 Multi-platform blog publishing tool that enables users to save, schedule, and publish SEO-optimized articles to platforms like websites, LinkedIn, Twitter, and Substack directly from Claude.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:29:27Z"
 ---
 ## What it is
 MCP server `tldr-pages`, catalogued on PulseMCP. Serves tldr-pages community simplified man pages with 24-hour caching.

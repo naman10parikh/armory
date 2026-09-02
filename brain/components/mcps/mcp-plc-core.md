@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T17:45:09Z"
 ---
 ## What it is
 Universal MCP server for industrial PLC communication, enabling AI agents to read sensors, alarms, status, setpoints, and write setpoints via adapters for Modbus, S7, or custom PLCs.

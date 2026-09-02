@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T17:07:14Z"
 ---
 ## What it is
 Keyless access to Flickr public feeds, enabling retrieval of recent public uploads, user photos, and group photos via MCP tools.

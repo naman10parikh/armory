@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-03T08:15:02Z"
 ---
 ## What it is
 Enables interaction with biometrics AI features, including risk management, transparency, bias detection, and compliance tracking, all compliant with the EU AI Act.

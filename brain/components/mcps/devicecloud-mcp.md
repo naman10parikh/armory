@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-25T14:47:48Z"
 ---
 ## What it is
 Triage failing DeviceCloud runs by pulling failure evidence (screenshots, logs, analytics) into your editor so an AI assistant can diagnose and fix issues without opening the dashboard.

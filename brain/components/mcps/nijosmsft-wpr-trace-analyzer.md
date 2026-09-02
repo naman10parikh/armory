@@ -8,10 +8,12 @@ source_url: https://github.com/nijosmsft/wpr-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-08-28T00:58:36Z"
 ---
 ## What it is
 MCP server `WPR Trace Analyzer`, catalogued on PulseMCP. Analyzes Windows WPR/ETW performance traces via xperf.exe, exposing CPU utilization, call stacks, DPC/ISR latency, spinlocks, and disk I/O through natural language queries.

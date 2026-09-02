@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T13:48:27Z"
 ---
 ## What it is
 A sovereign, AI-driven pedagogical and spaced-repetition skills development MCP server supporting progressive syllabi, Bloom's Taxonomy, and secure LMS handshakes.

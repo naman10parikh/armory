@@ -8,10 +8,12 @@ source_url: https://github.com/theanvora/swift-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-09T10:37:59Z"
 ---
 ## What it is
 MCP server `Swift SourceKit-LSP`, catalogued on PulseMCP. Integrates with Apple's SourceKit-LSP to provide advanced static analysis and architectural insights for Swift codebases, offering Protocol-Oriented Programming assessment, architecture pattern detection, project memory with pattern learning, and automated documentation generation for comprehensive code quality evaluation.

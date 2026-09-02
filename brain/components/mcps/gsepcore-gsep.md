@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-24T09:45:57Z"
 ---
 ## What it is
 MCP server `GSEP`, catalogued on PulseMCP. AI agent security server with firewall, immune system, and action guard layers.

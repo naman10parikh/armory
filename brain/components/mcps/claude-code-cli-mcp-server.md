@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-09T01:05:17Z"
 ---
 ## What it is
 Provides a secure interface to run Anthropic's Claude Code CLI as an MCP server, enabling task execution, persistent memory, and integration with MCP-enabled IDEs.

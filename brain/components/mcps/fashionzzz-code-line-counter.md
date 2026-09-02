@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-11T12:02:48Z"
 ---
 ## What it is
 MCP server `Code Line Counter`, catalogued on PulseMCP. Tracks code line counts across different file types with persistent timestamped storage, enabling developers to monitor codebase growth and project metrics over time.

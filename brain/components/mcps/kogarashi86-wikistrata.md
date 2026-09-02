@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-04-20T04:05:04Z"
 ---
 ## What it is
 MCP server `WikiStrata`, catalogued on PulseMCP. Ingest Confluence page trees and rebuild them as structured Markdown wikis with full-text search and MCP server access.

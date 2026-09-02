@@ -8,11 +8,13 @@ source_url: https://github.com/BerkKilicoglu/google-health-fitbit-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-04T09:03:11Z"
 ---
 ## What it is
 An MCP server that locally authenticates with Google Health API v4 and provides read-only access to Fitbit, Pixel Watch, and other health data for AI agents.

@@ -8,10 +8,12 @@ source_url: https://github.com/xodn348/readhn
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-03-11T00:31:07Z"
 ---
 ## What it is
 MCP server `ReadHN`, catalogued on PulseMCP. Filters Hacker News content with trust-based expert ranking and explainable quality signals.

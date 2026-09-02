@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T16:12:19Z"
 ---
 ## What it is
 Acts as a bridge between Pickaxe Agents and Supabase PostgreSQL, exposing 15 MCP tools for the deathcare ecosystem.

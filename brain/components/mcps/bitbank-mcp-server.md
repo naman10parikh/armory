@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-04-06T03:31:36Z"
 ---
 ## What it is
 MCP server for bitbank cryptocurrency exchange enabling ticker, candlestick, order book, and transaction data retrieval.

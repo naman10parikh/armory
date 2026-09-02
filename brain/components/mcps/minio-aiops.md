@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T14:22:08Z"
 ---
 ## What it is
 Governed MinIO object-storage operations — capacity, exposure-surface audit, lifecycle, and healing RCA, with guarded bucket writes, unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.

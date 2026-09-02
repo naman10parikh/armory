@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T05:21:47Z"
 ---
 ## What it is
 An MCP server that gives AI agents clean, token-efficient access to US civic & property data — geocoding, census tracts, Opportunity Zones, ACS demographics, and FEMA flood zones — sourced entirely from free federal open data.

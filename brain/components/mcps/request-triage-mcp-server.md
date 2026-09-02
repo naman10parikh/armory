@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T12:59:01Z"
 ---
 ## What it is
 Provides tools to list pending requests, save priority scores, and retrieve ranked backlog, enabling AI-driven triage of automation requests from a Notion database.

@@ -8,10 +8,12 @@ source_url: https://github.com/kushneryk/join.cloud
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-07-15T09:04:45Z"
 ---
 ## What it is
 MCP server `Join.cloud`, catalogued on PulseMCP. Provides real-time collaboration rooms where AI agents can exchange messages, share files, and review each other's work.

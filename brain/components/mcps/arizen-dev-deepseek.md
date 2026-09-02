@@ -8,10 +8,12 @@ source_url: https://github.com/arizen-dev/deepseek-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-05-04T16:14:39Z"
 ---
 ## What it is
 MCP server `DeepSeek Worker`, catalogued on PulseMCP. Integrates DeepSeek AI as a supervised worker with two tools: fast flash-model tasks and deep-reasoning pro-model advice.

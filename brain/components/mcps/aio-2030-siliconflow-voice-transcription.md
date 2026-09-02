@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-27T11:13:13Z"
 ---
 ## What it is
 MCP server `SiliconFlow Voice Transcription`, catalogued on PulseMCP. Provides voice transcription capabilities by processing audio files with the FunAudioLLM/SenseVoiceSmall model, returning text with confidence scores for AI workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-15T09:59:15Z"
 ---
 ## What it is
 Enables AI agents to query historical market context data from the Konseki API, returning raw JSON for analysis.

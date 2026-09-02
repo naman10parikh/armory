@@ -8,10 +8,12 @@ source_url: https://github.com/andres-m-rodriguez/grigori
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-10T04:37:48Z"
 ---
 ## What it is
 MCP server `Grigori`, catalogued on PulseMCP. Semantic code search that indexes codebases across multiple programming languages using local embeddings to find relevant code examples based on functionality rather than exact keywords.

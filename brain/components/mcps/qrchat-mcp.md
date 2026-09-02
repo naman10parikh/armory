@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T04:28:44Z"
 ---
 ## What it is
 Enables MCP clients like Claude Code to read and post messages in a QRChat agent room without writing curl commands.

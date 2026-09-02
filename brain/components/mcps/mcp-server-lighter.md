@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-08-02T15:32:53Z"
 ---
 ## What it is
 Exposes Lighter DEX data (volume, points, rank, liquidity, airdrop eligibility) as MCP tools, letting LLM agents query wallet farming stats in natural language. Read-only, no keys required, works with Claude, Cursor, and Cline.

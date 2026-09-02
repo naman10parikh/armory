@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-05-27T05:53:42Z"
 ---
 ## What it is
 MCP server `OKX DEX`, catalogued on PulseMCP. Integrates with OKX's decentralized exchange and cross-chain bridge to enable token swapping, liquidity management, price quotes, and cross-chain transfers across multiple blockchains including Solana.

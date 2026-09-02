@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T21:22:16Z"
 ---
 ## What it is
 an actor pulls Zillow listings enriched with agent/broker contact info, full price-history timelines, 20yr+ tax history, foreclosure/distress flags, schools, and the resoFacts long tail (heating/cooling/construction).

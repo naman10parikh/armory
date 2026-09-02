@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-20T12:32:49Z"
 ---
 ## What it is
 A local MCP server that provides tools for AI coding agents to execute, evaluate, and diff regression tests for LLM agents.

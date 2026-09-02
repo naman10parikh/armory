@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, experimental-implementations]
+forks: 0
+pushed_at: "2026-06-09T12:53:49Z"
 ---
 ## What it is
 Experimental A2A implementation

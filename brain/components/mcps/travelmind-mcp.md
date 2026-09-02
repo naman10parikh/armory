@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T02:50:53Z"
 ---
 ## What it is
 MCP server for multi-agent travel planning, orchestrating parallel expert calls to generate structured itineraries and persist them to SQLite.

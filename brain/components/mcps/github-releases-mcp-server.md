@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-26T17:12:14Z"
 ---
 ## What it is
 Provides tools for accessing, comparing, and analyzing GitHub repository releases with rich formatting and detailed information.

@@ -12,6 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-02-20T01:53:01Z"
 ---
 ## What it is
 MCP server `Gemini Research`, catalogued on PulseMCP. Provides real-time web research and URL summarization powered by Gemini 2.5 Flash with native Google Search grounding.

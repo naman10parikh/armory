@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-02T18:23:48Z"
 ---
 ## What it is
 A multi-service MCP server for Cloudflare Workers that enables managing Gigalixir apps, querying Turso databases, and handling GitHub repositories through natural language.

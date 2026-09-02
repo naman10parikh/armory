@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-17T06:10:58Z"
 ---
 ## What it is
 Generates API documentation in Confluence from Swagger/OpenAPI specs or NestJS controller files, including automatic Postman collection generation.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:57Z"
 ---
 ## What it is
 MCP server `Regex Generator`, catalogued on PulseMCP. Test, validate and explain regular expressions with match highlighting. x402 micropayment.

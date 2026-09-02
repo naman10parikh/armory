@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T11:17:35Z"
 ---
 ## What it is
 MCP server for complyeah that enables AI assistants to list domains and scans, read findings, and start external penetration tests through the complyeah API.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T19:03:55Z"
 ---
 ## What it is
 Give your AI agent access to the curated StackFiesta catalog of AI tools for game development.

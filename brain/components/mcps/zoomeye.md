@@ -8,10 +8,12 @@ source_url: https://github.com/zoomeye-ai/mcp_zoomeye
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 18
+pushed_at: "2025-11-27T01:39:56Z"
 ---
 ## What it is
 MCP server `ZoomEye`, catalogued on PulseMCP. Integrates with ZoomEye API to enable network asset reconnaissance through specialized search tools, supporting dork queries, IP filtering, and field selection with built-in caching and error handling for cybersecurity workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-03-30T00:23:57Z"
 ---
 ## What it is
 A Model Context Protocol server that provides AI assistants with comprehensive access to n8n node documentation, properties, and operations, enabling them to understand and work with n8n's 525+ workflow automation nodes.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T19:54:24Z"
 ---
 ## What it is
 Provides AI agents with offline access to OPC UA companion specification types, dependencies, and engineering units for industrial modeling.

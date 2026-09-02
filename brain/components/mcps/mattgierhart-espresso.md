@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-18T22:14:52Z"
 ---
 ## What it is
 MCP server `Espresso Cafe Finder`, catalogued on PulseMCP. Find specialty espresso cafes worldwide using curated data and transparent quality scoring.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T16:18:59Z"
 ---
 ## What it is
 A local MCP service for safely preparing, validating, and executing multi-platform social media auto-publishing, with dry-run mode and real adapter for Douyin.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-13T05:53:49Z"
 ---
 ## What it is
 Enables AI agents to access Thomson MO5 technical documentation, perform semantic search, and use build tools for MO5 development.

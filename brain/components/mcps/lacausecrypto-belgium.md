@@ -8,10 +8,12 @@ source_url: https://github.com/lacausecrypto/mcp-belgium
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-07-04T11:43:48Z"
 ---
 ## What it is
 MCP server `Belgium Open Data`, catalogued on PulseMCP. Belgian public data aggregator covering transport, statistics, open data, and geospatial services.

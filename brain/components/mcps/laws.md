@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T12:14:49Z"
 ---
 ## What it is
 Provides local, offline semantic search across 24 Russian Federation legal codes using natural-language queries, with tools to retrieve full articles by identifier and list available codes.

@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-17T10:03:19Z"
 ---
 ## What it is
 MCP server `Feedback Loop`, catalogued on PulseMCP. Provides a human-in-the-loop feedback collection system through an on-demand Electron GUI that spawns draggable windows with customizable quick feedback options, free-form text input, and keyboard shortcuts for gathering structured user input during development workflows.

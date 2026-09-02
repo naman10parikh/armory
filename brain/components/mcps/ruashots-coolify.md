@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-01-08T19:23:25Z"
 ---
 ## What it is
 MCP server `Coolify`, catalogued on PulseMCP. Integrates with Coolify's self-hosted PaaS platform to manage applications, databases, services, servers, and deployments through Git repositories, Docker images, environment variables, and real-time logs.

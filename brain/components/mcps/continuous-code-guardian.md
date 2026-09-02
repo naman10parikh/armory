@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T22:59:37Z"
 ---
 ## What it is
 AI-powered continuous code assistant for Cursor, VS Code, Antigravity, and Claude Code via MCP, providing tools for code review, testing, documentation, and quality analysis.

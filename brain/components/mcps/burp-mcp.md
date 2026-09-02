@@ -8,11 +8,13 @@ source_url: https://github.com/nguyenthdat/burp-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T21:54:57Z"
 ---
 ## What it is
 Exposes Burp Suite operations through a local authenticated HTTP server and an MCP stdio bridge, enabling tools like burp_proxy_history via MCP.

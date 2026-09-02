@@ -8,10 +8,12 @@ source_url: https://github.com/octomind-dev/octomind-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-07-01T15:48:19Z"
 ---
 ## What it is
 MCP server `Octomind (E2E Test Automation)`, catalogued on PulseMCP. Enables AI-driven test automation through the Octomind platform for creating, executing, and analyzing end-to-end tests without leaving your development environment.

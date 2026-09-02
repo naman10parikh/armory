@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-04T17:21:18Z"
 ---
 ## What it is
 Enables AI assistants to execute security testing tools on a Kali Linux machine over SSH, including reconnaissance, web app scanning, and static/dynamic analysis.

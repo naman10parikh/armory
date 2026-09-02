@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-06-28T08:51:50Z"
 ---
 ## What it is
 Provides text-to-speech functionality via VoiceVox, enabling Claude to generate spoken audio from text using various voices.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-15T06:39:55Z"
 ---
 ## What it is
 Meet.bot is AI-native scheduling for people and agents. Check real calendar availability and book meetings on Google and Microsoft calendars through scheduling pages — and pay per meeting booked, not per user or seat. Actions: Book Meeting, Find Slots, Get Scheduling Page Info.

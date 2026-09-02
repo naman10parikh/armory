@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-28T02:32:00Z"
 ---
 ## What it is
 The MCP server provides tools for entity extraction, query refinement, and relevance checking to enhance RAG applications by integrating with OpenAI and Gemini.

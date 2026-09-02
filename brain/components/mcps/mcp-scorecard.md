@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-29T11:09:22Z"
 ---
 ## What it is
 Agent-readiness scorecard for any MCP server: protocol checks, 0-100 score and actionable findings.

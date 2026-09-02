@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-21T21:35:51Z"
 ---
 ## What it is
 MCP server `Pangea`, catalogued on PulseMCP. Integrates with Pangea's cybersecurity APIs to provide threat intelligence, data protection, and security analysis capabilities including reputation checking, embargo screening, sensitive data redaction, audit logging, and cryptographic key management with built-in AI Guard protection against malicious inputs and outputs.

@@ -8,10 +8,12 @@ source_url: https://github.com/reading-plus-ai/mcp-server-data-exploration
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 538
+stars: 544
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 63
+pushed_at: "2025-03-22T17:26:01Z"
 ---
 ## What it is
 MCP server `Data Exploration`, catalogued on PulseMCP. Explore and visualize CSV datasets with the power of pandas and matplotlib.

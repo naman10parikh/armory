@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T07:12:44Z"
 ---
 ## What it is
 Wraps chrome-devtools-mcp to control Brave/Chrome/Edge browsers with real user profiles, supporting multi-browser management, hot switching, and automatic reconnection.

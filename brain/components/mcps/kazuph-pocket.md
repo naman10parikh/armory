@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-01-01T14:46:36Z"
 ---
 ## What it is
 MCP server `Pocket`, catalogued on PulseMCP. Integrates with the Pocket API to enable natural language-based retrieval and management of saved articles.

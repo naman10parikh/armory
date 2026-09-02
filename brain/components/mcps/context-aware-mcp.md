@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-17T19:31:04Z"
 ---
 ## What it is
 A configurable MCP server that intelligently routes natural language queries to the appropriate microservice endpoint based on user-defined service configurations.

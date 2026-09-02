@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T05:33:23Z"
 ---
 ## What it is
 Provides structured external memory for AI assistants, enabling persistent context, branch notes, tacit knowledge, and checklists to overcome AI memory loss and context confusion.

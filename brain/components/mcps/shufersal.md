@@ -8,10 +8,12 @@ source_url: https://github.com/matipojo/shufersal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-06-17T22:13:32Z"
 ---
 ## What it is
 MCP server `Shufersal`, catalogued on PulseMCP. Automates Shufersal supermarket shopping by converting recipe links into shopping lists, searching the product catalog with personalized results for logged-in users, and adding items directly to the cart through browser automation.

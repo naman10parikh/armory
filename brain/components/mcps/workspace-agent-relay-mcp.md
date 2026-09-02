@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-07-25T04:25:05Z"
 ---
 ## What it is
 A local relay and dashboard that enables ChatGPT Workspace Agents to stream real-time updates—plan, progress, tool calls, and results—back to the user's machine via MCP and SSE.

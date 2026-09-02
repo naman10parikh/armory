@@ -8,11 +8,13 @@ source_url: https://github.com/AperionAI/shield
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-31T15:56:45Z"
 ---
 ## What it is
 Local guardrail proxy for AI coding agents. Wraps any MCP server (stdio or HTTP/SSE) and blocks destructive tool calls before they execute, with TOFU catalog pinning against rug pulls and tool-poisoning/result-injection scanning. Single Rust binary, Apache-2.0.

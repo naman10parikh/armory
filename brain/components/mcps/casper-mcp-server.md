@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-07T18:29:54Z"
 ---
 ## What it is
 Enables AI agents to interact with the Casper Network through six tools including account balance, agent registry, transaction status, transfers, and DeFi pools, using the Model Context Protocol.

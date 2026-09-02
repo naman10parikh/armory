@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-04-17T14:37:37Z"
 ---
 ## What it is
 Enables AI assistants to track events, page views, user signups, and update user profiles in Mixpanel.

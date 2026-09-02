@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-02-28T13:53:53Z"
 ---
 ## What it is
 MCP server `Sequential Thinking`, catalogued on PulseMCP. Provides a framework for structured thought processes, including dynamic adaptation, semantic analysis, and cognitive bias detection, enabling complex problem-solving and decision-making tasks.

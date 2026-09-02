@@ -8,10 +8,12 @@ source_url: https://github.com/arman-kudaibergenov/bsl-atlas
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-07-26T21:10:47Z"
 ---
 ## What it is
 MCP server `BSL Atlas`, catalogued on PulseMCP. Provides structural and semantic code search across 1C/BSL enterprise codebases with call graph analysis, metadata inspection, and vector-powered natural language queries.

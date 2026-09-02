@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2025-12-18T19:01:05Z"
 ---
 ## What it is
 Enterprise-grade sentiment analysis tool for AI agents, enabling sentiment labeling, keyword extraction, and batch analysis via MCP.

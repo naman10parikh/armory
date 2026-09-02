@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-23T20:11:37Z"
 ---
 ## What it is
 Enables AI assistants to interact with Microsoft 365 and Office services through the Microsoft Graph API, providing tools for email, calendar, files, Teams, SharePoint, and more with configurable permissions and output formats.

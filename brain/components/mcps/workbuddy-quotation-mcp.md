@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T04:36:37Z"
 ---
 ## What it is
 Provides a quotation/quote-pricing MCP server for WorkBuddy, enabling querying pricing sources (org_api), securing JWT sessions, and supporting tools like lock-code and B-price lookups while keeping runtime isolated from Mixing.

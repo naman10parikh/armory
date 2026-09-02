@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-30T11:10:26Z"
 ---
 ## What it is
 MCP server `SlideForge`, catalogued on PulseMCP. Generate consulting-quality PowerPoint slides and decks from natural language using 38 professional templates.

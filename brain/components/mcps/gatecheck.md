@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T23:20:33Z"
 ---
 ## What it is
 A remote MCP server that verifies paid x402 and MCP tools for discoverability, inspectability, and claim-bound correctness, enabling pre-submission readiness checks for agent-tool sellers.

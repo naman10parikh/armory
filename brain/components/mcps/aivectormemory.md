@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 24
+pushed_at: "2026-04-19T05:03:25Z"
 ---
 ## What it is
 MCP server that provides cross-session persistent memory for AI coding assistants using local vector database and semantic search, enabling automatic recall of project context, issues, and tasks.

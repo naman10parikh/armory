@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-25T09:23:05Z"
 ---
 ## What it is
 An MCP server that converts files between formats using locally installed tools, with no data leaving your machine and automatic adaptation to available converters.

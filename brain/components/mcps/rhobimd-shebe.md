@@ -8,10 +8,12 @@ source_url: https://github.com/shebe-oss/shebe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-07-24T21:46:41Z"
 ---
 ## What it is
 MCP server `Shebe`, catalogued on PulseMCP. BM25-based code search engine providing fast full-text search over code repositories using Tantivy with UTF-8 safe chunking, session-based indexing, and sub-2ms query latency.

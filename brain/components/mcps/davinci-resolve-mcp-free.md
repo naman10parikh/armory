@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T15:40:35Z"
 ---
 ## What it is
 Enables AI assistants to control DaVinci Resolve (Free and Studio) through natural language, providing 162 tools for timeline editing, color grading, rendering, and more. Includes local AI replacements for Studio-only features like voice isolation, background removal, and transcription.

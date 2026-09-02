@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T21:00:53Z"
 ---
 ## What it is
 Connects Claude and other MCP clients to VideoDB, enabling video upload, indexing, semantic search, clipping, and streaming directly from a conversation. OAuth-secured and deployable to Vercel with zero infrastructure.

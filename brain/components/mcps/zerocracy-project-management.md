@@ -12,6 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 11
+pushed_at: "2026-09-01T18:52:21Z"
 ---
 ## What it is
 MCP server `Zerocracy`, catalogued on PulseMCP. Provides a bridge between Zerocracy's project management platform and development teams, offering actionable recommendations to improve productivity and focus through AI-assisted insights.

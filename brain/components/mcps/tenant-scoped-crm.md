@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T03:31:22Z"
 ---
 ## What it is
 A reference MCP server demonstrating safe agent access to multi-tenant CRM data with tenant isolation enforced in the data layer, role-based permissions, and human confirmation on writes.

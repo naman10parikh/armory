@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T12:17:54Z"
 ---
 ## What it is
 A local FastMCP STDIO server exposing two tools (ask_nist_rag and get_nist_visual) and one read-only resource (nist://visuals/catalog) that provides grounded question answering over NIST AI RMF documents using local RAG with selective OCR, hybrid retrieval, and verified visual figure retrieval.

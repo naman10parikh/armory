@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-21T23:38:19Z"
 ---
 ## What it is
 Enables playing and controlling full music tracks from Audius with an inline visualizer widget, including search, queue management, and playback controls.

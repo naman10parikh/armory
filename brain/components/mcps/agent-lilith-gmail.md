@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-14T22:28:15Z"
 ---
 ## What it is
 MCP server `Lilith Gmail`, catalogued on PulseMCP. Privacy-aware Gmail integration that syncs to PostgreSQL with PII sanitization, semantic search, and configurable redaction levels.

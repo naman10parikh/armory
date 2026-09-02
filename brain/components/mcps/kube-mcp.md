@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T19:02:28Z"
 ---
 ## What it is
 A Model Context Protocol server that lets AI assistants query multiple Kubernetes clusters simultaneously using natural language.

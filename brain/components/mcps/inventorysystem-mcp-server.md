@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-08-16T04:37:53Z"
 ---
 ## What it is
 A Python MCP server that connects to an Inventory Management System, providing 15 tools for CRUD operations on users, inventory items, and bills.

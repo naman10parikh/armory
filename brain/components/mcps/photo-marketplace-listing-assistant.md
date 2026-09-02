@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T08:10:09Z"
 ---
 ## What it is
 This MCP server analyzes product photos using AI to generate listing drafts, publishes to Mercari Shops via GraphQL API, and exports drafts for other marketplaces.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-01-24T01:40:48Z"
 ---
 ## What it is
 Auto-captures decision context from multi-agent workflows to preserve the 'why' behind every choice. Enables task traceability, reasoning retrieval, and continuous improvement across planning and implementation sessions.

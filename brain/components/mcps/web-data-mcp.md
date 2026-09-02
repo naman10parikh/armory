@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T14:12:37Z"
 ---
 ## What it is
 An MCP server that runs Apify scraping actors with quality-gated validation, scoring, and retries, returning embedding-ready chunks for AI agents.

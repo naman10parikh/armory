@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-17T09:02:17Z"
 ---
 ## What it is
 Enables querying Luxembourgish competition data, including regulations, decisions, and requirements from the Conseil de la concurrence, directly from MCP-compatible clients.

@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T21:26:11Z"
 ---
 ## What it is
 MCP server `Youfiliate`, catalogued on PulseMCP. Create and manage geo-targeted affiliate smart links and view YouTube analytics via Claude.

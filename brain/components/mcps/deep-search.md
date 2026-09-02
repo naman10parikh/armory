@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T10:33:32Z"
 ---
 ## What it is
 Free, open-source search engine MCP server with 7 sources, 29 tools, and semantic search via ChromaDB at zero cost.

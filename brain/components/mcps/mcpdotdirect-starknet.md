@@ -8,10 +8,12 @@ source_url: https://github.com/mcpdotdirect/starknet-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-11-26T17:16:07Z"
 ---
 ## What it is
 MCP server `Starknet`, catalogued on PulseMCP. Provides a bridge to the Starknet blockchain for querying data, managing tokens, resolving IDs, and executing transactions on both mainnet and sepolia networks.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T00:23:13Z"
 ---
 ## What it is
 MCP server providing Solana/crypto/macro tools (wallet scan, password breach, Jito tip, GitHub health, FRED series, Drift exposure, premium chapters) with x402 payment gating (USDC on Base) for 7 of 8 tools.

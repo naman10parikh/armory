@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 7
+pushed_at: "2026-04-22T09:20:56Z"
 ---
 ## What it is
 MCP server `Skolverket`, catalogued on PulseMCP. Integrates Swedish education data including curricula, school units, and adult education programs

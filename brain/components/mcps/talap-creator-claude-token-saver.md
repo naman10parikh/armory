@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-04T08:48:56Z"
 ---
 ## What it is
 MCP server `Claude Token Saver`, catalogued on PulseMCP. Monitors Claude.ai subscription usage in real time with tools for session burn-rate forecasting, per-task cost measurement, and cache hit rate analysis.

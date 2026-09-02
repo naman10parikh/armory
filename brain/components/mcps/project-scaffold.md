@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-16T14:52:08Z"
 ---
 ## What it is
 An MCP server that scaffolds full-stack projects with consistent structure, Docker setup, CI/CD pipelines, and database configuration.

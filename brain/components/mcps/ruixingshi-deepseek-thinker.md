@@ -12,6 +12,8 @@ stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-03-25T13:55:34Z"
 ---
 ## What it is
 MCP server `DeepSeek Thinker`, catalogued on PulseMCP. Integrates with DeepSeek Thinker model to enable chain-of-thought reasoning and complex problem-solving for applications requiring advanced cognitive capabilities.

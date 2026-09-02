@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T18:58:19Z"
 ---
 ## What it is
 An interactive color picker that renders as a UI inside MCP-compatible hosts like VS Code GitHub Copilot and Claude.

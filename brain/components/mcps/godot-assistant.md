@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T21:25:30Z"
 ---
 ## What it is
 An MCP server that lets AI coding agents work on Godot 4 projects, including reading and editing scenes, writing and validating GDScript, running the game, and capturing screenshots.

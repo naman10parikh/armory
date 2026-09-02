@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T05:37:56Z"
 ---
 ## What it is
 MCP server that enables AI agents to check if email addresses or domains are disposable using the isitdisposable.com API. It provides tools like check_email, check_domain, and check_batch for real-time validation.

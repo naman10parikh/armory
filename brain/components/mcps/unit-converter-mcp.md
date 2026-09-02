@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T08:40:51Z"
 ---
 ## What it is
 Converts units, currencies, timezones, and dates with a generous free tier of 500 calls/month.

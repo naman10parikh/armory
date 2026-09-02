@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T20:30:11Z"
 ---
 ## What it is
 Bridges Microsoft Foundry agents and Power BI semantic models into GitHub Copilot Chat, enabling users to query and modify measures as the signed-in user via MCP.

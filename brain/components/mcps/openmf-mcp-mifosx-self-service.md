@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 9
+forks: 14
+pushed_at: "2026-07-20T10:51:02Z"
 ---
 ## What it is
 A self-service integration for user registration, authentication, account management, transactions, and third-party transfers with Apache Fineract.

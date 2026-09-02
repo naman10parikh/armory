@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-20T06:50:54Z"
 ---
 ## What it is
 Enables AI agents to interact with SAP Cloud Integration (CPI) by exposing CPI APIs as MCP tools for inspecting metadata, runtime artifacts, message logs, and failed messages.

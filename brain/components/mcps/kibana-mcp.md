@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-05-31T18:53:38Z"
 ---
 ## What it is
 Enables AI assistants to manage Kibana security alerts, rules, and exception lists via the Model Context Protocol.

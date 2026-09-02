@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 13
+pushed_at: "2026-08-24T21:53:38Z"
 ---
 ## What it is
 Enables financial professionals to interact with QuickBooks Online using natural language for reports, journal entries, bills, expenses, and more.

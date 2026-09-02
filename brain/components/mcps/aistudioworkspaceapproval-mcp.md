@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T13:20:42Z"
 ---
 ## What it is
 MCP server `AI Studio Workspace Approval Gate`, catalogued on PulseMCP. Workspace approval gate for AI Studio with structured receipts, audit logs, and reviewer-ready evidence.

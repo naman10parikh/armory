@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-16T16:30:09Z"
 ---
 ## What it is
 Enables querying SNCF train schedules and stations in France using the official Navitia API, with support for flexible date parsing and real-time journey planning.

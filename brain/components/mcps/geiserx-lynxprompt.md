@@ -8,10 +8,12 @@ source_url: https://github.com/geiserx/lynxprompt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-19T06:41:35Z"
 ---
 ## What it is
 MCP server `LynxPrompt`, catalogued on PulseMCP. Browse, search, and manage AI configuration blueprints via the LynxPrompt platform.

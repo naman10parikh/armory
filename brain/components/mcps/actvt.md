@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-23T08:54:42Z"
 ---
 ## What it is
 Actvt's embedded MCP server for macOS. 25 tools for live CPU, GPU, memory and network metrics, listening ports with a guarded port_kill, and Claude Code and Codex session analytics (cost, tokens, transcript search, error patterns). It ships inside the Actvt macOS app and binds to loopback on the use

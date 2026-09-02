@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T04:09:10Z"
 ---
 ## What it is
 Enables MCP clients to search and read the free AI School curriculum, including 550+ tracks on AI engineering, governance, security, and applied AI by profession.

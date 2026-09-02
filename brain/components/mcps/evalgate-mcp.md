@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T00:23:32Z"
 ---
 ## What it is
 An MCP server that lets an agent read its own eval results, run suites, explain failures, check drift, and view judge calibration status.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-27T14:04:28Z"
 ---
 ## What it is
 Fast AI research agent in Rust that plans sub-questions, searches the web, scrapes sources in parallel, and writes comprehensive markdown reports.

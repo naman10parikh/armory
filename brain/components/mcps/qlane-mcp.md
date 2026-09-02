@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:16:53Z"
 ---
 ## What it is
 Integrates Qlane test management into AI coding editors, enabling agents to view projects, test targets, and test case counts, and plan tests for local diffs.

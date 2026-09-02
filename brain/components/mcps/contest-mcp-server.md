@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T01:01:53Z"
 ---
 ## What it is
 MCP server for searching and retrieving Korean contest information. Provides tools to search contests by keyword/category, get details, list categories, and find deadlines.

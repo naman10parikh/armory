@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-22T14:40:24Z"
 ---
 ## What it is
 Enables persistent, append-only storage of measurement data and experimental records using a SQL schema, with read-only and read-write modes for professional lab notebook use.

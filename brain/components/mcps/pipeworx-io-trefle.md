@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:30:28Z"
 ---
 ## What it is
 MCP server `Trefle`, catalogued on PulseMCP. Trefle global plant database with over 1 million species for botanical lookups and plant identification via Pipeworx.

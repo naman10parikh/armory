@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T09:27:45Z"
 ---
 ## What it is
 MCP server for aggregating and analyzing hot news from multiple platforms, with AI-powered summaries, smart filtering, and multi-channel notifications.

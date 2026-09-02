@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-11T17:01:16Z"
 ---
 ## What it is
 MCP server that mirrors and historically archives the current cinema program of Movieplexx Buchholz, enabling queries for showtimes, film details, and history via SQLite-backed tools.

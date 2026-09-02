@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T14:08:37Z"
 ---
 ## What it is
 Analyze paid marketing accounts (Google Ads, Meta Ads, GA4, Merchant Center) in plain language, read-only. Provides insights, competitor ads, and landing page audits via natural language.

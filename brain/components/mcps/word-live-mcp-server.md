@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T18:37:02Z"
 ---
 ## What it is
 A Windows MCP server that attaches to a running Microsoft Word instance via COM automation and exposes 20 tools for reading, editing, formatting, and exporting documents — live on screen.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2024-12-16T21:17:10Z"
 ---
 ## What it is
 A TypeScript-based MCP server that implements a simple notes system with resources, tools for creating notes, and prompts for summarization.

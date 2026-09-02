@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T12:04:19Z"
 ---
 ## What it is
 Enables shopping a live Shopify store from inside ChatGPT or Claude with full catalog, cart, OTP login, saved addresses and payment via Cashfree, all without leaving the conversation.

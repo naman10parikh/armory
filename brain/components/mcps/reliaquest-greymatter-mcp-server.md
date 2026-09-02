@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-10T22:17:56Z"
 ---
 ## What it is
 Enables AI assistants to interact with the ReliaQuest GreyMatter platform via 146 tools across 22 domains for incident response, playbooks, cases, and more, including a generic graphql_query escape hatch.

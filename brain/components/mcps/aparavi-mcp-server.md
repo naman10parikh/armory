@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-08-26T20:32:18Z"
 ---
 ## What it is
 Integrates with Aparavi's document processing API to allow LLMs to process documents, extract clean text, and perform OCR on diagrams.

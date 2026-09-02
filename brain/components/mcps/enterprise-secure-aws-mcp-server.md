@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T18:20:16Z"
 ---
 ## What it is
 Enables secure tool discovery and execution on AWS Lambda with role-based access control, command injection defense, and sensitive data redaction, allowing managed CloudWatch log queries and Terraform operations through a standard MCP interface.

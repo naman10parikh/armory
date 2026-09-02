@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T03:45:09Z"
 ---
 ## What it is
 MCP server for publishing AI agent conversations as public links with optional password protection and expiration, also providing tools to revoke shared chats and retrieve link metadata.

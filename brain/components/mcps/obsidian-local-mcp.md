@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-26T23:46:25Z"
 ---
 ## What it is
 Enables Claude to create, read, update, and search notes in a local Obsidian vault, with automatic YAML frontmatter and folder management.

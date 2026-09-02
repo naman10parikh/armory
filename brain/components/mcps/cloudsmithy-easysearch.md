@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2026-01-27T08:15:25Z"
 ---
 ## What it is
 MCP server `Easysearch`, catalogued on PulseMCP. Integrates with Elasticsearch and OpenSearch clusters for index management, document operations, search queries, snapshot handling, and cluster monitoring across large datasets.

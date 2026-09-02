@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T15:29:33Z"
 ---
 ## What it is
 MCP server for reserving lab hardware in GLPI, triggering CNV cluster deployments in Jenkins, and importing ACM spoke clusters.

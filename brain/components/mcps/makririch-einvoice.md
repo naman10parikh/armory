@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-13T15:27:44Z"
 ---
 ## What it is
 MCP server `eInvoice`, catalogued on PulseMCP. Create, validate, and convert German e-invoices in XRechnung and ZUGFeRD formats compliant with EN 16931.

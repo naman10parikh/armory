@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-09-17T19:19:01Z"
 ---
 ## What it is
 MCP server `Math Operations`, catalogued on PulseMCP. Provides basic arithmetic operations and matrix multiplication with 64-bit floating point precision, handling edge cases like division by zero and empty inputs for reliable mathematical computation in educational and data analysis workflows.

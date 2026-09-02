@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-14T17:42:44Z"
 ---
 ## What it is
 A persistent, event-sourced knowledge graph MCP server for AI coding agents that enables semantic search, tiered context retrieval, and git-based version control of AI memory.

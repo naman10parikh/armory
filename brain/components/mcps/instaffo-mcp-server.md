@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T10:35:04Z"
 ---
 ## What it is
 Enables AI assistants to interact with your personal Instaffo candidate account, allowing reading of profile, job suggestions, and conversations, as well as performing reversible write actions like bookmarking jobs and updating skills, all authenticated via your browser session and running fully loc

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T14:41:03Z"
 ---
 ## What it is
 Provides direct SQL access to a locally hosted Reactome database, enabling schema discovery, guarded read-only queries, and ergonomic helpers over the full relational schema.

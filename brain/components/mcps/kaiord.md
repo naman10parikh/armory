@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-31T18:04:20Z"
 ---
 ## What it is
 MCP server for workout-file conversion: convert, validate, and inspect FIT, TCX, ZWO, and Garmin Connect files, with round-trip-safe conversions through the KRD canonical JSON format. Runs locally over stdio via npx -y @kaiord/mcp. Part of the open-source, local-first Kaiord training platform.

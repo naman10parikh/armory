@@ -8,11 +8,13 @@ source_url: https://github.com/barckley75/resolve-claude-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 337
+stars: 346
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 45
+pushed_at: "2026-05-14T13:24:14Z"
 ---
 ## What it is
 Connects DaVinci Resolve Studio to Claude AI via the Model Context Protocol, enabling natural language control over video editing, color grading, Fusion compositing, AI features, and more.

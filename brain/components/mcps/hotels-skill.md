@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-02-16T08:14:33Z"
 ---
 ## What it is
 Enables real-time hotel search and pricing data from Booking.com for AI agents and Claude.

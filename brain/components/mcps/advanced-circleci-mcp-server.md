@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T07:59:00Z"
 ---
 ## What it is
 A CircleCI MCP server specialized in config review, providing tools for fetching actual configs, validating changes, and analyzing workflow bottlenecks, health, and DAG dependencies.

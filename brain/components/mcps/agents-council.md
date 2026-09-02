@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 23
+pushed_at: "2026-02-22T17:25:37Z"
 ---
 ## What it is
 The simplest way to bridge and collaborate across AI Agent sessions like Claude Code, Codex, Gemini, or Cursor. It allows your agents to combine their strengths to solve your most difficult tasks without leaving their current context.

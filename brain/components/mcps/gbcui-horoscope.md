@@ -8,10 +8,12 @@ source_url: https://github.com/gbcui/horoscope-serve
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-09-22T03:33:10Z"
 ---
 ## What it is
 MCP server `Horoscope`, catalogued on PulseMCP. Provides astrological horoscope functionality with tools for generating personalized predictions and insights based on zodiac signs and celestial positions.

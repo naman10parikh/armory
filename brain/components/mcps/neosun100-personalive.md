@@ -8,10 +8,12 @@ source_url: https://github.com/neosun100/personalive
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-01-03T18:29:44Z"
 ---
 ## What it is
 MCP server `PersonaLive`, catalogued on PulseMCP. Transforms static portrait images into expressive videos using driving motion from reference videos with real-time streaming and GPU memory optimization.

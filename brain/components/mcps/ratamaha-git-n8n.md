@@ -8,10 +8,12 @@ source_url: https://github.com/automatelab-tech/n8n-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-08T11:01:41Z"
 ---
 ## What it is
 MCP server `ratamaha-git n8n`, catalogued on PulseMCP. Community MCP server for n8n that provides workflow generation, linting, execution diagnosis, and live n8n instance management.

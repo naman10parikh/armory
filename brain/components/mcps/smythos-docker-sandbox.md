@@ -8,10 +8,12 @@ source_url: https://github.com/smythos/smyth-docker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-09-18T22:34:33Z"
 ---
 ## What it is
 MCP server `Docker Sandbox`, catalogued on PulseMCP. Provides Linux sandbox container management through Docker integration, enabling spawning of Ubuntu containers, TTY input with escape sequence support, screen buffer reading, and container lifecycle management for secure command execution in disposable environments.

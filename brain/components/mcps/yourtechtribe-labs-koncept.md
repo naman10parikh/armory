@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-10T04:20:14Z"
 ---
 ## What it is
 MCP server `Koncept`, catalogued on PulseMCP. Queries a YAML semantic concept graph for codebase invariants and cross-cutting architectural facts.

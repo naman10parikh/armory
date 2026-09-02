@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T20:50:35Z"
 ---
 ## What it is
 Enables fetching Pull Request diffs from GitHub and posting inline review comments directly on PRs, either as pending drafts or published immediately.

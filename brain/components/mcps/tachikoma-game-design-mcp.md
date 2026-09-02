@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T20:24:09Z"
 ---
 ## What it is
 A read-only MCP server that enables semantic search over a Chroma library of narrative and game design content, using multilingual embeddings (BAAI/bge-m3) and offering tools to query indexed books, retrieve page chunks, and list available titles.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-18T20:13:57Z"
 ---
 ## What it is
 Provides intelligent weekly schedule analysis from Google Calendar, including day-by-day breakdowns, workout suggestions, office day detection, and scheduling problem identification through natural language queries.

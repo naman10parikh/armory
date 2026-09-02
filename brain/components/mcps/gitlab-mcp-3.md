@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-08T17:27:36Z"
 ---
 ## What it is
 Exposes the GitLab REST API to MCP clients for managing projects, issues, merge requests, repositories, and CI/CD pipelines. It is multi-tenant, allowing each user to authenticate with their own token and instance URL.

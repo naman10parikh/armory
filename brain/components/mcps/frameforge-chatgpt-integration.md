@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T17:59:08Z"
 ---
 ## What it is
 Enables ChatGPT to generate images, videos, and scenes through FrameForge, and open the full FrameForge experience, with secure OAuth-based authentication.

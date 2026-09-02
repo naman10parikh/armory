@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-24T18:23:43Z"
 ---
 ## What it is
 Enables AI agents to safely list, read, and search files within a restricted local workspace, with safeguards against path traversal and configurable size limits.

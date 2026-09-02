@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-20T08:25:21Z"
 ---
 ## What it is
 MCP server `A2A Identity Toll`, catalogued on PulseMCP. Caller identity verification for A2A agents with scope policy enforcement, verdict receipts, and audit history.

@@ -8,11 +8,13 @@ source_url: https://github.com/jarrodwatts/claude-hud
 license: MIT
 cli_compat: [claude]
 maturity: experimental
-stars: 27590
+stars: 27778
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [awesome-claude-code, status-lines]
+forks: 1286
+pushed_at: "2026-08-29T21:32:26Z"
 ---
 ## What it is
 A really stacked status line that exposes just about everything you might need - context usage, tools, agents, todos, etc. Highly configurable and actively maintained at the time of writing - code quality is strong.

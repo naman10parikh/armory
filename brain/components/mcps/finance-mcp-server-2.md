@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-08T07:56:03Z"
 ---
 ## What it is
 Enables fetching real-time financial market data, including price, key metrics, and news headlines, for stock tickers using the yfinance API.

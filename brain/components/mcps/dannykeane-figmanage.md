@@ -12,6 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-22T18:39:11Z"
 ---
 ## What it is
 MCP server `Figmanage`, catalogued on PulseMCP. Manages Figma organization workspaces including seats, teams, projects, permissions, and analytics.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-01-06T15:55:58Z"
 ---
 ## What it is
 Automatically generates MCP tools from any GraphQL API by introspecting its schema, supporting queries, mutations, and authentication.

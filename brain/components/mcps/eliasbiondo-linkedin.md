@@ -8,10 +8,12 @@ source_url: https://github.com/eliasbiondo/linkedin-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 143
+stars: 182
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 37
+pushed_at: "2026-03-08T19:55:15Z"
 ---
 ## What it is
 MCP server `LinkedIn`, catalogued on PulseMCP. Extracts LinkedIn profile data, company information, and job postings through browser automation with authenticated sessions and configurable section scraping.

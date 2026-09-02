@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T06:23:50Z"
 ---
 ## What it is
 An MCP server that connects the Casio Plus knowledge base (playbooks, architecture, learning resources) to AI clients, offering read-only search and validation tools along with controlled feedback intake and review workflows.

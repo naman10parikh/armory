@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:28:22Z"
 ---
 ## What it is
 Enables AI assistants to audit Solidity smart contracts for security vulnerabilities, fetch verified source code from block explorers, decode calldata, and estimate gas costs across major EVM networks.

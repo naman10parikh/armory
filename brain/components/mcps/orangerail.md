@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T15:54:57Z"
 ---
 ## What it is
 Generate an MCP server from your Prisma schema — typed per-model tools instead of execute_sql, destructive writes gated behind human approval, and an audit log of every call.

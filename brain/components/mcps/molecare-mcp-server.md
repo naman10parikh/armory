@@ -8,11 +8,13 @@ source_url: https://github.com/MoleCare/molecare-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-08-31T00:35:44Z"
 ---
 ## What it is
 Enables MCP clients to query educational dermatology knowledge, access optional MoleCare mole-tracking and analysis tools, and explore MLOps and infrastructure operations with safe mock data when no credentials are configured.

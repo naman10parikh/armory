@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T22:55:18Z"
 ---
 ## What it is
 An MCP server that provides country information lookup and an interactive dashboard, exposing a get_country_info tool and HTTP endpoints for querying demographic, geographic, and economic data.

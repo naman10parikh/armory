@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 46
+forks: 7
+pushed_at: "2026-01-04T10:51:14Z"
 ---
 ## What it is
 Your Ionic coding buddy enabled via MCP – build awesome mobile apps using React/Angular/Vue or even Vanilla JS!

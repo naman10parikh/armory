@@ -8,10 +8,12 @@ source_url: https://github.com/illuminaresolutions/n8n-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 118
+stars: 119
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 28
+pushed_at: "2025-02-19T14:57:23Z"
 ---
 ## What it is
 MCP server `n8n`, catalogued on PulseMCP. Bridges Claude with n8n automation workflows, enabling direct creation, execution, and management of workflows, credentials, and enterprise features without switching contexts.

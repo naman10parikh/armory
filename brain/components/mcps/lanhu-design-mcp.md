@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-07-19T15:19:26Z"
 ---
 ## What it is
 MCP server for macOS that reads Lanhu designs, analyzes UI structures, and exports fine-grained design assets for multiple platforms.

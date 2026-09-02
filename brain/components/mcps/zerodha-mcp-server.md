@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-07-19T11:27:41Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Zerodha trading platform for placing stock orders, viewing holdings, and managing mutual fund investments through the MCP protocol.

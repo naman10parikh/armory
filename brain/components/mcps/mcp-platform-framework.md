@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T09:05:16Z"
 ---
 ## What it is
 A framework for building MCP servers with built-in enterprise capabilities such as authentication, authorization, telemetry, audit logging, and data classification, allowing domain developers to focus on business logic while maintaining governance and compliance.

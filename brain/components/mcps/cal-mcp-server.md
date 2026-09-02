@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T08:09:06Z"
 ---
 ## What it is
 Enables AI assistants to answer mortgage-related queries by providing tools for lender search, loan limit lookup, down-payment assistance programs, and more, with data sourced from real wholesale lenders and broker-curated intel.

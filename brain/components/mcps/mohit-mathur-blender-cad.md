@@ -8,10 +8,12 @@ source_url: https://github.com/mohit-mathur/cad-mcp-blender
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-27T00:06:34Z"
 ---
 ## What it is
 MCP server `Blender CAD`, catalogued on PulseMCP. Controls a live Blender 3D session with 51 tools covering modeling, materials, lighting, rendering, and animation.

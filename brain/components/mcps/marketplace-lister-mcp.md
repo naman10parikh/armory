@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-08-24T05:27:24Z"
 ---
 ## What it is
 Enables posting second-hand items to Facebook Marketplace from local photo folders via Claude, featuring login, listing creation, pricing reference, and publishing tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T17:55:54Z"
 ---
 ## What it is
 Provides MCP tools to upsert and search vector-embedded note chunks, enabling semantic retrieval from a PostgreSQL/pgvector backend.

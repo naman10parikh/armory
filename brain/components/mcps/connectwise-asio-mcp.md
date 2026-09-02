@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-19T04:04:14Z"
 ---
 ## What it is
 Exposes ConnectWise Platform APIs as MCP tools, enabling management of companies, contacts, devices, policies, patches, and tickets through natural language.

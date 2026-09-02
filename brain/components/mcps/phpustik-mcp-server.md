@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T19:06:54Z"
 ---
 ## What it is
 Enables AI assistants to deeply interact with the PHP ecosystem, including runtime, static analysis, security scanning, testing, Composer, and frameworks like Laravel and Symfony. It exposes over 30 tools, 8 resources, and 7 prompts via MCP, allowing natural language commands to run PHP linting, sta

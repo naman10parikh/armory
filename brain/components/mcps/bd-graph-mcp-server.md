@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T09:39:21Z"
 ---
 ## What it is
 Enables coding agents to query a temporal knowledge graph derived from a beads issue tracker via read-only Cypher queries, exposing current rules, supersession chains, and provenance without LLM API keys.

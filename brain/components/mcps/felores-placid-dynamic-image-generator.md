@@ -12,6 +12,8 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2025-03-28T23:13:52Z"
 ---
 ## What it is
 MCP server `Placid Image Generator`, catalogued on PulseMCP. Integrates with Placid's API to generate dynamic images from templates for tasks like social media posts and marketing materials.

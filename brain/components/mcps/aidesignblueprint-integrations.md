@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 3
+forks: 0
+pushed_at: "2026-07-17T16:36:29Z"
 ---
 ## What it is
 Read-only doctrine access for the Agentic AI Blueprint — the industry standard reference for safe, observable, and steerable AI agent UX. Browse and search 10 principles, clusters, curated implementation examples, and application guides for production agentic AI systems. 13 public tools require no credentials. `https://aidesignblueprint.com/mcp`

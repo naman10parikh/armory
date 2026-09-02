@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-11T10:44:32Z"
 ---
 ## What it is
 Exposes KALEI's AI cognitive profiling tools, including leaderboards, model comparisons, dimensions, and BYOK model profiling, to MCP-compatible assistants.

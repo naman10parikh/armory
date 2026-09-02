@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2025-11-24T14:01:03Z"
 ---
 ## What it is
 Connects AI tools to your organization's Haiven prompts, allowing seamless access to expert-crafted prompts for user stories, code reviews, and more without switching apps.

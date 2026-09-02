@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 4
+pushed_at: "2026-08-07T12:49:56Z"
 ---
 ## What it is
 Enables natural language control of OMIE ERP finances, including accounts payable/receivable, bank transactions, cash flow, and supplier management through 27 MCP tools.

@@ -8,11 +8,13 @@ source_url: https://github.com/RuloGB/compendio-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T21:17:58Z"
 ---
 ## What it is
 Indexes your project's markdown documentation and exposes it to AI agents via local hybrid search (lexical + semantic) with progressive disclosure tools.

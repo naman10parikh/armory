@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T11:59:52Z"
 ---
 ## What it is
 MCP server that retrieves document metadata from the European Patent Register using the get_ep_register_documents tool.

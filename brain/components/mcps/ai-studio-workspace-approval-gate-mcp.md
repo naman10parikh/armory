@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-20T13:20:42Z"
 ---
 ## What it is
 Paid remote MCP for AI Studio Workspace with approval gate, structured receipts, audit logs, and reviewer-ready evidence, enabling workspace change checks, model run approval, spend estimation, and audit export.

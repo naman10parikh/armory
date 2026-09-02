@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T21:35:08Z"
 ---
 ## What it is
 Pauses AI agent execution and routes approval requests to humans via Slack or email, with cryptographically signed proof of the human's decision.

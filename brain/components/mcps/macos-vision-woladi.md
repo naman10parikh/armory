@@ -8,10 +8,12 @@ source_url: https://github.com/woladi/macos-vision-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-25T18:16:32Z"
 ---
 ## What it is
 MCP server `macOS Vision`, catalogued on PulseMCP. Local OCR and image analysis on macOS using Apple's Vision Framework — no cloud, no API keys required.

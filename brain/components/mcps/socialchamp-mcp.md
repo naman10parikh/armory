@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-28T13:43:16Z"
 ---
 ## What it is
 MCP server that exposes the full Social Champ tool catalog for scheduling and managing posts, channels, workspaces, labels, queues, and more through AI clients like Claude Desktop and Cursor.

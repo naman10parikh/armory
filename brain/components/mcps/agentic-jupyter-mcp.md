@@ -8,11 +8,13 @@ source_url: https://github.com/koyo922/agentic-jupyter-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T05:56:32Z"
 ---
 ## What it is
 VS Code extension that bridges local Jupyter Notebooks with AI Agents via MCP, enabling direct control of the active notebook tab.

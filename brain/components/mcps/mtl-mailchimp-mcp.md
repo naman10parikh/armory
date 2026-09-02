@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T10:16:30Z"
 ---
 ## What it is
 An MCP server for Mailchimp that allows listing, copying, creating draft campaigns, pushing HTML content, and sending test emails via Claude Code or any MCP client, with no send/schedule capability to prevent accidental blasts.

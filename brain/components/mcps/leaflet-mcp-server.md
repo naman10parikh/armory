@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2025-10-26T16:33:16Z"
 ---
 ## What it is
 MCP server providing comprehensive Leaflet.js documentation, code generation for maps, markers, layers, GeoJSON, choropleth, and debugging tools.

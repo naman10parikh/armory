@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-02T03:31:40Z"
 ---
 ## What it is
 Provides weather data including current conditions, humidity, wind speed, sunrise/sunset, and 7-day forecast via Open-Meteo APIs, discoverable and callable by LangChain agents.

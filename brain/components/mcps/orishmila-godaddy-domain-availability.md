@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-07-10T18:09:53Z"
 ---
 ## What it is
 MCP server `GoDaddy Domain Availability`, catalogued on PulseMCP. Integrates with GoDaddy's domain API to provide real-time domain availability checking, bulk domain searches with multiple TLD suffixes, and detailed pricing information including registration periods and currency codes for domain research and brand protection workflows.

@@ -8,11 +8,13 @@ source_url: https://github.com/ndesv21/socialclaw
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 82
+stars: 85
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 23
+pushed_at: "2026-08-24T10:56:01Z"
 ---
 ## What it is
 Social media scheduling and publishing for AI agents. 17 validation-first tools to post to X, LinkedIn, Instagram, TikTok, YouTube, Reddit, Discord, Telegram, and more through one connected workspace.

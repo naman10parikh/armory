@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T15:13:49Z"
 ---
 ## What it is
 MCP server for managing UniFi Network Controllers, providing tools to read and modify network configurations, clients, devices, events, diagnostics, and backups via API key.

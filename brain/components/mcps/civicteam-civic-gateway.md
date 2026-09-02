@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-19T23:20:33Z"
 ---
 ## What it is
 MCP server `Civic Gateway`, catalogued on PulseMCP. Identity and authorization gateway for MCP tools providing agent authentication, scoped permissions, audit trails, and revocable access control.

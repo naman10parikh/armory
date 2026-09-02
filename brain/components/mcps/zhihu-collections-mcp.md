@@ -8,11 +8,13 @@ source_url: https://github.com/JasonJarvan/Zhihu-Collections-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 166
+stars: 169
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 29
+pushed_at: "2026-04-25T04:23:12Z"
 ---
 ## What it is
 This MCP server enables AI agents to list, export, and search Zhihu collections, converting them to Markdown files with images.

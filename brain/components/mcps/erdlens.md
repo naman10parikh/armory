@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T12:41:33Z"
 ---
 ## What it is
 MCP server that reads your database schema from SQL DDL, Prisma, Drizzle, TypeORM, or SQLAlchemy, generates a Mermaid ER diagram, and writes it into your documentation, with drift detection to keep diagrams up-to-date.

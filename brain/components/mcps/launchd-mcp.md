@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-02T10:20:35Z"
 ---
 ## What it is
 Manage macOS launchd jobs from MCP tools with support for Python-script tasks, scheduling, logs, and lifecycle management.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-16T04:38:20Z"
 ---
 ## What it is
 An MCP server that connects Claude Desktop to PoetryQuill's live Supabase database. Ask Claude natural language questions about your platform data.

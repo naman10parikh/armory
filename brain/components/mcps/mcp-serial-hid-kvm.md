@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-04-05T16:39:15Z"
 ---
 ## What it is
 Gives AI agents full keyboard, mouse, and screen access to a physical PC via a KVM server and OCR.

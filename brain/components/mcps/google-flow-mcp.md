@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T22:49:40Z"
 ---
 ## What it is
 Enables video generation using Google AI tools (Veo, Nano Banana) via the Model Context Protocol, with browser automation powered by Playwright.

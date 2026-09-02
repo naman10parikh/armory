@@ -8,10 +8,12 @@ source_url: https://github.com/flightradar24/fr24api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2026-01-22T10:17:47Z"
 ---
 ## What it is
 MCP server `Flightradar24`, catalogued on PulseMCP. Access real-time and historical flight data from Flightradar24's aviation tracking service

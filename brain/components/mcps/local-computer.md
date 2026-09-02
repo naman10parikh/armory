@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-17T16:38:42Z"
 ---
 ## What it is
 Enables AI assistants to access files and terminal of a local computer via a public HTTPS endpoint, secured with GitHub OAuth.

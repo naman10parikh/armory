@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-05-06T03:41:48Z"
 ---
 ## What it is
 Provides AI agents with comprehensive Japanese market intelligence through 27 MCP tools, covering corporate data, macroeconomics, financials, and environmental data from 14 integrated sources.

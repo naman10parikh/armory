@@ -12,6 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-01-30T17:19:59Z"
 ---
 ## What it is
 MCP server `Lightning Nostr`, catalogued on PulseMCP. Integrates with Nostr to enable posting notes and interacting with relays, simplifying decentralized social network engagement and content publishing.

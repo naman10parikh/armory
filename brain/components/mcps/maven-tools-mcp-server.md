@@ -8,11 +8,13 @@ source_url: https://github.com/arvindand/maven-tools-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2026-08-31T15:40:50Z"
 ---
 ## What it is
 Provides live Maven Central dependency inspection with stability filtering, version comparison, CVE checks, and POM-aware upgrade recommendations for MCP-capable clients.

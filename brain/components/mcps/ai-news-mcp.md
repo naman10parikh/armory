@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 11
+pushed_at: "2026-06-02T22:20:34Z"
 ---
 ## What it is
 Aggregates and curates AI/tech news from 12 sources every 6 hours, providing pre-summarized and Opus-curated top picks for vibe coders and AI builders via MCP tools.

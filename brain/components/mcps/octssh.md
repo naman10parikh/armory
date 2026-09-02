@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2026-06-03T17:47:11Z"
 ---
 ## What it is
 Provides LLMs with safe, controllable, and stateful SSH access to shell environments, enabling remote command execution and file transfers with async support and security features.

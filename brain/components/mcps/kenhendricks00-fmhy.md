@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-21T16:36:49Z"
 ---
 ## What it is
 MCP server `FMHY`, catalogued on PulseMCP. Search and browse the FMHY free media resource dataset by keyword, section, or URL.

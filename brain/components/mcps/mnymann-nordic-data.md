@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-03T22:24:39Z"
 ---
 ## What it is
 MCP server `Nordic Data`, catalogued on PulseMCP. EU company data for AI agents: KYB verification, sanctions screening, VAT validation, and LEI lookup across 12 countries.

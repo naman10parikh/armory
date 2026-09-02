@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-01T13:15:51Z"
 ---
 ## What it is
 Enables querying, exploring, and downloading ISTAT statistical datasets via SDMX REST API, with unified metadata, territorial code resolution, and data extraction.

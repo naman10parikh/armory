@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T20:36:09Z"
 ---
 ## What it is
 Enables AI agents to place VoIP phone calls via Asterisk, play TTS messages, capture DTMF input, and optionally record and transcribe voice responses.

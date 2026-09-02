@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2024-12-22T14:04:54Z"
 ---
 ## What it is
 MCP server `Directory Visualization`, catalogued on PulseMCP. Integrates directory structure visualization and analysis tools to generate and reason about project file hierarchies for codebase understanding.

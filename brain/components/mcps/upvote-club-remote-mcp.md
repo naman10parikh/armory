@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T09:27:00Z"
 ---
 ## What it is
 Remote MCP server for Claude.ai to interact with Upvote Club's API, enabling task creation, status checking, and platform listing via natural language.

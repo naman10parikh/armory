@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2026-03-10T20:41:23Z"
 ---
 ## What it is
 MCP server `Have I Been Pwned`, catalogued on PulseMCP. Query Have I Been Pwned breach data, check compromised passwords, and search paste dumps for exposed email addresses.

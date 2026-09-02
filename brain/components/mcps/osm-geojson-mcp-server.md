@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 3
+pushed_at: "2026-06-05T10:22:14Z"
 ---
 ## What it is
 Enables querying OpenStreetMap data (buildings, roads, amenities, etc.) via Overpass API and converts them to GeoJSON format for GIS analysis and visualization.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T16:24:32Z"
 ---
 ## What it is
 Enables read-only querying of Azure Log Analytics and Azure Resource Graph through MCP, supporting KQL queries, workspace discovery, and resource inventory exploration with Azure RBAC authentication.

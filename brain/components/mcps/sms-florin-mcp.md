@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-20T17:17:34Z"
 ---
 ## What it is
 MCP server that lets AI agents rent a real UK phone number and receive SMS/OTP verification codes directly in agentic workflows.

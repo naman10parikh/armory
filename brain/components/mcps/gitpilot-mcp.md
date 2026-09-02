@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-25T13:02:33Z"
 ---
 ## What it is
 An autonomous agent that automates GitHub contributions end-to-end, from issue analysis and code changes to pull requests, conflict resolution, and review updates.

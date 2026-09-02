@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:44Z"
 ---
 ## What it is
 MCP server `OCR Extract`, catalogued on PulseMCP. Extracts text from images using the Tesseract OCR engine, supporting various image formats for downstream text processing.

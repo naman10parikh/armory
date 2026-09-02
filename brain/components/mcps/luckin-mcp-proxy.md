@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-10T09:16:37Z"
 ---
 ## What it is
 A local proxy for Luckin Coffee's official MCP, enabling natural language ordering, reordering, and shop/product search with automatic retry and memory.

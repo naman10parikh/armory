@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-16T17:50:17Z"
 ---
 ## What it is
 Enables ChatGPT to securely control a local workstation via an MCP tunnel, exposing 44 tools for file/project editing, git, process supervision, browser automation, and Office document handling across macOS, Linux, and Windows.

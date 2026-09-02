@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T08:30:13Z"
 ---
 ## What it is
 MCP server that provides local, de-identified access to a demo EMR database using a private LLM for de-identification, ensuring raw patient data stays local.

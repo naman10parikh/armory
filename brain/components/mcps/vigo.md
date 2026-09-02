@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-24T11:13:47Z"
 ---
 ## What it is
 Enables querying Hong Kong SFC regulations, enforcement actions, licensing guides, and compliance checks with a continuously updated knowledge base.

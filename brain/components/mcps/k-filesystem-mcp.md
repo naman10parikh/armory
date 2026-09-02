@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-22T11:12:52Z"
 ---
 ## What it is
 A tuned filesystem MCP server for Codex-style development, offering fast file operations, bounded output, and safe edits.

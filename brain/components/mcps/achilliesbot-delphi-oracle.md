@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-11T04:08:52Z"
 ---
 ## What it is
 MCP server `DELPHI Oracle`, catalogued on PulseMCP. Real-time AI intelligence signals covering security events, market data, and ecosystem developments.

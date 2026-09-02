@@ -8,11 +8,13 @@ source_url: https://github.com/jlsookiki/secondhand-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 51
+stars: 64
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 16
+pushed_at: "2026-09-01T06:13:17Z"
 ---
 ## What it is
 Enables AI assistants to search secondhand marketplaces (Facebook Marketplace, eBay, Depop, Poshmark) for used items with filters like price, condition, size, and color.

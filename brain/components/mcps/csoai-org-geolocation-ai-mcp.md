@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-01T09:39:48Z"
 ---
 ## What it is
 MCP server `Geolocation AI`, catalogued on PulseMCP. Tools for geolocation queries, address lookups, and geographic data processing.

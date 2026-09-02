@@ -8,11 +8,13 @@ source_url: https://github.com/cuilinhao/youtube-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-13T14:52:17Z"
 ---
 ## What it is
 A read-only MCP server for discovering YouTube outliers, analyzing viral Shorts, and evaluating single-video performance using stored snapshots.

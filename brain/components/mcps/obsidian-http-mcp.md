@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 6
+pushed_at: "2025-11-19T23:40:59Z"
 ---
 ## What it is
 First HTTP-native MCP server for Obsidian that solves stdio transport bugs, enabling AI assistants to manage Obsidian notes without crashes.

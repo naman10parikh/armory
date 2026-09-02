@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T16:03:10Z"
 ---
 ## What it is
 An MCP server for local video editing powered by ffmpeg, letting Claude inspect, trim, convert, concatenate, and enhance videos with a wide range of tools. Works with Claude Cowork, Desktop, and Code on Windows, macOS, and Linux.

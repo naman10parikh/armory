@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T02:26:17Z"
 ---
 ## What it is
 MCP server that wraps the Tableau REST API and VizQL Data Service to expose tools for listing workbooks/datasources and querying datasources, enabling LLM agents to interact with Tableau Server/Cloud through natural language.

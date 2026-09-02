@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-18T06:49:20Z"
 ---
 ## What it is
 Demonstrates integrating Azure AI agents with MCP tools for inventory management and remote documentation queries.

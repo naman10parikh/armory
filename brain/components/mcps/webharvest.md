@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T06:04:09Z"
 ---
 ## What it is
 Enables web search and scraping through MCP, running locally with courtesy rate limiting and caching.

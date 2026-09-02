@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-25T22:51:40Z"
 ---
 ## What it is
 Enables AI assistants to coordinate with teammates and agents via Clink, supporting group management, clinks, milestones, projects, and voting.

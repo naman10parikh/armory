@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T08:45:22Z"
 ---
 ## What it is
 An MCP server that searches Xiaohongshu (Little Red Book) for top-liked image-text notes, extracting structured data such as title, content, author, links, and images. It can be used as an MCP tool or CLI for AI workflows.

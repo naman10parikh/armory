@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 7
+pushed_at: "2026-07-12T03:57:28Z"
 ---
 ## What it is
 DeFi execution layer for AI agents - swap, zap in/out of LP, route across AMMs on 5 EVM chains.

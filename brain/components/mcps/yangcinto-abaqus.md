@@ -8,10 +8,12 @@ source_url: https://github.com/yangcinto/abaqus-mcp-opencode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-04-28T11:43:35Z"
 ---
 ## What it is
 MCP server `Abaqus`, catalogued on PulseMCP. Automates Abaqus FEA simulations by generating Python scripts, submitting jobs, and extracting ODB results through natural language.

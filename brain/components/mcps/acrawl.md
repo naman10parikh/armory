@@ -8,11 +8,13 @@ source_url: https://github.com/Mingye-Lu/AgenticCrawler
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-31T07:59:31Z"
 ---
 ## What it is
 Autonomous LLM-powered web crawler with 17 browser tools and goal-driven agent. Single Rust binary with stealth browsing, provider-agnostic LLM support, and built-in MCP server.

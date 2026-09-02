@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-08T02:08:38Z"
 ---
 ## What it is
 MCP server for web search via Perplexity Sonar Pro through OpenRouter API, enabling customizable search queries with different models.

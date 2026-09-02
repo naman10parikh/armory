@@ -8,10 +8,12 @@ source_url: https://github.com/shenghaiwang/androidbuild
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-07-29T02:06:14Z"
 ---
 ## What it is
 MCP server `Android Build`, catalogued on PulseMCP. Streamlines Android project development by providing automated tools for building, testing, and running instrumented tests through Visual Studio Code extensions, enabling seamless interaction and error reporting.

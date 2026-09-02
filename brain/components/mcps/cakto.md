@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:43:09Z"
 ---
 ## What it is
 Enables natural language, read-only access to your Cakto payment gateway data, including orders, revenue analytics, subscriptions, churn, customers, and products.

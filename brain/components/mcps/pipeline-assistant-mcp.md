@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-28T21:36:00Z"
 ---
 ## What it is
 An MCP server that automates CI/CD pipeline creation, analysis, and security enforcement. It generates production-ready pipelines from templates and enforces DevSecOps best practices.

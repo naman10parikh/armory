@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-06T02:33:24Z"
 ---
 ## What it is
 Enables AI assistants to create, read, search, and update notes on Tilnote, plus manage books.

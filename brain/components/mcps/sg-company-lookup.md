@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T08:06:49Z"
 ---
 ## What it is
 Enables lookup of Singapore companies by UEN or name using ACRA's free open data from data.gov.sg, with tools for UEN validation, exact lookup, and free-text search.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-18T01:29:58Z"
 ---
 ## What it is
 A starter kit for creating a read-only MCP server that lets AI assistants access business information, calculate prices, answer FAQs, and check availability.

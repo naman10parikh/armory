@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T06:55:22Z"
 ---
 ## What it is
 Deterministic verification for AI-generated analysis. Reconciliation, consistency and Excel-integrity checks that stop the line when the numbers don't add up.

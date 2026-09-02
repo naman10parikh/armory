@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-08T14:05:31Z"
 ---
 ## What it is
 An MCP server that enables AI agents to interact with OpenSearch, including searching indices, managing documents, creating and deleting indexes, checking cluster health, and monitoring statistics.

@@ -8,10 +8,12 @@ source_url: https://github.com/ragingwind/web-llm-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-06-14T13:32:36Z"
 ---
 ## What it is
 MCP server `Web-LLM Playwright`, catalogued on PulseMCP. Provides browser-based local LLM inference by running Web-LLM models entirely in a headless Chromium browser without external API dependencies, supporting multiple quantized models with dynamic switching and screenshot debugging for privacy-sensitive offline workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 8
+pushed_at: "2025-06-22T08:58:25Z"
 ---
 ## What it is
 Enables AI agents to create, manipulate, and manage BPMN 2.0 diagrams programmatically, with support for Mermaid conversion, auto-layout, and file persistence.

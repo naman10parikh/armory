@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-25T09:58:43Z"
 ---
 ## What it is
 Enables automated QA testing by running a pipeline of AI agents that generate test scenarios, architect test layers, write Playwright tests, and review code, all grounded in feature requirements and API contracts.

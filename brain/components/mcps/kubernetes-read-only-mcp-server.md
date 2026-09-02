@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-09T07:32:54Z"
 ---
 ## What it is
 Enables safe, read-only interaction with Kubernetes clusters, allowing users to list resources and fetch logs without any create/update/delete operations.

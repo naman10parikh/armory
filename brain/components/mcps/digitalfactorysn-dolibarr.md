@@ -8,10 +8,12 @@ source_url: https://github.com/digitalfactorysn/mcp-dolibarr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 10
+pushed_at: "2026-08-06T06:19:08Z"
 ---
 ## What it is
 MCP server `Dolibarr`, catalogued on PulseMCP. Connects to Dolibarr ERP/CRM with 55+ tools for invoicing, accounting, CRM, project management, inventory, quotes, and financial reporting.

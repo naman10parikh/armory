@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-05T14:27:48Z"
 ---
 ## What it is
 Integrates GitHub Copilot Agent with Azure DevOps to fetch, analyze, and report bug data, allowing you to query bugs, generate dashboards, and export reports via natural language.

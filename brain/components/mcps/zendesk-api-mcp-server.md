@@ -8,11 +8,13 @@ source_url: https://github.com/mattcoatsworth/zendesk-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 37
+pushed_at: "2025-04-04T14:34:08Z"
 ---
 ## What it is
 A comprehensive MCP server for managing Zendesk Support, Talk, Chat, and Guide products, providing tools for tickets, users, organizations, search, and more.

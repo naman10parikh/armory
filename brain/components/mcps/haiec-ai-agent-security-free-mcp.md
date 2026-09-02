@@ -8,11 +8,13 @@ source_url: https://github.com/subodhkc/haiec-ai-agent-security-free-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-21T05:19:48Z"
 ---
 ## What it is
 Offers a control surface for AI agent security with four independent checks: source-code scanning, tenant isolation, LLM content verification, and deploy gating. Currently in pre-release, with no functional scanning engines yet.

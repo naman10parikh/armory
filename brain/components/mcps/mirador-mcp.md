@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-29T07:18:54Z"
 ---
 ## What it is
 Thin MCP adapter for Mirador Core that exposes data tools through the Core Internal API, enabling business data queries and schema exploration.

@@ -8,10 +8,12 @@ source_url: https://github.com/arthurpanhku/dragonmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 6
+pushed_at: "2026-08-12T02:40:33Z"
 ---
 ## What it is
 MCP server `DragonMCP`, catalogued on PulseMCP. Bridges AI agents with Chinese and Hong Kong local services including MTR real-time schedules, Amap navigation, WeChat Pay, Alipay, Didi, and e-commerce platforms.

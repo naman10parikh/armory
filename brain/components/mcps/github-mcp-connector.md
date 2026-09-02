@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T12:39:38Z"
 ---
 ## What it is
 Enables browsing GitHub profile, repositories, issues, and pull requests directly in Claude conversation through OAuth authentication.

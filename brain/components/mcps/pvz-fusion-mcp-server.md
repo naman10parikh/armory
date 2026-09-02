@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-28T14:41:34Z"
 ---
 ## What it is
 Enables AI clients to access PVZ Fusion game rules, FAQ, and official links through the MCP protocol.

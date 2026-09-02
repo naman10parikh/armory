@@ -8,10 +8,12 @@ source_url: https://github.com/sheshiyer/framer-plugin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 16
+pushed_at: "2025-03-21T09:40:19Z"
 ---
 ## What it is
 MCP server `Web3 Framer Plugin`, catalogued on PulseMCP. Integrates web3 capabilities into Framer plugins, enabling blockchain functionality like wallet connections and NFT displays in interactive prototypes and UI components.

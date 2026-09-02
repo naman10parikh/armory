@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-08-25T01:38:13Z"
 ---
 ## What it is
 A production-ready MCP bridge server connecting Claude Chat to any GitHub repository for file operations, issue management, and code search via OAuth 2.0 authenticated Streamable HTTP transport.

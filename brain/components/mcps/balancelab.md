@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T02:17:16Z"
 ---
 ## What it is
 Runaway loop detector for AI token economies — monitors token usage and cost ratios to catch runaway agent loops early.

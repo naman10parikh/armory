@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-26T17:44:59Z"
 ---
 ## What it is
 MCP server `Tarot`, catalogued on PulseMCP. Tarot card data via the tarotapi.dev API — draw cards, get card meanings, and perform readings.

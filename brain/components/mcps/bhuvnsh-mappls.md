@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-20T16:38:21Z"
 ---
 ## What it is
 MCP server `Mappls Maps`, catalogued on PulseMCP. Location services and geospatial data for India - geocoding, routing, place search, and directions powered by the Mappls API.

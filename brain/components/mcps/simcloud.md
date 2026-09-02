@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T21:48:43Z"
 ---
 ## What it is
 SIMcloud is a hosted South African MCP server for wallet balance checks, network lookups, SMS sending, airtime recharges, data bundle purchases, and prepaid electricity orders. It connects over Streamable HTTP and uses each user's own SIMcloud account via OAuth.

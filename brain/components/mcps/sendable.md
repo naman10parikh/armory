@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-21T19:21:55Z"
 ---
 ## What it is
 Describe an app event — order_shipped, payment_failed — and Sendable writes the transactional email and sends it. Your data values are inserted verbatim, never rewritten.

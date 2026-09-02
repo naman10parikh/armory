@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-07T21:51:13Z"
 ---
 ## What it is
 MCP server `AgentDrop`, catalogued on PulseMCP. AI agent deployment and management tool for streamlined agent publishing workflows.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-09T11:35:49Z"
 ---
 ## What it is
 Provides semantic search and tiered loading (L0/L1/L2) to access OpenViking context DB from Claude Code, saving tokens by loading only the needed detail.

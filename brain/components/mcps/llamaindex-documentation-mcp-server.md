@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-10T23:02:34Z"
 ---
 ## What it is
 Enables searching and fetching LlamaIndex documentation for integration with VS Code Copilot and other MCP clients.

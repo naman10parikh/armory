@@ -11,7 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 23
+stars: 24
+forks: 10
+pushed_at: "2026-03-22T07:20:15Z"
 ---
 ## What it is
 An MCP server for interacting with [Bugsnag](https://www.bugsnag.com/)

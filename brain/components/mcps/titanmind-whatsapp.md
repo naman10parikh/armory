@@ -12,6 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 9
+pushed_at: "2025-07-16T14:28:56Z"
 ---
 ## What it is
 MCP server `TitanMind WhatsApp`, catalogued on PulseMCP. Integrates with TitanMind's WhatsApp platform to handle both free-form messaging within 24-hour windows and template-based campaigns, managing conversation flows, bulk messaging, and message history for business marketing and customer support operations.

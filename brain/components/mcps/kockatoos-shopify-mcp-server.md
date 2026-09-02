@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-10T06:31:21Z"
 ---
 ## What it is
 An MCP server providing AI agents with full access to the Shopify Admin API via 136 tools for managing products, orders, customers, collections, and more.

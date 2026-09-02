@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-26T01:49:45Z"
 ---
 ## What it is
 MCP server to ask research questions about real-world datasets and get actual database records back, with auto-registration and trial credit.

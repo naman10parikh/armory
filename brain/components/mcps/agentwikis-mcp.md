@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-06-14T05:34:06Z"
 ---
 ## What it is
 Provides read-only access to curated, agent-readable knowledge bases from Agent Wikis, with tools for listing, searching, and reading documents, including a confidence flag for reliable information retrieval.

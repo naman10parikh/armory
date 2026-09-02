@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-01T22:03:36Z"
 ---
 ## What it is
 Enables LLMs to access and analyze biometric and training data via MCP, supporting queries on sleep, performance, nutrition, and training load to generate adaptive training insights.

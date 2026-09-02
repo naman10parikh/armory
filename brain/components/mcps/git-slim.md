@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-01-20T02:40:31Z"
 ---
 ## What it is
 A token-optimized Git MCP server that reduces context window tokens by 59% while preserving full functionality, enabling AI assistants to interact with Git repositories using only 5 grouped tool operations.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-18T15:29:28Z"
 ---
 ## What it is
 Delivers real-time crypto market microstructure, derivatives, order flow CVD/OI regime classification, fear & greed sentiment, and whale tracking context, enabling traders to assess market regimes and complement charting tools.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-11T10:22:42Z"
 ---
 ## What it is
 Enables AI clients to control Divoom LAN devices, including watchface management, brightness adjustment, and screen control through natural language.

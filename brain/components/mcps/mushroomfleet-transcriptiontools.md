@@ -8,10 +8,12 @@ source_url: https://github.com/mushroomfleet/transcriptiontools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 8
+pushed_at: "2026-04-07T16:36:47Z"
 ---
 ## What it is
 MCP server `Transcription Tools`, catalogued on PulseMCP. Processes and enhances transcribed text through error correction, natural formatting of timestamped content, and intelligent summarization using ACE cognitive methodology

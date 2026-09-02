@@ -12,6 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-07-20T13:37:59Z"
 ---
 ## What it is
 MCP server `DigitalOcean`, catalogued on PulseMCP. Integrates with DigitalOcean cloud infrastructure using OAuth2 authentication to provide complete CRUD operations for droplets, volumes, snapshots, images, floating IPs, load balancers, Kubernetes clusters, and container registries across 37 specialized tools for DevOps teams and system administrators.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-02-03T18:44:17Z"
 ---
 ## What it is
 Pay-per-call MCP server for SMARD day-ahead electricity prices (DE-LU, 15-minute resolution) on Base mainnet via x402.

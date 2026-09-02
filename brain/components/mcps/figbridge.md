@@ -8,11 +8,13 @@ source_url: https://github.com/rudraptpsingh/figbridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-10T10:52:48Z"
 ---
 ## What it is
 Bridges Figma and code for AI agents, enabling reading design data, importing live URLs into Figma, auditing designs, and generating source patches via 48 MCP tools.

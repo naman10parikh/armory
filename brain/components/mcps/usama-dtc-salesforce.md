@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2025-03-24T21:20:54Z"
 ---
 ## What it is
 MCP server `Salesforce`, catalogued on PulseMCP. Integrates with Salesforce to enable querying records, managing custom objects/fields, executing DML operations, and handling complex SOSL searches using TypeScript and JSForce

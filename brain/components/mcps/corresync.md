@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T05:20:28Z"
 ---
 ## What it is
 A local MCP server that unifies email and calendar management across multiple providers, enabling AI agents to search, read, and write with explicit approval and local-first security.

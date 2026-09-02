@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-04-15T16:13:25Z"
 ---
 ## What it is
 MCP server that provides AI assistants with structured access to codebases via LogicStamp Context, enabling component analysis, dependency graphs, drift detection, and token-optimized context delivery.

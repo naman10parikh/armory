@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-14T14:04:27Z"
 ---
 ## What it is
 Helps UGC creators interpret brand briefs, generate shot lists and deliverables, and identify red flags before production.

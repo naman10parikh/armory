@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-01T03:06:42Z"
 ---
 ## What it is
 Exposes four CMS public datasets as callable tools in Claude conversations, enabling natural-language real-world evidence analytics without SQL expertise.

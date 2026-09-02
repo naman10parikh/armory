@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-26T18:35:26Z"
 ---
 ## What it is
 Enables AI agents to automate the full affiliate e-commerce workflow across Shopee and TikTok Shop, including product hunting, seller auditing, review mining, and generating video storyboards and VideoFactory projects. It provides nine MCP tools for search, intelligence extraction, database queries,

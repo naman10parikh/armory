@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-06T21:21:13Z"
 ---
 ## What it is
 MCP server `LightSync Pro`, catalogued on PulseMCP. Sync Lightroom, Figma, Dropbox, and Canva assets to WordPress and Shopify.

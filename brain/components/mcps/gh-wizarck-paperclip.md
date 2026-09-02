@@ -8,10 +8,12 @@ source_url: https://github.com/wizarck/paperclip-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 13
+pushed_at: "2026-04-20T14:20:54Z"
 ---
 ## What it is
 MCP server `Paperclip`, catalogued on PulseMCP. Manage Paperclip AI agent orchestration platform resources — issues, agents, goals, approvals, and costs — through natural language.

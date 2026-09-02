@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-14T04:42:58Z"
 ---
 ## What it is
 MCP server for the AgentPump agent economy, enabling live market data reads and autonomous agent operations on Solana.

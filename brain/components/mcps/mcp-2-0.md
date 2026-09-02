@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-27T07:42:43Z"
 ---
 ## What it is
 Demonstrates stateful application patterns on the stateless MCP 2026-07-28 protocol, enabling request-scoped state, multi round-trip confirmations, and streaming progress updates across independent tool calls.

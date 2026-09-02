@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-15T21:55:27Z"
 ---
 ## What it is
 Enables MCP clients to access live football data from FotMob, including match stats, team form, injuries, and player workload, without making predictions.

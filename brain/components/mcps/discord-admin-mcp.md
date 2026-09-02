@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T07:01:53Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to manage Discord servers, including roles, channels, members, messages, and moderation, via natural language commands.

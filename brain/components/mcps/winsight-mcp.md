@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T20:14:53Z"
 ---
 ## What it is
 Windows Screen Capture MCP Server — give Claude Code eyes on your Windows desktop.

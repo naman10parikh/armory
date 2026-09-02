@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T03:47:47Z"
 ---
 ## What it is
 Gives any MCP client (OpenCode, Claude Code, Claude Desktop, Cursor, etc.) the ability to process images by automatically converting them to text descriptions using a vision model, so that text-only LLMs can handle image-based queries.

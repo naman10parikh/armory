@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T07:09:02Z"
 ---
 ## What it is
 Local-first browser automation for LibreWolf, enabling controlled profile browsing with status, navigation, screenshots, console/network inspection, and more through MCP.

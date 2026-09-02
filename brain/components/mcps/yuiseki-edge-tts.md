@@ -8,10 +8,12 @@ source_url: https://github.com/yuiseki/edge_tts_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 3
+pushed_at: "2025-04-22T00:05:26Z"
 ---
 ## What it is
 MCP server `Edge Text-to-Speech`, catalogued on PulseMCP. Provides a bridge to Microsoft's Edge Text-to-Speech service for converting text into natural-sounding speech across multiple languages with customizable parameters, returning audio in MP3 format.

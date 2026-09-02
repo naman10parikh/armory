@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T21:01:10Z"
 ---
 ## What it is
 Agent-native vAMM DEX enabling swaps across USDC, USDCx, USAD, and ALEO with real Base L2 settlement and ZK-private routing.

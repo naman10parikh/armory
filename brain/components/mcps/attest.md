@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-06T22:20:45Z"
 ---
 ## What it is
 MCP server `Attest`, catalogued on PulseMCP. Enforce scoped credential tokens on every MCP tool call with cryptographic JWT verification.

@@ -12,6 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2026-08-05T16:50:30Z"
 ---
 ## What it is
 MCP server `ConsoleSpy`, catalogued on PulseMCP. Captures browser console logs and makes them available in an IDE through a server, browser extension, and web interface for seamless integration into development workflows.

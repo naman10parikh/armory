@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-31T16:52:16Z"
 ---
 ## What it is
 Enables a coding agent to operate an Elektron Analog Rytm MKII through semantic MCP tools, with validation-first safety, snapshots, and rollback for persistent changes.

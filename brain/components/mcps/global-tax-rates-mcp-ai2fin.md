@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-03T08:06:42Z"
 ---
 ## What it is
 AI2Fin's free Tax MCP server connects any assistant or agent — Claude, ChatGPT, Cursor, custom builds — to live tax data: GST and VAT rates, income tax, company tax and capital gains across all the countries. Every answer cites the national tax authority with a verified date. No login, no API key, n

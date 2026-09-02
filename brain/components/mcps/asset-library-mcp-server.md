@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T16:45:23Z"
 ---
 ## What it is
 Enables users to search and retrieve research datasets via natural language queries, with tools for proposing and committing tag changes. Includes robust authorization, idempotent mutations, and an audit trail.

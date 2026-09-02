@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-19T18:45:52Z"
 ---
 ## What it is
 Schema-aware, read-only access to European climate data from the EEA Discodata service, supporting GHG inventory and policies and measures databases.

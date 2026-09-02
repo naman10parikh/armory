@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T07:38:12Z"
 ---
 ## What it is
 Enables AI tools to manage Renesas e2studio projects, including building, flashing, and debugging embedded code through MCP tools and resources.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-11-03T06:57:18Z"
 ---
 ## What it is
 MCP server that enables searching books by author via Open Library API and searching keywords inside local text files.

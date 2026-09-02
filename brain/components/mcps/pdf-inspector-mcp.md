@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-02T12:50:50Z"
 ---
 ## What it is
 Enables AI agents to process and inspect PDFs by detecting document type, extracting text, and generating Markdown with layout information.

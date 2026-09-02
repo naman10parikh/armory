@@ -12,6 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2025-04-10T13:18:25Z"
 ---
 ## What it is
 MCP server `Solana Blockchain Explorer`, catalogued on PulseMCP. Provides real-time Solana blockchain data access for checking SOL price in USD and retrieving wallet balances from addresses on the Solana mainnet.

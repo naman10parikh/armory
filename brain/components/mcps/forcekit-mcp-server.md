@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-16T05:15:24Z"
 ---
 ## What it is
 Exposes Salesforce development tools (scan, lint, test, deploy, verify) to AI assistants via the Model Context Protocol, enabling programmatic interaction with Salesforce projects.

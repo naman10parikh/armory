@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T14:57:32Z"
 ---
 ## What it is
 Enables AI assistants to search, read, and explore thousands of public datasets from Chile's open government data portal (datos.gob.cl) without requiring an API key.

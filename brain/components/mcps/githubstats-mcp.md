@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-30T09:07:43Z"
 ---
 ## What it is
 A lightweight MCP server that enables fetching public GitHub user profiles, repository stats, recent events, and pull request insights through simple tool calls.

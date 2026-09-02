@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-10-16T06:24:49Z"
 ---
 ## What it is
 An MCP server that provides access to WooCommerce REST API functionality, enabling product, order, customer, and coupon management.

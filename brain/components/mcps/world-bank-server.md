@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 31
+pushed_at: "2026-02-10T12:04:28Z"
 ---
 ## What it is
 Exposes World Bank development data to AI agents via local CSV resources and live API tools, enabling queries about GDP, population, and other indicators.

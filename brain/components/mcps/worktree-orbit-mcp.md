@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-09T01:46:18Z"
 ---
 ## What it is
 Provides read-only inspection of Git worktree topology, reporting aggregate counts and statuses (clean, dirty, detached, locked, prunable). Ensures safety by limiting commands to a configured root and never exposing paths or content.

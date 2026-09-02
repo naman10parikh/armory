@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-05T14:49:11Z"
 ---
 ## What it is
 Provides read-only access to Proton Mail via MCP, enabling AI agents to list accounts/folders, search messages, and read emails using Proton Mail Bridge's local IMAP server.

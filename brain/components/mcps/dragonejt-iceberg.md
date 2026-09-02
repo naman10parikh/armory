@@ -12,6 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-18T21:24:01Z"
 ---
 ## What it is
 MCP server `Apache Iceberg`, catalogued on PulseMCP. Read, query, and manipulate data within Apache Iceberg catalogs.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-17T13:08:29Z"
 ---
 ## What it is
 Searches Serbian job boards (poslovi.infostud.com and helloworld.rs) from Claude or any MCP client, no API keys required.

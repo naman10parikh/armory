@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-02T06:10:50Z"
 ---
 ## What it is
 Enables AI coding agents to retrieve and manage code context with hybrid search, project memory, and observability via MCP tools.

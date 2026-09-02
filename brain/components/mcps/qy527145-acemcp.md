@@ -8,10 +8,12 @@ source_url: https://github.com/qy527145/acemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 803
+stars: 806
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 112
+pushed_at: "2025-12-18T04:31:16Z"
 ---
 ## What it is
 MCP server `Acemcp`, catalogued on PulseMCP. Indexes codebases with automatic incremental updates and provides semantic search to find relevant code snippets with file paths and line numbers.

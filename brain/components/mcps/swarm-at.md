@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-03-03T19:10:01Z"
 ---
 ## What it is
 Enables agent settlement, trust verification, and ledger operations for multi-agent workflows, with tools for blueprint management, credit tracking, and provenance recording.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-30T19:50:23Z"
 ---
 ## What it is
 Provides read-only consultation of legal proceedings from the Brazilian TRT8 labor court through an official source, enabling users to inquire about process details using natural language with any MCP-compatible client.

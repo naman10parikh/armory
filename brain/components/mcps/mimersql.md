@@ -12,6 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-24T09:51:05Z"
 ---
 ## What it is
 MCP server `Mimer SQL`, catalogued on PulseMCP. Database connectivity and management for Mimer SQL databases.

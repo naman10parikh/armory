@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-15T20:40:20Z"
 ---
 ## What it is
 An MCP server that gives LLM agents access to computational protein design tools.

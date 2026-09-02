@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-07T17:21:48Z"
 ---
 ## What it is
 An MCP server for autonomous Kubernetes troubleshooting and remediation. It enables continuous cluster monitoring, local AI-powered diagnosis via Ollama, and automated kubectl-based fixes.

@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-02-26T18:20:02Z"
 ---
 ## What it is
 MCP server `mcpenum`, catalogued on PulseMCP. Command-line tool that enumerates all prompts, resources, and tools exposed by any MCP server for security testing and API discovery.

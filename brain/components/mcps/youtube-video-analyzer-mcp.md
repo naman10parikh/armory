@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-21T20:25:48Z"
 ---
 ## What it is
 Analyzes public YouTube videos with Google Gemini, enabling summarization, timestamped insights, metadata extraction, audio analysis, and long-video sessions with follow-up questions.

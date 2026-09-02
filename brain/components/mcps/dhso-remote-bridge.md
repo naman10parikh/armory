@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 1
+pushed_at: "2025-05-06T08:01:08Z"
 ---
 ## What it is
 MCP server `Remote Bridge`, catalogued on PulseMCP. Containerized HTTP bridge for accessing MCP functionality remotely, enabling distributed deployment without requiring direct library integration in client applications.

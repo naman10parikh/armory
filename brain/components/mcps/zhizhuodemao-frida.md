@@ -8,10 +8,12 @@ source_url: https://github.com/zhizhuodemao/frida-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 91
+stars: 114
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 31
+pushed_at: "2025-11-04T12:48:49Z"
 ---
 ## What it is
 MCP server `Frida`, catalogued on PulseMCP. Integrates with Frida's dynamic instrumentation framework to enable runtime manipulation of Android applications through device management, process control, and application spawning for mobile security research and reverse engineering workflows.

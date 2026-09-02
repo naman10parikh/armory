@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-04T10:02:06Z"
 ---
 ## What it is
 MCP server providing a model-agnostic subagent tool backed by OpenRouter, supporting multi-model Fusion and orchestration patterns.

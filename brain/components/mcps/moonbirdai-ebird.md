@@ -8,10 +8,12 @@ source_url: https://github.com/moonbirdai/ebird-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 4
+pushed_at: "2025-05-02T19:53:46Z"
 ---
 ## What it is
 MCP server `eBird`, catalogued on PulseMCP. Integrates with the eBird API to provide real-time bird observation data, including recent sightings, notable observations, hotspots, and taxonomy information by region or geographic coordinates.

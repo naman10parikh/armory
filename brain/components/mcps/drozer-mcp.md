@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T07:08:54Z"
 ---
 ## What it is
 MCP server wrapping Drozer for LLM-driven Android IPC security testing, enabling autonomous enumeration and exploitation of app components via natural language.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-30T04:32:37Z"
 ---
 ## What it is
 Exposes RAG and document intelligence pipelines as 8 composable tools for MCP-compatible clients, enabling querying, indexing, classifying, extracting, and assessing documents.

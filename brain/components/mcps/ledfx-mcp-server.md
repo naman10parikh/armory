@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2026-06-26T20:24:17Z"
 ---
 ## What it is
 Enables AI assistants to control a local LedFX instance through natural language, allowing management of LED devices, virtuals, effects, scenes, palettes, and playlists.

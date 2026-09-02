@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-16T22:09:07Z"
 ---
 ## What it is
 MCP server that lets AI agents fully manage Minehut Minecraft servers via Playwright browser automation and REST API tools, including server control, console commands, logs, and UI interactions.

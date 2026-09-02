@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-29T02:45:32Z"
 ---
 ## What it is
 Template-driven PowerPoint design MCP server for Windows, enabling slide creation and manipulation via COM automation.

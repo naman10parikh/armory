@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-10T03:07:39Z"
 ---
 ## What it is
 Semantic search engine for MCP tools that indexes thousands of tool schemas and returns only the relevant ones to AI agents, reducing token usage and improving tool discovery.

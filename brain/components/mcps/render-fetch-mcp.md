@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T13:16:51Z"
 ---
 ## What it is
 MCP server that retrieves bot-unfriendly page content as Markdown and screenshots as vision-ready image tiles, escalating through increasingly sophisticated extraction tiers (plain HTTP, trafilatura, TLS impersonation, headless Chromium) only as needed.

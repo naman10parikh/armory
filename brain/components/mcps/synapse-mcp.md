@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-21T20:23:39Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that enables AI agent access to Synapse entities such as Datasets, Projects, Folders, Files, Tables, and more.

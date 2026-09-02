@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-04-09T20:51:01Z"
 ---
 ## What it is
 MCP server `DingDawg Finance`, catalogued on PulseMCP. Financial analysis AI for forecasting, audit prep, and SOX/GAAP compliance.

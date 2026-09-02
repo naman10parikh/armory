@@ -8,11 +8,13 @@ source_url: https://github.com/danveil/mcp-security-inspector
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T16:50:53Z"
 ---
 ## What it is
 Performs explainable, deterministic static analysis of MCP tool metadata to detect misleading instructions, concealed capabilities, and schema drift without executing tools.

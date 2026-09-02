@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-05-10T16:37:47Z"
 ---
 ## What it is
 A Model Context Protocol server that provides real-world intelligence including macroeconomics, climate, disasters, aviation, trade, and country data from globally trusted open APIs with no proprietary subscriptions required.

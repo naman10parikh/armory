@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-04-05T07:00:28Z"
 ---
 ## What it is
 MCP server for stock prices, historical data, FX rates, and ticker search, powered by yfinance with no API key required. Designed for Claude Desktop.

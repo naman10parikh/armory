@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-15T23:13:04Z"
 ---
 ## What it is
 Local-first memory daemon for AI coding agents that captures session transcripts, distills typed memories (decisions, facts, lessons, commands, todos), and serves them via hybrid search through MCP tools.

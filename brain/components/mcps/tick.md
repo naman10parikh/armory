@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 2
+pushed_at: "2026-07-13T18:58:51Z"
 ---
 ## What it is
 A time MCP server that provides real current time and recency checks to prevent AI temporal hallucinations.

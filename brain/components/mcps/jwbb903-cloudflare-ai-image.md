@@ -12,6 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 2
+pushed_at: "2026-03-14T12:43:44Z"
 ---
 ## What it is
 MCP server `Cloudflare AI Image`, catalogued on PulseMCP. Generate images using Cloudflare Workers AI models deployed on edge infrastructure.

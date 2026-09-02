@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-19T16:16:22Z"
 ---
 ## What it is
 MCP server wrapping Roshan AI's Fahm Persian language service, enabling chat, translation, summarization, and more for Persian text.

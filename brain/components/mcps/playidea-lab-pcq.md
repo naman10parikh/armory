@@ -12,6 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
 stars: 1
+forks: 0
+pushed_at: "2026-05-29T00:10:12Z"
 ---
 ## What it is
 Agent-operable ML experiment contract (cq.yaml + JSON contracts) with a built-in MCP server exposing 14 tools (resolve/inspect/run/validate/describe/compare/lineage) for running, validating, and tracing experiments across any framework (PyTorch / HF Trainer / Lightning / sklearn / XGBoost). Apache-2.0.

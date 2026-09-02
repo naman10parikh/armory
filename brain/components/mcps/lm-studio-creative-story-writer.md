@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T07:04:04Z"
 ---
 ## What it is
 An MCP server that turns local LM Studio models into imaginative storytellers, automatically generating and saving creative stories as text files.

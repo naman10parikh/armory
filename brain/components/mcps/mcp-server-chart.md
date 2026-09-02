@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-07-12T10:05:15Z"
 ---
 ## What it is
 A monorepo hosting multiple MCP servers, including a TypeScript chart server that generates AntV visualization specs, a Python chart sibling, and an AWS ECS MCP server for container management.

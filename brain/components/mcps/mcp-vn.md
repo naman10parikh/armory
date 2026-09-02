@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T05:30:54Z"
 ---
 ## What it is
 Local MCP server offering an introduction tool and image generation from prompts using Azure OpenAI (gpt-image-2).

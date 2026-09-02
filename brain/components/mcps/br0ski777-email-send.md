@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-08-06T19:33:05Z"
 ---
 ## What it is
 MCP server `Email Sender`, catalogued on PulseMCP. Sends emails programmatically via Resend, supporting plain text and HTML formats.

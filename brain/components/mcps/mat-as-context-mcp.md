@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-28T23:17:41Z"
 ---
 ## What it is
 A thin, local, read-only MCP gateway that exposes governed context documents and producer manifests as logical resources, enabling AI clients to access them without arbitrary filesystem access.

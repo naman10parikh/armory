@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-12T20:34:09Z"
 ---
 ## What it is
 Checks npm and PyPI packages for outdated versions, deprecation status, and breaking changes with cited sources, enabling AI agents to verify dependency freshness.

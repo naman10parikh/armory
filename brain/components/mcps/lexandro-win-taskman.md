@@ -12,6 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-06-12T06:33:05Z"
 ---
 ## What it is
 MCP server `Windows Task Manager`, catalogued on PulseMCP. Provides Windows process listing, killing, and TCP port lookup through native Win32 APIs for AI-assisted system administration.

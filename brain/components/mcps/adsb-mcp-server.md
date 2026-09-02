@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-11-16T14:54:41Z"
 ---
 ## What it is
 Exposes real-time ADS-B aircraft data from a feeder, enabling natural language queries for aircraft positions, receiver statistics, and flight searches.

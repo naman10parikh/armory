@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-06T10:09:44Z"
 ---
 ## What it is
 Feishu Access Bridge enables reading Feishu (Lark) Wiki pages, documents, spreadsheets, and multi-dimensional tables. It supports user OAuth, enterprise app, or browser session access modes via CLI and MCP tools.

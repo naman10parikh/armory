@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-05-02T19:25:06Z"
 ---
 ## What it is
 MCP server `DesignPin`, catalogued on PulseMCP. MCP server for pushing HTML prototypes to DesignPin for team review and reading back reviewer feedback.

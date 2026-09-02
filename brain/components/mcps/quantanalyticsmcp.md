@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-13T05:59:00Z"
 ---
 ## What it is
 Provides quantitative analytics and statistical inference for financial data, including Monte Carlo DCF valuation, risk metrics, and trend regression diagnostics, enabling natural language-driven financial analysis via Claude Desktop.

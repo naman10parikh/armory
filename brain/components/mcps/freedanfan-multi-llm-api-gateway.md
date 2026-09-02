@@ -12,6 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 5
+pushed_at: "2025-05-02T00:24:21Z"
 ---
 ## What it is
 MCP server `Multi-LLM API Gateway`, catalogued on PulseMCP. Provides a unified FastAPI server for interacting with multiple language model APIs, enabling seamless switching between OpenAI and Anthropic models without changing integration code.

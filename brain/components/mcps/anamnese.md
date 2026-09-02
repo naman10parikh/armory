@@ -12,6 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-03-12T10:53:25Z"
 ---
 ## What it is
 MCP server `Anamnese`, catalogued on PulseMCP. Personal memory and productivity layer for AI assistants with cloud-synced facts, tasks, goals, and notes.

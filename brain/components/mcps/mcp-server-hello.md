@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2025-09-09T10:04:55Z"
 ---
 ## What it is
 MCP server providing tools for addition, current time, config index updates, a random joke resource, and a friendly greeting prompt.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 1
+pushed_at: "2025-07-08T18:31:15Z"
 ---
 ## What it is
 Enables AI assistants to query, search, and analyze LinkedIn profiles from the Headstarter network for recruiting, networking, and community building.
